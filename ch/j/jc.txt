@@ -107,7 +107,6 @@ jcb-tools.ch
 jcb.ch
 jcba.ch
 jcbaeriswyl.ch
-jcbau.ch
 jcbb.ch
 jcbconseil.ch
 jcbdistribution.ch
@@ -135,6 +134,7 @@ jcchatelain.ch
 jcchevalier.ch
 jccm.ch
 jccoin.ch
+jccommunication.ch
 jcconsult.ch
 jcconsulting.ch
 jccornu.ch
@@ -395,7 +395,6 @@ jconcept.ch
 jconnolly.ch
 jcons.ch
 jconseils.ch
-jconstantin.ch
 jconsulting.ch
 jconus.ch
 jcosmetic.ch

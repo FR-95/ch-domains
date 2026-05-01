@@ -89,6 +89,7 @@ fnbuergin.ch
 fnc-group.ch
 fnc.ch
 fncapitalag.ch
+fncg.ch
 fnch.ch
 fnci.ch
 fncid.ch
@@ -115,7 +116,6 @@ fnerds.ch
 fnet-lab.ch
 fnet.ch
 fnetcore.ch
-fnetwork.ch
 fnews.ch
 fnf.ch
 fnfacilityservices.ch

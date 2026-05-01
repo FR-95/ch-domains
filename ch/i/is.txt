@@ -1,4 +1,3 @@
-is-a-bit.ch
 is-aargau.ch
 is-academia.ch
 is-admin.ch
@@ -680,7 +679,6 @@ isacar-loisirs.ch
 isacasa.ch
 isacco.ch
 isachenko.ch
-isacn.ch
 isacoaching.ch
 isacon.ch
 isacosmetics.ch
@@ -710,6 +708,7 @@ isaenko.ch
 isaetnico.ch
 isaf-2024.ch
 isaf2023.ch
+isaf2024.ch
 isaf2025.ch
 isaf2026.ch
 isaf2027.ch
@@ -781,7 +780,6 @@ isalabim.ch
 isalaya.ch
 isale.ch
 isalegtauf.ch
-isalen.ch
 isalena.ch
 isalerio.ch
 isales-media.ch
@@ -2057,7 +2055,6 @@ islaender-roetifels.ch
 islaendermeeting.ch
 islaendis.ch
 islaendisch.ch
-islafuerte.ch
 islam-albakultur.ch
 islam-alijaj.ch
 islam-aumonerie.ch
@@ -2303,6 +2300,7 @@ islerpedrazzini.ch
 islerpunkt.ch
 islerris.ch
 islers.ch
+islerspenglerei.ch
 islertec.ch
 islertomasi.ch
 islertools.ch
@@ -2868,6 +2866,7 @@ isolare-non-solo-pitturare.ch
 isolare-ora.ch
 isolare.ch
 isolareora.ch
+isolastreetfood.ch
 isolat.ch
 isolate.ch
 isolated.ch
@@ -3004,7 +3003,6 @@ isoliertechnik.ch
 isoliertrafo.ch
 isolierung.ch
 isolierung24.ch
-isolierungen.ch
 isolierungensteib.ch
 isolierungsmanschette.ch
 isolierverpackungen.ch
@@ -3590,7 +3588,6 @@ iss-doc.ch
 iss-docservices.ch
 iss-es.ch
 iss-event-de.ch
-iss-event-fr.ch
 iss-event-it.ch
 iss-event.ch
 iss-facility-management.ch
@@ -3607,7 +3604,6 @@ iss-gesund.ch
 iss-incident.ch
 iss-info.ch
 iss-infrastructure-management.ch
-iss-infrastructure.ch
 iss-infrastructureservice.ch
 iss-infrastructureservices.ch
 iss-internationalsales.ch
@@ -3728,7 +3724,6 @@ issimo-center.ch
 issimo.ch
 issincident.ch
 issinfo.ch
-issinfrastructure.ch
 issinfrastructuremanagement.ch
 issintra.ch
 ission.ch

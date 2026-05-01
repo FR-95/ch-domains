@@ -146,6 +146,7 @@ headchef.ch
 headcinema.ch
 headcinemafestival.ch
 headcleaners.ch
+headcoach.ch
 headcoaching.ch
 headconcept.ch
 headcount.ch
@@ -362,7 +363,6 @@ headsup.ch
 headsurfer.ch
 headswap.ch
 headszurich.ch
-headteam.ch
 headtitudes.ch
 headtofit.ch
 headtohead.ch
@@ -573,7 +573,6 @@ healingplanner.ch
 healingpoetry.ch
 healingpoint.ch
 healingpraxislucie.ch
-healingroom.ch
 healingroomarbon.ch
 healingrooms.ch
 healings.ch
@@ -1197,6 +1196,7 @@ healthict.ch
 healthid.ch
 healthie.ch
 healthier.ch
+healthierdogshappylives.ch
 healthiertomorrow.ch
 healthies.ch
 healthimfocus.ch
@@ -1307,7 +1307,6 @@ healthnas.ch
 healthneeds.ch
 healthness-kommunikation.ch
 healthness-marketing.ch
-healthness.ch
 healthnet.ch
 healthnetwork.ch
 healthnexus.ch
@@ -1797,6 +1796,7 @@ hearable.ch
 hearables.ch
 hearagain.ch
 hearandnow.ch
+hearandsmellgeneva.ch
 hearanova.ch
 hearbee.ch
 hearbox.ch
@@ -1815,7 +1815,6 @@ hearing-aids.ch
 hearing-innovation.ch
 hearing-innovations.ch
 hearing-universe.ch
-hearing.ch
 hearingaid.ch
 hearingaids.ch
 hearingcare.ch
@@ -2033,7 +2032,6 @@ heartflowatelier.ch
 heartflowyoga.ch
 heartfluencer.ch
 heartflyers.ch
-heartfood.ch
 heartforce.ch
 heartfoundation.ch
 heartful-self-compassion.ch
@@ -4454,6 +4452,7 @@ hegnerblech.ch
 hegnerfenster.ch
 hegnerhof.ch
 hegnermetall.ch
+hegnerpruefservice.ch
 hegners.ch
 hegnertiefbau.ch
 hegnor.ch
@@ -4850,7 +4849,6 @@ heidiandtheswissnessfeeling.ch
 heidiarens.ch
 heidiarnold.ch
 heidiaro.ch
-heidiart.ch
 heidiaward.ch
 heidiawards.ch
 heidibachmann.ch
@@ -5116,7 +5114,6 @@ heiditransport.ch
 heiditransportlogistik.ch
 heidiulrich.ch
 heidiulrichfotografie.ch
-heidiundjerome.ch
 heidiundpeter.ch
 heidiundpeterwenger.ch
 heidiverlag.ch
@@ -5128,7 +5125,6 @@ heidiwalser.ch
 heidiwartenweiler.ch
 heidiwasser.ch
 heidiwater.ch
-heidiweb.ch
 heidiwebercollection.ch
 heidiweder.ch
 heidiweh.ch
@@ -7552,8 +7548,6 @@ heiratedichselbst.ch
 heiratemi.ch
 heiratemich.ch
 heiraten-amalfi.ch
-heiraten-basel.ch
-heiraten-bern.ch
 heiraten-comersee.ch
 heiraten-dj.ch
 heiraten-feiern.ch
@@ -7562,7 +7556,6 @@ heiraten-in-basel.ch
 heiraten-in-den-bergen.ch
 heiraten-in-der-schweiz.ch
 heiraten-in-der-toskana.ch
-heiraten-in-luzern.ch
 heiraten-in-rheinfelden.ch
 heiraten-in-romanshorn.ch
 heiraten-italien.ch
@@ -8387,7 +8380,6 @@ heizungsfinanzierung.ch
 heizungsfirma.ch
 heizungsfirmen.ch
 heizungsfitness.ch
-heizungsfluid.ch
 heizungsfrage.ch
 heizungsgold.ch
 heizungsheld.ch
@@ -8466,8 +8458,8 @@ heizungsspezialist.ch
 heizungsspezialisten.ch
 heizungssteuerung.ch
 heizungssteuerungen.ch
-heizungssystem.ch
 heizungssysteme.ch
+heizungsteam.ch
 heizungstechnik.ch
 heizungstechniker-in-der-naehe.ch
 heizungstechniker.ch
@@ -8608,6 +8600,7 @@ heka-swiss.ch
 heka.ch
 hekabauleitung.ch
 hekahappy.ch
+hekalys.ch
 hekamed.ch
 hekap.ch
 hekar.ch
@@ -8907,6 +8900,7 @@ heldendernacht.ch
 heldendesalltags.ch
 heldendivision.ch
 heldenfluesterer.ch
+heldengalerie.ch
 heldengeschichten.ch
 heldengroup.ch
 heldengruen.ch
@@ -9154,7 +9148,6 @@ helenedaniele.ch
 helenedormond.ch
 helenedorsaz.ch
 helenedubuis.ch
-heleneduerr.ch
 helenedupont.ch
 helenefrey.ch
 helenegebhard.ch
@@ -9302,6 +9295,8 @@ helfenbergerbau.ch
 helfenbergernatur.ch
 helfenbergers.ch
 helfende-haende.ch
+helfende-hand.ch
+helfendehand.ch
 helfendehunde.ch
 helfendeneinsatz.ch
 helfenfinger-ag.ch
@@ -9368,6 +9363,7 @@ helferchauffage.ch
 helferchen.ch
 helferei-weiler.ch
 helferei.ch
+helfereinsatz-shtm-2026.ch
 helfereinsatz.ch
 helfereitheater.ch
 helferfinden.ch
@@ -9467,7 +9463,6 @@ helgaforafrica.ch
 helgafroehli.ch
 helgag.ch
 helgahalbritter.ch
-helgaharmony.ch
 helgahorisberger.ch
 helgaisbag.ch
 helgakaelin.ch
@@ -9634,6 +9629,7 @@ heliboarding.ch
 heliboy.ch
 helibusiness.ch
 helibuzz.ch
+helical-penguin.ch
 helicalactuators.ch
 helicalearn.ch
 helicam.ch
@@ -10147,7 +10143,6 @@ helixit.ch
 helixor.ch
 helixoriginal.ch
 helixpiercing.ch
-helixs.ch
 helixsolar.ch
 helixsolutions.ch
 helixtec.ch
@@ -10818,7 +10813,6 @@ hellomedic.ch
 hellomedical.ch
 hellomehrwerk.ch
 hellomemories.ch
-hellomer.ch
 hellomini.ch
 hellomint.ch
 hellomit.ch
@@ -11258,7 +11252,6 @@ helmleag.ch
 helmlin.ch
 helmlinger.ch
 helmnet.ch
-helmo.ch
 helmonline.ch
 helmos.ch
 helmpokale.ch
@@ -11278,6 +11271,7 @@ helmsauer-experten.ch
 helmsauer-finanz.ch
 helmsauer-finanzberatung.ch
 helmsauer-gruppe.ch
+helmsauer-heilwesen.ch
 helmsauer-insurance.ch
 helmsauer-kollegen.ch
 helmsauer-maklerberatung.ch
@@ -12108,7 +12102,6 @@ helvedeal.ch
 helvedelis.ch
 helvedev.ch
 helvedex.ch
-helvedis.ch
 helvedition.ch
 helvedom.ch
 helvedoo.ch
@@ -12937,6 +12930,7 @@ helvetic-pension.ch
 helvetic-personal.ch
 helvetic-pharma.ch
 helvetic-physio.ch
+helvetic-plan.ch
 helvetic-power.ch
 helvetic-private-investment.ch
 helvetic-projects.ch
@@ -13035,7 +13029,6 @@ helvetica-trail.ch
 helvetica-trails.ch
 helvetica-traiteur.ch
 helvetica-transporte.ch
-helvetica-vision.ch
 helvetica-x.ch
 helvetica.ch
 helvetica1890.ch
@@ -14033,7 +14026,6 @@ hemdenkaufen.ch
 hemdenkoenig.ch
 hemdenkonfigurator.ch
 hemdenladen.ch
-hemdenlounge.ch
 hemdenmeister.ch
 hemdenonline.ch
 hemdenpersonalisieren.ch
@@ -14545,7 +14537,6 @@ henggi-ag.ch
 henggi-kuechen-renovation.ch
 henggi-kuechen.ch
 henggi-pictures.ch
-henggi.ch
 henggmbh.ch
 henghui.ch
 hengi.ch
@@ -14617,7 +14608,6 @@ henle.ch
 henley.ch
 henleyglobal.ch
 henmyr.ch
-henn.ch
 henna-art.ch
 henna-artist.ch
 henna-artists.ch
@@ -15066,7 +15056,6 @@ hentes.ch
 hentke.ch
 hento.ch
 hentri.ch
-hentrich.ch
 hents.ch
 hentsch.ch
 hentschel-academy.ch
@@ -17474,7 +17463,6 @@ herrenjacken.ch
 herrenjeans.ch
 herrenklasse.ch
 herrenkleider.ch
-herrenkleidung.ch
 herrenknecht-holding.ch
 herrenknecht.ch
 herrenkollektionen.ch
@@ -18165,7 +18153,6 @@ herz-berneroberland.ch
 herz-beruehrend.ch
 herz-beruehrt.ch
 herz-bewegt.ch
-herz-bewusst-sein.ch
 herz-blick.ch
 herz-blume.ch
 herz-bube.ch
@@ -18523,7 +18510,6 @@ herzclinic-luzern.ch
 herzclinic-seetal.ch
 herzclinic.ch
 herzcoach-lichtarbeit.ch
-herzcoach.ch
 herzcoaching.ch
 herzcode.ch
 herzcoffee.ch
@@ -19950,7 +19936,6 @@ hesburger.ch
 hesc.ch
 hescam.ch
 hesch-event.ch
-hesch-hockey.ch
 hesch-lust.ch
 hesch-ou-e-websiite.ch
 hesch-scho-neugstartet.ch
@@ -20199,8 +20184,6 @@ hesse-co.ch
 hesse-consulting.ch
 hesse-edutainment.ch
 hesse-hairstyle.ch
-hesse-holding.ch
-hesse-immobilien.ch
 hesse-partner.ch
 hesse-perlen.ch
 hesse-stiftung.ch
@@ -20211,8 +20194,6 @@ hessedigitalservices.ch
 hessefilm.ch
 hessegreutert.ch
 hessehairstyle.ch
-hesseholding.ch
-hesseimmobilien.ch
 hessel.ch
 hesselbach-meggen.ch
 hesselbach.ch
@@ -20370,6 +20351,7 @@ hesterpro.ch
 hesterwolfensberger.ch
 hesti4.ch
 hestia-brandschutz.ch
+hestia-bs.ch
 hestia-care.ch
 hestia-domicileservices.ch
 hestia-family.ch
@@ -20549,7 +20531,6 @@ hetty-rapeaud.ch
 hetzarm.ch
 hetzel-gmbh.ch
 hetzel-grenchen.ch
-hetzel.ch
 hetzengineering.ch
 hetzer.ch
 hetzlig.ch
@@ -21652,6 +21633,7 @@ hexonic.ch
 hexonq.ch
 hexontc.ch
 hexopus.ch
+hexora.ch
 hexoskin.ch
 hexoswiss.ch
 hexotec.ch

@@ -179,7 +179,6 @@ ptext.ch
 ptf-apr.ch
 ptf.ch
 ptfe-dichtungen.ch
-ptfe.ch
 ptfit.ch
 ptfitnwell.ch
 ptg-labs.ch
@@ -209,6 +208,7 @@ pti-hotel.ch
 pti-hpi.ch
 pti-mail.ch
 pti-sa.ch
+pti-tip-hub.ch
 pti-tip.ch
 pti.ch
 ptibox.ch

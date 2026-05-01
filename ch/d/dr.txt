@@ -311,6 +311,7 @@ dr-guerlich.ch
 dr-guetermann.ch
 dr-guillaume-honore.ch
 dr-gurtner-ag.ch
+dr-haegele.ch
 dr-hair-beauty-studio.ch
 dr-hamacher.ch
 dr-hammer.ch
@@ -742,7 +743,6 @@ dr-schirm.ch
 dr-schmid.ch
 dr-schmiedeberg.ch
 dr-schmocker.ch
-dr-schneider.ch
 dr-schnell.ch
 dr-schnodder.ch
 dr-schoenenberger.ch
@@ -1213,7 +1213,6 @@ draggin.ch
 draghi.ch
 draghinda.ch
 dragi-plattenbelaege.ch
-dragi.ch
 dragica-vrhovac.ch
 dragica.ch
 dragicarajcic.ch
@@ -1467,6 +1466,7 @@ dragqueer.ch
 dragrace-gunterswilen.ch
 dragrace-mauren.ch
 dragrace.ch
+dragracemauren.ch
 dragracing.ch
 dragriders.ch
 dragstars.ch
@@ -3305,7 +3305,6 @@ drehen-und-kreuzen.ch
 drehen.ch
 dreher-co.ch
 dreher-consulting.ch
-dreher-dreher.ch
 dreher-lueftungen.ch
 dreher.ch
 dreherag.ch
@@ -3558,6 +3557,7 @@ dreichoere.ch
 dreicloud.ch
 dreicom.ch
 dreicon.ch
+dreicos.ch
 dreicraft.ch
 dreid.ch
 dreidb.ch
@@ -4709,6 +4709,7 @@ drill-point-fishing.ch
 drill-point.ch
 drill-tech.ch
 drill.ch
+drillan-pediatre.ch
 drillapp.ch
 drillbook.ch
 drilldurre.ch
@@ -6271,7 +6272,6 @@ drmedsuleiman.ch
 drmedwalterschneider.ch
 drmedzeller.ch
 drmeier-medien.ch
-drmeier.ch
 drmelaxin.ch
 drmelindalohmann.ch
 drmeoli.ch
@@ -6445,7 +6445,6 @@ drogenfrei.ch
 drogenhaendler.ch
 drogenhandel.ch
 drogenhanf.ch
-drogenhilfe.ch
 drogeninfo-luzern.ch
 drogeninfo.ch
 drogeninformation-luzern.ch
@@ -7348,6 +7347,7 @@ drone-map.ch
 drone-maps.ch
 drone-noise.ch
 drone-ops.ch
+drone-ops360.ch
 drone-park-ticino.ch
 drone-parts-center.ch
 drone-photo-aerienne.ch
@@ -8781,7 +8781,6 @@ druckerreparatur.ch
 druckerreparaturen.ch
 druckerreparieren.ch
 druckers.ch
-druckerservice.ch
 druckershop-tankstelle.ch
 druckershop.ch
 druckertheke-scuol.ch
@@ -8941,7 +8940,6 @@ druckmaschinen.ch
 druckmaterial.ch
 druckmaus.ch
 druckmaxx.ch
-druckmedien.ch
 druckmeister.ch
 druckmesstechnik.ch
 druckmessumformer.ch
@@ -8967,7 +8965,6 @@ druckpanda.ch
 druckpapier.ch
 druckpapiere.ch
 druckparadies.ch
-druckpartner.ch
 druckparts.ch
 druckpatronen.ch
 druckpdf.ch
@@ -9012,7 +9009,6 @@ drucksachen-online.ch
 drucksachen-schweiz.ch
 drucksachen-shop.ch
 drucksachen.ch
-drucksachendoc.ch
 drucksachenexpress.ch
 drucksachenkaufen.ch
 drucksachenlager.ch

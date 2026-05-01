@@ -730,7 +730,6 @@ publish4you.ch
 publishblog.ch
 publishbook.ch
 publishbox.ch
-published.ch
 publisher-at-work.ch
 publisher-bern.ch
 publisher-blog.ch
@@ -1009,6 +1008,7 @@ pudelmuetze.ch
 pudelmuetzen.ch
 pudelpower.ch
 pudelsee.ch
+pudelswiss.ch
 pudelundpinscher.ch
 pudelwelpen.ch
 pudelwohl-hundecoiffeur.ch
@@ -1127,6 +1127,7 @@ puentuster.ch
 puentweg.ch
 puenzieux.ch
 pueo-owl.ch
+puepet.ch
 pueppi-and-me.ch
 pueppi.ch
 pueppiandme.ch
@@ -1242,7 +1243,6 @@ pugatsch1.ch
 pugatsch2.ch
 pugerna.ch
 pugi.ch
-pugilato.ch
 pugimpact.ch
 pugin-immobilier.ch
 pugin-schneider.ch
@@ -1375,7 +1375,6 @@ puky.ch
 pukzh.ch
 pukzuerich.ch
 pukzug.ch
-pul-sar.ch
 pul-soc.ch
 pul.ch
 pula.ch
@@ -1690,7 +1689,6 @@ puls-29-niederglatt.ch
 puls-8280.ch
 puls-am-berg.ch
 puls-apothekedrogerie.ch
-puls-ar.ch
 puls-arbeitsmarkt.ch
 puls-bau.ch
 puls-baumanagement.ch
@@ -1756,8 +1754,6 @@ pulsamberg.ch
 pulsana.ch
 pulsando.ch
 pulsanto.ch
-pulsar-am.ch
-pulsar-capital.ch
 pulsar-consulting.ch
 pulsar-electronic.ch
 pulsar-events.ch
@@ -3666,7 +3662,6 @@ pure-reinigung.ch
 pure-resorts.ch
 pure-retreat.ch
 pure-rituals.ch
-pure-schoenheit.ch
 pure-schokolade.ch
 pure-schweiz.ch
 pure-selection.ch
@@ -3679,7 +3674,6 @@ pure-simple.ch
 pure-skin-cosmetics.ch
 pure-skin.ch
 pure-sleep.ch
-pure-smile.ch
 pure-smoothie.ch
 pure-smoothies.ch
 pure-snowboard.ch
@@ -3994,6 +3988,7 @@ puregene.ch
 pureghost440i.ch
 pureglambeauty.ch
 pureglamour.ch
+pureglanz.ch
 pureglass.ch
 pureglauf.ch
 pureglow.ch
@@ -4189,6 +4184,7 @@ purenergy.ch
 pureness.ch
 purenest.ch
 purenestconcept.ch
+purenet.ch
 purenetservices.ch
 pureneve.ch
 purenga-naturkosmetik.ch
@@ -5058,6 +5054,7 @@ purrocharpente.ch
 purroyal.ch
 purrpose.ch
 purrs.ch
+purs.ch
 pursang.ch
 purschaumstoffe.ch
 purschoen.ch

@@ -1311,6 +1311,7 @@ smart-recycling.ch
 smart-regensdorf.ch
 smart-regio.ch
 smart-region.ch
+smart-renovation.ch
 smart-repair.ch
 smart-report.ch
 smart-reporting.ch
@@ -2538,6 +2539,7 @@ smartfarm.ch
 smartfarmer.ch
 smartfarming.ch
 smartfarmingbio.ch
+smartfarmingdata.ch
 smartfarmingplus.ch
 smartfed.ch
 smartfeed.ch
@@ -2590,7 +2592,6 @@ smartfle.ch
 smartflex.ch
 smartflexx.ch
 smartfliegengitter.ch
-smartflirt.ch
 smartfloor.ch
 smartflow-ai.ch
 smartflow.ch
@@ -2881,6 +2882,7 @@ smarthomeengineering.ch
 smarthomeengineers.ch
 smarthomefactory.ch
 smarthomeforum.ch
+smarthomegroup.ch
 smarthomekonfigurator.ch
 smarthomelab.ch
 smarthomemagazin.ch
@@ -2905,6 +2907,7 @@ smarthomesuisse.ch
 smarthomeswiss.ch
 smarthomesystem.ch
 smarthomesystems.ch
+smarthometeam.ch
 smarthometech.ch
 smarthomewerdenberg.ch
 smarthomewiser.ch
@@ -3080,7 +3083,6 @@ smartjob.ch
 smartjobimmo.ch
 smartjobs.ch
 smartjoule.ch
-smartjournal.ch
 smartjournalist.ch
 smartjourney.ch
 smartjur.ch
@@ -3561,7 +3563,6 @@ smartpetz.ch
 smartpfand.ch
 smartpft.ch
 smartpharm.ch
-smartpharma.ch
 smartphi.ch
 smartphone-abo.ch
 smartphone-box.ch
@@ -4971,7 +4972,6 @@ smeilis.ch
 smeity.ch
 smejdi.ch
 smek.ch
-smekerhuus.ch
 smekredit.ch
 smela.ch
 smelan.ch
@@ -5548,13 +5548,11 @@ smilebysmile.ch
 smilebyte.ch
 smilecadcam.ch
 smilecar.ch
-smilecare.ch
 smilecaredh.ch
 smilecart.ch
 smilecbd.ch
 smilecenter-zahnklinik.ch
 smilecentrum.ch
-smilech.ch
 smilecheck.ch
 smilechristal.ch
 smilecity.ch
@@ -5663,7 +5661,6 @@ smilekidz.ch
 smilekit.ch
 smilekits.ch
 smileklinik.ch
-smilekoiffeur.ch
 smilekuechen.ch
 smilelab.ch
 smilelabs.ch
@@ -5714,7 +5711,6 @@ smilepass.ch
 smilepath.ch
 smilepay.ch
 smilepen.ch
-smilepferdetransport.ch
 smilephilosophy.ch
 smilephone.ch
 smilephoto.ch
@@ -6331,7 +6327,6 @@ smokefree-coaching.ch
 smokefree.ch
 smokefreebuddy.ch
 smokefreeswitzerland.ch
-smokefromthebong.ch
 smokehead.ch
 smokehouse.ch
 smokehub.ch
@@ -7146,6 +7141,7 @@ smt-ts.ch
 smt.ch
 smt188.ch
 smta-polesana.ch
+smta.ch
 smtal.ch
 smtalcom.ch
 smtc.ch
@@ -7277,6 +7273,7 @@ smurfys.ch
 smurl.ch
 smurray.ch
 smurve.ch
+smusa.ch
 smuse.ch
 smusi.ch
 smuster.ch

@@ -208,7 +208,6 @@ hlksshop.ch
 hlksteuerung.ch
 hlkvademecum.ch
 hll-dynamics.ch
-hll-shpk.ch
 hll.ch
 hllconsulting.ch
 hllm.ch
@@ -321,6 +320,9 @@ hluna.ch
 hlupi.ch
 hlutz.ch
 hlv-drinks.ch
+hlv-energie.ch
+hlv-groupe.ch
+hlv-immobilier.ch
 hlv.ch
 hlvd.ch
 hlvt.ch

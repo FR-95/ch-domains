@@ -611,7 +611,6 @@ kraftgarten.ch
 kraftgeber.ch
 kraftgegend.ch
 kraftgenuss.ch
-kraftgeraete.ch
 kraftgmbh.ch
 kraftgras.ch
 kraftgruen.ch
@@ -2431,7 +2430,6 @@ krawattenbinder.ch
 krawattendiscount.ch
 krawattenersatz.ch
 krawattenhemd.ch
-krawattenkurier.ch
 krawattenkurs.ch
 krawattenkurse.ch
 krawattenladen.ch
@@ -2980,7 +2978,6 @@ kreativauszeit.ch
 kreativbalance.ch
 kreativbar.ch
 kreativbasteln.ch
-kreativbau.ch
 kreativbaustelle.ch
 kreativbeauty.ch
 kreativbeck.ch
@@ -3135,7 +3132,6 @@ kreatives-schreiben.ch
 kreatives-waldbaden.ch
 kreatives-wirken.ch
 kreatives.ch
-kreativesauston.ch
 kreativescoaching.ch
 kreativesdesign.ch
 kreativeshandgemachtes.ch
@@ -3453,9 +3449,11 @@ kreativwelt.ch
 kreativwelten.ch
 kreativwerbe.ch
 kreativwerbung.ch
+kreativwerk-basel.ch
 kreativwerk-huber.ch
 kreativwerk-statt.ch
 kreativwerk.ch
+kreativwerkbasel.ch
 kreativwerke.ch
 kreativwerker.ch
 kreativwerkstadt.ch
@@ -3529,7 +3527,6 @@ kreazone.ch
 kreazur.ch
 kreba.ch
 krebau.ch
-krebotec.ch
 krebs-ag.ch
 krebs-alternativ-behandeln.ch
 krebs-architectes.ch
@@ -3618,7 +3615,6 @@ krebsbehandlung-komplementaer.ch
 krebsbekaempfung.ch
 krebsberatung-ganzheitlich.ch
 krebsberatung-ganzheitliche.ch
-krebsberatung.ch
 krebsblogger.ch
 krebschat.ch
 krebsdetect.ch
@@ -3849,6 +3845,7 @@ kredit-vergleich-online.ch
 kredit-vergleich-schweiz.ch
 kredit-vergleich.ch
 kredit-vergleiche.ch
+kredit-vergleichen.ch
 kredit-veritas.ch
 kredit-versicherung-krankenkasse.ch
 kredit-von-privat-ohne-vorkosten.ch
@@ -5866,7 +5863,6 @@ krisenloesung.ch
 krisenmagazin.ch
 krisenmanagement-resilienz.ch
 krisenmanagement.ch
-krisenmanager.ch
 krisenmanagerverband.ch
 krisenmanagment.ch
 krisennavigator.ch
@@ -5986,7 +5982,6 @@ kristal.ch
 kristalbanking.ch
 kristalbau.ch
 kristalcar.ch
-kristalclear.ch
 kristaldata.ch
 kristalfenster.ch
 kristalfood.ch
@@ -6309,14 +6304,12 @@ kritisches-zur-zeitgeschichte.ch
 kritischesdenken.ch
 kritischundgesund.ch
 kritisdefender.ch
-kritisieren.ch
 kritjur.ch
 kritjurbern.ch
 kritjurzh.ch
 kritnet.ch
 kritni.ch
 kritos.ch
-kritsana-thaimassage.ch
 kritsana-thaispa.ch
 kritsanas-takeaway.ch
 kritsanasthairestaurantrestaurantzurlinde.ch
@@ -6742,7 +6735,6 @@ krone-moehlin.ch
 krone-mollis.ch
 krone-mosnang.ch
 krone-murten.ch
-krone-nidfurn.ch
 krone-nossikon.ch
 krone-parpan.ch
 krone-rafz.ch
@@ -7071,7 +7063,6 @@ kropftreuhand.ch
 kropik.ch
 kropka.ch
 kropp.ch
-kroppconsulting.ch
 kroptik.ch
 kropyva.ch
 kroq.ch
@@ -7213,7 +7204,6 @@ krudolf.ch
 krueck.ch
 krueckemeyer.ch
 kruecken-butler.ch
-kruecken.ch
 krueckenstaender.ch
 kruedener.ch
 kruedewagen.ch

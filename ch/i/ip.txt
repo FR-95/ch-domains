@@ -271,7 +271,6 @@ ipacre.ch
 ipacs.ch
 ipad-advice.ch
 ipad-and-more.ch
-ipad-app-entwicklung.ch
 ipad-at-work.ch
 ipad-catalog.ch
 ipad-catalogue.ch
@@ -751,7 +750,6 @@ iphone17air.ch
 iphone17pro.ch
 iphone17promax.ch
 iphone360.ch
-iphone3g.ch
 iphone4.ch
 iphone6splus.ch
 iphoneair.ch
@@ -1487,6 +1485,7 @@ iptv-abonnement.ch
 iptv-anbieter.ch
 iptv-ch.ch
 iptv-hotel.ch
+iptv-kaufen.ch
 iptv-playout.ch
 iptv-schweeize.ch
 iptv-schweiz.ch
@@ -1506,6 +1505,7 @@ iptva.ch
 iptvabonnement.ch
 iptvabonnement41.ch
 iptvaboschweiz.ch
+iptvalp.ch
 iptvanbieter.ch
 iptvch.ch
 iptventes.ch

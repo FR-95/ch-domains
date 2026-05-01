@@ -853,6 +853,7 @@ mmr-notaires.ch
 mmr-professionals.ch
 mmr.ch
 mmran.ch
+mmraum.ch
 mmrb.ch
 mmrbikes.ch
 mmrealestate.ch
@@ -966,7 +967,6 @@ mmstudiolabs.ch
 mmsuisse.ch
 mmsupervision.ch
 mmsupport.ch
-mmswiss.ch
 mmswissmove.ch
 mmswisstraslochi.ch
 mmswitzerland.ch

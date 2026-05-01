@@ -296,6 +296,7 @@ sp-muenchenstein.ch
 sp-muhen.ch
 sp-muri-guemligen.ch
 sp-mutschellen-kelleramt.ch
+sp-muttenz.ch
 sp-nettoyage.ch
 sp-netzbau.ch
 sp-neuenhof.ch
@@ -561,7 +562,6 @@ spa-bizarre.ch
 spa-bois.ch
 spa-box.ch
 spa-care.ch
-spa-center.ch
 spa-ch.ch
 spa-cieux.ch
 spa-coiffure-kosmetik.ch
@@ -1026,7 +1026,6 @@ spacejewels.ch
 spacejourney.ch
 spacejuice.ch
 spacejump.ch
-spacejump2.ch
 spacek.ch
 spacekarts.ch
 spacekids.ch
@@ -1573,7 +1572,6 @@ spahrrechtsanwaelte.ch
 spahrringpartner.ch
 spahrs.ch
 spahrson.ch
-spahrtraktoren.ch
 spahs.ch
 spaid.ch
 spaidjob.ch
@@ -3689,7 +3687,6 @@ speakeasyburger.ch
 speakeasycinema.ch
 speakeasyenglish.ch
 speakeatapp-ctlq.ch
-speakenglish.ch
 speakenglishne.ch
 speaker-academy.ch
 speaker-agentur.ch
@@ -3838,6 +3835,7 @@ specchioco2.ch
 specchionelmondo.ch
 specco.ch
 speccon.ch
+speccraft.ch
 specects.ch
 speced.ch
 specetoile-alpha-services.ch
@@ -4010,7 +4008,6 @@ specialiste-aeai.ch
 specialiste-audio.ch
 specialiste-bail.ch
 specialiste-biodiversite.ch
-specialiste-canin.ch
 specialiste-diverticulite.ch
 specialiste-divorce.ch
 specialiste-droit.ch
@@ -4033,7 +4030,6 @@ specialiste-tdah.ch
 specialiste-web.ch
 specialiste-wordpress.ch
 specialiste.ch
-specialistecanin.ch
 specialistedelacuisine.ch
 specialistedroit.ch
 specialistedudos.ch
@@ -5022,7 +5018,6 @@ speedpizza.ch
 speedplace.ch
 speedplay.ch
 speedplus.ch
-speedpoint.ch
 speedpost.ch
 speedpower.ch
 speedpoweron.ch
@@ -5639,7 +5634,6 @@ spencertoern.ch
 spencerumzuege.ch
 spencerumzug.ch
 spend-less.ch
-spend.ch
 spendadvent.ch
 spendcloud.ch
 spende-deine-idee.ch
@@ -6112,7 +6106,6 @@ sperrholzplatten.ch
 sperrholzzentrum.ch
 sperriard.ch
 sperrkantscheiben.ch
-sperrketten.ch
 sperrkonto.ch
 sperrle.ch
 sperrliste.ch
@@ -6121,9 +6114,6 @@ sperrmuell-bern.ch
 sperrmuell-zuerich.ch
 sperrmuell.ch
 sperroud.ch
-sperrpfosten.ch
-sperrpoller.ch
-sperrschranken.ch
 sperrservice.ch
 sperrstrasse.ch
 sperrstunde.ch
@@ -7729,7 +7719,6 @@ spieleundapps.ch
 spieleunderlebnisweg.ch
 spielevent.ch
 spielevents.ch
-spielevermietung.ch
 spieleversand.ch
 spieleweg-lauchetal.ch
 spieleweg.ch
@@ -7993,7 +7982,6 @@ spielgruppe-kriens-obernau.ch
 spielgruppe-kriens.ch
 spielgruppe-kuki.ch
 spielgruppe-kunterbunt-thalwil.ch
-spielgruppe-kunterbunt.ch
 spielgruppe-kunterbunte.ch
 spielgruppe-kurzenberg.ch
 spielgruppe-landluft.ch
@@ -8216,7 +8204,6 @@ spielgruppe-utzigen.ch
 spielgruppe-uznach.ch
 spielgruppe-vechigen.ch
 spielgruppe-villaclara.ch
-spielgruppe-villakunterbunt.ch
 spielgruppe-vindonissa.ch
 spielgruppe-vinelz.ch
 spielgruppe-vogelnest.ch
@@ -8783,7 +8770,6 @@ spielplatzbau.ch
 spielplatzbauen.ch
 spielplatzbauerschweiz.ch
 spielplatzbelag.ch
-spielplatzberatung.ch
 spielplatzbeschattung.ch
 spielplatzbeurteilung.ch
 spielplatzcheck.ch
@@ -10158,6 +10144,7 @@ spinpalacesuisse.ch
 spinpanda.ch
 spinpartners.ch
 spinpilot.ch
+spinpin.ch
 spinping.ch
 spinpire.ch
 spinpolar.ch
@@ -10720,6 +10707,7 @@ spiritfestival.ch
 spiritfilledfire.ch
 spiritfinance.ch
 spiritfitness.ch
+spiritflow-spiritsens.ch
 spiritflow.ch
 spiritflowers.ch
 spiritflows.ch
@@ -11001,6 +10989,7 @@ spiritualworld.ch
 spiritualz.ch
 spiritudivino.ch
 spirituel.ch
+spirituell-leben.ch
 spirituell.ch
 spirituellakademie.ch
 spirituelle-alchemie.ch
@@ -12074,7 +12063,6 @@ spitex-kuesnacht.ch
 spitex-kuessnacht.ch
 spitex-kujdesi.ch
 spitex-kultur-gesundheit.ch
-spitex-kuratio.ch
 spitex-kurs.ch
 spitex-lachen.ch
 spitex-laendli.ch
@@ -12820,6 +12808,7 @@ spitexfinder-zh.ch
 spitexfinder.ch
 spitexflaachtal.ch
 spitexflexmed.ch
+spitexfloravita.ch
 spitexfoppa.ch
 spitexforch.ch
 spitexforlife.ch
@@ -13045,7 +13034,6 @@ spitexoberhasli.ch
 spitexobermarch.ch
 spitexobersimmental.ch
 spitexoberweningen.ch
-spitexoberwil.ch
 spitexoberwilplus.ch
 spitexobfelden.ch
 spitexobwalden.ch
@@ -14746,7 +14734,6 @@ sport-loisir.ch
 sport-lose.ch
 sport-lounge.ch
 sport-luzern.ch
-sport-macht-druck.ch
 sport-magazin.ch
 sport-magnesium.ch
 sport-mak.ch
@@ -15710,7 +15697,6 @@ sportfan.ch
 sportfanatics.ch
 sportfanclub.ch
 sportfanreisen.ch
-sportfans.ch
 sportfanshirt.ch
 sportfashion-buesser.ch
 sportfashion.ch
@@ -16302,7 +16288,6 @@ sportluftfilter.ch
 sportlugano.ch
 sportlux.ch
 sportly.ch
-sportmachtdruck.ch
 sportmadness.ch
 sportmagazin.ch
 sportmail.ch
@@ -16602,8 +16587,6 @@ sportouvertes.ch
 sportpaedagogik.ch
 sportpalace.ch
 sportpanorama.ch
-sportparadies.ch
-sportparadiesschweiz.ch
 sportparadigm.ch
 sportparadise.ch
 sportparadiseswitzerland.ch
@@ -18141,7 +18124,6 @@ spotdepartment.ch
 spotdigital.ch
 spotdirect.ch
 spotdrop.ch
-spote.ch
 spotecco.ch
 spoteffects.ch
 spoterix.ch
@@ -18416,6 +18398,7 @@ sprach-werkstatt.ch
 sprach-zentrum-interlaken.ch
 sprach.ch
 sprachaffin.ch
+sprachagent.ch
 sprachagenturbahia.ch
 sprachagentursiegwart.ch
 sprachalarmierung.ch
@@ -18434,7 +18417,6 @@ sprachatelier.ch
 sprachatlas.ch
 sprachaufenthalt-50plus.ch
 sprachaufenthalt-amerika.ch
-sprachaufenthalt-auckland.ch
 sprachaufenthalt-australien.ch
 sprachaufenthalt-blog.ch
 sprachaufenthalt-englisch.ch
@@ -18754,7 +18736,6 @@ sprachraummeyer.ch
 sprachreich.ch
 sprachreise-direkt.ch
 sprachreise-info.ch
-sprachreise-neuseeland.ch
 sprachreise-ratgeber.ch
 sprachreise.ch
 sprachreise30plus.ch
@@ -18931,7 +18912,6 @@ sprachwirrwarr.ch
 sprachwissen.ch
 sprachwolke.ch
 sprachwunsch.ch
-sprachzauber.ch
 sprachzentrum-limmattal.ch
 sprachzentrum-zuerich.ch
 sprachzentrum.ch
@@ -20117,6 +20097,7 @@ sprungwerk.ch
 sprungx.ch
 sprungziffern-taschenuhren.ch
 sprutz.ch
+sprutzos.ch
 spruuchriif.ch
 sprv.ch
 sprvs.ch

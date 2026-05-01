@@ -196,6 +196,7 @@ ohc.ch
 ohc24.ch
 ohcandle.ch
 ohcards.ch
+ohcasino.ch
 ohcesfleurs.ch
 ohchat.ch
 ohchef.ch
@@ -211,6 +212,7 @@ ohd-oldharddark.ch
 ohd.ch
 ohdarling.ch
 ohdesign.ch
+ohdog.ch
 ohdoggo.ch
 ohe.ch
 ohealth.ch
@@ -322,6 +324,7 @@ ohm-frali.ch
 ohm-genossenschaft.ch
 ohm-informatique.ch
 ohm-it.ch
+ohm-solution.ch
 ohm-sonnenblick.ch
 ohm-tech.ch
 ohm-vapers.ch
@@ -486,7 +489,6 @@ ohne-strahlen.ch
 ohne-strom-laeuft-nichts.ch
 ohne-unterhosen.ch
 ohne-witz.ch
-ohne-zucker.ch
 ohne.ch
 ohneagentur.ch
 ohneallergie.ch

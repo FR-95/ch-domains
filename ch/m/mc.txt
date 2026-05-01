@@ -972,6 +972,7 @@ mcgtest-2.ch
 mcgtest.ch
 mcgtropfen.ch
 mcguffin.ch
+mcguinness.ch
 mcguire.ch
 mcgutachten.ch
 mcgutachter.ch
@@ -1293,6 +1294,7 @@ mcm-gt.ch
 mcm-handwerk.ch
 mcm-immo.ch
 mcm-immobilier.ch
+mcm-inpulse.ch
 mcm-liebi.ch
 mcm-management.ch
 mcm-mckinley.ch
@@ -1907,7 +1909,6 @@ mcwili.ch
 mcwilliams.ch
 mcwindeln.ch
 mcwindisch-nein.ch
-mcwindow.ch
 mcwinterthur.ch
 mcwit.ch
 mcwk.ch

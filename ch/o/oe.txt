@@ -682,7 +682,6 @@ oekoswiss.ch
 oekoswissenergie.ch
 oekoswissenergy.ch
 oekoswisssupply.ch
-oekosystem.ch
 oekosystemarchitektin.ch
 oekotante.ch
 oekoteam.ch
@@ -798,7 +797,6 @@ oelbild.ch
 oelbilder.ch
 oelbindematten.ch
 oelbindemittel.ch
-oelbinder.ch
 oelblog.ch
 oelboerse.ch
 oelbrack.ch
@@ -916,7 +914,6 @@ oelpintli.ch
 oelpool.ch
 oelpoolag.ch
 oelpooler.ch
-oelportrait.ch
 oelpreis.ch
 oelpreise.ch
 oelpresse.ch
@@ -1016,7 +1013,6 @@ oen-edu.ch
 oen-eduvs.ch
 oen-vs.ch
 oen.ch
-oena.ch
 oenbouche.ch
 oenc.ch
 oender-deferari.ch
@@ -1079,10 +1075,6 @@ oenothequedumidi.ch
 oenothequelegrenier.ch
 oenothequeravet.ch
 oenothera.ch
-oenotourisme-geneve.ch
-oenotourisme-swiss.ch
-oenotourisme-valais.ch
-oenotourisme-vaud.ch
 oenotourisme.ch
 oenotourismevalais.ch
 oenotourismus-wallis.ch
@@ -1270,6 +1262,7 @@ oerlikon-physio.ch
 oerlikon-samariter.ch
 oerlikon-schweisstechnik.ch
 oerlikon-soudure.ch
+oerlikon-tcm.ch
 oerlikon-welding.ch
 oerlikon-zahnarzt.ch
 oerlikon.ch
@@ -1636,7 +1629,6 @@ oeuvray-smits.ch
 oeuvray.ch
 oeuvre-charles.ch
 oeuvre-orient-suisse.ch
-oeuvre.ch
 oeuvredart.ch
 oeuvres.ch
 oeuvresdart-avendre.ch

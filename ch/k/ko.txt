@@ -1518,6 +1518,7 @@ koema.ch
 koemagica.ch
 koematherm.ch
 koemeda.ch
+koemerle.ch
 koemeter.ch
 koemmerling-fenster.ch
 koemmerling-pergola.ch
@@ -1944,7 +1945,6 @@ koerperanalysen.ch
 koerperarbeit-basel.ch
 koerperarbeit-im-wasser.ch
 koerperarbeit-michel.ch
-koerperarbeit.ch
 koerperarbeitbern.ch
 koerperarbeiten.ch
 koerperatelier.ch
@@ -2458,10 +2458,14 @@ kogna.ch
 kognetwork.ch
 kogni.ch
 kognition.ch
+kognitiv-motorisch.ch
+kognitiv-motorisches-training.ch
 kognitiv.ch
 kognitive-hyper-intelligenz.ch
 kognitive-stoerungen.ch
 kognitives-training.ch
+kognitivmotorisch.ch
+kognitivmotorischestraining.ch
 kognitivpro.ch
 kognito.ch
 kogo.ch
@@ -2676,7 +2680,6 @@ kohlermarine.ch
 kohlermaschinenbau.ch
 kohlermechanik.ch
 kohlermedia.ch
-kohlermedien.ch
 kohlermode.ch
 kohlermotorsport.ch
 kohlernautec.ch
@@ -3127,6 +3130,7 @@ kokoro-massage.ch
 kokoro-physical-training.ch
 kokoro-physical.ch
 kokoro-restaurant.ch
+kokoro-spiel.ch
 kokoro.ch
 kokoro2017.ch
 kokoroai.ch
@@ -3200,6 +3204,7 @@ kokushiba.ch
 kokuweb.ch
 kokwz.ch
 kokym.ch
+kokytos.ch
 kokyudo.ch
 kol-gh.ch
 kol-workshop.ch
@@ -3237,6 +3242,7 @@ kolang.ch
 kolanta.ch
 kolanto.ch
 kolanuss.ch
+kolar-family.ch
 kolar-socken.ch
 kolar.ch
 kolarc.ch
@@ -4649,7 +4655,6 @@ kommmf.ch
 kommnachhause.ch
 kommnetzwerk.ch
 kommod-emmental.ch
-kommod-luzern.ch
 kommod.ch
 kommode-verlag.ch
 kommode.ch
@@ -5807,6 +5812,7 @@ komunique.ch
 komunit.ch
 komunitas.ch
 komuno.ch
+komurcu.ch
 komvalis.ch
 komvent.ch
 komvet.ch
@@ -5883,7 +5889,6 @@ konbo.ch
 koncept.ch
 koncept3d.ch
 konceptify.ch
-koncert.ch
 koncertpromo.ch
 koncinamedia.ch
 koncon.ch
@@ -6570,6 +6575,7 @@ konkours.ch
 konkrea.ch
 konkreet.ch
 konkret-ag.ch
+konkret-ai.ch
 konkret-digital.ch
 konkret-durst.ch
 konkret-festival.ch
@@ -6651,7 +6657,6 @@ konkursrecht-anwalt.ch
 konkursrecht-rechtsanwalt.ch
 konkursrecht-tagung.ch
 konkursrecht.ch
-konkursregister.ch
 konkursschalter.ch
 konkursverfahren.ch
 konkursverkauf.ch
@@ -6934,6 +6939,7 @@ konsipark.ch
 konsishop.ch
 konso-partner.ch
 konso.ch
+konsol.ch
 konsole-aktuell.ch
 konsole.ch
 konsolen-games-ankauf.ch
@@ -7132,7 +7138,6 @@ konsumentenberatung.ch
 konsumentenberatungsstelle.ch
 konsumentenbewertung.ch
 konsumentenbewertungen.ch
-konsumentenbildung.ch
 konsumentenbschiss.ch
 konsumentenbund-oasis.ch
 konsumentenbund.ch
@@ -7519,7 +7524,6 @@ kontinenzzentrum.ch
 kontingent.ch
 kontingente.ch
 kontingenthandel.ch
-kontingentierung.ch
 kontinitro.ch
 kontinuity.ch
 kontinuum-ag.ch
@@ -7641,7 +7645,6 @@ kontroll.ch
 kontroll4you.ch
 kontrollband.ch
 kontrollbericht.ch
-kontrollblick.ch
 kontrollbuero.ch
 kontrolldienst-sts.ch
 kontrolldienstkut.ch
@@ -7793,8 +7796,10 @@ konzelmann-storen.ch
 konzelmann.ch
 konzelmannstoren.ch
 konzentrat.ch
+konzentration-kinder.ch
 konzentration-lernen.ch
 konzentration.ch
+konzentrationkinder.ch
 konzentrationskompass.ch
 konzentrationsstoerung.ch
 konzentrationsstoerungen.ch
@@ -8288,7 +8293,6 @@ kooperative-pflege.ch
 kooperative-prozessgestaltung.ch
 kooperative-scheidung.ch
 kooperative-trennung.ch
-kooperative.ch
 kooperativepflege.ch
 kooperatives-lernen.ch
 kooperativesbauen.ch
@@ -8364,7 +8368,6 @@ kooskbox.ch
 koosmetik.ch
 kooso.ch
 koota.ch
-kootep.ch
 koova.ch
 koowerk.ch
 kooxtravel.ch
@@ -8461,6 +8464,7 @@ kopf-treuhand.ch
 kopf-und-fusszeilen-tool.ch
 kopf-und-fusszeilentool.ch
 kopf-und-handwerk.ch
+kopf-voll.ch
 kopf-werk.ch
 kopf-zeh.ch
 kopf-zentrum.ch
@@ -8935,6 +8939,7 @@ koramis.ch
 koran-bewaesserung.ch
 koran-deutsch.ch
 koran.ch
+koranbestellen.ch
 korandus-energetics.ch
 korandus-healing.ch
 korandus.ch
@@ -9039,6 +9044,7 @@ kordun.ch
 korduna.ch
 kordx.ch
 kordyx.ch
+kore-collectibles.ch
 kore-contemporary.ch
 kore-essentials.ch
 kore-ltd.ch
@@ -10098,11 +10104,9 @@ kosmetik-lenzerheide.ch
 kosmetik-leshirondelles.ch
 kosmetik-lifestyle.ch
 kosmetik-linda.ch
-kosmetik-lipp.ch
 kosmetik-littau.ch
 kosmetik-livers.ch
 kosmetik-livia.ch
-kosmetik-lostorf.ch
 kosmetik-lounge.ch
 kosmetik-ls.ch
 kosmetik-luchsinger.ch
@@ -10160,7 +10164,6 @@ kosmetik-perfectbeauty.ch
 kosmetik-petriani.ch
 kosmetik-pfetzer.ch
 kosmetik-pianella.ch
-kosmetik-pina.ch
 kosmetik-plattner.ch
 kosmetik-podologie.ch
 kosmetik-portal.ch
@@ -11039,7 +11042,6 @@ kostenlose-tagesschule.ch
 kostenlose-umzugsofferten.ch
 kostenlose-wertermittlung.ch
 kostenlose.ch
-kostenloseanzeigen.ch
 kostenloseappsundspiele.ch
 kostenloseauskuenfte.ch
 kostenloseautobewertung.ch
@@ -11112,6 +11114,7 @@ koster.ch
 kostera.ch
 kosterag.ch
 kosterautomotive.ch
+kosterbau.ch
 kosterconsulting.ch
 kosterdesign.ch
 kosterengineering.ch
@@ -11471,7 +11474,6 @@ kovactechnologies.ch
 kovag.ch
 kovaio.ch
 kovalent.ch
-kovalev.ch
 kovalevi.ch
 kovalex.ch
 kovaliv.ch

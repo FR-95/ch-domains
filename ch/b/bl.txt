@@ -268,7 +268,6 @@ black-bobber.ch
 black-book.ch
 black-box-bar.ch
 black-box.ch
-black-bull.ch
 black-bullet-jewellery.ch
 black-bullet-jewelry.ch
 black-bullet-shop.ch
@@ -1313,6 +1312,7 @@ blackpig.ch
 blackpigeontuning.ch
 blackpill.ch
 blackpillow.ch
+blackpine.ch
 blackpineapple.ch
 blackpink.ch
 blackpit.ch
@@ -1584,6 +1584,7 @@ blacktie.ch
 blacktiger.ch
 blacktime.ch
 blacktoaster.ch
+blacktoblonde.ch
 blacktogreen.ch
 blacktomato.ch
 blacktower.ch
@@ -4832,7 +4833,6 @@ blicksportwetten.ch
 blicktarif.ch
 blicktechnik.ch
 blicktv-technik.ch
-blicktv.ch
 blickundsprachwerk.ch
 blickvang.ch
 blickvegas.ch
@@ -5524,7 +5524,6 @@ blitzping.ch
 blitzpizza.ch
 blitzpoker.ch
 blitzpool.ch
-blitzputz.ch
 blitzraeumung.ch
 blitzrechnen.ch
 blitzrechnung.ch
@@ -6072,7 +6071,6 @@ blockcraft.ch
 blockcrs.ch
 blockdag.ch
 blockdata.ch
-blockdaten.ch
 blockdesign.ch
 blockdev.ch
 blocked-account.ch
@@ -6187,7 +6185,6 @@ blocks-bricks.ch
 blocksatz.ch
 blocksauna.ch
 blocksberg.ch
-blockschule.ch
 blocksear.ch
 blockservice.ch
 blocksgo.ch
@@ -6549,7 +6546,6 @@ blogsexy.ch
 blogshop.ch
 blogsite.ch
 blogsofa.ch
-blogspecht.ch
 blogspot.ch
 blogsuisse.ch
 blogsushi.ch
@@ -7071,6 +7067,7 @@ bloomx.ch
 bloomy-beauty.ch
 bloomy-guide.ch
 bloomy.ch
+bloomyoga.ch
 bloomyourbrain.ch
 bloomyt.ch
 bloomz.ch
@@ -9875,7 +9872,6 @@ bluewave-it.ch
 bluewave.ch
 bluewavebern.ch
 bluewaveclub.ch
-bluewavedigital.ch
 bluewaves.ch
 bluewaveshop.ch
 bluewavesourcing.ch

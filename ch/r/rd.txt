@@ -17,7 +17,6 @@ rd-events.ch
 rd-eye.ch
 rd-fils.ch
 rd-gaerten.ch
-rd-gebaeudetechnik.ch
 rd-go.ch
 rd-guide.ch
 rd-gva.ch
@@ -52,6 +51,7 @@ rd-suite.ch
 rd-tec.ch
 rd-terrassement.ch
 rd-train-the-trainer.ch
+rd-transport-gmbh.ch
 rd-transport.ch
 rd-treuhand.ch
 rd-ts.ch

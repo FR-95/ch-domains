@@ -670,7 +670,6 @@ vog-coiffure.ch
 vog-developpement.ch
 vog.ch
 voga-volketswil.ch
-voga.ch
 vogart.ch
 vogasjewelry.ch
 vogasport-shop.ch
@@ -753,7 +752,6 @@ vogel-noot.ch
 vogel-ohmstal.ch
 vogel-optik.ch
 vogel-partner.ch
-vogel-pc.ch
 vogel-perspektive.ch
 vogel-planung.ch
 vogel-platten.ch
@@ -1869,7 +1867,6 @@ voip-private.ch
 voip-provider.ch
 voip-schweiz.ch
 voip-service.ch
-voip-shop.ch
 voip-shopping.ch
 voip-store.ch
 voip-systeme.ch
@@ -3016,7 +3013,6 @@ vollandes13.ch
 vollaphone.ch
 vollaplinius.ch
 vollaquintus.ch
-vollarch.ch
 vollath.ch
 vollatice.ch
 vollaufdie12.ch
@@ -3524,7 +3520,6 @@ vollmondgriller.ch
 vollmondhock.ch
 vollmondkalender.ch
 vollmondoel.ch
-vollmondparty.ch
 vollmondrituale.ch
 vollmondschwimmen.ch
 vollmondwanderung.ch
@@ -4430,6 +4425,7 @@ volvoparts.ch
 volvopenta.ch
 volvopentashop.ch
 volvoplus.ch
+volvorcars.ch
 volvorchallenge.ch
 volvorent.ch
 volvoreta.ch
@@ -4872,6 +4868,7 @@ von-hertel.ch
 von-herz-zu-herz.ch
 von-herzen-schenken.ch
 von-herzen.ch
+von-herzog.ch
 von-hier-nach-da.ch
 von-hinten.ch
 von-hinwil.ch
@@ -4921,7 +4918,6 @@ von-niederhaeusern.ch
 von-null-auf-hund.ch
 von-oben.ch
 von-ohmacht-zu-aufbruch.ch
-von-orelli.ch
 von-ostheim.ch
 von-ow.ch
 von-paswal.ch
@@ -6632,8 +6628,6 @@ vorisol.ch
 vorisolkapseln.ch
 vorix.ch
 vork.ch
-vorkaufs-initiative.ch
-vorkaufsinitiative.ch
 vorkaufsrecht-initiative.ch
 vorkaufsrecht-nein.ch
 vorkaufsrecht.ch
@@ -6642,15 +6636,12 @@ vorkindergarten-kita-bern.ch
 vorkindergarten.ch
 vorkoster.ch
 vorkurs-aarau.ch
-vorkurs-aargau.ch
 vorkurs-alumni.ch
 vorkurs-baar.ch
 vorkurs-basel.ch
 vorkurs-bern.ch
-vorkurs-biel.ch
 vorkurs-chur.ch
 vorkurs-digital.ch
-vorkurs-invers.ch
 vorkurs-landquart.ch
 vorkurs-langenthal.ch
 vorkurs-luzern.ch
@@ -6660,7 +6651,6 @@ vorkurs-online.ch
 vorkurs-propaedeutikum.ch
 vorkurs-romanshorn.ch
 vorkurs-schweiz.ch
-vorkurs-skdz.ch
 vorkurs-solothurn.ch
 vorkurs-vorkurse.ch
 vorkurs-zug.ch
@@ -6673,15 +6663,12 @@ vorkurschur.ch
 vorkursdigital.ch
 vorkurse.ch
 vorkursinfo.ch
-vorkursinvers.ch
 vorkurslandquart.ch
 vorkursluzern.ch
-vorkursolten.ch
 vorkursonline.ch
 vorkursplus.ch
 vorkurspropaedeutikum.ch
 vorkursromanshorn.ch
-vorkurssolothurn.ch
 vorkursvorkurse.ch
 vorkurswinterthur.ch
 vorkurszug.ch
@@ -6759,6 +6746,7 @@ vornesitzen.ch
 vornet.ch
 vornheder.ch
 vornholt.ch
+vornora.ch
 voro.ch
 vorobec.ch
 voroka-alpes.ch
@@ -6846,7 +6834,6 @@ vorsichtigai.ch
 vorsichtigki.ch
 vorsichtkinder.ch
 vorsichtkunst.ch
-vorsichtvortritt.ch
 vorsoge-tip.ch
 vorsonline.ch
 vorsorg-obwalden.ch
@@ -7265,7 +7252,6 @@ vorsteigen.ch
 vorstellen.ch
 vorsteller.ch
 vorstellung.ch
-vorstellungen.ch
 vorstellungs-vermoegen.ch
 vorstellungsgespraech.ch
 vorstellungskraft.ch
@@ -8649,7 +8635,6 @@ voyagezautrement.ch
 voyagezazanenette.ch
 voyagezen.ch
 voyaging.ch
-voyago.ch
 voyah-courage.ch
 voyah-dream.ch
 voyah-free.ch

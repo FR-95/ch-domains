@@ -260,7 +260,6 @@ zadeyra.ch
 zadi.ch
 zadia.ch
 zadig-et-voltaire.ch
-zadig.ch
 zadigace.ch
 zadigetvoltaire.ch
 zadik-architekten.ch
@@ -270,7 +269,6 @@ zaditen.ch
 zadlab.ch
 zadmin.ch
 zadnyspe.ch
-zado.ch
 zadomus.ch
 zadora.ch
 zadori.ch
@@ -385,6 +383,7 @@ zaeme-da.ch
 zaeme-fit.ch
 zaeme-fuer-lyss.ch
 zaeme-fuer-oberdiessbach.ch
+zaeme-fuers-dorf.ch
 zaeme-johle.ch
 zaeme-kreativ.ch
 zaeme-ned-ganz-100.ch
@@ -477,7 +476,6 @@ zaeschiried.ch
 zaesingers.ch
 zaeslein.ch
 zaeslin-alumni-club.ch
-zaessin.ch
 zaesur-poesiekritik.ch
 zaet.ch
 zaeubercherzli.ch
@@ -717,6 +715,7 @@ zahlenkompass.ch
 zahlenkraft.ch
 zahlenkueche.ch
 zahlenland.ch
+zahlenlernen.ch
 zahlenlotto.ch
 zahlenmacher.ch
 zahlenmagie.ch
@@ -1308,7 +1307,6 @@ zahnarzt-am-see.ch
 zahnarzt-am-waisenhausplatz.ch
 zahnarzt-am-wasserschloss.ch
 zahnarzt-amiri.ch
-zahnarzt-ammann.ch
 zahnarzt-amran.ch
 zahnarzt-ancona.ch
 zahnarzt-andenmatten.ch
@@ -1708,7 +1706,6 @@ zahnarzt-hypnose.ch
 zahnarzt-iff.ch
 zahnarzt-illnau.ch
 zahnarzt-im-aargau.ch
-zahnarzt-im-ausland.ch
 zahnarzt-im-bahnhof.ch
 zahnarzt-im-flecken.ch
 zahnarzt-im-glatt.ch
@@ -1927,7 +1924,6 @@ zahnarzt-moser.ch
 zahnarzt-mudroch.ch
 zahnarzt-mueller.ch
 zahnarzt-muenchenstein.ch
-zahnarzt-muenger.ch
 zahnarzt-muensingen.ch
 zahnarzt-mundart.ch
 zahnarzt-munsingen.ch
@@ -2572,6 +2568,7 @@ zahnarztdeggeller.ch
 zahnarztdeneve.ch
 zahnarztdentist.ch
 zahnarztdesign.ch
+zahnarztdeutschland.ch
 zahnarztdienst.ch
 zahnarztdiessenhofen.ch
 zahnarztdietikon.ch
@@ -2954,7 +2951,6 @@ zahnarztpraxis-hinterkappelen.ch
 zahnarztpraxis-hinwil.ch
 zahnarztpraxis-hirzel-horgen.ch
 zahnarztpraxis-hirzel.ch
-zahnarztpraxis-hofgarten.ch
 zahnarztpraxis-hofmann.ch
 zahnarztpraxis-holzer.ch
 zahnarztpraxis-horgen-hirzel.ch
@@ -4491,6 +4487,7 @@ zahnteam4you.ch
 zahnteamwasserfallen.ch
 zahntech-reznar.ch
 zahntech.ch
+zahntechnik-adili.ch
 zahntechnik-am-kreuzplatz.ch
 zahntechnik-andres.ch
 zahntechnik-ballwil.ch
@@ -4694,6 +4691,7 @@ zaim-group.ch
 zaim-medikurs.ch
 zaim.ch
 zaimi.ch
+zain-hauswartungen.ch
 zain-solar.ch
 zain.ch
 zaina.ch
@@ -5177,7 +5175,6 @@ zanco.ch
 zancom.ch
 zanconato.ch
 zand-amsterdam.ch
-zand.ch
 zanda.ch
 zandaa.ch
 zandaach.ch
@@ -5270,7 +5267,6 @@ zanexa.ch
 zanez.ch
 zanfleuron.ch
 zang.ch
-zanga.ch
 zangabet.ch
 zanganeh.ch
 zangari.ch

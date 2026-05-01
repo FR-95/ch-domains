@@ -95,7 +95,6 @@ aeai.ch
 aeana.ch
 aeandcompany.ch
 aeapcl.ch
-aear.ch
 aearchitektur.ch
 aeas.ch
 aeassist.ch
@@ -1393,7 +1392,6 @@ aenderung-bildungsgesetz-nein.ch
 aenderungbildungsgesetzja.ch
 aenderungbildungsgesetznein.ch
 aenderungen.ch
-aenderungsatelier.ch
 aenderungsatelierbelp.ch
 aenderungsschneider.ch
 aenderungsschneiderei.ch
@@ -1794,7 +1792,6 @@ aerial-clean.ch
 aerial-filming.ch
 aerial-flow.ch
 aerial-media.ch
-aerial-observer.ch
 aerial-photography.ch
 aerial-photos.ch
 aerial-piano.ch
@@ -2226,6 +2223,7 @@ aerolloyd.ch
 aerolocarno.ch
 aerolog.ch
 aerologistic.ch
+aeroloid.ch
 aeroloop.ch
 aerolox.ch
 aerolution.ch
@@ -3349,7 +3347,6 @@ aesthetic-am-park.ch
 aesthetic-beauty.ch
 aesthetic-biel.ch
 aesthetic-body.ch
-aesthetic-care.ch
 aesthetic-center.ch
 aesthetic-clinic.ch
 aesthetic-club.ch
@@ -3389,7 +3386,6 @@ aesthetic-swiss-clinic.ch
 aesthetic-team.ch
 aesthetic-veneers.ch
 aesthetic-winterthur.ch
-aesthetic.ch
 aesthetic2go.ch
 aesthetic4me.ch
 aesthetica-sursee.ch
@@ -3626,6 +3622,7 @@ aeteria.ch
 aeterion.ch
 aeteris.ch
 aeterna-la.ch
+aeterna-lucy.ch
 aeterna-medical.ch
 aeterna.ch
 aeternal.ch
@@ -3646,7 +3643,6 @@ aeternumsoftware.ch
 aeternumswitzerland.ch
 aeternus.ch
 aeternusneuro.ch
-aetero.ch
 aeterra.ch
 aeterrnum-naturgaerten.ch
 aeterrnum-naturgarten.ch

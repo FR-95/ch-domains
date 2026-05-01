@@ -1435,6 +1435,7 @@ openkf.ch
 openki-festival.ch
 openki.ch
 openkids.ch
+openkimchi.ch
 openkite.ch
 openkm.ch
 openkmcloud.ch
@@ -1569,7 +1570,6 @@ openoperatingsystem.ch
 openorbit.ch
 openorganic.ch
 openos.ch
-openost.ch
 openova.ch
 openpackaging.ch
 openpadel.ch
@@ -1840,7 +1840,6 @@ openticket.ch
 opentickets.ch
 opento.ch
 opentoact.ch
-opentoday.ch
 opentonetwork.ch
 opentools.ch
 opentour.ch
@@ -3130,6 +3129,7 @@ opstshop.ch
 opsuccess.ch
 opsumit.ch
 opsvalais.ch
+opsvault.ch
 opsview.ch
 opsvpn.ch
 opswelt.ch
@@ -5133,6 +5133,7 @@ opusm.ch
 opusmachina.ch
 opusmagnum.ch
 opusnet.ch
+opusneuf.ch
 opusnovum.ch
 opusone.ch
 opusoneorchestra.ch

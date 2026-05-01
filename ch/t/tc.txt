@@ -279,7 +279,6 @@ tc314.ch
 tc3c.ch
 tc3informatica.ch
 tc4ks.ch
-tc4security.ch
 tc4u.ch
 tc4y.ch
 tc6.ch
@@ -398,6 +397,7 @@ tcbrissago.ch
 tcbroc.ch
 tcbroye2025.ch
 tcbroye2026.ch
+tcbroye2027.ch
 tcbruetten.ch
 tcbrugg.ch
 tcbs.ch
@@ -998,7 +998,6 @@ tcm-atelier.ch
 tcm-auriculomedizin.ch
 tcm-azentner.ch
 tcm-baar.ch
-tcm-baden.ch
 tcm-baenziger.ch
 tcm-baeriswil.ch
 tcm-balance.ch
@@ -2197,7 +2196,6 @@ tcs-noleggiocampingcar.ch
 tcs-noleggiofurgone.ch
 tcs-noleggiomoto.ch
 tcs-obwalden.ch
-tcs-offroad.ch
 tcs-peages.ch
 tcs-pedaggi.ch
 tcs-peniche.ch

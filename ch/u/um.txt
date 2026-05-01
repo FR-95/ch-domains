@@ -1035,6 +1035,7 @@ umwachsen.ch
 umwaeg.ch
 umwaelzpumpe.ch
 umwaelzpumpen.ch
+umwandeln.ch
 umwanderung-jungfraualetsch.ch
 umwandlung.ch
 umwandlungen.ch
@@ -1577,6 +1578,7 @@ umzug-helden.ch
 umzug-helfer.ch
 umzug-hilfe.ch
 umzug-illnau.ch
+umzug-impressum.ch
 umzug-in-aargau.ch
 umzug-in-die-schweiz.ch
 umzug-in-luzern.ch
@@ -1880,7 +1882,6 @@ umzugs-pilot.ch
 umzugs-planung.ch
 umzugs-profi.ch
 umzugs-profis.ch
-umzugs-rechner.ch
 umzugs-reinigung.ch
 umzugs-reinigungen.ch
 umzugs-service-zh.ch
@@ -2349,6 +2350,7 @@ umzugsreinigung-gl.ch
 umzugsreinigung-gr.ch
 umzugsreinigung-in-basel.ch
 umzugsreinigung-kloten.ch
+umzugsreinigung-lu.ch
 umzugsreinigung-luzern.ch
 umzugsreinigung-mit-abgabe.ch
 umzugsreinigung-mit-abgabegarantie.ch

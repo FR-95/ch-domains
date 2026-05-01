@@ -460,6 +460,7 @@ docashop.ch
 docassist.ch
 docassistance.ch
 docathome.ch
+docaudit.ch
 docautisme.ch
 docautomotive.ch
 docave.ch
@@ -613,7 +614,6 @@ dochypo.ch
 doci.ch
 docic-service.ch
 docic-services.ch
-docidea.ch
 docimdienst.ch
 docineers.ch
 docinfo.ch
@@ -957,6 +957,7 @@ doctari.ch
 doctaris.ch
 doctarius.ch
 doctatoo.ch
+doctax.ch
 docte.ch
 docteam.ch
 docteat.ch
@@ -3353,6 +3354,7 @@ dojoketsui.ch
 dojokun.ch
 dojolacezille.ch
 dojolelanderon.ch
+dojoleverage.ch
 dojoluzern.ch
 dojom.ch
 dojomendrisio.ch
@@ -4308,6 +4310,7 @@ dollmetall.ch
 dollofix.ch
 dollogozhda.ch
 dollpark.ch
+dollprofessional.ch
 dolls-and-more.ch
 dolls-paradise.ch
 dolls.ch
@@ -4846,6 +4849,7 @@ domain-umzug.ch
 domain-united.ch
 domain-universe.ch
 domain-verkauf.ch
+domain-verkaufen.ch
 domain-vermietung.ch
 domain-versteigerung.ch
 domain-verwalten.ch
@@ -4891,8 +4895,6 @@ domainaudit.ch
 domainbackorder.ch
 domainbeamer.ch
 domainberater.ch
-domainberatung.ch
-domainbesitzer.ch
 domainbestellsystem.ch
 domainbewerbung.ch
 domainbewertung.ch
@@ -5467,7 +5469,6 @@ domainhaendler.ch
 domainhafen.ch
 domainhandel.ch
 domainhandel24.ch
-domainhelden.ch
 domainhelp.ch
 domainhero.ch
 domainhit.ch
@@ -5503,7 +5504,6 @@ domainlicenses.ch
 domainlist.ch
 domainliste.ch
 domainloeschung.ch
-domainlogin.ch
 domainly.ch
 domainmagazin.ch
 domainmakler.ch
@@ -5708,7 +5708,6 @@ domainxpress.ch
 domainy.ch
 domainz.ch
 domainzauber.ch
-domainzauberer.ch
 domainzulassungsstelle.ch
 domaisy.ch
 domajn.ch
@@ -6121,7 +6120,6 @@ domicile.ch
 domicileagency.ch
 domicilehub.ch
 domicilephysio.ch
-domicileplus.ch
 domicileservice.ch
 domicileservices.ch
 domicileserviceswitzerland.ch
@@ -7270,7 +7268,6 @@ domizilphysio-luzern.ch
 domizilphysio.ch
 domizilphysiolu.ch
 domizilphysiosempachersee.ch
-domizilplus.ch
 domizilreha.ch
 domizilschweiz.ch
 domizilscout24.ch
@@ -8194,7 +8191,6 @@ donduarte.ch
 donducoeur.ch
 dondurma.ch
 dondusang-rendezvous.ch
-dondusang.ch
 dondyl.ch
 dondynasty.ch
 done-admin.ch
@@ -8340,8 +8336,11 @@ doniat.ch
 donic.ch
 donidalorsen.ch
 donidellanatura.ch
+donidemenagement.ch
+donidepannage.ch
 donidolittle.ch
 donify.ch
+donigarage.ch
 donight.ch
 donigroupe.ch
 donii.ch
@@ -8356,6 +8355,7 @@ doninelli.ch
 doninelliarchitetti.ch
 donini-photography.ch
 donio.ch
+donipneus.ch
 donireinigung.ch
 donirenovation.ch
 donis-tortenwelt.ch
@@ -8657,7 +8657,6 @@ donpaolo.ch
 donpascual.ch
 donpasquale.ch
 donpasquale1.ch
-donpat.ch
 donpatricio.ch
 donpaul.ch
 donpedro.ch
@@ -9515,6 +9514,7 @@ dore.ch
 dorea-joy.ch
 dorea.ch
 dorean.ch
+doreba.ch
 dorec.ch
 doreco.ch
 dorecoffee.ch
@@ -10204,7 +10204,6 @@ dorfquest.ch
 dorfrenne-berneck.ch
 dorfrevier.ch
 dorfrocker.ch
-dorfsaal.ch
 dorfsauna.ch
 dorfschaenke.ch
 dorfschaft-tafers.ch
@@ -10709,7 +10708,6 @@ dorisseiz.ch
 dorissigner.ch
 dorissima.ch
 dorisslongo.ch
-dorisstalder.ch
 dorisstaubmuster.ch
 dorisstrahm.ch
 dorisstrickler.ch
@@ -10780,6 +10778,7 @@ dormabell.ch
 dormabene.ch
 dormabetten.ch
 dormaforce.ch
+dormak.ch
 dormakaba-cloud.ch
 dormakaba-konfigurator.ch
 dormakaba-shop.ch
@@ -11107,7 +11106,6 @@ dorothee-schumacher.ch
 dorothee-von-rechenberg.ch
 dorothee.ch
 dorotheeargast.ch
-dorotheebaumann.ch
 dorotheedaehler.ch
 dorotheefelber.ch
 dorotheehoerni.ch
@@ -11190,7 +11188,6 @@ dortsein.ch
 dortwodiesonnescheint.ch
 doruhari.ch
 doruk.ch
-doruli.ch
 dorunova.ch
 doruntinastudiobeauty.ch
 dorure.ch
@@ -11857,7 +11854,6 @@ douaze.ch
 doub.ch
 douban.ch
 doubble.ch
-doubdle.ch
 doubi.ch
 doubidou.ch
 doubl-e.ch

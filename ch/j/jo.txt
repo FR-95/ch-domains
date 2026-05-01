@@ -557,7 +557,6 @@ job-restart.ch
 job-rh.ch
 job-robot.ch
 job-rocks.ch
-job-romm.ch
 job-room.ch
 job-routing.ch
 job-rrom.ch
@@ -2501,7 +2500,6 @@ jobswinner.ch
 jobswipe.ch
 jobswiss.ch
 jobswitch.ch
-jobswitzerland24h.ch
 jobswype.ch
 jobsx.ch
 jobsy.ch
@@ -3314,6 +3312,7 @@ jodora.ch
 jodosant.ch
 jodosuisse.ch
 jodozuerich.ch
+jodry.ch
 jodtabletten-umfrage.ch
 jodtabletten.ch
 jodufroue-willisau.ch
@@ -5521,6 +5520,7 @@ jola.ch
 jolada.ch
 jolain.ch
 jolam.ch
+jolamontages.ch
 jolan.ch
 jolana.ch
 jolanchappaz.ch
@@ -6260,7 +6260,6 @@ jonasdruey.ch
 jonasdubey.ch
 jonasdunkel.ch
 jonasebnoether.ch
-jonasegger.ch
 jonaseggmann.ch
 jonasehrismann.ch
 jonaseiche.ch
@@ -7589,6 +7588,7 @@ josef-ammann.ch
 josef-barnjak.ch
 josef-baut-zukunft.ch
 josef-bodenbelaege.ch
+josef-brunner-engineering.ch
 josef-brunner-fotografie.ch
 josef-buehler.ch
 josef-burri-gartenbau.ch

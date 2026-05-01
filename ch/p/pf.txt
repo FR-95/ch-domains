@@ -594,7 +594,6 @@ pfadiunterwalden.ch
 pfadiuro.ch
 pfadiuzwil.ch
 pfadivirus.ch
-pfadivisavis.ch
 pfadiwaldbauma.ch
 pfadiwaldmann.ch
 pfadiwallbach.ch
@@ -1240,6 +1239,7 @@ pfarrwiese.ch
 pfas-agricoltura.ch
 pfas-agriculture.ch
 pfas-check.ch
+pfas-checking.ch
 pfas-eau.ch
 pfas-entsorgen.ch
 pfas-entsorgung.ch
@@ -1248,10 +1248,12 @@ pfas-free.ch
 pfas-frei.ch
 pfas-landwirtschaft.ch
 pfas-sanierung.ch
+pfas-test.ch
 pfas-trinkwasserfilter.ch
 pfas.ch
 pfasanalyse.ch
 pfascheck.ch
+pfaschecking.ch
 pfasentsorgen.ch
 pfasentsorgung.ch
 pfasfilter.ch
@@ -1260,6 +1262,7 @@ pfasinitiative.ch
 pfasoz.ch
 pfassanierung.ch
 pfaster.ch
+pfastest.ch
 pfasuntersuch.ch
 pfasverbot.ch
 pfasyl-bern.ch
@@ -1873,7 +1876,6 @@ pferdedecken-waschservice.ch
 pferdedecken.ch
 pferdedeckenmeister.ch
 pferdedeckenmieten.ch
-pferdedeckenreinigen.ch
 pferdedeckenreinigung.ch
 pferdedeckenreparatur.ch
 pferdedeckenservice.ch
@@ -2325,7 +2327,6 @@ pferdesamariter.ch
 pferdesattel.ch
 pferdesattelkaufen.ch
 pferdeschlitten.ch
-pferdeschlittenfahrten.ch
 pferdeschmid.ch
 pferdeschmuck.ch
 pferdeschoepfli.ch
@@ -2350,7 +2351,6 @@ pferdesnacks.ch
 pferdesolarien.ch
 pferdesped.ch
 pferdespezialitaeten.ch
-pferdespiele.ch
 pferdespielzeug.ch
 pferdesport-24.ch
 pferdesport-basel.ch
@@ -3163,7 +3163,6 @@ pflaesterung.ch
 pflaesterungen.ch
 pflant-fit.ch
 pflanz-bauwerk.ch
-pflanz-box.ch
 pflanz-fit.ch
 pflanz-gut.ch
 pflanz-leben.ch
@@ -3187,7 +3186,6 @@ pflanzbergimmobilien.ch
 pflanzbergimmobilienag.ch
 pflanzbergprosima.ch
 pflanzbesser.ch
-pflanzbox.ch
 pflanzdasrare.ch
 pflanzdesign.ch
 pflanze-des-jahres.ch
@@ -3642,7 +3640,6 @@ pflege-calderone.ch
 pflege-campus.ch
 pflege-check.ch
 pflege-check24.ch
-pflege-coaching.ch
 pflege-community.ch
 pflege-controlling.ch
 pflege-daheim.ch
@@ -3909,7 +3906,6 @@ pflegebettmieten.ch
 pflegebezahlung.ch
 pflegebezahlungvergleich.ch
 pflegebeziehung.ch
-pflegebildungseeland.ch
 pflegeblog.ch
 pflegeboard.ch
 pflegeboerse.ch
@@ -4834,6 +4830,7 @@ pfoten-palast-hundesalon.ch
 pfoten-palast.ch
 pfoten-physio.ch
 pfoten-praxis.ch
+pfoten-reich.ch
 pfoten-schule.ch
 pfoten-service.ch
 pfoten-shop.ch
@@ -5176,7 +5173,6 @@ pfsiter.ch
 pfsk.ch
 pfsolutions.ch
 pfsports.ch
-pfss.ch
 pfst.ch
 pfster.ch
 pfstlaurent.ch

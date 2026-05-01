@@ -248,7 +248,6 @@ fabbri1905.ch
 fabbrica-culturale-baviera.ch
 fabbrica-del-dolce.ch
 fabbrica-di-siti.ch
-fabbrica-gialla.ch
 fabbrica-panettone.ch
 fabbrica-pasta.ch
 fabbrica.ch
@@ -346,7 +345,6 @@ fabelbund.ch
 fabelec.ch
 fabelei.ch
 fabelfabrik.ch
-fabelfeder.ch
 fabelform.ch
 fabelglass.ch
 fabelgy.ch
@@ -405,7 +403,6 @@ faberest.ch
 faberexpress.ch
 faberge-heritage.ch
 faberge.ch
-fabergegroup.ch
 faberia.ch
 faberimmo-bilier.ch
 faberit.ch
@@ -2367,7 +2364,6 @@ face-web.ch
 face-yoga.ch
 face-your-challenge.ch
 face-zentrum.ch
-face-zuerich.ch
 face.ch
 face2face-coaching.ch
 face2face-interview.ch
@@ -2623,6 +2619,7 @@ faces-model.ch
 faces-models.ch
 faces-photostudio.ch
 faces-project.ch
+faces-studio.ch
 faces-techniques.ch
 faces.ch
 faces2images.ch
@@ -3002,7 +2999,6 @@ fachgremium-sexualisiertegewalt.ch
 fachgruppe-montage.ch
 fachgruppe-strafrecht.ch
 fachgruppe-wbp.ch
-fachgruppe.ch
 fachgruppemontage.ch
 fachgruppetrans.ch
 fachgruppewbp.ch
@@ -4991,7 +4987,6 @@ fahrba.ch
 fahrbach.ch
 fahrbahn-platten.ch
 fahrbahnlabor.ch
-fahrbahnmarkierung.ch
 fahrbahnplatten.ch
 fahrbahnschwellen.ch
 fahrbahntechnik.ch
@@ -6535,7 +6530,6 @@ fahrschule-tischhauser.ch
 fahrschule-tom.ch
 fahrschule-toni.ch
 fahrschule-treichler.ch
-fahrschule-triengen.ch
 fahrschule-trinkler.ch
 fahrschule-troesch.ch
 fahrschule-udrive.ch
@@ -6552,7 +6546,6 @@ fahrschule-valentin.ch
 fahrschule-valeria.ch
 fahrschule-vali.ch
 fahrschule-vaso.ch
-fahrschule-vehapi.ch
 fahrschule-vergleichen.ch
 fahrschule-verkaufen.ch
 fahrschule-veton.ch
@@ -7215,7 +7208,6 @@ fahrunfaehig.ch
 fahrunterricht.ch
 fahrverbot-gyren.ch
 fahrverbot-in-deutschland.ch
-fahrverbot.ch
 fahrverein-rheintal.ch
 fahrverein-wil.ch
 fahrwaerk.ch
@@ -7464,7 +7456,6 @@ fahrzeugkameras.ch
 fahrzeugkauf.ch
 fahrzeugkaufberater.ch
 fahrzeugkaufen.ch
-fahrzeugkennzeichnung.ch
 fahrzeugklima.ch
 fahrzeugkosmetik.ch
 fahrzeugkran.ch
@@ -7483,7 +7474,6 @@ fahrzeuglieferungen.ch
 fahrzeuglogistik.ch
 fahrzeugmacher.ch
 fahrzeugmarkierung.ch
-fahrzeugmarkierungen.ch
 fahrzeugmarkt.ch
 fahrzeugmiete.ch
 fahrzeugmieten.ch
@@ -8144,7 +8134,6 @@ faire-mieten-bern.ch
 faire-milch-jetzt.ch
 faire-milch.ch
 faire-part-naissance.ch
-faire-part-photo.ch
 faire-part.ch
 faire-physio-tarife.ch
 faire-praemien.ch
@@ -8294,6 +8283,7 @@ fairfield-capital.ch
 fairfield.ch
 fairfieldcapital.ch
 fairfilming.ch
+fairfinance-bs.ch
 fairfinance.ch
 fairfinanzen.ch
 fairfish.ch
@@ -8458,7 +8448,6 @@ fairlox.ch
 fairlux.ch
 fairluxury.ch
 fairly.ch
-fairmade.ch
 fairmail.ch
 fairmanagement.ch
 fairmandat.ch
@@ -8860,7 +8849,6 @@ fairway-lounge.ch
 fairway-management.ch
 fairway-marketing.ch
 fairway-ticino.ch
-fairway-watches.ch
 fairway.ch
 fairway2hotel.ch
 fairwayd.ch
@@ -10767,7 +10755,6 @@ famahu.ch
 famaia.ch
 famaigner.ch
 famainvest.ch
-famait.ch
 famako.ch
 famalam.ch
 famalbert.ch
@@ -11159,7 +11146,6 @@ famiglia-desimoni.ch
 famiglia-dimitri.ch
 famiglia-esempio.ch
 famiglia-leccese.ch
-famiglia-online.ch
 famiglia-planta.ch
 famiglia-rossi.ch
 famiglia-solazzo.ch
@@ -11186,7 +11172,6 @@ famiglieinrete.ch
 famigliemonoparentali.ch
 famiglieperaccoglienza.ch
 famigo.ch
-famigos.ch
 famigro.ch
 famigros-ski-day.ch
 famigros-ski-days.ch
@@ -11230,6 +11215,7 @@ familiaer-umsorgt.ch
 familiaesach.ch
 familial.ch
 familialex.ch
+familialmarket.ch
 familiamo.ch
 familiamus.ch
 familiance.ch
@@ -11583,7 +11569,6 @@ familie-oberer.ch
 familie-obrist.ch
 familie-okle.ch
 familie-onland.ch
-familie-online.ch
 familie-oswald.ch
 familie-ott.ch
 familie-ou.ch
@@ -12689,7 +12674,6 @@ familiennetzrueti.ch
 familiennetzwerk.ch
 familiennotruf.ch
 familienoase.ch
-familienonline.ch
 familienoptiker.ch
 familienorchesterhalter.ch
 familienorientierung-winterthur.ch
@@ -12716,7 +12700,6 @@ familienplattform-ostschweiz.ch
 familienplattform.ch
 familienplatzierung-surselva.ch
 familienplatzierung.ch
-familienplausch.ch
 familienplauschtag.ch
 familienpodcast.ch
 familienpoint.ch
@@ -13500,7 +13483,6 @@ famille-morard.ch
 famille-muller.ch
 famille-munier.ch
 famille-office.ch
-famille-online.ch
 famille-orsini.ch
 famille-palmisano.ch
 famille-pantillon.ch
@@ -13807,7 +13789,6 @@ family-business.ch
 family-by-fti.ch
 family-calendar.ch
 family-camp.ch
-family-camping.ch
 family-car.ch
 family-card.ch
 family-care-sagl.ch
@@ -15079,7 +15060,6 @@ fan-artikelshop.ch
 fan-band.ch
 fan-bands.ch
 fan-bank.ch
-fan-blog.ch
 fan-blogging.ch
 fan-cam.ch
 fan-city.ch
@@ -15199,7 +15179,6 @@ fanc.ch
 fancam.ch
 fancamp.ch
 fancamp08.ch
-fancar.ch
 fancci.ch
 fanccom.ch
 fancell.ch
@@ -15339,7 +15318,6 @@ fanduell.ch
 fandy.ch
 fane-it.ch
 fane.ch
-fanecke.ch
 faneda.ch
 fanel.ch
 fanelli.ch
@@ -15790,7 +15768,6 @@ fanstastic-events.ch
 fanstein.ch
 fansub.ch
 fanszene-langnau.ch
-fanszene.ch
 fant.ch
 fanta-drive.ch
 fanta-four.ch
@@ -16630,7 +16607,6 @@ farbenblitz.ch
 farbenblues.ch
 farbenbote.ch
 farbenbuntefrohmalerei.ch
-farbencenter.ch
 farbencentergossau.ch
 farbenderseele.ch
 farbendertrauer.ch
@@ -16695,6 +16671,7 @@ farbenleben.ch
 farbenlehre.ch
 farbenleicht-kreativcoaching.ch
 farbenleicht.ch
+farbenlernen.ch
 farbenlust.ch
 farbenmaenner.ch
 farbenmann.ch
@@ -16785,7 +16762,6 @@ farbeundklang.ch
 farbeundlicht.ch
 farbeundmehr.ch
 farbeundobjekt.ch
-farbeundraum.ch
 farbeundstil.ch
 farbexperiment.ch
 farbey.ch
@@ -17260,6 +17236,7 @@ farfalla-essentials.ch
 farfalla-express.ch
 farfalla-post.ch
 farfalla-seminar.ch
+farfalla-trauerbegleitung.ch
 farfalla.ch
 farfallas.ch
 farfallazentrum.ch
@@ -20438,7 +20415,6 @@ fatattack.ch
 fatbag.ch
 fatbear.ch
 fatbelly.ch
-fatbike.ch
 fatbikes.ch
 fatbikezermatt.ch
 fatbiking.ch
@@ -21353,6 +21329,7 @@ fawi.ch
 fawic.ch
 fawino.ch
 fawis.ch
+fawkes.ch
 fawnhistoire.ch
 fawnlakeresort.ch
 fawnquest.ch
@@ -21483,7 +21460,6 @@ fayon.ch
 fayona.ch
 fayonfamily.ch
 fayonline.ch
-fayosmartservices.ch
 fayrouz-garden.ch
 fayrouz.ch
 fayrouzvevey.ch
@@ -21550,7 +21526,6 @@ fazio-cool.ch
 fazio-dodo.ch
 fazio-ge.ch
 fazio-menuiserie.ch
-fazio-move.ch
 fazio-nutrition.ch
 fazio.ch
 fazioli-center.ch

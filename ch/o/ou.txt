@@ -534,6 +534,7 @@ ourpets.ch
 ourplace.ch
 ourplan.ch
 ourplanet.ch
+ourplantgrimoire.ch
 ourplants.ch
 ourpor.ch
 ourpower.ch
@@ -665,7 +666,6 @@ out-of-home.ch
 out-of-nastravik.ch
 out-of-nastravik2.ch
 out-of-office.ch
-out-of-paper.ch
 out-of-praxis.ch
 out-of-space.ch
 out-of-stock.ch
@@ -1631,6 +1631,7 @@ outletaubonne.ch
 outletb.ch
 outletbazar.ch
 outletbikes.ch
+outletboozt.ch
 outletbox.ch
 outletbrautkleider.ch
 outletbrautmode.ch

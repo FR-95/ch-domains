@@ -293,7 +293,6 @@ efexor.ch
 eff-eff.ch
 eff-zett.ch
 eff.ch
-eff2.ch
 eff4.ch
 eff7am.ch
 effa.ch
@@ -384,7 +383,6 @@ effektdesign.ch
 effekte.ch
 effektfeuer.ch
 effektiv-digital.ch
-effektiv-lernen.ch
 effektiv-sein.ch
 effektiv-spenden.ch
 effektiv.ch
@@ -1094,10 +1092,10 @@ efristen.ch
 efriz.ch
 efrl.ch
 efro.ch
+efront.ch
 efrontier.ch
 efrossard.ch
 efs-clan.ch
-efs-fps.ch
 efs-fsfp.ch
 efs-rssk.ch
 efs-ves.ch
@@ -1212,7 +1210,6 @@ eftinfo.ch
 eftinternational.ch
 eftjunior-senior.ch
 eftlernen.ch
-eftluzern.ch
 eftnet.ch
 eftofficiel.ch
 eftoptimal.ch

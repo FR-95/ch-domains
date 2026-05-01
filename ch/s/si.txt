@@ -1216,6 +1216,7 @@ sicher-senden.ch
 sicher-ses.ch
 sicher-sicher.ch
 sicher-spielen.ch
+sicher-stehen.ch
 sicher-stuerzen.ch
 sicher-surfen.ch
 sicher-technik.ch
@@ -1741,7 +1742,6 @@ sicherheitsshop.ch
 sicherheitsshop24.ch
 sicherheitssnetze.ch
 sicherheitssoftware.ch
-sicherheitsspiegel.ch
 sicherheitssprengung.ch
 sicherheitssteigerung.ch
 sicherheitsstiefel.ch
@@ -1871,6 +1871,7 @@ sichersichersein.ch
 sichersohle.ch
 sicherspielen.ch
 sicherstart.ch
+sicherstehen.ch
 sichersteller.ch
 sicherstellung.ch
 sicherstudieren.ch
@@ -3929,7 +3930,6 @@ sif-mail.ch
 sif-org.ch
 sif-sa.ch
 sifa-consulting.ch
-sifa-eurofilmer.ch
 sifa-filmer.ch
 sifa-schweiz.ch
 sifa-treuhand.ch
@@ -4374,7 +4374,6 @@ sigirol.ch
 sigis-ampshop.ch
 sigis-antiquitaeten.ch
 sigis-art.ch
-sigis-atelier.ch
 sigis-autogarage.ch
 sigis-biohof.ch
 sigis-burger.ch
@@ -5506,7 +5505,6 @@ sigtech.ch
 sigtelecom.ch
 sigterm.ch
 sigtools.ch
-sigu.ch
 sigubald.ch
 sigue-el-tango.ch
 sigunity.ch
@@ -6267,7 +6265,6 @@ silberboerse.ch
 silberbruennen.ch
 silberbuex.ch
 silberbulle.ch
-silberclub.ch
 silbercom.ch
 silbercomm.ch
 silbercorner.ch
@@ -6297,7 +6294,6 @@ silberfee.ch
 silberfenster.ch
 silberfin.ch
 silberfis.ch
-silberfisch.ch
 silberfischchen.ch
 silberfischli.ch
 silberfit.ch
@@ -6349,7 +6345,6 @@ silberhorn.ch
 silberhorndistillery.ch
 silberhornimmo.ch
 silberhornmusic.ch
-silberhornproperty.ch
 silberhornspirits.ch
 silberhornwhisky.ch
 silberigeli.ch
@@ -7139,7 +7134,6 @@ silikon-beissartikel.ch
 silikon-einfaerben.ch
 silikon-form.ch
 silikon-fuge.ch
-silikon-fugen.ch
 silikon-schaltmatten.ch
 silikon-spritzguss.ch
 silikon.ch
@@ -7223,7 +7217,6 @@ siljavanderdoes.ch
 siljawalter.ch
 silje.ch
 silk-art.ch
-silk-avenue.ch
 silk-beautylounge.ch
 silk-bioactives.ch
 silk-bound.ch
@@ -8275,7 +8268,6 @@ silverhill-residence.ch
 silverhill.ch
 silverhome.ch
 silverhorns.ch
-silverhouse.ch
 silverhub.ch
 silverimmobilier.ch
 silvering.ch
@@ -8371,6 +8363,7 @@ silversea-schweiz.ch
 silversea.ch
 silverseal.ch
 silverseas.ch
+silverseed.ch
 silversense.ch
 silverservices.ch
 silversfishing.ch
@@ -8515,7 +8508,6 @@ silvesterfeuerwerk.ch
 silvestergala.ch
 silvestergruppe.ch
 silvesterklausen.ch
-silvesterkonzert.ch
 silvesterlaeuten.ch
 silvesterlauf-news.ch
 silvesterlauf-schweiz.ch
@@ -9042,7 +9034,6 @@ sim-ca-design.ch
 sim-card.ch
 sim-center.ch
 sim-concept.ch
-sim-contract.ch
 sim-drive.ch
 sim-edu.ch
 sim-fabrik.ch
@@ -9348,7 +9339,6 @@ simcon.ch
 simconex.ch
 simcons.ch
 simconsulting.ch
-simcontract.ch
 simcoo.ch
 simcool.ch
 simcopter.ch
@@ -10658,7 +10648,6 @@ simonemengani.ch
 simonemerkli.ch
 simonemeyer.ch
 simonemohri.ch
-simonemonhart.ch
 simonemonney.ch
 simonemonstein.ch
 simonemosch.ch
@@ -12855,6 +12844,7 @@ simtexag.ch
 simtgmbh.ch
 simtho.ch
 simtis.ch
+simtoc.ch
 simtra.ch
 simtrack-racing.ch
 simtrack.ch
@@ -13981,7 +13971,6 @@ singleboersencheck.ch
 singleboersenexperte.ch
 singleboersenprofi.ch
 singleboersenvergleich.ch
-singlebox.ch
 singlebroker.ch
 singlebuure.ch
 singlecards.ch
@@ -14114,7 +14103,6 @@ singlesegeltoern.ch
 singleseite.ch
 singleselite.ch
 singlesferien.ch
-singlesflirt.ch
 singlesfotographie.ch
 singleshotfpv.ch
 singlesign.ch
@@ -14589,7 +14577,6 @@ sinnfluence.ch
 sinnfluencer.ch
 sinnflut-band.ch
 sinnflut-studio.ch
-sinnflut.ch
 sinnfonia.ch
 sinnfonie.ch
 sinnform.ch
@@ -14819,7 +14806,6 @@ sinoce.ch
 sinocom.ch
 sinoconsult.ch
 sinoconsulting.ch
-sinoda.ch
 sinodus.ch
 sinogowitz.ch
 sinograph.ch
@@ -15555,7 +15541,6 @@ sipware.ch
 sipwave.ch
 sipwell.ch
 sipwise.ch
-sipy.ch
 sipyo.ch
 sipz.ch
 sipzero.ch
@@ -16243,7 +16228,6 @@ sisch.ch
 sischu.ch
 sischwiesisch.ch
 sischwisisch.ch
-sischziit.ch
 sischzyt.ch
 siscloud.ch
 sisco-immo.ch
@@ -16928,6 +16912,7 @@ sitederencontrex.ch
 sitedesign.ch
 sitedesign4you.ch
 sitedesigner.ch
+sitedesk.ch
 sitedesp.ch
 sitedev.ch
 sitedock.ch
@@ -17053,6 +17038,7 @@ sitepulse.ch
 sitepuma.ch
 sitequest.ch
 siter.ch
+sitera.ch
 siterapide.ch
 siteready.ch
 siterencontre.ch
@@ -17180,6 +17166,7 @@ sitewebpro.ch
 sitewebs.ch
 sitewebstx.ch
 sitewebvalais.ch
+sitewebvaud.ch
 sitewebwallis.ch
 sitewerk-ag.ch
 sitewerk-digital.ch

@@ -367,7 +367,6 @@ ihr-arzt.ch
 ihr-auftritt.ch
 ihr-baecker.ch
 ihr-banker.ch
-ihr-bauer.ch
 ihr-bauland.ch
 ihr-baum.ch
 ihr-baumaterial.ch
@@ -621,7 +620,6 @@ ihrauto.ch
 ihrautohaus.ch
 ihrbanker.ch
 ihrbauberater.ch
-ihrbauer.ch
 ihrbaulabor.ch
 ihrbaum.ch
 ihrbaumanager.ch

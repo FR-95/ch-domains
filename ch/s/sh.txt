@@ -392,7 +392,6 @@ shadow-ink-art.ch
 shadow-ink.ch
 shadow-it.ch
 shadow-light.ch
-shadow-studio.ch
 shadow-wolf.ch
 shadow.ch
 shadow360.ch
@@ -579,7 +578,6 @@ shailter.ch
 shaima.ch
 shaina.ch
 shaini.ch
-shainx.ch
 shaip.ch
 shair.ch
 shaircraft.ch
@@ -3586,7 +3584,6 @@ shiatsu-scherler.ch
 shiatsu-schindellegi.ch
 shiatsu-schmerztherapie.ch
 shiatsu-schriber.ch
-shiatsu-schule.ch
 shiatsu-schwander.ch
 shiatsu-schwerzenbach.ch
 shiatsu-schwyz.ch
@@ -4078,6 +4075,7 @@ shiftracing.ch
 shiftrental.ch
 shifts-in-mapping.ch
 shifts.ch
+shiftselect.ch
 shiftsinmapping.ch
 shiftsolutions.ch
 shiftspace.ch
@@ -4796,7 +4794,6 @@ shirt-versand.ch
 shirt-zurich.ch
 shirt.ch
 shirt0815.ch
-shirt24.ch
 shirt4business.ch
 shirt4me.ch
 shirt4you.ch
@@ -5145,7 +5142,6 @@ shk-fachshop.ch
 shk-haustechnik.ch
 shk-selektion.ch
 shk-shop.ch
-shk-verein.ch
 shk.ch
 shk360.ch
 shkanti.ch
@@ -5439,7 +5435,6 @@ shoerepairbox.ch
 shoeroom.ch
 shoes-and-shirts.ch
 shoes-bags.ch
-shoes-for-less.ch
 shoes-lovers.ch
 shoes-off.ch
 shoes-shop.ch
@@ -6634,7 +6629,6 @@ shophouse.ch
 shophub.ch
 shophuilemassage.ch
 shophumanoid.ch
-shopi.ch
 shopia.ch
 shopic.ch
 shopica.ch
@@ -7406,7 +7400,6 @@ shopthestory.ch
 shopthislook.ch
 shopthun.ch
 shoptidynest.ch
-shoptilyoudrop.ch
 shoptimate.ch
 shoptime.ch
 shoptimize.ch
@@ -8485,7 +8478,6 @@ shswissclean.ch
 sht-ag.ch
 sht-haustechnik.ch
 sht-ingenieure.ch
-sht-ostschweiz.ch
 sht-praxis.ch
 sht-schlegel-hotel-treuhand.ch
 sht-selbstheilungstechnik.ch

@@ -274,7 +274,6 @@ typewerk.ch
 typewise.ch
 typeworks.ch
 typewriter.ch
-typewritermanufacture.ch
 typewritermanufaktur.ch
 typewriters.ch
 typfrage.ch
@@ -422,7 +421,6 @@ typo3experts.ch
 typo3in1.ch
 typo3in2.ch
 typo3in4.ch
-typo3kurse.ch
 typo3lom.ch
 typo3profi.ch
 typo3profis.ch

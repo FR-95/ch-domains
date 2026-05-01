@@ -252,6 +252,7 @@ icattaneo.ch
 icaur.ch
 icav.ch
 icavalli.ch
+icawe.ch
 icaz.ch
 icb-bau.ch
 icb-hlks-eng.ch
@@ -1702,6 +1703,7 @@ ici7ou9.ch
 icia.ch
 iciailleurs.ch
 iciam.ch
+iciam07.ch
 iciannonces.ch
 iciar-personal-trainer.ch
 icicest.ch
@@ -2358,6 +2360,7 @@ icplaner.ch
 icplog.ch
 icpmgmtprod.ch
 icpmgmttest.ch
+icpo.ch
 icpro.ch
 icproducts.ch
 icps.ch
@@ -2724,7 +2727,6 @@ ict-security.ch
 ict-sekuster.ch
 ict-service-abo.ch
 ict-service.ch
-ict-servicedesk.ch
 ict-services.ch
 ict-sf.ch
 ict-sh.ch

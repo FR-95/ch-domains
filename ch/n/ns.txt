@@ -1952,7 +1952,6 @@ ns1.heinigerengineering.ch
 ns1.heissmann.ch
 ns1.helbling-networks.ch
 ns1.held-webconsulting.ch
-ns1.helfenberger-it-consulting.ch
 ns1.helfenfinger.ch
 ns1.helgahalbritter.ch
 ns1.helix-it.ch
@@ -2742,7 +2741,6 @@ ns1.nnx.ch
 ns1.nodom.ch
 ns1.noflow.ch
 ns1.nofun.ch
-ns1.nogh.ch
 ns1.noise.ch
 ns1.nonancoraincinta.ch
 ns1.nonsolopittura.ch
@@ -3495,7 +3493,6 @@ ns1.swiprode.ch
 ns1.swiss-bike-training.ch
 ns1.swiss-dt.ch
 ns1.swiss-farmers.ch
-ns1.swiss-full.ch
 ns1.swiss-pc.ch
 ns1.swiss-portal.ch
 ns1.swiss-support.ch
@@ -5262,7 +5259,6 @@ ns2.heinigerengineering.ch
 ns2.heissmann.ch
 ns2.helbling-networks.ch
 ns2.held-webconsulting.ch
-ns2.helfenberger-it-consulting.ch
 ns2.helfenfinger.ch
 ns2.helgahalbritter.ch
 ns2.helix-it.ch
@@ -6014,7 +6010,6 @@ ns2.nnv.ch
 ns2.nnx.ch
 ns2.nodom.ch
 ns2.nogadata.ch
-ns2.nogh.ch
 ns2.noise.ch
 ns2.nolink.ch
 ns2.nonsolopittura.ch
@@ -6743,7 +6738,6 @@ ns2.swiss-bike-training.ch
 ns2.swiss-dt.ch
 ns2.swiss-electricity.ch
 ns2.swiss-farmers.ch
-ns2.swiss-full.ch
 ns2.swiss-made-store.ch
 ns2.swiss-pc.ch
 ns2.swiss-portal.ch
@@ -8718,7 +8712,6 @@ nsnmedical.ch
 nsnmedicaljobs.ch
 nsns.ch
 nsnservices.ch
-nsnw-bsa.ch
 nsnw.ch
 nsnz.ch
 nso-tea.ch

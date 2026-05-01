@@ -303,7 +303,6 @@ bsa-portail.ch
 bsa-regeltechnik.ch
 bsa-registration.ch
 bsa-rosati.ch
-bsa-scheiber.ch
 bsa-soft.ch
 bsa-softtrade.ch
 bsa-tech.ch
@@ -354,7 +353,6 @@ bsb-bodensee.ch
 bsb-buelach.ch
 bsb-business-it.ch
 bsb-eng.ch
-bsb-fashion.ch
 bsb-gmbh.ch
 bsb-info-partner.ch
 bsb-infopartner.ch
@@ -388,7 +386,6 @@ bsbedu.ch
 bsbenergie.ch
 bsberatung.ch
 bsbern.ch
-bsbfashion.ch
 bsbgmbh.ch
 bsbh.ch
 bsbios.ch
@@ -1401,10 +1398,8 @@ bswolfensberg.ch
 bsws.ch
 bswsecurity.ch
 bswvg.ch
-bsx.ch
 bsy-finance.ch
 bsy.ch
-bsync.ch
 bsys.ch
 bsystem.ch
 bsystems.ch

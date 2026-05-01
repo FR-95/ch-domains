@@ -47,6 +47,8 @@ ki-analyzer.ch
 ki-anbieter.ch
 ki-anfragesystem.ch
 ki-anrufbeantworter.ch
+ki-anwaelte-schweiz.ch
+ki-anwaelte.ch
 ki-anwalt.ch
 ki-anwendungen.ch
 ki-apero.ch
@@ -178,7 +180,7 @@ ki-consulting.ch
 ki-consulting24.ch
 ki-consultingagency.ch
 ki-content-generator.ch
-ki-content.ch
+ki-contor.ch
 ki-control.ch
 ki-controlling.ch
 ki-cosmetic.ch
@@ -277,8 +279,10 @@ ki-frei.ch
 ki-freund.ch
 ki-freundin.ch
 ki-fuer-alle.ch
+ki-fuer-anwaelte.ch
 ki-fuer-dich.ch
 ki-fuer-firmen.ch
+ki-fuer-juristen.ch
 ki-fuer-unternehmen.ch
 ki-game.ch
 ki-ganzeinfach.ch
@@ -496,7 +500,6 @@ ki-marketinghub.ch
 ki-marketingstrategie.ch
 ki-marketintelligence.ch
 ki-marktplatz.ch
-ki-maschine.ch
 ki-massage.ch
 ki-massagenergie.ch
 ki-master.ch
@@ -564,7 +567,6 @@ ki-onlinekurs.ch
 ki-onlinekurse.ch
 ki-onlinemarketing.ch
 ki-optimieren.ch
-ki-optimiert.ch
 ki-optimierung.ch
 ki-or-ai.ch
 ki-organisationsentwicklung.ch
@@ -626,17 +628,16 @@ ki-puls.ch
 ki-punkt.ch
 ki-ra.ch
 ki-radar.ch
-ki-ranking.ch
 ki-rat.ch
 ki-ratgeber.ch
 ki-raum.ch
 ki-raumgestaltung.ch
 ki-rausch.ch
 ki-rche.ch
-ki-ready.ch
 ki-rechnung.ch
 ki-rechnungsprogramm.ch
 ki-recht.ch
+ki-rechtsanwaelte.ch
 ki-rechtsauskunft.ch
 ki-rechtsdienst.ch
 ki-rechtsexperten.ch
@@ -760,6 +761,7 @@ ki-stutz.ch
 ki-suche-agentur.ch
 ki-suche.ch
 ki-suchen.ch
+ki-suchmaschine.ch
 ki-suchoptimierung.ch
 ki-suisse.ch
 ki-summit.ch
@@ -900,7 +902,6 @@ ki-worker.ch
 ki-works.ch
 ki-workshop-schweiz.ch
 ki-workshop.ch
-ki-workshops.ch
 ki-workspace.ch
 ki-world.ch
 ki-x-start.ch
@@ -922,6 +923,7 @@ ki01.ch
 ki1.ch
 ki10.ch
 ki24.ch
+ki360.ch
 ki365.ch
 ki3d.ch
 ki4b.ch
@@ -963,7 +965,6 @@ kia-fleet-experience.ch
 kia-fleet.ch
 kia-flex.ch
 kia-fribourg.ch
-kia-garage.ch
 kia-garagen.ch
 kia-gordola.ch
 kia-graubuenden.ch
@@ -1668,6 +1669,7 @@ kiconsulting24.ch
 kiconsultingschweiz.ch
 kiconsultingzug.ch
 kicontent.ch
+kicontor.ch
 kicontrol.ch
 kicontrolling.ch
 kicosmetic.ch
@@ -2207,7 +2209,6 @@ kidsconceptstore.ch
 kidsconept.ch
 kidsconnect.ch
 kidscontrol.ch
-kidscorner-kico.ch
 kidscorner-koelliken.ch
 kidscorner-swiss.ch
 kidscorner.ch
@@ -3038,7 +3039,6 @@ kienbaum-compensation-portal.ch
 kienbaum-compensation.ch
 kienbaum.ch
 kienberg-plus.ch
-kienberg-singers.ch
 kienberg.ch
 kienberg24.ch
 kienberger-architektur.ch
@@ -3471,7 +3471,6 @@ kihaco.ch
 kihaginkgo.ch
 kihausarzt.ch
 kihe.ch
-kihelden.ch
 kihelfer.ch
 kihelferli.ch
 kihelpers.ch
@@ -3700,6 +3699,7 @@ kikla.ch
 kiklic.ch
 kikmu.ch
 kiknet-herz.ch
+kiknet-swisstopo.ch
 kiknet.ch
 kiknowhow.ch
 kiko-ag.ch
@@ -3852,7 +3852,6 @@ kilchbergathletik.ch
 kilchberger-allrounder.ch
 kilchberger-bier.ch
 kilchberger-schwinget.ch
-kilchberger.ch
 kilchbergerschwinget.ch
 kilchberghome.ch
 kilchbergstrasse.ch
@@ -4396,6 +4395,7 @@ kimby.ch
 kimc.ch
 kimcarigiet.ch
 kimchak.ch
+kimchanel.ch
 kimchee.ch
 kimcheese.ch
 kimchi-bremgarten.ch
@@ -5053,6 +5053,7 @@ kinder-koffer.ch
 kinder-kompetenz-coaching.ch
 kinder-kongress.ch
 kinder-kontaktlinsen.ch
+kinder-konzentration.ch
 kinder-konzert.ch
 kinder-konzerte.ch
 kinder-kram.ch
@@ -5074,6 +5075,7 @@ kinder-leicht.ch
 kinder-lern-welt.ch
 kinder-lernatelier.ch
 kinder-lernen-anders.ch
+kinder-lernen-leichter.ch
 kinder-lernen-retten.ch
 kinder-lernwelt.ch
 kinder-lesefreude.ch
@@ -5198,7 +5200,6 @@ kinder-ski.ch
 kinder-skitouren.ch
 kinder-smile.ch
 kinder-sola-puls3.ch
-kinder-sonnenbrille.ch
 kinder-sonnencreme.ch
 kinder-sonnenschutz.ch
 kinder-spa.ch
@@ -5236,6 +5237,7 @@ kinder-therapie-winterthur.ch
 kinder-therapie.ch
 kinder-tiere-natur.ch
 kinder-trails.ch
+kinder-trainer-werden.ch
 kinder-turnen.ch
 kinder-turniere.ch
 kinder-ueberraschen.ch
@@ -5401,7 +5403,6 @@ kinderarzt-baenziger.ch
 kinderarzt-basel.ch
 kinderarzt-beck.ch
 kinderarzt-berikon.ch
-kinderarzt-bern.ch
 kinderarzt-bienzgut.ch
 kinderarzt-binningen.ch
 kinderarzt-bollwerk.ch
@@ -5491,7 +5492,6 @@ kinderarzt.ch
 kinderarztaesch.ch
 kinderarztambellevue.ch
 kinderarztbasel.ch
-kinderarztbern.ch
 kinderarztburgdorf.ch
 kinderarztemmen.ch
 kinderarztfloruster.ch
@@ -5515,7 +5515,6 @@ kinderarztpraxis-arbon.ch
 kinderarztpraxis-baar.ch
 kinderarztpraxis-bellorini.ch
 kinderarztpraxis-bellorinisinger.ch
-kinderarztpraxis-bern.ch
 kinderarztpraxis-bienzgut.ch
 kinderarztpraxis-buchs.ch
 kinderarztpraxis-buchwald.ch
@@ -5603,7 +5602,6 @@ kinderarztpraxis-zug.ch
 kinderarztpraxis.ch
 kinderarztpraxisambahnhof.ch
 kinderarztpraxisampfannenstiel.ch
-kinderarztpraxisbern.ch
 kinderarztpraxisfriesenberg.ch
 kinderarztpraxisimseefeld.ch
 kinderarztpraxiskoenig.ch
@@ -5855,7 +5853,6 @@ kinderburma.ch
 kinderburnout.ch
 kinderbutt.ch
 kindercafe.ch
-kindercamp.ch
 kindercampus-schaffhausen.ch
 kindercampus.ch
 kindercapoeira.ch
@@ -6389,7 +6386,6 @@ kinderjeans.ch
 kinderjodelchoerli-kaltbrunn.ch
 kinderjodelchoerli-rheintal.ch
 kinderjodelchoerli-spiicher.ch
-kinderjodelchoerli-tannzapfenland.ch
 kinderjodelchoerli.ch
 kinderjodler-jaun.ch
 kinderjodlerchoerli-haslital-obererbrienzersee.ch
@@ -6500,6 +6496,7 @@ kinderkompetenzzentrum.ch
 kinderkonferenz.ch
 kinderkongress.ch
 kinderkonto.ch
+kinderkonzentration.ch
 kinderkonzept.ch
 kinderkonzert.ch
 kinderkonzerte.ch
@@ -6698,7 +6695,6 @@ kinderkrippeschneeflocke.ch
 kinderkrippeseestern.ch
 kinderkrippesennhof.ch
 kinderkrippesimba.ch
-kinderkrippesonnenhaus.ch
 kinderkrippestaernschnuppe.ch
 kinderkrippesunneschyn.ch
 kinderkrippewaldgeistli.ch
@@ -6753,6 +6749,7 @@ kinderleichtentdecken.ch
 kinderleichtgmbh.ch
 kinderleichtversichert.ch
 kinderlernenessen.ch
+kinderlernenleichter.ch
 kinderlernenretten.ch
 kinderlernoase.ch
 kinderlernsoftware.ch
@@ -6788,7 +6785,6 @@ kinderlogopaedie.ch
 kinderlogopaedieuster.ch
 kinderlogouster.ch
 kinderlos-wie-weiter.ch
-kinderlos.ch
 kindermachen.ch
 kindermagazin.ch
 kindermagazine.ch
@@ -7597,8 +7593,12 @@ kindertrachtengruppe-aegerital.ch
 kindertraeume.ch
 kindertraeumli.ch
 kindertrails.ch
+kindertrainer-ausbildung.ch
+kindertrainer-online.ch
 kindertrainer.ch
 kindertrainerausbildung.ch
+kindertraineronline.ch
+kindertrainerwerden.ch
 kindertraining.ch
 kindertraktor.ch
 kindertraktor24.ch
@@ -7884,7 +7884,6 @@ kinderzahnaerzte-luzern.ch
 kinderzahnaerzte.ch
 kinderzahnaerztin.ch
 kinderzahnarzt-aargau-limmattal.ch
-kinderzahnarzt-ammann.ch
 kinderzahnarzt-baden.ch
 kinderzahnarzt-basel.ch
 kinderzahnarzt-bern.ch
@@ -8413,6 +8412,7 @@ kinegeneve.ch
 kineglaris.ch
 kinegram.ch
 kinegysi.ch
+kinehealth.ch
 kinehome.ch
 kineis.ch
 kinej.ch
@@ -10237,6 +10237,7 @@ kino4u.ch
 kinoa.ch
 kinoaarau.ch
 kinoaarenau.ch
+kinoabc.ch
 kinoagency.ch
 kinoamberg.ch
 kinoampool.ch
@@ -10337,7 +10338,6 @@ kinolenzburg.ch
 kinolichter.ch
 kinolichtspieleolten.ch
 kinoliebefeld.ch
-kinolli.ch
 kinolo.ch
 kinolokal.ch
 kinolover.ch
@@ -11013,7 +11013,6 @@ kirareisen.ch
 kiras-koje-auf-usedom.ch
 kiras.ch
 kiraseiler.ch
-kirasha.ch
 kirastahel.ch
 kirasworld.ch
 kirat-it.ch
@@ -13537,7 +13536,6 @@ kita-software.ch
 kita-solothurn.ch
 kita-sonneblueme.ch
 kita-sonnenblume.ch
-kita-sonnenhaus.ch
 kita-sonnenland.ch
 kita-sonnenschein-flawil.ch
 kita-sonnenschein.ch
@@ -14058,7 +14056,6 @@ kitaso.ch
 kitasoft.ch
 kitasonnbuehl.ch
 kitasonnenblume.ch
-kitasonnenhaus.ch
 kitaspezial.ch
 kitaspielberg.ch
 kitaspielblock.ch
@@ -14570,6 +14567,7 @@ kiti-fit.ch
 kiti-logistik.ch
 kiti.ch
 kitic.ch
+kitid.ch
 kitierleben.ch
 kitihacienda.ch
 kitihof-online.ch

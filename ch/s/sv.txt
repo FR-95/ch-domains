@@ -520,6 +520,7 @@ svconsultingtrading.ch
 svcostruzioni.ch
 svcs.ch
 svcz.ch
+svd-coaching.ch
 svd-communication.ch
 svd-dl.ch
 svd-psychotherapie.ch
@@ -2416,6 +2417,7 @@ svp-thurgau.ch
 svp-titterten.ch
 svp-toffen.ch
 svp-toggenburg.ch
+svp-triengen.ch
 svp-truellikon.ch
 svp-tschoppenhof.ch
 svp-tuggen.ch
@@ -2442,7 +2444,6 @@ svp-uttigen.ch
 svp-utzenstorf.ch
 svp-uznach.ch
 svp-vechigen.ch
-svp-villmergen.ch
 svp-vitznau.ch
 svp-volketswil.ch
 svp-vorderland.ch
@@ -2647,7 +2648,6 @@ svproject.ch
 svpromanshorn.ch
 svps-ascep.ch
 svps-fsse.ch
-svps.ch
 svpsaanen.ch
 svpsafnern.ch
 svpschaenis.ch

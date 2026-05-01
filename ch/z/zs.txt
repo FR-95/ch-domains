@@ -215,14 +215,12 @@ zso-limmattal-sued.ch
 zso-limmattal.ch
 zso-mittleresreusstal.ch
 zso-muensingen.ch
-zso-mutschellen.ch
 zso-nidau-plus.ch
 zso-niesen.ch
 zso-o-fricktal.ch
 zso-oaw.ch
 zso-ow.ch
 zso-regiondietikon.ch
-zso-rero.ch
 zso-rhein.ch
 zso-thun-westamt.ch
 zso-toesstal.ch
@@ -241,7 +239,6 @@ zso-wettingen-limmattal.ch
 zso-winterthur-land.ch
 zso-winterthur-stadt.ch
 zso-winterthur.ch
-zso-wohlen.ch
 zso-zuerichseelinth.ch
 zso-zurzibiet.ch
 zso.ch

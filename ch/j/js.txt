@@ -411,6 +411,7 @@ jso-arabesque.ch
 jso-crescendo.ch
 jso-intern.ch
 jso-tg.ch
+jso-trockenbau.ch
 jso-zuerichsee.ch
 jso.ch
 jsoase.ch

@@ -815,7 +815,6 @@ fickaffaire.ch
 fickaffare.ch
 fickamsonntag.ch
 fickanzeige.ch
-fickanzeigen.ch
 fickanzeiger.ch
 fickardo.ch
 fickautomat.ch
@@ -1195,8 +1194,10 @@ fide-service.ch
 fide-sn.ch
 fide-sprachenpass.ch
 fide-test-biel.ch
+fide-test-vorbereitung.ch
 fide-test.ch
 fide-tests.ch
+fide-vorbereitung.ch
 fide-zertifikat.ch
 fide.ch
 fidea-immobilien.ch
@@ -2272,6 +2273,7 @@ fiduciary.ch
 fiduciaryai.ch
 fiduciaryconsulting.ch
 fiduciarydirector.ch
+fiduciaryexpert.ch
 fiduciaryglobalswiss.ch
 fiduciarypartners.ch
 fiduciarysuisse.ch
@@ -2513,7 +2515,6 @@ fidutaxes-geneva.ch
 fidutaxes.ch
 fidutb.ch
 fiduteam.ch
-fidutec-audit-sa.ch
 fidutech.ch
 fidutek.ch
 fiduterra.ch
@@ -2769,7 +2770,6 @@ fienoerba.ch
 fiense.ch
 fienta.ch
 fiente.ch
-fienzer-life.ch
 fienzer.ch
 fiep.ch
 fieps.ch
@@ -2824,6 +2824,7 @@ fierrobotin.ch
 fierroeleta.ch
 fierromedia.ch
 fiers-de-donner.ch
+fiery-play.ch
 fiery.ch
 fieryfox.ch
 fieryjack.ch
@@ -3784,6 +3785,7 @@ filaschweiz.ch
 filasez.ch
 filasolutions.ch
 filastyle.ch
+filat.ch
 filatelia.ch
 filatelo.ch
 filathome.ch
@@ -4491,7 +4493,6 @@ filmauto.ch
 filmautos.ch
 filmautos24.ch
 filmautotreffen.ch
-filmbaden.ch
 filmbaeckerei.ch
 filmball.ch
 filmbase.ch
@@ -4808,7 +4809,6 @@ filmografie.ch
 filmografis.ch
 filmograph.ch
 filmolux.ch
-filmomatic.ch
 filmonauten.ch
 filmone.ch
 filmont.ch
@@ -5431,7 +5431,6 @@ filzarchiv.ch
 filzatelier-frank.ch
 filzatelier-rosi.ch
 filzatelier-zwergenreich.ch
-filzatelier.ch
 filzbach.ch
 filzband.ch
 filzbar.ch
@@ -5441,7 +5440,6 @@ filzdichtung.ch
 filze.ch
 filzenamberg.ch
 filzerei.ch
-filzfabrik.ch
 filzfacetten.ch
 filzfinger.ch
 filzfinken.ch
@@ -5860,7 +5858,6 @@ finali.ch
 finalim.ch
 finalis.ch
 finalissima-scuol.ch
-finalissima.ch
 finalit-stonecare.ch
 finalit.ch
 finalitstonecare.ch
@@ -6062,7 +6059,6 @@ finance8.ch
 financeabike.ch
 financeacademie.ch
 financeacademy.ch
-financeacademyschweiz.ch
 financeadinterim.ch
 financeadmin.ch
 financeads.ch
@@ -6289,7 +6285,6 @@ financestars.ch
 financestellen.ch
 financestrat.ch
 financestrategie.ch
-financesuisse.ch
 financesummit.ch
 financesupport.ch
 financeswiss.ch
@@ -6824,7 +6819,6 @@ finanzchef24.ch
 finanzchefondemand.ch
 finanzcleaner.ch
 finanzcloud.ch
-finanzclub.ch
 finanzcoa.ch
 finanzcoach-ag.ch
 finanzcoach.ch
@@ -6972,6 +6966,7 @@ finanzfreiheit.ch
 finanzfreund.ch
 finanzfreunde.ch
 finanzfreundetalk.ch
+finanzfuchs-passiv.ch
 finanzfuchs.ch
 finanzfuehrerschein.ch
 finanzfux.ch
@@ -7074,6 +7069,7 @@ finanzierungsbestaetigung.ch
 finanzierungsboerse.ch
 finanzierungscheck.ch
 finanzierungseffekt.ch
+finanzierungsexperten.ch
 finanzierungsloesungen.ch
 finanzierungsmarkt.ch
 finanzierungsnachweis.ch
@@ -7095,7 +7091,6 @@ finanzinfo.ch
 finanzinformatik.ch
 finanzinformationen.ch
 finanzinfos.ch
-finanzinstitut.ch
 finanzinstitute.ch
 finanzinstrumente.ch
 finanzinvest.ch
@@ -7953,7 +7948,6 @@ findedeinvorwaerts.ch
 findedencode.ch
 findedieeine.ch
 findedierichtige.ch
-findediezahlen.ch
 findeeasy.ch
 findees.ch
 findefuchs.ch
@@ -8224,7 +8218,6 @@ findolino.ch
 findom.ch
 findom1.ch
 findomina.ch
-findomme.ch
 findoo.ch
 findoor.ch
 findoorinternational.ch
@@ -8740,7 +8733,6 @@ finepix.ch
 finepoint.ch
 finepremiumbrands.ch
 fineprice.ch
-fineprint.ch
 fineprintag.ch
 fineprinter.ch
 fineprinting.ch
@@ -9352,7 +9344,6 @@ finishweb.ch
 finissage.ch
 finisseur.ch
 finisseurdinterieur.ch
-finissimo-geneve.ch
 finissimo.ch
 finistar.ch
 finisterra.ch
@@ -11928,7 +11919,6 @@ firmenkredite.ch
 firmenkreditkarte.ch
 firmenkreditvergleich.ch
 firmenkultur.ch
-firmenkunden.ch
 firmenkurs.ch
 firmenkurse.ch
 firmenkurzzeitberatung.ch
@@ -12034,7 +12024,6 @@ firmenschnitt.ch
 firmenschulungen.ch
 firmenschutzbrief.ch
 firmenschutzbriefe.ch
-firmenschweiz.ch
 firmenscout.ch
 firmenscout24.ch
 firmenscouting.ch
@@ -12578,6 +12567,7 @@ firstbuddy.ch
 firstbudget.ch
 firstbusinesstravel.ch
 firstbuy.ch
+firstcamellia.ch
 firstcapital.ch
 firstcar.ch
 firstcare.ch
@@ -13016,7 +13006,6 @@ firstswisscrypto.ch
 firstswissequity.ch
 firstswissinvest.ch
 firstswissinvestmentag.ch
-firstswissnutrition.ch
 firstswisspay.ch
 firstswissrockstar.ch
 firstswisssecurities.ch
@@ -13448,7 +13437,6 @@ fischer-junior.ch
 fischer-keramik.ch
 fischer-keystone.ch
 fischer-kies.ch
-fischer-kom.ch
 fischer-kommunikation.ch
 fischer-konsulentin.ch
 fischer-konzept.ch
@@ -14295,6 +14283,7 @@ fisd.ch
 fise.ch
 fisego.ch
 fisel.ch
+fiselemi.ch
 fiselier.ch
 fisera.ch
 fisetin-krebs.ch
@@ -15921,7 +15910,6 @@ fitline-hefti.ch
 fitline-karate.ch
 fitline-milosev.ch
 fitline-nlz-ost.ch
-fitline-online-shop.ch
 fitline-planet.ch
 fitline-schweiz.ch
 fitline-specials.ch
@@ -16522,6 +16510,7 @@ fitnessfreaks.ch
 fitnessfricktal.ch
 fitnessfuehrer.ch
 fitnessfundgrube.ch
+fitnessgallery.ch
 fitnessgear.ch
 fitnessgeneve.ch
 fitnessgeraet.ch
@@ -16794,7 +16783,6 @@ fitnesstreff.ch
 fitnesstreffbauma.ch
 fitnesstrend.ch
 fitnesstrends.ch
-fitnesstribune.ch
 fitnesstruck.ch
 fitnesstudio.ch
 fitnesstudios.ch
@@ -17171,7 +17159,6 @@ fitundphysio.ch
 fitundrelax.ch
 fitundrelaxed.ch
 fitundschlank-gt.ch
-fitundschlank.ch
 fitundschlau.ch
 fitundschoen.ch
 fitundsmart.ch
@@ -17284,6 +17271,7 @@ fitzone24.ch
 fitzonline.ch
 fitzpatrick.ch
 fitzroy.ch
+fitzroysa.ch
 fitzufuss.ch
 fitzurich.ch
 fitzys.ch

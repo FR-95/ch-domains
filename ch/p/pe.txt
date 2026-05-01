@@ -1547,7 +1547,6 @@ pediatric.ch
 pediatriccardiology.ch
 pediatriccenterlocarno.ch
 pediatriccentertessin.ch
-pediatrician.ch
 pediatricians.ch
 pediatricnetworklocarno.ch
 pediatricorthopedics.ch
@@ -1573,7 +1572,6 @@ pediatrie-lutry.ch
 pediatrie-manege.ch
 pediatrie-marsens.ch
 pediatrie-monrepos.ch
-pediatrie-montreux.ch
 pediatrie-mottet.ch
 pediatrie-moudon.ch
 pediatrie-nassel.ch
@@ -1620,7 +1618,6 @@ pediatrievernex.ch
 pediatrievevey.ch
 pediatrievidy.ch
 pediatrievully.ch
-pediatrist.ch
 pediatros.ch
 pedibalance.ch
 pedibook.ch
@@ -1706,7 +1703,6 @@ pediflex.ch
 pedigree-win.ch
 pedigree.ch
 pedigreen.ch
-pedigrim.ch
 pedihome.ch
 pedikids-online.ch
 pedikids.ch
@@ -3594,7 +3590,6 @@ pemenergie.ch
 pemeso.ch
 pemex.ch
 pemf-system.ch
-pemf.ch
 pemg.ch
 pemigatinib.ch
 pemil.ch
@@ -3728,6 +3723,7 @@ pendantmusic.ch
 pendar.ch
 pendara.ch
 pendavision.ch
+penday.ch
 pende.ch
 pendefoundation.ch
 pendejo.ch
@@ -4254,7 +4250,6 @@ pension-info.ch
 pension-insurance.ch
 pension-interlaken.ch
 pension-jaeger.ch
-pension-kalkbreite.ch
 pension-klosters.ch
 pension-life.ch
 pension-marina.ch
@@ -4265,7 +4260,6 @@ pension-nouvel-horizon.ch
 pension-obersee.ch
 pension-online.ch
 pension-park.ch
-pension-peter.ch
 pension-plan.ch
 pension-planning.ch
 pension-platform.ch
@@ -4582,6 +4576,7 @@ pensionsplanung-rheintal.ch
 pensionsplanung-schweiz.ch
 pensionsplanung.ch
 pensionsplanungen.ch
+pensionsplanungsexperten.ch
 pensionsprofi.ch
 pensionsratgeber.ch
 pensionsrechner.ch
@@ -6236,7 +6231,6 @@ perfect-clean.ch
 perfect-click.ch
 perfect-clicks.ch
 perfect-clinic.ch
-perfect-code.ch
 perfect-congress.ch
 perfect-consulting.ch
 perfect-cover.ch
@@ -8848,6 +8842,7 @@ pernellemuller.ch
 perneo.ch
 perner-ag.ch
 perner.ch
+pernerfekt.ch
 pernet-comestibles.ch
 pernet-gastro.ch
 pernet-gastroservice.ch
@@ -9107,7 +9102,6 @@ perret-antiques.ch
 perret-catering.ch
 perret-chauffage.ch
 perret-concept.ch
-perret-conseils.ch
 perret-construction.ch
 perret-gentil-dit-maillard.ch
 perret-gentil-it.ch
@@ -9231,6 +9225,7 @@ perrodin.ch
 perrofavorito.ch
 perrokey.ch
 perrole.ch
+perrolia-hundeschule.ch
 perrollaz.ch
 perromomo.ch
 perron-1.ch
@@ -10763,6 +10758,7 @@ perspecta-solutions.ch
 perspecta.ch
 perspectando.ch
 perspectas.ch
+perspectio.ch
 perspectis.ch
 perspectiv-beratung.ch
 perspectiv.ch
@@ -11809,6 +11805,7 @@ petanquetunnel.ch
 petanquevignoble.ch
 petanqueyverdonnoise.ch
 petanthony.ch
+petantquexpo.ch
 petaporter.ch
 petar-dj.ch
 petar-kocic.ch
@@ -13028,6 +13025,7 @@ petersalzgeber.ch
 petersamueljaggifoto.ch
 petersan.ch
 petersand.ch
+petersany.ch
 petersargans.ch
 petersauber.ch
 petersauter.ch
@@ -13886,7 +13884,6 @@ petitnouvelan.ch
 petitnouvelandufcerguel.ch
 petitnuage.ch
 petito.ch
-petitoi.ch
 petitorchestredelest.ch
 petitorchestredessens.ch
 petitorient.ch
@@ -15062,6 +15059,7 @@ petuma.ch
 petundhomesitting.ch
 petunia.ch
 petunientopf.ch
+petupgrade.ch
 petura.ch
 peturals.ch
 peturlaub.ch
@@ -15374,6 +15372,7 @@ pexys.ch
 pexysgroup.ch
 pey.ch
 peya.ch
+peyamio.ch
 peyas.ch
 peycloud.ch
 peycon.ch

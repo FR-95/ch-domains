@@ -59,6 +59,7 @@ a-ak.ch
 a-aktien.ch
 a-alba.ch
 a-and-i.ch
+a-and-p.ch
 a-angels.ch
 a-angstmann.ch
 a-api.ch
@@ -460,7 +461,6 @@ a-i-a.ch
 a-i-architekten.ch
 a-i-buddy.ch
 a-i-future.ch
-a-i-g.ch
 a-i-gu.ch
 a-i-m.ch
 a-i-maler.ch
@@ -469,7 +469,6 @@ a-i-neff.ch
 a-i-p.ch
 a-i-r.ch
 a-i-s.ch
-a-i-v.ch
 a-i-w.ch
 a-i.ch
 a-ia.ch
@@ -501,7 +500,6 @@ a-ivy.ch
 a-j-h.ch
 a-j-m.ch
 a-j-r.ch
-a-j.ch
 a-ja.ch
 a-je.ch
 a-jm.ch
@@ -590,6 +588,7 @@ a-leuenberger.ch
 a-level.ch
 a-levels.ch
 a-lex.ch
+a-lheure-sensation.ch
 a-liechti.ch
 a-light.ch
 a-line-swiss.ch
@@ -761,7 +760,6 @@ a-offices.ch
 a-okmotor.ch
 a-one-boxing.ch
 a-one-publ.ch
-a-one-taxi-rolle.ch
 a-one.ch
 a-ostertag.ch
 a-otterbach.ch
@@ -1240,9 +1238,7 @@ a-z-gmbh.ch
 a-z-haustechnik.ch
 a-z-holzbau.ch
 a-z-hundetraining.ch
-a-z-immo.ch
 a-z-immobau.ch
-a-z-immobilien.ch
 a-z-immoverwaltung.ch
 a-z-insektenschutz.ch
 a-z-job.ch

@@ -29,6 +29,7 @@ rb-cleanmaker.ch
 rb-coaching.ch
 rb-comm.ch
 rb-company.ch
+rb-constructions.ch
 rb-consult.ch
 rb-consulting.ch
 rb-contabilita.ch
@@ -107,6 +108,7 @@ rb-rosser.ch
 rb-sa.ch
 rb-schluesseldienst.ch
 rb-schreinerei.ch
+rb-schreinerhandwerk.ch
 rb-schreinermontagen.ch
 rb-service.ch
 rb-services-ag.ch

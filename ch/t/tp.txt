@@ -34,7 +34,6 @@ tp-management.ch
 tp-media.ch
 tp-messaging.ch
 tp-methode.ch
-tp-mining.ch
 tp-montagen.ch
 tp-neurologie.ch
 tp-object.ch

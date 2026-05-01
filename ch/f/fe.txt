@@ -414,7 +414,6 @@ federateur.ch
 federation-arts-rue.ch
 federation-des-entreprises.ch
 federation-egm.ch
-federation-independent.ch
 federation-mag.ch
 federation-motorisee-valaisanne.ch
 federation-osteopathie.ch
@@ -683,7 +682,6 @@ federspielberatung.ch
 federspiels.ch
 federspielsanitari.ch
 federstahl.ch
-federstein.ch
 federstube.ch
 federswiss.ch
 federtanz.ch
@@ -2292,7 +2290,6 @@ feinkost-fisch.ch
 feinkost-kaefer.ch
 feinkost-kaufen.ch
 feinkost-lehmann.ch
-feinkost-lenzerheide.ch
 feinkost-online.ch
 feinkost-schmitz.ch
 feinkost-schulze.ch
@@ -2376,7 +2373,6 @@ feinschmecker-pass.ch
 feinschmecker-restaurant.ch
 feinschmecker-wallis.ch
 feinschmecker.ch
-feinschmeckerei.ch
 feinschmeckerfuehrer.ch
 feinschmeckerfuhrer.ch
 feinschmeckerhotels.ch
@@ -3675,7 +3671,6 @@ felix-faber.ch
 felix-family.ch
 felix-feuerwerk.ch
 felix-fischer.ch
-felix-frank.ch
 felix-frohofer.ch
 felix-fs.ch
 felix-gallery.ch
@@ -4292,7 +4287,6 @@ fellmannlaw.ch
 fellmannpartner.ch
 fellmanns-airbrush.ch
 fellmanns-hofladen.ch
-fellmanns.ch
 fellmanntransporte.ch
 fellmanntreuhand.ch
 fellmannwork.ch
@@ -4526,7 +4520,6 @@ felsgeldanlagen.ch
 felsgrund.ch
 felsheim.ch
 felsigefugenpflege.ch
-felsimeeri.ch
 felsindir.ch
 felskin.ch
 felskinn-saasfee.ch
@@ -6178,7 +6171,6 @@ fenstermonteur.ch
 fenstermonteure.ch
 fenstern.ch
 fensternauer.ch
-fensternews.ch
 fensternorm.ch
 fensternormen.ch
 fensternotdienst.ch
@@ -7202,7 +7194,6 @@ ferien-wohnung-wengen.ch
 ferien-wohnung-zermatt.ch
 ferien-wohnung.ch
 ferien-wohnungen-mieten.ch
-ferien-wohnungen-wallis.ch
 ferien-wohnungen.ch
 ferien-yacht.ch
 ferien-zentralschweiz.ch
@@ -8392,7 +8383,6 @@ ferienwohnung-gardasee.ch
 ferienwohnung-gassmann-spiez.ch
 ferienwohnung-geissschiir-grindelwald.ch
 ferienwohnung-gemelli.ch
-ferienwohnung-genfersee.ch
 ferienwohnung-gentiana.ch
 ferienwohnung-gersau.ch
 ferienwohnung-goldingertal.ch
@@ -8521,7 +8511,6 @@ ferienwohnung-palagnedra.ch
 ferienwohnung-panorama.ch
 ferienwohnung-pany.ch
 ferienwohnung-parpan.ch
-ferienwohnung-pontresina.ch
 ferienwohnung-poschiavo.ch
 ferienwohnung-ramosch.ch
 ferienwohnung-rapperswil.ch
@@ -8575,7 +8564,6 @@ ferienwohnung-spluegen.ch
 ferienwohnung-stmoritz.ch
 ferienwohnung-strengelbach.ch
 ferienwohnung-sufers.ch
-ferienwohnung-surselva.ch
 ferienwohnung-szenes-bauer-celerina.ch
 ferienwohnung-taesch.ch
 ferienwohnung-tenna.ch
@@ -8930,6 +8918,7 @@ feritec.ch
 feritech.ch
 feritefendi.ch
 feritrust.ch
+ferium.ch
 feriupass.ch
 feriureis.ch
 ferivox.ch
@@ -9912,6 +9901,7 @@ ferrari-a-louer.ch
 ferrari-architecte.ch
 ferrari-architectes.ch
 ferrari-auto.ch
+ferrari-basel.ch
 ferrari-bau.ch
 ferrari-bern.ch
 ferrari-cafe.ch
@@ -10140,7 +10130,6 @@ ferret.ch
 ferretfinance.ch
 ferrette-morris.ch
 ferretti-bd.ch
-ferretti-design.ch
 ferretti-partners.ch
 ferretti-wil.ch
 ferretti.ch
@@ -10190,7 +10179,6 @@ ferrimax.ch
 ferring.ch
 ferringconnect.ch
 ferringfertility.ch
-ferringinteractivetraining.ch
 ferrini-geomatique.ch
 ferrini.ch
 ferriniengineering.ch
@@ -10346,7 +10334,6 @@ ferry-consulting.ch
 ferry-elba.ch
 ferry-flight.ch
 ferry-flights.ch
-ferry-on-line.ch
 ferry-online.ch
 ferry-tales.ch
 ferry.ch
@@ -11153,6 +11140,7 @@ festival12.ch
 festival123soleil.ch
 festival2025.ch
 festival2026.ch
+festival2031.ch
 festival4saisons.ch
 festivalagency.ch
 festivalai.ch
@@ -11169,6 +11157,7 @@ festivalarkhe.ch
 festivalaufsee.ch
 festivalavida.ch
 festivalbach.ch
+festivalbalelec.ch
 festivalbasecamp.ch
 festivalbier.ch
 festivalbilder.ch
@@ -11665,7 +11654,6 @@ festzeltgarnitur.ch
 festzeltgarnituren.ch
 festzelthits.ch
 festzeltmiete.ch
-festzeltmieten.ch
 festzeltmusik.ch
 festzeltmusikanten.ch
 festzeltmusiker.ch
@@ -11888,6 +11876,7 @@ fetesdurhone.ch
 fetesgeneve.ch
 fetessile.ch
 fetetomate.ch
+fetetulipe.ch
 fetevaudjeux.ch
 fetevi.ch
 fetevillageoise.ch
@@ -12461,6 +12450,7 @@ feuerloescherfueralle.ch
 feuerloescherkaufen.ch
 feuerloescherpm10.ch
 feuerloescherservice.ch
+feuerloeschershop.ch
 feuerloeschersonderaktion.ch
 feuerloeschertraining.ch
 feuerloescherwartung-alle-marken.ch
@@ -13519,7 +13509,6 @@ feurerprojekt.ch
 feurerrapport.ch
 feurers.ch
 feurerswolle.ch
-feurerworks.ch
 feuri.ch
 feurig.ch
 feuriger-kessel.ch
@@ -13907,7 +13896,6 @@ feyam.ch
 feyb.ch
 feyco-guemligen.ch
 feyco.ch
-feycocoatings.ch
 feydey.ch
 feydom.ch
 feye.ch

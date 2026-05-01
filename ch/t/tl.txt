@@ -1,4 +1,5 @@
 tl-ag.ch
+tl-app.ch
 tl-bio.ch
 tl-biopharma.ch
 tl-biopharmaceuthical.ch
@@ -47,6 +48,7 @@ tlaloc.ch
 tlama.ch
 tlambelet.ch
 tlamo.ch
+tlapp.ch
 tlar.ch
 tlarealestate.ch
 tlaschweiz.ch

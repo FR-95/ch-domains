@@ -329,7 +329,6 @@ roadstop.ch
 roadstopcafe.ch
 roadstr.ch
 roadstudio.ch
-roadstyle.ch
 roadsurfer.ch
 roadsurfing.ch
 roadswitch.ch
@@ -1452,7 +1451,6 @@ robinhoodfunds.ch
 robinhoodlegal.ch
 robinhorner.ch
 robinhuber.ch
-robini.ch
 robinia-group.ch
 robinia-holz.ch
 robinia-wood.ch
@@ -1971,6 +1969,7 @@ roboservice.ch
 robosharks.ch
 roboshield.ch
 roboshop.ch
+roboshop24.ch
 roboshuttle.ch
 robosolutions.ch
 robosphere.ch
@@ -2396,6 +2395,7 @@ robs-trailer.ch
 robs.ch
 robschneider-photography.ch
 robschneider.ch
+robscout24.ch
 robsec.ch
 robsgarage.ch
 robshare.ch
@@ -2633,7 +2633,6 @@ roccos.ch
 roccosanso.ch
 roccosound.ch
 roccosravioli.ch
-roccotaxi.ch
 rocdesign-dev.ch
 rocdesign.ch
 rocdorsay.ch
@@ -3795,7 +3794,6 @@ rockwelltools.ch
 rockwest.ch
 rockwill.ch
 rockwin.ch
-rockwish.ch
 rockwithme.ch
 rockwoll.ch
 rockwood-derham.ch
@@ -4389,7 +4387,6 @@ roduner-bsb-partner.ch
 roduner-com.ch
 roduner-familie.ch
 roduner-holzbau.ch
-roduner-ki.ch
 roduner-sanitaer.ch
 roduner-schweizer.ch
 roduner.ch
@@ -6017,7 +6014,6 @@ rogerulri.ch
 rogerulrich.ch
 rogerundtanja.ch
 rogervalgoi.ch
-rogerverdun.ch
 rogervivier.ch
 rogervogel.ch
 rogervogt.ch
@@ -6815,6 +6811,7 @@ rohrleitungsplanung.ch
 rohrleitungssanierung.ch
 rohrleitungssystem.ch
 rohrleitungssysteme.ch
+rohrli.ch
 rohrmantel.ch
 rohrmarkierung.ch
 rohrmatt.ch
@@ -6824,7 +6821,6 @@ rohrmax.ch
 rohrmaxx.ch
 rohrmechanik.ch
 rohrmeister.ch
-rohrmoos.ch
 rohrmoos20.ch
 rohrmoser.ch
 rohrmotor.ch
@@ -8189,7 +8185,6 @@ rolf-hausheer.ch
 rolf-heim.ch
 rolf-hess.ch
 rolf-hueppi.ch
-rolf-huerlimann.ch
 rolf-hummel-kall.ch
 rolf-hunziker.ch
 rolf-in-gravity.ch
@@ -8696,6 +8691,7 @@ roliega.ch
 rolielmer.ch
 rolife.ch
 rolifellmann.ch
+rolifood.ch
 rolifrei.ch
 roligmbh.ch
 roliha.ch
@@ -9301,6 +9297,7 @@ rollingseeds.ch
 rollingslots-casino.ch
 rollingslots.ch
 rollingslotscasino.ch
+rollingslotscasinos.ch
 rollingsmoke.ch
 rollingsoft.ch
 rollingsquare.ch
@@ -10206,7 +10203,6 @@ romande-ops.ch
 romande-riaz2024.ch
 romande-store.ch
 romande-studio.ch
-romande.ch
 romande2026.ch
 romandeassure.ch
 romandechafaudages.ch
@@ -10614,6 +10610,7 @@ romanonet.ch
 romanono.ch
 romanopartner.ch
 romanopedetti.ch
+romanoprint.ch
 romanoriedo.ch
 romanorollen.ch
 romanos.ch
@@ -12189,6 +12186,7 @@ roolg.ch
 rooli.ch
 roolia.ch
 roolicasino.ch
+roolio.ch
 rooltec.ch
 rooltech.ch
 room-2000.ch
@@ -12285,7 +12283,6 @@ room4all.ch
 room4business.ch
 room4change.ch
 room4events.ch
-room4love.ch
 room4me.ch
 room4music.ch
 room4rent.ch
@@ -13509,14 +13506,12 @@ rosarigantifoundation.ch
 rosario-agosti.ch
 rosario-biel.ch
 rosario-pescatore.ch
-rosario-pury.ch
 rosario.ch
 rosariobarbershop.ch
 rosarioflorio.ch
 rosariogalgano.ch
 rosaris.ch
 rosarium-vully.ch
-rosarium.ch
 rosarium23.ch
 rosarnie.ch
 rosaroch.ch
@@ -13960,7 +13955,6 @@ rosenau-egg.ch
 rosenau-garage.ch
 rosenau-schlatt.ch
 rosenau-zollikofen.ch
-rosenau.ch
 rosenauapotheke.ch
 rosenaubazenheid.ch
 rosenauer.ch
@@ -14685,7 +14679,6 @@ rosmarin.ch
 rosmarina.ch
 rosmarino.ch
 rosmarinoel.ch
-rosmarinus-officinalis.ch
 rosmaryweiss.ch
 rosmerta.ch
 rosmini.ch
@@ -15173,7 +15166,6 @@ rostetter-treuhand.ch
 rostetter.ch
 rostfabrik.ch
 rostfiguren.ch
-rostfinance.ch
 rostfix.ch
 rostfrei-fun.ch
 rostfrei.ch
@@ -15351,7 +15343,6 @@ rotacv.ch
 rotaderetrato.ch
 rotae.ch
 rotaengineering.ch
-rotafix.ch
 rotag.ch
 rotaid.ch
 rotaid247.ch
@@ -15604,7 +15595,6 @@ rotbuchphysio.ch
 rotbuchstrasse.ch
 rotburg.ch
 rotcapechen.ch
-rotchaeppli.ch
 rotchopf.ch
 rotco.ch
 rotdruck.ch
@@ -15795,7 +15785,6 @@ rotesmeer.ch
 rotesocke.ch
 rotesocken.ch
 rotesohle.ch
-rotesohr.ch
 rotesschloss.ch
 rotesvelo.ch
 roteszelt.ch
@@ -16503,7 +16492,6 @@ rotlichtanzeiger.ch
 rotlichtaus.ch
 rotlichtbox.ch
 rotlichtforum.ch
-rotlichtfuehrer.ch
 rotlichtguide.ch
 rotlichtindex.ch
 rotlichtinserate.ch
@@ -16954,7 +16942,6 @@ roue2saisons.ch
 roueanim.ch
 roueche.ch
 rouedelafortune.ch
-rouelbeau.ch
 rouelibre-2300.ch
 rouelibre.ch
 rouelibrespirit.ch
@@ -17540,7 +17527,6 @@ rova-holz.ch
 rova-roth.ch
 rova.ch
 rovaatelier.ch
-rovacars.ch
 rovagro.ch
 rovahealth.ch
 rovai.ch
@@ -18271,6 +18257,7 @@ royaleclub.ch
 royaledge.ch
 royaledor.ch
 royalegalanterie.ch
+royaleloungecasino.ch
 royalemods.ch
 royalen.ch
 royalenfield-bern.ch
@@ -18397,6 +18384,7 @@ royalmieten.ch
 royalmira.ch
 royalmoments.ch
 royalmorocco.ch
+royalmotors.ch
 royalnails.ch
 royalnailsbeauty.ch
 royalnailspro.ch

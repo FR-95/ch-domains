@@ -76,7 +76,6 @@ ai-assistent.ch
 ai-association.ch
 ai-assurance.ch
 ai-astronauts.ch
-ai-audit.ch
 ai-auralab.ch
 ai-auto.ch
 ai-automat.ch
@@ -448,7 +447,6 @@ ai-infusion.ch
 ai-ing-check.ch
 ai-innenausbau.ch
 ai-innovation-day.ch
-ai-innovation.ch
 ai-innovations.ch
 ai-insight.ch
 ai-insights.ch
@@ -610,6 +608,7 @@ ai-one.ch
 ai-online-course.ch
 ai-online-kurs.ch
 ai-online-kurse.ch
+ai-ontology.ch
 ai-ops-engine.ch
 ai-ops.ch
 ai-opsy.ch
@@ -1116,6 +1115,7 @@ aiatax.ch
 aiatelier.ch
 aiaticino.ch
 aiatokenswiss.ch
+aiatokenswissai.ch
 aiaudit.ch
 aiauditify.ch
 aiauditor.ch
@@ -1821,6 +1821,7 @@ aides-assurances-geneve.ch
 aides-assurances-subside.ch
 aides-assurances-subsides.ch
 aides-assurances.ch
+aides-chauffage-geneve.ch
 aides-energetiques.ch
 aides-et-soins-a-domicile.ch
 aides-panneaux-solaires.ch
@@ -2182,6 +2183,7 @@ aifuralle.ch
 aifuruya.ch
 aifusion.ch
 aifuture-ag.ch
+aifuture.ch
 aifutureag.ch
 aifutures.ch
 aifx.ch
@@ -2914,6 +2916,8 @@ aillustrate.ch
 ailly.ch
 ailnoir.ch
 ailnoy.ch
+ailo-stiftung.ch
+ailo-verein.ch
 ailo.ch
 ailog.ch
 ailogo.ch
@@ -3314,7 +3318,6 @@ ainexservices.ch
 ainext.ch
 ainexus.ch
 ainfa.ch
-ainfach.ch
 ainfluence.ch
 ainfluencer.ch
 ainfo.ch
@@ -3843,6 +3846,7 @@ air-gomm.ch
 air-hallux.ch
 air-haustechnik.ch
 air-heaters.ch
+air-hub.ch
 air-hygiene.ch
 air-impact.ch
 air-indemnite.ch
@@ -5982,7 +5986,6 @@ aispecialist.ch
 aispecialists.ch
 aispee.ch
 aispezialist.ch
-aisphere.ch
 aisport.ch
 aisports.ch
 aisportssummit.ch
@@ -5991,7 +5994,6 @@ aisprint.ch
 aisquared.ch
 aiss.ch
 aissadeebi.ch
-aissaouihautecouture.ch
 aisse.ch
 aissistant.ch
 aissistent.ch

@@ -722,7 +722,6 @@ sgf-brugg.ch
 sgf-burg.ch
 sgf-chur.ch
 sgf-menziken.ch
-sgf-rapperswil-jona.ch
 sgf-rj.ch
 sgf-solothurn.ch
 sgf-tschoppehof.ch
@@ -1370,7 +1369,6 @@ sgsaege.ch
 sgsaentis.ch
 sgsafetycar.ch
 sgsag.ch
-sgsartservices.ch
 sgsb-holding.ch
 sgsb.ch
 sgsc.ch
@@ -1584,7 +1582,6 @@ sgwp.ch
 sgws.ch
 sgwuerenlos.ch
 sgwwohlen.ch
-sgx.ch
 sgxsensortech.ch
 sgy.ch
 sgy3d.ch

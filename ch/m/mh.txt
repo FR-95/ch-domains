@@ -507,6 +507,7 @@ mhs-gmbh.ch
 mhs-haustechnik.ch
 mhs-ht.ch
 mhs-hydrogen.ch
+mhs-it.ch
 mhs-makler.ch
 mhs-medical.ch
 mhs-repair.ch
@@ -520,6 +521,7 @@ mhsanitaires.ch
 mhsante.ch
 mhsbasel.ch
 mhsedv.ch
+mhserguel-umzug.ch
 mhserguel.ch
 mhserver.ch
 mhservices.ch

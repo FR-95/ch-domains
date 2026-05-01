@@ -1035,6 +1035,7 @@ slidestream.ch
 slidethemountain.ch
 slideup.ch
 slideview.ch
+slidevisions.ch
 slidewallet.ch
 slideweb.ch
 slidewerk.ch
@@ -1169,9 +1170,7 @@ slimlab.ch
 slimlane.ch
 slimlearn.ch
 slimlife.ch
-slimline-club.ch
 slimline.ch
-slimlineclub.ch
 slimlog.ch
 slimlogistics.ch
 slimlogistik.ch
@@ -1675,6 +1674,7 @@ slotsgem.ch
 slotsgem1.ch
 slotsgemcasino.ch
 slotsgemch.ch
+slotsgems.ch
 slotsheaven.ch
 slotshopper.ch
 slotsladbrokes.ch
@@ -1763,7 +1763,6 @@ slow-diet.ch
 slow-digital.ch
 slow-down.ch
 slow-fashion-container.ch
-slow-fashion.ch
 slow-feeder.ch
 slow-fish.ch
 slow-flowers.ch
@@ -2260,6 +2259,7 @@ slsventures.ch
 slswcoaching.ch
 slsweb.ch
 slswiss.ch
+slt-ag.ch
 slt-glarus.ch
 slt-studio.ch
 slt-timeattack.ch
@@ -2268,7 +2268,6 @@ slta-students-be.ch
 slta-students-bs.ch
 slta-students-fr.ch
 slta-students-sg.ch
-slta-students-zh.ch
 sltag.ch
 sltalk.ch
 sltams.ch

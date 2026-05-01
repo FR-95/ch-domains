@@ -68,7 +68,6 @@ owc-hosting.ch
 owc.ch
 owca.ch
 owcd.ch
-owcleaning.ch
 owcp.ch
 owd.ch
 owdesign.ch
@@ -281,6 +280,7 @@ owner-collection.ch
 owner-finder.ch
 owner-portal.ch
 owner.ch
+ownerbase.ch
 ownerbim.ch
 ownerbox.ch
 ownercy.ch

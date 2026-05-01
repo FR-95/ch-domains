@@ -436,6 +436,7 @@ agata-norek-institute.ch
 agata-nyaro.ch
 agata.ch
 agataduca.ch
+agataelle.ch
 agatajaxa.ch
 agatalk.ch
 agataloboda.ch
@@ -687,7 +688,6 @@ ageandgrace.ch
 ageangel.ch
 ageartplus.ch
 ageas.ch
-ageasre.ch
 ageattack.ch
 ageb-ge.ch
 ageba-consulting.ch
@@ -1980,6 +1980,8 @@ agentodin.ch
 agentof.ch
 agentofkaos.ch
 agentonline.ch
+agentops-academy.ch
+agentops-engineer.ch
 agentops.ch
 agentorange.ch
 agentory.ch
@@ -2067,7 +2069,6 @@ agentur-concierge.ch
 agentur-cyberschutz.ch
 agentur-deinwachstum.ch
 agentur-des-jahres.ch
-agentur-des-sterbens.ch
 agentur-design-basel.ch
 agentur-design.ch
 agentur-diethelm.ch
@@ -2464,7 +2465,6 @@ agepan.ch
 ageperfect.ch
 ageperts.ch
 agepes.ch
-ageplus.ch
 agepoly.ch
 agepp.ch
 agepph.ch
@@ -2737,7 +2737,6 @@ aghomeo.ch
 aghomeofficeinternational.ch
 aghorse.ch
 aghr-gmbh.ch
-aghroum.ch
 aghsa.ch
 aghsuper.ch
 aghw.ch
@@ -4093,7 +4092,6 @@ agrar-fachversand.ch
 agrar-folie.ch
 agrar-hauser.ch
 agrar-industrie.ch
-agrar-info.ch
 agrar-initiativen-nein.ch
 agrar-innovation.ch
 agrar-it.ch
@@ -4480,7 +4478,6 @@ agrico-ctf.ch
 agrico-gas.ch
 agrico-ja-schlachthof-nein.ch
 agrico-oui-abattoir-non.ch
-agrico.ch
 agricochallenge.ch
 agricoin.ch
 agricol.ch

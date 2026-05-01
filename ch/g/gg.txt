@@ -104,6 +104,7 @@ ggarellano.ch
 ggaservice.ch
 ggaspi.ch
 ggassists.ch
+ggatrad.ch
 ggautomobile.ch
 ggaweb.ch
 ggawest.ch
@@ -271,7 +272,6 @@ ggkmu.ch
 ggkoll.ch
 ggksg.ch
 ggktgr-stiftung.ch
-ggktgr.ch
 ggkv.ch
 ggkz.ch
 ggl-group.ch
@@ -335,6 +335,7 @@ ggp.ch
 ggp4.ch
 ggpag.ch
 ggpartner.ch
+ggpartners.ch
 ggpasino.ch
 ggpasinopoker.ch
 ggpatrimonium.ch

@@ -1012,7 +1012,6 @@ zeigmirmehr.ch
 zeigoffenebuehne.ch
 zeigraum.ch
 zeigs.ch
-zeigsmer.ch
 zeigsnochmal.ch
 zeigt.ch
 zeigwasdudraufhast.ch
@@ -1250,6 +1249,7 @@ zeitcoach.ch
 zeitcoin.ch
 zeitdanach.ch
 zeitdaten.ch
+zeitdauer.ch
 zeitdertrauer.ch
 zeitderwelt.ch
 zeitdesherzens.ch
@@ -1767,6 +1767,7 @@ zeitspruenge.ch
 zeitsprung.ch
 zeitsprungindustrie.ch
 zeitspur.ch
+zeitspuren.ch
 zeitstattzeug.ch
 zeitsteine.ch
 zeitstempel.ch
@@ -3214,8 +3215,6 @@ zengaffinenag.ch
 zengaffinenbau.ch
 zengaffinenconstruction.ch
 zengaffinengmbh.ch
-zengaffinentresor.ch
-zengaffinentresore.ch
 zengaffinenunternehmungen.ch
 zengal.ch
 zengar.ch
@@ -3546,7 +3545,6 @@ zenobia.ch
 zenobialogic.ch
 zenobie.ch
 zenobini-ag.ch
-zenobini.ch
 zenobio.ch
 zenobis.ch
 zenobontognali.ch
@@ -3676,7 +3674,6 @@ zenshop.ch
 zenshoptools.ch
 zenshow.ch
 zensiam.ch
-zensiert.ch
 zensitively.ch
 zensivo.ch
 zenskin.ch
@@ -3865,7 +3862,6 @@ zentralamerikareisen.ch
 zentralapotheke.ch
 zentralarchiv.ch
 zentralasien.ch
-zentralaufnahmepruefung.ch
 zentralbahn.ch
 zentralball.ch
 zentralbank.ch
@@ -5325,7 +5321,6 @@ zermattguides.ch
 zermattgym.ch
 zermattholiday.ch
 zermattholidays.ch
-zermatthome.ch
 zermatthomes.ch
 zermatthospitality.ch
 zermatthospitalitycollection.ch
@@ -5561,7 +5556,6 @@ zerocard.ch
 zerochex.ch
 zerochili.ch
 zerochill.ch
-zerocinque.ch
 zeroclick.ch
 zeroclickmetric.ch
 zerocloud.ch
@@ -6137,7 +6131,6 @@ zete.ch
 zetea.ch
 zetech.ch
 zeteco.ch
-zetel.ch
 zetelecom.ch
 zetenda.ch
 zetenis.ch

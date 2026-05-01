@@ -800,7 +800,6 @@ podologie-mobil.ch
 podologie-molino.ch
 podologie-mollis.ch
 podologie-monopol.ch
-podologie-morand.ch
 podologie-mosel.ch
 podologie-muehlheim.ch
 podologie-mueller.ch
@@ -2090,7 +2089,6 @@ poivron.ch
 poiz.ch
 poizen.ch
 poja.ch
-pojaja.ch
 pojazdy.ch
 poje.ch
 pojektraum.ch
@@ -3257,6 +3255,7 @@ polestica.ch
 polestika.ch
 polestyle.ch
 polesud.ch
+polet.ch
 poletastics.ch
 polethic.ch
 polethique.ch
@@ -5058,6 +5057,7 @@ polosud.ch
 polot1882.ch
 polotopshop.ch
 polouest.ch
+polovalley.ch
 polovolley.ch
 polozh.ch
 polozna.ch
@@ -5761,7 +5761,6 @@ polylaminin.ch
 polylan-infra.ch
 polylan.ch
 polylean.ch
-polylift.ch
 polyligne.ch
 polylingua.ch
 polylino.ch
@@ -5819,7 +5818,6 @@ polymedics.ch
 polymedlab.ch
 polymedshop.ch
 polymeka.ch
-polymem.ch
 polymems.ch
 polymensa.ch
 polymer-electronic.ch
@@ -9256,7 +9254,6 @@ port-ogoz.ch
 port-pichette-est.ch
 port-saladin.ch
 port-security.ch
-port-sul.ch
 port-torry.ch
 port-valais.ch
 port-valais24.ch
@@ -9451,7 +9448,6 @@ portail-proprietaires.ch
 portail-rh.ch
 portail-romand.ch
 portail-roulant.ch
-portail-sante.ch
 portail-securite.ch
 portail-serrure.ch
 portail-soins-domicile.ch
@@ -10246,6 +10242,7 @@ portner-elektro.ch
 portner-getraenke.ch
 portner-sanitaer.ch
 portner-shoeing.ch
+portner-solution.ch
 portner-systems.ch
 portner.ch
 portnerag.ch
@@ -10253,6 +10250,7 @@ portnerlab.ch
 portnerlabs.ch
 portners.ch
 portnersaegereiag.ch
+portnersolution.ch
 portnet.ch
 portnoy.ch
 portnpeople.ch
@@ -10991,7 +10989,6 @@ positivedesign.ch
 positiveelements.ch
 positiveenergie.ch
 positiveenergy.ch
-positiveenergycoach.ch
 positivefood.ch
 positivefuehrung.ch
 positivehaircare.ch
@@ -11453,6 +11450,7 @@ postcardforyou.ch
 postcardmanager.ch
 postcardprint.ch
 postcards.ch
+postcardsandsidenotes.ch
 postcardsbymike.ch
 postcardshop.ch
 postcardsociety.ch
@@ -11837,6 +11835,7 @@ postino.computerfarm.ch
 postinor.ch
 postint.ch
 postio.ch
+postiq.ch
 postistda.ch
 postit.ch
 postitband.ch
@@ -13447,6 +13446,7 @@ poweradsl.ch
 poweragency.ch
 poweragent.ch
 poweraging.ch
+powerai.ch
 powerairfreight.ch
 poweralb.ch
 poweralliance.ch
@@ -14623,6 +14623,9 @@ pozek.ch
 pozenne.ch
 pozi.ch
 pozilei.ch
+pozipaws.ch
+pozipawz.ch
+pozipotion.ch
 pozitiva.ch
 pozivil.ch
 pozivnice.ch
@@ -14651,6 +14654,7 @@ pozziblegym.ch
 pozziblenutrition.ch
 pozzimusic.ch
 pozzipavimenti.ch
+pozzipawz.ch
 pozzitranslate.ch
 pozzo-properties.ch
 pozzo-shop.ch

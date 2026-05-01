@@ -709,7 +709,6 @@ b-q-s.ch
 b-q.ch
 b-qs.ch
 b-quest.ch
-b-r-a-n-d.ch
 b-r-b.ch
 b-r-consulting.ch
 b-r-e.ch
@@ -795,7 +794,6 @@ b-secureservices.ch
 b-seite.ch
 b-sensible.ch
 b-server.ch
-b-services.ch
 b-sf.ch
 b-shakers.ch
 b-shaped.ch
@@ -867,7 +865,6 @@ b-surounded.ch
 b-surround.ch
 b-sweetart.ch
 b-swiss.ch
-b-sync.ch
 b-system.ch
 b-systems.ch
 b-t-g.ch
@@ -1010,7 +1007,6 @@ b-yourself.ch
 b-youty.ch
 b-yu.ch
 b-z-o.ch
-b-z.ch
 b-zauber.ch
 b-zaubernd.ch
 b-zo.ch

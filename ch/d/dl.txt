@@ -344,7 +344,6 @@ dls-trans.ch
 dls-ventilation.ch
 dls-voegeli.ch
 dls.ch
-dlsa.ch
 dlsag.ch
 dlscreations.ch
 dlse-mietmoebel.ch

@@ -1083,6 +1083,7 @@ veganlove.ch
 veganlun.ch
 veganmagazin.ch
 veganmania.ch
+veganmaps.ch
 veganmarket.ch
 veganmed.ch
 veganmedizin.ch
@@ -1113,6 +1114,7 @@ veganpowerfood.ch
 veganpraline.ch
 veganprobieren.ch
 veganqiosk.ch
+veganraclette.ch
 veganreisen.ch
 veganrestaurant.ch
 veganrestaurants.ch
@@ -1374,7 +1376,6 @@ vegetarissimo.ch
 vegetarium.ch
 vegetation.ch
 vegetationsbrand.ch
-vegetationsdatenbank.ch
 vegetatis.ch
 vegetativ.ch
 vegetech.ch
@@ -1519,7 +1520,6 @@ vegio.ch
 vegional.ch
 vegipass.ch
 vegipearl.ch
-vegipedia.ch
 vegiplanet.ch
 vegipoint.ch
 vegipower.ch
@@ -1957,7 +1957,6 @@ velarisgroup.ch
 velarius.ch
 velarix.ch
 velaro-kaelte.ch
-velaro-moveclean.ch
 velaro.ch
 velaroma.ch
 velarostudio.ch
@@ -2085,6 +2084,7 @@ velevit.ch
 velex.ch
 veleya.ch
 velez.ch
+velezmorafischhandel.ch
 velfect.ch
 velfero.ch
 velfona.ch
@@ -2567,7 +2567,6 @@ velo-wahnsinn.ch
 velo-wallis.ch
 velo-weidmann.ch
 velo-werft.ch
-velo-werk.ch
 velo-werkstatt.ch
 velo-wetzikon.ch
 velo-wind.ch
@@ -2790,7 +2789,6 @@ velocityzurich.ch
 velock.ch
 veloclick.ch
 veloclinic.ch
-veloclub-altstetten.ch
 veloclub-andwil-arnegg.ch
 veloclub-basilisk.ch
 veloclub-horgen.ch
@@ -3701,7 +3699,6 @@ velotransporter.ch
 velotraum.ch
 velotravel.ch
 velotreff-rj.ch
-velotreff.ch
 velotrend.ch
 velotrial.ch
 velotrialjurassia.ch
@@ -4666,6 +4663,7 @@ vendus.ch
 vendustry.ch
 vendx.ch
 vendy.ch
+vendy1.ch
 vene.ch
 venea.ch
 veneco.ch
@@ -5317,6 +5315,7 @@ ventgo.ch
 ventherm.ch
 venthone.ch
 venthura-weinfelden.ch
+venti-20.ch
 venti-gesundheitspraxis.ch
 venti-shop.ch
 venti.ch
@@ -5767,7 +5766,6 @@ venues-collective.ch
 venues.ch
 venuescollective.ch
 venueservice.ch
-venueservices.ch
 venuesupport.ch
 venum-fightshop.ch
 venum-mma.ch
@@ -5870,7 +5868,6 @@ venuu.ch
 venuvy.ch
 venux.ch
 venuzle.ch
-venv.ch
 venvans.ch
 venvanse.ch
 venvanz.ch
@@ -5995,13 +5992,11 @@ vera-beauty.ch
 vera-caggiano.ch
 vera-calma.ch
 vera-claves.ch
-vera-clemens.ch
 vera-concept.ch
 vera-erni.ch
 vera-fit.ch
 vera-forma.ch
 vera-gelateria.ch
-vera-graf.ch
 vera-hess.ch
 vera-immo.ch
 vera-informatique.ch
@@ -6075,7 +6070,6 @@ veracita.ch
 veracity-nipt.ch
 veracity.ch
 veraclasse.ch
-veraclemens.ch
 veracloud.ch
 veracode.ch
 veracoiffure.ch
@@ -8018,7 +8012,6 @@ verein-vorsorge.ch
 verein-wabe.ch
 verein-waikkala.ch
 verein-wakanda.ch
-verein-wald-leben.ch
 verein-walserbauten-davos.ch
 verein-web.ch
 verein-webseite.ch
@@ -8111,7 +8104,6 @@ vereinbuntwoesch.ch
 vereincascade-basel.ch
 vereincascade.ch
 vereincassiopeia.ch
-vereinceno.ch
 vereinclownvisite.ch
 vereindaheim.ch
 vereindalia.ch
@@ -8341,7 +8333,6 @@ vereinprochiro.ch
 vereinprokinderklinik.ch
 vereinpropferd.ch
 vereinproviva.ch
-vereinpsychischegesundheit-sh.ch
 vereinpullover.ch
 vereinpulpo.ch
 vereinpuma.ch
@@ -8610,6 +8601,7 @@ vereinzumschutzderwoelfe.ch
 vereinzumschwanen.ch
 vereinzurheimat.ch
 vereinzurvereinigung.ch
+verelini.ch
 verelst.ch
 verena-aebischer.ch
 verena-aerne.ch
@@ -9661,6 +9653,7 @@ veriwoman.ch
 veriwox.ch
 verix-advisory.ch
 verix.ch
+verixa-shield.ch
 verixam.ch
 verixi.ch
 verizon.ch
@@ -9722,6 +9715,7 @@ verkauf-nachfolgeregelung.ch
 verkauf-nachfolgeregelungen.ch
 verkauf-notebook.ch
 verkauf-schule.ch
+verkauf-strebisimmo.ch
 verkauf-suisse.ch
 verkauf-swiss.ch
 verkauf-von-bauland.ch
@@ -10010,7 +10004,6 @@ verkehrsanwalt.ch
 verkehrsarchiv.ch
 verkehrsarzt.ch
 verkehrsbefragung.ch
-verkehrsberuhigung.ch
 verkehrsbetrieb.ch
 verkehrsbetriebdavos.ch
 verkehrsbetriebe.ch
@@ -10324,7 +10317,6 @@ verkehrssicherheit-24.ch
 verkehrssicherheit-baum.ch
 verkehrssicherheit-hubler.ch
 verkehrssicherheit-schweiz.ch
-verkehrssicherheit.ch
 verkehrssicherheit24.ch
 verkehrssicherheithubler.ch
 verkehrssicherheitschweiz.ch
@@ -10342,7 +10334,6 @@ verkehrssignalisation.ch
 verkehrssimulation.ch
 verkehrssinn.ch
 verkehrssoldat.ch
-verkehrsspiegel.ch
 verkehrsstatistik.ch
 verkehrsstau.ch
 verkehrssteuer.ch
@@ -10443,7 +10434,6 @@ verkehrswesen.ch
 verkehrswesen24.ch
 verkehrszaehlung.ch
 verkehrszahlen.ch
-verkehrszeichen-online.ch
 verkehrszeichen.ch
 verkehrszentrum-baden.ch
 verkehrszentrum-tuggen.ch
@@ -11780,7 +11770,6 @@ verreamonique.ch
 verreart.ch
 verreaud-diamanten.ch
 verreaud.ch
-verreblancrouge.ch
 verrecasse.ch
 verrechnen.ch
 verrechnung.ch
@@ -12150,7 +12139,6 @@ verseuse7.ch
 verseveld.ch
 versewahn.ch
 versica.ch
-versicheck.ch
 versicher.ch
 versicherbar.ch
 versichercheck.ch
@@ -13868,12 +13856,10 @@ verus-motus.ch
 verus-p.ch
 verus-treuhand.ch
 verus.ch
-veruschka.ch
 verushka.ch
 verusholding.ch
 verusimmobilien.ch
 verusliving.ch
-verusltd.ch
 verusmotus.ch
 veruss.ch
 veruvox.ch
@@ -14238,6 +14224,7 @@ verzasca-rustico.ch
 verzasca-sa.ch
 verzasca-tourism.ch
 verzasca.ch
+verzascaalabona.ch
 verzascabungy.ch
 verzascacountryfestival.ch
 verzascadiver.ch
@@ -14305,7 +14292,6 @@ verzinkerei-wollerau.ch
 verzinkerei.ch
 verzinkereien.ch
 verzinkt.ch
-verzinnen.ch
 verzino.ch
 verzockt.ch
 verzollen.ch
@@ -14370,6 +14356,7 @@ vesbar.ch
 vesbau.ch
 vesbo-asop.ch
 vesbo.ch
+vesca-olsommer.ch
 vescal.ch
 vesciodesign.ch
 vesco-trafic-systemes-vts.ch
@@ -14383,7 +14370,6 @@ vescoo.ch
 vescorefondsleitung.ch
 vescotronic.ch
 vescovi-beratungen.ch
-vescovi.ch
 vescovidahinden.ch
 vescoviengineering.ch
 vescovisa.ch
@@ -15558,6 +15544,7 @@ vetmotion.ch
 vetms.ch
 vetmt.ch
 vetnative.ch
+vetnature.ch
 vetnet.ch
 vetnews.ch
 vetnext-felivet.ch
@@ -16289,6 +16276,7 @@ veytay.ch
 veyture.ch
 veyu.ch
 veyx.ch
+veyxon.ch
 veyy.ch
 vez-combustibles.ch
 vez-epay.ch

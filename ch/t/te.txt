@@ -571,7 +571,6 @@ team-hundeblick.ch
 team-idea.ch
 team-illich.ch
 team-im-3.ch
-team-im.ch
 team-impact.ch
 team-impuls.ch
 team-innovation.ch
@@ -984,7 +983,6 @@ teamative.ch
 teamatlet.ch
 teamaudio.ch
 teamausflug-bern.ch
-teamausflug.ch
 teamausruestung.ch
 teamavanti.ch
 teamaxess.ch
@@ -2413,7 +2411,6 @@ tec-pros.ch
 tec-race.ch
 tec-rent.ch
 tec-rope.ch
-tec-schweiz.ch
 tec-service-mueller.ch
 tec-service.ch
 tec-servicesarl.ch
@@ -2914,7 +2911,6 @@ techbat-ge.ch
 techbat.ch
 techbati.ch
 techbatsuisse.ch
-techbau.ch
 techbausa.ch
 techbb.ch
 techbear.ch
@@ -5968,7 +5964,6 @@ tegerfelden.ch
 tegerfelden24.ch
 tegerfelder-oelmuehle.ch
 tegerfelder-rapsoel.ch
-tegerfelder-wein.ch
 tegerfelder.ch
 tegerfelderoelmuehle.ch
 tegerfelderrapsoel.ch
@@ -6432,7 +6427,6 @@ teiwazagroup.ch
 teiwi.ch
 teix.ch
 teixeira-consulting.ch
-teixeira.ch
 teixeirahartbodengmbh.ch
 teixos.ch
 teixpartners.ch
@@ -7891,7 +7885,6 @@ telephonie-ia-suisse.ch
 telephonie-ip.ch
 telephonie.ch
 telephoniemobile.ch
-telephonieren.ch
 telephonieservices.ch
 telephonitis.ch
 telephonmuseum.ch
@@ -8187,7 +8180,6 @@ televotia.ch
 televoting.ch
 televox.ch
 teleweb.ch
-telewein.ch
 teleweiser.ch
 telewipkingen.ch
 telewolhusen.ch
@@ -8955,7 +8947,6 @@ temeia.ch
 temeier.ch
 temel.ch
 temeley.ch
-temelimab.ch
 temelkova.ch
 temena.ch
 temenis.ch
@@ -9080,6 +9071,7 @@ tempehgenuss.ch
 tempehhandwerk.ch
 tempehkochen.ch
 tempehliebe.ch
+tempehmanufaktur.ch
 tempehrezept.ch
 tempehrezepte.ch
 tempehswiss.ch
@@ -10980,7 +10972,6 @@ tentexpert.ch
 tentexpert24.ch
 tenth-island.ch
 tenth.ch
-tentherapie.ch
 tenthide.ch
 tentho.ch
 tenthorey-carrelage.ch
@@ -11172,7 +11163,6 @@ teomed.ch
 teomen.ch
 teomera.ch
 teomestiere.ch
-teomi.ch
 teomusic.ch
 teon.ch
 teonee.ch
@@ -11822,6 +11812,7 @@ terencehillrum.ch
 terencehillwhiskey.ch
 terencehillwhisky.ch
 terencehowellsmusic.ch
+terencemajeur.ch
 terendo.ch
 terensis.ch
 terentino.ch
@@ -12152,6 +12143,7 @@ termitenstaat.ch
 termitiere.ch
 termitime.ch
 termitools.ch
+termivet.ch
 termo-swiss.ch
 termo-tecnica.ch
 termo.ch
@@ -12203,7 +12195,6 @@ ternon.ch
 ternoscorrevoli.ch
 tero.ch
 teroart.ch
-terolabsurface.ch
 terom.ch
 teronac.ch
 teronation.ch
@@ -12449,7 +12440,6 @@ terra-wohnen.ch
 terra-x.ch
 terra-zermatt.ch
 terra-zeyta.ch
-terra-zimtsohlen.ch
 terra.ch
 terra24.ch
 terra27.ch
@@ -13356,7 +13346,6 @@ terraza.ch
 terrazas.ch
 terrazementum.ch
 terrazeus.ch
-terrazimtsohlen.ch
 terrazoflex.ch
 terrazone.ch
 terrazoo.ch
@@ -13816,7 +13805,6 @@ terroirromand.ch
 terroirs-et-climats.ch
 terroirs-region-grandson.ch
 terroirs-romands.ch
-terroirs.ch
 terroirs2026.ch
 terroirsetclimats.ch
 terroirsneuchatelois.ch
@@ -14748,7 +14736,6 @@ test-eduvaud.ch
 test-egai.ch
 test-env.ch
 test-espas.ch
-test-etesafalrjgshzkjrhgieaksret.ch
 test-ethcareer.ch
 test-eva-evatech.ch
 test-eva.ch
@@ -15200,7 +15187,6 @@ testblablabla.ch
 testblablo.ch
 testblo.ch
 testblog.ch
-testbox.ch
 testbpco.ch
 testbuddy.ch
 testbugntldnexdomregistration.ch
@@ -15476,6 +15462,7 @@ testigen.ch
 testikdevcrosspreprod.ch
 testikofen.ch
 testimo.ch
+testimone.ch
 testimonial-generator.ch
 testimonial.ch
 testimonialagentur.ch
@@ -15610,6 +15597,7 @@ testmate.ch
 testmax.ch
 testmaxbaumberger.ch
 testme.ch
+testmedishift.ch
 testmeister.ch
 testmenow.ch
 testmeonline.ch
@@ -16894,7 +16882,6 @@ textdienstleister.ch
 textding.ch
 textdoc.ch
 textdoktor.ch
-texte-auf-bestellung.ch
 texte-fotos.ch
 texte-konzepte.ch
 texte-korrigieren.ch
@@ -16906,7 +16893,6 @@ texte-und-toene.ch
 texte.ch
 texteallerart.ch
 texteau.ch
-texteaufbestellung.ch
 textecke.ch
 texteclair.ch
 texted.ch
@@ -17678,7 +17664,6 @@ textuelle.ch
 textum.ch
 textumschreiben.ch
 textundauftritt.ch
-textundbild.ch
 textundbildjustin.ch
 textundfoto.ch
 textundko.ch
@@ -17727,7 +17712,6 @@ textweide.ch
 textwelt.ch
 textwelten.ch
 textwerk-langenthal.ch
-textwerk.ch
 textwerke.ch
 textwerken.ch
 textwerkerei.ch

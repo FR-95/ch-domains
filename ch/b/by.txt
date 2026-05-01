@@ -45,7 +45,6 @@ by-khalid.ch
 by-larissa.ch
 by-law.ch
 by-lella.ch
-by-loona.ch
 by-luar.ch
 by-m.ch
 by-maiken.ch
@@ -156,6 +155,7 @@ bybalzer-zaubersocken.ch
 bybalzer.ch
 bybam.ch
 bybanoo.ch
+bybarni.ch
 bybasics.ch
 bybat.ch
 bybb.ch
@@ -302,6 +302,7 @@ byd-solothurn.ch
 byd-stgallen.ch
 byd-suisse.ch
 byd-swiss.ch
+byd-switzerland.ch
 byd-thurgau.ch
 byd-truck.ch
 byd-trucks.ch
@@ -896,7 +897,6 @@ byrontrieb.ch
 byrossi.ch
 byroth.ch
 bys.ch
-bysabrina.ch
 bysabu.ch
 bysaeth.ch
 bysai.ch

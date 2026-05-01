@@ -216,7 +216,6 @@ ti1.ch
 ti2.beesolutions.ch
 ti2000.ch
 ti22pure.ch
-ti24.ch
 ti360.ch
 ti4health.ch
 ti4you.ch
@@ -852,7 +851,6 @@ ticino-news.ch
 ticino-odoo.ch
 ticino-on-line.ch
 ticino-online.ch
-ticino-open.ch
 ticino-outdoor.ch
 ticino-piscine.ch
 ticino-politica.ch
@@ -1081,6 +1079,7 @@ ticinofunebri.ch
 ticinofunpark.ch
 ticinogame.ch
 ticinogamesweek.ch
+ticinogaming.ch
 ticinogaytours.ch
 ticinogest.ch
 ticinogestionale.ch
@@ -1278,11 +1277,11 @@ ticinosoloaffitti.ch
 ticinosostenibile.ch
 ticinospa.ch
 ticinospace.ch
-ticinospecialgarden.ch
 ticinospirit.ch
 ticinospitex.ch
 ticinosport.ch
 ticinosports.ch
+ticinospot.ch
 ticinostamp.ch
 ticinostartup.ch
 ticinostat.ch
@@ -1851,7 +1850,6 @@ ticnet.ch
 tico-platrerie-sa.ch
 tico-platrerie.ch
 tico-sa.ch
-tico.ch
 ticoimpex.ch
 ticolors.ch
 ticom-visualizer.ch
@@ -2096,7 +2094,6 @@ tief-tarife.ch
 tief-tax.ch
 tief.ch
 tiefbahnhof.ch
-tiefbau-ag.ch
 tiefbau-arnold-feierabend.ch
 tiefbau-geraete.ch
 tiefbau-greminger.ch
@@ -2238,6 +2235,7 @@ tieferlegungsfedern.ch
 tieferschlafsystem.ch
 tiefersinn.ch
 tiefes-erleben.ch
+tiefes-ruhen.ch
 tiefesteuern.ch
 tiefetms.ch
 tiefetrauer.ch
@@ -3528,13 +3526,11 @@ tiergespraeche.ch
 tiergespuer.ch
 tiergestuetzt.ch
 tiergestuetzte-intervention.ch
-tiergestuetzte-interventionen.ch
 tiergestuetzte-paedagogik-ostschweiz.ch
 tiergestuetzte-psychotherapie.ch
 tiergestuetzte-therapie-basel.ch
 tiergestuetzte-therapie-leimental.ch
 tiergestuetzte-therapie.ch
-tiergestuetzte.ch
 tiergestuetzteaktivitaet.ch
 tiergestuetztepaedagogik.ch
 tiergestuetztes-coaching.ch
@@ -5595,6 +5591,7 @@ tigurini-cattery.ch
 tigurini.ch
 tigurinia.ch
 tigus.ch
+tigusto.ch
 tigy.ch
 tih.ch
 tihag.ch
@@ -5721,6 +5718,7 @@ tikipunktur.ch
 tikis.ch
 tikisafety.ch
 tikistrandbar.ch
+tikitaco.ch
 tikitaka.ch
 tikitakacas.ch
 tikitakach.ch
@@ -7291,6 +7289,7 @@ timephoto.ch
 timepiece.ch
 timepieces.ch
 timepiecevr.ch
+timepilot.ch
 timepizza.ch
 timepizzanyon.ch
 timeplace.ch
@@ -7850,7 +7849,6 @@ timomaiba.ch
 timomaku.ch
 timomartens.ch
 timomaxmeier.ch
-timomayer.ch
 timomeier.ch
 timomenghini.ch
 timomichels.ch
@@ -7990,7 +7988,6 @@ timotec.ch
 timotee.ch
 timoteo.ch
 timoteolauditi.ch
-timoteosarl.ch
 timoteoschamane.ch
 timothebeuret.ch
 timothee-bussy.ch
@@ -8687,7 +8684,6 @@ tinker.ch
 tinkeral.ch
 tinkerbarn.ch
 tinkercave.ch
-tinkercord.ch
 tinkercow.ch
 tinkered.ch
 tinkerer.ch
@@ -9151,6 +9147,7 @@ tiny-place.ch
 tiny-planet.ch
 tiny-resort.ch
 tiny-rocket.ch
+tiny-shop.ch
 tiny-smart-home.ch
 tiny-soaps.ch
 tiny-steps.ch
@@ -9266,6 +9263,7 @@ tinyhouse-ch.ch
 tinyhouse-company.ch
 tinyhouse-farmstay.ch
 tinyhouse-fuchsloch.ch
+tinyhouse-hallwilersee.ch
 tinyhouse-lifestyle.ch
 tinyhouse-on-wheels.ch
 tinyhouse-ostschweiz.ch
@@ -9352,6 +9350,7 @@ tinyrio.ch
 tinys.ch
 tinysauna.ch
 tinyshoeatelier.ch
+tinyshop.ch
 tinysite.ch
 tinysites.ch
 tinysmarthome.ch
@@ -10412,7 +10411,6 @@ tirsportif.ch
 tirsportifaigle.ch
 tirsportifchavannesecublens.ch
 tirsportifdumaillu.ch
-tirsportifechallens.ch
 tirsportifgibloux.ch
 tirsportifpeseux.ch
 tirsportifvalterbi.ch
@@ -10458,7 +10456,6 @@ tis-isolierungen.ch
 tis-jobs.ch
 tis-kreativ.ch
 tis-lab-epfl.ch
-tis-motion.ch
 tis-swiss.ch
 tis.ch
 tisa-spedition.ch
@@ -10525,6 +10522,7 @@ tisch-macher.ch
 tisch-mieten.ch
 tisch-platten.ch
 tisch-reservation.ch
+tisch-reservieren.ch
 tisch-schmitte.ch
 tisch-service.ch
 tisch-set.ch
@@ -10592,7 +10590,6 @@ tische-moebel.ch
 tische-nach-mass.ch
 tische-puzzle-tables.ch
 tische-ratgeber.ch
-tische-zulauf.ch
 tische.ch
 tischendorf.ch
 tischenloo.ch
@@ -10833,7 +10830,6 @@ tischunikate.ch
 tischup.ch
 tischventilator.ch
 tischventilatoren.ch
-tischvertrieb.ch
 tischwaesche.ch
 tischwaescheshop.ch
 tischwagen.ch
@@ -11606,6 +11602,7 @@ tiwealth.ch
 tiweb.ch
 tiweek.ch
 tiwel.ch
+tiwhaiha.ch
 tiwi-online.ch
 tiwi.ch
 tiwih.ch

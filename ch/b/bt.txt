@@ -302,7 +302,6 @@ btcste.ch
 btcsteuerauszug.ch
 btcsuisse.ch
 btcswiss.ch
-btcswissbank.ch
 btcswitzerland.ch
 btct.ch
 btctag.ch
@@ -354,7 +353,6 @@ bteuninger.ch
 btex.ch
 btexperts.ch
 btf-gmbh.ch
-btf-training.ch
 btf.ch
 btfconsulting.ch
 btfdmetal.ch

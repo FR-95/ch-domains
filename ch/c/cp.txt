@@ -205,6 +205,7 @@ cpauto.ch
 cpautomation.ch
 cpay.ch
 cpayclie.ch
+cpb-group.ch
 cpb-software.ch
 cpb.ch
 cpba.ch
@@ -880,7 +881,6 @@ cpwf.ch
 cpworld.ch
 cpx-media.ch
 cpx.ch
-cpxdesign.ch
 cpxmedia.ch
 cpxsa.ch
 cpy.ch

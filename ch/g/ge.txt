@@ -223,7 +223,6 @@ geak-kurse-zentral.ch
 geak-kurse.ch
 geak-plus-experte.ch
 geak-plus.ch
-geak-schweiz.ch
 geak-tool.ch
 geak-vergleich.ch
 geak-wallis.ch
@@ -250,7 +249,6 @@ geant-beaux-arts.ch
 geant.ch
 geantoo.ch
 geants.ch
-geantstudio.ch
 geantsveveyse.ch
 geaorg.ch
 geap.ch
@@ -433,7 +431,6 @@ gebaeude-werterhaltung.ch
 gebaeude.ch
 gebaeudeanalyse-felder.ch
 gebaeudeanalyse.ch
-gebaeudeauditor.ch
 gebaeudeaufnahme.ch
 gebaeudeaufnahmen.ch
 gebaeudeaufstockung.ch
@@ -1800,7 +1797,6 @@ geckoazul.ch
 geckobag.ch
 geckobar.ch
 geckobau.ch
-geckobooking.ch
 geckocommunication.ch
 geckocompliance.ch
 geckocomply.ch
@@ -1966,7 +1962,6 @@ gedanken-verschweissen.ch
 gedanken-werkstatt.ch
 gedanken-zeit.ch
 gedanken-zum-denken.ch
-gedanken-zum-tag.ch
 gedanken-zur-justiz.ch
 gedanken-zur-zeit.ch
 gedanken.ch
@@ -2101,7 +2096,6 @@ gedankenzeit.ch
 gedankenzimmer.ch
 gedankenzug.ch
 gedankenzumdenken.ch
-gedankenzumtag.ch
 gedankenzurjustiz.ch
 gedankenzurzeit.ch
 gedao-naturopathie.ch
@@ -2831,7 +2825,6 @@ gefuba.ch
 gefuehl-fuer-menschen.ch
 gefuehle-im-fenster.ch
 gefuehle-leben.ch
-gefuehle.ch
 gefuehlehoch2.ch
 gefuehlelebenlernen.ch
 gefuehlfuermenschen.ch
@@ -3249,6 +3242,7 @@ gehirngerechtes-coaching.ch
 gehirnjogging.ch
 gehirnleistung.ch
 gehirnmarathon.ch
+gehirnnebel.ch
 gehirnpest.ch
 gehirnschmied.ch
 gehirnsoftware.ch
@@ -3271,6 +3265,7 @@ gehlken.ch
 gehm.ch
 gehma.ch
 gehmalaufedgar.ch
+gehmeditation.ch
 gehmert-hypnose.ch
 gehminar.ch
 geho.ch
@@ -3881,7 +3876,6 @@ geissbi.ch
 geissbock-zueri.ch
 geissbock.ch
 geissbuehler-architekten.ch
-geissbuehler-bau.ch
 geissbuehler-goldschmied.ch
 geissbuehler-keramik.ch
 geissbuehler-muehle.ch
@@ -4115,6 +4109,7 @@ geistige-begleitung.ch
 geistige-entwicklung.ch
 geistige-evolution.ch
 geistige-fitness.ch
+geistige-frische.ch
 geistige-heilung.ch
 geistige-loge.ch
 geistige-welt-kontakt.ch
@@ -4124,6 +4119,7 @@ geistige-wirbelsaeulenaufrichtung.ch
 geistigeaufrichtung.ch
 geistigeberatung.ch
 geistigeevolution.ch
+geistigefrische.ch
 geistigegesundheit.ch
 geistigegueter.ch
 geistigeheilung.ch
@@ -4697,7 +4693,6 @@ geld-verdienen24.ch
 geld-versand.ch
 geld-verschenken.ch
 geld-weg.ch
-geld-zurueck-garantie.ch
 geld-zurueck-initiative-ja.ch
 geld-zurueck-initiative.ch
 geld-zurueck.ch
@@ -4746,7 +4741,6 @@ geldcheck.ch
 geldclub.ch
 geldcoach.ch
 geldcoaching.ch
-gelddazuverdienen.ch
 gelddenker.ch
 geldderzukunft.ch
 gelddominas.ch
@@ -4961,8 +4955,6 @@ geldzaehlmaschine.ch
 geldzauber.ch
 geldzeit.ch
 geldzuruck.ch
-geldzurueck.ch
-geldzurueckgarantie.ch
 gelebt.ch
 gelebte-geschichte.ch
 gelebte-vielfalt.ch
@@ -5990,7 +5982,6 @@ gemeindeversammlungen.ch
 gemeindeverwaltung.ch
 gemeindeverwaltungen.ch
 gemeindeverzeichnis.ch
-gemeindewahlen.ch
 gemeindeweb.ch
 gemeindewebseite.ch
 gemeindewebsite.ch
@@ -6654,7 +6645,6 @@ gems-schweiz.ch
 gems-swiss.ch
 gems-trade.ch
 gems-und-halbmond.ch
-gems-wood.ch
 gems.ch
 gemsa.ch
 gemsacker-boeckten.ch
@@ -6914,6 +6904,7 @@ genaiacademy.ch
 genaiaward.ch
 genaiconsulting.ch
 genaigeek.ch
+genaigeneva.ch
 genaisear.ch
 genaisummiteurope.ch
 genaitic.ch
@@ -7155,7 +7146,6 @@ gene-abc.ch
 gene-analysis.ch
 gene-based-beauty.ch
 gene-bike.ch
-gene-drive.ch
 gene-kaufmann.ch
 gene-sis.ch
 gene-support.ch
@@ -7906,6 +7896,7 @@ genericsupplies.ch
 generictoner-shop.ch
 generictoner.ch
 genericum.ch
+generieren.ch
 generik-suisse.ch
 generik.ch
 generika-apotheke-bern.ch
@@ -8075,6 +8066,7 @@ genesys-technologies.ch
 genesys.ch
 genet-bex.ch
 genet.ch
+genetas.ch
 genete.ch
 genetec.ch
 genetecuat.ch
@@ -8490,7 +8482,6 @@ genevaclassiccrit.ch
 genevacleaningservice.ch
 genevaclimbingschool.ch
 genevaclock.ch
-genevaclub.ch
 genevacoach.ch
 genevacoaches.ch
 genevacoaching.ch
@@ -11101,7 +11092,6 @@ genussbiere.ch
 genussbiker.ch
 genussblick.ch
 genussbotschaftler.ch
-genussbox.ch
 genussboxen.ch
 genussbrand.ch
 genussbrett.ch
@@ -11366,6 +11356,7 @@ genusswelt-horn.ch
 genusswelt-toggenburg.ch
 genusswelt-total.ch
 genusswelt-vonrotz.ch
+genusswelt.ch
 genusswelten.ch
 genussweltengmbh.ch
 genusswelttoggenburg.ch
@@ -12362,7 +12353,6 @@ geomapseo.ch
 geomar.ch
 geomarke.ch
 geomarketing-server.ch
-geomarketing.ch
 geomart.ch
 geomaster.ch
 geomatek.ch
@@ -13044,7 +13034,6 @@ geosecur.ch
 geoseeland.ch
 geoseite.ch
 geosens-gmbh.ch
-geosens.ch
 geosensing.ch
 geosentier.ch
 geosentieri.ch
@@ -14315,7 +14304,6 @@ gereust-partner.ch
 gereustpartner.ch
 gereutilise.ch
 gerevest.ch
-gerevetrapeze.ch
 gerevini.ch
 gerevit.ch
 gerez-vos-emotions-et-positivez.ch
@@ -14806,7 +14794,6 @@ germanvac.ch
 germanwindows.ch
 germanwinelistaward.ch
 germanwings.ch
-germanwithjenny.ch
 germanwithjoy.ch
 germanwithsurbhi.ch
 germanwithvio.ch
@@ -14998,7 +14985,6 @@ gerontopole.ch
 gerontopsychiatrie-duebendorf.ch
 gerontopsychiatrie.ch
 gerontopsychologie.ch
-gerontosozialarbeit.ch
 gerontotechnik.ch
 gerontotechnologie.ch
 gerontotecnica.ch
@@ -15756,7 +15742,6 @@ geschaeftsadresse-zuerich.ch
 geschaeftsadresse-zug.ch
 geschaeftsadresse.ch
 geschaeftsadressen-kaufen.ch
-geschaeftsadressen.ch
 geschaeftsadresseschweiz.ch
 geschaeftsanlass.ch
 geschaeftsantwortsendung.ch
@@ -16311,7 +16296,6 @@ geschichtedersozialensicherheit.ch
 geschichteerleben.ch
 geschichteimpuls.ch
 geschichteinchronologie.ch
-geschichten-auf-bestellung.ch
 geschichten-aus-dem-alltag.ch
 geschichten-aus-dem-internet.ch
 geschichten-cafe.ch
@@ -16328,14 +16312,12 @@ geschichten-online.ch
 geschichten-podcast.ch
 geschichten-retter.ch
 geschichten-schatz.ch
-geschichten-schenken.ch
 geschichten-vom-berg.ch
 geschichten-werkstatt.ch
 geschichten-zimmer.ch
 geschichten.ch
 geschichtenanschulen.ch
 geschichtenatelier.ch
-geschichtenaufbestellung.ch
 geschichtenausdeminternet.ch
 geschichtenausdemturm.ch
 geschichtenbaeckerei.ch
@@ -16377,7 +16359,6 @@ geschichtensaeerin.ch
 geschichtensaerin.ch
 geschichtensammler.ch
 geschichtenschatz.ch
-geschichtenschenken.ch
 geschichtenschmid.ch
 geschichtenschmiedin.ch
 geschichtenschmuck.ch
@@ -16580,6 +16561,7 @@ geschwister-erni.ch
 geschwister-kahl-stiftung.ch
 geschwister-kinder.ch
 geschwister-schmid.ch
+geschwister-weber.ch
 geschwister-winet.ch
 geschwister.ch
 geschwisterbiberstein.ch
@@ -18494,7 +18476,6 @@ gesundheits-zmorge.ch
 gesundheitsabo.ch
 gesundheitsadmin.ch
 gesundheitsadressen.ch
-gesundheitsagentur.ch
 gesundheitsakademie-schweiz.ch
 gesundheitsakademie.ch
 gesundheitsaktie.ch
@@ -18628,7 +18609,6 @@ gesundheitsfoerderungschweiz.ch
 gesundheitsfoerderungwallis.ch
 gesundheitsfoerderungws.ch
 gesundheitsforen.ch
-gesundheitsforum-gr.ch
 gesundheitsforum-rheinfelden.ch
 gesundheitsforum-rhf.ch
 gesundheitsforum.ch
@@ -20561,7 +20541,6 @@ getraenkescheuber.ch
 getraenkeservice-aellig.ch
 getraenkeservice-schuetz.ch
 getraenkeservice.ch
-getraenkeshop.ch
 getraenkespender.ch
 getraenkestation.ch
 getraenketechnik-weber.ch
@@ -21787,7 +21766,6 @@ gewerbegoesgeramt.ch
 gewerbegraubuenden.ch
 gewerbegrosswangen.ch
 gewerbegruppebruetten.ch
-gewerbehaftpflicht.ch
 gewerbehalle-asp.ch
 gewerbehalle-limmattal.ch
 gewerbehalle-linear.ch
@@ -22332,6 +22310,7 @@ gewinn-fuxx.ch
 gewinn-macht-sinn.ch
 gewinn-online.ch
 gewinn-raetsel.ch
+gewinn-spiel.ch
 gewinn-spiele.ch
 gewinn-steuer.ch
 gewinn-steuern.ch
@@ -22444,6 +22423,7 @@ gewo-burgdorf.ch
 gewo-seeberg.ch
 gewo-steinmaur.ch
 gewo.ch
+gewoba-abtwil.ch
 gewoba-freienbach.ch
 gewoba.ch
 gewobag-schweiz.ch
@@ -22623,6 +22603,7 @@ gezelligevents.ch
 gezer-bodenbelaege.ch
 gezer-verpackungen.ch
 gezerboeden.ch
+gezgin.ch
 gezh-formulare.ch
 gezh.ch
 gezi.ch

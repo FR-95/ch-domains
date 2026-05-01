@@ -1025,6 +1025,7 @@ high-speed-internet.ch
 high-speed-ofen.ch
 high-speed.ch
 high-spirits.ch
+high-stakes.ch
 high-step.ch
 high-store.ch
 high-street.ch
@@ -1123,7 +1124,6 @@ highdefinition.ch
 highdefinitioneyetest.ch
 highdefinitiongolf.ch
 highdent.ch
-highdentality.ch
 highdi.ch
 highdim.ch
 highdiving.ch
@@ -2530,7 +2530,6 @@ hilite.ch
 hilka.ch
 hilke.ch
 hilker-gmbh.ch
-hilker.ch
 hilkergmbh.ch
 hilkers.ch
 hilkinger.ch
@@ -3389,7 +3388,6 @@ hinduism.ch
 hinduismus.ch
 hinduja-advisory.ch
 hinduja-bank.ch
-hinduja.ch
 hindujaadvisory.ch
 hindujabank.ch
 hindujasuisseholding.ch
@@ -4725,10 +4723,8 @@ hirschmannfoundation.ch
 hirschmannstiftung.ch
 hirschmannweb.ch
 hirschmatt-copy.ch
-hirschmatt-druck.ch
 hirschmatt-immobilien.ch
 hirschmatt-neustadt.ch
-hirschmatt-print.ch
 hirschmatt-printcenter.ch
 hirschmatt-treuhand.ch
 hirschmatt.ch
@@ -5819,7 +5815,6 @@ hitouch.ch
 hitpalace.ch
 hitpalast.ch
 hitparade.ch
-hitparaden.ch
 hitpartner.ch
 hitpot.ch
 hitpreis.ch
@@ -6025,6 +6020,7 @@ hive-bee.ch
 hive-digital-suite.ch
 hive-digital.ch
 hive-electric.ch
+hive-immo.ch
 hive-logistics.ch
 hive-mind-consulting.ch
 hive-mobility.ch
@@ -6056,6 +6052,7 @@ hiveheim.ch
 hivehome.ch
 hivehotel.ch
 hivehub.ch
+hiveimmo.ch
 hiveinvest.ch
 hivelab.ch
 hivelabs.ch

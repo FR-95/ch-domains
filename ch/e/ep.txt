@@ -22,7 +22,6 @@ ep-bertschi.ch
 ep-borrini.ch
 ep-bosshard.ch
 ep-bratimageson.ch
-ep-bren.ch
 ep-campus.ch
 ep-capital.ch
 ep-catv.ch
@@ -237,8 +236,6 @@ epalingesexpertisetoiture.ch
 epalpaletten.ch
 epalschweiz.ch
 epalsuisse.ch
-epalsvizzera.ch
-epalswitzerland.ch
 epalu.ch
 epalza.ch
 epam-anywhere.ch
@@ -708,7 +705,6 @@ epi-extractions.ch
 epi-food.ch
 epi-ge.ch
 epi-genes.ch
-epi-greens.ch
 epi-handgemacht.ch
 epi-handmacherei.ch
 epi-health-vitality.ch
@@ -731,7 +727,6 @@ epi-ssi.ch
 epi-stiftung.ch
 epi-suisse.ch
 epi-suisseromande.ch
-epi-vd.ch
 epi-video.ch
 epi-waescherei.ch
 epi-wohn-werk.ch
@@ -1380,7 +1375,6 @@ epionce.ch
 epione.ch
 epionetherapies.ch
 epionix.ch
-epiopharm.ch
 epios-health.ch
 epios-medical.ch
 epipapyrus.ch

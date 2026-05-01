@@ -47,6 +47,7 @@ mf-immobilien.ch
 mf-immobilier.ch
 mf-impex.ch
 mf-ingenierie.ch
+mf-jerseys.ch
 mf-kosmetik.ch
 mf-kriessern.ch
 mf-limoservice.ch
@@ -567,7 +568,6 @@ mfpartner.ch
 mfpartners.ch
 mfpatrner.ch
 mfpaysages.ch
-mfpaysagistes.ch
 mfpbb.ch
 mfpdispo.ch
 mfpe.ch
@@ -681,7 +681,6 @@ mftaxi.ch
 mftb.ch
 mfte.ch
 mftech.ch
-mftechnik.ch
 mftechnologie.ch
 mftest.ch
 mftk.ch

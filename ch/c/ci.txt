@@ -471,7 +471,6 @@ ciccone.ch
 cicconeag.ch
 ciccopiccio.ch
 cicd-zbag.ch
-cicd.ch
 cicds.ch
 cice-ingenieurs.ch
 cice.ch
@@ -558,7 +557,6 @@ cicloraumundlicht.ch
 ciclosporin.ch
 ciclosport.ch
 ciclosprint.ch
-cicloturismo.ch
 cicloud.ch
 cicloudserver.ch
 cicloventure.ch
@@ -1040,6 +1038,7 @@ cigar-finder.ch
 cigar-lacouronne.ch
 cigar-lands.ch
 cigar-lounge-uzwil.ch
+cigar-lounge.ch
 cigar-master.ch
 cigar-online.ch
 cigar-outlet.ch
@@ -1162,7 +1161,6 @@ cigarrenversand.ch
 cigarrenzuhause.ch
 cigarretez.ch
 cigarro-r.ch
-cigarro.ch
 cigarronne.ch
 cigarros-veloz.ch
 cigarros.ch
@@ -1581,7 +1579,6 @@ cimet.ch
 cimetal.ch
 cimetec.ch
 cimeterium.ch
-cimetiere.ch
 cimetieres.ch
 cimetta-sport.ch
 cimetta.ch
@@ -2047,7 +2044,6 @@ cinema-car.ch
 cinema-caravan.ch
 cinema-caravane.ch
 cinema-casino.ch
-cinema-city.ch
 cinema-claudia-kloten.ch
 cinema-claudia.ch
 cinema-color-grading.ch
@@ -2104,7 +2100,6 @@ cinema.ch
 cinema2030.ch
 cinema24.ch
 cinema2go.ch
-cinema4d-c4d.ch
 cinema4d-portal.ch
 cinema4d.ch
 cinema4home.ch
@@ -3954,7 +3949,6 @@ cite2003.ch
 citeai.ch
 citeamup.ch
 citeblanche.ch
-citebleue.ch
 citec-suisse.ch
 citec-tankclearing.ch
 citec.ch
@@ -4136,6 +4130,7 @@ citolia.ch
 citolnx.ch
 citomeeting.ch
 citopharma.ch
+citoprep.ch
 citovox.ch
 citoyen.ch
 citoyenanonyme.ch
@@ -4413,7 +4408,6 @@ citrusconsulting.ch
 citrusfood.ch
 citrusimmo.ch
 citrusline.ch
-citrusmedia.ch
 citrust-group.ch
 citruste.ch
 citrustrading.ch
@@ -4616,6 +4610,7 @@ city-hotels.ch
 city-immo.ch
 city-immobilien.ch
 city-immobilienmakler.ch
+city-impact.ch
 city-info.ch
 city-inkasso.ch
 city-inn.ch
@@ -4707,7 +4702,6 @@ city-pizzeria.ch
 city-plaza.ch
 city-podologie-luzern.ch
 city-podologie.ch
-city-poller.ch
 city-pop.ch
 city-post.ch
 city-press.ch
@@ -4765,6 +4759,7 @@ city-tagung.ch
 city-taxi-geneve.ch
 city-taxi-rorschach.ch
 city-taxi-schaffhausen.ch
+city-tcm.ch
 city-team.ch
 city-tech.ch
 city-therapie.ch
@@ -4830,7 +4825,6 @@ cityapartmentszug.ch
 cityapartmentzug.ch
 cityapo.ch
 cityapotheke-glis.ch
-cityapotheke.ch
 cityapp.ch
 cityappart.ch
 cityappartement.ch
@@ -5263,6 +5257,7 @@ cityilike.ch
 cityillusion.ch
 cityimmo.ch
 cityimmobilienmakler.ch
+cityimpact.ch
 cityinfo.ch
 cityinfos.ch
 cityinkasso.ch
@@ -5484,6 +5479,7 @@ cityparks.ch
 cityparkzug.ch
 citypartnerhotels.ch
 citypass.ch
+citypatrol-protectas.ch
 citypatrol.ch
 citypause.ch
 citypeak-camper.ch
@@ -5701,7 +5697,6 @@ citytoursandmore.ch
 citytourslucerne.ch
 citytower.ch
 citytown.ch
-citytrade.ch
 citytrail.ch
 citytrailrun.ch
 citytrails.ch
@@ -5908,7 +5903,6 @@ civil-society.ch
 civil-voices.ch
 civil.ch
 civilagent.ch
-civilengineer.ch
 civiletto.ch
 civilian.ch
 civilib.ch
@@ -5929,7 +5923,6 @@ civilvoices.ch
 civilwar.ch
 civina.ch
 civinini.ch
-civino.ch
 civio.ch
 civioai.ch
 civion.ch

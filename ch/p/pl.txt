@@ -1885,6 +1885,7 @@ planfit.ch
 planfix.ch
 planfixe.ch
 planflex.ch
+planflow.ch
 planfokus.ch
 planfor.ch
 planformat.ch
@@ -3552,6 +3553,7 @@ plateforme-construction.ch
 plateforme-cpmdt.ch
 plateforme-de-commande.ch
 plateforme-direct.ch
+plateforme-durabilite-fribourg.ch
 plateforme-durabilite.ch
 plateforme-eau-valais.ch
 plateforme-egalite-salariale.ch
@@ -3705,7 +3707,6 @@ plathane.ch
 plathcoaching.ch
 plathner.ch
 platia.ch
-platico.ch
 platido.ch
 platimot.ch
 platin-24.ch
@@ -5259,6 +5260,7 @@ playtopia.ch
 playtower.ch
 playtowin.ch
 playtown.ch
+playtownskitchen.ch
 playtronic-gmbh.ch
 playtronic.ch
 playtronics.ch
@@ -5476,6 +5478,7 @@ pleaser-schuhe.ch
 pleasershoes.ch
 pleaseshowmethankyou.ch
 pleastore.ch
+pleasura.ch
 pleasurable.ch
 pleasure-drops.ch
 pleasure-guide.ch
@@ -6005,6 +6008,7 @@ plf-fund.ch
 plf-invest.ch
 plf-recherche.ch
 plf.ch
+plfcloud.ch
 plffond.ch
 plffund.ch
 plfm.ch
@@ -6094,6 +6098,7 @@ pliniorizzi.ch
 pliniostreetkitchen.ch
 plinioverda.ch
 plinius.ch
+plink-pile.ch
 plink.ch
 plinkhofers.ch
 plinko-app-schweiz.ch
@@ -6396,7 +6401,6 @@ plombier-geneve-express.ch
 plombier-geneve-mercier.ch
 plombier-geneve-plomberie.ch
 plombier-geneve-sanitaire.ch
-plombier-geneve.ch
 plombier-gland.ch
 plombier-grand-saconnex.ch
 plombier-hofmann.ch
@@ -6686,7 +6690,6 @@ plottfolie.ch
 plottfolien.ch
 plotting.ch
 plottique.ch
-plottnprint.ch
 plotto.ch
 plottpourri.ch
 plottservice.ch

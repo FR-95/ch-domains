@@ -474,7 +474,6 @@ aze.ch
 azea.ch
 azeb.ch
 azech-ticino.ch
-azechticino.ch
 azedconseils.ch
 azedilizia.ch
 azedo.ch
@@ -905,7 +904,6 @@ aznotions.ch
 aznu.ch
 aznw.ch
 azo-auto.ch
-azo-informatik.ch
 azo.ch
 azoainternational.ch
 azoauto.ch
@@ -965,7 +963,6 @@ azot.ch
 azote-liquide.ch
 azote-service.ch
 azotea.ch
-azotek.ch
 azoter.ch
 azothdynamics.ch
 azotovit.ch
@@ -1297,7 +1294,6 @@ azureplay.ch
 azurerocks.ch
 azurescape.ch
 azureservice.ch
-azurestack.ch
 azurestate.ch
 azuresuisse.ch
 azuretestlab.ch

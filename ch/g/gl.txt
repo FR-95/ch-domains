@@ -1354,7 +1354,6 @@ glas-chaeller.ch
 glas-chnopf.ch
 glas-design.ch
 glas-direkt.ch
-glas-doc.ch
 glas-dreams.ch
 glas-druck.ch
 glas-duschen.ch
@@ -1417,7 +1416,6 @@ glas-mont-ag.ch
 glas-mont.ch
 glas-montage.ch
 glas-montagen-spezial.ch
-glas-montagen.ch
 glas-monterrey.ch
 glas-mosaik.ch
 glas-mueller.ch
@@ -1633,7 +1631,6 @@ glasdesignfamily.ch
 glasdienst.ch
 glasdildo.ch
 glasdirekt.ch
-glasdoc.ch
 glasdoktor.ch
 glasdon.ch
 glasdosen.ch
@@ -2593,7 +2590,6 @@ glattemaerit.ch
 glattesache.ch
 glattexpress.ch
 glattfaelder-wiehnachtsmaert.ch
-glattfelden-edu.ch
 glattfelden-info.ch
 glattfelden.ch
 glattfelden24.ch
@@ -3092,6 +3088,7 @@ gleichgesinnt.ch
 gleichgesinnte-schweiz.ch
 gleichgesinnte.ch
 gleichgestellt.ch
+gleichgewicht-senioren.ch
 gleichgewicht-studer.ch
 gleichgewicht.ch
 gleichgewichtig.ch
@@ -4187,7 +4184,6 @@ global-consulting.ch
 global-cooling.ch
 global-cooperation.ch
 global-corporate.ch
-global-creativ-art.ch
 global-creative.ch
 global-css.ch
 global-cycle.ch
@@ -4872,7 +4868,6 @@ globaliaconnect.ch
 globalillumination.ch
 globalilty.ch
 globalimages.ch
-globalimmo.ch
 globalimmo2002.ch
 globalimmobilien-boxingnight.ch
 globalimmobilien.ch
@@ -4981,7 +4976,6 @@ globalmatix.ch
 globalmatrix.ch
 globalmed.ch
 globalmedia.ch
-globalmediasystem.ch
 globalmedicare.ch
 globalmedico.ch
 globalmegatrend.ch
@@ -5669,16 +5663,13 @@ globo-lingua.ch
 globo-magazin.ch
 globo-moto.ch
 globo-motorbike.ch
-globo-sleep.ch
 globo-sprachen.ch
 globo-study.ch
-globo-talk.ch
 globo-tax.ch
 globo-tours.ch
 globo-train.ch
 globo-travel.ch
 globo-trek.ch
-globo-vision.ch
 globo.ch
 globoaward.ch
 globobike.ch
@@ -5726,7 +5717,6 @@ globoride.ch
 globos.ch
 globoservice.ch
 globoship.ch
-globosleep.ch
 globosol.ch
 globosource.ch
 globosped.ch
@@ -5734,7 +5724,6 @@ globosprachen.ch
 globostar.ch
 globostudio.ch
 globostudy.ch
-globotalk.ch
 globotax.ch
 globotech.ch
 globotics.ch
@@ -5749,7 +5738,6 @@ globott.ch
 globotur.ch
 globouovo.ch
 globovelo.ch
-globovision.ch
 globovista.ch
 globovita.ch
 globoweb.ch
@@ -6429,7 +6417,6 @@ glou.ch
 gloub.ch
 gloubt.ch
 gloud.ch
-gloudesign.ch
 gloudie.ch
 glougg.ch
 glouglou-luzern.ch
@@ -7699,6 +7686,7 @@ glvzg.ch
 glvzh.ch
 glw.ch
 glweb.ch
+glwebstudio.ch
 glwk.ch
 glwv.ch
 glx.ch
@@ -7750,7 +7738,6 @@ glyn.ch
 glynn.ch
 glynt.ch
 glynwed.ch
-glyon.ch
 glyph.ch
 glyphe.ch
 glyphing.ch

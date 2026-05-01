@@ -75,6 +75,7 @@ al-forno-vacanze.ch
 al-forno.ch
 al-fresco.ch
 al-futur.ch
+al-garage.ch
 al-gastone.ch
 al-gattuso.ch
 al-generalunternehmung.ch
@@ -153,7 +154,6 @@ al-online.ch
 al-os.ch
 al-padellino-schubelbach.ch
 al-page.ch
-al-panino.ch
 al-parco.ch
 al-peinture.ch
 al-pentolino.ch
@@ -521,6 +521,7 @@ alainberner.ch
 alainberset.ch
 alainbertschy.ch
 alainbeyeler-artscreations.ch
+alainbeyeler.ch
 alainblanc.ch
 alainboog.ch
 alainboon.ch
@@ -1274,10 +1275,12 @@ alas-food.ch
 alas-quartett.ch
 alasakra.ch
 alasans.ch
+alasca-consulting.ch
 alasca-immobilien.ch
 alasca-solutions.ch
 alasca-systems.ch
 alasca.ch
+alascaconsulting.ch
 alascaimmobilien.ch
 alascasystems.ch
 alasco-weine.ch
@@ -1312,7 +1315,6 @@ alaskaexplorer.ch
 alaskaglacierguarantee.ch
 alaskakanada.ch
 alaskalachs.ch
-alaskan-klee-kai.ch
 alaskan-malamute.ch
 alaskan-sockeye.ch
 alaskan.ch
@@ -1462,7 +1464,6 @@ alb-fassadenbau.ch
 alb-filter.ch
 alb-ko.ch
 alb-media.ch
-alb-net.ch
 alb-partenaires.ch
 alb-plus.ch
 alb-realestate.ch
@@ -2395,6 +2396,7 @@ albina.ch
 albinaalpenblick.ch
 albinacereghetti.ch
 albinackermann.ch
+albinapast.ch
 albinati-aviation.ch
 albinati.ch
 albinatiaero.ch
@@ -3144,7 +3146,6 @@ alchimiaglass.ch
 alchimiakloten.ch
 alchimiarestaurant.ch
 alchimiarte.ch
-alchimiawines.ch
 alchimic.ch
 alchimica.ch
 alchimie-art-therapie.ch
@@ -4255,6 +4256,7 @@ alenia.ch
 alenio.ch
 alenis.ch
 alenisi.ch
+alenium.ch
 alenka.ch
 alenko-ag.ch
 alenko.ch
@@ -4359,7 +4361,6 @@ alera-immo.ch
 alera.ch
 aleramica.ch
 alerce.ch
-alere.ch
 alerefo.ch
 aleregmbh.ch
 alergiz.ch
@@ -4928,6 +4929,7 @@ aletschcampus.ch
 aletschelektro.ch
 aletschenergie.ch
 aletschenergy.ch
+aletschgastro.ch
 aletschglaciarahomes.ch
 aletschgletscher-trekking.ch
 aletschgletscher.ch
@@ -6213,7 +6215,6 @@ alexjagodic.ch
 alexjames.ch
 alexjorand.ch
 alexjost.ch
-alexjoyeuxphotography.ch
 alexkaelin.ch
 alexkaempfen.ch
 alexkaeslin.ch
@@ -6426,6 +6427,7 @@ alexvonengelberg.ch
 alexvonsiebenthal.ch
 alexwagner-avocat.ch
 alexwalesweddings.ch
+alexwardle.ch
 alexweb.ch
 alexwebdesign.ch
 alexweber.ch
@@ -6983,7 +6985,6 @@ alflorex.ch
 alfm.ch
 alfmanagement.ch
 alfo-countrynight.ch
-alfo.ch
 alfobet.ch
 alfoeldi-beratung.ch
 alfoeldi.ch
@@ -8794,6 +8795,7 @@ alisataxi.ch
 alisathaimassage.ch
 alisaundluca.ch
 alisbon.ch
+aliscarwash.ch
 aliscential.ch
 alischiaseiten.ch
 alisconsulting.ch
@@ -10198,7 +10200,6 @@ allavoro.ch
 allaway.ch
 allaxa-smart.ch
 allaycapital.ch
-allayi.ch
 allaz.ch
 allball.ch
 allbarone.ch
@@ -11334,6 +11335,7 @@ allerliebstlich.ch
 allermanger.ch
 allermieux.ch
 allerno.ch
+alleron.ch
 alleroo.ch
 allerpass.ch
 allerretour.ch
@@ -11872,6 +11874,7 @@ alleyeneed.ch
 alleyes.ch
 alleyesonmountains.ch
 alleyne.ch
+alleyo.ch
 alleyooplemon.ch
 alleywat.ch
 allez-allez.ch
@@ -11998,7 +12001,6 @@ allfundsinternationalbank.ch
 allfundsinternationalswitzerland.ch
 allfundstechsolutions.ch
 allfx.ch
-allg-bestattungsinstitut.ch
 allga.ch
 allgaeu-events.ch
 allgaeu-kasse.ch
@@ -12645,7 +12647,6 @@ allimmo.ch
 allimmobilier.ch
 allimmoplus.ch
 allimmun.ch
-allimone.ch
 allimotec.ch
 allimpact.ch
 allimpuls.ch
@@ -15104,7 +15105,6 @@ alnovis.ch
 alnovo.ch
 alnovy.ch
 alntl.ch
-alnus.ch
 alnvc.ch
 alnylam.ch
 alnylamact.ch
@@ -17749,6 +17749,7 @@ alpentallow.ch
 alpentapas.ch
 alpentapir.ch
 alpentaste.ch
+alpentau.ch
 alpentax-ai.ch
 alpentaxi-davos-klosters.ch
 alpentaxi-surselva.ch
@@ -18478,7 +18479,6 @@ alpha-physiotherapie.ch
 alpha-pi.ch
 alpha-pitch.ch
 alpha-pix.ch
-alpha-plaettli.ch
 alpha-plan.ch
 alpha-plus.ch
 alpha-pools.ch
@@ -18568,13 +18568,13 @@ alpha-treuhand-immo.ch
 alpha-treuhand.ch
 alpha-treuhandimmo.ch
 alpha-tronic.ch
-alpha-unterrichtskompetenz.ch
 alpha-ventures.ch
 alpha-verputztechnik.ch
 alpha-version.ch
 alpha-victory.ch
 alpha-ville.ch
 alpha-vinyl.ch
+alpha-vita.ch
 alpha-voicetec.ch
 alpha-volt.ch
 alpha-wassertechnik.ch
@@ -19213,7 +19213,6 @@ alphasoft.ch
 alphasoft3000.ch
 alphasoftware.ch
 alphasoin.ch
-alphasol-shop.ch
 alphasol.ch
 alphasolar.ch
 alphasolarsystems.ch
@@ -19262,7 +19261,6 @@ alphatax.ch
 alphataxi-chur.ch
 alphataxi-chur1.ch
 alphataxi-winterthur.ch
-alphataxi.ch
 alphataxi24.ch
 alphataxilugano.ch
 alphateam.ch
@@ -19305,6 +19303,7 @@ alphatourism.ch
 alphatours.ch
 alphatrad.ch
 alphatrade.ch
+alphatrading.ch
 alphatrail.ch
 alphatraining.ch
 alphatranscargo.ch
@@ -19771,6 +19770,7 @@ alpike.ch
 alpikk.ch
 alpila.ch
 alpili.ch
+alpiliegg.ch
 alpilink.ch
 alpillion.ch
 alpillow.ch
@@ -22783,7 +22783,6 @@ alru.ch
 alrubeiay.ch
 alrubeiayfoundation.ch
 alruguba.ch
-alruma.ch
 alrun-solutions.ch
 alrun.ch
 alrusolutions.ch
@@ -23189,6 +23188,7 @@ altaimmobilier.ch
 altair-consulting-sa.ch
 altair-consulting.ch
 altair-poi.ch
+altair-residence.ch
 altair.ch
 altaira.ch
 altairasa.ch
@@ -24092,7 +24092,6 @@ alternativeheizung.ch
 alternativehouse.ch
 alternativeimmo.ch
 alternativeinvestments.ch
-alternativekonfliktloesung.ch
 alternativekrebs-behandlung.ch
 alternativeliste.ch
 alternativelocale.ch
@@ -24533,7 +24532,6 @@ altersverein-birsfelden.ch
 altersverifikation.ch
 altersversicherung.ch
 altersversicherungen.ch
-altersversorgung.ch
 altersvorfreude.ch
 altersvorsorge-2020.ch
 altersvorsorge-beratung.ch
@@ -26053,6 +26051,7 @@ altux.ch
 altv.ch
 altvater.ch
 altverkauf.ch
+altvision.ch
 altvisory.ch
 altwacht.ch
 altwachtmuri.ch
@@ -27028,6 +27027,7 @@ alvaris-hundebox.ch
 alvaris-solutions.ch
 alvarium.ch
 alvariuminvestments.ch
+alvaro-ai.ch
 alvaro-allround.ch
 alvaro-navarro.ch
 alvaro.ch
@@ -27054,6 +27054,7 @@ alvatherapy.ch
 alvathon.ch
 alvaton.ch
 alvatosca.ch
+alvatravel.ch
 alvavita.ch
 alvaweb.ch
 alvawelt.ch
@@ -27119,7 +27120,6 @@ alveolus.ch
 alveon.ch
 alveosimulator.ch
 alver-zuerich.ch
-alver.ch
 alvera.ch
 alveran.ch
 alverde.ch

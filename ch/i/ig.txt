@@ -643,7 +643,6 @@ igb-zh.ch
 igb.ch
 igb2b.ch
 igb3.ch
-igb8.ch
 igba-bls-aed-egli.ch
 igba-pro-egli.ch
 igba.ch
@@ -1103,7 +1102,6 @@ igjhome.ch
 igjmw.ch
 igjungreben.ch
 igk-cic.ch
-igk-schweiz.ch
 igk-suisse.ch
 igk.ch
 igka.ch
@@ -1598,6 +1596,7 @@ igprokultur.ch
 igprolachen.ch
 igpromedicoplus.ch
 igpromurianer.ch
+igprovebo.ch
 igprozuba.ch
 igps.ch
 igpsarl.ch
@@ -1891,7 +1890,6 @@ igvmediamarketing.ch
 igvmediaoffers.ch
 igvmediasales.ch
 igvt.ch
-igvtravel.ch
 igvz.ch
 igw-schweiz.ch
 igw-uta.ch

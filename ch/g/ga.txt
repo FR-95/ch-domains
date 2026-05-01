@@ -1620,7 +1620,6 @@ gaebris.ch
 gaebrishuette.ch
 gaebu-baut.ch
 gaec.ch
-gaech.ch
 gaechima.ch
 gaechlingen.ch
 gaechlingen24.ch
@@ -3036,6 +3035,7 @@ galapagostravel.ch
 galapiedra.ch
 galaproductions.ch
 galaproinfirmis.ch
+galardi.ch
 galareinigung.ch
 galariafravi.ch
 galarino.ch
@@ -4097,7 +4097,6 @@ gallatis.ch
 gallatti.ch
 gallauer.ch
 gallavin.ch
-gallay-berger.ch
 gallay-fleurs.ch
 gallay-gallay.ch
 gallay-jufer.ch
@@ -4268,7 +4267,6 @@ galleryjeans.ch
 gallerykern.ch
 gallerykla.ch
 galleryklabsl.ch
-gallerykorea.ch
 gallerylab.ch
 gallerylive.ch
 gallerymaar.ch
@@ -5501,6 +5499,7 @@ gamersbase.ch
 gamersfirst.ch
 gamersgate.ch
 gamersguild.ch
+gamersguildticino.ch
 gamershub.ch
 gamersinbusiness.ch
 gamerslair.ch
@@ -5848,6 +5847,7 @@ gamingworld.ch
 gamingzone.ch
 gamink.ch
 gamins.ch
+gaminsdetalus.ch
 gamis.ch
 gamisch.ch
 gamit.ch
@@ -6363,7 +6363,6 @@ gangbang-basel.ch
 gangbang-keller.ch
 gangbang.ch
 gangbanghuren.ch
-gangbangparty.ch
 gangbangs.ch
 gangbar.ch
 gangbe-film.ch
@@ -7209,7 +7208,6 @@ ganztec.ch
 ganztiefoben.ch
 ganztierheitlich.ch
 ganztomi.ch
-ganzton.ch
 ganzundanders.ch
 ganzundgar.ch
 ganzundgarage.ch
@@ -8934,7 +8932,6 @@ garageatome.ch
 garageattruia.ch
 garageauspuffhuber.ch
 garageauto-emz.ch
-garageauto.ch
 garageautobox.ch
 garageautocasa-sa.ch
 garageautocasa.ch
@@ -9654,7 +9651,6 @@ garagekuhn.ch
 garagekumovi.ch
 garagekunfermann.ch
 garagekunz.ch
-garagekunzi.ch
 garagekuster.ch
 garagelabi.ch
 garagelac.ch
@@ -9990,7 +9986,6 @@ garageodermatt.ch
 garageoertig.ch
 garageoetterli.ch
 garageolympe.ch
-garageolympia.ch
 garageolympic.ch
 garageone.ch
 garageonline.ch
@@ -10975,7 +10970,6 @@ gardenfestival.ch
 gardenfocus.ch
 gardenfood.ch
 gardenforyou.ch
-gardenfurniture.ch
 gardengate.ch
 gardengenius.ch
 gardenghi.ch
@@ -11234,7 +11228,6 @@ gardistin.ch
 gardium-security.ch
 gardium.ch
 gardix.ch
-gardizen.ch
 gardj.ch
 gardlie.ch
 gardline.ch
@@ -13127,7 +13120,6 @@ gartenrogger.ch
 gartenrose.ch
 gartensafari.ch
 gartensalat.ch
-gartensanierung.ch
 gartensanierungbern.ch
 gartensanierungthun.ch
 gartensauna.ch
@@ -14486,7 +14478,6 @@ gastgeberin.ch
 gastgeberkreis.ch
 gastgeberpunkt.ch
 gastgeschenke-hochzeit.ch
-gastgeschenke.ch
 gastgewerbe-arbeitsrecht.ch
 gastgewerbe-bewilligung.ch
 gastgewerbe-luzern.ch
@@ -14693,7 +14684,6 @@ gasthof-brauerei.ch
 gasthof-bruecke.ch
 gasthof-buehl.ch
 gasthof-drei-eidgenossen.ch
-gasthof-duc.ch
 gasthof-eberg.ch
 gasthof-eintracht.ch
 gasthof-eisenbahn.ch
@@ -14963,6 +14953,7 @@ gastro-consulting-buehler.ch
 gastro-consulting.ch
 gastro-cool.ch
 gastro-copilot.ch
+gastro-cycle.ch
 gastro-deal.ch
 gastro-dichtung.ch
 gastro-dienste.ch
@@ -15431,7 +15422,6 @@ gastroconsalting.ch
 gastroconsult.ch
 gastroconsultant.ch
 gastroconsulter.ch
-gastroconsulting.ch
 gastrocontentstudio.ch
 gastrocontrol.ch
 gastrocopilot.ch
@@ -15490,7 +15480,6 @@ gastroenterologie-destilleuls.ch
 gastroenterologie-geneve.ch
 gastroenterologie-genf.ch
 gastroenterologie-illuster.ch
-gastroenterologie-impark.ch
 gastroenterologie-inovis.ch
 gastroenterologie-interlaken.ch
 gastroenterologie-kreuzlingen.ch
@@ -15588,7 +15577,6 @@ gastroformation.ch
 gastroformationbern.ch
 gastroformazione.ch
 gastroforsale.ch
-gastroforum.ch
 gastroforyou.ch
 gastrofoundation.ch
 gastrofox.ch
@@ -15836,6 +15824,7 @@ gastromorges.ch
 gastromoser.ch
 gastromotion.ch
 gastromotions.ch
+gastronaut-sounds.ch
 gastronaut.ch
 gastronauten.ch
 gastronautic.ch
@@ -15920,7 +15909,6 @@ gastronomie-stellen.ch
 gastronomie-suisse.ch
 gastronomie-tester.ch
 gastronomie-thurgau-blasercafe.ch
-gastronomie-tool.ch
 gastronomie-versicherung.ch
 gastronomie-versicherungen.ch
 gastronomie-vierwaldstaettersee.ch

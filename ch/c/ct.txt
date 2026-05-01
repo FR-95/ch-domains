@@ -351,6 +351,7 @@ ctmen.ch
 ctmetal.ch
 ctmodule.ch
 ctmpry.ch
+ctmr.ch
 ctmreisen.ch
 ctms-jack.ch
 ctms.ch
@@ -406,6 +407,7 @@ ctown.ch
 ctp-coaching.ch
 ctp-training.ch
 ctp.ch
+ctpa.ch
 ctpartner.ch
 ctpdr.ch
 ctpilates.ch

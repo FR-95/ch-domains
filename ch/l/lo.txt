@@ -760,7 +760,6 @@ localdream.ch
 locale.ch
 locale11.ch
 localead.ch
-localeat.ch
 localeats.ch
 localement-suisse.ch
 localemployer.ch
@@ -781,7 +780,6 @@ localetnaturesuisse.ch
 localetsearch.ch
 localeumzugsfirma.ch
 localevent.ch
-localevents.ch
 localexpert.ch
 localf11.ch
 localfactory.ch
@@ -914,7 +912,6 @@ localltv.ch
 localluogi.ch
 localluogo.ch
 locally-yours.ch
-locally.ch
 locallymade.ch
 locallysourced.ch
 locallyswiss.ch
@@ -2209,7 +2206,6 @@ locona.ch
 loconet.ch
 loconomie.ch
 loconte-immo.ch
-loconte.ch
 locoone.ch
 locopello.ch
 locophotography.ch
@@ -2298,7 +2294,6 @@ locustconsulting.ch
 locustmail.ch
 locusweb.ch
 locutus.ch
-locvaisselle.ch
 locvis.ch
 locymusic.ch
 lod-suite-gmbh.ch
@@ -2954,6 +2949,7 @@ loewen-badragaz.ch
 loewen-bangerten.ch
 loewen-bichelsee.ch
 loewen-bollodingen.ch
+loewen-bonstetten.ch
 loewen-boswil.ch
 loewen-boys.ch
 loewen-catering.ch
@@ -3528,6 +3524,7 @@ log4you.ch
 loga-cosmetics.ch
 loga-jobs.ch
 loga-sport.ch
+loga-uehlinger.ch
 loga.ch
 logabo.ch
 logacop.ch
@@ -6206,7 +6203,6 @@ lokalprodukt.ch
 lokalprofi.ch
 lokalprominenz.ch
 lokalradio.ch
-lokalradios.ch
 lokalregion.ch
 lokals.ch
 lokalschrank.ch
@@ -6660,7 +6656,6 @@ lolsannois.ch
 lolshop.ch
 loltaxi.ch
 loltoplist.ch
-lolu.ch
 loluclay.ch
 lolugano.ch
 lolunco.ch
@@ -7338,6 +7333,8 @@ longevity-partners.ch
 longevity-pen.ch
 longevity-pilates.ch
 longevity-praxis.ch
+longevity-proof.ch
+longevity-reisen.ch
 longevity-rheintal.ch
 longevity-schluessel.ch
 longevity-schweiz.ch
@@ -7347,6 +7344,7 @@ longevity-superfood.ch
 longevity-swiss-center.ch
 longevity-swiss-hub.ch
 longevity-swiss.ch
+longevity-switzerland.ch
 longevity-test.ch
 longevity-therapy.ch
 longevity-trainer.ch
@@ -7437,6 +7435,7 @@ longevitypilates.ch
 longevitypoint.ch
 longevitypraxis.ch
 longevityproject.ch
+longevityproof.ch
 longevityretreat.ch
 longevityshake.ch
 longevityshop.ch
@@ -7449,6 +7448,7 @@ longevitysuperfood.ch
 longevitysupplement.ch
 longevitysupplements.ch
 longevityswiss.ch
+longevityswitzerland.ch
 longevitytabletten.ch
 longevitytabs.ch
 longevitytechnology.ch
@@ -7784,7 +7784,6 @@ lonzacampus.ch
 lonzen.ch
 lonzenity.ch
 lonzi.ch
-lonzichuchi.ch
 loo-too.ch
 loo.ch
 loo7.ch
@@ -8195,7 +8194,6 @@ loopez.ch
 loopfitness.ch
 loopfloor.ch
 loopfuture.ch
-loopgmbh.ch
 loopgolfball.ch
 loopha.ch
 loophead.ch
@@ -8322,7 +8320,6 @@ loose-parts.ch
 loose-riders.ch
 loose.ch
 looseal.ch
-looseandfind.ch
 looseboob.ch
 looseconnection.ch
 loosemoose.ch
@@ -10183,7 +10180,6 @@ lostmaryschweiz.ch
 lostmobile.ch
 lostmy.ch
 lostmysoul.ch
-lostndfound.ch
 lostnfaded.ch
 lostnfound.ch
 lostnscape.ch
@@ -10988,7 +10984,6 @@ louel.ch
 loueliasbihler.ch
 louelipark.ch
 louelle.ch
-louemoi.ch
 louen.ch
 louener.ch
 louenerbeni.ch
@@ -11516,11 +11511,9 @@ loungefire.ch
 loungefiregrill.ch
 loungefires.ch
 loungefly.ch
-loungegarten.ch
 loungekino.ch
 loungekissen.ch
 loungelabaia.ch
-loungelounge.ch
 loungemag.ch
 loungemax.ch
 loungemobiliar.ch
@@ -12255,7 +12248,6 @@ loveledneon.ch
 lovelee.ch
 loveleecosmetics.ch
 lovelens-weddings-zurich.ch
-lovelens.ch
 loveleo.ch
 loveless.ch
 loveletterring.ch
@@ -12835,7 +12827,6 @@ lovingthosecrystals.ch
 lovingthosejewels.ch
 lovini.ch
 lovink.ch
-lovino.ch
 lovinoelektro.ch
 lovinopassion.ch
 lovinos.ch
@@ -13402,7 +13393,6 @@ lozann.ch
 lozanne.ch
 lozanneradioactive.ch
 lozano-grafik.ch
-lozano.ch
 lozanoart.ch
 lozanogroup.ch
 lozanogroupexport.ch

@@ -343,6 +343,7 @@ dvt-center.ch
 dvt-kopfdiagnostik.ch
 dvt-luzern.ch
 dvt-roentgen.ch
+dvt-splitter.ch
 dvt-tobler.ch
 dvt-video.ch
 dvt-zentrum.ch

@@ -1556,7 +1556,6 @@ idem-eau.ch
 idem-fotoart.ch
 idem-i.ch
 idem-sh.ch
-idem.ch
 idema.ch
 idemartin.ch
 idembau.ch
@@ -1682,8 +1681,6 @@ identity.ch
 identity365.ch
 identity4kmu.ch
 identityai.ch
-identityandaccesmanager.ch
-identityandaccessmanager.ch
 identitybase.ch
 identitycenter.ch
 identitycoach.ch

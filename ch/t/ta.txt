@@ -2605,8 +2605,6 @@ tagetto.ch
 tagevents.ch
 tagewerk.ch
 tagezukonsens.ch
-tagfahrlicht.ch
-tagfahrlichter.ch
 tagfalter.ch
 tagfamilyoffice.ch
 tagfinance.ch
@@ -2648,6 +2646,7 @@ taggrx.ch
 taggy.ch
 tagh.ch
 taghell-gmbh.ch
+taghell-skyview.ch
 taghell.ch
 tagheller-kellerraum.ch
 tagheuer-boutique.ch
@@ -2856,7 +2855,6 @@ tagungszentrum.ch
 tagungszimmer.ch
 tagurfunnybelt.ch
 tagus.ch
-tagustech.ch
 taguza.ch
 tagvorhaenge.ch
 tagwach.ch
@@ -4511,7 +4509,6 @@ talentgraphcrm.ch
 talentgraphtechnologies.ch
 talentgrook.ch
 talentgroup.ch
-talentgruppe-fvbj.ch
 talenthafen.ch
 talentharbour.ch
 talenthaus.ch
@@ -4828,6 +4825,7 @@ talgarten.ch
 talgcare.ch
 talgemeinschaft.ch
 talgenossenschaft-rheinwald.ch
+talgeschichten.ch
 talgetraenke.ch
 talgo.ch
 talgrad-equipment.ch
@@ -5290,7 +5288,6 @@ talstark.ch
 talstation-events.ch
 talstation-party.ch
 talstation.ch
-talstrasse-jetzt.ch
 talstrasse-langegasse.ch
 talstrasse.ch
 talstrasse1.ch
@@ -5629,7 +5626,6 @@ tamarheadshop.ch
 tamarhemp.ch
 tamari-foundation.ch
 tamari.ch
-tamariart.ch
 tamarifoundation.ch
 tamarijnaruba.ch
 tamariki-kinderkleider.ch
@@ -6140,7 +6136,6 @@ tampiteller.ch
 tamplo.ch
 tampo-tech.ch
 tampodruck.ch
-tampographie.ch
 tampograv.ch
 tampon-druck.ch
 tampon-express.ch
@@ -6202,6 +6197,7 @@ tamtam-produktion.ch
 tamtam.ch
 tamtamafrica.ch
 tamtamagency.ch
+tamtamagentur.ch
 tamtambour.ch
 tamtamconsulting.ch
 tamtamphotography.ch
@@ -6694,7 +6690,6 @@ tangolocarno.ch
 tangolounge.ch
 tangolove.ch
 tangolugano.ch
-tangoluzern.ch
 tangomango.ch
 tangomania.ch
 tangomilonguero.ch
@@ -6743,6 +6738,7 @@ tangote.ch
 tangotee.ch
 tangotools.ch
 tangouabissanan.ch
+tangour.ch
 tangovibes.ch
 tangowave.ch
 tangowoche.ch
@@ -6872,6 +6868,7 @@ taninka-christoph.ch
 taninos-barbershop.ch
 taninum.ch
 tanir.ch
+tanirbaumanagement.ch
 tanirem.ch
 tanis.ch
 taniscrea.ch
@@ -7076,7 +7073,6 @@ tanjakull.ch
 tanjakummer.ch
 tanjakundenfokus.ch
 tanjakunz.ch
-tanjakuriger-fotografie.ch
 tanjakurt.ch
 tanjalacroix-art.ch
 tanjalacroix.ch
@@ -8043,7 +8039,6 @@ tantra-massage-schweiz.ch
 tantra-massage-zuerich.ch
 tantra-massage.ch
 tantra-massagen-zuerich.ch
-tantra-massagen.ch
 tantra-massages-escortes.ch
 tantra-masseur.ch
 tantra-michell.ch
@@ -8053,9 +8048,7 @@ tantra-raum.ch
 tantra-retreat.ch
 tantra-ritual.ch
 tantra-sarah.ch
-tantra-schaffhausen.ch
 tantra-schule-luzern.ch
-tantra-schweiz.ch
 tantra-secret.ch
 tantra-shop.ch
 tantra-sierre.ch
@@ -8168,7 +8161,6 @@ tantrart.ch
 tantras.ch
 tantraschule-luzern.ch
 tantraschulen.ch
-tantraschweiz.ch
 tantrasex.ch
 tantrashop.ch
 tantraskydancing.ch
@@ -9387,7 +9379,6 @@ tapaway.ch
 tapay.ch
 tapazstudio.ch
 tapbau.ch
-tapberne.ch
 tapbit.ch
 tapbulletin.ch
 tapca.ch
@@ -9407,7 +9398,6 @@ tapdistribution.ch
 tape-and-reel.ch
 tape-art.ch
 tape-cutter.ch
-tape-design.ch
 tape-geneve.ch
 tape-in-extensions.ch
 tape-in.ch
@@ -12162,7 +12152,6 @@ tattoo-artists.ch
 tattoo-arts-geneve.ch
 tattoo-arts.ch
 tattoo-association.ch
-tattoo-atelier.ch
 tattoo-ausbildung.ch
 tattoo-basel.ch
 tattoo-beratung.ch
@@ -12703,7 +12692,6 @@ tauch-arbeiten.ch
 tauch-bar.ch
 tauch-boot-thunersee.ch
 tauch-center.ch
-tauch-club.ch
 tauch-ferien.ch
 tauch-gruppe.ch
 tauch-info.ch
@@ -13463,7 +13451,6 @@ taverna-murten.ch
 taverna-poseidon.ch
 taverna-pullicinella.ch
 taverna-santorini.ch
-taverna-sternen.ch
 taverna-zug.ch
 taverna-zumloewen.ch
 taverna.ch
@@ -13483,7 +13470,6 @@ tavernaro.ch
 tavernaroag.ch
 tavernaromana.ch
 tavernasonnegg.ch
-tavernasternen.ch
 tavernatafers.ch
 tavernathessaloniki.ch
 tavernavascodagama.ch
@@ -14335,7 +14321,6 @@ taxi-in-das-mich.ch
 taxi-info.ch
 taxi-ins-ich.ch
 taxi-ins-mich.ch
-taxi-interlaken.ch
 taxi-itheorie.ch
 taxi-janni.ch
 taxi-jobs.ch
@@ -14623,6 +14608,7 @@ taxi-vionnaz.ch
 taxi-vip.ch
 taxi-vogel.ch
 taxi-volketswil.ch
+taxi-volt-nyon2.ch
 taxi-vom-flughafen.ch
 taxi-vouvry.ch
 taxi-vtc-ecole.ch
@@ -14955,7 +14941,6 @@ taxidome.ch
 taxidori.ch
 taxidoudou.ch
 taxidriver-pc.ch
-taxidriver.ch
 taxidriverbulle.ch
 taxidriverticino.ch
 taxidrohne.ch
@@ -16054,7 +16039,6 @@ taylor-taylor.ch
 taylor-wheels.ch
 taylor.ch
 taylor1.ch
-taylorandclarke.ch
 taylorandcolledge.ch
 taylorandtaylor.ch
 taylorcolledge.ch

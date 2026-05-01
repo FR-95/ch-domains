@@ -500,7 +500,6 @@ clann-architectes.ch
 clanofgamers.ch
 clanofhappyrunner.ch
 clanofvitality.ch
-clanofwildangels.ch
 clanoria.ch
 clanq.ch
 clansauvage.ch
@@ -758,6 +757,7 @@ clarendis.ch
 clarens-mediation.ch
 clarens.ch
 clarenta.ch
+clareo-community.ch
 clareo-lighting.ch
 clareo.ch
 clareolighting.ch
@@ -913,6 +913,7 @@ clarita.ch
 claritas.ch
 claritaswiss.ch
 claritate.ch
+claritax.ch
 clarithik-conseil.ch
 clariti.ch
 clariti1day.ch
@@ -1471,7 +1472,6 @@ classic-rallye.ch
 classic-reitart.ch
 classic-ride.ch
 classic-scooter.ch
-classic-sport-massage.ch
 classic-sportcars.ch
 classic-store.ch
 classic-stretchlimo.ch
@@ -1971,7 +1971,6 @@ claude-martin.ch
 claude-mayor.ch
 claude-merki.ch
 claude-meylan.ch
-claude-morel.ch
 claude-moser-fs.ch
 claude-piguet.ch
 claude-piron.ch
@@ -2436,7 +2435,6 @@ claudiacreations-ge.ch
 claudiactive.ch
 claudiacuesta.ch
 claudiadahinden.ch
-claudiadanuser.ch
 claudiadeb.ch
 claudiadejanas.ch
 claudiademarchi.ch
@@ -2918,7 +2916,6 @@ claudina-grindelwald.ch
 claudina.ch
 claudinact.ch
 claudinagarcia.ch
-claudinaschmid.ch
 claudinawacker.ch
 claudinchen.ch
 claudine-achermann.ch
@@ -3842,6 +3839,7 @@ cleanairlimo.ch
 cleanairoptima.ch
 cleanairteam.ch
 cleanall.ch
+cleanalp.ch
 cleanalpin.ch
 cleanalpine.ch
 cleanalytics.ch
@@ -4035,7 +4033,6 @@ cleanercar.ch
 cleanerella.ch
 cleanergy.ch
 cleanergyseed.ch
-cleanergyseeds.ch
 cleanerjob.ch
 cleanero.ch
 cleanerplanetplan.ch
@@ -5546,6 +5543,7 @@ clevair.ch
 clevantis.ch
 clevar.ch
 clevaron.ch
+clevberger-ahrens.ch
 clevcon.ch
 cleve.ch
 clevehr.ch
@@ -6187,6 +6185,7 @@ clevor-cards.ch
 clevor.ch
 clevr-coach.ch
 clevr.ch
+clevra.ch
 clevre.ch
 clevrfin.ch
 clevs.ch
@@ -6575,7 +6574,6 @@ clickhere.ch
 clickhome.ch
 clickhouse.ch
 clickify.ch
-clickimmo.ch
 clickimpots.ch
 clickin.ch
 clickit-ag.ch
@@ -7760,6 +7758,7 @@ clinicore.ch
 clinicos.ch
 clinicphysiobaptista.ch
 clinicpodologie.ch
+clinicpulse.ch
 clinicragaz.ch
 clinicriviera.ch
 clinics-suva.ch
@@ -7768,6 +7767,7 @@ clinics1.ch
 clinicsamedan.ch
 clinicsbeyondborders.ch
 clinicselect.ch
+clinicselnau-services.ch
 clinicselnau.ch
 clinicsport.ch
 clinicsswitzerland.ch
@@ -7780,6 +7780,7 @@ clinicutoquai.ch
 clinicvi.ch
 clinicware.ch
 clinicwow.ch
+clinicx.ch
 clinident-lausanne.ch
 clinident-nyon.ch
 clinident-vevey.ch
@@ -8881,7 +8882,6 @@ closer-academy.ch
 closer-consulting.ch
 closer-gmbh.ch
 closer-jobs.ch
-closer.ch
 closeracademy.ch
 closerbase.ch
 closerbrain.ch
@@ -10020,7 +10020,6 @@ cloudprovider.ch
 cloudpunkt.ch
 cloudpushing.ch
 cloudquest.ch
-cloudr.ch
 cloudrain.ch
 cloudranger.ch
 cloudrc.ch

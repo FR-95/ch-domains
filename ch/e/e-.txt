@@ -582,7 +582,6 @@ e-carre.ch
 e-carrosserie.ch
 e-cars-swiss.ch
 e-cars.ch
-e-carsharing.ch
 e-carteduchef.ch
 e-carteresto.ch
 e-cartouche.ch
@@ -622,7 +621,6 @@ e-charger.ch
 e-charging.ch
 e-chartae.ch
 e-chauf.ch
-e-check.ch
 e-checker.ch
 e-checkin.ch
 e-checklist.ch
@@ -746,7 +744,6 @@ e-comp.ch
 e-compactus.ch
 e-competence.ch
 e-compliance.ch
-e-comptabilite.ch
 e-comsult.ch
 e-comtrust.ch
 e-con-gmbh.ch
@@ -816,7 +813,6 @@ e-crf.ch
 e-crime.ch
 e-criminalrecordextract.ch
 e-cross-fun.ch
-e-cross.ch
 e-crowd.ch
 e-cruise.ch
 e-cruiser.ch
@@ -1336,7 +1332,6 @@ e-guma.ch
 e-gurtner.ch
 e-gutschein.ch
 e-gygax.ch
-e-h-c.ch
 e-h-s.ch
 e-h-zrh.ch
 e-h.ch
@@ -1761,7 +1756,6 @@ e-locataire.ch
 e-locataires.ch
 e-location.ch
 e-locker.ch
-e-lodge.ch
 e-loesung.ch
 e-loewe.ch
 e-loft.ch
@@ -2510,9 +2504,11 @@ e-ps.ch
 e-pso.ch
 e-psy.ch
 e-psych.ch
+e-psycho.ch
 e-psychologie.ch
 e-psychotherapie.ch
 e-psychotherapy.ch
+e-psys.ch
 e-pub.ch
 e-publikation.ch
 e-publikationen.ch

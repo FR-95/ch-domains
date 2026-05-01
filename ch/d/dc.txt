@@ -361,6 +361,7 @@ dclabs2.ch
 dclacdclic.ch
 dclaret.ch
 dclconcept.ch
+dclconsulting.ch
 dcldirect.ch
 dclean.ch
 dcleaningservices.ch
@@ -371,7 +372,6 @@ dclick.ch
 dclics.ch
 dclicterroir.ch
 dclicterroirs.ch
-dclient.ch
 dclik.ch
 dclink.ch
 dclm.ch

@@ -381,6 +381,7 @@ im3s.ch
 im3sdriver.ch
 im3sprod.ch
 im4-imbild.ch
+im4-varm.ch
 im43.ch
 im4g3.ch
 im4g3s.ch
@@ -426,7 +427,6 @@ imaco.ch
 imacom.ch
 imacomsuisse.ch
 imacon-gmbh.ch
-imacon.ch
 imacos.ch
 imacs.ch
 imactpro.ch
@@ -972,7 +972,6 @@ imagografie.ch
 imagoli.ch
 imagolucis.ch
 imagoluzern.ch
-imagomusica.ch
 imagon.ch
 imagonet.ch
 imagoo.ch
@@ -1865,7 +1864,6 @@ imfeld-immo.ch
 imfeld-immobilien.ch
 imfeld-landmaschinen.ch
 imfeld-partner-bau.ch
-imfeld-partner-invest.ch
 imfeld-partner-schreinerei.ch
 imfeld-partner.ch
 imfeld-photography.ch
@@ -2970,7 +2968,6 @@ immerseintolife.ch
 immersevisio.ch
 immersi.ch
 immersia.ch
-immersiaworld.ch
 immersibox.ch
 immersicher.ch
 immersif.ch
@@ -3804,7 +3801,6 @@ immo-luxe.ch
 immo-luxury.ch
 immo-luxus-kaufobjekte.ch
 immo-luxus.ch
-immo-luzern.ch
 immo-maag.ch
 immo-macher.ch
 immo-maennich.ch
@@ -5593,7 +5589,6 @@ immobilien-wohlen.ch
 immobilien-wohnbar.ch
 immobilien-wohnen.ch
 immobilien-wohnungen.ch
-immobilien-wyss.ch
 immobilien-x.ch
 immobilien-xml.ch
 immobilien-zeitpunkt.ch
@@ -5681,7 +5676,6 @@ immobilienatelier-bern.ch
 immobilienatelier.ch
 immobilienatlas.ch
 immobilienaufnahmen.ch
-immobilienaufwerter.ch
 immobilienauktion.ch
 immobilienauktionen.ch
 immobilienball.ch
@@ -7032,7 +7026,6 @@ immocie.ch
 immocircle.ch
 immocircle360.ch
 immocite.ch
-immocitex.ch
 immocity.ch
 immockeck.ch
 immoclaims.ch
@@ -7092,7 +7085,6 @@ immocommercial.ch
 immocommerciaus.ch
 immocommerciaux.ch
 immocommunication.ch
-immocomp.ch
 immocompany.ch
 immocompare.ch
 immocomparis.ch
@@ -7123,7 +7115,6 @@ immoconsultant.ch
 immoconsultants.ch
 immoconsulting.ch
 immocontact.ch
-immocontent.ch
 immocontrol.ch
 immocontrolling.ch
 immocool.ch
@@ -7681,7 +7672,6 @@ immohaenni.ch
 immohafen.ch
 immohai.ch
 immohaldenstrasse.ch
-immohammer.ch
 immohandel.ch
 immohandelsag.ch
 immohandling.ch
@@ -8002,7 +7992,6 @@ immolibre.ch
 immolicht.ch
 immolieg.ch
 immolife-property.ch
-immolife.ch
 immolife24.ch
 immolifeag.ch
 immolifeticino.ch
@@ -8101,7 +8090,6 @@ immoluxe.ch
 immoluxury.ch
 immoluxus.ch
 immoluxveritati.ch
-immoluzern.ch
 immoly.ch
 immolymp.ch
 immolyss.ch
@@ -10171,6 +10159,7 @@ imowinner.ch
 imowise.ch
 imowisse.ch
 imox.ch
+imoxa.ch
 imoxel.ch
 imoy.ch
 imoya-immo.ch
@@ -11449,7 +11438,6 @@ important.ch
 importantcargotraffic.ch
 importantpourvous.ch
 importas.ch
-importasonline.ch
 importation.ch
 importauto.ch
 importautos.ch
@@ -13011,6 +12999,7 @@ imugi.ch
 imugitaekwondo.ch
 imuka.ch
 imukin.ch
+imuller.ch
 imultani.ch
 imultiple.ch
 imultiservice.ch

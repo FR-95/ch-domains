@@ -109,7 +109,6 @@ ehc-barracuda.ch
 ehc-basel.ch
 ehc-bern-oldies.ch
 ehc-bitcoin.ch
-ehc-blog.ch
 ehc-buelach.ch
 ehc-bumbach.ch
 ehc-burgdorf.ch
@@ -120,7 +119,6 @@ ehc-chur.ch
 ehc-duernten-vikings.ch
 ehc-einsiedeln.ch
 ehc-embrach.ch
-ehc-fan.ch
 ehc-fanseite.ch
 ehc-flims.ch
 ehc-forum.ch
@@ -151,7 +149,6 @@ ehc-saastal.ch
 ehc-saentis90.ch
 ehc-schaffhausen.ch
 ehc-schwarzenburg.ch
-ehc-shop.ch
 ehc-swissair.ch
 ehc-ubs-zuerich.ch
 ehc-unibern.ch
@@ -192,7 +189,6 @@ ehcbeatenberg.ch
 ehcbelp.ch
 ehcbiel.ch
 ehcbinningen.ch
-ehcblog.ch
 ehcboll.ch
 ehcbornes.ch
 ehcbrandis.ch
@@ -203,7 +199,6 @@ ehcchur.ch
 ehcd.ch
 ehcdietikon.ch
 ehcengelberg.ch
-ehcfan.ch
 ehcfans.ch
 ehcforum.ch
 ehcg.ch
@@ -253,7 +248,6 @@ ehcs.ch
 ehcsamedan.ch
 ehcseewen.ch
 ehcsg.ch
-ehcshop.ch
 ehcsils-id.ch
 ehcsk.ch
 ehcstmoritz.ch
@@ -265,7 +259,6 @@ ehctsupporter.ch
 ehcunibasel.ch
 ehcuri.ch
 ehcuzwil.ch
-ehcv.ch
 ehcvalais.ch
 ehcvd.ch
 ehcvisp-nachwuchs.ch

@@ -100,6 +100,7 @@ up-stairs.ch
 up-start.ch
 up-state.ch
 up-stream.ch
+up-style.ch
 up-swing.ch
 up-tanz.ch
 up-the-magic-mountain.ch
@@ -703,7 +704,6 @@ upm.ch
 upmaas.ch
 upmac.ch
 upmag.ch
-upmagazin.ch
 upmagic.ch
 upmail.ch
 upmakeup.ch
@@ -1063,6 +1063,7 @@ upstreet.ch
 upstride.ch
 upstrive.ch
 upstudio.ch
+upstyle.ch
 upsun.ch
 upsurge.ch
 upsv.ch
@@ -1241,7 +1242,6 @@ upvolt.ch
 upvs.ch
 upw-anthonyrobbins.ch
 upw-tonyrobbins.ch
-upw.ch
 upwanthonyrobbins.ch
 upward.ch
 upwardrigging.ch

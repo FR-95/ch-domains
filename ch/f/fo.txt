@@ -128,7 +128,6 @@ fobilis.ch
 fobivision.ch
 fobize.ch
 fobizz.ch
-fobo.ch
 fobotics.ch
 fobox.ch
 foboxi.ch
@@ -970,7 +969,6 @@ foersterhaus.ch
 foersterhof.ch
 foersterschule.ch
 foersterverband.ch
-foersterwelt.ch
 foerts.ch
 foertsch.ch
 foery-barmettler.ch
@@ -1848,6 +1846,7 @@ folien-magnet.ch
 folien-mcwrap.ch
 folien-meier.ch
 folien-partner.ch
+folien-profis.ch
 folien-recycling.ch
 folien-schweiz.ch
 folien-service.ch
@@ -2098,7 +2097,6 @@ folkmusic.ch
 folknet.ch
 folkopieds.ch
 folkorchester.ch
-folkorn.ch
 folkoteca.ch
 folkotecagalega.ch
 folkowl.ch
@@ -2947,7 +2945,6 @@ fondationartvif.ch
 fondationassistanceanimaux.ch
 fondationassistanceauxanimaux.ch
 fondationassistanceinternationale.ch
-fondationatelierwocs.ch
 fondationattractivitecantongeneve.ch
 fondationattractivitegeneve.ch
 fondationaubert.ch
@@ -3336,6 +3333,7 @@ fondationpleinair.ch
 fondationpolemuseal.ch
 fondationportaildesnations.ch
 fondationpourgeneve.ch
+fondationpourlajoie.ch
 fondationpourlattractivitedegeneve.ch
 fondationpourleau.ch
 fondationpourlediabete.ch
@@ -4606,7 +4604,6 @@ fontismarketing.ch
 fontisshop.ch
 fontium.ch
 fontius-partner.ch
-fontlab.ch
 fontnas.ch
 fonto.ch
 fontodi.ch
@@ -5107,7 +5104,6 @@ foodcoop-triemli.ch
 foodcoop-trift.ch
 foodcoop-witikon.ch
 foodcoop-zhoberland.ch
-foodcoop-zurgertrud.ch
 foodcoop.ch
 foodcoops.ch
 foodcoopshop.ch
@@ -6438,7 +6434,6 @@ for-zh.ch
 for.ch
 for2.ch
 for24.ch
-for2na.ch
 for4.ch
 for4me.ch
 for6.ch
@@ -7826,7 +7821,6 @@ forexone.ch
 forexportal.ch
 forexscorpion.ch
 forexswiss.ch
-forexswitzerland.ch
 forextb.ch
 forextraden.ch
 forextrader.ch
@@ -7871,7 +7865,6 @@ forfutureinstitute.ch
 forg.ch
 forg3d.ch
 forga.ch
-forgamed.ch
 forgard.ch
 forgas.ch
 forge-adour.ch
@@ -8282,7 +8275,6 @@ formaluce.ch
 formaludus.ch
 formalux.ch
 formalys.ch
-formalyze.ch
 formamed-shop.ch
 formamed.ch
 formamentis.ch
@@ -8476,7 +8468,6 @@ formation-continue-askfor.ch
 formation-continue-des-moniteurs.ch
 formation-continue-en-osteopathie.ch
 formation-continue-fr.ch
-formation-continue-sfb.ch
 formation-continue-unil-epfl.ch
 formation-continue.ch
 formation-costumes.ch
@@ -9313,7 +9304,6 @@ formitize.ch
 formity.ch
 formiva.ch
 formivet.ch
-formix.ch
 formizer.ch
 formkarussell.ch
 formkenner.ch
@@ -10062,7 +10052,6 @@ forstarbeiten.ch
 forstarbeitenammann.ch
 forstauftrag.ch
 forstausruestung.ch
-forstbar.ch
 forstbau.ch
 forstbedarf.ch
 forstbekleidung.ch
@@ -10934,6 +10923,7 @@ fortunaumbau.ch
 fortunavia.ch
 fortunavision.ch
 fortunavitae.ch
+fortunazo.ch
 fortundnah.ch
 fortune-alfena.ch
 fortune-capital.ch
@@ -11693,7 +11683,6 @@ forumstaefa.ch
 forumstaefauerikon.ch
 forumstockwerk.ch
 forumstockwerkeigentum.ch
-forumsuisse.ch
 forumsumiswald.ch
 forumsurselva.ch
 forumswissmade.ch
@@ -11982,7 +11971,6 @@ foselect.ch
 foserv.ch
 foseyecare.ch
 fosfor-swiss.ch
-fosh.ch
 fosi-ny.ch
 fosi.ch
 fosiag.ch
@@ -12606,7 +12594,6 @@ foto-und-design.ch
 foto-und-uhren.ch
 foto-urben.ch
 foto-versand.ch
-foto-video-art.ch
 foto-video-audio.ch
 foto-video-licht.ch
 foto-video-zuerich.ch
@@ -12679,7 +12666,6 @@ foto4di.ch
 foto4ever.ch
 foto4fun.ch
 foto4u.ch
-foto4you.ch
 foto55.ch
 foto66.ch
 foto8.ch
@@ -13638,6 +13624,7 @@ fotografs.ch
 fotografschweiz.ch
 fotografschwyz.ch
 fotografsolothurn.ch
+fotografstgallen.ch
 fotografundgraf.ch
 fotografvergleich.ch
 fotografwinterthur.ch
@@ -14347,7 +14334,6 @@ fotoshooting-ostschweiz.ch
 fotoshooting-professionell.ch
 fotoshooting-rheintal.ch
 fotoshooting-schweiz.ch
-fotoshooting-studio.ch
 fotoshooting-thurgau.ch
 fotoshooting-zh.ch
 fotoshooting-zuerich.ch
@@ -14613,7 +14599,6 @@ fototrauerkarten.ch
 fototraum.ch
 fototravel.ch
 fototreff-grenzfall.ch
-fototreff.ch
 fototrend.ch
 fototresor.ch
 fototruck.ch
@@ -14854,6 +14839,8 @@ fougeres1992.ch
 foui.ch
 fouille.ch
 fouinaki.ch
+fouine.ch
+fouines.ch
 foul.ch
 foulamerde.ch
 foulard-atelier.ch
@@ -15016,6 +15003,7 @@ founders.ch
 founders24.ch
 foundersalps.ch
 foundersatelier.ch
+foundersbank.ch
 foundersclub.ch
 founderscollective.ch
 founderscout.ch

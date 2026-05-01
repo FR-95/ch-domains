@@ -1324,6 +1324,7 @@ val-immob.ch
 val-immobilien.ch
 val-immobilier.ch
 val-imob.ch
+val-investia.ch
 val-irrigation.ch
 val-isol.ch
 val-isolation.ch
@@ -1506,6 +1507,7 @@ valais-pellet.ch
 valais-pellets.ch
 valais-permis.ch
 valais-physio.ch
+valais-pour-tous.ch
 valais-prime-food.ch
 valais-prime.ch
 valais-pro.ch
@@ -1592,7 +1594,6 @@ valaiscamping.ch
 valaiscampro.ch
 valaiscapital.ch
 valaiscasino.ch
-valaiscenter.ch
 valaiscentral.ch
 valaiscigares.ch
 valaisco.ch
@@ -2340,7 +2341,6 @@ valentina-bega.ch
 valentina-bewegt.ch
 valentina-design.ch
 valentina-fontana.ch
-valentina-galliker.ch
 valentina-kevin.ch
 valentina-pastaepizza.ch
 valentina-perlennaehen.ch
@@ -2749,6 +2749,7 @@ valerie-barrelet.ch
 valerie-battiston.ch
 valerie-benoit.ch
 valerie-bern.ch
+valerie-bernard.ch
 valerie-biolay.ch
 valerie-bourrit.ch
 valerie-burnens.ch
@@ -2797,6 +2798,7 @@ valeriebader.ch
 valeriebalmer.ch
 valeriebarkowski.ch
 valeriebeney.ch
+valeriebernard.ch
 valeriebike.ch
 valeriebinggeli.ch
 valerieblom.ch
@@ -3974,6 +3976,7 @@ valo-link.ch
 valo-plastic.ch
 valo-solutions.ch
 valo-trade.ch
+valo.ch
 valoa.ch
 valoag.ch
 valoair.ch
@@ -4011,6 +4014,7 @@ valonipizzakurier-rorschach.ch
 valoniu.ch
 valonix.ch
 valonova.ch
+valonur.ch
 valoo.ch
 valoon.ch
 valooze.ch
@@ -4263,7 +4267,6 @@ valposchiavocasa.ch
 valposchiavosenzaplastica.ch
 valposchiavosmartvalleybio.ch
 valpraxis.ch
-valprecision.ch
 valpresa.ch
 valprino.ch
 valpro.ch
@@ -4342,7 +4345,6 @@ valse.ch
 valsea.ch
 valsecchi-immobilien.ch
 valsecchi-liegenschaften.ch
-valsecchi-nater.ch
 valsecchi.ch
 valsecchi1926.ch
 valsecchimarmi.ch
@@ -5591,6 +5593,7 @@ vandy.ch
 vandyck.ch
 vandykmusic.ch
 vandystudio.ch
+vane-infirmiere-geneve.ch
 vane.ch
 vanea.ch
 vanebase.ch
@@ -6717,7 +6720,6 @@ vao.ch
 vaoas.ch
 vaof.ch
 vaola.ch
-vaolio.ch
 vaon.ch
 vaop.ch
 vaops.ch
@@ -8522,6 +8524,7 @@ vaucherarchitecte.ch
 vaucherarchitekt.ch
 vaucheravocat.ch
 vaucherconseils.ch
+vaucheric-mps.ch
 vauchermanufacture.ch
 vauchermanufacturefleurier.ch
 vaucherprivatelabel.ch

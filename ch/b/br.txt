@@ -662,7 +662,6 @@ brahim.ch
 brahimaakti.ch
 brahimajservices.ch
 brahimi-scheidegger.ch
-brahimi-trade.ch
 brahm.ch
 brahma-farm.ch
 brahma-zucht.ch
@@ -765,6 +764,8 @@ brain-effect.ch
 brain-factory.ch
 brain-fit.ch
 brain-fitness.ch
+brain-fog-hilfe.ch
+brain-fog.ch
 brain-food.ch
 brain-for-business.ch
 brain-force.ch
@@ -1028,6 +1029,7 @@ brainflourish.ch
 brainflow.ch
 brainfly.ch
 brainfog.ch
+brainfoghilfe.ch
 brainfolio.ch
 brainfood-festival.ch
 brainfood.ch
@@ -1499,7 +1501,6 @@ brambergyoga.ch
 brambert.ch
 brambi.ch
 brambieli.ch
-brambilla.ch
 bramble.ch
 brambles.ch
 brambleski.ch
@@ -1644,7 +1645,6 @@ branchenkompetenz.ch
 branchenkunde.ch
 branchenleitlinie.ch
 branchenlocator.ch
-branchenloesung-forst.ch
 branchenloesungen.ch
 branchenmagazin.ch
 branchenmarketing.ch
@@ -2024,7 +2024,6 @@ branddevelopment.ch
 brandding.ch
 branddiscounter.ch
 branddna.ch
-branddomain.ch
 branddriven.ch
 branddrvn.ch
 brandeau.ch
@@ -2193,7 +2192,6 @@ brandguard.ch
 brandguide.ch
 brandguideline.ch
 brandguides.ch
-brandguru.ch
 brandgut-viehhofen.ch
 brandgut.ch
 brandgym.ch
@@ -3192,7 +3190,6 @@ brantho-korrux.ch
 branthokorrux.ch
 brantkeramik.ch
 brantner-coaching.ch
-brantner.ch
 brantosoft.ch
 brantschen-coaching.ch
 brantschen-spiez.ch
@@ -3793,7 +3790,6 @@ brathaz.ch
 bratheriediyerdza.ch
 brathuehnerei.ch
 brathuehnerey.ch
-brati.ch
 bratimageson.ch
 bratique.ch
 bratislava.ch
@@ -4816,6 +4812,7 @@ brawny.ch
 brawolife.ch
 brawoliner.ch
 brawoo.ch
+braws.ch
 brawu.ch
 brawuza.ch
 brax.ch
@@ -5314,6 +5311,7 @@ breathelab.ch
 breathendgrow.ch
 breathenow.ch
 breatheon.ch
+breatheout.ch
 breatheright.ch
 breathers.ch
 breatheto.ch
@@ -6554,7 +6552,6 @@ breny.ch
 brenyard.ch
 brenz.ch
 brenzel.ch
-brenzer.ch
 brenzi.ch
 brenzikofen.ch
 brenzikofen24.ch
@@ -7013,6 +7010,7 @@ breweryglaciara.ch
 breweryglaciera.ch
 brewfactory.ch
 brewflow.ch
+brewgood.ch
 brewhaha.ch
 brewhouse-bern.ch
 brewhouse-residence.ch
@@ -7369,7 +7367,6 @@ brickermatte.ch
 brickermatte2030.ch
 brickery.ch
 bricketbrack.ch
-brickevents.ch
 brickexpo.ch
 brickfilm.ch
 brickfilms.ch
@@ -7494,7 +7491,6 @@ brickskills.ch
 bricksnbeams.ch
 bricksnbrains.ch
 bricksnlights.ch
-bricksofthepast.ch
 brickspaces.ch
 bricksperformance.ch
 bricksteam.ch
@@ -8002,6 +7998,7 @@ briefin.ch
 briefing4aviation.ch
 briefing4pilot.ch
 briefinghome.ch
+briefingsheet.ch
 briefkaesten.ch
 briefkaste.ch
 briefkasten-anlagen.ch
@@ -9239,7 +9236,6 @@ brillenfabrik.ch
 brillenfactory.ch
 brillenfaenger.ch
 brillenfassung-direkt.ch
-brillenfassung.ch
 brillenfassungen.ch
 brillenfassungreparatur.ch
 brillenfederer.ch
@@ -11545,7 +11541,6 @@ brokerseberatung.ch
 brokerservice.ch
 brokerservices.ch
 brokerservicesteam.ch
-brokersgin.ch
 brokersoft.ch
 brokersoftware.ch
 brokersolutionweb.ch
@@ -12382,7 +12377,6 @@ browmi.ch
 brown-boveri.ch
 brown-brothers-harriman.ch
 brown-brothers.ch
-brown-bunny.ch
 brown-family.ch
 brown-hohl.ch
 brown-skin.ch
@@ -12836,7 +12830,6 @@ bruderholz.ch
 bruderholzallee.ch
 bruderholzhof.ch
 bruderholzkombi.ch
-bruderholzoptik.ch
 bruderholzpark.ch
 bruderholzspital.ch
 bruderholzstrasse-binningen.ch
@@ -12942,6 +12935,7 @@ brueckenmatte.ch
 brueckenmatteag.ch
 brueckenmeister.ch
 brueckenmonitoring.ch
+brueckenpartner.ch
 brueckenschlag-hochdorf.ch
 brueckenstrasse-wettingen.ch
 brueckentage.ch
@@ -14584,7 +14578,6 @@ bruno-alves.ch
 bruno-and-alfonso-project.ch
 bruno-angeli.ch
 bruno-bachmann.ch
-bruno-baecher.ch
 bruno-baer.ch
 bruno-baumann.ch
 bruno-baumgartner.ch
@@ -14802,7 +14795,6 @@ brunoerni-akademie.ch
 brunoerni.ch
 brunoesports.ch
 brunoetmaria.ch
-brunof.ch
 brunofelicio.ch
 brunofelix.ch
 brunofeuz.ch

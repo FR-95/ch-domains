@@ -237,7 +237,6 @@ z-productions.ch
 z-promis.ch
 z-punkt.ch
 z-qr.ch
-z-r.ch
 z-radio.ch
 z-rating.ch
 z-raum.ch

@@ -214,6 +214,7 @@ mdc-distribution.ch
 mdc-europe.ch
 mdc-events.ch
 mdc-gmbh.ch
+mdc-group.ch
 mdc-microwaterjet.ch
 mdc-partsimperium.ch
 mdc-reg.ch
@@ -239,6 +240,7 @@ mdcesta.ch
 mdcg.ch
 mdcgmbh.ch
 mdcgroup.ch
+mdcgroupe.ch
 mdch.ch
 mdchablais.ch
 mdchiro.ch
@@ -364,6 +366,7 @@ mdf-system.ch
 mdf-systems.ch
 mdf-treuhand.ch
 mdf.ch
+mdfbeauty.ch
 mdfch.ch
 mdfh.ch
 mdfiduciaire.ch

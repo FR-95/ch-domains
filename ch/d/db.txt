@@ -60,7 +60,6 @@ db-domo.ch
 db-dosing.ch
 db-dynamica.ch
 db-ec.ch
-db-electronic.ch
 db-energie.ch
 db-energy.ch
 db-europe.ch
@@ -447,7 +446,7 @@ dbks.ch
 dbkschwarzenburg.ch
 dbl-amex.ch
 dbl-diabetes.ch
-dbl-systeme.ch
+dbl-transporte.ch
 dbl-u.ch
 dbl.ch
 dblab.ch

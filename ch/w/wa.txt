@@ -3,7 +3,6 @@ wa-anesthetists.ch
 wa-ar.ch
 wa-architekten.ch
 wa-architektur.ch
-wa-bauart.ch
 wa-bba.ch
 wa-ca.ch
 wa-ch.ch
@@ -1709,7 +1708,6 @@ waffenangebot.ch
 waffenangebote.ch
 waffenankauf.ch
 waffenannahme.ch
-waffenanzeigen.ch
 waffenauktion.ch
 waffenbegutachtung.ch
 waffenboerse-deals.ch
@@ -2379,7 +2377,6 @@ wahl2027.ch
 wahlagrar.ch
 wahlanalyse.ch
 wahlanleitung-leichte-sprache.ch
-wahlassistent.ch
 wahlatlas.ch
 wahlbad.ch
 wahlbeobachter.ch
@@ -2540,6 +2537,7 @@ wahlplakatstaender.ch
 wahlplattform.ch
 wahlpruefung.ch
 wahlquist.ch
+wahlradar.ch
 wahlresultate.ch
 wahlschweizerevents.ch
 wahlspiel.ch
@@ -2823,7 +2821,6 @@ waisenhaus-basel.ch
 waisenhaus-speranza.ch
 waisenhaus-thun.ch
 waisenhausplatz.ch
-waisenherz.ch
 waisenhunde.ch
 waisenkatzen.ch
 waisenkind.ch
@@ -3097,6 +3094,7 @@ wakeupwrld.ch
 wakeupzurich.ch
 wakewalensee.ch
 wakeweeks.ch
+wakf.ch
 wakfinance.ch
 wakhan.ch
 waki-coaching.ch
@@ -3838,7 +3836,6 @@ waldgartenweg8.ch
 waldgass.ch
 waldgasse.ch
 waldgefluester.ch
-waldgefuehl-ag.ch
 waldgefuehle.ch
 waldgeheimnisse.ch
 waldgeist.ch
@@ -7625,7 +7622,6 @@ wanderlustbyfiona.ch
 wanderlustcamper.ch
 wanderlustcampers.ch
 wanderlustfewo.ch
-wanderlustguesthouse.ch
 wanderlusthomes.ch
 wanderlustig.ch
 wanderly.ch
@@ -8077,7 +8073,6 @@ wandru.ch
 wandruck.ch
 wandrucker.ch
 wandschablonen.ch
-wandschalung.ch
 wandschiefer.ch
 wandschleifen.ch
 wandschmuck.ch
@@ -8462,6 +8457,7 @@ wano.ch
 wanobo.ch
 wanocha.ch
 wanon.ch
+wanpaneele.ch
 wansabai-thai-massage.ch
 wansalon.ch
 wansec.ch
@@ -8477,6 +8473,7 @@ want6.ch
 wanta.ch
 wantali.ch
 wantana.ch
+wantanamo.ch
 wantec.ch
 wanted-bikes.ch
 wanted-home.ch
@@ -10661,6 +10658,7 @@ wassergefahren.ch
 wassergenossenschaft.ch
 wassergesetz-murks.ch
 wassergesetz.ch
+wasserglace.ch
 wasserglaeser.ch
 wasserglanz.ch
 wasserglas.ch
@@ -12059,7 +12057,6 @@ watchyourstyle.ch
 watchyourtime.ch
 watchyourwrist.ch
 watchys.ch
-watchyz.ch
 watchzone.ch
 watco.ch
 watcotec.ch
@@ -12319,7 +12316,6 @@ waterjetcutting.ch
 waterjetgruppe.ch
 waterjetparts.ch
 waterjetschweiz.ch
-waterjetsystems.ch
 waterjetting.ch
 waterjoe.ch
 waterjointventure.ch
@@ -12909,6 +12905,7 @@ waveart.ch
 wavebarry.ch
 wavebase.ch
 wavebender.ch
+wavebern.ch
 wavebet.ch
 wavebetcasino.ch
 wavebioreactor.ch
@@ -13070,7 +13067,6 @@ wavetoons.ch
 wavetours.ch
 wavetray.ch
 wavetronic.ch
-wavetrust.ch
 waveup.ch
 waveupblog.ch
 waveupmag.ch
@@ -13480,6 +13476,7 @@ wayve-club.ch
 wayve.ch
 wayvector.ch
 wayvo.ch
+waywat.ch
 wayway.ch
 waywayapp.ch
 waywestay.ch

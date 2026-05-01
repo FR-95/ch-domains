@@ -930,6 +930,7 @@ my-kards.ch
 my-kasino.ch
 my-katana.ch
 my-kawasaki.ch
+my-kebab.ch
 my-keto.ch
 my-key.ch
 my-keys.ch
@@ -1376,6 +1377,7 @@ my-prints.ch
 my-private-boutique.ch
 my-private-care.ch
 my-private-gallery.ch
+my-private-med-office.ch
 my-private-secret.ch
 my-private.ch
 my-privatecare.ch
@@ -1524,7 +1526,6 @@ my-seeds.ch
 my-seelenheilung.ch
 my-sehbar.ch
 my-selection.ch
-my-self.ch
 my-selfie-booth.ch
 my-sensuality.ch
 my-seo-local.ch
@@ -2104,6 +2105,7 @@ myaccelerator.ch
 myaccendo.ch
 myaccesoir.ch
 myaccess.ch
+myaccessneeds.ch
 myaccessoires.ch
 myaccessory.ch
 myaccessweb.ch
@@ -3536,7 +3538,6 @@ mycel.ch
 mycelboard.ch
 mycelclean.ch
 mycelevolution.ch
-mycelf.ch
 mycelia.ch
 mycelien.ch
 mycelink.ch
@@ -3571,7 +3572,6 @@ mych.ch
 mych21.ch
 mych2opure.ch
 mychacreations.ch
-mychair2go.ch
 mychairshop.ch
 mychaitime.ch
 mychalet-edelweiss.ch
@@ -5281,7 +5281,6 @@ myfitline.ch
 myfitlineshop.ch
 myfitlook.ch
 myfitmix.ch
-myfitness.ch
 myfitnessmanager.ch
 myfitnesspal.ch
 myfitnessplan.ch
@@ -7156,7 +7155,6 @@ mylibites.ch
 mylibrario.ch
 mylibrary.ch
 mylicence.ch
-mylicense.ch
 mylidl.ch
 mylieblingsplatz.ch
 myliennguyen.ch
@@ -7271,6 +7269,7 @@ mylittleclassroom.ch
 mylittlecoffee.ch
 mylittlecorner.ch
 mylittlecow.ch
+mylittlecup.ch
 mylittleday.ch
 mylittledesign.ch
 mylittledog.ch
@@ -8255,7 +8254,6 @@ mynuvia.ch
 mynuvira.ch
 mynvc.ch
 mynw.ch
-mynydd.ch
 mynyon.ch
 mynzer.ch
 mynzz.ch

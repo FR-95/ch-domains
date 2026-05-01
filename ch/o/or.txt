@@ -747,7 +747,6 @@ orbesolaire.ch
 orbestivales.ch
 orbetan.ch
 orbetech.ch
-orbeunion.ch
 orbgaming.ch
 orbi-treuhand.ch
 orbi.ch
@@ -1120,6 +1119,7 @@ orchestervereinwidnau.ch
 orchestervomsee.ch
 orchesterwerkstatt.ch
 orchesterwiedikon.ch
+orchestr-ia.ch
 orchestr.ch
 orchestra-arcadia.ch
 orchestra-aurea.ch
@@ -1525,7 +1525,6 @@ ordifute.ch
 ordiginal.ch
 ordimax.ch
 ordina-pilotage.ch
-ordina.ch
 ordinaire.ch
 ordinajoie.ch
 ordinal.ch
@@ -1733,7 +1732,6 @@ ordocia.ch
 ordody.ch
 ordohelvetia.ch
 ordolaboris.ch
-ordoliberal.ch
 ordon.ch
 ordonanzwaffen.ch
 ordonashop.ch
@@ -1820,7 +1818,6 @@ oreade.ch
 oreag.ch
 oreageorgia.ch
 oreahair.ch
-oreahealth.ch
 orealise.ch
 orealiving.ch
 oreana.ch
@@ -3149,7 +3146,6 @@ orientia.ch
 orientic.ch
 orientiert.ch
 orientierung-im-spektrum.ch
-orientierung.ch
 orientierungshilfe.ch
 orientierungsjahr.ch
 orientierungslauf.ch
@@ -3306,6 +3302,7 @@ origin.ch
 origin3.ch
 origin8.ch
 originaesthetics.ch
+originai.ch
 original-adventskalender.ch
 original-ald.ch
 original-aloe-shop.ch
@@ -4115,7 +4112,6 @@ orlando-homeopathe.ch
 orlando-homeopathie.ch
 orlando-ihrmalerhandwerk.ch
 orlando-industrial.ch
-orlando-karikaturen.ch
 orlando-maroquinier.ch
 orlando-parks.ch
 orlando-ravicini.ch
@@ -4788,10 +4784,8 @@ orsingher-architekten.ch
 orsingher-roth.ch
 orsingher.ch
 orsini-grafik.ch
-orsini-immobilien.ch
 orsini-liqueur.ch
 orsini-maler.ch
-orsini-treuhand.ch
 orsini.ch
 orsinicloud.ch
 orsinidemarzo.ch
@@ -5307,7 +5301,6 @@ orthobionic.ch
 orthobionomie.ch
 orthobionomy-biel.ch
 orthobionomy-frutigen.ch
-orthobionomy.ch
 orthobiotech.ch
 orthobit.ch
 orthobonert.ch
@@ -6226,6 +6219,7 @@ orto-tecnica.ch
 orto.ch
 ortoascuola.ch
 ortobjekt.ch
+ortobjektdesign.ch
 ortobom.ch
 ortocell.ch
 ortocentro.ch

@@ -590,6 +590,7 @@ wearables4us.ch
 wearabletech.ch
 wearagain.ch
 wearart.ch
+wearassinha.ch
 wearavena.ch
 wearbitcoin.ch
 wearbriefly.ch
@@ -1058,7 +1059,6 @@ web-beispiel.ch
 web-bern.ch
 web-best.ch
 web-bestattung.ch
-web-bestattungen.ch
 web-betreuung.ch
 web-blitz.ch
 web-boom.ch
@@ -1178,7 +1178,6 @@ web-division.ch
 web-dns.ch
 web-documentaries.ch
 web-dojo.ch
-web-domains.ch
 web-drogerie.ch
 web-druck.ch
 web-druckerei.ch
@@ -1317,7 +1316,6 @@ web-immobilier.ch
 web-improve.ch
 web-impulsing.ch
 web-in-all.ch
-web-in.ch
 web-individualschule.ch
 web-info.ch
 web-informatik.ch
@@ -2415,7 +2413,6 @@ webcamdonatsch.ch
 webcamera.ch
 webcameuse.ch
 webcamgalore.ch
-webcamgirl.ch
 webcamgirls.ch
 webcamhosting.ch
 webcaminsight.ch
@@ -4028,7 +4025,6 @@ webfriends.ch
 webfrisch.ch
 webfrischi.ch
 webfritz.ch
-webfrog.ch
 webfront.ch
 webfrosch.ch
 webfruit.ch
@@ -5960,7 +5956,6 @@ websiteanalyse.ch
 websitearchiv.ch
 websiteart.ch
 websitearts.ch
-websitebackup.ch
 websitebakery.ch
 websitebasic.ch
 websitebau.ch
@@ -6017,7 +6012,6 @@ websitefurtherapeuten.ch
 websitegeneve.ch
 websitegestalten.ch
 websiteguru.ch
-websitehelden.ch
 websitehell.ch
 websitehelp.ch
 websiteherstellung.ch
@@ -6319,7 +6313,6 @@ webstuel.ch
 webstuff.ch
 webstuhl.ch
 webstuhlrattern.ch
-websturm.ch
 webstx.ch
 webstyle-gmbh.ch
 webstyle.ch
@@ -6769,7 +6762,6 @@ webwork.ch
 webworker.ch
 webworks-test.ch
 webworks.ch
-webworkshop.ch
 webworkswiss.ch
 webworld.ch
 webworx.ch
@@ -6811,7 +6803,6 @@ webza.ch
 webzap.ch
 webzappy.ch
 webzauber.ch
-webzebra.ch
 webzed.ch
 webzeit.ch
 webzeitschrift.ch
@@ -6863,6 +6854,7 @@ wecantoken.ch
 wecapture.ch
 wecar.ch
 wecard.ch
+wecards.ch
 wecare-association.ch
 wecare-community.ch
 wecare-spitex.ch
@@ -7131,7 +7123,6 @@ weconsulting.ch
 weconsultinggmbh.ch
 weconsultyou.ch
 wecontent.ch
-wecontrol.ch
 weconu.ch
 wecook-kuechen.ch
 wecook.ch
@@ -7225,7 +7216,6 @@ wedding-academy.ch
 wedding-air.ch
 wedding-anna-armir.ch
 wedding-award.ch
-wedding-awards.ch
 wedding-bee.ch
 wedding-bijou.ch
 wedding-bird.ch
@@ -7358,7 +7348,6 @@ weddingapp.ch
 weddingart.ch
 weddingatelier.ch
 weddingaward.ch
-weddingawards.ch
 weddingbag.ch
 weddingband.ch
 weddingbands.ch
@@ -8195,7 +8184,6 @@ weemple.ch
 weemploy.ch
 weempower.ch
 weempoweryourday.ch
-ween.ch
 weenat.ch
 weenchic.ch
 weener.ch
@@ -8587,7 +8575,6 @@ wegers.ch
 wegerschaffer.ch
 wegertu.ch
 wegeso.ch
-wegesperren.ch
 wegetdigital.ch
 wegetit.ch
 wegetmigraine.ch
@@ -9833,7 +9820,6 @@ weihnachts-essen.ch
 weihnachts-event.ch
 weihnachts-events.ch
 weihnachts-feier.ch
-weihnachts-genuss.ch
 weihnachts-geschenk.ch
 weihnachts-geschenke.ch
 weihnachts-geschenkidee.ch
@@ -10135,7 +10121,6 @@ weihnachtsschiff.ch
 weihnachtsschloesschen.ch
 weihnachtsschmuck.ch
 weihnachtsschokolade.ch
-weihnachtsshop.ch
 weihnachtsshopping-interlaken.ch
 weihnachtsspende.ch
 weihnachtsspiel-gelterkinden.ch
@@ -13873,7 +13858,6 @@ welldev.ch
 welldone-swiss.ch
 welldone.ch
 welldoneag.ch
-welldonetechnology.ch
 welldonewords.ch
 welldoo.ch
 welldora.ch
@@ -14135,7 +14119,6 @@ wellness-aktuell.ch
 wellness-alp.ch
 wellness-altstetten.ch
 wellness-am-see.ch
-wellness-and-beauty.ch
 wellness-angebote.ch
 wellness-apotheke.ch
 wellness-appenzell.ch
@@ -14224,7 +14207,6 @@ wellness-goldach.ch
 wellness-grindelwald.ch
 wellness-gstaad.ch
 wellness-guide.ch
-wellness-gutschein.ch
 wellness-gutscheine.ch
 wellness-haus.ch
 wellness-hit.ch
@@ -14285,7 +14267,6 @@ wellness-nicole-terminbuchung.ch
 wellness-nidwalden.ch
 wellness-oase-dachlissen.ch
 wellness-oase-spatz.ch
-wellness-oase.ch
 wellness-oasen.ch
 wellness-oele-laden.ch
 wellness-oele.ch
@@ -14617,7 +14598,6 @@ wellnessoase-geroldswil.ch
 wellnessoase-kriegstetten-studio.ch
 wellnessoase-kriegstetten.ch
 wellnessoase-manuela.ch
-wellnessoase.ch
 wellnessoase17.ch
 wellnessoasee.ch
 wellnessoasegeroldswil.ch
@@ -15236,6 +15216,7 @@ welscotch.ch
 welse.ch
 welsen.ch
 welser.ch
+welserei.ch
 welsfischen.ch
 welsfutter.ch
 welsh-hengststation.ch
@@ -15876,7 +15857,6 @@ wema-architektur-design.ch
 wema-beratungen.ch
 wema-design.ch
 wema-holding.ch
-wema-shop.ch
 wema-verschlusstechnik.ch
 wema.ch
 wemaag.ch
@@ -16002,7 +15982,6 @@ wemo-tec.ch
 wemo.ch
 wemoba.ch
 wemobile.ch
-wemod.ch
 wemodo.ch
 wemodular.ch
 wemohost.ch
@@ -16420,7 +16399,6 @@ wengerpartner.ch
 wengerplattner.ch
 wengers-bollhof.ch
 wengers.ch
-wengersanitaire.ch
 wengersbollhof.ch
 wengerschrank.ch
 wengerservice.ch
@@ -17851,6 +17829,7 @@ werbungkeller.ch
 werbungli.ch
 werbungmachen.ch
 werbungmarketing.ch
+werbungmitki.ch
 werbungmitwir.ch
 werbungonline.ch
 werbungpunktgenau.ch
@@ -17918,7 +17897,6 @@ werde-elektriker.ch
 werde-erbe.ch
 werde-erde.ch
 werde-erfolgreich.ch
-werde-fahrlehrer.ch
 werde-fcw-schiri.ch
 werde-frei.ch
 werde-froehlich.ch
@@ -17969,7 +17947,6 @@ werdeeinteildesteams.ch
 werdeelektriker.ch
 werdeerbe.ch
 werdeerde.ch
-werdefahrlehrer.ch
 werdefitmituns.ch
 werdegaertner.ch
 werdegang.ch
@@ -19211,7 +19188,6 @@ wermedia.ch
 wermeille-events.ch
 wermeillelaracine.ch
 wermeint.ch
-wermelinger-ag.ch
 wermelinger-coaching.ch
 wermelinger-eier.ch
 wermelinger-gmbh.ch
@@ -20301,7 +20277,6 @@ weshapetech.ch
 weshapethefuture.ch
 weshare.ch
 weshare1.ch
-weshareeat.ch
 wesherpa.ch
 weship.ch
 weshirt.ch
@@ -20399,7 +20374,12 @@ wespenbekaempfen.ch
 wespenbekaempfung-thun.ch
 wespenbekaempfung.ch
 wespenentfernen.ch
+wespenexperte-schweiz.ch
+wespenexperte-zh.ch
+wespenexperte-zuerich.ch
 wespenexperte.ch
+wespenexperte24.ch
+wespenexperte365.ch
 wespenexperten.ch
 wespenfalle.ch
 wespenfang.ch
@@ -20413,10 +20393,15 @@ wespenfeuerwehr-rothenburg.ch
 wespenfeuerwehr-solothurn.ch
 wespenfeuerwehr-zuerich.ch
 wespenforum.ch
+wespenfrei.ch
+wespenhilfe-schweiz.ch
+wespenhilfe-zuerich.ch
+wespenhilfe.ch
 wespenhotline.ch
 wespeninfo.ch
 wespennest-basel.ch
 wespennest-baselland.ch
+wespennest-entfernen-zuerich.ch
 wespennest-entfernen.ch
 wespennest-entfernung-ar.ch
 wespennest-entfernung.ch
@@ -20436,10 +20421,13 @@ wespennester.ch
 wespennestthurgau.ch
 wespennestumsiedeln.ch
 wespennetz.ch
+wespennotfall.ch
 wespenplage.ch
 wespenpreise.ch
+wespenprofi.ch
 wespenschreck.ch
 wespenschutz.ch
+wespenservice.ch
 wespenspray.ch
 wespenstop.ch
 wespenstopp.ch
@@ -20761,7 +20749,6 @@ westernhuus.ch
 westernkilbi.ch
 westernkleidung.ch
 westernmarkt.ch
-westernnight.ch
 westernnightmare.ch
 westernpads.ch
 westernpetroleum.ch
@@ -21384,7 +21371,6 @@ wetter-catering.ch
 wetter-community.ch
 wetter-daten.ch
 wetter-davos.ch
-wetter-duebendorf.ch
 wetter-engelberg.ch
 wetter-fernsehen.ch
 wetter-frick.ch
@@ -22162,7 +22148,6 @@ weyzunft-luzern.ch
 weyzunft.ch
 wez-invest.ch
 wez.ch
-wezaak.ch
 wezag.ch
 wezagtools.ch
 wezbox.ch

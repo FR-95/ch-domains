@@ -101,7 +101,6 @@ rm-ontour.ch
 rm-optik.ch
 rm-payroll.ch
 rm-personal.ch
-rm-pharma.ch
 rm-photography.ch
 rm-plattendesign.ch
 rm-print.ch
@@ -551,7 +550,6 @@ rmperformance.ch
 rmpersonal.ch
 rmpg.ch
 rmpgmbh.ch
-rmpharma.ch
 rmpinternational.ch
 rmpix.ch
 rmplatten.ch
@@ -603,6 +601,7 @@ rms-law.ch
 rms-parts.ch
 rms-radio-museum-seger.ch
 rms-reinigung.ch
+rms-reinigungen.ch
 rms-reinigungsdienst.ch
 rms-schweiz.ch
 rms-service.ch

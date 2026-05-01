@@ -67,8 +67,6 @@ ja-mediation.ch
 ja-mobilitaet.ch
 ja-moments.ch
 ja-motion.ch
-ja-natuerli.ch
-ja-natuerlich.ch
 ja-naturpark-schaffhausen.ch
 ja-naturschutzgebiet-eigental.ch
 ja-nein-orakel.ch
@@ -2135,6 +2133,7 @@ jagdkanzeln-bern.ch
 jagdkapelle.ch
 jagdkarten.ch
 jagdkino.ch
+jagdkleidung.ch
 jagdkritik.ch
 jagdkurs.ch
 jagdladen.ch
@@ -2815,6 +2814,7 @@ jakadi.ch
 jakadicomedy.ch
 jakaj-peinture.ch
 jakaj.ch
+jakajdigital.ch
 jakajmuhamed.ch
 jakala.ch
 jakama.ch
@@ -3769,6 +3769,7 @@ jamix.ch
 jamjam-mh.ch
 jamjam.ch
 jamjar.ch
+jamjazz.ch
 jamkitchen.ch
 jamkultur.ch
 jamlab.ch
@@ -4061,7 +4062,6 @@ janahilkes.ch
 janahomjakova.ch
 janahonegger.ch
 janahug.ch
-janaina.ch
 janainavonmoos.ch
 janainvestment.ch
 janajaun.ch
@@ -5718,7 +5718,6 @@ japanrailpass.ch
 japanrailpass24.ch
 japanraum.ch
 japanreise-shop.ch
-japanreise.ch
 japanreiseberatung.ch
 japanreiseberatungen.ch
 japanreisefuehrer.ch
@@ -6133,12 +6132,12 @@ jardindufaux.ch
 jardindujapon.ch
 jardindujazz.ch
 jardindujorat.ch
+jardindumonde.ch
 jardinduparadis.ch
 jardindupicvert.ch
 jardinduplaisir.ch
 jardindusouvenir.ch
 jardindutempslebrassus.ch
-jardinduvalais.ch
 jardinduyoga.ch
 jardineco.ch
 jardineige.ch
@@ -6170,6 +6169,7 @@ jardinier365.ch
 jardinierbleu.ch
 jardiniercoach.ch
 jardinierdelacote.ch
+jardiniere.ch
 jardiniergeneve.ch
 jardinierlaneuveville.ch
 jardinierpaysagiste.ch
@@ -6996,7 +6996,6 @@ jaso.ch
 jasobeauty.ch
 jasol.ch
 jasolar.ch
-jasom-ag.ch
 jasoma.ch
 jason-elsener.ch
 jason-jake.ch
@@ -7825,7 +7824,6 @@ jazookies.ch
 jazoon.ch
 jazs.ch
 jazu.ch
-jazubrambruesch.ch
 jazudir.ch
 jazumeigenmietwert.ch
 jazumesc.ch

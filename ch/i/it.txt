@@ -1603,7 +1603,6 @@ italiaweb.ch
 italiayachts.ch
 italic.ch
 italica.ch
-italicbold.ch
 italico.ch
 italicoamaro.ch
 italics.ch
@@ -2282,7 +2281,6 @@ itech4life.ch
 itechag.ch
 itechcustoms.ch
 itechdim.ch
-itechentreprise.ch
 itechgenius.ch
 itechhub.ch
 itechindustries.ch
@@ -2838,6 +2836,7 @@ itignos.ch
 itigo.ch
 itikka.ch
 itil-box.ch
+itil-circle.ch
 itil-coach.ch
 itil-expert.ch
 itil-forum.ch
@@ -3284,7 +3283,6 @@ itoya.ch
 itoyamartigny.ch
 itoys.ch
 itp-app.ch
-itp-commerce.ch
 itp-connect.ch
 itp-consulting.ch
 itp-info.ch
@@ -3659,7 +3657,6 @@ itsaprocess.ch
 itsara.ch
 itsasmallworld.ch
 itsastatement.ch
-itsasyn.ch
 itsawrap.ch
 itsb.ch
 itsbetter.ch
@@ -3855,7 +3852,6 @@ itsm-agile.ch
 itsm-factory.ch
 itsm-partner.ch
 itsm-service.ch
-itsm-solutions.ch
 itsm.ch
 itsm2go.ch
 itsmagic.ch
@@ -4033,7 +4029,6 @@ itsupport-zh.ch
 itsupport-zo.ch
 itsupport.ch
 itsupport24.ch
-itsupporter.ch
 itsupporters.ch
 itsupportgerber.ch
 itsupportonline.ch

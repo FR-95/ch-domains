@@ -1271,6 +1271,7 @@ bocksberger.ch
 bocksch.ch
 bockschaffhausen.ch
 bockshornklee.ch
+bockspringer.ch
 bocksprung.ch
 bockstall.ch
 bockstatt.ch
@@ -1417,7 +1418,6 @@ bodega-espanola.ch
 bodega-latina.ch
 bodega-noi.ch
 bodega-olten.ch
-bodega-papas.ch
 bodega-pato.ch
 bodega-peninsula.ch
 bodega.ch
@@ -1924,8 +1924,6 @@ bodenmann.ch
 bodenmannadvisory.ch
 bodenmannmietkran.ch
 bodenmannweb.ch
-bodenmarkierer.ch
-bodenmarkierung.ch
 bodenmarkierungen.ch
 bodenmarkt.ch
 bodenmatt-606.ch
@@ -2342,7 +2340,6 @@ bodenventilator.ch
 bodenventile.ch
 bodenverbesserer.ch
 bodenverbesserungen.ch
-bodenverdichter.ch
 bodenverdichtung.ch
 bodenverkauf.ch
 bodenverlege-service.ch
@@ -2401,6 +2398,7 @@ boderpompesfunebres.ch
 boderverlag.ch
 bodes.ch
 bodesa-concept.ch
+bodesa.ch
 bodeseekraftwerk.ch
 bodeseekraftwerke.ch
 bodeseevogler.ch
@@ -2999,7 +2997,6 @@ bodyconcept.ch
 bodyconceptgmbh.ch
 bodyconsense.ch
 bodycontact.ch
-bodycontouring.ch
 bodycontouringaarau.ch
 bodycontouringbasel.ch
 bodycontouringschweiz.ch
@@ -3018,7 +3015,6 @@ bodycote.ch
 bodycount.ch
 bodycraft.ch
 bodycream.ch
-bodycross.ch
 bodycult.ch
 bodycushion.ch
 bodydearmoring.ch
@@ -3332,6 +3328,7 @@ bodynamic-schweiz.ch
 bodynamic-switzerland.ch
 bodynamic.ch
 bodynature.ch
+bodynbrain.ch
 bodyndsoul.ch
 bodynerd.ch
 bodyneutral.ch
@@ -3652,6 +3649,7 @@ bodywork-coaching.ch
 bodywork-concept.ch
 bodywork-kura.ch
 bodywork-luzern.ch
+bodywork-marlene.ch
 bodywork-massage.ch
 bodywork-s.ch
 bodywork-stabilisatoren.ch
@@ -3948,7 +3946,6 @@ boehnke.ch
 boehnlein.ch
 boehny-farben.ch
 boehny.ch
-boehrer.ch
 boehringer-ingelheim.ch
 boehringer.ch
 boehringerconsulting.ch
@@ -4186,7 +4183,6 @@ boersen-forum.ch
 boersen-guru.ch
 boersen-info.ch
 boersen-talk.ch
-boersen-ticker.ch
 boersen.ch
 boersenaufsicht.ch
 boersenbasis.ch
@@ -4194,7 +4190,6 @@ boersenbrief.ch
 boersenbriefe.ch
 boersenchampion.ch
 boersenclub-schweiz.ch
-boersenclub.ch
 boersencoach.ch
 boersendienst-verlag.ch
 boersenempfehlungen.ch
@@ -4236,7 +4231,6 @@ boersenspiel-kss.ch
 boersenspiel.ch
 boersentag.ch
 boersentalk.ch
-boersenticker.ch
 boersentipp.ch
 boersentipps.ch
 boersentips.ch
@@ -5492,10 +5486,8 @@ boisril.ch
 boisriviera.ch
 boiss.ch
 boissard.ch
-boissec-home.ch
 boissec-shop.ch
 boissec.ch
-boissechome.ch
 boissenin.ch
 boisset.ch
 boissetvins.ch
@@ -5587,7 +5579,6 @@ boite-o-services.ch
 boite-postale.ch
 boite-tresors.ch
 boite-verte.ch
-boite.ch
 boiteabebe.ch
 boiteabebes.ch
 boiteaboulots.ch
@@ -5993,7 +5984,6 @@ bolero-zermatt.ch
 bolero.ch
 bolerobar.ch
 bolerobistro.ch
-boleroclub.ch
 bolerodrink.ch
 bolerodrinks.ch
 bolerogetraenke.ch
@@ -7243,7 +7233,6 @@ bonardi-gipser.ch
 bonardi.ch
 bonardipiastrelle.ch
 bonardo.ch
-bonaria-ag.ch
 bonaria-immo.ch
 bonaria-immobilien.ch
 bonaria-real-estate.ch
@@ -8845,7 +8834,6 @@ bonzeste.ch
 bonzi.ch
 bonzini.ch
 bonzo.ch
-bonzon-cycle.ch
 bonzon-transports.ch
 bonzon.ch
 bonzonsa.ch
@@ -8951,6 +8939,7 @@ boogiefox.ch
 boogiegroove.ch
 boogiekalender.ch
 boogielugano.ch
+boogieman.ch
 boogiemaniacs.ch
 boogiemusig.ch
 boogienight.ch
@@ -11088,6 +11077,7 @@ borbonese.ch
 borboneshop.ch
 borbonespresso.ch
 borbor.ch
+borborygmos-studio.ch
 borbs.ch
 borca.ch
 borcan.ch
@@ -13295,6 +13285,7 @@ botalista-dev.ch
 botalista.ch
 botamarketing.ch
 botament.ch
+botami.ch
 botan.ch
 botane.ch
 botanea.ch
@@ -15369,6 +15360,7 @@ boussoleeurope.ch
 boussolefamily.ch
 boussolefrauenfitness.ch
 boussoleodd.ch
+boussoleromande.ch
 boussolesante.ch
 boussorentallimousine.ch
 bousta.ch
@@ -15393,7 +15385,6 @@ boutdouchee.ch
 boutdulac.ch
 boutdumonde.ch
 boutdupont.ch
-bouteak.ch
 boutech.ch
 boutefas.ch
 boutefasaop.ch
@@ -15645,7 +15636,6 @@ boutique-tadam.ch
 boutique-tana.ch
 boutique-tandem.ch
 boutique-terroir-fribourg.ch
-boutique-the-cafe.ch
 boutique-tops.ch
 boutique-travel.ch
 boutique-trias.ch
@@ -15897,7 +15887,6 @@ boutiquesuisse.ch
 boutiquesusan.ch
 boutiqueswatch.ch
 boutiquetess.ch
-boutiquethecafe.ch
 boutiquetopquality.ch
 boutiquetour.ch
 boutiquetours.ch
@@ -16262,7 +16251,6 @@ bowling-bienne.ch
 bowling-bremgarten.ch
 bowling-buchs.ch
 bowling-center.ch
-bowling-club.ch
 bowling-du-parc.ch
 bowling-langenthal.ch
 bowling-lausanne.ch
@@ -16562,7 +16550,6 @@ boxbike.ch
 boxbikes.ch
 boxbirne.ch
 boxbnb.ch
-boxboat.ch
 boxbollen.ch
 boxbooking.ch
 boxboss.ch
@@ -16632,7 +16619,6 @@ boxclubwinterthur.ch
 boxclubzuerich.ch
 boxclubzug.ch
 boxclusive.ch
-boxcoach.ch
 boxcoaching.ch
 boxcom.ch
 boxcon.ch
@@ -16741,6 +16727,7 @@ boxer-joop.ch
 boxer-ne.ch
 boxer-pr.ch
 boxer-von-der-martinseiche.ch
+boxer-werkstatt.ch
 boxer-xanadu.ch
 boxer-zucht.ch
 boxer.ch
@@ -16831,6 +16818,7 @@ boxhotel.ch
 boxhouse.ch
 boxhunt.ch
 boxi.ch
+boxia.ch
 boxid.ch
 boxidee.ch
 boxie24.ch

@@ -1288,7 +1288,6 @@ wiedenmann.ch
 wiedenmeier.ch
 wiedenstrasse18.ch
 wieder-einstieg.ch
-wieder-frei.ch
 wieder-gmbh.ch
 wieder-gut.ch
 wieder-i.ch
@@ -1452,6 +1451,7 @@ wiedikertor.ch
 wiedikon-mediation.ch
 wiedikon-point-zuerich.ch
 wiedikon-point.ch
+wiedikon-tcm.ch
 wiedikon.ch
 wiedikon24.ch
 wiedikonews.ch
@@ -1850,6 +1850,7 @@ wiesenpark-rupperswil.ch
 wiesenpflanzen.ch
 wiesenplatzgarage.ch
 wiesenpracht.ch
+wiesenrain.ch
 wiesenreich.ch
 wiesensau.ch
 wiesenschnitt.ch
@@ -2029,7 +2030,6 @@ wietlisbachlaw.ch
 wietrauern.ch
 wietri.ch
 wietschorke.ch
-wievererben.ch
 wieverkaufeichmeinhaus.ch
 wievermitteln.ch
 wieviel-kostet-ein-umzug.ch
@@ -3343,6 +3343,7 @@ wildearth.ch
 wildeast.ch
 wildeasterduel.ch
 wildeblattern.ch
+wildeblueten.ch
 wildeblum.ch
 wildeblumenkunst.ch
 wildeboer.ch
@@ -3491,6 +3492,7 @@ wilderwandel.ch
 wilderwein.ch
 wilderwerner.ch
 wilderwind.ch
+wilderwurf.ch
 wildes-baselbiet.ch
 wildes-gruen.ch
 wildes-herz.ch
@@ -4433,7 +4435,6 @@ wildwurzel.ch
 wildwurzeln.ch
 wildwurzler.ch
 wildwux.ch
-wildxwood.ch
 wildy.ch
 wildyam.ch
 wildyoga.ch
@@ -5552,7 +5553,6 @@ wilsonpromotion.ch
 wilsonran.ch
 wilsonribordy.ch
 wilsons.ch
-wilsonsa.ch
 wilsonsmontage.ch
 wilsonsup.ch
 wilsonwater.ch
@@ -5831,6 +5831,7 @@ win-aura.ch
 win-avia.ch
 win-back-control.ch
 win-beatz.ch
+win-big.ch
 win-biogaz.ch
 win-cas.ch
 win-casino.ch
@@ -5879,7 +5880,6 @@ win-law.ch
 win-lead.ch
 win-leads.ch
 win-lexus-emil-frey.ch
-win-log.ch
 win-lux.ch
 win-luxury.ch
 win-mail.ch
@@ -6069,6 +6069,7 @@ winbetzcasino.ch
 winbexia.ch
 winbiap.ch
 winbib.ch
+winbig.ch
 winbiz-shop.ch
 winbiz.ch
 winbizappstore.ch
@@ -6580,7 +6581,6 @@ windm2.ch
 windmade.ch
 windmag.ch
 windmaschine.ch
-windmaschinen.ch
 windmast.ch
 windmaster.ch
 windmc2.ch
@@ -6733,6 +6733,7 @@ windowsystems.ch
 windowwashing.ch
 windowzoo.ch
 windpanel.ch
+windpark-alpiliegg.ch
 windpark-burg.ch
 windpark-eriswil.ch
 windpark-grot-maton.ch
@@ -8317,7 +8318,6 @@ winlink.ch
 winlinux.ch
 winloc.ch
 winlocal.ch
-winlog.ch
 winlogie.ch
 winlogon.ch
 winlohn.ch
@@ -8359,6 +8359,7 @@ winnair.ch
 winnall.ch
 winncare.ch
 winner-app.ch
+winner-club.ch
 winner-garden.ch
 winner-gmbh.ch
 winner-graphics.ch
@@ -8386,6 +8387,7 @@ winnero.ch
 winnerplus.ch
 winnerprice.ch
 winners-academy.ch
+winners-club.ch
 winners-edge.ch
 winners-health.ch
 winners-pothumukku.ch
@@ -9395,7 +9397,6 @@ winterthur-veltheim.ch
 winterthur-vku.ch
 winterthur-vokalensemble.ch
 winterthur-vorhersehbar.ch
-winterthur-vorkurs.ch
 winterthur-waldbaden.ch
 winterthur-webwerk.ch
 winterthur-weinland.ch
@@ -10059,6 +10060,7 @@ winwin-flawil.ch
 winwin-gossau.ch
 winwin-herisau.ch
 winwin-lefilm.ch
+winwin-partner.ch
 winwin-shop.ch
 winwin-sponsoring.ch
 winwin.ch
@@ -12334,7 +12336,6 @@ wirtschaft-uri.ch
 wirtschaft-utiger.ch
 wirtschaft-wallis.ch
 wirtschaft-weinberg.ch
-wirtschaft-weissenberg.ch
 wirtschaft-wetzwil.ch
 wirtschaft-wir-alle.ch
 wirtschaft-ziegelhuette.ch
@@ -13270,8 +13271,6 @@ wishart.ch
 wishbob.ch
 wishbone-bikes.ch
 wishbone-services.ch
-wishbonebike.ch
-wishbonedesign.ch
 wishboneeatery.ch
 wishbook.ch
 wishbox.ch
@@ -14033,6 +14032,7 @@ witikeroptic.ch
 witikon-hoch3.ch
 witikon-psychotherapie.ch
 witikon-racing-club.ch
+witikon-tcm.ch
 witikon.ch
 witikon24.ch
 witikonimpuls.ch
@@ -14160,7 +14160,6 @@ wittekind-moebel.ch
 wittekind.ch
 wittekop.ch
 wittemariaweber.ch
-wittenba.ch
 wittenbach-ig.ch
 wittenbach-panthers.ch
 wittenbach-zahnarzt.ch

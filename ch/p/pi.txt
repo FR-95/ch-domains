@@ -536,7 +536,6 @@ pianofestival.ch
 pianofestivalaarau.ch
 pianofinder.ch
 pianoflorin.ch
-pianoforte-pfaff.ch
 pianoforte.ch
 pianoforteakademie.ch
 pianoforteffs.ch
@@ -1327,7 +1326,6 @@ piccolo-marzili.ch
 piccolo-mondo.ch
 piccolo-musikfestival.ch
 piccolo-piemonte.ch
-piccolo-pneus.ch
 piccolo-sh.ch
 piccolo-spa.ch
 piccolo-spiez.ch
@@ -2662,6 +2660,7 @@ piercingpflege.ch
 piercingpunktur.ch
 piercings-shop.ch
 piercings.ch
+piercingsbyn.ch
 piercingsbysteve.ch
 piercingschule.ch
 piercingschulung.ch
@@ -3649,6 +3648,7 @@ pikaeditions.ch
 pikag.ch
 pikaia.ch
 pikaizoku.ch
+pikaju.ch
 pikakasino.ch
 pikali.ch
 pikam.ch
@@ -4403,7 +4403,6 @@ pilatus-praxis.ch
 pilatus-projects.ch
 pilatus-putzete.ch
 pilatus-raeumungen.ch
-pilatus-reinigung.ch
 pilatus-reinigungen.ch
 pilatus-rock.ch
 pilatus-rohrreinigung.ch
@@ -4446,7 +4445,6 @@ pilatusbike.ch
 pilatusblick-eschenbach.ch
 pilatusblick-kriens.ch
 pilatusblick.ch
-pilatuscapital.ch
 pilatuscars.ch
 pilatuscloud.ch
 pilatusclub.ch
@@ -5332,6 +5330,7 @@ pilzzeitung.ch
 pilzzucht.ch
 pilzzuchtkurs.ch
 pilzzuchtkurse.ch
+pim-agentur.ch
 pim-astronauten.ch
 pim-auswahl.ch
 pim-consultants.ch
@@ -5340,12 +5339,14 @@ pim-equity.ch
 pim-experte.ch
 pim-experts.ch
 pim-group.ch
+pim-integration.ch
 pim-messung.ch
 pim-phan-thaimassage.ch
 pim-philips.ch
 pim-pon.ch
 pim-sa.ch
 pim-software.ch
+pim-spezialisten.ch
 pim-swiss.ch
 pim-to-go.ch
 pim.ch
@@ -6271,6 +6272,7 @@ pinkcactus.ch
 pinkcad.ch
 pinkcadillac.ch
 pinkcappuccino.ch
+pinkcasino.ch
 pinkcat.ch
 pinkcatstudio.ch
 pinkcave.ch
@@ -8405,6 +8407,7 @@ pistola.ch
 pistolacademy.ch
 pistolaposchiavo.ch
 pistolbeat.ch
+pistole-b-g.ch
 pistole.ch
 pistolen-b-g.ch
 pistolen-buchs.ch
@@ -8602,6 +8605,7 @@ pitbullwestcoast.ch
 pitc.ch
 pitcairn.ch
 pitch-consulting.ch
+pitch-deck.ch
 pitch-master.ch
 pitch-me-if-you-can.ch
 pitch-meeting.ch
@@ -10668,7 +10672,6 @@ pizza-luna.ch
 pizza-luzern.ch
 pizza-lyss.ch
 pizza-maestro-basel.ch
-pizza-maestro-sg.ch
 pizza-maestro.ch
 pizza-maison.ch
 pizza-malibu.ch
@@ -10799,6 +10802,7 @@ pizza-station.ch
 pizza-storch.ch
 pizza-store-vevey.ch
 pizza-store.ch
+pizza-street.ch
 pizza-subito.ch
 pizza-suche.ch
 pizza-swiss-grenchen.ch

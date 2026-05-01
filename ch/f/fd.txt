@@ -81,6 +81,7 @@ fdcdistribution.ch
 fdcg.ch
 fdch.ch
 fdcimmobilientreuhand.ch
+fdcn.ch
 fdcneuburg.ch
 fdco.ch
 fdcoach.ch
@@ -969,7 +970,6 @@ fdpsz.ch
 fdpthalwil.ch
 fdpthun.ch
 fdpthurgau.ch
-fdpumpen.ch
 fdpumpenservice.ch
 fdpunternehmer.ch
 fdpvs.ch

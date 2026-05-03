@@ -429,7 +429,6 @@ pme-leasing.ch
 pme-legend.ch
 pme-libres.ch
 pme-magazine.ch
-pme-management.ch
 pme-market.ch
 pme-marketing.ch
 pme-mentalement-saine.ch

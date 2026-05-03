@@ -7711,6 +7711,7 @@ immoherzag.ch
 immoheuberger.ch
 immohgt.ch
 immohilfe.ch
+immohinweis.ch
 immohirt-zug-ag.ch
 immohirt-zug.ch
 immohirt.ch
@@ -7789,7 +7790,6 @@ immointegral.ch
 immointerlaken.ch
 immoinvest-group.ch
 immoinvest-knutwil.ch
-immoinvest-lac.ch
 immoinvest-lehmann.ch
 immoinvest-residence.ch
 immoinvest-sursee.ch
@@ -9968,6 +9968,7 @@ imobjektiv.ch
 imobstgarten-herdern.ch
 imoca.ch
 imocare.ch
+imocia-gestion.ch
 imocia.ch
 imocirc.ch
 imoco.ch
@@ -10305,7 +10306,6 @@ impact-pme.ch
 impact-procurement.ch
 impact-production.ch
 impact-projets.ch
-impact-prozess.ch
 impact-realestate.ch
 impact-recruiting.ch
 impact-recruitment.ch

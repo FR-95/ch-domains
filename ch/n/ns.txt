@@ -229,7 +229,6 @@ ns.forapi.ch
 ns.fotomorgana.ch
 ns.freewifi.ch
 ns.freizeitmobilestucki.ch
-ns.friede.ch
 ns.gamingfederation.ch
 ns.gbassurances.ch
 ns.geberit.ch
@@ -1975,7 +1974,6 @@ ns1.highdefinition.ch
 ns1.highway1.ch
 ns1.highweb.ch
 ns1.hiho.ch
-ns1.hin-svmed.ch
 ns1.hirslanden.ch
 ns1.hisweb.ch
 ns1.hitbit.ch
@@ -5096,7 +5094,6 @@ ns2.fretcom.ch
 ns2.frey-net.ch
 ns2.fricktalhosting.ch
 ns2.fricode-developpement.ch
-ns2.friede.ch
 ns2.fritigsclub.ch
 ns2.fromthefarm.ch
 ns2.frox.ch
@@ -5284,7 +5281,6 @@ ns2.higaki.ch
 ns2.highway1.ch
 ns2.highweb.ch
 ns2.hiho.ch
-ns2.hin-svmed.ch
 ns2.hirslanden.ch
 ns2.hisweb.ch
 ns2.hitbit.ch
@@ -8515,7 +8511,6 @@ nscare.ch
 nscbetspro.ch
 nscc.ch
 nscevents.ch
-nschaad.ch
 nschacherag.ch
 nschenardi.ch
 nschluessel.ch

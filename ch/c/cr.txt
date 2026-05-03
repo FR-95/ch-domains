@@ -3745,6 +3745,7 @@ creation-sarl.ch
 creation-sibylle.ch
 creation-site-fribourg.ch
 creation-site-geneve.ch
+creation-site-grandson.ch
 creation-site-internet-agence-web.ch
 creation-site-internet-dm-webservices.ch
 creation-site-internet-fribourg.ch
@@ -3764,6 +3765,7 @@ creation-site-web-lausanne.ch
 creation-site-web-neuchatel.ch
 creation-site-web-suisse.ch
 creation-site-web.ch
+creation-site-yverdon.ch
 creation-site.ch
 creation-sites-internet-geneve.ch
 creation-sites-internet.ch
@@ -5256,7 +5258,6 @@ credit-frontalier.ch
 credit-gate.ch
 credit-gate24.ch
 credit-general.ch
-credit-halal.ch
 credit-help.ch
 credit-immobilier.ch
 credit-independant.ch
@@ -6508,6 +6509,7 @@ crevoiserat.ch
 crevoisier.ch
 crevolution.ch
 crevox.ch
+crevzy.ch
 crew-call.ch
 crew-check.ch
 crew-compass.ch
@@ -7563,6 +7565,7 @@ crlm.ch
 crls.ch
 crlsa.ch
 crlx.ch
+crm-access.ch
 crm-anbietervergleich.ch
 crm-app.ch
 crm-auswahl.ch
@@ -7662,7 +7665,6 @@ crm3d-4u.ch
 crm4all.ch
 crm4biz.ch
 crm4brokers.ch
-crm4clinic.ch
 crm4free.ch
 crm4u.ch
 crm4you.ch
@@ -8195,7 +8197,6 @@ cromanite.ch
 cromapharma.ch
 cromas.ch
 cromatech.ch
-cromatica.ch
 cromavox.ch
 cromax.ch
 cromaxfivestar.ch
@@ -9907,10 +9908,12 @@ cruisexpress.ch
 cruisify.ch
 cruising-altitude.ch
 cruising-factory.ch
+cruising-gay.ch
 cruising-yachts.ch
 cruising.ch
 cruisingclub.ch
 cruisingfactory.ch
+cruisinggay.ch
 cruisinghome-hausboote.ch
 cruisinghome.ch
 cruisingoffline.ch
@@ -10972,7 +10975,6 @@ cryptolab.ch
 cryptolabs-shop.ch
 cryptolabs.ch
 cryptolady.ch
-cryptolairix.ch
 cryptolamp.ch
 cryptoland.ch
 cryptolandscape.ch

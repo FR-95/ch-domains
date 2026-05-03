@@ -1818,6 +1818,7 @@ spandelfotografie.ch
 spandex.ch
 spandooly.ch
 spandrell.ch
+spandya.ch
 spane.ch
 spanescens.ch
 spanesi.ch
@@ -5662,6 +5663,7 @@ spenden-boutique.ch
 spenden-grunliberale.ch
 spenden-hrc.ch
 spenden-info.ch
+spenden-kompass.ch
 spenden-konten.ch
 spenden-konto.ch
 spenden-kontos.ch
@@ -5699,6 +5701,7 @@ spendenhelfer.ch
 spendenhilfe.ch
 spendenhilfsdienst.ch
 spendenkommunikation.ch
+spendenkompass.ch
 spendenkonten.ch
 spendenkonto.ch
 spendenkontos.ch
@@ -5744,6 +5747,7 @@ spendere-meno.ch
 spenderemeglio.ch
 spenderherz.ch
 spenderkinder.ch
+spenderkompass.ch
 spenderlog.ch
 spenderservice.ch
 spendersysteme.ch
@@ -7139,6 +7143,7 @@ spicygraphie.ch
 spicyham.ch
 spicyhof.ch
 spicykiss.ch
+spicylab.ch
 spicylili.ch
 spicylips.ch
 spicymondo.ch
@@ -10451,7 +10456,6 @@ spirig.ch
 spirig4d.ch
 spirigag.ch
 spirigarchitektur.ch
-spirigbat.ch
 spiriggroup.ch
 spirighc-retouren.ch
 spirighc.ch
@@ -16302,6 +16306,7 @@ sportmanias.ch
 sportmaniatravel.ch
 sportmann.ch
 sportmap-bl.ch
+sportmap.ch
 sportmarket.ch
 sportmarketing.ch
 sportmarketinggmbh.ch

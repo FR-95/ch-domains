@@ -2862,7 +2862,6 @@ bodyandmindmove.ch
 bodyandnature.ch
 bodyandnutrition.ch
 bodyandsense.ch
-bodyandshape.ch
 bodyandsmile.ch
 bodyandsoul-health.ch
 bodyandsoul-herisau.ch
@@ -5575,6 +5574,7 @@ boite-aux-lettres.ch
 boite-de-courriel-lp.ch
 boite-de-reception.ch
 boite-de-sol.ch
+boite-gay.ch
 boite-images.ch
 boite-o-services.ch
 boite-postale.ch
@@ -5609,6 +5609,7 @@ boitedemerde.ch
 boitedepandoure.ch
 boitedereception.ch
 boitedor.ch
+boitegay.ch
 boitel.ch
 boitelle-law.ch
 boitelle.ch
@@ -6043,7 +6044,6 @@ bolidt.ch
 boliga.ch
 boligarage.ch
 boliger.ch
-boligmbh.ch
 bolijn-massagen.ch
 boliking.ch
 bolimekurac.ch
@@ -7029,6 +7029,7 @@ bon-numerique.ch
 bon-pere.ch
 bon-plan-frontaliers.ch
 bon-plan-photo.ch
+bon-plan-sexe.ch
 bon-plan-voyage.ch
 bon-plan.ch
 bon-prix.ch
@@ -7834,7 +7835,6 @@ bonidea.ch
 bonidee-hochzeitsmode.ch
 bonidee-homestaging.ch
 bonidee.ch
-bonieli.ch
 boniersystem.ch
 boniexpert.ch
 bonifaccio.ch
@@ -8230,6 +8230,7 @@ bonoboss.ch
 bonocler.ch
 bonoconsulting.ch
 bonodori.ch
+bonoeffectum.ch
 bonoel.ch
 bonoer.ch
 bonoflex.ch
@@ -8281,6 +8282,7 @@ bonplan-geneve.ch
 bonplan.ch
 bonplanfamille.ch
 bonplanlunettes.ch
+bonplansexe.ch
 bonplansuisse.ch
 bonplantravaux.ch
 bonplanvoyage.ch
@@ -12452,6 +12454,7 @@ boschelevatorclouds.ch
 boschelevatorscloud.ch
 boschelevatorsclouds.ch
 boschemtbmodus.ch
+boscher.ch
 boscheri.ch
 boscherini.ch
 boschert.ch
@@ -13772,6 +13775,7 @@ bottegaalimentare.ch
 bottegaalmea.ch
 bottegabar.ch
 bottegaberta.ch
+bottegabertoletti.ch
 bottegacamillo.ch
 bottegacentrale.ch
 bottegaclassica.ch
@@ -15215,6 +15219,7 @@ bourquinbois.ch
 bourquinconsulting.ch
 bourquinelectricite.ch
 bourquinfo.ch
+bourquinleselectriciens.ch
 bourquinlud.ch
 bourquinpk.ch
 bourquinsa.ch
@@ -16812,6 +16817,7 @@ boxhaus.ch
 boxhera.ch
 boxhero.ch
 boxholding.ch
+boxhopp.ch
 boxhorn.ch
 boxhotel.ch
 boxhouse.ch

@@ -129,6 +129,7 @@ nfd.ch
 nfdap.ch
 nfdata.ch
 nfdesign.ch
+nfdigital.ch
 nfdz11.ch
 nfdzo.ch
 nfe.ch

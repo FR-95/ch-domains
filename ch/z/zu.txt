@@ -6696,6 +6696,7 @@ zurich-privatkunden.ch
 zurich-psychoanalysis.ch
 zurich-public-transport.ch
 zurich-re.ch
+zurich-realestate.ch
 zurich-rebels-dc.ch
 zurich-rebels.ch
 zurich-reinigung.ch
@@ -7543,6 +7544,7 @@ zuriholz.ch
 zurihome.ch
 zurihonig.ch
 zuriimplant.ch
+zuriinfo.ch
 zuriinvest.ch
 zuriinvestment.ch
 zurik.ch

@@ -1343,7 +1343,6 @@ audi-schweiz.ch
 audi-service.ch
 audi-servicepartner.ch
 audi-sg.ch
-audi-shop.ch
 audi-sondermodelle.ch
 audi-spezialist.ch
 audi-spezialisten.ch
@@ -2114,7 +2113,6 @@ audischweiz.ch
 audisec.ch
 audiservice.ch
 audisg.ch
-audishop.ch
 audiskicross.ch
 audisnowboardseries.ch
 audisphere.ch
@@ -6076,7 +6074,6 @@ aupoucegourmand.ch
 aupredeleau.ch
 aupremier-basel.ch
 aupremier.ch
-aupremierciel.ch
 aupremieretage.ch
 aupres-de-mon-arbre.ch
 aupres-de-mon-etre.ch
@@ -11672,7 +11669,6 @@ autoankauf-glarus.ch
 autoankauf-gr.ch
 autoankauf-graubuenden.ch
 autoankauf-graubunden.ch
-autoankauf-helvetia.ch
 autoankauf-heute.ch
 autoankauf-in-der-naehe.ch
 autoankauf-in-der-nahe.ch
@@ -11958,7 +11954,6 @@ autobandage.ch
 autobank.ch
 autobar-ostermundigen.ch
 autobar.ch
-autobaraka.ch
 autobarankauf.ch
 autobardill.ch
 autobargeld.ch
@@ -13013,6 +13008,7 @@ autofahrschule-luzern.ch
 autofahrschule-sursee.ch
 autofahrschule-zuerich.ch
 autofahrschule.ch
+autofahrschulebasel.ch
 autofahrschulen.ch
 autofahrschulezuerich.ch
 autofahrstunde.ch
@@ -14556,6 +14552,7 @@ automationagency.ch
 automationagentgmbh.ch
 automationai-solutions.ch
 automational.ch
+automationandy.ch
 automationanywhere.ch
 automationapplications.ch
 automationarchitect.ch
@@ -14585,7 +14582,6 @@ automationsysteme.ch
 automationsystems.ch
 automationvector.ch
 automationweb.ch
-automationzone.ch
 automatiq-agency.ch
 automatiq.ch
 automatique-industrie.ch
@@ -15181,6 +15177,7 @@ autonoleggioticino.ch
 autonoli.ch
 autonology.ch
 autonom-daheim.ch
+autonom-e.ch
 autonom-wohnen.ch
 autonom.ch
 autonoma.ch
@@ -16343,7 +16340,6 @@ autospawaschstrasse.ch
 autospazio.ch
 autospecht.ch
 autosped.ch
-autospeeder.ch
 autospeedi.ch
 autospeedy.ch
 autospeer.ch
@@ -17240,6 +17236,7 @@ autowaschzenteraesch.ch
 autowaschzentrum-birren.ch
 autowaschzentrum.ch
 autowash.ch
+autowashduo.ch
 autowashfinder.ch
 autowasserstoff.ch
 autowave.ch

@@ -1472,6 +1472,8 @@ dragriders.ch
 dragstars.ch
 dragster.ch
 dragswit.ch
+drague-gay.ch
+draguegay.ch
 dragumi.ch
 dragun.ch
 dragunin.ch
@@ -5009,8 +5011,6 @@ drinkoo.ch
 drinkopoly.ch
 drinkorganic.ch
 drinkotec.ch
-drinkotech.ch
-drinkotek.ch
 drinkoutofthebox.ch
 drinkoverip.ch
 drinkparadies.ch
@@ -5625,7 +5625,6 @@ drivenet.ch
 drivenfriends.ch
 drivenhub.ch
 drivenow.ch
-drivenowa.ch
 drivenperformance.ch
 drivenrace.ch
 drivenscan.ch
@@ -7371,7 +7370,6 @@ drone-tech.ch
 drone-ticino.ch
 drone-valais.ch
 drone-view.ch
-drone-vision-pro.ch
 drone-vision.ch
 drone-visuals.ch
 drone-watch.ch
@@ -7870,7 +7868,6 @@ dropstorys.ch
 dropswimwear.ch
 dropswolle.ch
 dropsy.ch
-droptea.ch
 droptec.ch
 droptheboss.ch
 dropthespoon.ch

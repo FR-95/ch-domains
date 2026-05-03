@@ -2340,7 +2340,6 @@ heatoreat.ch
 heatpatch.ch
 heatperfect.ch
 heatperformance.ch
-heatpilot.ch
 heatplan.ch
 heatpro.ch
 heatprotection.ch
@@ -2847,7 +2846,6 @@ hebammebianka.ch
 hebammebidir.ch
 hebammebrugg.ch
 hebammebsuech.ch
-hebammechrista.ch
 hebammedani.ch
 hebammedelia.ch
 hebammeebnat-kappel.ch
@@ -5532,6 +5530,7 @@ heilfeld5.ch
 heilfelder.ch
 heilfenster.ch
 heilfesseln.ch
+heilfinder.ch
 heilfokus.ch
 heilfrequenz.ch
 heilfrequenzen.ch
@@ -6135,6 +6134,7 @@ heim-stoeckli.ch
 heim-studio.ch
 heim-sunnegg.ch
 heim-teb.ch
+heim-tech.ch
 heim-textilien.ch
 heim-trainer.ch
 heim-training.ch
@@ -9059,6 +9059,7 @@ helenacomic.ch
 helenadevallier.ch
 helenadia.ch
 helenadrakula.ch
+helenaeliasmusic.ch
 helenaerni.ch
 helenafrancisco.ch
 helenafreystiftung.ch
@@ -10137,7 +10138,6 @@ helixbiotechnologyfund.ch
 helixbyte.ch
 helixcloud.ch
 helixconsultants.ch
-helixel.ch
 helixfiduciary.ch
 helixforte.ch
 helixhealth.ch
@@ -12190,6 +12190,8 @@ helvessalux.ch
 helvessence.ch
 helvessia.ch
 helvest.ch
+helvesta-capital.ch
+helvesta-holding.ch
 helvesta-immo.ch
 helvesta.ch
 helvestar.ch
@@ -13874,6 +13876,7 @@ helvotec-group.ch
 helvotec.ch
 helvox.ch
 helvpost.ch
+helvra.ch
 helvreg.ch
 helvsan.ch
 helvsat.ch
@@ -15922,7 +15925,6 @@ herbstbazar.ch
 herbstbier.ch
 herbstbluete.ch
 herbstblut.ch
-herbstbuscamp.ch
 herbstcamp.ch
 herbstcamppreles.ch
 herbstcup.ch
@@ -16691,6 +16693,7 @@ hermann-jost.ch
 hermann-knecht.ch
 hermann-kuhn.ch
 hermann-kysela.ch
+hermann-ladner.ch
 hermann-landmaschinen.ch
 hermann-laurent.ch
 hermann-lei.ch
@@ -20953,7 +20956,6 @@ heutemorgenimmer.ch
 heutenachrichten.ch
 heutenacht.ch
 heutenews.ch
-heuteni.ch
 heutenichtmorgen.ch
 heutenoch6.ch
 heuteonline.ch

@@ -344,6 +344,7 @@ mkevolution.ch
 mkey.ch
 mkf-treuhand-consulting.ch
 mkf.ch
+mkfabrik.ch
 mkfacades.ch
 mkfiduciaire.ch
 mkfilm.ch
@@ -579,7 +580,6 @@ mkreation.ch
 mkredit.ch
 mkreis.ch
 mkrenovations.ch
-mkrent.ch
 mkres.ch
 mkrieger.ch
 mkris.ch

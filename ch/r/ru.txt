@@ -355,7 +355,6 @@ rubicon-am.ch
 rubicon-commodities.ch
 rubicon-fluch.ch
 rubicon-it.ch
-rubicon-legal-investigations.ch
 rubicon-offroad.ch
 rubicon-strategies.ch
 rubicon-trail.ch
@@ -1926,6 +1925,7 @@ ruedihorat.ch
 ruedihug.ch
 ruedihulliger.ch
 ruedihunziker.ch
+ruedii.ch
 ruedijeker.ch
 ruedijosuran.ch
 ruedikeller.ch
@@ -3129,7 +3129,6 @@ rugby-development.ch
 rugby-fribourg.ch
 rugby-girls.ch
 rugby-gruyere.ch
-rugby-plus.ch
 rugby-sante.ch
 rugby-training-center.ch
 rugby-zh.ch

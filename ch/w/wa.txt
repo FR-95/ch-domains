@@ -4,6 +4,7 @@ wa-ar.ch
 wa-architekten.ch
 wa-architektur.ch
 wa-bba.ch
+wa-bi.ch
 wa-ca.ch
 wa-ch.ch
 wa-d.ch
@@ -2840,6 +2841,7 @@ wait-no-more.ch
 wait-queue.ch
 wait.ch
 wait2buy.ch
+waitack.ch
 waitads.ch
 waitapp.ch
 waitec.ch
@@ -4651,6 +4653,8 @@ waldtageslager.ch
 waldtagi-schosshalde.ch
 waldtagrorbis.ch
 waldtanken.ch
+waldtanz-bern.ch
+waldtanz.ch
 waldtara.ch
 waldtastisch.ch
 waldtauchen.ch
@@ -7034,7 +7038,6 @@ wamak.ch
 wamalt.ch
 wamama.ch
 wamanyi.ch
-wamarketing.ch
 wamaro.ch
 wamas.ch
 wamasch.ch
@@ -8013,7 +8016,6 @@ wandlogo.ch
 wandluken.ch
 wandlung.ch
 wandlungen.ch
-wandlungs-raum.ch
 wandlungskompass.ch
 wandlungskraft.ch
 wandlungskunst.ch
@@ -9369,7 +9371,6 @@ was-ist-eine-frau.ch
 was-ist-erp.ch
 was-ist-felix.ch
 was-ist-freundschaft.ch
-was-ist-geld.ch
 was-ist-gis.ch
 was-ist-islam.ch
 was-ist-liebe.ch
@@ -11834,7 +11835,6 @@ watchexclusivity.ch
 watchexpert.ch
 watchexplorer.ch
 watchexpress.ch
-watchez.ch
 watchfaces.ch
 watchfemme.ch
 watchfever.ch
@@ -12905,7 +12905,6 @@ wave88.ch
 waveag.ch
 waveagency.ch
 waveai.ch
-waveandrock.ch
 waveart.ch
 wavebarry.ch
 wavebase.ch
@@ -13039,7 +13038,6 @@ waves.ch
 wavesafe.ch
 wavesandtravel.ch
 wavescan.ch
-wavesdigital.ch
 wavesense.ch
 waveserver.ch
 waveset.ch

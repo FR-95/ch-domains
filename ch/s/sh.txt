@@ -4026,7 +4026,6 @@ shiftech.ch
 shifted.ch
 shiftee.ch
 shiftek.ch
-shifteprex.ch
 shifter.ch
 shifters.ch
 shiftfestival.ch
@@ -6456,6 +6455,7 @@ shopcordesalpes.ch
 shopcorner.ch
 shopcreator.ch
 shopcreators.ch
+shopcrudo.ch
 shopctrl.ch
 shopcurate.ch
 shopdaddy.ch

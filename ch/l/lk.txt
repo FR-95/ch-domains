@@ -255,6 +255,7 @@ lkwdiscount.ch
 lkwdriver.ch
 lkwfahrer.ch
 lkwfahrschule.ch
+lkwfahrschulebasel.ch
 lkwfahrschulezug.ch
 lkwflotte.ch
 lkwflotten.ch

@@ -4491,7 +4491,6 @@ ineeddesign.ch
 ineeded.ch
 ineedevent.ch
 ineedhelp.ch
-ineedmore.ch
 ineedswitzerland.ch
 ineedtext.ch
 ineedweed.ch
@@ -11872,7 +11871,6 @@ inneneinrichtung-basel.ch
 inneneinrichtung-hufnagel.ch
 inneneinrichtung-zuerich.ch
 inneneinrichtung.ch
-inneneinrichtungen-thalwil.ch
 inneneinrichtungen.ch
 innenentwicklung-umsetzen.ch
 innenfolie.ch
@@ -11967,6 +11965,7 @@ innenxrollo.ch
 innenzeit.ch
 inneo.ch
 inneotech.ch
+inner-architecture.ch
 inner-arosa.ch
 inner-balance.ch
 inner-care.ch
@@ -14276,6 +14275,7 @@ innsurtech.ch
 inntact.ch
 inntakt.ch
 inntal-systemenergie.ch
+inntelligenz.ch
 inntex.ch
 inntothewild.ch
 inntou.ch
@@ -15860,7 +15860,6 @@ inserate4u.ch
 inserate4you.ch
 inserateagentur.ch
 inserateanzeiger.ch
-inserateblatt.ch
 inserateclick.ch
 inseratedispo.ch
 inserateerfassen.ch
@@ -16100,6 +16099,7 @@ insideagri.ch
 insidealbisriederplatz.ch
 insideanswer.ch
 insideaut.ch
+insideauthority.ch
 insidebalance.ch
 insidebasel.ch
 insideberikon.ch
@@ -17004,7 +17004,6 @@ inspire-massotherapie.ch
 inspire-me.ch
 inspire-moi.ch
 inspire-now.ch
-inspire-physio.ch
 inspire-solutions.ch
 inspire-t.ch
 inspire-tea.ch
@@ -26419,10 +26418,6 @@ investwithconfidence.ch
 investworx.ch
 investx.ch
 investys.ch
-investzueri.ch
-investzuerich.ch
-investzuri.ch
-investzurich.ch
 invethos-ag.ch
 invethos.ch
 invetica.ch

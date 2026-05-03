@@ -583,6 +583,7 @@ cabinet-cachelin.ch
 cabinet-calmae.ch
 cabinet-castella.ch
 cabinet-ccr.ch
+cabinet-ceta.ch
 cabinet-chanachev-dabnishka.ch
 cabinet-charlot.ch
 cabinet-chateau.ch
@@ -3231,7 +3232,6 @@ cafe-leo.ch
 cafe-lerche.ch
 cafe-les-alpes.ch
 cafe-librairie.ch
-cafe-limon.ch
 cafe-line.ch
 cafe-lu.ch
 cafe-lumen.ch
@@ -4723,7 +4723,6 @@ cahenzlireich.ch
 cahier.ch
 cahierjardin.ch
 cahiers-clsl.ch
-cahiers-lili.ch
 cahiers-vaudois.ch
 cahiers.ch
 cahiersaufeu.ch
@@ -8739,6 +8738,7 @@ campcrvenazvezda.ch
 campcycle.ch
 campdavid-soccx.ch
 campdavid.ch
+campdealz.ch
 campdebase.ch
 campdefoot.ch
 campdegardiens.ch
@@ -8898,7 +8898,6 @@ camper4rent.ch
 camper4two.ch
 camper4x4.ch
 camper77.ch
-camper8555.ch
 campera.ch
 camperabo.ch
 camperaccessories.ch
@@ -13029,7 +13028,6 @@ cannellemania.ch
 cannellino-schadenmanagement.ch
 cannenbonati.ch
 cannerald.ch
-cannergrow.ch
 cannery-billard.ch
 cannes-accessoires.ch
 cannes-parachute.ch
@@ -14266,7 +14264,6 @@ capd.ch
 capda.ch
 capdagde.ch
 capdase.ch
-capday.ch
 capdb.ch
 capdconsulting.ch
 capdea.ch
@@ -14383,6 +14380,7 @@ capelo.ch
 capeloerp.ch
 capem.ch
 capemay.ch
+capemeridian.ch
 capemorris.ch
 capena.ch
 capenfance.ch
@@ -14852,7 +14850,6 @@ capitalregion.ch
 capitalrewards.ch
 capitalrh.ch
 capitalrisque-fr.ch
-capitalrock.ch
 capitals.ch
 capitalsantemag.ch
 capitalsecurity.ch
@@ -15092,6 +15089,7 @@ capoforte-ti.ch
 capofranchino.ch
 capogamestudio.ch
 capogreco.ch
+capogym.ch
 capoket.ch
 capol-consulting.ch
 capol-partner.ch
@@ -18746,6 +18744,7 @@ career-copilot.ch
 career-counsel.ch
 career-counseling.ch
 career-counselling.ch
+career-crafting.ch
 career-day.ch
 career-days.ch
 career-designer.ch
@@ -18820,6 +18819,7 @@ careerconsulting.ch
 careercounsel.ch
 careercounseling.ch
 careercounselling.ch
+careercrafting.ch
 careerday.ch
 careerdays.ch
 careerdesign.ch
@@ -19085,6 +19085,7 @@ carelucerne.ch
 carelvetia.ch
 carely.ch
 carelyapp.ch
+carelynk.ch
 carelyse.ch
 carelytica.ch
 carelytics.ch
@@ -19492,6 +19493,7 @@ carfahrer.ch
 carfahrlehrer.ch
 carfahrschule-intensiv.ch
 carfahrschule.ch
+carfahrschulebasel.ch
 carfahrschulezug.ch
 carfahrt.ch
 carfahrten-luzern.ch
@@ -25716,6 +25718,7 @@ carwheelshoeri.ch
 carwies.ch
 carwill-ag.ch
 carwill.ch
+carwin.ch
 carwing.ch
 carwiq.ch
 carwire.ch
@@ -33131,6 +33134,7 @@ cavale.ch
 cavalefilms.ch
 cavaleiras.ch
 cavaler-ai.ch
+cavaler-webdesign.ch
 cavaler.ch
 cavaleri.ch
 cavalericoiffure.ch

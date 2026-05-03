@@ -1072,6 +1072,7 @@ atelier-butterfly.ch
 atelier-by-chloe.ch
 atelier-c.ch
 atelier-ca.ch
+atelier-calvin.ch
 atelier-cambium.ch
 atelier-caminada.ch
 atelier-caminadashop.ch
@@ -1546,6 +1547,7 @@ atelier-herzblutstuecke.ch
 atelier-herzensglanz.ch
 atelier-herzenstag.ch
 atelier-herzenswunsch.ch
+atelier-herzenunikate.ch
 atelier-hess.ch
 atelier-hexenwerk.ch
 atelier-hilfiker.ch
@@ -3491,7 +3493,6 @@ atelierfarbundraum.ch
 atelierfarbzyt.ch
 atelierfatamorgana.ch
 atelierfausch.ch
-atelierfauve.ch
 atelierfaz.ch
 atelierfeelgood.ch
 atelierfehr.ch
@@ -4124,6 +4125,7 @@ ateliermontessori.ch
 ateliermontiel.ch
 ateliermopa.ch
 ateliermorach.ch
+ateliermorphose.ch
 ateliermosaic.ch
 ateliermosaik.ch
 ateliermosaique.ch
@@ -6034,7 +6036,6 @@ athleticpowerclub.ch
 athleticpubalgia.ch
 athletics-center.ch
 athletics-champions.ch
-athletics-plus.ch
 athletics.ch
 athleticshop.ch
 athleticsocrates.ch
@@ -7753,7 +7754,6 @@ atoutcorps.ch
 atouteallure.ch
 atoutelec.ch
 atoutevape.ch
-atoutevapeur.ch
 atoutfenetre.ch
 atoutflair.ch
 atoutforme.ch
@@ -7783,6 +7783,7 @@ atozed.ch
 atozenglish.ch
 atozet.ch
 atp-ag.ch
+atp-atelier.ch
 atp-autoteile.ch
 atp-deutsche-lieferadresse.ch
 atp-gmbh.ch

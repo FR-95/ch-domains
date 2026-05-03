@@ -401,6 +401,7 @@ soaringmeteo.ch
 soaringspirit.ch
 soaringwings.ch
 soarsavvy.ch
+soarsociety.ch
 soary.ch
 soas.ch
 soasaich.ch
@@ -1274,6 +1275,7 @@ socialinsurance.ch
 socialintelligence.ch
 socialintranet.ch
 socialinvest.ch
+socialiq.ch
 socialis.ch
 socialise.ch
 socialism.ch
@@ -1388,6 +1390,7 @@ socialmedia24.ch
 socialmediaadvertising.ch
 socialmediaagency.ch
 socialmediaagentur-bern.ch
+socialmediaagentur-schweiz.ch
 socialmediaagentur.ch
 socialmediaagenturzuerich.ch
 socialmediaanwalt.ch
@@ -1645,6 +1648,7 @@ socialtroubleshooter.ch
 socialtruck.ch
 socialtv.ch
 socialup.ch
+socialupyourbusiness.ch
 socialutions.ch
 socialvalais.ch
 socialvalue.ch
@@ -1890,6 +1894,7 @@ socinhaus.ch
 socinvest.ch
 socio-esthetique.ch
 socio-journal.ch
+socio-juridique.ch
 socio.ch
 socio5.ch
 socioadinterim.ch
@@ -3444,7 +3449,6 @@ softgunshop.ch
 softhale.ch
 softhelp.ch
 softhenge.ch
-softhentic.ch
 softherm.ch
 softhouse.ch
 softhub.ch
@@ -4891,6 +4895,7 @@ soiree-erotica.ch
 soiree-erotique.ch
 soiree-etudiante.ch
 soiree-feu.ch
+soiree-gay.ch
 soiree-graphique.ch
 soiree-hochzeitszeremonien.ch
 soiree-personnel.ch
@@ -4901,8 +4906,10 @@ soiree160anscrg.ch
 soireebale.ch
 soireebonbonrose.ch
 soireecasino.ch
+soireecelibataire.ch
 soireeclassique.ch
 soireeenquete.ch
+soireegay.ch
 soireeorientale.ch
 soireephilo.ch
 soireepuree.ch
@@ -6160,7 +6167,6 @@ solaranlage-camper.ch
 solaranlage-campingbus.ch
 solaranlage-direkt-vom-hersteller.ch
 solaranlage-garten.ch
-solaranlage-hueppi-dachbau.ch
 solaranlage-info.ch
 solaranlage-kaufen.ch
 solaranlage-kosten-vergleich.ch
@@ -8397,7 +8403,6 @@ soleilducoeur.ch
 soleiletlune.ch
 soleiletterre.ch
 soleilfatima.ch
-soleilglace.ch
 soleilgmbh.ch
 soleilhabitat.ch
 soleilhac.ch
@@ -11495,6 +11500,7 @@ somaticmusic.ch
 somaticpath.ch
 somaticpresence.ch
 somaticreading.ch
+somaticroots.ch
 somatics.ch
 somaticsound.ch
 somaticstories.ch
@@ -19435,7 +19441,6 @@ soundandlightservices.ch
 soundandmeditationcenter.ch
 soundandmusic.ch
 soundandsilence-film.ch
-soundandsilence.ch
 soundandstuff.ch
 soundandsummit.ch
 soundandwine.ch
@@ -20829,8 +20834,6 @@ sovoila.ch
 sovokalisten.ch
 sovolute.ch
 sovolution.ch
-sovonextrader.ch
-sovonextrader19.ch
 sovopt.ch
 sovos.ch
 sovosi.ch

@@ -1069,6 +1069,7 @@ eigene-cloud.ch
 eigene-domain.ch
 eigene-firma.ch
 eigene-homepage.ch
+eigene-leads.ch
 eigene-mitte-finden.ch
 eigene-praxis.ch
 eigene-scholle.ch
@@ -1611,7 +1612,6 @@ eightpro.ch
 eightrealestate.ch
 eightsenses.ch
 eightservices.ch
-eightseven.ch
 eightshore.ch
 eightshot.ch
 eightsleep.ch

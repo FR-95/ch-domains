@@ -20,6 +20,7 @@ m14.ch
 m140.ch
 m140i.ch
 m14braeu.ch
+m14d.ch
 m14home.ch
 m15.ch
 m157-secure.ch

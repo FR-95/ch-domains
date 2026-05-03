@@ -1342,6 +1342,7 @@ classesciences.ch
 classesnumeriques.ch
 classespdv.ch
 classeur-federal.ch
+classeur.ch
 classeurfederal.ch
 classeurorange.ch
 classeurs.ch
@@ -2055,7 +2056,6 @@ claudenenniger.ch
 claudenicollier.ch
 claudenobs.ch
 claudeogiz.ch
-claudepauli.ch
 claudephoto.ch
 claudephotos.ch
 claudepicasso.ch
@@ -5119,6 +5119,7 @@ clefs-drac3.ch
 clefs-du-savoir.ch
 clefs.ch
 clefsavenir.ch
+clefsdelavenir.ch
 clefsdelys.ch
 cleft-kinder-hilfe-schweiz.ch
 cleft-kinder-hilfe.ch
@@ -5340,7 +5341,6 @@ cleninholz.ch
 cleninindustryservices.ch
 cleninmotors.ch
 clenio.ch
-clenix.ch
 clennon.ch
 clenory.ch
 clenox.ch
@@ -5506,6 +5506,7 @@ clescornavin.ch
 clesculture.ch
 clesdecoute.ch
 clesdefamille.ch
+clesdelavenir.ch
 clesdesecours.ch
 clesdesols.ch
 clesduclimat.ch
@@ -10696,6 +10697,7 @@ club-de-com-valais.ch
 club-de-ginebra.ch
 club-de-jeux.ch
 club-de-poker-en-ligne.ch
+club-de-rencontre.ch
 club-de-test.ch
 club-decideur.ch
 club-decideurs.ch
@@ -10766,6 +10768,7 @@ club-francophone-aarau.ch
 club-freelance.ch
 club-gallery.ch
 club-gate.ch
+club-gay.ch
 club-geheimtip.ch
 club-geheimtipp.ch
 club-globe.ch
@@ -11445,6 +11448,7 @@ clubgada.ch
 clubgallery.ch
 clubgangsters.ch
 clubgartenunterhalt.ch
+clubgay.ch
 clubgeheimtip.ch
 clubgeheimtipp.ch
 clubgetfit.ch

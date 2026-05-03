@@ -951,7 +951,6 @@ dns2.null0.ch
 dns2.nussbaumer-haus.ch
 dns2.nussbaumer-holzbau.ch
 dns2.olivehemmer.ch
-dns2.omnis.ch
 dns2.onax.ch
 dns2.opentasdemo.ch
 dns2.opten.ch

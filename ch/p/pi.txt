@@ -1902,6 +1902,7 @@ picolat.ch
 picolaze.ch
 picole-cantonale.ch
 picole.ch
+picolenationale.ch
 picolife.ch
 picolini.ch
 picolino.ch
@@ -2451,7 +2452,6 @@ pieds-a-nu.ch
 pieds-douloureux.ch
 pieds-nus.ch
 pieds-plumes.ch
-pieds-sains.ch
 pieds-sur-terre.ch
 pieds.ch
 piedsaterre.ch
@@ -5120,6 +5120,7 @@ pilz-wiki.ch
 pilz-zucht.ch
 pilz.ch
 pilzabo.ch
+pilzapp.ch
 pilzbekaempfung.ch
 pilzberatung.ch
 pilzbestimmung.ch
@@ -6229,6 +6230,7 @@ pink-sugar.ch
 pink-tank.ch
 pink-taxi.ch
 pink-tonstudio.ch
+pink-vital.ch
 pink-x-chaos.ch
 pink-x.ch
 pink-yeti.ch
@@ -6531,6 +6533,7 @@ pinkus.ch
 pinkusovi.ch
 pinkvanille.ch
 pinkviolett.ch
+pinkvital.ch
 pinkwalnut.ch
 pinkwasser-design.ch
 pinkwasser.ch
@@ -7512,7 +7515,6 @@ piquero.ch
 piquest.ch
 piquet-karten.ch
 piquet.ch
-piquetcoupe.ch
 piquets.ch
 piquette.ch
 piqueundbluescht.ch
@@ -9085,7 +9087,6 @@ piuskaufmann.ch
 piusklaus.ch
 piuskneubuehler.ch
 piusknuesel.ch
-piuskobler.ch
 piuslocher.ch
 piusmorger.ch
 piusnadlerag.ch
@@ -9740,7 +9741,6 @@ pixelport.ch
 pixelpost.ch
 pixelpr8.ch
 pixelpracht.ch
-pixelpresence.ch
 pixelpress.ch
 pixelpresse.ch
 pixelprint.ch
@@ -12519,6 +12519,7 @@ pizzocchero.ch
 pizzocentrale.ch
 pizzocheri.ch
 pizzoferrato.ch
+pizzoforno.ch
 pizzola.ch
 pizzolante.ch
 pizzolato.ch

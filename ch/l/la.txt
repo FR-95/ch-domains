@@ -4976,6 +4976,7 @@ lachart.ch
 lachasa.ch
 lachasseralienne.ch
 lachat-bat.ch
+lachat-beratungen.ch
 lachat-hypnose.ch
 lachat-immobilier.ch
 lachat-jardins.ch
@@ -6727,7 +6728,6 @@ ladilainspiriere.ch
 ladili.ch
 ladiligence.ch
 ladimmo.ch
-ladin.ch
 ladina-art.ch
 ladina-fey.ch
 ladina-gredig.ch
@@ -15392,6 +15392,7 @@ lang-etter-druckatelier.ch
 lang-events.ch
 lang-family.ch
 lang-film.ch
+lang-fit.ch
 lang-forst-garten.ch
 lang-frist.ch
 lang-fristig.ch
@@ -21906,6 +21907,7 @@ lastwagenfahrschule-thun.ch
 lastwagenfahrschule-zentralschweiz.ch
 lastwagenfahrschule.ch
 lastwagenfahrschuleaargau.ch
+lastwagenfahrschulebasel.ch
 lastwagenfahrschuleschweiz.ch
 lastwagenfahrschuleschwyz.ch
 lastwagenfahrschulethun.ch
@@ -22795,6 +22797,7 @@ latindancing.ch
 latindayparty.ch
 latindaz.ch
 latindesign.ch
+latindj.ch
 latinelectrico.ch
 latinepassion.ch
 latineros.ch
@@ -25181,7 +25184,6 @@ laurina-fashion.ch
 laurina-mode.ch
 laurina.ch
 laurinafaessler.ch
-laurinas.ch
 laurinawaltersperger.ch
 laurinberli.ch
 laurinbernet.ch
@@ -26385,7 +26387,6 @@ lavendeltussi.ch
 lavendelwerk.ch
 lavender-thaimassage.ch
 lavender.ch
-lavenderblue.ch
 lavendernagelstudio.ch
 lavendery.ch
 lavendla.ch
@@ -26605,7 +26606,6 @@ lavieencourt.ch
 lavieendouceur.ch
 lavieenfors.ch
 lavieenjaune.ch
-lavieenjeune.ch
 lavieenlive.ch
 lavieenluxe.ch
 lavieenmieux.ch
@@ -27880,7 +27880,6 @@ lazarusnaturals.ch
 lazarusponseti.ch
 lazarustrust.ch
 lazarusweb.ch
-lazatec.ch
 lazayoga.ch
 lazazzera.ch
 lazboard.ch

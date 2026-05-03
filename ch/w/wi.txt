@@ -4160,6 +4160,7 @@ wildschweizer.ch
 wildsecrets.ch
 wildsee.ch
 wildsenses.ch
+wildsensoric.ch
 wildsession.ch
 wildshirts.ch
 wildshop.ch
@@ -4326,7 +4327,6 @@ wildundfrisch.ch
 wildundgut.ch
 wildundheil.ch
 wildundheilig.ch
-wildundholz.ch
 wildundkraut.ch
 wildundkrautig.ch
 wildundlebendig.ch
@@ -5700,7 +5700,6 @@ wimmer-mietpark.ch
 wimmer-wohnkollektionen.ch
 wimmer.ch
 wimmerfamilyoffice.ch
-wimmertreasuryapps.ch
 wimmingster.ch
 wimmis-beck.ch
 wimmis-tourismus.ch
@@ -8597,6 +8596,7 @@ winsed.ch
 winsend.ch
 winservice.ch
 winservices.ch
+winset.ch
 winshape.ch
 winshark-casino.ch
 winshark-ch.ch

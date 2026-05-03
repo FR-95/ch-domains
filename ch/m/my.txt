@@ -1989,10 +1989,8 @@ my1.ch
 my10.ch
 my105.ch
 my105deejay.ch
-my105dj.ch
 my105djnight.ch
 my105djradio.ch
-my105djstation.ch
 my105radio.ch
 my10min.ch
 my11.ch
@@ -3467,6 +3465,7 @@ mycashback.ch
 mycashbacks.ch
 mycashcomm.ch
 mycashless.ch
+mycashsystem.ch
 mycashtree.ch
 mycasiino.ch
 mycasineumclub.ch
@@ -4055,6 +4054,8 @@ mycosmo.ch
 mycosmos.ch
 mycosolution.ch
 mycosolutions.ch
+mycosplaywig.ch
+mycosplaywigs.ch
 mycosta.ch
 mycostaclub.ch
 mycostore.ch
@@ -5817,6 +5818,7 @@ mygreenenergy.ch
 mygreenergy.ch
 mygreenfee.ch
 mygreengarden.ch
+mygreenglass.ch
 mygreenhome.ch
 mygreenit.ch
 mygreenjob.ch
@@ -6016,7 +6018,6 @@ myhealth-aesthetics.ch
 myhealth-congress.ch
 myhealth-kongress.ch
 myhealth-partner.ch
-myhealth-shop.ch
 myhealth.ch
 myhealth360.ch
 myhealth365.ch
@@ -6040,7 +6041,6 @@ myhealthpartner.ch
 myhealthplatform.ch
 myhealthproject.ch
 myhealthsafe.ch
-myhealthshop.ch
 myhealthswitzerland.ch
 myhealthvoice.ch
 myhealthyandsnacky.ch
@@ -6634,6 +6634,7 @@ myjoacasino.ch
 myjob-homeoffice.ch
 myjob-schweiz.ch
 myjob.ch
+myjob24.ch
 myjobag.ch
 myjobby.ch
 myjobcoach.ch
@@ -7020,6 +7021,7 @@ mylasthour.ch
 mylastsorrow.ch
 mylastudios.ch
 mylastwill.ch
+mylastwish.ch
 mylauener.ch
 mylaundry.ch
 mylaurues.ch

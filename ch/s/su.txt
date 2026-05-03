@@ -8163,12 +8163,12 @@ suonen.ch
 suonenimwallis.ch
 suonenmuseum.ch
 suonh.ch
+suonialbuio.ch
 suoniticino.ch
 suono-acoustics.ch
 suono.ch
 suonoacoustics.ch
 suonoelaser.ch
-suonoesilenzio.ch
 suonospirito.ch
 suop.ch
 suorantabois.ch
@@ -10523,6 +10523,7 @@ support-informatique-la-chaux-de-fonds.ch
 support-informatique-lausanne.ch
 support-informatique-le-locle.ch
 support-informatique-neuchatel.ch
+support-informatique-yverdon.ch
 support-informatique.ch
 support-informatique963.ch
 support-ing.ch
@@ -12005,6 +12006,8 @@ sursee-functional-fitness.ch
 sursee-immo.ch
 sursee-karateschule.ch
 sursee-kinesiologie.ch
+sursee-massage.ch
+sursee-massagen.ch
 sursee-mittelland.ch
 sursee-oldies.ch
 sursee-rockt.ch
@@ -12308,7 +12311,6 @@ survmat.ch
 survodutide.ch
 survojo.ch
 survol.ch
-survotrearbreperche.ch
 surwa.ch
 surwave.ch
 sury.ch
@@ -12397,6 +12399,7 @@ susalens.ch
 susalex.ch
 susalind.ch
 susan-andy.ch
+susan-bircher.ch
 susan-danuser.ch
 susan-falck.ch
 susan-gschenkbudigg.ch

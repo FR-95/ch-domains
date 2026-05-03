@@ -25,6 +25,7 @@ fe-metalle.ch
 fe-mont.ch
 fe-motion.ch
 fe-pa.ch
+fe-poterie.ch
 fe-reinigungsservice.ch
 fe-services.ch
 fe-smarthome.ch
@@ -4961,6 +4962,7 @@ femme-de-valeur.ch
 femme-fatale.ch
 femme-genevoise.ch
 femme-globus.ch
+femme-infidelle.ch
 femme-kosmetik.ch
 femme-menage-vaud.ch
 femme-menage.ch

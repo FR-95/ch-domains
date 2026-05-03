@@ -867,7 +867,6 @@ evaoertli.ch
 evaolibet.ch
 evaonstage.ch
 evaossent.ch
-evapco.ch
 evape.ch
 evapetschen.ch
 evapiech.ch
@@ -3199,6 +3198,7 @@ eventoplan.ch
 eventoplatinum.ch
 eventopolis.ch
 eventopremium.ch
+eventops.ch
 eventoptik.ch
 eventor.ch
 eventora.ch
@@ -5458,6 +5458,7 @@ evolti.ch
 evoltix.ch
 evoltra.ch
 evoltys.ch
+evolu-one.ch
 evolu.ch
 evolua.ch
 evolubois-design.ch
@@ -5882,6 +5883,7 @@ evory.ch
 evos.ch
 evosa.ch
 evosan.ch
+evosbio.ch
 evoschweiz.ch
 evosciences.ch
 evoscore.ch
@@ -5997,6 +5999,7 @@ evox-daily.ch
 evox-health.ch
 evox.ch
 evoxdaily.ch
+evoxhealth.ch
 evoy.ch
 evoya.ch
 evoyaai.ch

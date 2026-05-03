@@ -41,6 +41,7 @@ fr-haus.ch
 fr-help.ch
 fr-immo.ch
 fr-immobilien.ch
+fr-immobilier.ch
 fr-it.ch
 fr-jobworld.ch
 fr-jonen.ch
@@ -2198,6 +2199,7 @@ frankclean.ch
 frankconsultants.ch
 frankconsulting.ch
 frankdandy.ch
+frankderfreie.ch
 frankdesign.ch
 frankdigital.ch
 frankdigitalcrafting.ch
@@ -2726,6 +2728,7 @@ franzdietri.ch
 franzdodel.ch
 franze-gipser.ch
 franze-reinigung.ch
+franze.ch
 franzebner.ch
 franzee.ch
 franzegle.ch
@@ -4451,7 +4454,6 @@ frauenheilkunde-baar.ch
 frauenheilkunde-baden.ch
 frauenheilkunde-schwyz.ch
 frauenheilkunde-sg.ch
-frauenheilkunde-tcm.ch
 frauenheilkunde.ch
 frauenheilkundeaktuell.ch
 frauenheilkundesg.ch
@@ -5741,7 +5743,6 @@ fred-h.ch
 fred-hotel.ch
 fred-hotels.ch
 fred-licci.ch
-fred-martignier.ch
 fred-massage-medical.ch
 fred-optiker.ch
 fred-services.ch
@@ -8795,6 +8796,7 @@ freieneckpizza.ch
 freienergie.ch
 freienhof-hellsau.ch
 freienhof.ch
+freienhofgasse.ch
 freienmatt-aeugst.ch
 freienmatt.ch
 freienmutes.ch
@@ -11652,7 +11654,6 @@ freunde-von-tosamaganga.ch
 freunde-waage-muttenz.ch
 freunde-wasserschloss.ch
 freunde.ch
-freunde2011.ch
 freunde3bier.ch
 freundealbum.ch
 freundealtermusik.ch
@@ -13749,6 +13750,7 @@ friendlyworkspace-selfassessment.ch
 friendlyworkspace.ch
 friendlyworkspaceoffice.ch
 friendlyworld.ch
+friendmts.ch
 friendo.ch
 friendofdrinker.ch
 friendofmine.ch
@@ -17533,6 +17535,7 @@ fruityads.ch
 fruitybeauty.ch
 fruitybooty.ch
 fruitybox.ch
+fruitycutie.ch
 fruityline.ch
 fruityloops.ch
 fruityman.ch
@@ -17883,3 +17886,4 @@ frz-networking.ch
 frz.ch
 frzh.ch
 frzmassage.ch
+frzn.ch

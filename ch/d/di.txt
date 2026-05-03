@@ -653,15 +653,12 @@ diagnosiprenatale.ch
 diagnosis.ch
 diagnosisverlag.ch
 diagnostic-amiante.ch
-diagnostic-batiment.ch
-diagnostic-construction.ch
 diagnostic-du-sein.ch
 diagnostic-expert-immobilier.ch
 diagnostic-freinage.ch
 diagnostic-humidite.ch
 diagnostic-ia.ch
 diagnostic-imaging.ch
-diagnostic-immeuble.ch
 diagnostic-network.ch
 diagnostic-plomb.ch
 diagnostic-prenatal.ch
@@ -2844,6 +2841,7 @@ dictation.ch
 dictator.ch
 dictatoralert.ch
 dictee.ch
+dicteepourtous.ch
 dictime.ch
 diction.ch
 dictionary.ch
@@ -3445,7 +3443,6 @@ die-bienenwerkstatt.ch
 die-biersommeliere.ch
 die-bildbeschaffer.ch
 die-bildung.ch
-die-bildwerkstatt.ch
 die-bim-schule.ch
 die-biographin.ch
 die-blaue-friedensherde.ch
@@ -6215,6 +6212,7 @@ diefotobox.ch
 diefotobude.ch
 diefotofactory.ch
 diefotogenen.ch
+diefotografen.ch
 diefotografie.ch
 diefotografin.ch
 diefotokiste.ch
@@ -7552,7 +7550,6 @@ diemittezh.ch
 diemittezufikon.ch
 diemlaw.ch
 diemme.ch
-diemmedi.ch
 diemo.ch
 diemobielenhundetrainer.ch
 diemobilefusspflege.ch
@@ -14502,7 +14499,6 @@ digitalstack.ch
 digitalstadt.ch
 digitalstaff.ch
 digitalstars.ch
-digitalstart.ch
 digitalstation.ch
 digitalsteiner.ch
 digitalstellen.ch
@@ -14780,8 +14776,10 @@ digitalwomansucces.ch
 digitalwomen.ch
 digitalwork.ch
 digitalworkbench.ch
+digitalworker.ch
 digitalworkflow.ch
 digitalworkflows.ch
+digitalworkforce.ch
 digitalworking.ch
 digitalworkingcoach.ch
 digitalworkplace.ch
@@ -16706,7 +16704,6 @@ dinictis.ch
 dinidastan.ch
 dinidaten.ch
 dinideppdocs.ch
-dinidisco.ch
 dinieren.ch
 dinierer.ch
 dinifahrlehreri.ch
@@ -22110,7 +22107,6 @@ dizal.ch
 dizalpharma.ch
 dizani.ch
 dizao.ch
-dizayner.ch
 dizco.ch
 dizdar-haustechnik.ch
 dizdar.ch

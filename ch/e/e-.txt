@@ -1131,7 +1131,6 @@ e-flyer.ch
 e-flyers.ch
 e-fmh.ch
 e-fmp.ch
-e-foil-riviera.ch
 e-foil.ch
 e-foilen.ch
 e-foils.ch
@@ -2224,7 +2223,6 @@ e-novinfodev.ch
 e-novinfosmtp.ch
 e-novinfoup.ch
 e-novision.ch
-e-novo.ch
 e-novrem.ch
 e-novsecure.ch
 e-novum.ch
@@ -2748,7 +2746,6 @@ e-scooter-pannenhilfe.ch
 e-scooter-shop.ch
 e-scooter-sion.ch
 e-scooter.ch
-e-scooterparts.ch
 e-scooters.ch
 e-scooterschweiz.ch
 e-scootertest.ch

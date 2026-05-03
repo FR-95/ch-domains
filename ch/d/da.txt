@@ -5054,7 +5054,6 @@ dance-news.ch
 dance-partner.ch
 dance-passion.ch
 dance-performance.ch
-dance-plus.ch
 dance-qweenz.ch
 dance-sa360.ch
 dance-saloon.ch
@@ -5239,6 +5238,7 @@ dancelight.ch
 dancelights.ch
 dancelightstudios.ch
 dancelikeanindian.ch
+dancelodge.ch
 danceloft.ch
 danceloftcalifornia.ch
 dancelounge.ch
@@ -5360,6 +5360,7 @@ dancetower.ch
 dancetown.ch
 dancetownadmin.ch
 dancetownadminneo.ch
+dancetracker.ch
 dancetrail.ch
 dancetransition.ch
 dancetray.ch
@@ -10791,7 +10792,6 @@ das-festival.ch
 das-filmteam.ch
 das-fleisch.ch
 das-fm.ch
-das-folienteam.ch
 das-formularwesen.ch
 das-forum.ch
 das-fotoshooting.ch
@@ -15652,7 +15652,6 @@ daven.ch
 davendeli.ch
 davengo.ch
 daveninaexploration.ch
-davenportgmbh.ch
 davent.ch
 davephillips.ch
 daver.ch
@@ -16290,7 +16289,6 @@ davidherz.ch
 davidherzig.ch
 davidherzog.ch
 davidhess.ch
-davidhiltbrunner.ch
 davidhodgetts.ch
 davidhofer.ch
 davidhofmann.ch
@@ -16736,6 +16734,7 @@ davidweisser.ch
 davidwenger.ch
 davidwerlen.ch
 davidwerthmueller.ch
+davidwidmer.ch
 davidwiederkehr.ch
 davidwiedmer.ch
 davidwild.ch
@@ -17808,6 +17807,7 @@ dazdaf.ch
 dazdehub.ch
 dazdruckportal.ch
 daze.ch
+dazelets.ch
 dazero.ch
 dazi-online.ch
 dazi.ch

@@ -2123,6 +2123,7 @@ leadpicker.ch
 leadpilot.ch
 leadpipe.ch
 leadplan.ch
+leadplug.ch
 leadplus.ch
 leadpoint.ch
 leadpool.ch
@@ -2177,6 +2178,7 @@ leadscout24.ch
 leadsear.ch
 leadsempire.ch
 leadsenseacademy.ch
+leadservice.ch
 leadsfactory-pro.ch
 leadsfactory.ch
 leadsflow.ch
@@ -3689,7 +3691,6 @@ leasingfirma.ch
 leasingforum.ch
 leasingforyou.ch
 leasingfrei.ch
-leasingfreund.ch
 leasinggate24.ch
 leasinggesellschaft.ch
 leasinggesellschaften.ch
@@ -12220,6 +12221,7 @@ leidenschaftlichkreativ.ch
 leidenschaftmensch.ch
 leidenschaftonline.ch
 leidenschaftwanderreiten.ch
+leidensdruck.ch
 leidenshirt.ch
 leider-geil.ch
 leider.ch
@@ -17020,7 +17022,6 @@ leonardodavinci.ch
 leonardodawinti.ch
 leonardodesign.ch
 leonardodicaprio.ch
-leonardoferrari.ch
 leonardogalli.ch
 leonardogatti.ch
 leonardograu.ch
@@ -21293,7 +21294,6 @@ les-parkings.ch
 les-parquets.ch
 les-passerelles.ch
 les-pates.ch
-les-patios.ch
 les-patroniers-gradeurs.ch
 les-patronniers-gradeurs.ch
 les-paul.ch
@@ -22065,7 +22065,6 @@ lesatyre.ch
 lesaubes.ch
 lesauchelets.ch
 lesaucier.ch
-lesaudacieuses.ch
 lesaudacieusesbylena.ch
 lesaudacieux.ch
 lesaugustines.ch
@@ -22573,6 +22572,7 @@ lesclassiquesdemathod.ch
 lesclees.ch
 lesclees24.ch
 lesclefsdechezmoi.ch
+lesclefsdelavenir.ch
 lesclefsdor.ch
 lesclefsdorticino.ch
 lesclefsdorzurich.ch
@@ -22580,6 +22580,7 @@ lesclefsducorps.ch
 lesclement.ch
 lesclerc.ch
 lesclesdelaliberte.ch
+lesclesdelavenir.ch
 lesclesdessommets.ch
 lesclesdevolene.ch
 lesclesdevotreequilibre.ch
@@ -24100,7 +24101,6 @@ lesmimosas.ch
 lesminardisesen.ch
 lesminerauxalpins.ch
 lesminijusticiers.ch
-lesminimales.ch
 lesminis-bosset.ch
 lesminismusichall.ch
 lesminiwatts.ch
@@ -25108,7 +25108,6 @@ lesspaid.ch
 lesspasmesculturels.ch
 lesspecialistesdelareparation.ch
 lesspecialitesdesandra.ch
-lesspectaclesdesremparts.ch
 lesspills.ch
 lessplastic.ch
 lessports.ch

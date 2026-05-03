@@ -1633,7 +1633,6 @@ addyc.ch
 addypac.ch
 addys-special-parts.ch
 addzemp.ch
-ade-adieu-addio.ch
 ade-emploi.ch
 ade-group-sa.ch
 ade-group.ch
@@ -3971,6 +3970,7 @@ admin-go.ch
 admin-gob.ch
 admin-gruppe.ch
 admin-hausconcept.ch
+admin-id.ch
 admin-immoservice.ch
 admin-immoservices.ch
 admin-info.ch
@@ -4151,6 +4151,7 @@ adminhub.ch
 admini-app.ch
 admini.ch
 adminicula.ch
+adminid.ch
 adminify.ch
 adminigestion-service.ch
 adminima.ch

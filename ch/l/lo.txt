@@ -55,7 +55,6 @@ lo-zurich.ch
 lo0.ch
 lo1.ch
 lo10.ch
-lo100.ch
 lo2.ch
 lo31.ch
 lo4.ch
@@ -517,6 +516,7 @@ local-boulder.ch
 local-business-network.ch
 local-business-view.ch
 local-businessview.ch
+local-cap.ch
 local-casa.ch
 local-cities.ch
 local-citis.ch
@@ -706,6 +706,7 @@ localbus.ch
 localbusiness.ch
 localbusinessboost.ch
 localbuzz.ch
+localcap.ch
 localcart.ch
 localcasa.ch
 localcatsitter.ch
@@ -12113,7 +12114,6 @@ lovedeals.ch
 lovedesign.ch
 lovedesignweek.ch
 lovedessous.ch
-lovedetoi.ch
 lovedial.ch
 lovedive.ch
 lovedivingtheworld.ch

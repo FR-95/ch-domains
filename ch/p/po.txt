@@ -8314,6 +8314,7 @@ poppers-kurier.ch
 poppers-lord.ch
 poppers-man.ch
 poppers-master.ch
+poppers-megastore.ch
 poppers-online.ch
 poppers-planet.ch
 poppers-rapide.ch
@@ -8321,11 +8322,14 @@ poppers-store.ch
 poppers-tom.ch
 poppers-zone.ch
 poppers.ch
+poppers123.ch
+poppers24.ch
 poppersdiscount.ch
 poppersfritz.ch
 poppersheld.ch
 popperskurier.ch
 poppersmaster.ch
+poppersmegastore.ch
 poppersonline.ch
 popperspascher.ch
 poppersplanet.ch
@@ -12679,6 +12683,7 @@ poulet22lespecialistedupouletfrit.ch
 pouletbar.ch
 pouletburg.ch
 pouletcelio.ch
+pouletdebresse.ch
 pouletdejussy.ch
 pouletdelaferme.ch
 pouletdujura.ch

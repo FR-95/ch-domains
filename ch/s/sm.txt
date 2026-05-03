@@ -77,6 +77,7 @@ sm-messebaudesign.ch
 sm-mg.ch
 sm-mitgliedschaft.ch
 sm-mobiltechnik.ch
+sm-montageservice.ch
 sm-notaire.ch
 sm-nutritionnordicpropulsing.ch
 sm-p.ch
@@ -1918,7 +1919,6 @@ smartcare365.ch
 smartcareapp.ch
 smartcareplans.ch
 smartcareregio.ch
-smartcaresolution.ch
 smartcaresuisse.ch
 smartcargo.ch
 smartcars.ch
@@ -4419,6 +4419,7 @@ smartwrite.ch
 smartx.ch
 smartxchange.ch
 smartxecution.ch
+smartxglass.ch
 smartxhome.ch
 smartxme.ch
 smartxnext.ch

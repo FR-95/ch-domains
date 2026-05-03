@@ -91,7 +91,6 @@ ap-p.ch
 ap-pa.ch
 ap-pahud.ch
 ap-patiententransport.ch
-ap-peinture.ch
 ap-periointegration.ch
 ap-personal.ch
 ap-personaltraining.ch
@@ -5462,6 +5461,7 @@ appleyard.ch
 applezero.ch
 appli--tech.ch
 appli-form.ch
+appli-pute.ch
 appli-tec.ch
 appli-tech.ch
 appli.ch
@@ -5701,6 +5701,7 @@ appng.ch
 appngo.ch
 appnity.ch
 appnitycrm.ch
+appnityhotel.ch
 appnix.ch
 appnology.ch
 appnovation.ch
@@ -5895,6 +5896,7 @@ apprimus.ch
 appris.ch
 appristo.ch
 appriver.ch
+apprivo.ch
 apprivoisersonstress.ch
 appro.ch
 appro7x24.ch

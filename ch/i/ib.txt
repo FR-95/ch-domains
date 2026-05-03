@@ -84,6 +84,7 @@ ib00.ch
 ib1805.ch
 ib2.ch
 ib24.ch
+ib3-tools.ch
 ib3.ch
 ib4.ch
 ib4u.ch

@@ -540,6 +540,7 @@ quali-night.ch
 quali-park.ch
 quali-pick.ch
 quali-placement.ch
+quali-quiz.ch
 quali-roll.ch
 quali-senso.ch
 quali-shop.ch
@@ -802,6 +803,7 @@ qualiprom.ch
 qualiproof.ch
 qualipur.ch
 qualiquest.ch
+qualiquiz.ch
 qualireach.ch
 qualireader.ch
 qualiregio.ch
@@ -3513,6 +3515,7 @@ quellwasser.ch
 quellweich.ch
 quellwell.ch
 quellwelten.ch
+quellwerk.ch
 quellwolken.ch
 quellwulche.ch
 quellzement.ch
@@ -4063,6 +4066,7 @@ quick-id.ch
 quick-immo.ch
 quick-jobs.ch
 quick-kurier.ch
+quick-laser.ch
 quick-learning.ch
 quick-led.ch
 quick-light.ch
@@ -5290,6 +5294,7 @@ quiztrap.ch
 quiztreff.ch
 quizueberalles.ch
 quizug.ch
+quizwheel.ch
 quizwhiz.ch
 quizworld.ch
 quizz-boom.ch

@@ -392,6 +392,7 @@ peakandbyte.ch
 peakandpeople.ch
 peakandpetals.ch
 peakandpine.ch
+peakandshells.ch
 peakart.ch
 peakathletics-interlaken.ch
 peakathletics.ch
@@ -542,6 +543,7 @@ peaknchill.ch
 peaknetworks.ch
 peaknine.ch
 peaknow.ch
+peaknshells.ch
 peaknutrition.ch
 peaknx.ch
 peakofhealth.ch
@@ -597,7 +599,6 @@ peakpro.ch
 peakprocess.ch
 peakproconsulting.ch
 peakproduct.ch
-peakproductions.ch
 peakprojects.ch
 peakpromote.ch
 peakpropertiesag.ch
@@ -6445,7 +6446,6 @@ perfectfry.ch
 perfectgift.ch
 perfectgifts.ch
 perfectgiftstore.ch
-perfectgirl.ch
 perfectgreen.ch
 perfectgrow.ch
 perfectgym.ch
@@ -7643,6 +7643,7 @@ perlasdelcaribe.ch
 perlaska.ch
 perlaskafc.ch
 perlastone.ch
+perlasuisse.ch
 perlasvizzera.ch
 perlaton.ch
 perlator.ch
@@ -14942,6 +14943,7 @@ petsittingvogelsang.ch
 petsittingzueri.ch
 petslocarno.ch
 petslocate.ch
+petslot.ch
 petslounge.ch
 petslove.ch
 petslux.ch

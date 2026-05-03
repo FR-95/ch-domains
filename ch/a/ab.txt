@@ -1634,6 +1634,7 @@ abc-steinen.ch
 abc-store.ch
 abc-studios.ch
 abc-swiss-shop.ch
+abc-swiss.ch
 abc-taxi-buelach.ch
 abc-taxi-kurier.ch
 abc-taxi-transport-chauffeur.ch
@@ -4440,7 +4441,6 @@ abofallen.ch
 aboflex.ch
 abofoto.ch
 abofrei.ch
-abofreund.ch
 abofrosch.ch
 abofuchs.ch
 abofux.ch
@@ -5365,8 +5365,6 @@ abs-factoring.ch
 abs-fenster.ch
 abs-ge.ch
 abs-gmbh.ch
-abs-group.ch
-abs-groupe.ch
 abs-immobilie.ch
 abs-it.ch
 abs-law.ch
@@ -5689,8 +5687,6 @@ absfactoring.ch
 absfiduciaire.ch
 absg.ch
 absgmbh.ch
-absgroup.ch
-absgroupe.ch
 absh.ch
 abshake.ch
 abshockey.ch
@@ -6705,7 +6701,6 @@ abwillisau.ch
 abwl.ch
 abwmotorsport.ch
 abworb.ch
-abworld.ch
 abwrackboerse.ch
 abws.ch
 abwsa.ch

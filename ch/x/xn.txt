@@ -1101,7 +1101,6 @@ xn--altbron24-t9a.ch
 xn--altdeutsche-schferhunde-vom-reusstal-fbd.ch
 xn--altdorf-7wa.ch
 xn--alte-chsi-12a.ch
-xn--alte-grtnerei-gfb.ch
 xn--alte-mbel-57a.ch
 xn--alte-rbberg-q8a.ch
 xn--alte-sge-5za.ch
@@ -4715,9 +4714,6 @@ xn--bestubung-y2a.ch
 xn--bestubungsimker-3kb.ch
 xn--besucherbegrssung-e3b.ch
 xn--besucherfhrungssysteme-0lc.ch
-xn--besucherparkplatzlsung-cic.ch
-xn--besucherparkplatzlsungen-2oc.ch
-xn--besucherparkpltze-3qb.ch
 xn--besuchsdienst-mhlin-46b.ch
 xn--besufnis-2za.ch
 xn--beteiligungsbrse-ywb.ch
@@ -18571,6 +18567,7 @@ xn--fwmnchenstein-yob.ch
 xn--fwv-bttikon-xhb.ch
 xn--fwv-mhleberg-hlb.ch
 xn--fx-fka.ch
+xn--fxeler-3ya.ch
 xn--fxli-0ra.ch
 xn--fyrkche-q2a.ch
 xn--fyyrzungschwrt-dibe.ch
@@ -23089,7 +23086,6 @@ xn--gtti-motoren-4ib.ch
 xn--gtti-tag-n4a.ch
 xn--gttibaum-n4a.ch
 xn--gttifritz-07a.ch
-xn--gttin-jua.ch
 xn--gttingen-65a.ch
 xn--gttingen24-9db.ch
 xn--gttinger-65a.ch
@@ -23279,6 +23275,7 @@ xn--gwrz-1ra.ch
 xn--gwrzatelier-uhb.ch
 xn--gwrzbxli-r4a0d.ch
 xn--gwrzegge-75a.ch
+xn--gwrzh-lva.ch
 xn--gwrzhsli-75ad.ch
 xn--gwrzmller-r9ad.ch
 xn--gws-grtter-feb.ch
@@ -25603,6 +25600,7 @@ xn--holzhllen-u9a.ch
 xn--holzhndler-u5a.ch
 xn--holzhsli-b6a.ch
 xn--holzhtte-b6a.ch
+xn--holzhtten-u9a.ch
 xn--holzhuschen-p8a.ch
 xn--holzhuser-z2a.ch
 xn--holzimprgnierwerk-xqb.ch
@@ -27431,7 +27429,6 @@ xn--immobilienmrt-lfb.ch
 xn--immobilienrumung-5nb.ch
 xn--immobilienschtzen-2qb.ch
 xn--immobilienschtzer-2qb.ch
-xn--immobilienschtzerin-swb.ch
 xn--immobilienschtzung-xtb.ch
 xn--immobilienschtzungen-tessin-nkc.ch
 xn--immobilienstnder-6nb.ch
@@ -29568,7 +29565,6 @@ xn--kgifret-ag-q5a.ch
 xn--kgirepair-v2a.ch
 xn--kgiswil-5wa.ch
 xn--kgit-loa.ch
-xn--kgiwittenwil-gcb.ch
 xn--kgo-goa.ch
 xn--kgrnovation-dbb.ch
 xn--khadijasolidarit-qqb.ch
@@ -30484,6 +30480,7 @@ xn--klimaprfung-zhb.ch
 xn--klimaschtzen-klb.ch
 xn--klimaschtzer-klb.ch
 xn--klimazrich-feb.ch
+xn--klimmzg-s2a.ch
 xn--klin-agrar-q5a.ch
 xn--klin-bauplanung-0kb.ch
 xn--klin-deckenbau-5hb.ch
@@ -30982,13 +30979,11 @@ xn--knstliche-intelligenz-chat-yzc.ch
 xn--knstliche-intelligenz-coaching-4ed.ch
 xn--knstliche-intelligenz-kurse-i3c.ch
 xn--knstliche-knstler-22bk.ch
-xn--knstliche-trnen-clb01b.ch
 xn--knstlicheintelligenz-pec.ch
 xn--knstlicheintelligenzkurse-fwc.ch
 xn--knstlichepflanzen-22b.ch
 xn--knstlicher-weihnachtsbaum-fwc.ch
 xn--knstlicherweihnachtsbaum-vsc.ch
-xn--knstlichetrnen-gib78a.ch
 xn--knstlintelligenz-jzb.ch
 xn--knten-kva.ch
 xn--knten24-n2a.ch
@@ -34072,6 +34067,7 @@ xn--limousinenservice-zrich-upc.ch
 xn--lina-bgli-57a.ch
 xn--lina-dpa.ch
 xn--linda-fh-6za.ch
+xn--lindaabbhl-heb.ch
 xn--lindafh-bxa.ch
 xn--linde-schr-ieba.ch
 xn--lindebaumldeli-fib.ch
@@ -45986,6 +45982,7 @@ xn--renault-regg-llb.ch
 xn--renault-zubehr-7pb.ch
 xn--renboivin-d4a.ch
 xn--rencontre--la-croix-au-sommet-umc.ch
+xn--rencontre-clibataire-l2b.ch
 xn--rencontres-srieuses-suisse-mlc.ch
 xn--rendeluigi-d7a.ch
 xn--rene-dpa.ch
@@ -47060,7 +47057,6 @@ xn--rssliacker-brugg-mwb.ch
 xn--rssliacker-ecb.ch
 xn--rsslibeiz-07a.ch
 xn--rssliegge-07a.ch
-xn--rsslifahrten-4ib.ch
 xn--rsslifahrten-oberaargau-7kc.ch
 xn--rssligarte-ecb.ch
 xn--rssligasse-ecb.ch
@@ -47178,7 +47174,6 @@ xn--rtibasket-q9a.ch
 xn--rtibeibren24-dlbg.ch
 xn--rtibeilyssach24-zvb.ch
 xn--rtiberg-90a.ch
-xn--rtidr-kvaae.ch
 xn--rtien-gra.ch
 xn--rtif-bpa.ch
 xn--rtigag-vxa.ch
@@ -48861,7 +48856,6 @@ xn--schlerlabor-vhb.ch
 xn--schlernachhilfe-1vb.ch
 xn--schlerpaddeln-yob.ch
 xn--schlerprognose-isb.ch
-xn--schlerrabatt-flb.ch
 xn--schlerrabatte-yob.ch
 xn--schlertaxi-ceb.ch
 xn--schlertransport-1vb.ch
@@ -49246,6 +49240,7 @@ xn--schlsselfrequenz-mzb.ch
 xn--schlsselfundservice-89b.ch
 xn--schlsselfundstelle-p6b.ch
 xn--schlsselfundzentale-89b.ch
+xn--schlsselgesprch-dlb21b.ch
 xn--schlsselgosteli-2vb.ch
 xn--schlsselherrin-jsb.ch
 xn--schlsselhilfe24-2vb.ch
@@ -51943,7 +51938,6 @@ xn--slhestarswiss-blb.ch
 xn--sli-zunft-v2a.ch
 xn--slipark-5wa.ch
 xn--slipark2020-l8a.ch
-xn--sliparkwin-q5a.ch
 xn--slishop-5wa.ch
 xn--slizunft-0za.ch
 xn--slngfashion-m8a.ch
@@ -52215,6 +52209,7 @@ xn--soins--domicile-cjb.ch
 xn--soins-rsonance-hkb.ch
 xn--soins-sant-k7a.ch
 xn--soire-pch-passion-etbdc.ch
+xn--soiree-clibataire-itb.ch
 xn--soittsch-3za.ch
 xn--sojal-mua.ch
 xn--soklingtglck-mlb.ch

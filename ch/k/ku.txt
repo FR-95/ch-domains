@@ -250,6 +250,8 @@ kubilaiweb.ch
 kubilay.ch
 kubilix.ch
 kubin.ch
+kubins-service.ch
+kubins.ch
 kubiq.ch
 kubiqroom.ch
 kubis.ch
@@ -3963,6 +3965,7 @@ kulturgut-uzwil.ch
 kulturgut.ch
 kulturgutbergtrotte.ch
 kulturgutbernwest.ch
+kulturguterhaltung.ch
 kulturgutkulinarik.ch
 kulturgutplan.ch
 kulturgutstiftung.ch
@@ -9486,6 +9489,7 @@ kurvenfieber.ch
 kurvenflug.ch
 kurvenfresser.ch
 kurvengoettin.ch
+kurvengut.ch
 kurvenjaeger.ch
 kurvenkratzer.ch
 kurvenkult.ch

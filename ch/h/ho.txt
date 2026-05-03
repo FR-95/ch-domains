@@ -195,7 +195,6 @@ hobby-reisemobile.ch
 hobby-sammler-club.ch
 hobby-schnapserei.ch
 hobby-school.ch
-hobby-shirt.ch
 hobby-shop.ch
 hobby-spur0.ch
 hobby-store.ch
@@ -2358,7 +2357,6 @@ hockey-limmattal.ch
 hockey-local.ch
 hockey-mafia.ch
 hockey-monkey.ch
-hockey-plus.ch
 hockey-podcast.ch
 hockey-ratgeber.ch
 hockey-rent.ch
@@ -3868,6 +3866,7 @@ hof-eigental.ch
 hof-eimatt.ch
 hof-eis.ch
 hof-erleben.ch
+hof-erschwanden.ch
 hof-escargot.ch
 hof-etter.ch
 hof-event.ch
@@ -5794,7 +5793,6 @@ hoheluft.ch
 hohem.ch
 hohenadel.ch
 hohenauer.ch
-hohenbalken.ch
 hohenberg.ch
 hohenbraeu.ch
 hohenbru.ch
@@ -7266,7 +7264,6 @@ holisticyoga.ch
 holisticyogabasel.ch
 holisticyou.ch
 holisticzurich.ch
-holistific.ch
 holistify.ch
 holistifywealth.ch
 holistik-coach.ch
@@ -8497,7 +8494,6 @@ holz24.ch
 holz3.ch
 holz4you.ch
 holz54.ch
-holz5600.ch
 holz66.ch
 holz85.ch
 holza.ch
@@ -9190,7 +9186,6 @@ holzdecks.ch
 holzdeklaration.ch
 holzdeko-kurioses.ch
 holzdeko.ch
-holzdeko24.ch
 holzdekoart.ch
 holzdekodesign.ch
 holzdekorationen.ch
@@ -9206,7 +9201,6 @@ holzdesign-louis.ch
 holzdesign-schreinerei.ch
 holzdesign-vonlanthen.ch
 holzdesign.ch
-holzdesign24.ch
 holzdesignbbq.ch
 holzdesigner.ch
 holzdesignschaer.ch
@@ -9845,7 +9839,6 @@ holzlarven-robertwaelti.ch
 holzlarventreffen.ch
 holzlaser.ch
 holzlaterne.ch
-holzlaternen.ch
 holzlatten.ch
 holzlauf.ch
 holzlaufroste.ch
@@ -10678,7 +10671,6 @@ holzwolle.ch
 holzwollshop.ch
 holzwood.ch
 holzwork.ch
-holzworld.ch
 holzworm.ch
 holzworx.ch
 holzwpk.ch
@@ -11314,6 +11306,7 @@ home-visit.ch
 home-water.ch
 home-wattenwil.ch
 home-wellness.ch
+home-wise.ch
 home-with-fengshui.ch
 home-with-love.ch
 home-wohlen.ch
@@ -11409,7 +11402,6 @@ homeand.ch
 homeandart.ch
 homeandarts.ch
 homeandbody.ch
-homeandcar-provider.ch
 homeandcar.ch
 homeandcastle.ch
 homeandcolors.ch
@@ -12184,7 +12176,6 @@ homemade-ag.ch
 homemade-deko.ch
 homemade-label.ch
 homemade-labor.ch
-homemade-momo.ch
 homemade-naturprodukte.ch
 homemade-sweets.ch
 homemade-x.ch
@@ -15534,7 +15525,6 @@ horaedor.ch
 horaeskenderbeut.ch
 horafugit.ch
 horag.ch
-horage.ch
 horah.ch
 horaholding.ch
 horai.ch
@@ -16492,6 +16482,8 @@ hornissenbrut.ch
 hornissenentfernen.ch
 hornissenfalle.ch
 hornissennest-entfernen.ch
+hornissennest-schweiz.ch
+hornissennest-zuerich.ch
 hornissennest.ch
 hornissenschutz.ch
 hornissenumsiedlung.ch
@@ -18144,6 +18136,7 @@ hosteuropeswiss.ch
 hosteuropeswitzerland.ch
 hostez-egliswil.ch
 hostez.ch
+hostezia.ch
 hostfact.ch
 hostfactory-redirect-test.ch
 hostfactory-redirects.ch

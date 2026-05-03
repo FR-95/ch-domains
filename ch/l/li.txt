@@ -813,7 +813,6 @@ liberte-ouverture.ch
 liberte-patrie.ch
 liberte-religieuse.ch
 liberte-sg.ch
-liberte-suisse.ch
 liberte-tv.ch
 liberte.ch
 libertearchives.ch
@@ -833,7 +832,6 @@ libertehypnose.ch
 libertemaintenant.ch
 libertempo.ch
 libertessence.ch
-libertesuisse.ch
 libertetv.ch
 libertex.ch
 liberthe.ch
@@ -1895,7 +1893,6 @@ lichtdesigner.ch
 lichtdesigngmbh.ch
 lichtdesignstudio.ch
 lichtdeslebens.ch
-lichtdicht.ch
 lichtdienst.ch
 lichtdirekt.ch
 lichtdoktor.ch
@@ -4620,6 +4617,7 @@ liegestuehle.ch
 liegestuhl-camping.ch
 liegestuhl-shop.ch
 liegestuhl.ch
+liegestuhl24.ch
 liegestuhlkaffee.ch
 liegestuhlshop.ch
 liegestutz.ch
@@ -4907,6 +4905,7 @@ lietz-burnand.ch
 lietz.ch
 lieu-commun.ch
 lieu-dit.ch
+lieu-gay.ch
 lieu-ideal.ch
 lieu.ch
 lieu23.ch
@@ -4915,6 +4914,7 @@ lieudart.ch
 lieudetravail-sansfumee.ch
 lieudetre.ch
 lieudevie.ch
+lieugay.ch
 lieursdatrun.ch
 lieustaehelin.ch
 lieutenant.ch
@@ -7947,7 +7947,6 @@ likadesign.ch
 likagroup.ch
 likaholding.ch
 likaisolationen.ch
-likaj-pure.ch
 likaj.ch
 likami.ch
 likamishop.ch
@@ -14842,7 +14841,6 @@ lipslounge.ch
 lipsmetallbau.ch
 lipsmsm.ch
 lipsntox.ch
-lipsonly.ch
 lipsoul.ch
 lipspartner.ch
 lipsracing.ch
@@ -17551,6 +17549,7 @@ liun.ch
 liuno.ch
 liuns.ch
 liuquote.ch
+liurnia.ch
 lius.ch
 liusauer.ch
 liusuisse.ch

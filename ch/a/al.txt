@@ -914,7 +914,6 @@ alanmarten.ch
 alanmax.ch
 alanna.ch
 alannahbrett.ch
-alannamore.ch
 alano-holding.ch
 alano.ch
 alanoi.ch
@@ -956,6 +955,7 @@ alanzarone.ch
 alao.ch
 alaoui.ch
 alape.ch
+alapera.ch
 alapetiteauberge.ch
 alapi.ch
 alapierre.ch
@@ -1667,7 +1667,11 @@ albaniaholidays.ch
 albanian-bikers.ch
 albanian-engineering.ch
 albanian-shop.ch
+albaniancenter.ch
 albanianclips.ch
+albanianculturalhub.ch
+albanianculture.ch
+albanianculturecenter.ch
 albaniandayparty.ch
 albanianmusic.ch
 albanianwine.ch
@@ -1703,6 +1707,9 @@ albanisches-fest.ch
 albanisches-institut.ch
 albanisches-volksfest.ch
 albanischesfest.ch
+albanischeskultur.ch
+albanischeskulturzentrum.ch
+albanischeszentrum.ch
 albanischeweine.ch
 albanischfest.ch
 albanisport.ch
@@ -2968,7 +2975,6 @@ alcaneconseils.ch
 alcanes.ch
 alcanevon.ch
 alcanluxury.ch
-alcanna.ch
 alcanside.ch
 alcantar.ch
 alcantara-atelier.ch
@@ -4832,6 +4838,7 @@ aletheiax.ch
 alethena.ch
 alethia.ch
 alethios.ch
+alethis.ch
 aletii.ch
 aletis.ch
 aleto.ch
@@ -5277,6 +5284,7 @@ alexanderaeppli.ch
 alexanderalbrecht.ch
 alexanderbaer.ch
 alexanderbahl.ch
+alexanderbeutler.ch
 alexanderblarer.ch
 alexanderbradley.ch
 alexanderbrand.ch
@@ -5665,6 +5673,7 @@ alexandralang.ch
 alexandralebrecht.ch
 alexandralefort.ch
 alexandralehmann.ch
+alexandralehmeier.ch
 alexandrali.ch
 alexandralilynoth.ch
 alexandraluethi.ch
@@ -6006,7 +6015,6 @@ alexchrist.ch
 alexchur.ch
 alexcigars.ch
 alexcoiffure.ch
-alexcoin.ch
 alexconseils.ch
 alexcopot.ch
 alexcorthay.ch
@@ -9136,6 +9144,7 @@ alk-abello.ch
 alk-allergy.ch
 alk-bau.ch
 alk-cch.ch
+alk-concept.ch
 alk-flawil.ch
 alk-garage.ch
 alk-lifeline.ch
@@ -9245,6 +9254,7 @@ alkena-body.ch
 alkena-seide.ch
 alkena.ch
 alkengold.ch
+alkensdevelopment.ch
 alkeom.ch
 alkeris.ch
 alketech.ch
@@ -13288,6 +13298,7 @@ allote.ch
 allotech.ch
 allotherm.ch
 allotransportgeneve.ch
+allotransportsgeneve.ch
 allotravaux.ch
 allotria.ch
 allotrope.ch
@@ -13578,7 +13589,6 @@ allrounder-basel.ch
 allrounder-bau.ch
 allrounder-dienstleistungen.ch
 allrounder-fachmaa.ch
-allrounder-fritz.ch
 allrounder-gmbh.ch
 allrounder-gmvl.ch
 allrounder-liechti.ch
@@ -15772,7 +15782,6 @@ alp-art.ch
 alp-aviation.ch
 alp-babental.ch
 alp-beauty.ch
-alp-begleitung.ch
 alp-beizli.ch
 alp-bergerlebnis.ch
 alp-biel.ch
@@ -17148,6 +17157,7 @@ alpengeologie.ch
 alpengeschichten.ch
 alpengesund.ch
 alpengipfeleuropa.ch
+alpengipser.ch
 alpengiro.ch
 alpengitzi.ch
 alpenglace.ch
@@ -21423,6 +21433,7 @@ alpinova.ch
 alpinovo.ch
 alpinox.ch
 alpinpalace.ch
+alpinpartners.ch
 alpinpay.ch
 alpinpedu.ch
 alpinpersonal.ch
@@ -22145,6 +22156,7 @@ alpsentek.ch
 alpsentinel.ch
 alpsequipement.ch
 alpsequipment.ch
+alpseren.ch
 alpserver.ch
 alpservers.ch
 alpservices.ch
@@ -23689,7 +23701,6 @@ altenbach-wollerau.ch
 altenbach.ch
 altenberg.ch
 altenberger.ch
-altenbergstrasse126.ch
 altenbergstrasse8.ch
 altenbetreuung.ch
 altenburg-apotheke.ch
@@ -25782,6 +25793,7 @@ altrosa.ch
 altrosport.ch
 altrotherm.ch
 altrova.ch
+altrovaarte.ch
 altrove.ch
 altruan.ch
 altruce.ch

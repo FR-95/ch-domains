@@ -354,7 +354,6 @@ btex.ch
 btexperts.ch
 btf-gmbh.ch
 btf.ch
-btfconsulting.ch
 btfdmetal.ch
 btfeffect.ch
 btfinance.ch
@@ -483,6 +482,7 @@ btmz.ch
 btn-advisory.ch
 btn-elec.ch
 btn.ch
+btnavigator.ch
 btnet.ch
 btnetworking.ch
 btnhelmets.ch

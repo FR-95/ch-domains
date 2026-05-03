@@ -4543,6 +4543,7 @@ vignettecollection.ch
 vignettecollectionhotels.ch
 vignettenaktion.ch
 vignetteoesterreich.ch
+vignetteonline.ch
 vignettes.ch
 vignettes22.ch
 vignettes24.ch
@@ -7970,6 +7971,7 @@ vino1874.ch
 vino24.ch
 vino53.ch
 vino75.ch
+vinoa.ch
 vinoacasa.ch
 vinoaccess.ch
 vinoagmbh.ch
@@ -8805,7 +8807,6 @@ vintagelook.ch
 vintagelounge.ch
 vintagelove.ch
 vintagelovers.ch
-vintagemac.ch
 vintagemagazin.ch
 vintagemarketplace.ch
 vintagemarkt.ch
@@ -9590,6 +9591,7 @@ viora-eisenvit.ch
 viora.ch
 vioracasa.ch
 vioraleva.ch
+viorapure.ch
 vioree.ch
 viorelbucur.ch
 viorio.ch
@@ -10004,6 +10006,7 @@ vipets-altendorf.ch
 vipets-gossau.ch
 vipets-morgarten.ch
 vipets.ch
+vipetsitting.ch
 vipevent.ch
 vipevents.ch
 vipexpress.ch
@@ -10103,6 +10106,7 @@ vipmedical.ch
 vipmeet.ch
 vipmember.ch
 vipmerci.ch
+vipmiahayes.ch
 vipmodel.ch
 vipmodels.ch
 vipmotors.ch
@@ -13762,8 +13766,6 @@ visitorcenter.ch
 visitorlando.ch
 visitoro.ch
 visitorparking.ch
-visitorparkingsolution.ch
-visitorparkingsolutions.ch
 visitors.ch
 visitorscenter.ch
 visitorstore.ch
@@ -14414,6 +14416,7 @@ visualbook-studio.ch
 visualboost.ch
 visualbox.ch
 visualbrain.ch
+visualbykevin-shop.ch
 visualbykevin.ch
 visualcapitalmarkets.ch
 visualcloud.ch
@@ -19732,7 +19735,6 @@ vizibl.ch
 vizible-agency.ch
 vizible.ch
 viziem.ch
-vizinhas.ch
 vizion-coaching.ch
 vizion.ch
 vizion3d.ch

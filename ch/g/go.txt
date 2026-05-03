@@ -743,6 +743,7 @@ goadmin.ch
 goadminless.ch
 goadvertising.ch
 goaestico.ch
+goafamily.ch
 goaffoe-flickflauder.ch
 goaffoe.ch
 goaforge.ch
@@ -1235,7 +1236,6 @@ gocloud-security.ch
 gocloud.ch
 goclove.ch
 goco.ch
-gocoach.ch
 gocoachee.ch
 gococo.ch
 gocol.ch
@@ -1808,7 +1808,6 @@ goeschel.ch
 goeschenen-am-meer.ch
 goeschenen.ch
 goeschenen24.ch
-goescheneralp-erleben.ch
 goescheneralp.ch
 goescom.ch
 goescrow.ch
@@ -3654,6 +3653,7 @@ goldene-hufe.ch
 goldene-jahre.ch
 goldene-mitte.ch
 goldene-regeln.ch
+goldene-rose-rappi.ch
 goldene-rose.ch
 goldene-schnitt.ch
 goldene-seele.ch
@@ -6045,7 +6045,6 @@ golfindoorbroye.ch
 golfindoormoutier.ch
 golfinfo.ch
 golfinfos.ch
-golfing-plus.ch
 golfing.ch
 golfino.ch
 golfinone.ch
@@ -8759,6 +8758,7 @@ goposchta.ch
 goposchte.ch
 gopositive.ch
 gopostal.ch
+gopotes.ch
 gopow.ch
 goppion.ch
 goppisbergeralp.ch
@@ -8777,6 +8777,7 @@ goprojets.ch
 goprom.ch
 goprompt.ch
 goproperty.ch
+gops.ch
 gopsy.ch
 gopublic.ch
 gopublicorstayprivate.ch

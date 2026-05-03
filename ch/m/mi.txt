@@ -6255,6 +6255,7 @@ mietwagen.ch
 mietwagen1x1.ch
 mietwagen24.ch
 mietwagen247.ch
+mietwagen24h.ch
 mietwagenabo.ch
 mietwagenbaar.ch
 mietwagenbasel.ch
@@ -7516,6 +7517,7 @@ mihalj.ch
 mihaly.ch
 mihalyi.ch
 mihandelag.ch
+mihane.ch
 mihankhah.ch
 mihap-consulting.ch
 mihap-services.ch
@@ -9206,7 +9208,6 @@ mildbun.ch
 milde-studio.ch
 milde.ch
 mildef.ch
-mildemusic.ch
 mildenberger-pferde.ch
 mildenberger.ch
 milderma.ch
@@ -10722,6 +10723,7 @@ miltonimmo.ch
 miltonoutsourcing.ch
 miltonroth.ch
 miltonstuff.ch
+miltonsubs.ch
 miltonwatch.ch
 miltrade.ch
 milu-hatmakers.ch
@@ -11015,7 +11017,6 @@ mimimedia.ch
 mimimediawork.ch
 mimimehima.ch
 mimimi-dolls.ch
-mimimi-wawawaa.ch
 mimimi.ch
 mimimi42.ch
 mimimiceur.ch
@@ -11173,7 +11174,6 @@ mimoza-therapiemethoden.ch
 mimoza.ch
 mimozabrohy.ch
 mimozale.ch
-mimozas-coiffeur.ch
 mimozasbeauty.ch
 mimpa.ch
 mimperatori.ch
@@ -11904,6 +11904,7 @@ mindestmail.ch
 mindeststeuer-ja.ch
 mindeststeuer.ch
 mindetech.ch
+mindev.ch
 mindex.ch
 mindexpander.ch
 mindeyes.ch
@@ -14418,7 +14419,7 @@ minimalist-windows.ch
 minimalist.ch
 minimaliste.ch
 minimalisten.ch
-minimalisterie.ch
+minimalistic.ch
 minimalistik.ch
 minimalistin.ch
 minimalistis.ch
@@ -14435,7 +14436,6 @@ minimalmarble.ch
 minimalmusic.ch
 minimaloffice.ch
 minimalordentlich.ch
-minimalprod.ch
 minimalraum.ch
 minimalschuhe.ch
 minimalshape.ch
@@ -15672,6 +15672,7 @@ minwarra.ch
 minwave.ch
 minweigh.ch
 minwelt.ch
+minwichtel.ch
 minwy.ch
 minx.ch
 minxli.ch
@@ -15845,6 +15846,7 @@ mioparts.ch
 miopet.ch
 miopia.ch
 miopizza.ch
+miopizzapasta.ch
 mioplant.ch
 mioporcino.ch
 mioportalecasa.ch
@@ -17739,6 +17741,7 @@ miryad.ch
 miryam-huber.ch
 miryam.ch
 miryammazenauer.ch
+miryamvii.ch
 mirylart.ch
 miryna.ch
 miryus.ch
@@ -21780,6 +21783,8 @@ mixfit.ch
 mixfood.ch
 mixfoodtruck.ch
 mixform.ch
+mixharta.ch
+mixhearts.ch
 mixherbs.ch
 mixi.ch
 mixidiscount.ch

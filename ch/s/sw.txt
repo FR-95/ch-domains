@@ -1778,6 +1778,7 @@ swiftie.ch
 swifties.ch
 swiftinvest.ch
 swiftlab.ch
+swiftli.ch
 swiftlink.ch
 swiftliving.ch
 swiftly.ch
@@ -1878,7 +1879,6 @@ swiled.ch
 swilenzio.ch
 swilet.ch
 swilex.ch
-swilicious.ch
 swilingua.ch
 swilink.ch
 swilive.ch
@@ -4619,6 +4619,7 @@ swiss-dog-food.ch
 swiss-dog-school.ch
 swiss-dog.ch
 swiss-dogbox.ch
+swiss-dogs-stories.ch
 swiss-dogschool.ch
 swiss-dogshow.ch
 swiss-dolls.ch
@@ -9226,7 +9227,6 @@ swiss-transfers.ch
 swiss-transferstaxi.ch
 swiss-transfert.ch
 swiss-transformation.ch
-swiss-transit.ch
 swiss-transition-partners.ch
 swiss-transport-cleaning.ch
 swiss-transport-group.ch
@@ -12041,6 +12041,7 @@ swissbrandexpert.ch
 swissbrandexperts.ch
 swissbrandfactory.ch
 swissbrandidentitycreators.ch
+swissbrandindex.ch
 swissbranding.ch
 swissbrandinstitute.ch
 swissbrandinvest.ch
@@ -15270,7 +15271,6 @@ swissdronepilot.ch
 swissdroneplanet.ch
 swissdroneportal.ch
 swissdrones.ch
-swissdroneservice.ch
 swissdroneshow.ch
 swissdronesolution.ch
 swissdronesummit.ch
@@ -16066,7 +16066,6 @@ swissfamilybusinessconference.ch
 swissfamilycare.ch
 swissfamilycenter.ch
 swissfamilychalet.ch
-swissfamilychampion.ch
 swissfamilyclinic.ch
 swissfamilycollection.ch
 swissfamilycompany.ch
@@ -18437,6 +18436,7 @@ swissii.ch
 swissiip.ch
 swissiit.ch
 swissija.ch
+swissikon.ch
 swissikt.ch
 swissilabs.ch
 swissilca.ch
@@ -21022,7 +21022,6 @@ swissmessage.ch
 swissmessaging.ch
 swissmessengerlogistic.ch
 swissmesser.ch
-swissmet.ch
 swissmeta.ch
 swissmetabolomics.ch
 swissmetal.ch
@@ -21149,6 +21148,7 @@ swissmindfulness.ch
 swissmindfulnessinstitute.ch
 swissmindrecycling.ch
 swissminds.ch
+swissmindset.ch
 swissmine.ch
 swissmine24.ch
 swissminecraft.ch
@@ -21484,6 +21484,7 @@ swissmoutainaccouting.ch
 swissmouthpiece.ch
 swissmove-supporters.ch
 swissmove.ch
+swissmoveapp.ch
 swissmoveassist.ch
 swissmovebyali.ch
 swissmovepark.ch
@@ -23174,6 +23175,7 @@ swissplus.ch
 swissplus21.ch
 swissplusexperten.ch
 swissplush.ch
+swissplusid.ch
 swissplusinfo.ch
 swissplusit.ch
 swisspluslean.ch
@@ -23463,7 +23465,6 @@ swisspremium-management.ch
 swisspremium.ch
 swisspremiumag.ch
 swisspremiumangling.ch
-swisspremiumcapital.ch
 swisspremiumcare.ch
 swisspremiumcars.ch
 swisspremiumcatering.ch
@@ -23607,7 +23608,6 @@ swissprimeshop.ch
 swissprimesite.ch
 swissprimesolutions.ch
 swissprimetaste.ch
-swissprimetaxi.ch
 swissprimetechnik.ch
 swissprimetransfer.ch
 swissprimeurs.ch
@@ -26621,7 +26621,6 @@ swisstradingbox.ch
 swisstradingcenter.ch
 swisstradinghub.ch
 swisstradingschool.ch
-swisstradingsignal.ch
 swisstradingsystems.ch
 swisstradition.ch
 swisstraffic-school.ch

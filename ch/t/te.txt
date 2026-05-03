@@ -2420,6 +2420,7 @@ tec-pros.ch
 tec-race.ch
 tec-rent.ch
 tec-rope.ch
+tec-schweiz.ch
 tec-service-mueller.ch
 tec-service.ch
 tec-servicesarl.ch
@@ -2959,6 +2960,7 @@ techbypridal.ch
 techbyte.ch
 techcad.ch
 techcafe.ch
+techcamp.ch
 techcar.ch
 techcare-it.ch
 techcare-mullis.ch
@@ -3073,7 +3075,6 @@ techelp.ch
 techem.ch
 techema.ch
 techend.ch
-techenergy.ch
 techengel.ch
 techengine.ch
 techentete.ch
@@ -10048,7 +10049,6 @@ tenforty.ch
 tenforward.ch
 teng.ch
 tenga.ch
-tengao.ch
 tengel.ch
 tenger-lu.ch
 tenger-technologies.ch
@@ -13553,6 +13553,7 @@ terredoree.ch
 terredorient.ch
 terredosami.ch
 terredosidine.ch
+terredotranto.ch
 terredoz.ch
 terredujura.ch
 terreduladakh.ch
@@ -13839,6 +13840,7 @@ terroniacaffe.ch
 terror-nein.ch
 terror-versicherung.ch
 terrorbunny.ch
+terrorcat.ch
 terrore-della-famiglia.ch
 terrore-delle-famiglie.ch
 terrorhilfe.ch
@@ -15096,6 +15098,7 @@ testaments-geneve.ch
 testaments-valais.ch
 testaments-vaud.ch
 testamentsberater.ch
+testamentschweiz.ch
 testamentservice.ch
 testamentsregister.ch
 testamentsvollstrecker.ch
@@ -16396,6 +16399,7 @@ tevadigihaler.ch
 tevafootwear.ch
 tevag-interior.ch
 tevag.ch
+tevah-vaud.ch
 tevah.ch
 tevall.ch
 tevan.ch
@@ -16970,7 +16974,6 @@ textessenz.ch
 textest.ch
 textestl.ch
 textetc.ch
-textetexter.ch
 textetrainer.ch
 texteufel.ch
 texteufepunkt.ch
@@ -17512,7 +17515,6 @@ textmacherei.ch
 textmacherin.ch
 textmachine.ch
 textmachines.ch
-textmagier.ch
 textmahlerin.ch
 textmaker.ch
 textmania.ch

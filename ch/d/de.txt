@@ -543,7 +543,6 @@ dealday.ch
 dealdays.ch
 dealdeal.ch
 dealdelivery.ch
-dealden.ch
 dealdeployment.ch
 dealdepot.ch
 dealderwoche.ch
@@ -1943,11 +1942,13 @@ dechamby.ch
 decharge-chavannes.ch
 decharge-commugny.ch
 decharge-coppet.ch
+decharge-mentale.ch
 decharge-mies.ch
 decharge-tannay.ch
 decharge-tattesdebogis.ch
 decharge-terresainte.ch
 decharge.ch
+dechargementale.ch
 dechargeterresainte.ch
 decharriere.ch
 dechasse.ch
@@ -3629,7 +3630,6 @@ deepband.ch
 deepbar.ch
 deepbarista.ch
 deepbase.ch
-deepbased.ch
 deepbeats.ch
 deepbird.ch
 deepblood.ch
@@ -4734,7 +4734,6 @@ defusco.ch
 defused.ch
 defuseddata.ch
 defvd.ch
-defx.ch
 defy-capital.ch
 defy.ch
 defyp.ch
@@ -6240,6 +6239,7 @@ deine-kartenwerkstatt.ch
 deine-katzenpsychologin.ch
 deine-kesb-hilfe.ch
 deine-ki-agentur.ch
+deine-ki-werkzeugkiste.ch
 deine-ki.ch
 deine-kinderwunschmanager.ch
 deine-klangauszeit.ch
@@ -17438,6 +17438,7 @@ derfahnder.ch
 derfahnenach.ch
 derfahrer.ch
 derfahrlehrer.ch
+derfahrtrainer.ch
 derfairecredit.ch
 derfairnetzer.ch
 derfalschmelder.ch
@@ -18914,6 +18915,7 @@ dermessias.ch
 dermesthetics.ch
 dermetallbauer.ch
 dermetzler.ch
+dermeva.ch
 dermevolution.ch
 dermexia.ch
 dermexpert-hautpflege.ch
@@ -20258,6 +20260,7 @@ deserttech.ch
 deserttravel.ch
 deserttrip.ch
 desertwind.ch
+deserve.ch
 deserved-beauty.ch
 deserveit.ch
 deserveitall.ch
@@ -20873,7 +20876,6 @@ designarte-shop.ch
 designarts.ch
 designartstudio.ch
 designartwork.ch
-designascommongood.ch
 designate.ch
 designatelier-dev.ch
 designatelier.ch
@@ -23130,6 +23132,7 @@ detailyourcar.ch
 detailzauberfotografie.ch
 detailzone.ch
 detalentsearch.ch
+detalix.ch
 detalpeak.ch
 detangle.ch
 detangled.ch
@@ -25540,7 +25543,6 @@ devries-schweiz.ch
 devries.ch
 devriesitconsulting.ch
 devrieslegaltax.ch
-devrm.ch
 devrmsoft.ch
 devromandie.ch
 devroot.ch
@@ -25631,6 +25633,7 @@ devtree.ch
 devtron.ch
 devtronaut.ch
 devucation.ch
+devue.ch
 devups.ch
 devuza.ch
 devv.ch

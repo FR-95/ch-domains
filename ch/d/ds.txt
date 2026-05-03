@@ -761,7 +761,6 @@ dskom.ch
 dskosmetik.ch
 dskreativitaetmitherz.ch
 dskt.ch
-dskuster.ch
 dsl-bank.ch
 dsl-connect.ch
 dsl-flatrate.ch
@@ -1110,6 +1109,7 @@ dstock.ch
 dstocker.ch
 dstoecklin.ch
 dstoll.ch
+dstolz.ch
 dstop.ch
 dstores.ch
 dstr.ch
@@ -1167,6 +1167,7 @@ dswaldron.ch
 dswarch.ch
 dswdsgkk.ch
 dswebdesigner.ch
+dswebsites.ch
 dswerkstatt.ch
 dswheels.ch
 dswhome.ch

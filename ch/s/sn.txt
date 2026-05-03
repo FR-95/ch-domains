@@ -1243,6 +1243,7 @@ snmp.ch
 snmsolution.ch
 snmv.ch
 snn.ch
+snnet.ch
 snnt.ch
 snny.ch
 sno-go.ch

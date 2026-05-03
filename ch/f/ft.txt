@@ -370,7 +370,6 @@ fttp.ch
 fttr.ch
 fttreuhand.ch
 ftts.ch
-fttswiss.ch
 ftu.ch
 ftuk.ch
 ftum.ch
@@ -446,6 +445,7 @@ ftx.ch
 ftxsarl.ch
 fty.ch
 ftysvn.ch
+ftysvnagency.ch
 ftz-studio.ch
 ftz.ch
 ftzbabytragen.ch

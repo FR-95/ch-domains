@@ -1371,7 +1371,6 @@ ticinsect.ch
 ticinusmedia.ch
 ticinux.ch
 ticinvest.ch
-ticio.ch
 ticipack.ch
 ticiporto.ch
 ticirinnova.ch
@@ -3577,6 +3576,7 @@ tierheil-praxis.ch
 tierheil.ch
 tierheiler-zuerich.ch
 tierheiler.ch
+tierheilfinder.ch
 tierheilkraft.ch
 tierheilkunde.ch
 tierheilkundepraxis.ch
@@ -5747,6 +5747,7 @@ tikkun.ch
 tikkunmedardus.ch
 tikkunolam.ch
 tikkurila.ch
+tikky.ch
 tikla.ch
 tikla24.ch
 tikltech.ch
@@ -10120,6 +10121,7 @@ tiralia.ch
 tirallo.ch
 tiramello.ch
 tiramenu.ch
+tirami-su.ch
 tirami-via.ch
 tirami.ch
 tiramisau.ch

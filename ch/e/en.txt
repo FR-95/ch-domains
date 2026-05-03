@@ -4605,7 +4605,6 @@ energylogistics.ch
 energylounge.ch
 energym.ch
 energymaker.ch
-energymanagement-group.ch
 energymanagementsuisse.ch
 energymanager.ch
 energymaster.ch
@@ -4983,6 +4982,8 @@ enersoft.ch
 enersol.ch
 enersolutions.ch
 enerson.ch
+enerstone-capital.ch
+enerstone.ch
 enerstream.ch
 enersuisse-test.ch
 enersuisse.ch
@@ -5097,6 +5098,7 @@ enevis.ch
 enevista-consulting.ch
 enevista-energy.ch
 enevista-group.ch
+enevista-rescources.ch
 enevista.ch
 enevo-construction.ch
 enevo-energy.ch
@@ -11610,6 +11612,7 @@ enzohome.ch
 enzokaffe.ch
 enzokaffee.ch
 enzokeller.ch
+enzolocation.ch
 enzomeli.ch
 enzomotos.ch
 enzomusic.ch

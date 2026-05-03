@@ -1557,7 +1557,6 @@ fabis-geschenkshop.ch
 fabis-haardesign.ch
 fabis-hs.ch
 fabis-int.ch
-fabis-photography.ch
 fabis-service.ch
 fabis-veloegge.ch
 fabis-welt.ch
@@ -3181,7 +3180,6 @@ fachnetzh.ch
 fachnetzwerk-familienstart.ch
 fachnetzwerk-tier.ch
 fachnews.ch
-fachocolate.ch
 fachperson-baum.ch
 fachperson-betreuung.ch
 fachperson-biodiversitaet.ch
@@ -4005,7 +4003,6 @@ factumacademy.ch
 factumbau.ch
 factumconsulting.ch
 factumit.ch
-factumpermanus.ch
 factums.ch
 factumsoft.ch
 factur.ch
@@ -4971,6 +4968,7 @@ fahr-zwyssig.ch
 fahr.ch
 fahradies.ch
 fahradtest.ch
+fahrangst-coaching.ch
 fahrangst.ch
 fahranlagen.ch
 fahrantrieb.ch
@@ -4979,6 +4977,8 @@ fahrart.ch
 fahrassistenten.ch
 fahrausbildung-stierli.ch
 fahrausbildung.ch
+fahrausbildungbasel.ch
+fahrausbildungbaselland.ch
 fahrausbildungscenter.ch
 fahrausbildungzug.ch
 fahrausweis.ch
@@ -6054,6 +6054,7 @@ fahrschule-haselbach.ch
 fahrschule-hauser.ch
 fahrschule-hayda.ch
 fahrschule-hefti.ch
+fahrschule-helen.ch
 fahrschule-henz-breitenbach.ch
 fahrschule-herisau.ch
 fahrschule-herren.ch
@@ -6692,6 +6693,7 @@ fahrschulebalmer.ch
 fahrschulebarbara.ch
 fahrschulebaschi.ch
 fahrschulebasel.ch
+fahrschulebaselbiet.ch
 fahrschulebassersdorf.ch
 fahrschulebassi.ch
 fahrschulebazenheid.ch
@@ -6759,6 +6761,7 @@ fahrschuledietikon.ch
 fahrschulediflumeri.ch
 fahrschuledm.ch
 fahrschuledominic.ch
+fahrschuledornach.ch
 fahrschuledrive.ch
 fahrschuleefel.ch
 fahrschuleeggenbergerandi.ch
@@ -6808,6 +6811,7 @@ fahrschulehallwilerssee.ch
 fahrschulehannesflath.ch
 fahrschulehauser.ch
 fahrschuleheerbrugg.ch
+fahrschulehelen.ch
 fahrschulehiestand.ch
 fahrschulehirt.ch
 fahrschulehoengg.ch
@@ -7198,6 +7202,7 @@ fahrturnier-scherz.ch
 fahrtvermittlung.ch
 fahrtwend.ch
 fahrtwind-velos.ch
+fahrtwind.ch
 fahrtwind55.ch
 fahrtwindmarketing.ch
 fahrtzeug.ch
@@ -8636,6 +8641,7 @@ fairrail.ch
 fairrank.ch
 fairrecycling.ch
 fairreisen.ch
+fairrent.ch
 fairreturn.ch
 fairrex.ch
 fairs.ch
@@ -8818,7 +8824,6 @@ fairunterwegs.ch
 fairup.ch
 fairuz.ch
 fairvalue.ch
-fairvaluepartners.ch
 fairvalues.ch
 fairvc.ch
 fairvelo.ch
@@ -10859,7 +10864,6 @@ fambraendle.ch
 fambraun.ch
 fambreguet.ch
 fambreitenstein.ch
-fambridge.ch
 fambro.ch
 fambru.ch
 fambruehwiler.ch
@@ -11202,7 +11206,6 @@ familencocktail.ch
 familenleben.ch
 famileo.ch
 familevamaric.ch
-familharmonie.ch
 famili.ch
 familia-ingenbohl.ch
 familia-jegi.ch
@@ -16395,6 +16398,7 @@ faraona.ch
 faraonas.ch
 faraone-immobilier.ch
 faraone.ch
+faraonegroup.ch
 farasah.ch
 faraser.ch
 faraserholding.ch

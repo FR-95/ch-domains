@@ -1874,7 +1874,6 @@ crazy-nuts.ch
 crazy-oldtimer.ch
 crazy-oli.ch
 crazy-padel.ch
-crazy-palace.ch
 crazy-paragliding.ch
 crazy-pets.ch
 crazy-piano.ch
@@ -2730,6 +2729,7 @@ creadrom.ch
 creadrome.ch
 creads.ch
 creadvert.ch
+creadvisor.ch
 cready.ch
 creaeco.ch
 creaeden.ch
@@ -4182,7 +4182,6 @@ creative-life.ch
 creative-lightness.ch
 creative-little-finger.ch
 creative-living.ch
-creative-locale.ch
 creative-look.ch
 creative-lounge.ch
 creative-m.ch
@@ -6928,6 +6927,7 @@ criptovalute.ch
 criptowir.ch
 criquet.ch
 crir.ch
+cris-artesanato.ch
 cris-orafa.ch
 cris-porrentruy.ch
 cris.ch
@@ -9636,7 +9636,6 @@ crseo.ch
 crservices.ch
 crsf.ch
 crshandels.ch
-crshd.ch
 crsi.ch
 crsl.ch
 crslocarno.ch

@@ -333,7 +333,6 @@ tabatiere.ch
 tabazan.ch
 tabazon.ch
 tabazone.ch
-tabb.ch
 tabbert.ch
 tabbonnet.ch
 tabby.ch
@@ -1432,7 +1431,6 @@ tadl.ch
 tadla.ch
 tadlshub.ch
 tadman.ch
-tado-bachtelen.ch
 tado-plus.ch
 tado.ch
 tadocare.ch
@@ -4593,6 +4591,7 @@ talentocamper.ch
 talentoch.ch
 talentoday.ch
 talenton.ch
+talentone.ch
 talentonellavita.ch
 talentonstage.ch
 talentoo.ch
@@ -5185,6 +5184,7 @@ tallybasel.ch
 tallybeauty.ch
 tallyho.ch
 tallymed.ch
+tallyo.ch
 tallyroo.ch
 tallys.ch
 tallyweijl.ch
@@ -6174,6 +6174,7 @@ tampote.ch
 tampotech.ch
 tamps.ch
 tampu.ch
+tamra.ch
 tamramaew.ch
 tamred.ch
 tamron.ch
@@ -7549,6 +7550,7 @@ tannenweid.ch
 tannenweidhof.ch
 tannenwipfel.ch
 tannenzapf.ch
+tannenzapfen.ch
 tannenzaun.ch
 tannenzaunstrasse.ch
 tannenzweig.ch
@@ -12894,16 +12896,19 @@ tauchschule-nidwalden.ch
 tauchschule-poseidon.ch
 tauchschule-redsnapper.ch
 tauchschule-schaffhausen.ch
+tauchschule-steckborn.ch
 tauchschule-walensee.ch
 tauchschule-wasserschloss.ch
 tauchschule-zentralschweiz.ch
 tauchschule-zuerich.ch
 tauchschule.ch
 tauchschulebern.ch
+tauchschulebodensee.ch
 tauchschuleluzern.ch
 tauchschulemiaru.ch
 tauchschulen.ch
 tauchschuleschaffhausen.ch
+tauchschulesteckborn.ch
 tauchschulewalensee.ch
 tauchschulezuerich.ch
 tauchschwimmer.ch
@@ -14798,13 +14803,11 @@ taxibarn.ch
 taxibarometer.ch
 taxibasel-land.ch
 taxibasel.ch
-taxibasel24.ch
 taxibaselbiet.ch
 taxibaselcity.ch
 taxibaselland.ch
 taxibasellandschaft.ch
 taxibaselstadt.ch
-taxibasilea.ch
 taxibasilisk.ch
 taxibasl.ch
 taxibasler.ch
@@ -15070,7 +15073,6 @@ taxihotline.ch
 taxihousi-lyss.ch
 taxihousi.ch
 taxihub.ch
-taxihuberswiss.ch
 taxii.ch
 taxiilanz.ch
 taxiinfo.ch

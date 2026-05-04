@@ -24,6 +24,7 @@ sv-bf.ch
 sv-biberist.ch
 sv-bistro.ch
 sv-blbs.ch
+sv-bosna-appenzell.ch
 sv-br.ch
 sv-brandholz.ch
 sv-brigerberg.ch
@@ -2821,6 +2822,7 @@ svsw.ch
 svsxass.ch
 svsz.ch
 svt-ag.ch
+svt-asp.ch
 svt-assa.ch
 svt-immo.ch
 svt-logistik.ch

@@ -3741,7 +3741,9 @@ glid-demo.ch
 glid-kenya.ch
 glid.ch
 glidair.ch
+glide-3d.ch
 glide.ch
+glide3d.ch
 glide88.ch
 glideapps.ch
 glidecoat.ch
@@ -4865,6 +4867,7 @@ globalhuman.ch
 globalhumanhealth.ch
 globalhumanvalues.ch
 globaliaconnect.ch
+globalid.ch
 globalillumination.ch
 globalilty.ch
 globalimages.ch
@@ -6497,6 +6500,7 @@ glow-natural.ch
 glow-school.ch
 glow-shine-cosmetic.ch
 glow-sister.ch
+glow-studio.ch
 glow-tower.ch
 glow-up-cosmetics.ch
 glow-up.ch
@@ -6759,6 +6763,7 @@ glowwear.ch
 glowwell.ch
 glowwinutrition.ch
 glowwithin.ch
+glowwithsimone.ch
 glowworm.ch
 glowwup.ch
 glowy-chur.ch

@@ -986,7 +986,6 @@ ceilingstore.ch
 ceilix.ch
 ceinture.ch
 ceintures.ch
-ceinturesuisse.ch
 ceinvest.ch
 ceirox.ch
 ceiroxlifesciences.ch
@@ -3505,6 +3504,7 @@ centralmind.ch
 centralmusic-shop.ch
 centralmusic.ch
 centralnet.ch
+centralnews.ch
 centralnic-reseller.ch
 centralnic.ch
 centralnicreseller.ch
@@ -3600,7 +3600,6 @@ centralway.ch
 centralweb.ch
 centralx.ch
 centralys.ch
-centralzone.ch
 centramed.ch
 centranet.ch
 centranim.ch
@@ -5671,6 +5670,7 @@ ceramiquecafe.ch
 ceramiquefrancoisekindler.ch
 ceramiquelyrique.ch
 ceramiques-cornol.ch
+ceramiques.ch
 ceramiquetechnique.ch
 ceramiquexxl.ch
 ceramis.ch
@@ -7230,6 +7230,7 @@ cetaj-solutions.ch
 cetana.ch
 cetaphil.ch
 cetapresmidi.ch
+cetarit.ch
 cetarius.ch
 cetateasalvarii.ch
 cetatest.ch

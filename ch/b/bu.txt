@@ -2280,7 +2280,6 @@ buddyathome.ch
 buddyatwork.ch
 buddybandana.ch
 buddybanks.ch
-buddybar.ch
 buddybeach.ch
 buddybear.ch
 buddyblu.ch
@@ -4863,6 +4862,7 @@ buero-am-bellevue.ch
 buero-ao.ch
 buero-appenzell.ch
 buero-architektur.ch
+buero-arnold.ch
 buero-artikel.ch
 buero-assistenz.ch
 buero-ausstattung.ch
@@ -7959,6 +7959,7 @@ bumblebees.ch
 bumblebeesocks.ch
 bumblebit.ch
 bumblebits.ch
+bumblebuddies.ch
 bumbo.ch
 bumbu.ch
 bumbum.ch
@@ -8086,6 +8087,7 @@ buna-treuhand.ch
 buna-vita.ch
 buna.ch
 bunabau.ch
+bunacafebookshop.ch
 bunacasa.ch
 bunacha.ch
 bunacher.ch
@@ -8705,7 +8707,6 @@ bunteszebra.ch
 buntetomaten.ch
 bunteweitewelt.ch
 buntewelt.ch
-bunteweltreisen.ch
 buntfestival.ch
 buntforyou.ch
 buntfroehlicheskulpturen.ch
@@ -12918,12 +12919,10 @@ businesshub-luzern.ch
 businesshub.ch
 businesshubluzern.ch
 businesshubmanno.ch
-businesshubzug.ch
 businesshunter.ch
 businesshypnose.ch
 businesshypnose24.ch
 businessid.ch
-businessideas.ch
 businessidee.ch
 businessideen.ch
 businessimage.ch
@@ -13426,6 +13425,7 @@ businessvideo.ch
 businessvideos.ch
 businessview.ch
 businessview360.ch
+businessvoice.ch
 businesswallet.ch
 businessweb.ch
 businessweberei.ch
@@ -13434,6 +13434,7 @@ businesswebseiten.ch
 businesswebsite.ch
 businessweden.ch
 businessweek.ch
+businesswerk.ch
 businesswheels.ch
 businesswideweb.ch
 businesswifi.ch
@@ -13795,7 +13796,6 @@ bustelstube.ch
 buster-aluboats.ch
 buster.ch
 busterandpunch-shop.ch
-busterandpunch.ch
 busterandpunchshop.ch
 bustercallcards.ch
 busterdas.ch

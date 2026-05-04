@@ -1832,6 +1832,7 @@ pulseaed.ch
 pulseag.ch
 pulseandbalance.ch
 pulsebalance.ch
+pulsebar.ch
 pulsebarryvox.ch
 pulseblast.ch
 pulseboard.ch
@@ -3653,7 +3654,6 @@ pure-prevention.ch
 pure-privacy.ch
 pure-production.ch
 pure-productions.ch
-pure-pur.ch
 pure-pure-by-bauer.ch
 pure-pure-kleid.ch
 pure-pure-strumpfhose.ch
@@ -4279,7 +4279,6 @@ pureproperties.ch
 pureprotectionfilm.ch
 pureproteins.ch
 purepunkt.ch
-purepur.ch
 purepure.ch
 purequalitycotton.ch
 purera.ch
@@ -4426,7 +4425,6 @@ puretone.ch
 puretonepickups.ch
 puretouchnailspa.ch
 puretrace.ch
-puretrack.ch
 puretrading.ch
 puretradition.ch
 puretravel.ch
@@ -5146,7 +5144,6 @@ purya.ch
 puryu.ch
 purzel-baum.ch
 purzel-huus.ch
-purzel.ch
 purzelbaer.ch
 purzelbaum-fr.ch
 purzelbaum.ch

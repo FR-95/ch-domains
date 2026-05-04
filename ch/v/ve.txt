@@ -1013,7 +1013,6 @@ veganfleis.ch
 veganfleisch.ch
 veganfondue.ch
 veganfood.ch
-veganfoodbox.ch
 veganfoodclub.ch
 veganfoodcolors.ch
 veganfoodlab.ch
@@ -2076,6 +2075,7 @@ velerna.ch
 velero.ch
 veles-eu.ch
 veles.ch
+velesadvisory.ch
 veleseurope.ch
 veleshta.ch
 velessa.ch
@@ -6002,6 +6002,7 @@ vera-fit.ch
 vera-forma.ch
 vera-gelateria.ch
 vera-hess.ch
+vera-huesler.ch
 vera-immo.ch
 vera-informatique.ch
 vera-jasmina.ch
@@ -12898,6 +12899,7 @@ versuchsstollen.ch
 versuchsverbot-nein.ch
 versuchsweise.ch
 versuchswerkstatt.ch
+versuchung.ch
 versuchungen.ch
 versuit-engineering.ch
 versuit.ch
@@ -15567,6 +15569,7 @@ vetnutrition.ch
 veto-chiro.ch
 veto-corner.ch
 veto-glanois.ch
+veto-immo.ch
 veto-jutzeler.ch
 veto-lausanne.ch
 veto-mobile.ch

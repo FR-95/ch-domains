@@ -571,7 +571,6 @@ evaluation-immeuble.ch
 evaluation-immobiliere.ch
 evaluation-pme.ch
 evaluation-resto.ch
-evaluation-valeur-immobiliere.ch
 evaluation.ch
 evaluationcognitive.ch
 evaluationcommerce.ch
@@ -1096,6 +1095,7 @@ evavonwyl.ch
 evawandeler.ch
 evawannenmacher.ch
 evaweber.ch
+evaweimer.ch
 evaweiss.ch
 evawende.ch
 evawettstein.ch

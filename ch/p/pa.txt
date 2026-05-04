@@ -1989,6 +1989,8 @@ padelschoolmurten.ch
 padelschule-murten.ch
 padelschulemurten.ch
 padelschweiz.ch
+padelscore.ch
+padelscores.ch
 padelselect.ch
 padelsg.ch
 padelshop.ch
@@ -2120,6 +2122,7 @@ padisarl.ch
 padishop.ch
 padisoft.ch
 padisson.ch
+paditauchschule.ch
 padiwuethrich.ch
 padix.ch
 padiyath.ch
@@ -4381,7 +4384,6 @@ palladium-suisse.ch
 palladium-svizzera.ch
 palladium-switzerland.ch
 palladium.ch
-palladium24.ch
 palladiumag.ch
 palladiumbarren.ch
 palladiumdechampery.ch
@@ -6822,7 +6824,6 @@ panographe.ch
 panographer.ch
 panogrid.ch
 panoha.ch
-panolamp.ch
 panolin.ch
 panolocal.ch
 panolounge.ch
@@ -6919,6 +6920,7 @@ panorama-journal.ch
 panorama-kamera.ch
 panorama-knife.ch
 panorama-lihn.ch
+panorama-living.ch
 panorama-lounge.ch
 panorama-lunch2go.ch
 panorama-luzern.ch
@@ -7936,7 +7938,6 @@ papageienhof.ch
 papageienstation.ch
 papageienwelt.ch
 papageienzucht.ch
-papageio.ch
 papageizucht.ch
 papagena.ch
 papagenabasel.ch
@@ -10939,6 +10940,7 @@ parent-these.ch
 parent.ch
 parenta.ch
 parentaise.ch
+parental.ch
 parentalescence.ch
 parentalfamilyoffice.ch
 parentalidee.ch
@@ -11438,6 +11440,7 @@ parid.ch
 parida-holding.ch
 parida.ch
 paridea.ch
+parideal.ch
 paridor.ch
 parier-en-ligne.ch
 parier-suisse.ch
@@ -14829,6 +14832,7 @@ partsofsafety.ch
 partspak.ch
 partspapa.ch
 partsplus.ch
+partspool.ch
 partsshop.ch
 partsspa.ch
 partsspas.ch
@@ -15343,6 +15347,7 @@ partypinguin.ch
 partypizza.ch
 partypizzacatering.ch
 partyplaner.ch
+partyplanner.ch
 partyplanners.ch
 partyplanung.ch
 partyplatten.ch
@@ -17074,7 +17079,6 @@ passebartout.ch
 passebecq.ch
 passeca.ch
 passecco.ch
-passed.ch
 passel.ch
 passello.ch
 passemoilesel.ch
@@ -20235,7 +20239,6 @@ patrick-gosteli.ch
 patrick-grandchamp.ch
 patrick-gresch.ch
 patrick-griesser.ch
-patrick-gschwend.ch
 patrick-gugliotta.ch
 patrick-haefliger.ch
 patrick-hauri.ch
@@ -20327,7 +20330,6 @@ patrick-schaerer.ch
 patrick-scheu.ch
 patrick-schmalz.ch
 patrick-schmid.ch
-patrick-schmitt.ch
 patrick-schneider.ch
 patrick-schnidrig.ch
 patrick-schuetz.ch
@@ -23925,6 +23927,7 @@ paymentsystem.ch
 paymentsystems.ch
 paymenttrust.ch
 paymentvibes.ch
+paymeo.ch
 paymesch.ch
 paymesh.ch
 paymetrics.ch

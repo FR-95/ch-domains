@@ -1460,6 +1460,7 @@ zimmer-switzerland.ch
 zimmer-thun.ch
 zimmer-vermieten.ch
 zimmer-vermietung.ch
+zimmer-verzeichnis.ch
 zimmer-weibel.ch
 zimmer-zu-vermieten.ch
 zimmer-zuerich.ch
@@ -1507,7 +1508,6 @@ zimmerbergholz.ch
 zimmerbergimmo.ch
 zimmerbergimmobilien.ch
 zimmerbergstoren.ch
-zimmerbergumzug.ch
 zimmerbergwind.ch
 zimmerbiomet.ch
 zimmerbiometdental.ch
@@ -1941,6 +1941,7 @@ zimmervermietung-ackersand.ch
 zimmervermietung-frick.ch
 zimmervermietung-seon.ch
 zimmervermietung.ch
+zimmervermietungen.ch
 zimmervermittlung.ch
 zimmerverwaltung.ch
 zimmerverzeichnis.ch
@@ -1958,6 +1959,7 @@ zimmi-immobilien.ch
 zimmi-massagen.ch
 zimmi.ch
 zimmibauallrauter.ch
+zimmicloud.ch
 zimmidruck.ch
 zimmihome.ch
 zimmis-ministries.ch
@@ -2543,7 +2545,6 @@ zioerjenbauag.ch
 zioerjenmaarsen.ch
 zioerjenmetallbau.ch
 zioerjensiegrist.ch
-ziogas.ch
 zioludi.ch
 zion-services.ch
 zion-shop.ch

@@ -63,7 +63,6 @@ lg-serrurerie.ch
 lg-sportpferde.ch
 lg-stiftung.ch
 lg-studio.ch
-lg-technik.ch
 lg-theilerplatz.ch
 lg-theilerstrasse.ch
 lg-theilerweg.ch
@@ -322,6 +321,7 @@ lgrob.ch
 lgross.ch
 lgroup.ch
 lgrp.ch
+lgrp2.ch
 lgruber.ch
 lgs-gmbh.ch
 lgs-immo.ch
@@ -365,7 +365,6 @@ lgteam.ch
 lgtec-landolt.ch
 lgtec.ch
 lgtech.ch
-lgtechnik.ch
 lgtechnique.ch
 lgtel.ch
 lgtgeolab.ch

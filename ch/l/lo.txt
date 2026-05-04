@@ -392,7 +392,6 @@ lobsterstudios.ch
 lobsterstudiosag.ch
 lobsterweight.ch
 lobston.ch
-lobstory.ch
 lobstr.ch
 lobtech.ch
 lobu.ch
@@ -817,6 +816,7 @@ localgo.ch
 localgoods.ch
 localgourmet.ch
 localgraph.ch
+localgrid.ch
 localgroup.ch
 localguid.ch
 localguide.ch
@@ -3876,6 +3876,7 @@ logiciel-podologue.ch
 logiciel-poker.ch
 logiciel-rh.ch
 logiciel-salaires.ch
+logiciel-therapeute.ch
 logiciel-vitrerie.ch
 logiciel.ch
 logicielconstruction.ch
@@ -5480,6 +5481,7 @@ lohnmessung.ch
 lohnmetzgerei.ch
 lohnmischen.ch
 lohnmobil.ch
+lohnmoment.ch
 lohnmoos.ch
 lohnnebenleistung.ch
 lohnnebenleistungen.ch
@@ -6123,6 +6125,7 @@ lokalgenial.ch
 lokalgenuss.ch
 lokalgeschichte.ch
 lokalgewerbe.ch
+lokalgrid.ch
 lokalguide.ch
 lokalgutschein.ch
 lokalheld.ch
@@ -6488,6 +6491,7 @@ lolasdreamofknowledge.ch
 lolasevents.ch
 lolashome-petcare.ch
 lolaskitchen.ch
+lolaslumpias.ch
 lolasoft.ch
 lolasrentacar.ch
 lolastudio.ch
@@ -7279,7 +7283,6 @@ longevitrue.ch
 longevity-academy.ch
 longevity-akademie.ch
 longevity-arosa.ch
-longevity-beratung.ch
 longevity-biohacking.ch
 longevity-center.ch
 longevity-centre.ch
@@ -8053,6 +8056,7 @@ loomgelataria1900.ch
 loomi-altstetten.ch
 loomi.ch
 loomibeauty.ch
+loomie.ch
 loomies.ch
 loomiloo.ch
 loomin.ch
@@ -9396,6 +9400,7 @@ lorientkebab-ozkaya-neuchatel.ch
 lorienyarns.ch
 lorig.ch
 lorigami.ch
+loright.ch
 loriginal.ch
 lorigine-institut.ch
 lorigine.ch
@@ -9459,6 +9464,7 @@ loriolconceptpaysagiste.ch
 lorios.ch
 loriot.ch
 loriottmann.ch
+loris-bee.ch
 loris-benoit.ch
 loris-dev.ch
 loris-emmenegger.ch
@@ -10078,7 +10084,6 @@ lostacoshermanos.ch
 lostacoshermanospully.ch
 lostagainmusic.ch
 lostage.ch
-lostago.ch
 lostal-diablerets.ch
 lostallo.ch
 lostallo24.ch
@@ -10147,7 +10152,6 @@ lostile.ch
 lostiledigio.ch
 lostin.ch
 lostinadetail.ch
-lostincareer.ch
 lostinceligny.ch
 lostindisco.ch
 lostinglaciers.ch

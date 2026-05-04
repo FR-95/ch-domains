@@ -571,6 +571,7 @@ team-hundeblick.ch
 team-idea.ch
 team-illich.ch
 team-im-3.ch
+team-im.ch
 team-impact.ch
 team-impuls.ch
 team-innovation.ch
@@ -618,7 +619,6 @@ team-limousines.ch
 team-lindenberger.ch
 team-lindorna.ch
 team-line.ch
-team-linux.ch
 team-luxury-international.ch
 team-ly.ch
 team-m.ch
@@ -632,7 +632,6 @@ team-masi.ch
 team-mate.ch
 team-mauensee.ch
 team-mbs.ch
-team-mc.ch
 team-md8.ch
 team-mdef.ch
 team-media.ch
@@ -6441,6 +6440,7 @@ teixeirahartbodengmbh.ch
 teixos.ch
 teixpartners.ch
 tej.ch
+teja-atelier.ch
 teja-kinderbetreuung.ch
 teja.ch
 tejada.ch
@@ -7744,6 +7744,7 @@ telematikonlineshop.ch
 telematikpartner.ch
 telematikshop.ch
 telematikteam.ch
+telematikum.ch
 telematin.ch
 telematique.ch
 telematis.ch
@@ -10560,7 +10561,6 @@ tennishallekerns.ch
 tennishallen.ch
 tennishalleweinfelden.ch
 tennishaslital.ch
-tennishaus.ch
 tennisheiden.ch
 tennisherwig.ch
 tennishighschool.ch
@@ -11187,7 +11187,6 @@ teorema.ch
 teoresi.ch
 teoresigroup.ch
 teoria24.ch
-teoritahiti.ch
 teos-italian-food.ch
 teos-italianfood.ch
 teoschifferli.ch
@@ -11316,7 +11315,6 @@ teppich.ch
 teppich24.ch
 teppichankauf.ch
 teppicharian.ch
-teppichatelier-meyer-mueller.ch
 teppichatelier.ch
 teppichaufmass.ch
 teppichbahn.ch
@@ -12454,6 +12452,7 @@ terra3d.ch
 terra4.ch
 terra45.ch
 terra5.ch
+terra7.ch
 terraalpina.ch
 terraalpinaapartment.ch
 terraalpine.ch
@@ -12658,6 +12657,7 @@ terragreca.ch
 terragrif.ch
 terragrischuna.ch
 terragro.ch
+terragrossa.ch
 terraguide.ch
 terragusto.ch
 terrahelvetia.ch
@@ -13346,6 +13346,7 @@ terraxaler.ch
 terraxis.ch
 terraxissa.ch
 terraxon.ch
+terraxxi.ch
 terraxxo.ch
 terrayoga.ch
 terrayum.ch
@@ -14328,6 +14329,7 @@ teslasociety.ch
 teslasolar.ch
 teslasteel.ch
 teslastore.ch
+teslasuisseromande.ch
 teslasupport.ch
 teslaswisshome.ch
 teslaswissromande.ch
@@ -15637,7 +15639,6 @@ testmybusiness.ch
 testmynet.ch
 testmyotaku1.ch
 testmyotaku2.ch
-testmysite.ch
 testname.ch
 testnamesafe22a.ch
 testnet.ch
@@ -16338,6 +16339,7 @@ teupex.ch
 teupgmbh.ch
 teure-energie-nein.ch
 teure-uhren.ch
+teureparkierverordnungnein.ch
 teuresbillig.ch
 teureuhren.ch
 teurnia.ch

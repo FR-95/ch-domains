@@ -4123,6 +4123,7 @@ agrar-swiss.ch
 agrar-team.ch
 agrar-tech.ch
 agrar-technik.ch
+agrar-teile.ch
 agrar-tiefbau.ch
 agrar-trans.ch
 agrar-verschleisstechnik.ch
@@ -4212,6 +4213,7 @@ agraroekonomie.ch
 agrarotech.ch
 agrarpaedagogik.ch
 agrarpaedagogin.ch
+agrarparts.ch
 agrarpatenschaft.ch
 agrarpiloten.ch
 agrarplaner.ch
@@ -5260,6 +5262,7 @@ agroos-futterhandel.ch
 agroos.ch
 agropack.ch
 agropartners.ch
+agroparts.ch
 agropatenschaft.ch
 agropatenschaften.ch
 agropersonal.ch

@@ -2850,6 +2850,7 @@ gold-waschen-suchen.ch
 gold-waschen.ch
 gold-well.ch
 gold-werk.ch
+gold-zeit.ch
 gold-zentrale.ch
 gold-zertifikate.ch
 gold-zino.ch
@@ -8483,6 +8484,7 @@ googlehupf.ch
 googleinfo.ch
 googleinstant.ch
 googleisevil.ch
+googlejob.ch
 googlekampagnen.ch
 googlel.ch
 googlelehrer.ch

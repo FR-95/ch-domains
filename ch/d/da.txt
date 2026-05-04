@@ -618,7 +618,6 @@ dacharbeiten.ch
 dacharch.ch
 dachart.ch
 dachasa.ch
-dachaschallesha.ch
 dachatelier.ch
 dachaufbau.ch
 dachaufbauten-epting.ch
@@ -1095,6 +1094,7 @@ dachsanierung-zuerich.ch
 dachsanierung.ch
 dachsanierung24.ch
 dachsanierungbern.ch
+dachsanierungen-kosten.ch
 dachsanierungen.ch
 dachsanierungzentral.ch
 dachsart.ch
@@ -2584,7 +2584,6 @@ daihatsu.ch
 daihudo.ch
 daiichi-sankyo.ch
 daiichisankyo.ch
-daiico.ch
 daiiichi-sankyo.ch
 daiiichisankyo.ch
 daik.ch
@@ -5700,7 +5699,6 @@ dani-nr.ch
 dani-on-tour.ch
 dani-paysage.ch
 dani-pfaeffer.ch
-dani-renov.ch
 dani-renovation.ch
 dani-roth.ch
 dani-salon.ch
@@ -8627,7 +8625,6 @@ dansestudioprilly.ch
 dansesuisse.ch
 dansesurladoux.ch
 dansesurlechemin.ch
-dansetahitiennegeneve.ch
 dansetanature.ch
 dansetherapie.ch
 dansetousstyles.ch
@@ -11820,6 +11817,7 @@ dashwork.ch
 dashy.ch
 dashyy.ch
 dasi.ch
+dasic.ch
 dasich.ch
 dasico.ch
 dasideal.ch
@@ -13031,7 +13029,6 @@ databau.ch
 databauer.ch
 databaum.ch
 databaur.ch
-databear.ch
 databee.ch
 databeerszh.ch
 databeerszrh.ch
@@ -13493,6 +13490,7 @@ dataimpact.ch
 dataimpactgroup.ch
 dataimplant.ch
 dataimpulse.ch
+datain.ch
 dataindustry.ch
 datainfo.ch
 datainherit.ch
@@ -14198,6 +14196,7 @@ datazenlab.ch
 datazenter.ch
 datazg.ch
 datazh.ch
+datazip.ch
 datazone.ch
 datazu.ch
 datazug.ch
@@ -16769,6 +16768,7 @@ daviesconsult.ch
 daviesconsulting.ch
 daviesmakes.ch
 daviesmeyer.ch
+daviesphotography.ch
 davifarhi.ch
 daviking.ch
 davila.ch
@@ -17657,7 +17657,6 @@ dayparty.ch
 daypartys.ch
 daypasstracker.ch
 daypilot.ch
-dayplus.ch
 dayquila.ch
 dayquiri.ch
 dayraince.ch

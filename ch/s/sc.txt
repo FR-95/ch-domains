@@ -608,6 +608,7 @@ scalegift.ch
 scalegiftmassage.ch
 scalegiftmassages.ch
 scalegiftsignature.ch
+scalegroup.ch
 scalegrow.ch
 scaleheli.ch
 scaleia.ch
@@ -2428,6 +2429,7 @@ schachevents.ch
 schachevitalplus.ch
 schachferien.ch
 schachfestivalbasel.ch
+schachfiguren.ch
 schachfrauenfeld.ch
 schachfreundethun.ch
 schachgenie.ch
@@ -3822,6 +3824,7 @@ schafroth-coaching.ch
 schafroth-consulting.ch
 schafroth-immobilien.ch
 schafroth-transports.ch
+schafroth-zahntechnik.ch
 schafroth.ch
 schafschoen.ch
 schafschur-ackermann.ch
@@ -3898,6 +3901,7 @@ schairli.ch
 schairon.ch
 schait-kunz.ch
 schaivel.ch
+schajn-reinigung.ch
 schakal.ch
 schake.ch
 schaknat.ch
@@ -9246,7 +9250,6 @@ schlafdichfit.ch
 schlafdichvital.ch
 schlafdoktor.ch
 schlafdoof.ch
-schlafe.ch
 schlafegesund.ch
 schlafegg.ch
 schlafeinrichter.ch
@@ -9344,6 +9347,7 @@ schlaflabor-zuerich.ch
 schlaflabor.ch
 schlaflaborbeo.ch
 schlaflabore.ch
+schlaflaborzuerich.ch
 schlafland.ch
 schlaflexikon.ch
 schlafli.ch
@@ -15595,6 +15599,7 @@ schneedienst.ch
 schneeeule.ch
 schneefahrtraining.ch
 schneefahrzeuge.ch
+schneefall.ch
 schneefallgrenze.ch
 schneefallgrenze21.ch
 schneefang.ch
@@ -15903,7 +15908,6 @@ schnegg-woodwork.ch
 schnegg.ch
 schneggahuesli.ch
 schneggconsulting.ch
-schneggedame.ch
 schneggehuus.ch
 schneggen-reinach.ch
 schneggen.ch
@@ -20080,6 +20084,7 @@ schratti-schraenzer.ch
 schrattlab.ch
 schraub-fundament.ch
 schraub-fundamente.ch
+schraub.ch
 schraubaer.ch
 schraubart.ch
 schraube-24.ch
@@ -22091,6 +22096,7 @@ schroeder-baumanagement.ch
 schroeder-consulting.ch
 schroeder-design.ch
 schroeder-guss.ch
+schroeder-it.ch
 schroeder-keller.ch
 schroeder-kuechen.ch
 schroeder-martinez.ch
@@ -26669,7 +26675,6 @@ schumannecom.ch
 schumannfamily.ch
 schumatec.ch
 schumatech.ch
-schumax.ch
 schumba.ch
 schumbag.ch
 schumbraders.ch
@@ -31135,6 +31140,7 @@ schweizerillustrierte.ch
 schweizerillustriertestyle.ch
 schweizerimker.ch
 schweizerimmo-team.ch
+schweizerimmobilie.ch
 schweizerimmobilien.ch
 schweizerimmobilienberatung.ch
 schweizerimmobilienwerte.ch
@@ -31640,6 +31646,7 @@ schweizerpuls-immobilien.ch
 schweizerpuls.ch
 schweizerpunkt.ch
 schweizerpuzzlemeisterschaft.ch
+schweizerpuzzleverband.ch
 schweizerqualitaet.ch
 schweizerquartett.ch
 schweizerquelle.ch
@@ -32725,6 +32732,7 @@ schwiizdidge.ch
 schwiizer-aronia.ch
 schwiizer-chalet.ch
 schwiizer-chind.ch
+schwiizer-chuchi.ch
 schwiizer-faescht.ch
 schwiizer-goofe.ch
 schwiizer-hits.ch

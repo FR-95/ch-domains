@@ -426,6 +426,7 @@ x-roi.ch
 x-root.ch
 x-roses.ch
 x-rubicon.ch
+x-s.ch
 x-safe.ch
 x-sales.ch
 x-sante.ch

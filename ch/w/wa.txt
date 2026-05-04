@@ -394,7 +394,6 @@ wachen.ch
 wachenfels.ch
 wacher.ch
 wachesmanagement.ch
-wachgedacht.ch
 wachholz.ch
 wachhund.ch
 wachhundfreiheit.ch
@@ -3067,6 +3066,7 @@ wakesurfers.ch
 wakesurffestival.ch
 wakesurfing.ch
 wakesurfwalensee.ch
+wakesurfzug.ch
 wakesyndicate.ch
 wakethefunnelup.ch
 wakethief.ch
@@ -4059,7 +4059,6 @@ waldis-gruppe.ch
 waldis-immobilien.ch
 waldis-pizza-shop.ch
 waldis-planen.ch
-waldis-planing.ch
 waldis-planning.ch
 waldis-printing.ch
 waldis-safe.ch
@@ -4080,7 +4079,6 @@ waldisimpuls.ch
 waldisliving.ch
 waldisoffice.ch
 waldispizza.ch
-waldisplaning.ch
 waldisplanning.ch
 waldisprinting.ch
 waldispuehl-restaurierung.ch
@@ -4930,6 +4928,7 @@ walids-orientalkitchen.ch
 walifarmer.ch
 walig-huette.ch
 walig-hut.ch
+waligips.ch
 waligipser.ch
 waliha.ch
 walim.ch
@@ -5423,6 +5422,7 @@ wallcircus.ch
 wallclimbingcar.ch
 wallcloud.ch
 wallco.ch
+wallcommunication.ch
 wallcon.ch
 wallcover.ch
 wallcovering.ch
@@ -11261,6 +11261,7 @@ wassertaxi.ch
 wassertaxibasel.ch
 wassertaxis.ch
 wassertechnik.ch
+wassertechnologie.ch
 wassertemp.ch
 wassertempel.ch
 wassertemperatur-wartau.ch

@@ -1886,6 +1886,7 @@ ns1.gr.ch
 ns1.gr8.ch
 ns1.gracy.ch
 ns1.graessle.ch
+ns1.gramegna.ch
 ns1.grandmedia.ch
 ns1.graphic-solutions.ch
 ns1.grb-renovation.ch
@@ -2935,6 +2936,7 @@ ns1.pinkbox.ch
 ns1.pinklemon.ch
 ns1.pintarelli.ch
 ns1.piratenpartei.ch
+ns1.pixaro.ch
 ns1.pixelimage.ch
 ns1.pixelpusher.ch
 ns1.pixels-points.ch
@@ -3354,7 +3356,6 @@ ns1.sirupzone.ch
 ns1.sisnet.ch
 ns1.sixcom.ch
 ns1.sixhosts.ch
-ns1.sk-online.ch
 ns1.skcomputing.ch
 ns1.ski-bergtouren.ch
 ns1.skilled.ch
@@ -3931,6 +3932,7 @@ ns1.xn--hoflden-8wa.ch
 ns1.xn--kostromshop-qfb.ch
 ns1.xn--oy-oy-csad.ch
 ns1.xn--ri-wka.ch
+ns1.xn--sterrei-80a.ch
 ns1.xn--uov-mnsingen-hlb.ch
 ns1.xnx.ch
 ns1.xpn.ch
@@ -5198,6 +5200,7 @@ ns2.gowww.ch
 ns2.gr8.ch
 ns2.gracy.ch
 ns2.graessle.ch
+ns2.gramegna.ch
 ns2.grandmedia.ch
 ns2.graphic-solutions.ch
 ns2.grb-renovation.ch
@@ -6194,6 +6197,7 @@ ns2.pinkbox.ch
 ns2.pinklemon.ch
 ns2.pintarelli.ch
 ns2.piratenpartei.ch
+ns2.pixaro.ch
 ns2.pixelimage.ch
 ns2.pixelpusher.ch
 ns2.pixels-points.ch
@@ -6604,7 +6608,6 @@ ns2.sirupzone.ch
 ns2.sisnet.ch
 ns2.sixcom.ch
 ns2.sixhosts.ch
-ns2.sk-online.ch
 ns2.skcomputing.ch
 ns2.ski-bergtouren.ch
 ns2.skinheads.ch
@@ -7165,6 +7168,7 @@ ns2.xn--hoflden-8wa.ch
 ns2.xn--kostromshop-qfb.ch
 ns2.xn--oy-oy-csad.ch
 ns2.xn--ri-wka.ch
+ns2.xn--sterrei-80a.ch
 ns2.xn--uov-mnsingen-hlb.ch
 ns2.xnx.ch
 ns2.xpn.ch
@@ -7787,6 +7791,7 @@ ns3.pianeti.ch
 ns3.picfilm.ch
 ns3.pimpernet.ch
 ns3.piratenpartei.ch
+ns3.pixaro.ch
 ns3.plan-f.ch
 ns3.platindns.ch
 ns3.plenarit.ch
@@ -8018,6 +8023,7 @@ ns3.xirrus.ch
 ns3.xmc.ch
 ns3.xmedia.ch
 ns3.xn--flckiger-optik-hrcenter-nlc9k.ch
+ns3.xn--sterrei-80a.ch
 ns3.xnx.ch
 ns3.xpx.ch
 ns3.your-web.ch

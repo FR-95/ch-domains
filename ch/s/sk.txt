@@ -874,6 +874,7 @@ sketchanddraw.ch
 sketchandhike.ch
 sketchbook.ch
 sketchcity.ch
+sketchclub.ch
 sketchconcept.ch
 sketchdesign.ch
 sketche.ch
@@ -4557,6 +4558,7 @@ sks-kontakt.ch
 sks-laupen.ch
 sks-ost.ch
 sks-partner.ch
+sks-partners.ch
 sks-rehab.ch
 sks-roltec.ch
 sks-shogun.ch

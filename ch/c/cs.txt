@@ -837,7 +837,6 @@ csinstallations.ch
 csinstrument.ch
 csinstruments.ch
 csinszka.ch
-csint.ch
 csinterieur.ch
 csinternational.ch
 csinterstargeneve.ch

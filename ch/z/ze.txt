@@ -132,7 +132,6 @@ zebra-scanner.ch
 zebra-stein.ch
 zebra-travel.ch
 zebra-treuhand.ch
-zebra-ui.ch
 zebra-zelt.ch
 zebra.ch
 zebra3.ch
@@ -309,6 +308,7 @@ zeckenmittel.ch
 zeckenrolle.ch
 zeckenrollen.ch
 zeckensaison.ch
+zeckenscan.ch
 zeckenschlinge.ch
 zeckenschutz-hund.ch
 zeckenschutz-hunde.ch
@@ -5855,7 +5855,6 @@ zerp.ch
 zerpla.ch
 zerra-wheels.ch
 zerra.ch
-zerre.ch
 zerres-design.ch
 zerres.ch
 zerrhairandartatelier.ch

@@ -292,9 +292,6 @@ pvc-belag.ch
 pvc-boden.ch
 pvc-direct.ch
 pvc-fenster.ch
-pvc-fitting.ch
-pvc-fittinge.ch
-pvc-fittings.ch
 pvc-group.ch
 pvc-kleber.ch
 pvc-patch.ch

@@ -2298,7 +2298,6 @@ guide-jura.ch
 guide-lafouly.ch
 guide-lausanne.ch
 guide-lavaux.ch
-guide-local.ch
 guide-loisir.ch
 guide-loisirs.ch
 guide-me.ch
@@ -4365,7 +4364,6 @@ gusmo.ch
 gusmologie.ch
 guso.ch
 gusoft.ch
-gusolutions.ch
 gusphotography.ch
 guspreng.ch
 guspro.ch
@@ -4413,6 +4411,7 @@ gussrohr.ch
 gussroste.ch
 gusstechnik-tschupp.ch
 gusstechnik.ch
+gussteile.ch
 gussterrazzo.ch
 gusstopf.ch
 gussus.ch

@@ -1297,7 +1297,6 @@ ascentus.ch
 ascentys.ch
 ascenzia.ch
 asceromande.ch
-ascerus.ch
 asces.ch
 ascfutbol.ch
 ascg.ch
@@ -2324,6 +2323,7 @@ ashcommunity.ch
 ashconsult.ch
 ashcore.ch
 ashcroft.ch
+ashcrow.ch
 ashdeco.ch
 ashe.ch
 ashecari.ch
@@ -2819,6 +2819,7 @@ asiandining.ch
 asiandiscovery.ch
 asiandream.ch
 asianet.ch
+asianevents.ch
 asianeyecandy.ch
 asianfever.ch
 asianflower.ch
@@ -3386,6 +3387,7 @@ askchristian.ch
 askcoach.ch
 askconsulting.ch
 askdebbie.ch
+askdental.ch
 askdonna.ch
 askdoris.ch
 askdrama.ch
@@ -3867,6 +3869,7 @@ asmo.ch
 asmobil.ch
 asmobll.ch
 asmodaylive.ch
+asmodeus.ch
 asmodi.ch
 asmodis.ch
 asmoebelservice.ch
@@ -5422,6 +5425,7 @@ assistancenotariale.ch
 assistanceordinateurgeneve.ch
 assistancepartner.ch
 assistancepc.ch
+assistancepcgeneve.ch
 assistancepoint.ch
 assistancepro.ch
 assistances.ch
@@ -6721,6 +6725,7 @@ assurance-menage.ch
 assurance-meteo.ch
 assurance-militaire.ch
 assurance-moins-chere.ch
+assurance-naissance.ch
 assurance-ne.ch
 assurance-neuchatel.ch
 assurance-nucleaire.ch
@@ -8507,6 +8512,7 @@ astrologiegutachten.ch
 astrologieheute.ch
 astrologiehoroskop.ch
 astrologiehoroskope.ch
+astrologiehumaniste.ch
 astrologiekunst.ch
 astrologieleben.ch
 astrologienussbaum.ch

@@ -544,6 +544,7 @@ l-s-a.ch
 l-s-c.ch
 l-s-g-media.ch
 l-s-group.ch
+l-s-p.ch
 l-s.ch
 l-sarmis.ch
 l-sc.ch

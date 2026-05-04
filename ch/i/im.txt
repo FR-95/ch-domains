@@ -1979,7 +1979,6 @@ imgehren.ch
 imgelin.ch
 imgen.ch
 imgenesi.ch
-imges.ch
 imgespraech.ch
 imgfenn.ch
 imgiessen.ch
@@ -5461,6 +5460,7 @@ immobilien-standort-check.ch
 immobilien-steger.ch
 immobilien-steinauer.ch
 immobilien-stgallen.ch
+immobilien-stmoritz.ch
 immobilien-stoeckli.ch
 immobilien-strategie.ch
 immobilien-such-service.ch
@@ -6110,7 +6110,6 @@ immobilienmaklersoftware.ch
 immobilienmaklersolothurn.ch
 immobilienmaklervergleich.ch
 immobilienmaklervergleichen.ch
-immobilienmaklerverzeichnis.ch
 immobilienmaklerwerdenquereinsteiger.ch
 immobilienmaklerwinterthur-neho.ch
 immobilienmaklerwinterthur.ch
@@ -6713,7 +6712,6 @@ immobilierdussex.ch
 immobiliere-de-lausanne.ch
 immobiliere-de-morges.ch
 immobiliere-deltadelebro.ch
-immobiliere-expertise.ch
 immobiliere-francosuisse.ch
 immobiliere-genevoise.ch
 immobiliere-romande.ch
@@ -7869,6 +7867,7 @@ immoki.ch
 immokick.ch
 immoking.ch
 immokiosk.ch
+immokision.ch
 immokiste.ch
 immokistler.ch
 immokit.ch
@@ -7951,7 +7950,6 @@ immolea.ch
 immolead.ch
 immoleader.ch
 immoleaders.ch
-immoleads.ch
 immoleage.ch
 immoleague-cars.ch
 immoleague-invest.ch
@@ -11659,7 +11657,6 @@ impotvs.ch
 impotzen.ch
 impower.ch
 impowin.ch
-impozia.ch
 impraegnierung.ch
 impraegnierwerk.ch
 impraisa-electrica.ch

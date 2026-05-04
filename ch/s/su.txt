@@ -4024,7 +4024,6 @@ suisselocation.ch
 suisselock.ch
 suisselog.ch
 suisselogin.ch
-suisselogistics.ch
 suisselogo.ch
 suisseloisirs.ch
 suisselook.ch
@@ -5424,6 +5423,7 @@ summarum.ch
 summarvoogil.ch
 summary.ch
 summasummarum.ch
+summatech.ch
 summation.ch
 summatreuhand.ch
 summaverba.ch
@@ -6764,7 +6764,6 @@ sunity.ch
 suniva.ch
 sunivibe.ch
 sunix.ch
-sunja.ch
 sunjets-direct.ch
 sunjets.ch
 sunjupiter.ch
@@ -9537,6 +9536,7 @@ supernanafashion.ch
 supernannys.ch
 supernatifs.ch
 supernatur.ch
+supernatural.ch
 supernaturalclub.ch
 supernatureproducts.ch
 supernerd.ch
@@ -10245,12 +10245,10 @@ supmar.ch
 supmaran.ch
 supmaster.ch
 supmeetspilates.ch
-supmoodle.ch
 supmover.ch
 supnews.ch
 supnyon.ch
 supo.ch
-supoffice.ch
 supoint.ch
 supol.ch
 supolo.ch
@@ -11010,7 +11008,6 @@ suptc.ch
 supte.ch
 supteam.ch
 suptel.ch
-suptesting.ch
 suptheaare.ch
 supthut.ch
 supticino.ch
@@ -13444,7 +13441,6 @@ susisauber.ch
 susisheadline.ch
 susishundeparadiesmitherz.ch
 susisimkerei.ch
-susisorglos.ch
 susistrolch.ch
 susisu.ch
 susisuess.ch
@@ -13831,7 +13827,6 @@ sustaininno.ch
 sustainit.ch
 sustainity.ch
 sustainlab.ch
-sustainly.ch
 sustainlytic.ch
 sustainnet.ch
 sustainnovation.ch

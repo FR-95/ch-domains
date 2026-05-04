@@ -1585,6 +1585,7 @@ urgenceosteopathique.ch
 urgencepalestine-vd.ch
 urgencepalestine.ch
 urgencepc.ch
+urgencepcgeneve.ch
 urgencepediatregeneve.ch
 urgencepediatrique.ch
 urgenceplomberie.ch
@@ -1831,8 +1832,6 @@ urig-frutigland.ch
 urig-gampelen.ch
 urig-herznach.ch
 urig-hirzel.ch
-urig-international-foerdermitglied.ch
-urig-international-sicherheit.ch
 urig-jegenstorf.ch
 urig-leibstadt.ch
 urig-leutwil.ch
@@ -3434,6 +3433,7 @@ ursenbacher-law.ch
 ursenbacher.ch
 ursenbacherlaw.ch
 ursenbachers.ch
+ursenbachwebdesign.ch
 ursender.ch
 ursengesser.ch
 ursera-homes.ch
@@ -3767,7 +3767,6 @@ ursmannhart.ch
 ursmantel.ch
 ursmaron.ch
 ursmarrer.ch
-ursmarti.ch
 ursmartigmbh.ch
 ursmartin.ch
 ursmatter.ch

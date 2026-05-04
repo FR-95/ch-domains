@@ -2912,9 +2912,7 @@ planwon.ch
 planwork.ch
 planworker.ch
 planworld.ch
-planx-consulting.ch
 planx.ch
-planxconsulting.ch
 planxd.ch
 planxpress.ch
 plany.ch
@@ -5502,7 +5500,6 @@ pleasurelab.ch
 pleasureleaf.ch
 pleasurely.ch
 pleasuremag.ch
-pleasurenook.ch
 pleasureparty.ch
 pleasurepeak.ch
 pleasureproductions.ch
@@ -7351,6 +7348,7 @@ plumeetpoil.ch
 plumeetpoils.ch
 plumelia.ch
 plumelibre.ch
+plumeo.ch
 plumeovent.ch
 plumeplumes.ch
 plumera.ch

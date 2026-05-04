@@ -1914,6 +1914,7 @@ accordis.ch
 accordisbern.ch
 accordisbernzentrum.ch
 accordissimo.ch
+accordissimoband.ch
 accordissimoopendoor.ch
 accordisthun.ch
 accordix.ch
@@ -5420,6 +5421,7 @@ acs-art-collection-switzerland.ch
 acs-arts.ch
 acs-audiovisuel.ch
 acs-auto.ch
+acs-basel.ch
 acs-bau.ch
 acs-bern.ch
 acs-chauffage-sanitaire.ch
@@ -6104,6 +6106,7 @@ actionbee.ch
 actionbiblique.ch
 actionbikes.ch
 actionbooking.ch
+actionbougies.ch
 actionboxgear.ch
 actionburger.ch
 actioncam.ch
@@ -7622,7 +7625,6 @@ acygest.ch
 acyn.ch
 acyr.ch
 acyras.ch
-acytec.ch
 acytronix.ch
 acz-baumanagement.ch
 acz-services.ch

@@ -648,7 +648,6 @@ bibelseminar.ch
 bibelserver.ch
 bibelset.ch
 bibelshop.ch
-bibelsoftware.ch
 bibelspruch.ch
 bibelstammbaum.ch
 bibelstand.ch
@@ -3690,7 +3689,6 @@ bierkollektiv-friesenberg.ch
 bierkollektiv.ch
 bierkompass.ch
 bierkonfigurator.ch
-bierkonstrukt.ch
 bierkreuzfahrt.ch
 bierkruege.ch
 bierkruegler.ch
@@ -3744,7 +3742,6 @@ biermalz.ch
 biermann-neff.ch
 biermann.ch
 biermanski.ch
-biermanufaktur.ch
 biermesse-olten.ch
 biermesse.ch
 biermichel.ch
@@ -3821,7 +3818,6 @@ bierschiff.ch
 bierschlacht.ch
 bierschloss.ch
 bierschmid.ch
-bierschmiede.ch
 bierschnaegge.ch
 bierschulden.ch
 bierschule.ch
@@ -3865,7 +3861,6 @@ bierstein.ch
 biersticker.ch
 bierstube.ch
 bierstubebasel.ch
-bierstudio.ch
 bierstuerzer-sissach.ch
 bierstunden.ch
 bierswaf.ch
@@ -4250,7 +4245,6 @@ big-foot.ch
 big-forum.ch
 big-foundation.ch
 big-game.ch
-big-gina.ch
 big-gmbh.ch
 big-green-egg.ch
 big-greenegg.ch
@@ -4684,7 +4678,6 @@ bigday.ch
 bigdayalert.ch
 bigdays.ch
 bigdayz.ch
-bigdeal.ch
 bigdealdvd.ch
 bigdeals.ch
 bigdesign.ch
@@ -5438,7 +5431,6 @@ biili-hung.ch
 biilihung.ch
 biilihungshop.ch
 biim.ch
-biims.ch
 biimtech.ch
 biina.ch
 biinasign.ch
@@ -12211,6 +12203,7 @@ bioaktivstoffkonzentrat.ch
 bioaktivstoffkonzentrate.ch
 bioaktuell.ch
 bioakustik.ch
+bioalgex.ch
 bioalignement.ch
 bioallianz.ch
 bioalpin.ch
@@ -14362,6 +14355,7 @@ biomacher.ch
 biomaco.ch
 biomade.ch
 biomaerit.ch
+biomaerkte.ch
 biomag-magnetfeldtherapie.ch
 biomag-medical.ch
 biomag.ch
@@ -16935,6 +16929,7 @@ birkman-coach.ch
 birkman-methode.ch
 birkman-profil.ch
 birkman-schweiz.ch
+birkman-test-schweiz.ch
 birkman-test.ch
 birkman-trainer.ch
 birkman.ch
@@ -17087,6 +17082,7 @@ birragottardo.ch
 birragusta.ch
 birraia.ch
 birrainbattello.ch
+birraincapriasca.ch
 birrainfesta.ch
 birraio.ch
 birralocarno.ch
@@ -17548,6 +17544,7 @@ bischis-place.ch
 bischis-racletteplausch.ch
 bischis.ch
 bischisallroundergmbh.ch
+bischisbienen.ch
 bischler.ch
 bischnotammaa.ch
 bischoefe.ch
@@ -19977,7 +19974,6 @@ bitteglueck.ch
 bittel-ag.ch
 bittel-hess.ch
 bittel-zermatt.ch
-bittel-zermatt2.ch
 bittel.ch
 bittelangsam.ch
 bittelrousseau.ch

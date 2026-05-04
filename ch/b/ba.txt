@@ -324,6 +324,7 @@ baaz-indian-takeaway.ch
 baaz.ch
 baazaar.ch
 baazar.ch
+baazindian-takeaway.ch
 bab-alharaa.ch
 bab-architektur.ch
 bab-ballwil.ch
@@ -392,7 +393,6 @@ bababandi.ch
 bababaos.ch
 bababar.ch
 bababbak.ch
-bababeauty.ch
 bababee.ch
 bababens.ch
 bababistro.ch
@@ -673,6 +673,7 @@ babies.ch
 babiesbureauprotection.ch
 babiesonboard.ch
 babiesrus.ch
+babify.ch
 babiguling.ch
 babikhaug.ch
 babil-investment.ch
@@ -1761,7 +1762,6 @@ babyrace.ch
 babyrahmen.ch
 babyrassel.ch
 babyratgeberin.ch
-babyrave.ch
 babyreborn.ch
 babyrecords.ch
 babyreich.ch
@@ -1865,6 +1865,7 @@ babysit.ch
 babysits.ch
 babysitten.ch
 babysitter-crs.ch
+babysitter-elin.ch
 babysitter-in-der-naehe.ch
 babysitter-saas-fee.ch
 babysitter-srk.ch
@@ -2193,7 +2194,6 @@ bach-institut.ch
 bach-kantorei.ch
 bach-licht.ch
 bach-live.ch
-bach-mann.ch
 bach-massagen.ch
 bach-metallbau.ch
 bach-muehle-fuchs.ch
@@ -8126,8 +8126,6 @@ bahn.ch
 bahn2000.ch
 bahn2000zh.ch
 bahn2020.ch
-bahn25.ch
-bahn26.ch
 bahnaerztlicheuntersuchung.ch
 bahnaktuell.ch
 bahnanelektro.ch
@@ -13877,7 +13875,6 @@ banfis.ch
 banfisbar.ch
 bang-bang-renens.ch
 bang-clean.ch
-bang-energydrink.ch
 bang-kebabclub.ch
 bang-nuisible.ch
 bang-olufsen-einsiedeln.ch
@@ -18693,6 +18690,7 @@ barras-chermignon.ch
 barras-digital.ch
 barras-electricite-gestion.ch
 barras-enseignes.ch
+barras-immobilien.ch
 barras-immobilier.ch
 barras-ingenieurs.ch
 barras-mail.ch
@@ -19502,6 +19500,7 @@ barz-praxis.ch
 barzadesign.ch
 barzaghini.ch
 barzahlen.ch
+barzahlung.ch
 barzan.ch
 barzano-zanardo.ch
 barzasi.ch
@@ -19850,7 +19849,6 @@ basedesign.ch
 basedevents.ch
 basedigital.ch
 basedinbasel.ch
-basedkillswit.ch
 basedmovement.ch
 basedodicilugano.ch
 basedonatruestory.ch
@@ -26316,6 +26314,7 @@ bauherrenregeln.ch
 bauherrenschweiz.ch
 bauherrenstandard.ch
 bauherrensupport.ch
+bauherrentreuhand.ch
 bauherrentreuhand4u.ch
 bauherrenverband.ch
 bauherrenvermessung.ch
@@ -28511,6 +28510,7 @@ bauplanung-suter.ch
 bauplanung-vitale.ch
 bauplanung.ch
 bauplanung24.ch
+bauplanung3911.ch
 bauplanungdavos.ch
 bauplanungen.ch
 bauplanungluzern.ch
@@ -30176,8 +30176,6 @@ bawi-service.ch
 bawi.ch
 bawidamann.ch
 bawidev.ch
-bawill.ch
-bawillo.ch
 bawima.ch
 bawina.ch
 bawinator.ch

@@ -1563,7 +1563,6 @@ poha.ch
 pohage.ch
 pohaku.ch
 pohara.ch
-pohau.ch
 pohjolan.ch
 pohl-krieger.ch
 pohl-teaching.ch
@@ -2323,7 +2322,6 @@ poker-portal.ch
 poker-power.ch
 poker-print.ch
 poker-rally.ch
-poker-reisen.ch
 poker-riva.ch
 poker-room.ch
 poker-schweiz.ch
@@ -9123,7 +9121,6 @@ porsche-vermietung.ch
 porsche-werkstatt.ch
 porsche-werkswagen.ch
 porsche-wil.ch
-porsche-winter.ch
 porsche-winterthur.ch
 porsche-world.ch
 porsche-zentrum-bronschhofen.ch
@@ -12544,6 +12541,7 @@ potterat.ch
 potterheads.ch
 pottermore.ch
 potterprocurement.ch
+potterrina.ch
 potters.ch
 pottershealth.ch
 pottery-bloom.ch

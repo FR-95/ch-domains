@@ -273,6 +273,7 @@ phantastik-journal.ch
 phantastik.ch
 phantastikautoren.ch
 phantastikautorinnen.ch
+phantastisch.ch
 phantasy-nails.ch
 phantasy.ch
 phantasya.ch
@@ -4208,6 +4209,7 @@ phonartis.ch
 phone-and-surf.ch
 phone-base.ch
 phone-basic.ch
+phone-booth-gaming.ch
 phone-booth-records.ch
 phone-business.ch
 phone-cap.ch
@@ -5577,6 +5579,7 @@ photonicsbooster.ch
 photonights.ch
 photonik.ch
 photonimages.ch
+photonintrique.ch
 photonio.ch
 photonique.ch
 photonis.ch
@@ -5590,6 +5593,7 @@ photonomade.ch
 photonotes.ch
 photonplatinum.ch
 photonrecords.ch
+photonsintriques.ch
 photonsolar.ch
 photonsproduction.ch
 photonswiss.ch
@@ -7702,6 +7706,7 @@ physio-satellite.ch
 physio-sauser.ch
 physio-savigny.ch
 physio-sb.ch
+physio-scavelli.ch
 physio-schaedeli.ch
 physio-schaefer.ch
 physio-schaenis.ch
@@ -10911,7 +10916,6 @@ phytobiovet.ch
 phytobotanist.ch
 phytobronch.ch
 phytobud.ch
-phytobyo.ch
 phytocacao.ch
 phytocann.ch
 phytocannswiss.ch

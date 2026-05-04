@@ -71,6 +71,7 @@ hoar.ch
 hoareau.ch
 hoas.ch
 hoasen.ch
+hoasenco.ch
 hoasi.ch
 hoasroth.ch
 hoatzin.ch
@@ -566,6 +567,7 @@ hoch-seil-werk.ch
 hoch-sensibel.ch
 hoch-software.ch
 hoch-und-fertig.ch
+hoch-und-tiefbau.ch
 hoch-ybrig.ch
 hoch-zeiten.ch
 hoch-zeitreisen.ch
@@ -1207,6 +1209,7 @@ hochuliundhess.ch
 hochuliundhessag.ch
 hochulizeit.ch
 hochumer.ch
+hochundtiefbau.ch
 hochundwild.ch
 hochv.ch
 hochvakuumsauger.ch
@@ -2764,6 +2767,7 @@ hoechner.ch
 hoechst.ch
 hoechstetten.ch
 hoechstetten24.ch
+hoechstezeithochzeit.ch
 hoechtec.ch
 hoechtl.ch
 hoechweid.ch
@@ -9423,6 +9427,7 @@ holzfluh.ch
 holzfluhverein.ch
 holzfochs.ch
 holzform.ch
+holzformen.ch
 holzformerei.ch
 holzforschung.ch
 holzforst-consulting.ch
@@ -11207,7 +11212,6 @@ home-san.ch
 home-sapiens.ch
 home-scan.ch
 home-scents.ch
-home-schaad.ch
 home-schooling.ch
 home-schueepp.ch
 home-schule.ch
@@ -16738,6 +16742,7 @@ horscadrepully.ch
 horscadres.ch
 horscases.ch
 horscatalogue.ch
+horscene.ch
 horsch.ch
 horschamp.ch
 horschamps.ch
@@ -19486,7 +19491,6 @@ hotel-information.ch
 hotel-innovations.ch
 hotel-insectes.ch
 hotel-interior-group.ch
-hotel-interior.ch
 hotel-interlaken.ch
 hotel-international-au-lac-lugano.ch
 hotel-international-lugano.ch
@@ -19530,6 +19534,7 @@ hotel-klick.ch
 hotel-klinik.ch
 hotel-kliniken.ch
 hotel-kloster.ch
+hotel-klosters.ch
 hotel-konstanz.ch
 hotel-krafft.ch
 hotel-krebs.ch
@@ -23364,7 +23369,6 @@ house-of-mezze.ch
 house-of-momos-affoltern-am-albis.ch
 house-of-momos-baden.ch
 house-of-momos-enge.ch
-house-of-momos-horw.ch
 house-of-momos-meilen.ch
 house-of-momos-schlieren.ch
 house-of-momos-winterthur.ch
@@ -24480,7 +24484,6 @@ hoxha-garten.ch
 hoxha-hauswartung.ch
 hoxha.ch
 hoxhaconsulting.ch
-hoxhaj.ch
 hoxhatransports.ch
 hoxhunt.ch
 hoxito.ch

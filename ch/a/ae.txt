@@ -737,7 +737,6 @@ aegeri-museum.ch
 aegeri-neumoos.ch
 aegeri-office.ch
 aegeri-on-ice.ch
-aegeri-pass.ch
 aegeri-robotics.ch
 aegeri-smile.ch
 aegeri-toller.ch
@@ -770,7 +769,6 @@ aegerikrippe.ch
 aegerimail.ch
 aegerimuseum.ch
 aegerionice.ch
-aegeripass.ch
 aegerischoen.ch
 aegerisee-fischer.ch
 aegerisee-schiffahrt.ch
@@ -1178,6 +1176,7 @@ aeluso-suisses.ch
 aelvetica.ch
 aelya.ch
 aelyra.ch
+aelys.ch
 aelysee.ch
 aelysio.ch
 aelysium.ch
@@ -2872,6 +2871,7 @@ aerztezentrum-mosnang.ch
 aerztezentrum-muehleberg.ch
 aerztezentrum-muellheim.ch
 aerztezentrum-murten.ch
+aerztezentrum-neuenegg.ch
 aerztezentrum-nuerensdorf.ch
 aerztezentrum-oberhasli.ch
 aerztezentrum-oberhofen.ch
@@ -2942,6 +2942,7 @@ aerztezentrumlimmatfeld.ch
 aerztezentrummarch.ch
 aerztezentrummoehlin.ch
 aerztezentrummuri.ch
+aerztezentrumneuenegg.ch
 aerztezentrumoberhasli.ch
 aerztezentrumoberhofen.ch
 aerztezentrumoftringen.ch
@@ -3644,7 +3645,6 @@ aeternum-product.ch
 aeternum.ch
 aeternumlex.ch
 aeternumproduct.ch
-aeternumsoftware.ch
 aeternumswitzerland.ch
 aeternus.ch
 aeternusneuro.ch

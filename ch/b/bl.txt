@@ -3660,7 +3660,6 @@ blech-bearbeitung.ch
 blech-biegen.ch
 blech-design.ch
 blech-digital.ch
-blech-direct.ch
 blech-eier.ch
 blech-fabrik.ch
 blech-gelaender.ch
@@ -3866,7 +3865,6 @@ blechworks.ch
 blechwunder.ch
 blechzeit.ch
 blechzentrum.ch
-blechziegel.ch
 blechzuschnitt-online.ch
 blechzuschnitt.ch
 blechzuschnitte.ch
@@ -9218,6 +9216,7 @@ blueregion.ch
 bluerental.ch
 bluereon.ch
 bluereport.ch
+bluerestaurant.ch
 blueretro.ch
 bluerevolution.ch
 blueriband.ch
@@ -9631,6 +9630,9 @@ bluetenart.ch
 bluetenball.ch
 bluetenbinderei.ch
 bluetenblatt.ch
+bluetenblattbohnen.ch
+bluetenblattundbeeren.ch
+bluetenblattundbohnen.ch
 bluetenbox.ch
 bluetendinner.ch
 bluetenduett.ch
@@ -10349,7 +10351,6 @@ blumen-verde.ch
 blumen-vergissmeinnicht.ch
 blumen-versand.ch
 blumen-verschicken.ch
-blumen-versenden.ch
 blumen-villiger.ch
 blumen-viola.ch
 blumen-vogel.ch

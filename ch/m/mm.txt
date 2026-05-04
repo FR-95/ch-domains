@@ -309,7 +309,6 @@ mmanufaktur.ch
 mmaonline.ch
 mmaperformance.ch
 mmapp.ch
-mmaps.ch
 mmar.ch
 mmarc.ch
 mmarch.ch
@@ -775,7 +774,6 @@ mmo-games.ch
 mmo-onex.ch
 mmo.ch
 mmoa.ch
-mmobility.ch
 mmoeckli.ch
 mmoen.ch
 mmogame.ch

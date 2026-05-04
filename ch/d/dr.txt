@@ -17,6 +17,7 @@ dr-allemann.ch
 dr-almond.ch
 dr-althea.ch
 dr-alwan.ch
+dr-amir.ch
 dr-anchieri-dermatologue-acupuncteur.ch
 dr-andre-berger-endocrino-diabetologie-nyon.ch
 dr-andreagalli.ch
@@ -1241,7 +1242,6 @@ dragolia.ch
 dragolichresearch.ch
 dragoljevic.ch
 dragomago.ch
-dragomanovi.ch
 dragomed.ch
 dragomocambo.ch
 dragon-adventure.ch
@@ -1287,6 +1287,7 @@ dragonathletics.ch
 dragonato.ch
 dragonball.ch
 dragonballday.ch
+dragonballdays.ch
 dragonballz.ch
 dragonbanque.ch
 dragonbear.ch
@@ -1416,7 +1417,6 @@ dragonschatz.ch
 dragonscity.ch
 dragonsclub.ch
 dragonsden.ch
-dragonserver.ch
 dragonsfch.ch
 dragonsfire-tattoo.ch
 dragonsgiswil.ch
@@ -3564,6 +3564,7 @@ dreicraft.ch
 dreid.ch
 dreidb.ch
 dreiddruck.ch
+dreiddruckerei.ch
 dreide.ch
 dreidee.ch
 dreideevisual.ch
@@ -3976,6 +3977,7 @@ drelektro.ch
 drelias.ch
 drelmas.ch
 drelon-immobilier.ch
+drem.ch
 dremag.ch
 dremagane.ch
 dremasiello.ch
@@ -4762,7 +4764,6 @@ drinabau.ch
 drinaburkhardt.ch
 drinaconsulting.ch
 drinasoftware.ch
-drinastudio.ch
 drinc.ch
 drinchol.ch
 drindoor.ch
@@ -7382,7 +7383,6 @@ drone24.ch
 drone2bim.ch
 drone2bimberatung.ch
 drone2bimconsult.ch
-drone2bimconsulting.ch
 drone4all.ch
 drone4engineering.ch
 droneacademie.ch
@@ -7395,6 +7395,7 @@ droneair.ch
 droneairmedia.ch
 droneairpicture.ch
 droneandview.ch
+droneart.ch
 droneattitude.ch
 droneatwork.ch
 dronebase.ch
@@ -9189,7 +9190,6 @@ drug-shortage.ch
 drug-shortages.ch
 drug.ch
 drugabuse.ch
-drugai.ch
 drugbank.ch
 drugcheck.ch
 drugchecking.ch

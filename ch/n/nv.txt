@@ -39,6 +39,7 @@ nv200.ch
 nv24.ch
 nv400.ch
 nva-aarburg.ch
+nva-amsoldingen.ch
 nva.ch
 nva21.ch
 nva21construction.ch
@@ -226,6 +227,7 @@ nvpmatzendorf.ch
 nvpmedia.ch
 nvprimecars.ch
 nvproperties.ch
+nvps.ch
 nvr.ch
 nvra.ch
 nvregensdorf.ch

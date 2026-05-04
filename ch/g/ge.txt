@@ -4462,7 +4462,6 @@ gelatidielena.ch
 gelatidizurigo.ch
 gelatidolcevita.ch
 gelatidonati.ch
-gelatifoodtruck.ch
 gelatihiestand.ch
 gelatikissling.ch
 gelatimare.ch
@@ -6714,7 +6713,6 @@ gemtof.ch
 gemtoshare.ch
 gemtrade.ch
 gemtradeag.ch
-gemtraining.ch
 gemtrust.ch
 gemu.ch
 gemue-medical.ch
@@ -7038,6 +7036,7 @@ gency.ch
 gend.ch
 gendarme.ch
 gendarmerie.ch
+gendarmeriecentre.ch
 gendarmerievd-learning.ch
 gendata.ch
 gende.ch
@@ -7145,6 +7144,7 @@ gene-abc.ch
 gene-analysis.ch
 gene-based-beauty.ch
 gene-bike.ch
+gene-drive.ch
 gene-kaufmann.ch
 gene-sis.ch
 gene-support.ch
@@ -7229,6 +7229,7 @@ genedis.ch
 geneditierung.ch
 genedls.ch
 genedouglas.ch
+genedrive.ch
 genedrives.ch
 genedrivetherapy.ch
 genee.ch
@@ -7238,7 +7239,6 @@ genego.ch
 genegroup.ch
 genehmigen.ch
 genehmigt.ch
-genehmigung.ch
 geneks.ch
 genel.ch
 genela.ch
@@ -17115,6 +17115,7 @@ gestaltkommunikation.ch
 gestaltkraft-ausbildung.ch
 gestaltkraft-energiearbeit.ch
 gestaltkraft.ch
+gestaltnatur.ch
 gestaltpraxis.ch
 gestaltpsy.ch
 gestaltpsychologie.ch
@@ -19119,6 +19120,7 @@ gesundheitsresort-bodensee.ch
 gesundheitsressourcen.ch
 gesundheitsriegel.ch
 gesundheitsring.ch
+gesundheitsschiff.ch
 gesundheitsschlaf.ch
 gesundheitsschmid.ch
 gesundheitsschmiede.ch
@@ -19155,6 +19157,7 @@ gesundheitsstation.ch
 gesundheitsstellen.ch
 gesundheitsstube.ch
 gesundheitsstudio.ch
+gesundheitssystem.ch
 gesundheitstag-winterthur.ch
 gesundheitstag.ch
 gesundheitstage-zug.ch
@@ -20954,6 +20957,7 @@ getvalidia.ch
 getvantage.ch
 getvantyx.ch
 getvibe.ch
+getvideo.ch
 getvisibility.ch
 getvisible.ch
 getvisual.ch

@@ -681,7 +681,6 @@ health-career.ch
 health-center.ch
 health-champ.ch
 health-check.ch
-health-clinic.ch
 health-club.ch
 health-clubs.ch
 health-cluster.ch
@@ -4069,7 +4068,6 @@ heera.ch
 heerag.ch
 heeramusic.ch
 heeranwalt.ch
-heerarchitektur.ch
 heerassociates.ch
 heerauw.ch
 heerax.ch
@@ -8839,6 +8837,7 @@ held-webconsulting.ch
 held-webdesign.ch
 held-webshop.ch
 held-werden.ch
+held-werk.ch
 held-zahntechnik.ch
 held.ch
 held24.ch
@@ -8991,6 +8990,7 @@ heldtech.ch
 heldup-gastro.ch
 heldup-immobilien.ch
 heldup.ch
+heldwerk.ch
 heldwin.ch
 heldyn.ch
 hele.ch
@@ -10390,7 +10390,6 @@ hellgelb.ch
 hellgrau.ch
 hellgruen.ch
 hellgruene.ch
-hellguide.ch
 hellheller.ch
 hellhoerig.ch
 hellhound.ch
@@ -11952,6 +11951,7 @@ helsanaplus.ch
 helsanarecht.ch
 helsanatrails.ch
 helsawatch.ch
+helscan.ch
 helscher.ch
 helse.ch
 helsebemanning.ch
@@ -12754,6 +12754,7 @@ helvetiastrategies.ch
 helvetiastream.ch
 helvetiastudio.ch
 helvetiastyle.ch
+helvetiasurface.ch
 helvetiatechnologies.ch
 helvetiatell.ch
 helvetiatoday.ch
@@ -14079,6 +14080,7 @@ hemeris.ch
 hemerka.ch
 hemerodromos.ch
 hemersa.ch
+hemes.ch
 hemesis.ch
 hemetli-herisau.ch
 hemetron.ch
@@ -14864,7 +14866,6 @@ henripittier.ch
 henripoint.ch
 henriprobst.ch
 henriquecarvalho.ch
-henriquemaia.ch
 henriquesehenriques.ch
 henrirobert.ch
 henrisandoz.ch
@@ -19423,7 +19424,6 @@ herzogtore.ch
 herzoguhren.ch
 herzogundbraeuer.ch
 herzogundpartner.ch
-herzogweine.ch
 herzogwellness.ch
 herzogzaeune.ch
 herzohren.ch
@@ -19484,7 +19484,6 @@ herzpraxis-emmen.ch
 herzpraxis-enge.ch
 herzpraxis-frutigen.ch
 herzpraxis-grenchen.ch
-herzpraxis-horgen.ch
 herzpraxis-illnau.ch
 herzpraxis-in-arlesheim.ch
 herzpraxis-koeniz.ch

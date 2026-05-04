@@ -334,7 +334,6 @@ deadc0de.ch
 deadcat.ch
 deadcatbounce.ch
 deadellabellezzakosmetik.ch
-deadend-bern.ch
 deadend.ch
 deadendandcake.ch
 deadendsandcake.ch
@@ -1007,6 +1006,7 @@ debardage.ch
 debardo.ch
 debarny.ch
 debarrapide.ch
+debarras-bern.ch
 debarras-brocante.ch
 debarras-chantier.ch
 debarras-cuisine.ch
@@ -1015,14 +1015,17 @@ debarras-diogene.ch
 debarras-express-geneve-vaud.ch
 debarras-express-lausanne.ch
 debarras-express.ch
+debarras-fribourg.ch
 debarras-geneva.ch
 debarras-geneve.ch
 debarras-gva.ch
 debarras-helvetia.ch
+debarras-jura.ch
 debarras-lausanne.ch
 debarras-logements.ch
 debarras-meubles.ch
 debarras-multiservices.ch
+debarras-neuchatel.ch
 debarras-pro-space.ch
 debarras-restauration-neuchatel.ch
 debarras-romand.ch
@@ -2476,7 +2479,6 @@ deco-line.ch
 deco-lumiere.ch
 deco-maison.ch
 deco-mariage.ch
-deco-mixte.ch
 deco-more.ch
 deco-netservices.ch
 deco-noel.ch
@@ -2549,7 +2551,6 @@ decobydrv.ch
 decobykyda.ch
 decocake.ch
 decocakebysimo.ch
-decocha.ch
 decock.ch
 decoclean.ch
 decoclick.ch
@@ -2860,7 +2861,6 @@ decorateurdinterieur.ch
 decorateurs-interieur-romands.ch
 decorateurs.ch
 decorati.ch
-decoratiff.ch
 decoration-de-jardin.ch
 decoration-dinterieur.ch
 decoration-evenement.ch
@@ -15443,6 +15443,7 @@ depannageinformatiquesuisseromande.ch
 depannageinformatiquevalais.ch
 depannageordinateurgeneve.ch
 depannageordinateurlausanne.ch
+depannagepc.ch
 depannagepcgeneve.ch
 depannagepcmac.ch
 depannageplombier.ch
@@ -15485,6 +15486,7 @@ depanneursolidaire.ch
 depannexpress.ch
 depanninfo.ch
 depanninfoge.ch
+depanninfogeneve.ch
 depanninformatique.ch
 depannservices.ch
 depanservices74.ch
@@ -16270,6 +16272,7 @@ der-freundeskreis.ch
 der-frieden.ch
 der-frisch-fisch.ch
 der-frisoer.ch
+der-fritenmacher.ch
 der-fuerst.ch
 der-fussexperte.ch
 der-fusspunkt.ch
@@ -16943,6 +16946,7 @@ deralpenflug.ch
 deralpenraum.ch
 deralpensegler.ch
 deraltemannzockt.ch
+deraltepfad.ch
 deralteweg.ch
 deramoklauf.ch
 deranalyst.ch
@@ -17539,6 +17543,7 @@ derfriedri.ch
 derfriseur.ch
 derfrisoer-zug.ch
 derfrisoer.ch
+derfritenmacher.ch
 derfrosch.ch
 derfruehling.ch
 derfuchs.ch
@@ -17910,7 +17915,6 @@ derix.ch
 derixchange.ch
 derizun.ch
 derizzoli.ch
-derjass.ch
 derjazz.ch
 derjeansladen.ch
 derjeromespitzer.ch
@@ -19048,7 +19052,6 @@ dermwave.ch
 dermythos.ch
 derna.ch
 dernachfolgecoach.ch
-dernachfolger.ch
 dernachfolgeverbund.ch
 dernachtwanderer.ch
 dername.ch
@@ -19854,6 +19857,7 @@ deryasancar.ch
 deryk.ch
 deryl.ch
 deryogi.ch
+deryvan.ch
 derz.ch
 derzahn.ch
 derzahnarzt.ch
@@ -22918,8 +22922,6 @@ destockages.ch
 destockagesvip.ch
 destockagevip.ch
 destockcbd.ch
-destocker.ch
-destockeur.ch
 destockflash.ch
 destockjeans.ch
 destockmoto.ch
@@ -23710,7 +23712,6 @@ deufol.ch
 deufra.ch
 deugenio.ch
 deuger.ch
-deuid.ch
 deuil-animal.ch
 deuil-animalier.ch
 deuil-perinatal.ch

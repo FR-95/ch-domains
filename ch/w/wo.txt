@@ -3036,6 +3036,7 @@ wohnungenthun.ch
 wohnungenuri.ch
 wohnungenzuerich.ch
 wohnungfinden.ch
+wohnungfrei.ch
 wohnunggesucht.ch
 wohnunggrindelwald.ch
 wohnunghallwil.ch
@@ -5550,6 +5551,7 @@ wonderfulpistachios.ch
 wonderfulsoul.ch
 wonderfulswitzerland.ch
 wonderfultimes.ch
+wonderfultrip.ch
 wonderfulvocals.ch
 wonderfulweddings.ch
 wonderfulworld.ch
@@ -6951,7 +6953,6 @@ wordpress-ktest.ch
 wordpress-kurse.ch
 wordpress-lausanne.ch
 wordpress-lehrer.ch
-wordpress-login.ch
 wordpress-luzern.ch
 wordpress-maintenance.ch
 wordpress-muttenz.ch
@@ -7032,7 +7033,6 @@ wordpressinticino.ch
 wordpresskurs.ch
 wordpresskurse.ch
 wordpresslernen.ch
-wordpresslogin.ch
 wordpressmacher.ch
 wordpressmaintenance.ch
 wordpressoberwallis.ch
@@ -10034,7 +10034,6 @@ wowclassic.ch
 wowclinic.ch
 wowclinique.ch
 wowcliniquedentaire.ch
-wowcloud.ch
 wowcom.ch
 wowcon.ch
 wowconcept.ch
@@ -10162,7 +10161,6 @@ wowstick.ch
 wowstore.ch
 wowstudio.ch
 wowsuisse.ch
-wowsupermarkt.ch
 wowswiss.ch
 wowswitzerland.ch
 wowtea.ch

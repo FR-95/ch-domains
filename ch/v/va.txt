@@ -88,7 +88,6 @@ vaaam.ch
 vaadata.ch
 vaadin.ch
 vaaft.ch
-vaaim.ch
 vaakaistore.ch
 vaakaitabac.ch
 vaakuum.ch
@@ -1345,6 +1344,7 @@ val-net.ch
 val-nettoyage.ch
 val-orthocenter.ch
 val-osteo.ch
+val-poschiavo.ch
 val-prino.ch
 val-pro.ch
 val-promo.ch
@@ -1847,6 +1847,7 @@ valascia.ch
 valashyn.ch
 valastone.ch
 valata.ch
+valatio.ch
 valaulta-berni.ch
 valaulta.ch
 valaultaberni.ch
@@ -2628,6 +2629,7 @@ valenton.ch
 valentopartner.ch
 valentoys.ch
 valentris.ch
+valentro-solutions.ch
 valents.ch
 valentum.ch
 valentus.ch
@@ -3027,13 +3029,11 @@ valeu.ch
 valeum.ch
 valeur-appartement-geneve.ch
 valeur-appartement.ch
-valeur-batiment.ch
 valeur-de-ma-maison.ch
 valeur-de-mon-appartement.ch
 valeur-de-mon-travail.ch
 valeur-group.ch
 valeur-hypotheque.ch
-valeur-immeuble.ch
 valeur-immo.ch
 valeur-immobiliere-geneve.ch
 valeur-intrinseque.ch
@@ -3202,6 +3202,7 @@ valhallabasel.ch
 valhallamand.ch
 valhallarecords.ch
 valhallart.ch
+valhallastore.ch
 valhallatrainers.ch
 valhallbotanicals.ch
 valhebergement.ch
@@ -4070,7 +4071,6 @@ valorelocativo.ch
 valorem-immobilier.ch
 valorem-invest.ch
 valorem-tax.ch
-valorem.ch
 valoremtax.ch
 valoremtaxfinance.ch
 valoren-cie.ch
@@ -5608,6 +5608,7 @@ vaneerd.ch
 vanefersa.ch
 vaneflon.ch
 vanegmond.ch
+vanegusto.ch
 vaneik-gallery.ch
 vanek.ch
 vaneken.ch
@@ -6914,8 +6915,6 @@ vapemail.ch
 vapemania.ch
 vapemarket.ch
 vapemart.ch
-vapemaster.ch
-vapemasters.ch
 vapeme.ch
 vapemesse.ch
 vapen.ch

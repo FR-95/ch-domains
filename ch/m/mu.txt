@@ -412,6 +412,7 @@ muehl.ch
 muehlacker.ch
 muehlau.ch
 muehlau24.ch
+muehlaubruecke.ch
 muehlba.ch
 muehlbachgarage.ch
 muehlbachgrabs.ch
@@ -1362,6 +1363,7 @@ muellerbleher.ch
 muellerblum.ch
 muellerblumen.ch
 muellerboden.ch
+muellerbodenhandwerk.ch
 muellerbox.ch
 muellerbraeu-areal.ch
 muellerbraeu-futura.ch
@@ -6288,6 +6290,7 @@ murtenonice.ch
 murtenpadel.ch
 murtenpanorama.ch
 murtenpilz.ch
+murtenpizza.ch
 murtenrebanbau.ch
 murtenrebberg.ch
 murtenschiessen.ch
@@ -10233,7 +10236,6 @@ mustibau.ch
 musticapital.ch
 musticut.ch
 mustien.ch
-mustige.ch
 mustigym.ch
 mustik.ch
 mustika.ch

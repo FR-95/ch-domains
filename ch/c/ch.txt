@@ -1778,6 +1778,7 @@ chalet-bellevue.ch
 chalet-belmont.ch
 chalet-belvedere.ch
 chalet-benedict.ch
+chalet-bergblick.ch
 chalet-bergfreund.ch
 chalet-bergheim.ch
 chalet-bergscheuer.ch
@@ -3075,7 +3076,6 @@ chalira.ch
 chaliraskartenwelt.ch
 chalis-sandwich.ch
 chalissima.ch
-chalix.ch
 chalize.ch
 chalk.ch
 chalkandbluegum.ch
@@ -7518,7 +7518,6 @@ chatgpd.ch
 chatgpt-academy-schweiz.ch
 chatgpt-academy-swiss.ch
 chatgpt-academy.ch
-chatgpt-ads.ch
 chatgpt-agent.ch
 chatgpt-akademie-schweiz.ch
 chatgpt-akademie.ch
@@ -7545,7 +7544,6 @@ chatgpt-schulung.ch
 chatgpt-schulungen.ch
 chatgpt-scout.ch
 chatgpt-scout24.ch
-chatgpt-search.ch
 chatgpt-seminare.ch
 chatgpt-seo.ch
 chatgpt-suisse.ch
@@ -7665,6 +7663,7 @@ chatonneyre.ch
 chatontature.ch
 chatoo.ch
 chatopenai.ch
+chatorder.ch
 chatorny-galeries.ch
 chatorny.ch
 chatowl.ch
@@ -9484,7 +9483,6 @@ chefficace.ch
 chefficient.ch
 cheffin.ch
 cheffizient.ch
-chefflix.ch
 chefflorent.ch
 chefflow.ch
 cheffy.ch
@@ -10612,7 +10610,6 @@ cherry-green.ch
 cherry-jam.ch
 cherry-lady.ch
 cherry-magazin.ch
-cherry-ontop.ch
 cherry-pickings.ch
 cherry-shop.ch
 cherry-soft.ch
@@ -11804,7 +11801,6 @@ chezjuliechandolin.ch
 chezjune.ch
 chezjustine.ch
 chezkarin.ch
-chezkat.ch
 chezkate.ch
 chezkei.ch
 chezkim.ch
@@ -11848,6 +11844,7 @@ chezlise.ch
 chezloan.ch
 chezloankebab.ch
 chezloic.ch
+chezloki.ch
 chezloopy.ch
 chezlopez-geneve.ch
 chezlosteo.ch
@@ -13427,7 +13424,6 @@ childrens-birthday.ch
 childrens-paradise.ch
 childrens-ride.ch
 childrens-voices.ch
-childrens.ch
 childrensalon.ch
 childrensbirthday.ch
 childrensbooks.ch

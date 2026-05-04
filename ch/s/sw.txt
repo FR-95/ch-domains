@@ -1457,6 +1457,7 @@ swevent.ch
 swevents.ch
 swex.ch
 swexit.ch
+swexodus.ch
 swey.ch
 sweyni-heli.ch
 sweyni.ch
@@ -2471,6 +2472,7 @@ swipo-haustechnik.ch
 swipo.ch
 swipoint.ch
 swipoints.ch
+swipol.ch
 swipor-immobilien.ch
 swipos-dev.ch
 swipos.ch
@@ -5866,7 +5868,6 @@ swiss-if.ch
 swiss-ifp.ch
 swiss-ig.ch
 swiss-igf.ch
-swiss-igg.ch
 swiss-ikebana.ch
 swiss-ikt.ch
 swiss-ilca.ch
@@ -10975,7 +10976,6 @@ swissaugencentrum.ch
 swissaugenchirurgie.ch
 swissaugenoptik.ch
 swissaugenzentrum.ch
-swissauktion.ch
 swissauktioncars.ch
 swissaupair.ch
 swissaura.ch
@@ -11019,7 +11019,6 @@ swissautoglass.ch
 swissautoglow.ch
 swissautogo.ch
 swissautogroup.ch
-swissautohandel.ch
 swissautohub-temp-ch.ch
 swissautohub.ch
 swissautoimport.ch
@@ -13257,6 +13256,7 @@ swissclassicworld-luzern.ch
 swissclassicworld.ch
 swissclassicworldluzern.ch
 swissclassicworldrallye.ch
+swissclassified.ch
 swissclassifieds.ch
 swissclassique.ch
 swissclasstrade.ch
@@ -14382,6 +14382,7 @@ swissdams.ch
 swissdanaconsultancy.ch
 swissdance-star.ch
 swissdance.ch
+swissdanceacademy.ch
 swissdanceawards.ch
 swissdancecompany.ch
 swissdancedays.ch
@@ -14837,6 +14838,7 @@ swissdidgeridoofestival.ch
 swissdidgeweekend.ch
 swissdiecast.ch
 swissdieold.ch
+swissdiet.ch
 swissdietcoach.ch
 swissdietkit.ch
 swissdiff.ch
@@ -15242,6 +15244,7 @@ swissdrobe.ch
 swissdrohne.ch
 swissdrohnegirl.ch
 swissdrohnenacademy.ch
+swissdroid.ch
 swissdron.ch
 swissdrone-chablais.ch
 swissdrone-cleaning.ch
@@ -16172,6 +16175,7 @@ swissfertilizer.ch
 swissfertilizers.ch
 swissfest.ch
 swissfestivalorchestra.ch
+swissfestivalpass.ch
 swissfetus.ch
 swissfeuermoebel.ch
 swissfeuerschutz.ch
@@ -18231,7 +18235,6 @@ swisshouse-aerolux.ch
 swisshouse-cordonbleu.ch
 swisshouse-simbabwe.ch
 swisshouse.ch
-swisshouse3d.ch
 swisshousebuilder.ch
 swisshousecheck.ch
 swisshousedrinks.ch
@@ -19869,6 +19872,7 @@ swisslifeinvestment.ch
 swisslifenetwork.ch
 swisslifepensionservices.ch
 swisslifeplus.ch
+swisslifepower.ch
 swisslifes.ch
 swisslifesavingtrophy.ch
 swisslifescience.ch
@@ -20032,7 +20036,6 @@ swissloca.ch
 swisslocal-plus.ch
 swisslocal.ch
 swisslocaladventures.ch
-swisslocale.ch
 swisslocalguide.ch
 swisslocalplus.ch
 swisslocaltravel.ch
@@ -21548,6 +21551,7 @@ swissmusic4you.ch
 swissmusicacademy.ch
 swissmusical.ch
 swissmusicalacademy.ch
+swissmusicarchives.ch
 swissmusicawards.ch
 swissmusicblog.ch
 swissmusicbox.ch
@@ -24858,6 +24862,7 @@ swissrumfest.ch
 swissrumpf.ch
 swissrun.ch
 swissrun365.ch
+swissrunclubhub.ch
 swissrunclubs.ch
 swissrunners.ch
 swissrunning-id.ch
@@ -25228,6 +25233,7 @@ swisssingles.ch
 swisssino.ch
 swisssinotreuhand.ch
 swisssip.ch
+swisssip24.ch
 swisssisssquad.ch
 swisssistersgetaway.ch
 swisssite.ch
@@ -26201,6 +26207,7 @@ swisstelevision.ch
 swisstell.ch
 swisstella.ch
 swisstellar.ch
+swisstem.ch
 swisstemic.ch
 swisstemicservices.ch
 swisstempcare.ch
@@ -27403,7 +27410,6 @@ swissvoip-vpbx.ch
 swissvoip.ch
 swissvoipmobile.ch
 swissvoiptel.ch
-swissvol.ch
 swissvolk.ch
 swissvolley-fribourg.ch
 swissvolley-neuchatel.ch
@@ -29138,7 +29144,6 @@ swizztec.ch
 swizztool.ch
 swizztopzz.ch
 swizztrading.ch
-swizztron.ch
 swizztube.ch
 swizzvpn.ch
 swizzweb.ch

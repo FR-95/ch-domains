@@ -71,7 +71,6 @@ so-fit.ch
 so-flott.ch
 so-flow.ch
 so-free.ch
-so-freiwillig-engagiert.ch
 so-fresh.ch
 so-fris.ch
 so-garden.ch
@@ -945,6 +944,7 @@ social-media-fabrik.ch
 social-media-fan-likes.ch
 social-media-gipfel.ch
 social-media-hub.ch
+social-media-jobs.ch
 social-media-kampagne.ch
 social-media-kurse.ch
 social-media-lab.ch
@@ -1433,6 +1433,7 @@ socialmediaheroes.ch
 socialmediahub.ch
 socialmediaimpact.ch
 socialmediainfluencer.ch
+socialmediajobs.ch
 socialmediaki.ch
 socialmediakompass.ch
 socialmediakurs-zuerich.ch
@@ -1558,6 +1559,7 @@ socialregion.ch
 socialreport.ch
 socialresearch.ch
 socialresponsibility.ch
+socialrest.ch
 socialretreat.ch
 socialrevision.ch
 socialride.ch
@@ -1848,6 +1850,7 @@ societems.ch
 societenautiquelausanne.ch
 societenumerique.ch
 societephilateliquesion.ch
+societeprivee.ch
 societepriveedegerance.ch
 societeproduction.ch
 societerestauration.ch
@@ -2751,7 +2754,10 @@ sofcon.ch
 sofcos.ch
 sofd.ch
 sofe.ch
+sofed.ch
 sofederleicht.ch
+sofednatural.ch
+sofedorganic.ch
 sofee.ch
 sofein.ch
 sofel-tech.ch
@@ -3470,7 +3476,6 @@ softies.ch
 softify.ch
 softiger.ch
 softigest.ch
-softigo.ch
 softigyn.ch
 softimmo.ch
 softimo.ch
@@ -6167,7 +6172,6 @@ solaranlage-camper.ch
 solaranlage-campingbus.ch
 solaranlage-direkt-vom-hersteller.ch
 solaranlage-garten.ch
-solaranlage-info.ch
 solaranlage-kaufen.ch
 solaranlage-kosten-vergleich.ch
 solaranlage-kosten.ch
@@ -17742,6 +17746,7 @@ sosenko.ch
 sosense.ch
 sosepass.ch
 soserious.ch
+sosessaim.ch
 sosetancheite.ch
 sosetancheitebalcon.ch
 soseth.ch
@@ -18563,7 +18568,6 @@ soulactive.ch
 soulactivity.ch
 soulafashionagency.ch
 soulage-mi.ch
-soulager-les-familles.ch
 soulager-les-pme.ch
 soulalchemy.ch
 soulaligned.ch

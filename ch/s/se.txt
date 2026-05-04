@@ -670,7 +670,6 @@ search-auto.ch
 search-bikes.ch
 search-car.ch
 search-career.ch
-search-chatgpt.ch
 search-coach.ch
 search-compliance-expert.ch
 search-effect.ch
@@ -1252,6 +1251,7 @@ sebastianbenz.ch
 sebastianbernasconi.ch
 sebastianbernet.ch
 sebastianbissig.ch
+sebastianbodemer.ch
 sebastianboehner.ch
 sebastianbohren.ch
 sebastianbraun.ch
@@ -3440,7 +3440,6 @@ secureexchanges.ch
 secureexpert.ch
 secureexperts.ch
 securefeelings.ch
-securefire.ch
 secureforest.ch
 secureform.ch
 securefuture.ch
@@ -6462,6 +6461,7 @@ seelenbotschaft.ch
 seelenbotschaften.ch
 seelenbotschafterin.ch
 seelenboudoir.ch
+seelenbrise.ch
 seelenbruecke.ch
 seelenbu.ch
 seelenbuch.ch
@@ -6943,6 +6943,7 @@ seelenwetter.ch
 seelenwind.ch
 seelenwirken.ch
 seelenwirt.ch
+seelenwissen.ch
 seelenwohl-bern.ch
 seelenwohl-oase.ch
 seelenwohl.ch
@@ -7505,6 +7506,7 @@ seesichtvilla.ch
 seesichtwohnen.ch
 seeside-apartments.ch
 seeside.ch
+seesinn.ch
 seesitz.ch
 seeske.ch
 seeso.ch
@@ -13059,7 +13061,6 @@ seltmann.ch
 seltrade.ch
 seltsam-mode.ch
 seltsam.ch
-seltzdesign.ch
 seltzer-farben.ch
 seltzerei.ch
 seltzerfarben.ch
@@ -15806,7 +15807,6 @@ senlink-services.ch
 senlinkservices.ch
 senliving.ch
 senlo.ch
-senly-zryd.ch
 senmak.ch
 senmarck.ch
 senmax.ch
@@ -16179,7 +16179,6 @@ senorio.ch
 senorita.ch
 senoritahirsch.ch
 senorlutz.ch
-senoro.ch
 senos.ch
 senosan.ch
 senosia.ch
@@ -19186,7 +19185,6 @@ serenagadaleta.ch
 serenagartenbau.ch
 serenagraedel.ch
 serenagreco.ch
-serenai.ch
 serenalieb.ch
 serenalpes.ch
 serenamail.ch
@@ -19733,7 +19731,6 @@ serienfestival-basel.ch
 seriengineering.ch
 serienjunkies.ch
 serienjunky.ch
-serienkiller.ch
 serienoptimierung.ch
 serienstream.ch
 serientipps.ch
@@ -21052,6 +21049,7 @@ service-jacuzzi.ch
 service-jobs.ch
 service-juridique.ch
 service-k9-unit.ch
+service-kaffeemaschinen.ch
 service-kaffemaschinen.ch
 service-kreis.ch
 service-krueger-werft.ch
@@ -21395,7 +21393,6 @@ servicedeconciergerienordvaudois.ch
 servicedeconciergerieromont.ch
 servicedeconciergerieyverdon.ch
 servicedegardeveterinaire.ch
-servicedelivery.ch
 servicedemediation.ch
 servicedenettoyagediman.ch
 servicedentaire.ch
@@ -21573,7 +21570,6 @@ servicemanager.ch
 servicemandat.ch
 servicemarina.ch
 servicemaster.ch
-servicematch.ch
 servicemb.ch
 serviceme-bbraun.ch
 servicemedia.ch
@@ -23244,6 +23240,7 @@ seven-systems.ch
 seven-tv.ch
 seven-ty-seven.ch
 seven-unit.ch
+seven-untersiggenthal.ch
 seven-versicherung.ch
 seven-visions.ch
 seven.ch

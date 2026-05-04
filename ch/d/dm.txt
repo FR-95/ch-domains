@@ -262,6 +262,7 @@ dmcivils.ch
 dmcloud.ch
 dmco.ch
 dmcomputer.ch
+dmconseil.ch
 dmconsultancy.ch
 dmconsulting.ch
 dmcourtage.ch
@@ -596,7 +597,6 @@ dms-absenkanhaenger.ch
 dms-ag.ch
 dms-art.ch
 dms-autoanhaenger.ch
-dms-avocats.ch
 dms-box.ch
 dms-check.ch
 dms-conseils.ch

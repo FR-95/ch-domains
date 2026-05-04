@@ -7841,7 +7841,6 @@ ausbeultechniker.ch
 ausbilckurologie.ch
 ausbildbar.ch
 ausbilden.ch
-ausbildenplus.ch
 ausbilder-agentur.ch
 ausbilder-basel.ch
 ausbilder-loretz.ch
@@ -10825,6 +10824,7 @@ auto-manuel.ch
 auto-margarethen.ch
 auto-mariage.ch
 auto-markaj.ch
+auto-market.ch
 auto-markt-liestal.ch
 auto-markt.ch
 auto-marktplatz.ch
@@ -12806,7 +12806,6 @@ autoenthusiast.ch
 autoenthusiasten.ch
 autoentry.ch
 autoentsorgen-basel.ch
-autoentsorgen-mm.ch
 autoentsorger.ch
 autoentsorgung-aargau.ch
 autoentsorgung-ag.ch
@@ -13088,6 +13087,7 @@ autofleetcontrol.ch
 autoflex.ch
 autoflickstatt.ch
 autoflohmarkt.ch
+autoflohmi.ch
 autofloor.ch
 autoflor.ch
 autoflow.ch
@@ -16903,6 +16903,7 @@ autourdumontblanc.ch
 autourdunefleur.ch
 autourdupain.ch
 autourduparent.ch
+autourdupot.ch
 autourdusourire.ch
 autourdutemps.ch
 autourduthe.ch

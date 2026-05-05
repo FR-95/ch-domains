@@ -1970,15 +1970,11 @@ agentlog.ch
 agently.ch
 agentmacher.ch
 agentmail.ch
-agentmanagementacademy.ch
-agentmanagementinstitute.ch
-agentmanagementschool.ch
 agentmarket.ch
 agentmat.ch
 agentmedia.ch
 agentmediabox.ch
 agentmeteo.ch
-agentmgmtacademy.ch
 agentnative.ch
 agento.ch
 agento24.ch
@@ -2791,6 +2787,7 @@ agidsvizzerperlamuntogna.ch
 agie-charmilles.ch
 agie.ch
 agiecharmilles.ch
+agiengineer.ch
 agieren.ch
 agiev.ch
 agiez.ch
@@ -3505,6 +3502,7 @@ agmdanse.ch
 agmdevice.ch
 agme.ch
 agmedis.ch
+agmelektrosolution.ch
 agmen.ch
 agmeninvest.ch
 agmento.ch
@@ -3911,6 +3909,7 @@ agoras.ch
 agorasecureware.ch
 agorasocial.ch
 agorasolutionsag.ch
+agorasuisse.ch
 agorate.ch
 agorateatro.ch
 agorateca.ch
@@ -5134,7 +5133,6 @@ agrofutterhandel.ch
 agrofutura-mail.ch
 agrofutura.ch
 agrogasgroup.ch
-agrogate.ch
 agrogaz.ch
 agrogreen.ch
 agrohandel-schweiz.ch
@@ -5592,7 +5590,6 @@ agta-record.ch
 agtabook.ch
 agtag.ch
 agtan.ch
-agtan1.ch
 agtarecord.ch
 agtax.ch
 agtaxi.ch

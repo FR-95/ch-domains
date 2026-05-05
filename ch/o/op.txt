@@ -1448,6 +1448,7 @@ openlakegeneva.ch
 openlane.ch
 openlaun.ch
 openlaw.ch
+openlawstandards.ch
 openlcms.ch
 openlearn.ch
 openlearning.ch
@@ -3935,6 +3936,7 @@ optimainpro.ch
 optimainsert.ch
 optimairo.ch
 optimaize.ch
+optimaizer.ch
 optimal-ab40.ch
 optimal-assurances.ch
 optimal-banking.ch
@@ -4931,10 +4933,7 @@ optoware.ch
 optra.ch
 optraken.ch
 optravis.ch
-optray.ch
 optrel.ch
-optrelsport.ch
-optrelsports.ch
 optri.ch
 optribe.ch
 optrin.ch
@@ -4985,14 +4984,13 @@ optyma.ch
 optymize.ch
 optymum.ch
 opu.ch
-opua.ch
-opuadocs.ch
 opub.ch
 opuchlik.ch
 opufinite.ch
 opuict.ch
 opuk.ch
 opulan.ch
+opulence-archive.ch
 opulence.ch
 opulent-cars.ch
 opulent.ch

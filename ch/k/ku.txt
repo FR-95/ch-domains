@@ -1244,6 +1244,7 @@ kuehlbox.ch
 kuehlboxen.ch
 kuehlcontainer.ch
 kuehldecke.ch
+kuehldecken.ch
 kuehleitner.ch
 kuehlen.ch
 kuehler-blonder.ch
@@ -3285,8 +3286,6 @@ kultsz.ch
 kultszenehauta.ch
 kulttalk.ch
 kulttaxi.ch
-kulttaxisursee.ch
-kulttaxitilo.ch
 kulttelefon.ch
 kulttelefone.ch
 kulttimer.ch
@@ -4995,7 +4994,6 @@ kummer-nicolussi.ch
 kummer-partner.ch
 kummer-precision.ch
 kummer-schiess.ch
-kummer-stapi-2025.ch
 kummer-technik.ch
 kummer-thayngen.ch
 kummer-transporte.ch
@@ -6594,6 +6592,7 @@ kunstig.ch
 kunstimalltag.ch
 kunstimbad.ch
 kunstimbau.ch
+kunstimbuero.ch
 kunstimcoworking.ch
 kunstimdialog.ch
 kunstimfluss.ch
@@ -7981,6 +7980,7 @@ kunzhufschmied.ch
 kunzi.ch
 kunzibike.ch
 kunzicarrozzeria.ch
+kunzig.ch
 kunzigroup.ch
 kunzimmo.ch
 kunzimmobilien.ch
@@ -9203,6 +9203,7 @@ kurtaxen.ch
 kurtbartsch.ch
 kurtbaumann.ch
 kurtbeck.ch
+kurtbelen.ch
 kurtbetschart.ch
 kurtbeutler.ch
 kurtbi1.ch
@@ -9953,7 +9954,6 @@ kushies.ch
 kushify.ch
 kushim.ch
 kushiya.ch
-kushmoneybrothers.ch
 kushnarenko.ch
 kushnerfacades.ch
 kushtresagashi.ch

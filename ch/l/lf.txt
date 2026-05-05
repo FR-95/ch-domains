@@ -143,6 +143,7 @@ lfmd.ch
 lfmenuiserie.ch
 lfmg-correction.ch
 lfmg-oui.ch
+lfmg.ch
 lfmgpt.ch
 lfmlaradio.ch
 lfmlivesession.ch

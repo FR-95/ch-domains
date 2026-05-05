@@ -4477,6 +4477,8 @@ augenfanki.ch
 augenfit.ch
 augenfitampc.ch
 augenfitness.ch
+augenfitnessanalyse.ch
+augenfitnessbuch.ch
 augenfoto.ch
 augenfotografie.ch
 augenfreiheit.ch
@@ -6086,6 +6088,7 @@ auptitbonheur.ch
 auptitjardin.ch
 auptitlien.ch
 auptitmag.ch
+auptitpetrin.ch
 auptitplus.ch
 auptitruc.ch
 auptitsoleil-ne.ch
@@ -6713,6 +6716,7 @@ aureapaysage.ch
 aurearaumdesign.ch
 aurearoseart.ch
 aureas.ch
+aureasol.ch
 aureasolutions.ch
 aureastudio.ch
 aureasuites.ch
@@ -6924,6 +6928,7 @@ aurelis4ferrum.ch
 aurelisferrum.ch
 aureliss.ch
 aurelium-capital.ch
+aurelium.ch
 aurelius-ag.ch
 aurelius-belz.ch
 aurelius-buildingsystems.ch
@@ -6992,6 +6997,7 @@ aureoimmo.ch
 aureoimmobilien.ch
 aureola.ch
 aureole.ch
+aureon-consulting.ch
 aureon-immo.ch
 aureon-immobilien.ch
 aureon.ch
@@ -7034,7 +7040,6 @@ aureum-winkel.ch
 aureum.ch
 aureumdata.ch
 aureumhealth.ch
-aureuminvest.ch
 aureumpathways.ch
 aureus-ag.ch
 aureus-capital.ch
@@ -7397,6 +7402,7 @@ aurora-schmuck.ch
 aurora-schulte.ch
 aurora-service.ch
 aurora-shop.ch
+aurora-sirnach.ch
 aurora-spreitenbach.ch
 aurora-staefa.ch
 aurora-store.ch
@@ -7618,6 +7624,7 @@ aurum-lux.ch
 aurum-magbook.ch
 aurum-maillard.ch
 aurum-marly.ch
+aurum-motors.ch
 aurum-omnia.ch
 aurum-potabile.ch
 aurum-re.ch
@@ -7677,6 +7684,7 @@ aurumfit-wallisellen.ch
 aurumfit.ch
 aurumfunds.ch
 aurumgaerten.ch
+aurumgenevaprivate.ch
 aurumgioielleria.ch
 aurumgroup.ch
 aurumhelvetica.ch
@@ -8031,7 +8039,6 @@ ausbildungsverpflichtung.ch
 ausbildungsversicherung.ch
 ausbildungswerkstatt.ch
 ausbildungszentrum-frauenfeld.ch
-ausbildungszentrum-holzbau.ch
 ausbildungszentrum-mensch-und-hund.ch
 ausbildungszentrum-muehlfang.ch
 ausbildungszentrum-noah.ch
@@ -8253,6 +8260,7 @@ ausgehmagazin.ch
 ausgehportal.ch
 ausgehtipp.ch
 ausgehtipps.ch
+ausgeizen.ch
 ausgelesen.ch
 ausgeloest.ch
 ausgemalt.ch
@@ -15223,8 +15231,6 @@ autonomie-energetique.ch
 autonomieenergetique.ch
 autonomiesuisse.ch
 autonomiezeit.ch
-autonominds.ch
-autonomindsai.ch
 autonomiq.ch
 autonomix.ch
 autonomize.ch

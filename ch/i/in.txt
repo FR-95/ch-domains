@@ -537,20 +537,12 @@ in24.ch
 in2action.ch
 in2actions.ch
 in2afrika.ch
-in2balance.ch
-in2breathe.ch
-in2calm.ch
 in2cloud.ch
-in2coach.ch
-in2cold.ch
 in2comp.ch
 in2dance.ch
 in2earth.ch
-in2emotion.ch
-in2energy.ch
 in2english.ch
 in2evo.ch
-in2focus.ch
 in2girls.ch
 in2go.ch
 in2growth.ch
@@ -559,29 +551,14 @@ in2it-solution.ch
 in2it-solutions.ch
 in2ition.ch
 in2leather.ch
-in2life.ch
 in2mec.ch
-in2mental.ch
 in2minds.ch
-in2moment.ch
 in2motion.ch
-in2move.ch
-in2music.ch
-in2nature.ch
-in2neuro.ch
-in2presence.ch
-in2recovery.ch
 in2see.ch
 in2selftalk.ch
-in2shooting.ch
-in2sport.ch
-in2strong.ch
 in2switzerland.ch
-in2tactics.ch
 in2vent.ch
-in2visualize.ch
 in2web.ch
-in2work.ch
 in3-basel.ch
 in3-group.ch
 in3.ch
@@ -1617,6 +1594,7 @@ incomefid.ch
 incomeforever.ch
 incomeinnovation.ch
 incomeiq.ch
+incomeshield.ch
 incometax.ch
 incomindios.ch
 incoming-basel.ch
@@ -3953,6 +3931,7 @@ industrie-tastatur.ch
 industrie-technik24.ch
 industrie-technologie-headhunter.ch
 industrie-terre-cuite.ch
+industrie-tor.ch
 industrie-tore.ch
 industrie-umzuege.ch
 industrie-und-unterlagsbodenbauer.ch
@@ -4021,7 +4000,6 @@ industrieberufe.ch
 industriebeteiligungen.ch
 industriebinz.ch
 industrieboden-haenni.ch
-industrieboden-impraegnierung-beschichtung-reinigung.ch
 industrieboden.ch
 industriebodenbelag.ch
 industrieboeden.ch
@@ -5335,7 +5313,6 @@ infinitesea.ch
 infiniteskills.ch
 infinitesky.ch
 infinitesolutions.ch
-infinitesource.ch
 infinitespace-studio.ch
 infinitespells.ch
 infinitespin.ch
@@ -8552,6 +8529,7 @@ infraconect.ch
 infraconsult.ch
 infracontrol.ch
 infracore.ch
+infracrafters.ch
 infracrete.ch
 infracrush.ch
 infracrushstudio.ch
@@ -10532,7 +10510,6 @@ iniziativa-popolare.ch
 iniziativa-protezione-dati.ch
 iniziativa-protezione-dei-bambini.ch
 iniziativa-redditodibase.ch
-iniziativa-responsabilita-ambientale.ch
 iniziativa-ricostruzione.ch
 iniziativa-riparazione.ch
 iniziativa-salvare-i-bambini-vitali.ch
@@ -11515,6 +11492,7 @@ inmed-gmbh.ch
 inmed.ch
 inmedia.ch
 inmediadigital.ch
+inmediahaus.ch
 inmediapublico.ch
 inmediares.ch
 inmedias.ch
@@ -13027,6 +13005,7 @@ innoquality.ch
 innoqube.ch
 innoquo.ch
 innora.ch
+innorace.ch
 innorama.ch
 innorat.ch
 innorata.ch
@@ -13120,6 +13099,7 @@ innospina.ch
 innospine.ch
 innospiration.ch
 innosport.ch
+innosquare-lab.ch
 innosquare.ch
 innosta.ch
 innostage.ch
@@ -14745,6 +14725,7 @@ inovie.ch
 inovil.ch
 inoville.ch
 inovim.ch
+inovimmo.ch
 inovimo.ch
 inovinfo.ch
 inovio.ch
@@ -15037,6 +15018,7 @@ inpromandie.ch
 inpromed.ch
 inproow.ch
 inpropegmbh.ch
+inproperty.ch
 inproplan-engineering.ch
 inprotel.ch
 inps.ch
@@ -16721,7 +16703,6 @@ insomnia.ch
 insomniac.ch
 insomniaclub.ch
 insomniacorp.ch
-insomniacs.ch
 insomniak-band.ch
 insomniak-productions.ch
 insomniak.ch
@@ -16778,7 +16759,6 @@ inspectar.ch
 inspectarevision.ch
 inspectec.ch
 inspecteo.ch
-inspecteur-blaireau.ch
 inspecteur.ch
 inspecteurbonus.ch
 inspectfly.ch
@@ -21573,6 +21553,7 @@ interibat.ch
 interibex.ch
 intericlub.ch
 interien.ch
+interieur-boost.ch
 interieur-cuisines.ch
 interieur-deco.ch
 interieur-horath.ch
@@ -26604,7 +26585,6 @@ invisaligncenter.ch
 invisalignchur.ch
 invisalignclinic.ch
 invisaligndentist.ch
-invisaligndoctorsite.ch
 invisalignfirst.ch
 invisaligngeneva.ch
 invisaligngeneve.ch

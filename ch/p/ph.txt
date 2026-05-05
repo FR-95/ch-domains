@@ -756,6 +756,7 @@ pharmaciebernex.ch
 pharmaciebertrand.ch
 pharmaciebichsel.ch
 pharmaciebio.ch
+pharmaciebiowendt.ch
 pharmaciebleue.ch
 pharmacieblonay.ch
 pharmacieboujean.ch
@@ -3257,6 +3258,7 @@ phillipe-voyance.ch
 phillipgrossen.ch
 philliposwald.ch
 phillipp.ch
+phillippschoch.ch
 phillips.ch
 phillips66.ch
 phillips66co.ch
@@ -7362,6 +7364,8 @@ physio-mate.ch
 physio-matge.ch
 physio-mathieu.ch
 physio-mathis.ch
+physio-max-boll.ch
+physio-maxboll.ch
 physio-maxillo-faciale.ch
 physio-mb.ch
 physio-mcr.ch
@@ -8185,6 +8189,7 @@ physioalamaison.ch
 physioalbrecht.ch
 physioalex.ch
 physioalexander.ch
+physioalfredvincent.ch
 physioallschwil.ch
 physioalma.ch
 physioalpenblick.ch
@@ -9059,6 +9064,7 @@ physiomaienfeld.ch
 physiomaiengruen.ch
 physiomain.ch
 physiomaingeneve.ch
+physiomainsnuages.ch
 physiomalagnou.ch
 physiomalley.ch
 physiomampasi.ch
@@ -9088,6 +9094,7 @@ physiomattenstutz.ch
 physiomattioli.ch
 physiomavric.ch
 physiomax.ch
+physiomaxboll.ch
 physiomed-ag.ch
 physiomed-arbon.ch
 physiomed-fribourg.ch
@@ -9626,7 +9633,6 @@ physioteam-berger.ch
 physioteam-burgdorf.ch
 physioteam-hausen.ch
 physioteam-horgen.ch
-physioteam-horning-buergelin.ch
 physioteam-horning-gundeli-basel.ch
 physioteam-koppigen.ch
 physioteam-lenzhof.ch

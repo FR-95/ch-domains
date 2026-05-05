@@ -21,7 +21,6 @@ tr-immobilier.ch
 tr-international.ch
 tr-invest.ch
 tr-ip.ch
-tr-iq.ch
 tr-log.ch
 tr-luisvives.ch
 tr-m.ch
@@ -2368,6 +2367,11 @@ trailcenterthusis.ch
 trailchallenge.ch
 trailclubmacolin.ch
 trailconsulting.ch
+trailcraft-academy.ch
+trailcraft-camp.ch
+trailcraft.ch
+trailcraftacademy.ch
+trailcraftcamp.ch
 traildata.ch
 traildays-baselland.ch
 traildays.ch
@@ -2857,7 +2861,6 @@ training-heroes.ch
 training-hk.ch
 training-hub.ch
 training-im-alltag.ch
-training-iq.ch
 training-kommunikation.ch
 training-lab.ch
 training-leads.ch
@@ -2938,7 +2941,6 @@ trainingframeworks.ch
 traininggolf.ch
 trainingguide.ch
 trainingheroes.ch
-trainingintelligence.ch
 traininglab.ch
 traininglavouivre.ch
 traininglog-test.ch
@@ -2949,7 +2951,6 @@ trainingmoms.ch
 trainingmums.ch
 trainingonline.ch
 trainingplan.ch
-trainingplanner.ch
 trainingplus.ch
 trainingpool.ch
 trainingracoon.ch
@@ -3116,7 +3117,6 @@ trainshop.ch
 trainsim.ch
 trainsimulator.ch
 trainsmart.ch
-trainsmarter.ch
 trainspire.ch
 trainsplus.ch
 trainsport.ch
@@ -6551,7 +6551,6 @@ traube-herrenschwanden.ch
 traube-horn.ch
 traube-jenins.ch
 traube-marbach.ch
-traube-muellheim.ch
 traube-muensingen.ch
 traube-nassen.ch
 traube-niederstetten.ch
@@ -10273,6 +10272,7 @@ trek-villiger.ch
 trek.ch
 trekandsail.ch
 trekaro.ch
+trekaumaroc.ch
 trekbars.ch
 trekbike.ch
 trekbikes-shop.ch
@@ -11134,6 +11134,7 @@ trenn-punkt.ch
 trenn-sie-pack.ch
 trenn-strich.ch
 trenn-tours.ch
+trenn-waende.ch
 trenn-wand.ch
 trenn.ch
 trennbar.ch
@@ -13132,6 +13133,7 @@ tri4fun.ch
 tria-consulting.ch
 tria-dielsdorf.ch
 tria-finanz.ch
+tria-interim.ch
 tria-it.ch
 tria-log.ch
 tria-rem.ch
@@ -13433,7 +13435,6 @@ triathlon24.ch
 triathlon360.ch
 triathlon4u.ch
 triathlonanzug.ch
-triathlonapp.ch
 triathlonatlake.ch
 triathlonaubonne.ch
 triathlonbasel.ch
@@ -13518,11 +13519,9 @@ tribat.ch
 tribatsolutionsuisse.ch
 tribau.ch
 tribba.ch
-tribe-denkenachundwerdereich.ch
 tribe-foundation.ch
 tribe-gallery.ch
 tribe-outdoor.ch
-tribe-thinkandgrowrich.ch
 tribe-voit.ch
 tribe.ch
 tribeacai.ch
@@ -15657,6 +15656,7 @@ tripsearch.ch
 tripset.ch
 tripshare.ch
 tripshaveclub.ch
+tripsim.ch
 tripsio.ch
 tripsitter.ch
 tripsmitgrips.ch
@@ -15704,7 +15704,6 @@ tripy.ch
 tripz-deals.ch
 tripz-hotels.ch
 tripz.ch
-triq.ch
 triqbriq.ch
 triqueta.ch
 triquetra.ch
@@ -16842,6 +16841,7 @@ troi.ch
 troia-immobilien.ch
 troia.ch
 troiacapital.ch
+troiaeconomics.ch
 troiagroup.ch
 troialiu.ch
 troiano-consulting.ch
@@ -18555,6 +18555,7 @@ true-america.ch
 true-american-spirit.ch
 true-appreciation.ch
 true-as-steel.ch
+true-base.ch
 true-beauty.ch
 true-berry.ch
 true-blue.ch
@@ -18647,6 +18648,7 @@ truebackup.ch
 truebadur.ch
 truebalance.ch
 truebalancebody.ch
+truebase.ch
 truebased.ch
 truebasel.ch
 truebbach-immobilien.ch
@@ -20142,6 +20144,7 @@ trx.ch
 trx2.ch
 trxc.ch
 trxcloud.ch
+trxenergy.ch
 trxeurope.ch
 trxfitness.ch
 trxl.ch

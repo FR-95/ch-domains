@@ -208,6 +208,7 @@ vhstool.ch
 vhsup.ch
 vhsw.ch
 vhswin.ch
+vhsz-app.ch
 vhsz.ch
 vhszh.ch
 vht-emmental.ch

@@ -916,6 +916,7 @@ zeichner-efz.ch
 zeichner-ing.ch
 zeichner-ingenieurbau.ch
 zeichner-jobs.ch
+zeichner-schnarwiler.ch
 zeichner.ch
 zeichner24.ch
 zeichner3eck.ch
@@ -1657,7 +1658,6 @@ zeitraum-podcast.ch
 zeitraum-raumzeit.ch
 zeitraum-waedenswil.ch
 zeitraum.ch
-zeitraum22.ch
 zeitraum60.ch
 zeitraum7.ch
 zeitraumaargau.ch
@@ -2446,9 +2446,7 @@ zelt-fondue.ch
 zelt-handel.ch
 zelt-heizung.ch
 zelt-hochzeit.ch
-zelt-in-bern.ch
 zelt-in-gurzelen.ch
-zelt-in-uetendorf.ch
 zelt-kaufen.ch
 zelt-liquidationen.ch
 zelt-mieten-zuerich.ch
@@ -2824,6 +2822,7 @@ zen-coaching.ch
 zen-collection.ch
 zen-concept.ch
 zen-crisis.ch
+zen-cybersecurity.ch
 zen-dans-mes-pattes.ch
 zen-deshimaru.ch
 zen-design.ch
@@ -3033,6 +3032,7 @@ zenbrain.ch
 zenbu.ch
 zenbudget.ch
 zenbukan.ch
+zenbukoko.ch
 zenbunker.ch
 zenbuy.ch
 zenbystep.ch
@@ -3048,6 +3048,7 @@ zencense.ch
 zencha.ch
 zenchat.ch
 zenchef.ch
+zencio.ch
 zenclean.ch
 zencleanz.ch
 zenclic.ch
@@ -5556,7 +5557,6 @@ zerocarbone.ch
 zerocard.ch
 zerochex.ch
 zerochili.ch
-zerochill.ch
 zeroclick.ch
 zeroclickmetric.ch
 zerocloud.ch
@@ -5846,7 +5846,6 @@ zeroxlabs.ch
 zeroyourmind.ch
 zeroz.ch
 zerozero.ch
-zerozerogo.ch
 zerozeropizza.ch
 zerozine.ch
 zerozucker.ch

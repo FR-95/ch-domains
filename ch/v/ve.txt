@@ -3232,7 +3232,9 @@ velomech-becker.ch
 velomech-mobil.ch
 velomech-sezer.ch
 velomech.ch
+velomech24.ch
 velomechaniker.ch
+velomechaniker24.ch
 velomechbecker.ch
 velomecherei.ch
 velomedia.ch
@@ -3399,6 +3401,7 @@ velor.ch
 velora-bern.ch
 velora-heermann.ch
 velora-living.ch
+velora-motors.ch
 velora-prestiges.ch
 velora-studios.ch
 velora-swiss.ch
@@ -3444,6 +3447,7 @@ velorelle.ch
 velorennen.ch
 velorental-zueri.ch
 veloreparatur.ch
+veloreparatur24.ch
 veloreparaturen.ch
 veloreperatur.ch
 velores.ch
@@ -3546,6 +3550,7 @@ veloservice-station.ch
 veloservice-suhr.ch
 veloservice-werkstatt.ch
 veloservice.ch
+veloservice24.ch
 veloservice48.ch
 veloservicekust.ch
 veloservicestation.ch
@@ -5748,6 +5753,7 @@ ventusia.ch
 ventusmotion.ch
 ventusprojekte.ch
 ventusquintus.ch
+ventve.ch
 ventx.ch
 venty.ch
 ventyo.ch
@@ -6274,6 +6280,7 @@ veranda-leymarie.ch
 veranda-lux.ch
 veranda-neuchatel.ch
 veranda-panorama.ch
+veranda-pellicano.ch
 veranda-pergola.ch
 veranda-photovoltaique.ch
 veranda-riviera.ch
@@ -7777,6 +7784,8 @@ verein-humano.ch
 verein-ifz.ch
 verein-ihht-schweiz.ch
 verein-ihht.ch
+verein-iht-schweiz.ch
+verein-iht.ch
 verein-im-stuetzli.ch
 verein-impact.ch
 verein-inklusiv.ch
@@ -9179,6 +9188,7 @@ verhalten-versuchen-verstehen.ch
 verhaltenistsprache.ch
 verhaltens-architektur.ch
 verhaltens-optometrie.ch
+verhaltens-psychotherapie-zurich.ch
 verhaltens-therapie.ch
 verhaltens-training.ch
 verhaltensanalyse.ch
@@ -11808,7 +11818,6 @@ verreis.ch
 verreisen.ch
 verremakeglas.ch
 verrenten.ch
-verrentung-schweiz.ch
 verrentungscheck.ch
 verreolive.ch
 verreonline.ch
@@ -12462,6 +12471,7 @@ versicherungsgesellschaften24.ch
 versicherungsgesellschaftenschweiz.ch
 versicherungsgpt.ch
 versicherungsgruendung.ch
+versicherungsguide.ch
 versicherungshaus.ch
 versicherungsheini.ch
 versicherungsheld.ch
@@ -13044,9 +13054,6 @@ verten.ch
 vertenaturo.ch
 vertendre.ch
 verteo.ch
-verteole-energie.ch
-verteole-energy.ch
-verteole-pacific.ch
 verteole.ch
 verteporfin.ch
 verter.ch
@@ -13520,6 +13527,7 @@ vertragshilfeportal.ch
 vertragshilfeportal24.ch
 vertragshop.ch
 vertragsjurist.ch
+vertragskiller.ch
 vertragsklar.ch
 vertragskultur.ch
 vertragslehre.ch
@@ -13717,6 +13725,7 @@ vertriebslisten.ch
 vertriebslogistik.ch
 vertriebsmanagement.ch
 vertriebsmarketing.ch
+vertriebsmaschine.ch
 vertriebsmaster.ch
 vertriebsmentor.ch
 vertriebsmindset.ch
@@ -14384,6 +14393,7 @@ vescoo.ch
 vescorefondsleitung.ch
 vescotronic.ch
 vescovi-beratungen.ch
+vescovi.ch
 vescovidahinden.ch
 vescoviengineering.ch
 vescovisa.ch

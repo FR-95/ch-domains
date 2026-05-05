@@ -1408,8 +1408,6 @@ octo-8.ch
 octo-care.ch
 octo-food.ch
 octo-labs.ch
-octo-lead.ch
-octo-leads.ch
 octo-net.ch
 octo-orion.ch
 octo.ch
@@ -1478,7 +1476,6 @@ octoimmo.ch
 octoiur.ch
 octoja.ch
 octolabs.ch
-octolead.ch
 octoleads.ch
 octolight.ch
 octolipe.ch

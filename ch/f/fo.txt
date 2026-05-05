@@ -1375,7 +1375,6 @@ fokker.ch
 fokkerteam.ch
 fokkovos.ch
 fokkus.ch
-foklorenachwuchs.ch
 foko.ch
 fokoa.ch
 fokof.ch
@@ -1464,7 +1463,6 @@ fokus-integration.ch
 fokus-jerusalem.ch
 fokus-kaposg.ch
 fokus-ki.ch
-fokus-kinesiologie.ch
 fokus-kirche.ch
 fokus-klar.ch
 fokus-klasse.ch
@@ -1717,7 +1715,6 @@ fol-epi.ch
 fol-ino.ch
 fol.ch
 fola-sa.ch
-fola.ch
 folab.ch
 folag.ch
 folamis-wanner.ch
@@ -2270,7 +2267,6 @@ folly-jacques.ch
 folly.ch
 follydesign.ch
 follyelectromoteurs.ch
-follyelomlakoussan.ch
 folmer.ch
 folmercare.ch
 folnet.ch
@@ -3595,7 +3591,6 @@ fondazioneculturadellacostruzionesvizzera.ch
 fondazionedanilo.ch
 fondazionedeldon.ch
 fondazionedellatorre.ch
-fondazionedellesite.ch
 fondazionedesalis.ch
 fondazionedietlerkottmann.ch
 fondazionedimitri.ch
@@ -4040,6 +4035,7 @@ fondue-lawelsch.ch
 fondue-lounge-olten.ch
 fondue-lounge.ch
 fondue-luzern.ch
+fondue-manufaktur.ch
 fondue-meitli.ch
 fondue-moitie-moitie.ch
 fondue-moitiemoitie.ch
@@ -4385,7 +4381,6 @@ fontaine.ch
 fontaineandre.ch
 fontaineavin.ch
 fontainecompta.ch
-fontainedejouvence.ch
 fontaineeau.ch
 fontainemagique.ch
 fontainemagnetique.ch
@@ -6385,7 +6380,6 @@ for-future.ch
 for-golfer.ch
 for-happy-animals.ch
 for-health.ch
-for-him.ch
 for-home.ch
 for-it.ch
 for-janet.ch
@@ -7954,6 +7948,7 @@ forgetec.ch
 forgetisforte.ch
 forgetistforte.ch
 forgetmenot.ch
+forgevibe.ch
 forgewebstudio.ch
 forgex.ch
 forgexcarbon.ch
@@ -9198,6 +9193,7 @@ formfehler.ch
 formfehlermeldung.ch
 formfeld.ch
 formfest.ch
+formfiller.ch
 formfindung.ch
 formfit-solutions.ch
 formfit.ch
@@ -9377,6 +9373,7 @@ formquest.ch
 formraum.ch
 formrea.ch
 formreich.ch
+formrelay.ch
 formresear.ch
 formrise-eyewear.ch
 formrise.ch
@@ -10376,6 +10373,7 @@ fort.ch
 fort2chillon.ch
 forta-oui.ch
 forta.ch
+fortador.ch
 fortae.ch
 fortaine.ch
 fortal.ch
@@ -11110,6 +11108,7 @@ forum-dei-clienti.ch
 forum-der-religionen.ch
 forum-des-aides.ch
 forum-des-courtiers.ch
+forum-des-femmes.ch
 forum-des-fondations.ch
 forum-des-medias.ch
 forum-des-sports.ch
@@ -11284,7 +11283,6 @@ forum-pme.ch
 forum-pmi.ch
 forum-poenale.ch
 forum-politica-vecchiaia.ch
-forum-politik.ch
 forum-politique-vieillesse.ch
 forum-polonii.ch
 forum-ponts-neufs.ch
@@ -11798,6 +11796,7 @@ forwardhc.ch
 forwardhelixpiercing.ch
 forwarding.ch
 forwardlabs.ch
+forwardlearning.ch
 forwardlive.ch
 forwardmail.ch
 forwardmar.ch
@@ -11870,6 +11869,7 @@ forys.ch
 foryuu.ch
 forza-electricmotors.ch
 forza-forza.ch
+forza-le-donne.ch
 forza-le-ragazze.ch
 forza-mojito.ch
 forza-ragazze.ch
@@ -11974,6 +11974,7 @@ foselect.ch
 foserv.ch
 foseyecare.ch
 fosfor-swiss.ch
+fosh.ch
 fosi-ny.ch
 fosi.ch
 fosiag.ch
@@ -15228,6 +15229,7 @@ fournier-musique.ch
 fournier-nettoyage.ch
 fournier-psyconsult.ch
 fournier-sa.ch
+fournier-vanille.ch
 fournier.ch
 fournierbois.ch
 fourniercharpente.ch
@@ -15611,7 +15613,6 @@ foxlab.ch
 foxlabel.ch
 foxland.ch
 foxlash.ch
-foxlead.ch
 foxled.ch
 foxli.ch
 foxlima.ch

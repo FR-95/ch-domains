@@ -2017,7 +2017,6 @@ gedankenkarusell.ch
 gedankenkarussell.ch
 gedankenkiosk.ch
 gedankenklar.ch
-gedankenkommode.ch
 gedankenkontrolle.ch
 gedankenkosmos.ch
 gedankenkraft.ch
@@ -4664,7 +4663,6 @@ geld-kassette.ch
 geld-manager.ch
 geld-mann.ch
 geld-manufaktur.ch
-geld-maschine.ch
 geld-not.ch
 geld-online-verdienen-schweiz.ch
 geld-partner.ch
@@ -8431,6 +8429,7 @@ genevabiblestudy.ch
 genevabids.ch
 genevabiketours.ch
 genevabills.ch
+genevabiotrans.ch
 genevablackcab.ch
 genevablockchain.ch
 genevablockchaincenterofexcellence.ch
@@ -16301,6 +16300,7 @@ geschichtedersozialensicherheit.ch
 geschichteerleben.ch
 geschichteimpuls.ch
 geschichteinchronologie.ch
+geschichten-auf-bestellung.ch
 geschichten-aus-dem-alltag.ch
 geschichten-aus-dem-internet.ch
 geschichten-cafe.ch
@@ -16317,12 +16317,14 @@ geschichten-online.ch
 geschichten-podcast.ch
 geschichten-retter.ch
 geschichten-schatz.ch
+geschichten-schenken.ch
 geschichten-vom-berg.ch
 geschichten-werkstatt.ch
 geschichten-zimmer.ch
 geschichten.ch
 geschichtenanschulen.ch
 geschichtenatelier.ch
+geschichtenaufbestellung.ch
 geschichtenausdeminternet.ch
 geschichtenausdemturm.ch
 geschichtenbaeckerei.ch
@@ -16363,6 +16365,7 @@ geschichtensaeerin.ch
 geschichtensaerin.ch
 geschichtensammler.ch
 geschichtenschatz.ch
+geschichtenschenken.ch
 geschichtenschmid.ch
 geschichtenschmiedin.ch
 geschichtenschmuck.ch
@@ -18448,7 +18451,6 @@ gesundheits-praxis.ch
 gesundheits-produkt.ch
 gesundheits-profiler.ch
 gesundheits-qigong.ch
-gesundheits-quelle.ch
 gesundheits-radar.ch
 gesundheits-schiff.ch
 gesundheits-schlaf.ch
@@ -19155,6 +19157,7 @@ gesundheitsstadt.ch
 gesundheitsstammtisch.ch
 gesundheitsstation.ch
 gesundheitsstellen.ch
+gesundheitsstiftung.ch
 gesundheitsstube.ch
 gesundheitsstudio.ch
 gesundheitssystem.ch
@@ -19709,6 +19712,7 @@ get-to.ch
 get-together-mg.ch
 get-tools.ch
 get-training.ch
+get-trx.ch
 get-up-and-running.ch
 get-up.ch
 get-us.ch
@@ -20105,7 +20109,6 @@ getgroupco.ch
 getgrowee.ch
 geth.ch
 gethair.ch
-gethat.ch
 gethealthy.ch
 gethelp-gmbh.ch
 gethelp.ch
@@ -20644,6 +20647,7 @@ getreportr.ch
 getreset.ch
 getresponse.ch
 getrestful.ch
+getrestorea.ch
 getresult.ch
 getresults.ch
 getreuhand.ch
@@ -20954,6 +20958,7 @@ getusedtoused.ch
 getusense.ch
 getuspiezeinigen.ch
 getvalidia.ch
+getvalt.ch
 getvantage.ch
 getvantyx.ch
 getvibe.ch

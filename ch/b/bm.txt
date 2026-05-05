@@ -474,6 +474,7 @@ bmfoundation.ch
 bmfpix.ch
 bmfprocons.ch
 bmfproconsulting.ch
+bmfs.ch
 bmfugen.ch
 bmg-ag.ch
 bmg-art.ch
@@ -655,9 +656,7 @@ bmnmicrocity.ch
 bmnn.ch
 bmns.ch
 bmo-dev.ch
-bmo-fire.ch
 bmo-project.ch
-bmo-stoves.ch
 bmo.ch
 bmobile.ch
 bmobv.ch

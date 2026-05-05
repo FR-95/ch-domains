@@ -62,6 +62,7 @@ tm-multiscervice.ch
 tm-music.ch
 tm-net.ch
 tm-ob.ch
+tm-oberberg.ch
 tm-odermatt.ch
 tm-ortopedia.ch
 tm-partner.ch
@@ -570,6 +571,7 @@ tmv.ch
 tmvag.ch
 tmvdorn.ch
 tmvprintag.ch
+tmvtrade.ch
 tmvwil.ch
 tmw-custom.ch
 tmw-logistics.ch

@@ -150,6 +150,7 @@ pubimages.ch
 pubis.ch
 pubky.ch
 publ.ch
+publec.ch
 publeq.ch
 publesoleil.ch
 publestate.ch
@@ -1025,7 +1026,6 @@ puderbude.ch
 puderdose.ch
 puderpink.ch
 puderquaste.ch
-puderundzucker.ch
 puderzucker-konfetti.ch
 puderzucker.ch
 pudesco.ch
@@ -1659,6 +1659,7 @@ pulpdent-schweiz.ch
 pulpe.ch
 pulpedevie.ch
 pulpetto.ch
+pulpex.ch
 pulpfood.ch
 pulpfusion.ch
 pulpigo.ch
@@ -2077,6 +2078,7 @@ pulverturm-zug.ch
 pulverturm.ch
 pulververkauf.ch
 pulverwerk.ch
+pulverwerkkoenig.ch
 pulverzentrum.ch
 pulverzucker.ch
 pulvex.ch
@@ -3012,6 +3014,7 @@ pup-floki.ch
 pup-jimmy.ch
 pup-max.ch
 pup-trekk.ch
+pup-up.ch
 pup.ch
 pupa.ch
 pupaid.ch
@@ -4212,6 +4215,7 @@ pureorganics.ch
 pureorganize.ch
 pureorigin.ch
 pureorigins.ch
+pureortho.ch
 pureosbio.ch
 purepack.ch
 purepaddlefitness.ch

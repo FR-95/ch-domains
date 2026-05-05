@@ -1582,6 +1582,7 @@ ns1.eb-zuerich.ch
 ns1.ecaftan.ch
 ns1.ecaupo.ch
 ns1.ecodev.ch
+ns1.ecofin.ch
 ns1.ecolealaferme.ch
 ns1.ecolize.ch
 ns1.ecomedia.ch
@@ -4905,6 +4906,7 @@ ns2.eatorder.ch
 ns2.eb-zuerich.ch
 ns2.ecaftan.ch
 ns2.eclavis.ch
+ns2.ecofin.ch
 ns2.ecolealaferme.ch
 ns2.ecolize.ch
 ns2.ecomp.ch

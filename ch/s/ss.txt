@@ -97,6 +97,7 @@ ssap.ch
 ssapm.ch
 ssapp.ch
 ssaprimarbl.ch
+ssapt.ch
 ssar.ch
 ssarch.ch
 ssarchbern.ch
@@ -1038,7 +1039,6 @@ sss-ag.ch
 sss-cf.ch
 sss-charmey.ch
 sss-grandchasseral.ch
-sss-iss.ch
 sss-lausanne.ch
 sss-meyrin.ch
 sss-nordvaudois.ch

@@ -132,6 +132,7 @@ ai-brokers.ch
 ai-buchhaltung.ch
 ai-business-automation-experte.ch
 ai-business-automation-experts.ch
+ai-business-booster.ch
 ai-business-coach.ch
 ai-business-consulting.ch
 ai-business-expert.ch
@@ -222,8 +223,6 @@ ai-consulting.ch
 ai-consulting24.ch
 ai-consultingagency.ch
 ai-content-creation.ch
-ai-content-creator.ch
-ai-content-redaktion.ch
 ai-content.ch
 ai-controlling.ch
 ai-copilot.ch
@@ -285,6 +284,7 @@ ai-elektro.ch
 ai-enabler.ch
 ai-enablers.ch
 ai-engelberg.ch
+ai-engineer.ch
 ai-engineer24.ch
 ai-engineering-academy.ch
 ai-engineering.ch
@@ -891,6 +891,7 @@ ai-wissen.ch
 ai-wizard.ch
 ai-work.ch
 ai-worker.ch
+ai-workforce.ch
 ai-works.ch
 ai-workshop.ch
 ai-workshops.ch
@@ -1041,7 +1042,6 @@ aiagentbit.ch
 aiagentgroup.ch
 aiagentic.ch
 aiagentjobs.ch
-aiagentmanagementacademy.ch
 aiagentpro.ch
 aiagents.ch
 aiagentstore.ch
@@ -3332,6 +3332,7 @@ aingroup.ch
 ainhirn-williams.ch
 ainhoa-beautywerk.ch
 ainhoa.ch
+ainhoamate.ch
 aini.ch
 ainiac.ch
 ainights.ch
@@ -3680,11 +3681,7 @@ aipower.ch
 aipoweracademy.ch
 aipowered.ch
 aipoweredleader.ch
-aipowerformanagers.ch
 aipowerhouseswiss.ch
-aipowers4managers.ch
-aipowersacademy.ch
-aipowersformanagers.ch
 aipox.ch
 aipp.ch
 aippi.ch
@@ -3709,6 +3706,7 @@ aiproduction.ch
 aiprofessional.ch
 aiprofi.ch
 aiprogram.ch
+aiproject.ch
 aiprojektentwicklung.ch
 aiprolink.ch
 aiprompt.ch
@@ -6043,9 +6041,7 @@ aisummitgeneva.ch
 aisummitgeneva2027.ch
 aisummitzurich.ch
 aisuperpoweracademy.ch
-aisuperpowers.ch
 aisuperpowersacademy.ch
-aisuperpowersformanagers.ch
 aisupervision.ch
 aisupport.ch
 aisupremeuniversity.ch
@@ -6066,7 +6062,6 @@ aisynch.ch
 aisyndicate.ch
 aisys.ch
 aisystem.ch
-aisystemhaus.ch
 aisystems.ch
 aisystemsolutions.ch
 aisystemtools.ch

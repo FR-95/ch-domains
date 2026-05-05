@@ -531,7 +531,6 @@ zudruff.ch
 zue-lose.ch
 zue-ri.ch
 zue.ch
-zue2412.ch
 zueb.ch
 zueba.ch
 zueberwangen.ch
@@ -619,7 +618,9 @@ zuegelfirma-schweitz.ch
 zuegelfirma-schweiz.ch
 zuegelfirma-solothurn.ch
 zuegelfirma-st-gallen.ch
+zuegelfirma-stgallen.ch
 zuegelfirma-thurgau.ch
+zuegelfirma-vergleichen.ch
 zuegelfirma-waedenswil.ch
 zuegelfirma-wetzikon.ch
 zuegelfirma-winterthur.ch
@@ -631,11 +632,13 @@ zuegelfirma.ch
 zuegelfirma24.ch
 zuegelfirmabasel.ch
 zuegelfirmazuerich.ch
+zuegelfirmen-vergleichen.ch
 zuegelfirmen.ch
 zuegelfluegel.ch
 zuegelhaus.ch
 zuegelhelden.ch
 zuegelhelfer.ch
+zuegelhilfe-guenstig.ch
 zuegelhilfe.ch
 zuegelinfo.ch
 zuegelkarton.ch
@@ -711,6 +714,7 @@ zuegeltag.ch
 zuegelteam.ch
 zuegelteamschweiz.ch
 zuegeltipps.ch
+zuegelunternehmen-aargau.ch
 zuegelunternehmen-basel.ch
 zuegelunternehmen-bellinzona.ch
 zuegelunternehmen-bern.ch
@@ -726,11 +730,15 @@ zuegelunternehmen-luzern.ch
 zuegelunternehmen-schaffhausen.ch
 zuegelunternehmen-sitten.ch
 zuegelunternehmen-st-gallen.ch
+zuegelunternehmen-stgallen.ch
 zuegelunternehmen-thun.ch
+zuegelunternehmen-thurgau.ch
 zuegelunternehmen-uster.ch
+zuegelunternehmen-vergleichen.ch
 zuegelunternehmen-vernier.ch
 zuegelunternehmen-winterthur.ch
 zuegelunternehmen-zuerich.ch
+zuegelunternehmen-zug.ch
 zuegelunternehmen.ch
 zuegelunternehmen24.ch
 zuegelunternehmen365.ch
@@ -3888,6 +3896,7 @@ zugerstrasse19.ch
 zugerstrasse4.ch
 zugerstrasse76b.ch
 zugerstrom.ch
+zugertaxi.ch
 zugertenerolager.ch
 zugertest.ch
 zugertor.ch

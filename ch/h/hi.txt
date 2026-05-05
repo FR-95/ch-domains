@@ -2318,7 +2318,6 @@ hilfeausdernatur.ch
 hilfebeiburnout.ch
 hilfebeigewalt.ch
 hilfebeigicht.ch
-hilfebeimeinkaufen.ch
 hilfebeimschreiben.ch
 hilfebeischulden.ch
 hilfeberggemeinden.ch
@@ -2355,7 +2354,6 @@ hilfetelefon-rund-um-die-geburt.ch
 hilfetelefon.ch
 hilfetelefon24.ch
 hilfeuhr.ch
-hilfevorort.ch
 hilfezentrale.ch
 hilfezentrum.ch
 hilfezuhause.ch
@@ -2376,6 +2374,7 @@ hilfiker-racing.ch
 hilfiker.ch
 hilfikerdienstleistungen.ch
 hilfikerkommunikation.ch
+hilfikerkunstprojekte.ch
 hilfikernet.ch
 hilfikerpartner.ch
 hilfikerpr.ch
@@ -4232,6 +4231,7 @@ hireplus.ch
 hirepool.ch
 hires.ch
 hirescam.ch
+hirespace.ch
 hireup.ch
 hirevery.ch
 hirevue.ch

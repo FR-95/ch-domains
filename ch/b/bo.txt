@@ -692,7 +692,6 @@ bobafett.ch
 bobafey.ch
 bobags.ch
 bobalj.ch
-boballon.ch
 bobam.ch
 bobamesch.ch
 boban.ch
@@ -1119,6 +1118,7 @@ bocchi.ch
 bocchilab.ch
 boccia-amical-fribourg.ch
 boccia-arlesheim.ch
+boccia-club-birsfelden.ch
 boccia-club-feldhof-zug.ch
 boccia-club-herznach.ch
 boccia-club-itschnach.ch
@@ -1793,7 +1793,6 @@ bodeninformation.ch
 bodeninformationen.ch
 bodeninitiative-buelach.ch
 bodeninitiative-ilef.ch
-bodeninitiative-kloten.ch
 bodeninitiative-maennedorf.ch
 bodeninitiative-waedenswil.ch
 bodeninitiative.ch
@@ -3269,6 +3268,7 @@ bodymed.ch
 bodymedia.ch
 bodymeetsfood.ch
 bodymeetsmind.ch
+bodymental.ch
 bodymetrix.ch
 bodymind-center.ch
 bodymind-harmony.ch
@@ -4403,7 +4403,6 @@ boesi-haustechnik.ch
 boesi-productions.ch
 boesi.ch
 boesiger-ag.ch
-boesiger-art.ch
 boesiger-bautechnik.ch
 boesiger-bio.ch
 boesiger-engineering.ch
@@ -5033,7 +5032,6 @@ bohnett.ch
 bohnettrade.ch
 bohni-steuerberatung.ch
 bohni.ch
-bohnis-bagger.ch
 bohniverse.ch
 bohns.ch
 bohnsack.ch
@@ -6904,6 +6902,7 @@ bomi.ch
 bomia.ch
 bomien.ch
 bomii.ch
+bomikim.ch
 bomina.ch
 bomini.ch
 bominos.ch
@@ -7237,6 +7236,7 @@ bonardi-gipser.ch
 bonardi.ch
 bonardipiastrelle.ch
 bonardo.ch
+bonaria-ag.ch
 bonaria-immo.ch
 bonaria-immobilien.ch
 bonaria-real-estate.ch
@@ -7883,6 +7883,7 @@ bonissimo.ch
 bonist.ch
 bonistock.ch
 bonistop.ch
+boniswil-seeluft.ch
 boniswil.ch
 boniswil24.ch
 boniswilbasket.ch
@@ -8500,7 +8501,6 @@ bonsop.ch
 bonsplansepalinges.ch
 bonsplansfamilles.ch
 bonsplansgeneve.ch
-bonsplansjoailliers.ch
 bonsplansromands.ch
 bonspneus.ch
 bonspoints.ch
@@ -8884,6 +8884,7 @@ boobucha.ch
 boobyhat.ch
 boobynight.ch
 boobytape.ch
+boocation.ch
 booch.ch
 boock.ch
 boocking.ch
@@ -10506,7 +10507,6 @@ bootsfahrschule-rorschach.ch
 bootsfahrschule-santschi.ch
 bootsfahrschule-schaer.ch
 bootsfahrschule-schweiz.ch
-bootsfahrschule-seahorse.ch
 bootsfahrschule-seeland.ch
 bootsfahrschule-sempachersee.ch
 bootsfahrschule-solothurn.ch
@@ -11209,7 +11209,6 @@ borderli.ch
 borderlife.ch
 borderline-behandlung.ch
 borderline-netzwerk.ch
-borderline-selbsthilfe.ch
 borderline-syndrom.ch
 borderline.ch
 borderlinebehandlung.ch
@@ -11745,6 +11744,7 @@ born2begood.ch
 born2beyou.ch
 born2cast.ch
 born2communicate.ch
+born2create.ch
 born2drive.ch
 born2explore.ch
 born2frag-services.ch
@@ -13326,6 +13326,7 @@ botanicalbrews.ch
 botanicalhome.ch
 botanicals.ch
 botanicaltreat.ch
+botanicalworlds.ch
 botanicare.ch
 botanicasudalpina.ch
 botanicaticinese.ch
@@ -15116,6 +15117,7 @@ bourgeois.ch
 bourgeoisavenches.ch
 bourgeoisavocats.ch
 bourgeoisdeneuchatel.ch
+bourgeoise.ch
 bourgeoisie-chandolin.ch
 bourgeoisie-chatillon.ch
 bourgeoisie-cortebert.ch
@@ -17205,7 +17207,6 @@ boyzdontcry.ch
 boz-pizza.ch
 boz.ch
 boz1000.ch
-boza.ch
 bozaelectricite.ch
 bozar20.ch
 bozart-peinture.ch

@@ -543,6 +543,7 @@ offeris.ch
 offerista.ch
 offerize.ch
 offerjet.ch
+offerletter.ch
 offerlino.ch
 offerly.ch
 offermaker.ch
@@ -567,7 +568,6 @@ offerscout.ch
 offersen.ch
 offersky.ch
 offersuisse.ch
-offert-all.ch
 offert-alle.ch
 offert-flow.ch
 offert-scout.ch
@@ -614,7 +614,6 @@ offerte-schweiz.ch
 offerte-steuererklaerung.ch
 offerte-treuhaender.ch
 offerte-umzug.ch
-offerte-umzugsreinigung.ch
 offerte-vederemale.ch
 offerte-vergleich.ch
 offerte-vergleichen-bern.ch
@@ -634,7 +633,6 @@ offerten-24.ch
 offerten-360.ch
 offerten-365.ch
 offerten-48.ch
-offerten-all.ch
 offerten-alle.ch
 offerten-app.ch
 offerten-arena.ch
@@ -1573,7 +1571,6 @@ officialroadstar.ch
 officials.ch
 officialstore.ch
 officialswissriders.ch
-officialtimekeeper.ch
 officiant.ch
 officiantlaic.ch
 officiants-funeraires.ch
@@ -1923,6 +1920,7 @@ offre-projet.ch
 offre-sante.ch
 offre.ch
 offre3emepilier.ch
+offreassurdirect.ch
 offredemploi.ch
 offredeprojet.ch
 offredevis.ch

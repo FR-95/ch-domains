@@ -167,7 +167,6 @@ hobby-haus.ch
 hobby-heimberg.ch
 hobby-horse.ch
 hobby-horses.ch
-hobby-horsing-schweiz.ch
 hobby-horsing-sh.ch
 hobby-horsing-switzerland.ch
 hobby-horsing-vonlanthen.ch
@@ -290,7 +289,6 @@ hobbyhorse.ch
 hobbyhorses.ch
 hobbyhorseschule.ch
 hobbyhorseworld.ch
-hobbyhorsing-schweiz.ch
 hobbyhorsing-vonlanthen.ch
 hobbyhorsing.ch
 hobbyhorsingamalbis.ch
@@ -5409,6 +5407,7 @@ hofschuerwies.ch
 hofschule-chur1947.ch
 hofschule.ch
 hofschwaller.ch
+hofschweingruber.ch
 hofschwendi.ch
 hofseealp.ch
 hofseiten.ch
@@ -9641,6 +9640,7 @@ holzhybridbauweise.ch
 holzhybride.ch
 holzi.ch
 holzidee.ch
+holzideen.ch
 holzidoc.ch
 holzig-gmbh.ch
 holzig.ch
@@ -11344,6 +11344,7 @@ home2go.ch
 home2home.ch
 home2life.ch
 home2live.ch
+home2move.ch
 home2print.ch
 home2suites.ch
 home2suitesbyhilton.ch
@@ -12875,7 +12876,6 @@ homeshopbeimtempel.ch
 homeshopping.ch
 homeshotswiss.ch
 homesi.ch
-homesick24.ch
 homesickness.ch
 homesides.ch
 homesidy.ch
@@ -13303,7 +13303,6 @@ homit.ch
 homitone.ch
 homius.ch
 homiwoo.ch
-homix.ch
 homiy.ch
 homiz.ch
 homizon.ch
@@ -14856,7 +14855,6 @@ hopathome.ch
 hopawald.ch
 hopbasel.ch
 hopbro.ch
-hopbrother.ch
 hopcantfr.ch
 hopcar.ch
 hopcare.ch
@@ -15431,6 +15429,7 @@ hoppyness.ch
 hoppypeople.ch
 hoppypug.ch
 hoppytruck.ch
+hoppzurich.ch
 hopr.ch
 hopri-ag.ch
 hopri.ch
@@ -16769,7 +16768,6 @@ horse-coaching.ch
 horse-communication.ch
 horse-cross.ch
 horse-deal.ch
-horse-deals.ch
 horse-design.ch
 horse-dog-shiatsu.ch
 horse-dynamics.ch
@@ -17016,7 +17014,6 @@ horsesandclays.ch
 horsesandleaders.ch
 horsescout.ch
 horsesdeal.ch
-horsesdeals.ch
 horsesearch.ch
 horsesecure.ch
 horsesense-coaching.ch
@@ -17095,6 +17092,7 @@ horspiste.ch
 horspistes.ch
 horsportee.ch
 horsrecit.ch
+horsscene.ch
 horsserie.ch
 horsservice.ch
 horssol.ch
@@ -18954,7 +18952,6 @@ hotel-baeren-gsteig.ch
 hotel-baeren-ringgenberg.ch
 hotel-baeren.ch
 hotel-baerensigriswil.ch
-hotel-bahnhof-post.ch
 hotel-bahnhof-schuepfen.ch
 hotel-bahnhof-uzwil.ch
 hotel-bahnhof-zernez.ch
@@ -22582,6 +22579,7 @@ hotesses-ktnm.ch
 hotesses.ch
 hotessespro.ch
 hotevent.ch
+hotex-recycling.ch
 hotezz.ch
 hotfashion.ch
 hotfashionshopping.ch
@@ -22735,6 +22733,7 @@ hotmaus.ch
 hotmeals.ch
 hotmed.ch
 hotmelt.ch
+hotmeltevents.ch
 hotmenu.ch
 hotmessonhotwheels.ch
 hotmil.ch
@@ -23978,6 +23977,7 @@ houseofvalue.ch
 houseofvape.ch
 houseofvaps.ch
 houseofvapz.ch
+houseofvastu.ch
 houseofvending.ch
 houseofvoice.ch
 houseofwaffles.ch

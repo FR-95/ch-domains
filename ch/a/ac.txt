@@ -1407,7 +1407,6 @@ access-mobility.ch
 access-moto.ch
 access-nation.ch
 access-on-demand.ch
-access-online.ch
 access-pac.ch
 access-partner.ch
 access-pb.ch
@@ -1633,6 +1632,7 @@ accident-statistics.ch
 accident-tool.ch
 accident.ch
 accidentalgenius.ch
+accidentally-leftwinged.ch
 accidentalprofessor.ch
 accidentalsightseeing.ch
 accidentcenter.ch
@@ -1666,6 +1666,7 @@ acclivis.ch
 accm-ya.ch
 accm.ch
 accmg.ch
+accmics.ch
 accn.ch
 accnwalker.ch
 acco-ag.ch
@@ -3049,7 +3050,6 @@ achberger-mediation.ch
 achberger.ch
 achd.ch
 ache.ch
-achegi.ch
 acheimberg.ch
 achelle.ch
 achelli.ch
@@ -3313,6 +3313,7 @@ achpark.ch
 achr.ch
 achrisia.ch
 achristie.ch
+achristinat.ch
 achrl.ch
 achro.ch
 achrona.ch
@@ -4207,6 +4208,7 @@ acluzern.ch
 aclzuerich-airport.ch
 aclzurich.ch
 acm-aerospace.ch
+acm-bennwil.ch
 acm-bois.ch
 acm-cavaliers.ch
 acm-consulting.ch
@@ -6335,13 +6337,10 @@ activ-mind.ch
 activ-net.ch
 activ-print.ch
 activ-promotion.ch
-activ-reinigung.ch
 activ-securite.ch
 activ-service.ch
 activ-solar.ch
 activ-sport.ch
-activ-suisse.ch
-activ-swiss.ch
 activ-taxi.ch
 activ-umzug.ch
 activ-up.ch
@@ -6394,7 +6393,6 @@ activate-your-brain.ch
 activate.ch
 activateall.ch
 activatech.ch
-activated.ch
 activategames.ch
 activateur-de-possibles.ch
 activateur.ch
@@ -6937,7 +6935,6 @@ activprint.ch
 activpro.ch
 activpulse.ch
 activreha.ch
-activreinigung.ch
 activreload.ch
 activremontru.ch
 activrent.ch
@@ -6951,7 +6948,6 @@ activsolar.ch
 activspa.ch
 activspagmbh.ch
 activsport.ch
-activsuisse.ch
 activswiss.ch
 activteam.ch
 activtec.ch
@@ -7451,6 +7447,7 @@ acuraspitex.ch
 acurast.ch
 acurat.ch
 acurehab.ch
+acuria.ch
 acurio.ch
 acuriq.ch
 acuris-care.ch

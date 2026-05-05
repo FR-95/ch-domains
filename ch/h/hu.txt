@@ -1408,6 +1408,7 @@ huegel-power.ch
 huegel-raum.ch
 huegelball.ch
 huegelhaus.ch
+huegelpass.ch
 huegelraum.ch
 huegeri.ch
 huegge.ch
@@ -2927,6 +2928,7 @@ hugosteiner.ch
 hugosteinmann.ch
 hugostern.ch
 hugostuder.ch
+hugotaxi.ch
 hugototal.ch
 hugotransport.ch
 hugoutdoors.ch
@@ -3129,6 +3131,7 @@ huisclos-galerie.ch
 huisclos.ch
 huisdier.ch
 huisgmacht.ch
+huishulp.ch
 huisli.ch
 huismaadiller.ch
 huismans-orthopedie.ch
@@ -3375,6 +3378,7 @@ humamed.ch
 humami.ch
 human-advisory.ch
 human-ai-innovations.ch
+human-ai-workforce.ch
 human-ai.ch
 human-aimpact.ch
 human-asset.ch
@@ -3560,6 +3564,7 @@ humanaging.ch
 humanai.ch
 humanaiinnovations.ch
 humanaity.ch
+humanaiworkforce.ch
 humanalgo.ch
 humanalgorithm.ch
 humanalysis.ch
@@ -4618,7 +4623,6 @@ humorart.ch
 humoratwork.ch
 humorbegleiter.ch
 humorberater.ch
-humorberatung.ch
 humorcafe.ch
 humorcare-inhouse.ch
 humorcare.ch
@@ -5681,6 +5685,7 @@ hundenotruf.ch
 hundeoase-kayser.ch
 hundeoase.ch
 hundeobedience.ch
+hundeolympiade.ch
 hundeonkel.ch
 hundeonlienschule-blickwinkel.ch
 hundeonlienschule.ch
@@ -6205,7 +6210,6 @@ hundeschule-easy-mobility.ch
 hundeschule-edda.ch
 hundeschule-engadin.ch
 hundeschule-entlebuch.ch
-hundeschule-epper.ch
 hundeschule-famcane.ch
 hundeschule-familienglueck.ch
 hundeschule-farbenfroh.ch
@@ -8320,6 +8324,7 @@ hutin.ch
 hutinet.ch
 hutisa.ch
 hutlexikon.ch
+hutline.ch
 hutmacher-architekten.ch
 hutmacher.ch
 hutmacherag.ch

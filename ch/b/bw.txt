@@ -20,7 +20,6 @@ bw-e.ch
 bw-ecosystem.ch
 bw-elektro.ch
 bw-event.ch
-bw-events.ch
 bw-fahrschule.ch
 bw-fahrzeugtechnik.ch
 bw-familienberatung.ch
@@ -56,7 +55,6 @@ bw-law.ch
 bw-lindhof.ch
 bw-lydia.ch
 bw-management.ch
-bw-manufactoring.ch
 bw-massage.ch
 bw-media.ch
 bw-medien.ch
@@ -81,7 +79,6 @@ bw-server.ch
 bw-service-schreinerei.ch
 bw-service.ch
 bw-services.ch
-bw-shop.ch
 bw-skenderi.ch
 bw-sl.ch
 bw-smart-energy.ch
@@ -181,7 +178,6 @@ bwco.ch
 bwconseil.ch
 bwconseils.ch
 bwconsult.ch
-bwconsulting.ch
 bwcontent.ch
 bwd-albatros.ch
 bwd-weiterbildung.ch
@@ -226,7 +222,6 @@ bwernli.ch
 bwes.ch
 bwestudio.ch
 bwetzel.ch
-bwevents.ch
 bwf.ch
 bwfag.ch
 bwfenster.ch
@@ -334,7 +329,6 @@ bwm-swiss.ch
 bwm.ch
 bwmail.ch
 bwmanagement.ch
-bwmanufactoring.ch
 bwmedien.ch
 bwmf.ch
 bwmfondsepargne.ch
@@ -436,7 +430,6 @@ bwsc.ch
 bwschmutz.ch
 bwsclothing.ch
 bwseffretikon.ch
-bwshop.ch
 bwskenderi.ch
 bwslab.ch
 bwslabor.ch

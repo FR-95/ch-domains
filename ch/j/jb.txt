@@ -417,6 +417,7 @@ jbplayground.ch
 jbpont.ch
 jbpralong.ch
 jbpraxis.ch
+jbprecision.ch
 jbproductions.ch
 jbproject.ch
 jbq.ch

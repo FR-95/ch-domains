@@ -1096,7 +1096,6 @@ umwelt-stiftung.ch
 umwelt-taxi.ch
 umwelt-technik.ch
 umwelt-und-handel-ja.ch
-umwelt-verantwortungs-initiative.ch
 umwelt-vorbilder.ch
 umwelt-waerme.ch
 umwelt-werk.ch
@@ -1425,6 +1424,7 @@ umziehen-melden.ch
 umziehen-nach-schaffhausen.ch
 umziehen-preiswert.ch
 umziehen-schaffhausen.ch
+umziehen-schweiz.ch
 umziehen-service.ch
 umziehen-winterthur.ch
 umziehen-zh.ch
@@ -1517,6 +1517,7 @@ umzug-altersheim.ch
 umzug-ameise.ch
 umzug-anbieter.ch
 umzug-angebotschweiz.ch
+umzug-auf-rechnung.ch
 umzug-auftrag.ch
 umzug-baar.ch
 umzug-baden.ch
@@ -1546,7 +1547,6 @@ umzug-firma.ch
 umzug-firme.ch
 umzug-flo-baselland.ch
 umzug-fox.ch
-umzug-froede.ch
 umzug-fuchs.ch
 umzug-galant.ch
 umzug-genf.ch
@@ -2190,6 +2190,7 @@ umzugshero.ch
 umzugsheroes.ch
 umzugsheros.ch
 umzugshilfe-froehlich.ch
+umzugshilfe-guenstig.ch
 umzugshilfe-schweiz.ch
 umzugshilfe-zueri.ch
 umzugshilfe-zuerich.ch
@@ -2341,7 +2342,6 @@ umzugsreinigung-offerte-schweiz.ch
 umzugsreinigung-offerte.ch
 umzugsreinigung-offerten.ch
 umzugsreinigung-olten.ch
-umzugsreinigung-online.ch
 umzugsreinigung-optimal-uster.ch
 umzugsreinigung-optimal-winterthur.ch
 umzugsreinigung-optimal-zuerich.ch

@@ -639,7 +639,6 @@ dbs-ag.ch
 dbs-beton.ch
 dbs-charpente.ch
 dbs-consulting.ch
-dbs-data-safe.ch
 dbs-global.ch
 dbs-gmbh.ch
 dbs-group.ch

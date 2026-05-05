@@ -23,6 +23,7 @@ dz-stadelhofen.ch
 dz-thalwil.ch
 dz-verlag.ch
 dz-zh.ch
+dz1.ch
 dz3ta.ch
 dz47.ch
 dz4u.ch
@@ -185,6 +186,7 @@ dzs.ch
 dzschweiz.ch
 dzsolutions.ch
 dzstadelhofen.ch
+dzstudio.ch
 dzt-radiologie.ch
 dzt.ch
 dztech.ch

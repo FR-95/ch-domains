@@ -644,6 +644,7 @@ local8.ch
 localaccountant.ch
 localactivities.ch
 localad.ch
+localadmin.ch
 localadresssearch.ch
 localads.ch
 localadvisor.ch
@@ -1714,7 +1715,6 @@ locationvelo.ch
 locationverbier.ch
 locationvoiture.ch
 locationvoituredeluxe.ch
-locationvoiturelausanne.ch
 locationvoitureluxe.ch
 locationvoitures.ch
 locationvoituresport.ch
@@ -2246,6 +2246,7 @@ locs.ch
 locsafe.ch
 locsea.ch
 locsi.ch
+locsim.ch
 locsl.ch
 locslcities.ch
 locsoft.ch
@@ -2619,7 +2620,6 @@ loeligergebaeudetechnik.ch
 loeligerstrub.ch
 loem.ch
 loemat.ch
-loemega.ch
 loemi.ch
 loemmenschwil.ch
 loempe.ch
@@ -2692,6 +2692,7 @@ loeschpack.ch
 loeschpapier.ch
 loeschposten-swiss.ch
 loeschposten.ch
+loeschpostenservice.ch
 loeschpunkt.ch
 loeschsysteme.ch
 loeschtrupp.ch
@@ -3338,6 +3339,7 @@ loft303.ch
 loft3210.ch
 loft3284.ch
 loft360.ch
+loft447.ch
 loft4u.ch
 loft4work.ch
 loft4you.ch
@@ -7181,7 +7183,6 @@ longattis.ch
 longauto.ch
 longavita.ch
 longbea.ch
-longbeach.ch
 longbeck.ch
 longbendingmachine.ch
 longbetterliving.ch
@@ -7347,7 +7348,6 @@ longevity-summit.ch
 longevity-superfood.ch
 longevity-swiss-center.ch
 longevity-swiss-hub.ch
-longevity-swiss.ch
 longevity-switzerland.ch
 longevity-test.ch
 longevity-therapy.ch
@@ -7590,7 +7590,6 @@ longlivelearning.ch
 longlivelife.ch
 longlivemycomputer.ch
 longliven.ch
-longliverty.ch
 longlivethelazy.ch
 longlivety.ch
 longliving.ch
@@ -9911,6 +9910,7 @@ loseto.ch
 losetransport.ch
 losetransportag.ch
 losetransporte.ch
+loseuphunitos.ch
 loseweight.ch
 loseweightconcept.ch
 losey.ch
@@ -10068,6 +10068,7 @@ lost-audio.ch
 lost-chaussette.ch
 lost-distilleries.ch
 lost-eden.ch
+lost-fm.ch
 lost-in-blues.ch
 lost-in-space.ch
 lost-it.ch
@@ -10084,6 +10085,7 @@ lostacoshermanos.ch
 lostacoshermanospully.ch
 lostagainmusic.ch
 lostage.ch
+lostago.ch
 lostal-diablerets.ch
 lostallo.ch
 lostallo24.ch
@@ -11087,6 +11089,7 @@ louis-casai-86a.ch
 louis-chevrolet-memorial.ch
 louis-coiffeurbetriebe.ch
 louis-cottier.ch
+louis-daeppen.ch
 louis-degiorgi.ch
 louis-design.ch
 louis-dreyfus-foundation.ch
@@ -11413,7 +11416,6 @@ loulousdogfashion.ch
 louloushop.ch
 loulousparadise.ch
 loulousshop.ch
-louloustudio.ch
 louloute.ch
 louloutheatredufil.ch
 louluzern.ch

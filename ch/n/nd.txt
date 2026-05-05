@@ -24,6 +24,7 @@ nd0.ch
 nd1.ch
 nd8.ch
 nda.ch
+ndabroadcastingconsulting.ch
 ndadvisory.ch
 ndaim.ch
 ndam.ch
@@ -130,7 +131,6 @@ ndigarage.ch
 ndigital.ch
 ndihmoedheti.ch
 ndiigo.ch
-ndimedia.ch
 ndimensionz.ch
 ndin.ch
 ndinsurance.ch

@@ -674,6 +674,7 @@ sleepees.ch
 sleepelixir.ch
 sleeper.ch
 sleeperbus.ch
+sleepercars.ch
 sleepercharger.ch
 sleeperinmetropolis.ch
 sleeperoo.ch
@@ -1520,6 +1521,7 @@ slopefutter.ch
 slopelog.ch
 sloper.ch
 sloperator.ch
+sloperium.ch
 sloperockers.ch
 slopes.ch
 slopesafe.ch

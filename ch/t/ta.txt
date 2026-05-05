@@ -2394,6 +2394,7 @@ tagesmutter-daniela.ch
 tagesmutter-diana.ch
 tagesmutter-egg.ch
 tagesmutter-entfelden.ch
+tagesmutter-fislisbach.ch
 tagesmutter-gossau.ch
 tagesmutter-in-meiner-naehe.ch
 tagesmutter-kinderfarm.ch
@@ -4981,7 +4982,6 @@ talkbuds.ch
 talkbuildy.ch
 talkbus.ch
 talkbusiness.ch
-talkclub.ch
 talkdatacollection.ch
 talkdesigns.ch
 talkdesk.ch
@@ -5349,6 +5349,7 @@ talynor.ch
 talyra.ch
 talyshair.ch
 talyvo-dev.ch
+talyxis.ch
 talzenna.ch
 talzunft.ch
 tam-event.ch
@@ -7940,7 +7941,6 @@ tante-trudi.ch
 tante-vreny.ch
 tante-wini.ch
 tante.ch
-tante24.ch
 tantealma.ch
 tantealmahotels.ch
 tantealmas.ch
@@ -7986,6 +7986,7 @@ tantimeeh.ch
 tantine.ch
 tantinet.ch
 tantmassage.ch
+tanto.ch
 tantocanto.ch
 tantoli.ch
 tantor.ch
@@ -8229,6 +8230,7 @@ tantuni-mersin.ch
 tantuni.ch
 tantunim.ch
 tantunimersin.ch
+tantywyll.ch
 tantzeria.ch
 tanu.ch
 tanuca.ch
@@ -8925,7 +8927,6 @@ tanzschuleboss.ch
 tanzschulebyou.ch
 tanzschulecham.ch
 tanzschulechur.ch
-tanzschulejaunin.ch
 tanzschulejoy.ch
 tanzschulekaiser.ch
 tanzschulekaringraf.ch
@@ -9011,6 +9012,7 @@ tanztheaterhaus.ch
 tanztheaterpasion.ch
 tanztheaterschule.ch
 tanztheatertext.ch
+tanztherapeutin.ch
 tanztherapie-am-see.ch
 tanztherapie-andrea.ch
 tanztherapie-atelier.ch
@@ -9399,6 +9401,7 @@ tapdistribution.ch
 tape-and-reel.ch
 tape-art.ch
 tape-cutter.ch
+tape-design.ch
 tape-geneve.ch
 tape-in-extensions.ch
 tape-in.ch
@@ -9523,7 +9526,6 @@ tapi.ch
 tapia-almosnino.ch
 tapia.ch
 tapianer.ch
-tapich.ch
 tapidrance.ch
 tapiebesana.ch
 tapier.ch
@@ -9590,7 +9592,6 @@ tapisan.ch
 tapisano.ch
 tapisautomobile.ch
 tapiscentre24.ch
-tapisch.ch
 tapisclick.ch
 tapisco.ch
 tapisdeluxe.ch
@@ -9635,7 +9636,6 @@ tapitas.ch
 tapito.ch
 tapitop.ch
 tapittura.ch
-tapiway.ch
 tapjob.ch
 tapk.ch
 tapkeen.ch
@@ -9755,7 +9755,6 @@ tapwater.ch
 tapweber.ch
 tapwell.ch
 tapwriter.ch
-tapy.ch
 tapyn.ch
 tapypay.ch
 tapypos.ch
@@ -12004,7 +12003,6 @@ tatort-region.ch
 tatort-reiniger.ch
 tatort-reinigung.ch
 tatort-reinigungen.ch
-tatort-schweiz.ch
 tatort-solothurn.ch
 tatort-stgallen.ch
 tatort-vergangenheit.ch
@@ -13442,7 +13440,6 @@ tavax.ch
 tavcar.ch
 tavel-montreux.ch
 tavelevenements.ch
-tavelio.ch
 tavella-asbest-diagnostik.ch
 tavella.ch
 tavelweg.ch
@@ -13669,6 +13666,7 @@ tavtheater.ch
 tavu.ch
 tavulin.ch
 tavulina.ch
+tavuno.ch
 tavus.ch
 tavush.ch
 tavylby.ch
@@ -14476,6 +14474,7 @@ taxi-pontresina.ch
 taxi-pratteln.ch
 taxi-premium.ch
 taxi-prive.ch
+taxi-proxi.ch
 taxi-r.ch
 taxi-rasoul.ch
 taxi-ravi.ch
@@ -15927,7 +15926,6 @@ taxsolutions.ch
 taxsource.ch
 taxspacer.ch
 taxsparen.ch
-taxspezialist.ch
 taxsplitter.ch
 taxstgallen.ch
 taxstrategy.ch

@@ -3407,6 +3407,7 @@ die-beste-umzugsfirma.ch
 die-beste-versicherung.ch
 die-beste-wahl.ch
 die-beste-wohnform.ch
+die-beste-zuegelfirma.ch
 die-besten-biographien.ch
 die-besten-buecher.ch
 die-besten-der-besten.ch
@@ -3415,6 +3416,8 @@ die-besten-eier.ch
 die-besten-hotels.ch
 die-besten-koeche.ch
 die-besten-umzugsfirmen.ch
+die-besten-zuegelfirmen.ch
+die-besten-zuegelunternehmen.ch
 die-besten.ch
 die-bestengartenerden.ch
 die-besucher.ch
@@ -3785,7 +3788,6 @@ die-freizeit.ch
 die-freizeitzentren.ch
 die-frequenzbotin.ch
 die-freunde.ch
-die-friedrichs.ch
 die-fruchtbare-kuh.ch
 die-fruechte.ch
 die-fuchsbande.ch
@@ -4130,6 +4132,7 @@ die-katzenpsychologin.ch
 die-katzentuere.ch
 die-keiler.ch
 die-kellers.ch
+die-ki-agentur.ch
 die-kiberater.ch
 die-kieferorthopadin.ch
 die-kieferorthopaedie.ch
@@ -5068,6 +5071,7 @@ die-therapeutische-schatzkiste.ch
 die-therapien.ch
 die-therapiepraxis.ch
 die-tieraerztin.ch
+die-tierdolmetscherin.ch
 die-tiere.ch
 die-tierfotografin.ch
 die-tierheilpraxis.ch
@@ -5120,6 +5124,7 @@ die-umbauprofis.ch
 die-umwelt.ch
 die-umweltdrucker.ch
 die-umzuege.ch
+die-umzugsexperten-zuerich.ch
 die-umzugskiste.ch
 die-unfassbar.ch
 die-ungers.ch
@@ -5631,6 +5636,7 @@ diebernergebaeudeversicherungen.ch
 diebernerseifenmanufaktur.ch
 diebernertelecom.ch
 dieberufe.ch
+dieberufsbildnerin.ch
 dieberufsschule.ch
 dieberufung.ch
 diebeschatter.ch
@@ -9942,7 +9948,6 @@ diforti.ch
 difos.ch
 difosso.ch
 difox.ch
-difoz.ch
 difra-it.ch
 difra.ch
 difrancesco.ch
@@ -10613,7 +10618,6 @@ digilern.ch
 digileu.ch
 digilex.ch
 digilife.ch
-digilift.ch
 digilight.ch
 digilinguo.ch
 digilink.ch
@@ -13345,6 +13349,7 @@ digitalexperten.ch
 digitalexpertise.ch
 digitalexperts.ch
 digitalexpo.ch
+digitalexposure.ch
 digitalexpress.ch
 digitaley.ch
 digitaleyasedina.ch
@@ -14153,6 +14158,7 @@ digitalpaymentcard.ch
 digitalpaymentplatform.ch
 digitalpayments.ch
 digitalpc.ch
+digitalpeak.ch
 digitalpen.ch
 digitalpencilselling.ch
 digitalpencorp.ch
@@ -18244,6 +18250,7 @@ direktabhof.ch
 direktablager.ch
 direktabschluss.ch
 direktabsonne.ch
+direktabzug-ja.ch
 direktankauf.ch
 direktansprache.ch
 direktantrieb.ch

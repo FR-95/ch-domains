@@ -21,9 +21,11 @@ ot-praprod.ch
 ot-production.ch
 ot-productions.ch
 ot-raumfueraktuellekunst.ch
+ot-resilience.ch
 ot-sase.ch
 ot-security.ch
 ot-shop.ch
+ot-sicherheit.ch
 ot-sieber.ch
 ot-solutions.ch
 ot-solutionsday.ch
@@ -519,8 +521,8 @@ otreisen.ch
 otrema.ch
 otrembka.ch
 otrena.ch
-otrend.ch
 otres.ch
+otresilience.ch
 otrestaurant.ch
 otreuhand.ch
 otriba.ch
@@ -550,6 +552,7 @@ otsg.ch
 otsglobe.ch
 otshop.ch
 otshoteltrading.ch
+otsicherheit.ch
 otso.ch
 otsofrat.ch
 otsolutions.ch
@@ -1030,7 +1033,6 @@ ottoluxury.ch
 ottoman-grill.ch
 ottoman.ch
 ottomantouch.ch
-ottomantransport.ch
 ottomarket.ch
 ottomarti.ch
 ottomat.ch
@@ -1249,6 +1251,7 @@ otw-comics.ch
 otw-records.ch
 otw.ch
 otwa.ch
+otwacademy.ch
 otwag.ch
 otwatch.ch
 otwear.ch

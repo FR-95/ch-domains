@@ -1133,6 +1133,7 @@ e-fmh.ch
 e-fmp.ch
 e-foil.ch
 e-foilen.ch
+e-foiling.ch
 e-foils.ch
 e-foilswiss.ch
 e-fon.ch
@@ -1757,6 +1758,7 @@ e-locataire.ch
 e-locataires.ch
 e-location.ch
 e-locker.ch
+e-lodge.ch
 e-loesung.ch
 e-loewe.ch
 e-loft.ch

@@ -1169,7 +1169,6 @@ gocarb.ch
 gocarbonfree.ch
 gocard.ch
 gocardless.ch
-gocarlocation.ch
 gocarrental.ch
 gocars.ch
 gocarsandco.ch
@@ -2544,6 +2543,7 @@ gokartbahn.ch
 gokartprofi.ch
 gokarts.ch
 gokartstore.ch
+gokasa.ch
 gokat.ch
 gokaution.ch
 gokay.ch
@@ -5038,6 +5038,7 @@ goldschmittecoray.ch
 goldschmittestans.ch
 goldschmuck.ch
 goldschmuckankauf.ch
+goldschmuckswiss.ch
 goldschnitt.ch
 goldschoen.ch
 goldschool.ch
@@ -5201,6 +5202,7 @@ goldtest.ch
 goldtester.ch
 goldthal.ch
 goldthaler.ch
+goldthavethaimassage.ch
 goldtherapie.ch
 goldtiger.ch
 goldtime.ch
@@ -5491,6 +5493,7 @@ golf-gams.ch
 golf-garage.ch
 golf-gccr.ch
 golf-geneve.ch
+golf-genussshop.ch
 golf-geschenke.ch
 golf-giveaways.ch
 golf-glarnerland.ch
@@ -5990,6 +5993,7 @@ golfgate.ch
 golfgear.ch
 golfgeneve.ch
 golfgenuss.ch
+golfgenussshop.ch
 golfgerre.ch
 golfgeschenkideen.ch
 golfgiveaway.ch
@@ -7421,7 +7425,6 @@ good-job.ch
 good-kaminfeger.ch
 good-karma.ch
 good-lawyer-in-switzerland.ch
-good-lerncoaching.ch
 good-lex.ch
 good-life-vans.ch
 good-litigator-in-switzerland.ch
@@ -8099,7 +8102,6 @@ goods-service.ch
 goods-textilwelt.ch
 goods.ch
 goods2give.ch
-goods4good.ch
 goods4life.ch
 goods4u.ch
 goodsale.ch
@@ -9360,7 +9362,6 @@ gospel-festival.ch
 gospel-fountain.ch
 gospel-generation.ch
 gospel-gossau.ch
-gospel-info.ch
 gospel-music.ch
 gospel-on.ch
 gospel-rhythal.ch
@@ -9440,7 +9441,6 @@ gospelhorns.ch
 gospelhouse.ch
 gospelhouses.ch
 gospelimcentrum.ch
-gospelinfo.ch
 gospelino.ch
 gospelinwinterthur.ch
 gospeljohn.ch
@@ -10579,6 +10579,7 @@ gourmet-sau.ch
 gourmet-schiff.ch
 gourmet-select.ch
 gourmet-senf.ch
+gourmet-services.ch
 gourmet-shop.ch
 gourmet-spiel.ch
 gourmet-spirulina.ch

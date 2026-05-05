@@ -1010,6 +1010,7 @@ cbs-computer.ch
 cbs-congress.ch
 cbs-consulting.ch
 cbs-counseling.ch
+cbs-gmbh.ch
 cbs-group.ch
 cbs-home.ch
 cbs-maladies.ch

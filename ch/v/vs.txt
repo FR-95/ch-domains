@@ -457,6 +457,7 @@ vsh-asec.ch
 vsh-broker.ch
 vsh-makler.ch
 vsh-pruefungserstellung.ch
+vsh-renovation.ch
 vsh-schiessen.ch
 vsh-suisse.ch
 vsh-verband-hundeschulen.ch

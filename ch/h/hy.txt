@@ -2735,6 +2735,7 @@ hypnose-focus.ch
 hypnose-formation.ch
 hypnose-franziskanussbaumer.ch
 hypnose-frauenfeld.ch
+hypnose-frei.ch
 hypnose-fribourg.ch
 hypnose-fuer-reiter.ch
 hypnose-fuer-tiere.ch
@@ -4061,6 +4062,7 @@ hyposound.ch
 hypospadie.ch
 hyposparen.ch
 hypospezialist.ch
+hypospot.ch
 hypostar.ch
 hyposuisse.ch
 hyposwiss-private-bank.ch

@@ -35,7 +35,9 @@ iec-telecom.ch
 iec-thayngen.ch
 iec.ch
 iec61850.ch
+iec62443-beratung.ch
 iec62443.ch
+iec62443beratung.ch
 iecag.ch
 iecam.ch
 iecas.ch

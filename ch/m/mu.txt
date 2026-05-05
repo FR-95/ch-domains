@@ -2182,7 +2182,6 @@ muetterberatung-bl.ch
 muetterberatung-hoefe.ch
 muetterberatung-kulm.ch
 muetterberatung-luzern.ch
-muetterberatung-see-gaster.ch
 muetterberatung-so.ch
 muetterberatung-tg.ch
 muetterberatung-toggenburg.ch
@@ -2301,6 +2300,7 @@ muffini.ch
 muffinresear.ch
 muffins-and-co.ch
 muffins.ch
+muffinsandco.ch
 muffinsbychloe.ch
 muffinwelt.ch
 muffinx.ch
@@ -3169,7 +3169,6 @@ muller-groupe.ch
 muller-iml.ch
 muller-immo.ch
 muller-immobilier.ch
-muller-jodag.ch
 muller-krempel.ch
 muller-law.ch
 muller-legal.ch
@@ -6945,6 +6944,7 @@ musete.ch
 musetg.ch
 musetheatelier.ch
 musethno-collections.ch
+musettecyclingclub.ch
 musettedecour.ch
 musetti.ch
 museum-aarburg.ch
@@ -9344,7 +9344,6 @@ musiktag-gurzelen-2026.ch
 musiktag-hallau.ch
 musiktag-khur.ch
 musiktag-krauchthal2025.ch
-musiktag-neuenegg.ch
 musiktag-ruswil.ch
 musiktag-thurnen.ch
 musiktag-wauwil.ch
@@ -9900,6 +9899,7 @@ muslimsingleslove.ch
 muslimskiers.ch
 muslimtogether.ch
 muslimvote.ch
+muslimzone24.ch
 musliu-bodenbelaege.ch
 musliu.ch
 muslu.ch
@@ -10762,6 +10762,7 @@ mutwerkstatt.ch
 mutwillig.ch
 mutwinter.ch
 mutworte.ch
+mutxt.ch
 mutz.ch
 mutzbach.ch
 mutze-chuchi.ch

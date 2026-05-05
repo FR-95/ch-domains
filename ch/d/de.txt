@@ -150,6 +150,7 @@ de-marco.ch
 de-maria.ch
 de-marinis.ch
 de-marquet.ch
+de-martinis-photography.ch
 de-martinis.ch
 de-martino.ch
 de-masi.ch
@@ -3526,7 +3527,6 @@ deep-dive.ch
 deep-down.ch
 deep-drawn-lids.ch
 deep-drifter.ch
-deep-enterprise.ch
 deep-facts.ch
 deep-flow-dance.ch
 deep-flow-malerei.ch
@@ -6400,6 +6400,7 @@ deinearchitektur.ch
 deineart.ch
 deineassistentin.ch
 deineaugen.ch
+deineaugendeinleben.ch
 deineaugenpraxis.ch
 deineausbildung.ch
 deineauskunft.ch
@@ -6440,6 +6441,7 @@ deinechallenge.ch
 deinechancen.ch
 deinecitymap.ch
 deineck.ch
+deinecoweg.ch
 deinecrew.ch
 deinedachbahn.ch
 deinedaten.ch
@@ -7478,7 +7480,6 @@ deintraumhaus.ch
 deintraumkleid.ch
 deintraumpc.ch
 deintraumrestaurant.ch
-deintrauredner.ch
 deintrend.ch
 deintrendzone.ch
 deintreuhaender.ch
@@ -11131,6 +11132,7 @@ demartini-moretti.ch
 demartini.ch
 demartinis-zurich.ch
 demartinis.ch
+demartinisphotography.ch
 demartino.ch
 demarty.ch
 demaru.ch
@@ -11217,6 +11219,7 @@ demellier.ch
 demellierlondon.ch
 demello.ch
 demelo.ch
+demenage.ch
 demenagement-3.ch
 demenagement-365.ch
 demenagement-a-geneve.ch
@@ -13054,6 +13057,7 @@ denklokal.ch
 denklust.ch
 denkmachbar.ch
 denkmal-aktiv.ch
+denkmal-schweiz.ch
 denkmal.ch
 denkmalagentur.ch
 denkmalaktiv.ch
@@ -13092,6 +13096,7 @@ denkmalschutz-holz.ch
 denkmalschutz.ch
 denkmalschutzfenster.ch
 denkmalschutzrecht.ch
+denkmalschweiz.ch
 denkmalstiftung-thurgau-jubilaeum.ch
 denkmalstiftung-thurgau.ch
 denkmalstiftung.ch
@@ -13648,7 +13653,6 @@ dental-galerie.ch
 dental-galeriebuschor.ch
 dental-geneva.ch
 dental-greissler.ch
-dental-harmony.ch
 dental-health.ch
 dental-hygiene-zurich.ch
 dental-hygiene.ch
@@ -13942,7 +13946,6 @@ dentalgrouphospitadent.ch
 dentalgrowth.ch
 dentalhandel.ch
 dentalhappy.ch
-dentalharmony.ch
 dentalhaus.ch
 dentalhealth-agency.ch
 dentalhealthcare.ch
@@ -14243,6 +14246,7 @@ dentalserver.ch
 dentalservices.ch
 dentalshield.ch
 dentalshop.ch
+dentalsisters.ch
 dentalsmart.ch
 dentalsmeyer.ch
 dentalsmilelocarno.ch
@@ -15263,6 +15267,7 @@ depaninfovalais.ch
 depann-elec.ch
 depann-info.ch
 depannage-24.ch
+depannage-a-distance.ch
 depannage-abc.ch
 depannage-aleauplombier.ch
 depannage-are-electromenager.ch
@@ -15861,7 +15866,6 @@ depotter-innovation.ch
 depotum.ch
 depotvente.ch
 depotvergleich.ch
-depotversicherung.ch
 depotvin.ch
 depotwechsel.ch
 depotweg.ch
@@ -17149,7 +17153,6 @@ derbitcoinkompass.ch
 derblaue.ch
 derblaueraum.ch
 derblaueteppich.ch
-derblick.ch
 derblickwechsel.ch
 derblitz.ch
 derblock.ch
@@ -17637,7 +17640,6 @@ dergoldenekranz.ch
 dergoldenemittelweg.ch
 dergoldeneschluessel.ch
 dergoldeneschnitt.ch
-dergoldfinger.ch
 dergoldgiesser.ch
 dergoldschmied-nidau.ch
 dergoldschmied.ch
@@ -18958,6 +18960,7 @@ dermis.ch
 dermischler.ch
 dermision.ch
 dermisplast.ch
+dermiss.ch
 dermisshop.ch
 dermitage.ch
 dermitdempferdtanzt.ch
@@ -20295,6 +20298,7 @@ desgn.ch
 desgorges.ch
 desgouttes.ch
 desgrandchamps.ch
+desgrelets.ch
 desh.ch
 deshalb.ch
 deshaus.ch
@@ -21483,7 +21487,6 @@ designladen.ch
 designlager.ch
 designlampen.ch
 designlangenthal.ch
-designlausanne.ch
 designlaw.ch
 designlawyer.ch
 designleadership.ch
@@ -25151,6 +25154,7 @@ devis-portail.ch
 devis-porte.ch
 devis-portes.ch
 devis-ramassage.ch
+devis-rapide.ch
 devis-reno.ch
 devis-renovation-geneve.ch
 devis-renovation.ch
@@ -25418,7 +25422,6 @@ devonasproductions.ch
 devone.ch
 devonko.ch
 devonlegal.ch
-devonmartin.ch
 devonport.ch
 devonrex-schweiz.ch
 devonrex.ch

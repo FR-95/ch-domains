@@ -76,6 +76,7 @@ tea-net.ch
 tea-o.ch
 tea-oclock.ch
 tea-one.ch
+tea-pot.ch
 tea-project.ch
 tea-reinigung.ch
 tea-rex.ch
@@ -511,6 +512,7 @@ team-f.ch
 team-facilitation.ch
 team-factory.ch
 team-faessler.ch
+team-faki.ch
 team-farner.ch
 team-fashion.ch
 team-feuerlauf.ch
@@ -1415,6 +1417,7 @@ teamimpuls.ch
 teamind.ch
 teaminformatica-app.ch
 teaminformatica.ch
+teaming.ch
 teamingup.ch
 teaminindia.ch
 teaminnerschweiz.ch
@@ -3610,6 +3613,7 @@ technikblog.ch
 technikboerse.ch
 technikborse.ch
 technikcenter-grueb.ch
+technikcenter.ch
 technikcoa.ch
 technikdepot.ch
 technikdidaktik.ch
@@ -4563,7 +4567,6 @@ techsupply.ch
 techsupport.ch
 techsupport24.ch
 techsupportfakiry.ch
-techsupportplus.ch
 techsurf.ch
 techswiss.ch
 techsys.ch
@@ -5550,7 +5553,6 @@ teedeli.ch
 teedose.ch
 teee.ch
 teeei.ch
-teeez.ch
 teefabrik.ch
 teefactory.ch
 teefahbigb.ch
@@ -9263,7 +9265,6 @@ templeofchange.ch
 templeoflove.ch
 templeofnafas.ch
 templeofsecrets.ch
-templeofsoul.ch
 templeoftheuniverse.ch
 templeofworship.ch
 templepartners.ch
@@ -10792,7 +10793,6 @@ tenobet.ch
 tenobras.ch
 tenofive.ch
 tenolix.ch
-tenomis.ch
 tenone.ch
 tenonline.ch
 tenoor.ch
@@ -11466,8 +11466,6 @@ teppichwelten.ch
 teppichwerk.ch
 teppichwerkstatt.ch
 teppiq.ch
-teppish.ch
-tepply.ch
 tepprug.ch
 teppstore.ch
 tepr.ch
@@ -12200,6 +12198,7 @@ ternon.ch
 ternoscorrevoli.ch
 tero.ch
 teroart.ch
+terolabsurface.ch
 terom.ch
 teronac.ch
 teronation.ch
@@ -14065,6 +14064,7 @@ teservices.ch
 tesewa.ch
 tesfa-ilg.ch
 tesfagms.ch
+tesfahun.ch
 tesfai.ch
 tesfaifilms.ch
 tesfoundation.ch
@@ -15064,6 +15064,7 @@ testaishtt3.ch
 testaiyyo.ch
 testalabeche.ch
 testalavista.ch
+testali.ch
 testallergia.ch
 testallergie.ch
 testamaura.ch
@@ -16898,6 +16899,7 @@ textdienstleister.ch
 textding.ch
 textdoc.ch
 textdoktor.ch
+texte-auf-bestellung.ch
 texte-fotos.ch
 texte-konzepte.ch
 texte-korrigieren.ch
@@ -16909,6 +16911,7 @@ texte-und-toene.ch
 texte.ch
 texteallerart.ch
 texteau.ch
+texteaufbestellung.ch
 textecke.ch
 texteclair.ch
 texted.ch
@@ -17679,6 +17682,7 @@ textuelle.ch
 textum.ch
 textumschreiben.ch
 textundauftritt.ch
+textundbild.ch
 textundbildjustin.ch
 textundfoto.ch
 textundko.ch

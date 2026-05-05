@@ -781,6 +781,7 @@ isalabim.ch
 isalaya.ch
 isale.ch
 isalegtauf.ch
+isalen.ch
 isalena.ch
 isalerio.ch
 isales-media.ch
@@ -2132,7 +2133,10 @@ islamtoplumu.ch
 islamwatch.ch
 islamwissen.ch
 islamy.ch
+islamzone-24.ch
 islamzone.ch
+islamzone24.ch
+islamzones24.ch
 islan.ch
 island-2025.ch
 island-billards.ch
@@ -2430,7 +2434,6 @@ ismc.ch
 isme-alumni.ch
 isme-edu.ch
 isme.ch
-ismealumni.ch
 ismec.ch
 ismecacover.ch
 ismed.ch
@@ -2569,7 +2572,6 @@ iso-pur.ch
 iso-ring.ch
 iso-safe.ch
 iso-san.ch
-iso-sec.ch
 iso-security.ch
 iso-set.ch
 iso-software.ch
@@ -3354,7 +3356,6 @@ isp-access.ch
 isp-admin.ch
 isp-ag.ch
 isp-bau.ch
-isp-blog.ch
 isp-company.ch
 isp-datacenter.ch
 isp-elektro.ch

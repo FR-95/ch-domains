@@ -1468,7 +1468,6 @@ smart-tracker.ch
 smart-trade-gmbh.ch
 smart-trading.ch
 smart-trail.ch
-smart-trailers.ch
 smart-translations.ch
 smart-transport.ch
 smart-transporte.ch
@@ -2834,7 +2833,6 @@ smarthome-erleben.ch
 smarthome-expert.ch
 smarthome-experts.ch
 smarthome-heating.ch
-smarthome-immobilien.ch
 smarthome-innerschweiz.ch
 smarthome-inside.ch
 smarthome-int.ch
@@ -3302,6 +3300,7 @@ smartmaintenance.ch
 smartmaintenancenetwork.ch
 smartmaker.ch
 smartmaler.ch
+smartmana.ch
 smartmanagedcare.ch
 smartmanagementconsulting.ch
 smartmansion.ch
@@ -3432,7 +3431,6 @@ smartnetworks.ch
 smartnews.ch
 smartnex-ai.ch
 smartnic.ch
-smartnight.ch
 smartnode.ch
 smartnoise.ch
 smartnotebooks.ch
@@ -5446,7 +5444,6 @@ smile-taxi.ch
 smile-therapie.ch
 smile-thurgau.ch
 smile-to-go.ch
-smile-to-me.ch
 smile-topmovers.ch
 smile-tour.ch
 smile-travel.ch
@@ -6641,7 +6638,6 @@ smoothjazzchristmas.ch
 smoothjazzradio.ch
 smoothjive.ch
 smoothking.ch
-smoothlabs.ch
 smoothlife.ch
 smoothline.ch
 smoothly.ch
@@ -6857,6 +6853,7 @@ smrun.ch
 smry.ch
 sms-adventskalender.ch
 sms-alarm.ch
+sms-alert.ch
 sms-anniversaire.ch
 sms-anonyme.ch
 sms-architecture.ch

@@ -128,6 +128,7 @@ glacebike.ch
 glaceboot.ch
 glacebox.ch
 glacecard.ch
+glacecube.ch
 glacedelaferme.ch
 glaceexpress.ch
 glacefermeyvonand.ch
@@ -800,6 +801,7 @@ glanzartig.ch
 glanzauto.ch
 glanzberg.ch
 glanzbilder.ch
+glanzblanc.ch
 glanzbox-carwash.ch
 glanzbox.ch
 glanzbruch.ch
@@ -836,6 +838,7 @@ glanzidee.ch
 glanzideen.ch
 glanzikultur.ch
 glanzip.ch
+glanzjahre.ch
 glanzklar.ch
 glanzklarfacility.ch
 glanzklargmbh.ch
@@ -1161,7 +1164,6 @@ glarnerlandpass-app.ch
 glarnerlandpass.ch
 glarnerlandpur.ch
 glarnerlandrat.ch
-glarnerlandschwingerland.ch
 glarnerlandsgemeinde.ch
 glarnerlandstriicher.ch
 glarnerlandtourismus.ch
@@ -3939,6 +3941,7 @@ glitchmandela.ch
 glitchngrace.ch
 glitchshop.ch
 glitchspin.ch
+glitchspinc.ch
 glitchwit.ch
 glitchworks.ch
 glitchy-goose.ch
@@ -5047,7 +5050,6 @@ globalpayments.ch
 globalpayworld.ch
 globalpc.ch
 globalpeaceforum.ch
-globalpedia.ch
 globalpension.ch
 globalpeople.ch
 globalperformance.ch
@@ -6479,7 +6481,6 @@ glow-dent.ch
 glow-design.ch
 glow-extensions.ch
 glow-factory.ch
-glow-flow.ch
 glow-forge.ch
 glow-gedanken.ch
 glow-grow.ch
@@ -6526,7 +6527,6 @@ glowapartments.ch
 glowapp.ch
 glowart.ch
 glowartyf.ch
-glowatelierbychiara.ch
 glowathome.ch
 glowbabbl.ch
 glowbal-network.ch
@@ -7490,7 +7490,6 @@ glumidor.ch
 glump.ch
 glumppump.ch
 glun.ch
-gluna.ch
 glunggae-grusli.ch
 glungge-golaten.ch
 glunggebuure.ch
@@ -7619,6 +7618,7 @@ glutenfreipur.ch
 glutenfreischlemmen.ch
 glutenfreischweiz.ch
 glutenfreishop.ch
+glutenguide.ch
 glutenintoleranz.ch
 glutenlos.ch
 glutenly.ch

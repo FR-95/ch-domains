@@ -410,6 +410,7 @@ le-germany.ch
 le-geste-qui-compte.ch
 le-gingembre.ch
 le-glaneur.ch
+le-globe.ch
 le-goeland.ch
 le-goff.ch
 le-gothard.ch
@@ -975,6 +976,7 @@ le-sportif.ch
 le-spot.ch
 le-squale.ch
 le-square.ch
+le-st-sulpice.ch
 le-stamm.ch
 le-stand.ch
 le-stiftung.ch
@@ -1837,6 +1839,7 @@ leadershitakademie.ch
 leadershome.ch
 leadershop.ch
 leadershot.ch
+leadersim.ch
 leadersindialogue.ch
 leadersinspires.ch
 leadersinsupplychain.ch
@@ -2280,6 +2283,7 @@ leafandbowl.ch
 leafandco.ch
 leafandlace.ch
 leafandleash.ch
+leafandpearl.ch
 leafavre.ch
 leafbakery.ch
 leafbi.ch
@@ -3112,6 +3116,8 @@ learn4job.ch
 learn4life-ch.ch
 learn4life.ch
 learn4school.ch
+learn4u.ch
+learn4you.ch
 learnabacus.ch
 learnable.ch
 learnaboutyourface.ch
@@ -3406,6 +3412,7 @@ learnmyo.ch
 learnnice.ch
 learnnow.ch
 learnonline.ch
+learnops.ch
 learnova.ch
 learnovation.ch
 learnpace.ch
@@ -3444,6 +3451,7 @@ learntainment.ch
 learntamil.ch
 learntastic.ch
 learnte.ch
+learntea.ch
 learntennis.ch
 learntime.ch
 learntoadmin.ch
@@ -3467,7 +3475,6 @@ learntube.ch
 learnuni.ch
 learnunihockey.ch
 learnunion.ch
-learnup-leman.ch
 learnup.ch
 learnvolleyball.ch
 learnware.ch
@@ -4141,8 +4148,6 @@ lebebaroni.ch
 lebebewegung.ch
 lebebewusst.ch
 lebec.ch
-lebecdesrosses-lefilm.ch
-lebecdesrosses.ch
 lebeco.ch
 lebed.ch
 lebeda.ch
@@ -7156,6 +7161,8 @@ lecondensateur.ch
 lecondifentiel.ch
 leconducanon.ch
 leconews.ch
+leconic-cruises.ch
+leconiccruises.ch
 leconnoisseur.ch
 leconomat.ch
 leconome.ch
@@ -7412,7 +7419,6 @@ lecureuilrestaurant.ch
 lecureux-conseil.ch
 lecureux.ch
 lecurie.ch
-lecut.ch
 lecutest.ch
 lecutrio.ch
 lecv.ch
@@ -8558,6 +8564,7 @@ ledsdoit.ch
 ledsdoitbetter.ch
 ledsee.ch
 ledselect.ch
+ledsgo.ch
 ledsheet.ch
 ledshop-crealine.ch
 ledshop-hoeri.ch
@@ -9406,6 +9413,7 @@ legacyrecords.ch
 legacyshift.ch
 legacystrategy.ch
 legacysulgen.ch
+legacyswiss.ch
 legacysystems.ch
 legacytraining.ch
 legacywatch.ch
@@ -10767,6 +10775,7 @@ legrange.ch
 legranit.ch
 legrant.ch
 legraphicotier.ch
+legrassy.ch
 legrate.ch
 legraveur.ch
 legrec.ch
@@ -13107,6 +13116,7 @@ lejardindemelisse.ch
 lejardindepinchat.ch
 lejardinderaquel.ch
 lejardinderic.ch
+lejardindescontes.ch
 lejardindesdesertes.ch
 lejardindeselixirs.ch
 lejardindesetoiles.ch
@@ -13778,7 +13788,6 @@ lemalp.ch
 lemamounia.ch
 lemamountain.ch
 leman-academy.ch
-leman-access.ch
 leman-administration.ch
 leman-advisors.ch
 leman-aesthetic-clinic.ch
@@ -13971,6 +13980,7 @@ lemanclair.ch
 lemanclinic.ch
 lemanclinique.ch
 lemancloud.ch
+lemanco.ch
 lemancoaching.ch
 lemancolie.ch
 lemancollection.ch
@@ -14135,6 +14145,7 @@ lemanknit.ch
 lemanlacrosse.ch
 lemanladies.ch
 lemanlake-productions.ch
+lemanledger.ch
 lemanlifescience.ch
 lemanlinens.ch
 lemanlink.ch
@@ -16634,6 +16645,7 @@ leoa.ch
 leoabdichtungen.ch
 leoadigitalclub.ch
 leoadler.ch
+leoadogips.ch
 leoaffairs.ch
 leoag.ch
 leoai.ch
@@ -17118,6 +17130,7 @@ leoncini.ch
 leoncinishop.ch
 leonclean.ch
 leoncosmetics.ch
+leoncremonini.ch
 leoncupra.ch
 leoncurti.ch
 leoncycle.ch
@@ -18538,6 +18551,7 @@ leqtique.ch
 lequa.ch
 lequai.ch
 lequai22.ch
+lequaibovernier.ch
 lequaidesgrottes.ch
 lequaiduport.ch
 lequaigourmet.ch
@@ -19188,7 +19202,6 @@ lerncoaches.ch
 lerncoaching-aargau.ch
 lerncoaching-adhs.ch
 lerncoaching-ammann.ch
-lerncoaching-baden.ch
 lerncoaching-beratung-bern.ch
 lerncoaching-by-jenny.ch
 lerncoaching-engeli.ch
@@ -19223,7 +19236,6 @@ lerncoaching-sonrisa.ch
 lerncoaching-thurgau.ch
 lerncoaching-unterricht.ch
 lerncoaching-uster.ch
-lerncoaching-wettingen.ch
 lerncoaching-winterthur.ch
 lerncoaching-zh.ch
 lerncoaching-zuerich.ch
@@ -19447,7 +19459,6 @@ lernendekirche.ch
 lernenden.ch
 lernendenbefragung-kblachen.ch
 lernendenberatung.ch
-lernendenkollektiv.ch
 lernendenlabor.ch
 lernendenorganisation.ch
 lernendenperspektive.ch
@@ -19462,7 +19473,6 @@ lernendigital.ch
 lernendurchengagement.ch
 lernendurcherleben.ch
 lerneneinfacherleben.ch
-lernenergie.ch
 lernenfahren.ch
 lernenfuerhf.ch
 lernenganzeinfach.ch
@@ -20368,8 +20378,6 @@ lernwerkstatt.ch
 lernwerkstattfredys.ch
 lernwerkstattherisau.ch
 lernwerkstattschule.ch
-lernwerkzeug.ch
-lernwerkzeuge.ch
 lernwert.ch
 lernwiki.ch
 lernwille.ch
@@ -21237,6 +21245,7 @@ les-moulins145.ch
 les-mousquetaires.ch
 les-mousseux.ch
 les-murailles.ch
+les-murmures-de-lame.ch
 les-musees.ch
 les-muses.ch
 les-myosotich.ch
@@ -21887,6 +21896,7 @@ lesamisdepicure.ch
 lesamisdeshalom.ch
 lesamisdezivo.ch
 lesamisduchateau.ch
+lesamisducoeur-biel-bienne.ch
 lesamisducongo.ch
 lesamisdufourapain.ch
 lesamisdulocal.ch
@@ -22173,6 +22183,7 @@ lesbeauxmelanges.ch
 lesbectrotters.ch
 lesbeers.ch
 lesbegegnung.ch
+lesbegonias.ch
 lesbelges.ch
 lesbeliersdasgard.ch
 lesbellesdenuit.ch
@@ -24495,6 +24506,7 @@ lespetitescroches.ch
 lespetitescuilleres.ch
 lespetitesfantaisiesdenathalie.ch
 lespetitesfleurs.ch
+lespetitesfrimousses.ch
 lespetitesfromageres.ch
 lespetitesfugues.ch
 lespetitesgardiennes.ch

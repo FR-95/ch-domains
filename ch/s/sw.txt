@@ -57,6 +57,7 @@ sw-paratus.ch
 sw-photo.ch
 sw-pic.ch
 sw-place.ch
+sw-post.ch
 sw-profireinigung.ch
 sw-ps.ch
 sw-rs.ch
@@ -319,6 +320,8 @@ swap-test-workspace-a.ch
 swap-test-workspace-b.ch
 swap-test-workspace-c.ch
 swap-test-workspace-d.ch
+swap-tron.ch
+swap-trx.ch
 swap.ch
 swap17xexalgo.ch
 swapa-zip.ch
@@ -390,6 +393,8 @@ swapsac.ch
 swapservice.ch
 swapsies.ch
 swapswiss.ch
+swaptron.ch
+swaptrx.ch
 swapvv.ch
 swapwatch.ch
 swapy.ch
@@ -529,7 +534,6 @@ swater.ch
 swath.ch
 swati-ag.ch
 swati.ch
-swatirastogimayor.ch
 swatkacity.ch
 swatmontaggi.ch
 swatsa.ch
@@ -1763,6 +1767,7 @@ swiftbid.ch
 swiftboats.ch
 swiftbrother.ch
 swiftbuy.ch
+swiftbuyshop.ch
 swiftcasino.ch
 swiftch.ch
 swiftclean.ch
@@ -1828,6 +1833,7 @@ swigino.ch
 swigital.ch
 swiglobe.ch
 swigo.ch
+swigoapp.ch
 swigocosmetics.ch
 swigorent.ch
 swigra.ch
@@ -2404,7 +2410,6 @@ swintx.ch
 swinut.ch
 swinvest.ch
 swinx.ch
-swio.ch
 swion.ch
 swiot.ch
 swiotass.ch
@@ -2848,6 +2853,7 @@ swiss-alp-health.ch
 swiss-alp-nutrition.ch
 swiss-alp.ch
 swiss-alpes.ch
+swiss-alpha.ch
 swiss-alphine-herbs.ch
 swiss-alphorn.ch
 swiss-alphornlady.ch
@@ -3523,6 +3529,7 @@ swiss-brokers.ch
 swiss-bronchoscopy.ch
 swiss-brummi.ch
 swiss-bs.ch
+swiss-bt.ch
 swiss-btc.ch
 swiss-bts.ch
 swiss-bubbletea.ch
@@ -5704,9 +5711,7 @@ swiss-hobby-hors-association.ch
 swiss-hobby-horse-verband.ch
 swiss-hobby-horse.ch
 swiss-hobby-horsing-verband.ch
-swiss-hobby-horsing.ch
 swiss-hobby.ch
-swiss-hobbyhorsing.ch
 swiss-hockey-academy.ch
 swiss-hockey-camp.ch
 swiss-hockey-event.ch
@@ -5745,6 +5750,7 @@ swiss-homeschooling.ch
 swiss-homestaging.ch
 swiss-honey.ch
 swiss-hookah.ch
+swiss-hookup.ch
 swiss-hope-international.ch
 swiss-hops.ch
 swiss-hopsbio.ch
@@ -5877,7 +5883,6 @@ swiss-imagineering.ch
 swiss-imaging.ch
 swiss-imbiss.ch
 swiss-imc.ch
-swiss-imm.ch
 swiss-immersive-solutions.ch
 swiss-immersive.ch
 swiss-immigration.ch
@@ -8155,7 +8160,6 @@ swiss-sabers.ch
 swiss-sadaqah.ch
 swiss-saddlefit.ch
 swiss-safar.ch
-swiss-safaris.ch
 swiss-safe-alps.ch
 swiss-safe-collect.ch
 swiss-safe-invest.ch
@@ -9191,6 +9195,7 @@ swiss-trade.ch
 swiss-tradefinance.ch
 swiss-trademark.ch
 swiss-trademarks.ch
+swiss-trader.ch
 swiss-traders.ch
 swiss-trading-hub.ch
 swiss-trading-systems.ch
@@ -9811,6 +9816,7 @@ swiss2dubai.ch
 swiss2e.ch
 swiss2grow.ch
 swiss2i.ch
+swiss2move.ch
 swiss2print.ch
 swiss2s.ch
 swiss2stroke.ch
@@ -10231,6 +10237,7 @@ swissaimarketing.ch
 swissaimarketingmonitor.ch
 swissaimaster.ch
 swissaimcontroller.ch
+swissaimg.ch
 swissaimonitor.ch
 swissainews.ch
 swissaiolo.ch
@@ -10701,7 +10708,6 @@ swissaquafarming.ch
 swissaquafilter.ch
 swissaquaponie.ch
 swissaquaristik.ch
-swissaquarium.ch
 swissaquashop.ch
 swissaquatec.ch
 swissaquatech.ch
@@ -14771,6 +14777,7 @@ swissdetektive.ch
 swissdetox.ch
 swissdetoxclinic.ch
 swissdev.ch
+swissdevcar.ch
 swissdevdesign.ch
 swissdeveloper.ch
 swissdevelopment.ch
@@ -15355,6 +15362,7 @@ swisseastpics.ch
 swisseasy.ch
 swisseasyb.ch
 swisseasycloud.ch
+swisseasydog.ch
 swisseasygov.ch
 swisseasylife.ch
 swisseasyloc.ch
@@ -15367,7 +15375,6 @@ swisseats.ch
 swisseau.ch
 swisseazy.ch
 swisseben.ch
-swissebene.ch
 swissebics.ch
 swissebikepower.ch
 swissebill.ch
@@ -16344,6 +16351,7 @@ swissfinewine.ch
 swissfinex.ch
 swissfingerprint.ch
 swissfinhub.ch
+swissfinishclean.ch
 swissfinished.ch
 swissfinishingacademy.ch
 swissfinishingschool.ch
@@ -17197,7 +17205,6 @@ swissgliders.ch
 swissgliding.ch
 swissgliomafoundation.ch
 swissgliomanetwork.ch
-swissglitch.ch
 swissglobal-am.ch
 swissglobal-invest.ch
 swissglobal-nettoyage.ch
@@ -19322,6 +19329,7 @@ swissklick4you.ch
 swissklima-energie.ch
 swissklima.ch
 swissklimat.ch
+swissklimatechnik.ch
 swissklimatgmbh.ch
 swissklinik.ch
 swisskmi.ch
@@ -21554,7 +21562,6 @@ swissmusicalacademy.ch
 swissmusicarchives.ch
 swissmusicawards.ch
 swissmusicblog.ch
-swissmusicbox.ch
 swissmusiccenter.ch
 swissmusiccharts.ch
 swissmusiccircle.ch
@@ -25138,6 +25145,7 @@ swissshapelongevity.ch
 swissshare.ch
 swissshares.ch
 swissshelter.ch
+swissshield-insurance.ch
 swissshield-security.ch
 swissshield.ch
 swissshieldinside.ch
@@ -25190,6 +25198,7 @@ swissside.ch
 swisssidechain.ch
 swisssidedt.ch
 swisssidejob.ch
+swisssidequest.ch
 swisssight.ch
 swisssighthound.ch
 swisssightseeing.ch
@@ -26632,6 +26641,7 @@ swisstradingsystems.ch
 swisstradition.ch
 swisstraffic-school.ch
 swisstraffic-schools.ch
+swisstraffic-temp.ch
 swisstraffic.ch
 swisstrafficschool.ch
 swisstrafficschools.ch
@@ -28867,6 +28877,7 @@ switzerlandtastic.ch
 switzerlandtax.ch
 switzerlandtimes.ch
 switzerlandtoday.ch
+switzerlandtogo.ch
 switzerlandtopia.ch
 switzerlandtoptours.ch
 switzerlandtourism.ch

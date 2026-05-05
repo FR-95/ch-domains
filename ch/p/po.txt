@@ -344,7 +344,6 @@ podbielski.ch
 podburi.ch
 podca.ch
 podcacher.ch
-podcademic.ch
 podcalm.ch
 podcar.ch
 podcast--studio.ch
@@ -2500,6 +2499,7 @@ pokerprive.ch
 pokerprod.ch
 pokerprotour.ch
 pokerrallye.ch
+pokerraum.ch
 pokerriva.ch
 pokerroom.ch
 pokerrooms.ch
@@ -2826,6 +2826,7 @@ polarisierung.ch
 polarisinvestments.ch
 polariskollektiv.ch
 polarismedia.ch
+polarismobilis.ch
 polarisnews.ch
 polarisplatform.ch
 polarispr.ch
@@ -8163,7 +8164,6 @@ popillia-japonica.ch
 popillia.ch
 popils.ch
 popimmo.ch
-popina.ch
 popinabox.ch
 popinae.ch
 popinetta.ch
@@ -11919,6 +11919,7 @@ postmailer.ch
 postmall.ch
 postman.ch
 postman8.ch
+postmap.ch
 postmarkt.ch
 postmaster-egk.ch
 postmaster-insite.ch
@@ -12202,14 +12203,12 @@ pot-store.ch
 pot.ch
 pota.ch
 potable.ch
-potager-interieur.ch
 potager-partage.ch
 potager-pirate.ch
 potager.ch
 potagerbriefer.ch
 potagercity.ch
 potagerdebellevue.ch
-potagerinterieur.ch
 potagerpartage.ch
 potagers-geisendorf.ch
 potagers.ch
@@ -13514,7 +13513,6 @@ powerbi-erp.ch
 powerbi-expert.ch
 powerbi-pason.ch
 powerbi-report.ch
-powerbi-seminar.ch
 powerbi.ch
 powerbiconsulting.ch
 powerbike-bmx.ch

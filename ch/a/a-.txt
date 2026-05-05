@@ -140,7 +140,6 @@ a-bot.ch
 a-bottle-of.ch
 a-brands.ch
 a-brasil.ch
-a-buchner.ch
 a-buecheli.ch
 a-buergi.ch
 a-bulletin.ch
@@ -1324,6 +1323,7 @@ a-zspenglerei.ch
 a-zstudio.ch
 a-ztecsuisse.ch
 a-ztreuhand.ch
+a-zuest-solution.ch
 a-zulauf.ch
 a-zurfluh.ch
 a-zurmuehle-bau.ch

@@ -101,6 +101,7 @@ cr4events.ch
 cr7.ch
 cr78.ch
 cr8.ch
+cra-beratung.ch
 cra-construction.ch
 cra-konferenz.ch
 cra-romandie.ch
@@ -121,6 +122,7 @@ crabclawtattoo.ch
 crabcore.ch
 crabcrab.ch
 crabe.ch
+craberatung.ch
 crabi.ch
 crabmotors.ch
 crabnola.ch
@@ -869,6 +871,7 @@ cranio-praxisrothen.ch
 cranio-priska.ch
 cranio-psyche.ch
 cranio-puls.ch
+cranio-ragaz.ch
 cranio-rast.ch
 cranio-raum-zur-mitte.ch
 cranio-raum.ch
@@ -2280,6 +2283,7 @@ crcgenerations.ch
 crch.ch
 crchim.ch
 crcindustries.ch
+crckstreams.ch
 crcl-health.ch
 crcl.ch
 crcle.ch
@@ -4597,6 +4601,7 @@ creativeswiss.ch
 creativeswitzerland.ch
 creativeswohnen.ch
 creativesync.ch
+creativesyndicate.ch
 creativetalent.ch
 creativetatsch.ch
 creativete.ch
@@ -6334,6 +6339,7 @@ crestas-biker.ch
 crestas.ch
 crestasee-flims.ch
 crestasee.ch
+crestasilente.ch
 crestasport.ch
 crestault.ch
 crestaulta.ch
@@ -8240,6 +8246,7 @@ cronatec.ch
 cronay.ch
 cronay24.ch
 cronba.ch
+cronbach.ch
 cronbank.ch
 cronberg.ch
 cronbergasset.ch
@@ -10092,6 +10099,7 @@ cruzestudio.ch
 cruzgo.ch
 cruzhome.ch
 cruzine.ch
+cruzinformatics.ch
 cruzmedien.ch
 cruznelsonsarl.ch
 cruzo.ch
@@ -10471,7 +10479,6 @@ crypto-institution.ch
 crypto-institutions-license.ch
 crypto-institutions.ch
 crypto-insurance.ch
-crypto-invest.ch
 crypto-investment.ch
 crypto-jobs.ch
 crypto-journal.ch
@@ -11388,7 +11395,6 @@ cryptzilla.ch
 crypvault.ch
 crypw.ch
 crys.ch
-crysalonthem.ch
 cryslabs.ch
 crysmine.ch
 crysp.ch

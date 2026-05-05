@@ -193,7 +193,6 @@ oddfellows-aarau.ch
 oddfellows-amriswil.ch
 oddfellows-baden.ch
 oddfellows-basel.ch
-oddfellows-baselland.ch
 oddfellows-bielseeland.ch
 oddfellows-fl.ch
 oddfellows-interlaken.ch
@@ -204,7 +203,6 @@ oddfellows-luzern.ch
 oddfellows-rheinfelden.ch
 oddfellows-schaffhausen.ch
 oddfellows-solothurn.ch
-oddfellows-thuernen.ch
 oddfellows-winterthur.ch
 oddfellows-zuerich.ch
 oddfellows-zug.ch

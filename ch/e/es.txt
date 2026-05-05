@@ -491,6 +491,7 @@ escada.ch
 escada2.ch
 escada3.ch
 escadasport.ch
+escadi.ch
 escadrille17.ch
 escadu.ch
 escaflown.ch
@@ -505,6 +506,7 @@ escalade-st-triphon.ch
 escalade-therapeutique.ch
 escalade-valdherens.ch
 escalade.ch
+escaladechablais.ch
 escaladegeneve.ch
 escaladepedagogique.ch
 escalan.ch
@@ -3246,7 +3248,6 @@ espace-shanti.ch
 espace-shekinah.ch
 espace-siloe.ch
 espace-soham.ch
-espace-soin-guidance.ch
 espace-solame.ch
 espace-solidarite.ch
 espace-solothurn.ch
@@ -3730,7 +3731,6 @@ espacepsy.ch
 espacepsynations.ch
 espacepublic.ch
 espacequalia.ch
-espacequantique.ch
 espacequark.ch
 espacequilibre.ch
 espacequintessence.ch
@@ -4445,6 +4445,7 @@ esprit-cafe-chetoy.ch
 esprit-cafe.ch
 esprit-cam.ch
 esprit-coaching.ch
+esprit-conscient.ch
 esprit-consulting.ch
 esprit-critique.ch
 esprit-culture-solidarite.ch
@@ -5894,7 +5895,6 @@ estatez.ch
 estatezpartners.ch
 estathe.ch
 estatia.ch
-estatiamo.ch
 estatiba.ch
 estatika.ch
 estation.ch

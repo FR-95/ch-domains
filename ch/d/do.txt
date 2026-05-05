@@ -1235,6 +1235,7 @@ doctorlens.ch
 doctorline.ch
 doctorlove.ch
 doctormac.ch
+doctormanager.ch
 doctormax.ch
 doctorme.ch
 doctormed.ch
@@ -2733,6 +2734,7 @@ dogmountain.ch
 dogmountains.ch
 dogmuesli.ch
 dogmundo.ch
+dognanny-basel.ch
 dognanny-bern.ch
 dognaturally.ch
 dogness.ch
@@ -5330,6 +5332,7 @@ domainedumoulin.ch
 domainedumoulinchapuis.ch
 domaineduparadis.ch
 domainedupeuclaude.ch
+domainedupratzey.ch
 domainedurhone-bex.ch
 domainedurhone.ch
 domaineduscorpion.ch
@@ -5764,6 +5767,7 @@ domatec.ch
 domatech.ch
 domatek.ch
 domatems.ch
+domathermag.ch
 domatic.ch
 domatiz.ch
 domav.ch
@@ -6126,6 +6130,7 @@ domicilgym.ch
 domicilia.ch
 domiciliation-entreprise.ch
 domiciliation-geneve.ch
+domiciliation-ne.ch
 domiciliation-neuchatel.ch
 domiciliation-societe.ch
 domiciliation-vaud.ch
@@ -7006,6 +7011,7 @@ dominno.ch
 domino-67.ch
 domino-basel.ch
 domino-bern.ch
+domino-calida.ch
 domino-event.ch
 domino-fashion.ch
 domino-graphtech.ch
@@ -7097,6 +7103,7 @@ domio.ch
 domiole.ch
 domipartner.ch
 domipetcare.ch
+domiphoto.ch
 domiphysio.ch
 domipiz.ch
 domiporta.ch
@@ -7253,6 +7260,7 @@ domizilio.ch
 domizilium.ch
 domizilius.ch
 domizilix.ch
+domizilluzern.ch
 domizilmassage.ch
 domizilmassagen.ch
 domizilmasseur.ch
@@ -7278,6 +7286,7 @@ domizilvergleich.ch
 domizilverlust.ch
 domizilwechsel-winterthur.ch
 domizilzentrale.ch
+domizilzug.ch
 domizius.ch
 domjan-hans.ch
 domjan.ch
@@ -10016,7 +10025,6 @@ dorfladen-wahlen.ch
 dorfladen-wahlendorf.ch
 dorfladen.ch
 dorfladen24.ch
-dorfladen4402.ch
 dorfladenbox.ch
 dorfladenfrauenkappelen.ch
 dorfladenlangwies.ch
@@ -10226,7 +10234,6 @@ dorfschule21.ch
 dorfschulhaus-kriens.ch
 dorfsee.ch
 dorfsheriff.ch
-dorfshit-server.ch
 dorfshop.ch
 dorfsool.ch
 dorfspatzen-rothrist.ch
@@ -10491,6 +10498,7 @@ doris-aebi.ch
 doris-ayer.ch
 doris-baschnagel.ch
 doris-baumeler.ch
+doris-becker.ch
 doris-berger.ch
 doris-bernhard.ch
 doris-beusch.ch
@@ -10859,7 +10867,6 @@ dormygolf.ch
 dorn-ag.ch
 dorn-breuss-akademie.ch
 dorn-breuss-ausbildung.ch
-dorn-breuss-baden.ch
 dorn-breuss-kurse.ch
 dorn-breuss-methode.ch
 dorn-breuss-seminare.ch
@@ -10929,7 +10936,6 @@ dornbreuss-kurse.ch
 dornbreuss-seminare.ch
 dornbreuss-sh.ch
 dornbreuss.ch
-dornbreussbaden.ch
 dornbreussmassage.ch
 dornbreussmethode.ch
 dornbreusszuerich.ch
@@ -12819,6 +12825,8 @@ doxlock-schweiz.ch
 doxmart.ch
 doxnet.ch
 doxo.ch
+doxom.ch
+doxomcapital.ch
 doxomed.ch
 doxos.ch
 doxs-tanzkompanie.ch

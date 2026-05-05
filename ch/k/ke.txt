@@ -103,7 +103,6 @@ kebab-master.ch
 kebab-meister.ch
 kebab-ouchy-lausanne.ch
 kebab-ouchy.ch
-kebab-peseux.ch
 kebab-sauce.ch
 kebab-sierre.ch
 kebab-square.ch
@@ -596,7 +595,6 @@ keepstyle.ch
 keepthebeat.ch
 keepthebyte.ch
 keepthedamnwheelsontheground.ch
-keeptheflow.ch
 keepthelink.ch
 keeptime.ch
 keeptimelab.ch
@@ -924,6 +922,7 @@ keim-identity.ch
 keim.ch
 keimdigital.ch
 keime.ch
+keimerei.ch
 keimex.ch
 keimexpert.ch
 keimexperts.ch
@@ -964,7 +963,6 @@ kein-eurofighter.ch
 kein-fake.ch
 kein-geld.ch
 kein-gin.ch
-kein-kaese.ch
 kein-konto.ch
 kein-lei-kein-handel.ch
 kein-makler.ch
@@ -2427,6 +2425,7 @@ kelsag-biopower.ch
 kelsag.ch
 kelsch.ch
 kelsey.ch
+kelseydieteri.ch
 kelsi.ch
 kelso.ch
 kelsoassocies.ch
@@ -2489,6 +2488,7 @@ kelvin91.ch
 kelvingrade.ch
 kelvinlab.ch
 kelvinlee.ch
+kelvinos.ch
 kelvinpro.ch
 kelvinsize.ch
 kelvinwilliams.ch
@@ -2869,7 +2869,6 @@ kengo.ch
 kengrexal.ch
 kengubler.ch
 kengyu.ch
-kenhalthreads.ch
 kenhollingworth.ch
 kenhub.ch
 kenhut.ch
@@ -3426,7 +3425,6 @@ keramik-implantate-schweiz.ch
 keramik-implantate.ch
 keramik-kaffee.ch
 keramik-keller.ch
-keramik-kiefer.ch
 keramik-kugel.ch
 keramik-kunst-therapie.ch
 keramik-kunst.ch
@@ -5251,8 +5249,6 @@ kettner-metallbau.ch
 kettner.ch
 kettnerag.ch
 kettnermetallbau.ch
-kettobestellen.ch
-kettogeniessen.ch
 kettrox.ch
 kettu.ch
 kettua.ch
@@ -5850,7 +5846,6 @@ key4work.ch
 key4you.ch
 key5.ch
 key69.ch
-keya.ch
 keyaccount.ch
 keyaccountmanagement.ch
 keyaccountmanager.ch

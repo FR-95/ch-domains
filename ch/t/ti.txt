@@ -98,6 +98,7 @@ ti-group.ch
 ti-help.ch
 ti-house.ch
 ti-i.ch
+ti-immo.ch
 ti-immobili.ch
 ti-immobilien.ch
 ti-incasso.ch
@@ -1491,6 +1492,7 @@ ticket2.ch
 ticket24.ch
 ticket2go.ch
 ticket2nowhere.ch
+ticket2reality.ch
 ticket2travel.ch
 ticket360.ch
 ticket42.ch
@@ -1506,6 +1508,7 @@ ticketadmin.ch
 ticketagency.ch
 ticketagent.ch
 ticketagentur.ch
+ticketaktion.ch
 ticketamigo.ch
 ticketandmore.ch
 ticketapp.ch
@@ -3424,7 +3427,6 @@ tierferienheime.ch
 tierferienhof-willisau.ch
 tierferienhof.ch
 tierferienplatz.ch
-tierfiguren.ch
 tierfilm.ch
 tierfinder.ch
 tierfluencer.ch
@@ -5367,7 +5369,6 @@ tigermountain.ch
 tigermucke.ch
 tigermucken.ch
 tigermuecke.ch
-tigermuecken.ch
 tigermus.ch
 tigernet.ch
 tigernutplanet.ch
@@ -8273,6 +8274,7 @@ tina-schwendener.ch
 tina-service.ch
 tina-solutions.ch
 tina-start.ch
+tina-studio.ch
 tina-tom.ch
 tina-turner-shop.ch
 tina-turner.ch
@@ -8471,6 +8473,7 @@ tinayla.ch
 tinayoga.ch
 tinazueger.ch
 tinbin.ch
+tinble.ch
 tinblock50.ch
 tinboutic.ch
 tinc.ch
@@ -9587,6 +9590,7 @@ tipicocaffe.ch
 tipicool.ch
 tipidaspiaggia.ch
 tipidesiviez.ch
+tipidi.ch
 tipidigitali.ch
 tipidorf-mittelrheintal.ch
 tipievent.ch

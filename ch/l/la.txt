@@ -41,7 +41,6 @@ la-barca-luzern.ch
 la-barca.ch
 la-barcellona-di-gaudi.ch
 la-baroche24.ch
-la-baronessa.ch
 la-baronnie.ch
 la-barque.ch
 la-barrik.ch
@@ -566,6 +565,7 @@ la-fabrica.ch
 la-fabrique-du-bonheur.ch
 la-fabrique-givree.ch
 la-fabrique.ch
+la-fabulante.ch
 la-factory-porrentruy.ch
 la-factory.ch
 la-famiglia-bernapark.ch
@@ -1769,6 +1769,7 @@ la-vieillesse.ch
 la-vigne.ch
 la-vigneronne.ch
 la-villa-vs.ch
+la-villa.ch
 la-ville.ch
 la-vina.ch
 la-vinotheque.ch
@@ -2955,6 +2956,7 @@ labirinto.ch
 labirolande.ch
 labirraria.ch
 labirse.ch
+labis.ch
 labiscoteca.ch
 labiscuiterie.ch
 labise.ch
@@ -3778,7 +3780,6 @@ labottegadelsalotto.ch
 labottegadeltartufo.ch
 labottegadeltempo.ch
 labottegadelvino.ch
-labottegadiatena.ch
 labottegadibruno.ch
 labottegadicarletto.ch
 labottegadicomano.ch
@@ -3842,7 +3843,6 @@ laboumzh.ch
 labounce.ch
 labouquetiere.ch
 labouquetterie.ch
-labouquineriedemaude.ch
 labour-emigration.ch
 labour-law.ch
 labour-lawyers.ch
@@ -7390,6 +7390,7 @@ laedrach-finanzberatungen.ch
 laedrach.ch
 laedtrans-worb.ch
 laege.ch
+laeger-hausservice.ch
 laegere-blueme.ch
 laegere-partner.ch
 laegere-schoggi.ch
@@ -9925,7 +9926,6 @@ laimaphoto.ch
 laimart.ch
 laimat.ch
 laimbacher-bedachungen.ch
-laimbacher-haustechnik.ch
 laimbacher-karl.ch
 laimbacher-moto.ch
 laimbacher.ch
@@ -12116,6 +12116,7 @@ lamborghini-group.ch
 lamborghini-gutschein.ch
 lamborghini-hirsch.ch
 lamborghini-huracan.ch
+lamborghini-lausanne.ch
 lamborghini-lugano.ch
 lamborghini-miete.ch
 lamborghini-mieten-aargau.ch
@@ -15341,6 +15342,7 @@ lanera.ch
 laneras.ch
 lanergy.ch
 laneria.ch
+laneries.ch
 lanerina.ch
 laners.ch
 lanes-planes.ch
@@ -20694,7 +20696,6 @@ lasermasterclass.ch
 lasermat.ch
 lasermaterial.ch
 lasermauris.ch
-lasermax.ch
 lasermaxx.ch
 lasermd.ch
 laserme.ch
@@ -20713,7 +20714,6 @@ lasermetall.ch
 lasermiete.ch
 lasermieten.ch
 lasermikrometer.ch
-lasermission.ch
 lasern-rohre.ch
 lasern.ch
 laserna.ch
@@ -21446,7 +21446,6 @@ lassemblage.ch
 lassemblee.ch
 lassemel.ch
 lassen.ch
-lassens.ch
 lassenza.ch
 lasser.ch
 lasserre.ch
@@ -22531,7 +22530,6 @@ latenightshow.ch
 latenightsound.ch
 latenightswitzerland.ch
 latenightzurich.ch
-latenite.ch
 latenium.ch
 latens.ch
 latensandforma.ch
@@ -24433,6 +24431,7 @@ lauradaniele.ch
 lauradanna.ch
 lauradanu.ch
 lauradarcangelo.ch
+lauradarlene.ch
 lauradeiss.ch
 lauradeluigi.ch
 lauradesign.ch
@@ -25522,7 +25521,6 @@ lausannedentiste.ch
 lausannedentistes.ch
 lausannedepannageurgence.ch
 lausannedermatologie.ch
-lausannedesign.ch
 lausannedeter.ch
 lausannedivorce.ch
 lausannedrivingschool.ch
@@ -25679,6 +25677,7 @@ lauscherei.ch
 lauscherlounge.ch
 lauschgut.ch
 lauschig.ch
+lauschliste.ch
 lauschmeister.ch
 lauschmittel.ch
 lauschpause.ch
@@ -27968,6 +27967,7 @@ lazy-bitch.ch
 lazy-bones.ch
 lazy-lou.ch
 lazy-mountain.ch
+lazy-parenting.ch
 lazy-rabbit.ch
 lazy-rancho-demo.ch
 lazy-seals.ch

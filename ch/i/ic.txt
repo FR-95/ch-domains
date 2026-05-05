@@ -1154,8 +1154,6 @@ ich-will-mehr.ch
 ich-will-mein-nutzfahrzeug-verkaufen.ch
 ich-will-mich-scheiden.ch
 ich-will-nun-endlich-einen-kaminofen.ch
-ich-will-pfarrer-werden.ch
-ich-will-pfarrerin-werden.ch
 ich-will-schiff-fahren.ch
 ich-will-sparen.ch
 ich-will-steuern-sparen.ch
@@ -1646,8 +1644,6 @@ ichwillmichscheiden.ch
 ichwillmichtrennen.ch
 ichwillmitreden.ch
 ichwillnichnochmehrdomainswirklichni.ch
-ichwillpfarrerinwerden.ch
-ichwillpfarrerwerden.ch
 ichwillpizza.ch
 ichwillrecht.ch
 ichwills.ch
@@ -3027,7 +3023,6 @@ icube.ch
 icube365.ch
 icucockpit.ch
 icufreshdata.ch
-icuginidelgusto.ch
 icuiflow.ch
 icumonitoring.ch
 icumotion.ch

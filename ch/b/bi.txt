@@ -20,7 +20,6 @@ bi-bala.ch
 bi-bau.ch
 bi-ber.ch
 bi-bindella.ch
-bi-bo.ch
 bi-box-energy.ch
 bi-box.ch
 bi-boys.ch
@@ -1854,6 +1853,7 @@ bidaspastry.ch
 bidata.ch
 bidatainvestigation.ch
 bidatlas.ch
+bidaucta.ch
 bidaux-ruffin.ch
 bidaux.ch
 bidawid.ch
@@ -3908,6 +3908,7 @@ biervelo.ch
 bierverband.ch
 bierverein.ch
 biervereinhsg.ch
+biervergleich.ch
 bierversuche.ch
 biervibration.ch
 biervielfalt-schweiz.ch
@@ -5498,6 +5499,7 @@ bijou-privatespa.ch
 bijou-reinigungen.ch
 bijou-schloss.ch
 bijou-scout24.ch
+bijou-secondhand.ch
 bijou-seftigen.ch
 bijou-shop.ch
 bijou-studio.ch
@@ -7657,7 +7659,6 @@ bilder-bogen-w.ch
 bilder-bogen.ch
 bilder-bogen2.ch
 bilder-bu.ch
-bilder-buch.ch
 bilder-butler.ch
 bilder-der-schweiz.ch
 bilder-design.ch
@@ -8165,6 +8166,7 @@ bildportal.ch
 bildpraxis.ch
 bildproduktion.ch
 bildprojekt.ch
+bildprotokoll.ch
 bildpunkt.ch
 bildpunktag.ch
 bildpunktblog.ch
@@ -9372,9 +9374,11 @@ billige-marken.ch
 billige-mietwagen.ch
 billige-moebel.ch
 billige-reifen.ch
+billige-umzugsunternehmen.ch
 billige-website.ch
 billige-websites.ch
 billige-wohnmobile.ch
+billige-zuegelunternehmen.ch
 billigebook.ch
 billigebooks.ch
 billigebuch.ch
@@ -9647,6 +9651,7 @@ billybets-ch.ch
 billybets.ch
 billybetscas.ch
 billybetsch.ch
+billybetss.ch
 billybillion.ch
 billybillioncasino.ch
 billyblobs.ch
@@ -15901,7 +15906,6 @@ bioventusglobal.ch
 biover.ch
 biovera.ch
 bioverde.ch
-bioverein.ch
 bioverfahrenstechnik.ch
 bioverger.ch
 bioverita.ch
@@ -17127,6 +17131,7 @@ birrer-immobilien-treuhand.ch
 birrer-immobilien.ch
 birrer-innenausbau.ch
 birrer-it.ch
+birrer-lueftungsreiniger.ch
 birrer-network.ch
 birrer-print.ch
 birrer-schreinerei.ch
@@ -20396,7 +20401,6 @@ biz-webcast.ch
 biz-zuerich.ch
 biz.ch
 biz4all.ch
-biz4impact.ch
 biz4src.ch
 biz4u.ch
 bizacademy.ch

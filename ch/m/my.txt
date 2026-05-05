@@ -189,6 +189,7 @@ my-bodyreset.ch
 my-bon-coup-auto.ch
 my-bonus-shop.ch
 my-boobs.ch
+my-book-shelf.ch
 my-books-and-more.ch
 my-boomer.ch
 my-boost.ch
@@ -1131,7 +1132,6 @@ my-mind-my-serenity.ch
 my-mind.ch
 my-mindeststandards.ch
 my-mindfoodness.ch
-my-mindmotion.ch
 my-mini-event.ch
 my-mini.ch
 my-mission-is-your-decision.ch
@@ -2089,7 +2089,6 @@ myabhof.ch
 myabi.ch
 myabies.ch
 myabilis.ch
-myability-jobs.ch
 myability.ch
 myabilitytalent.ch
 myabo.ch
@@ -2471,6 +2470,7 @@ myauto.ch
 myauto360.ch
 myautoabo.ch
 myautoaboschweiz.ch
+myautoagent.ch
 myautoecole.ch
 myautoexport.ch
 myautoimabo.ch
@@ -2793,7 +2793,6 @@ mybesthome.ch
 mybesthorse.ch
 mybestinparking.ch
 mybestjob.ch
-mybestkid.ch
 mybestline.ch
 mybestlive-gmbh.ch
 mybestlive.ch
@@ -4054,7 +4053,6 @@ mycosmo.ch
 mycosmos.ch
 mycosolution.ch
 mycosolutions.ch
-mycosplaywig.ch
 mycosplaywigs.ch
 mycosta.ch
 mycostaclub.ch
@@ -4196,6 +4194,8 @@ mycupsoftea.ch
 mycura-one.ch
 mycura.ch
 mycure.ch
+mycurling.ch
+mycurlingsuite.ch
 mycurlsandme.ch
 mycursum.ch
 mycursus.ch
@@ -4726,6 +4726,7 @@ myeasybank.ch
 myeasybanking.ch
 myeasycamp.ch
 myeasycare.ch
+myeasycheck.ch
 myeasycloud.ch
 myeasycredit.ch
 myeasydent.ch
@@ -7049,7 +7050,6 @@ myle.ch
 mylea.ch
 myleacleaning.ch
 myleaco.ch
-mylead.ch
 myleaders.ch
 myleadership.ch
 myleadershipcircle.ch
@@ -7526,6 +7526,7 @@ mylwa.ch
 mylwo.ch
 mylyag.ch
 mylyft.ch
+mylynkco.ch
 mylynundpascal.ch
 mylyv.ch
 mym-zh.ch
@@ -7800,7 +7801,6 @@ mymiller.ch
 mymilling.ch
 myminara.ch
 mymind.ch
-mymindchallenge.ch
 mymindfuldesert.ch
 mymindfulness.ch
 mymindmentor.ch
@@ -9891,6 +9891,7 @@ mysafer.ch
 mysafespace.ch
 mysafety.ch
 mysafetycloud.ch
+mysafetycoach.ch
 mysaga.ch
 mysage.ch
 mysage100.ch
@@ -10929,6 +10930,7 @@ mystischerfreiberg.ch
 mystischeseele.ch
 mystischewelt.ch
 mystitch.ch
+mystiteam.ch
 mystix.ch
 mystmoritz.ch
 mystock.ch
@@ -11028,7 +11030,6 @@ mysugaring.ch
 mysugarlady.ch
 mysugarmommy.ch
 mysugarmummy.ch
-mysugars.ch
 mysuggest.ch
 mysugr.ch
 mysuiseki.ch

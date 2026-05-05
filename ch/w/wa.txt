@@ -1560,7 +1560,6 @@ waescherei-linth.ch
 waescherei-luedin.ch
 waescherei-mittelland.ch
 waescherei-pluess.ch
-waescherei-predigerplatz.ch
 waescherei-regio.ch
 waescherei-ritzmann.ch
 waescherei-samstagern.ch
@@ -3440,7 +3439,6 @@ waldbaden-coach.ch
 waldbaden-coaching.ch
 waldbaden-einfachsein.ch
 waldbaden-entspannung.ch
-waldbaden-erfahren.ch
 waldbaden-flims.ch
 waldbaden-gesundheitsfoerderung.ch
 waldbaden-graubuenden.ch
@@ -3470,8 +3468,6 @@ waldbadenamblauen.ch
 waldbadenguide.ch
 waldbadenkloten.ch
 waldbadenkurs.ch
-waldbadenkurse-schweiz.ch
-waldbadenkurse-zuerich.ch
 waldbadenmithund.ch
 waldbadenmitpferden.ch
 waldbadennws.ch
@@ -4844,6 +4840,7 @@ walensee-apartements.ch
 walensee-event.ch
 walensee-ferien.ch
 walensee-ferienwohnung.ch
+walensee-neptun.ch
 walensee-pizza-kurier.ch
 walensee-resort.ch
 walensee-shuttle.ch
@@ -5103,7 +5100,6 @@ walkerbau.ch
 walkerbeer.ch
 walkerbergkaeserei.ch
 walkerbout.ch
-walkerbrands.ch
 walkerconsulting.ch
 walkerdelicia.ch
 walkerdesignandservices.ch
@@ -6143,6 +6139,7 @@ walosteiner.ch
 walot.ch
 walotech.ch
 walotta.ch
+waloumzug.ch
 walpaca.ch
 walpaint.ch
 walpaka.ch
@@ -7070,11 +7067,7 @@ wamiso.ch
 wamister.ch
 wamiz.ch
 wamka.ch
-wamkaafrica.ch
-wamkaafrika.ch
 wamkacapital.ch
-wamkafrica.ch
-wamkafrika.ch
 wamkagroup.ch
 waml.ch
 wamm.ch
@@ -7733,7 +7726,6 @@ wandernsavognin.ch
 wandernschwyz.ch
 wandernsurses.ch
 wandernundwein.ch
-wandernundwundern.ch
 wandernvalsurses.ch
 wanderopening.ch
 wanderotel.ch
@@ -8246,7 +8238,6 @@ wanjakempe.ch
 wanjaluc.ch
 wanjamantel.ch
 wanjamanzardo.ch
-wank.ch
 wanka.ch
 wankdorf-center.ch
 wankdorf-city.ch
@@ -9964,7 +9955,6 @@ washin.ch
 washing.ch
 washingballs.ch
 washingline.ch
-washingschedule.ch
 washington.ch
 washingtondc.ch
 washingtonflood.ch
@@ -12580,6 +12570,7 @@ watt-bin-ich.ch
 watt-concept.ch
 watt-contracting.ch
 watt-else.ch
+watt-gebaeudetechnik.ch
 watt-gebauedetechnik.ch
 watt-is.ch
 watt-ling.ch
@@ -12699,6 +12690,7 @@ watts-armaturen.ch
 watts-coaching.ch
 watts-drive.ch
 watts-electricite.ch
+watts-immo.ch
 watts-intermes.ch
 watts-team.ch
 watts-up.ch
@@ -12732,7 +12724,6 @@ wattsup.ch
 wattswater.ch
 wattswil.ch
 wattt.ch
-wattuneed.ch
 wattup.ch
 watture.ch
 wattvision.ch

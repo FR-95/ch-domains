@@ -456,6 +456,7 @@ aechafaudages.ch
 aecher.ch
 aecherli-museum.ch
 aecherli-reiden-weber.ch
+aecherli-reiden.ch
 aecherli.ch
 aecherliholz.ch
 aecherlimuseum.ch
@@ -1514,8 +1515,10 @@ aeo-agentur.ch
 aeo-analyse.ch
 aeo-audit.ch
 aeo-check.ch
+aeo-checker.ch
 aeo-consulting.ch
 aeo-manager.ch
+aeo-optimierung.ch
 aeo-pruefung.ch
 aeo-referencement.ch
 aeo.ch
@@ -1695,7 +1698,6 @@ aequo.ch
 aequor.ch
 aequorconsulting.ch
 aequum.ch
-aequus-libra.ch
 aequus-steuerverfahren.ch
 aequus.ch
 aeqv.ch
@@ -2508,7 +2510,6 @@ aerst.ch
 aerstop.ch
 aerstudio.ch
 aersuisse.ch
-aert.ch
 aertec.ch
 aertecnica.ch
 aerth.ch
@@ -2727,6 +2728,7 @@ aerztekurse.ch
 aerzteliege.ch
 aerzteliegen.ch
 aerztelupfig.ch
+aerztemarkt.ch
 aerztemonitoring.ch
 aerztemuster.ch
 aerztenetstal.ch
@@ -3626,6 +3628,7 @@ aeteragroup.ch
 aeteria.ch
 aeterion.ch
 aeteris.ch
+aeterna-aesthetics.ch
 aeterna-la.ch
 aeterna-lucy.ch
 aeterna-medical.ch

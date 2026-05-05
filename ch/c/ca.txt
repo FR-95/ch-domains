@@ -3847,6 +3847,7 @@ cafejuridique.ch
 cafekeller.ch
 cafekern.ch
 cafekitchen.ch
+cafeklarheit.ch
 cafeknaus.ch
 cafekoller.ch
 cafekreuz.ch
@@ -5427,6 +5428,7 @@ calanda-center.ch
 calanda-chur.ch
 calanda-customs.ch
 calanda-elektro.ch
+calanda-engineering.ch
 calanda-felsberg.ch
 calanda-fpv.ch
 calanda-haldenstein.ch
@@ -5443,7 +5445,6 @@ calanda-security.ch
 calanda-solar.ch
 calanda-tours.ch
 calanda-transport.ch
-calanda-treuhand.ch
 calanda-wings.ch
 calanda-xr.ch
 calanda.ch
@@ -5481,7 +5482,6 @@ calandasolar.ch
 calandaspringfestival.ch
 calandatax.ch
 calandatransport.ch
-calandatreuhand.ch
 calandaverein.ch
 calandavr.ch
 calandawind.ch
@@ -6206,7 +6206,6 @@ calimapa.ch
 calimari.ch
 calimatica.ch
 calimba.ch
-calimbouhadra.ch
 calimed.ch
 calimedica.ch
 calimelove.ch
@@ -6646,7 +6645,6 @@ callibo.ch
 callibri.ch
 callibro.ch
 calliceros.ch
-callicon.ch
 callicromia.ch
 callicromialaser.ch
 callicromialaserstudio.ch
@@ -6833,7 +6831,6 @@ callup.ch
 callus.ch
 callusan.ch
 callux.ch
-callview.ch
 callwey.ch
 cally.ch
 callya.ch
@@ -8504,6 +8501,7 @@ camp-suisse.ch
 camp-tastic.ch
 camp-tastisch.ch
 camp-urlaub.ch
+camp-us.ch
 camp-vacances-fribourg.ch
 camp-vessy.ch
 camp-your-life.ch
@@ -10488,7 +10486,6 @@ campster.ch
 campsters.ch
 campsuisse.ch
 campsursee.ch
-campswiss.ch
 camptastic.ch
 camptastisch.ch
 campte.ch
@@ -10529,6 +10526,7 @@ campus-carbone.ch
 campus-career.ch
 campus-careers.ch
 campus-chor.ch
+campus-cloud.ch
 campus-club.ch
 campus-colonia.ch
 campus-construction.ch
@@ -15770,7 +15768,6 @@ captainsbar.ch
 captainschoice.ch
 captainsclub.ch
 captainscor.ch
-captainscove.ch
 captainsessentials.ch
 captainskully.ch
 captainslots.ch
@@ -17027,7 +17024,6 @@ caravida.ch
 caravina.ch
 caravisio.ch
 caravita.ch
-caravol.ch
 caravox.ch
 carawau.ch
 caraway.ch
@@ -17731,6 +17727,7 @@ cardboard.ch
 cardboardowl.ch
 cardboardsurfer.ch
 cardboardtours.ch
+cardbreak.ch
 cardbreakshop.ch
 cardbroker.ch
 cardbulletin.ch
@@ -17869,6 +17866,7 @@ cardiance.ch
 cardianceclinic.ch
 cardiancegroup.ch
 cardianova.ch
+cardiaroom.ch
 cardiazin.ch
 cardic.ch
 cardicchi.ch
@@ -17966,6 +17964,7 @@ cardio-oncology.ch
 cardio-ost.ch
 cardio-pneumo-congress.ch
 cardio-puls.ch
+cardio-pulse.ch
 cardio-r.ch
 cardio-reverdin.ch
 cardio-rhythm.ch
@@ -18266,6 +18265,7 @@ cardossier.ch
 cardosystems.ch
 cardot.ch
 cardovo.ch
+cardox.ch
 cardozo.ch
 cardpartner.ch
 cardparty.ch
@@ -19131,6 +19131,7 @@ carena-immo.ch
 carena.ch
 carenadirekt.ch
 carenaschweiz.ch
+carenav.ch
 carence-en-fer-info.ch
 carence-en-fer.ch
 carence-fer.ch
@@ -19609,6 +19610,7 @@ cargate.ch
 cargeek.ch
 cargeeks.ch
 cargeko.ch
+cargenie.ch
 cargerlafingen.ch
 cargerservices.ch
 carget.ch
@@ -21255,7 +21257,6 @@ carmengrange.ch
 carmenhaag.ch
 carmenherzog.ch
 carmenhess.ch
-carmenhofer.ch
 carmenilli.ch
 carmenimhasly.ch
 carmenita.ch
@@ -22549,6 +22550,7 @@ carpads.ch
 carpage.ch
 carpagroup.ch
 carpaintdesign.ch
+carpaket.ch
 carpal.ch
 carpaltunnel-syndrom.ch
 carpaltunnel.ch
@@ -23587,6 +23589,7 @@ carrosserie-hoegern.ch
 carrosserie-hofstetter.ch
 carrosserie-holdener.ch
 carrosserie-hollenstein.ch
+carrosserie-hosang.ch
 carrosserie-hotz.ch
 carrosserie-huber-abertiptop.ch
 carrosserie-huegli.ch
@@ -24121,7 +24124,6 @@ carrosserielutry.ch
 carrosserieluzern.ch
 carrosserielyss.ch
 carrosseriemambelli.ch
-carrosseriemarketing.ch
 carrosseriemarmier.ch
 carrosseriemarschall.ch
 carrosseriemaurer.ch
@@ -26256,7 +26258,6 @@ casa-gilda.ch
 casa-ginestra.ch
 casa-gioiello.ch
 casa-gios.ch
-casa-giovanoli.ch
 casa-giulia.ch
 casa-glisch.ch
 casa-gloria.ch
@@ -26339,6 +26340,7 @@ casa-living.ch
 casa-locarno.ch
 casa-lounge.ch
 casa-lowenna.ch
+casa-luce.ch
 casa-lucertola-ascona.ch
 casa-lucertola.ch
 casa-lucia.ch
@@ -27275,7 +27277,6 @@ casaginestra.ch
 casagioia.ch
 casagioiello.ch
 casagiovanni.ch
-casagiovanoli.ch
 casagirasol.ch
 casagirotondo.ch
 casagirr.ch
@@ -29391,6 +29392,7 @@ casino-22bet.ch
 casino-77.ch
 casino-770.ch
 casino-777.ch
+casino-777i.ch
 casino-777s.ch
 casino-admira.ch
 casino-admiralsg.ch
@@ -29509,7 +29511,6 @@ casino-jobs.ch
 casino-justiz.ch
 casino-kingmaker.ch
 casino-kursaal.ch
-casino-lab.ch
 casino-lanista.ch
 casino-lausanne.ch
 casino-legal-schweiz.ch
@@ -29923,7 +29924,6 @@ casinol.ch
 casinolab.ch
 casinolabcas.ch
 casinolabch.ch
-casinolabs.ch
 casinoland.ch
 casinolanista.ch
 casinolausanne.ch
@@ -30034,6 +30034,7 @@ casinoprofi.ch
 casinorabona.ch
 casinoradar.ch
 casinoragaz.ch
+casinorank.ch
 casinoranker.ch
 casinoranking.ch
 casinoratgeber.ch
@@ -30401,7 +30402,6 @@ casparund.ch
 casparwagner.ch
 casparwolf.ch
 casparzollikofer.ch
-caspd-org.ch
 caspeneouaze.ch
 casper-bets.ch
 casper-gartmann.ch
@@ -31576,7 +31576,6 @@ cataropro.ch
 cataroproshop.ch
 catart.ch
 catartine.ch
-catarts.ch
 catasoleil.ch
 catastrofa.ch
 catata.ch
@@ -32713,6 +32712,8 @@ catsitting-leemann.ch
 catsitting-marisa.ch
 catsitting-muri.ch
 catsitting-relax.ch
+catsitting-steffisburg.ch
+catsitting-thun.ch
 catsitting.ch
 catsitting8707.ch
 catsittingbern.ch
@@ -32997,7 +32998,6 @@ causeaeffetsuisse.ch
 causeandeffect.ch
 causecollaborative.ch
 causecommune.ch
-causeconcaves.ch
 causeffect.ch
 causehuman.ch
 causelabs.ch

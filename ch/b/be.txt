@@ -3299,7 +3299,6 @@ beauty-drink.ch
 beauty-effects.ch
 beauty-eggli.ch
 beauty-embrach.ch
-beauty-engels-kosmetik.ch
 beauty-envogue.ch
 beauty-enzian.ch
 beauty-essentials.ch
@@ -4816,7 +4815,6 @@ beautytrilogie.ch
 beautytruck.ch
 beautytruong.ch
 beautyufemsee.ch
-beautyuk.ch
 beautyundlife.ch
 beautyundmassage.ch
 beautyundmassagepraxis.ch
@@ -7508,6 +7506,7 @@ beerluminati.ch
 beermail.ch
 beermann.ch
 beermapper.ch
+beermaps.ch
 beermat.ch
 beermate.ch
 beermatic.ch
@@ -9494,6 +9493,7 @@ bekind2you.ch
 bekindcafe.ch
 bekindclub.ch
 bekindsnacks.ch
+bekindstore.ch
 bekine.ch
 beking.ch
 bekinky.ch
@@ -12777,6 +12777,7 @@ bema-ag.ch
 bema-bm.ch
 bema-buchhaltung.ch
 bema-consulting.ch
+bema-isolierung.ch
 bema-treuhand.ch
 bema-zemp.ch
 bema.ch
@@ -12953,7 +12954,6 @@ bemobile.ch
 bemocomputer.ch
 bemodels.ch
 bemoff.ch
-bemofoto.ch
 bemogrenchen.ch
 bemol-fait-du-velo.ch
 bemol.ch
@@ -13599,7 +13599,6 @@ benediktiner-stille.ch
 benediktiner.ch
 benediktineroblaten.ch
 benediktinisches-zentrum.ch
-benediktklein.ch
 benediktkoeppel.ch
 benediktluechinger.ch
 benediktmeyer.ch
@@ -14351,6 +14350,7 @@ benjamin-aregger.ch
 benjamin-auer.ch
 benjamin-aunkofer.ch
 benjamin-bau.ch
+benjamin-benz.ch
 benjamin-beusch.ch
 benjamin-bluelle.ch
 benjamin-brunner.ch
@@ -14365,6 +14365,7 @@ benjamin-elsaesser.ch
 benjamin-emmenegger.ch
 benjamin-epper.ch
 benjamin-erni.ch
+benjamin-etancheite.ch
 benjamin-fankhauser.ch
 benjamin-felder.ch
 benjamin-fischer.ch
@@ -15510,6 +15511,7 @@ benzbyte.ch
 benzcam.ch
 benzchristina.ch
 benzcoaching.ch
+benzebub.ch
 benzedrine.ch
 benzeen.ch
 benzeholz-meggen.ch
@@ -17778,6 +17780,7 @@ berger-tableaux.ch
 berger-telematique.ch
 berger-tiefbau.ch
 berger-tracking.ch
+berger-treuhand.ch
 berger-vertical.ch
 berger-waermetechnik.ch
 berger-wille.ch
@@ -19265,6 +19268,7 @@ bergweiss.ch
 bergweizen.ch
 bergwellness.ch
 bergwelt-arosa.ch
+bergwelt-brigels.ch
 bergwelt-grindelwald.ch
 bergwelt-it.ch
 bergwelt-manufaktur.ch
@@ -21933,6 +21937,7 @@ bernina-zuerich.ch
 bernina-zug.ch
 bernina-zurich.ch
 bernina.ch
+bernina10.ch
 bernina24.ch
 berninaaarau.ch
 berninaaarberg.ch
@@ -27577,6 +27582,7 @@ betahaus.ch
 betahouse.ch
 betahousezurich.ch
 betail-art.ch
+betail.ch
 betailart.ch
 betailbio.ch
 betailor.ch
@@ -29650,6 +29656,7 @@ bettertherapy.ch
 bettertimes.ch
 bettertires.ch
 bettertoapp.ch
+bettertogeter.ch
 bettertogether.ch
 bettertogheter.ch
 bettertomorrow.ch
@@ -31067,7 +31074,6 @@ bewegung-gegen-krebs.ch
 bewegung-gesundheit.ch
 bewegung-im-alter.ch
 bewegung-im-gundeli.ch
-bewegung-im-winkel.ch
 bewegung-in-die-schule.ch
 bewegung-in-jedem-alter.ch
 bewegung-ist-freude.ch
@@ -31879,7 +31885,6 @@ bewusst-sein-center.ch
 bewusst-sein-cranio.ch
 bewusst-sein-felice.ch
 bewusst-sein-kk.ch
-bewusst-sein-leben.ch
 bewusst-sein-natur.ch
 bewusst-sein-schule.ch
 bewusst-sein-transformation.ch
@@ -32807,7 +32812,6 @@ beyontiq.ch
 beyontro.ch
 beyonttra.ch
 beyonttro.ch
-beyoo-kidsapp.ch
 beyot.ch
 beyou-coaching.ch
 beyou-cosmetics.ch

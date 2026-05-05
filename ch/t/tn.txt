@@ -5,7 +5,6 @@ tn-gmbh.ch
 tn-ict.ch
 tn-idntt.ch
 tn-nettoyage.ch
-tn-nettoyages.ch
 tn-neuchatel.ch
 tn-niedermann.ch
 tn-peinture.ch
@@ -152,7 +151,6 @@ tnt-gin-more.ch
 tnt-graphics.ch
 tnt-hochzeit.ch
 tnt-hundetraining.ch
-tnt-immo.ch
 tnt-invest.ch
 tnt-jam.ch
 tnt-lieli.ch

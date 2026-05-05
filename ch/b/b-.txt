@@ -866,6 +866,7 @@ b-surounded.ch
 b-surround.ch
 b-sweetart.ch
 b-swiss.ch
+b-sync.ch
 b-system.ch
 b-systems.ch
 b-t-g.ch
@@ -936,7 +937,6 @@ b-up-automation.ch
 b-up-innovation.ch
 b-up-learning.ch
 b-up-media.ch
-b-up.ch
 b-user.ch
 b-v-c.ch
 b-v-d.ch

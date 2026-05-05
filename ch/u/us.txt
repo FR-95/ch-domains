@@ -1297,7 +1297,6 @@ uster-agenda.ch
 uster-akut.ch
 uster-allrounder.ch
 uster-bauten.ch
-uster-club.ch
 uster-cranio.ch
 uster-craniosacral.ch
 uster-doc.ch
@@ -1353,7 +1352,6 @@ usterbraeu-hell.ch
 usterbraeu-original.ch
 usterbraeu.ch
 usterbraeuoriginal.ch
-usterclub.ch
 usterevent.ch
 usterevents.ch
 usterfahrschule.ch
@@ -1382,7 +1380,6 @@ ustermer-waldlauf.ch
 ustermer.ch
 ustermerbier.ch
 ustermerbraeu.ch
-ustermerclub.ch
 ustermerpost.ch
 ustermesse.ch
 usternachrichten.ch

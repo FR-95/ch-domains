@@ -1524,7 +1524,6 @@ wiege-der-schweiz.ch
 wiege.ch
 wiegederkraft.ch
 wiegederschweiz.ch
-wiegehtchatgpt.ch
 wiegehtesdir.ch
 wiegehts.ch
 wiegehtschweiz.ch
@@ -5965,6 +5964,7 @@ win-your-home.ch
 win-your-locker.ch
 win.ch
 win11.ch
+win11keys.ch
 win2003appcenter.ch
 win2008appcenter.ch
 win24.ch
@@ -7224,7 +7224,6 @@ winebroker.ch
 winebrothers.ch
 winebureau.ch
 winebus.ch
-winebusiness.ch
 winebusters.ch
 winebutler.ch
 winebyfiona.ch
@@ -7493,6 +7492,7 @@ winesellers.ch
 winesellersday.ch
 wineservant.ch
 winesfromisrael.ch
+wineshark.ch
 wineshield.ch
 wineshop.ch
 wineshop24.ch
@@ -10341,6 +10341,7 @@ wiphis-thaifood.ch
 wiphub.ch
 wipi.ch
 wipic.ch
+wipidev.ch
 wipig.ch
 wipigroupe.ch
 wipikedia.ch
@@ -13488,7 +13489,6 @@ wissembeauty.ch
 wissen-bauen.ch
 wissen-betriebsoptimierung.ch
 wissen-bilden.ch
-wissen-bs.ch
 wissen-elektromobilitaet.ch
 wissen-energie.ch
 wissen-energiebuchhaltung.ch
@@ -14060,8 +14060,10 @@ witkowski.ch
 witloft.ch
 witlox.ch
 witmarktrustco.ch
+witmer-law.ch
 witmer-partner.ch
 witmer.ch
+witmerlaw.ch
 witmeup.ch
 witneben.ch
 witness.ch

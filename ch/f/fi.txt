@@ -1456,6 +1456,7 @@ fidexauditrevision.ch
 fidexauditvevey.ch
 fidexia.ch
 fidexis.ch
+fidexone.ch
 fidexpedia.ch
 fidexpert-valais.ch
 fidexpert.ch
@@ -4475,7 +4476,6 @@ filmar.ch
 filmaramlat.ch
 filmarc.ch
 filmarchitekt.ch
-filmarchiv-leuzinger.ch
 filmarchiv.ch
 filmareal.ch
 filmart.ch
@@ -5216,6 +5216,7 @@ fils-tenseurs.ch
 fils.ch
 filsain.ch
 filsdelapensee.ch
+filsdepute.ch
 filsec.ch
 filser.ch
 filsetnoeuds.ch
@@ -6864,7 +6865,6 @@ finanzen-click.ch
 finanzen-cloud.ch
 finanzen-einmaleins.ch
 finanzen-ganz-einfach.ch
-finanzen-harmonie-wetzikon.ch
 finanzen-im-alter.ch
 finanzen-invest.ch
 finanzen-lernen.ch
@@ -7019,7 +7019,6 @@ finanzielle-fuehrung.ch
 finanzielle-hilfe-pflegende-familienmitglieder.ch
 finanzielle-hilfe-pflegende-personen.ch
 finanzielle-intelligenz.ch
-finanzielle-kompetenz.ch
 finanzielle-lebensplanung.ch
 finanzielle-pflegehilfe.ch
 finanzielle-sicherheit.ch
@@ -7028,7 +7027,6 @@ finanzielle-verwaltung.ch
 finanzielle-zukunft.ch
 finanzielle.ch
 finanziellefreiheit.ch
-finanziellekompetenz.ch
 finanziellelebensplanung.ch
 finanzielleprobleme.ch
 finanzieller-erfolg.ch
@@ -8852,6 +8850,7 @@ finestcars.ch
 finestchinoise.ch
 finestclub.ch
 finestclubs.ch
+finestco.ch
 finestcoffee.ch
 finestcruisecollection.ch
 finestcruisemoment.ch
@@ -9927,6 +9926,7 @@ finpe.ch
 finpeak.ch
 finpendo.ch
 finpension.ch
+finpensionadmin.ch
 finpenslon.ch
 finperium.ch
 finperks.ch
@@ -17632,6 +17632,8 @@ fixag.ch
 fixaid.ch
 fixalys.ch
 fixami.ch
+fixana.ch
+fixandclean.ch
 fixandflip.ch
 fixandgo.ch
 fixandhold.ch
@@ -17908,7 +17910,6 @@ fixposition.ch
 fixpreis-makler.ch
 fixpreis.ch
 fixpreismakler.ch
-fixpreisofferten.ch
 fixpreisservice.ch
 fixpreisweb.ch
 fixpro.ch
@@ -17940,6 +17941,7 @@ fixstern.ch
 fixstone.ch
 fixswissreinigung.ch
 fixt.ch
+fixtain.ch
 fixtape.ch
 fixtax.ch
 fixtaxi.ch
@@ -17977,6 +17979,7 @@ fixundpferdig.ch
 fixup.ch
 fixur.ch
 fixura.ch
+fixurabau.ch
 fixus-ortho.ch
 fixus.ch
 fixvermietung.ch

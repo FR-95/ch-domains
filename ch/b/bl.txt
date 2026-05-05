@@ -285,6 +285,7 @@ black-cat-studio.ch
 black-cat-tattoo.ch
 black-cat.ch
 black-cats.ch
+black-cherry-smoked.ch
 black-chicken.ch
 black-cloud.ch
 black-coast-art.ch
@@ -682,7 +683,6 @@ blackbyte.ch
 blackc.ch
 blackcab.ch
 blackcamp.ch
-blackcanvas.ch
 blackcanyon.ch
 blackcapital.ch
 blackcar.ch
@@ -1281,7 +1281,6 @@ blackpeak.ch
 blackpeakbrauerei.ch
 blackpeaklabs.ch
 blackpearl-advisor.ch
-blackpearl-boatrental.ch
 blackpearl-cnc.ch
 blackpearl-design.ch
 blackpearl-it.ch
@@ -1309,7 +1308,6 @@ blackphone.ch
 blackphotobox.ch
 blackpictures.ch
 blackpig.ch
-blackpigeontuning.ch
 blackpill.ch
 blackpillow.ch
 blackpine.ch
@@ -4213,7 +4211,6 @@ blendx.ch
 blendy.ch
 blendyx.ch
 blenergiepaket.ch
-blenergieswiss.ch
 blengi.ch
 blenhold.ch
 blenicar.ch
@@ -5223,7 +5220,6 @@ blissathome.ch
 blissautomobile.ch
 blissbar.ch
 blissbasel.ch
-blissbijuxx.ch
 blissbloomstudio.ch
 blissbody.ch
 blissbodyshop.ch
@@ -5405,6 +5401,7 @@ blitzbewerbung.ch
 blitzbirne.ch
 blitzblank-ablaufreinigung.ch
 blitzblank-reinigung.ch
+blitzblank-reinigungen.ch
 blitzblank-sauber.ch
 blitzblank-stojak.ch
 blitzblank-team.ch
@@ -5719,6 +5716,7 @@ blndeila.ch
 blndelia.ch
 blndella.ch
 blndr.ch
+blndtimer.ch
 blnet.ch
 blng.ch
 blnk.ch
@@ -6170,6 +6168,7 @@ blockprofi.ch
 blockproof.ch
 blockproxy.ch
 blockpumpen.ch
+blockr.ch
 blockr0x.ch
 blockrand-liegenschaften.ch
 blockrand.ch
@@ -6589,6 +6588,7 @@ blok-sarl.ch
 blok.ch
 blokbar.ch
 blokchain-advisors.ch
+blokco.ch
 blokcreators.ch
 blokdijk.ch
 bloke.ch
@@ -11653,6 +11653,7 @@ blybxung-waterfit.ch
 blybxung.ch
 blyconsulting.ch
 blyde.ch
+blyelove.ch
 blyn.ch
 blynck.ch
 blynk.ch

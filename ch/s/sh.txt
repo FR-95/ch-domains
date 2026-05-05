@@ -878,7 +878,6 @@ shamanic-dream.ch
 shamanic-energetic.ch
 shamanic-gathering.ch
 shamanic-lichtraum.ch
-shamanic-radiance.ch
 shamanic-retreat.ch
 shamanic-wisdom.ch
 shamanicart.ch
@@ -1181,6 +1180,8 @@ shaofan-zentrum.ch
 shaohai.ch
 shaolin-aargau.ch
 shaolin-achtsamkeit.ch
+shaolin-alpine.ch
+shaolin-alps.ch
 shaolin-arts.ch
 shaolin-basel.ch
 shaolin-bern.ch
@@ -1202,6 +1203,9 @@ shaolin-wahnam.ch
 shaolin-yuntai.ch
 shaolin.ch
 shaolinaargau.ch
+shaolinalpine.ch
+shaolinalpineretreat.ch
+shaolinalps.ch
 shaolinarts.ch
 shaolinbern.ch
 shaolinchanarts.ch
@@ -3382,7 +3386,6 @@ shiatsu-flow.ch
 shiatsu-flower.ch
 shiatsu-fluss.ch
 shiatsu-focus-olten.ch
-shiatsu-for-horses.ch
 shiatsu-forum.ch
 shiatsu-frau.ch
 shiatsu-frauenfeld.ch
@@ -3966,6 +3969,7 @@ shieldy.ch
 shieldyou.ch
 shif.ch
 shifa.ch
+shifafit.ch
 shifahijama.ch
 shifamed.ch
 shifamed24.ch
@@ -4008,6 +4012,7 @@ shift7.ch
 shift7nine.ch
 shiftadvisor.ch
 shiftai.ch
+shiftandgo.ch
 shiftandshine.ch
 shiftavenue.ch
 shiftbalancer.ch
@@ -5133,6 +5138,7 @@ shizzy.ch
 shj.ch
 shjloppliger.ch
 shjob.ch
+shk-agent.ch
 shk-assist.ch
 shk-boxx.ch
 shk-capital.ch
@@ -5144,6 +5150,7 @@ shk-fachshop.ch
 shk-haustechnik.ch
 shk-selektion.ch
 shk-shop.ch
+shk-telefon.ch
 shk.ch
 shk360.ch
 shkanti.ch
@@ -5582,6 +5589,7 @@ shooop.ch
 shooopy.ch
 shooos.ch
 shoop.ch
+shoopable.ch
 shoopingpage.ch
 shoopo.ch
 shoopy.ch
@@ -6124,7 +6132,6 @@ shop-solarlux.ch
 shop-soleuno.ch
 shop-solutions.ch
 shop-sonoval.ch
-shop-sos.ch
 shop-soyana.ch
 shop-sparenbeimlicht.ch
 shop-spengler.ch
@@ -7023,7 +7030,6 @@ shopping-world.ch
 shopping-zuerich.ch
 shopping.ch
 shopping24.ch
-shopping3d.ch
 shopping4.ch
 shopping4net.ch
 shopping4u.ch
@@ -8081,7 +8087,6 @@ showprofi.ch
 showprofis.ch
 showprogramm.ch
 showprogramme.ch
-showraum.ch
 showreel-schweiz.ch
 showreel.ch
 showreelfactory.ch
@@ -8649,7 +8654,6 @@ shutai.ch
 shutdown-stop.ch
 shutdown.ch
 shutdownbrain.ch
-shutlebus.ch
 shutler.ch
 shutoflex.ch
 shutteln.ch

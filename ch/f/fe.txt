@@ -899,6 +899,7 @@ feedbackintuitive.ch
 feedbackio.ch
 feedbackkalender.ch
 feedbackmanagement.ch
+feedbackmanager.ch
 feedbackme.ch
 feedbackmonster.ch
 feedbackmusic.ch
@@ -1618,6 +1619,7 @@ feg-ilanz.ch
 feg-jugend.ch
 feg-kinder.ch
 feg-kloten.ch
+feg-koeniz.ch
 feg-kriens.ch
 feg-landquart.ch
 feg-langenthal.ch
@@ -2508,6 +2510,7 @@ feinwerkoptiker.ch
 feinwerkoptikerin.ch
 feinwerktechnik.ch
 feinwerkundco.ch
+feinwild.ch
 feinzart.ch
 feinzeit.ch
 feinzelstueck.ch
@@ -3078,7 +3081,6 @@ feldlabor.ch
 feldlaw.ch
 feldlesen.ch
 feldli-league.ch
-feldli.ch
 feldlischwyz.ch
 feldm.ch
 feldma.ch
@@ -3110,6 +3112,7 @@ feldmann-online.ch
 feldmann-property.ch
 feldmann-rechtsanwaelte.ch
 feldmann-savoy-avocats.ch
+feldmann-schleiftechnik.ch
 feldmann-treuhand.ch
 feldmann-vital.ch
 feldmann-wohnen.ch
@@ -3607,7 +3610,6 @@ felipa.ch
 felipe-felop.ch
 felipe-ortiz.ch
 felipe.ch
-felipedelgadolopez.ch
 felipedia.ch
 felipeortiz-patino.ch
 felipeortiz.ch
@@ -3787,6 +3789,7 @@ felixaschwanden.ch
 felixathletix.ch
 felixb.ch
 felixbaechli.ch
+felixbaertschi.ch
 felixbaltensperger.ch
 felixbau.ch
 felixbauer.ch
@@ -5903,6 +5906,7 @@ fenster-umbauen.ch
 fenster-unterhalt.ch
 fenster-vallaster.ch
 fenster-veka.ch
+fenster-vergleich.ch
 fenster-vergleichsangebote.ch
 fenster-versand.ch
 fenster-wartung.ch
@@ -6072,7 +6076,6 @@ fenstergutachten.ch
 fensterhandel.ch
 fensterhandwerk.ch
 fensterhaus.ch
-fensterheizung.ch
 fensterheld.ch
 fensterhersteller.ch
 fensterherstellung.ch
@@ -9349,6 +9352,7 @@ fernandes-websolutions.ch
 fernandes.ch
 fernandesconsulting.ch
 fernandescosta.ch
+fernandesfit.ch
 fernandesfugen.ch
 fernandesreinigung.ch
 fernandez-biesa.ch
@@ -9824,6 +9828,7 @@ ferra-distributions.ch
 ferra-raw.ch
 ferra.ch
 ferracin.ch
+ferracinandpartners.ch
 ferracini.ch
 ferracoustic.ch
 ferracru.ch
@@ -11413,6 +11418,7 @@ festmodeschweiz.ch
 festmomente.ch
 festmusik.ch
 festmusiker.ch
+festnahme.ch
 festnetz-handy.ch
 festnetz-konferenz.ch
 festnetz-vergleich.ch

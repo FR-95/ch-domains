@@ -760,6 +760,7 @@ pacesociety.ch
 pacestore.ch
 pacetende.ch
 paceup.ch
+paceville.ch
 paceyard.ch
 pacglobal.ch
 pach.ch
@@ -808,6 +809,7 @@ pacher.ch
 pachera.ch
 pachere.ch
 paches.ch
+pachewebdesign.ch
 pachi.ch
 pachific-design.ch
 pachific-sent.ch
@@ -2013,6 +2015,7 @@ padelsports.ch
 padelsportsclub.ch
 padelspot.ch
 padelsquat.ch
+padelstage.ch
 padelstar.ch
 padelstars.ch
 padelstation.ch
@@ -3293,6 +3296,7 @@ paintherapymassages.ch
 painthorse.ch
 painthouse.ch
 painticino.ch
+painting-room.ch
 painting.ch
 paintingaero.ch
 paintingarchive.ch
@@ -7559,6 +7563,7 @@ panurge.ch
 panvega.ch
 panventures.ch
 panvica.ch
+panvionsolutions.ch
 panx.ch
 panxhof.ch
 pany-ferien.ch
@@ -7601,7 +7606,6 @@ panzerglas.ch
 panzerglas24.ch
 panzerglasfolie.ch
 panzerglass.ch
-panzergrenadier.ch
 panzergrill.ch
 panzerhaus.ch
 panzerherzcoaching.ch
@@ -7819,6 +7823,7 @@ paom.ch
 paoma.ch
 paomaparis.ch
 paomarkus-forever-you-and-i.ch
+paomotion.ch
 paon.ch
 paoncafe.ch
 paone.ch
@@ -9109,7 +9114,6 @@ papstbesuch.ch
 papstfranziskusfilm.ch
 papsthuet.ch
 papsticks.ch
-papstleoxiv.ch
 paptik.ch
 papu.ch
 papua.ch
@@ -9466,7 +9470,6 @@ paradermology.ch
 paradex.ch
 paradeyes.ch
 paradeyez.ch
-paradice-biel-bienne.ch
 paradice-biel.ch
 paradice-bienne.ch
 paradice.ch
@@ -10325,7 +10328,6 @@ parascal.ch
 parascan.ch
 paraschidis.ch
 paraschool.ch
-paraschweiz.ch
 parascolaire.ch
 parascolairelesquare.ch
 parase-group.ch
@@ -11143,6 +11145,7 @@ parfaitholiday.ch
 parfaitte.ch
 parfanet.ch
 parfanna-torkel.ch
+parfemo.ch
 parfen.ch
 parfeng.ch
 parfenov.ch
@@ -11859,7 +11862,6 @@ parkdeck.ch
 parkdellen.ch
 parkdepot.ch
 parkdienst.ch
-parkdisplay.ch
 parkdoc.ch
 parkdrogerie.ch
 parke-billiger.ch
@@ -12855,7 +12857,6 @@ parkplatz-zuerich.ch
 parkplatz.ch
 parkplatz24.ch
 parkplatzamflughafen.ch
-parkplatzanzeige.ch
 parkplatzbeschilderung.ch
 parkplatzbesuch.ch
 parkplatzbewirtschaftung.ch
@@ -12994,7 +12995,6 @@ parksideklinik.ch
 parksidemusic.ch
 parksideschlieren.ch
 parksideschool.ch
-parksign.ch
 parksimgruenen.ch
 parksleep.ch
 parksmart-ch.ch
@@ -15286,7 +15286,6 @@ partyline.ch
 partylite-staging.ch
 partylite.ch
 partylitegifts.ch
-partylive.ch
 partylocation.ch
 partylocations.ch
 partyloewe.ch
@@ -17038,7 +17037,6 @@ passatempo.ch
 passath.ch
 passati.ch
 passation.ch
-passationjcis2024.ch
 passatore.ch
 passauf.ch
 passavant-beratung.ch
@@ -19551,6 +19549,7 @@ patientinnenmaterialien.ch
 patientintheloop.ch
 patientjourney.ch
 patientjourneyapp.ch
+patientlab.ch
 patientlycleaned.ch
 patientmaterial.ch
 patientmaterials.ch
@@ -23112,6 +23111,7 @@ pavoniag.ch
 pavonine.ch
 pavonis.ch
 pavono.ch
+pavor.ch
 pavoscrol.ch
 pavot.ch
 pavowa.ch
@@ -23301,6 +23301,7 @@ pawnstore.ch
 pawo.ch
 pawofdogs.ch
 pawonderful.ch
+pawor.ch
 pawora.ch
 paworld.ch
 pawpalace.ch
@@ -23409,6 +23410,7 @@ pawtography.ch
 pawtopia.ch
 pawtrait.ch
 pawtree.ch
+pawtrim.ch
 pawty.ch
 pawverse.ch
 pawvibe.ch
@@ -24196,8 +24198,10 @@ pays.ch
 paysabois.ch
 paysafe-cash.ch
 paysafe.ch
+paysafecard-casino.ch
 paysafecard-casinos.ch
 paysafecard.ch
+paysafecardcasino.ch
 paysafecardcasinoschweiz.ch
 paysafecardplaychweiz.ch
 paysafecardswitzerland.ch

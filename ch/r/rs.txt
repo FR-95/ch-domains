@@ -70,6 +70,7 @@ rs-development.ch
 rs-dgtl.ch
 rs-diamants.ch
 rs-dienstleistungen.ch
+rs-drive.ch
 rs-e.ch
 rs-educa.ch
 rs-edv.ch
@@ -857,6 +858,7 @@ rspa.ch
 rspag.ch
 rspartner.ch
 rsparts.ch
+rspaysagiste.ch
 rspc.ch
 rspd.ch
 rspeinture.ch
@@ -1087,6 +1089,7 @@ rsv-schweiz.ch
 rsv-see-gaster.ch
 rsv-sh.ch
 rsv-stgallen.ch
+rsv-therapiezentrum.ch
 rsv-toggenburg.ch
 rsv.ch
 rsva.ch

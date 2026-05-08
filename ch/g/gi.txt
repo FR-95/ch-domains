@@ -1,5 +1,6 @@
 gi-a.ch
 gi-ag.ch
+gi-ant.ch
 gi-basel.ch
 gi-boissons-rafraichissantes.ch
 gi-c.ch
@@ -1903,7 +1904,6 @@ gigi-bau.ch
 gigi-clozeau.ch
 gigi-eatery.ch
 gigi-global.ch
-gigi-lulu.ch
 gigi-on.ch
 gigi-pizzamobil.ch
 gigi-store.ch
@@ -3772,6 +3772,7 @@ giorgioavanti.ch
 giorgiobasso.ch
 giorgiobellucci.ch
 giorgiocantaffa.ch
+giorgiocarrara.ch
 giorgiocollia.ch
 giorgiodeianafoundation.ch
 giorgiofavaccio.ch
@@ -5273,7 +5274,6 @@ giseipartner.ch
 gisel.ch
 gisela-andres.ch
 gisela-bruggisser.ch
-gisela-fussreflexologie.ch
 gisela-heim.ch
 gisela-horat.ch
 gisela-hutter.ch
@@ -6034,6 +6034,7 @@ giuliakidzday.ch
 giuliakosmetik.ch
 giulialanghi.ch
 giulialuca.ch
+giuliamaiorano.ch
 giuliamalacrida.ch
 giuliamara.ch
 giuliamarthaler.ch

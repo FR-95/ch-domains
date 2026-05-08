@@ -686,7 +686,6 @@ shakesbiergarten.ch
 shakeshack.ch
 shakeshake.ch
 shakeshakemilkshake.ch
-shakespeare-basel.ch
 shakespeare.ch
 shakespeareaucinema.ch
 shakespeareonscreen.ch
@@ -1518,6 +1517,7 @@ shareacoca-cola.ch
 shareacocacola.ch
 shareacoke.ch
 shareacontainer.ch
+shareacookie.ch
 shareadog.ch
 shareaflat.ch
 shareameal.ch
@@ -3243,7 +3243,6 @@ shhhoo.ch
 shhochzwei.ch
 shhr.ch
 shhv.ch
-shi-atsu.ch
 shi-ba-shi.ch
 shi-com.ch
 shi-comp.ch
@@ -6399,6 +6398,7 @@ shopbetter.ch
 shopbetterbodies.ch
 shopbio.ch
 shopbiolife.ch
+shopbiomed.ch
 shopbiosil.ch
 shopblog.ch
 shopbon.ch
@@ -8190,6 +8190,7 @@ shp-marketing.ch
 shp-moutier.ch
 shp-potential.ch
 shp-primaflex.ch
+shp-properties.ch
 shp-springer.ch
 shp-t.ch
 shp.ch

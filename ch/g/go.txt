@@ -671,7 +671,6 @@ go4start24.ch
 go4success.ch
 go4summits.ch
 go4support.ch
-go4t-lausanne.ch
 go4t.ch
 go4tacos-baar.ch
 go4tacos.ch
@@ -1215,7 +1214,6 @@ gochtbistro.ch
 gochty.ch
 gochuchung.ch
 gochur.ch
-gocircular.ch
 gockel.ch
 gockenba.ch
 gockhausen.ch
@@ -2933,6 +2931,7 @@ goldankauf-info.ch
 goldankauf-liestal.ch
 goldankauf-luzern.ch
 goldankauf-marcello.ch
+goldankauf-moric.ch
 goldankauf-online.ch
 goldankauf-pro24.ch
 goldankauf-schaffhausen.ch
@@ -3363,7 +3362,6 @@ golden-fix.ch
 golden-flow.ch
 golden-food.ch
 golden-fragrance.ch
-golden-future.ch
 golden-game.ch
 golden-games.ch
 golden-gate.ch
@@ -4646,6 +4644,7 @@ goldmannholding.ch
 goldmanninvest.ch
 goldmannmiriam.ch
 goldmannpr.ch
+goldmannswiss.ch
 goldmansachs.ch
 goldmansachsbank.ch
 goldmansachsbankag.ch
@@ -9624,6 +9623,7 @@ gosteli-foundation.ch
 gosteli-stiftung.ch
 gosteli-treuhand.ch
 gosteli.ch
+gosteliag.ch
 gosteliarchiv.ch
 gostelifoundation.ch
 gostelis.ch
@@ -10274,6 +10274,7 @@ gottkennenlernen.ch
 gottlander.ch
 gottlebe.ch
 gottlieb-duttweiler.ch
+gottlieb-heart-coaching.ch
 gottlieb-kratzer.ch
 gottlieb-mueller.ch
 gottlieb-verlag.ch
@@ -10747,7 +10748,6 @@ gourmetlokale.ch
 gourmetlounge.ch
 gourmetmagazin.ch
 gourmetmalin.ch
-gourmetmania.ch
 gourmetmarathon.ch
 gourmetmarketing.ch
 gourmetmedia.ch

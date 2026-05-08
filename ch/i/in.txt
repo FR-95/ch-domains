@@ -2232,32 +2232,26 @@ indexaddictions.ch
 indexag.ch
 indexai.ch
 indexalarm.ch
-indexandinfluence.ch
 indexarchitectes.ch
 indexation.ch
-indexcapital.ch
 indexcaution.ch
 indexcoin.ch
 indexcompare.ch
 indexcontrol.ch
 indexdipendenze.ch
 indexes.ch
-indexestate.ch
 indexfond.ch
 indexfonds.ch
 indexfondsberater.ch
 indexfund.ch
 indexfunds.ch
 indexgeneva.ch
-indexglobal.ch
-indexgroup.ch
 indexholding.ch
 indexia.ch
 indexieren.ch
 indexierung.ch
 indexierungen.ch
 indexinvest.ch
-indexinvestments.ch
 indexinvestor-vfo.ch
 indexinvestor.ch
 indexinvestors.ch
@@ -10086,6 +10080,7 @@ initiarive.ch
 initiaspa.ch
 initiate.ch
 initiatic.ch
+initiation-curling-morges.ch
 initiation-horlogere.ch
 initiation-motocross.ch
 initiation-reiki.ch
@@ -11635,7 +11630,6 @@ innari.ch
 innarose.ch
 innasci.ch
 innaspire.ch
-innasribna.ch
 innate.ch
 innateswiss.ch
 innatewellness.ch
@@ -12112,6 +12106,7 @@ innerekarriere.ch
 innerekraft.ch
 innerekrafthuttwil.ch
 innerelf.ch
+innerelogik.ch
 inneremedizin-stadt-zuerich.ch
 inneremedizin-zuerich.ch
 inneremedizin.ch
@@ -15236,7 +15231,6 @@ insaat.ch
 insac.ch
 insachenlicht.ch
 insaconsulting.ch
-insact.ch
 insad.ch
 insadvisory.ch
 insaf.ch
@@ -16403,6 +16397,7 @@ insiemo.ch
 insife.ch
 insifr.ch
 insify.ch
+insig.ch
 insighlis.ch
 insight-ai.ch
 insight-art.ch
@@ -18894,7 +18889,6 @@ insuranceai.ch
 insuranceandproperty.ch
 insurancebanc.ch
 insurancebear.ch
-insurancebot.ch
 insurancebroker.ch
 insurancebrokers.ch
 insurancecard.ch
@@ -19004,7 +18998,6 @@ insurease.ch
 insureasy.ch
 insurecheck.ch
 insurecom.ch
-insureconnect.ch
 insured.ch
 insurefin.ch
 insurekey.ch
@@ -20127,6 +20120,7 @@ intelligent-data-mirror.ch
 intelligent-defense.ch
 intelligent-designs.ch
 intelligent-document-processing.ch
+intelligent-experiences.ch
 intelligent-fitness.ch
 intelligent-health.ch
 intelligent-interface.ch
@@ -24667,6 +24661,7 @@ intragesa.ch
 intragna.ch
 intragram.ch
 intrahall.ch
+intrahomelab.ch
 intrahub.ch
 intrahug.ch
 intrail.ch
@@ -26466,6 +26461,7 @@ invictus-lead-generation.ch
 invictus-physio.ch
 invictus-staff.ch
 invictus-studio.ch
+invictus-suisse.ch
 invictus-training.ch
 invictus.ch
 invictus7.ch

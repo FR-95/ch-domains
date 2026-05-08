@@ -300,7 +300,6 @@ dr-group.ch
 dr-gruber-studio.ch
 dr-gruen-tom.ch
 dr-gruenenfelder.ch
-dr-gruentzigundco.ch
 dr-gruica.ch
 dr-grunder.ch
 dr-gschaffig.ch
@@ -826,7 +825,6 @@ dr-straden.ch
 dr-stupar.ch
 dr-summermatter.ch
 dr-sun.ch
-dr-sylvie-staner.ch
 dr-tan.ch
 dr-tanneberger.ch
 dr-tanner.ch
@@ -2440,7 +2438,6 @@ dream-sleep.ch
 dream-smile.ch
 dream-solution.ch
 dream-space.ch
-dream-star.ch
 dream-stars.ch
 dream-store.ch
 dream-strip.ch
@@ -2586,6 +2583,7 @@ dreamcleaning.ch
 dreamclick.ch
 dreamclose.ch
 dreamcloud.ch
+dreamcoa.ch
 dreamcode.ch
 dreamcodes.ch
 dreamcollection.ch
@@ -4458,7 +4456,6 @@ drgrohmann.ch
 drgrossaffoltern.ch
 drgroup.ch
 drgrueninger.ch
-drgruentzigundco.ch
 drgruner.ch
 drgs-expert.ch
 drgs-experts.ch
@@ -4692,7 +4689,6 @@ driftwood-magic-art.ch
 driftwood-photography.ch
 driftwood.ch
 driftwooddesign.ch
-driftwoodfoundation.ch
 driftwoodstudio.ch
 driftwoodverlag.ch
 driftzone.ch
@@ -7553,7 +7549,6 @@ dronerescue.ch
 droneriviera.ch
 dronersclub.ch
 drones-civils.ch
-drones-of-switzerland.ch
 drones-regulation.ch
 drones-suisse.ch
 drones.ch
@@ -9275,7 +9270,6 @@ drukpasuisse.ch
 drukpazentrum.ch
 drukster.ch
 drulrichriedelconsulting.ch
-drum-accessories.ch
 drum-circle.ch
 drum-control.ch
 drum-dran.ch
@@ -9413,7 +9407,6 @@ drunar.ch
 drunderdrueber.ch
 drunemetons-great-danes.ch
 drungerunddrueber.ch
-drunk.ch
 drunkart.ch
 drunkbeard.ch
 drunkcatbrewery.ch

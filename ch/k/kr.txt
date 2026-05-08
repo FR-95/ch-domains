@@ -20,6 +20,7 @@ kr-inkasso.ch
 kr-law.ch
 kr-locationloisir.ch
 kr-management.ch
+kr-massagemedical.ch
 kr-montagen.ch
 kr-motorsports.ch
 kr-news.ch
@@ -736,7 +737,6 @@ kraftquelle-koerper.ch
 kraftquelle-lebenshof.ch
 kraftquelle-mama.ch
 kraftquelle-natur-art.ch
-kraftquelle-praxis.ch
 kraftquelle-sinulay.ch
 kraftquelle-trainings.ch
 kraftquelle.ch
@@ -1601,6 +1601,7 @@ krankenkassenpraemien-vergleich.ch
 krankenkassenpraemien.ch
 krankenkassenpraemienvergleich.ch
 krankenkassenpreisvergleich.ch
+krankenkassenratgeber.ch
 krankenkassenrating.ch
 krankenkassenrechner.ch
 krankenkassenschweiz.ch
@@ -1700,6 +1701,8 @@ krankenkassevoting.ch
 krankenkassewechsel.ch
 krankenkassewechseln-online.ch
 krankenkassewechseln.ch
+krankenkassewechseln2026.ch
+krankenkassewechseln2027.ch
 krankenkassezentrum.ch
 krankenkassezusatz.ch
 krankenkversicherungs-umfrage.ch
@@ -3300,7 +3303,6 @@ kreativmgstudio.ch
 kreativmichel.ch
 kreativmitfreude.ch
 kreativmithaerz.ch
-kreativmitherz-vonmirfuermich.ch
 kreativmitherz.ch
 kreativmitherzmb.ch
 kreativmitholz.ch
@@ -4198,6 +4200,7 @@ kreindl.ch
 kreiner.ch
 kreis-0.ch
 kreis-1.ch
+kreis-2.ch
 kreis-5.ch
 kreis-7.ch
 kreis-acht.ch

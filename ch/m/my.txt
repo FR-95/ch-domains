@@ -515,6 +515,8 @@ my-e-drive.ch
 my-e-health.ch
 my-e-office.ch
 my-ea.ch
+my-early-retirement-plan.ch
+my-early-retirement.ch
 my-easy-order.ch
 my-easylife.ch
 my-eat.ch
@@ -4034,6 +4036,7 @@ mycoradar.ch
 mycorama.ch
 mycorbettamontaggi.ch
 mycordonbleu.ch
+mycore.ch
 mycoreport.ch
 mycorganica.ch
 mycorhize.ch
@@ -4722,6 +4725,8 @@ myeadeo.ch
 myean.ch
 myear.ch
 myearforyou.ch
+myearlyretirement.ch
+myearlyretirementplan.ch
 myearth.ch
 myearthie.ch
 myease.ch
@@ -5043,7 +5048,6 @@ myexpo-martigny.ch
 myexpo.ch
 myexpomartigny.ch
 myexport.ch
-myexpress.ch
 myextensions.ch
 myextra.ch
 myextranet.ch
@@ -5308,7 +5312,6 @@ myflair-lounge.ch
 myflair.ch
 myflamingo.ch
 myflare.ch
-myflash.ch
 myflashcards.ch
 myflat.ch
 myflatmate.ch
@@ -6349,6 +6352,7 @@ myhouz.ch
 myhouzy.ch
 myhp.ch
 myhpa.ch
+myhq.ch
 myhr.ch
 myhrdocs.ch
 myhre.ch
@@ -6775,7 +6779,6 @@ mykieu.ch
 mykilcher.ch
 mykim.ch
 mykimple.ch
-mykind.ch
 mykinderart.ch
 mykinderwuns.ch
 mykine.ch
@@ -7054,12 +7057,14 @@ mylayout.ch
 mylbb.ch
 mylbudget.ch
 myld.ch
+myldntracker.ch
 myle-bern.ch
 myle-restaurant.ch
 myle.ch
 mylea.ch
 myleacleaning.ch
 myleaco.ch
+mylead.ch
 myleaders.ch
 myleadership.ch
 myleadershipcircle.ch
@@ -7879,7 +7884,6 @@ mymoments-lifestyle.ch
 mymoments.ch
 mymomo.ch
 mymonat.ch
-mymondo.ch
 mymoney-app.ch
 mymoney.ch
 mymoneyapp.ch
@@ -8665,7 +8669,6 @@ mypanasonic.ch
 mypancreas.ch
 mypanda.ch
 mypandore.ch
-mypanel.ch
 mypanorama.ch
 mypaolovanetta.ch
 mypaperbag.ch
@@ -8691,7 +8694,6 @@ myparking.ch
 myparkingspace.ch
 myparkinson.ch
 myparkplatz.ch
-myparksign.ch
 myparkspot.ch
 myparl.ch
 myparpan.ch
@@ -9358,7 +9360,6 @@ myqualishop.ch
 myquality1.ch
 myqualitycare.ch
 myqualityone.ch
-myqueen.ch
 myquickie.ch
 myquickline.ch
 myquickmail.ch
@@ -9580,6 +9581,7 @@ myrewiews.ch
 myrgcc.ch
 myrgpd.ch
 myrh.ch
+myrhcreative.ch
 myrheinfelden.ch
 myrheintal.ch
 myri-made.ch
@@ -10891,6 +10893,7 @@ mysticnailsswitzerland.ch
 mysticnepal.ch
 mysticnudes.ch
 mystico.ch
+mysticoase.ch
 mysticpaws.ch
 mysticpizza.ch
 mysticroom.ch

@@ -224,6 +224,7 @@ zubo-ag.ch
 zubo-metallbau.ch
 zubo.ch
 zuboag.ch
+zubonyai.ch
 zubova.ch
 zubra2024.ch
 zubrewicz.ch
@@ -246,7 +247,6 @@ zucca.ch
 zuccarella.ch
 zuccarello.ch
 zuccari.ch
-zuccatoenergia.ch
 zuccero-der-lagottoromagnolo.ch
 zuccero.ch
 zucchenostrane.ch
@@ -400,6 +400,7 @@ zuckerkrankheit.ch
 zuckerkuchen.ch
 zuckerkunst-haas.ch
 zuckerkunst.ch
+zuckerkurs.ch
 zuckerkuss-baeckerei.ch
 zuckerkuss.ch
 zuckerkussbaeckerei.ch
@@ -4216,7 +4217,6 @@ zuhause-umsorgt.ch
 zuhause.ch
 zuhause24.ch
 zuhause3.ch
-zuhause3a.ch
 zuhauseag.ch
 zuhausealtern.ch
 zuhausealtwerden.ch
@@ -6803,6 +6803,7 @@ zurich1.ch
 zurich10k.ch
 zurich10km.ch
 zurich2.ch
+zurich2017.ch
 zurich2026.ch
 zurich21k.ch
 zurich21km.ch

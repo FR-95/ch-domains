@@ -1231,7 +1231,6 @@ diamance.ch
 diamant-abrichtwerkzeuge.ch
 diamant-blading-bern.ch
 diamant-blading-by-li.ch
-diamant-bohr.ch
 diamant-cloud.ch
 diamant-collier.ch
 diamant-dentalwerkzeuge.ch
@@ -1292,6 +1291,7 @@ diamantala.ch
 diamantapartment.ch
 diamantaquarien.ch
 diamantautoaufbereitung.ch
+diamantbeauty.ch
 diamantbestattung.ch
 diamantblading.ch
 diamantbladingbern.ch
@@ -5687,7 +5687,6 @@ diebestewohnform.ch
 diebestezeitungderschweiz.ch
 diebetonmacher.ch
 diebetormtoeibeler.ch
-diebetriebseinrichter.ch
 diebettenfachleute.ch
 diebettenmacher.ch
 diebeweger.ch
@@ -11006,7 +11005,6 @@ digit-live.ch
 digit-liveonstage.ch
 digit-ortho.ch
 digit-power.ch
-digit-sales.ch
 digit-service.ch
 digit-web.ch
 digit360.ch
@@ -11552,7 +11550,6 @@ digital-liberale-allianz.ch
 digital-library.ch
 digital-life-assistant.ch
 digital-life-hack.ch
-digital-life-network.ch
 digital-life.ch
 digital-lifestyle.ch
 digital-light.ch
@@ -12292,6 +12289,7 @@ digitalboard.ch
 digitalboardacademy.ch
 digitalboathouse.ch
 digitalbodyguard.ch
+digitalbond.ch
 digitalbooker.ch
 digitalbookingapp.ch
 digitalbooks.ch
@@ -12651,6 +12649,7 @@ digitale-arena.ch
 digitale-arztpraxis.ch
 digitale-assessment-center.ch
 digitale-assessment.ch
+digitale-assistenten.ch
 digitale-assistive-technologie.ch
 digitale-assistive-technologien.ch
 digitale-balance.ch
@@ -13009,6 +13008,7 @@ digitalepsychologie.ch
 digitalequality.ch
 digitalequestrians.ch
 digitalequipment.ch
+digitalequity.ch
 digitaler-abu.ch
 digitaler-adventskalender.ch
 digitaler-anwalt.ch
@@ -13434,6 +13434,7 @@ digitalfrontier.ch
 digitalfruits.ch
 digitalfs.ch
 digitalfun.ch
+digitalfund.ch
 digitalfundraising.ch
 digitalfunk-daferner.ch
 digitalfunk.ch
@@ -15552,8 +15553,6 @@ dilesca-nettoyage.ch
 dileta.ch
 diletta.ch
 dilettante-gin.ch
-dilettante.ch
-dilettanteclub.ch
 dilettanti.ch
 diletti.ch
 dilettunten.ch
@@ -15844,6 +15843,7 @@ dimarinoconsulting.ch
 dimarinohomme.ch
 dimario.ch
 dimark.ch
+dimart.ch
 dimartino.ch
 dimarzio.ch
 dimarzo.ch
@@ -16189,7 +16189,6 @@ dimpdoc.ch
 dimpel.ch
 dimpl.ch
 dimple.ch
-dimples.ch
 dimplex.ch
 dimpora.ch
 dimpro.ch
@@ -18939,6 +18938,7 @@ disciplesofjesus.ch
 disciplina.ch
 discipline.ch
 disciplinepositive.ch
+discipul.ch
 discipulat.ch
 discit.ch
 discjockey.ch
@@ -19907,8 +19907,13 @@ dispatt.ch
 dispelyourtattoo.ch
 dispensa.ch
 dispensairedesrues.ch
+dispensairegeneve.ch
 dispensaireosteo.ch
+dispensairesuisse.ch
 dispensariopolmonare.ch
+dispensariumbern.ch
+dispensariumschweiz.ch
+dispensariumzurich.ch
 dispensary.ch
 dispensaticinese.ch
 dispensermatic.ch
@@ -20085,6 +20090,7 @@ disporaum-mieten.ch
 disporaum.ch
 disporaummieten.ch
 disporeon.ch
+dispos.ch
 disposa.ch
 disposable.ch
 disposablediscounter.ch
@@ -20230,6 +20236,7 @@ dissgo.ch
 dissident.ch
 dissidents.ch
 dissler.ch
+dissolutionaccessories.ch
 dissolvere.ch
 dissonance.ch
 dissonantnarratives.ch
@@ -21191,6 +21198,7 @@ diverdesign.ch
 diverdi.ch
 diverdin.ch
 diverfamily.ch
+divergence.ch
 divergences-n.ch
 divergent.ch
 divergenta.ch
@@ -22132,6 +22140,7 @@ dizievents.ch
 dizifilm.ch
 dizign.ch
 dizigroup.ch
+dizimaus.ch
 dizio.ch
 dizioli.ch
 dizionariodellamusica.ch

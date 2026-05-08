@@ -396,10 +396,12 @@ hms-club.ch
 hms-connect.ch
 hms-demo.ch
 hms-edelstahl.ch
+hms-email.ch
 hms-eventtechnik.ch
 hms-facility.ch
 hms-fitness.ch
 hms-gmbh.ch
+hms-kontakt.ch
 hms-licences.ch
 hms-media.ch
 hms-networks.ch
@@ -418,6 +420,7 @@ hmsbmail.ch
 hmschenk.ch
 hmschwanden.ch
 hmschweiz.ch
+hmsconnect.ch
 hmservice.ch
 hmservices.ch
 hmsfilms.ch

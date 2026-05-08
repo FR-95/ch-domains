@@ -1273,6 +1273,7 @@ thangkas.ch
 thangnguyen.ch
 thangorodrim.ch
 thanh.ch
+thanhphan.ch
 thanhthanh.ch
 thanhvan.ch
 thanima.ch
@@ -1661,11 +1662,13 @@ thcproducteur.ch
 thcproducteurs.ch
 thcprodukte.ch
 thcranio.ch
+thcschweiz.ch
 thcseeds.ch
 thcshop.ch
 thcshopbern.ch
 thcshops.ch
 thcstore.ch
+thcsuisse.ch
 thctest.ch
 thcvalais.ch
 thcvapeschweiz.ch
@@ -1749,7 +1752,6 @@ the-artlab.ch
 the-artofconnection.ch
 the-arts.ch
 the-ash-codex.ch
-the-assistant.ch
 the-attic.ch
 the-aura-clinic.ch
 the-aura.ch
@@ -2321,6 +2323,7 @@ the-hairlab.ch
 the-hall.ch
 the-hams.ch
 the-handman.ch
+the-handyman.ch
 the-happy-nest.ch
 the-harbour.ch
 the-hartmann.ch
@@ -7437,7 +7440,6 @@ thegrain.ch
 thegrainygaze.ch
 thegrandbarn.ch
 thegrandbudapesthotel.ch
-thegrandgarden.ch
 thegrandgreen.ch
 thegrandhuntcircle.ch
 thegrandivy.ch
@@ -7612,6 +7614,7 @@ thegunstore.ch
 theguruqueen.ch
 thegustibus.ch
 thegustum.ch
+thegutclub.ch
 theguts.ch
 theguy.ch
 theguyfordesign.ch
@@ -7663,6 +7666,7 @@ thehandclinic.ch
 thehandcommunity.ch
 thehandmadestore.ch
 thehandpancompany.ch
+thehandyman.ch
 thehans.ch
 thehappening.ch
 thehappinessambassador.ch
@@ -8165,6 +8169,7 @@ theinnercall.ch
 theinnercalling.ch
 theinnercircle.ch
 theinnercommons.ch
+theinnerdeal.ch
 theinnerdiamond.ch
 theinnerlead.ch
 theinnerlimit.ch
@@ -8451,6 +8456,7 @@ theknight-consulting.ch
 theknightofjusticeandequitifyinthearmyofgod.ch
 theknightrider.ch
 theknitgeekproject.ch
+theknitstructor.ch
 theknow.ch
 theknowledgeacademy.ch
 theknox.ch
@@ -8889,6 +8895,7 @@ theluckytofu.ch
 theludwig.ch
 theluggagelounge.ch
 theluisguy.ch
+thelumikids.ch
 thelunamethod.ch
 thelunarflow.ch
 thelunchbox.ch
@@ -10493,6 +10500,7 @@ theplaycompany.ch
 theplayersagent.ch
 theplayertour.ch
 theplaygroundproject.ch
+theplayhouse.ch
 theplayingguys007.ch
 theplayroom.ch
 theplaza.ch
@@ -10527,6 +10535,7 @@ thepoolhouse.ch
 thepoolhouseofficial.ch
 thepoolschool.ch
 thepoool.ch
+thepoopooclub.ch
 thepoorswiss.ch
 thepop.ch
 thepopcorn.ch
@@ -11875,6 +11884,7 @@ therapiezentrum-lindenhof.ch
 therapiezentrum-meggen.ch
 therapiezentrum-meiringen.ch
 therapiezentrum-neuwiesenhof.ch
+therapiezentrum-nw.ch
 therapiezentrum-oftringen.ch
 therapiezentrum-ostermundigen.ch
 therapiezentrum-paradeplatz.ch
@@ -13715,6 +13725,7 @@ thespace-zurich.ch
 thespace.ch
 thespacebar.ch
 thespacebetween.ch
+thespacegroup.ch
 thespaceinside.ch
 thespacelab.ch
 thespacestudio.ch
@@ -14889,6 +14900,7 @@ thewedding2020.ch
 theweddingatelier.ch
 theweddingcake.ch
 theweddingcarhirepeople.ch
+theweddingcompany.ch
 theweddingcrasher.ch
 theweddingcrew.ch
 theweddingday.ch
@@ -19409,6 +19421,7 @@ thunderbird-gva.ch
 thunderbird-rock.ch
 thunderbird.ch
 thunderbird1959.ch
+thunderbirdleadership.ch
 thunderbirds.ch
 thunderblade.ch
 thunderbluff.ch

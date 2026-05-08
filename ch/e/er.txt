@@ -360,7 +360,6 @@ erbbescheinigung.ch
 erbbistro.ch
 erbcheck-netnotar.ch
 erbcheck.ch
-erbcoach.ch
 erbcoaching.ch
 erbcommunication.ch
 erbcorinnegerber.ch
@@ -1769,7 +1768,6 @@ erfolgsentscheid.ch
 erfolgsentwicklung.ch
 erfolgsexperte.ch
 erfolgsexpress.ch
-erfolgsfabrik-steffen.ch
 erfolgsfabrik.ch
 erfolgsfaktor.ch
 erfolgsfaktoren.ch
@@ -2458,6 +2456,7 @@ ergomorandi.ch
 ergomorges.ch
 ergomotion-sg.ch
 ergomotion.ch
+ergomotionticino.ch
 ergomoudon.ch
 ergomove.ch
 ergomoves.ch

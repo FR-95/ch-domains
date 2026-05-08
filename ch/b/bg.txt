@@ -191,7 +191,6 @@ bg3000.ch
 bg4m.ch
 bg54.ch
 bg60.ch
-bg7.ch
 bg8-shop.ch
 bg8.ch
 bg9.ch

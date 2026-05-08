@@ -170,8 +170,12 @@ axa-wintethur.ch
 axa-wintherthur.ch
 axa-winthertur.ch
 axa-wintrthur.ch
+axa-women-cup.ch
+axa-womencup.ch
 axa-womens-cup-final.ch
+axa-womens-cup.ch
 axa-womens-super-league.ch
+axa-womenscup.ch
 axa-world.ch
 axa-xl.ch
 axa.ch
@@ -374,6 +378,9 @@ axawinterthur.ch
 axawintertur.ch
 axawintherthur.ch
 axawinthertur.ch
+axawomen-cup.ch
+axawomencup.ch
+axawomens-cup.ch
 axawomenscup.ch
 axawomenscupfinal.ch
 axawomenssuperleague.ch
@@ -611,6 +618,7 @@ axenia.ch
 axenightlife.ch
 axenion.ch
 axenita.ch
+axenium.ch
 axenius.ch
 axeno-elektrokontrollen-zuerich.ch
 axeno-elektrokontrollen.ch
@@ -940,6 +948,7 @@ axiomsignature.ch
 axiomsl.ch
 axiomsolutions.ch
 axiomtalent.ch
+axiomtec-dev.ch
 axiomtec-software.ch
 axiomtek.ch
 axiomtrading.ch
@@ -958,6 +967,7 @@ axionbank.ch
 axiondigital.ch
 axionetrix.ch
 axiongroup.ch
+axionis.ch
 axioniscapital.ch
 axionlab3d.ch
 axionmedia.ch
@@ -1517,6 +1527,7 @@ axynth.ch
 axyom.ch
 axyomcapital.ch
 axyome.ch
+axys.ch
 axyte.ch
 axyz-immobilien.ch
 axyzanalytics.ch

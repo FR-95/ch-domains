@@ -1158,7 +1158,6 @@ adcanemfidelem.ch
 adcap.ch
 adcapture.ch
 adcar.ch
-adcare.ch
 adcarrelage.ch
 adcarrosserie.ch
 adcash.ch
@@ -4767,7 +4766,6 @@ adonet.ch
 adonf.ch
 adonhusa.ch
 adoni-gmbh.ch
-adoni.ch
 adonia-shop.ch
 adonia-verlag.ch
 adonia-versand.ch
@@ -4939,7 +4937,6 @@ adoramus.ch
 adorani-living.ch
 adorani.ch
 adorare.ch
-adoras.ch
 adoratio-winterthur.ch
 adoratio.ch
 adoration-perpetuelle.ch
@@ -4988,7 +4985,6 @@ adoro-uetikon.ch
 adoro.ch
 adorojewelry.ch
 adoroleder.ch
-adoronaturemoviment.ch
 adoroschmuck.ch
 adorostudio.ch
 adorsaz.ch
@@ -5263,6 +5259,7 @@ adrenalinundprotein.ch
 adrenalinzone.ch
 adrenalpine.ch
 adrenalyne.ch
+adrenalynfestival.ch
 adrenatur.ch
 adrenio.ch
 adreno.ch
@@ -6525,6 +6522,7 @@ adterra-energy.ch
 adterra.ch
 adterraenergy.ch
 adtest.ch
+adtestor.ch
 adtex.ch
 adtg.ch
 adthentic.ch

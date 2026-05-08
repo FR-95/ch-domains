@@ -1,4 +1,5 @@
 ht-a.ch
+ht-ag.ch
 ht-bassi.ch
 ht-bau.ch
 ht-bauberatungen.ch
@@ -169,6 +170,7 @@ htfireprotection.ch
 htflow.ch
 htfm.ch
 htfnet.ch
+htfp.ch
 htg.ch
 htg24.ch
 htg81.ch

@@ -1764,7 +1764,6 @@ brand-ding.ch
 brand-eins.ch
 brand-engineering.ch
 brand-engineers.ch
-brand-essens.ch
 brand-ex.ch
 brand-experience-design.ch
 brand-fact-book.ch
@@ -1902,6 +1901,7 @@ brandadvisor.ch
 brandadvisors.ch
 brandaffairs.ch
 brandag.ch
+brandagency.ch
 brandagent.ch
 brandai.ch
 brandaid.ch
@@ -2134,7 +2134,6 @@ brandesign.ch
 brandesimmobilien.ch
 brandespace.ch
 brandessence.ch
-brandessens.ch
 brandessolutions.ch
 brandestini.ch
 brandesundengel.ch
@@ -2652,6 +2651,7 @@ brandschutz-evakuationskonzepte.ch
 brandschutz-expert.ch
 brandschutz-experten.ch
 brandschutz-fachmann.ch
+brandschutz-fenster.ch
 brandschutz-friske.ch
 brandschutz-gerber.ch
 brandschutz-gs.ch
@@ -4922,6 +4922,7 @@ brb-betonrueckbau.ch
 brb-classics.ch
 brb-haustechnik.ch
 brb.ch
+brba.ch
 brbauhandel.ch
 brbauhandelshop.ch
 brbaurenovationen.ch
@@ -6293,13 +6294,7 @@ brennermc.ch
 brennerplan.ch
 brenners-erlebnishof.ch
 brenners.ch
-brennerservice-aesch-bl.ch
-brennerservice-arlesheim.ch
 brennerservice-basel.ch
-brennerservice-baselland.ch
-brennerservice-bruderholz.ch
-brennerservice-muenchenstein.ch
-brennerservice-reinach-bl.ch
 brennerservice.ch
 brennertreuhand.ch
 brennerunikat.ch
@@ -8409,6 +8404,7 @@ bright-point.ch
 bright-river.ch
 bright-scales.ch
 bright-senses.ch
+bright-side-karaoke.ch
 bright-side.ch
 bright-spot.ch
 bright-step.ch
@@ -9875,6 +9871,7 @@ brisen.ch
 brisenblick.ch
 brisenbrau.ch
 brisenhaus.ch
+brisenwiese-seon.ch
 briserlesortilege.ch
 briseta.ch
 brisetreuhand.ch
@@ -10122,7 +10119,6 @@ britt.ch
 britta-bader.ch
 britta-dietsche.ch
 britta-und-niko.ch
-britta-wechner.ch
 britta.ch
 brittaappert.ch
 brittabrauner.ch
@@ -13635,7 +13631,9 @@ bruin.ch
 bruincafe.ch
 bruini-partii.ch
 bruisson.ch
+bruit-blanc.ch
 bruit.ch
+bruitblanc.ch
 bruitdefond.ch
 bruitrose.ch
 bruitroutier.ch

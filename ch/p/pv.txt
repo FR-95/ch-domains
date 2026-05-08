@@ -3,13 +3,8 @@ pv-advisors.ch
 pv-ag.ch
 pv-agency.ch
 pv-anfragen.ch
-pv-anlage-beratung-muenchenstein.ch
 pv-anlage-check.ch
 pv-anlage-kaufen.ch
-pv-anlage-montage-arlesheim.ch
-pv-anlage-montage-basel.ch
-pv-anlage-montage-baselland.ch
-pv-anlage-montage-reinach-bl.ch
 pv-anlage-rechner.ch
 pv-anlage-reinigung.ch
 pv-anlagen.ch
@@ -200,7 +195,6 @@ pv-tarif.ch
 pv-tec.ch
 pv-test.ch
 pv-toessegg.ch
-pv-toggenburg.ch
 pv-tp.ch
 pv-truckport.ch
 pv-unterhalt.ch

@@ -80,6 +80,7 @@ cuba.ch
 cubaa.ch
 cubaautrement.ch
 cubabar.ch
+cubaby.ch
 cubacaracol.ch
 cubacigars.ch
 cubaclub-international.ch
@@ -179,7 +180,6 @@ cube-it.ch
 cube-lenk.ch
 cube-less.ch
 cube-liestal.ch
-cube-line.ch
 cube-logistik.ch
 cube-lounge.ch
 cube-magazin.ch
@@ -937,7 +937,6 @@ cuisine-sante.ch
 cuisine-schmidt.ch
 cuisine-services.ch
 cuisine-suisse.ch
-cuisine-sur-mesure.ch
 cuisine-therapie-fribourg.ch
 cuisine-therapie.ch
 cuisine-tv.ch
@@ -1072,7 +1071,6 @@ cuisiniera.ch
 cuisinierdor.ch
 cuisinierdor2023.ch
 cuisiniere.ch
-cuisiniers-romands.ch
 cuisiniers-valais.ch
 cuisiniers-vaudois.ch
 cuisiniers.ch
@@ -1176,6 +1174,7 @@ culinaric.ch
 culinarica.ch
 culinario.ch
 culinaris.ch
+culinarium-ad-lacum.ch
 culinarium-ag.ch
 culinarium-alpinum.ch
 culinarium-bern.ch
@@ -1239,6 +1238,7 @@ culinessa.ch
 culinesse.ch
 culinest.ch
 culinex.ch
+culinimbus.ch
 culinoma.ch
 culinoro.ch
 culinova.ch
@@ -1600,6 +1600,7 @@ culture-pop.ch
 culture-relations.ch
 culture-rencontre.ch
 culture-responsable.ch
+culture-sans-frontieres.ch
 culture-science.ch
 culture-shift.ch
 culture-societa.ch
@@ -1755,6 +1756,7 @@ cultures-societies.ch
 cultures-vs.ch
 cultures.ch
 culturesacross.ch
+culturesansfrontieres.ch
 culturescapes.ch
 culturesconnection.ch
 culturesencommun.ch
@@ -1791,6 +1793,7 @@ culturexchange.ch
 culturfit.ch
 culturhalle.ch
 culturicum.ch
+culturify.ch
 culturin.ch
 culturix.ch
 culturizer.ch
@@ -2786,6 +2789,7 @@ curavera.ch
 curaverde.ch
 curavero.ch
 curavet.ch
+curavexa.ch
 curavia.ch
 curavida.ch
 curavie.ch
@@ -2933,7 +2937,6 @@ cureassistenzadelticino.ch
 curec.ch
 curecal.ch
 curecatholiqueavenches.ch
-curecode.ch
 curecompany.ch
 cureconcuore.ch
 cureconcura.ch

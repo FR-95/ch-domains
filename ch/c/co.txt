@@ -2397,7 +2397,6 @@ coactivecoaching.ch
 coactum.ch
 coactus.ch
 coactvm.ch
-coad.ch
 coadex.ch
 coadmin.ch
 coaduno.ch
@@ -5582,7 +5581,6 @@ cognition-behavior.ch
 cognition.ch
 cognitions.ch
 cognitique.ch
-cognitiv.ch
 cognitiva.ch
 cognitivamente.ch
 cognitive-banking.ch
@@ -6243,7 +6241,6 @@ coiffeur-lotti.ch
 coiffeur-lucia.ch
 coiffeur-lucio.ch
 coiffeur-lugina.ch
-coiffeur-luxus.ch
 coiffeur-luzern.ch
 coiffeur-lyss.ch
 coiffeur-m-style.ch
@@ -6421,6 +6418,7 @@ coiffeur-schmidhauser.ch
 coiffeur-schneider.ch
 coiffeur-schnittpunkt.ch
 coiffeur-scuol.ch
+coiffeur-seeblick-engelburg.ch
 coiffeur-seefeld.ch
 coiffeur-seeland.ch
 coiffeur-seesicht.ch
@@ -8317,7 +8315,6 @@ coinflip.ch
 coinfly.ch
 coinfocus.ch
 coinformant.ch
-coinfox.ch
 coinfreak.ch
 coinfund.ch
 coinfycare.ch
@@ -12302,6 +12299,7 @@ comelplan.ch
 comeltec.ch
 comem.ch
 comember.ch
+comembreisd.ch
 comenco.ch
 comenda-spueltechnik.ch
 comenda.ch
@@ -13357,6 +13355,7 @@ commingsoon.ch
 comminot-commerce.ch
 comminot.ch
 commint.ch
+commis.ch
 commiss-elec.ch
 commissaire-petroplus.ch
 commissaire-priseur.ch
@@ -13992,7 +13991,6 @@ commyoute.ch
 commzone.ch
 comnata-esstisch.ch
 comnata.ch
-comnavtech.ch
 comnet-s-e.ch
 comnet-seon-egliswil.ch
 comnet.ch
@@ -15064,6 +15062,7 @@ compet-o-graph-me.ch
 compet-o-graph-you.ch
 competa.ch
 competair.ch
+compete.ch
 competeam.ch
 competec-connect.ch
 competec-hausmesse.ch
@@ -22606,7 +22605,6 @@ consultingjobs.ch
 consultingkiefer.ch
 consultingkit.ch
 consultingknecht.ch
-consultingkoebel.ch
 consultinglms.ch
 consultingmannhart.ch
 consultingme.ch
@@ -22907,6 +22905,7 @@ contactcenterportal.ch
 contactchretien.ch
 contactcougar.ch
 contactdesign.ch
+contactecoprimemultisolutions.ch
 contacter.ch
 contacters.ch
 contactflow.ch
@@ -25326,6 +25325,7 @@ cookiemonamour.ch
 cookiemonster.ch
 cookiemonstr.ch
 cookienet.ch
+cookiequote.ch
 cookierobot.ch
 cookies-and-co.ch
 cookies-and-more.ch
@@ -27555,6 +27555,7 @@ coraltouristic.ch
 coraltouristik.ch
 coraltravel.ch
 coraltravelgroup.ch
+coraluma.ch
 coralune.ch
 coralux-autopflege.ch
 coralux.ch
@@ -28105,6 +28106,7 @@ core-software.ch
 core-sols.ch
 core-solution.ch
 core-solutions.ch
+core-sports.ch
 core-strategy.ch
 core-swiss.ch
 core-talent.ch
@@ -28343,6 +28345,7 @@ coremail.ch
 coremanager.ch
 coremannet.ch
 coremapack.ch
+coremat-industrie.ch
 corematerials.ch
 coremed.ch
 coremedia.ch
@@ -32286,6 +32289,7 @@ cosmic-movement.ch
 cosmic-oracle.ch
 cosmic-party.ch
 cosmic-percussion.ch
+cosmic-slot.ch
 cosmic-smile.ch
 cosmic-solutions.ch
 cosmic-starlight.ch
@@ -32644,7 +32648,6 @@ cosmote.ch
 cosmotec.ch
 cosmotech.ch
 cosmoto.ch
-cosmotrade.ch
 cosmotrans.ch
 cosmotron.ch
 cosmotv.ch
@@ -34671,7 +34674,6 @@ cours-comedie-musicale.ch
 cours-comptabilite.ch
 cours-conduite.ch
 cours-correcteurs.ch
-cours-cosmos.ch
 cours-cuisine-enfants.ch
 cours-cuisine-ge.ch
 cours-cuisine-geneve.ch
@@ -35321,6 +35323,7 @@ coutellerie.ch
 coutelleriedeshalles.ch
 coutelleriedujetdeau.ch
 coutelleriedupetitchene.ch
+coutin.ch
 coutinho.ch
 couto-traiteur.ch
 couto.ch

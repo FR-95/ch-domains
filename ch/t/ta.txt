@@ -1604,7 +1604,6 @@ taem.ch
 taembrig.ch
 taemi-und-joni-huerate.ch
 taemi.ch
-taemis-hundeschule.ch
 taemper.ch
 taempu.ch
 taena.ch
@@ -8694,6 +8693,7 @@ tanzkunst.ch
 tanzkunstideen.ch
 tanzkunsttherapie.ch
 tanzkunstwerk.ch
+tanzkurs-bluesteps.ch
 tanzkurs-dielsdorf.ch
 tanzkurs-kloten.ch
 tanzkurs-luzern.ch
@@ -10682,6 +10682,7 @@ tarrillos.ch
 tarrit.ch
 tarros.ch
 tarrouxconseil.ch
+tars-ai.ch
 tars-co.ch
 tars-sm.ch
 tars.ch
@@ -13180,7 +13181,6 @@ taurus-lugano.ch
 taurus-mania.ch
 taurus-marketing.ch
 taurus-mc.ch
-taurus-online.ch
 taurus-sachwert.ch
 taurus-sachwerte.ch
 taurus-sports.ch
@@ -14194,6 +14194,7 @@ taxi-bleu.ch
 taxi-bluestar.ch
 taxi-boat.ch
 taxi-bolero.ch
+taxi-booking.ch
 taxi-boot.ch
 taxi-botelho-apollo.ch
 taxi-bottmingen.ch
@@ -14860,6 +14861,7 @@ taxibons.ch
 taxibook.ch
 taxibooker.ch
 taxibookers.ch
+taxibooking.ch
 taxiboot-luzern.ch
 taxiboot.ch
 taxibootbasel.ch

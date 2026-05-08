@@ -322,6 +322,7 @@ hlv-drinks.ch
 hlv-energie.ch
 hlv-groupe.ch
 hlv-immobilier.ch
+hlv-lehrmittel.ch
 hlv.ch
 hlvd.ch
 hlvt.ch

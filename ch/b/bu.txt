@@ -571,7 +571,6 @@ buch-und-mediendienst.ch
 buch-und-stabe.ch
 buch-verlag.ch
 buch-versand.ch
-buch-viel-falt.ch
 buch-wald.ch
 buch-wallis.ch
 buch-weyermann.ch
@@ -2059,6 +2058,7 @@ buckfastbienen.ch
 buckfastimker.ch
 buckhauser.ch
 buckhauserstrasse.ch
+buckholding.ch
 buckhunting.ch
 buckhuser.ch
 buckingham.ch
@@ -5434,6 +5434,7 @@ bueroklassiker.ch
 bueroklauser.ch
 buerokmu.ch
 bueroknaller.ch
+buerokoebeli.ch
 buerokoehler.ch
 buerokoenig.ch
 buerokom.ch
@@ -5776,6 +5777,7 @@ buerovermietung.ch
 buerovermin.ch
 bueroverrueckt.ch
 bueroversand.ch
+buerovertrieb.ch
 buerovielfalt.ch
 buerovier.ch
 buerovision.ch
@@ -8620,6 +8622,7 @@ bunse.ch
 bunsen.ch
 bunsh.ch
 bunsout.ch
+bunsup.ch
 bunt-gemischt.ch
 bunt-glauben.ch
 bunt-metall.ch
@@ -8988,6 +8991,7 @@ burain9.ch
 burak.ch
 burakbajrami.ch
 burakemir.ch
+burakgiray.ch
 burakkaramese.ch
 burakozturk.ch
 buraksonmez.ch
@@ -10462,6 +10466,7 @@ burke-sportconsulting.ch
 burke.ch
 burkely.ch
 burken.ch
+burker.ch
 burkert.ch
 burkertsmatt.ch
 burket.ch
@@ -12148,6 +12153,7 @@ business-library.ch
 business-limo.ch
 business-limousine.ch
 business-limousines.ch
+business-local.ch
 business-lounge.ch
 business-lunch.ch
 business-luzern.ch
@@ -12505,7 +12511,6 @@ businessandfriends.ch
 businessandit.ch
 businessandmanagement.ch
 businessandnetworkday.ch
-businessandpleasure.ch
 businessandsports.ch
 businessandtrade.ch
 businessandtravel.ch
@@ -13220,7 +13225,6 @@ businessplanschweiz.ch
 businessplansoftware.ch
 businessplanung.ch
 businessplatforms.ch
-businesspleasure.ch
 businessplus.ch
 businesspluscloud.ch
 businessplusduedingen.ch
@@ -13787,7 +13791,6 @@ bust-a-move.ch
 bust.ch
 busta.ch
 bustab.ch
-bustache.ch
 bustamante.ch
 bustamove.ch
 bustan.ch
@@ -14341,7 +14344,6 @@ button-down-shirt.ch
 button-fabrik.ch
 button-king.ch
 button-order.ch
-button-print.ch
 button-up.ch
 button.ch
 button24.ch
@@ -14402,7 +14404,6 @@ butz-werder.ch
 butz.ch
 butz100.ch
 butzba.ch
-butzbach.ch
 butzberger.ch
 butzel.ch
 butzemann.ch

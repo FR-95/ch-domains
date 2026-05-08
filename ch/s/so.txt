@@ -2047,7 +2047,6 @@ sockeye.ch
 sockguy.ch
 socki.ch
 sockinger.ch
-sockini.ch
 sockitandsee.ch
 socklab.ch
 socklady.ch
@@ -3302,6 +3301,7 @@ softbauware.ch
 softbed.ch
 softbee.ch
 softbeing.ch
+softbiohacking.ch
 softbit.ch
 softblasting.ch
 softblaze.ch
@@ -6851,7 +6851,6 @@ solarig.ch
 solarigel.ch
 solarigs.ch
 solarimdach.ch
-solarimmo.ch
 solarimo.ch
 solarimpact-yacht.ch
 solarimpact.ch
@@ -8122,6 +8121,7 @@ solcure.ch
 sold-out.ch
 sold.ch
 solda.ch
+soldach.ch
 soldamili.ch
 soldan-shop.ch
 soldan.ch
@@ -9612,6 +9612,8 @@ solmax.ch
 solmed24.ch
 solmedi.ch
 solmelia.ch
+solmen-intelligence.ch
+solmen.ch
 solmer.ch
 solmera.ch
 solmet.ch
@@ -10702,6 +10704,7 @@ solutions-amiables.ch
 solutions-asdigital.ch
 solutions-at-home.ch
 solutions-audiovisuelles.ch
+solutions-be.ch
 solutions-bio.ch
 solutions-bl.ch
 solutions-blockchain.ch
@@ -11266,7 +11269,6 @@ solysphere.ch
 solyswiss.ch
 solyta.ch
 solytude.ch
-solyvero.ch
 solyvie.ch
 solyx.ch
 solyze.ch
@@ -12186,7 +12188,6 @@ sommerlinde.ch
 sommerling.ch
 sommerliving.ch
 sommerlo.ch
-sommerloch-turnier.ch
 sommerloch.ch
 sommerlounge.ch
 sommerlust.ch
@@ -12262,7 +12263,6 @@ sommerrock.ch
 sommerrodelbahn.ch
 sommerrodelbahnen.ch
 sommerrodeln.ch
-sommers-loewen.ch
 sommers.ch
 sommersa.ch
 sommersabatini.ch
@@ -16559,6 +16559,7 @@ soremaaudit.ch
 soremo.ch
 soremosartoria.ch
 soremoulin.ch
+soren-moto.ch
 soren-nicholas.ch
 soren.ch
 sorena.ch
@@ -20617,6 +20618,7 @@ souveraen-gr.ch
 souveraen-lernen.ch
 souveraen-resilient.ch
 souveraen.ch
+souveraena.ch
 souveraendigital.ch
 souveraene-kraft.ch
 souveraene-medien-schweiz.ch

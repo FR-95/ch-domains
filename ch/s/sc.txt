@@ -1020,7 +1020,6 @@ scanday.ch
 scande.ch
 scandeal.ch
 scandella-bau.ch
-scandella-booking.ch
 scandella-sa.ch
 scandella.ch
 scandellatravel.ch
@@ -1108,7 +1107,6 @@ scanet.ch
 scanevent.ch
 scanexo.ch
 scanexpress.ch
-scaneye.ch
 scanfactory.ch
 scanfarm.ch
 scanfilm.ch
@@ -6559,7 +6557,6 @@ scherbenlaufen.ch
 scherber.ch
 scherbius.ch
 schercotrading.ch
-schere-leim-papier.ch
 schere-schleifen-lassen.ch
 schere-schleifen.ch
 schere-schnitt-papier.ch
@@ -6567,6 +6564,7 @@ schere.ch
 scheremencia.ch
 scheren-messerschleiferei.ch
 scheren-schleifen.ch
+scheren-schleifer.ch
 scheren-shop.ch
 scheren.ch
 scherenarm-markise.ch
@@ -9268,7 +9266,6 @@ schlafen-zuerich.ch
 schlafen-zur-brauerei.ch
 schlafen.ch
 schlafen24.ch
-schlafenalp.ch
 schlafenaufluft.ch
 schlafende-riesin-im-sihlsee.ch
 schlafendehundewecken.ch
@@ -9353,7 +9350,6 @@ schlafland.ch
 schlaflexikon.ch
 schlafli.ch
 schlaflicht.ch
-schlaflicoaching.ch
 schlaflinse.ch
 schlaflinsen.ch
 schlaflos-club.ch
@@ -12097,7 +12093,6 @@ schluesseldienst-grenchen.ch
 schluesseldienst-gundeli.ch
 schluesseldienst-haefliger.ch
 schluesseldienst-herisau.ch
-schluesseldienst-herrliberg.ch
 schluesseldienst-herzogenbuchsee.ch
 schluesseldienst-hinwil.ch
 schluesseldienst-hochdorf.ch
@@ -15057,7 +15052,6 @@ schmukiownerservices.ch
 schmukis-pendenzen.ch
 schmukis.ch
 schmukisa.ch
-schmukisache.ch
 schmukk.ch
 schmulba.ch
 schmundtwyss.ch
@@ -16371,6 +16365,7 @@ schneidereiamiri.ch
 schneidereibasel.ch
 schneidereibedarf.ch
 schneidereibern.ch
+schneidereibuochs.ch
 schneidereien.ch
 schneidereiexact.ch
 schneidereigantrisch.ch
@@ -22295,6 +22290,7 @@ schtaernli-kita.ch
 schtaernschtund.ch
 schtaibock.ch
 schtaibysser.ch
+schtammplatz.ch
 schtark-gmbh.ch
 schtark.ch
 schtart.ch
@@ -28580,6 +28576,7 @@ schweigi.ch
 schweigler.ch
 schweiher.ch
 schweik.ch
+schweikart-massage.ch
 schweikart.ch
 schweikartart.ch
 schweiker.ch
@@ -28737,7 +28734,6 @@ schweisshelm.ch
 schweisshundclub.ch
 schweisshundestation-agbl.ch
 schweisskabine.ch
-schweissklinik.ch
 schweisskonstruktion.ch
 schweisskonstruktionen.ch
 schweisskraft.ch
@@ -28869,7 +28865,6 @@ schweiz-business.ch
 schweiz-butler.ch
 schweiz-caffe-tostini.ch
 schweiz-caffetostini.ch
-schweiz-casino.ch
 schweiz-casinos.ch
 schweiz-cbd.ch
 schweiz-china.ch
@@ -29403,7 +29398,6 @@ schweizer-arzt.ch
 schweizer-atlas.ch
 schweizer-aufzuege.ch
 schweizer-augenoptik.ch
-schweizer-auktion.ch
 schweizer-ausflugsziele.ch
 schweizer-auslandsrueckfuerung.ch
 schweizer-auto-ankauf.ch
@@ -30489,7 +30483,6 @@ schweizer-versicherer.ch
 schweizer-versicherungen.ch
 schweizer-versicherungs-vergleich.ch
 schweizer-versicherungsmarkt.ch
-schweizer-versicherungsvergleich.ch
 schweizer-vertraege.ch
 schweizer-vertrag.ch
 schweizer-vertretung.ch
@@ -31069,7 +31062,6 @@ schweizergospel.ch
 schweizergospelfestival.ch
 schweizergrafik.ch
 schweizergranola.ch
-schweizergras.ch
 schweizergrauvieh.ch
 schweizergrauviehzucht.ch
 schweizergravuren.ch
@@ -32748,7 +32740,6 @@ schwesteruhr.ch
 schwesteruhren.ch
 schwesterveronika.ch
 schwesterwerk.ch
-schwetsy.ch
 schwettibergladen.ch
 schweyer-marti.ch
 schweyer.ch
@@ -32858,6 +32849,7 @@ schwiizerwuche.ch
 schwiizfan.ch
 schwiizliebi.ch
 schwiizlueg.ch
+schwiizr.ch
 schwiizrap.ch
 schwiizreinigung.ch
 schwiizrp.ch
@@ -33301,6 +33293,7 @@ schwimmstars.ch
 schwimmsteg.ch
 schwimmstege-schweiz.ch
 schwimmstege.ch
+schwimmstunde.ch
 schwimmtasche.ch
 schwimmtaxi.ch
 schwimmteam-belp.ch
@@ -33872,7 +33865,6 @@ schwyterhof.ch
 schwytz-hotels.ch
 schwytz.ch
 schwytzoise.ch
-schwyyzergras.ch
 schwyz-ansiedlung.ch
 schwyz-autoankauf.ch
 schwyz-autoexport.ch
@@ -35537,6 +35529,7 @@ scopewyseservices.ch
 scopexe.ch
 scopi.ch
 scopic.ch
+scopify.ch
 scoping.ch
 scopit.ch
 scopo-coaching.ch

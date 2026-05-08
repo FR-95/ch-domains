@@ -1300,7 +1300,6 @@ waermepumpe-muenchenstein.ch
 waermepumpe-muttenz.ch
 waermepumpe-online.ch
 waermepumpe-profi.ch
-waermepumpe-reinach-bl.ch
 waermepumpe-reparatur.ch
 waermepumpe-reparieren.ch
 waermepumpe-sanierung.ch
@@ -1964,6 +1963,7 @@ wagerswil.ch
 wagerswiler-oldtimertreffen.ch
 wagertales.ch
 wagertalescasino.ch
+wagerwhale.ch
 wages.ch
 wagestream.ch
 wageup.ch
@@ -2249,6 +2249,7 @@ wagnisse.ch
 wagnius.ch
 wagnon.ch
 wagnova.ch
+wago-contact.ch
 wago.ch
 wagodirect.ch
 wagoevents.ch
@@ -8619,6 +8620,7 @@ war-games.ch
 war-guerre-krieg.ch
 war-klar.ch
 war-net.ch
+war-watch.ch
 war.ch
 wara.ch
 waraeger-maschinenbau.ch
@@ -9318,6 +9320,7 @@ warungkopi.ch
 warungsantai.ch
 warungsegara.ch
 warutaru.ch
+warwat.ch
 warwatch.ch
 warwe.ch
 warwick.ch
@@ -9562,8 +9565,10 @@ waschcenter-egerkingen.ch
 waschcenter-endingen.ch
 waschcenter-frick.ch
 waschcenter-kreuzlingen.ch
+waschcenter-liestal.ch
 waschcenter-oberwil.ch
 waschcenter-pneu-fischer.ch
+waschcenter-pratteln.ch
 waschcenter-siggenthal.ch
 waschcenter-weinfelden.ch
 waschcenter-winterthur.ch
@@ -10064,6 +10069,7 @@ wasistlosamland.ch
 wasistlosimland.ch
 wasistmeinautowert.ch
 wasistmeinearbeitwert.ch
+wasistmeinefirmawert.ch
 wasistmeineip.ch
 wasistmeineliegenschaftwert.ch
 wasistmeinhauswert.ch
@@ -13295,6 +13301,7 @@ waya-drink.ch
 waya-drinks.ch
 waya.ch
 wayacosmetics.ch
+wayan-bali.ch
 wayan.ch
 wayando.ch
 wayanfederspiel.ch

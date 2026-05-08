@@ -783,6 +783,7 @@ wohlen-taxi.ch
 wohlen-tcm.ch
 wohlen-zentral.ch
 wohlen.ch
+wohlen2023.ch
 wohlen24.ch
 wohlenag.ch
 wohlenbeibern24.ch
@@ -880,7 +881,6 @@ wohlfuehlnest.ch
 wohlfuehloase-beatrice.ch
 wohlfuehloase-diessenhofen.ch
 wohlfuehloase-emerald.ch
-wohlfuehloase-kosmetik.ch
 wohlfuehloase-naturdesign.ch
 wohlfuehloase.ch
 wohlfuehlort.ch
@@ -2050,6 +2050,7 @@ wohninova.ch
 wohninserate.ch
 wohninvest.ch
 wohnio.ch
+wohniq.ch
 wohnit.ch
 wohnjackpot.ch
 wohnjuwelen.ch
@@ -4565,6 +4566,7 @@ wollbijougmbh.ch
 wollbody.ch
 wollborn.ch
 wollboutique.ch
+wollbox.ch
 wollbutt.ch
 wollcafe.ch
 wollconsulting.ch
@@ -5085,6 +5087,7 @@ womencraft.ch
 womenempowerment.ch
 womenepal.ch
 womeness.ch
+womenexpo.ch
 womenfield.ch
 womenfit.ch
 womenflow.ch
@@ -7222,6 +7225,7 @@ work-on-health.ch
 work-on.ch
 work-outfit.ch
 work-permits.ch
+work-place.ch
 work-pool.ch
 work-power.ch
 work-press.ch
@@ -7952,6 +7956,7 @@ workplaceasaservice.ch
 workplaceco.ch
 workplaceculture.ch
 workplacefactory.ch
+workplacegames.ch
 workplacegossau.ch
 workplacehub.ch
 workplaceinnovation.ch

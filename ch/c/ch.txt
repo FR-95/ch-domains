@@ -1709,6 +1709,7 @@ chalet-alp.ch
 chalet-alpage-thiolle.ch
 chalet-alpage.ch
 chalet-alpencharme.ch
+chalet-alpenglueck.ch
 chalet-alpengruen.ch
 chalet-alpenperle.ch
 chalet-alpenrock.ch
@@ -2232,6 +2233,7 @@ chalet-sonnenrain.ch
 chalet-sonneur.ch
 chalet-sonnhalde.ch
 chalet-sophie.ch
+chalet-soraya.ch
 chalet-souleiadou.ch
 chalet-spieli.ch
 chalet-spinatscha.ch
@@ -5041,7 +5043,6 @@ chapa.ch
 chapalain.ch
 chapallaz.ch
 chapanda.ch
-chapap.ch
 chapar.ch
 chapardus-soleilus.ch
 chapardussoleilus.ch
@@ -6431,6 +6432,7 @@ charpentevp.ch
 charpentier-geneve.ch
 charpentier-savoie.ch
 charpentier.ch
+charpentierensuisse.ch
 charpentierfoundation.ch
 charpentierpr.ch
 charpfli.ch
@@ -6672,8 +6674,6 @@ chasa-madlaina.ch
 chasa-mazzina.ch
 chasa-melchior.ch
 chasa-montagna.ch
-chasa-muntanella35-ftan.ch
-chasa-muntanella45-ftan.ch
 chasa-muntplan-ftan.ch
 chasa-nova.ch
 chasa-nuotcla.ch
@@ -7514,7 +7514,6 @@ chatforfree.ch
 chatfrankmerenda.ch
 chatfun.ch
 chatgay.ch
-chatgbt.ch
 chatgenius.ch
 chatgeppetto.ch
 chatgo.ch
@@ -12764,6 +12763,7 @@ chickenbox.ch
 chickenburger.ch
 chickencabalgames.ch
 chickenchaotikum.ch
+chickenclaypot.ch
 chickenclub.ch
 chickencoin-holdandwin.ch
 chickencottage.ch
@@ -12929,7 +12929,6 @@ chicorette.ch
 chicorre.ch
 chicory.ch
 chicos-badass-tattoo.ch
-chicos-burritos.ch
 chicos-hundehort.ch
 chicoshundehort.ch
 chicoutemarketing.ch
@@ -13211,6 +13210,7 @@ chigim.ch
 chignol.ch
 chigny.ch
 chigny24.ch
+chigong-chur.ch
 chigozi.ch
 chigua.ch
 chigung.ch
@@ -13925,7 +13925,6 @@ chillstyle.ch
 chillswit.ch
 chillteaatelier.ch
 chillthemonkey.ch
-chilltouch.ch
 chilltown.ch
 chillum.ch
 chillvibes.ch
@@ -18884,6 +18883,7 @@ chrisberger.ch
 chrisbeyeler.ch
 chrisbi.ch
 chrisbird.ch
+chrisbit.ch
 chrisblaser.ch
 chrisbloom.ch
 chrisboje.ch
@@ -19384,7 +19384,6 @@ christawaldburger.ch
 christawanner.ch
 christawassermann.ch
 christawenger.ch
-christawitha.ch
 christawyss.ch
 christbaeume-erne.ch
 christbaeume-sg.ch
@@ -23525,7 +23524,6 @@ chuderwaelsch.ch
 chuderwels.ch
 chuderwelsch.ch
 chudjenbet.ch
-chudo.ch
 chudoba.ch
 chudozilov.ch
 chudzinski.ch

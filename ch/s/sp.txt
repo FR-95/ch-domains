@@ -2277,6 +2277,7 @@ sparenegg.ch
 sparenfamily.ch
 sparengel.ch
 sparenhafen.ch
+sparenkrankenkasse.ch
 sparenleichtgemacht.ch
 sparenmachtspass.ch
 sparenmit3a.ch
@@ -5693,6 +5694,7 @@ spendenbrief.ch
 spendenbuch.ch
 spendenbuchhaltung.ch
 spendencode.ch
+spendencompass.ch
 spendencrm.ch
 spendendepot.ch
 spendenfonds.ch
@@ -7640,6 +7642,7 @@ spielemitverantwortung.ch
 spielemix.ch
 spielemotion.ch
 spielemuseum.ch
+spielen-entfalten.ch
 spielen-ohne-sucht.ch
 spielen-pc.ch
 spielen-straettligburgerwald.ch
@@ -7648,6 +7651,7 @@ spielen.ch
 spielenacht.ch
 spielenaffe.ch
 spielend-bewegt.ch
+spielend-entfalten.ch
 spielend-erstes-lernen.ch
 spielend-lernen.ch
 spielend-verkaufen.ch
@@ -7748,6 +7752,7 @@ spielfeldmarkierungen.ch
 spielfeldreisen.ch
 spielfest-wil.ch
 spielfestbelp.ch
+spielfesttage.ch
 spielfigur.ch
 spielfilm.ch
 spielfilme.ch
@@ -7768,7 +7773,6 @@ spielgarten.ch
 spielgemeinschaft-dmb-mgk.ch
 spielgemeinschaft-staefa-hombrechtikon.ch
 spielgeraet.ch
-spielgeraete.ch
 spielgeraete4you.ch
 spielgern.ch
 spielgesund.ch
@@ -8528,7 +8532,6 @@ spielgruppevielfalt.ch
 spielgruppevinelz.ch
 spielgruppevogelsang.ch
 spielgruppewagenrad.ch
-spielgruppewangen.ch
 spielgruppewatt.ch
 spielgruppewees.ch
 spielgruppewichteli.ch
@@ -8922,6 +8925,7 @@ spielshop.ch
 spielshop24.ch
 spielshow.ch
 spielsicher.ch
+spielsiegprofi9.ch
 spielsinn.ch
 spielsinnspiel.ch
 spielsparadies.ch
@@ -9386,7 +9390,6 @@ spikehos.ch
 spikelands.ch
 spikelens.ch
 spikemarket.ch
-spikemat.ch
 spikeo.ch
 spikephysiosport.ch
 spikeprime.ch
@@ -10172,6 +10175,7 @@ spinriders.ch
 spinrise-casino.ch
 spinrise.ch
 spinrisecasino.ch
+spinrolls.ch
 spinrollz-casino.ch
 spinrollz-ch.ch
 spinrollz.ch
@@ -10209,6 +10213,7 @@ spinsino.ch
 spinsinocasino.ch
 spinsland.ch
 spinslandia.ch
+spinsof-glory.ch
 spinsofglory.ch
 spinsofglorycasino.ch
 spinsofglorych.ch
@@ -10216,6 +10221,7 @@ spinsole.ch
 spinsoup.ch
 spinsports.ch
 spinsstation.ch
+spinstag.ch
 spinstation.ch
 spinstations.ch
 spinstationx.ch
@@ -12777,6 +12783,7 @@ spitexdavos.ch
 spitexdemence.ch
 spitexdemenz.ch
 spitexdemenza.ch
+spitexdenisa.ch
 spitexdienst.ch
 spitexdienste.ch
 spitexdiepoldsau.ch
@@ -13224,7 +13231,6 @@ spitexstellenmarkt.ch
 spitexstern.ch
 spitexstgallen.ch
 spitexsuche.ch
-spitexsuisse.ch
 spitexsupport.ch
 spitexswiss.ch
 spitexswisscare.ch
@@ -14613,6 +14619,7 @@ sport-eyholz.ch
 sport-fabrik.ch
 sport-factory.ch
 sport-fahrwerk.ch
+sport-fair-business.ch
 sport-fan.ch
 sport-ferien.ch
 sport-feriencenter.ch
@@ -16119,6 +16126,7 @@ sportivaunihockeymendrisiotto.ch
 sportive-arabians.ch
 sportive.ch
 sportivement.ch
+sportives.ch
 sportivesdexception.ch
 sportivi.ch
 sportivity.ch
@@ -17784,7 +17792,6 @@ sportus.ch
 sportusal.ch
 sportusalcoolpatch.ch
 sportusalpower.ch
-sportuso-gmbh.ch
 sportvalais.ch
 sportvalposchiavo.ch
 sportvan.ch
@@ -18269,6 +18276,7 @@ spotty.ch
 spottyclub.ch
 spottydog.ch
 spotumfragen.ch
+spotup.ch
 spotvib.ch
 spotvision.ch
 spotvttaubonne.ch
@@ -18744,6 +18752,7 @@ sprachprofi.ch
 sprachprofis.ch
 sprachpunkt.ch
 sprachratgeber.ch
+sprachraum.ch
 sprachraummeyer.ch
 sprachreich.ch
 sprachreise-direkt.ch
@@ -19505,7 +19514,6 @@ springeinfach.ch
 springen.ch
 springenboden.ch
 springenderfunke.ch
-springenergy.ch
 springenieur.ch
 springer-akademie.ch
 springer-apotheker.ch
@@ -19790,6 +19798,7 @@ spritz-beton.ch
 spritz-drinks.ch
 spritz-fritz.ch
 spritz.ch
+spritzandmoney.ch
 spritzarbeiten.ch
 spritzasbest.ch
 spritzbeton-pool.ch
@@ -19844,6 +19853,7 @@ spritzngo.ch
 spritzone.ch
 spritzpistole.ch
 spritzpistolen.ch
+spritzprofi.ch
 spritzspritz.ch
 spritztech.ch
 spritztour.ch
@@ -20423,6 +20433,7 @@ spufo.ch
 spufurttal.ch
 spug.ch
 spuger.ch
+spugna.ch
 spugne.ch
 spugs.ch
 spuhl.ch

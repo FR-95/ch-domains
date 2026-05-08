@@ -2213,6 +2213,7 @@ vello.ch
 vellon.ch
 velloncello.ch
 vellone.ch
+vellor.ch
 vellora.ch
 vellorafood.ch
 vellorcars.ch
@@ -4993,6 +4994,7 @@ venio.ch
 veniogold.ch
 veniovideovoro.ch
 veniox.ch
+veniq.ch
 venir-a-moutier.ch
 venir-au-monde.ch
 venir-carrosserie.ch
@@ -5414,6 +5416,7 @@ vention.ch
 ventipizza.ch
 ventipizzeria.ch
 ventipulmin.ch
+ventiq.ch
 ventiquattro.ch
 ventira-immobilien.ch
 ventira.ch
@@ -6412,6 +6415,7 @@ veranstaltungstechnik-vermietung.ch
 veranstaltungstechnik.ch
 veranstaltungstechnik24.ch
 veranstaltungstechniker.ch
+veranstaltungstip.ch
 veranstaltungstipp.ch
 veranstaltungstipps.ch
 veranstaltungstool.ch
@@ -7816,6 +7820,7 @@ verein-klosterkappel.ch
 verein-klubi.ch
 verein-kmu-schweiz.ch
 verein-knospe-luthern.ch
+verein-kompass.ch
 verein-konkret.ch
 verein-kontaktlinsen.ch
 verein-kulturbeutel.ch
@@ -7872,6 +7877,7 @@ verein-mutig.ch
 verein-nahuel.ch
 verein-nangijala.ch
 verein-napf.ch
+verein-natum-schweiz.ch
 verein-naturnetz.ch
 verein-navego.ch
 verein-neema.ch
@@ -8350,6 +8356,7 @@ vereinprochiro.ch
 vereinprokinderklinik.ch
 vereinpropferd.ch
 vereinproviva.ch
+vereinpsychischegesundheit-sh.ch
 vereinpullover.ch
 vereinpulpo.ch
 vereinpuma.ch
@@ -10018,6 +10025,8 @@ verkehrs-sicherheit.ch
 verkehrs-sicherheits-zentrum-thurgau.ch
 verkehrs-stiftung.ch
 verkehrs-ticker.ch
+verkehrs-unfaelle.ch
+verkehrs-unfall.ch
 verkehrs-verlagerung.ch
 verkehrs-zaehlung.ch
 verkehrsabsicherung.ch
@@ -11827,7 +11836,6 @@ verreolive.ch
 verreonline.ch
 verreprogressif.ch
 verrerie-brechen.ch
-verreriecardis.ch
 verres-de-contact.ch
 verres-express.ch
 verres.ch
@@ -13487,6 +13495,7 @@ vertor.ch
 vertoraemy.ch
 vertorg.ch
 vertpassion.ch
+vertpistache.ch
 vertpre.ch
 vertraegevorsvolk.ch
 vertrag-anwalt.ch
@@ -14655,7 +14664,6 @@ vespaschwarm.ch
 vespaschweiz.ch
 vespascout.ch
 vespaservice.ch
-vespasgelato.ch
 vespashop.ch
 vespasiano.ch
 vespastuebli.ch
@@ -16312,7 +16320,6 @@ vezaj.ch
 vezam.ch
 vezautos.ch
 veze.ch
-vezeko-anhaenger.ch
 vezeko.ch
 vezgroupe.ch
 vezi-caffe.ch

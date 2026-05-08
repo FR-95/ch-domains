@@ -815,7 +815,6 @@ pearl-online.ch
 pearl-outdoor.ch
 pearl-pedergnana.ch
 pearl-permanent-beauty.ch
-pearl-pfo.ch
 pearl-schweiz.ch
 pearl-shopping.ch
 pearl-shuttle.ch
@@ -1348,6 +1347,7 @@ pedaleure.ch
 pedaleurs.ch
 pedalex.ch
 pedalforcake.ch
+pedalforpurpose.ch
 pedalfracht.ch
 pedalgo.ch
 pedalgokart.ch
@@ -1604,7 +1604,6 @@ pediatriedeslisieres.ch
 pediatriedudeveloppement.ch
 pediatriedumidi.ch
 pediatrieepalinges.ch
-pediatrieflorimont.ch
 pediatriefrontenex.ch
 pediatriegland.ch
 pediatriegruyere.ch
@@ -2327,6 +2326,8 @@ pegasus-technics.ch
 pegasus-transporte.ch
 pegasus-treuhand.ch
 pegasus-unterwegs.ch
+pegasus-villen-huenenberg.ch
+pegasus-villen.ch
 pegasus-zuerich.ch
 pegasus.ch
 pegasus.idiosyn.ch
@@ -2938,7 +2939,6 @@ pelerinagelourdes.ch
 pelerinagenews.ch
 pelerinages-diocese-sion.ch
 pelerinagesnews.ch
-pelerinaj-soultzmatt.ch
 pelerineholding.ch
 pelerinen.ch
 pelerins.ch
@@ -3720,6 +3720,7 @@ pencilselling.ch
 pencilstage.ch
 penco.ch
 pencollect.ch
+pencom.ch
 pencor-tec.ch
 pend.ch
 penda.ch
@@ -4523,7 +4524,6 @@ pensionskassen-zentrum.ch
 pensionskassen.ch
 pensionskassenauskuenfte.ch
 pensionskassenausweis.ch
-pensionskassenbefragung.ch
 pensionskassenberatung.ch
 pensionskassenbezug.ch
 pensionskassencheck.ch
@@ -4809,6 +4809,8 @@ pentelimprint.ch
 pentelshop.ch
 pentem.ch
 pentenrieder.ch
+pentessa.ch
+pentesse.ch
 pentest-ai.ch
 pentest-experten.ch
 pentest-factory.ch
@@ -9144,6 +9146,7 @@ perretsanitaire.ch
 perrett.ch
 perrettc.ch
 perrey.ch
+perrez.ch
 perri-immobilien.ch
 perri.ch
 perriand.ch
@@ -10968,6 +10971,7 @@ perspektivil.ch
 perspektivilplus.ch
 perspektivklar.ch
 perspektivo-franke.ch
+perspektivo.ch
 perspektivpro.ch
 perspektivraum.ch
 perspektivum.ch
@@ -11101,14 +11105,20 @@ peruckencenter.ch
 peruckenshop.ch
 perucki.ch
 peruda.ch
+peruecke-24.ch
 peruecke-in-zuerich.ch
+peruecke-kaufen.ch
+peruecke-online.ch
 peruecke-zuerich.ch
 peruecke.ch
+peruecke24.ch
 peruecke4you.ch
 peruecken-basel.ch
 peruecken-haarersatz.ch
 peruecken-rheinfelden.ch
 peruecken-rieswick.ch
+peruecken-schweiz.ch
+peruecken-shop.ch
 peruecken-stella.ch
 peruecken-und-haarteile.ch
 peruecken-wunschhaar.ch
@@ -13456,6 +13466,7 @@ petinfo.ch
 petino.ch
 petinside.ch
 petinsurance.ch
+petio.ch
 petionix.ch
 petioo.ch
 petiot-massage.ch
@@ -14463,6 +14474,7 @@ petrart.ch
 petrartresin.ch
 petraruoss.ch
 petras-bioladen.ch
+petras-creationen.ch
 petras-dogphysio.ch
 petras-gesundetier.ch
 petras-gesundheitspraxis.ch

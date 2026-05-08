@@ -727,6 +727,7 @@ haarmode.ch
 haarmoment.ch
 haarmomentum.ch
 haarmonia-aarau.ch
+haarmonia-altendorf.ch
 haarmonia.ch
 haarmonica.ch
 haarmonie-aarau.ch
@@ -2333,6 +2334,7 @@ hadihuber.ch
 hadik.ch
 hadilipslounge.ch
 hadimaschinenbau.ch
+hadimec.ch
 hadimo.ch
 hadinia.ch
 hadintl.ch
@@ -3317,7 +3319,6 @@ haeppi.ch
 haeppifood.ch
 haeppinar.ch
 haepplerei.ch
-haeppli.ch
 haepplimacher.ch
 haepply-schuer.ch
 haeppy-shopping.ch
@@ -6510,7 +6511,6 @@ haldenhof.ch
 haldenhofladen.ch
 haldenhofwallbach.ch
 haldenhuettentee.ch
-haldenhuskys.ch
 haldenpark.ch
 haldenparkimmobilien.ch
 haldenparkwinkel.ch
@@ -6570,7 +6570,6 @@ haldiholding.ch
 haldima.ch
 haldimail.ch
 haldiman.ch
-haldimand15.ch
 haldimann-ag.ch
 haldimann-bauspenglerei.ch
 haldimann-bikes.ch
@@ -6669,7 +6668,6 @@ halfpastseven.ch
 halfpipe.ch
 halfprice.ch
 halfpricepackaging.ch
-halfri.ch
 halfs.ch
 halfter.ch
 halfthestoryinpd.ch
@@ -7051,7 +7049,6 @@ haller-partner.ch
 haller-recht.ch
 haller-rodersdorf.ch
 haller-sa.ch
-haller-steuerungsbau.ch
 haller-stiftung.ch
 haller-tcmpraxisbern.ch
 haller-tournet.ch
@@ -7190,6 +7187,7 @@ hallo-bl.ch
 hallo-bodensee.ch
 hallo-brand-aktuell.ch
 hallo-bus.ch
+hallo-car.ch
 hallo-care.ch
 hallo-coach.ch
 hallo-coiffure.ch
@@ -8871,6 +8869,7 @@ hanamochi.ch
 hanamommy.ch
 hanamuminovic.ch
 hanamusic.ch
+hanana.ch
 hananails.ch
 hananailsaarau.ch
 hanandsamba.ch
@@ -11112,7 +11111,6 @@ handwerkzeuge.ch
 handwerkzurseemanschaft.ch
 handwert.ch
 handwinden.ch
-handwinterzermatt.ch
 handwirkerei.ch
 handwirkstatt.ch
 handwork-gmbh.ch
@@ -13352,7 +13350,9 @@ hanszim.ch
 hanszirngast.ch
 hanszuend.ch
 hanszuercher.ch
+hanta-virus.ch
 hanta-yo.ch
+hanta.ch
 hantag.ch
 hantarex.ch
 hantaviren.ch
@@ -13642,6 +13642,7 @@ happy-2-help.ch
 happy-ageing.ch
 happy-aging.ch
 happy-air.ch
+happy-alma.ch
 happy-alpaka.ch
 happy-and-healthy.ch
 happy-and-smart.ch
@@ -14067,6 +14068,7 @@ happyagua.ch
 happyai.ch
 happyair.ch
 happyairbnb.ch
+happyalma.ch
 happyamps.ch
 happyandhealthy.ch
 happyandmad.ch
@@ -14603,7 +14605,6 @@ happyjokerscasino.ch
 happyjonny.ch
 happyjpets.ch
 happyjuergday.ch
-happyjuice.ch
 happykanzlei.ch
 happykarma.ch
 happykebab.ch
@@ -15947,6 +15948,8 @@ hari-haustechnik.ch
 hari-om.ch
 hari.ch
 hariag.ch
+hariali.ch
+harialy.ch
 hariandco.ch
 haribo-rucksack.ch
 haribo-seespass.ch
@@ -15993,6 +15996,7 @@ hariom.ch
 hariomtatsat.ch
 harion.ch
 hariri.ch
+haris-electricite.ch
 haris-elsighuette.ch
 haris.ch
 harisalic.ch
@@ -16276,7 +16280,6 @@ harmoniatherapie.ch
 harmoniavitis.ch
 harmonic-balancing.ch
 harmonic-design.ch
-harmonic-sven.ch
 harmonic-touch.ch
 harmonic.ch
 harmonica-events.ch
@@ -16288,7 +16291,6 @@ harmonicegg.ch
 harmoniceggswitzerland.ch
 harmonicminds.ch
 harmonics.ch
-harmonicsven.ch
 harmonicum.ch
 harmonicus-creations.ch
 harmonie-a-flo.ch
@@ -17510,6 +17512,8 @@ harwy.ch
 hary-trans.ch
 hary.ch
 harya.ch
+haryali.ch
+haryaly.ch
 haryinnovation.ch
 haryo.ch
 harytaxi.ch
@@ -19401,6 +19405,7 @@ haus-im-ruthen.ch
 haus-im-tessin.ch
 haus-immobilie-verkaufen.ch
 haus-in-boppelsen.ch
+haus-in-brasilien.ch
 haus-in-finnland.ch
 haus-in-griechenland.ch
 haus-in-sins.ch
@@ -20061,6 +20066,7 @@ hausarzt-vecellio.ch
 hausarzt-vermittlung.ch
 hausarzt-volketswil.ch
 hausarzt-waedenswil.ch
+hausarzt-wagner.ch
 hausarzt-wallisellen.ch
 hausarzt-website.ch
 hausarzt-wetzikon.ch
@@ -20251,6 +20257,7 @@ hausarztpraxis-sursee.ch
 hausarztpraxis-thalmann.ch
 hausarztpraxis-thun.ch
 hausarztpraxis-uetendorf.ch
+hausarztpraxis-uetikon.ch
 hausarztpraxis-uster.ch
 hausarztpraxis-volketswil.ch
 hausarztpraxis-weidenhof.ch
@@ -20968,6 +20975,7 @@ hausfreude.ch
 hausfreund.ch
 hausfreunde-numatic.ch
 hausfreundenumatic.ch
+hausfriedensbruch.ch
 hausfueralle.ch
 hausfuergesundheit.ch
 hausfuerkinder.ch
@@ -24034,6 +24042,7 @@ hazelcast.ch
 hazelcovantes.ch
 hazeleyes.ch
 hazell.ch
+hazelle.ch
 hazelnoccio.ch
 hazelnut.ch
 hazelnutart.ch

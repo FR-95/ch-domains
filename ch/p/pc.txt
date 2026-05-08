@@ -619,6 +619,7 @@ pcconfig.ch
 pcconsultant.ch
 pcconsulting.ch
 pccp.ch
+pccph.ch
 pccs.ch
 pccsp.ch
 pccv.ch
@@ -782,6 +783,7 @@ pchighway.ch
 pchilfe-murten.ch
 pchilfe-ostschweiz.ch
 pchilfe-schweiz.ch
+pchilfe-thun.ch
 pchilfe-winterthur.ch
 pchilfe.ch
 pchilfebasel.ch
@@ -791,6 +793,7 @@ pchilfezuerich.ch
 pchm.ch
 pchomeservice.ch
 pchp.ch
+pchph.ch
 pchr.ch
 pchshop.ch
 pcht.ch
@@ -1049,6 +1052,7 @@ pcparts.ch
 pcpauschal.ch
 pcpc.ch
 pcpcapital.ch
+pcpch.ch
 pcperfect.ch
 pcperfekt.ch
 pcpeter.ch

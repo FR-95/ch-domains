@@ -574,6 +574,7 @@ be110997.ch
 be12.ch
 be144.ch
 be1net.ch
+be1x1.ch
 be2-erfahrung.ch
 be2-erfahrungen-schweiz.ch
 be2-test.ch
@@ -1323,6 +1324,7 @@ beapasquale.ch
 beapetri.ch
 beapferd.ch
 beaphar.ch
+beappee.ch
 beappy.ch
 beaps.ch
 beapunkt.ch
@@ -2255,6 +2257,7 @@ beatrice-sagefemme.ch
 beatrice-schaeuble.ch
 beatrice-schilling.ch
 beatrice-schmid.ch
+beatrice-schneider.ch
 beatrice-schuerch-mentalcoaching.ch
 beatrice-schuetz.ch
 beatrice-serieys.ch
@@ -4467,7 +4470,6 @@ beautyoasenkappeleninfo.ch
 beautyoasesylvia.ch
 beautyoasis.ch
 beautyofartaesthetic.ch
-beautyofcontent.ch
 beautyofhair.ch
 beautyofharmony.ch
 beautyofheartandsoul.ch
@@ -6680,7 +6682,6 @@ bee-sustainable.ch
 bee-systems.ch
 bee-tax.ch
 bee-tech.ch
-bee-to-b.ch
 bee-top.ch
 bee-tower.ch
 bee-tox.ch
@@ -6715,6 +6716,7 @@ beeandyou.ch
 beeangel.ch
 beeapi.ch
 beeapiculture.ch
+beeappee.ch
 beeappy.ch
 beear.ch
 beeard.ch
@@ -7217,6 +7219,7 @@ beenice.ch
 beeniceblends.ch
 beenicelife.ch
 beenli.ch
+beenmedia.ch
 beenom.ch
 beenose.ch
 beenotary.ch
@@ -7398,6 +7401,7 @@ beerealestate.ch
 beerealestatetax.ch
 beerebiisser.ch
 beeree.ch
+beerelax-massage.ch
 beeren-goldach.ch
 beeren-stark.ch
 beeren-wyss.ch
@@ -7728,7 +7732,6 @@ beetliebe.ch
 beetlifee.ch
 beetly.ch
 beetnut.ch
-beetob.ch
 beetobee.ch
 beetojey.ch
 beeton.ch
@@ -7850,7 +7853,6 @@ beeyouyoga.ch
 beez-academy.ch
 beez-arosa.ch
 beez-consulting.ch
-beez-to-b.ch
 beez.ch
 beezconsulting.ch
 beeze.ch
@@ -7870,7 +7872,6 @@ beezon.ch
 beezone.ch
 beezou.ch
 beezsolutions.ch
-beeztob.ch
 beezup.ch
 beezy-shop.ch
 beezy.ch
@@ -11859,6 +11860,7 @@ bellisweihnachtsvariete.ch
 bellitalia.ch
 bellitex.ch
 bellivalini.ch
+bellivo.ch
 belljostell.ch
 belljunior.ch
 bellm.ch
@@ -14421,7 +14423,6 @@ benjamin-spreng.ch
 benjamin-stadelmann.ch
 benjamin-steiner.ch
 benjamin-sutter.ch
-benjamin-und-ramona.ch
 benjamin-von-bangen.ch
 benjamin-walder.ch
 benjamin-weber.ch
@@ -14766,6 +14767,7 @@ benllo.ch
 benlu.ch
 benlucas.ch
 benluescher.ch
+benlyn.ch
 benlysta.ch
 benm.ch
 benmail.ch
@@ -15091,12 +15093,12 @@ benovia.ch
 benovici-advocatur.ch
 benovici-informatik.ch
 benovici.ch
+benovita.ch
 benow.ch
 benowia.ch
 benp.ch
 benpac.ch
 benpack.ch
-benpen.ch
 benpeter.ch
 benphotography.ch
 benporat.ch
@@ -16832,6 +16834,7 @@ beratungundtherapie.ch
 beratungundtreuhand.ch
 beratungundwerkzeug.ch
 beratungweber.ch
+beratungzahnd.ch
 beratungzuerich.ch
 beratungzug.ch
 beraud.ch
@@ -18370,6 +18373,7 @@ berghotelzursau.ch
 berghouse.ch
 berghuehner.ch
 berghuepfer.ch
+berghues.ch
 berghuesli.ch
 berghuetta-raschuns.ch
 berghuette-maderanertal.ch
@@ -18386,6 +18390,7 @@ berghuettestels.ch
 berghuis.ch
 berghund.ch
 berghus-obergmeind.ch
+berghus.ch
 berghuus-radons.ch
 berghuus.ch
 berghuusradons.ch
@@ -19021,6 +19026,7 @@ bergsteiger-original.ch
 bergsteiger-pontresina.ch
 bergsteigerdoerfer.ch
 bergsteigerdorf.ch
+bergsteigerei.ch
 bergsteigerkurse.ch
 bergsteigerlager.ch
 bergsteigerschule-riederalp.ch
@@ -19443,6 +19449,7 @@ beringer-hundesport.ch
 beringer-jazz-and-bluesdays.ch
 beringer-pampaluchi.ch
 beringer-partner.ch
+beringer-touristik.ch
 beringer.ch
 beringerbrakes.ch
 beringerbremsen.ch
@@ -22822,7 +22829,6 @@ bertholet-immobilien.ch
 bertholet-mathis.ch
 bertholet.ch
 bertholjotti.ch
-berthon-moine.ch
 berthoud-charpente.ch
 berthoud-festival.ch
 berthoud-financement.ch
@@ -24899,6 +24905,7 @@ bessonstrasser.ch
 bessonverbier.ch
 bessopharm.ch
 bessopulita.ch
+bessora.ch
 bessospueltechnik.ch
 bessq.ch
 bessr.ch
@@ -26971,7 +26978,6 @@ bestproductions.ch
 bestproductoftheyear.ch
 bestproducts.ch
 bestprojectsgroup.ch
-bestpromo.ch
 bestproperty.ch
 bestpublicity.ch
 bestpvbuy.ch
@@ -27258,6 +27264,7 @@ bestwin.ch
 bestwine.ch
 bestwines.ch
 bestwinesandmore.ch
+bestwinesbyblazek.ch
 bestwinetourism.ch
 bestwings.ch
 bestwipes.ch
@@ -27472,8 +27479,10 @@ beta-caryo.ch
 beta-doc.ch
 beta-finanz.ch
 beta-fit.ch
+beta-food.ch
 beta-glucan.ch
 beta-glukan.ch
+beta-grosshandel.ch
 beta-independent-pictures.ch
 beta-kamuno.ch
 beta-kurs.ch
@@ -27561,9 +27570,11 @@ betafence.ch
 betaferon.ch
 betafinance.ch
 betafit.ch
+betafood.ch
 betag-one.ch
 betag.ch
 betagamma.ch
+betagrosshandel.ch
 betagten-betreuung.ch
 betagten-produkte.ch
 betagten-stiftung.ch
@@ -27621,6 +27632,7 @@ betalink.ch
 betally.ch
 betalounge.ch
 betalov.ch
+betalright-ch.ch
 betalright.ch
 betalu.ch
 betam.ch
@@ -27715,6 +27727,7 @@ betax.ch
 betayou.ch
 betazocasino.ch
 betbarriere.ch
+betbay.ch
 betbeast.ch
 betben.ch
 betbetbet.ch
@@ -27809,6 +27822,7 @@ betfirst.ch
 betflag-casino.ch
 betflag.ch
 betflags.ch
+betfluff.ch
 betfm.ch
 betforward.ch
 betfouru.ch
@@ -28202,8 +28216,6 @@ betonfuchs.ch
 betonfuss.ch
 betong.ch
 betongalerie.ch
-betongarage.ch
-betongaragen.ch
 betongarta.ch
 betongeschenke.ch
 betongold-initiative.ch
@@ -29599,6 +29611,7 @@ betterpelvi.ch
 betterpipingpictures.ch
 betterpipingsolutions.ch
 betterplace.ch
+betterplaced.ch
 betterplan.ch
 betterplanetjobs.ch
 betterplaybook.ch
@@ -31108,7 +31121,6 @@ bewegung-und-gesundheit.ch
 bewegung-und-stille.ch
 bewegung-und-stimme.ch
 bewegung-und-tanz.ch
-bewegung-und-therapie-basel.ch
 bewegung-von-innen.ch
 bewegung-zukunft-schweiz.ch
 bewegung.ch
@@ -32235,6 +32247,7 @@ bexvyctor.ch
 bexwell.ch
 bexx.ch
 bexxo.ch
+bey-one.ch
 bey.ch
 bey0nd.ch
 beya.ch
@@ -32445,6 +32458,7 @@ beyond-holding.ch
 beyond-horizon.ch
 beyond-horizons.ch
 beyond-hub.ch
+beyond-human.ch
 beyond-ideas.ch
 beyond-innovations.ch
 beyond-interface.ch
@@ -32657,6 +32671,7 @@ beyondhealthclub.ch
 beyondheartfailure.ch
 beyondhorizon.ch
 beyondhorizons.ch
+beyondhuman.ch
 beyondillusions.ch
 beyondimage.ch
 beyondimpact.ch

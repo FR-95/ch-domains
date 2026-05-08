@@ -276,7 +276,6 @@ vocedelticino.ch
 vocediblenio.ch
 vocedimaria.ch
 vocedu.ch
-vocedunet.ch
 voceevangelica.ch
 vocelibera.ch
 vocembalo.ch
@@ -3782,7 +3781,6 @@ volta-club.ch
 volta-core.ch
 volta-electricite.ch
 volta-elektromaschinenbau.ch
-volta-energy.ch
 volta-garage.ch
 volta-lagerhaus.ch
 volta-motor.ch
@@ -6849,9 +6847,6 @@ vorsichtkinder.ch
 vorsichtkunst.ch
 vorsoge-tip.ch
 vorsonline.ch
-vorsorg-obwalden.ch
-vorsorg-ow.ch
-vorsorg.ch
 vorsorge-1e.ch
 vorsorge-2025.ch
 vorsorge-3a-3b.ch
@@ -7103,7 +7098,6 @@ vorsorgenvergleich.ch
 vorsorgeoptimieren.ch
 vorsorgeoptimierer.ch
 vorsorgeoptimierung.ch
-vorsorgeow.ch
 vorsorgepartner.ch
 vorsorgepartner24.ch
 vorsorgepartnerschweiz.ch
@@ -7196,11 +7190,8 @@ vorsorgezentrum.ch
 vorsorgezone.ch
 vorsorglich-obwalden.ch
 vorsorglich-ow.ch
-vorsorglich-vorsorgen.ch
 vorsorglich.ch
 vorsorglichobwalden.ch
-vorsorglichokb.ch
-vorsorglichow.ch
 vorsorgo.ch
 vorspanntechnik.ch
 vorsparlament.ch
@@ -7695,7 +7686,6 @@ votconsult.ch
 vote-a-blanc.ch
 vote-bash.ch
 vote-box.ch
-vote-butler.ch
 vote-clawn.ch
 vote-electronique.ch
 vote-futur.ch
@@ -8191,6 +8181,7 @@ voviva.ch
 vovo.ch
 vovofahrschule.ch
 vovoplus.ch
+vovora.ch
 vovos.ch
 vovox.ch
 vovoxi.ch

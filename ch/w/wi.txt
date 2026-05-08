@@ -1893,6 +1893,7 @@ wiesenweg-wasterkingen.ch
 wiesenweg.ch
 wiesenwerbung.ch
 wiesenwildwerk.ch
+wiesenwunder.ch
 wiesenzarter.ch
 wiesenzauber.ch
 wieseotte.ch
@@ -5871,6 +5872,7 @@ win-green.ch
 win-group.ch
 win-happy-end.ch
 win-hero.ch
+win-i.ch
 win-immo.ch
 win-in-win.ch
 win-integration.ch
@@ -7383,6 +7385,7 @@ winello.ch
 wineloft.ch
 winelog.ch
 winelounge-bar-buonvini.ch
+winelovepfalz.ch
 winelover.ch
 wineloverboutique.ch
 winelovers.ch
@@ -9764,6 +9767,7 @@ wintialp.ch
 wintiarena.ch
 wintiautoabo.ch
 wintiautomobile.ch
+wintibatzen.ch
 wintibeeren.ch
 wintibeiz.ch
 wintibier.ch
@@ -10466,6 +10470,7 @@ wir-bilden-die-zukunft.ch
 wir-bleiben-alle.ch
 wir-bleiben-erfolgreich.ch
 wir-bleiben-katholisch.ch
+wir-bleiben-schweiz.ch
 wir-blockchain.ch
 wir-boerse.ch
 wir-branche.ch
@@ -10690,7 +10695,6 @@ wir-lieben-apotheke.ch
 wir-lieben-automation.ch
 wir-lieben-ferien.ch
 wir-lieben-flugverspaetungen.ch
-wir-lieben-gemeinde.ch
 wir-lieben-haushalt.ch
 wir-lieben-jedes-auto.ch
 wir-lieben-jobs.ch
@@ -11782,10 +11786,10 @@ wirliebenautomation.ch
 wirliebenbau.ch
 wirliebenbio.ch
 wirliebendaten.ch
+wirliebendieschweiz.ch
 wirliebendruck.ch
 wirliebeneuch.ch
 wirliebenflugverspaetungen.ch
-wirliebengemeinde.ch
 wirliebenhaare.ch
 wirliebenhaushalt.ch
 wirliebenhunter.ch
@@ -13196,7 +13200,6 @@ wiseleaders.ch
 wiseliving.ch
 wisely.ch
 wisemac.ch
-wiseman.ch
 wisemanagementsa.ch
 wisemarket.ch
 wisemartialarts.ch
@@ -13677,6 +13680,7 @@ wissenskunst.ch
 wissensluchs.ch
 wissensluecke.ch
 wissensmanagement.ch
+wissensmanagment.ch
 wissensnavigator.ch
 wissensnetz.ch
 wissensoase.ch

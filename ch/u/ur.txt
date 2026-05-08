@@ -1102,7 +1102,6 @@ urbansquare.ch
 urbanstar.ch
 urbanstars.ch
 urbanstore.ch
-urbanstoremobility.ch
 urbanstory.ch
 urbanstrategies.ch
 urbanstreet.ch
@@ -1665,6 +1664,7 @@ urginea-illnau.ch
 urging.ch
 urglas.ch
 urglass.ch
+urgluet.ch
 urgmues.ch
 urgo.ch
 urgr8.ch
@@ -2224,6 +2224,8 @@ urlaubsreif.ch
 urlaubsreise.ch
 urlaubsreise24.ch
 urlaubsreisen.ch
+urlaubsscheck.ch
+urlaubsschecks.ch
 urlaubstage.ch
 urlaubstipps.ch
 urlaubstouristik.ch
@@ -3278,6 +3280,7 @@ ursache.ch
 ursachefinden.ch
 ursachen-diagnostik.ch
 ursachen-medizin.ch
+ursachenanalyse.ch
 ursachenbehandeln.ch
 ursachendiagnose.ch
 ursachendiagnostik.ch

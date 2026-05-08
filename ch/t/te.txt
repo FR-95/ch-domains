@@ -650,6 +650,7 @@ team-mohrmann.ch
 team-monadmin.ch
 team-monitor.ch
 team-moretti-racing.ch
+team-motoro.ch
 team-mueller.ch
 team-mzp.ch
 team-n1.ch
@@ -1531,6 +1532,7 @@ teamlofoto.ch
 teamlog.ch
 teamls.ch
 teamlubra.ch
+teamluca.ch
 teamluxuryinternational.ch
 teamly-power.ch
 teamly.ch
@@ -2596,6 +2598,7 @@ tecgarden.ch
 tecgasser.ch
 tecgen.ch
 tecgenio.ch
+tecgeo.ch
 tecglas.ch
 tecgroup.ch
 tech-000.ch
@@ -3329,6 +3332,7 @@ techmenomad.ch
 techmentoren.ch
 techmetalsa.ch
 techmetrics.ch
+techmetrix.ch
 techmeyer.ch
 techmidi.ch
 techmidian.ch
@@ -3684,7 +3688,6 @@ technikprofi.ch
 technikraum.ch
 technikrecht.ch
 technikreisen.ch
-technikruedu.ch
 technikscheune.ch
 technikschmitte.ch
 technikscout.ch
@@ -4493,6 +4496,7 @@ techsecure.ch
 techseed.ch
 techselect.ch
 techselesta.ch
+techsens.ch
 techsense.ch
 techserv.ch
 techserve-sagl.ch
@@ -9981,6 +9985,7 @@ tenebrae.ch
 tenebras-lux.ch
 tenebras.ch
 tenebrasgames.ch
+tenebraslux.ch
 tenebrasse.ch
 tenebrax.ch
 tenebrislux.ch
@@ -12285,6 +12290,7 @@ terra-collection.ch
 terra-compattazione.ch
 terra-computer.ch
 terra-computers.ch
+terra-conservatio.ch
 terra-control.ch
 terra-corvorum.ch
 terra-cotta.ch
@@ -13554,7 +13560,6 @@ terreditoscana.ch
 terrediverse.ch
 terredoc.ch
 terredombre.ch
-terredontranto.ch
 terredor.ch
 terredoree.ch
 terredorient.ch
@@ -13978,7 +13983,6 @@ terzini.ch
 terzio.ch
 terziu.ch
 terzium.ch
-terzius.ch
 terzivini.ch
 terziweb.ch
 terzo-dietikon.ch
@@ -15071,6 +15075,7 @@ testagruppe.ch
 testair.ch
 testaishtt3.ch
 testaiyyo.ch
+testajout.ch
 testalabeche.ch
 testalavista.ch
 testali.ch
@@ -15705,6 +15710,7 @@ testorxintra.ch
 testosteron-beratung-zuerich.ch
 testosteron-booster.ch
 testosteron-erhoehen.ch
+testosteron-ersatztherapie.ch
 testosteron-steigern.ch
 testosteron.ch
 testosterone.ch
@@ -17455,6 +17461,7 @@ textilwerkstatt.ch
 textilwerkstattmaennedorf.ch
 textilwerkstattstgallen.ch
 textilworld.ch
+textilxpert.ch
 textilzone.ch
 textimfluss.ch
 textimize.ch

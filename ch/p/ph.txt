@@ -305,6 +305,7 @@ phantomschmerz.ch
 phantomschmerzfrei.ch
 phantomslab.ch
 phantomsoftime.ch
+phantomstars.ch
 phantomte.ch
 phantomtrans.ch
 phantomwall.ch
@@ -1566,6 +1567,7 @@ pharmify.ch
 pharmindex.ch
 pharminfo.ch
 pharming.ch
+pharmio.ch
 pharmiraculix.ch
 pharmis-blister.ch
 pharmis-news.ch
@@ -1757,6 +1759,7 @@ phc.ch
 phcastellan.ch
 phcds.ch
 phch.ch
+phchp.ch
 phcj.ch
 phclaw.ch
 phclean.ch
@@ -1771,6 +1774,8 @@ phconcept.ch
 phconsult.ch
 phconsulting.ch
 phcosmetics.ch
+phcpc.ch
+phcph.ch
 phcs.ch
 phctech.ch
 phd-ag.ch
@@ -3266,7 +3271,6 @@ phillips66co.ch
 phillips66company.ch
 phillipsanalytics.ch
 phillipschwarzenberg.ch
-phillipsfunctionaltraining.ch
 phillipsmedisize.ch
 phillocation.ch
 phillot-elektro.ch
@@ -3891,6 +3895,7 @@ phoenix-commodities.ch
 phoenix-communication.ch
 phoenix-consulting.ch
 phoenix-cosmetic.ch
+phoenix-cosmetics.ch
 phoenix-cranio.ch
 phoenix-dcf-trading.ch
 phoenix-dcf.ch
@@ -6206,6 +6211,7 @@ phpmyapp.ch
 phpmysqlspezialist.ch
 phpnetz.ch
 phpph.ch
+phppp.ch
 phpprogrammierer.ch
 phpprogrammierung.ch
 phpr.ch
@@ -7255,7 +7261,6 @@ physio-kilchberg.ch
 physio-killer.ch
 physio-kinderjugend.ch
 physio-kinesis.ch
-physio-klinik-basel.ch
 physio-klosterplatz.ch
 physio-klotenbalsberg.ch
 physio-klusplatz.ch
@@ -7588,8 +7593,6 @@ physio-polesud.ch
 physio-pont-rouge.ch
 physio-portes-rouges.ch
 physio-praxen.ch
-physio-praxis-basel.ch
-physio-praxis-binningen.ch
 physio-praxis-erlenbach.ch
 physio-praxis-feytons.ch
 physio-praxis-kuesnacht.ch
@@ -7795,7 +7798,6 @@ physio-sonjaburri.ch
 physio-sonnenhof.ch
 physio-sonnenplatz.ch
 physio-spaeti.ch
-physio-spezialisten-basel.ch
 physio-sphera.ch
 physio-spina.ch
 physio-spitex.ch
@@ -8319,7 +8321,6 @@ physiobimbahnhof.ch
 physiobio.ch
 physiobioux.ch
 physiobirsbrugg.ch
-physiobirsfelden.ch
 physiobirsig.ch
 physiobirsstadt.ch
 physioblind.ch
@@ -9074,7 +9075,6 @@ physiomain.ch
 physiomaingeneve.ch
 physiomainsnuages.ch
 physiomalagnou.ch
-physiomalley.ch
 physiomampasi.ch
 physiomana.ch
 physiomanagement.ch
@@ -9197,7 +9197,6 @@ physiomuri.ch
 physiomurten.ch
 physiomusiciens.ch
 physiomuster.ch
-physiomuttenz.ch
 physiomw.ch
 physiomx.ch
 physion-meilen.ch
@@ -9695,7 +9694,6 @@ physiotherapeutevevey.ch
 physiotherapeutics.ch
 physiotherapeutin.ch
 physiotherapeutinnen.ch
-physiotherapeutische-behandlung-basel.ch
 physiotherapeutkreuzlingen.ch
 physiotherapeutuebendorf.ch
 physiotherapeutwetzikon.ch
@@ -9762,7 +9760,6 @@ physiotherapie-balsthal.ch
 physiotherapie-barbara-kueng.ch
 physiotherapie-baregg.ch
 physiotherapie-basel.ch
-physiotherapie-baselstadt.ch
 physiotherapie-baumgartner.ch
 physiotherapie-beatstreuli.ch
 physiotherapie-beaumont.ch
@@ -9782,7 +9779,6 @@ physiotherapie-binder.ch
 physiotherapie-binningen.ch
 physiotherapie-birmensdorf.ch
 physiotherapie-birrfeld.ch
-physiotherapie-birsfelden.ch
 physiotherapie-bischofberger.ch
 physiotherapie-bl.ch
 physiotherapie-bloem.ch
@@ -10085,7 +10081,6 @@ physiotherapie-muotathal.ch
 physiotherapie-muri-egg.ch
 physiotherapie-muri.ch
 physiotherapie-muttenz.ch
-physiotherapie-nach-operation-basel.ch
 physiotherapie-naef.ch
 physiotherapie-nedic.ch
 physiotherapie-neftenbach-pfungen.ch
@@ -10142,7 +10137,6 @@ physiotherapie-plus.ch
 physiotherapie-polak.ch
 physiotherapie-portal.ch
 physiotherapie-post.ch
-physiotherapie-praxis-basel.ch
 physiotherapie-praxis.ch
 physiotherapie-pro.ch
 physiotherapie-proaktiv.ch
@@ -10391,7 +10385,6 @@ physiotherapiebewegt.ch
 physiotherapiebianchi.ch
 physiotherapiebiel.ch
 physiotherapiebienne.ch
-physiotherapiebinningen.ch
 physiotherapieboezen.ch
 physiotherapieboll.ch
 physiotherapieboppelsen.ch
@@ -10490,7 +10483,6 @@ physiotherapiemontreux.ch
 physiotherapiemove.ch
 physiotherapiemtblanc.ch
 physiotherapiemuenchwilen.ch
-physiotherapiemuttenz.ch
 physiotherapien-zuerich.ch
 physiotherapien.ch
 physiotherapieneuengasse.ch

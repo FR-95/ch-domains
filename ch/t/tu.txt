@@ -1672,7 +1672,6 @@ tuning-car.ch
 tuning-coupe.ch
 tuning-day-aargau.ch
 tuning-deals.ch
-tuning-factory-gmbh.ch
 tuning-for-volvo.ch
 tuning-forum.ch
 tuning-garage.ch
@@ -1730,7 +1729,6 @@ tuningevents.ch
 tuningeventschweiz.ch
 tuningeventsschweiz.ch
 tuningfactory.ch
-tuningfactorygmbh.ch
 tuningfails.ch
 tuningfamily.ch
 tuningfiles.ch
@@ -1815,7 +1813,6 @@ tunnel-du-locle.ch
 tunnel-du-weissenstein.ch
 tunnel-engineering.ch
 tunnel-erlebnis.ch
-tunnel-eyholz.ch
 tunnel-feldli.ch
 tunnel-glarus.ch
 tunnel-gottardo-si.ch
@@ -2331,6 +2328,7 @@ turchi.ch
 turchiaticino.ch
 turchini.ch
 turck.ch
+turcmecanique.ch
 turco-corrente.ch
 turco-suisse.ch
 turconi.ch
@@ -2933,6 +2931,7 @@ turnierevents.ch
 turnierinfo.ch
 turnierkalender.ch
 turniermanager.ch
+turnierplaner.ch
 turnierplanung.ch
 turnierplattform.ch
 turniersekretariat.ch
@@ -3390,7 +3389,6 @@ tutor-schweiz.ch
 tutor-shqip.ch
 tutor-stgallen.ch
 tutor-zuerich.ch
-tutor.ch
 tutor24.ch
 tutor4you.ch
 tutora-app.ch
@@ -3663,6 +3661,7 @@ tuttomondopizza.ch
 tutton.ch
 tuttoniente.ch
 tuttopane.ch
+tuttopassa.ch
 tuttopasta.ch
 tuttopenne.ch
 tuttoperilfuturo.ch

@@ -122,7 +122,6 @@ wfs.ch
 wfsapp.ch
 wfschmied.ch
 wfscoachings.ch
-wfsgsr-fe-bo.ch
 wfsmobel.ch
 wfsproducts.ch
 wfsr.ch

@@ -6,7 +6,6 @@ bk-arch.ch
 bk-architekten.ch
 bk-architektur.ch
 bk-artbau.ch
-bk-atelier.ch
 bk-atlantis-stiftung.ch
 bk-atlantis.ch
 bk-bachmann.ch
@@ -260,7 +259,6 @@ bkfahrzeugtechnik.ch
 bkfassaden.ch
 bkfc.ch
 bkfchairs.ch
-bkfe.ch
 bkfid.ch
 bkfin.ch
 bkfood.ch

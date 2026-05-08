@@ -1,5 +1,4 @@
 zp-alpenquai.ch
-zp-bau.ch
 zp-co.ch
 zp-conference.ch
 zp-conferences.ch
@@ -36,7 +35,6 @@ zpath.ch
 zpay.ch
 zpb-privat.ch
 zpb.ch
-zpbau.ch
 zpbb.ch
 zpbk.ch
 zpbkplatten.ch

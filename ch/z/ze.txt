@@ -549,6 +549,7 @@ zefiro.ch
 zefiroag.ch
 zefiros.ch
 zefis.ch
+zefiscout.ch
 zefitech.ch
 zefix.ch
 zefixapp.ch
@@ -618,7 +619,6 @@ zehava.ch
 zehbulon.ch
 zehcnas.ch
 zehe.ch
-zehen-socke.ch
 zehen.ch
 zehenanalyse-lernen.ch
 zehenbox.ch
@@ -640,7 +640,6 @@ zehennageloperation.ch
 zehenpolster.ch
 zehenprothese.ch
 zehenschuhe.ch
-zehensocke.ch
 zehensocken-schweiz.ch
 zehensocken.ch
 zehensockenschweiz.ch
@@ -4217,8 +4216,6 @@ zentrum-fuer-geistige-alchemie.ch
 zentrum-fuer-geld-und-bewusstsein.ch
 zentrum-fuer-gesundheit.ch
 zentrum-fuer-herzdiagnostik.ch
-zentrum-fuer-hochsensibilitaet.ch
-zentrum-fuer-hochsensitivitaet.ch
 zentrum-fuer-integrative-onkologie.ch
 zentrum-fuer-kinderhypnose.ch
 zentrum-fuer-kinderwunsch.ch
@@ -4257,8 +4254,6 @@ zentrum-hardbruecke.ch
 zentrum-heerbrugg.ch
 zentrum-herzbruecke.ch
 zentrum-hochschulentwicklung.ch
-zentrum-hochsensibilitaet.ch
-zentrum-hochsensitivitaet.ch
 zentrum-hoechweid-ag.ch
 zentrum-hoechweid.ch
 zentrum-hofgarten.ch
@@ -4550,7 +4545,6 @@ zentrumhofmatta.ch
 zentrumhombi.ch
 zentrumhombrechtikon.ch
 zentrumhorw.ch
-zentrumhs.ch
 zentrumhund.ch
 zentrumhundekompetenz.ch
 zentrumimfluss.ch
@@ -4711,6 +4705,7 @@ zenubia.ch
 zenui.ch
 zenum.ch
 zenumedia.ch
+zenunaj-it.ch
 zenundbogen.ch
 zenuni-performance.ch
 zenuni-sarl.ch
@@ -5199,7 +5194,6 @@ zermatt-line.ch
 zermatt-living.ch
 zermatt-magazin.ch
 zermatt-marathon.ch
-zermatt-matterhorn-trek.ch
 zermatt-matterhorn.ch
 zermatt-memories.ch
 zermatt-mieten.ch

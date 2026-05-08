@@ -211,7 +211,6 @@ dyn-group.ch
 dyn-ip.ch
 dyn-labcc.ch
 dyn-music.ch
-dyn-res.ch
 dyn-solution.ch
 dyn-svc.ch
 dyn.ch

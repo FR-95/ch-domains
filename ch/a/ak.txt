@@ -62,7 +62,6 @@ ak-horizon.ch
 ak-hotelimmobilien.ch
 ak-im.ch
 ak-images.ch
-ak-immo.ch
 ak-immobilien.ch
 ak-info.ch
 ak-ing.ch
@@ -927,6 +926,7 @@ akib.ch
 akiba.ch
 akiba123.ch
 akibaprod.ch
+akibawin.ch
 akicita.ch
 akicom.ch
 akid-davos.ch
@@ -2437,6 +2437,7 @@ aktivbau.ch
 aktivbewegen.ch
 aktivbewegungsstall.ch
 aktivbewerbung.ch
+aktivbrunegg.ch
 aktivcarreisen.ch
 aktivchance.ch
 aktivcoaching.ch
@@ -2559,7 +2560,6 @@ aktivitaten.ch
 aktivite.ch
 aktivkapital.ch
 aktivkauf.ch
-aktivkohle-filter.ch
 aktivkohle-zahnpasta.ch
 aktivkohle.ch
 aktivkohlefilter-wasser.ch

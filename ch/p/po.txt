@@ -929,6 +929,7 @@ podologie8032.ch
 podologiealtstadtbern.ch
 podologieamalbis.ch
 podologieambahnhof.ch
+podologieamriswil.ch
 podologieamrosenberg.ch
 podologieamsee.ch
 podologieapiedi.ch
@@ -4163,6 +4164,8 @@ polizei-organisationen.ch
 polizei-ow.ch
 polizei-partner.ch
 polizei-passt-genau.ch
+polizei-patrouille.ch
+polizei-patrouillen.ch
 polizei-recht.ch
 polizei-redaktion.ch
 polizei-region-meilen.ch
@@ -4528,6 +4531,8 @@ polizeiorganisationen.ch
 polizeiow.ch
 polizeipartner.ch
 polizeipasstgenau.ch
+polizeipatrouille.ch
+polizeipatrouillen.ch
 polizeiplan.ch
 polizeiportal.ch
 polizeiposten.ch
@@ -5790,7 +5795,6 @@ polymarkets.ch
 polymaster.ch
 polymat.ch
 polymatch.ch
-polymath.ch
 polymathe.ch
 polymathy.ch
 polymatic.ch
@@ -9763,6 +9767,7 @@ portauprince.ch
 portavenches.ch
 portaventura.ch
 portaventuraworld.ch
+portaverde.ch
 portaverzasca.ch
 portavia-stgallen.ch
 portavino.ch
@@ -10854,6 +10859,7 @@ posibrass-rft.ch
 posic.ch
 posiciona.ch
 posicoder.ch
+posics.ch
 posido.ch
 posidocas.ch
 posidoch.ch
@@ -12332,7 +12338,6 @@ potentialyse.ch
 potentiate.ch
 potentiel-asso.ch
 potentiel-atypique.ch
-potentiel-constructible.ch
 potentiel-toi-moi-nous.ch
 potentiel.ch
 potentieldedommages.ch
@@ -12456,6 +12461,7 @@ poths-solutions.ch
 poths.ch
 potier.ch
 potiers.ch
+potiersportif.ch
 potifob.ch
 potify.ch
 potines.ch
@@ -13565,6 +13571,7 @@ powerbrake.ch
 powerbrass.ch
 powerbraze.ch
 powerbreak.ch
+powerbreakers.ch
 powerbreaks.ch
 powerbreathe.ch
 powerbreeze.ch

@@ -1274,6 +1274,7 @@ pfau-art.ch
 pfau-design.ch
 pfau-electronics.ch
 pfau.ch
+pfaubar.ch
 pfaudesign.ch
 pfaudler.ch
 pfauegli.ch
@@ -1284,6 +1285,7 @@ pfauen-restaurant.ch
 pfauen-treuhand.ch
 pfauen-zucht.ch
 pfauen.ch
+pfauenapotheke.ch
 pfauenbier.ch
 pfauenbuehne.ch
 pfauenfarm.ch
@@ -3118,6 +3120,7 @@ pfistyle.ch
 pfiter.ch
 pfitser.ch
 pfitz.ch
+pfitzergil.ch
 pfitzi.ch
 pfitzner.ch
 pfiweb.ch
@@ -3908,6 +3911,7 @@ pflegebettmieten.ch
 pflegebezahlung.ch
 pflegebezahlungvergleich.ch
 pflegebeziehung.ch
+pflegebildungseeland.ch
 pflegeblog.ch
 pflegeboard.ch
 pflegeboerse.ch
@@ -4725,7 +4729,6 @@ pfnussbaumer.ch
 pfo-band.ch
 pfo-gossau.ch
 pfo-herisau.ch
-pfo-pearl.ch
 pfo.ch
 pfoband.ch
 pfocus.ch

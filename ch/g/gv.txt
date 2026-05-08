@@ -119,7 +119,10 @@ gva-energy.ch
 gva-eri.ch
 gva-eservices.ch
 gva-freeports.ch
+gva-g7.ch
 gva-immo.ch
+gva-infog7.ch
+gva-infosg7.ch
 gva-integrity.ch
 gva-it.ch
 gva-limousine.ch

@@ -38,6 +38,7 @@ ed-pellissier.ch
 ed-physio.ch
 ed-platrerie-peinture.ch
 ed-pro.ch
+ed-renovation.ch
 ed-s.ch
 ed-sa.ch
 ed-serrurerie.ch
@@ -301,7 +302,6 @@ ede-solutions.ch
 ede-swiss.ch
 ede-vous-aide.ch
 ede.ch
-edea-bau.ch
 edea.ch
 edeagroup.ch
 edeal.ch
@@ -1425,6 +1425,7 @@ edelweissworld.ch
 edelwerk.ch
 edelwerkatelier.ch
 edelwerkmedia.ch
+edelwerkz.ch
 edelwert.ch
 edelwet.ch
 edelwheel.ch
@@ -2784,6 +2785,7 @@ edition-vfo.ch
 edition-waldburga.ch
 edition-wgl.ch
 edition-wille.ch
+edition-winterthur.ch
 edition-wohnbedarf.ch
 edition-zauberberg.ch
 edition.ch
@@ -3671,7 +3673,6 @@ edpservice.ch
 edpsych.ch
 edpx.ch
 edq.ch
-edquot.ch
 edqwest.ch
 edr-cdr.ch
 edr-consulting.ch
@@ -4751,6 +4752,7 @@ edupla.ch
 eduplace.ch
 eduplain.ch
 eduplan.ch
+eduplaner.ch
 eduplanet.ch
 eduplay.ch
 eduplayz.ch

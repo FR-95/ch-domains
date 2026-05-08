@@ -258,6 +258,7 @@ bs13.ch
 bs16.ch
 bs1893.ch
 bs1974.ch
+bs1x1.ch
 bs2.ch
 bs2037.ch
 bs24-switzerland.ch
@@ -574,6 +575,7 @@ bsd-thun.ch
 bsd.ch
 bsd2600.ch
 bsdach.ch
+bsdaction.ch
 bsdata.ch
 bsdbasel.ch
 bsdbern.ch
@@ -640,6 +642,7 @@ bsfconsulting.ch
 bsff.ch
 bsfh-lernende.ch
 bsfh.ch
+bsfibre.ch
 bsfidi.ch
 bsfiduciaire.ch
 bsfigurstudio.ch
@@ -961,7 +964,6 @@ bsos.ch
 bsource.ch
 bsourcesa.ch
 bsouvenirs.ch
-bsow.ch
 bsp-ag.ch
 bsp-brandschutz.ch
 bsp-ch.ch

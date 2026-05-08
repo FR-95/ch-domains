@@ -732,6 +732,7 @@ hochdruckluefter.ch
 hochdruckprofis.ch
 hochdruckpumpe.ch
 hochdruckpumpen.ch
+hochdruckpur.ch
 hochdruckreinigen.ch
 hochdruckreiniger-ecosan-ag.ch
 hochdruckreiniger.ch
@@ -2964,6 +2965,7 @@ hoehenflug-coaching.ch
 hoehenflug-honig.ch
 hoehenflug-hypnose.ch
 hoehenflug.ch
+hoehengebet.ch
 hoehengrad.ch
 hoehenhandwerk-gmbh.ch
 hoehenklinik-davos.ch
@@ -3726,7 +3728,6 @@ hoesch.ch
 hoeschag.ch
 hoeschen-schnueffler.ch
 hoeschen.ch
-hoeschenfactory.ch
 hoeschenimdoeschen.ch
 hoescher.ch
 hoeschetli-mitloedi.ch
@@ -6602,7 +6603,6 @@ holenstein.ch
 holenstein9.ch
 holensteinag.ch
 holensteinarch.ch
-holensteincoaching.ch
 holensteinfilms.ch
 holensteingartenbau.ch
 holensteingastro.ch
@@ -6901,6 +6901,7 @@ holidayspicker.ch
 holidaysport.ch
 holidaysportchampery.ch
 holidaysrental.ch
+holidaysrosalie.ch
 holidaysswitzerland.ch
 holidaystudio.ch
 holidaysvalais.ch
@@ -9409,6 +9410,7 @@ holzfin.ch
 holzfinger.ch
 holzfinish.ch
 holzfisch.ch
+holzfisch007.ch
 holzflair.ch
 holzflick.ch
 holzflickwerk.ch
@@ -9870,7 +9872,6 @@ holzlicht.ch
 holzlichtdesign.ch
 holzliebe.ch
 holzliebhaber.ch
-holzliebi.ch
 holzliecht.ch
 holzlieferant.ch
 holzliege.ch
@@ -9991,7 +9992,6 @@ holzmomente.ch
 holzmontage.ch
 holzmontagen.ch
 holzmonteur.ch
-holzmoscheekunst.ch
 holzmuehle.ch
 holzmueller.ch
 holzmundstueck.ch
@@ -10191,7 +10191,6 @@ holzreich.ch
 holzreparatur.ch
 holzrevue.ch
 holzrichter.ch
-holzring.ch
 holzringe.ch
 holzrobotik.ch
 holzrolladen.ch
@@ -11342,7 +11341,6 @@ home2c.ch
 home2day.ch
 home2go.ch
 home2home.ch
-home2life.ch
 home2live.ch
 home2move.ch
 home2print.ch
@@ -12842,7 +12840,6 @@ homeservice-be.ch
 homeservice-kolb.ch
 homeservice-plus.ch
 homeservice-thunersee.ch
-homeservice.ch
 homeservice24.ch
 homeservice4you.ch
 homeserviceag.ch
@@ -13861,7 +13858,6 @@ hondurasginebra.ch
 hone-s.ch
 hone.ch
 honee.ch
-honegg-air.ch
 honegg-kuessnacht-am-rigi.ch
 honegg-kuessnacht.ch
 honegg-wohnen.ch
@@ -14190,7 +14186,6 @@ honicy.ch
 honiemoney.ch
 honig-abo.ch
 honig-abonnement.ch
-honig-ar.ch
 honig-baron.ch
 honig-beauty.ch
 honig-biene.ch
@@ -15992,7 +15987,6 @@ horizonlechateau.ch
 horizonleman.ch
 horizonleysin.ch
 horizonlibre.ch
-horizonlife.ch
 horizonline.ch
 horizonmedia.ch
 horizonmediation.ch
@@ -16443,6 +16437,7 @@ hornernews.ch
 hornerpub.ch
 horners.ch
 hornerstamm.ch
+hornet-bet.ch
 hornet-medical.ch
 hornet-stubeli.ch
 hornet.ch
@@ -20291,6 +20286,7 @@ hotel-zum-see.ch
 hotel-zumhirschen.ch
 hotel-zur-kapelle.ch
 hotel-zur-linde.ch
+hotel-zur-post.ch
 hotel-zur-waag.ch
 hotel-zurbriggen.ch
 hotel-zurich.ch
@@ -20403,6 +20399,7 @@ hotelaltstadt.ch
 hotelalvier.ch
 hotelamaris.ch
 hotelambiance.ch
+hotelambord.ch
 hotelamerica.ch
 hotelamfang.ch
 hotelamir.ch
@@ -20509,6 +20506,7 @@ hotelbambi.ch
 hotelbananacity.ch
 hotelbank.ch
 hotelbar.ch
+hotelbarcablu.ch
 hotelbarcelona.ch
 hotelbarometer.ch
 hotelbarrique.ch
@@ -21429,6 +21427,7 @@ hotelkugelschreiber.ch
 hotelkurhaus.ch
 hotell.ch
 hotellabalance.ch
+hotellabarcablu.ch
 hotellachauxdabel.ch
 hotellacollina.ch
 hotelladina.ch
@@ -21810,6 +21809,7 @@ hotelpost-bivio.ch
 hotelpost-forschung.ch
 hotelpost-glarnerhof.ch
 hotelpost-group.ch
+hotelpost-mariastein.ch
 hotelpost-sargans.ch
 hotelpost.ch
 hotelpostandeer.ch
@@ -23402,6 +23402,7 @@ house-of-scandinavia.ch
 house-of-science.ch
 house-of-sciences.ch
 house-of-shades.ch
+house-of-shape.ch
 house-of-skills.ch
 house-of-sound.ch
 house-of-spa.ch

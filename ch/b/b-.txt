@@ -538,7 +538,6 @@ b-lift.ch
 b-light.ch
 b-limat.ch
 b-limoluxury.ch
-b-linarte.ch
 b-line-watch.ch
 b-line.ch
 b-lingue.ch
@@ -721,6 +720,7 @@ b-rater.ch
 b-raterin.ch
 b-raum.ch
 b-ray.ch
+b-rayz-sportglasses.ch
 b-rayz.ch
 b-rb.ch
 b-re.ch

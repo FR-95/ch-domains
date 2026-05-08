@@ -221,6 +221,7 @@ hgl.ch
 hglangnau-berge.ch
 hglaw.ch
 hglbb.ch
+hglenzburg.ch
 hglifter.ch
 hgln.ch
 hglohn.ch
@@ -421,6 +422,7 @@ hgvv.ch
 hgvvp.ch
 hgvw.ch
 hgvwidnau.ch
+hgvwn.ch
 hgw-chl.ch
 hgw-it.ch
 hgw-winterthur.ch

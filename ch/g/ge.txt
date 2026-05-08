@@ -154,6 +154,7 @@ ge.ch
 ge1-nb.ch
 ge1.ch
 ge10.ch
+ge1x1.ch
 ge200.ch
 ge2018.ch
 ge21.ch
@@ -595,7 +596,6 @@ gebaeudesimulation.ch
 gebaeudesimulationschweiz.ch
 gebaeudeteam.ch
 gebaeudetechnik-aargau.ch
-gebaeudetechnik-ag.ch
 gebaeudetechnik-basel.ch
 gebaeudetechnik-beratung.ch
 gebaeudetechnik-bern.ch
@@ -1551,6 +1551,7 @@ geburtsnest.ch
 geburtspfad.ch
 geburtspflege.ch
 geburtspool-mieten.ch
+geburtsportal.ch
 geburtspsychologie.ch
 geburtsraum.ch
 geburtsreisebern.ch
@@ -2486,7 +2487,6 @@ gefaehrten-der-schwalbe.ch
 gefaehrtentreff.ch
 gefaehrtenzeit.ch
 gefaelledach.ch
-gefaellt-mir.ch
 gefaengnis-pfs.ch
 gefaengnis.ch
 gefaengnisseelsorge-zh.ch
@@ -6640,6 +6640,7 @@ gems-by-laila.ch
 gems-of-sirius.ch
 gems-platform.ch
 gems-schweiz.ch
+gems-swiss.ch
 gems-trade.ch
 gems-und-halbmond.ch
 gems.ch
@@ -7268,6 +7269,7 @@ generactions.ch
 generactionsplanet.ch
 generaele-2.ch
 generaele2.ch
+generaflow.ch
 generag.ch
 generaholding.ch
 generaite.ch
@@ -8357,6 +8359,7 @@ geneva-swiss-tattoo.ch
 geneva-tatouage.ch
 geneva-tattoo.ch
 geneva-tax.ch
+geneva-taxi-reservation.ch
 geneva-taxi.ch
 geneva-team-ambulances.ch
 geneva-telecom.ch
@@ -9492,6 +9495,7 @@ geneveosteopathes.ch
 geneveosteopathie.ch
 genevepadel.ch
 genevepadelclub.ch
+genevepanneausolaire.ch
 geneveparebrise.ch
 geneveparking-habits.ch
 geneveparquet.ch
@@ -9585,6 +9589,7 @@ genevevilleintelligente.ch
 genevevision.ch
 genevevisuels.ch
 genevevolley.ch
+geneveweb.ch
 genevexpertise.ch
 genevexpress.ch
 genevey.ch
@@ -9878,6 +9883,7 @@ geniedeals.ch
 geniedelalampe.ch
 geniedulieu.ch
 geniegenetique.ch
+geniehub.ch
 genielift.ch
 genieme.ch
 genieprotect.ch
@@ -12355,6 +12361,7 @@ geomapp.ch
 geomapping.ch
 geomaps.ch
 geomapseo.ch
+geomar-swiss.ch
 geomar.ch
 geomarke.ch
 geomarketing-server.ch
@@ -13698,7 +13705,6 @@ gerancimmo.ch
 gerancimo.ch
 gerania.ch
 geranien-mueller.ch
-geranienmarkt.ch
 geranienwelt.ch
 geranium.ch
 geraniumcity.ch
@@ -19166,6 +19172,7 @@ gesundheitsstudio.ch
 gesundheitssystem.ch
 gesundheitstag-winterthur.ch
 gesundheitstag.ch
+gesundheitstage-oberwallis.ch
 gesundheitstage-zug.ch
 gesundheitstage.ch
 gesundheitstagezug.ch
@@ -21781,6 +21788,7 @@ gewerbefrauenfeld.ch
 gewerbefruehling.ch
 gewerbegaiserwald.ch
 gewerbegampelsteg.ch
+gewerbegebaeude.ch
 gewerbegebiete.ch
 gewerbegeraete.ch
 gewerbegiswil.ch
@@ -22361,6 +22369,7 @@ gewinne-kunden.ch
 gewinne.ch
 gewinnekunden.ch
 gewinnemitodolmed3.ch
+gewinnen-mit-glueck.ch
 gewinnen-mit-herz.ch
 gewinnen.ch
 gewinnen24.ch

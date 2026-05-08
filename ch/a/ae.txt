@@ -2830,6 +2830,7 @@ aerztezentrum-biberist.ch
 aerztezentrum-bifang.ch
 aerztezentrum-brienz.ch
 aerztezentrum-buchs.ch
+aerztezentrum-buempliz.ch
 aerztezentrum-buochs.ch
 aerztezentrum-burg.ch
 aerztezentrum-burgdorf.ch
@@ -2850,6 +2851,7 @@ aerztezentrum-hamel.ch
 aerztezentrum-heiden.ch
 aerztezentrum-hochdorf.ch
 aerztezentrum-interlaken.ch
+aerztezentrum-ittigen.ch
 aerztezentrum-jegenstorf.ch
 aerztezentrum-kilchberg.ch
 aerztezentrum-kirchberg.ch
@@ -2891,6 +2893,7 @@ aerztezentrum-rosenthal.ch
 aerztezentrum-saastal.ch
 aerztezentrum-sargans.ch
 aerztezentrum-schoenbuehl.ch
+aerztezentrum-schoenburg.ch
 aerztezentrum-seebach.ch
 aerztezentrum-sihlcity.ch
 aerztezentrum-silenen.ch

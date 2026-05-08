@@ -4893,7 +4893,6 @@ acquabasel.ch
 acquabasilea.ch
 acquabbona-ciardo.ch
 acquacalda.ch
-acquacasa.ch
 acquacino.ch
 acquaclean.ch
 acquacocco.ch
@@ -5472,6 +5471,7 @@ acs-solution.ch
 acs-stiftung.ch
 acs-store.ch
 acs-suisse.ch
+acs-switzerland.ch
 acs-tg.ch
 acs-thurgau.ch
 acs-trading.ch
@@ -5589,7 +5589,6 @@ acsteiner.ch
 acsti.ch
 acstoren.ch
 acstudio.ch
-acstudio103.ch
 acsuissegourmet.ch
 acsupervisions.ch
 acsv.ch

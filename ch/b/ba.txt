@@ -1091,7 +1091,6 @@ baby-tipps.ch
 baby-toolz.ch
 baby-touch.ch
 baby-toys-outlet.ch
-baby-tragen.ch
 baby-und-familie.ch
 baby-und-kleinkind.ch
 baby-undkleinkindsprechstundefamiiienpraxisaarau.ch
@@ -1710,7 +1709,6 @@ babyparadisogioia.ch
 babypark.ch
 babyparties.ch
 babyparty.ch
-babypause.ch
 babypaw.ch
 babypentathlon.ch
 babypflege-kurs.ch
@@ -1886,7 +1884,6 @@ babysitting-croixrouge.ch
 babysitting-crs.ch
 babysitting-mutschellen.ch
 babysitting-srk.ch
-babysitting.ch
 babysitting24.ch
 babysittingbern.ch
 babysittingcrs.ch
@@ -1912,7 +1909,6 @@ babysnap.ch
 babysneakers.ch
 babysocken.ch
 babysoft.ch
-babysoley.ch
 babysolutions.ch
 babysong.ch
 babysoon.ch
@@ -2883,7 +2879,6 @@ bachtel2025.ch
 bachtel84.ch
 bachtela.ch
 bachtelapotheke.ch
-bachtelbbq.ch
 bachtelbeef.ch
 bachtelberg.ch
 bachtelbiker.ch
@@ -3360,6 +3355,7 @@ backkultur.ch
 backkunst.ch
 backkurs.ch
 backkurse.ch
+backlabs.ch
 backlackspulen.ch
 backlash.ch
 backlauge.ch
@@ -3865,7 +3861,6 @@ backyardultravalais.ch
 backyouup.ch
 backyrd.ch
 backzacc.ch
-backzen.ch
 backzettel.ch
 backzone.ch
 backzutaten.ch
@@ -4608,7 +4603,6 @@ baderhome.ch
 baderimmo.ch
 baderimmobilien.ch
 baderinnen.ch
-baderkommunikation.ch
 baderkosmetik.ch
 baderlaw.ch
 baderleibundseele.ch
@@ -5141,6 +5135,7 @@ badland.ch
 badlandfilms.ch
 badlands.ch
 badlauterbach.ch
+badlelanderon.ch
 badliner.ch
 badlostorf.ch
 badlux.ch
@@ -5409,6 +5404,7 @@ badsanierung-thal.ch
 badsanierung-thurgau.ch
 badsanierung-zuerich.ch
 badsanierung.ch
+badsanierungbiel.ch
 badsanierungen.ch
 badsanierungrh.ch
 badsanierungwinterthur.ch
@@ -6658,7 +6654,6 @@ baerenwohlen.ch
 baerenzaun.ch
 baerenzingel.ch
 baerenzueberwangen.ch
-baerenzug.ch
 baerenzunft.ch
 baerenzweisimmen.ch
 baerepadel.ch
@@ -7063,6 +7058,7 @@ baertschi-kyburg.ch
 baertschi-legal.ch
 baertschi-loesungen.ch
 baertschi-logistik.ch
+baertschi-machts.ch
 baertschi-mail.ch
 baertschi-management.ch
 baertschi-marketing.ch
@@ -7276,6 +7272,7 @@ baeumlis.ch
 baeumlischafft.ch
 baeumliweg32.ch
 baeumner.ch
+baeup.ch
 baeupmoos-live.ch
 baeupmoos.ch
 baeurer.ch
@@ -8028,6 +8025,7 @@ bahigo388.ch
 bahigo399.ch
 bahigo420.ch
 bahigo471.ch
+bahigo50.ch
 bahigo525.ch
 bahigo584.ch
 bahigo602.ch
@@ -8356,6 +8354,7 @@ bahnhofgarage-brunnen.ch
 bahnhofgarage-bz.ch
 bahnhofgarage-gasel.ch
 bahnhofgarage-jaberg.ch
+bahnhofgarage-keller.ch
 bahnhofgarage-koblenz.ch
 bahnhofgarage-luethi.ch
 bahnhofgarage-sz.ch
@@ -8961,6 +8960,7 @@ bainssonores.ch
 bainsthermaux-suisse.ch
 bainsvaldilliez.ch
 bainsyverdon.ch
+bainteriors.ch
 baintuffarolas.ch
 bainvegnifugitivsmarsch.ch
 bainviver-chur.ch
@@ -10139,6 +10139,8 @@ balci.ch
 balcihaustechnik.ch
 balcilar.ch
 balcin.ch
+balcisoftware.ch
+balcisystems.ch
 balco.ch
 balcoa.ch
 balcogroup.ch
@@ -13288,6 +13290,7 @@ bananenbox.ch
 bananenchips.ch
 bananenfis.ch
 bananenhoehle.ch
+bananenkiste-mieten.ch
 bananenkiste.ch
 bananenkisten.ch
 bananenreiferei.ch
@@ -16393,7 +16396,6 @@ barbaras-chalet-sunnegg.ch
 barbaras-dreamhouse.ch
 barbaras-gesundheitspraxis.ch
 barbaras-tischzauber.ch
-barbaras-welten.ch
 barbaras.ch
 barbarasaladin.ch
 barbarasart.ch
@@ -16610,7 +16612,6 @@ barbe-rousse.ch
 barbe.ch
 barbeapapa-machine.ch
 barbeapapa.ch
-barbeapapabarbershop.ch
 barbeas.ch
 barbecook.ch
 barbecube.ch
@@ -16868,6 +16869,7 @@ barbey-mies.ch
 barbey-parquet.ch
 barbey.ch
 barbeyfave.ch
+barbeyfinance.ch
 barbeyfreres.ch
 barbeygc.ch
 barbeysoehneag.ch
@@ -17375,7 +17377,6 @@ bareiss.ch
 bareissarchitektur.ch
 bareissvontobel.ch
 bareit.ch
-bareiz.ch
 barejko.ch
 bareknuckleboxing.ch
 bareko-ag.ch
@@ -18372,6 +18373,7 @@ barnold.ch
 barnone.ch
 barnosho.ch
 barnowl-research.ch
+barnsley.ch
 barnstomp.ch
 barnstompers.ch
 barnstorf.ch
@@ -18573,6 +18575,7 @@ baroo.ch
 baroom.ch
 baroon.ch
 baropeinture.ch
+baroplangmbh.ch
 baroproduction.ch
 baroq.ch
 baroque-beauty.ch
@@ -20137,7 +20140,6 @@ basel-personal.ch
 basel-personaltraining.ch
 basel-pflege.ch
 basel-photovoltaik.ch
-basel-physio-zentrum.ch
 basel-polizei.ch
 basel-portal.ch
 basel-powderbrows.ch
@@ -20194,7 +20196,6 @@ basel-souvenirs.ch
 basel-spezial.ch
 basel-spitex.ch
 basel-sport-camps.ch
-basel-stadt-physio.ch
 basel-stadt-portal.ch
 basel-stadt-ticker.ch
 basel-stadt-zahnarzt.ch
@@ -20776,7 +20777,6 @@ baselpass.ch
 baselpatent.ch
 baselpeaceforum.ch
 baselphotography.ch
-baselphysiotherapie.ch
 baselpiano.ch
 baselpilates.ch
 baselplus.ch
@@ -21233,6 +21233,7 @@ basicoin.ch
 basicpit.ch
 basicplus.ch
 basicposter.ch
+basicpranichealing.ch
 basicproducts.ch
 basicri.ch
 basicroom.ch
@@ -21294,6 +21295,7 @@ basilbonzi.ch
 basilbrunner.ch
 basilcoiffure.ch
 basildietlicher.ch
+basildimitri.ch
 basildubs.ch
 basile-active-trading.ch
 basile-kamm.ch
@@ -26423,6 +26425,7 @@ bauingenieurin.ch
 bauingenieuron.ch
 bauingenieurwesen.ch
 bauinio.ch
+bauinklusiv.ch
 bauinnova.ch
 bauinnovation.ch
 bauinnovationen.ch
@@ -27786,6 +27789,7 @@ baumgartner-optik.ch
 baumgartner-pampigny.ch
 baumgartner-partner-beratungen.ch
 baumgartner-partner.ch
+baumgartner-performance.ch
 baumgartner-physiotherapie.ch
 baumgartner-platten.ch
 baumgartner-power.ch
@@ -27861,6 +27865,7 @@ baumgartnermsr.ch
 baumgartnerpartner.ch
 baumgartnerpartnerberatungen.ch
 baumgartnerpartnerconsulting.ch
+baumgartnerperformance.ch
 baumgartners-reinigungs-service.ch
 baumgartners.ch
 baumgartnersa.ch

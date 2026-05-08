@@ -106,6 +106,8 @@ zwallis.ch
 zwan.ch
 zwang-therapie.ch
 zwang.ch
+zwangs-massnahme.ch
+zwangs-massnahmen.ch
 zwangsbrecher.ch
 zwangsehe.ch
 zwangsentsamung.ch
@@ -117,6 +119,8 @@ zwangsgedanken.ch
 zwangsheirat.ch
 zwangsimpfung.ch
 zwangsland.ch
+zwangsmassnahme.ch
+zwangsmassnahmen.ch
 zwangsmedikation.ch
 zwangspause.ch
 zwangsraum.ch

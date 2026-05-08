@@ -124,7 +124,6 @@ nfcsuisse.ch
 nfctechnology.ch
 nfcw.ch
 nfcweb.ch
-nfcxcard.ch
 nfd.ch
 nfdap.ch
 nfdata.ch
@@ -341,6 +340,7 @@ nfsh.ch
 nfshop.ch
 nfskinlab.ch
 nfsport.ch
+nfspring.ch
 nfsrent.ch
 nfsrorschach.ch
 nfst.ch

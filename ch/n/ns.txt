@@ -1342,6 +1342,7 @@ ns1.creative-business-support.ch
 ns1.crenovelherz.ch
 ns1.cresedo.ch
 ns1.cretofloor.ch
+ns1.crige.ch
 ns1.crimanet.ch
 ns1.critical.ch
 ns1.croixfederalemathod.ch
@@ -1678,6 +1679,7 @@ ns1.extrahost.ch
 ns1.eyemo.ch
 ns1.ezit.ch
 ns1.ezns.ch
+ns1.ezwww.ch
 ns1.f1rstlevel.ch
 ns1.f6link.ch
 ns1.f6mail.ch
@@ -3018,7 +3020,6 @@ ns1.proceed.ch
 ns1.prodosia.ch
 ns1.profectis.ch
 ns1.professionalworkout.ch
-ns1.profgroup.ch
 ns1.profilbauglas.ch
 ns1.progest.ch
 ns1.progitec2.ch
@@ -4690,6 +4691,7 @@ ns2.creative-business-support.ch
 ns2.crenovelherz.ch
 ns2.cresedo.ch
 ns2.creta.ch
+ns2.crige.ch
 ns2.crimanet.ch
 ns2.croixfederalemathod.ch
 ns2.crowdsources.ch
@@ -5004,6 +5006,7 @@ ns2.eyemo.ch
 ns2.eyeswiss.ch
 ns2.ezit.ch
 ns2.ezns.ch
+ns2.ezwww.ch
 ns2.f1rstlevel.ch
 ns2.f6link.ch
 ns2.f6mail.ch
@@ -6278,7 +6281,6 @@ ns2.proceed.ch
 ns2.prodosia.ch
 ns2.profectis.ch
 ns2.professionalworkout.ch
-ns2.profgroup.ch
 ns2.profilbauglas.ch
 ns2.progest.ch
 ns2.progitec2.ch
@@ -7488,6 +7490,7 @@ ns3.exceptis.ch
 ns3.exosys.ch
 ns3.eyeswiss.ch
 ns3.ezns.ch
+ns3.ezwww.ch
 ns3.f1rstlevel.ch
 ns3.fabioforni.ch
 ns3.faelix.ch

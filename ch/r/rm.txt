@@ -61,11 +61,8 @@ rm-haustechnik.ch
 rm-hauswartung.ch
 rm-hochhinaus.ch
 rm-hofer.ch
-rm-holding.ch
 rm-homesupport.ch
 rm-hrm.ch
-rm-hrservice.ch
-rm-hrservices.ch
 rm-hydro.ch
 rm-hypnose.ch
 rm-informatik.ch
@@ -104,7 +101,6 @@ rm-personal.ch
 rm-photography.ch
 rm-plattendesign.ch
 rm-print.ch
-rm-procurement.ch
 rm-professional.ch
 rm-professionals.ch
 rm-projects.ch
@@ -274,6 +270,7 @@ rmco.ch
 rmcoaching.ch
 rmcon.ch
 rmconcept.ch
+rmconcettobenessere.ch
 rmcons.ch
 rmconstruction.ch
 rmconstructions.ch

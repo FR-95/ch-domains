@@ -4632,7 +4632,6 @@ pilgerhorizont.ch
 pilgerhotel.ch
 pilgerhuesli.ch
 pilgerinfischingen.ch
-pilgerkaese.ch
 pilgerkapellehaggenegg.ch
 pilgerkreuzfahrt.ch
 pilgerlaube.ch
@@ -5837,6 +5836,7 @@ pineapple-host.ch
 pineapple-photography.ch
 pineapple-systems.ch
 pineapple.ch
+pineapplebikes.ch
 pineapplebread-film.ch
 pineapplebrick.ch
 pineappleles.ch
@@ -5847,6 +5847,7 @@ pineau.ch
 pinebran.ch
 pinebridge.ch
 pinebyte.ch
+pinecapital.ch
 pinecg.ch
 pinecliff.ch
 pinecode.ch
@@ -7414,6 +7415,7 @@ pipo-sg.ch
 pipo-the-clown.ch
 pipo.ch
 pipo78.ch
+pipoamchoche.ch
 pipocastudio.ch
 pipofilm.ch
 pipograph.ch
@@ -8449,6 +8451,7 @@ pistolenclub-teufenthal.ch
 pistolenclub-villnachern.ch
 pistolenclub-wintersingen.ch
 pistolenclub.ch
+pistolenclubmalters.ch
 pistolenergy.ch
 pistolenklub-kaiserstuhl.ch
 pistolenklub-seen.ch
@@ -8942,6 +8945,7 @@ pitturama.ch
 pitturamuller.ch
 pitturarestadistucco.ch
 pitturars.ch
+pitturaticino.ch
 pitturatolotti.ch
 pitturazambetti.ch
 pitturgess.ch
@@ -9138,6 +9142,7 @@ pivatfinancebank.ch
 pivatoporte.ch
 pivaud.ch
 pive.ch
+piveo.ch
 pivert.ch
 pives.ch
 piveteau.ch
@@ -9368,6 +9373,7 @@ pixel-party.ch
 pixel-perfect-coding.ch
 pixel-perfect.ch
 pixel-place.ch
+pixel-play.ch
 pixel-plus.ch
 pixel-print.ch
 pixel-queen.ch
@@ -11252,6 +11258,7 @@ pizzakit.ch
 pizzakochevent.ch
 pizzakoenig.ch
 pizzakoenizer.ch
+pizzakoket.ch
 pizzakurier-500.ch
 pizzakurier-adliswil.ch
 pizzakurier-arte.ch
@@ -12045,6 +12052,7 @@ pizzeria-napoli.ch
 pizzeria-napule.ch
 pizzeria-nebikon.ch
 pizzeria-neftenbach.ch
+pizzeria-negrini.ch
 pizzeria-neuchatel.ch
 pizzeria-niedergold.ch
 pizzeria-nonno-bern.ch
@@ -12498,6 +12506,7 @@ pizzeriaveneziana.ch
 pizzeriavesuvio.ch
 pizzeriaviaveneto.ch
 pizzeriavogelgryff.ch
+pizzeriavulcano.ch
 pizzeriawichtrachwichtrach.ch
 pizzeriawiesental.ch
 pizzeriawilhelmtell.ch

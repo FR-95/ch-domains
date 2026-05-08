@@ -1211,6 +1211,7 @@ symphony4health.ch
 symphonycards.ch
 symphonygold.ch
 symphonyhealth.ch
+symphonyinlight.ch
 symphonyofdreams.ch
 symphonyoflife.ch
 symphonyofsound.ch
@@ -2227,6 +2228,7 @@ synkon.ch
 synkonomie.ch
 synkope.ch
 synkopengesellschaft.ch
+synkraft.ch
 synkratie.ch
 synkriptor.ch
 synkrise.ch
@@ -2827,6 +2829,8 @@ sysana.ch
 sysap.ch
 sysapp.ch
 sysar.ch
+sysarc.ch
+sysarch.ch
 sysaudio.ch
 sysba.ch
 sysbase.ch
@@ -2913,7 +2917,6 @@ syshelp.ch
 syshop.ch
 syshost.ch
 syshub.ch
-sysicon.ch
 sysif.ch
 sysin.ch
 sysinf.ch
@@ -2980,6 +2983,7 @@ sysnet.ch
 sysnews.ch
 sysnext.ch
 sysnextgen.ch
+sysng.ch
 sysnova.ch
 syso.ch
 sysob.ch

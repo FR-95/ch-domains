@@ -751,7 +751,6 @@ docmaker.ch
 docman.ch
 docmanagement.ch
 docmanager.ch
-docmarenco.ch
 docmartens.ch
 docmartintattoo.ch
 docmatch.ch
@@ -1369,6 +1368,7 @@ docuguard.ch
 docuguru.ch
 docuhub.ch
 docuit.ch
+doculib.ch
 doculina.ch
 doculus.ch
 docum.ch
@@ -5400,6 +5400,7 @@ domainepourtales.ch
 domainepublic.ch
 domainer.ch
 domainerdv.ch
+domainerosalie.ch
 domainerosedor.ch
 domainerosset.ch
 domainers.ch
@@ -5714,6 +5715,7 @@ domainzulassungsstelle.ch
 domaisy.ch
 domajn.ch
 domal.ch
+domala.ch
 domali.ch
 domalis.ch
 domalus.ch
@@ -6840,6 +6842,7 @@ dominique-belvedere.ch
 dominique-bobst.ch
 dominique-boesiger.ch
 dominique-bornhauser.ch
+dominique-brustlein-bobst.ch
 dominique-caillat.ch
 dominique-chatton.ch
 dominique-ella-christin.ch
@@ -7165,7 +7168,6 @@ domixdesign.ch
 domiz.ch
 domizai.ch
 domizehn.ch
-domizen.ch
 domiziel-immobilien.ch
 domiziel.ch
 domizihl.ch
@@ -9919,6 +9921,7 @@ dorfgeschenke.ch
 dorfgeschichte-mettmenstetten.ch
 dorfgeschichten-wuefla.ch
 dorfgespraeche.ch
+dorfglueck.ch
 dorfgmues.ch
 dorfgottesdienst.ch
 dorfgschichte.ch
@@ -10680,7 +10683,6 @@ dorisleuthard.ch
 dorislifestyle.ch
 dorisloetscher.ch
 dorislombardi.ch
-dorisluethy.ch
 dorislutz.ch
 dorismariahenz.ch
 dorismastcoaching.ch
@@ -10698,7 +10700,6 @@ dorismyriam.ch
 dorisnaef.ch
 dorisnatuerlich.ch
 dorisoberholzer.ch
-dorisoes.ch
 dorisoeschger.ch
 dorispfeiffer-massagepraxis.ch
 dorispulfer.ch
@@ -11546,6 +11547,7 @@ dosy.ch
 dot-architecture.ch
 dot-art.ch
 dot-base.ch
+dot-c.ch
 dot-com.ch
 dot-doettingen.ch
 dot-gmbh.ch
@@ -12375,6 +12377,7 @@ doulaliebe.ch
 doulalounge.ch
 doulalu.ch
 doulaluma.ch
+doulalynne.ch
 doulamalenka.ch
 doulamana.ch
 doulame.ch

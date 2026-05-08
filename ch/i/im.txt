@@ -4211,7 +4211,6 @@ immo-tausch.ch
 immo-tax.ch
 immo-team-daniel-schweizer.ch
 immo-team-danielschweizer.ch
-immo-team-gr.ch
 immo-team-schweizer.ch
 immo-team-ti.ch
 immo-team.ch
@@ -6865,6 +6864,7 @@ immoblock.ch
 immoblocks.ch
 immoblog.ch
 immobloom.ch
+immoblox-immobilien.ch
 immoblox.ch
 immoblue.ch
 immoblueinvest.ch
@@ -7230,6 +7230,7 @@ immodesk.ch
 immodestin.ch
 immodetektiv.ch
 immodeus.ch
+immodev-alliance.ch
 immodeveloper.ch
 immodevelopment.ch
 immodevil.ch
@@ -8864,6 +8865,7 @@ immoservice-rhyner.ch
 immoservice-solutions.ch
 immoservice.ch
 immoservice24.ch
+immoservice360.ch
 immoservice4you.ch
 immoservicebasel.ch
 immoservicedernjanigmbh.ch
@@ -10506,6 +10508,7 @@ impactiveagency.ch
 impactivia.ch
 impactjobs.ch
 impactkomm.ch
+impactlab.ch
 impactlabfhnw.ch
 impactlawyers.ch
 impactld.ch
@@ -10661,6 +10664,7 @@ imparaonline.ch
 imparare-scoprendo.ch
 imparare-viaggiando.ch
 imparare.ch
+imparare365.ch
 imparareastarbene.ch
 impararenellanatura.ch
 imparcial.ch
@@ -11492,11 +11496,13 @@ importkosten.ch
 importladen.ch
 importli.ch
 importly.ch
+importo-swiss.ch
 importo.ch
 importolino.ch
 importoptic.ch
 importoptik-promo.ch
 importoptik.ch
+importoswiss.ch
 importparfum.ch
 importparfumerie.ch
 importpneus.ch
@@ -13078,6 +13084,7 @@ imvnet.ch
 imvo.ch
 imvocs.ch
 imvogelhaus.ch
+imvorfeld.ch
 imvt.ch
 imvtest.ch
 imvu.ch

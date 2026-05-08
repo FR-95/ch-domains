@@ -719,6 +719,7 @@ dealsdb.ch
 dealsdeployment.ch
 dealseeker.ch
 dealsfinest.ch
+dealsfood.ch
 dealsfortwo.ch
 dealsforyou.ch
 dealsfront.ch
@@ -1010,6 +1011,7 @@ debarny.ch
 debarrapide.ch
 debarras-bern.ch
 debarras-brocante.ch
+debarras-bulle.ch
 debarras-chantier.ch
 debarras-cuisine.ch
 debarras-david.ch
@@ -1023,9 +1025,13 @@ debarras-geneve.ch
 debarras-gva.ch
 debarras-helvetia.ch
 debarras-jura.ch
+debarras-lancy.ch
 debarras-lausanne.ch
 debarras-logements.ch
 debarras-meubles.ch
+debarras-meyrin.ch
+debarras-montreux.ch
+debarras-morges.ch
 debarras-multiservices.ch
 debarras-neuchatel.ch
 debarras-pro-space.ch
@@ -1034,10 +1040,15 @@ debarras-romand.ch
 debarras-romandie.ch
 debarras-succession.ch
 debarras-suisse.ch
+debarras-thonex.ch
 debarras-urgent.ch
 debarras-valais.ch
 debarras-vaud.ch
+debarras-vernier.ch
+debarras-versoix.ch
+debarras-vevey.ch
 debarras-vs.ch
+debarras-yverdon-les-bains.ch
 debarras.ch
 debarrasappartements.ch
 debarraselectro.ch
@@ -3126,6 +3137,7 @@ decozurich.ch
 decpt.ch
 decraft.ch
 decrausaz.ch
+decrausazcommunication.ch
 decrauzat.ch
 decrea.ch
 decrease.ch
@@ -3527,6 +3539,7 @@ deep-dive.ch
 deep-down.ch
 deep-drawn-lids.ch
 deep-drifter.ch
+deep-express.ch
 deep-facts.ch
 deep-flow-dance.ch
 deep-flow-malerei.ch
@@ -4670,6 +4683,7 @@ deformationsmessungen.ch
 deformes.ch
 defors.ch
 defossa.ch
+defossilisierung.ch
 defoucault.ch
 defoundation.ch
 defounes.ch
@@ -5175,7 +5189,6 @@ dehorsapetitspas.ch
 dehorslesenfants.ch
 dehoust.ch
 dehr.ch
-dehrsam.ch
 dehshiri.ch
 dehu.ch
 dehub.ch
@@ -9030,6 +9043,7 @@ delices-de-cecile.ch
 delices-de-vila.ch
 delices-deisy.ch
 delices-des-mots.ch
+delices-douceurs.ch
 delices-et-snacks.ch
 delices-express-bulle.ch
 delices-manon.ch
@@ -9328,6 +9342,7 @@ delisens.ch
 deliservice.ch
 delish-zuerich.ch
 delish.ch
+delishcrepe.ch
 delishop.ch
 delisicious.ch
 delisky.ch
@@ -12393,6 +12408,7 @@ denarosfamilyatelier.ch
 denate.ch
 denatura.ch
 denavir.ch
+denavo.ch
 denawatch.ch
 denba-elektro.ch
 denba.ch
@@ -14199,7 +14215,6 @@ dentalpodcast.ch
 dentalpoint.ch
 dentalpool.ch
 dentalportal.ch
-dentalpractice.ch
 dentalpraxis-pferde.ch
 dentalpraxis-schwarzenbach.ch
 dentalpraxis-winterthur.ch
@@ -14412,6 +14427,7 @@ dentasmile.ch
 dentasoft.ch
 dentasonic.ch
 dentasquare.ch
+dentastaff.ch
 dentastic-online.ch
 dentastic.ch
 dentastix.ch
@@ -14979,6 +14995,7 @@ dentoshop.ch
 dentosmile.ch
 dentosophia.ch
 dentosophie-akademie.ch
+dentosophie-ausbildung.ch
 dentosophie-balance.ch
 dentosophie-bern.ch
 dentosophie-cranio.ch
@@ -16325,7 +16342,6 @@ der-graveur.ch
 der-grenzgaenger.ch
 der-groesste-fan.ch
 der-groesste-hunger.ch
-der-grosse-kanton.ch
 der-group.ch
 der-growshop.ch
 der-gruene-gaul.ch
@@ -18030,6 +18046,7 @@ derkoenig.ch
 derkoerpererzaehlt.ch
 derkofler.ch
 derkolumbienspezialist.ch
+derkolumnist.ch
 derkomiker.ch
 derkommunikator.ch
 derkommunist.ch
@@ -18879,6 +18896,7 @@ dermavision.ch
 dermavit.ch
 dermaviva.ch
 dermavolution.ch
+dermawz.ch
 dermax.ch
 dermaxchange.ch
 dermaximalewein.ch
@@ -18913,7 +18931,6 @@ dermedtherapeut.ch
 dermehrfamilienhausexperte.ch
 dermeier.ch
 dermeilenstein.ch
-dermelya.ch
 dermens.ch
 dermensch.ch
 dermenschensucher.ch
@@ -18960,6 +18977,7 @@ dermione.ch
 dermionics.ch
 dermionique.ch
 dermionix.ch
+dermira.ch
 dermis-behandlung.ch
 dermis-hautklinik.ch
 dermis-hautkliniken.ch
@@ -21362,6 +21380,7 @@ designgaerten.ch
 designgalerie.ch
 designgarden.ch
 designgarten.ch
+designgasse.ch
 designgeneva.ch
 designgeneve.ch
 designgenie.ch
@@ -22360,6 +22379,7 @@ desmilliersdepagesblanches.ch
 desminionsetdesmonstres-lefilm.ch
 desmo-ag.ch
 desmo.ch
+desmoi.ch
 desmond-doss.ch
 desmond-hudson.ch
 desmondhudson.ch
@@ -23817,6 +23837,7 @@ deutsch-english.ch
 deutsch-erfolgreich-lernen.ch
 deutsch-firmenkurse.ch
 deutsch-five.ch
+deutsch-folk.ch
 deutsch-franzoesisch-uebersetzungen.ch
 deutsch-fuer-fremdsprachige.ch
 deutsch-huber.ch
@@ -24052,6 +24073,7 @@ deutschexmarkets.ch
 deutschfamily.ch
 deutschfit.ch
 deutschflow.ch
+deutschfolk.ch
 deutschfreiburg.ch
 deutschhauswartung.ch
 deutschhilfe.ch
@@ -24335,6 +24357,7 @@ dev-messe-zurich.ch
 dev-metal.ch
 dev-migros.ch
 dev-mint.ch
+dev-mueller-food.ch
 dev-mvsf.ch
 dev-mycomparis.ch
 dev-nidau.ch
@@ -24447,6 +24470,7 @@ devako.ch
 deval-sanitaer.ch
 deval.ch
 devalette.ch
+devaleur.ch
 devall.ch
 devallier.ch
 devals.ch

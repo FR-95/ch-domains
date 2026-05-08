@@ -2370,7 +2370,6 @@ bien-etre-en-soi.ch
 bien-etre-equin.ch
 bien-etre-et-saveur.ch
 bien-etre-et-saveurs.ch
-bien-etre-holistique.ch
 bien-etre-mieux-etre.ch
 bien-etre-naturel.ch
 bien-etre-orev.ch
@@ -3052,6 +3051,7 @@ bienveillancechezsoi.ch
 bienveillancefab.ch
 bienveillant.ch
 bienvendre.ch
+bienvendu.ch
 bienvenida.ch
 bienvenido.ch
 bienvenidos.ch
@@ -4891,7 +4891,6 @@ bigipizzahuus.ch
 bigiputzteufel.ch
 bigiron.ch
 bigis.ch
-bigisbeauty.ch
 bigiscafe.ch
 bigiseidel.ch
 bigit.ch
@@ -9155,6 +9154,7 @@ billardtuch.ch
 billardverband.ch
 billardyverdon.ch
 billarigoni.ch
+billario.ch
 billaro.ch
 billas.ch
 billau.ch
@@ -11283,6 +11283,7 @@ binwiederda.ch
 binx.ch
 binxera.ch
 binyan.ch
+binyancapital.ch
 binybear.ch
 binyo.ch
 binz-ag.ch
@@ -14046,7 +14047,6 @@ biokleider.ch
 biokleidung.ch
 bioklimatischepergola.ch
 biokmuaargau.ch
-bioknospe.ch
 biokoerperpflege.ch
 biokohle.ch
 biokohleschweiz.ch
@@ -14519,6 +14519,7 @@ biomediziner.ch
 biomedon.ch
 biomedphotonicsnet.ch
 biomedschweiz.ch
+biomedshop.ch
 biomedsonnenberg.ch
 biomedswiss.ch
 biomedswitzerland.ch
@@ -14540,7 +14541,6 @@ biomers.ch
 biomes.ch
 biomesse.ch
 biomesys.ch
-biomet.ch
 biomet3i.ch
 biometal.ch
 biometatest.ch
@@ -18272,7 +18272,6 @@ bistro-saanenmoeser.ch
 bistro-salmen.ch
 bistro-scherz.ch
 bistro-schinznach.ch
-bistro-schuppe.ch
 bistro-sg.ch
 bistro-sharing.ch
 bistro-siebnen.ch
@@ -18606,6 +18605,7 @@ bit1.ch
 bit1000lexipro.ch
 bit21.ch
 bit24.ch
+bit2atom.ch
 bit2b.ch
 bit2coin.ch
 bit2fit.ch

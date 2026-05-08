@@ -2117,9 +2117,7 @@ yogastudio.ch
 yogastudiobaden.ch
 yogastudioberikon.ch
 yogastudiochur.ch
-yogastudiohochdorf.ch
 yogastudiolila.ch
-yogastudiolotus.ch
 yogastudioom.ch
 yogastudiowiden.ch
 yogastudiowinterthur.ch
@@ -3477,6 +3475,7 @@ youdera.ch
 youdeserveit.ch
 youdesire.ch
 youdew.ch
+youdidit.ch
 youdigital.ch
 youdinner.ch
 youdo-karriere.ch
@@ -4025,6 +4024,7 @@ youngtimer-factory.ch
 youngtimer-garage.ch
 youngtimer-location.ch
 youngtimer-oldtimer-restauration.ch
+youngtimer-oldtimer-restaurierung.ch
 youngtimer-oldtimer.ch
 youngtimer-rental.ch
 youngtimer-stockental.ch
@@ -5709,7 +5709,6 @@ youstudio.ch
 youstus.ch
 yousty.ch
 youstychecks.ch
-youstypro.ch
 youstyreview.ch
 youstytests.ch
 yousun.ch

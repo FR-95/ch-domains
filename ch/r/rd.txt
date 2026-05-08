@@ -157,6 +157,7 @@ rdeye.ch
 rdf-consulting.ch
 rdf-lab.ch
 rdf.ch
+rdfamilyoffice.ch
 rdfh.ch
 rdfinance.ch
 rdfn.ch
@@ -355,7 +356,6 @@ rdsk.ch
 rdso.ch
 rdsociety.ch
 rdsoft.ch
-rdsolutions.ch
 rdsound.ch
 rdsp.ch
 rdss.ch
@@ -455,7 +455,6 @@ rdx-racedesign.ch
 rdx.ch
 rdxmedia.ch
 rdxsports.ch
-rdy.ch
 rdz-sa.ch
 rdz-security-management.ch
 rdz.ch

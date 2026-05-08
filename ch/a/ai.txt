@@ -6,7 +6,6 @@ ai-aas.ch
 ai-able.ch
 ai-abo.ch
 ai-academy.ch
-ai-accelerators.ch
 ai-act-switzerland.ch
 ai-act.ch
 ai-actionplan.ch
@@ -402,6 +401,7 @@ ai-horizons.ch
 ai-hoster.ch
 ai-hosting.ch
 ai-hotel.ch
+ai-hotline.ch
 ai-hpc.ch
 ai-hub-graubuenden.ch
 ai-hub-labs.ch
@@ -1422,7 +1422,6 @@ aiconsultingzug.ch
 aicontent.ch
 aicontrol.ch
 aicontrolling.ch
-aicook.ch
 aicopilot.ch
 aicore.ch
 aicoresolution.ch
@@ -2516,6 +2515,7 @@ aiit.ch
 aiitr0n.ch
 aiitron.ch
 aiiv.ch
+aiivyy.ch
 aiix.ch
 aij.ch
 aija.ch
@@ -4177,6 +4177,7 @@ airbornepix.ch
 airbornfuels.ch
 airboter.ch
 airbourne.ch
+airbowl.ch
 airbox.ch
 airboxx.ch
 airbp.ch
@@ -4786,6 +4787,7 @@ airlebnisphotografie.ch
 airleman.ch
 airlens-aargau.ch
 airless-profi.ch
+airless-shop.ch
 airless.ch
 airlessball.ch
 airlessco.ch
@@ -6380,6 +6382,7 @@ aiviatics.ch
 aivid.ch
 aivideo.ch
 aivideogenie.ch
+aivideolabs.ch
 aivideos.ch
 aivie-marketing.ch
 aivie.ch

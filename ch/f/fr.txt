@@ -189,6 +189,7 @@ fracht-design.ch
 fracht-drohne.ch
 fracht-grill.ch
 fracht-pg.ch
+fracht-portal.ch
 fracht-raum.ch
 fracht.ch
 frachtag-bs.ch
@@ -4116,6 +4117,7 @@ frauenblick.ch
 frauenblicke.ch
 frauenblock-bern.ch
 frauenblog.ch
+frauenboden.ch
 frauenboxen.ch
 frauenboxteam-basel.ch
 frauenbrauen.ch
@@ -5507,6 +5509,7 @@ frayoz.ch
 fraytide.ch
 frazao.ch
 frazer.ch
+frazier.ch
 frazz.ch
 frazzetto.ch
 frazzi.ch
@@ -6129,6 +6132,7 @@ fredmuller-photographie.ch
 fredmuller.ch
 fredmundmalik.ch
 fredo-alritmo.ch
+fredo-facility.ch
 fredo-sp.ch
 fredo.ch
 fredoalritmo.ch
@@ -11253,7 +11257,6 @@ fresque.ch
 fresqueduclimat.ch
 fresqueduplastique.ch
 fresqueszamies.ch
-fress-bar.ch
 fress-napf.ch
 fress-packet.ch
 fress-paeckli.ch
@@ -14040,6 +14043,7 @@ frifro.ch
 frig8.ch
 frigaliment.ch
 frigam.ch
+frigarageneva.ch
 frigastro.ch
 frigate.ch
 frigay.ch
@@ -14488,6 +14492,7 @@ frisch-gsund.ch
 frisch-knecht.ch
 frisch-onlineshop.ch
 frisch-produkte.ch
+frisch-reinigung.ch
 frisch-rotkreuz.ch
 frisch-schoggi.ch
 frisch-schokolade.ch
@@ -14626,7 +14631,6 @@ frischfleis.ch
 frischfleisch.ch
 frischfleisch24.ch
 frischfleischfuerhunde.ch
-frischfood.ch
 frischform.ch
 frischfre.ch
 frischfrechfrau.ch
@@ -17267,8 +17271,6 @@ fruehlingsfest-frick.ch
 fruehlingsfest-grabs.ch
 fruehlingsfest-mosaik.ch
 fruehlingsfest-oberarth.ch
-fruehlingsfest-uster.ch
-fruehlingsfest-zuerich-oberland.ch
 fruehlingsfest.ch
 fruehlingsfestchur.ch
 fruehlingsfestival.ch
@@ -17760,6 +17762,7 @@ fruttsnowsports.ch
 fruttsports.ch
 fruucs-fruits.ch
 fruucsfruits.ch
+fruufruu.ch
 fruugo.ch
 fruugoschweiz.ch
 fruuna.ch

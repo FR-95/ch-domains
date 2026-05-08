@@ -11,6 +11,7 @@ pp-catering.ch
 pp-cloud.ch
 pp-coach.ch
 pp-coaching.ch
+pp-company.ch
 pp-consulting-schweiz.ch
 pp-consulting.ch
 pp-design.ch
@@ -162,6 +163,7 @@ ppcb.ch
 ppcblue.ch
 ppcbuchs.ch
 ppcc.ch
+ppccc.ch
 ppcday.ch
 ppcdermaku.ch
 ppcfoilingswitzerland.ch
@@ -184,6 +186,8 @@ ppcoaching.ch
 ppconcept.ch
 ppconsulting.ch
 ppcosmetics.ch
+ppcpc.ch
+ppcph.ch
 ppcppc.ch
 ppcrm.ch
 ppcsk.ch
@@ -361,11 +365,17 @@ ppgroup.ch
 ppgzuerichsee.ch
 pph.ch
 pphc.ch
+pphcp.ch
 pphealth.ch
+pphhh.ch
+pphhp.ch
 pphightech.ch
 pphilipp.ch
 pphm.ch
 pphp.ch
+pphpc.ch
+pphph.ch
+pphpp.ch
 pphs.ch
 pphte.ch
 ppi-ag.ch

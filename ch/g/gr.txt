@@ -1391,6 +1391,7 @@ graffland.ch
 graffloor.ch
 grafform.ch
 graffslaps.ch
+graffstudio.ch
 graffswiss.ch
 graffwatches.ch
 graffy.ch
@@ -3404,6 +3405,7 @@ granit-tische.ch
 granit-trust.ch
 granit.ch
 granita-loca.ch
+granita.ch
 granitabdeckung.ch
 granitabdeckungen.ch
 granitadibianca.ch
@@ -4060,7 +4062,6 @@ grashalm-it.ch
 grashalm.ch
 grashaus.ch
 grashausprojects.ch
-grashimmel.ch
 grashobber.ch
 grashopper.ch
 grashuepfer-diemer.ch
@@ -4085,7 +4086,6 @@ grasovka.ch
 grasp.ch
 graspag.ch
 graspapier.ch
-grasparadies.ch
 graspi.ch
 graspify.ch
 graspingspriggan.ch
@@ -4790,6 +4790,7 @@ graue-panther-so.ch
 graueeminenz.ch
 graueenergie.ch
 graueffekt.ch
+grauegasse.ch
 grauehaare.ch
 grauehoerner.ch
 grauelectricite.ch
@@ -5311,7 +5312,6 @@ gravure-geneve.ch
 gravure-main.ch
 gravure-moderne.ch
 gravure-ogoz.ch
-gravure-solution.ch
 gravure-suisse.ch
 gravure-sur-verre.ch
 gravure.ch
@@ -6474,7 +6474,6 @@ green-toner.ch
 green-toolkit.ch
 green-topf.ch
 green-touch.ch
-green-tour.ch
 green-tower.ch
 green-traces.ch
 green-track.ch
@@ -7574,6 +7573,7 @@ greenlinq.ch
 greenlion-kungfu.ch
 greenlion.ch
 greenlionkungfu.ch
+greenlit-app.ch
 greenlit.ch
 greenliteracy.ch
 greenlivegarden.ch
@@ -7835,8 +7835,11 @@ greenpond.ch
 greenpony.ch
 greenpool.ch
 greenpork.ch
+greenport-of-switzerland.ch
 greenport.ch
 greenportfolio.ch
+greenportof.ch
+greenportofswitzerland.ch
 greenpos.ch
 greenpost.ch
 greenpower-garten.ch
@@ -12478,6 +12481,7 @@ groomingstudios.ch
 groomingsuite-zueri.ch
 groomingsuite-zuri.ch
 groomly.ch
+groomservice.ch
 groomsuite.ch
 groomunity.ch
 groomy.ch
@@ -15893,6 +15897,7 @@ gruenenfelder-beratungen.ch
 gruenenfelder-biogemuese.ch
 gruenenfelder-compliance.ch
 gruenenfelder-consulting.ch
+gruenenfelder-hauswartung.ch
 gruenenfelder-lorenz.ch
 gruenenfelder-steuert.ch
 gruenenfelder-therapie.ch
@@ -16252,8 +16257,6 @@ gruentee.ch
 gruenthal.ch
 gruentoene.ch
 gruenton.ch
-gruentzig-academy.ch
-gruentzig.ch
 gruentzigundco.ch
 gruenuhren.ch
 gruenundblau.ch

@@ -594,6 +594,7 @@ oberhauser-stein.ch
 oberhauser.ch
 oberhaushof.ch
 oberhausser.ch
+oberheimet.ch
 oberhelfenschwil.ch
 oberhelfenschwil24.ch
 oberhittnau.ch
@@ -1758,7 +1759,6 @@ objets-art.ch
 objets-bois.ch
 objets-perdus.ch
 objets-publicitaires-cadeaux.ch
-objets-publicitaires-express.ch
 objets-publicitaires-suisse.ch
 objets-publicitaires.ch
 objets-sacres.ch
@@ -2033,7 +2033,6 @@ obrist-entsorgung.ch
 obrist-gemuese.ch
 obrist-helps.ch
 obrist-interior.ch
-obrist-interiors.ch
 obrist-klosters.ch
 obrist-knirpsemobil.ch
 obrist-kuechen.ch
@@ -2577,7 +2576,6 @@ obwaldnertrachtenchoerli.ch
 obwaldnertv.ch
 obwaldnerverein.ch
 obwaldnerversicherungen.ch
-obwaldnervorsorg.ch
 obwaldnerweine.ch
 obwaldnerwoche.ch
 obwaldnerzeitung.ch

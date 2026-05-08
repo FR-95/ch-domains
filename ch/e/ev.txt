@@ -51,6 +51,7 @@ ev-firstresponders.ch
 ev-ford.ch
 ev-fribourg.ch
 ev-garage.ch
+ev-hergiswil.ch
 ev-hif.ch
 ev-hinterforst.ch
 ev-hochdorf.ch
@@ -1639,6 +1640,7 @@ evelynhuber.ch
 evelynimfeld.ch
 evelynjampen.ch
 evelynjufer.ch
+evelynkern.ch
 evelynkloeti.ch
 evelynkreher.ch
 evelynkurz.ch
@@ -2584,6 +2586,7 @@ eventdienstleister.ch
 eventdienstleistungen.ch
 eventdigger.ch
 eventding.ch
+eventdiningbus.ch
 eventdinner.ch
 eventdisco.ch
 eventdiscount.ch
@@ -3452,6 +3455,7 @@ events24.ch
 events2go.ch
 events2love.ch
 events2people.ch
+events360.ch
 events40.ch
 events44.ch
 events4all.ch
@@ -4052,7 +4056,6 @@ evergreen-capital.ch
 evergreen-care.ch
 evergreen-classic-cars.ch
 evergreen-development.ch
-evergreen-garten.ch
 evergreen-group.ch
 evergreen-holding.ch
 evergreen-hr.ch
@@ -4359,7 +4362,6 @@ everwatches.ch
 everway.ch
 everwear.ch
 everwell.ch
-everwellclinic.ch
 everwellgynaecology.ch
 everwildbeauty.ch
 everwise-avocats.ch
@@ -5808,7 +5810,6 @@ evop.ch
 evopac.ch
 evopaed-aargau.ch
 evopaed-lernberatung.ch
-evopaed-schwyz.ch
 evopark.ch
 evopath.ch
 evopayments.ch

@@ -1316,14 +1316,12 @@ escort-lucerne.ch
 escort-lugano.ch
 escort-luzern.ch
 escort-mann.ch
-escort-martigny-swisspunter.ch
 escort-massage.ch
 escort-maui-laney.ch
 escort-meeting.ch
 escort-meetings.ch
 escort-miramond.ch
 escort-models.ch
-escort-monthey-swisspunter.ch
 escort-newblueup.ch
 escort-nidwalden.ch
 escort-one.ch
@@ -1343,7 +1341,6 @@ escort-service.ch
 escort-service24-zurich.ch
 escort-services.ch
 escort-sex-basel.ch
-escort-sion-swisspunter.ch
 escort-solothurn.ch
 escort-stgallen.ch
 escort-suisse.ch
@@ -1853,7 +1850,6 @@ eselmobil.ch
 eselmueller.ch
 eselmuellerstiftung.ch
 eselnachmittage.ch
-eselnetz.ch
 eselohren.ch
 eselparadies.ch
 eselpension.ch
@@ -2498,6 +2494,7 @@ esl-merian.ch
 esl-tech.ch
 esl.ch
 esla-consult.ch
+esla-immo.ch
 esla.ch
 eslabels.ch
 eslan.ch
@@ -3379,6 +3376,7 @@ espaceballon.ch
 espacebasta.ch
 espacebatdt.ch
 espacebeaute-instantpoursoi.ch
+espacebeaute-uninstantpoursoi.ch
 espacebeaute.ch
 espacebeaute8mars.ch
 espacebeautedesbergieres.ch
@@ -4005,6 +4003,8 @@ espazium.ch
 espazzola.ch
 espbasket.ch
 espc.ch
+espece.ch
+especes-abc.ch
 especesdespaces.ch
 especially-for-you.ch
 especially4you.ch
@@ -4135,6 +4135,7 @@ espion.ch
 espionne.ch
 espir.ch
 espira.ch
+espirales.ch
 espiri.ch
 espirig.ch
 espirit.ch
@@ -5005,6 +5006,7 @@ essenceciel.ch
 essencedegaia.ch
 essencedelart.ch
 essencedelune.ch
+essencedemarque.ch
 essencederose.ch
 essencedeshuiles.ch
 essencedesign.ch
@@ -5860,6 +5862,7 @@ estateflow.ch
 estategroup.ch
 estateguide.ch
 estateguru.ch
+estatehorizon.ch
 estatehub.ch
 estateincorso.ch
 estateinoratorio.ch
@@ -6824,6 +6827,7 @@ estiloc.ch
 estilolibre.ch
 estilomonique.ch
 estilotishas.ch
+estim-pro.ch
 estim.ch
 estima.ch
 estimafonds.ch

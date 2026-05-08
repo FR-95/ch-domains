@@ -21,7 +21,6 @@ bv-grundrechte.ch
 bv-holding.ch
 bv-manufacture.ch
 bv-medicalbeauty.ch
-bv-medien.ch
 bv-motorsport.ch
 bv-notaire.ch
 bv-rain.ch
@@ -162,6 +161,7 @@ bvfs.ch
 bvg-berater.ch
 bvg-beratung.ch
 bvg-bschiss.ch
+bvg-check.ch
 bvg-digital.ch
 bvg-exchange.ch
 bvg-finder.ch
@@ -316,7 +316,6 @@ bvmberatung.ch
 bvmbv.ch
 bvmcharpente.ch
 bvmedia.ch
-bvmedien.ch
 bvmevent.ch
 bvmovement.ch
 bvmultimedia.ch

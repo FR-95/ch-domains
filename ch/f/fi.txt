@@ -1906,6 +1906,7 @@ fiduciaire-grandson.ch
 fiduciaire-gremaud.ch
 fiduciaire-grivera.ch
 fiduciaire-horlogere-suisse.ch
+fiduciaire-ia.ch
 fiduciaire-infostaehli.ch
 fiduciaire-insieme.ch
 fiduciaire-internet.ch
@@ -3560,6 +3561,8 @@ figurino.ch
 figurio.ch
 figurkonzept.ch
 figuro.ch
+figuroshop.ch
+figurostore.ch
 figurschmeichler.ch
 figurshop.ch
 figurstudio.ch
@@ -3897,6 +3900,7 @@ fileditchnew.ch
 fileditchvideo.ch
 filedl.ch
 filedock.ch
+filedrop.ch
 filedump.ch
 fileexchange.ch
 fileexpres.ch
@@ -6145,7 +6149,6 @@ financeflow.ch
 financefocus.ch
 financeforce.ch
 financeforensics.ch
-financeforfuture.ch
 financeforladies.ch
 financeforme.ch
 financeforum-ostschweiz.ch
@@ -6449,6 +6452,7 @@ financialreporting.ch
 financials.ch
 financialservice.ch
 financialservices.ch
+financialservicescyberdome.ch
 financialservicesregulation.ch
 financialsfirst.ch
 financialshop.ch
@@ -8425,7 +8429,6 @@ fine-solutions.ch
 fine-spine.ch
 fine-spirits.ch
 fine-swiss-food.ch
-fine-swiss.ch
 fine-t.ch
 fine-taste.ch
 fine-to-dine-genuss.ch
@@ -12072,7 +12075,6 @@ firmenstellen.ch
 firmenstempel.ch
 firmenstiftung.ch
 firmenstory.ch
-firmensuche-schweiz.ch
 firmensuche.ch
 firmensuchen.ch
 firmensuchmaschine.ch
@@ -17055,6 +17057,7 @@ fitt-flexx.ch
 fitt-immo.ch
 fitt-inox.ch
 fitt.ch
+fitt2be.ch
 fittacademy.ch
 fittailor.ch
 fittax.ch
@@ -17695,7 +17698,6 @@ fixcom.ch
 fixcombo.ch
 fixconstruction.ch
 fixcontrol.ch
-fixcredit.ch
 fixd.ch
 fixdach.ch
 fixdas.ch

@@ -727,6 +727,7 @@ etextbook.ch
 etexter.ch
 etextera.ch
 etextilien.ch
+etf-anlegerstudie-schweiz.ch
 etf-anlegerstudie.ch
 etf-app.ch
 etf-award.ch
@@ -789,6 +790,8 @@ etfsparplaene.ch
 etfsparplan.ch
 etfstrategy.ch
 etfstream.ch
+etfstudie-schweiz.ch
+etfstudie.ch
 etfsuche.ch
 etftrader.ch
 etfwat.ch
@@ -1328,7 +1331,6 @@ ethnotigifisch.ch
 ethnovi.ch
 ethnovia.ch
 ethnovital.ch
-ethnowerbung.ch
 ethnoworldliving.ch
 ethny.ch
 ethnyboutique.ch
@@ -1420,6 +1422,7 @@ ethurensohn.ch
 ethurgau.ch
 ethus.ch
 ethusiast.ch
+ethvideo.ch
 ethwerbeagentur.ch
 ethx.ch
 ethy.ch
@@ -2009,6 +2012,7 @@ etoilelabs.ch
 etoilenoire.ch
 etoilenoville.ch
 etoileoffice.ch
+etoilepolaire.ch
 etoilepropre.ch
 etoiler.ch
 etoilerencontres.ch
@@ -3137,7 +3141,6 @@ etwasbewegen.ch
 etwaserleben.ch
 etwashilfe.ch
 etwaskleines.ch
-etwasmitwerbung.ch
 etwastun.ch
 etwecomm.ch
 etweincreation.ch

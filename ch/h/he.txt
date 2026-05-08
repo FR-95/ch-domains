@@ -12,7 +12,6 @@ he-bau.ch
 he-baumanagement.ch
 he-bro.ch
 he-bv.ch
-he-chef.ch
 he-complete.ch
 he-con.ch
 he-decor.ch
@@ -554,6 +553,7 @@ healingheartist.ch
 healinghearts.ch
 healingherbs.ch
 healinghof.ch
+healinghub.ch
 healinghugs.ch
 healinginterior.ch
 healingjourney.ch
@@ -1233,8 +1233,6 @@ healthinsurance24.ch
 healthinsurancecomparison.ch
 healthinsurancedashboard.ch
 healthinsurancedays.ch
-healthinsuranceoffer.ch
-healthinsuranceoffers.ch
 healthinsurances.ch
 healthinsurancesolutions.ch
 healthinsuranceswiss.ch
@@ -1520,7 +1518,6 @@ healthy-ageing.ch
 healthy-aging.ch
 healthy-and-wealthy.ch
 healthy-atwork.ch
-healthy-balance-basel.ch
 healthy-beauty.ch
 healthy-body-image.ch
 healthy-body.ch
@@ -1843,7 +1840,6 @@ hearmyvoice.ch
 hearn.ch
 hearnden.ch
 hearo.ch
-hearohats.ch
 hearonymus.ch
 hearsafe.ch
 hearsound.ch
@@ -4558,6 +4554,7 @@ heicom.ch
 heicome.ch
 heicon.ch
 heiconex.ch
+heicos.ch
 heicosportiv.ch
 heicotec.ch
 heid-ag.ch
@@ -8011,9 +8008,7 @@ heizkamin.ch
 heizkessel-ersatz.ch
 heizkessel-sanierung-basel.ch
 heizkessel-sanierung-baselland.ch
-heizkessel-sanierung-muenchenstein.ch
 heizkessel-sanierung-muttenz.ch
-heizkessel-sanierung-reinach-bl.ch
 heizkessel.ch
 heizkesselauswechslung.ch
 heizkesselbau.ch
@@ -8235,7 +8230,6 @@ heizung-sanierung-muttenz.ch
 heizung-sanierung-oberwil-bl.ch
 heizung-sanierung-reinach-bl.ch
 heizung-sanierung.ch
-heizung-sanierungen-aesch-bl.ch
 heizung-sanitaer-basel.ch
 heizung-sanitaer-flueckiger.ch
 heizung-sanitaer-hilfe.ch
@@ -9799,6 +9793,7 @@ helincapan.ch
 helind.ch
 helinews.ch
 helinfood.ch
+helingua.ch
 helinjeremy.ch
 helinnova.ch
 helinoholding.ch
@@ -11334,6 +11329,7 @@ helmuthmahrer.ch
 helmutlang.ch
 helmutleitner.ch
 helmutmaier.ch
+helmutnews.ch
 helmutstalder.ch
 helmutvonoefele.ch
 helmutvonoefelenotar.ch
@@ -11953,6 +11949,7 @@ helse.ch
 helsebemanning.ch
 helsecon.ch
 helsenberg.ch
+helsens.ch
 helshani-reinigung.ch
 helshani.ch
 helshop.ch
@@ -12710,6 +12707,7 @@ helvetiaprotection.ch
 helvetiapub.ch
 helvetiapv.ch
 helvetiaqualitycars.ch
+helvetiaquant.ch
 helvetiaquintett.ch
 helvetiarange.ch
 helvetiarch.ch
@@ -13485,6 +13483,7 @@ helveticumzug.ch
 helveticus-armaturen.ch
 helveticus-property.ch
 helveticus.ch
+helveticv.ch
 helveticvape.ch
 helveticview.ch
 helveticvintage.ch
@@ -14334,6 +14333,7 @@ hempstead.ch
 hempster.ch
 hempsterlife.ch
 hempstore.ch
+hempsuisse.ch
 hempsure.ch
 hemptape.ch
 hempte.ch
@@ -14368,6 +14368,7 @@ hemtracker.ch
 hemtron.ch
 hemu-cl.ch
 hemu.ch
+hemubooking.ch
 hemuclient.ch
 hemucloud.ch
 hemufiber.ch
@@ -15648,6 +15649,7 @@ herbarium-online.ch
 herbarium-saastal.ch
 herbarium.ch
 herbariumculinarum.ch
+herbariumstudio.ch
 herbarius.ch
 herbart.ch
 herbasana.ch
@@ -16472,6 +16474,7 @@ heritage-culinary-kitchen.ch
 heritage-ebenisterie.ch
 heritage-en-herbe.ch
 heritage-events.ch
+heritage-global-advice.ch
 heritage-gourmet.ch
 heritage-grenat.ch
 heritage-group.ch
@@ -17559,7 +17562,6 @@ herrenzuschuetzen.ch
 herreoobe.ch
 herreos.ch
 herrera-entertainment.ch
-herrera-workshops.ch
 herrera.ch
 herreramauro.ch
 herrero.ch
@@ -18375,7 +18377,6 @@ herzanch.ch
 herzanfall.ch
 herzangelegenheit.ch
 herzangst.ch
-herzanherz-academy.ch
 herzanherz-sale.ch
 herzanherz-shop.ch
 herzanherz-verbunden.ch
@@ -18900,6 +18901,7 @@ herzgedichte.ch
 herzgefaesschirurgiebern.ch
 herzgefaesszentrum.ch
 herzgefaesszentrumzuerich.ch
+herzgefuehl.ch
 herzgefuehrt.ch
 herzgegenkopf-wennelterndenverstandverlieren.ch
 herzgeist-art.ch
@@ -19595,7 +19597,6 @@ herzraumoase.ch
 herzraumschaffen.ch
 herzraumtier.ch
 herzrausch.ch
-herzregionen.ch
 herzreha.ch
 herzrehab-birseck.ch
 herzrehab.ch
@@ -20003,6 +20004,7 @@ hesias.ch
 hesicom.ch
 hesidea.ch
 hesiko.ch
+hesimmo.ch
 hesiod.ch
 hesion.ch
 hesji.ch
@@ -21478,6 +21480,7 @@ hexana.ch
 hexandbeauty.ch
 hexandhairshop.ch
 hexaneswiss.ch
+hexanet.ch
 hexanoid.ch
 hexanox.ch
 hexaphon.ch
@@ -22087,6 +22090,7 @@ heyouthere.ch
 heyoxodin.ch
 heypal.ch
 heypantry.ch
+heypapaya.ch
 heyparking.ch
 heypatient.ch
 heypatu.ch
@@ -22155,6 +22159,7 @@ heytea.ch
 heytech.ch
 heytens.ch
 heyteo.ch
+heythere.ch
 heythevoz.ch
 heythomas.ch
 heythun.ch

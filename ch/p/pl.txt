@@ -351,6 +351,7 @@ plaettligundw.ch
 plaettlihaex.ch
 plaettlihochzwei.ch
 plaettliland.ch
+plaettlileger-pratteln.ch
 plaettlileger.ch
 plaettlilegermeister.ch
 plaettlimax.ch
@@ -604,6 +605,7 @@ plakateria.ch
 plakateuri.ch
 plakatexpress.ch
 plakatf4.ch
+plakatfinder.ch
 plakatgalerie.ch
 plakatgestalter.ch
 plakatgestaltung.ch
@@ -689,6 +691,7 @@ plamse.ch
 plan--b.ch
 plan-23.ch
 plan-24.ch
+plan-5.ch
 plan-7.ch
 plan-a-architecture.ch
 plan-a-coaching.ch
@@ -2336,6 +2339,7 @@ planstaette.ch
 planstart.ch
 planstatt.ch
 planstattpanik.ch
+planstop.ch
 planstrom.ch
 planstudio.ch
 plansuisse.ch
@@ -2885,6 +2889,7 @@ planwaerk.ch
 planwagenferien.ch
 planwash.ch
 planway.ch
+planweg.ch
 planwein.ch
 planwelt.ch
 planwerk-3.ch
@@ -3467,7 +3472,6 @@ plastprint.ch
 plastrec-ag.ch
 plastrec.ch
 plastrecag.ch
-plastrum.ch
 plastsales.ch
 plastservice.ch
 plastteam.ch
@@ -3803,6 +3807,7 @@ platintafel.ch
 platinum-administration.ch
 platinum-agency.ch
 platinum-capital.ch
+platinum-cars.ch
 platinum-consult.ch
 platinum-direkt.ch
 platinum-escorts.ch
@@ -3843,6 +3848,7 @@ platinumauto.ch
 platinumblackwigs.ch
 platinumcar.ch
 platinumcard.ch
+platinumcars.ch
 platinumcf.ch
 platinumcloud.ch
 platinumclubambri.ch

@@ -133,6 +133,7 @@ sm10m.ch
 sm2.ch
 sm2013.ch
 sm2022.ch
+sm2023.ch
 sm2026.ch
 sm2026wollerau.ch
 sm25.ch
@@ -4201,7 +4202,6 @@ smarttradinggains.ch
 smarttraffic-software.ch
 smarttraffickids.ch
 smarttrail.ch
-smarttrailer.ch
 smarttrails.ch
 smarttrainer.ch
 smarttraining.ch
@@ -5128,6 +5128,7 @@ smg-aarburg.ch
 smg-atelier.ch
 smg-basel.ch
 smg-concept.ch
+smg-consulting.ch
 smg-design.ch
 smg-garage.ch
 smg-gautschi-design.ch
@@ -5760,7 +5761,6 @@ smileshop.ch
 smileshoplosone.ch
 smilesim.ch
 smileslim-diet.ch
-smilesmee.ch
 smilesnap.ch
 smilesoftware.ch
 smilesolution.ch

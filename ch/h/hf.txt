@@ -346,7 +346,6 @@ hfq-premium.ch
 hfq.ch
 hfr-check.ch
 hfr-compute.ch
-hfr-magicinfo-s2.ch
 hfr-magicinfo.ch
 hfr-secours.ch
 hfr.ch

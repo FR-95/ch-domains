@@ -568,10 +568,8 @@ offerscout.ch
 offersen.ch
 offersky.ch
 offersuisse.ch
-offert-alle.ch
 offert-flow.ch
 offert-scout.ch
-offert-umzug.ch
 offert.ch
 offerta-trasloco.ch
 offerta.ch
@@ -633,7 +631,6 @@ offerten-24.ch
 offerten-360.ch
 offerten-365.ch
 offerten-48.ch
-offerten-alle.ch
 offerten-app.ch
 offerten-arena.ch
 offerten-bau.ch
@@ -1085,6 +1082,7 @@ officeackermann.ch
 officeacoustic.ch
 officeag.ch
 officeagency.ch
+officeagent.ch
 officeaid.ch
 officeaifr.ch
 officeaivs.ch

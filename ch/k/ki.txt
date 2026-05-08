@@ -325,6 +325,7 @@ ki-homepage.ch
 ki-host.ch
 ki-hosting.ch
 ki-hotel.ch
+ki-hotline.ch
 ki-hub-graubuenden.ch
 ki-hub-stgallen.ch
 ki-hub.ch
@@ -906,6 +907,7 @@ ki-wissen.ch
 ki-wohnungsbewerbung.ch
 ki-work.ch
 ki-worker.ch
+ki-workflows.ch
 ki-works.ch
 ki-workshop-schweiz.ch
 ki-workshop.ch
@@ -2133,7 +2135,6 @@ kidsarea.ch
 kidsarena.ch
 kidsaround.ch
 kidsart.ch
-kidsartacademy.ch
 kidsartbook.ch
 kidsatelier.ch
 kidsathome.ch
@@ -3714,6 +3715,7 @@ kikkx.ch
 kikla.ch
 kiklic.ch
 kikmu.ch
+kiknet-flughafenzuerich.ch
 kiknet-herz.ch
 kiknet-swisstopo.ch
 kiknet.ch
@@ -4739,6 +4741,7 @@ kin-balance.ch
 kin-ball-bienne.ch
 kin-ball.ch
 kin-bet.ch
+kin-bets.ch
 kin-coach.ch
 kin-cranio.ch
 kin-equilibre.ch
@@ -4832,6 +4835,7 @@ kinberger.ch
 kinbet.ch
 kinbetcas.ch
 kinbetch.ch
+kinbets.ch
 kinbra.ch
 kinbrain.ch
 kincare.ch
@@ -4987,7 +4991,6 @@ kinder-flohmi.ch
 kinder-foerdern.ch
 kinder-forschen.ch
 kinder-fotoshooting.ch
-kinder-fragen.ch
 kinder-frei-zeit.ch
 kinder-funpark.ch
 kinder-fussball.ch
@@ -5339,6 +5342,7 @@ kinderaerzte-binningen.ch
 kinderaerzte-cham.ch
 kinderaerzte-drachenhuegel.ch
 kinderaerzte-elgg.ch
+kinderaerzte-horgen.ch
 kinderaerzte-im-zentrum.ch
 kinderaerzte-interlaken.ch
 kinderaerzte-lorzenpark.ch
@@ -5358,6 +5362,7 @@ kinderaerzte.ch
 kinderaerzteaargau.ch
 kinderaerzteamuntertor.ch
 kinderaerztehaus.ch
+kinderaerztehorgen.ch
 kinderaerztenidwalden.ch
 kinderaerzteschweiz.ch
 kinderaerztewinterthur.ch
@@ -5442,6 +5447,7 @@ kinderarzt-frutigen.ch
 kinderarzt-furttal.ch
 kinderarzt-hinwil.ch
 kinderarzt-hoengg.ch
+kinderarzt-horgen.ch
 kinderarzt-horw.ch
 kinderarzt-in-der-naehe.ch
 kinderarzt-in-meiner-naehe.ch
@@ -5514,6 +5520,7 @@ kinderarztemmen.ch
 kinderarztfloruster.ch
 kinderarztfon.ch
 kinderarzthaus.ch
+kinderarzthorgen.ch
 kinderarztkoeniz.ch
 kinderarztkriens.ch
 kinderarztkuessnacht.ch
@@ -8532,6 +8539,7 @@ kinereg5.ch
 kinereha.ch
 kinerent.ch
 kineret.ch
+kinergetics-reset.ch
 kinergia.ch
 kinergie-jennywaeber.ch
 kinergie-luethi.ch
@@ -9587,6 +9595,7 @@ kingdomphotography.ch
 kingdompreneurship.ch
 kingdomran.ch
 kingdrive.ch
+kingdultes.ch
 kingdut.ch
 kingeat.ch
 kingelias.ch
@@ -9608,6 +9617,7 @@ kingfisher.ch
 kingfisherbijoux.ch
 kingfishercottage.ch
 kingfisherfinance.ch
+kingfishergroup.ch
 kingfishers.ch
 kingfishertext.ch
 kingfluencer.ch
@@ -9850,7 +9860,6 @@ kingsgamecasino.ch
 kingsgarage.ch
 kingsgate.ch
 kingsgenetic.ch
-kingsgips.ch
 kingsgroup.ch
 kingshape.ch
 kingsheart.ch
@@ -10614,6 +10623,7 @@ kiolbassa.ch
 kiologe.ch
 kiombudsstelle.ch
 kiomi.ch
+kiomimassotherapie.ch
 kiomoon.ch
 kion-fs.ch
 kion-music.ch
@@ -15077,6 +15087,7 @@ kiwanisneuchatel.ch
 kiwanisnyon.ch
 kiwanissolothurn.ch
 kiwanisthun.ch
+kiwanisthunersee.ch
 kiwanisthurtal.ch
 kiwanisuster.ch
 kiwanisvignoble.ch

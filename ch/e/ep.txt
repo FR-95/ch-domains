@@ -232,6 +232,8 @@ epalinges-maison.ch
 epalinges-omnia.ch
 epalinges.ch
 epalinges24.ch
+epalingesclinic.ch
+epalingesdentalclinic.ch
 epalingesexpertisetoiture.ch
 epalpaletten.ch
 epalschweiz.ch
@@ -1567,7 +1569,6 @@ eplo-cossonay.ch
 eplo-penthalaz.ch
 eplo.ch
 eploveresse.ch
-eplug.ch
 epluggs.ch
 eplugnplay.ch
 eplus-dialog.ch
@@ -2285,6 +2286,7 @@ epurion-ag.ch
 epurion-energie.ch
 epurionenergie.ch
 epurse.ch
+epurteam.ch
 epurus.ch
 epus.ch
 epusuisse.ch

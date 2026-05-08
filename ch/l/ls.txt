@@ -217,7 +217,6 @@ lscustoms.ch
 lscv.ch
 lscwil.ch
 lscybersecurity.ch
-lsd-ag.ch
 lsd-dj.ch
 lsd-doors.ch
 lsd-legal.ch
@@ -299,7 +298,6 @@ lsg-swiss.ch
 lsg.ch
 lsga.ch
 lsgag.ch
-lsgalabau.ch
 lsgarage.ch
 lsgartenbau.ch
 lsgb.ch

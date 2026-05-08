@@ -824,6 +824,7 @@ orbit-gum.ch
 orbit-home.ch
 orbit-iex.ch
 orbit-interlaken.ch
+orbit-labs.ch
 orbit-luzern.ch
 orbit-media.ch
 orbit-online.ch
@@ -1229,7 +1230,6 @@ orchid-yoga.ch
 orchid-yogatherapie.ch
 orchid.ch
 orchidable.ch
-orchidai.ch
 orchidair.ch
 orchidarium.ch
 orchidbeauty55.ch
@@ -2000,6 +2000,7 @@ oreol.ch
 oreole-solutions.ch
 oreon.ch
 oreonx.ch
+oreotex.ch
 orepi.ch
 orequity.ch
 ores.ch
@@ -2942,6 +2943,7 @@ oriana-chiandusso.ch
 orianaberger.ch
 orianabruecker.ch
 orianachiandusso.ch
+orianageneve.ch
 orianapardini.ch
 orianas.ch
 orianascheuss.ch
@@ -3724,6 +3726,7 @@ orion-commodities.ch
 orion-conseiljuridique.ch
 orion-construction.ch
 orion-consulenzagiuridica.ch
+orion-corp.ch
 orion-design.ch
 orion-detailing.ch
 orion-dev.ch
@@ -5350,6 +5353,7 @@ orthoclaw.ch
 orthoclinical.ch
 orthocolline.ch
 orthocomfort.ch
+orthocompanion.ch
 orthocompetencecenter.ch
 orthoconcept.ch
 orthoconsult.ch
@@ -5399,6 +5403,7 @@ orthodontics-nyon.ch
 orthodontics-zug.ch
 orthodontics.ch
 orthodonticsalpha.ch
+orthodonticstrategy.ch
 orthodonticsymposia.ch
 orthodonticszug.ch
 orthodontie-aigle.ch
@@ -5549,7 +5554,6 @@ orthoforum.ch
 orthofoto.ch
 orthofotos.ch
 orthofox.ch
-orthofreund.ch
 orthofrey.ch
 orthofribourg.ch
 orthofrii.ch
@@ -6075,6 +6079,7 @@ orthospray.ch
 orthossmile.ch
 orthostaeticum.ch
 orthostgallen.ch
+orthostrategy.ch
 orthostudio.ch
 orthostudybern.ch
 orthosuisse.ch
@@ -6347,6 +6352,7 @@ ortsbelebung.ch
 ortsbeleuchtung.ch
 ortsbild.ch
 ortsbildaufwertung.ch
+ortsbildschutz-engwang.ch
 ortsbildschutz-luzern.ch
 ortsbuerger-baden.ch
 ortsbuerger-gossau.ch
@@ -6622,6 +6628,7 @@ orvahealth.ch
 orval.ch
 orvalia.ch
 orvalis.ch
+orvan.ch
 orvantis.ch
 orvayo.ch
 orvea.ch

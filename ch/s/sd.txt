@@ -135,7 +135,6 @@ sda-keystone.ch
 sda-news.ch
 sda-newsportal.ch
 sda-online.ch
-sda-portal.ch
 sda-production.ch
 sda-suisse.ch
 sda-vertrieb.ch

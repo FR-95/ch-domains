@@ -1257,7 +1257,6 @@ celest-swiss-design.ch
 celest.ch
 celesta-projects.ch
 celesta.ch
-celestaretreat.ch
 celeste-and-eliot.ch
 celeste-management.ch
 celeste-sui1.ch
@@ -1902,7 +1901,6 @@ cellcapital.ch
 cellcare-holding.ch
 cellcare-lab.ch
 cellcare.ch
-cellchaincares.ch
 cellcips-dgej.ch
 cellcips.ch
 cellcity.ch
@@ -2043,6 +2041,7 @@ cellmate.ch
 cellmaxx.ch
 cellmed.ch
 cellmedicum.ch
+cellmemory.ch
 cellmont.ch
 cellmotion.ch
 cellmove-biovortex.ch
@@ -2154,6 +2153,7 @@ cellrep.ch
 cellreset.ch
 cellrest.ch
 cellro.ch
+cells.ch
 cells4life.ch
 cellscience.ch
 cellseeds.ch
@@ -2252,7 +2252,6 @@ cellusion.ch
 celluswiss.ch
 celluticals.ch
 cellvene.ch
-cellvetics.ch
 cellvit.ch
 cellvital.ch
 cellwa.ch
@@ -2626,6 +2625,7 @@ cemento.ch
 cementoeditions.ch
 cements.ch
 cementtiles.ch
+cementum.ch
 cementwaren-kobler.ch
 cementwaren-rheintal.ch
 cementwaren.ch
@@ -4190,6 +4190,7 @@ centredecompetencesadresses.ch
 centrededoc.ch
 centrededocumentationduleman.ch
 centredefasciatherapie.ch
+centredefitnessdeplanlesouates.ch
 centredeformation.ch
 centredeformationdepremierssecours.ch
 centredefreinage.ch
@@ -4221,7 +4222,6 @@ centredentaire.ch
 centredentaireb1.ch
 centredentairebellevue.ch
 centredentairebiopole.ch
-centredentairecarouge.ch
 centredentairechampel.ch
 centredentairechenebourg.ch
 centredentairecitysmile.ch
@@ -5478,7 +5478,6 @@ ceprus.ch
 ceps-camp.ch
 ceps-camps.ch
 ceps-industries.ch
-ceps.ch
 cepsa.ch
 cepsarl.ch
 cepsdor.ch
@@ -6161,6 +6160,7 @@ cerestore.ch
 cerestrade.ch
 ceretti.ch
 cerevebleu.ch
+cerevia.ch
 cerevisia.ch
 cerevita.ch
 cerevo.ch

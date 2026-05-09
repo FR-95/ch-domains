@@ -60,6 +60,7 @@ ta-panta-rhei.ch
 ta-partnerns.ch
 ta-partners.ch
 ta-personaltrainer.ch
+ta-physio.ch
 ta-praxis-akademie.ch
 ta-sanitaire-chauffage.ch
 ta-schweiz.ch
@@ -862,7 +863,6 @@ tabular.ch
 tabularaissa.ch
 tabularasa-homeorganizer.ch
 tabularasa.ch
-tabularasaprinzip.ch
 tabularesa.ch
 tabularia.ch
 tabularis-treuhand.ch
@@ -3217,6 +3217,7 @@ tailleursdepierre.ch
 taillevent.ch
 taillevent2.ch
 tailnet.ch
+tailo.ch
 tailor-b2b.ch
 tailor-beadini.ch
 tailor-it.ch
@@ -4319,6 +4320,7 @@ talent-group.ch
 talent-hawk.ch
 talent-id.ch
 talent-incubator.ch
+talent-intelligence-value.ch
 talent-ipso.ch
 talent-j.ch
 talent-kick.ch
@@ -5124,6 +5126,7 @@ talky.ch
 talkyo.ch
 talkyou.ch
 talkzone.ch
+tall-ag.ch
 tall-dressed.ch
 tall.ch
 talla-chirurgie.ch
@@ -6746,6 +6749,7 @@ tangotee.ch
 tangotools.ch
 tangouabissanan.ch
 tangour.ch
+tangovalposchiavo.ch
 tangovibes.ch
 tangowave.ch
 tangowoche.ch
@@ -8080,7 +8084,6 @@ tantra-venus.ch
 tantra-vibes.ch
 tantra-wellness-lounge.ch
 tantra-wellness-oase.ch
-tantra-wellness.ch
 tantra-yoga-massagen.ch
 tantra-yoga.ch
 tantra-zeit.ch
@@ -11121,7 +11124,6 @@ taskflow.ch
 taskforce-swiss.ch
 taskforce-tuggen.ch
 taskforce-winterthur.ch
-taskforce.ch
 taskforce2020.ch
 taskforce2025.ch
 taskforce4women.ch
@@ -11439,6 +11441,8 @@ tasted.ch
 tastedontwaste.ch
 tastee.ch
 tastees.ch
+tasteevent.ch
+tastefestival.ch
 tasteful.ch
 tastefulconcerts.ch
 tastefull.ch
@@ -15850,6 +15854,7 @@ taxoptimized.ch
 taxora.ch
 taxorama.ch
 taxorbit.ch
+taxorganizer.ch
 taxos.ch
 taxoss.ch
 taxovo.ch
@@ -15973,6 +15978,7 @@ taxthun.ch
 taxthurgau.ch
 taxtime.ch
 taxtom.ch
+taxtool.ch
 taxtools.ch
 taxtor.ch
 taxtrail.ch

@@ -134,7 +134,6 @@ ns.carlifting.ch
 ns.carrierwerk.ch
 ns.carrierwork.ch
 ns.carrierworx.ch
-ns.cartedevisitegeneve.ch
 ns.ccrd.ch
 ns.cdns.ch
 ns.chalet-bettmeralp.ch
@@ -754,7 +753,6 @@ ns1.ackle.ch
 ns1.acloud.ch
 ns1.actim.ch
 ns1.action-photography.ch
-ns1.activex.ch
 ns1.actradns.ch
 ns1.adastraweb.ch
 ns1.adbw.ch
@@ -4113,7 +4111,6 @@ ns2.ackle.ch
 ns2.acloud.ch
 ns2.actim.ch
 ns2.action-photography.ch
-ns2.activex.ch
 ns2.actradns.ch
 ns2.adastraweb.ch
 ns2.adbw.ch
@@ -7821,7 +7818,6 @@ ns3.protonmail.ch
 ns3.protonvpn.ch
 ns3.psah.ch
 ns3.pschuetz.ch
-ns3.psori.ch
 ns3.ptrnca.ch
 ns3.pucis.ch
 ns3.pulseflow.ch
@@ -8248,7 +8244,6 @@ ns4.profinet.ch
 ns4.progressive.ch
 ns4.prosecure.ch
 ns4.pschuetz.ch
-ns4.psori.ch
 ns4.pulseflow.ch
 ns4.purecloud.ch
 ns4.rcp.ch

@@ -259,7 +259,6 @@ viacard.ch
 viacare.ch
 viacarego.ch
 viacarta.ch
-viacasa.ch
 viacaselle16.ch
 viacash.ch
 viacastello28.ch
@@ -878,6 +877,7 @@ viaselect.ch
 viasell.ch
 viasellinvest.ch
 viasenso.ch
+viaserica.ch
 viaserra.ch
 viaservice.ch
 viaservices.ch
@@ -1144,6 +1144,7 @@ vibeforge.ch
 vibefoundrystudio.ch
 vibegroup.ch
 vibehost.ch
+vibehosting.ch
 vibehub.ch
 vibehuus.ch
 vibeinvite.ch
@@ -4704,10 +4705,12 @@ viioshop.ch
 viiostore.ch
 viiovape.ch
 viir.ch
+viit.ch
 viita.ch
 viitamine.ch
 viitanordic.ch
 viitaprotection.ch
+viitech.ch
 viitor.ch
 viitorcloud.ch
 viiu.ch
@@ -5019,7 +5022,6 @@ viktorstampfli.ch
 viktorsteiner.ch
 viktorstrebel.ch
 viktortrummer.ch
-viktorvekselberg.ch
 viktorvoelkin.ch
 viktorwanner.ch
 viktorweber.ch
@@ -5539,6 +5541,7 @@ villablanche.ch
 villablu.ch
 villablue.ch
 villablumenau.ch
+villaboccia.ch
 villabond.ch
 villabonita.ch
 villaboscareno.ch
@@ -6420,6 +6423,7 @@ villayoyosg.ch
 villayoyovaud.ch
 villayoyowil.ch
 villayoyozh.ch
+villaz-1690.ch
 villaz.ch
 villaz1690.ch
 villaz2023.ch
@@ -8866,6 +8870,7 @@ vintageradio.ch
 vintageradionight.ch
 vintageradios.ch
 vintageready.ch
+vintagerecords.ch
 vintagerevivals.ch
 vintageria.ch
 vintagerie.ch
@@ -8896,6 +8901,7 @@ vintagesteering.ch
 vintagestore-bs.ch
 vintagestore.ch
 vintagestorebasel.ch
+vintagestudio.ch
 vintagestudios.ch
 vintagestyle.ch
 vintagestylemoebel.ch
@@ -10414,6 +10420,7 @@ virela.ch
 virelapharm.ch
 virelia.ch
 virelixlabs.ch
+virella.ch
 virellahealth.ch
 virelli.ch
 virellicorti.ch
@@ -13222,7 +13229,6 @@ visionpoint.ch
 visionpool.ch
 visionpositive.ch
 visionpossible.ch
-visionposture.ch
 visionpremium.ch
 visionpro.ch
 visionprod.ch
@@ -13385,6 +13391,7 @@ visionversoix.ch
 visionverte-design.ch
 visionverte.ch
 visionvertedesign.ch
+visionvibe.ch
 visionvibes.ch
 visionvts.ch
 visionvz.ch
@@ -14920,7 +14927,6 @@ viszeralchirurgie-bern.ch
 viszeralchirurgie-feigel.ch
 viszeralchirurgie-hirslanden.ch
 viszeralchirurgie-im-seefeld.ch
-viszeralchirurgie-impark.ch
 viszeralchirurgie-luzern.ch
 viszeralchirurgie-mittelland.ch
 viszeralchirurgie-ostschweiz.ch
@@ -15570,6 +15576,7 @@ vital-kraft.ch
 vital-kurse.ch
 vital-laura.ch
 vital-leben.ch
+vital-lebensmitte.ch
 vital-life-dynamics.ch
 vital-lifestyle.ch
 vital-line.ch
@@ -15653,6 +15660,7 @@ vital-versand.ch
 vital-vibes.ch
 vital-vier-tiere.ch
 vital-vogue.ch
+vital-wasser.ch
 vital-water.ch
 vital-werk.ch
 vital-wissen.ch
@@ -16263,6 +16271,7 @@ vitalpraxis-schoch.ch
 vitalpraxis-siegrist.ch
 vitalpraxis-vuille.ch
 vitalpraxis.ch
+vitalpro.ch
 vitalprodukt.ch
 vitalprodukte.ch
 vitalprojet.ch
@@ -16311,7 +16320,6 @@ vitalservice.ch
 vitalshake.ch
 vitalshop.ch
 vitalshopost.ch
-vitalskacademy.ch
 vitalskin.ch
 vitalsmooth.ch
 vitalsnack.ch
@@ -16412,6 +16420,7 @@ vitalvic.ch
 vitalviertiere.ch
 vitalvit.ch
 vitalvitamins.ch
+vitalwasser.ch
 vitalwater.ch
 vitalwavenutrition.ch
 vitalway-coaching.ch
@@ -17266,7 +17275,6 @@ vitismusicalis.ch
 vitisoliva.ch
 vitissquashparty.ch
 vitistim.ch
-vitisvinifera.ch
 vitiswiss.ch
 vititerram.ch
 vititour.ch
@@ -18939,7 +18947,6 @@ vivhair.ch
 vivi-ag.ch
 vivi-al-top.ch
 vivi-beauty.ch
-vivi-bella.ch
 vivi-collinadoro.ch
 vivi-design.ch
 vivi-gandria.ch

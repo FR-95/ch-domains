@@ -3914,6 +3914,7 @@ bacpoolsystems.ch
 bacque.ch
 bacs-it.ch
 bacsa.ch
+bacsil.ch
 bacso.ch
 bacsol.ch
 bacsrusso.ch
@@ -5090,7 +5091,6 @@ badischer-bahnhof.ch
 badischer-spargel.ch
 badischer-weinbahnhof.ch
 badischerbahnhof.ch
-badischmerke.ch
 badischuepfheim.ch
 badischwaendi.ch
 badiseeburg.ch
@@ -7662,7 +7662,6 @@ baggerunternehmen.ch
 baggerverleih.ch
 baggervermietung-appenzell.ch
 baggervermietung-hochdorf.ch
-baggervermietung-muhen.ch
 baggervermietung-rheintal.ch
 baggervermietung-stgallen.ch
 baggervermietung-thurgau.ch
@@ -8003,6 +8002,7 @@ bahigo-schweizer.ch
 bahigo-sportwetten.ch
 bahigo-swiss.ch
 bahigo.ch
+bahigo104.ch
 bahigo117.ch
 bahigo125.ch
 bahigo164.ch
@@ -8424,6 +8424,7 @@ bahnhofsplaza.ch
 bahnhofstr.ch
 bahnhofstrasse-42.ch
 bahnhofstrasse-frauenfeld.ch
+bahnhofstrasse-root.ch
 bahnhofstrasse-sh.ch
 bahnhofstrasse-suhr.ch
 bahnhofstrasse-zuerich.ch
@@ -10374,6 +10375,7 @@ balearis-estates.ch
 balearis-immobilien.ch
 balearis.ch
 balearisfineproperties.ch
+balec.ch
 baleco.ch
 balecommerce.ch
 baledang.ch
@@ -10742,7 +10744,6 @@ balkanized.ch
 balkankaravan.ch
 balkanking.ch
 balkanladen.ch
-balkanlovers.ch
 balkanmaniak.ch
 balkanmarkt-shahin.ch
 balkannet.ch
@@ -12191,6 +12192,7 @@ balsana.ch
 balsancosmetic.ch
 balsandco.ch
 balsavi.ch
+balsaweb.ch
 balsberg.ch
 balsbox.ch
 balscaffe.ch
@@ -12414,6 +12416,7 @@ baltzer-its.ch
 baltzer-musik.ch
 baltzer.ch
 baltzinger.ch
+balu-boerse.ch
 balu-fino.ch
 balu-gmbh.ch
 balu-grill.ch
@@ -13103,7 +13106,6 @@ baml.ch
 bamm.ch
 bammatta.ch
 bammatte.ch
-bammatter-coaching.ch
 bammatter-naters.ch
 bammatter.ch
 bammbamm.ch
@@ -13292,6 +13294,7 @@ bananenfis.ch
 bananenhoehle.ch
 bananenkiste-mieten.ch
 bananenkiste.ch
+bananenkisten-mieten.ch
 bananenkisten.ch
 bananenreiferei.ch
 bananenrepublik.ch
@@ -14002,6 +14005,7 @@ banhbaosuisse.ch
 banhegyi.ch
 banhme.ch
 banhmi-banhyou.ch
+banhmi-na.ch
 banhmi.ch
 banhmi136.ch
 banhmibanhyou.ch
@@ -14126,6 +14130,7 @@ bank-lawyer.ch
 bank-lehre.ch
 bank-lienhardt.ch
 bank-linth.ch
+bank-lohn.ch
 bank-metaverse.ch
 bank-mittelland.ch
 bank-now-test.ch
@@ -14421,6 +14426,7 @@ banking-global.ch
 banking-hub.ch
 banking-in-a-box.ch
 banking-jobs.ch
+banking-lohn.ch
 banking-magazin.ch
 banking-map.ch
 banking-outsourcing.ch
@@ -14604,7 +14610,6 @@ bankschliessfach.ch
 bankschliessfachversicherung.ch
 bankschweizag.ch
 banksecrecy.ch
-bankseite.ch
 bankservice.ch
 bankservices.ch
 bankshop.ch
@@ -17261,6 +17266,7 @@ bardilltreuhand.ch
 bardimm.ch
 bardin.ch
 bardina.ch
+bardinet.ch
 bardini-verde.ch
 bardinikeller.ch
 bardiniverde.ch
@@ -19351,7 +19357,6 @@ bartoli.ch
 bartolini.ch
 bartolo.ch
 bartolome.ch
-bartolomeo.ch
 bartolomeomonti.ch
 bartolomeorenovation.ch
 bartolomucci.ch
@@ -20126,7 +20131,6 @@ basel-open.ch
 basel-opening.ch
 basel-orl.ch
 basel-osteopathie.ch
-basel-outdoor.ch
 basel-paeckli.ch
 basel-park.ch
 basel-partyservice.ch
@@ -20513,6 +20517,7 @@ baselfo.ch
 baselfolk.ch
 baselfood.ch
 baselfoodculture.ch
+baselforum.ch
 baselfotograf.ch
 baselfoundation.ch
 baselfueralle.ch
@@ -20951,7 +20956,6 @@ baselworldapartment.ch
 baselxtaxi.ch
 basely.ch
 baselyne.ch
-baselyoga.ch
 baselzaemme.ch
 baselzahnarzt.ch
 baselzahntechnik.ch
@@ -23598,7 +23602,6 @@ batswap.ch
 batswiss.ch
 batt-auto.ch
 batt-easy.ch
-batt-gold.ch
 batt-huber.ch
 batt-immobilien.ch
 batt-malerei.ch
@@ -23621,6 +23624,7 @@ battaglia-elektrobau.ch
 battaglia-gips.ch
 battaglia-granit.ch
 battaglia-gruppe.ch
+battaglia-italy.ch
 battaglia-kieswerk.ch
 battaglia-landmaschinen.ch
 battaglia-law.ch
@@ -25365,7 +25369,6 @@ bauen-im-alter.ch
 bauen-im-bestand.ch
 bauen-im-dorf.ch
 bauen-im-laerm.ch
-bauen-in-beton.ch
 bauen-lauterbrunnen.ch
 bauen-limmattal.ch
 bauen-mit-alu.ch
@@ -26224,6 +26227,7 @@ baugruppen.ch
 baugruppenmontage.ch
 baugruppensysteme.ch
 bauguet.ch
+bauguru.ch
 bauguss.ch
 baugut-passing.ch
 baugut.ch
@@ -26413,6 +26417,7 @@ bauing.ch
 bauingenieur-braun.ch
 bauingenieur-in.ch
 bauingenieur-jobs.ch
+bauingenieur-lohn.ch
 bauingenieur-stellen.ch
 bauingenieur.ch
 bauingenieur24.ch
@@ -27395,6 +27400,7 @@ baumaschinenshop.ch
 baumaschinenshop24.ch
 baumaschinentaxi.ch
 baumaschinenteile.ch
+baumaschinenteile24.ch
 baumaschinentransport.ch
 baumaschinentransporte.ch
 baumaschinenverleih.ch
@@ -27832,7 +27838,6 @@ baumgartnerb.ch
 baumgartnerbaer.ch
 baumgartnerbeat.ch
 baumgartnerbeatrice.ch
-baumgartnerberatung.ch
 baumgartnerblumen.ch
 baumgartnerbu.ch
 baumgartnerbuecher.ch
@@ -27896,6 +27901,7 @@ baumglueck.ch
 baumgmt.ch
 baumgold.ch
 baumgraf.ch
+baumgrubensubstrat.ch
 baumgutacherzuerich.ch
 baumgutachten-basel.ch
 baumgutachten-baumart.ch
@@ -28295,6 +28301,7 @@ baumstriezel-gmbh.ch
 baumstriezel.ch
 baumstrunkfraesen.ch
 baumstudio.ch
+baumsubstrat.ch
 baumsubstrate.ch
 baumtagesued.ch
 baumtaxi.ch
@@ -28515,6 +28522,7 @@ bauplanet.ch
 bauplaning.ch
 bauplanjmerki.ch
 bauplannaturag.ch
+bauplanpro.ch
 bauplans.ch
 bauplanung-gr.ch
 bauplanung-schmid.ch
@@ -29069,7 +29077,6 @@ bausecag.ch
 bausecco.ch
 bausectechnik.ch
 bausecurity.ch
-bauseite.ch
 bauseits.ch
 bauseitspartner.ch
 bausekretaer.ch

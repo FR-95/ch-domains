@@ -24,7 +24,6 @@ im-auftrag-der-demeter-bauern.ch
 im-auftrag-der-hausverwaltungen.ch
 im-aufwind.ch
 im-aupark.ch
-im-ausland.ch
 im-auto.ch
 im-bahnhof.ch
 im-banne-des-berges.ch
@@ -1031,6 +1030,7 @@ imalent.ch
 imaler.ch
 imalia.ch
 imalimousineservice.ch
+imalimousineservices.ch
 imall.ch
 imalltag.ch
 imalor.ch
@@ -2778,7 +2778,6 @@ immassagen.ch
 immasset.ch
 immaterial.ch
 immaterialcapital.ch
-immaterialgueter.ch
 immaterialgueterrecht.ch
 immaterielle-kultur.ch
 immaterielles-kulturerbe.ch
@@ -3148,6 +3147,7 @@ imminvest.ch
 immio.ch
 immis.ch
 immisch.ch
+immiscout24.ch
 immisit.ch
 immission.ch
 immissionen.ch
@@ -3755,7 +3755,6 @@ immo-kupfenag.ch
 immo-l.ch
 immo-laden.ch
 immo-lagler.ch
-immo-lago-maggiore.ch
 immo-lai.ch
 immo-lamba.ch
 immo-landhaus.ch
@@ -6182,7 +6181,6 @@ immobilienonlineshop.ch
 immobilienoptimierer.ch
 immobilienoptimierung.ch
 immobilienostschweiz.ch
-immobilienpaket.ch
 immobilienpanel.ch
 immobilienpark.ch
 immobilienpartner-wyss.ch
@@ -6291,7 +6289,6 @@ immobilienscout.ch
 immobilienscout24.ch
 immobilienscreen.ch
 immobilienseeland.ch
-immobilienseite.ch
 immobiliensektor.ch
 immobilienselbstvermarkter.ch
 immobiliensena.ch
@@ -7584,6 +7581,7 @@ immoge.ch
 immogecko.ch
 immogeist.ch
 immogeister.ch
+immogen.ch
 immogenerations.ch
 immogeneve.ch
 immogeneve1200.ch
@@ -8301,7 +8299,6 @@ immonetworkag.ch
 immonetz.ch
 immoneu.ch
 immoneuch.ch
-immoneuchatel.ch
 immoneuf.ch
 immoneufenfrance.ch
 immoneum.ch
@@ -9286,7 +9283,6 @@ immotron.ch
 immotrust-ge.ch
 immotrust.ch
 immotrustag.ch
-immotrusting.ch
 immotrustservices.ch
 immots.ch
 immotschek.ch
@@ -9952,7 +9948,6 @@ imoberstegarchitektur.ch
 imoberstegconsulting.ch
 imoberstegsolutions.ch
 imoberstegtransporte.ch
-imobi.ch
 imobile.ch
 imobilen.ch
 imobilestore.ch
@@ -10072,6 +10067,7 @@ imorana.ch
 imoreal.ch
 imorek.ch
 imorg.ch
+imorgado.ch
 imorge.ch
 imorgenstern.ch
 imorges.ch
@@ -10271,7 +10267,6 @@ impact-groupe.ch
 impact-hiring.ch
 impact-hope.ch
 impact-hub.ch
-impact-ia.ch
 impact-immo.ch
 impact-immobilien.ch
 impact-immobilier.ch
@@ -11631,6 +11626,7 @@ impots-frontalier.ch
 impots-frontaliers.ch
 impots-geneve.ch
 impots-help.ch
+impots-info.ch
 impots-jr.ch
 impots-jura.ch
 impots-ne.ch
@@ -11829,7 +11825,6 @@ impressions.ch
 impressions24.ch
 impressionsmurales.ch
 impressium.ch
-impressiva.ch
 impressive.ch
 impressiveworx.ch
 impressivo.ch

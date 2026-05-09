@@ -111,7 +111,6 @@ mc-freienwil.ch
 mc-g.ch
 mc-game.ch
 mc-garage.ch
-mc-garagen.ch
 mc-garascha.ch
 mc-geometres.ch
 mc-gestion.ch
@@ -1728,7 +1727,6 @@ mcsev.ch
 mcsforgedwheels.ch
 mcsg.ch
 mcsgroup.ch
-mcsh.ch
 mcshape.ch
 mcshark.ch
 mcshave.ch

@@ -410,7 +410,6 @@ fuchswolf.ch
 fuchsy.ch
 fuchsyannick.ch
 fuchsynergie.ch
-fuchsynergy.ch
 fuchszauber.ch
 fuchtersculpture.ch
 fuchur.ch
@@ -3635,6 +3634,7 @@ funkbauag.ch
 funkberatung.ch
 funkbewegungsmelder.ch
 funkbots.ch
+funkbox.ch
 funkbrandmeldeanlage.ch
 funkbrandmeldeanlagen.ch
 funkbrandwarnanlage.ch
@@ -5313,6 +5313,7 @@ fusionglobal.ch
 fusionieren.ch
 fusionism.ch
 fusionismus.ch
+fusionite.ch
 fusionjewels.ch
 fusionjourney.ch
 fusionkitchen.ch
@@ -5901,7 +5902,6 @@ fussfetisch.ch
 fussfetischaargau.ch
 fussfetischdates.ch
 fussfetischzuerich.ch
-fussfit-ag.ch
 fussfit-jm.ch
 fussfit-st-antoenien.ch
 fussfit.ch
@@ -6895,6 +6895,7 @@ futsure.ch
 futter-ambulanz.ch
 futter-bauer.ch
 futter-boerse.ch
+futter-boexli.ch
 futter-coach.ch
 futter-ecke.ch
 futter-einstreu.ch
@@ -6927,6 +6928,7 @@ futterberatungpferd.ch
 futterbeutel.ch
 futterblitz.ch
 futterboerse.ch
+futterboexli.ch
 futterbox.ch
 futtercheck.ch
 futtercoach.ch

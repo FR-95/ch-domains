@@ -533,7 +533,6 @@ plaisirsdelatable.ch
 plaisirsdetable.ch
 plaisirsdujardin.ch
 plaisirsduvin.ch
-plaisirsecret.ch
 plaisirsencadeau.ch
 plaisirsgastronomie.ch
 plaisirsmag.ch
@@ -2622,6 +2621,7 @@ plantinggreen.ch
 plantingwithdavid.ch
 plantini.ch
 plantino.ch
+plantio.ch
 plantior.ch
 plantiq.ch
 plantiquebiocosmetics.ch
@@ -2676,6 +2676,7 @@ plantour.ch
 plantours.ch
 plantowall.ch
 plantoys.ch
+plantpal.ch
 plantpals.ch
 plantparty.ch
 plantpass.ch
@@ -3665,6 +3666,7 @@ platesbandes.ch
 platescanpro.ch
 platevision.ch
 platewatcher.ch
+plateweb.ch
 platex-wernli.ch
 platex.ch
 platflow.ch
@@ -3910,6 +3912,7 @@ platolog.ch
 platomics.ch
 platon-ag.ch
 platon.ch
+platonia-facility.ch
 platonia.ch
 platonik.ch
 platonischekoerper.ch
@@ -4167,6 +4170,7 @@ plattenleger4you.ch
 plattenlegerallerart.ch
 plattenlegerbasel.ch
 plattenlegerbaselland.ch
+plattenlegerbern.ch
 plattenlegerei.ch
 plattenlegerfirmen.ch
 plattenlegergstaad.ch
@@ -4179,6 +4183,7 @@ plattenlegeroberwallis.ch
 plattenlegerpro.ch
 plattenlegerprofi.ch
 plattenlegerprofile.ch
+plattenlegerschweiz.ch
 plattenlegerstgallen.ch
 plattenlegervergleich.ch
 plattenlegerwallis.ch
@@ -5163,6 +5168,7 @@ playpus.ch
 playqr.ch
 playr.ch
 playradio.ch
+playrec.ch
 playregal.ch
 playrewind.ch
 playrfj.ch
@@ -6432,6 +6438,7 @@ plombier-sani-top.ch
 plombier-sanitaire-geneve.ch
 plombier-sanitaire-renens.ch
 plombier-sarnen.ch
+plombier-secours.ch
 plombier-stans.ch
 plombier-tavannes.ch
 plombier-thonex.ch
@@ -7836,6 +7843,7 @@ plusp.ch
 pluspack.ch
 pluspal.ch
 pluspart.ch
+pluspartners.ch
 pluspascal.ch
 pluspatric.ch
 pluspatrick.ch

@@ -1154,7 +1154,6 @@ socialcredits.ch
 socialcribs.ch
 socialcuisine.ch
 socialdance.ch
-socialdanceclub.ch
 socialdancecoach.ch
 socialdancer.ch
 socialdancestudio.ch
@@ -3479,6 +3478,7 @@ softies.ch
 softify.ch
 softiger.ch
 softigest.ch
+softigo.ch
 softigyn.ch
 softimmo.ch
 softimo.ch
@@ -8347,6 +8347,7 @@ soleforte.ch
 soleg.ch
 solegal.ch
 soleggiamo.ch
+soleggiatasound.ch
 solegiallo.ch
 solegis.ch
 solegno.ch
@@ -10179,7 +10180,6 @@ solsg.ch
 solshare.ch
 solsilva.ch
 solsiris.ch
-solskin-cards.ch
 solsociety.ch
 solsol.ch
 solsolito.ch
@@ -11183,7 +11183,6 @@ solviva.ch
 solvivajobs.ch
 solvivant.ch
 solvivus.ch
-solvix.ch
 solvo-gmbh.ch
 solvo.ch
 solvobauprojekt.ch
@@ -11225,7 +11224,6 @@ solwert.ch
 solwin.ch
 solwines.ch
 solwiss.ch
-solwit.ch
 solworks.ch
 solx.ch
 soly-drive.ch
@@ -11744,6 +11742,7 @@ somfy-tahomabox.ch
 somfy.ch
 somfypro.ch
 somfyprotect.ch
+somgroupe.ch
 somi-hengst.ch
 somi-shop.ch
 somi-stiftung.ch
@@ -11803,7 +11802,6 @@ sommeil-info.ch
 sommeil-tech.ch
 sommeil.ch
 sommeilenfant.ch
-sommeiletconfort.ch
 sommeiletrespiration.ch
 sommeiletsoinspediatriques.ch
 sommeilinfo.ch
@@ -13703,6 +13701,7 @@ sonjaschreiner.ch
 sonjaschwab.ch
 sonjaschwarz.ch
 sonjasekula.ch
+sonjasernaehrungs-coaching.ch
 sonjasgeigenunterricht.ch
 sonjashfstudio.ch
 sonjasophiekreis.ch
@@ -14106,7 +14105,6 @@ sonnenbergbahn.ch
 sonnenberge.ch
 sonnenberger-wein.ch
 sonnenberger-weine.ch
-sonnenberger.ch
 sonnenbergerwein.ch
 sonnenbergerweine.ch
 sonnenbergfuehrer.ch
@@ -18964,6 +18962,7 @@ soulmap-cloud.ch
 soulmap.ch
 soulmarina.ch
 soulmark.ch
+soulmarket.ch
 soulmarketing.ch
 soulmarks.ch
 soulmassage.ch
@@ -19196,6 +19195,7 @@ soulsspirit.ch
 soulstar.ch
 soulstation.ch
 soulstitch.ch
+soulstone.ch
 soulstoneharmony.ch
 soulstones.ch
 soulstore.ch
@@ -20195,6 +20195,7 @@ sourdough-summit.ch
 sourdough.ch
 sourdoughwonders.ch
 sourds.ch
+sourdsvaudois.ch
 souren.ch
 sourenfurniture.ch
 sourf.ch

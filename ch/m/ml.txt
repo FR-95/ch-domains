@@ -362,7 +362,6 @@ mll-ag.ch
 mll-mvz.ch
 mll-news.ch
 mll-realestate.ch
-mll-test.ch
 mll.ch
 mllab.ch
 mllabs.ch

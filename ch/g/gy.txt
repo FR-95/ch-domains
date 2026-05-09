@@ -1148,6 +1148,7 @@ gynecologue-meyrin.ch
 gynecologue-montreux.ch
 gynecologue-noth-vallotton.ch
 gynecologue-obstetricien-geneve.ch
+gynecologue-porrentruy.ch
 gynecologue-riviera.ch
 gynecologue-saint-legier.ch
 gynecologue-vaud.ch
@@ -1539,7 +1540,6 @@ gysi-fugenreinigung.ch
 gysi-gaertnerei.ch
 gysi-gms.ch
 gysi-klinger.ch
-gysi-leitplanken.ch
 gysi-mgt.ch
 gysi-partner.ch
 gysi-pumpen.ch

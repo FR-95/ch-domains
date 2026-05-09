@@ -771,6 +771,7 @@ space-between.ch
 space-cakes.ch
 space-camper.ch
 space-campus.ch
+space-car.ch
 space-clearing.ch
 space-com.ch
 space-craft.ch
@@ -1495,6 +1496,7 @@ spagnoli.ch
 spagnolo.ch
 spagnologmbh.ch
 spagnuolo.ch
+spago-zug.ch
 spago.ch
 spagoetti.ch
 spagonten.ch
@@ -2744,7 +2746,6 @@ sparn.ch
 sparnase.ch
 sparndruck.ch
 sparnier.ch
-sparnotar.ch
 sparo.ch
 sparoase.ch
 sparofferten.ch
@@ -3357,7 +3358,6 @@ spaziobeasoriano.ch
 spaziobianco.ch
 spazioblu.ch
 spaziobox.ch
-spaziochiave.ch
 spazioconceptstore.ch
 spazioconsapevole.ch
 spazioconsolida.ch
@@ -4061,6 +4061,7 @@ specialisteweb.ch
 specialistewordpress.ch
 specialisti-clinici.ch
 specialisti-fp.ch
+specialisti-sga-lamone.ch
 specialisticlinici.ch
 specialistidicucine.ch
 specialistpc.ch
@@ -6558,6 +6559,7 @@ spezifis.ch
 spezifische-immuntherapie.ch
 speziga.ch
 spezim.ch
+spezimen.ch
 spezimetzger.ch
 spezizero.ch
 spezkarbr.ch
@@ -8322,6 +8324,7 @@ spielgruppedaeniken.ch
 spielgruppederzukunft.ch
 spielgruppedomatems.ch
 spielgruppedrachenhoehle.ch
+spielgruppedreieichen.ch
 spielgruppeeichhoernli.ch
 spielgruppeengelwies.ch
 spielgruppeeriswil.ch
@@ -8925,7 +8928,6 @@ spielshop.ch
 spielshop24.ch
 spielshow.ch
 spielsicher.ch
-spielsiegprofi9.ch
 spielsinn.ch
 spielsinnspiel.ch
 spielsparadies.ch
@@ -9775,6 +9777,7 @@ spine-pain.ch
 spine-pelvis.ch
 spine-planner.ch
 spine-platform.ch
+spine-private-leu-zurich.ch
 spine-surgeon.ch
 spine-surgery.ch
 spine-team.ch
@@ -16946,7 +16949,6 @@ sports-jura-suisse.ch
 sports-kanone.ch
 sports-knee.ch
 sports-lawyer.ch
-sports-lawyers.ch
 sports-legends-international.ch
 sports-licensing.ch
 sports-live.ch
@@ -18658,6 +18660,7 @@ sprachimpuls.ch
 sprachinstitut.ch
 sprachinstitute.ch
 sprachjahr.ch
+sprachkanal.ch
 sprachkind.ch
 sprachkinder.ch
 sprachkiosk.ch
@@ -19971,6 +19974,7 @@ sprosshuegel.ch
 sprossier.ch
 sprossimmobilien.ch
 sprossini.ch
+sprossn.ch
 sprossprint.ch
 sprossrecycling.ch
 sprossrecyclingbeton.ch
@@ -20187,7 +20191,6 @@ sps-software.ch
 sps-steuerung.ch
 sps-steuerungen.ch
 sps-suze.ch
-sps-swiss.ch
 sps-techniker.ch
 sps-thoerigen-herzogenbuchsee.ch
 sps-tkdemokratie.ch
@@ -20466,6 +20469,7 @@ spumanteria.ch
 spumanthe.ch
 spumivit.ch
 spumone.ch
+spun.ch
 spundas.ch
 spundatscha.ch
 spundis.ch
@@ -20767,6 +20771,7 @@ spycherli.ch
 spycherlijodler.ch
 spychermatt.ch
 spychermettmenstetten.ch
+spychermuenster.ch
 spycherplatz.ch
 spycherpost.ch
 spychers.ch

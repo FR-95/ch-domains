@@ -1143,7 +1143,6 @@ unesco-bettlachstock.ch
 unesco-biosfera.ch
 unesco-geopark.ch
 unesco-glarnerland.ch
-unesco-info.ch
 unesco-lavaux.ch
 unesco-sardona.ch
 unesco-schweiz.ch
@@ -1151,7 +1150,6 @@ unesco-twann.ch
 unesco-welterbe.ch
 unesco.ch
 unescoclubticino.ch
-unescoinfo.ch
 unescosardona.ch
 unescowelterbeschweiz.ch
 unescoweltnaturerbe.ch
@@ -1879,7 +1877,6 @@ unibrokers.ch
 unibs.ch
 unibuddy.ch
 unibyte.ch
-unic-art.ch
 unic-center.ch
 unic-france.ch
 unic-hairstyle.ch
@@ -2667,7 +2664,6 @@ unika-schule.ch
 unika-schweiz.ch
 unika.ch
 unikaat.ch
-unikadesign.ch
 unikaflow.ch
 unikal.ch
 unikaluz.ch
@@ -3872,6 +3868,7 @@ uniqueoutsourcingsolution.ch
 uniqueparking.ch
 uniquepathways.ch
 uniquepeople.ch
+uniqueperle.ch
 uniqueperspectives.ch
 uniquepf.ch
 uniquephoto.ch
@@ -5041,7 +5038,6 @@ universalpyramide.ch
 universalrad.ch
 universalreformer.ch
 universalreiniger.ch
-universalreinigung.ch
 universalreinzug.ch
 universalreisen.ch
 universalreligion.ch

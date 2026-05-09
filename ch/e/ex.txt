@@ -1262,7 +1262,6 @@ executive-jobs-schweiz.ch
 executive-jobs.ch
 executive-kaderjobs.ch
 executive-knowledge.ch
-executive-limo.ch
 executive-limousine.ch
 executive-limousines.ch
 executive-lounge.ch
@@ -3054,7 +3053,6 @@ expert-bula.ch
 expert-caisse-de-pension.ch
 expert-call.ch
 expert-canalisation.ch
-expert-canalisations.ch
 expert-canapa.ch
 expert-cars.ch
 expert-caution.ch
@@ -4267,6 +4265,7 @@ explowaagen.ch
 explug.ch
 expnt.ch
 expo-2032.ch
+expo-50plus.ch
 expo-7.ch
 expo-aargau.ch
 expo-ag.ch

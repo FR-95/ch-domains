@@ -849,6 +849,7 @@ readymade.ch
 readymadecompany.ch
 readymadecurtains.ch
 readymail.ch
+readymed.ch
 readynet.ch
 readynetz.ch
 readynow.ch
@@ -3060,7 +3061,6 @@ rebelsmind.ch
 rebelsmokes.ch
 rebelsnqueen.ch
 rebelsocks.ch
-rebelsofhope.ch
 rebelssmoothiebar.ch
 rebelte.ch
 rebeltoi.ch
@@ -4241,7 +4241,6 @@ recht-schweiz-spanien.ch
 recht-schweiz.ch
 recht-sicher-erfolgreich.ch
 recht-sicher.ch
-recht-sicherheit.ch
 recht-simpel.ch
 recht-smart.ch
 recht-sozialarbeit.ch
@@ -6393,7 +6392,6 @@ red-horse.ch
 red-hot.ch
 red-house-sexylounge.ch
 red-icon.ch
-red-ink.ch
 red-io.ch
 red-kites.ch
 red-kiwi.ch
@@ -8020,6 +8018,7 @@ reduco.ch
 reducom.ch
 reduct.ch
 reduction-de-personnel.ch
+reduction-impots.ch
 reduction-loyer.ch
 reduction-prime.ch
 reduction.ch
@@ -9424,7 +9423,6 @@ refletdelame.ch
 refletdesbulles.ch
 refletdeshana.ch
 refletdesign.ch
-refletdigital.ch
 refletducoeur.ch
 refletdumiroir.ch
 refletdutemps.ch
@@ -9546,7 +9544,6 @@ reflexions-coaching.ch
 reflexions-zeit.ch
 reflexions-ziit.ch
 reflexions.ch
-reflexionsarchitekt.ch
 reflexionsatelier.ch
 reflexionscoach.ch
 reflexionsexpertin.ch
@@ -13017,6 +13014,7 @@ regnodoro.ch
 regnology.ch
 regnorm.ch
 regnot.ch
+regnotize.ch
 regnuapr24.ch
 regnum.ch
 rego-architectes.ch
@@ -13183,7 +13181,6 @@ regula-leupold.ch
 regula-luescher.ch
 regula-mathisriesen.ch
 regula-matthias.ch
-regula-meier.ch
 regula-meyer.ch
 regula-mueller.ch
 regula-ochsenbein.ch
@@ -18768,6 +18765,7 @@ relaw.ch
 relax--sessel.ch
 relax-and-enjoy.ch
 relax-and-go.ch
+relax-atelier.ch
 relax-balance.ch
 relax-bau.ch
 relax-beauty.ch
@@ -19136,7 +19134,6 @@ relayr.ch
 relayroo.ch
 relays.ch
 relayswiss.ch
-relayter.ch
 relazione.ch
 relazioniinternazionali.ch
 relbat.ch
@@ -19809,6 +19806,7 @@ relysh.ch
 relysian.ch
 relytics.ch
 relyz.ch
+rem-chan.ch
 rem-consult.ch
 rem-consulting.ch
 rem-events.ch
@@ -22916,6 +22914,7 @@ renieuetz.ch
 renihardmeier.ch
 reniirinyi.ch
 renikaiser.ch
+renikus.ch
 renilutz.ch
 renimmobau.ch
 renios.ch
@@ -23782,7 +23781,6 @@ renovationcuisinegeneve.ch
 renovationcuisineneuchatel.ch
 renovationdecuisines.ch
 renovationdepiscines.ch
-renovationds.ch
 renovationdulac.ch
 renovationduleman.ch
 renovationeclairage.ch
@@ -23859,6 +23857,7 @@ renovationsobjekte.ch
 renovationsociale.ch
 renovationsofferte.ch
 renovationspartner.ch
+renovationsprofi.ch
 renovationsprofis.ch
 renovationsprojekte.ch
 renovationsrechner.ch
@@ -23932,6 +23931,7 @@ renovent-bau.ch
 renovent.ch
 renovente.ch
 renoventexcellent.ch
+renovento.ch
 renoveo.ch
 renover-ma-cuisine.ch
 renover.ch
@@ -24131,7 +24131,6 @@ rent-a-bagger.ch
 rent-a-barkeeper.ch
 rent-a-bed.ch
 rent-a-bee.ch
-rent-a-beetli.ch
 rent-a-berkel.ch
 rent-a-bett.ch
 rent-a-bewi.ch
@@ -24512,7 +24511,6 @@ rentabarkeeper.ch
 rentabartender.ch
 rentabed.ch
 rentabee.ch
-rentabeetli.ch
 rentabel-cobra.ch
 rentabel.ch
 rentabelcars.ch
@@ -25794,6 +25792,7 @@ repair-app.ch
 repair-balance.ch
 repair-cafe-bern.ch
 repair-cafe-frauenfeld.ch
+repair-cafe-haslital.ch
 repair-cafe-hinterthurgau.ch
 repair-cafe-hochdorf.ch
 repair-cafe-horw.ch
@@ -26705,6 +26704,7 @@ reporting-tool.ch
 reporting-zukunft.ch
 reporting.ch
 reportingacademy.ch
+reportingclarity.ch
 reportingeasy.ch
 reportingexpert.ch
 reportingexperts.ch
@@ -26902,6 +26902,7 @@ reproscangroup.ch
 reproschicker.ch
 reprosolution.ch
 reprostar.ch
+reprostatcapsules.ch
 reprotec-onlineprint.ch
 reprotec.ch
 reprotect.ch
@@ -28247,7 +28248,6 @@ residence-parcdescrets.ch
 residence-partner.ch
 residence-partners.ch
 residence-paul.ch
-residence-permit-work-permit.ch
 residence-permit.ch
 residence-pierredelafee.ch
 residence-place-to.ch
@@ -31866,6 +31866,7 @@ restaurant-salamandre.ch
 restaurant-saltz.ch
 restaurant-salwald.ch
 restaurant-salzhaus.ch
+restaurant-samba.ch
 restaurant-sandplatz.ch
 restaurant-sanmarco.ch
 restaurant-sansiro.ch
@@ -32416,7 +32417,6 @@ restaurantandtakeawaygoldenindia-fribourg.ch
 restaurantandtakeawaygoldenindia-lausanne.ch
 restaurantantalya.ch
 restaurantapart.ch
-restaurantappenzell.ch
 restaurantarche.ch
 restaurantarena.ch
 restaurantarenasg.ch
@@ -33971,7 +33971,6 @@ restogest.ch
 restoi.ch
 restoimmo.ch
 restojobs.ch
-restoked.ch
 restokungfu.ch
 restolabrique.ch
 restolafontaine.ch
@@ -34152,7 +34151,6 @@ restrade.ch
 restrafog.ch
 restrained.ch
 restreet21.ch
-restricted.ch
 restrictive-fetish.ch
 restrictivefetish.ch
 restrisiko.ch
@@ -37378,6 +37376,7 @@ revisaudit-premium.ch
 revisaudit.ch
 revisauditpremium.ch
 revisbiogas.ch
+reviscan.ch
 revisd.ch
 revise.ch
 reviseo.ch
@@ -38289,6 +38288,7 @@ rexag.ch
 rexagency.ch
 rexal.ch
 rexapotheke.ch
+rexarchive.ch
 rexartus.ch
 rexas-immo.ch
 rexas.ch

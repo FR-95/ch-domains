@@ -122,6 +122,7 @@ koamas-massagen.ch
 koami-recht.ch
 koami.ch
 koan-cbd.ch
+koan-security.ch
 koan.ch
 koana.ch
 koanafit.ch
@@ -136,6 +137,7 @@ koar.ch
 koari.ch
 koat.ch
 koatch.ch
+koate.ch
 koaudiotex.ch
 koawa.ch
 koawach.ch
@@ -275,7 +277,6 @@ kober-law.ch
 kober-verlag.ch
 kober.ch
 koberg.ch
-koberind.ch
 koberinsight.ch
 koberlaw.ch
 kobermeyer.ch
@@ -536,7 +537,6 @@ koch-hauswartungen.ch
 koch-heilstein.ch
 koch-heizungsanitaer.ch
 koch-herisau.ch
-koch-holzbau.ch
 koch-holzhandwerk.ch
 koch-hs.ch
 koch-immo.ch
@@ -3045,6 +3045,7 @@ kokillenguss.ch
 kokin.ch
 kokinoo-kindermoebel.ch
 kokinoo.ch
+kokiri-gartenbau.ch
 kokiri.ch
 kokiris.ch
 kokishop.ch
@@ -3404,6 +3405,7 @@ kolibri-beaute.ch
 kolibri-boote.ch
 kolibri-breath.ch
 kolibri-candels.ch
+kolibri-care-academy.ch
 kolibri-coach.ch
 kolibri-coaching.ch
 kolibri-effekt.ch
@@ -3871,7 +3873,6 @@ kollerinternet.ch
 kollerit.ch
 kollerkaminbau.ch
 kollerkanal.ch
-kollerkarate.ch
 kollerkendo.ch
 kollerkosmetik.ch
 kollermail.ch
@@ -4844,7 +4845,6 @@ kommunikationsassistent.ch
 kommunikationsatelier.ch
 kommunikationsatlas.ch
 kommunikationsberater.ch
-kommunikationsberaterin.ch
 kommunikationsberatung-kmu.ch
 kommunikationsberatung-luzern.ch
 kommunikationsberatung-reintjes.ch
@@ -7202,6 +7202,7 @@ konsumo.ch
 konsumpreis.ch
 konsumreute.ch
 konsumstreik.ch
+konsumstudie.ch
 konsumtempel.ch
 konsumtrend.ch
 konsumtrends.ch
@@ -7447,7 +7448,6 @@ kontaktvermittlung.ch
 kontaktvorschlag.ch
 kontaktwerk.ch
 kontaro.ch
-kontarsky.ch
 kontasuisse.ch
 kontaswiss.ch
 kontatto.ch
@@ -7503,6 +7503,7 @@ kontextmensch.ch
 kontextplan.ch
 kontextpro.ch
 kontextproduktion.ch
+kontextvisuals.ch
 kontextweiterbildung.ch
 kontextwissenschaft.ch
 konthaishop.ch
@@ -10024,6 +10025,7 @@ kosmetik-direkt.ch
 kosmetik-donauer.ch
 kosmetik-dort.ch
 kosmetik-doser.ch
+kosmetik-douha.ch
 kosmetik-duenki.ch
 kosmetik-eldorado.ch
 kosmetik-elena.ch
@@ -11439,6 +11441,7 @@ kouros-moccia.ch
 kouros.ch
 kourosch.ch
 kouroshservices.ch
+kourosimmobilier.ch
 kourpendi.ch
 kourpendy.ch
 kourrier.ch

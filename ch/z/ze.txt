@@ -1472,6 +1472,7 @@ zeitgut-weinfelden.ch
 zeitgut-zuerich.ch
 zeitgut.ch
 zeitguthaben.ch
+zeith.ch
 zeithaben.ch
 zeithalter.ch
 zeithasansand.ch
@@ -1718,7 +1719,6 @@ zeitschenken.ch
 zeitschild.ch
 zeitschrift-abo.ch
 zeitschrift-abonnieren.ch
-zeitschrift-ebikon.ch
 zeitschrift-frauenforum.ch
 zeitschrift-fuer-emdr.ch
 zeitschrift-gegenwart.ch
@@ -2131,6 +2131,7 @@ zelio.ch
 zelion.ch
 zeliph.ch
 zeliska.ch
+zelit.ch
 zelius.ch
 zeliva.ch
 zelivo.ch
@@ -2847,7 +2848,6 @@ zen-ia.ch
 zen-im-coaching.ch
 zen-imgruenenring.ch
 zen-immo.ch
-zen-immobilier.ch
 zen-innovations.ch
 zen-investor.ch
 zen-it-beaute.ch
@@ -5214,6 +5214,7 @@ zermatt-photography.ch
 zermatt-photos.ch
 zermatt-photoshoots.ch
 zermatt-rail-travel.ch
+zermatt-rental.ch
 zermatt-saniert.ch
 zermatt-security-service.ch
 zermatt-seminarhotels.ch
@@ -5372,6 +5373,7 @@ zermattproperty.ch
 zermattpropertycare.ch
 zermattquests.ch
 zermattrealestate.ch
+zermattrental.ch
 zermattrestaurant.ch
 zermattrock.ch
 zermattrocks.ch
@@ -6467,7 +6469,6 @@ zeyajewellery.ch
 zeyalabs.ch
 zeyann.ch
 zeyat-conseil.ch
-zeybaugruppe.ch
 zeybek.ch
 zeybru.ch
 zeydler.ch

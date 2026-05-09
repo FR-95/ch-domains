@@ -3533,7 +3533,6 @@ jesuiscap.ch
 jesuischarlie.ch
 jesuischaude.ch
 jesuiscochonne.ch
-jesuiscommetoi.ch
 jesuiscontent.ch
 jesuiscrans-montana.ch
 jesuiscrans.ch
@@ -3839,6 +3838,8 @@ jetboats.ch
 jetboatswitzerland.ch
 jetboatzurich.ch
 jetbodenbelaege.ch
+jetboost.ch
+jetbooster.ch
 jetboot.ch
 jetboote.ch
 jetbootzurich.ch
@@ -4218,7 +4219,6 @@ jetzerimmobilien.ch
 jetzerinformatik.ch
 jetzerlampart.ch
 jetzers.ch
-jetzersales.ch
 jetzerstoren.ch
 jetzerwiesenweg-zurzach.ch
 jetzh.ch
@@ -4984,6 +4984,7 @@ jewlzsister.ch
 jewo-kebab.ch
 jewo.ch
 jeworkfashion.ch
+jewrysophie.ch
 jews.ch
 jewski.ch
 jewy.ch

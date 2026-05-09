@@ -14,6 +14,7 @@ hr-advisory.ch
 hr-agency.ch
 hr-agent.ch
 hr-agentur.ch
+hr-ai-paralegal.ch
 hr-akademie.ch
 hr-aktiv-kompass.ch
 hr-aktiv-team.ch
@@ -288,7 +289,6 @@ hr-personal.ch
 hr-personaladmin.ch
 hr-photo.ch
 hr-photographie.ch
-hr-pick.ch
 hr-pioneers.ch
 hr-platform.ch
 hr-plattform.ch
@@ -1102,7 +1102,6 @@ hrperform.ch
 hrpersonal.ch
 hrpf.ch
 hrphotoart.ch
-hrpick.ch
 hrpilot.ch
 hrplatform.ch
 hrplattform.ch

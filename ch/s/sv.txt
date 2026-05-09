@@ -226,11 +226,8 @@ sv-zollikon.ch
 sv-zug.ch
 sv-zumikon.ch
 sv0.dasycon.ch
-sv0.elad.ch
 sv1.dasycon.ch
-sv1.elad.ch
 sv2.dasycon.ch
-sv2.elad.ch
 sv368.ch
 sv388.ch
 sv4.ch

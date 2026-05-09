@@ -190,7 +190,6 @@ hybridcard.ch
 hybridcare.ch
 hybridcars.ch
 hybridcarservice.ch
-hybridcasa.ch
 hybridcase.ch
 hybridchur.ch
 hybridcloud.ch
@@ -546,7 +545,6 @@ hydro-dipping.ch
 hydro-dixence.ch
 hydro-dreams.ch
 hydro-eco.ch
-hydro-electricity.ch
 hydro-energie.ch
 hydro-energy.ch
 hydro-engineering.ch
@@ -664,7 +662,6 @@ hydrodynamics.ch
 hydrodynamik-schweiz.ch
 hydrodynamik.ch
 hydroelectra.ch
-hydroelectricity.ch
 hydroenergie.ch
 hydroenergy.ch
 hydroengineer.ch
@@ -1365,7 +1362,6 @@ hygieniste-dentaire-fribourg.ch
 hygieniste-dentaire-geneve.ch
 hygieniste-dentaire.ch
 hygieniste-fribourg.ch
-hygieniste-geneve.ch
 hygieniste-lac.ch
 hygieniste-lausanne.ch
 hygieniste-riviera.ch
@@ -4278,6 +4274,7 @@ hypotheque-finance.ch
 hypotheque-fribourg.ch
 hypotheque-geneve.ch
 hypotheque-genevoise.ch
+hypotheque-info.ch
 hypotheque-jaune.ch
 hypotheque-neuchatel.ch
 hypotheque-now.ch
@@ -4553,7 +4550,6 @@ hytechglass.ch
 hytechnologies.ch
 hytechsa.ch
 hytefla.ch
-hytem.ch
 hytera.ch
 hyterions.ch
 hytide.ch

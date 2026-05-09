@@ -308,6 +308,7 @@ lpp-avena.ch
 lpp-bcv.ch
 lpp-car-broker.ch
 lpp-eben-hezer.ch
+lpp-entreprise.ch
 lpp-equipment.ch
 lpp-expert.ch
 lpp-extranet.ch

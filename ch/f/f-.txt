@@ -31,7 +31,6 @@ f-a-w.ch
 f-a.ch
 f-abric.ch
 f-act.ch
-f-advisory.ch
 f-ag.ch
 f-ai.ch
 f-air-hvac.ch
@@ -294,6 +293,7 @@ f-runge.ch
 f-s-c.ch
 f-s-e.ch
 f-s-h.ch
+f-s-i.ch
 f-s-n.ch
 f-s-p.ch
 f-s-s.ch

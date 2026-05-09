@@ -779,7 +779,6 @@ goalcloud.ch
 goalclub.ch
 goalconnect.ch
 goalconuslting.ch
-goaldev.ch
 goalerslab.ch
 goalfever.ch
 goalfoto.ch
@@ -1320,7 +1319,6 @@ goddertconsulting.ch
 goddess-jasmin.ch
 goddess-temple.ch
 goddess.ch
-goddessbeauty.ch
 goddessbit.ch
 goddessboss.ch
 goddessbraids.ch
@@ -1545,6 +1543,7 @@ godubai.ch
 godut.ch
 godutch.ch
 godwin.ch
+godwindigital.ch
 gody-landheer.ch
 gody-pfister.ch
 gody-s.ch
@@ -2294,7 +2293,6 @@ gogoritas.ch
 gogoro-eeyo.ch
 gogoro.ch
 gogos.ch
-gogosoon.ch
 gogosqueez.ch
 gogossl.ch
 gogoswissservices.ch
@@ -2651,6 +2649,7 @@ gold-art.ch
 gold-assurances.ch
 gold-atelier.ch
 gold-automobiles.ch
+gold-avenue.ch
 gold-bach-cafe.ch
 gold-bank.ch
 gold-bar.ch
@@ -4030,6 +4029,7 @@ goldenribs.ch
 goldenritualmassage.ch
 goldenrituals.ch
 goldenriver.ch
+goldenriverpartners.ch
 goldenrock-resort.ch
 goldenrock.ch
 goldenrockresort.ch
@@ -6151,7 +6151,6 @@ golfmark23.ch
 golfmarketing.ch
 golfmarkt.ch
 golfmassage.ch
-golfmaster.ch
 golfmat.ch
 golfmatch.ch
 golfmate.ch
@@ -6428,6 +6427,7 @@ golfswiss.ch
 golfswissalps.ch
 golfswissscooter.ch
 golfswitzerland.ch
+golfsystem.ch
 golfszene.ch
 golftango.ch
 golftasche.ch
@@ -6707,6 +6707,7 @@ goluise.ch
 goluma.ch
 golumbeck.ch
 golun.ch
+golunch.ch
 golux.ch
 goluxer.ch
 goluxury.ch
@@ -7444,7 +7445,6 @@ good-media.ch
 good-minds.ch
 good-money-bad-money.ch
 good-morning-starship.ch
-good-morning.ch
 good-move.ch
 good-music.ch
 good-name.ch
@@ -8506,7 +8506,6 @@ googlemeet.ch
 googlemi.ch
 googlemobile.ch
 googlemybusiness.ch
-googlen.ch
 googlenet.ch
 googleonandroid.ch
 googleoperationscenter.ch
@@ -10568,6 +10567,7 @@ gourmet-krimi.ch
 gourmet-kultur.ch
 gourmet-lokale.ch
 gourmet-magazin.ch
+gourmet-magazine.ch
 gourmet-manufaktur.ch
 gourmet-marketing.ch
 gourmet-me.ch

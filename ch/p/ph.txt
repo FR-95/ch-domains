@@ -458,6 +458,7 @@ pharma-lingua.ch
 pharma-logistics.ch
 pharma-logistik-service.ch
 pharma-logistik.ch
+pharma-lohn.ch
 pharma-mall.ch
 pharma-marketing.ch
 pharma-med.ch
@@ -510,7 +511,6 @@ pharma-test.ch
 pharma-thermotransporte.ch
 pharma-thinktank.ch
 pharma-ti.ch
-pharma-trade.ch
 pharma-training.ch
 pharma-transporte.ch
 pharma-trend.ch
@@ -1759,7 +1759,6 @@ phc.ch
 phcastellan.ch
 phcds.ch
 phch.ch
-phchp.ch
 phcj.ch
 phclaw.ch
 phclean.ch
@@ -1774,8 +1773,6 @@ phconcept.ch
 phconsult.ch
 phconsulting.ch
 phcosmetics.ch
-phcpc.ch
-phcph.ch
 phcs.ch
 phctech.ch
 phd-ag.ch
@@ -4334,6 +4331,7 @@ phonelo.ch
 phonelock.ch
 phonelocker.ch
 phonelook.ch
+phonem.ch
 phonemaker.ch
 phonemarkt.ch
 phonememo.ch
@@ -6211,7 +6209,6 @@ phpmyapp.ch
 phpmysqlspezialist.ch
 phpnetz.ch
 phpph.ch
-phppp.ch
 phpprogrammierer.ch
 phpprogrammierung.ch
 phpr.ch
@@ -6647,7 +6644,6 @@ physio-alder.ch
 physio-allemann.ch
 physio-alleyne.ch
 physio-allschwil.ch
-physio-alpenblick.ch
 physio-alpes.ch
 physio-altefabrik.ch
 physio-altendorf.ch
@@ -8201,7 +8197,6 @@ physioalexander.ch
 physioalfredvincent.ch
 physioallschwil.ch
 physioalma.ch
-physioalpenblick.ch
 physioalpha.ch
 physioaltstetten.ch
 physioambahnhof.ch
@@ -10849,6 +10844,7 @@ physjo.ch
 physlab.ch
 physmed.ch
 physnet.ch
+physo.ch
 physoli.ch
 physport.ch
 physsis.ch

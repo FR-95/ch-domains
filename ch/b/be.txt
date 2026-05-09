@@ -1224,6 +1224,7 @@ beamreach.ch
 beams-mountains.ch
 beamsight.ch
 beamsuntory.ch
+beamte.ch
 beamtenradar.ch
 beamtuition.ch
 beamueller.ch
@@ -2940,7 +2941,6 @@ beaute-plus.ch
 beaute-riva.ch
 beaute-sante.ch
 beaute-shop.ch
-beaute-soins.ch
 beaute-test.ch
 beaute-zen-institut.ch
 beaute.ch
@@ -3775,7 +3775,6 @@ beautyatelierpermanent.ch
 beautyathome.ch
 beautyattendant.ch
 beautyatthebeach.ch
-beautyaura.ch
 beautyausbildung.ch
 beautyauthentic.ch
 beautyavenue.ch
@@ -4194,6 +4193,7 @@ beautyhairbyn.ch
 beautyhairdeluxe.ch
 beautyhairingrid.ch
 beautyhairingridgomez.ch
+beautyhairreset.ch
 beautyhairstore.ch
 beautyhairstyle.ch
 beautyhalbtax.ch
@@ -5097,6 +5097,7 @@ bebe-fdv.ch
 bebe-generation.ch
 bebe-gruyere.ch
 bebe-haus.ch
+bebe-info.ch
 bebe-jewel.ch
 bebe-kinderparadies.ch
 bebe-more.ch
@@ -5116,8 +5117,6 @@ bebeautymed.ch
 bebeautys.ch
 bebeautystudio.ch
 bebebebe.ch
-bebebijou.ch
-bebebijoux.ch
 bebebox.ch
 bebebug.ch
 bebebus.ch
@@ -8051,7 +8050,6 @@ befreitglauben.ch
 befreitleben.ch
 befreiung-von-emotionalem-stress.ch
 befreiung.ch
-befreiungsarbeit.ch
 befreiungsdienst.ch
 befreiungsweg.ch
 befremento.ch
@@ -8777,6 +8775,7 @@ behindertensport-region-brugg.ch
 behindertensport.ch
 behindertensportgruppe.ch
 behindertentaxi-aargau.ch
+behindertentaxi.ch
 behindertentransport-aargau.ch
 behindertentransport.ch
 behindertentransporte.ch
@@ -10235,6 +10234,7 @@ belfiorestoffe.ch
 belfix.ch
 belflor-blumen.ch
 belflore.ch
+belflorsuisse.ch
 belfodil.ch
 belfone.ch
 belfont.ch
@@ -10635,6 +10635,7 @@ bella-linea.ch
 bella-lugano.ch
 bella-lui.ch
 bella-macchina.ch
+bella-mar.ch
 bella-mia.ch
 bella-nails.ch
 bella-nailslashes.ch
@@ -11232,7 +11233,6 @@ bellefrag.ch
 bellega.ch
 bellegarde.ch
 bellegardeblu.ch
-bellegenic.ch
 bellegiselle.ch
 bellegousse.ch
 bellegreen.ch
@@ -12709,6 +12709,7 @@ belvista-augenaerzte.ch
 belvista-augenarzt.ch
 belvista-augenarztpraxis.ch
 belvista-augenpraxis.ch
+belvista-immobilien.ch
 belvista-luzern.ch
 belvista-praxis.ch
 belvista-schweiz.ch
@@ -14316,6 +14317,7 @@ benito-care.ch
 benito-paul.ch
 benito-sip.ch
 benito.ch
+benitoantonio.ch
 benitoappetito.ch
 benitobasilicata.ch
 benitogroup.ch
@@ -14421,7 +14423,6 @@ benjamin-schweizer.ch
 benjamin-services.ch
 benjamin-spreng.ch
 benjamin-stadelmann.ch
-benjamin-steiner.ch
 benjamin-sutter.ch
 benjamin-von-bangen.ch
 benjamin-walder.ch
@@ -14973,7 +14974,6 @@ bennysdartboard.ch
 bennysfacility.ch
 bennysound.ch
 bennywalli-holzbau.ch
-bennyweber-office.ch
 beno-knabberspass.ch
 beno.ch
 benoberson.ch
@@ -15476,6 +15476,7 @@ benz-geiger.ch
 benz-haustechnik.ch
 benz-hauswartung.ch
 benz-hauswartungen.ch
+benz-hetzel.ch
 benz-immo.ch
 benz-immoinvest.ch
 benz-innenausbau.ch
@@ -17565,7 +17566,6 @@ bergbueffel.ch
 bergbuehlschuer.ch
 bergbuero.ch
 bergbumser.ch
-bergbund.ch
 bergbureau.ch
 bergburebuob.ch
 bergbus.ch
@@ -17785,6 +17785,7 @@ berger-telematique.ch
 berger-tiefbau.ch
 berger-tracking.ch
 berger-treuhand.ch
+berger-uhl.ch
 berger-vertical.ch
 berger-waermetechnik.ch
 berger-wille.ch
@@ -18394,6 +18395,7 @@ berghus.ch
 berghuus-radons.ch
 berghuus.ch
 berghuusradons.ch
+berghuuus.ch
 bergi-it-consulting.ch
 bergi.ch
 bergi13.ch
@@ -18892,7 +18894,6 @@ bergschaft.ch
 bergschall.ch
 bergschatz.ch
 bergschindler.ch
-bergschlafplatz.ch
 bergschmaus.ch
 bergschmecker.ch
 bergschmiede.ch
@@ -20317,7 +20318,6 @@ bernardgerber.ch
 bernardgroup.ch
 bernardhmayer.ch
 bernardhuot.ch
-bernardhuynh.ch
 bernardi-atelier.ch
 bernardi-bongard.ch
 bernardi-haus.ch
@@ -20833,6 +20833,7 @@ berner-puppentheater.ch
 berner-raclette.ch
 berner-ranger.ch
 berner-rassismusstammtisch.ch
+berner-realestate.ch
 berner-reformationsjahr-2028.ch
 berner-regionalbanken.ch
 berner-regionalmedien.ch
@@ -20857,7 +20858,6 @@ berner-sennenhund.ch
 berner-sennenhunde-in-not.ch
 berner-sennenhunde-nothilfe.ch
 berner-sennenhunde.ch
-berner-stadtimker.ch
 berner-stellen.ch
 berner-sterbevorsorge.ch
 berner-steuerberatung.ch
@@ -21458,6 +21458,7 @@ bernflirt.ch
 bernfoodculture.ch
 bernformulastudent.ch
 bernforpalestine.ch
+bernforum.ch
 bernfoto.ch
 bernfotos.ch
 bernfreeski.ch
@@ -21507,7 +21508,6 @@ bernhard-feller.ch
 bernhard-fischer.ch
 bernhard-fishing.ch
 bernhard-frabetti.ch
-bernhard-frick.ch
 bernhard-fuchs.ch
 bernhard-furrer.ch
 bernhard-garten.ch
@@ -21539,6 +21539,7 @@ bernhard-oberholzer.ch
 bernhard-objekte.ch
 bernhard-ortho.ch
 bernhard-p-wirth.ch
+bernhard-pages.ch
 bernhard-partner.ch
 bernhard-partnerag.ch
 bernhard-pflanzenshop.ch
@@ -23434,6 +23435,7 @@ berufsbildungshochschule.ch
 berufsbildungshub.ch
 berufsbildungskommunikation.ch
 berufsbildungskompass.ch
+berufsbildungskompetenz.ch
 berufsbildungsmesse.ch
 berufsbildungsnetz.ch
 berufsbildungsportal.ch
@@ -25116,6 +25118,7 @@ best-memories.ch
 best-minute.ch
 best-moments.ch
 best-move.ch
+best-movers.ch
 best-music.ch
 best-net.ch
 best-nettoyage-geneve.ch
@@ -25241,7 +25244,6 @@ best-sample-domain.ch
 best-sante.ch
 best-seat-in-media.ch
 best-security.ch
-best-selection.ch
 best-self-akademie.ch
 best-seller.ch
 best-serv.ch
@@ -25770,6 +25772,7 @@ bestbars.ch
 bestbarteam.ch
 bestbau.ch
 bestbazar.ch
+bestbeauty-zuerich.ch
 bestbeauty.ch
 bestbeautyguide.ch
 bestbeautyjobs.ch
@@ -26065,7 +26068,6 @@ bestechance.ch
 bestechen.ch
 bestechend.ch
 bestechirurgen.ch
-bestechung.ch
 besteck-georg.ch
 besteck-poliermaschine.ch
 besteck-reinigungsanlage.ch
@@ -26971,6 +26973,7 @@ bestpriceexport.ch
 bestpricefashion.ch
 bestpricehotels.ch
 bestpricemotos.ch
+bestprices.ch
 bestprime.ch
 bestprint.ch
 bestprocenter.ch
@@ -29195,7 +29198,6 @@ betten-peter.ch
 betten-prinz.ch
 betten-riese.ch
 betten-riwadesign.ch
-betten-schnaeppli.ch
 betten-schweiz.ch
 betten-schweizer.ch
 betten-shop.ch
@@ -29248,10 +29250,6 @@ bettenen.ch
 bettenen7.ch
 bettenexperten.ch
 bettenfabrik.ch
-bettenfachgeschaeft-basel.ch
-bettenfachgeschaeft-bern.ch
-bettenfachgeschaeft-zueri.ch
-bettenfachgeschaeft-zuerich.ch
 bettenfachgeschaeft.ch
 bettenfachleute.ch
 bettenfachmann.ch
@@ -29994,7 +29992,6 @@ bettinawidmer.ch
 bettinawilli.ch
 bettinawohlfender.ch
 bettinawolgensinger.ch
-bettinawuerth.ch
 bettinazahnd.ch
 bettinazollinger.ch
 bettinazumstein.ch
@@ -31282,7 +31279,6 @@ bewegungspausen.ch
 bewegungsphilosophie.ch
 bewegungspraxis-zh.ch
 bewegungspraxis-zuerich.ch
-bewegungspraxis.ch
 bewegungsprojekte.ch
 bewegungsraeume-brugg.ch
 bewegungsraum-impuls.ch
@@ -32585,6 +32581,7 @@ beyondboxing.ch
 beyondbrand.ch
 beyondbranding.ch
 beyondbread.ch
+beyondbreath.ch
 beyondbudgeting.ch
 beyondburger.ch
 beyondburnout.ch

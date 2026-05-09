@@ -1261,7 +1261,6 @@ pson.ch
 psonderegger.ch
 psondereggerag.ch
 psonline.ch
-psori.ch
 psoriasi.ch
 psoriasis-care.ch
 psoriasis-info.ch
@@ -4482,7 +4481,6 @@ psyprax.ch
 psypraxis-langenthal.ch
 psypraxis.ch
 psyprilly.ch
-psypronostic.ch
 psypsy.ch
 psypuls.ch
 psyq.ch
@@ -4555,6 +4553,7 @@ psytraffic.ch
 psytrance.ch
 psytribe.ch
 psytrinkler.ch
+psytsg.ch
 psytwin.ch
 psyu.ch
 psyundpoly.ch

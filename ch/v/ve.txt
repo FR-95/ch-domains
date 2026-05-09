@@ -1292,6 +1292,9 @@ vegeo.ch
 vegepod.ch
 vegepsy.ch
 vegepur.ch
+veger.ch
+veger4pets.ch
+vegerforpets.ch
 vegeria.ch
 vegery155.ch
 vegescope.ch
@@ -1577,6 +1580,7 @@ vegolution.ch
 vegomio.ch
 vegora-bio-weine.ch
 vegourmet.ch
+vegpeter.ch
 vegplant.ch
 vegpool.ch
 vegr.ch
@@ -3682,7 +3686,6 @@ velothek.ch
 velothun.ch
 velothur.ch
 velotic.ch
-velotierarzt.ch
 velotiger.ch
 velotilt.ch
 velotipp.ch
@@ -4040,6 +4043,7 @@ veluzat.ch
 velv.ch
 velvacrown.ch
 velvaere.ch
+velvana.ch
 velvare.ch
 velvart-tschopp.ch
 velvart.ch
@@ -4095,7 +4099,6 @@ velvetdigital.ch
 velvetdogs.ch
 velvetedition.ch
 velvetescort.ch
-velvetfall.ch
 velvetfeet.ch
 velvetfield.ch
 velvetglow.ch
@@ -4274,7 +4277,6 @@ venbrick.ch
 venbridge.ch
 venca.ch
 vencaf.ch
-vencapital.ch
 vence.ch
 vencedor.ch
 venclyxto.ch
@@ -4938,8 +4940,6 @@ veneziapizzeriaoberkulm.ch
 venezuela.ch
 venezvisiter.ch
 venga-fit.ch
-venga-project.ch
-venga-travel.ch
 venga.ch
 vengabloc.ch
 vengacasa.ch
@@ -6565,6 +6565,7 @@ verasgartenfreunde.ch
 verasigrist.ch
 verasimon.ch
 veraskitchen.ch
+verasnein.ch
 verasoft.ch
 verasol.ch
 verasollberger.ch
@@ -7878,6 +7879,7 @@ verein-nahuel.ch
 verein-nangijala.ch
 verein-napf.ch
 verein-natum-schweiz.ch
+verein-natum.ch
 verein-naturnetz.ch
 verein-navego.ch
 verein-neema.ch
@@ -8323,6 +8325,8 @@ vereinmusikkultur.ch
 vereinmutig.ch
 vereinmuzicamea.ch
 vereinnamani.ch
+vereinnatum.ch
+vereinnatumschweiz.ch
 vereinnatur.ch
 vereinneueperspektiven.ch
 vereinneustart.ch
@@ -9023,6 +9027,7 @@ vergilineichen.ch
 vergilior.ch
 vergin.ch
 verginer.ch
+vergio.ch
 vergiss-dein-nicht.ch
 vergiss-den-namen-deiner-frau.ch
 vergiss-dich-nid.ch
@@ -9082,6 +9087,7 @@ vergleich-zusatzversicherung.ch
 vergleich.ch
 vergleich24.ch
 vergleich365.ch
+vergleich3a.ch
 vergleich4you.ch
 vergleichauchdu.ch
 vergleichbar.ch
@@ -9872,7 +9878,6 @@ verkaufschancen.ch
 verkaufscheck.ch
 verkaufschmiede.ch
 verkaufschweiz-aargau.ch
-verkaufschweiz-basel.ch
 verkaufschweiz.ch
 verkaufsclub.ch
 verkaufscoach.ch
@@ -10754,7 +10759,6 @@ verlustleben.ch
 verlustschein-inkasso.ch
 verlustschein-offerte.ch
 verlustschein.ch
-verlustscheine.ch
 verlustscheininkasso.ch
 verlustscheinsforderung.ch
 verlustscheinverjaehrung.ch
@@ -10994,6 +10998,7 @@ vermittlungshelden.ch
 vermittlungsplattform.ch
 vermittlungsprofi.ch
 vermittlungsprovision.ch
+vermittlungsstelle-interkulturelle-dolmetscher.ch
 vermittlungsstelle.ch
 vermittlungszentrale.ch
 vermo.ch
@@ -11598,6 +11603,7 @@ veros.ch
 verosana.ch
 verosapore.ch
 veroschmid.ch
+veroscia.ch
 verosexpaed.ch
 veroshop.ch
 verosoft.ch
@@ -12226,6 +12232,7 @@ versicherung-iv.ch
 versicherung-jobs.ch
 versicherung-kuendigen.ch
 versicherung-laufental.ch
+versicherung-lohn.ch
 versicherung-luzern.ch
 versicherung-makler.ch
 versicherung-manager.ch
@@ -14659,6 +14666,7 @@ vesparoller.ch
 vesparound.ch
 vespas-shop.ch
 vespas.ch
+vespasatel.ch
 vespaschaffhausen.ch
 vespaschwarm.ch
 vespaschweiz.ch
@@ -16014,6 +16022,7 @@ vetty.ch
 vetup.ch
 vetur.ch
 vetura-auto.ch
+vetura-buchs.ch
 vetura.ch
 vetura24.ch
 veturgences.ch
@@ -16240,7 +16249,6 @@ vexp.ch
 vexperts.ch
 vexrobotics.ch
 vexsynis.ch
-vext.ch
 vextagency.ch
 vextario.ch
 vexte.ch

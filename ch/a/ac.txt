@@ -3696,7 +3696,6 @@ achtungschweiz.ch
 achtungtechniklos.ch
 achtusig.ch
 achtvier.ch
-achtvollyoga.ch
 achtvoracht.ch
 achtwegs.ch
 achtzaehni.ch
@@ -3768,7 +3767,6 @@ acidfogger.ch
 acidfolic.ch
 acidguerkli.ch
 acidhaus.ch
-acidhead.ch
 acidhouse.ch
 acidic.ch
 acidjohnny.ch
@@ -3927,6 +3925,7 @@ ackeret-law.ch
 ackeret-polo.ch
 ackeret.ch
 ackeretsoehne.ch
+ackerettim.ch
 ackerflora.ch
 ackerfraesen-rechner.ch
 ackergut.ch
@@ -5587,6 +5586,7 @@ acstafflink.ch
 acstaxi-limousine.ch
 acsteiner.ch
 acsti.ch
+acstore.ch
 acstoren.ch
 acstudio.ch
 acsuissegourmet.ch
@@ -5720,6 +5720,7 @@ actadvisory.ch
 actaes.ch
 actaestfabula.ch
 actafacta.ch
+actaflow.ch
 actag.ch
 actagest.ch
 actagis.ch
@@ -5915,8 +5916,6 @@ actif-service.ch
 actif-trafic.ch
 actif-vs.ch
 actif.ch
-actifcap.ch
-actifcapmarket.ch
 actifcg.ch
 actifclean.ch
 actifconseilglobal.ch
@@ -6299,12 +6298,14 @@ actis-supervision.ch
 actis.ch
 actisal.ch
 actisante.ch
+actise.ch
 actiserve.ch
 actismile.ch
 actisolve.ch
 actisphere.ch
 actisports.ch
 actisportscorner.ch
+actisuite.ch
 actisweep.ch
 actisys.ch
 actitech.ch
@@ -6752,6 +6753,7 @@ activerehabilitation.ch
 activerenovation.ch
 activerent.ch
 activergo.ch
+activerlechangement.ch
 activerock.ch
 activerse.ch
 actives-changement.ch
@@ -6824,7 +6826,6 @@ activewellness.ch
 activewire.ch
 activework.ch
 activeworkplace.ch
-activex.ch
 activezermatt.ch
 activezinccream.ch
 activezone.ch

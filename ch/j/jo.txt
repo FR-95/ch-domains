@@ -697,6 +697,7 @@ job4frutigland.ch
 job4good.ch
 job4gstaad.ch
 job4life-mail.ch
+job4life-personal.ch
 job4life.ch
 job4live.ch
 job4man.ch
@@ -3345,7 +3346,6 @@ joe-auto-ecole.ch
 joe-bar-team.ch
 joe-brezel.ch
 joe-design.ch
-joe-dokumentenmanagement.ch
 joe-eggler.ch
 joe-events.ch
 joe-fenner.ch
@@ -3865,7 +3865,6 @@ joeppli.ch
 joepublic.ch
 joer.ch
 joera-agentur.ch
-joeraich.ch
 joerdis-barz.ch
 joerg-2rad.ch
 joerg-aebischer.ch
@@ -6594,6 +6593,7 @@ jonathanhotz.ch
 jonathanhug.ch
 jonathanjan.ch
 jonathanjoly.ch
+jonathanjordan.ch
 jonathanjosi.ch
 jonathankeller.ch
 jonathankionke.ch
@@ -8918,7 +8918,6 @@ journeesdurefugie.ch
 journeesdusoleil.ch
 journeesmusicales.ch
 journeesnautiques.ch
-journeesopenscience.ch
 journeesphotographiques.ch
 journeesprevoyance.ch
 journeessuissesdelasante.ch

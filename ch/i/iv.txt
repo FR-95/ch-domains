@@ -53,6 +53,7 @@ iv-zh.ch
 iva-advisory.ch
 iva-ch.ch
 iva-consulting.ch
+iva-embody.ch
 iva-handel.ch
 iva-integrative-validation.ch
 iva-it.ch
@@ -694,7 +695,6 @@ ivokuster.ch
 ivoledergerber.ch
 ivolino-solutions.ch
 ivolino.ch
-ivoloehrer.ch
 ivolpi.ch
 ivolt.ch
 ivoluethi.ch
@@ -873,7 +873,6 @@ ivv.ch
 ivvartchallenge.ch
 ivvb.ch
 ivvd.ch
-ivverwaltung.ch
 ivvi.ch
 ivvp.ch
 ivvrnfunds.ch

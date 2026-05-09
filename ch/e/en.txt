@@ -4108,6 +4108,7 @@ energy-connect.ch
 energy-consult.ch
 energy-consulting.ch
 energy-contracting.ch
+energy-control.ch
 energy-controlling.ch
 energy-crunch.ch
 energy-cube.ch
@@ -4462,6 +4463,7 @@ energycubes.ch
 energydanima.ch
 energydashboard.ch
 energydata-hackdays.ch
+energydata.ch
 energydatahackdays.ch
 energydatahub.ch
 energydataworkinggroup.ch
@@ -4714,7 +4716,6 @@ energyscale.ch
 energyscan.ch
 energyscanner.ch
 energysch.ch
-energyschool.ch
 energyschweiz.ch
 energysciencefortomorrow.ch
 energyscope.ch
@@ -4983,7 +4984,6 @@ enerstone.ch
 enerstream.ch
 enersuisse-test.ch
 enersuisse.ch
-enerswiss.ch
 enerswissag.ch
 enersys-ing.ch
 enersys.ch
@@ -5053,7 +5053,6 @@ enesance.ch
 enesco.ch
 enesi.ch
 enespa-group.ch
-enespa-grt-innovation.ch
 enespa-jobs.ch
 enespa-liquids.ch
 enespa-oil.ch
@@ -7014,6 +7013,7 @@ enhk.ch
 enhm.ch
 enho-group.ch
 enhof.ch
+enhogroup.ch
 enhotec.ch
 enhs.ch
 enhu.ch
@@ -7138,7 +7138,6 @@ enillo-artista.ch
 enillo-cartoons.ch
 enillo.ch
 enilop.ch
-enilorac.ch
 enim.ch
 enima.ch
 enimage.ch
@@ -9968,6 +9967,7 @@ entreprise-nettoyage.ch
 entreprise-neyruz.ch
 entreprise-parquet.ch
 entreprise-paysagiste.ch
+entreprise-peinture-chaux-fonds.ch
 entreprise-peinture-geneve.ch
 entreprise-peinture-renovation.ch
 entreprise-peinture-suisse.ch

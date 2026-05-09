@@ -79,6 +79,7 @@ waage-flamatt.ch
 waage-geeicht.ch
 waage-mass-gewicht.ch
 waage-muttenz.ch
+waage-oberlindach.ch
 waage.ch
 waagecliquerhywaelle.ch
 waagegeeicht.ch
@@ -1860,7 +1861,6 @@ wafworld.ch
 wag-buelach.ch
 wag-gleisbau.ch
 wag-gwatt.ch
-wag-immobilien.ch
 wag-it.ch
 wag-shop.ch
 wag-watercompany.ch
@@ -2858,6 +2858,7 @@ waites.ch
 waitforit.ch
 waithai.ch
 waitiii.ch
+waitime.ch
 waiting-room.ch
 waitingonabea.ch
 waitingonthebea.ch
@@ -3060,8 +3061,6 @@ wakesurf-leman.ch
 wakesurf-walensee.ch
 wakesurf24.ch
 wakesurfacademy.ch
-wakesurfcoach.ch
-wakesurfcoaching.ch
 wakesurfe.ch
 wakesurfen-luzern.ch
 wakesurfen.ch
@@ -4548,7 +4547,6 @@ waldspielgruppe-urdorf.ch
 waldspielgruppe-villmergen.ch
 waldspielgruppe-vogelsang.ch
 waldspielgruppe-wakanda.ch
-waldspielgruppe-waldchutzli.ch
 waldspielgruppe-waldmues.ch
 waldspielgruppe-waldstube.ch
 waldspielgruppe-wettingen.ch
@@ -4661,7 +4659,6 @@ waldtavolata.ch
 waldtaxi-wil.ch
 waldte.ch
 waldtermin.ch
-waldteufel.ch
 waldthaler.ch
 waldtheater-brittnau.ch
 waldtheater.ch
@@ -5033,6 +5030,7 @@ walkandeat.ch
 walkandjog.ch
 walkandtalk-luzern.ch
 walkandtalk.ch
+walkandtalkgerman.ch
 walkandwin.ch
 walkart.ch
 walkathlon.ch
@@ -8131,6 +8129,7 @@ wandundboden.ch
 wandunddeckenbau.ch
 wandunddeckenbauag.ch
 wandunikat.ch
+wandunikate.ch
 wandup.ch
 wandverblender.ch
 wandverblendershop.ch
@@ -8471,7 +8470,6 @@ want2go.ch
 want2have.ch
 want2ski.ch
 want6.ch
-wanta.ch
 wantali.ch
 wantana.ch
 wantanamo.ch
@@ -9292,7 +9290,6 @@ wartyway.ch
 waru.ch
 waruju.ch
 warum-darum.ch
-warum-eid.ch
 warum-immer-so.ch
 warum-kirche.ch
 warum-network.ch
@@ -13096,7 +13093,6 @@ waveyoursoul.ch
 wavez.ch
 wavi.ch
 waview.ch
-waviewproduction.ch
 wavin.ch
 waving.ch
 wavingcrab.ch
@@ -13461,7 +13457,6 @@ waytolife.ch
 waytoomu.ch
 waytooswiss.ch
 waytopark.ch
-waytopay.ch
 waytoplay.ch
 waytoschool.ch
 waytosuccess.ch

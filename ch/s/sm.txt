@@ -2,6 +2,7 @@ sm-a.ch
 sm-academy.ch
 sm-aerobic.ch
 sm-ag.ch
+sm-agroline.ch
 sm-akrobatik.ch
 sm-apartment.ch
 sm-arch.ch
@@ -4089,7 +4090,6 @@ smartstudios.ch
 smartstudy.ch
 smartstup.ch
 smartstyle.ch
-smartstyleshop.ch
 smartsugar.ch
 smartsuisse.ch
 smartsuite.ch
@@ -6518,6 +6518,7 @@ smolinsky.ch
 smolio.ch
 smoljo.ch
 smolka-translations.ch
+smoll.ch
 smollio.ch
 smolliqaj.ch
 smollpolygon.ch
@@ -6640,6 +6641,7 @@ smoothjazzchristmas.ch
 smoothjazzradio.ch
 smoothjive.ch
 smoothking.ch
+smoothlabs.ch
 smoothlife.ch
 smoothline.ch
 smoothly.ch
@@ -6841,6 +6843,7 @@ smrh.ch
 smri.ch
 smrichard.ch
 smrindal.ch
+smriti.ch
 smrm.ch
 smrn.ch
 smrnv.ch
@@ -6850,7 +6853,6 @@ smrsr.ch
 smrstik.ch
 smrswiss.ch
 smrtlife.ch
-smrtmov.ch
 smrun.ch
 smry.ch
 sms-adventskalender.ch

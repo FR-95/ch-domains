@@ -38,7 +38,6 @@ sn0xe.ch
 sn1.ch
 sn1912.ch
 sn2.ch
-sn24.ch
 sn2k.ch
 sn3.ch
 sn3d.ch
@@ -134,6 +133,7 @@ snackbon.ch
 snackboss.ch
 snackbox-express.ch
 snackbox-hombrechtikon.ch
+snackbox-pizzakurier.ch
 snackbox-service.ch
 snackbox.ch
 snackboxen.ch
@@ -541,7 +541,6 @@ snaprencontre.ch
 snapring.ch
 snaproject.ch
 snaproom.ch
-snaps.ch
 snapsbybuet.ch
 snapscan.ch
 snapschuss.ch
@@ -1393,6 +1392,7 @@ snopex.ch
 snopro.ch
 snoq.ch
 snora.ch
+snoraya.ch
 snorban.ch
 snorda.ch
 snore-experts.ch
@@ -2435,6 +2435,7 @@ snusomat.ch
 snusomatag.ch
 snusonline.ch
 snusonlinekaufen.ch
+snusoutlet.ch
 snuspak.ch
 snuspalast.ch
 snusplug.ch

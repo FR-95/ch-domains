@@ -2327,7 +2327,6 @@ buddysticker.ch
 buddysyard.ch
 buddyteam.ch
 buddytrack.ch
-buddytracker.ch
 buddyup.ch
 buddywerk.ch
 buddyy.ch
@@ -3535,6 +3534,7 @@ buehlerundco.ch
 buehlerundzoller.ch
 buehleruster.ch
 buehlervermoegensverwaltung.ch
+buehlervincent.ch
 buehlerweine.ch
 buehlerzuerich.ch
 buehlfen.ch
@@ -3977,6 +3977,7 @@ buendner-fleisch.ch
 buendner-fondue.ch
 buendner-forst.ch
 buendner-gaerten.ch
+buendner-glarner.ch
 buendner-gneis.ch
 buendner-golfverband.ch
 buendner-gueterbahn.ch
@@ -5789,7 +5790,6 @@ buerovorsprung.ch
 buerowand.ch
 bueroweber.ch
 buerowehr.ch
-buerowelt-schaer.ch
 buerowelt.ch
 buerowelten.ch
 buerowerk.ch
@@ -6276,7 +6276,6 @@ buffett.ch
 buffetti.ch
 buffettischler.ch
 buffetvallorbe.ch
-buffgastro.ch
 buffglas.ch
 buffholz.ch
 buffholzag.ch
@@ -6876,6 +6875,7 @@ buildingcontrol.ch
 buildingcrowd.ch
 buildingcybernetics.ch
 buildingdata.ch
+buildingdatastandard.ch
 buildingdna.ch
 buildingdreamteams.ch
 buildingenduringvalue.ch
@@ -7682,6 +7682,7 @@ bullibus.ch
 bullicamper.ch
 bullicampervan.ch
 bullievent.ch
+bullievents.ch
 bullifood.ch
 bulligeschichten.ch
 bulligrill.ch
@@ -7976,7 +7977,6 @@ bumbumkrach.ch
 bumc.ch
 bume-stiftung.ch
 bume.ch
-bumefpv.ch
 bumehof.ch
 bumekeramik.ch
 bumer.ch
@@ -8905,7 +8905,6 @@ buongusto.ch
 buongusto93.ch
 buongustofood.ch
 buongustogastro.ch
-buongustopizzeria.ch
 buongustoristorantepizzeria-dietikon.ch
 buoni-vini.ch
 buoni.ch
@@ -9341,7 +9340,6 @@ bureaux-commerces.ch
 bureaux-culturels.ch
 bureaux-ecoute.ch
 bureaux-idealement-situes.ch
-bureaux-virtuels.ch
 bureaux.ch
 bureauxdoccasion.ch
 bureauxlocaux.ch
@@ -9638,6 +9636,7 @@ burgenstockzauberberg.ch
 burgenverein-untervaz.ch
 burgenverein.ch
 burgenvereingrafenvontoggenburg.ch
+burgenvereinmalans.ch
 burgenweg-domleschg.ch
 burgenweg.ch
 burgenwelt.ch
@@ -9665,6 +9664,7 @@ burger-brothers.ch
 burger-busswil.ch
 burger-butler.ch
 burger-catering.ch
+burger-cloud.ch
 burger-collection.ch
 burger-consulting.ch
 burger-cranio.ch
@@ -12569,6 +12569,7 @@ businessbern.ch
 businessberne.ch
 businessbestseller.ch
 businessbestsellers.ch
+businessbike.ch
 businessbilder.ch
 businessbildungszentrum.ch
 businessbiss-culb.ch
@@ -14402,7 +14403,6 @@ butz-kunstregal.ch
 butz-weber.ch
 butz-werder.ch
 butz.ch
-butz100.ch
 butzba.ch
 butzberger.ch
 butzel.ch
@@ -14861,7 +14861,6 @@ buyitdirect.ch
 buyitforlife.ch
 buyitnow.ch
 buyjeddah.ch
-buykarma.ch
 buykiki.ch
 buykud.ch
 buyla.ch
@@ -15096,7 +15095,6 @@ buzzkill.ch
 buzzlab.ch
 buzzlanews.ch
 buzzle.ch
-buzzli.ch
 buzzme.ch
 buzzmedia.ch
 buzzmyvideo.ch

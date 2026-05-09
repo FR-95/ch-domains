@@ -352,7 +352,6 @@ zuckerbeutel.ch
 zuckerblau.ch
 zuckerbock.ch
 zuckerbrot.ch
-zuckerbrotpeitsche.ch
 zuckerbunt.ch
 zuckerbuntes.ch
 zuckerbusch.ch
@@ -866,7 +865,6 @@ zuelle-shop.ch
 zuellecoiffure.ch
 zuellepartner.ch
 zuelleshop.ch
-zuelli-erlach.ch
 zuelli.ch
 zuelliag.ch
 zuellig-art.ch
@@ -1493,7 +1491,6 @@ zueri-kuechen.ch
 zueri-kultur.ch
 zueri-kurier.ch
 zueri-lachs.ch
-zueri-law.ch
 zueri-leimbach.ch
 zueri-leu.ch
 zueri-liebi.ch
@@ -1572,6 +1569,7 @@ zueri-telematik.ch
 zueri-temporaer.ch
 zueri-tipp.ch
 zueri-tirggel.ch
+zueri-tour.ch
 zueri-tours.ch
 zueri-traeff.ch
 zueri-traeumli.ch
@@ -1651,7 +1649,6 @@ zueribimcoach.ch
 zueribistro.ch
 zueriblau.ch
 zueribliebtlinks.ch
-zueriblitz.ch
 zueriblueme.ch
 zueribluete.ch
 zueribooch.ch
@@ -7067,6 +7064,7 @@ zurichfoodculture.ch
 zurichforall.ch
 zurichforever.ch
 zurichforstartups.ch
+zurichforum.ch
 zurichfoto.ch
 zurichfotoclub.ch
 zurichfoundation.ch

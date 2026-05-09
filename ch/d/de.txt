@@ -1002,7 +1002,6 @@ debaras.ch
 debaravite.ch
 debarba.ch
 debarcadere.ch
-debarcadero.ch
 debarcarock.ch
 debard.ch
 debardage.ch
@@ -1653,7 +1652,6 @@ debue.ch
 debuechi.ch
 debuehler.ch
 debug.ch
-debugair.ch
 debugcafe.ch
 debugdeploy.ch
 debugfox.ch
@@ -2312,7 +2310,6 @@ deckstation.ch
 deckstein.ch
 deckte.ch
 deckundgerber.ch
-deckungen.ch
 deckungsbeitragskalkulation.ch
 deckungsdifferenzen.ch
 deckungsglei.ch
@@ -3081,7 +3078,6 @@ decouverte.ch
 decouvertenature.ch
 decouvertes-theatre.ch
 decouvertes.ch
-decouvertesvoyages.ch
 decouvin.ch
 decouvre-dieu.ch
 decouvre-energie.ch
@@ -3307,7 +3303,6 @@ dedial.ch
 dedibook.ch
 dedibooks.ch
 dedic.ch
-dedica-informatik.ch
 dedica.ch
 dedicace.ch
 dedicane.ch
@@ -5472,7 +5467,6 @@ dein-handwerkershop.ch
 dein-handy.ch
 dein-handyabo.ch
 dein-handydoktor.ch
-dein-haus-verkaufen.ch
 dein-haus.ch
 dein-hausarzt.ch
 dein-haushueter.ch
@@ -7389,6 +7383,7 @@ deinskiteam24.ch
 deinsleben.ch
 deinsmarthome.ch
 deinsmile.ch
+deinsneaker.ch
 deinsnus.ch
 deinsofa.ch
 deinsolar.ch
@@ -7476,7 +7471,6 @@ deintierimfluss.ch
 deintierverstehen.ch
 deintimeout.ch
 deintinyhaus.ch
-deintipp.ch
 deintisch.ch
 deintor.ch
 deintortenbild.ch
@@ -8387,6 +8381,7 @@ delagehorlogerie.ch
 delagelanden.ch
 delagewatches.ch
 delagrainealassiette.ch
+delagraineaubocal.ch
 delagrange.ch
 delagsa.ch
 delaguerra.ch
@@ -8584,7 +8579,6 @@ delcasa.ch
 delcastellodiserravalle.ch
 delcastillo.ch
 delceymesures.ch
-delci.ch
 delcia-balg.ch
 delcioppo.ch
 delco-design.ch
@@ -10724,6 +10718,7 @@ delussu.ch
 delusto.ch
 delutaya.ch
 delutech.ch
+delutschionist.ch
 delux-singles.ch
 delux-spa.ch
 delux.ch
@@ -12755,7 +12750,6 @@ deniselingg.ch
 deniselocher.ch
 deniseluethi.ch
 denisemaeder.ch
-denisemarc.ch
 denisemaud.ch
 denisemeier-coaching.ch
 denisemeili.ch
@@ -13383,7 +13377,6 @@ dennler.ch
 dennlerenergie.ch
 dennlerhof.ch
 dennlerstrasse.ch
-dennlerstrasse30.ch
 dennlerstrasse38.ch
 dennmorina.ch
 denno.ch
@@ -13789,8 +13782,6 @@ dental360.ch
 dental4kids.ch
 dentalabscess.ch
 dentalacademy.ch
-dentalaesthetic.ch
-dentalaesthetik.ch
 dentalangenthal.ch
 dentalart-schweiz.ch
 dentalart.ch
@@ -13909,7 +13900,6 @@ dentalemergency.ch
 dentalent.ch
 dentaleplatures.ch
 dentaler.ch
-dentalesthetic.ch
 dentalesthetics.ch
 dentaleurope-zurich.ch
 dentaleurope.ch
@@ -13922,7 +13912,6 @@ dentalexperten.ch
 dentalexperts.ch
 dentalexpress-basel.ch
 dentalexpress-online.ch
-dentalexpress-zahnarzt-basel.ch
 dentalface.ch
 dentalfactory.ch
 dentalfamily.ch
@@ -14264,7 +14253,6 @@ dentalscience.ch
 dentalscout.ch
 dentalsecondopinion.ch
 dentalsedation.ch
-dentalserver.ch
 dentalservices.ch
 dentalshield.ch
 dentalshop.ch
@@ -15218,6 +15206,7 @@ deola-storenservice.ch
 deola.ch
 deoleo.ch
 deoli-2501.ch
+deolibor.ch
 deolicious.ch
 deolinda.ch
 deoliveira-reinigungen.ch
@@ -17587,6 +17576,7 @@ dergartengestalter.ch
 dergartenpfleger.ch
 dergartenschluessel.ch
 dergartensprecher.ch
+dergartentraum.ch
 dergartenwolf.ch
 dergast.ch
 dergasthof.ch
@@ -18130,7 +18120,6 @@ derleader.ch
 derlebensbaum.ch
 derlebensgarten.ch
 derlebenswertologe.ch
-derleckorter.ch
 derledermann.ch
 derlehrabgaenger.ch
 derlehrer.ch
@@ -18657,6 +18646,7 @@ dermato.ch
 dermatoaesthetics.ch
 dermatochirurgia.ch
 dermatochirurgie.ch
+dermatoclinic.ch
 dermatoesthetics.ch
 dermatoesthetique.ch
 dermatogo.ch
@@ -22164,7 +22154,6 @@ desireeguzzo.ch
 desireehess.ch
 desireehilscher.ch
 desireehofmann.ch
-desireejordi.ch
 desireekaegi.ch
 desireeknecht.ch
 desireekogevinas.ch
@@ -22362,6 +22351,7 @@ deslex.ch
 desligneris.ch
 deslivresetvous.ch
 deslivrespourcheminer.ch
+desloupsduvaldethey.ch
 desly.ch
 deslysetdelices.ch
 desm.ch
@@ -22606,7 +22596,6 @@ dessinatrices-dessinateurs-cfc.ch
 dessinatrices-dessinateurscfc.ch
 dessindepresse.ch
 dessine-moi-un-mouton.ch
-dessinemoiun.ch
 dessinemoiuneaffiche.ch
 dessinemoiunjardin.ch
 dessinemoiunvoyageusa.ch
@@ -24095,6 +24084,7 @@ deutschkursbasel.ch
 deutschkursberatung.ch
 deutschkursbern.ch
 deutschkurse-am-see.ch
+deutschkurse-davos.ch
 deutschkurse-horber.ch
 deutschkurse-kreuzlingen.ch
 deutschkurse-ok.ch
@@ -26062,7 +26052,6 @@ dezent-sg.ch
 dezent.ch
 dezentclub.ch
 dezente.ch
-dezentfy.ch
 dezentmusik.ch
 dezentra.ch
 dezentral-gmbh.ch

@@ -119,7 +119,6 @@ bi4you.ch
 bi5hop.ch
 bi9.ch
 bi9capital.ch
-bia-ag.ch
 bia-bed.ch
 bia-buerodienste.ch
 bia-ch.ch
@@ -4701,7 +4700,6 @@ bigdutchman.ch
 bige.ch
 bigear.ch
 bigeasy-bodybuilding.ch
-bigeasy.ch
 bigeasygators.ch
 bigeasytea.ch
 bigeat.ch
@@ -5918,6 +5916,7 @@ bike-region.ch
 bike-register.ch
 bike-rent.ch
 bike-rental-zurich.ch
+bike-rental.ch
 bike-reparaturen.ch
 bike-repbox.ch
 bike-revolution-gruyere.ch
@@ -6448,7 +6447,6 @@ bikelink.ch
 bikelinks.ch
 bikelinq.ch
 bikelitis.ch
-bikeloc.ch
 bikelocal.ch
 bikelocarno.ch
 bikelodge.ch
@@ -8124,6 +8122,7 @@ bildlichgesprochen.ch
 bildlichversprochen.ch
 bildlokal.ch
 bildmacher.ch
+bildmacherei.ch
 bildmanufaktur.ch
 bildmarke.ch
 bildmaschinen.ch
@@ -8233,7 +8232,6 @@ bildschliff.ch
 bildschmiede.ch
 bildschmuck.ch
 bildschoen-fotografie.ch
-bildschoen-fricktal.ch
 bildschoen-kosmetik.ch
 bildschoen.ch
 bildschrift.ch
@@ -9632,7 +9630,6 @@ billvonarx.ch
 billwerk.ch
 billwil.ch
 billwiller-stiftung.ch
-billwiller.ch
 billy-bets.ch
 billy-bunny.ch
 billy-chavaz-charpente.ch
@@ -9921,7 +9918,6 @@ bim-routes.ch
 bim-sa.ch
 bim-samichlaus.ch
 bim-sarl.ch
-bim-schnegg.ch
 bim-school.ch
 bim-schule.ch
 bim-service.ch
@@ -10559,6 +10555,7 @@ binarylogic.ch
 binaryme.ch
 binarynet.ch
 binaryone.ch
+binaryoptions.ch
 binarypeople.ch
 binarypoetry.ch
 binarys.ch
@@ -11010,7 +11007,6 @@ bingocars.ch
 bingoclub.ch
 bingodolce.ch
 bingoflamingo.ch
-bingofouryou.ch
 bingohallriverboys.ch
 bingohandel.ch
 bingol.ch
@@ -11994,6 +11990,7 @@ bio-shop.ch
 bio-shot.ch
 bio-shots.ch
 bio-sirup.ch
+bio-site.ch
 bio-skin.ch
 bio-slim.ch
 bio-solar-haus.ch
@@ -12877,19 +12874,13 @@ biodym.ch
 biodyn-ausbildung.ch
 biodyn.ch
 biodynam.ch
-biodynamic-osteopathie.ch
 biodynamic-osteopathy-zh.ch
-biodynamic-schweiz.ch
-biodynamic-winterthur.ch
 biodynamic.ch
 biodynamica.ch
 biodynamico.ch
-biodynamicosteopathie.ch
 biodynamicosteopathy.ch
 biodynamics-schweiz.ch
 biodynamics.ch
-biodynamicschweiz.ch
-biodynamicwinterthur.ch
 biodynamie.ch
 biodynamik-am-pferd.ch
 biodynamik-am-tier.ch
@@ -12908,7 +12899,6 @@ biodynamische-praeparate.ch
 biodynamische-weine.ch
 biodynamische-winzer.ch
 biodynamischeausbildung.ch
-biodynamischeosteopathie.ch
 biodynamischeweine.ch
 biodynamischewinzer.ch
 biodynamizer.ch
@@ -13766,7 +13756,6 @@ biohof-tannacker.ch
 biohof-tanngarten.ch
 biohof-tappolet.ch
 biohof-taratsch.ch
-biohof-taufs.ch
 biohof-thurgau.ch
 biohof-traub.ch
 biohof-trimstein.ch
@@ -14679,6 +14668,7 @@ bionator.ch
 bionatortechnik.ch
 bionatur-hotel.ch
 bionatur.ch
+bionatura.ch
 bionaturae.ch
 bionatural.ch
 bionaturalis.ch
@@ -17414,7 +17404,6 @@ birthinpower.ch
 birthkeeper.ch
 birthkeeperin.ch
 birthlight.ch
-birthofstyle.ch
 birthpools.ch
 birthprep.ch
 birthpreparation.ch
@@ -20293,6 +20282,7 @@ bivouacdanslesarbres.ch
 bivouacnature.ch
 bivouacstudio.ch
 bivouak.ch
+bivue.ch
 bivvy.ch
 bivvyloo.ch
 bivy.ch

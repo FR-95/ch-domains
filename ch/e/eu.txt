@@ -499,6 +499,7 @@ eulachhallen-reservationen.ch
 eulachhallen.ch
 eulachhaus.ch
 eulachkalender.ch
+eulachkids.ch
 eulachklinik.ch
 eulachmalerei.ch
 eulachmeeting.ch
@@ -1851,6 +1852,7 @@ europ-assistance.ch
 europ-it.ch
 europ-koehler-2027.ch
 europ-mint.ch
+europ.ch
 europa-2.ch
 europa-abri.ch
 europa-agri.ch
@@ -2693,8 +2695,6 @@ eurovisa.ch
 eurovision-basel.ch
 eurovision-switzerland.ch
 eurovision-swizz.ch
-eurovision2025.ch
-eurovision25.ch
 eurovisionbasel.ch
 eurovisioninfo.ch
 eurovisionparty.ch
@@ -2836,7 +2836,6 @@ euseshop.ch
 euseshuus.ch
 euseskafi.ch
 eusesonnehof.ch
-eusesparadiesli.ch
 eusestoos.ch
 eusesummerhit.ch
 eusi-art.ch

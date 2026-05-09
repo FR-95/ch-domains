@@ -453,7 +453,6 @@ klangbildrecords.ch
 klangbildteam.ch
 klangbildwort.ch
 klangbit.ch
-klangbogen.ch
 klangboutique.ch
 klangbox.ch
 klangbuero-verlag.ch
@@ -950,7 +949,6 @@ klangwelt-wiggertal.ch
 klangwelt.ch
 klangweltderbratsche.ch
 klangwelten.ch
-klangweltfinder-lartedelsuono.ch
 klangweltfinder.ch
 klangweltraum.ch
 klangweltwiggertal.ch
@@ -1309,6 +1307,7 @@ klarfit.ch
 klarfix-asani.ch
 klarfixasani.ch
 klarflow.ch
+klarfokus.ch
 klarform.ch
 klarformat.ch
 klarfoto.ch
@@ -1706,7 +1705,6 @@ klassenclown.ch
 klassencockpit.ch
 klassencup.ch
 klassendorf.ch
-klassenduell.ch
 klassendynamik.ch
 klasseneinteilung.ch
 klassenentwicklung.ch
@@ -1890,6 +1888,7 @@ klassikwellness.ch
 klassikwelt-bodensee.ch
 klassikwerk.ch
 klassikzwillinge.ch
+klassisch-anders.ch
 klassisch.ch
 klassische-akupunktur.ch
 klassische-dressur.ch
@@ -3287,6 +3286,7 @@ kleiner-bau.ch
 kleiner-beratung.ch
 kleiner-bewaesserungssysteme.ch
 kleiner-bewegt.ch
+kleiner-buerger.ch
 kleiner-clown.ch
 kleiner-engineering.ch
 kleiner-fruehling.ch
@@ -4150,7 +4150,6 @@ klemann.ch
 klemata.ch
 klematis.ch
 klemenjak.ch
-klemens-ebikon.ch
 klemens.ch
 klemensberger.ch
 klemensbont.ch
@@ -5061,7 +5060,6 @@ klimabewegungzentralschweiz.ch
 klimabewusst.ch
 klimabildung.ch
 klimablatt.ch
-klimablitz.ch
 klimaboden.ch
 klimaboeden.ch
 klimabonus.ch
@@ -6359,6 +6357,7 @@ klock.ch
 klockner-metals.ch
 klocknermetals.ch
 klockshift.ch
+klod.ch
 klode.ch
 klodel.ch
 klodia.ch
@@ -6524,7 +6523,6 @@ klosowski.ch
 klosprueche.ch
 kloss.ch
 klossner-ag.ch
-klossner-immobilien.ch
 klossner-inneneinrichtung.ch
 klossner-treuhand.ch
 klossner.ch

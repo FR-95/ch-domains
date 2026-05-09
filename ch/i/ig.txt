@@ -5,7 +5,6 @@ ig-aarbergergasse.ch
 ig-adhs-ass-family.ch
 ig-adhs-schweiz.ch
 ig-aesch.ch
-ig-aescherfeld.ch
 ig-afua.ch
 ig-aib.ch
 ig-aikido.ch
@@ -207,6 +206,7 @@ ig-hochsaison.ch
 ig-hoerakustik.ch
 ig-hoev-sh.ch
 ig-holding-tools.ch
+ig-homoeopathie.ch
 ig-hsh.ch
 ig-huenenbergsee.ch
 ig-huerst.ch
@@ -570,7 +570,6 @@ igadget.ch
 igads.ch
 igae.ch
 igaeli.ch
-igaescherfeld.ch
 igaf.ch
 igafua.ch
 igag.ch
@@ -710,6 +709,7 @@ igconsulting.ch
 igcs.ch
 igcti.ch
 igcy.ch
+igd-basel.ch
 igd.ch
 igda.ch
 igdag.ch
@@ -938,7 +938,6 @@ igfisker.ch
 igfkl.ch
 igfl.ch
 igflf.ch
-igfm-kgv.ch
 igfm.ch
 igfmanagement.ch
 igfoto.ch

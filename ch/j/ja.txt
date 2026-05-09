@@ -69,6 +69,7 @@ ja-moments.ch
 ja-motion.ch
 ja-naturpark-schaffhausen.ch
 ja-naturschutzgebiet-eigental.ch
+ja-ned-absitze.ch
 ja-nein-orakel.ch
 ja-nein-vielleicht.ch
 ja-nein.ch
@@ -1610,7 +1611,6 @@ jaegeregli.ch
 jaegerei.ch
 jaegerfamily.ch
 jaegerfishing.ch
-jaegerfotografie.ch
 jaegerfu.ch
 jaegerglenn.ch
 jaegergolfclub.ch
@@ -3337,7 +3337,6 @@ jalu-handmade.ch
 jalu-mahina.ch
 jalu.ch
 jalube.ch
-jaluinox.ch
 jalule.ch
 jaluma.ch
 jaluna.ch
@@ -3364,6 +3363,7 @@ jam29.ch
 jama-architecte.ch
 jama-architectes.ch
 jama-yoga.ch
+jama.ch
 jamaa.ch
 jamabo.ch
 jamabu.ch
@@ -3776,6 +3776,7 @@ jamix.ch
 jamjam-mh.ch
 jamjam.ch
 jamjar.ch
+jamjazz.ch
 jamkitchen.ch
 jamkultur.ch
 jamlab.ch
@@ -5578,7 +5579,6 @@ japan-reisen.ch
 japan-ride.ch
 japan-rundreisen.ch
 japan-sauna.ch
-japan-shop.ch
 japan-spiegel.ch
 japan-thomas.ch
 japan-travel.ch

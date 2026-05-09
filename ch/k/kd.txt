@@ -159,7 +159,6 @@ kds-cdc.ch
 kds-clean.ch
 kds-consulting.ch
 kds-elektroplanung.ch
-kds-haustechnik.ch
 kds-main.ch
 kds-online.ch
 kds-portal.ch
@@ -199,6 +198,7 @@ kdwa.ch
 kdwu.ch
 kdx.ch
 kdy.ch
+kdynamics.ch
 kdysign.ch
 kdz-architektur.ch
 kdz-architekur.ch

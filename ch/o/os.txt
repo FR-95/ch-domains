@@ -1712,7 +1712,6 @@ osteo-vevey.ch
 osteo-vital.ch
 osteo-vonflue.ch
 osteo-waengi.ch
-osteo-winterthur.ch
 osteo-x.ch
 osteo-zermatt.ch
 osteo-zuerich.ch
@@ -2293,7 +2292,6 @@ osteopathie-wil.ch
 osteopathie-wilde.ch
 osteopathie-winkelmann.ch
 osteopathie-winterthur.ch
-osteopathie-winti.ch
 osteopathie-wohlishofen.ch
 osteopathie-wollerau.ch
 osteopathie-wollishofen.ch
@@ -2962,6 +2960,10 @@ osthilfe.ch
 osthoff.ch
 osthome.ch
 osthues.ch
+osti-official.ch
+osti-swiss.ch
+osti-tech.ch
+osti-validation.ch
 osti.ch
 ostia.ch
 ostiane.ch
@@ -3012,7 +3014,6 @@ ostnews.ch
 ostnews24.ch
 ostnight.ch
 osto.ch
-ostobacco.ch
 ostoeckli.ch
 ostoflex.ch
 ostojic.ch

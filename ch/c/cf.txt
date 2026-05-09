@@ -76,6 +76,7 @@ cf-partners.ch
 cf-pelletservice.ch
 cf-pflege.ch
 cf-physio.ch
+cf-plo.ch
 cf-poolproducts.ch
 cf-riskmanagement.ch
 cf-romandie.ch
@@ -588,6 +589,7 @@ cfpenergy.ch
 cfpg.ch
 cfpi.ch
 cfpl.ch
+cfplo.ch
 cfplutry.ch
 cfpm.ch
 cfpneuch.ch

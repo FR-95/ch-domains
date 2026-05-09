@@ -559,6 +559,7 @@ agbuero70.ch
 agc-ag.ch
 agc-bern.ch
 agc-biel.ch
+agc-gva.ch
 agc-sa.ch
 agc-so.ch
 agc-solothurn.ch
@@ -3214,6 +3215,7 @@ agilum.ch
 agilundmehr.ch
 agilunterrichten.ch
 agilus.ch
+agilux.ch
 agiluzern.ch
 agily.ch
 agim.ch
@@ -3282,6 +3284,7 @@ agir-ge.ch
 agir-inspire.ch
 agir-inspirer.ch
 agir-ium.ch
+agir-ne.ch
 agir-sr.ch
 agir-transport.ch
 agir-uwa.ch
@@ -3592,7 +3595,6 @@ agnescecilia.ch
 agnescollaud.ch
 agnesd.ch
 agnese.ch
-agnesedavide.ch
 agnesezgraggen.ch
 agnesfeefeuille.ch
 agnesferla.ch
@@ -4422,7 +4424,6 @@ agri-terra.ch
 agri-trading.ch
 agri-trans.ch
 agri-valais.ch
-agri-via.ch
 agri-wiki.ch
 agri-zaun.ch
 agri-zelt.ch

@@ -1039,6 +1039,7 @@ cabinet-virginievoide.ch
 cabinet-w.ch
 cabinet-waldburger.ch
 cabinet-weissdental.ch
+cabinet-winterthur.ch
 cabinet-yeuxdumonde.ch
 cabinet-zihlstrasse.ch
 cabinet.ch
@@ -1220,6 +1221,7 @@ cabinetdurgencesbienne.ch
 cabinetdurond-point.ch
 cabinetdurondeau.ch
 cabinetdury.ch
+cabinetdusimplon.ch
 cabinetduvieuxcanal.ch
 cabinetduvoirnet.ch
 cabinetduvully.ch
@@ -5589,7 +5591,6 @@ calcioregionale.ch
 calciosanzeno.ch
 calciostore.ch
 calciosvizzero.ch
-calcioticinese.ch
 calcipotriene.ch
 calcipotriol.ch
 calcis-kaustick.ch
@@ -5956,6 +5957,7 @@ caleton.ch
 calevo.ch
 calex-sa.ch
 calex.ch
+calexity.ch
 caley.ch
 caleydoscop.ch
 caleys.ch
@@ -6768,7 +6770,6 @@ callmyvet.ch
 callnet-fairlist.ch
 callnet.ch
 callnow.ch
-callnowai.ch
 callo-finance.ch
 callodin.ch
 callofdarts.ch
@@ -6834,6 +6835,7 @@ callus.ch
 callusan.ch
 callux.ch
 callwey.ch
+callwise.ch
 cally.ch
 callya.ch
 callykatia.ch
@@ -7985,8 +7987,6 @@ cameratabasilea.ch
 cameratabern.ch
 cameratacontrepoint.ch
 cameratagiovanile.ch
-cameratagioviale.ch
-cameratagiovialebasel.ch
 cameratalausanne.ch
 cameratamusica.ch
 cameratapontresina.ch
@@ -8902,7 +8902,6 @@ camper4me.ch
 camper4rent.ch
 camper4two.ch
 camper4x4.ch
-camper77.ch
 campera.ch
 camperabo.ch
 camperaccessories.ch
@@ -11052,7 +11051,6 @@ can.ch
 can4me.ch
 cana-ars.ch
 cana-art.ch
-cana-loca.ch
 cana-treuhand.ch
 cana.ch
 cana24.ch
@@ -11179,7 +11177,6 @@ canaldumidi.ch
 canale-milva.ch
 canale.ch
 canaleau.ch
-canalefederagione.ch
 canales.ch
 canaletto.ch
 canalettosa.ch
@@ -12799,7 +12796,6 @@ cannaconnection.ch
 cannaconsulting.ch
 cannacoop.ch
 cannacorner.ch
-cannacourses.ch
 cannacult.ch
 cannadeal.ch
 cannadibambu.ch
@@ -13126,7 +13122,6 @@ canoesgruyere.ch
 canofbeans.ch
 canogmbh.ch
 canoj-bau.ch
-canola.ch
 canolive.ch
 canolli.ch
 canollidigitalmarketing.ch
@@ -14902,6 +14897,7 @@ capitalvision.ch
 capitalwaters.ch
 capitalwelcome.ch
 capitalworks.ch
+capitalx.ch
 capitalysz.ch
 capitan-pirata.ch
 capitan.ch
@@ -19642,6 +19638,7 @@ carglassrepair.ch
 carglion.ch
 cargloss.ch
 carglow.ch
+cargnel.ch
 cargnelutti-consulting.ch
 cargnelutti.ch
 cargo-24.ch
@@ -20165,6 +20162,7 @@ carine-haueter.ch
 carine-hypnose.ch
 carine-legeret-ebener.ch
 carine-staubli.ch
+carine-tornare.ch
 carine.ch
 carinebd.ch
 carinebeaute.ch
@@ -20188,6 +20186,7 @@ carineroy.ch
 carines-cafe.ch
 carinestaubli-hr.ch
 carinestaubli-hrc.ch
+carinetornare.ch
 carineweiss.ch
 carinfo.ch
 caring-communities.ch
@@ -21733,6 +21732,7 @@ carnivorium.ch
 carnivoro.ch
 carnivorshop.ch
 carnoglob.ch
+carnoisseur.ch
 carnol.ch
 carnomed.ch
 carnosa.ch
@@ -24961,7 +24961,6 @@ cartedesemotions.ch
 cartedesvins.ch
 cartedevisite.ch
 cartedevisite24.ch
-cartedevisitegeneve.ch
 cartedevisitesuisse.ch
 cartedevoyage.ch
 cartedicredito.ch
@@ -25402,7 +25401,6 @@ cartprint.ch
 cartra.ch
 cartrace.ch
 cartrack.ch
-cartracker.ch
 cartracking.ch
 cartraction.ch
 cartrade-24.ch
@@ -25473,6 +25471,7 @@ carugati.ch
 carugatisped.ch
 carulli-management.ch
 carulli.ch
+carullo.ch
 caruma-treuhand.ch
 carumcarvi.ch
 caruna-spider.ch
@@ -29792,7 +29791,6 @@ casinocode.ch
 casinocoin.ch
 casinocom.ch
 casinocomedyclub.ch
-casinocomparatif.ch
 casinoconcept.ch
 casinoconcierge.ch
 casinoconsultant.ch
@@ -30103,7 +30101,6 @@ casinos77.ch
 casinos777.ch
 casinosafe.ch
 casinosalodurum.ch
-casinosansdepot.ch
 casinosaustria.ch
 casinosbarriere.ch
 casinosbarriereonline.ch
@@ -31070,6 +31067,7 @@ castlevel.ch
 castlevillagegames.ch
 castlewaldegg.ch
 castlewallet.ch
+castlewools.ch
 castling.ch
 casto-menuiserie.ch
 casto.ch
@@ -32497,6 +32495,7 @@ catimpact.ch
 catinaflat.ch
 catinart.ch
 catini.ch
+catinox.ch
 catinstyle.ch
 catinthecity.ch
 catinvest.ch
@@ -33343,7 +33342,6 @@ cavastop.ch
 cavat.ch
 cavaterm.ch
 cavatorta.ch
-cavatropvite.ch
 cavauction.ch
 cavaudledetour.ch
 cavaudlretour.ch

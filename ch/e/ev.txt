@@ -70,6 +70,7 @@ ev-ladekabel.ch
 ev-ladestation.ch
 ev-limousine.ch
 ev-liquidhome.ch
+ev-log.ch
 ev-lugano.ch
 ev-lyne.ch
 ev-m.ch
@@ -1329,7 +1330,6 @@ eveilessence.ch
 eveiletpassage.ch
 eveiletsens.ch
 eveilhome.ch
-eveilhypnose.ch
 eveilinterieur.ch
 eveiller.ch
 eveilles.ch
@@ -3357,6 +3357,7 @@ eventrock.ch
 eventron.ch
 eventronics.ch
 eventroom.ch
+eventry.ch
 events-365.ch
 events-4-you.ch
 events-aarau.ch
@@ -4235,6 +4236,7 @@ everontesting.ch
 everontravel.ch
 everose.ch
 everouxpsychologue.ch
+everpack.ch
 everpat.ch
 everpeak.ch
 everpearl.ch
@@ -5990,7 +5992,6 @@ evovale.ch
 evovento.ch
 evovet.ch
 evovia.ch
-evovino-b2b.ch
 evovino.ch
 evovis.ch
 evovision.ch

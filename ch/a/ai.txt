@@ -437,6 +437,7 @@ ai-in-examples.ch
 ai-in-industry.ch
 ai-in-marketing.ch
 ai-in-real-estate.ch
+ai-in-research.ch
 ai-in-sales.ch
 ai-incubator.ch
 ai-index.ch
@@ -566,6 +567,7 @@ ai-media-awards.ch
 ai-media-production.ch
 ai-media-productions.ch
 ai-medical.ch
+ai-mentor.ch
 ai-mes.ch
 ai-metal.ch
 ai-metals.ch
@@ -779,6 +781,7 @@ ai-spezialist.ch
 ai-square.ch
 ai-stack.ch
 ai-startup-marketing.ch
+ai-statistik.ch
 ai-stellenportal.ch
 ai-storytelling.ch
 ai-strategy.ch
@@ -1011,6 +1014,7 @@ aia-innenarchitektur.ch
 aia-service.ch
 aia-shop.ch
 aia-solar.ch
+aia-studio.ch
 aia.ch
 aiaa.ch
 aiaagent.ch
@@ -1701,7 +1705,6 @@ aide-energie.ch
 aide-entre-amis.ch
 aide-et-action.ch
 aide-et-soutien.ch
-aide-finance.ch
 aide-herissons.ch
 aide-info.ch
 aide-informatique-a-domicile.ch
@@ -1907,6 +1910,7 @@ aidia-smartpillbottle.ch
 aidia-smartpillcap.ch
 aidia-smartremindersystem.ch
 aidia-system.ch
+aidia.ch
 aidiagnose.ch
 aidienstleistungen.ch
 aidigest.ch
@@ -2763,6 +2767,7 @@ aikoori.ch
 aikos.ch
 aikoscheu.ch
 aikostudios.ch
+aikoway.ch
 aikoyama.ch
 aikq.ch
 aikraft.ch
@@ -2932,7 +2937,6 @@ ailo.ch
 ailog.ch
 ailogo.ch
 ailogus.ch
-ailohn.ch
 ailora.ch
 ailoria.ch
 ailoriah.ch
@@ -3521,6 +3525,7 @@ aionfreetoplay.ch
 aiongroup.ch
 aionholding.ch
 aionia-olive.ch
+aionics.ch
 aioninstitute.ch
 aionios.ch
 aionis.ch
@@ -4899,7 +4904,6 @@ airmaster-shop.ch
 airmaster.ch
 airmate.ch
 airmatec.ch
-airmates.ch
 airmatic-mercedes.ch
 airmatic-tieferlegen.ch
 airmatic.ch
@@ -5625,7 +5629,6 @@ airteacher.ch
 airteam-gmbh.ch
 airteam.ch
 airteamgmbh.ch
-airtec-con.ch
 airtec-energie.ch
 airtec-gmbh.ch
 airtec-oval.ch
@@ -5716,6 +5719,7 @@ airtuerk.ch
 airturk.ch
 airturquoise.ch
 airtype.ch
+airueh.ch
 airulyke.ch
 airumors.ch
 airuna.ch
@@ -6170,7 +6174,6 @@ aiti.ch
 aiti4welfare.ch
 aitia-erb.ch
 aitia.ch
-aitian.ch
 aitic.ch
 aiticino.ch
 aitico.ch
@@ -6395,6 +6398,7 @@ aivio.ch
 aivion-one.ch
 aiviotech.ch
 aivisibility.ch
+aivisibilitylab.ch
 aivisio.ch
 aivision.ch
 aivisionboard.ch

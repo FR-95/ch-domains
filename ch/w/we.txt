@@ -392,6 +392,7 @@ wealth-family-office.ch
 wealth-gipfel.ch
 wealth-inequality.ch
 wealth-living.ch
+wealth-lohn.ch
 wealth-magazine.ch
 wealth-management-switzerland.ch
 wealth-management.ch
@@ -6926,6 +6927,7 @@ wechsel-krankenkasse.ch
 wechsel-kurs.ch
 wechsel-wirkung.ch
 wechsel.ch
+wechselalarm.ch
 wechselart.ch
 wechselassistent.ch
 wechselaufbau.ch
@@ -7262,7 +7264,6 @@ wedding-content-creator.ch
 wedding-dance.ch
 wedding-day.ch
 wedding-days.ch
-wedding-deko.ch
 wedding-deluxe.ch
 wedding-diaries.ch
 wedding-dinner.ch
@@ -7828,6 +7829,7 @@ weebox.ch
 weebshop.ch
 weecat.ch
 weecheap.ch
+weechla.ch
 weecl.ch
 weeco.ch
 weecoo.ch
@@ -9037,6 +9039,7 @@ wehome.ch
 wehope.ch
 wehopefestival.ch
 wehorse.ch
+wehost.ch
 wehouse.ch
 wehowsky.ch
 wehr-li.ch
@@ -9434,7 +9437,6 @@ weidegans.ch
 weidegenuss.ch
 weidegespraech.ch
 weideggli.ch
-weidehof.ch
 weidehuhn.ch
 weidejournal.ch
 weidekalb.ch
@@ -9785,7 +9787,6 @@ weihern-unplugged.ch
 weihern.ch
 weihernfestival.ch
 weiherpark.ch
-weiherpartners.ch
 weiherschloss-apotheke.ch
 weiherschloss.ch
 weiherstrasse-freienwil.ch
@@ -12123,7 +12124,6 @@ weishaupt-wetter.ch
 weishaupt.ch
 weishauptstoren.ch
 weisheit-des-herzens.ch
-weisheit-im-licht.ch
 weisheit4u.ch
 weisheitdeinesherzens.ch
 weisheitdesherzens.ch
@@ -13515,7 +13515,6 @@ welderwatch.ch
 welderwatches.ch
 welderwomen.ch
 weldex.ch
-weldhost.ch
 welding-academy.ch
 welding-ag.ch
 welding-gmbh.ch
@@ -13650,7 +13649,6 @@ well-balanced.ch
 well-basel.ch
 well-be.ch
 well-beauty.ch
-well-bee-beauty.ch
 well-beeing.ch
 well-being-center.ch
 well-being-institut.ch
@@ -13944,6 +13942,7 @@ wellenkraft.ch
 wellenkupplungen.ch
 wellenlaenge.ch
 wellenlehre.ch
+wellenlicht.ch
 wellenmaschine.ch
 wellenmeer.ch
 wellenmoos.ch
@@ -18170,6 +18169,7 @@ werft31.ch
 werft52-bodensee.ch
 werft52.ch
 werft7.ch
+werftamsee.ch
 werftbewertung.ch
 werftclub.ch
 werftdesign.ch
@@ -19713,6 +19713,7 @@ werruftmichan.ch
 wers.ch
 wersa-treuhand.ch
 wersa.ch
+werschreibtderbleibt.ch
 wersglaubt-podcast.ch
 wersglaubt.ch
 wersglaubtwirdselig.ch
@@ -21621,6 +21622,7 @@ wetterservice.ch
 wettershop.ch
 wettersms.ch
 wetterspion.ch
+wetterstans.ch
 wetterstation-aarau.ch
 wetterstation-birrfeld.ch
 wetterstation-buochs.ch
@@ -22068,6 +22070,7 @@ wexvarim.ch
 wexx.ch
 wexxeljahre.ch
 wexxelzone.ch
+wexy.ch
 wexye.ch
 wey-ag.ch
 wey-alexandra.ch

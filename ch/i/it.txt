@@ -98,7 +98,6 @@ it-battaglia.ch
 it-bauer.ch
 it-bauherrenvertretung.ch
 it-baumann.ch
-it-baumeister.ch
 it-bauphysik.ch
 it-be.ch
 it-beast.ch
@@ -576,6 +575,7 @@ it-link.ch
 it-loesungen.ch
 it-logic.ch
 it-logix.ch
+it-lohn.ch
 it-lokal.ch
 it-lombardia.ch
 it-lost.ch
@@ -1725,7 +1725,6 @@ italofontana.ch
 italofood.ch
 italohispano.ch
 italoil.ch
-italokitsch.ch
 italomania.ch
 italomontanari.ch
 italomotos.ch
@@ -2773,6 +2772,7 @@ ithernet.ch
 ithero.ch
 ithieme.ch
 ithil.ch
+ithilfe-limmattal.ch
 ithilfe.ch
 ithilfe24.ch
 ithilien.ch
@@ -3271,6 +3271,7 @@ itou.ch
 itoua.ch
 itouch.ch
 itour.ch
+itourpro.ch
 itours.ch
 itous.ch
 itousoftware.ch

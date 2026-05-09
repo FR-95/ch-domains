@@ -261,6 +261,7 @@ luaskin.ch
 luasmanufaktur.ch
 luasoftware.ch
 luasol.ch
+luau.ch
 luay.ch
 luazulcommunity.ch
 lub.ch
@@ -1727,7 +1728,6 @@ lucidcar.ch
 lucidcars.ch
 lucidchart.ch
 lucidcloud.ch
-lucidcode.ch
 lucidcomms.ch
 lucidconcepts.ch
 lucidconsulting.ch
@@ -4150,6 +4150,7 @@ luftentfeuchten.ch
 luftentfeuchter-bautrockner.ch
 luftentfeuchter-express.ch
 luftentfeuchter-kaufen.ch
+luftentfeuchter-mieten.ch
 luftentfeuchter-shop.ch
 luftentfeuchter-waeschetrockner.ch
 luftentfeuchter.ch
@@ -5033,7 +5034,6 @@ luigimilani.ch
 luigimolinaro.ch
 luigimondia.ch
 luigina.ch
-luiginaponcioni.ch
 luigino.ch
 luigipagliarani.ch
 luigipanettone.ch
@@ -5248,6 +5248,7 @@ luispraxmarer.ch
 luisraposo.ch
 luisrene.ch
 luisribeiro.ch
+luisrodrigues.ch
 luissalet.ch
 luissanz.ch
 luisschaub.ch
@@ -9703,7 +9704,6 @@ luta-livre.ch
 luta.ch
 lutag.ch
 lutalivre-basel.ch
-lutalivre-bern.ch
 lutalivre-zuerich.ch
 lutalivre.ch
 lutam-projets.ch

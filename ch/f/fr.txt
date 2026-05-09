@@ -7150,6 +7150,7 @@ freelium.ch
 freelivecam.ch
 freeliving.ch
 freeln.ch
+freeload.ch
 freelocalsearch.ch
 freelocarnowalkingtours.ch
 freelogin.ch
@@ -7717,7 +7718,6 @@ freestylepools.ch
 freestyler.ch
 freestyleroots.ch
 freestylers.ch
-freestyles.ch
 freestyleshop.ch
 freestylesilvaplana.ch
 freestylesilvaplana2025.ch
@@ -8283,7 +8283,6 @@ frei-weinlandstauden.ch
 frei-werbung.ch
 frei-werden.ch
 frei-wie-der-wind.ch
-frei-wild.ch
 frei-willemsen.ch
 frei-willig.ch
 frei-wintergarten.ch
@@ -9297,7 +9296,6 @@ freiland-huehner.ch
 freiland-poulet.ch
 freiland-rosen.ch
 freiland-saeuli.ch
-freiland-schwein.ch
 freiland-schweine.ch
 freiland-truten.ch
 freiland.ch
@@ -9318,10 +9316,8 @@ freilandpalmen.ch
 freilandpoulet.ch
 freilandprodukte.ch
 freilandrosen.ch
-freilandsau.ch
 freilandschwein.ch
 freilandschweine.ch
-freilandsoi.ch
 freilandtomate.ch
 freilandtruten.ch
 freilandunterhaltung.ch
@@ -9548,7 +9544,6 @@ freipw.ch
 freiraeume.ch
 freiraeumen.ch
 freiraeumer.ch
-freiraeumerin.ch
 freirahmen.ch
 freiraum-ag.ch
 freiraum-agentur.ch
@@ -9914,7 +9909,6 @@ freiwillige-allschwil.ch
 freiwillige-asylbereich-sz.ch
 freiwillige-binningen.ch
 freiwillige-egg.ch
-freiwillige-eid.ch
 freiwillige-feuerwehr.ch
 freiwillige-neumuenster.ch
 freiwillige-weiterbildung.ch
@@ -11128,6 +11122,7 @@ freshmonkey.ch
 freshmonsters.ch
 freshmood.ch
 freshmushrooms.ch
+freshnclean-swiss.ch
 freshnclean.ch
 freshnet.ch
 freshnew.ch
@@ -13484,7 +13479,6 @@ friedlitechnik.ch
 friedlitexte.ch
 friedliweb.ch
 friedliweid.ch
-friedlizaeune.ch
 friedlos-design.ch
 friedlos-grafik.ch
 friedlos-print.ch

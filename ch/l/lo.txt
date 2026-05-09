@@ -684,7 +684,6 @@ localbench.ch
 localbier.ch
 localbikeshop-bikeservicecenter.ch
 localbikeshop.ch
-localbilling.ch
 localbini-ag.ch
 localbini.ch
 localbird.ch
@@ -1197,6 +1196,7 @@ locandaklus.ch
 locandalessy.ch
 locandalocarnese.ch
 locandamarco.ch
+locandamesolcina.ch
 locandamottodelgallo.ch
 locandanobile.ch
 locandaorelli.ch
@@ -2376,7 +2376,6 @@ lodgeschoenried.ch
 lodgesdescombins.ch
 lodgesdesrives.ch
 lodgetents.ch
-lodgevan.ch
 lodgeyslife.ch
 lodgic.ch
 lodging-as-a-service.ch
@@ -2745,7 +2744,6 @@ loesungenfinden.ch
 loesungenfuereinelebenswertezukunft.ch
 loesungenimbrennpunkt.ch
 loesungeninundvonsystemen.ch
-loesungenkmu.ch
 loesungenmitholz.ch
 loesungs-art.ch
 loesungs-coach.ch
@@ -5313,6 +5311,7 @@ lohn-ammannsegg-bewegt.ch
 lohn-ammannsegg.ch
 lohn-ammannsegg24.ch
 lohn-arbeiten.ch
+lohn-barometer.ch
 lohn-brief.ch
 lohn-check.ch
 lohn-checkup.ch
@@ -5385,6 +5384,7 @@ lohnauszahlungsplattform.ch
 lohnauszahlungsportal.ch
 lohnauszahlungsservice.ch
 lohnauszahlungstool.ch
+lohnbarometer.ch
 lohnbenchmark.ch
 lohnberatung-kmu.ch
 lohnberechnung.ch
@@ -6750,7 +6750,6 @@ lombard-intermediation.ch
 lombard-international.ch
 lombard-invest.ch
 lombard-is.ch
-lombard-kredit.ch
 lombard-ls.ch
 lombard-martin.ch
 lombard-odier.ch
@@ -7043,6 +7042,7 @@ londonlashpro.ch
 londonmultiassetexchange.ch
 londonmultiassetxchange.ch
 londono.ch
+londonpub.ch
 londonstockexchange.ch
 londonstockexchangegroup.ch
 londonstockexchanges.ch
@@ -7132,6 +7132,7 @@ long-covid-therapie.ch
 long-covid-thurgau.ch
 long-covid.ch
 long-covid19.ch
+long-evity-verein-schweiz.ch
 long-evity.ch
 long-fries.ch
 long-horn-bbq.ch
@@ -7329,6 +7330,7 @@ longevity-luzern.ch
 longevity-med.ch
 longevity-medicalcenter.ch
 longevity-mindset.ch
+longevity-mindshift.ch
 longevity-navigator.ch
 longevity-network.ch
 longevity-nutrients.ch
@@ -7352,6 +7354,8 @@ longevity-test.ch
 longevity-therapy.ch
 longevity-trainer.ch
 longevity-valley.ch
+longevity-verein-schweiz.ch
+longevity-verein.ch
 longevity-vital.ch
 longevity-water.ch
 longevity-world.ch
@@ -7429,6 +7433,7 @@ longevitylucerne.ch
 longevitymasterplan.ch
 longevitymedicine.ch
 longevitymindset.ch
+longevitymindshift.ch
 longevitynutrients.ch
 longevityofswitzerland.ch
 longevitypartners.ch
@@ -7944,6 +7949,7 @@ lookingforsunshine.ch
 lookinggood.ch
 lookinghome.ch
 lookinginside.ch
+lookinglass.ch
 lookinside.ch
 lookintomyeyes.ch
 lookintoyou.ch
@@ -8553,7 +8559,6 @@ lopimi-interiors.ch
 lopimi.ch
 lopin.ch
 lopini.ch
-lopinion.ch
 lopinione.ch
 lopinis.ch
 lopix.ch
@@ -10745,6 +10750,7 @@ lotuscraniosacral.ch
 lotuscrash.ch
 lotuscreative.ch
 lotusdomino.ch
+lotusduciel.ch
 lotusdusiam.ch
 lotuseletre.ch
 lotuseletrer.ch
@@ -11428,6 +11434,7 @@ loumedic.ch
 loumee.ch
 loumeier.ch
 loumeili.ch
+loumen.ch
 loumesserli.ch
 loumi.ch
 loumibeauty.ch
@@ -12754,6 +12761,7 @@ loveyourneighbour.ch
 loveyourpet.ch
 loveyourpets.ch
 loveyourprint.ch
+loveyourprocess.ch
 loveyourself-journey.ch
 loveyourselffactory.ch
 loveyourshirt.ch
@@ -13292,6 +13300,7 @@ loyalty-services.ch
 loyalty-shop.ch
 loyalty-talk.ch
 loyalty.ch
+loyalty366.ch
 loyaltybar.ch
 loyaltycard.ch
 loyaltyforum.ch

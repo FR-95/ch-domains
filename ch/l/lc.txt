@@ -235,10 +235,12 @@ lcdi.ch
 lcdigital.ch
 lcdj.ch
 lcdlc.ch
+lcdm-standard.ch
 lcdm.ch
 lcdm200e.ch
 lcdmhub.ch
 lcdmonitore.ch
+lcdmstandard.ch
 lcdo.ch
 lcdp.ch
 lcdr.ch

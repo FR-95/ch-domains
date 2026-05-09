@@ -162,7 +162,6 @@ hobby-galerie.ch
 hobby-garten.ch
 hobby-go.ch
 hobby-goldwaschen.ch
-hobby-golfer-marcel.ch
 hobby-haus.ch
 hobby-heimberg.ch
 hobby-horse.ch
@@ -608,6 +607,7 @@ hochautomobile.ch
 hochautomobileag.ch
 hochbau-atelier.ch
 hochbau-hoesli.ch
+hochbau-lohn.ch
 hochbau-management.ch
 hochbau-tiefbau.ch
 hochbau-zeichner.ch
@@ -1753,7 +1753,6 @@ hochzeitsanzug-zurich.ch
 hochzeitsapero.ch
 hochzeitsaperos.ch
 hochzeitsartikel.ch
-hochzeitsaufnahmen.ch
 hochzeitsausstellung.ch
 hochzeitsauto-mieten-schweiz.ch
 hochzeitsauto-mieten.ch
@@ -3026,7 +3025,6 @@ hoehere-fachschule-wirtschaft-bern.ch
 hoehere-fachschule.ch
 hoehere-fachschulen-zug.ch
 hoehere-fachschulen.ch
-hoehere-gewalt.ch
 hoehere-praemien.ch
 hoehere-steuern-nein.ch
 hoehereberufsbildung.ch
@@ -8326,6 +8324,7 @@ holz-liebhaber.ch
 holz-lokal.ch
 holz-macht-stolz.ch
 holz-mann.ch
+holz-manufaktur.ch
 holz-massiv.ch
 holz-maxx.ch
 holz-membranbau.ch
@@ -11869,6 +11868,7 @@ homefitness-deluxe.ch
 homefitness.ch
 homefitnow.ch
 homefittery.ch
+homefix-bau.ch
 homefix-gmbh.ch
 homefix-gva.ch
 homefix-line.ch
@@ -12305,6 +12305,7 @@ homeofbeachbern.ch
 homeofbeauty-slaedeliundtakeaway.ch
 homeofbeyza.ch
 homeofblockchain.ch
+homeofboxing.ch
 homeofbuddha.ch
 homeofcars.ch
 homeofcats.ch
@@ -14152,6 +14153,7 @@ hongkongdragon.ch
 hongkongfoodparadise.ch
 hongkongfoodparadisevertex.ch
 hongkonghomes.ch
+hongkongpalace.ch
 hongler-beratung.ch
 hongler-boden.ch
 hongler-kerzen.ch
@@ -15524,6 +15526,7 @@ horaedor.ch
 horaeskenderbeut.ch
 horafugit.ch
 horag.ch
+horage.ch
 horah.ch
 horaholding.ch
 horai.ch
@@ -15620,6 +15623,7 @@ horburg-dreirosen.ch
 horburg.ch
 horburgdreirosen.ch
 horburgschlurbi.ch
+horch.ch
 horchental.ch
 horcher.ch
 horchester.ch
@@ -15759,7 +15763,6 @@ hori-tool.ch
 hori-tools.ch
 hori-trans.ch
 hori.ch
-hori7on.ch
 horia.ch
 horiba.ch
 horibe-ag.ch
@@ -17647,7 +17650,6 @@ hospitalitybooster.ch
 hospitalitycamp-schweiz.ch
 hospitalitycamp.ch
 hospitalitycockpit.ch
-hospitalitycolleges.ch
 hospitalityconcept.ch
 hospitalityconnect.ch
 hospitalityconnectstore.ch
@@ -17746,7 +17748,6 @@ hospiz.ch
 hospizaargau.ch
 hospizbern.ch
 hospizdienst-thurgau.ch
-hospizdienst.ch
 hospizdienstvorderland.ch
 hospizdienstvorderlandar.ch
 hospize-schweiz.ch
@@ -21556,7 +21557,6 @@ hotelmallorca.ch
 hotelmama.ch
 hotelmamafertigschluss.ch
 hotelmamazermatt.ch
-hotelmanagement.ch
 hotelmanagementschool.ch
 hotelmanagementsuisse.ch
 hotelmanager.ch
@@ -23325,7 +23325,6 @@ house-of-academies.ch
 house-of-barf.ch
 house-of-beauty.ch
 house-of-brands.ch
-house-of-cards.ch
 house-of-chess.ch
 house-of-chi.ch
 house-of-coaching.ch

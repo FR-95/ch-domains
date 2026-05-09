@@ -57,6 +57,7 @@ ap-fitness.ch
 ap-foundation.ch
 ap-gebaeudereinigung.ch
 ap-gebaudetechnik.ch
+ap-gesundheitspraxis.ch
 ap-gewindefahrwerk.ch
 ap-group.ch
 ap-h.ch
@@ -1485,7 +1486,6 @@ apfahrwerke.ch
 apfc.ch
 apfch.ch
 apfedpol-spc.ch
-apfedpol.ch
 apfeff.ch
 apfel-allegra.ch
 apfel-car.ch
@@ -2228,6 +2228,7 @@ apiyo.ch
 apiz.ch
 apizerp.ch
 apizsolutions.ch
+apizz.ch
 apizzashop.ch
 apj-scc.ch
 apj.ch
@@ -2441,7 +2442,6 @@ apm-balance.ch
 apm-behandlung.ch
 apm-bern.ch
 apm-brugger.ch
-apm-buchs.ch
 apm-coaching.ch
 apm-egger.ch
 apm-endometriose.ch
@@ -2586,7 +2586,6 @@ apnee.ch
 apneedusommeil.ch
 apneeinfo.ch
 apneos.ch
-apnet.ch
 apnettoyage.ch
 apnetzbau.ch
 apnex.ch
@@ -4536,7 +4535,6 @@ appenzell-cola.ch
 appenzell-druckerei.ch
 appenzell-ei.ch
 appenzell-erholen.ch
-appenzell-erleben.ch
 appenzell-events.ch
 appenzell-faessler.ch
 appenzell-ferien.ch

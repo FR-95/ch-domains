@@ -2108,6 +2108,7 @@ gaeu-naehatelier.ch
 gaeu-tourismus.ch
 gaeu-travel.ch
 gaeu.ch
+gaeuanzeiger.ch
 gaeuautomobile.ch
 gaeuautomobile24.ch
 gaeubricks.ch
@@ -5861,6 +5862,7 @@ gamlocationvans.ch
 gamm.ch
 gamma-apart.ch
 gamma-art.ch
+gamma-artworks.ch
 gamma-autotechnik.ch
 gamma-bau.ch
 gamma-bauunternehmung.ch
@@ -6285,7 +6287,6 @@ gandin.ch
 gandini.ch
 gandit.ch
 ganditest.ch
-gandiva.ch
 gandiwoods.ch
 gandke.ch
 gandl.ch
@@ -8507,14 +8508,12 @@ garage-ryser.ch
 garage-sacconi.ch
 garage-sadiku.ch
 garage-safari.ch
-garage-safi.ch
 garage-sale.ch
 garage-salento.ch
 garage-saltina.ch
 garage-salvenmoser.ch
 garage-sam.ch
 garage-saner.ch
-garage-sanz.ch
 garage-saugy.ch
 garage-sauvain.ch
 garage-savoldi.ch
@@ -10524,7 +10523,6 @@ garanta-group.ch
 garanta-insurance.ch
 garanta.ch
 garante-svizzero.ch
-garantell.ch
 garantex.ch
 garantfinanz.ch
 garantglass.ch
@@ -12124,7 +12122,6 @@ gartenbau-frauenfeld.ch
 gartenbau-frey.ch
 gartenbau-friedrich.ch
 gartenbau-froehlich.ch
-gartenbau-fuhrer.ch
 gartenbau-gaehler.ch
 gartenbau-gaertner.ch
 gartenbau-gais.ch
@@ -13465,7 +13462,6 @@ gartenzwergin.ch
 gartenzwergli.ch
 gartenzwergshop.ch
 garteoo.ch
-gartepilzli.ch
 garterra.ch
 gartertoss.ch
 garteschluchbier.ch
@@ -17749,6 +17745,7 @@ gazabier.ch
 gazachildrenshelp.ch
 gazahelp.ch
 gazai.ch
+gazal.ch
 gazan.ch
 gazavenir.ch
 gazawi.ch

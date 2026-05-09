@@ -4123,7 +4123,6 @@ micromodul8.ch
 micromoney.ch
 micromotion.ch
 micromotor.ch
-micromove.ch
 micromusee.ch
 micromusic.ch
 micromx.ch
@@ -4746,6 +4745,7 @@ midfar.ch
 midfield.ch
 midfinance.ch
 midflorida.ch
+midgard-gartenbau.ch
 midgard-pictures.ch
 midgard.ch
 midgardkapital.ch
@@ -5727,9 +5727,7 @@ mieteranfragen.ch
 mieteranwaelte.ch
 mieteranwalt.ch
 mieterauktion.ch
-mieterausbau.ch
 mieterauskunft.ch
-mieterbau.ch
 mieterbefragung.ch
 mieterberatung.ch
 mieterbetreuung.ch
@@ -5837,7 +5835,6 @@ mietervergleich.ch
 mieterverwaltung.ch
 mieterwarteliste.ch
 mieterwechsel-service.ch
-mieterwechsel.ch
 mieterwincasa.ch
 mietery.ch
 mieterzentrum.ch
@@ -6045,7 +6042,6 @@ mietmotorradschweiz.ch
 mietmulde.ch
 mietmy.ch
 mietnachlass.ch
-mietnebenkosten.ch
 mietnetz.ch
 mietnetze.ch
 mietnomaden-stop.ch
@@ -6362,7 +6358,6 @@ mietzimmer.ch
 mietzins-auktion.ch
 mietzins-check.ch
 mietzins-depot.ch
-mietzins-kaution.ch
 mietzins-reduktion.ch
 mietzins-reduzieren.ch
 mietzins-senken.ch
@@ -6379,11 +6374,8 @@ mietzinsdeckel-nein.ch
 mietzinsdepot-versicherung.ch
 mietzinsdepot.ch
 mietzinsdepotversicherung.ch
-mietzinse.ch
-mietzinserhoehung.ch
 mietzinsgarantie.ch
 mietzinsherabsetzung.ch
-mietzinshinterlegung.ch
 mietzinsinkasso.ch
 mietzinskaution.ch
 mietzinskautionsversicherung.ch
@@ -6391,7 +6383,6 @@ mietzinslimite.ch
 mietzinslimiten.ch
 mietzinsrechner.ch
 mietzinsreduktion-schweiz.ch
-mietzinsreduktion.ch
 mietzinsrichtlinien.ch
 mietzinssenken.ch
 mietzinssenker.ch
@@ -8916,6 +8907,7 @@ milanofashion-boutique.ch
 milanofashion.ch
 milanoo.ch
 milanoor.ch
+milanopen.ch
 milanopizza.ch
 milanoptics.ch
 milanos-pizza-lausanne.ch
@@ -9634,12 +9626,10 @@ milielocation.ch
 milieme.ch
 milient.ch
 milientsoftware.ch
-milieu-anwalt.ch
 milieu-pictures.ch
 milieu-virago.ch
 milieu.ch
 milieu44.ch
-milieuanwalt.ch
 milieudumonde.ch
 milieugrotesque.ch
 milieupictures.ch
@@ -10975,6 +10965,7 @@ mimi-love.ch
 mimi-mi.ch
 mimi-minceur.ch
 mimi-polo.ch
+mimi-rocca.ch
 mimi-sa.ch
 mimi-shop.ch
 mimi-wawa.ch
@@ -11062,6 +11053,7 @@ mimirennhard.ch
 mimiri.ch
 mimirlearning.ch
 mimiro.ch
+mimirocca.ch
 mimirosa.ch
 mimirun.ch
 mimis-beauty-dogs.ch
@@ -11344,7 +11336,6 @@ minant.ch
 minanus.ch
 minaperhonen.ch
 minaponik.ch
-minar.ch
 minara.ch
 minaranaturefoundation.ch
 minaraphotography.ch
@@ -11396,9 +11387,11 @@ minatoaqua.ch
 minatol.ch
 minatolwerke.ch
 minatrans.ch
+minatzca.ch
 minaule.ch
 minauto.ch
 minautor.ch
+minavitalite.ch
 minavo.ch
 minawalken.ch
 minax.ch
@@ -15667,7 +15660,6 @@ minute.ch
 minute21.ch
 minutebot.ch
 minutebusiness.ch
-minuteclinic.ch
 minutecook.ch
 minutecsa.ch
 minutecto.ch
@@ -20046,6 +20038,8 @@ mitarte.ch
 mitashop.ch
 mitasu.ch
 mitaufwind.ch
+mitavo.ch
+mitawo.ch
 mitax.ch
 mitbauchundseele.ch
 mitbauer.ch
@@ -21654,6 +21648,7 @@ mivona-translations.ch
 mivopod.ch
 mivor.ch
 mivora.ch
+mivox.ch
 mivp.ch
 mivro.ch
 mivu.ch
@@ -21700,6 +21695,7 @@ miworec.ch
 miwork.ch
 miworks.ch
 miwow.ch
+miwox.ch
 miwula.ch
 miwutec.ch
 miwutech.ch

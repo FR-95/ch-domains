@@ -235,6 +235,7 @@ sc-seebach.ch
 sc-seelisberg.ch
 sc-sektor-m.ch
 sc-sennwald.ch
+sc-serv.ch
 sc-service.ch
 sc-services.ch
 sc-sf.ch
@@ -375,7 +376,6 @@ scadadefender.ch
 scadasecurity.ch
 scadasoft.ch
 scadena.ch
-scadit.ch
 scadligenswil.ch
 scadox.ch
 scads.ch
@@ -1220,6 +1220,7 @@ scanoffice.ch
 scanomat.ch
 scanomise.ch
 scanon.ch
+scanone.ch
 scanor.ch
 scanory.ch
 scanpan.ch
@@ -2333,6 +2334,7 @@ schach-thurgau.ch
 schach-thusis.ch
 schach-trainer.ch
 schach-training.ch
+schach-weinfelden.ch
 schach.ch
 schach1x1.ch
 schach64.ch
@@ -2461,6 +2463,7 @@ schachmanuellernen.ch
 schachmatt.ch
 schachmattvier.ch
 schachmethodenkoffer.ch
+schachmuehle.ch
 schachmuseum.ch
 schachnaechtler-zunft.ch
 schachniederamt.ch
@@ -6238,6 +6241,7 @@ schenevey-peinture.ch
 schenevey.ch
 schengen-for-you.ch
 schengen-ja.ch
+schengen-nein.ch
 schengen-oui.ch
 schengen-si.ch
 schengen-visa.ch
@@ -7216,6 +7220,7 @@ schichtplaner.ch
 schichtplanner.ch
 schichtplanung-schweiz.ch
 schichtplanung.ch
+schichtpro.ch
 schichtstoff.ch
 schichtstoffplatten.ch
 schichtuntersuchung.ch
@@ -8300,6 +8305,7 @@ schiltebanner.ch
 schiltelektro.ch
 schilten.ch
 schiltenhof.ch
+schilteober.ch
 schilter-bar.ch
 schilter-beratungen.ch
 schilter-gebaeudehuelle.ch
@@ -8972,6 +8978,7 @@ schlachthaustheater.ch
 schlachthaustheaterbern.ch
 schlachthof-areal.ch
 schlachthof-kulturzentrum.ch
+schlachthof-letzigrund.ch
 schlachthof.ch
 schlachthofareal.ch
 schlachthofbiel.ch
@@ -9205,16 +9212,11 @@ schlafbeschwerden.ch
 schlafbett.ch
 schlafblog.ch
 schlafbus.ch
-schlafcenter-basel.ch
-schlafcenter-bern.ch
 schlafcenter-luzern.ch
 schlafcenter-neuenkirch.ch
 schlafcenter-outlet.ch
 schlafcenter-wil.ch
-schlafcenter-zueri.ch
-schlafcenter-zuerich.ch
 schlafcenter-zueriunterland.ch
-schlafcenter-zug.ch
 schlafcenter.ch
 schlafcenterbasel.ch
 schlafcenterottenbach.ch
@@ -9261,7 +9263,6 @@ schlafen-im-stroh.ch
 schlafen-ist-zeitverschwendung.ch
 schlafen-nach-mass.ch
 schlafen-ohne-schnarchen.ch
-schlafen-zueri.ch
 schlafen-zuerich.ch
 schlafen-zur-brauerei.ch
 schlafen.ch
@@ -9756,6 +9757,7 @@ schlagerlovestories.ch
 schlagerlovestory.ch
 schlagerlovestorys.ch
 schlagermachtspass.ch
+schlagermagazinhitparade.ch
 schlagermais.ch
 schlagermania.ch
 schlagermartin.ch
@@ -10486,6 +10488,7 @@ schleifservice-schweiz.ch
 schleifservice-suisse.ch
 schleifservice-swiss.ch
 schleifservice.ch
+schleifservicerentsch.ch
 schleifshop.ch
 schleifsitec.ch
 schleifstein.ch
@@ -11457,7 +11460,6 @@ schlossereinaegelin.ch
 schlossereipauli.ch
 schlossereirupp.ch
 schlossereistark.ch
-schlossereizubehoer.ch
 schlossergaessli.ch
 schlossergasse.ch
 schlosserhof.ch
@@ -15062,7 +15064,6 @@ schmunzel-zwaergli.ch
 schmunzel.ch
 schmunzelgarantie.ch
 schmunzelpop.ch
-schmunzels.ch
 schmunzli.ch
 schmupp.ch
 schmuse-akademie.ch
@@ -15909,6 +15910,7 @@ schneetoni.ch
 schneetouren.ch
 schneetourenbus.ch
 schneetraum.ch
+schneeundsee.ch
 schneevelo.ch
 schneevogul.ch
 schneewaage.ch
@@ -17199,12 +17201,14 @@ schnittwerkstatt.ch
 schnittwerkthun.ch
 schnittwinkel.ch
 schnittzeichen.ch
+schnitz-auge.ch
 schnitz-schnaetz.ch
 schnitz-und-gwunder.ch
 schnitz.ch
 schnitza.ch
 schnitzarbeiten.ch
 schnitzatelier.ch
+schnitzauge.ch
 schnitzbedarf.ch
 schnitzburg.ch
 schnitzclub.ch
@@ -17448,6 +17452,7 @@ schnuggeline.ch
 schnuggi.ch
 schnugi.ch
 schnugo.ch
+schnuiz.ch
 schnukk.ch
 schnukki.ch
 schnuller-alarm.ch
@@ -19525,7 +19530,6 @@ schoolroulette.ch
 schools.ch
 schoolsabroad.ch
 schoolscout.ch
-schoolsear.ch
 schoolshop.ch
 schoolsininformationsociety.ch
 schoolspace.ch
@@ -19933,6 +19937,7 @@ schragisch.ch
 schrago-law.ch
 schrago.ch
 schrags.ch
+schraitle.ch
 schraivogel.ch
 schram.ch
 schramboeck.ch
@@ -20553,9 +20558,11 @@ schreibunterlage.ch
 schreibunterlagen.ch
 schreibvision24.ch
 schreibwandern.ch
+schreibwaren-profi.ch
 schreibwaren.ch
 schreibwarengeschaeft.ch
 schreibwarenhaendler.ch
+schreibwarenprofi.ch
 schreibweg.ch
 schreibweis.ch
 schreibweise.ch
@@ -22539,6 +22546,7 @@ schueggu.ch
 schuegler.ch
 schuegu.ch
 schuegueband.ch
+schuehkiste-schwiiz.ch
 schuehle.ch
 schueho.ch
 schuehschachtle.ch
@@ -26890,6 +26898,7 @@ schussfreude.ch
 schusshilfe.ch
 schusswaffen.ch
 schuster-barnes.ch
+schuster-capital.ch
 schuster-coaching.ch
 schuster-converge.ch
 schuster-design.ch
@@ -26900,6 +26909,7 @@ schuster-sgag.ch
 schuster.ch
 schuster1795.ch
 schuster24.ch
+schustercapital.ch
 schustereder.ch
 schusterei.ch
 schusterjunge.ch
@@ -27114,6 +27124,7 @@ schutzpolizei.ch
 schutzprodukte.ch
 schutzprofi.ch
 schutzprofis.ch
+schutzraeume.ch
 schutzraum-check.ch
 schutzraum-kontrolle.ch
 schutzraum-kontrollen.ch
@@ -28897,6 +28908,7 @@ schweiz-easy-gov.ch
 schweiz-echo.ch
 schweiz-edition.ch
 schweiz-eid.ch
+schweiz-einwandern.ch
 schweiz-eizellspende.ch
 schweiz-elektrizitaet.ch
 schweiz-emobility.ch
@@ -31322,6 +31334,7 @@ schweizerisches-biermuseum.ch
 schweizerisches-handelregister.ch
 schweizerisches-hypnose-institut.ch
 schweizerisches-institut-fuer-judikative.ch
+schweizerisches-institut-lernentwicklung.ch
 schweizerisches-labornetzwerk.ch
 schweizerisches-parkinsonzentrum.ch
 schweizerisches-register-der-urkundspersonen.ch
@@ -31421,8 +31434,11 @@ schweizerkrankenversicherungen.ch
 schweizerkrawatte.ch
 schweizerkrebsinstitut.ch
 schweizerkredit.ch
+schweizerkreditberater.ch
 schweizerkredite.ch
 schweizerkreditnews.ch
+schweizerkreditportal.ch
+schweizerkreditservice.ch
 schweizerkreuz-t-shirt.ch
 schweizerkreuz-tshirt.ch
 schweizerkreuz.ch
@@ -34797,6 +34813,7 @@ scizino.ch
 scj.ch
 scjb.ch
 scjewels.ch
+scjobs.ch
 scjohnson.ch
 scjp.ch
 sck-rahn.ch
@@ -36634,6 +36651,7 @@ scriptexchange.ch
 scriptgod.ch
 scripthouse.ch
 scripticon.ch
+scripticus.ch
 scriptingframework.ch
 scriptis.ch
 scriptit.ch
@@ -36989,7 +37007,6 @@ scsteinegg.ch
 scsteinen.ch
 scsteinhausen.ch
 scstelz.ch
-scsternen.ch
 scstest.ch
 scstiftung.ch
 scstm.ch

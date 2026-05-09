@@ -1593,6 +1593,7 @@ la-table-du-raisin.ch
 la-table-ronde.ch
 la-table.ch
 la-talina.ch
+la-taniere-du-gout.ch
 la-taniere.ch
 la-tanzschule.ch
 la-taqueria.ch
@@ -1778,7 +1779,6 @@ la-violetta.ch
 la-virgule.ch
 la-vision-du-futur.ch
 la-vista.ch
-la-vita-mia.ch
 la-vita.ch
 la-vitaverde.ch
 la-vitrerie.ch
@@ -3332,7 +3332,6 @@ labor-kodex.ch
 labor-laupeneck.ch
 labor-lausanne.ch
 labor-law.ch
-labor-lawyers.ch
 labor-ls.ch
 labor-material.ch
 labor-matt.ch
@@ -3790,7 +3789,6 @@ labottegadiscacco.ch
 labottegadivalentina.ch
 labottegaglutenfree.ch
 labottegaitaliana.ch
-labottegamozzafiato.ch
 labottegasecondonatura.ch
 labotteguccia.ch
 labottesecrete.ch
@@ -3844,7 +3842,6 @@ labouquetiere.ch
 labouquetterie.ch
 labour-emigration.ch
 labour-law.ch
-labour-lawyers.ch
 labour-swiss.ch
 labour-time.ch
 labour.ch
@@ -4224,7 +4221,6 @@ labubuland.ch
 labubulux.ch
 labubuluxe.ch
 labubupuppen.ch
-labubus.ch
 labubuschweiz.ch
 labucca-uri.ch
 labucca.ch
@@ -5052,7 +5048,6 @@ lachen-hilft.ch
 lachen-im-alltag.ch
 lachen-im-park.ch
 lachen-lebtundleuchtet.ch
-lachen-online.ch
 lachen-pirates.ch
 lachen-supermarkt.ch
 lachen-und-lernen.ch
@@ -7054,7 +7049,6 @@ ladyboxing.ch
 ladyboy.ch
 ladyboys.ch
 ladybra.ch
-ladybrok.ch
 ladybrows.ch
 ladybug-it.ch
 ladybug.ch
@@ -8825,6 +8819,7 @@ lagerarbeit.ch
 lagerartikel.ch
 lagerausverkauf.ch
 lagerautomat.ch
+lagerbank.ch
 lagerbasel.ch
 lagerbedarf24.ch
 lagerbeer.ch
@@ -9032,6 +9027,7 @@ lagerregalinspektion.ch
 lagerregalsysteme.ch
 lagerruum.ch
 lagerscout.ch
+lagerscout24.ch
 lagerservice.ch
 lagershirts.ch
 lagersoft.ch
@@ -10197,7 +10193,6 @@ lajulie.ch
 lajulienne.ch
 lajura.ch
 lajuracime.ch
-lajurasienne.ch
 lajurassienne.ch
 lajuriste.ch
 lajuva4.ch
@@ -11845,7 +11840,6 @@ lamarendaz.ch
 lamargna.ch
 lamarguerite.ch
 lamari.ch
-lamarie.ch
 lamariee-suisse.ch
 lamariee.ch
 lamarieesuisse.ch
@@ -13702,7 +13696,6 @@ landesfanfarenzug-mecklenburg-vorpommern.ch
 landesgartenschau.ch
 landesgebet.ch
 landesgemeinde.ch
-landesgeschichte.ch
 landeshydrologie.ch
 landeshymne-in-gerechter-sprache.ch
 landeshymne.ch
@@ -15058,6 +15051,7 @@ landsiedel.ch
 landsign.ch
 landsitz.ch
 landsitzbruennen.ch
+landsitzwild.ch
 landskap.ch
 landskape.ch
 landskip.ch
@@ -17286,7 +17280,6 @@ lapausebeaute.ch
 lapausegourmande.ch
 lapauseinfusee.ch
 lapauw.ch
-lapavoni.ch
 lapawtisserie.ch
 lapaz.ch
 lapb.ch
@@ -18653,6 +18646,7 @@ larecolte.ch
 larecre-tearoom.ch
 larecre.ch
 larecreparentale.ch
+larecupfr.ch
 larecupvs.ch
 lared-fribourg.ch
 lared.ch
@@ -20448,12 +20442,10 @@ lasercraft.ch
 lasercreations.ch
 lasercreator.ch
 lasercut-ag.ch
-lasercut-center.ch
 lasercut-shop.ch
 lasercut-solution.ch
 lasercut.ch
 lasercutag.ch
-lasercutcenter.ch
 lasercutteninderschule.ch
 lasercutter.ch
 lasercutting.ch
@@ -20624,6 +20616,7 @@ laserhub.ch
 laserhuesi.ch
 laseria.ch
 laseriea.ch
+laserimb.ch
 laserin.ch
 laserina.ch
 laserine.ch
@@ -23804,7 +23797,6 @@ laufenplatz.ch
 laufenstrasse-dietschwil.ch
 laufenstrasse.ch
 laufental-bl.ch
-laufental-garage.ch
 laufental-luetzeltal.ch
 laufental.ch
 laufental24.ch
@@ -24521,7 +24513,6 @@ laurakeller-freiberuflichepflege.ch
 laurakeller.ch
 laurakent.ch
 laurakerr.ch
-laurakiona.ch
 laurakirchhofer.ch
 laurakirstineschwarz.ch
 laurakissling.ch
@@ -25866,7 +25857,6 @@ lautundleiser.ch
 lautundlive.ch
 lautundluise.ch
 lautundspitz.ch
-lautwerk.ch
 lauven.ch
 lauver.ch
 lauverdain.ch
@@ -26232,7 +26222,6 @@ lavauxgestion.ch
 lavauxguides.ch
 lavauxlab.ch
 lavauxladiesopen.ch
-lavauxlocation.ch
 lavauxlodge.ch
 lavauxmusicprod.ch
 lavauxoron.ch
@@ -27521,6 +27510,7 @@ lawyer-poland.ch
 lawyer-saint-gall.ch
 lawyer-swiss.ch
 lawyer-switzerland.ch
+lawyer-up.ch
 lawyer-wil.ch
 lawyer-winterthur.ch
 lawyer-zug.ch

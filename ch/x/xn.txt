@@ -120,7 +120,6 @@ xn--3b-bnzigerbauberatung-81b.ch
 xn--3d-druck-brse-rmb.ch
 xn--3d-druckauftrge-dlb.ch
 xn--3d-frsen-4za.ch
-xn--3d-plne-9wa.ch
 xn--3d-schlssel-druck-82b.ch
 xn--3d-schlssel-drucken-cbc.ch
 xn--3d-schlssel-schutz-s6b.ch
@@ -3063,10 +3062,8 @@ xn--badhsli-q2a.ch
 xn--badi-geri-z2a.ch
 xn--badi-ltzelsee-1ob.ch
 xn--badi-mwi-s4a.ch
-xn--badi-schmerk-rcb.ch
 xn--badi-wdi-5za.ch
 xn--badirti-r2a.ch
-xn--badischmerk-v8a.ch
 xn--badiwgeli-z2a.ch
 xn--badkche-q2a.ch
 xn--badmbel-basel-lmb.ch
@@ -4151,7 +4148,6 @@ xn--belftung-85a.ch
 xn--belftungssysteme-lzb.ch
 xn--belftungstechnik-lzb.ch
 xn--belgass-n2a.ch
-xn--belgische-schferhunde-i2b.ch
 xn--belgischerschfer-7nb.ch
 xn--belhal-8ya.ch
 xn--belhart-m2a.ch
@@ -10589,7 +10585,6 @@ xn--coiffeurstbli-rmb.ch
 xn--coiffeurwdenswil-3nb.ch
 xn--coiffeurzri-1hb.ch
 xn--coiffeurzrich-4ob.ch
-xn--coiffhrsalon-9ib.ch
 xn--coiffr-0xa.ch
 xn--coiffure-atmosphre-6vb.ch
 xn--coiffure-crative-lqb.ch
@@ -11040,6 +11035,7 @@ xn--croisires-53a.ch
 xn--croisires24-39a.ch
 xn--croisiresfluviales-wvb.ch
 xn--croixfdralecorban-gtbb.ch
+xn--crossfit-wdenswil-zqb.ch
 xn--crossfit-zrich-psb.ch
 xn--crossfitlgere-jfb.ch
 xn--crossfitzrcheroberland-0lc.ch
@@ -11153,6 +11149,7 @@ xn--d-bus-gra.ch
 xn--d-d-hoac.ch
 xn--d-dmscht-0za6v.ch
 xn--d-frst-5ya.ch
+xn--d-gang-go-v2a.ch
 xn--d-gin-gra.ch
 xn--d-john-bua.ch
 xn--d-lpler-6wa.ch
@@ -11180,6 +11177,7 @@ xn--dachfenster-zrich-f3b.ch
 xn--dachfensterzubehr-f0b.ch
 xn--dachflchen-fenster-qtb.ch
 xn--dachflchenfenster-vqb.ch
+xn--dachgemse-w9a.ch
 xn--dachgepcktrger-cibe.ch
 xn--dachrand-gelnder-6nb.ch
 xn--dachrandgelnder-blb.ch
@@ -11875,8 +11873,6 @@ xn--dermatologie-luzern-sd-dmc.ch
 xn--dermatologie-rmerhof-hbc.ch
 xn--dermatologie-stfa-4qb.ch
 xn--dermatologie-tndury-36b.ch
-xn--dermatologie-winterthur-zrich-9bd.ch
-xn--dermatologie-zrich-winterthur-ybd.ch
 xn--dermatologie-zrich-z6b.ch
 xn--dermatologieamrmerhof-vec.ch
 xn--dermatologieklinikzrich-upc.ch
@@ -12036,6 +12032,7 @@ xn--dfisduniremont-bkb.ch
 xn--dfitechnique-beb.ch
 xn--dfte-0ra.ch
 xn--dftli-kva.ch
+xn--dgango-bua.ch
 xn--dgat-eau-b1a.ch
 xn--dgats-eau-b4a.ch
 xn--dgdrcktechnik-zob.ch
@@ -17695,6 +17692,7 @@ xn--frdergelder-wrmepumpe-i2b51b.ch
 xn--frderketten-rfb.ch
 xn--frderkreis-thr-vpb.ch
 xn--frderkreisthr-imb.ch
+xn--frderkurse-ecb.ch
 xn--frderlabor-ecb.ch
 xn--frdermanagement-8sb.ch
 xn--frdermaterial-imb.ch
@@ -19307,6 +19305,7 @@ xn--gebudeprogramm-7hb.ch
 xn--gebuderckbau-icb45a.ch
 xn--gebudereiniger-7hb.ch
 xn--gebudereinigung-2kb.ch
+xn--gebudereinigung-belkizeademi-7mc.ch
 xn--gebudereinigung-bern-dzb.ch
 xn--gebudereinigung-jasari-24b.ch
 xn--gebudereinigung-kastag-24b.ch
@@ -20138,6 +20137,7 @@ xn--geschftsportrait-znb.ch
 xn--geschftsprozess-4kb.ch
 xn--geschftsprozess-roboter-z7b.ch
 xn--geschftsprozesse-znb.ch
+xn--geschftsreise-ffb.ch
 xn--geschftsreisen-9hb.ch
 xn--geschftsrumung-9hbe.ch
 xn--geschftssoftware-znb.ch
@@ -20607,7 +20607,6 @@ xn--giesserei-rlikon-vwb.ch
 xn--giessereirlikon-htb.ch
 xn--giessharzmbel-rmb.ch
 xn--giessifscht-r8a.ch
-xn--gif-vermgen-yfb.ch
 xn--giferltsch-chuchi-vqb05a.ch
 xn--giftgrn-s2a.ch
 xn--gifthttli-u9a.ch
@@ -21004,7 +21003,6 @@ xn--glcksorientiert-0vb.ch
 xn--glckspelz-17a.ch
 xn--glckspelz-r9a.ch
 xn--glcksperlen-uhb.ch
-xn--glckspferd-beb.ch
 xn--glckspfote-beb.ch
 xn--glckspfoten-uhb.ch
 xn--glckspiel-r9a.ch
@@ -23669,7 +23667,6 @@ xn--hanneshnggi-r8a.ch
 xn--hannespschel-jlb.ch
 xn--hannislbergmacht-0nb.ch
 xn--hans-brge-v9a.ch
-xn--hans-hrlimann-1ob.ch
 xn--hans-im-glck-mlb.ch
 xn--hans-jrg-c6a.ch
 xn--hans-jrg-s4a.ch
@@ -24002,17 +23999,13 @@ xn--hauszumlwen-yfb.ch
 xn--haut-got-35a.ch
 xn--haut-rztin-u5a.ch
 xn--haut-und-ernhrung-1qb.ch
-xn--haut-winterthur-zrich-pic.ch
 xn--haut-zentrum-zrich-z6b.ch
 xn--haut-zrich-feb.ch
-xn--haut-zrich-winterthur-eic.ch
 xn--hautarzt-brenplatz-bern-47b.ch
 xn--hautarzt-brenplatz-utb.ch
 xn--hautarzt-dbendorf-c3b.ch
-xn--hautarzt-winterthur-zrich-zwc.ch
 xn--hautarzt-zrich-altstetten-owc.ch
 xn--hautarzt-zrich-psb.ch
-xn--hautarzt-zrich-winterthur-owc.ch
 xn--hautarztpraxis-kssnacht-rpc.ch
 xn--hautarztzrich-4ob.ch
 xn--hautausschlge-lfb.ch
@@ -24026,10 +24019,7 @@ xn--hautglck-c6a.ch
 xn--hautimglck-heb.ch
 xn--hautkrebs-prvention-rwb.ch
 xn--hautpraxis-zrich-uzb.ch
-xn--hautrtze-zrich-8hb40b.ch
 xn--hautrzte-3za.ch
-xn--hautrzte-winterthur-zrich-oec97d.ch
-xn--hautrzte-zrich-winterthur-oec86d.ch
 xn--hautrzte-zuerich-ynb.ch
 xn--hautrztezrich-efb97a.ch
 xn--hautrztezuerich-3kb.ch
@@ -27198,6 +27188,7 @@ xn--ig-bnd-eua.ch
 xn--ig-bootspltze2575-zqb.ch
 xn--ig-feuerwehrsanitt-1tb.ch
 xn--ig-gesundelebensrume-rzb.ch
+xn--ig-homopathie-nmb.ch
 xn--ig-hrakustik-7ib.ch
 xn--ig-lebensqualitt-9nb.ch
 xn--ig-ltten-3za.ch
@@ -31098,7 +31089,6 @@ xn--ko-service-dcb.ch
 xn--ko-shop-80a.ch
 xn--ko-stahl-m4a.ch
 xn--ko-strom-m4a.ch
-xn--ko-suisse-z7a.ch
 xn--ko-swiss-m4a.ch
 xn--ko-takeaway-verpackungen-koc.ch
 xn--ko-tante-m4a.ch
@@ -31166,7 +31156,6 @@ xn--kochtpfe-r4a.ch
 xn--kochtpfli-47a.ch
 xn--kochvorfhrung-3ob.ch
 xn--kochwrchstatt-ffb.ch
-xn--kochwrkstatt-kcb.ch
 xn--kochwrme-4za.ch
 xn--koclean-80a.ch
 xn--kocup-iua.ch
@@ -31466,6 +31455,7 @@ xn--korkbden-r4a.ch
 xn--korki-drrensch-gib39a.ch
 xn--korn-chs-6za.ch
 xn--korneliafrhlich-itb.ch
+xn--kornelialdorff-osb.ch
 xn--korngrssenverteilung-89b.ch
 xn--kornhausbrcke-5ob.ch
 xn--kornhausbru-u8a.ch
@@ -32090,6 +32080,7 @@ xn--krtze-hra.ch
 xn--kruchi-areal-hcb.ch
 xn--kruchi-cua.ch
 xn--kruchi-reinigung-wnb.ch
+xn--kruliger-1za.ch
 xn--kruter-akademie-1kb.ch
 xn--kruter-atelier-6hb.ch
 xn--kruter-bio-r5a.ch
@@ -34024,7 +34015,6 @@ xn--lifefitwdenswil-7kb.ch
 xn--lifefitwdi-x5a.ch
 xn--lifefitwdi24-ncb.ch
 xn--lifestyle-zrich-9vb.ch
-xn--lifesupportbymichle-6yb.ch
 xn--lift-knig-57a.ch
 xn--liftberatung-brtschi-ozb.ch
 xn--liftknig-r4a.ch
@@ -34998,7 +34988,6 @@ xn--luginbhlstiftung-ozb.ch
 xn--lugr-noa.ch
 xn--luisazrcher-yhb.ch
 xn--luisortizpatio-2nb.ch
-xn--lukas-ebnther-qmb.ch
 xn--lukas-mller-zhb.ch
 xn--lukasbhler-feb.ch
 xn--lukasbhlmann-ilb.ch
@@ -37192,7 +37181,6 @@ xn--messgertemarkt-cib.ch
 xn--messie-rumen-ncb.ch
 xn--messie-rumung-ifb.ch
 xn--messierumung-mcb.ch
-xn--messierumungaargau-rtb.ch
 xn--messierumungen-cib.ch
 xn--messingbeschlge-dlb.ch
 xn--messmerbrel-1hb.ch
@@ -37813,9 +37801,6 @@ xn--minute-mdiation-inb.ch
 xn--miraclefacerenatafrana-k7b.ch
 xn--miracletouch-renatafrana-iec.ch
 xn--miracletouchrenatafrana-jbc.ch
-xn--miradry-winterthur-zrich-ftc.ch
-xn--miradry-zrich-4ob.ch
-xn--miradry-zrich-winterthur-3sc.ch
 xn--miral-fsa.ch
 xn--mirasol-bachblten-g3b.ch
 xn--mirflltdieseitenichtmehrein-ekc.ch
@@ -38867,7 +38852,6 @@ xn--morgengold-frhstcksdienste-b0cd.ch
 xn--morgensnde-geb.ch
 xn--morgesdbarrasrestauration-hic.ch
 xn--morgestrn-12a.ch
-xn--morina-gewchshausbau-kzb.ch
 xn--moritz-mller-rechtsanwalt-mwc.ch
 xn--moritzbttig-r8a.ch
 xn--moritzhsser-zhb.ch
@@ -39042,7 +39026,6 @@ xn--mrchen-welt-l8a.ch
 xn--mrchen-zauber-bfb.ch
 xn--mrchen-zauberei-0kb.ch
 xn--mrchenatelier-bfb.ch
-xn--mrchenbalsam-gcb.ch
 xn--mrchenbau-v2a.ch
 xn--mrchenbcher-l8a23a.ch
 xn--mrchenbhne-q5a80a.ch
@@ -40316,7 +40299,6 @@ xn--netzwrch-4za.ch
 xn--netzwrker-z2a.ch
 xn--netzwrkstatt-kcb.ch
 xn--neu-in-zrich-klb.ch
-xn--neubau-briswil-dib.ch
 xn--neubau-heizlsung-xwb.ch
 xn--neubauheizlsung-jtb.ch
 xn--neuchtel-assurances-fvb.ch
@@ -40430,6 +40412,7 @@ xn--neutralehrberatung-l3b.ch
 xn--neutralit-j4a.ch
 xn--neutralit-y1a.ch
 xn--neutralitt-fr-den-frieden-tec56d.ch
+xn--neutralitt-initiative-e2b.ch
 xn--neutralitt-y5a.ch
 xn--neutralittfrdenfrieden-84b29c.ch
 xn--neutralitts-initiative-84b.ch
@@ -40732,7 +40715,6 @@ xn--niemertwtdas-cjb.ch
 xn--nierenbeckenentzndung-oic.ch
 xn--nierenentzndung-8vb.ch
 xn--nierenrzte-v5a.ch
-xn--nierensteinzentrum-zrich-ftc.ch
 xn--nierstck-c6a.ch
 xn--niesenlndlers-hfb.ch
 xn--niezuspt-6za.ch
@@ -40958,6 +40940,7 @@ xn--notfallzrich-klb.ch
 xn--notfallzrich3-3ob.ch
 xn--notffnung365-6ib.ch
 xn--notffnungsdienst-owb.ch
+xn--notffnungsfachpartner-jec.ch
 xn--notflle-8wa.ch
 xn--notheflernurfrfrauen-1ec.ch
 xn--nothelfer-blach-9vb.ch
@@ -41095,7 +41078,6 @@ xn--nullachtfnfzehn-7vb.ch
 xn--nullpint-94a.ch
 xn--nullpintx-p8a.ch
 xn--nulltarif-hrgerte-4qb15a.ch
-xn--numriquementvtre-dqb2s.ch
 xn--numrisation-dbb.ch
 xn--numro-magazin-dhb.ch
 xn--numro-sr-d1a8p.ch
@@ -44696,7 +44678,6 @@ xn--puresglck-w9a.ch
 xn--purgrn-gartenservice-tec.ch
 xn--puris-eiscaf-meb.ch
 xn--puriseiscaf-lbb.ch
-xn--pursdtirol-deb.ch
 xn--purundschn-mcb.ch
 xn--purzelchrtli-djb.ch
 xn--puschelglck-1hb.ch
@@ -44984,6 +44965,7 @@ xn--raliser-bya.ch
 xn--rallyedesfes-keb.ch
 xn--rallyedespanthres-5sb.ch
 xn--ralphbrhwiler-2ob.ch
+xn--ralr-sqa.ch
 xn--ramabtiment-sarl-0mb.ch
 xn--rambazamatrppli-9vb.ch
 xn--ramelichlis-zfb.ch
@@ -47127,6 +47109,7 @@ xn--rstprofil-07a.ch
 xn--rstraum-90a.ch
 xn--rstung-3ya.ch
 xn--rstungsreport-wob.ch
+xn--rstzeit-90a.ch
 xn--rstzeug-n2a.ch
 xn--rsu-goa.ch
 xn--rsultat-bya.ch
@@ -52476,7 +52459,6 @@ xn--souvernittstechnologien-07bd.ch
 xn--sovranit-s-o4a0m.ch
 xn--sowiesoundberhaupt-v6b.ch
 xn--soyhires-50a.ch
-xn--sozialarbeit-mandatsfhrung-j0c.ch
 xn--sozialbegleitung-berufsprfung-9bd.ch
 xn--sozialbegleitung-zrich-9lc.ch
 xn--sozialberatung-zrich-4ec.ch
@@ -54228,7 +54210,6 @@ xn--strassenknstler-7vb.ch
 xn--strassenverkehrsamt-blach-zwc.ch
 xn--strassenverkehrsamt-zrich-zwc.ch
 xn--strassezrich-klb.ch
-xn--strategie-und-diversitt-h8b.ch
 xn--strategiegesprch-8nb.ch
 xn--stratgieetperformanceboisson-frc.ch
 xn--stratgienationaledmence-fccn.ch
@@ -54337,6 +54318,7 @@ xn--strmasseurin-5ib.ch
 xn--strmassr-o4af.ch
 xn--strmberg-p4a.ch
 xn--strme-ksnacht-dfb87a.ch
+xn--strme-kua.ch
 xn--strme-lua.ch
 xn--strme-wdenswil-7hbe.ch
 xn--strmechanik-sfb.ch
@@ -55519,6 +55501,7 @@ xn--terassenberdachung-t6b.ch
 xn--terassenmbel-djb.ch
 xn--tercman-q2a.ch
 xn--teresa-ldeli-solothurn-74b.ch
+xn--terminbrse-kcb.ch
 xn--terminusbru-u8a.ch
 xn--terracotta-tpfe-ktb.ch
 xn--terracottatpfe-5pb.ch
@@ -57075,7 +57058,6 @@ xn--trkeireise-9db.ch
 xn--trkeireisen-thb.ch
 xn--trkeiurlaub-thb.ch
 xn--trkenmohn-q9a.ch
-xn--trkgc-kvadb.ch
 xn--trkis-kva.ch
 xn--trkisch-deutsch-zvb.ch
 xn--trkisch-n2a.ch
@@ -57313,7 +57295,6 @@ xn--tsrichind-r9a.ch
 xn--tsrigroup-r9a.ch
 xn--tsrisauce-r9a.ch
 xn--tsritipp-75a.ch
-xn--tss-gruppe-ecb.ch
 xn--tss113-wxa.ch
 xn--tssareal-n4a.ch
 xn--tssbrcken-07a4e.ch
@@ -62232,6 +62213,7 @@ xn--zev-zhler-z2a.ch
 xn--zfin-0ra.ch
 xn--zfrid-kra.ch
 xn--zft-qla.ch
+xn--zg-hnenberg-whb.ch
 xn--zg-xka.ch
 xn--zg-xkaa.ch
 xn--zge-hoa.ch
@@ -63689,7 +63671,6 @@ xn--zridrift-65a.ch
 xn--zrieins-n2a.ch
 xn--zrielektro-9db.ch
 xn--zrievents-q9a.ch
-xn--zriexpress-9db.ch
 xn--zriexpressshop-gsb.ch
 xn--zrifenster-9db.ch
 xn--zrifescht-q9a.ch

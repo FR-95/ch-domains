@@ -31,6 +31,7 @@ cp-consult.ch
 cp-consulting.ch
 cp-controle.ch
 cp-controleoibt.ch
+cp-culinarik.ch
 cp-cv.ch
 cp-design.ch
 cp-elec.ch
@@ -356,7 +357,6 @@ cpexgr.ch
 cpexpl1-1.ch
 cpf-consulting.ch
 cpf-trans.ch
-cpf.ch
 cpfa.ch
 cpfacilityservices.ch
 cpfamily.ch
@@ -675,7 +675,6 @@ cppjoliette.ch
 cppl.ch
 cppm.ch
 cppolice.ch
-cpponteggi.ch
 cpppv.ch
 cppr-nt.ch
 cppren.ch

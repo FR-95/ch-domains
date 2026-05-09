@@ -604,6 +604,7 @@ offerte-kredit.ch
 offerte-lidl.ch
 offerte-malvedere.ch
 offerte-onlineshop.ch
+offerte-profi.ch
 offerte-renault.ch
 offerte-revision.ch
 offerte-sanierung.ch
@@ -1043,6 +1044,7 @@ office360.ch
 office365-backup.ch
 office365-expert.ch
 office365-microsoft.ch
+office365-prosenectute.ch
 office365-schweiz.ch
 office365-suisse.ch
 office365-support.ch
@@ -1494,7 +1496,6 @@ officeumstellung.ch
 officeunddesign.ch
 officeundmanagement.ch
 officeundmehr.ch
-officeunlimited.ch
 officeup.ch
 officev.ch
 officevan.ch
@@ -1604,7 +1605,6 @@ officina-visciani.ch
 officina.ch
 officina103.ch
 officina2000.ch
-officina68.ch
 officina78.ch
 officina989.ch
 officinabosco.ch
@@ -2451,12 +2451,10 @@ ofxb.ch
 ofy.ch
 ofyore.ch
 ofyr-grill.ch
-ofyr-schweiz.ch
 ofyr-shop.ch
 ofyr-trailer.ch
 ofyr.ch
 ofyrgrill.ch
-ofyrschweiz.ch
 ofyrshop.ch
 ofz-online.ch
 ofz.ch

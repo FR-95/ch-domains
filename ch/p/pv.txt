@@ -111,6 +111,7 @@ pv-monitoring.ch
 pv-mont-soleil.ch
 pv-montagesysteme.ch
 pv-montlingen.ch
+pv-montsol.ch
 pv-morges.ch
 pv-navi.ch
 pv-netz.ch
@@ -372,7 +373,6 @@ pvexperten.ch
 pvexpertisen.ch
 pvfc.ch
 pvfedpol-gpb.ch
-pvfedpol.ch
 pvfkitz.ch
 pvfl-hin.ch
 pvflex.ch

@@ -988,6 +988,7 @@ slide-stop.ch
 slide.ch
 slideagentur.ch
 slideart.ch
+slideathome.ch
 slideavenue.ch
 slideaway.ch
 slidebank.ch
@@ -1381,6 +1382,7 @@ sllcm.ch
 sllik.ch
 sllopez.ch
 slloveda.ch
+sllyp.ch
 slm-ag.ch
 slm-anlass.ch
 slm-gmbh.ch
@@ -1934,7 +1936,6 @@ slowgoods.ch
 slowgrow.ch
 slowhair.ch
 slowhand.ch
-slowhands-ultimate.ch
 slowhike.ch
 slowhome.ch
 slowhop.ch

@@ -637,12 +637,14 @@ peaksales.ch
 peaksandheat.ch
 peaksandhorizons.ch
 peaksandpaths.ch
+peaksandpillows.ch
 peaksandwaves.ch
 peaksauber.ch
 peakscale.ch
 peakseminar.ch
 peaksense.ch
 peakservices.ch
+peakshaving.ch
 peakshift.ch
 peakshilajit.ch
 peakshirt.ch
@@ -1096,7 +1098,6 @@ pecan.ch
 pecanis.ch
 pecannuts.ch
 pecans.ch
-pecap.ch
 pecar.ch
 pecarchi.ch
 pecasa.ch
@@ -3120,7 +3121,6 @@ pellet-fachmann.ch
 pellet-fackel.ch
 pellet-forum.ch
 pellet-geneve.ch
-pellet-grill.ch
 pellet-grills.ch
 pellet-heizstrahler.ch
 pellet-heizung.ch
@@ -5428,7 +5428,6 @@ pepins.ch
 pepis.ch
 pepispaella.ch
 pepit.ch
-pepita-art.ch
 pepita-hockey-days.ch
 pepita-hundecoiffeur.ch
 pepita-swiss.ch
@@ -8338,6 +8337,7 @@ permanent-lugano.ch
 permanent-magnete.ch
 permanent-make-up-basel.ch
 permanent-make-up-bern.ch
+permanent-make-up-luzern.ch
 permanent-make-up-professional.ch
 permanent-make-up-schweiz.ch
 permanent-make-up-zuerich.ch
@@ -8590,6 +8590,7 @@ permann.ch
 permanon-shop.ch
 permanon.ch
 permanonshop.ch
+permanta.ch
 permanum.ch
 permanyer.ch
 permapachi.ch
@@ -8608,6 +8609,7 @@ permark.ch
 permarket.ch
 permarop.ch
 permaroute.ch
+permart.ch
 permaschmaus.ch
 permaschweiz.ch
 permaseal.ch
@@ -10743,7 +10745,6 @@ personnier.ch
 persono.ch
 personoftrust.ch
 personova.ch
-persontracker.ch
 personum.ch
 personzentriert.ch
 personzentrierteastrologie.ch
@@ -11469,7 +11470,6 @@ pestemall.ch
 pestemals.ch
 pester.ch
 pestex.ch
-pestfree.ch
 pesti.ch
 pesticide-monitoring.ch
 pesticide.ch
@@ -13162,7 +13162,6 @@ petersprecher.ch
 peterspring.ch
 petersproject.ch
 peterspub-st-maurice.ch
-peterspuhler.ch
 peterspycher.ch
 petersson.ch
 peterstaehli.ch
@@ -14708,7 +14707,6 @@ petroil.ch
 petroineos.ch
 petrok.ch
 petrokhem.ch
-petrol-brothers.ch
 petrol-driver.ch
 petrol-heads.ch
 petrol-lampen.ch
@@ -14722,7 +14720,6 @@ petrolab.ch
 petrolart.ch
 petrolas.ch
 petrolbosio.ch
-petrolbrothers.ch
 petrolcontrol.ch
 petrole-carbona.ch
 petrole-distribution.ch

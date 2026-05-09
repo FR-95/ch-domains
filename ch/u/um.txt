@@ -54,6 +54,7 @@ umaenderungen.ch
 umaer.ch
 umag-ag.ch
 umag.ch
+umagamper.ch
 umage.ch
 umagecopenhagen.ch
 umageneraltrade.ch
@@ -369,7 +370,6 @@ umbertoannino.ch
 umbertomaggioni.ch
 umbertos.ch
 umbertosaxer.ch
-umbertotest.ch
 umbewegen.ch
 umbi.ch
 umbiyi.ch
@@ -1009,6 +1009,8 @@ umv-basel.ch
 umv-unternehmerinnen-basel.ch
 umv.ch
 umverkehr.ch
+umverpackung.ch
+umverpackungen.ch
 umverteilung.ch
 umvinfo.ch
 umw.ch

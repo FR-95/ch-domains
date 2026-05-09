@@ -1,5 +1,6 @@
 np-ag.ch
 np-architecte.ch
+np-autoecole.ch
 np-basel.ch
 np-beschriftung.ch
 np-bs.ch
@@ -33,7 +34,6 @@ np-legaltax.ch
 np-marketing.ch
 np-naturgarten.ch
 np-ng.ch
-np-renovations-pascual.ch
 np-sh.ch
 np-switzerland.ch
 np-trading.ch
@@ -197,7 +197,6 @@ npo-forum.ch
 npo-interim.ch
 npo-interimmanagement.ch
 npo-jobs.ch
-npo-management-partner.ch
 npo-manager.ch
 npo-media.ch
 npo-motion.ch
@@ -222,7 +221,6 @@ npoconsult.ch
 npoconsulting.ch
 npodatalab.ch
 npofinanzforum.ch
-npomanagementpartner.ch
 npomarketing.ch
 npomedia.ch
 npomediation.ch

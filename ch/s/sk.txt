@@ -925,8 +925,6 @@ skevent.ch
 skevio.ch
 skew.ch
 skewbase.ch
-skewer-kebab.ch
-skewerkebab.ch
 skey.ch
 skeye.ch
 skeyebank.ch
@@ -1307,7 +1305,6 @@ ski.ch
 ski24.ch
 ski2rent.ch
 ski4all.ch
-ski4free.ch
 ski4fun.ch
 ski4kids.ch
 ski4u.ch
@@ -2719,6 +2716,7 @@ skin-premium.ch
 skin-professional.ch
 skin-pulse.ch
 skin-pur.ch
+skin-quality-concept.ch
 skin-rebel.ch
 skin-regeneration.ch
 skin-reset.ch
@@ -3127,6 +3125,7 @@ skinpuls.ch
 skinpulse-beauty.ch
 skinpulse.ch
 skinpyramids.ch
+skinqualityconcept.ch
 skinra.ch
 skinrebel.ch
 skinrefacts.ch
@@ -3190,7 +3189,6 @@ skinstlyus.ch
 skinstore.ch
 skinstories.ch
 skinstory.ch
-skinstudio.ch
 skinstudiobeautyinstitute.ch
 skinstylus.ch
 skinsupply.ch
@@ -5232,6 +5230,7 @@ skycycle.ch
 skyd.ch
 skydach.ch
 skydance.ch
+skydancer.ch
 skydancers.ch
 skydancing-tantra.ch
 skydancing.ch

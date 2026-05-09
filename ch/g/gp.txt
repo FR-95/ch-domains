@@ -610,6 +610,7 @@ gpt-8.ch
 gpt-9.ch
 gpt-agent.ch
 gpt-chat.ch
+gpt-entlebuch.ch
 gpt-garage.ch
 gpt-ki.ch
 gpt-kmu.ch

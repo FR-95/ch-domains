@@ -494,6 +494,7 @@ ioox.ch
 iop-sim.ch
 iop.ch
 ioparlo.ch
+iopartner.ch
 iopener.ch
 iopensa.ch
 iopeople.ch

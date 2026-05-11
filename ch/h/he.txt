@@ -1021,7 +1021,6 @@ healthcareonline.ch
 healthcarepasseport.ch
 healthcarepicture.ch
 healthcareplus.ch
-healthcarepoint.ch
 healthcares.ch
 healthcareservice.ch
 healthcareservices.ch
@@ -2075,6 +2074,7 @@ heartland-village.ch
 heartland.ch
 heartlandranch.ch
 heartled.ch
+heartlens.ch
 heartless.ch
 heartlife.ch
 heartline.ch
@@ -3521,9 +3521,7 @@ heckel-safety.ch
 heckel.ch
 heckelmann.ch
 heckemos.ch
-hecken-coiffeur.ch
 hecken-direkt.ch
-hecken-friseur.ch
 hecken-pflanzen.ch
 hecken-pflege.ch
 hecken-profis.ch
@@ -3533,7 +3531,6 @@ hecken-tag.ch
 hecken.ch
 heckenbecken.ch
 heckenbier.ch
-heckencoiffeur.ch
 heckendirect.ch
 heckendirekt.ch
 heckendoktor.ch
@@ -3543,7 +3540,6 @@ heckendorn.ch
 heckenelemente.ch
 heckenerlebnis.ch
 heckenexpress.ch
-heckenfriseur.ch
 heckenirrgarten.ch
 heckenonline.ch
 heckenpflanzen-heijnen.ch
@@ -7537,7 +7533,6 @@ heiper.ch
 heiphoto.ch
 heipoa-bioligo.ch
 heipro.ch
-heiprotec.ch
 heiq.ch
 heir.ch
 heira.ch
@@ -8031,6 +8026,7 @@ heizkleidung.ch
 heizkoenig.ch
 heizkoerper.ch
 heizkosten-ersparnisse.ch
+heizkosten-rechner.ch
 heizkosten-runter.ch
 heizkosten-senken.ch
 heizkosten-sparen.ch
@@ -8565,6 +8561,7 @@ hejgroup.ch
 hejhappi.ch
 hejhej.ch
 heji.ch
+hejid.ch
 hejkarlie.ch
 hejkoh.ch
 hejlani.ch
@@ -8941,7 +8938,6 @@ heldentrank.ch
 heldentum.ch
 heldenunterwegs.ch
 heldenvoll.ch
-heldenwerkstatt.ch
 heldenwurzel.ch
 heldenzeug.ch
 helder.ch
@@ -10851,6 +10847,7 @@ hellopets.ch
 hellophysio.ch
 hellopixel.ch
 hellopizza.ch
+helloplc.ch
 hellopoint.ch
 hellopopswiss.ch
 helloprint.ch
@@ -12965,6 +12962,7 @@ helvetic-rechtsanwaelte.ch
 helvetic-reinigung.ch
 helvetic-reisen.ch
 helvetic-repair.ch
+helvetic-residences.ch
 helvetic-ride.ch
 helvetic-rohrreinigung.ch
 helvetic-routes.ch
@@ -13900,6 +13898,7 @@ helvlingua.ch
 helvmail.ch
 helvme.ch
 helvmed.ch
+helvnet.ch
 helvnord.ch
 helvo.ch
 helvoil.ch
@@ -13921,7 +13920,6 @@ helvotec-group.ch
 helvotec.ch
 helvox.ch
 helvpost.ch
-helvra.ch
 helvreg.ch
 helvsafe.ch
 helvsan.ch
@@ -14157,6 +14155,7 @@ hemirosani.ch
 hemis.ch
 hemishofen.ch
 hemishofen24.ch
+hemisph-airfroid.ch
 hemisphere.ch
 hemispheres.ch
 hemispheresdroits.ch
@@ -16453,6 +16452,7 @@ hericium.ch
 herida.ch
 heridas-solidaris.ch
 heridosdesombra.ch
+heriglad.ch
 heriluxury.ch
 herimag-immobilien.ch
 herimag.ch
@@ -17012,6 +17012,7 @@ hermit.ch
 hermitage-capital.ch
 hermitage-caviar.ch
 hermitage-clarens.ch
+hermitage-evolene.ch
 hermitage-luzern.ch
 hermitage.ch
 hermitage1815.ch
@@ -18699,6 +18700,7 @@ herzensduft.ch
 herzensenergie.ch
 herzensengel.ch
 herzensfaden.ch
+herzensfahrten.ch
 herzensfarben.ch
 herzensfeier-bodensee.ch
 herzensfokus.ch
@@ -20428,7 +20430,6 @@ hestia-malleray.ch
 hestia-med.ch
 hestia-motorsport.ch
 hestia-online.ch
-hestia-scan.ch
 hestia-sdl.ch
 hestia-wohnbegleitung.ch
 hestia.ch

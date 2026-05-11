@@ -4605,7 +4605,6 @@ kalibu.ch
 kalicar.ch
 kalice.ch
 kaliceram.ch
-kalici.ch
 kalicom.ch
 kalid-ahbri.ch
 kalidi.ch
@@ -7292,6 +7291,7 @@ kaninchenhaltung.ch
 kaninchenhilfe.ch
 kaninchenhoehle.ch
 kaninchenhof.ch
+kaninchenkiste.ch
 kaninchenksite.ch
 kaninchenladen.ch
 kaninchenliebe.ch
@@ -8669,7 +8669,6 @@ kapitalfokus.ch
 kapitalgeber.ch
 kapitalgewinnsteuer-nein.ch
 kapitalhafen.ch
-kapitalis.ch
 kapitalisator.ch
 kapitalisieren.ch
 kapitalismus.ch
@@ -9832,6 +9831,8 @@ kardi.ch
 kardia-gmbh.ch
 kardia.ch
 kardiak.ch
+kardiale-bildgebung.ch
+kardialebildgebung.ch
 kardidesign.ch
 kardikon.ch
 kardio-aerztezentren.ch
@@ -11663,6 +11664,7 @@ karolina-beige.ch
 karolina-blaberg-stiftung.ch
 karolina-kotwica.ch
 karolina-zaholulko.ch
+karolina-zahorulko.ch
 karolina.ch
 karolinabittner.ch
 karolinablaberg-stiftung.ch
@@ -13263,7 +13265,6 @@ kasper.ch
 kasper1.ch
 kasperadvokatur.ch
 kasperclean.ch
-kasperek-immobilien.ch
 kaspergroup.ch
 kasperhuus-klosters.ch
 kasperkunstvermittlung.ch
@@ -13333,6 +13334,7 @@ kassandrayoga.ch
 kassandro.ch
 kassap.ch
 kassapidou.ch
+kassaro.ch
 kassawagen.ch
 kasse-am-pos.ch
 kasse-kkm.ch
@@ -15493,7 +15495,6 @@ katrox.ch
 katru.ch
 katry.ch
 katrynhasler.ch
-kats-ching.ch
 kats-stiftung.ch
 kats.ch
 katsara.ch
@@ -16523,7 +16524,6 @@ kaufmann-recycling.ch
 kaufmann-reisen.ch
 kaufmann-robotics.ch
 kaufmann-rochat.ch
-kaufmann-schreibcoaching.ch
 kaufmann-schreinerei.ch
 kaufmann-seeblick.ch
 kaufmann-seuret.ch
@@ -16534,7 +16534,6 @@ kaufmann-suisse.ch
 kaufmann-swiss.ch
 kaufmann-systems.ch
 kaufmann-technik.ch
-kaufmann-textcoaching.ch
 kaufmann-tim.ch
 kaufmann-transporte.ch
 kaufmann-treuhand.ch
@@ -17396,6 +17395,7 @@ kayramerino.ch
 kayrap.ch
 kayrapizza.ch
 kayraservices.ch
+kayrechsteiner.ch
 kayro.ch
 kayrooz.ch
 kayros.ch

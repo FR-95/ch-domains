@@ -91,7 +91,6 @@ id-k.ch
 id-kessler.ch
 id-kommunikation.ch
 id-kuechenmontagen.ch
-id-l.ch
 id-l0gin.ch
 id-lab.ch
 id-label.ch
@@ -1173,7 +1172,6 @@ ideeinprimopiano.ch
 ideejeux.ch
 ideekaffee.ch
 ideekdo.ch
-ideeki.ch
 ideeko.ch
 ideekopf-tv.ch
 ideekopf.ch
@@ -2278,6 +2276,7 @@ idptreuhand.ch
 idpub.ch
 idpure-editions.ch
 idpure.ch
+idpureshop.ch
 idq.ch
 idquantique.ch
 idquiz.ch

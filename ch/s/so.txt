@@ -2377,6 +2377,7 @@ sodimedshop.ch
 sodina.ch
 sodionix.ch
 sodipra.ch
+sodirecto.ch
 sodirela.ch
 sodis-bruteier.ch
 sodis-travel.ch
@@ -3496,6 +3497,7 @@ softlab.ch
 softlabs.ch
 softlan.ch
 softlanding.ch
+softlandingindia.ch
 softlandingzug.ch
 softlaser-infusion.ch
 softlaser-verleih.ch
@@ -3917,6 +3919,7 @@ softwareag.ch
 softwareagentur.ch
 softwareallianz.ch
 softwareanbieter.ch
+softwareandco.ch
 softwarearchitect.ch
 softwarearchitecture.ch
 softwarearchitekt.ch
@@ -4099,6 +4102,7 @@ softwaretraining.ch
 softwaretrends.ch
 softwaretreuhand.ch
 softwaretuning.ch
+softwareundco.ch
 softwareunited.ch
 softwareunternehmen.ch
 softwarevalidation.ch
@@ -6512,6 +6516,7 @@ solardorf-rehetobel.ch
 solardorf.ch
 solardorfadligenswil.ch
 solardorfhochdorf.ch
+solardrone.ch
 solardusche.ch
 solarduschecamping.ch
 solarduschen.ch
@@ -7599,6 +7604,7 @@ solarstarswiss.ch
 solarstart.ch
 solarstaub.ch
 solarstaufen.ch
+solarstecker.ch
 solarstellen.ch
 solarsteuerung.ch
 solarstinger.ch
@@ -8265,7 +8271,6 @@ solea-realestate.ch
 solea-shop.ch
 solea-solar.ch
 solea-solargelaender.ch
-solea-soulwear.ch
 solea-studio.ch
 solea.ch
 solea10-corsier.ch
@@ -9199,7 +9204,6 @@ solidstep.ch
 solidstompers.ch
 solidstorage.ch
 solidstudio.ch
-solidsurfhouse.ch
 solidswiss.ch
 solidswitzerland.ch
 solidtaxi.ch
@@ -12457,7 +12461,6 @@ somogo.ch
 somogy.ch
 somogyi-ag.ch
 somogyi.ch
-somogyiandco.ch
 somogyirealestate.ch
 somoimmo.ch
 somolo.ch
@@ -15260,7 +15263,6 @@ sontexgroup.ch
 sontexsa.ch
 sontga-clau.ch
 sontgaclau.ch
-sontheim-it.ch
 sontheim.ch
 sontheimer.ch
 sontis.ch
@@ -15561,6 +15563,7 @@ soph-art.ch
 soph-immo.ch
 soph.ch
 sopha.ch
+sophaia.ch
 sophames.ch
 sopharecords.ch
 sophart-photography.ch
@@ -15663,7 +15666,6 @@ sophiapiergiovanni.ch
 sophiaprogramm.ch
 sophiaradiomics.ch
 sophiaraimondi.ch
-sophiariv.ch
 sophias.ch
 sophiaschroeder.ch
 sophiasiegenthaler.ch
@@ -15673,7 +15675,6 @@ sophiatrunz.ch
 sophiaundsamuel.ch
 sophiaviva.ch
 sophiawalker.ch
-sophiawebster.ch
 sophiawuest.ch
 sophiawyss.ch
 sophiazihlmann.ch
@@ -16047,7 +16048,6 @@ sophrologie-formation.ch
 sophrologie-fribourg.ch
 sophrologie-geneve.ch
 sophrologie-gruyere.ch
-sophrologie-hypnose.ch
 sophrologie-lacote.ch
 sophrologie-lausanne.ch
 sophrologie-meditation.ch
@@ -19776,7 +19776,6 @@ soundproof.ch
 soundquest.ch
 soundrausch.ch
 soundreactor.ch
-soundrent.ch
 soundrental.ch
 soundresearch.ch
 soundreservoir.ch
@@ -20329,6 +20328,7 @@ souslegidedelalune.ch
 souslemont.ch
 souslepont-roessli.ch
 souslepont.ch
+souslescotes.ch
 souslesetoiles.ch
 souslespaves.ch
 souslesplanes.ch
@@ -20872,6 +20872,7 @@ sovotel.ch
 sovox.ch
 sovr.ch
 sovra.ch
+sovraflow.ch
 sovran.ch
 sovrana.ch
 sovrani.ch
@@ -21431,7 +21432,6 @@ sozialhunduri.ch
 sozialife.ch
 sozialimpuls.ch
 sozialinfo-gl.ch
-sozialinfo-stellen.ch
 sozialinfo.ch
 sozialinformatik.ch
 sozialinfostellen.ch

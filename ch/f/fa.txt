@@ -5029,7 +5029,6 @@ fahrbrik.ch
 fahrcenter-basel.ch
 fahrcenter-wyss.ch
 fahrcenter.ch
-fahrcheck.ch
 fahrcheibe.ch
 fahrclub.ch
 fahrcoach.ch
@@ -5457,6 +5456,7 @@ fahrplanung.ch
 fahrplanwerk.ch
 fahrpool.ch
 fahrpraxis.ch
+fahrpraxisplus.ch
 fahrpro.ch
 fahrprofi-vku.ch
 fahrprofil.ch
@@ -9119,6 +9119,7 @@ faji-engineering.ch
 faji.ch
 fajinfo.ch
 fajita.ch
+fajitaclub.ch
 fajitafreinds.ch
 fajitameetspizza.ch
 fajitas.ch
@@ -11315,7 +11316,6 @@ familie-buehlmann.ch
 familie-buenter.ch
 familie-buergi.ch
 familie-buergisser.ch
-familie-buescher.ch
 familie-burgener.ch
 familie-burger.ch
 familie-burkhalter.ch

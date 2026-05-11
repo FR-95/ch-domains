@@ -2781,6 +2781,7 @@ volkskunde.ch
 volkskundemuseum.ch
 volkskunst.ch
 volkskunstmuseum.ch
+volkskunstsammlung.ch
 volkslauf.ch
 volkslied.ch
 volksliedarchiv.ch
@@ -3628,7 +3629,6 @@ vollzug-gav.ch
 vollzug.ch
 vollzugsklasse.ch
 vollzugstool.ch
-volm.ch
 volmar.ch
 volmargrowthbeacon.ch
 volmary.ch
@@ -6179,6 +6179,7 @@ voox.ch
 voozaa.ch
 voozette.ch
 vop-immobilien.ch
+vopabau.ch
 vopage.ch
 vopak.ch
 vopal.ch
@@ -7129,6 +7130,7 @@ vorsorgerebell.ch
 vorsorgerechner.ch
 vorsorgeregelung.ch
 vorsorgeregister.ch
+vorsorgersimulator.ch
 vorsorgeschweiz.ch
 vorsorgeschwyzerart.ch
 vorsorgesecure.ch
@@ -7269,6 +7271,7 @@ vorstossfabrik.ch
 vorstufe.ch
 vortal.ch
 vorte.ch
+vortec-engineering.ch
 vortec.ch
 vortecs.ch
 vorteig.ch
@@ -8759,7 +8762,6 @@ voyant-geneve.ch
 voyant-george-marino.ch
 voyant-guerisseur-duamel.ch
 voyant-guerisseur-foutango.ch
-voyant-guerisseur-sangare.ch
 voyant-guerisseur-suisse.ch
 voyant-herve.ch
 voyant-ismail-suisse.ch

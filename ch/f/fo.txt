@@ -1499,6 +1499,7 @@ fokus-raum.ch
 fokus-realestate.ch
 fokus-realisiert.ch
 fokus-recht.ch
+fokus-regional.ch
 fokus-risch.ch
 fokus-rj.ch
 fokus-s.ch
@@ -4321,6 +4322,7 @@ fono-tone.ch
 fono.ch
 fonobs.ch
 fonocolor.ch
+fonogami.ch
 fonolake.ch
 fonoteca.ch
 fonothek.ch
@@ -6697,9 +6699,6 @@ forchok.ch
 forchreinigung.ch
 forchris.ch
 forchschiessen.ch
-forchstrasse-zh.ch
-forchstrasse-zuerich.ch
-forchstrasse-zurich.ch
 forchstrasse.ch
 forchstrasse179.ch
 forchstrasse295.ch

@@ -1664,11 +1664,9 @@ koenigpizza-kebabhaus2000.ch
 koenigpizza2000.ch
 koenigpizzakebabkurier.ch
 koenigrei.ch
-koenigreich-der-dinosaurier.ch
 koenigreich-der-guten.ch
 koenigreich-des-guten.ch
 koenigreich-moebel.ch
-koenigreichderdinosaurier.ch
 koenigreisen.ch
 koenigs-bauernhof.ch
 koenigs-biohof.ch
@@ -3670,6 +3668,7 @@ kollektivdesign.ch
 kollektivdigital.ch
 kollektivdionysos.ch
 kollektive-intelligenz.ch
+kollektive-verantwortung.ch
 kollektive.ch
 kollektivearchitekt.ch
 kollektiveillusion.ch
@@ -7681,6 +7680,7 @@ kontrollieredeinlastenrad.ch
 kontrolliert-trinken.ch
 kontrollierte-kaelte.ch
 kontrolliertes-trinken-zuerich.ch
+kontrolliertes-trinken.ch
 kontrolliertestrinken.ch
 kontrollierttrinken-zuerich.ch
 kontrollierttrinken.ch
@@ -8218,7 +8218,6 @@ kookgai.ch
 kooki.ch
 kookie.ch
 kookin.ch
-kookiz.ch
 kooklin.ch
 kookly.ch
 kooko.ch
@@ -9861,6 +9860,7 @@ koshari.ch
 kosharina.ch
 koshayoga.ch
 koshelev.ch
+kosher-basel.ch
 kosher-shop.ch
 kosher.ch
 kosher4u.ch
@@ -10869,7 +10869,6 @@ kosourdough.ch
 kosova-airlines.ch
 kosova-swiss.ch
 kosova-wine.ch
-kosova.ch
 kosovaair.ch
 kosovaairlines.ch
 kosovafly.ch

@@ -1310,7 +1310,6 @@ prankl.ch
 prankmail.ch
 pranna.ch
 prannatherapie.ch
-prano.ch
 pranolosa.ch
 pranoterapia.ch
 pranou.ch
@@ -1935,6 +1934,7 @@ praxis-baltieri.ch
 praxis-bandi.ch
 praxis-baranyai.ch
 praxis-barbara-ziebold.ch
+praxis-barbarakueenzi.ch
 praxis-barben.ch
 praxis-barberio.ch
 praxis-barfuss.ch
@@ -8265,6 +8265,7 @@ prelox.ch
 prelu.ch
 preluce.ch
 prelude-design.ch
+prelude.ch
 preludes.ch
 preludesa.ch
 preludia.ch
@@ -9655,6 +9656,7 @@ prepare4.ch
 prepare4it.ch
 prepared-faith.ch
 prepared-unterrichtsmaterial.ch
+prepared.ch
 preparedenvironments.ch
 preparedfornow.ch
 preparedness.ch
@@ -9857,6 +9859,7 @@ presduchateau.ch
 presea.ch
 presear.ch
 presedo.ch
+preselecta.ch
 presena.ch
 presence-a-soi.ch
 presence-active.ch
@@ -10016,6 +10019,7 @@ preserver-la-biodiversite.ch
 preserver-les-sols.ch
 preserverlabiodiversite.ch
 preserveticino.ch
+preservons-les-bulles.ch
 preset.ch
 presets.ch
 presgy.ch
@@ -10974,7 +10978,6 @@ pretopostboarding.ch
 pretore.ch
 pretoria.ch
 pretorianer.ch
-pretoriansschweiz.ch
 pretorius-ac.ch
 pretorius.ch
 pretot-it.ch
@@ -13061,7 +13064,6 @@ primeedge.ch
 primeeducation.ch
 primeelements.ch
 primeenergy.ch
-primeenergycleantech-konkurs.ch
 primeengineering.ch
 primeentertainement.ch
 primeentertainment.ch
@@ -13931,7 +13933,6 @@ prince-casino.ch
 prince-de-gall.ch
 prince-digitals.ch
 prince-events.ch
-prince-immo.ch
 prince-international.ch
 prince-investment.ch
 prince-limousine.ch
@@ -14500,6 +14501,7 @@ printextra.ch
 printf.ch
 printfab.ch
 printfactory.ch
+printfactorylab.ch
 printfacts.ch
 printfair.ch
 printfaktor.ch
@@ -14794,7 +14796,6 @@ printry.ch
 prints-3d.ch
 prints-of-switzerland.ch
 prints.ch
-prints3d.ch
 prints4you.ch
 printsbycosi.ch
 printschmiede.ch
@@ -16306,6 +16307,7 @@ private-kleinanzeigen.ch
 private-kontrolle.ch
 private-kontrollen.ch
 private-krankenkasse.ch
+private-krankenversicherung.ch
 private-krankenversicherungen.ch
 private-lab.ch
 private-label-adhesive.ch
@@ -16939,6 +16941,7 @@ privatestore.ch
 privateswap.ch
 privateswiss.ch
 privateswisscloud.ch
+privatetable.ch
 privatetablechefs.ch
 privatetalent.ch
 privatetalk.ch
@@ -21122,6 +21125,7 @@ productcoa.ch
 productcompliance.ch
 productconformity.ch
 productdata.ch
+productdesign.ch
 productdesigner.ch
 productdesignlight.ch
 productdesigntoolkit.ch
@@ -23233,7 +23237,6 @@ proflytec.ch
 profmancini.ch
 profmed.ch
 profmedia.ch
-profngo.ch
 profnicklchberatungen.ch
 profniggli.ch
 profocum.ch
@@ -25022,6 +25025,7 @@ projekte-kap.ch
 projekte-kommunizieren.ch
 projekte-last.ch
 projekte-managen.ch
+projekte-mias.ch
 projekte-mit-wirkung.ch
 projekte-muenchwilen-tg.ch
 projekte-muenchwilen.ch

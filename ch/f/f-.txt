@@ -322,7 +322,6 @@ f-sp.ch
 f-stats.ch
 f-stop.ch
 f-style.ch
-f-swissbau.ch
 f-t-c.ch
 f-t-m.ch
 f-t-n.ch

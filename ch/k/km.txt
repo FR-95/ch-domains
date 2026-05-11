@@ -160,7 +160,6 @@ kmdavocats.ch
 kmdc.ch
 kmde.ch
 kmdesign.ch
-kmdesignapps.ch
 kmdeutsch.ch
 kmdinata.ch
 kmdlr-massotherapie.ch
@@ -350,6 +349,9 @@ kmrk.ch
 kms-ag.ch
 kms-alpnach.ch
 kms-bauelemente.ch
+kms-biel.ch
+kms-bielbienne.ch
+kms-bienne.ch
 kms-california.ch
 kms-gr.ch
 kms-hair.ch
@@ -905,8 +907,6 @@ kmu-premium.ch
 kmu-press.ch
 kmu-presse.ch
 kmu-pro.ch
-kmu-problemloeser.ch
-kmu-problemloser.ch
 kmu-procure.ch
 kmu-produkte.ch
 kmu-profile.ch
@@ -1211,7 +1211,6 @@ kmucompanion.ch
 kmuconnect.ch
 kmuconsultant.ch
 kmuconsulting.ch
-kmucontent.ch
 kmucontrol.ch
 kmucrm.ch
 kmucyberguard.ch
@@ -1479,8 +1478,6 @@ kmupraxis.ch
 kmupress.ch
 kmupresse.ch
 kmuprintpool.ch
-kmuproblemloeser.ch
-kmuproblemloser.ch
 kmuprocure.ch
 kmuprofiaufzeit.ch
 kmuprofis.ch

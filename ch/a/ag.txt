@@ -1760,6 +1760,7 @@ agent-provocateur.ch
 agent-ready.ch
 agent-royal.ch
 agent-seo.ch
+agent-service.ch
 agent-solutions.ch
 agent-studio.ch
 agent-suite.ch
@@ -1909,6 +1910,7 @@ agenticexperiencedesign.ch
 agenticflow.ch
 agenticinsights.ch
 agenticit.ch
+agenticjob.ch
 agenticjobs.ch
 agenticlabs.ch
 agenticmanager.ch
@@ -5814,7 +5816,6 @@ agv-web.ch
 agv.ch
 agva.ch
 agvalcolla.ch
-agvb.ch
 agvbanken.ch
 agvconstructionsa.ch
 agvconsulting.ch

@@ -1595,6 +1595,7 @@ eplusw.ch
 epm-decision.ch
 epm-global.ch
 epm-gmbh.ch
+epm-logsitics.ch
 epm-paedagogik.ch
 epm-viewer.ch
 epm.ch
@@ -2263,7 +2264,6 @@ epulp.ch
 epuls.ch
 epulse.ch
 epulsive.ch
-epump.ch
 epumps.ch
 epunkt.ch
 epunktmanagement.ch

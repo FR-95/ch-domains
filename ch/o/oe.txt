@@ -294,7 +294,6 @@ oeis.ch
 oeise.ch
 oeisichuchi.ch
 oej-gruyere.ch
-oej.ch
 oejgruyere.ch
 oejv.ch
 oek.ch
@@ -823,7 +822,6 @@ oele.ch
 oelea.ch
 oeledings.ch
 oelehof.ch
-oeleknowhow.ch
 oelektro.ch
 oelemezler-gastrobetriebe.ch
 oelemezler.ch
@@ -1676,6 +1674,7 @@ oevdaten.ch
 oeve.ch
 oevfahrplan.ch
 oevfueralle.ch
+oevguru.ch
 oevinfo.ch
 oevinterlaken.ch
 oevjobs.ch

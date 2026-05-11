@@ -418,6 +418,7 @@ piano-hafner.ch
 piano-hoelzle.ch
 piano-house.ch
 piano-im-pool.ch
+piano-improvisation.ch
 piano-it.ch
 piano-jazz.ch
 piano-lahme.ch
@@ -5678,6 +5679,7 @@ pinagent.ch
 pinago.ch
 pinailleur.ch
 pinakari.ch
+pinakea.ch
 pinaki.ch
 pinakothek-bad-ragaz.ch
 pinakothek.ch
@@ -6419,7 +6421,6 @@ pinkmarble.ch
 pinkmatcha.ch
 pinkmaths.ch
 pinkme.ch
-pinkmedia.ch
 pinkmeloon-bydesalmada.ch
 pinkmeloon.ch
 pinkmentes.ch
@@ -7064,7 +7065,6 @@ pioggia.ch
 piogino.ch
 pioglitazon.ch
 piogre.ch
-pioid.ch
 piokurs.ch
 piol.ch
 piolcedon.ch
@@ -7616,6 +7616,7 @@ pirata-zermatt.ch
 pirata.ch
 pirataswiss.ch
 pirate-bay.ch
+pirate-boxing.ch
 pirate-coaching.ch
 pirate-it.ch
 pirate-lab.ch
@@ -8327,6 +8328,7 @@ pistachioapp.ch
 pistachioo.ch
 pistachoargentino.ch
 pistacia.ch
+pistaclub.ch
 pistadelcuore.ch
 pistadler.ch
 pistaggio.ch
@@ -8456,7 +8458,6 @@ pistolenclub-villnachern.ch
 pistolenclub-wintersingen.ch
 pistolenclub.ch
 pistolenclubmalters.ch
-pistolenergy.ch
 pistolenklub-kaiserstuhl.ch
 pistolenklub-seen.ch
 pistolenklub.ch
@@ -10250,6 +10251,7 @@ piz-beats.ch
 piz-beverin.ch
 piz-bikes.ch
 piz-buin.ch
+piz-caban.ch
 piz-coaching-beratung.ch
 piz-consulting.ch
 piz-design.ch
@@ -10485,6 +10487,7 @@ pizza-bestellshop.ch
 pizza-bienna-biel.ch
 pizza-bienna.ch
 pizza-bigmama.ch
+pizza-bigo.ch
 pizza-bike.ch
 pizza-binningen.ch
 pizza-binz-levante-kueche-zuerich.ch
@@ -10555,6 +10558,7 @@ pizza-e-piu.ch
 pizza-ecublens.ch
 pizza-eglisau.ch
 pizza-elba.ch
+pizza-eliyas-bigo.ch
 pizza-emigrante.ch
 pizza-event.ch
 pizza-express-buchs.ch
@@ -10822,6 +10826,7 @@ pizza-sette7.ch
 pizza-shack.ch
 pizza-shop.ch
 pizza-slice.ch
+pizza-software.ch
 pizza-solduno.ch
 pizza-sommerau.ch
 pizza-spicy-express.ch
@@ -11700,7 +11705,6 @@ pizzastation-trasadingen.ch
 pizzastation.ch
 pizzasteel.ch
 pizzastein.ch
-pizzastern.ch
 pizzasternen.ch
 pizzastop.ch
 pizzastube.ch

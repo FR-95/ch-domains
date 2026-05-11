@@ -193,6 +193,7 @@ qrcode-generator.ch
 qrcode-lodge.ch
 qrcode-rechnung.ch
 qrcode.ch
+qrcode3.ch
 qrcode365.ch
 qrcodeaudio.ch
 qrcodeeinzahlungsschein.ch

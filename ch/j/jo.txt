@@ -490,6 +490,7 @@ job-lausanne.ch
 job-leader.ch
 job-lex.ch
 job-line.ch
+job-link.ch
 job-local.ch
 job-locator.ch
 job-logistik.ch
@@ -1925,7 +1926,6 @@ jobs-in-gruen-und-bau.ch
 jobs-in-shopping-places.ch
 jobs-in-tourism.ch
 jobs-in-uri.ch
-jobs-infotech.ch
 jobs-ingenieur.ch
 jobs-innenausbau-holzbau.ch
 jobs-inserieren.ch
@@ -4214,7 +4214,6 @@ jogima.ch
 jogis.ch
 jogisbbq.ch
 jogli.ch
-joglo.ch
 joglu.ch
 jogna.ch
 jogne.ch

@@ -802,7 +802,6 @@ ai-swisssolution.ch
 ai-switzerland.ch
 ai-sys.ch
 ai-system.ch
-ai-systems.ch
 ai-t.ch
 ai-takaoka.ch
 ai-talent.ch
@@ -1147,6 +1146,7 @@ aiavita.ch
 aiaward.ch
 aiawards.ch
 aiaware.ch
+aiax.ch
 aiaz.ch
 aib-aqua.ch
 aib-assurances-privees-sa.ch
@@ -3014,6 +3014,7 @@ aimage.ch
 aimai.ch
 aimail.ch
 aimake.ch
+aimala.ch
 aiman-demircan.ch
 aiman-email.ch
 aiman-suisse.ch
@@ -3637,6 +3638,7 @@ aiphemeris.ch
 aiphoenix.ch
 aiphone-craft.ch
 aiphone.ch
+aiphos.ch
 aiphoto.ch
 aiphotobooth.ch
 aiphotorevival.ch

@@ -4027,6 +4027,7 @@ youngtimer-oldtimer.ch
 youngtimer-rental.ch
 youngtimer-stockental.ch
 youngtimer-ticino.ch
+youngtimer-versicherung.ch
 youngtimer.ch
 youngtimer24.ch
 youngtimer4you.ch
@@ -4046,6 +4047,7 @@ youngtimerscout24.ch
 youngtimerservice.ch
 youngtimerslausanne.ch
 youngtimerticino.ch
+youngtimerversicherung.ch
 youngtimerversicherungen.ch
 youngtimervision.ch
 youngtion.ch
@@ -4929,6 +4931,8 @@ yourgstaad.ch
 yourguide.ch
 yourguideingeneva.ch
 yourgurteria.ch
+yourguy.ch
+yourguyzh.ch
 yourgymbro.ch
 yourgyndoc.ch
 yourhair.ch
@@ -5923,6 +5927,7 @@ youvolunteer.ch
 youvolution.ch
 youvote.ch
 youvpn.ch
+youvsyou.ch
 youwantme.ch
 youwat.ch
 youwatch.ch

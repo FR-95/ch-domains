@@ -769,8 +769,6 @@ fedlex-connector.ch
 fedlex-mcp.ch
 fedlex.ch
 fedlexmcp.ch
-fedlexplore.ch
-fedlexplorer.ch
 fedli.ch
 fedm.ch
 fedmedcom.ch
@@ -1854,6 +1852,7 @@ fehr-ivf.ch
 fehr-kanal.ch
 fehr-kundenmaurer.ch
 fehr-mail.ch
+fehr-maschinen.ch
 fehr-motorgeraete.ch
 fehr-oberflaechen.ch
 fehr-one.ch
@@ -3212,6 +3211,7 @@ feldschiessen-sense.ch
 feldschiessen-ssv.ch
 feldschiessen.ch
 feldschiessen2019.ch
+feldschiessen2024.ch
 feldschiessen2025.ch
 feldschiessen2027.ch
 feldschloesschen-1876.ch
@@ -4394,6 +4394,7 @@ fellwell.ch
 fellwerk-hs.ch
 fellwerk.ch
 fellwerkstatt.ch
+fellxfern.ch
 fellxfix.ch
 fellyness-handmade.ch
 fellzauber.ch
@@ -5793,7 +5794,6 @@ fenster-fuer-die-schweiz.ch
 fenster-gehrig.ch
 fenster-gestalter.ch
 fenster-graf.ch
-fenster-guemligen.ch
 fenster-guenstig.ch
 fenster-handel.ch
 fenster-haus.ch
@@ -5922,7 +5922,6 @@ fenster-wiki.ch
 fenster-wild.ch
 fenster-windows.ch
 fenster-winterthur.ch
-fenster-wohlen-bei-bern.ch
 fenster-wohnmobil.ch
 fenster-wohnwagen.ch
 fenster-zauberer.ch
@@ -9960,6 +9959,7 @@ ferrari4fun.ch
 ferrari4you.ch
 ferraria.ch
 ferrarialouer.ch
+ferrariamalfi.ch
 ferrariapproved.ch
 ferrariarchitetti.ch
 ferrariartgallery.ch
@@ -9973,6 +9973,7 @@ ferrariclassics.ch
 ferrariclubriva.ch
 ferrariclubswitzerland.ch
 ferraricontainer.ch
+ferraricz26.ch
 ferraridata.ch
 ferrariday.ch
 ferraridinoclub.ch
@@ -9986,10 +9987,12 @@ ferrarifolierung.ch
 ferrarigartmann.ch
 ferrarigeneva.ch
 ferrarigeneve.ch
+ferrarihc25.ch
 ferrarihome.ch
 ferrarikaffee.ch
 ferrarileasing.ch
 ferrarilocation.ch
+ferrariluce.ch
 ferrarimacchine.ch
 ferrarimariage.ch
 ferrarimaurizio.ch
@@ -10014,6 +10017,7 @@ ferrarireisen.ch
 ferrarirental.ch
 ferrarirentalswitzerland.ch
 ferraris.ch
+ferrarisc40.ch
 ferrarisconsulting.ch
 ferrariservice.ch
 ferrariservices.ch

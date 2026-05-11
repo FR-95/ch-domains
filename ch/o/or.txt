@@ -1343,7 +1343,6 @@ ordanwine.ch
 ordapad.ch
 ordas.ch
 ordat.ch
-ordate.ch
 ordcon.ch
 orde.ch
 ordedjibouti.ch
@@ -1527,6 +1526,7 @@ ordiathome.ch
 ordicall.ch
 ordicom.ch
 ordifute.ch
+ordify-it.ch
 ordiginal.ch
 ordimax.ch
 ordin.ch
@@ -3956,7 +3956,6 @@ orizumi.ch
 orizuru.ch
 orizzonte.ch
 orizzontealpino.ch
-orj.ch
 orjinservices.ch
 orjma.ch
 orjoon.ch
@@ -5617,7 +5616,9 @@ orthoklinikdornach.ch
 orthoklinikliestal.ch
 orthoklinsen.ch
 orthokoeniz.ch
+orthokoenizpraxis.ch
 orthokoller.ch
+orthokoniz.ch
 orthokontor.ch
 orthokontrol.ch
 orthokura.ch
@@ -6144,6 +6145,7 @@ orthowell.ch
 orthowerk.ch
 orthowil.ch
 orthowing.ch
+orthowinkler.ch
 orthoworb.ch
 orthoxl.ch
 orthozahni.ch

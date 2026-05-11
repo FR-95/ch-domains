@@ -41,7 +41,6 @@ va-licht.ch
 va-lichttechnik.ch
 va-loo.ch
 va-lu.ch
-va-management.ch
 va-media.ch
 va-modellbau.ch
 va-moehl.ch
@@ -1581,6 +1580,7 @@ valaisan.ch
 valaisanne-bienne.ch
 valaisanne.ch
 valaisannes.ch
+valaisannet.ch
 valaisarena.ch
 valaisassurances.ch
 valaisbag.ch
@@ -3582,6 +3582,7 @@ valko.ch
 valkontroll.ch
 valkonzept.ch
 valkovsky.ch
+valkri.ch
 valktron.ch
 valky.ch
 valkyr.ch
@@ -4298,7 +4299,6 @@ valra.ch
 valracosmetics.ch
 valrafting.ch
 valrando.ch
-valrea.ch
 valreg.ch
 valregieaux.ch
 valrem.ch
@@ -4851,6 +4851,7 @@ valur-alpina.ch
 valur.ch
 valura.ch
 valuraconciergerie.ch
+valuralpina.ch
 valure.ch
 valurekworkforce.ch
 valurhof.ch
@@ -4917,6 +4918,7 @@ valve-shop.ch
 valve.ch
 valvecontrol.ch
 valvecraft.ch
+valvedesk.ch
 valvegear.ch
 valveindex.ch
 valventure.ch
@@ -5550,6 +5552,7 @@ vandessel.ch
 vandesselcycles.ch
 vandesselcycling.ch
 vandesun.ch
+vandetta.ch
 vandeveen.ch
 vandeveenpersonaltraining.ch
 vandevelde.ch
@@ -6048,6 +6051,7 @@ vanilla-studio.ch
 vanilla.ch
 vanillaandspices.ch
 vanillabean.ch
+vanillabeanco.ch
 vanillaclub.ch
 vanillacoke.ch
 vanilladream.ch
@@ -8437,6 +8441,7 @@ vaterzeit.ch
 vates-invest.ch
 vates.ch
 vatex.ch
+vatfinder.ch
 vatflow.ch
 vatfree.ch
 vatfw.vat.ch

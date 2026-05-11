@@ -1503,6 +1503,7 @@ sebastio.ch
 sebastopol.ch
 sebastos.ch
 sebatikformance.ch
+sebatiservices.ch
 sebatopuz.ch
 sebau.ch
 sebautomatisme.ch
@@ -3265,7 +3266,6 @@ secure-hosting.ch
 secure-ict.ch
 secure-identity.ch
 secure-interaction.ch
-secure-invest.ch
 secure-it.ch
 secure-itaca.ch
 secure-key-ag.ch
@@ -3468,7 +3468,6 @@ secureinnovations.ch
 secureinteract.ch
 secureinteraction.ch
 secureinvest-immobilien.ch
-secureinvest.ch
 secureinvestag-immobilien.ch
 secureinvestag.ch
 secureiot.ch
@@ -6692,6 +6691,7 @@ seelenlesen.ch
 seelenleser.ch
 seelenleuchten.ch
 seelenleuchtturm.ch
+seelenlicht-lebensberatung.ch
 seelenlicht-praxis.ch
 seelenlicht-zentrum.ch
 seelenlicht.ch
@@ -10219,9 +10219,7 @@ seitzlaw.ch
 seitzlegal.ch
 seitzli.ch
 seitzmeier.ch
-seitzmeir-24.ch
 seitzmeir.ch
-seitzmeir24.ch
 seitzmesstechnik.ch
 seitzschulen.ch
 seitzvalve.ch
@@ -10454,6 +10452,7 @@ sekiom.ch
 sekishin.ch
 sekisuialveo.ch
 sekkel.ch
+sekken.ch
 sekkiouavocat.ch
 sekkirchberg.ch
 sekkreis-muellheim.ch
@@ -10985,6 +10984,7 @@ selbstbestimmungs-kompass.ch
 selbstbestimmungsbarometer.ch
 selbstbestimmungsinitiative.ch
 selbstbestimmungsinitiativenein.ch
+selbstbestimmungstheorie.ch
 selbstbewusst-leben.ch
 selbstbewusst-sein.ch
 selbstbewusst-unterstuetzen.ch
@@ -12228,7 +12228,6 @@ selfprotect.ch
 selfprotectacademy.ch
 selfprotection.ch
 selfprovide.ch
-selfpublish.ch
 selfpublisher.ch
 selfpublishing.ch
 selfpublishingverlag.ch
@@ -16554,6 +16553,7 @@ senseofsrilanka.ch
 senseofstyle.ch
 senseofswitzerland.ch
 senseoftravel.ch
+senseoftrust.ch
 senseofvivi.ch
 senseofwall.ch
 senseology.ch
@@ -18528,6 +18528,7 @@ septembre-musical.ch
 septembre.ch
 septembredelaforge.ch
 septembremusical.ch
+septemlabs.ch
 septemnovem.ch
 septemtria.ch
 septemvitae.ch
@@ -19161,6 +19162,7 @@ serempus.ch
 serempustreuhand.ch
 seren-ai.ch
 seren-home.ch
+seren-ia.ch
 seren-it.ch
 seren-philipp.ch
 seren.ch

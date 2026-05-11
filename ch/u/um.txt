@@ -416,7 +416,6 @@ umbrella-kaution.ch
 umbrella-kids.ch
 umbrella-mietkaution.ch
 umbrella-net.ch
-umbrella-real-estate.ch
 umbrella-real.ch
 umbrella-solutions.ch
 umbrella-swiss.ch
@@ -441,7 +440,6 @@ umbrellanet.ch
 umbrellapartners.ch
 umbrellapictures.ch
 umbrellareal.ch
-umbrellarealestate.ch
 umbrellauto.ch
 umbrellaux.ch
 umbrellawrapper.ch
@@ -1780,6 +1778,7 @@ umzugmeister.ch
 umzugmiro.ch
 umzugmuri.ch
 umzugnews.ch
+umzugnotfall.ch
 umzugo-aargau.ch
 umzugo-basel.ch
 umzugo-bern.ch

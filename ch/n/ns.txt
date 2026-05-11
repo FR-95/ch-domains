@@ -1880,7 +1880,6 @@ ns1.gonzalez-lim.ch
 ns1.good-tv.ch
 ns1.gooddeal-gmbh.ch
 ns1.goodtv.ch
-ns1.gordion.ch
 ns1.gowww.ch
 ns1.gr.ch
 ns1.gr8.ch
@@ -1945,6 +1944,7 @@ ns1.hcc.ch
 ns1.hcuge.ch
 ns1.hdcard.ch
 ns1.he-arc.ch
+ns1.heartlens.ch
 ns1.hebergement-web.ch
 ns1.hefel.ch
 ns1.heiniger-net.ch
@@ -2366,6 +2366,7 @@ ns1.lawmail.ch
 ns1.layer9.ch
 ns1.lcm.ch
 ns1.ldl-glamourmode.ch
+ns1.ldr-renovation.ch
 ns1.leafit.ch
 ns1.lebrun-renovation-la.ch
 ns1.lecomte.ch
@@ -5195,7 +5196,6 @@ ns2.gonzalez-lim.ch
 ns2.good-tv.ch
 ns2.gooddeal-gmbh.ch
 ns2.goodtv.ch
-ns2.gordion.ch
 ns2.gowww.ch
 ns2.gr8.ch
 ns2.gracy.ch
@@ -5257,6 +5257,7 @@ ns2.hcc.ch
 ns2.hcuge.ch
 ns2.hdcard.ch
 ns2.he-arc.ch
+ns2.heartlens.ch
 ns2.hebergement-web.ch
 ns2.hefel.ch
 ns2.heiniger-net.ch
@@ -5668,6 +5669,7 @@ ns2.lawmail.ch
 ns2.layer9.ch
 ns2.lcm.ch
 ns2.ldl-glamourmode.ch
+ns2.ldr-renovation.ch
 ns2.lebrun-renovation-la.ch
 ns2.lecomte.ch
 ns2.lecopain.ch
@@ -8142,6 +8144,7 @@ ns4.glaun.ch
 ns4.globonet.ch
 ns4.goldingerit.ch
 ns4.gonzalez-lim.ch
+ns4.gordion.ch
 ns4.gruppo-tfm.ch
 ns4.gruppourani.ch
 ns4.helpvetica.ch
@@ -8340,6 +8343,7 @@ ns5.fhnw.ch
 ns5.fuchair.ch
 ns5.fuform.ch
 ns5.goline.ch
+ns5.gordion.ch
 ns5.gwap.ch
 ns5.hintag.ch
 ns5.holiness.ch
@@ -8659,6 +8663,7 @@ nsiv.ch
 nsiwc.ch
 nsixconstruction.ch
 nsixdigital.ch
+nsixtalent.ch
 nsj.ch
 nsjass.ch
 nsjewellery.ch

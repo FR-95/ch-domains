@@ -240,7 +240,6 @@ bgb-fitness.ch
 bgb-gbbl.ch
 bgb-int.ch
 bgb-schweiz.ch
-bgb-sicherheitstechnik.ch
 bgb-spincare.ch
 bgb-spinecare.ch
 bgb-tanz.ch
@@ -324,6 +323,7 @@ bgda.ch
 bgdag.ch
 bgdavos.ch
 bgdb.ch
+bgde.ch
 bgdi.ch
 bgdiessenhofen.ch
 bgdlaw.ch
@@ -612,6 +612,7 @@ bgross.ch
 bgroup.ch
 bgroupautomation.ch
 bgrp.ch
+bgrs.ch
 bgrt.ch
 bgruber.ch
 bgrueti-bei-bueren.ch

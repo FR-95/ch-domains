@@ -195,7 +195,6 @@ bracelets-id.ch
 bracelets-lucerne.ch
 bracelets-perso.ch
 bracelets.ch
-braceletslaurence.ch
 braceletslucerne.ch
 braceletstennis.ch
 braceletzurich.ch
@@ -1344,7 +1343,6 @@ braintank.ch
 braintcoffee.ch
 brainte.ch
 brainteacoffee.ch
-brainteaser.ch
 braintec-abs.ch
 braintec-odoo.ch
 braintec-pharma.ch
@@ -1386,6 +1384,7 @@ brainvolution.ch
 brainwaive-tutor.ch
 brainwalk.ch
 brainwalker.ch
+brainwallis.ch
 brainware.ch
 brainwaregroup.ch
 brainwash.ch
@@ -3241,6 +3240,7 @@ braschlers.ch
 braschterie.ch
 braschunauns.ch
 brasciadela.ch
+brasco.ch
 brascodesign.ch
 brascom.ch
 brascon.ch
@@ -5360,7 +5360,6 @@ breathoflife.ch
 breathofmylife.ch
 breatholution.ch
 breathonaut.ch
-breathpranaflow.ch
 breathritual.ch
 breaths.ch
 breathscapes.ch
@@ -5584,6 +5583,7 @@ breew.ch
 breex.ch
 breexchargers.ch
 breez.ch
+breeza-max.ch
 breeza.ch
 breezamax.ch
 breeze-arbon.ch
@@ -9844,6 +9844,7 @@ brisach.ch
 brisacreations.ch
 brisadelmar.ch
 brisadomar.ch
+brisae.ch
 brisaga.ch
 brisaknives.ch
 brisamesser.ch
@@ -12316,6 +12317,7 @@ brotwerk.ch
 brotwerkstatt.ch
 brotz.ch
 brotzauber.ch
+brotzeit-schweiz.ch
 brotzeit.ch
 brotzer-sport.ch
 brotzer.ch

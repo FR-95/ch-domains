@@ -907,6 +907,7 @@ viastore.ch
 viastoria.ch
 viastrategica.ch
 viastreet.ch
+viasud.ch
 viasuisse.ch
 viasummit.ch
 viasurprise.ch
@@ -1118,7 +1119,6 @@ vibecodecoach.ch
 vibecodefest.ch
 vibecoden.ch
 vibecoder.ch
-vibecoders-dream.ch
 vibecoders.ch
 vibecodes.ch
 vibecodeworkshop.ch
@@ -3290,6 +3290,7 @@ vidiamounamano.ch
 vidian.ch
 vidics.ch
 vidiio.ch
+vidima.ch
 vidin-ag.ch
 vidinext.ch
 vidinoti-hosting.ch
@@ -4185,7 +4186,6 @@ viewdrone.ch
 viewed.ch
 vieweg.ch
 vieweger.ch
-viewer.ch
 viewfestival.ch
 viewfinder.ch
 viewfinderfilms.ch
@@ -4810,7 +4810,6 @@ viking-hauswartung.ch
 viking-horde.ch
 viking-ice.ch
 viking-imow.ch
-viking-ink.ch
 viking-invest.ch
 viking-luck.ch
 viking-management.ch
@@ -6935,6 +6934,7 @@ vin-com.ch
 vin-confort.ch
 vin-consulting.ch
 vin-d-oeuvre.ch
+vin-de-bordeaux.ch
 vin-de-fruits.ch
 vin-de-geisler.ch
 vin-degustation.ch
@@ -7437,6 +7437,7 @@ vindani.ch
 vindauga.ch
 vindazo.ch
 vindeberne.ch
+vindebordeaux.ch
 vindefail.ch
 vindefruits.ch
 vindegeisler.ch
@@ -8376,6 +8377,7 @@ vins-chavalard.ch
 vins-chevaliers.ch
 vins-chevalley.ch
 vins-comby.ch
+vins-de-bordeaux.ch
 vins-de-la-cote.ch
 vins-de-lavaux.ch
 vins-de-nyon.ch
@@ -8462,6 +8464,7 @@ vinschgau.ch
 vinsconfederes.ch
 vinscook.ch
 vinsdaigle.ch
+vinsdebordeaux.ch
 vinsdechamoson.ch
 vinsdecorcelles.ch
 vinsdefrance-aquitaine.ch
@@ -9306,6 +9309,7 @@ vio-service.ch
 vio.ch
 vioa.ch
 viobar.ch
+viobetreuung.ch
 viobit.ch
 viocap.ch
 vioce.ch

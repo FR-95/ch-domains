@@ -680,6 +680,7 @@ gabrieladennler.ch
 gabrieladorn.ch
 gabrieladuss.ch
 gabrieladvisors.ch
+gabrieladvisory.ch
 gabrielaeberhard.ch
 gabrielaeicher.ch
 gabrielaerb.ch
@@ -2018,6 +2019,7 @@ gaestebu.ch
 gaestebuch.ch
 gaestebuchservice.ch
 gaestefuehrungen.ch
+gaestegarantie.ch
 gaesteglueck.ch
 gaestehaus-eisenhut.ch
 gaestehaus-elcasa.ch
@@ -3255,7 +3257,6 @@ galeazzi.ch
 galeb.ch
 galebreaker.ch
 galecat.ch
-galeco.ch
 galectric.ch
 galedia.ch
 galeffi.ch
@@ -3369,6 +3370,7 @@ galerie-brunner.ch
 galerie-buettiker.ch
 galerie-bunt.ch
 galerie-burkart.ch
+galerie-cafe.ch
 galerie-carlarenggli.ch
 galerie-cathedrale.ch
 galerie-ciel-ouvert.ch
@@ -3622,6 +3624,7 @@ galeriebucher.ch
 galerieburkart.ch
 galeriebutt.ch
 galeriec.ch
+galeriecafe.ch
 galeriecalabro.ch
 galeriecaratsch.ch
 galeriecasart.ch
@@ -5287,6 +5290,7 @@ gameduell.ch
 gamedungeon.ch
 gamefactory.ch
 gamefi.ch
+gamefield.ch
 gamefire.ch
 gamefirst-casino.ch
 gamefirst.ch
@@ -9280,6 +9284,7 @@ garageduchene.ch
 garageduclos.ch
 garageducol.ch
 garageducollege.ch
+garageducollegecombremont.ch
 garageducoteau.ch
 garageducret-corcelles.ch
 garageducret.ch
@@ -10299,7 +10304,6 @@ garagetekin.ch
 garagetemperli.ch
 garagetermin.ch
 garagetesoro.ch
-garagethevenaz.ch
 garagetheytaz.ch
 garagethoeni.ch
 garagethoma.ch
@@ -11301,6 +11305,7 @@ gareispohl.ch
 garekla.ch
 garelac.ch
 garelli.ch
+garelocation.ch
 garelspaz.ch
 garemort.ch
 garen-im-dampf.ch
@@ -14516,7 +14521,6 @@ gasthaus-bilstenhof.ch
 gasthaus-blume.ch
 gasthaus-buffalora.ch
 gasthaus-crestasee.ch
-gasthaus-degen.ch
 gasthaus-dorf.ch
 gasthaus-ebenalp.ch
 gasthaus-eisenbahn.ch
@@ -17700,7 +17704,6 @@ gayswitzerlandtours.ch
 gaytantra.ch
 gayticino.ch
 gayties.ch
-gaytours.ch
 gaytourszurich.ch
 gaytragenes.ch
 gaytravel.ch

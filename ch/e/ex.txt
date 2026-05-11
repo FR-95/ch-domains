@@ -24,7 +24,6 @@ ex-in-akademie.ch
 ex-in-ambulant.ch
 ex-in-bern.ch
 ex-in-genesungsbegleiter.ch
-ex-in-kanton-bern.ch
 ex-in-netzwerkgesundheit.ch
 ex-in-ngch.ch
 ex-in-schweiz.ch
@@ -4185,6 +4184,7 @@ explorestudio.ch
 exploreswiss.ch
 exploreswisswatchmaking.ch
 exploreswitzerland.ch
+explorethealps.ch
 exploretheworld.ch
 exploretobacco.ch
 exploretogether.ch
@@ -4649,6 +4649,7 @@ exposeprofi.ch
 exposervices.ch
 exposhirt.ch
 exposhop.ch
+exposico.ch
 exposio.ch
 exposiq.ch
 exposis.ch

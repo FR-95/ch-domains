@@ -1957,6 +1957,7 @@ spanischkurse-kreuzlingen.ch
 spanischkurse-schwyz.ch
 spanischkurse.ch
 spanischlehrer.ch
+spanischlehrerin.ch
 spanischlernen-thun.ch
 spanischlernen-zuerich.ch
 spanischlernen.ch
@@ -2707,6 +2708,7 @@ sparkup.ch
 sparkurs.ch
 sparkventures.ch
 sparkwise.ch
+sparkworks.ch
 sparkx.ch
 sparkxchange.ch
 sparkxtech.ch
@@ -2886,7 +2888,6 @@ spartagiftshop.ch
 spartagroup.ch
 spartagym.ch
 spartak-kuna.ch
-spartak.ch
 spartakbern.ch
 spartakickboxing.ch
 spartakus-fitness.ch
@@ -5622,7 +5623,9 @@ spenax.ch
 spence.ch
 spencer-basic.ch
 spencer.ch
+spencercat.ch
 spencercollenberg.ch
+spencerdog.ch
 spencerhill.ch
 spencerhilldose.ch
 spencerhillgin.ch
@@ -5633,6 +5636,7 @@ spencerhillwhisky.ch
 spencermarcu.ch
 spencers.ch
 spencerstuart.ch
+spencerthedog.ch
 spencertoern.ch
 spencerumzuege.ch
 spencerumzug.ch
@@ -7970,6 +7974,7 @@ spielgruppe-im-atelier.ch
 spielgruppe-immensee.ch
 spielgruppe-innerschweiz.ch
 spielgruppe-inwil.ch
+spielgruppe-isebaehnli.ch
 spielgruppe-isebahn.ch
 spielgruppe-islikon.ch
 spielgruppe-jens.ch
@@ -11097,6 +11102,7 @@ spirituellesheilen.ch
 spirituellesleben.ch
 spirituelleszentrum.ch
 spirituelletexte.ch
+spirituelletheologie.ch
 spirituelletrauerbegleitung.ch
 spirituelletraumarbeit.ch
 spirituelletraumwelten.ch
@@ -15270,7 +15276,6 @@ sportauspuff-pro.ch
 sportauspuff-schweiz.ch
 sportauspuff-shop.ch
 sportauspuff.ch
-sportauspuff24.ch
 sportauspuffanlagen.ch
 sportauspuffe.ch
 sportausruestung-luzern.ch
@@ -15810,6 +15815,7 @@ sportfotografie.ch
 sportfotos-luethi.ch
 sportfotos.ch
 sportfotos4you.ch
+sportfound.ch
 sportfox-individualtraining.ch
 sportfr.ch
 sportfrei.ch
@@ -17834,6 +17840,7 @@ sportvereinigung-einsiedeln.ch
 sportvereinkoeniz.ch
 sportvereinkuenten.ch
 sportvereinoftringen.ch
+sportvereinsbekleidung.ch
 sportvereinsnetze.ch
 sportvereint.ch
 sportvereinudligenswil.ch
@@ -18125,7 +18132,6 @@ spotace.ch
 spotagency.ch
 spotahome.ch
 spotalgo.ch
-spotandweb.ch
 spotaround.ch
 spotawheel.ch
 spotbase.ch
@@ -20122,7 +20128,6 @@ sprungtuch.ch
 sprungturm.ch
 sprungweg.ch
 sprungwerk.ch
-sprungx.ch
 sprungziffern-taschenuhren.ch
 sprutz.ch
 sprutzos.ch

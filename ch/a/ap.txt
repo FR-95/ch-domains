@@ -788,6 +788,7 @@ ape-dardagny.ch
 ape-di-secco.ch
 ape-epalinges.ch
 ape-epfg.ch
+ape-estavayer.ch
 ape-etang.ch
 ape-events.ch
 ape-forum.ch
@@ -1294,6 +1295,7 @@ apex-consult.ch
 apex-consulting.ch
 apex-eleven.ch
 apex-etancheite.ch
+apex-gerueste.ch
 apex-gland.ch
 apex-group.ch
 apex-hauswartung.ch
@@ -1334,6 +1336,7 @@ apex1.ch
 apex12.ch
 apex24.ch
 apex420.ch
+apex66.ch
 apex8.ch
 apexa.ch
 apexadvisory.ch
@@ -1368,6 +1371,7 @@ apexdental.ch
 apexdesign.ch
 apexdigital.ch
 apexdrive.ch
+apexdriveexperience.ch
 apexdyna.ch
 apexdynamics.ch
 apexe.ch
@@ -2826,7 +2830,6 @@ apogeeconsulting.ch
 apogeepalmbea.ch
 apogeeproperties.ch
 apogeesolutions.ch
-apogeetech.ch
 apogeewealthconsultants.ch
 apogeewealthmanagement.ch
 apogelterkinden.ch

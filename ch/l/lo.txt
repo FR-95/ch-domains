@@ -490,6 +490,7 @@ locafetes.ch
 locafly.ch
 locafox.ch
 locafri.ch
+locagare.ch
 locagestion.ch
 locahair.ch
 locai.ch
@@ -738,6 +739,7 @@ localcords.ch
 localcore.ch
 localcosmos.ch
 localcoties.ch
+localcraft.ch
 localcuties.ch
 localdeal.ch
 localdeal24.ch
@@ -1231,6 +1233,7 @@ locarent.ch
 locari.ch
 locaris.ch
 locarium.ch
+locarius.ch
 locarl.ch
 locarner-hotel.ch
 locarnese.ch
@@ -1373,9 +1376,12 @@ location-anzere.ch
 location-appartement-geneve.ch
 location-appartement-morgins.ch
 location-appartement.ch
+location-auto-lausanne.ch
 location-award.ch
 location-bateau-geneve.ch
 location-bateau.ch
+location-bateaux-lausanne.ch
+location-bateaux-ouchy.ch
 location-bateaux.ch
 location-beamer.ch
 location-bebe.ch
@@ -1450,6 +1456,7 @@ location-lettre-love.ch
 location-lights.ch
 location-limousine-geneve.ch
 location-limousine-stretch.ch
+location-limousine.ch
 location-luges.ch
 location-luxe.ch
 location-machines.ch
@@ -1628,6 +1635,7 @@ locationkinetec.ch
 locationlamborghini.ch
 locationlesportesdusoleil.ch
 locationlights.ch
+locationlimousine.ch
 locationlive.ch
 locationlocationlocation.ch
 locationlugano.ch
@@ -1717,6 +1725,7 @@ locationvacances.ch
 locationvaisselle.ch
 locationvelo.ch
 locationverbier.ch
+locationvoiture-lausanne.ch
 locationvoiture.ch
 locationvoituredeluxe.ch
 locationvoitureluxe.ch
@@ -1734,6 +1743,7 @@ locatour.ch
 locatours.ch
 locaty.ch
 locauto.ch
+locautolausanne.ch
 locaux-industriels.ch
 locaux-sos.ch
 locauxcommerciaux.ch
@@ -2809,6 +2819,7 @@ loeterei.ch
 loeterin.ch
 loetkolben.ch
 loetkompetenz.ch
+loetsch.ch
 loetschberg-achse.ch
 loetschberg-aoc.ch
 loetschberg-bern.ch
@@ -5911,7 +5922,6 @@ lojo.ch
 lojune.ch
 lok-service.ch
 lok-stadt.ch
-lok-trading.ch
 lok-um.ch
 lok.ch
 lok1.ch
@@ -7791,7 +7801,6 @@ lonzenity.ch
 lonzi.ch
 loo-too.ch
 loo.ch
-loo7.ch
 looba.ch
 loobek.ch
 looblade.ch
@@ -9551,6 +9560,7 @@ loristheurillat.ch
 loristronics.ch
 loristrotter.ch
 loristruninger.ch
+loristura.ch
 lorisvelos.ch
 lorisvetter.ch
 lorisvettese.ch
@@ -9729,7 +9739,6 @@ lorze.ch
 lorzen-allmend.ch
 lorzenallmend.ch
 lorzenareal.ch
-lorzencapital-partners.ch
 lorzencapital.ch
 lorzendamm.ch
 lorzeninsel.ch
@@ -10815,7 +10824,6 @@ lotusprimecapital.ch
 lotusprofessional.ch
 lotuspsy.ch
 lotuspuma.ch
-lotusqueer.ch
 lotusquelle.ch
 lotusraum.ch
 lotusreinigung.ch
@@ -10991,6 +10999,7 @@ loue-moi.ch
 loue.ch
 louee.ch
 louel.ch
+louela.ch
 loueliasbihler.ch
 louelipark.ch
 louelle.ch
@@ -11025,6 +11034,7 @@ louer-une-vw-coccinelle.ch
 louer-valais.ch
 louer-yacht.ch
 louer.ch
+louerauto.ch
 louerettes.ch
 louerkinetec.ch
 louerlimousine.ch
@@ -11639,7 +11649,6 @@ lourie.ch
 louroft.ch
 lourose.ch
 lours-coaching.ch
-lours-fribourg.ch
 lours.ch
 loursbleu.ch
 loursepolaire.ch
@@ -11680,6 +11689,7 @@ loutravis.ch
 loutre.ch
 loutreetgecko.ch
 loutrenant.ch
+loutrenet.ch
 louts.ch
 louundmoritz.ch
 louundmou.ch

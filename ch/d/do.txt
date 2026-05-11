@@ -896,6 +896,7 @@ docscloud.ch
 docscolaire.ch
 docscout.ch
 docscribe.ch
+docscuderiagarage.ch
 docsdata.ch
 docsdesign.ch
 docsdocs.ch
@@ -2306,6 +2307,7 @@ dogandcatdoc.ch
 dogandco.ch
 doganddrive.ch
 dogandfriends.ch
+dogandgo.ch
 dogandheart.ch
 dogandhorseunit.ch
 dogandlounge.ch
@@ -7702,7 +7704,6 @@ domus-widnau.ch
 domus.ch
 domus24.ch
 domus360.ch
-domus4.ch
 domus44.ch
 domus46.ch
 domus6600.ch
@@ -11419,7 +11420,6 @@ dossaebaengaeler.ch
 dossantos-cartechnik.ch
 dossantos-maconnerie.ch
 dossantos-peinture.ch
-dossantos-voyance.ch
 dossantos.ch
 dossantoscars.ch
 dossantospaim.ch
@@ -12535,6 +12535,7 @@ dovastore.ch
 dovaswiss.ch
 dovat.ch
 dovato.ch
+dovcapital.ch
 dove-it.ch
 dove-net.ch
 dove-sa.ch
@@ -12698,7 +12699,6 @@ downloads.ch
 downloads24.ch
 downloads4u.ch
 downpassion.ch
-downpipe.ch
 downpipebrothers.ch
 downpipes.ch
 downrabbit.ch

@@ -3132,7 +3132,6 @@ goldbloom.ch
 goldbluete.ch
 goldblum-consulting.ch
 goldblum-finanzen.ch
-goldblum-salzberg-morgenstern.ch
 goldblum.ch
 goldblumcie.ch
 goldboc.ch
@@ -5483,6 +5482,7 @@ golf-farm.ch
 golf-faszination.ch
 golf-ferien.ch
 golf-finder.ch
+golf-fit.ch
 golf-fitness.ch
 golf-fitter.ch
 golf-fitting-shop.ch
@@ -5623,6 +5623,7 @@ golf-sg.ch
 golf-shop.ch
 golf-signature.ch
 golf-simulator.ch
+golf-society-pass.ch
 golf-source-du-rhone.ch
 golf-spielen-belek.ch
 golf-spielen.ch
@@ -5760,7 +5761,6 @@ golfballs24.ch
 golfballstempel.ch
 golfballtauchen.ch
 golfballtaucher.ch
-golfbandits.ch
 golfbar.ch
 golfbarometer.ch
 golfbasel.ch
@@ -6645,6 +6645,7 @@ gollut-hydrotec.ch
 gollut.ch
 gollwitzer.ch
 golly.ch
+gollyhat.ch
 golm-storen.ch
 golmar.ch
 golmark.ch
@@ -10961,6 +10962,7 @@ gov-ai.ch
 gov-digital-check.ch
 gov-gpt.ch
 gov-ix.ch
+gov-md.ch
 gov-ortho.ch
 gov-post.ch
 gov-safe.ch

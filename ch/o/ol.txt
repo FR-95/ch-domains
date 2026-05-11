@@ -96,7 +96,6 @@ olah.ch
 olahou.ch
 olahpartner.ch
 olai.ch
-olaian.ch
 olaila.ch
 olaisys.ch
 olait-saveurs.ch
@@ -749,6 +748,7 @@ oldtimer-interieur.ch
 oldtimer-invest.ch
 oldtimer-investment.ch
 oldtimer-investments.ch
+oldtimer-kalender.ch
 oldtimer-klassik.ch
 oldtimer-kleider.ch
 oldtimer-kolly.ch
@@ -1388,7 +1388,6 @@ olgaontour.ch
 olgapavlu.ch
 olgapopova.ch
 olgare.ch
-olgareichert.ch
 olgaribler.ch
 olgaroehl.ch
 olgart.ch

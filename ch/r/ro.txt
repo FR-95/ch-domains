@@ -5476,8 +5476,8 @@ roger-baut.ch
 roger-beer.ch
 roger-benoit.ch
 roger-blum.ch
-roger-born.ch
 roger-bucher.ch
+roger-buechi.ch
 roger-buerli.ch
 roger-christeller.ch
 roger-curchod.ch
@@ -5671,7 +5671,6 @@ rogerbodmer.ch
 rogerboesch.ch
 rogerbolle.ch
 rogerbolliger.ch
-rogerborn.ch
 rogerboss.ch
 rogerbraun.ch
 rogerbreu.ch
@@ -5683,6 +5682,7 @@ rogerbrown.ch
 rogerbrugger.ch
 rogerbrunner.ch
 rogerbucher.ch
+rogerbuechi.ch
 rogerbuehrer.ch
 rogerbuergler.ch
 rogerbueschlen.ch
@@ -6819,6 +6819,7 @@ rohrleitungssanierung.ch
 rohrleitungssystem.ch
 rohrleitungssysteme.ch
 rohrli.ch
+rohrliner.ch
 rohrmantel.ch
 rohrmarkierung.ch
 rohrmatt.ch
@@ -7588,7 +7589,6 @@ roland-hartmann.ch
 roland-hasler.ch
 roland-heini.ch
 roland-herzig.ch
-roland-hirschi.ch
 roland-hofmann.ch
 roland-hollenstein.ch
 roland-honegger.ch
@@ -9944,6 +9944,7 @@ romaingammuto.ch
 romaingarcia.ch
 romaingauthier.ch
 romaingeiser.ch
+romaingirard.ch
 romaingraf.ch
 romainguenat.ch
 romainhaenni.ch
@@ -10257,6 +10258,7 @@ romandie-demenagements.ch
 romandie-emploi.ch
 romandie-emplois.ch
 romandie-en-bleu.ch
+romandie-energies.ch
 romandie-evenementiel.ch
 romandie-excellence.ch
 romandie-fenetres.ch
@@ -10750,7 +10752,6 @@ romantica-zermatt.ch
 romantica.ch
 romantica81.ch
 romanticahinwil.ch
-romanticaristro.ch
 romanticas.ch
 romanticfashion.ch
 romanticflor.ch
@@ -11357,6 +11358,7 @@ romylou.ch
 romyloumusic.ch
 romymanagement.ch
 romymeier.ch
+romymethode.ch
 romymoell.ch
 romymorel.ch
 romyott.ch
@@ -12837,6 +12839,7 @@ roots-catering.ch
 roots-diner.ch
 roots-distribution.ch
 roots-effretikon.ch
+roots-forward.ch
 roots-gebenstorf.ch
 roots-gmbh.ch
 roots-hair-and-lifestyle.ch

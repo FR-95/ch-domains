@@ -87,7 +87,6 @@ ab-fassaden.ch
 ab-fenster-storen.ch
 ab-fenster-tueren.ch
 ab-fenster.ch
-ab-fid.ch
 ab-financepartner.ch
 ab-fl.ch
 ab-fotografie.ch
@@ -1943,7 +1942,6 @@ abcr-ch.ch
 abcr-immo-ag.ch
 abcr-swiss.ch
 abcr.ch
-abcrc.ch
 abcrealestate-verbier.ch
 abcreation.ch
 abcreations.ch
@@ -2017,6 +2015,7 @@ abcu.ch
 abcucine.ch
 abcuenod.ch
 abcuisines.ch
+abcustoms.ch
 abcvitrerie.ch
 abcwagenbau.ch
 abcweb.ch
@@ -2250,7 +2249,6 @@ abearchitekten.ch
 abeautified.ch
 abeautifulmind.ch
 abeautifulsmile.ch
-abeauty.ch
 abeautycie.ch
 abeautycosmetics.ch
 abebaerg.ch
@@ -5916,7 +5914,6 @@ absolutegroup.ch
 absoluteinvest.ch
 absolutely-cool.ch
 absolutely-delicious.ch
-absolutely.ch
 absolutelyclassical.ch
 absolutelyfabulousmovie.ch
 absolutelyfantastic.ch
@@ -6145,6 +6142,7 @@ abstimmungs-parolen.ch
 abstimmungsbarometerapp.ch
 abstimmungsbeobachterschweiz.ch
 abstimmungsbier.ch
+abstimmungschweiz.ch
 abstimmungscouvert.ch
 abstimmungscouverts.ch
 abstimmungsempfehlung.ch

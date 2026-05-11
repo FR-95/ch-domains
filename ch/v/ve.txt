@@ -66,7 +66,6 @@ veb-baden.ch
 veb-brugg.ch
 veb-reitnau.ch
 veb-technik.ch
-veb-up.ch
 veb-zofingen.ch
 veb-zurzach.ch
 veb.ch
@@ -638,7 +637,6 @@ veeriibeerii.ch
 veerlesterken.ch
 veertix.ch
 veertly.ch
-vees.ch
 veesbistro-zuerich.ch
 veesbistro.ch
 veeschweiz.ch
@@ -1409,7 +1407,6 @@ veggie-service.ch
 veggie-shop.ch
 veggie-tables.ch
 veggie.ch
-veggiecorner.ch
 veggieday.ch
 veggiedog.ch
 veggiefell.ch
@@ -1687,6 +1684,7 @@ vehomed.ch
 vehovec.ch
 vehp.ch
 vehta.ch
+vehukuk.ch
 vehweid.ch
 vei.ch
 veia.ch
@@ -2827,6 +2825,7 @@ veloclubcapriasca.ch
 veloclubcasaitalia.ch
 veloclubchampvent.ch
 veloclubfribourg.ch
+veloclubhaus.ch
 veloclubillnau.ch
 veloclubins.ch
 veloclublausanne.ch
@@ -3565,6 +3564,7 @@ velosfuerafrika.ch
 velosg.ch
 velosgeneve.ch
 veloshare.ch
+veloshine.ch
 veloshop-kerzers.ch
 veloshop-lussi.ch
 veloshop-luzern.ch
@@ -5774,7 +5774,6 @@ venueconsulting.ch
 venuectrl.ch
 venuefinder.ch
 venueguide.ch
-venueoperator.ch
 venueportal.ch
 venues-collective.ch
 venues.ch
@@ -7658,6 +7657,7 @@ verein-barmelweid.ch
 verein-barmherzigkeit.ch
 verein-barnabas.ch
 verein-bbf.ch
+verein-bekleidung.ch
 verein-bellina.ch
 verein-berglauf.ch
 verein-bergrennen-reitnau.ch
@@ -8492,7 +8492,6 @@ vereinslager.ch
 vereinsliebe.ch
 vereinsliste.ch
 vereinslogos.ch
-vereinslokal.ch
 vereinslotto.ch
 vereinsmail.ch
 vereinsmakler.ch
@@ -9434,6 +9433,7 @@ verifiziert.ch
 verifizierung.ch
 veriflot.ch
 verifo.ch
+verifone.ch
 verifort-capital.ch
 verifort.ch
 verifortcapital.ch
@@ -13221,6 +13221,7 @@ vertical-print.ch
 vertical-pro.ch
 vertical-radio.ch
 vertical-reference.ch
+vertical-series.ch
 vertical-shop.ch
 vertical-solutions.ch
 vertical-sports.ch
@@ -14390,6 +14391,7 @@ vesano.ch
 vesanoo.ch
 vesantis.ch
 vesapol.ch
+vesaraum.ch
 vesarc.ch
 vesarproduction.ch
 vesba.ch

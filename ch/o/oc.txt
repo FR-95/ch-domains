@@ -1010,6 +1010,7 @@ ochsner-ochsnerag.ch
 ochsner-operations.ch
 ochsner-partner.ch
 ochsner-probau.ch
+ochsner-property.ch
 ochsner-reisen.ch
 ochsner-rueegg.ch
 ochsner-schreinerei.ch
@@ -1272,7 +1273,6 @@ octacare.ch
 octachore.ch
 octacon.ch
 octacron.ch
-octacuts.ch
 octafix.ch
 octaflex.ch
 octag-servicedesk.ch

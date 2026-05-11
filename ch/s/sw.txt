@@ -1777,7 +1777,6 @@ swiftch.ch
 swiftclean.ch
 swiftcleantaxi.ch
 swiftcode.ch
-swiftcom.ch
 swiftconnect.ch
 swiftcopters.ch
 swiftcv.ch
@@ -3422,8 +3421,6 @@ swiss-bleach.ch
 swiss-blended-learning-academy.ch
 swiss-bliss.ch
 swiss-block.ch
-swiss-blockchain-association.ch
-swiss-blockchain-hub.ch
 swiss-blockchain-nation.ch
 swiss-blockchain-summit.ch
 swiss-blockchain.ch
@@ -5729,6 +5726,7 @@ swiss-hobby-horsing-verband.ch
 swiss-hobby.ch
 swiss-hockey-academy.ch
 swiss-hockey-camp.ch
+swiss-hockey-club.ch
 swiss-hockey-event.ch
 swiss-hockey-fan.ch
 swiss-hockey-group.ch
@@ -7053,7 +7051,6 @@ swiss-naturacasa.ch
 swiss-natural-base.ch
 swiss-natural-beauty.ch
 swiss-nature-labs.ch
-swiss-nature-lodge.ch
 swiss-nature-photo.ch
 swiss-nature.ch
 swiss-naturepig.ch
@@ -9438,7 +9435,6 @@ swiss-vat-agency.ch
 swiss-vat.ch
 swiss-vault.ch
 swiss-vc.ch
-swiss-veco.ch
 swiss-veda.ch
 swiss-vegalife.ch
 swiss-vegan-label.ch
@@ -10042,6 +10038,7 @@ swissadena.ch
 swissadexpress.ch
 swissadhesive.ch
 swissadimpact.ch
+swissadjusters.ch
 swissadm.ch
 swissadme.ch
 swissadmin.ch
@@ -10093,6 +10090,7 @@ swissaero.ch
 swissaerobatic.ch
 swissaerobotics.ch
 swissaerocampus.ch
+swissaeroclean.ch
 swissaerogel.ch
 swissaeroluxwohnen.ch
 swissaeropole.ch
@@ -10455,6 +10453,7 @@ swissalpinedistillery.ch
 swissalpinedome.ch
 swissalpineemotion.ch
 swissalpineescapes.ch
+swissalpineexperiences.ch
 swissalpineexpress.ch
 swissalpinefactory.ch
 swissalpinefeeling.ch
@@ -11821,7 +11820,6 @@ swissblockchainbridge.ch
 swissblockchainconference.ch
 swissblockchaincongress.ch
 swissblockchainconsortium.ch
-swissblockchainhub.ch
 swissblockchainnation.ch
 swissblockchains.ch
 swissblockchainsecurities.ch
@@ -14693,7 +14691,6 @@ swissdepositbank.ch
 swissdepository.ch
 swissdepot.ch
 swissdepotimport.ch
-swissdept.ch
 swissderby.ch
 swissderbydesalpes.ch
 swissderivate.ch
@@ -14943,6 +14940,7 @@ swissdigitalpayment.ch
 swissdigitalplatform.ch
 swissdigitalpolyclinic.ch
 swissdigitalranking.ch
+swissdigitalscience.ch
 swissdigitalsignage.ch
 swissdigitalsolution.ch
 swissdigitalsolutions.ch
@@ -18733,7 +18731,6 @@ swissinnolab.ch
 swissinnomed.ch
 swissinnoplus.ch
 swissinnotec.ch
-swissinnov.ch
 swissinnova.ch
 swissinnovatio.ch
 swissinnovationbank.ch
@@ -20311,6 +20308,7 @@ swisslymph.ch
 swisslynk.ch
 swisslynx.ch
 swisslynxinternational.ch
+swisslyy.ch
 swissm.ch
 swissm4m.ch
 swissm4mcenter.ch
@@ -20724,6 +20722,7 @@ swissmedadvice.ch
 swissmedag.ch
 swissmedanalytics.ch
 swissmedap.ch
+swissmedas.ch
 swissmedassociation.ch
 swissmedbeauty.ch
 swissmedbilling.ch
@@ -21229,7 +21228,6 @@ swissmissing.ch
 swissmissioneu.ch
 swissmisting.ch
 swissmitbizz.ch
-swissmits.ch
 swissmix.ch
 swissmixart.ch
 swissmixx.ch
@@ -21718,7 +21716,6 @@ swissnature-coaching.ch
 swissnature.ch
 swissnaturecare.ch
 swissnaturelab.ch
-swissnaturelodge.ch
 swissnaturhouse.ch
 swissnaturicum.ch
 swissnaturpower.ch
@@ -24209,7 +24206,6 @@ swissquoteprivatebank.ch
 swissquoteprivatebanking.ch
 swissquoter.ch
 swissquotes.ch
-swissquotetech.ch
 swissquotetrade.ch
 swissquotte.ch
 swissqure.ch
@@ -24749,6 +24745,7 @@ swissriveradventures.ch
 swissriverrescue.ch
 swissrivers.ch
 swissriversidehome.ch
+swissriviera-ai.ch
 swissriviera-business.ch
 swissriviera.ch
 swissrivierabusiness.ch
@@ -26729,6 +26726,7 @@ swisstranscribe.ch
 swisstranscript.ch
 swisstransdating.ch
 swisstransfair.ch
+swisstransfeero.ch
 swisstransfer.ch
 swisstransfer24.ch
 swisstransferclub.ch
@@ -27238,7 +27236,6 @@ swissvcfinance.ch
 swissvd.ch
 swissvdc.ch
 swissvdesk.ch
-swissveco.ch
 swissvector.ch
 swissvectorproject.ch
 swissveeamguy.ch
@@ -29653,7 +29650,6 @@ swxdev.ch
 swxqz.ch
 swxtchi.ch
 swy.ch
-swybrand.ch
 swydate.ch
 swyder.ch
 swyft.ch

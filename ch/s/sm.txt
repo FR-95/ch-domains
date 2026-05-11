@@ -944,6 +944,7 @@ smart-factory-4-0.ch
 smart-factory-assembly.ch
 smart-factory-logistics.ch
 smart-factory.ch
+smart-fam.ch
 smart-farm.ch
 smart-farming-schweiz.ch
 smart-farming.ch
@@ -3694,7 +3695,6 @@ smartportal365.ch
 smartportrait.ch
 smartportraits.ch
 smartpos.ch
-smartpositioniert.ch
 smartpost.ch
 smartpower-drain.ch
 smartpower.ch
@@ -6978,7 +6978,6 @@ smsbox.ch
 smsbriefmarke.ch
 smsbroadcast.ch
 smsc-basel.ch
-smsc-fribourg.ch
 smsc-racing.ch
 smsc.ch
 smscbern.ch
@@ -7367,7 +7366,6 @@ smyrna.ch
 smyrnafood.ch
 smyt.ch
 smyth.ch
-smyths.ch
 smythson.ch
 smythstoys.ch
 smythtoys.ch

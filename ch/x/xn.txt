@@ -1864,7 +1864,6 @@ xn--aproknig-c1a7k.ch
 xn--apromat-cya.ch
 xn--aproplatte-c7a.ch
 xn--aproplatten-cbb.ch
-xn--aprosa-cva.ch
 xn--aprs-demain-09a.ch
 xn--aprs-ski-30a.ch
 xn--apsraciss-i4a.ch
@@ -2645,7 +2644,6 @@ xn--auto-cole-blasky-fqb.ch
 xn--auto-cole-f4a.ch
 xn--auto-cole-lausanne-fwb.ch
 xn--auto-cole-valais-fqb.ch
-xn--auto-colelatchaux-ftb.ch
 xn--auto-dfense-gbb.ch
 xn--auto-einfhren-4ob.ch
 xn--auto-entsorgen-zrich-4ec.ch
@@ -3070,7 +3068,6 @@ xn--badmbel-basel-lmb.ch
 xn--badmbel-d1a.ch
 xn--badmbel-luzern-ypb.ch
 xn--badmbel-online-ypb.ch
-xn--badmbel24-37a.ch
 xn--badmbelausstellung-g3b.ch
 xn--badmbelbrse-ufbe.ch
 xn--badmbelonline-lmb.ch
@@ -3241,7 +3238,6 @@ xn--bar--jeux-t1a.ch
 xn--bar--sieste-b7a.ch
 xn--bar-mbel-mieten-dtb.ch
 xn--bar-schlssel-klb.ch
-xn--bar-zrich-u9a.ch
 xn--bar-zrichsee-hlb.ch
 xn--bara-2oa.ch
 xn--bara-academy-mdb.ch
@@ -3295,7 +3291,6 @@ xn--baromtre-numrique-wsb0a.ch
 xn--baromtredumarchesolaire-qbc.ch
 xn--barrierefreiebcher-z6b.ch
 xn--barrire-ecluse-securit-r7b5b.ch
-xn--bars-zrich-feb.ch
 xn--barschulezrich-psb.ch
 xn--barthau-anhnger-blb.ch
 xn--bartknig-r4a.ch
@@ -6613,7 +6608,6 @@ xn--boplissertrffel-9vb.ch
 xn--bopplisser-chrtlifrau-mic.ch
 xn--bopplisser-chrtlihx-xwb31c.ch
 xn--bopplisser-kruterfrau-i2b.ch
-xn--bordell-zrich-4ob.ch
 xn--bordellfhrer-klb.ch
 xn--bordren-q2a.ch
 xn--borkenkfer-w5a.ch
@@ -9073,7 +9067,6 @@ xn--cafe-glcklich-2ob.ch
 xn--cafe-grezi-geb.ch
 xn--cafe-mmpfeli-ilb.ch
 xn--cafe-mnz-c6a.ch
-xn--cafe-zrich-feb.ch
 xn--cafebar-ldeli-jfb.ch
 xn--cafebauhtte-0hb.ch
 xn--cafeglcklich-ilb.ch
@@ -11631,12 +11624,10 @@ xn--deine-haustre-6ob.ch
 xn--deine-kche-geb.ch
 xn--deine-knstliche-intelligenz-o3c.ch
 xn--deine-mbel-kcb.ch
-xn--deine-mobilitt-iib.ch
 xn--deine-stndertin-7kbe.ch
 xn--deine-tre-w9a.ch
 xn--deine-wirbelsule-im-licht-xec.ch
 xn--deine-wnsche-jlb.ch
-xn--deine-wrme-w5a.ch
 xn--deinebrtchen-bjb.ch
 xn--deinehtte-v9a.ch
 xn--deineinkufer-ncb.ch
@@ -11645,7 +11636,6 @@ xn--deinekchengerte-dlb41b.ch
 xn--deinelwelt-icb.ch
 xn--deinembel-57a.ch
 xn--deinemhle-v9a.ch
-xn--deinemobilitt-mfb.ch
 xn--deinernhrungscoach-rtb.ch
 xn--deinetr-s2a.ch
 xn--deinetraumkche-qsb.ch
@@ -11653,7 +11643,6 @@ xn--deinetre-c6a.ch
 xn--deineverhandlungspersnlichkeit-e9c.ch
 xn--deinewirbelsuleimlicht-c5b.ch
 xn--deinewnsche-yhb.ch
-xn--deinewrme-02a.ch
 xn--deingartenmbel-5pb.ch
 xn--deingelnder-r8a.ch
 xn--deingepck-12a.ch
@@ -12773,7 +12762,6 @@ xn--dner-5qa.ch
 xn--dner-kebap-ecb.ch
 xn--dner-king-07a.ch
 xn--dner-mitalles-imb.ch
-xn--dner-produktion-8sb.ch
 xn--dner-spectacle-gmb.ch
 xn--dner-wgeli-v5a4s.ch
 xn--dner4party-ecb.ch
@@ -13800,7 +13788,6 @@ xn--einbau-kchen-klb.ch
 xn--einbaugerte-t8a.ch
 xn--einbaugeschirrspler-lbc.ch
 xn--einbaukche-geb.ch
-xn--einbaukche24-jlb.ch
 xn--einbaukchen-zhb.ch
 xn--einbaukhlschrank-pzb.ch
 xn--einbaukhlschrnke-7nb93b.ch
@@ -17952,7 +17939,6 @@ xn--frhfrderung-winterthur-xhc5l.ch
 xn--frhgeburt-r9a.ch
 xn--frhgeburten-uhb.ch
 xn--frhimmo-o2a.ch
-xn--frhimmo24-r9a.ch
 xn--frhimmobilien-xob.ch
 xn--frhjahr-o2a.ch
 xn--frhjahrsputz-elb.ch
@@ -21987,6 +21973,7 @@ xn--graubnden-holidays-q6b.ch
 xn--graubnden-immo-ksb.ch
 xn--graubnden-immobilien-tec.ch
 xn--graubnden-job-0ob.ch
+xn--graubnden-magazin-62b.ch
 xn--graubnden-museen-nzb.ch
 xn--graubnden-outdoor-62b.ch
 xn--graubnden-portal-nzb.ch
@@ -22010,6 +21997,7 @@ xn--graubndenholz-0ob.ch
 xn--graubndenimmo-0ob.ch
 xn--graubndenimmobilien-99b.ch
 xn--graubndenkultur-3vb.ch
+xn--graubndenmagazin-nzb.ch
 xn--graubndenmusik-ksb.ch
 xn--graubndenpadel-ksb.ch
 xn--graubndenpass-0ob.ch
@@ -26242,6 +26230,7 @@ xn--hrgertebatterien-znb33a.ch
 xn--hrgertekauf-p8a3u.ch
 xn--hrgerteland-p8a3u.ch
 xn--hrgertemieten-ffb9x.ch
+xn--hrgertepreis-kcb1w.ch
 xn--hrgertepreise-ffb9x.ch
 xn--hrgerteprofis-ffb9x.ch
 xn--hrgerterechner-9hb7z.ch
@@ -27895,7 +27884,6 @@ xn--ipanema-beaut-nhb.ch
 xn--ipberatung-simonabni-lbc.ch
 xn--iphone-hlle-0hb.ch
 xn--ipl-swiss-gerte-dlb.ch
-xn--ipl-zrich-u9a.ch
 xn--ipma-projektmanager-zrichsee-m7c.ch
 xn--ipnktli-o2a.ch
 xn--ipsscurit-e4af.ch
@@ -28158,7 +28146,6 @@ xn--jeu-vido-h1a.ch
 xn--jeunecin-i1a.ch
 xn--jeuvido-gya.ch
 xn--jeux-de-socit-mhbb.ch
-xn--jeuxvido-h1a.ch
 xn--jewelerystorezrich-z6b.ch
 xn--jge-hoa.ch
 xn--jger-analytics-5hb.ch
@@ -28310,6 +28297,7 @@ xn--jodlerfrnde-neuenegg-wec.ch
 xn--jodlerfscht-r8a.ch
 xn--jodlerklub-alpenrsli-kbc.ch
 xn--jodlerklub-brgbrnneli-h2b07c.ch
+xn--jodlerklub-brgsee-1qb.ch
 xn--jodlerklub-btzberg-x6b.ch
 xn--jodlerklub-flhli-vzb.ch
 xn--jodlerkse-12a.ch
@@ -39671,7 +39659,6 @@ xn--nachstrmung-xfb.ch
 xn--nacht-vorhnge-kfb.ch
 xn--nachtarbeitglck-cwb.ch
 xn--nachtbro-c6a.ch
-xn--nachtclub-zrich-9vb.ch
 xn--nachtderkche-llb.ch
 xn--nachtgeflster-4ob.ch
 xn--nachtkerzenl-fjb.ch
@@ -41113,6 +41100,7 @@ xn--nva-hoa.ch
 xn--nvgrnichen-t5a.ch
 xn--nvla-0ra.ch
 xn--nvoa-vpa.ch
+xn--nvori-bsa.ch
 xn--nvv-mugr-d6ab.ch
 xn--nvvdnikon-httikon-tqb77b.ch
 xn--nx-0ka.ch
@@ -41600,6 +41588,7 @@ xn--ort-tma.ch
 xn--ortedesglcks-llb.ch
 xn--ortefrmenschen-ksb.ch
 xn--ortho-genve-69a.ch
+xn--ortho-kniz-kcb.ch
 xn--ortho-pfffikon-dib.ch
 xn--orthobit-blach-psb.ch
 xn--orthodonticszrich-f3b.ch
@@ -41607,6 +41596,7 @@ xn--orthodontie-chtel-st-denis-9fc.ch
 xn--orthodontie-gouttires-54b.ch
 xn--orthodontie-pdiatrique-n8b.ch
 xn--orthokniz-57a.ch
+xn--orthoknizpraxis-etb.ch
 xn--orthomolekulare-nhrstoffe-1ec.ch
 xn--orthopaedie-zrich-f3b.ch
 xn--orthopd-bxa.ch
@@ -44644,7 +44634,6 @@ xn--publicit-i1a.ch
 xn--pudelmtze-v9a.ch
 xn--pudelzubehr-0fb.ch
 xn--puertobans-kdb.ch
-xn--puff-zrich-feb.ch
 xn--puis-je-me-chauffer--distance-4mc.ch
 xn--puli-loa.ch
 xn--puls-fhlen-feb.ch
@@ -44745,6 +44734,7 @@ xn--qualit-svizzera-cjb.ch
 xn--qualitetprix-geb.ch
 xn--qualitsuisse-geb.ch
 xn--qualitsvizzera-lgb.ch
+xn--qualitt-bxa.ch
 xn--qualitt-emmen-gfb.ch
 xn--qualitt-erwachsenenschutz-qec.ch
 xn--qualitt-in-gemeinden-gzb.ch
@@ -46596,7 +46586,6 @@ xn--rnovation-nergetique-b2bj.ch
 xn--rnovation-peinture-bwb.ch
 xn--rnovation-salle-de-bain-lausanne-b3c.ch
 xn--rnovation-terrasse-bwb.ch
-xn--rnovation24-bbb.ch
 xn--rnovationcuisine-bqb.ch
 xn--rnovationmaison-bnb.ch
 xn--rnovationnergtique-bwbie.ch
@@ -46661,12 +46650,14 @@ xn--rockthewrkstatt-gtb.ch
 xn--rockzwerg-32a.ch
 xn--rodaelmn-13a.ch
 xn--roethlin-fenster-tren-qic.ch
+xn--roger-bchi-geb.ch
 xn--roger-drig-kcb.ch
 xn--roger-hngrtner-cibc.ch
 xn--roger-kppel-xfb.ch
 xn--roger-schnbchler-5nb53a.ch
 xn--roger-tschmperlin-c3b.ch
 xn--roger-wst-w9a.ch
+xn--rogerbchi-v9a.ch
 xn--rogerbhrer-feb.ch
 xn--rogerdrig-57a.ch
 xn--rogerhner-02a.ch
@@ -48972,6 +48963,7 @@ xn--schlssel-online-2vb.ch
 xn--schlssel-safe-zob.ch
 xn--schlssel-schmider-52b.ch
 xn--schlssel-schneider-p6b.ch
+xn--schlssel-seeberg-mzb.ch
 xn--schlssel-service-ag-89b.ch
 xn--schlssel-service-mzb.ch
 xn--schlssel-service24-p6b.ch
@@ -49258,6 +49250,7 @@ xn--schlsselschneider-52b.ch
 xn--schlsselschrank-2vb.ch
 xn--schlsselschutz-jsb.ch
 xn--schlsselscout-zob.ch
+xn--schlsselseeberg-2vb.ch
 xn--schlsselservice-2vb.ch
 xn--schlsselservice-aargau-vlc.ch
 xn--schlsselservice-ag-p6b.ch
@@ -52146,7 +52139,6 @@ xn--societsuissedesantdigitale-glcm.ch
 xn--societsuissedetlmdecine-gccjbb.ch
 xn--socit-angiologie-eqbb.ch
 xn--socit-de-thanatologie-e5bb.ch
-xn--socit-esab.ch
 xn--socit-laiteries-chatel-st-denis-e0cb.ch
 xn--socit-laiteries-prayoud-eccb.ch
 xn--socit-suisse-eebb.ch
@@ -54484,6 +54476,7 @@ xn--studer-schr-2hba.ch
 xn--studerbru-22a.ch
 xn--studerkruterl-ifb8y.ch
 xn--studerschr-ieba.ch
+xn--studi-zua.ch
 xn--studiengnge-s8a.ch
 xn--studio-admir-meb.ch
 xn--studio-mbel-yfb.ch
@@ -55224,7 +55217,6 @@ xn--tbmrigen-p4a.ch
 xn--tbo-wngi-4za.ch
 xn--tbrgs-juab.ch
 xn--tbschftland-vfb.ch
-xn--tbwwrme-8wa.ch
 xn--tc-grsch-b6a.ch
 xn--tc-hofldeli-r8a.ch
 xn--tc-mnsterlingen-2vb.ch
@@ -56038,7 +56030,6 @@ xn--thrlingua-r9a.ch
 xn--thrnen-4ya.ch
 xn--thrnen24-75a.ch
 xn--thrner-xxa.ch
-xn--ths-cma.ch
 xn--thtig-hra.ch
 xn--thtigconsulting-1kb.ch
 xn--thtre-escarboucle-qpb6k.ch
@@ -62696,7 +62687,6 @@ xn--zoohandlung-zrich-f3b.ch
 xn--zoohndler-y2a.ch
 xn--zoohner-8wa.ch
 xn--zoozrich-95a.ch
-xn--zopfstbli-v9a.ch
 xn--zopfundzpfli-cjb.ch
 xn--zornrschen-icb.ch
 xn--zottelbr-6za.ch
@@ -63567,7 +63557,6 @@ xn--zrichseebar-thb.ch
 xn--zrichseebootsvermietung-cpc.ch
 xn--zrichseecenter-gsb.ch
 xn--zrichseedampfer-zvb.ch
-xn--zrichseefahrschule-m6b.ch
 xn--zrichseefest-dlb.ch
 xn--zrichseegut-thb.ch
 xn--zrichseeimmo-dlb.ch

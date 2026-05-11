@@ -106,7 +106,6 @@ mc-flimstransporte.ch
 mc-fluri.ch
 mc-foto.ch
 mc-fotobox.ch
-mc-fotografie.ch
 mc-freienwil.ch
 mc-g.ch
 mc-game.ch
@@ -1265,7 +1264,6 @@ mclocate.ch
 mclogin.ch
 mclohn.ch
 mcloud.ch
-mcloudb.ch
 mclouds.ch
 mcloughlin.ch
 mclouis-schweiz.ch

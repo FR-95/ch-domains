@@ -3814,6 +3814,7 @@ geiser-kaeppeli.ch
 geiser-logistik.ch
 geiser-maraicher.ch
 geiser-petro.ch
+geiser-sports.ch
 geiser-teufen.ch
 geiser-treuhand.ch
 geiser.ch
@@ -4005,6 +4006,7 @@ geissmann-marketing.ch
 geissmann-partner.ch
 geissmann-transporte.ch
 geissmann-treuhand.ch
+geissmann-webconsulting.ch
 geissmann.ch
 geissmannarch.ch
 geissmannbeeren.ch
@@ -4790,7 +4792,6 @@ geldidee.ch
 geldideen.ch
 geldikigai.ch
 geldimalter.ch
-geldimfokus.ch
 geldimgriff.ch
 geldinfo.ch
 geldinstitut.ch
@@ -7810,6 +7811,7 @@ generativebiology.ch
 generativecapitalfund.ch
 generativecaptial.ch
 generativecenter.ch
+generativecities.ch
 generativedesign.ch
 generativeengineoptimization.ch
 generativehumanae.ch
@@ -11025,6 +11027,8 @@ genuss-momente.ch
 genuss-mosaik.ch
 genuss-oase.ch
 genuss-ohne-kater.ch
+genuss-onlin.ch
+genuss-online.ch
 genuss-orte.ch
 genuss-paradies.ch
 genuss-partner.ch
@@ -11047,6 +11051,7 @@ genuss-shop.ch
 genuss-skitouren.ch
 genuss-strasse.ch
 genuss-stube.ch
+genuss-swiss-international.ch
 genuss-takeaway.ch
 genuss-tasche.ch
 genuss-thur.ch
@@ -11304,7 +11309,6 @@ genussschein.ch
 genussschenken.ch
 genussschiff.ch
 genussschmiede.ch
-genussschweiz.ch
 genussseele.ch
 genusssenf.ch
 genussshop-rheineck.ch
@@ -19653,6 +19657,7 @@ get-it-safaris.ch
 get-it-studio.ch
 get-it.ch
 get-jusit.ch
+get-ki-import.ch
 get-lead.ch
 get-leads.ch
 get-life-going.ch
@@ -21307,7 +21312,6 @@ gewalt-macht-halt.ch
 gewalt-praevention.ch
 gewalt-stopp.ch
 gewaltanfrauen.ch
-gewaltberatung-aargau.ch
 gewaltberatung-zuerich.ch
 gewaltberatung.ch
 gewaltberatungbasel.ch
@@ -21374,6 +21378,7 @@ geweb.ch
 gewebe-bank.ch
 gewebe-spende.ch
 gewebe-straffung.ch
+gewebe.ch
 gewebeband.ch
 gewebebank.ch
 gewebedeslebens.ch

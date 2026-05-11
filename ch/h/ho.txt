@@ -1758,7 +1758,6 @@ hochzeitsauto-mieten.ch
 hochzeitsauto.ch
 hochzeitsautobydave.ch
 hochzeitsautos.ch
-hochzeitsball.ch
 hochzeitsballon.ch
 hochzeitsballone.ch
 hochzeitsballons.ch
@@ -8367,6 +8366,8 @@ holz-produkt.ch
 holz-profile.ch
 holz-profilleisten.ch
 holz-project.ch
+holz-projekt.ch
+holz-projekte.ch
 holz-pur.ch
 holz-putzi.ch
 holz-quelle.ch
@@ -10150,8 +10151,10 @@ holzprofil.ch
 holzprofilleisten.ch
 holzprofis.ch
 holzprofishop.ch
+holzprojekt-schweiz.ch
 holzprojekt.ch
 holzprojekte.ch
+holzprojektschweiz.ch
 holzpromo.ch
 holzpruegel.ch
 holzpunkt-parkett.ch
@@ -12164,7 +12167,6 @@ homely.ch
 homely4u.ch
 homelya.ch
 homelyalarm.ch
-homelyapartments.ch
 homelyconciergerie.ch
 homelymatch.ch
 homelymontage.ch
@@ -12621,6 +12623,7 @@ homepagetestsieger.ch
 homepagetool.ch
 homepagewerkstatt.ch
 homepagezauberer.ch
+homepal.ch
 homepanda.ch
 homepapa.ch
 homeparadise.ch
@@ -15551,7 +15554,6 @@ horalatina.ch
 horalek.ch
 horamode.ch
 horando.ch
-horandowatches.ch
 horann.ch
 horansounds.ch
 horaquotes.ch
@@ -15853,7 +15855,6 @@ horizon-hypnose.ch
 horizon-ia.ch
 horizon-immo.ch
 horizon-immob.ch
-horizon-immobilier.ch
 horizon-international.ch
 horizon-invest.ch
 horizon-it.ch
@@ -16340,7 +16341,6 @@ hormonyoga-gruppenkurse-individuell.ch
 hormonyoga-loutsenko.ch
 hormonyoga-yoga.ch
 hormonyoga-zuerich.ch
-hormonyoga.ch
 hormonyogatherapie.ch
 hormonyogawil.ch
 hormonyshop.ch
@@ -23863,6 +23863,7 @@ houseofnails.ch
 houseofnakamoto.ch
 houseofnature.ch
 houseofnepal.ch
+houseofnewzealand.ch
 houseofnomadstories.ch
 houseofnow.ch
 houseofolive.ch

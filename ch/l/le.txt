@@ -3120,7 +3120,7 @@ learn4life.ch
 learn4school.ch
 learn4u.ch
 learn4you.ch
-learnabacus.ch
+learna.ch
 learnable.ch
 learnaboutyourface.ch
 learnacademy.ch
@@ -4036,7 +4036,6 @@ lebarbier-de-neuchatel.ch
 lebarbier-de-sion.ch
 lebarbier-du-flon.ch
 lebarbier.ch
-lebarbierdegeneve.ch
 lebarbierduleman.ch
 lebarboutzet.ch
 lebarbu.ch
@@ -11523,7 +11522,6 @@ lehrer-portal.ch
 lehrer-ranking.ch
 lehrer-rekrutierung.ch
 lehrer-sos.ch
-lehrer-stellen.ch
 lehrer-vergleich.ch
 lehrer-weiterbildung.ch
 lehrer-werden.ch
@@ -15527,6 +15525,7 @@ leng-beauty.ch
 leng.ch
 lengacher-ag.ch
 lengacher-computing.ch
+lengacher-partner.ch
 lengacher-photo.ch
 lengacher.ch
 lengacheroptik.ch
@@ -16210,6 +16209,7 @@ lentinisvelowerkstatt.ch
 lentirex.ch
 lentiscollective.ch
 lentismed.ch
+lentito.ch
 lentjes-consulting.ch
 lentjes.ch
 lentl.ch
@@ -17106,6 +17106,7 @@ leonart-gmbh.ch
 leonart-studio.ch
 leonartacademy.ch
 leonarth.ch
+leonartkabashi.ch
 leonartlenses.ch
 leonartmotors.ch
 leonartstudio.ch
@@ -18285,7 +18286,6 @@ leplombier.ch
 leplona.ch
 leplongeoir-chexbres.ch
 leplongeoir.ch
-leplouf.ch
 leplumeaudor.ch
 leplus.ch
 leplusbeauvillage.ch
@@ -19346,7 +19346,6 @@ lernebeihasler.ch
 lernebootfahren.ch
 lernebuchhaltung.ch
 lernebusinessnlp.ch
-lerneckezueri.ch
 lerneclever.ch
 lernedasgebet.ch
 lernedeutsch-bern.ch
@@ -19895,6 +19894,7 @@ lerno.ch
 lernoase-beglinger.ch
 lernoase-bellaria.ch
 lernoase-dittingen.ch
+lernoase-hardau.ch
 lernoase-vechigen.ch
 lernoase-zh.ch
 lernoase.ch
@@ -22328,6 +22328,7 @@ lesbonsvivants.ch
 lesbonsvoisins.ch
 lesboosteurs.ch
 lesbordas.ch
+lesbordsdelareuse.ch
 lesborromees.ch
 lesbos.ch
 lesbosquets.ch
@@ -22560,6 +22561,7 @@ leschfrei.ch
 leschhorn.ch
 leschi.ch
 leschic.ch
+leschiensdhamahe.ch
 leschihuahuas.ch
 leschips.ch
 leschiroules.ch
@@ -24062,6 +24064,7 @@ lesmarins.ch
 lesmarionnettes.ch
 lesmarionnettesduleman.ch
 lesmarmitonsducoeur.ch
+lesmarmitonsduterroir.ch
 lesmarmottes.ch
 lesmarmottesbleues.ch
 lesmarmousets.ch
@@ -24347,6 +24350,7 @@ lesondupapier.ch
 lesonge.ch
 lesongeduluthier.ch
 lesonnenberg.ch
+lesonzeforets.ch
 lesopticiensmobiles.ch
 lesopticiensmutualistes.ch
 lesoptometristes.ch
@@ -24516,7 +24520,6 @@ lesperruets.ch
 lespetillantes.ch
 lespetites-cocottes.ch
 lespetites.ch
-lespetitesannonces.ch
 lespetitesarvinesdefully.ch
 lespetitesarvinesfully.ch
 lespetitesboudeuses.ch

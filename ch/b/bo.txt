@@ -5765,6 +5765,7 @@ bol-dair.ch
 bol-e.ch
 bol-immobilien.ch
 bol-luxuryapartments.ch
+bol-med.ch
 bol-solutions.ch
 bol-x-store.ch
 bol.ch
@@ -6055,7 +6056,6 @@ bolinhas.ch
 bolinos.ch
 bolintechnology.ch
 bolipill.ch
-bolipura.ch
 bolis-law.ch
 bolis.ch
 bolishop.ch
@@ -6471,6 +6471,7 @@ bollywoodtaste.ch
 bollywoodtour.ch
 bollywoodvibes.ch
 bollyzone.ch
+bolmed.ch
 bolmo-interieur.ch
 bolmo.ch
 bolmointerieur.ch
@@ -8891,7 +8892,6 @@ bood.ch
 boodaa.ch
 boodcamping.ch
 booddha.ch
-boodek.ch
 booderuhu.ch
 boodizayn.ch
 boodle-fight.ch
@@ -11132,6 +11132,7 @@ bordeauxmint.ch
 bordeauxnetto.ch
 bordeauxwein.ch
 bordeauxweinankauf.ch
+bordeauxweine.ch
 bordeauxwine.ch
 bordee-de-tribord.ch
 bordeedetribord.ch
@@ -11704,6 +11705,7 @@ bormdev.ch
 bormgo.ch
 bormgruppe.ch
 bormia.ch
+borminrenovation.ch
 bormio.ch
 bormlive.ch
 born-2-drive.ch
@@ -13282,7 +13284,6 @@ botagogo.ch
 botai-socks.ch
 botai.ch
 botajica.ch
-botajon.ch
 botak.ch
 botakifactory.ch
 botalista-dev.ch
@@ -15442,6 +15443,7 @@ boutique-arosa.ch
 boutique-arthur.ch
 boutique-au-c-cedille.ch
 boutique-autrement.ch
+boutique-aux-1001merveilles.ch
 boutique-axon.ch
 boutique-bambou.ch
 boutique-basile.ch

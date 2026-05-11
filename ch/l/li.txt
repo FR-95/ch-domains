@@ -574,7 +574,6 @@ liberaimaginations.ch
 liberal-award.ch
 liberal-bernex.ch
 liberal-digital.ch
-liberal-ge.ch
 liberal-radical.ch
 liberal-vd.ch
 liberal-zh.ch
@@ -2219,7 +2218,6 @@ lichtkuppelservice.ch
 lichtkurven.ch
 lichtlabor.ch
 lichtlager.ch
-lichtlaut.ch
 lichtleben.ch
 lichtlein.ch
 lichtleiter.ch
@@ -4812,7 +4810,6 @@ lies-die-bibel.ch
 lies-die-hand.ch
 lies-richtig.ch
 lies.ch
-liesa.ch
 liesana.ch
 liesaus.ch
 liesberg.ch
@@ -5896,6 +5893,7 @@ lifepuzzle.ch
 lifequake.ch
 lifequality.ch
 lifequest.ch
+lifer.ch
 lifera.ch
 liferacer.ch
 liferacing.ch
@@ -6493,7 +6491,6 @@ lift-it.ch
 lift-koenig.ch
 lift-kurse.ch
 lift-leasing.ch
-lift-life.ch
 lift-manager.ch
 lift-method.ch
 lift-mieten.ch
@@ -6623,7 +6620,6 @@ liftket.ch
 liftkoenig.ch
 liftkonfigurator.ch
 liftleasing.ch
-liftlife.ch
 liftlikeagirl.ch
 liftlondon.ch
 liftmanager.ch
@@ -12222,6 +12218,7 @@ lingeriesuisse.ch
 lingerieswiss.ch
 lingery.ch
 linges.ch
+lingeschwaiger.ch
 lingettedemaquillante.ch
 lingettelavable.ch
 lingfamily.ch
@@ -16712,7 +16709,6 @@ litron.ch
 litronic.ch
 lits-escamotables.ch
 lits-rabattables.ch
-lits.ch
 litscher-architekten.ch
 litscher-bauexpertisen.ch
 litscher.ch
@@ -17672,7 +17668,6 @@ livat.ch
 livathinos.ch
 livatis.ch
 livaty.ch
-livaundholly.ch
 livayeah.ch
 livbank.ch
 livbanken.ch
@@ -19644,6 +19639,7 @@ livreenfant.ch
 livreetjeu.ch
 livreexpress.ch
 livrehorlogerie.ch
+livreirotransport.ch
 livrejeunesse.ch
 livrel.ch
 livrelibre.ch

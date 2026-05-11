@@ -5949,7 +5949,6 @@ polypitch.ch
 polypixel.ch
 polyplab.ch
 polyplan.ch
-polyplant.ch
 polyplants.ch
 polyplast.ch
 polyplastic-fenster.ch
@@ -6100,6 +6099,7 @@ polytec-engineering.ch
 polytec-klima.ch
 polytec.ch
 polytech-care.ch
+polytech-online.ch
 polytech.ch
 polytech3d.ch
 polytechcare.ch
@@ -7303,7 +7303,6 @@ poobies.ch
 pooc.ch
 poochandmutt.ch
 poocheeh.ch
-poochemporium.ch
 poochpor.ch
 poochup.ch
 poochyplott.ch
@@ -9184,6 +9183,7 @@ porscheerben.ch
 porschefestival.ch
 porschefinancialservices.ch
 porschefirst.ch
+porscheflachbau.ch
 porschefolierung.ch
 porschefriends.ch
 porschefy.ch
@@ -10448,6 +10448,7 @@ portside.ch
 portsociety.ch
 portsousterrain.ch
 portstack.ch
+portswigger.ch
 porttrack.ch
 portu.ch
 portuario.ch
@@ -11700,7 +11701,6 @@ postfestivals.ch
 postfi-nance.ch
 postfiance.ch
 postfinace.ch
-postfinanc.ch
 postfinance-ag.ch
 postfinance-arena.ch
 postfinance-bitcoin.ch
@@ -13028,7 +13028,6 @@ povami.ch
 povanhu.ch
 povarskoj-nozh.ch
 povarskojnozh.ch
-povcam.ch
 povel.ch
 poveraitalia.ch
 poveresearch.ch

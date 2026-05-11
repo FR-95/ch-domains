@@ -2568,6 +2568,7 @@ tagesteller.ch
 tagesthema.ch
 tagesthemen.ch
 tagestipps.ch
+tagestouren.ch
 tagestraeff-mattertal.ch
 tagestreff-kirchberg-be.ch
 tagestreff-mimondo.ch
@@ -4010,6 +4011,7 @@ taktak.ch
 taktaktak.ch
 taktamsee.ch
 taktapp.ch
+taktar.ch
 taktarbeit.ch
 taktashop.ch
 taktbaumanagement.ch
@@ -4068,6 +4070,7 @@ takto.ch
 taktorga.ch
 taktreuhand.ch
 taktrix.ch
+taktro.ch
 taktsurfer.ch
 taktundstille.ch
 taktundtaumel.ch
@@ -6889,6 +6892,7 @@ tanirem.ch
 tanis.ch
 taniscrea.ch
 tanish.ch
+tanishacharya.ch
 tanishi.ch
 tanishqsharma.ch
 tanisto.ch
@@ -7969,6 +7973,7 @@ tanteemil.ch
 tanteemma-shop.ch
 tanteemma.ch
 tantefanny.ch
+tantefeder.ch
 tantefranka.ch
 tantefrida.ch
 tantehappy.ch
@@ -8501,6 +8506,7 @@ tanzclub.ch
 tanzclubebnatkappel.ch
 tanzclubengadin.ch
 tanzclubs.ch
+tanzda.ch
 tanzdansedanza.ch
 tanzdas.ch
 tanzderelemente.ch
@@ -8940,7 +8946,6 @@ tanzschulealpnach.ch
 tanzschuleamaria.ch
 tanzschulearbon.ch
 tanzschulebaden.ch
-tanzschulebaeder.ch
 tanzschulebasel.ch
 tanzschuleboss.ch
 tanzschulebyou.ch
@@ -11678,6 +11683,7 @@ tastybites-bern.ch
 tastybites.ch
 tastybiteslugano.ch
 tastybits.ch
+tastyburger.ch
 tastycakes.ch
 tastychef.ch
 tastychickenspot.ch
@@ -13965,7 +13971,9 @@ taxbiz.ch
 taxbizz.ch
 taxblog.ch
 taxboeck.ch
+taxbooklm.ch
 taxbooks.ch
+taxbookslm.ch
 taxboost.ch
 taxbot.ch
 taxboutique.ch
@@ -14136,6 +14144,7 @@ taxi-aba.ch
 taxi-abc.ch
 taxi-abo.ch
 taxi-ad.ch
+taxi-aeroport-geneve.ch
 taxi-aeroport.ch
 taxi-aesch.ch
 taxi-ag.ch
@@ -14547,6 +14556,7 @@ taxi-seeland.ch
 taxi-sempachersee.ch
 taxi-service-app.ch
 taxi-service-bern.ch
+taxi-service-nyon.ch
 taxi-service.ch
 taxi-services-fribourg.ch
 taxi-services.ch
@@ -15779,6 +15789,7 @@ taxlaw.ch
 taxlawblog.ch
 taxlawfactory.ch
 taxlawjobs.ch
+taxlawlm.ch
 taxlawyer.ch
 taxlawyers.ch
 taxlegal.ch
@@ -15790,6 +15801,7 @@ taxlextrustee.ch
 taxley-web.ch
 taxley.ch
 taxli.ch
+taxlm.ch
 taxload.ch
 taxluzern.ch
 taxly.ch

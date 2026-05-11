@@ -706,7 +706,6 @@ ticcasa.ch
 ticcats.ch
 ticcet.ch
 ticclick.ch
-ticctacc.ch
 ticdurables.ch
 tice.ch
 ticeno.ch
@@ -1687,6 +1686,7 @@ ticketreservation.ch
 ticketreservieren.ch
 ticketrestaurant.ch
 tickets-blackholefest.ch
+tickets-corner.ch
 tickets-de-caisse.ch
 tickets-evz.ch
 tickets-for-employee.ch
@@ -2908,7 +2908,6 @@ tierarzt-wendler.ch
 tierarzt-wetzikon.ch
 tierarzt-wiese.ch
 tierarzt-wil.ch
-tierarzt-winterthur.ch
 tierarzt-wolfisberg.ch
 tierarzt-wollerau.ch
 tierarzt-wollishofen.ch
@@ -3596,6 +3595,7 @@ tierheilpraktik-daniela.ch
 tierheilpraktik-ernaehrung.ch
 tierheilpraktik-wermuth.ch
 tierheilpraktik.ch
+tierheilpraktiker-ausbildung.ch
 tierheilpraktiker-bedarf.ch
 tierheilpraktiker-magazin.ch
 tierheilpraktiker-verband-schweiz.ch
@@ -3716,7 +3716,6 @@ tierheimvergleich.ch
 tierheimwelti.ch
 tierheimzuerich.ch
 tierheld.ch
-tierhelden.ch
 tierhelfer.ch
 tierhelp.ch
 tierhelpline.ch
@@ -5736,7 +5735,6 @@ tikitakafussball.ch
 tikitakafussballschule.ch
 tikitakaplay.ch
 tikitakaswiss.ch
-tikite.ch
 tikitrailer.ch
 tikitrailers.ch
 tikitreiler.ch
@@ -6104,6 +6102,7 @@ tilohueskes.ch
 tilomi.ch
 tilon.ch
 tiloo.ch
+tiloo23.ch
 tilop.ch
 tilos.ch
 tilostuber.ch
@@ -8130,6 +8129,7 @@ timse.ch
 timseiler.ch
 timsenti.ch
 timsestetik.ch
+timshop.ch
 timsi.ch
 timsiegrist.ch
 timsimonet.ch
@@ -9150,7 +9150,6 @@ tiny-house-suisse.ch
 tiny-house.ch
 tiny-houses-kaufen.ch
 tiny-houses.ch
-tiny-hus.ch
 tiny-huus.ch
 tiny-jobs.ch
 tiny-living.ch

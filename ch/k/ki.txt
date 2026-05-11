@@ -344,6 +344,7 @@ ki-immo.ch
 ki-immobilien.ch
 ki-immobilienbewertung.ch
 ki-immobilienmakler.ch
+ki-import.ch
 ki-impuls.ch
 ki-in-der-kirche.ch
 ki-in-der-wirtschaft.ch
@@ -934,7 +935,6 @@ ki10.ch
 ki24.ch
 ki360.ch
 ki365.ch
-ki3d.ch
 ki4b.ch
 ki4business.ch
 ki4health.ch
@@ -1833,6 +1833,7 @@ kidfood.ch
 kidg.ch
 kidgo.ch
 kidhelp.ch
+kidholding-ag.ch
 kidhomecare.ch
 kidi-choc.ch
 kidi.ch
@@ -2783,6 +2784,7 @@ kieferortho-frutigen.ch
 kieferortho-horgen.ch
 kieferortho-kreis9.ch
 kieferortho-laufen.ch
+kieferortho-liebefeld.ch
 kieferortho-lyssbachpark.ch
 kieferortho-moehlin.ch
 kieferortho-multengut.ch
@@ -2976,6 +2978,7 @@ kieferorthopaedin.ch
 kieferorthopedie.ch
 kieferorthopraxis.ch
 kieferorthorotkreuz.ch
+kieferorthowinkler.ch
 kieferorthowinterthur.ch
 kieferorthozug.ch
 kieferothopaediebasel.ch
@@ -4602,7 +4605,6 @@ kimms.ch
 kimmtrio.ch
 kimmy.ch
 kimmyrepond.ch
-kimmys.ch
 kimmysbalance.ch
 kimnet.ch
 kimnolan.ch
@@ -7815,7 +7817,6 @@ kinderwunsch-hypnoakupunktur.ch
 kinderwunsch-hypnose.ch
 kinderwunsch-ivf.ch
 kinderwunsch-klinik.ch
-kinderwunsch-kompetenzzentrum.ch
 kinderwunsch-lindenhof.ch
 kinderwunsch-medium.ch
 kinderwunsch-ova-ivf-zuerich.ch
@@ -9314,6 +9315,7 @@ kinetic-equity.ch
 kinetic-facades.ch
 kinetic-skills.ch
 kinetic.ch
+kinetica.ch
 kinetical.ch
 kineticasuisse.ch
 kineticatelier.ch
@@ -9628,6 +9630,7 @@ kingfood.ch
 kingfroid.ch
 kinggreen.ch
 kinggrizzlybeer.ch
+kinggs.ch
 kinggym.ch
 kinghemp.ch
 kinghonk.ch
@@ -12437,7 +12440,6 @@ kirue.ch
 kiruma.ch
 kirumaconsulting.ch
 kiruna.ch
-kiruno.ch
 kirwald.ch
 kiry-tore.ch
 kis-ag.ch
@@ -15272,7 +15274,6 @@ kiwo-wilchingen.ch
 kiwo.ch
 kiwoko.ch
 kiwords.ch
-kiwork.ch
 kiworkshop.ch
 kiworld.ch
 kiworx.ch

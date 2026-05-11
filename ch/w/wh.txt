@@ -118,6 +118,7 @@ what-the-fuck.ch
 what-the-gender.ch
 what-the-paws.ch
 what-when-where.ch
+what-works-best.ch
 what-you-want.ch
 what.ch
 what2do.ch
@@ -374,6 +375,7 @@ whatwhenwhere.ch
 whatwhyhowlab.ch
 whatwomenwant.ch
 whatworks.ch
+whatworksbest.ch
 whatyoucando.ch
 whatyoulove.ch
 whatyousee.ch
@@ -1467,6 +1469,7 @@ white-lily.ch
 white-lobster.ch
 white-male-over-50.ch
 white-med.ch
+white-monster.ch
 white-monthey.ch
 white-montreux.ch
 white-mountain.ch

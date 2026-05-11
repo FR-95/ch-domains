@@ -122,6 +122,7 @@ paar-familienberatung.ch
 paar-glueck.ch
 paar-hypnose.ch
 paar-kommunikation.ch
+paar-kompass.ch
 paar-kontakt.ch
 paar-kontakte.ch
 paar-leben.ch
@@ -272,6 +273,7 @@ paarios.ch
 paarkalender.ch
 paarklarheit.ch
 paarkommunikation.ch
+paarkompass.ch
 paarkontakt.ch
 paarkontakte.ch
 paarkosmos.ch
@@ -1884,6 +1886,7 @@ padelino.ch
 padelinolangenthal.ch
 padelinterlaken.ch
 padelinthegarden.ch
+padelinthesky.ch
 padelio.ch
 padelist.ch
 padelista.ch
@@ -4148,7 +4151,6 @@ palettecarougeoise.ch
 paletten-ag.ch
 paletten-boerse.ch
 paletten-direkt.ch
-paletten-handel.ch
 paletten-hof.ch
 paletten-home.ch
 paletten-kaufen-schweiz.ch
@@ -7569,6 +7571,7 @@ pany-stantoenien.ch
 pany-wohnung.ch
 pany.ch
 panya.ch
+panyada.ch
 panyarte.ch
 panychalet.ch
 panylarix.ch
@@ -8361,7 +8364,6 @@ paperstyle.ch
 papersurvey.ch
 papertales.ch
 papertax.ch
-papertech.ch
 paperthinks.ch
 papertiger.ch
 papertigerautomatons.ch
@@ -11964,7 +11966,6 @@ parkett-einsiedeln.ch
 parkett-emmental.ch
 parkett-emotionen.ch
 parkett-entfernen.ch
-parkett-entlebuch.ch
 parkett-experte.ch
 parkett-finder.ch
 parkett-forum.ch
@@ -11995,7 +11996,6 @@ parkett-laax.ch
 parkett-laminat-bb.ch
 parkett-laminat.ch
 parkett-laminate.ch
-parkett-langnau.ch
 parkett-leger.ch
 parkett-liniger.ch
 parkett-luzern.ch
@@ -12079,7 +12079,6 @@ parkett-wohntraum.ch
 parkett-wohnwelt.ch
 parkett-world.ch
 parkett-zentralschweiz.ch
-parkett-zuchwil.ch
 parkett-zuerich.ch
 parkett-zug.ch
 parkett.ch
@@ -12330,6 +12329,7 @@ parkhaus-messezuerich.ch
 parkhaus-musegg.ch
 parkhaus-national.ch
 parkhaus-opera.ch
+parkhaus-scheckheft.ch
 parkhaus-seetal11.ch
 parkhaus-sentipark.ch
 parkhaus-sh.ch
@@ -12384,6 +12384,7 @@ parkhimmelrych-invest.ch
 parkhimmelrych.ch
 parkhof.ch
 parkhomenko.ch
+parkhomes.ch
 parkhotel-adelboden.ch
 parkhotel-bad-zurzach.ch
 parkhotel-beatenberg.ch
@@ -16619,7 +16620,6 @@ pash-mina.ch
 pash.ch
 pasha-barber.ch
 pasha-coiffeur.ch
-pasha-emmen.ch
 pasha-shop.ch
 pasha-transport.ch
 pasha.ch
@@ -20955,7 +20955,6 @@ patricpleasure.ch
 patricradel.ch
 patricschaefler.ch
 patricschmidlin.ch
-patricscott.ch
 patricsommer.ch
 patricvanlinden.ch
 patricworks.ch
@@ -21746,7 +21745,6 @@ patuconcept.ch
 patuluslab.ch
 patumbah.ch
 patumbahpark.ch
-patumbahpilates.ch
 patundlucie.ch
 patura-alpina.ch
 patura.ch
@@ -24069,6 +24067,7 @@ payprotect.ch
 payprotocol.ch
 payq.ch
 payquick.ch
+payrails.ch
 payrex.ch
 payrexx-seaio.ch
 payrexx.ch

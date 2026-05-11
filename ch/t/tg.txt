@@ -89,6 +89,7 @@ tg-srv.ch
 tg-steckborn.ch
 tg-sun.ch
 tg-swiss.ch
+tg-t.ch
 tg-tafers.ch
 tg-tec.ch
 tg-training.ch

@@ -2631,6 +2631,7 @@ bieneneber.ch
 bienenengagement.ch
 bienenfabrik.ch
 bienenfachstelle-zh.ch
+bienenfamilie.ch
 bienenfarm.ch
 bienenfit.ch
 bienenflachdach.ch
@@ -4811,6 +4812,7 @@ biggi.ch
 biggie.ch
 biggies.ch
 biggiesparadise.ch
+biggis.ch
 biggisbastelecke1.ch
 biggisglutenfrei.ch
 biggles.ch
@@ -4834,7 +4836,6 @@ biggsi.ch
 biggtrans.ch
 bigguard.ch
 bigguy.ch
-biggva.ch
 biggy.ch
 biggym.ch
 bighair.ch
@@ -6129,6 +6130,7 @@ bikeandsurf.ch
 bikeandtours.ch
 bikeandwalk-braunwald.ch
 bikeandwalk.ch
+bikeandwine.ch
 bikeangebote.ch
 bikeangel.ch
 bikeangelgps.ch
@@ -10272,7 +10274,6 @@ bimmer-kleinanzeigen.ch
 bimmer.ch
 bimmerboost.ch
 bimmerboys.ch
-bimmerclinic.ch
 bimmercoding.ch
 bimmergirls.ch
 bimmerlab.ch
@@ -12568,6 +12569,7 @@ biocoachswiss.ch
 biocoact.ch
 biocoba.ch
 biocodex-post-uegw-webinar.ch
+biocodex.ch
 biocoherence.ch
 biocoiff.ch
 biocoiffeur-kloter.ch
@@ -14355,7 +14357,6 @@ biomaerkte.ch
 biomag-magnetfeldtherapie.ch
 biomag-medical.ch
 biomag.ch
-biomagazin.ch
 biomagenbrot.ch
 biomagic.ch
 biomagnete.ch
@@ -16049,6 +16050,7 @@ biowunder.ch
 biowurm.ch
 biowurst.ch
 biox-swiss.ch
+biox.ch
 bioxcell.ch
 bioxcin.ch
 bioxel.ch
@@ -16705,6 +16707,8 @@ bireggwald.ch
 birel.ch
 birelart-ticino.ch
 birelart.ch
+birelartshop.ch
+birelshop.ch
 biremis.ch
 biremont.ch
 birena.ch

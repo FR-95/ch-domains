@@ -17,7 +17,6 @@ ha-faessler.ch
 ha-famr-home.ch
 ha-gmbh.ch
 ha-group.ch
-ha-h.ch
 ha-ha.ch
 ha-hae.ch
 ha-haustechnik.ch
@@ -838,6 +837,7 @@ haarschnide.ch
 haarschnidi-cutandstyle.ch
 haarschnidi.ch
 haarschnitt-ruegsauschachen.ch
+haarschnitt-zuhause.ch
 haarschnitt.ch
 haarschnitte.ch
 haarschnittmitherz.ch
@@ -2667,6 +2667,7 @@ haefelihomeo.ch
 haefeliimmobilien.ch
 haefelimaert.ch
 haefelin-ag.ch
+haefelin-natur.ch
 haefelin-systeme.ch
 haefelin.ch
 haefelinlaw.ch
@@ -4144,6 +4145,7 @@ hagebutten-pulver.ch
 hagebutten-shop.ch
 hagebutten-suisse.ch
 hagebutten-welt.ch
+hagebutten.ch
 hagebutteninfo.ch
 hagebuttenmark.ch
 hagebuttenpulver.ch
@@ -4448,6 +4450,7 @@ hagmodelleisenbahnen.ch
 hagnau-schaenzli.ch
 hagnau.ch
 hagnauer-gaerten.ch
+hagnauerhof.ch
 hagneck-city.ch
 hagneck-sur-mer.ch
 hagneck.ch
@@ -5434,6 +5437,7 @@ hairlounge-flawil.ch
 hairlounge-herzwerk.ch
 hairlounge-limmat.ch
 hairlounge-martina.ch
+hairlounge-solothurn.ch
 hairlounge-thoerishaus.ch
 hairlounge-trendhairstyling.ch
 hairlounge-vanessa.ch
@@ -6567,6 +6571,7 @@ haldiholding.ch
 haldima.ch
 haldimail.ch
 haldiman.ch
+haldimand15.ch
 haldimann-ag.ch
 haldimann-bauspenglerei.ch
 haldimann-bikes.ch
@@ -8177,7 +8182,6 @@ hamdigmbh.ch
 hamdion.ch
 hameau-des-bains.ch
 hameau-des-vaux.ch
-hameau-du-chateau.ch
 hameau-fenalet.ch
 hameau-grimisuat.ch
 hameau-z-arts.ch
@@ -8808,6 +8812,7 @@ hana-erlenbach.ch
 hana-immo.ch
 hana-koi.ch
 hana-ribi.ch
+hana-taxi.ch
 hana.ch
 hanabi-atmosphere.ch
 hanabi-shop.ch
@@ -9403,6 +9408,7 @@ handekzem.ch
 handekzeme.ch
 handekzeminfo.ch
 handel-accoya-schweiz.ch
+handel-bar.ch
 handel-boxx.ch
 handel-consulting.ch
 handel-falken.ch
@@ -10675,7 +10681,6 @@ handwerk360.ch
 handwerk50.ch
 handwerk57.ch
 handwerkaerin.ch
-handwerkagentur.ch
 handwerkai.ch
 handwerkakademie.ch
 handwerkallround.ch
@@ -11352,7 +11357,6 @@ handyhalter.ch
 handyhalterung.ch
 handyhalterungen.ch
 handyhandel.ch
-handyhands.ch
 handyhase.ch
 handyhelp.ch
 handyhelpservice.ch
@@ -11720,6 +11724,7 @@ hanfbiere.ch
 hanfblaetter.ch
 hanfblatt.ch
 hanfblitz.ch
+hanfbluete.ch
 hanfblueten.ch
 hanfbob-coffeeshop.ch
 hanfbob.ch
@@ -14678,6 +14683,7 @@ happylim.ch
 happylin.ch
 happyline.ch
 happylinks.ch
+happylino.ch
 happylittlepaws.ch
 happylittleschool.ch
 happylittlesoul.ch
@@ -16564,7 +16570,6 @@ harmonieundheilung.ch
 harmonieundordnung.ch
 harmonievibratoire.ch
 harmonievitale.ch
-harmonievoyance.ch
 harmoniewelle.ch
 harmoniewollishofen.ch
 harmoniexbalance.ch
@@ -17929,6 +17934,7 @@ hashrate.ch
 hashscale.ch
 hashsear.ch
 hashshop.ch
+hashstack.ch
 hashtag-amour.ch
 hashtag-ctrlz.ch
 hashtag-handwerk.ch
@@ -18417,6 +18423,7 @@ hastenrath-swiss.ch
 hastens.ch
 haster.ch
 hastex.ch
+hastie.ch
 hastings.ch
 hastla.ch
 hastlergmbh.ch
@@ -20766,6 +20773,7 @@ hauser-casa.ch
 hauser-choi.ch
 hauser-claudia.ch
 hauser-consulting.ch
+hauser-dachservice.ch
 hauser-defence.ch
 hauser-design.ch
 hauser-elektro.ch

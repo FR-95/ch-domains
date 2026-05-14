@@ -1621,7 +1621,6 @@ sicherheitsfirma-luzern.ch
 sicherheitsfirma-zuerich.ch
 sicherheitsfirma.ch
 sicherheitsfirmaluzern.ch
-sicherheitsfirmazuerich.ch
 sicherheitsfirmen-schweiz.ch
 sicherheitsfirmen.ch
 sicherheitsfolie.ch
@@ -1736,6 +1735,7 @@ sicherheitsschuhe.ch
 sicherheitsschuhe24.ch
 sicherheitsschuheatlas.ch
 sicherheitsschulung.ch
+sicherheitsschulungen.ch
 sicherheitsschutz.ch
 sicherheitsshop.ch
 sicherheitsshop24.ch
@@ -1817,6 +1817,7 @@ sicherimnetz.ch
 sicherimverkehr.ch
 sicherimwasser.ch
 sicherimweb.ch
+sicherinmir.ch
 sicherischsicher.ch
 sicherkaufen.ch
 sicherklicken.ch
@@ -6357,7 +6358,6 @@ silberhof-sh.ch
 silberhof.ch
 silberholz-mf.ch
 silberholz-romanshorn.ch
-silberholz.ch
 silberhorn.ch
 silberhorndistillery.ch
 silberhornimmo.ch
@@ -7261,6 +7261,7 @@ silk.ch
 silka-publishing.ch
 silka.ch
 silkaesthetic.ch
+silkandginger.ch
 silkandiron.ch
 silkandmotion.ch
 silkandsleek.ch
@@ -7404,6 +7405,7 @@ silky-lilies.ch
 silky-schweiz.ch
 silky-smooth.ch
 silky-terrier.ch
+silky-treuhand.ch
 silky-way.ch
 silky.ch
 silkydodo.ch
@@ -8117,7 +8119,6 @@ silver-living.ch
 silver-logements.ch
 silver-magic.ch
 silver-market.ch
-silver-mc.ch
 silver-mobility.ch
 silver-monkey.ch
 silver-moon.ch
@@ -8222,7 +8223,6 @@ silvercode.ch
 silvercoin.ch
 silvercoins.ch
 silvercom.ch
-silverconsulting.ch
 silvercosa.ch
 silvercowork.ch
 silvercraft.ch
@@ -12287,13 +12287,11 @@ simply-card.ch
 simply-cbd.ch
 simply-chris.ch
 simply-city.ch
-simply-clean.ch
 simply-climate.ch
 simply-cloud.ch
 simply-colors.ch
 simply-connect.ch
 simply-conseils.ch
-simply-consluting.ch
 simply-consulting.ch
 simply-cookit.ch
 simply-creative-online.ch
@@ -12447,7 +12445,6 @@ simplycolours.ch
 simplycomm.ch
 simplyconnect.ch
 simplyconnected.ch
-simplyconsulting.ch
 simplycook.ch
 simplycooking.ch
 simplycookit.ch
@@ -14919,6 +14916,7 @@ sinosmack.ch
 sinosuisse.ch
 sinoswiss-holding.ch
 sinoswiss-technopark.ch
+sinoswiss-windows.ch
 sinoswiss.ch
 sinoswissbusiness.ch
 sinoswisshub.ch
@@ -14995,7 +14993,6 @@ sinstadt.ch
 sinstructa.ch
 sinstudio.ch
 sinsysco.ch
-sinszugerland.ch
 sint.ch
 sinta-collectiv.ch
 sinta.ch
@@ -16934,6 +16931,7 @@ sitebooster.ch
 sitebots.ch
 sitebox.ch
 siteboxmedia.ch
+sitebridge.ch
 sitebuild.ch
 sitebuilder-demo.ch
 sitebuilder.ch
@@ -17805,6 +17803,7 @@ sivd.ch
 sivec.ch
 sivecag.ch
 siveco.ch
+sivego.ch
 sivek.ch
 siveko.ch
 sivelpro.ch

@@ -114,6 +114,7 @@ mp-schneideratelier.ch
 mp-scuba-diving.ch
 mp-services.ch
 mp-sim.ch
+mp-simracing.ch
 mp-solar.ch
 mp-solarmontagen.ch
 mp-solutions.ch
@@ -468,6 +469,7 @@ mpfthu.ch
 mpfundraising.ch
 mpfussballcamp.ch
 mpfxlr8.ch
+mpg-automation.ch
 mpg-chv.ch
 mpg-ftp.ch
 mpg-gvdn.ch
@@ -488,6 +490,7 @@ mpgg.ch
 mpgland.ch
 mpglobalconsulting.ch
 mpgn.ch
+mpgo.ch
 mpgtalentsolutions.ch
 mpgtrading.ch
 mpgugger.ch
@@ -537,6 +540,7 @@ mpimmoservice.ch
 mpin-tech.ch
 mpinato.ch
 mpinc.ch
+mpindustries.ch
 mpinformatik.ch
 mping.ch
 mpingenieure.ch
@@ -858,6 +862,7 @@ mpsgroup.ch
 mpsgv.ch
 mpsi.ch
 mpsim.ch
+mpsimracing.ch
 mpsinteractive.ch
 mpsl.ch
 mpslab.ch

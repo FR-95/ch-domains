@@ -35,6 +35,7 @@ guaccisbar.ch
 guaceto.ch
 guachin.ch
 guachinarte.ch
+guacimara.ch
 guad.ch
 guada-hbp.ch
 guada.ch
@@ -1548,7 +1549,6 @@ guet-gheizt.ch
 guet-gmacht.ch
 guet-gschlofe.ch
 guet-invest.ch
-guet-nacht-gschichtli.ch
 guet.ch
 guetapinte.ch
 guetapintes.ch
@@ -5790,7 +5790,6 @@ gutzwillerfunds.ch
 gutzwillerone.ch
 gutzwillertwo.ch
 guu.ch
-guud.ch
 guudies.ch
 guudmuud.ch
 guuds.ch

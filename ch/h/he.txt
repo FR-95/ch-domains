@@ -1510,6 +1510,7 @@ healthwealthhappiness.ch
 healthwell.ch
 healthwerk.ch
 healthwirkstatt.ch
+healthwise.ch
 healthwithsimon.ch
 healthworld.ch
 healthx.ch
@@ -1851,6 +1852,7 @@ hearststudios.ch
 heart-affair.ch
 heart-agency.ch
 heart-and-balance.ch
+heart-and-mind.ch
 heart-and-soul.ch
 heart-at-work.ch
 heart-balance.ch
@@ -2033,6 +2035,7 @@ heartflowatelier.ch
 heartflowyoga.ch
 heartfluencer.ch
 heartflyers.ch
+heartfood.ch
 heartforce.ch
 heartfoundation.ch
 heartful-self-compassion.ch
@@ -6240,6 +6243,7 @@ heimat-und-helden.ch
 heimat-und-herzen.ch
 heimat-uster.ch
 heimat-werk.ch
+heimat-werte.ch
 heimat-wohnung.ch
 heimat-zaehni.ch
 heimat.ch
@@ -8582,6 +8586,7 @@ hejoe.ch
 hejoka.ch
 hejora.ch
 hejorganic.ch
+hejoskar.ch
 hejpascale.ch
 hejra.ch
 hejsan.ch
@@ -10950,6 +10955,7 @@ hellovanlife.ch
 hellovegan.ch
 hellovelo.ch
 hellovet.ch
+hellovillage.ch
 hellovino.ch
 hellovita.ch
 hellow.ch
@@ -12068,7 +12074,6 @@ helvchimacta.ch
 helvcore.ch
 helvcura.ch
 helve-tech.ch
-helve-tic.ch
 helve.ch
 helvea-capital.ch
 helvea-consulting.ch
@@ -12208,6 +12213,7 @@ helvestar.ch
 helvestate.ch
 helvestra.ch
 helvestreet.ch
+helvesys.ch
 helvet-adviser.ch
 helvet-advisers.ch
 helvet-advisor.ch
@@ -12423,7 +12429,6 @@ helvetia-ibrahim-sezer.ch
 helvetia-imm.ch
 helvetia-immo.ch
 helvetia-immobilien.ch
-helvetia-immomakler.ch
 helvetia-immoworld.ch
 helvetia-insurance.ch
 helvetia-integra.ch
@@ -12467,7 +12472,6 @@ helvetia-polissage.ch
 helvetia-prive.ch
 helvetia-protect.ch
 helvetia-pub.ch
-helvetia-pv.ch
 helvetia-racconta.ch
 helvetia-range.ch
 helvetia-recycling-fribourg.ch
@@ -12633,7 +12637,6 @@ helvetiahygiene.ch
 helvetiai.ch
 helvetiaimmo.ch
 helvetiaimmobilien.ch
-helvetiaimmomakler.ch
 helvetiaindustrieservice.ch
 helvetiainfo.ch
 helvetiainternational.ch
@@ -12719,7 +12722,6 @@ helvetiaprogunshop.ch
 helvetiaprosperitas.ch
 helvetiaprotection.ch
 helvetiapub.ch
-helvetiapv.ch
 helvetiaqualitycars.ch
 helvetiaquant.ch
 helvetiaquintett.ch
@@ -12980,12 +12982,10 @@ helvetic-schluesseldienst.ch
 helvetic-sealing.ch
 helvetic-secura.ch
 helvetic-security-company.ch
-helvetic-services.ch
 helvetic-shine.ch
 helvetic-shooting.ch
 helvetic-shop.ch
 helvetic-slim.ch
-helvetic-solar.ch
 helvetic-solarplus.ch
 helvetic-solutions.ch
 helvetic-sport.ch
@@ -13790,7 +13790,6 @@ helvetyk.ch
 helvetyr.ch
 helvevin.ch
 helvevins.ch
-helveweb.ch
 helvewing.ch
 helvewood.ch
 helvex-ai.ch
@@ -14254,6 +14253,7 @@ hemogam.ch
 hemogmbh.ch
 hemojo.ch
 hemolo.ch
+hemolution.ch
 hemolysis.ch
 hemon.ch
 hemonto.ch
@@ -15217,7 +15217,6 @@ hep-romande.ch
 hep-romandes.ch
 hep-taxi.ch
 hep-test.ch
-hep-tippspiel.ch
 hep-vaud.ch
 hep-vd.ch
 hep-verlag.ch
@@ -15414,6 +15413,7 @@ her-flow.ch
 her-game.ch
 her-huyl.ch
 her-insights.ch
+her-lab.ch
 her-money.ch
 her-steps-of-faith.ch
 her-voice.ch
@@ -16526,7 +16526,6 @@ heritage-culinary-kitchen.ch
 heritage-ebenisterie.ch
 heritage-en-herbe.ch
 heritage-events.ch
-heritage-global-advice.ch
 heritage-gourmet.ch
 heritage-grenat.ch
 heritage-group.ch

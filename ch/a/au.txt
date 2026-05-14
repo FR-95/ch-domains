@@ -1934,7 +1934,6 @@ audioprothesistedelannee.ch
 audiopsycho-phonologie.ch
 audiopsychophonologie.ch
 audioptic.ch
-audioptik.ch
 audiopulse.ch
 audiopur.ch
 audiopv.ch
@@ -2388,6 +2387,7 @@ audrey-instructeurcanin.ch
 audrey-lecomte.ch
 audrey-orthobionomy.ch
 audrey-selim.ch
+audrey-test-domaine.ch
 audrey-voyance.ch
 audrey.ch
 audreyandersen.ch
@@ -2912,6 +2912,7 @@ aufgepasst.ch
 aufgepeppt.ch
 aufgeraeumt-leben.ch
 aufgeraeumt-wohl.ch
+aufgeraeumt.ch
 aufgeraeumtmitmirjam.ch
 aufgeraeumtmitmirjamschaetti.ch
 aufgerichtet.ch
@@ -3689,6 +3690,7 @@ augen-makeup.ch
 augen-mass.ch
 augen-medizin.ch
 augen-notfall.ch
+augen-oberland.ch
 augen-op.ch
 augen-operation.ch
 augen-optiker.ch
@@ -3782,6 +3784,7 @@ augenaerzte-gossau.ch
 augenaerzte-grenchen.ch
 augenaerzte-gurtengasse.ch
 augenaerzte-heiden.ch
+augenaerzte-hinwil.ch
 augenaerzte-horgen.ch
 augenaerzte-in-staefa.ch
 augenaerzte-jona.ch
@@ -3938,6 +3941,7 @@ augenarzt-brig.ch
 augenarzt-brugg.ch
 augenarzt-brunnen.ch
 augenarzt-brunner.ch
+augenarzt-bubikon.ch
 augenarzt-buchrain.ch
 augenarzt-buelach.ch
 augenarzt-cadez.ch
@@ -3962,6 +3966,7 @@ augenarzt-dr-walter.ch
 augenarzt-drgraemiger.ch
 augenarzt-dubini.ch
 augenarzt-ebikon.ch
+augenarzt-embrach.ch
 augenarzt-emmen.ch
 augenarzt-emmenbruecke.ch
 augenarzt-enge.ch
@@ -3991,6 +3996,7 @@ augenarzt-haubensak.ch
 augenarzt-hauptbahnhof-zuerich.ch
 augenarzt-hauptbahnhof.ch
 augenarzt-hergiswil.ch
+augenarzt-hinwil.ch
 augenarzt-hochdorf.ch
 augenarzt-hombrechtikon.ch
 augenarzt-horgen.ch
@@ -4145,6 +4151,7 @@ augenarzt-ziegelbruecke.ch
 augenarzt-zofingen.ch
 augenarzt-zollikofen.ch
 augenarzt-zollikon.ch
+augenarzt-zuercher-oberland.ch
 augenarzt-zueri.ch
 augenarzt-zuerich-uster.ch
 augenarzt-zuerichaffoltern.ch
@@ -4547,6 +4554,7 @@ augenklinik-chur.ch
 augenklinik-dellavolpe.ch
 augenklinik-dielsdorf.ch
 augenklinik-eden.ch
+augenklinik-embrach.ch
 augenklinik-etzelmatt.ch
 augenklinik-fortbildungen.ch
 augenklinik-frick.ch
@@ -4555,6 +4563,7 @@ augenklinik-grischun.ch
 augenklinik-grischuna.ch
 augenklinik-herisau.ch
 augenklinik-heuberger.ch
+augenklinik-hinwil.ch
 augenklinik-horgen.ch
 augenklinik-in-dielsdorf.ch
 augenklinik-lenzburg.ch
@@ -4592,6 +4601,8 @@ augenklinik-wuerenlingen.ch
 augenklinik-zentralschweiz.ch
 augenklinik-zh.ch
 augenklinik-zofingen.ch
+augenklinik-zuercher-oberland.ch
+augenklinik-zuerich-oberland.ch
 augenklinik-zuerich.ch
 augenklinik-zug.ch
 augenklinik.ch
@@ -4833,6 +4844,7 @@ augenpraxis-dellavolpe.ch
 augenpraxis-dielsdorf.ch
 augenpraxis-dietikon.ch
 augenpraxis-dilsdorf.ch
+augenpraxis-embrach.ch
 augenpraxis-emme.ch
 augenpraxis-emmen.ch
 augenpraxis-emmenbruecke.ch
@@ -4849,6 +4861,7 @@ augenpraxis-grischuna.ch
 augenpraxis-haering.ch
 augenpraxis-hauptbahnhof.ch
 augenpraxis-haydon.ch
+augenpraxis-hinwil.ch
 augenpraxis-ilanz.ch
 augenpraxis-in-staefa.ch
 augenpraxis-ingenbohl.ch
@@ -5115,6 +5128,7 @@ augenzentrum-grischuna.ch
 augenzentrum-gutenberg.ch
 augenzentrum-heerbrugg.ch
 augenzentrum-hess.ch
+augenzentrum-hinwil.ch
 augenzentrum-hoefe.ch
 augenzentrum-horgen.ch
 augenzentrum-huttwil.ch
@@ -5936,7 +5950,6 @@ aune.ch
 auneli.ch
 auneo.ch
 auner-shop.ch
-auness.ch
 aunetic.ch
 auni.ch
 aunjetdencre.ch
@@ -6927,6 +6940,7 @@ aurelioarni.ch
 aureliobruna.ch
 aureliodado-pittore.ch
 aurelioferrari.ch
+aureliogalfetti.ch
 aureliogunzinger.ch
 aurelioinauen.ch
 aureliokessler.ch
@@ -11751,6 +11765,7 @@ autoankauf-verkauf.ch
 autoankauf-vor-ort.ch
 autoankauf-wallis.ch
 autoankauf-winterthur.ch
+autoankauf-zahraa.ch
 autoankauf-zcar.ch
 autoankauf-zentrum.ch
 autoankauf-zh.ch
@@ -13914,6 +13929,7 @@ autoip.ch
 autoischi.ch
 autoitalia.ch
 autoivalue.ch
+autoix.ch
 autoize.ch
 autojac.ch
 autojacquaz.ch
@@ -14297,6 +14313,7 @@ automaison-zh.ch
 automaison.ch
 automaisonpriolo.ch
 automaite.ch
+automaitiq.ch
 automakeup.ch
 automaki.ch
 automakler-bazar.ch
@@ -14544,6 +14561,7 @@ automatiktuere24.ch
 automatiktueren.ch
 automatikuhr.ch
 automatikuhren.ch
+automating.ch
 automatingwork.ch
 automation-24.ch
 automation-3d.ch
@@ -14784,6 +14802,7 @@ automike.ch
 autominds.ch
 automio.ch
 automiola.ch
+automiq.ch
 automittelland.ch
 automize.ch
 automized.ch
@@ -15395,6 +15414,7 @@ autoparktime.ch
 autoparkuznach.ch
 autoparkwetzikon.ch
 autoparkwil.ch
+autoparkzug-ag.ch
 autopart.ch
 autopart24.ch
 autopartage.ch
@@ -15550,6 +15570,7 @@ autopool.ch
 autopool24.ch
 autopop.ch
 autoport.ch
+autoportal-schweiz.ch
 autoportal.ch
 autoportal24.ch
 autoportalschweiz.ch
@@ -16917,6 +16938,7 @@ autour-de-la-relation.ch
 autour-de-soi.ch
 autour-de-toi.ch
 autour-delle.ch
+autour-du-stand.ch
 autour-du-temps.ch
 autour.ch
 autourde.ch

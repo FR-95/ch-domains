@@ -573,6 +573,7 @@ cicn.ch
 cico-slt.ch
 cico.ch
 cicocoffeeandfood.ch
+cicod.ch
 cicoffee.ch
 cicofood.ch
 cicolab.ch
@@ -1476,6 +1477,7 @@ cimagipser.ch
 cimaglia.ch
 cimagu.ch
 cimail.ch
+cimailservice.ch
 cimaimmo.ch
 cimaises-a-tableaux.ch
 cimaises.ch
@@ -2165,7 +2167,6 @@ cinemagraph.ch
 cinemagraphs-film.ch
 cinemagraphs.ch
 cinemaguide.ch
-cinemahd.ch
 cinemahome.ch
 cinemahotel-leplaza.ch
 cinemaideal.ch
@@ -2673,6 +2674,7 @@ cintrage-du-bois.ch
 cintragebois.ch
 cintragedubois.ch
 cintragefiltube.ch
+cintro.ch
 cintropur-filter.ch
 cintropur.ch
 cintura.ch
@@ -5647,6 +5649,7 @@ cityspion.ch
 cityspionzug.ch
 citysports.ch
 cityspy.ch
+citysquares.ch
 citystade.ch
 citystatistics.ch
 citystay.ch
@@ -5951,6 +5954,7 @@ civis-system.ch
 civis.ch
 civisalteridem.ch
 civisdigitalis.ch
+civishelvetica.ch
 civision.ch
 civiskinopreis.ch
 civisme.ch

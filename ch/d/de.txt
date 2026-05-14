@@ -1188,7 +1188,6 @@ debest.ch
 debesti.ch
 debet.ch
 debetcard.ch
-debetek-vertrieb.ch
 debetek.ch
 debethune-resonique.ch
 debethune.ch
@@ -2729,6 +2728,7 @@ decomexplorer.ch
 decommissioning.ch
 decomnet.ch
 decomobil.ch
+decomobilier.ch
 decomodeart.ch
 decomontage.ch
 decomotional.ch
@@ -6119,7 +6119,6 @@ deindomainshop.ch
 deindomizil.ch
 deindoppelmeter.ch
 deindreh.ch
-deindrink.ch
 deindriver.ch
 deindrohnenpilot.ch
 deindruck.ch
@@ -8846,6 +8845,7 @@ delgado.ch
 delgadoarchitectes.ch
 delgadocleanservice.ch
 delgadoreinigungen.ch
+delgadotaxlegal.ch
 delgan.ch
 delgaone.ch
 delgato.ch
@@ -13223,6 +13223,7 @@ denktanmich.ch
 denktext.ch
 denktexte.ch
 denktools.ch
+denktransformation.ch
 denktraum.ch
 denktrend.ch
 denktweiter.ch
@@ -13920,8 +13921,6 @@ dentalexpert.ch
 dentalexperte.ch
 dentalexperten.ch
 dentalexperts.ch
-dentalexpress-basel.ch
-dentalexpress-online.ch
 dentalface.ch
 dentalfactory.ch
 dentalfamily.ch
@@ -14449,6 +14448,7 @@ dentavit-zuerich.ch
 dentavit.ch
 dentavita.ch
 dentavital.ch
+dentavo.ch
 dentawhite.ch
 dentawohl.ch
 dentaxis.ch
@@ -16765,6 +16765,7 @@ der-spur-na.ch
 der-st-martin.ch
 der-stadtmaler.ch
 der-stall.ch
+der-starke-maxx.ch
 der-stein-der-weisen.ch
 der-steinadler.ch
 der-steinbruchtag.ch
@@ -19117,6 +19118,7 @@ derniere-tangente.ch
 dernierefois.ch
 dernieretage.ch
 dernierkilometre.ch
+dernierkm.ch
 derniers-secours.ch
 derniersecours.ch
 derniervoyage.ch
@@ -19544,6 +19546,7 @@ derstammtisch.ch
 derstandard.ch
 derstandpunkt.ch
 derstarkefranz.ch
+derstarkemaxx.ch
 derstarkemix.ch
 derstau.ch
 dersteiger.ch
@@ -20736,6 +20739,7 @@ design-suisse.ch
 design-system.ch
 design-systeme.ch
 design-systems.ch
+design-tage-luzern.ch
 design-tage-zuerich.ch
 design-tage-zug.ch
 design-tage.ch
@@ -22747,6 +22751,7 @@ destinas.ch
 destinata-beyond.ch
 destinata.ch
 destination-aegypten.ch
+destination-afrika.ch
 destination-anywhere.ch
 destination-basel.ch
 destination-bern.ch
@@ -24162,6 +24167,7 @@ deutschprivatschule.ch
 deutschprivatunterricht.ch
 deutschprofi.ch
 deutschpunkt.ch
+deutschpunktschweiz.ch
 deutschrap.ch
 deutschritter.ch
 deutschschule-thun.ch
@@ -24985,6 +24991,7 @@ devigid.ch
 devigier.ch
 devigpt.ch
 devigus.ch
+devigusmethod.ch
 devigusminder.ch
 devihost.ch
 devii.ch

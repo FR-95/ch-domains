@@ -6,7 +6,6 @@ sn-agency.ch
 sn-architektur.ch
 sn-beteiligungen.ch
 sn-bodenbeschichtung.ch
-sn-businesspartner.ch
 sn-casanova.ch
 sn-chauffage.ch
 sn-coaching.ch
@@ -528,6 +527,7 @@ snapprint.ch
 snapprompt.ch
 snapproof.ch
 snappy-jobs.ch
+snappy-panda.ch
 snappy-works.ch
 snappy.ch
 snappyflows.ch

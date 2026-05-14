@@ -4475,6 +4475,7 @@ smash-n-cluck.ch
 smash-n-play.ch
 smash-sport.ch
 smash-tropic.ch
+smash-tropik.ch
 smash-wear.ch
 smash-x.ch
 smash.ch
@@ -5832,7 +5833,6 @@ smiley-fit.ch
 smiley-reisen.ch
 smiley-to-go.ch
 smiley.ch
-smileybox.ch
 smileybraclet.ch
 smileydog.ch
 smileye-yourday.ch
@@ -6064,7 +6064,6 @@ smiv.ch
 smivision.ch
 smiweiterbildung.ch
 smixcapital.ch
-smixin.ch
 smixtrade.ch
 smizze.ch
 smj.ch

@@ -287,7 +287,6 @@ lobezno.ch
 lobeznosplayground.ch
 lobhorn-productions.ch
 lobhornhuette.ch
-lobhudelei.ch
 lobi.ch
 lobica.ch
 lobinho.ch
@@ -538,6 +537,7 @@ local-dentist.ch
 local-dev.ch
 local-diving-center.ch
 local-divingcenter.ch
+local-edge.ch
 local-energy.ch
 local-entsorgung.ch
 local-events.ch
@@ -1100,7 +1100,6 @@ localtelefon.ch
 localtelsearch.ch
 localtherm.ch
 localticker.ch
-localtime.ch
 localtoday.ch
 localtouch.ch
 localtrade.ch
@@ -1741,6 +1740,7 @@ locator.ch
 locatouch.ch
 locatour.ch
 locatours.ch
+locatout.ch
 locaty.ch
 locauto.ch
 locautolausanne.ch
@@ -5537,7 +5537,6 @@ lohnservices.ch
 lohnsiebung-basel.ch
 lohnsiebung-baselland.ch
 lohnsoftware.ch
-lohnsortierung.ch
 lohnspalterei.ch
 lohnstandard.ch
 lohnsteuer-mitteilungen.ch
@@ -6085,11 +6084,13 @@ lokaleneukunden.ch
 lokaleoptiker.ch
 lokaleprodukte.ch
 lokaler-makler.ch
+lokaler-solarstrom.ch
 lokaler-strom.ch
 lokalereinkauf.ch
 lokalerenergiemarkt.ch
 lokalergenialer.ch
 lokalero.ch
+lokalersolarstrom.ch
 lokalerstrom.ch
 lokalerwein.ch
 lokalerwirz.ch
@@ -6187,6 +6188,7 @@ lokallab.ch
 lokallesen.ch
 lokallichtensteig.ch
 lokallift.ch
+lokallink-saeuliamt.ch
 lokallokal.ch
 lokalloyal.ch
 lokalmakler.ch
@@ -7803,7 +7805,6 @@ lonza.ch
 lonzaarena.ch
 lonzacampus.ch
 lonzen.ch
-lonzenity.ch
 lonzi.ch
 loo-too.ch
 loo.ch
@@ -11286,6 +11287,9 @@ louisetrottet.ch
 louisette.ch
 louisevaaucinema.ch
 louisevesco.ch
+louisexiv.ch
+louisexivschweizer.ch
+louisexivsuisse.ch
 louisfavre.ch
 louisfavre21.ch
 louisfavre28.ch
@@ -12870,6 +12874,7 @@ lovis-ar.ch
 lovis-microtec.ch
 lovis-sa.ch
 lovis.ch
+lovisa.ch
 lovisajewellery.ch
 lovisajewelry.ch
 lovisanalytics.ch
@@ -13280,6 +13285,7 @@ loyal-my.ch
 loyal-parking.ch
 loyal-scents.ch
 loyal.ch
+loyalcard.ch
 loyaldog.ch
 loyale.ch
 loyalefinanz.ch

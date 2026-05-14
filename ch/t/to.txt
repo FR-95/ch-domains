@@ -2645,6 +2645,7 @@ tokki.ch
 tokkoh.ch
 toklu-mediaservice.ch
 toklu.ch
+tokma.ch
 tokmak.ch
 tokmakci.ch
 tokmediagroup.ch
@@ -10419,6 +10420,7 @@ total-artwork.ch
 total-audience.ch
 total-auto.ch
 total-baurenovationen.ch
+total-bet.ch
 total-block.ch
 total-bt.ch
 total-care.ch
@@ -10477,6 +10479,7 @@ totalbar.ch
 totalbauprodukte.ch
 totalbeauty.ch
 totalbeschriftung.ch
+totalbet.ch
 totalbodyscan.ch
 totalbrain.ch
 totalbrands.ch
@@ -10515,6 +10518,7 @@ totalfit.ch
 totalfx.ch
 totalgaz.ch
 totalgest.ch
+totalgestion.ch
 totalglass-solutions.ch
 totalglass.ch
 totalgrupe.ch
@@ -11249,7 +11253,6 @@ tour-companion.ch
 tour-data.ch
 tour-de-bellevue.ch
 tour-de-berneroberland.ch
-tour-de-biere.ch
 tour-de-bula.ch
 tour-de-clic.ch
 tour-de-gwaerb.ch
@@ -11384,7 +11387,6 @@ tourdebern.ch
 tourdeberne-test.ch
 tourdeberne.ch
 tourdebex.ch
-tourdebiere.ch
 tourdeboeuf.ch
 tourdebrocante.ch
 tourdecochon.ch
@@ -12569,6 +12571,7 @@ towat.ch
 towbike.ch
 towbox.ch
 towcar.ch
+towcraft.ch
 towe.ch
 toweb.ch
 towel.ch
@@ -12608,6 +12611,7 @@ towerbus.ch
 towercnc.ch
 towercrane.ch
 towercranes.ch
+towercrest.ch
 towerdrink.ch
 towerfiftyfive.ch
 towergroup.ch

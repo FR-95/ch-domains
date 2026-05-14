@@ -389,6 +389,7 @@
 3d-sav.ch
 3d-scan-dienstleister.ch
 3d-scan-dienstleistung.ch
+3d-scan-service.ch
 3d-scan-to-cad.ch
 3d-scan-xpert.ch
 3d-scan.ch
@@ -897,7 +898,6 @@
 3dlaserschneiden.ch
 3dlayer.ch
 3dlayout.ch
-3dled.ch
 3dlegal.ch
 3dlily.ch
 3dlogo-schweiz.ch

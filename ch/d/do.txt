@@ -1506,6 +1506,7 @@ docutri.ch
 docutype.ch
 docuveg.ch
 docuvita.ch
+docuvox.ch
 docuware.ch
 docuwat.ch
 docuweb.ch
@@ -1716,7 +1717,6 @@ dodomaintestch.ch
 dodomassage.ch
 dodomassages.ch
 dodomeroni.ch
-dodomilo.ch
 dodomusic.ch
 dodona-consulting.ch
 dodona.ch
@@ -2171,6 +2171,7 @@ dog-o-finder.ch
 dog-o.ch
 dog-on-job.ch
 dog-on-the-feet.ch
+dog-on.ch
 dog-paddock.ch
 dog-paradise-lugano.ch
 dog-paradise.ch
@@ -2243,7 +2244,6 @@ dog-training.ch
 dog-travel.ch
 dog-trekking-schweiz.ch
 dog-turnier-zug.ch
-dog-vehicle-4-you.ch
 dog-ville.ch
 dog-vitalis.ch
 dog-vitality.ch
@@ -2369,7 +2369,6 @@ dogbytes.ch
 dogcafe.ch
 dogcafezurich.ch
 dogcamp.ch
-dogcamper-4-sharing.ch
 dogcamper.ch
 dogcare.ch
 dogcarehero.ch
@@ -3131,6 +3130,7 @@ dogwalker.ch
 dogwalkergrischa.ch
 dogwalkers.ch
 dogwalkersuisse.ch
+dogwalkeryannik.ch
 dogwalking-goldkueste.ch
 dogwalking.ch
 dogwalkr.ch
@@ -8739,7 +8739,6 @@ donskova.ch
 donsphynx.ch
 donsphynxkatzen.ch
 donssuisse.ch
-donstore.ch
 donstudio.ch
 donsuisse.ch
 dont-answer-be-happy.ch
@@ -9105,6 +9104,7 @@ doote.ch
 dootix.ch
 dootsch.ch
 dooutdoors.ch
+dooutroladodomundo.ch
 doowanda.ch
 doowap.ch
 doox.ch
@@ -10984,6 +10984,7 @@ dornersa.ch
 dornet.ch
 dornfeld-gmbh.ch
 dornfeld.ch
+dornfeldpartner.ch
 dornfinder.ch
 dornheim.ch
 dornhof-magden.ch
@@ -11149,7 +11150,6 @@ dorothehug.ch
 dorotheum.ch
 dorothy.ch
 dorothyand.ch
-dorothysuisse.ch
 dorotigioielli.ch
 dorotime.ch
 dorotime24.ch
@@ -11521,6 +11521,7 @@ dossiersullasaltue.ch
 dossiertest.ch
 dossimed.ch
 dossin.ch
+dossio.ch
 dossiora.ch
 dossis.ch
 dossmann.ch
@@ -11777,6 +11778,8 @@ dotsolutions.ch
 dotsource.ch
 dotsourcing.ch
 dotspot.ch
+dotsquare.ch
+dotsquaredot.ch
 dotsquares.ch
 dotster.ch
 dotsuisse.ch

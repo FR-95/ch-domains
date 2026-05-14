@@ -73,7 +73,6 @@ pv-gruppe.ch
 pv-guru.ch
 pv-gutachter.ch
 pv-gutachterin.ch
-pv-helvetic.ch
 pv-hilfe.ch
 pv-holidays.ch
 pv-host.ch
@@ -185,7 +184,6 @@ pv-stahlbau.ch
 pv-strom.ch
 pv-stromkosten-senken.ch
 pv-stromspeicher.ch
-pv-suisse.ch
 pv-support.ch
 pv-swiss.ch
 pv-swissair.ch
@@ -399,12 +397,12 @@ pvhandbuch.ch
 pvhandel.ch
 pvheizung.ch
 pvheld.ch
-pvhelvetic.ch
 pvhilfe.ch
 pvhuttwil.ch
 pvi-ag.ch
 pvi.ch
 pvie.ch
+pvieira.ch
 pvier.ch
 pvimhueb.ch
 pvinfo.ch
@@ -586,7 +584,6 @@ pvstar.ch
 pvstats.ch
 pvstrom.ch
 pvstz.ch
-pvsuisse.ch
 pvsupport.ch
 pvsuva.ch
 pvsw.ch

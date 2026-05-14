@@ -657,6 +657,7 @@ btssb.ch
 btst.ch
 btstaxi.ch
 btstreuhand.ch
+btstudio.ch
 btsun.ch
 btsv.ch
 btswiss.ch

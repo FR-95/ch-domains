@@ -423,6 +423,7 @@ wachseldorn24.ch
 wachsemitvali.ch
 wachsen-begleiten.ch
 wachsen-mit-pferden.ch
+wachsen-mit-wurzeln.ch
 wachsen-mitpferden.ch
 wachsen-und-geben.ch
 wachsen-und-lernen.ch
@@ -433,6 +434,7 @@ wachsende-kreise.ch
 wachsenderinge.ch
 wachsenmiterfolg.ch
 wachsenmitpferden.ch
+wachsenmitwurzeln.ch
 wachsenswert.ch
 wachsenundgedeihen.ch
 wachsenundreifen.ch
@@ -958,7 +960,6 @@ waehlen.ch
 waehlensiemi.ch
 waehlensiemich.ch
 waehlensieuns.ch
-waehler.ch
 waehli.ch
 waehlmal.ch
 waehlmich.ch
@@ -1779,6 +1780,7 @@ waffenmagazin.ch
 waffenmanufaktur-wittner.ch
 waffenmanufaktur.ch
 waffenmarkt.ch
+waffenmarktplatz.ch
 waffenmarti.ch
 waffenmech.ch
 waffenmeister.ch
@@ -1951,7 +1953,6 @@ wagenwerksteiner.ch
 wagenx.ch
 wagepay.ch
 wager-palace.ch
-wager.ch
 wagercasino.ch
 wagerdrome.ch
 wagerenhof-intranet.ch
@@ -2852,7 +2853,6 @@ waitads.ch
 waitapp.ch
 waitec.ch
 waiter.ch
-waiterbildung.ch
 waiterman.ch
 waiterone.ch
 waiterring.ch
@@ -5028,7 +5028,6 @@ walkabouts.ch
 walkabut.ch
 walkaloosa.ch
 walkandbless.ch
-walkandcare.ch
 walkandeat.ch
 walkandjog.ch
 walkandtalk-luzern.ch
@@ -7023,6 +7022,7 @@ wam-bringts.ch
 wam-engineering.ch
 wam-gmbh.ch
 wam-ing.ch
+wam-invest.ch
 wam-moenchi.ch
 wam-plast.ch
 wam-solar.ch
@@ -7032,6 +7032,7 @@ wama-immo.ch
 wama-immobilien.ch
 wama.ch
 wamaco.ch
+wamadiagnostics.ch
 wamag-befragungen.ch
 wamag.ch
 wamai.ch
@@ -10159,7 +10160,6 @@ wasno.ch
 wasnoch.ch
 wasnochbleibt.ch
 wasnwasn.ch
-wasoc.ch
 wasomarketing.ch
 wasonet.ch
 wasoteam.ch
@@ -10873,7 +10873,6 @@ wasserpflanzen.ch
 wasserpflanzenshop.ch
 wasserpflanzenspezialist.ch
 wasserpflege-delphin.ch
-wasserpflege.ch
 wasserpflegedelphin.ch
 wasserpflegemittel.ch
 wasserpflegeprodukte.ch
@@ -11597,6 +11596,8 @@ watan.ch
 watana.ch
 watanabe.ch
 watanka.ch
+watanpour-aesthetik.ch
+watanpour.ch
 watao.ch
 wataru.ch
 watashi.ch
@@ -11631,6 +11632,7 @@ watch-house.ch
 watch-hunter.ch
 watch-id.ch
 watch-immo.ch
+watch-index.ch
 watch-industry-jobs.ch
 watch-inside.ch
 watch-ish.ch
@@ -11871,6 +11873,7 @@ watchhouse.ch
 watchia.ch
 watchibia.ch
 watchimmo.ch
+watchindex.ch
 watchindustry-jobs.ch
 watchindustryjob.ch
 watchindustryjobs.ch

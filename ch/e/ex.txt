@@ -2844,7 +2844,6 @@ experience-event.ch
 experience-ex.ch
 experience-excellence.ch
 experience-factory.ch
-experience-graffitidigital.ch
 experience-graphic.ch
 experience-guru.ch
 experience-heritage.ch
@@ -5472,6 +5471,7 @@ exthost.ch
 extia.ch
 extim.ch
 extinct.ch
+extinctea.ch
 extincteur-co2.ch
 extincteur-lightwater.ch
 extincteur.ch
@@ -5523,6 +5523,7 @@ extra-net.ch
 extra-ordinaire.ch
 extra-praemien.ch
 extra-print.ch
+extra-regio.ch
 extra-sauber.ch
 extra-services.ch
 extra-shop.ch

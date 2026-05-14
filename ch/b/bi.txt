@@ -71,7 +71,6 @@ bi-institute.ch
 bi-jou.ch
 bi-karriere.ch
 bi-kmu-advisor.ch
-bi-ko.ch
 bi-ma-wo.ch
 bi-oil.ch
 bi-online.ch
@@ -3095,6 +3094,7 @@ bienwenue.ch
 bienz-dachfenster.ch
 bienz-immo.ch
 bienz-photography.ch
+bienz-sanitaer.ch
 bienz-treuhand.ch
 bienz.ch
 bienzag.ch
@@ -4646,7 +4646,6 @@ bigcompare.ch
 bigcompta.ch
 bigcomptabilite.ch
 bigconsulting.ch
-bigcornichon.ch
 bigcou.ch
 bigcreekfarm.ch
 bigcrun.ch
@@ -5134,7 +5133,6 @@ bigoudis.ch
 bigoudream.ch
 bigpark.ch
 bigparty.ch
-bigpatate.ch
 bigpawsvalley.ch
 bigphotobooth.ch
 bigpic.ch
@@ -5300,7 +5298,6 @@ bigtimes.ch
 bigtinu.ch
 bigtom.ch
 bigtomate.ch
-bigtomato.ch
 bigtools.ch
 bigtpro.ch
 bigtrans.ch
@@ -5571,6 +5568,7 @@ bijouterie-zbinden.ch
 bijouterie.ch
 bijouteriebrunner.ch
 bijouteriebrunnerbyrejane.ch
+bijouteriecaratdor.ch
 bijouteriecentrale.ch
 bijouteriedulac.ch
 bijouterieeres.ch
@@ -5728,6 +5726,7 @@ bike-art.ch
 bike-ascona.ch
 bike-atelier.ch
 bike-attack.ch
+bike-auktion.ch
 bike-ausbildung.ch
 bike-auslaufmodell.ch
 bike-baeriswil.ch
@@ -6289,6 +6288,7 @@ bikefahre.ch
 bikefahrtechnik.ch
 bikefahrtechnikkurs.ch
 bikefarmer.ch
+bikefascination.ch
 bikefashion.ch
 bikeferien-toskana.ch
 bikeferien.ch
@@ -11225,7 +11225,6 @@ binsacca.ch
 binsack.ch
 binsandboxes.ch
 binschellisdiesunddas.ch
-binschwanger.ch
 binsec.ch
 binseva.ch
 binsgarden.ch
@@ -11721,6 +11720,7 @@ bio-kohle.ch
 bio-kokosoel.ch
 bio-konfi.ch
 bio-kosmetik.ch
+bio-kosmetika.ch
 bio-kraeuter.ch
 bio-kraeuterbeer.ch
 bio-kraft.ch
@@ -11995,6 +11995,7 @@ bio-soupe.ch
 bio-spinnenschutz.ch
 bio-spirulina.ch
 bio-sport.ch
+bio-spot.ch
 bio-stadthofladen.ch
 bio-staehli.ch
 bio-stauden-garten-pflanzen.ch
@@ -14053,6 +14054,7 @@ biokosma.ch
 biokosmetik-locher.ch
 biokosmetik-munzinger.ch
 biokosmetik.ch
+biokosmetika.ch
 biokosmetikaswiss.ch
 biokosmetikstudio.ch
 biokost.ch
@@ -15070,6 +15072,7 @@ bioquantiq.ch
 bioquartier.ch
 bioquel.ch
 bioquell.ch
+bioquelle.ch
 bioquinoa.ch
 biora.ch
 biorabauken.ch
@@ -15261,7 +15264,6 @@ biosafebiosciences.ch
 biosafeglobal.ch
 biosafelifesciences.ch
 biosafesolutions.ch
-biosafety.ch
 biosafran.ch
 biosaft.ch
 biosaftey-consulting.ch
@@ -15745,6 +15747,7 @@ biotiss.ch
 biotissue.ch
 biotissuetechnologies.ch
 biotogo.ch
+biotoi.ch
 biotoilette.ch
 biotoken.ch
 biotol.ch
@@ -16104,7 +16107,6 @@ bipaarbasel.ch
 bipandgo.ch
 bipartizan.ch
 bipartner.ch
-bipbipcuisine.ch
 bipbipexpresse.ch
 bipbipnettoyage.ch
 bipbipp.ch
@@ -18008,6 +18010,7 @@ bisschen.ch
 bisscus.ch
 bisse-cognitif.ch
 bisse-des-sarrasins.ch
+bisse-ia.ch
 bisse.ch
 bisse32.ch
 bissedebreonna.ch

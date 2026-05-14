@@ -806,7 +806,6 @@ ki-text-humanizer.ch
 ki-text-optimierung.ch
 ki-text.ch
 ki-textberatung.ch
-ki-texten.ch
 ki-textwerk.ch
 ki-theorie.ch
 ki-therapie.ch
@@ -3450,7 +3449,6 @@ kigaplanet.ch
 kigaportal.ch
 kigaprima.ch
 kigaroo.ch
-kigashop.ch
 kigate.ch
 kigavereinsax.ch
 kigaweg.ch
@@ -4173,6 +4171,7 @@ killwangen24.ch
 killy.ch
 killyourdarling.ch
 killzone.ch
+kilm.ch
 kilmartin.ch
 kilmister.ch
 kiln.ch
@@ -4249,6 +4248,8 @@ kilucru.ch
 kiludo.ch
 kiluka.ch
 kilukru.ch
+kiluna.ch
+kiluno.ch
 kilus-gmbh.ch
 kily.ch
 kilykonstruktion.ch
@@ -5467,7 +5468,6 @@ kinderarzt-kandertal.ch
 kinderarzt-kirchenfeld.ch
 kinderarzt-koeniz.ch
 kinderarzt-lachen.ch
-kinderarzt-landquart.ch
 kinderarzt-laufen.ch
 kinderarzt-leuggern.ch
 kinderarzt-luzern-horw.ch
@@ -10151,7 +10151,6 @@ kinmed.ch
 kinmotion.ch
 kinn.ch
 kinna.ch
-kinnab.ch
 kinnajfilms.ch
 kinnaree.ch
 kinnarps.ch
@@ -10897,6 +10896,7 @@ kipkark.ch
 kipla.ch
 kiplaner.ch
 kipley.ch
+kipli.ch
 kipling.ch
 kiplus.ch
 kipmi.ch

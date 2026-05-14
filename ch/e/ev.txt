@@ -1305,6 +1305,7 @@ eveil-musique.ch
 eveil-nature.ch
 eveil-nutrition.ch
 eveil-okami.ch
+eveil-partners.ch
 eveil-psychomot.ch
 eveil-ton-ame-coaching.ch
 eveil-vert.ch
@@ -1900,7 +1901,6 @@ event-dekorationen.ch
 event-dekorationsmaterial.ch
 event-design.ch
 event-dienstleister.ch
-event-digitalgraffiti.ch
 event-discount-24.ch
 event-discount24.ch
 event-dj-gesucht.ch
@@ -2706,7 +2706,6 @@ eventfotobuch.ch
 eventfotograf-in-meiner-naehe.ch
 eventfotograf-luzern.ch
 eventfotograf-schweiz.ch
-eventfotograf-zuerich.ch
 eventfotograf.ch
 eventfotografen.ch
 eventfotografie-schweiz.ch
@@ -2831,7 +2830,6 @@ eventhuettevermietung.ch
 eventhus.ch
 eventhuus.ch
 eventhygiene.ch
-eventi-al-fiume.ch
 eventi-app.ch
 eventi-az.ch
 eventi-digitali.ch
@@ -4061,6 +4059,7 @@ evergreen-capital.ch
 evergreen-care.ch
 evergreen-classic-cars.ch
 evergreen-development.ch
+evergreen-garten.ch
 evergreen-group.ch
 evergreen-holding.ch
 evergreen-hr.ch

@@ -134,6 +134,7 @@ zfsachs.ch
 zfsd.ch
 zfservice.ch
 zfservices.ch
+zfsg.ch
 zfsgmbh.ch
 zfsgroup.ch
 zfsgruppe.ch

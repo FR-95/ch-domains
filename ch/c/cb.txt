@@ -281,7 +281,6 @@ cbclaw.ch
 cbclub.ch
 cbcmall.ch
 cbcng.ch
-cbco.ch
 cbcoaching.ch
 cbcoiffurebirrer.ch
 cbcoinbeaute.ch
@@ -996,6 +995,7 @@ cbrlocarno.ch
 cbrne-sas.ch
 cbronner.ch
 cbroth.ch
+cbrswiss.ch
 cbrueckner.ch
 cbrumantsch.ch
 cbrunel.ch

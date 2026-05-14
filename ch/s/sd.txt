@@ -519,11 +519,11 @@ sdlawl.ch
 sdlc.ch
 sdlegalconsulting.ch
 sdleman.ch
-sdlemans.ch
 sdlemont.ch
 sdleshauts-geneveys.ch
 sdlf.ch
 sdlg.ch
+sdlgeu.ch
 sdlh.ch
 sdlhrs.ch
 sdli.ch
@@ -721,6 +721,7 @@ sds2024.ch
 sds2025.ch
 sds2026.ch
 sds2027.ch
+sds2028.ch
 sds27.ch
 sdsa-ge.ch
 sdsa-geneve.ch
@@ -819,6 +820,7 @@ sdunterland.ch
 sdupont-easy-admin.ch
 sdupuis.ch
 sdur.ch
+sdux.ch
 sdv-ar.ch
 sdv-asmd.ch
 sdv-award.ch

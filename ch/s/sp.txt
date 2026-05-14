@@ -499,6 +499,7 @@ sp10ans.ch
 sp11.ch
 sp12.ch
 sp13.ch
+sp1450.ch
 sp1sp2.ch
 sp2.ch
 sp22.ch
@@ -965,7 +966,6 @@ spacedust.ch
 spacedustventures.ch
 spacedwell.ch
 spaceeconomy.ch
-spaceenergy.ch
 spaceeye.ch
 spacefacility.ch
 spacefaring.ch
@@ -1993,6 +1993,8 @@ spanishstudio.ch
 spanishtapas.ch
 spanishtaste.ch
 spanishtoday.ch
+spanishtranslation.ch
+spanishtranslations.ch
 spanishtravel.ch
 spanishway.ch
 spanjaard.ch
@@ -3079,6 +3081,7 @@ spassbrass.ch
 spassbremse.ch
 spassderzieht.ch
 spassdomain.ch
+spasseckli.ch
 spasserlebnis.ch
 spassfabrik.ch
 spassfaktor.ch
@@ -4107,6 +4110,7 @@ specialmood.ch
 specialnails.ch
 specialneeds.ch
 specialnuts.ch
+specialoc.ch
 specialoffer.ch
 specialoffers.ch
 specialoffice.ch
@@ -8485,6 +8489,7 @@ spielgruppeparcoverde.ch
 spielgruppepiccolo.ch
 spielgruppepieterlen.ch
 spielgruppepinguin.ch
+spielgruppepinguini.ch
 spielgruppepinocchioaarau.ch
 spielgruppepippilangstrumpf.ch
 spielgruppeplus.ch
@@ -10240,6 +10245,7 @@ spinsoup.ch
 spinsports.ch
 spinsstation.ch
 spinstag.ch
+spinstar.ch
 spinstation.ch
 spinstations.ch
 spinstationx.ch
@@ -10247,6 +10253,7 @@ spinstein.ch
 spinsteincasino.ch
 spinstudios.ch
 spinsup.ch
+spinsupcasino.ch
 spinsy-casino.ch
 spinsy-ch.ch
 spinsy.ch
@@ -10274,6 +10281,7 @@ spintown.ch
 spintrade.ch
 spintrading.ch
 spintrip.ch
+spintronic.ch
 spintronics.ch
 spintronik.ch
 spintropolis.ch
@@ -10793,6 +10801,7 @@ spiritmanufaktur.ch
 spiritmarket.ch
 spiritmassage.ch
 spiritme.ch
+spiritmedia.ch
 spiritmeeting.ch
 spiritmesse.ch
 spiritmind.ch
@@ -10958,7 +10967,6 @@ spiritual-coaching.ch
 spiritual-counselor.ch
 spiritual-dawn.ch
 spiritual-development.ch
-spiritual-healer-love-return.ch
 spiritual-healing.ch
 spiritual-health.ch
 spiritual-lab.ch
@@ -11856,7 +11864,6 @@ spitex-ch.ch
 spitex-cham.ch
 spitex-chur.ch
 spitex-citta-campagna.ch
-spitex-city.ch
 spitex-cloud.ch
 spitex-club-schweiz.ch
 spitex-congress.ch
@@ -13361,7 +13368,6 @@ spitfire-corner.ch
 spitfire-gt6.ch
 spitfire-media.ch
 spitfire.ch
-spitfire.tecnosoft.ch
 spitfirecorner.ch
 spitfireinaworldsocold.ch
 spitfirelab.ch
@@ -14101,6 +14107,7 @@ spoerri-liegenschaften.ch
 spoerri-online.ch
 spoerri-photography.ch
 spoerri-schreinerei.ch
+spoerri-service.ch
 spoerri-sicherheit.ch
 spoerri-solution.ch
 spoerri-tec.ch
@@ -14718,7 +14725,6 @@ sport-import-geneve.ch
 sport-import.ch
 sport-in.ch
 sport-index.ch
-sport-infusionen.ch
 sport-ingenieur.ch
 sport-ingenieurs.ch
 sport-innovation44.ch
@@ -16547,6 +16553,7 @@ sportnetz-frauenfeld.ch
 sportnetz-kreuzlingen.ch
 sportnetz-obwalden.ch
 sportnetz-ow.ch
+sportnetz.ch
 sportnetzeshop.ch
 sportnetzhinwil.ch
 sportnetzwerk.ch
@@ -17864,7 +17871,6 @@ sportvers.ch
 sportversand-pfister.ch
 sportversand.ch
 sportversicherung.ch
-sportversicherungen.ch
 sportversicherungskasse.ch
 sportvertrieb.ch
 sportvet.ch
@@ -19464,6 +19470,7 @@ spring-trade.ch
 spring-treuhand.ch
 spring-tschannen-holzbau.ch
 spring-workout.ch
+spring-xmedia.ch
 spring.ch
 spring4ever.ch
 springacademy.ch

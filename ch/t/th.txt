@@ -1457,7 +1457,6 @@ thatscode.ch
 thatscoding.ch
 thatscoffee.ch
 thatsdata.ch
-thatsdesign.ch
 thatsdigital.ch
 thatsfit.ch
 thatsit-marketing.ch
@@ -1603,7 +1602,6 @@ thc-shop-bern.ch
 thc-shop-schweiz.ch
 thc-shop.ch
 thc-store.ch
-thc-technik.ch
 thc-tests.ch
 thc-to-go.ch
 thc-tuning.ch
@@ -2033,6 +2031,7 @@ the-dance-club.ch
 the-dance.ch
 the-dancing-queens.ch
 the-dandy.ch
+the-dark-side-of-the-sound.ch
 the-dashboard.ch
 the-data-you-spend.ch
 the-day-before-birthday.ch
@@ -6271,6 +6270,7 @@ thedancingqueens.ch
 thedanitaexperience.ch
 thedarkknightrises.ch
 thedarkside.ch
+thedarksideofthesound.ch
 thedarksigns.ch
 thedarkwolfbrewery.ch
 thedarling.ch
@@ -8787,7 +8787,6 @@ thelivingroom.ch
 thelivingwater.ch
 thelivinsens.ch
 thelix.ch
-theljmsg-musicband.ch
 thelkin.ch
 thell.ch
 theller.ch
@@ -9000,6 +8999,7 @@ themaierannerfiles.ch
 themail.ch
 themailbox.ch
 themains.ch
+themainstay.ch
 themaisonaurora.ch
 themaisonsexperiences.ch
 themajestics.ch
@@ -11246,7 +11246,6 @@ therapie-im-zentrum.ch
 therapie-in-schaffhausen.ch
 therapie-inform.ch
 therapie-informationnelle.ch
-therapie-intuitive.ch
 therapie-isch.ch
 therapie-jegenstorf.ch
 therapie-job.ch
@@ -12506,6 +12505,7 @@ thermass.ch
 thermatechnik.ch
 thermatic.ch
 thermax.ch
+thermazis.ch
 thermcontec.ch
 therme-appartement.ch
 therme-baden.ch
@@ -16809,6 +16809,7 @@ thom-by-thomasrath.ch
 thom-foto.ch
 thom-grafix.ch
 thom-studio.ch
+thom-svp.ch
 thom.ch
 thom3s.ch
 thom4tec.ch
@@ -17758,6 +17759,7 @@ thomasjaki.ch
 thomasjakob.ch
 thomasjakobson.ch
 thomasjaquet.ch
+thomasjaskolka.ch
 thomasjegat.ch
 thomasjehle.ch
 thomasjeker.ch

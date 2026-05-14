@@ -317,6 +317,7 @@ dr-gurtner-ag.ch
 dr-haegele.ch
 dr-hair-beauty-studio.ch
 dr-hamacher.ch
+dr-hamel.ch
 dr-hammer.ch
 dr-hand-und-fuss.ch
 dr-handwerker.ch
@@ -470,6 +471,7 @@ dr-kunz.ch
 dr-kuonen.ch
 dr-lackner.ch
 dr-lagger.ch
+dr-lambert.ch
 dr-lange.ch
 dr-laser.ch
 dr-lau.ch
@@ -1598,6 +1600,7 @@ drainhook.ch
 drainjet.ch
 drainjetrobotics.ch
 drainology.ch
+drainstar.ch
 drainstone.ch
 draintec.ch
 draintech.ch
@@ -2415,6 +2418,7 @@ dream-light.ch
 dream-luxe.ch
 dream-machine.ch
 dream-machines.ch
+dream-massage.ch
 dream-mobility.ch
 dream-moto.ch
 dream-nails-liestal.ch
@@ -5913,7 +5917,6 @@ drivingevent.ch
 drivingevents.ch
 drivingevolution.ch
 drivingexperience.ch
-drivingexperienceswiss.ch
 drivingfixedincome.ch
 drivingforfree.ch
 drivinggraubuenden.ch
@@ -6147,6 +6150,7 @@ drlago.ch
 drlahoda.ch
 drlal.ch
 drlama.ch
+drlambert.ch
 drlange.ch
 drlanger.ch
 drlangmeier.ch
@@ -7557,7 +7561,6 @@ droneprocessswiss.ch
 droneprof.ch
 droneproject.ch
 droneprotect.ch
-droneprotection.ch
 droneqommand.ch
 dronerace.ch
 droneracing.ch
@@ -7806,7 +7809,6 @@ dropinshop.ch
 dropit.ch
 dropizol.ch
 dropkick.ch
-dropkicks.ch
 dropking.ch
 droplab.ch
 droplank.ch
@@ -8616,13 +8618,11 @@ druckeinfach.ch
 druckeinlagen.ch
 drucken-binden.ch
 drucken-mit-wir.ch
-drucken-online.ch
 drucken.ch
 drucken24.ch
 drucken3d.ch
 druckengel.ch
 druckenmitwir.ch
-druckenonline.ch
 drucker-3d.ch
 drucker-aktion.ch
 drucker-brother.ch
@@ -9334,6 +9334,7 @@ drumherum.ch
 drumi.ch
 drumian.ch
 drumkey.ch
+drumlab.ch
 drumlessons-in-zuerich.ch
 drumlig.ch
 drumlin.ch
@@ -9775,6 +9776,7 @@ dryfoodmarket.ch
 dryfoods.ch
 dryfreeze.ch
 dryft-detail.ch
+dryft.ch
 dryftai.ch
 dryglo.ch
 dryglovesystem.ch

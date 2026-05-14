@@ -247,7 +247,6 @@ im-paradies.ch
 im-park-aettenschwil.ch
 im-park.ch
 im-partners.ch
-im-pec-cable.ch
 im-pfynwald.ch
 im-plan.ch
 im-plus.ch
@@ -3272,6 +3271,7 @@ immo-baumgartner.ch
 immo-baur.ch
 immo-baz.ch
 immo-be.ch
+immo-be24.ch
 immo-bean.ch
 immo-bei.ch
 immo-benz.ch
@@ -7154,6 +7154,7 @@ immocryption.ch
 immocs-host.ch
 immocs.ch
 immoctis.ch
+immoctrl.ch
 immocube.ch
 immocugini.ch
 immocuori.ch
@@ -8410,7 +8411,6 @@ immopep.ch
 immoperf.ch
 immoperformance.ch
 immoperia.ch
-immoperium.ch
 immoperle.ch
 immoperlen.ch
 immoperri.ch
@@ -8640,7 +8640,6 @@ immoreben.ch
 immorec.ch
 immorechner.ch
 immorecht.ch
-immoredi.ch
 immoreflex.ch
 immoreg.ch
 immoregie.ch
@@ -9566,7 +9565,6 @@ immowerft.ch
 immowerita.ch
 immowerk-nw.ch
 immowerk.ch
-immowerkag.ch
 immowerker.ch
 immowerkk.ch
 immowerkraum.ch
@@ -11662,6 +11660,7 @@ impotsource.ch
 impotspluseleves-non.ch
 impotsrapides.ch
 impotsrapidesgeneve.ch
+impotssimples.ch
 impotssuissefacile.ch
 impotsvaud.ch
 impotswiss.ch

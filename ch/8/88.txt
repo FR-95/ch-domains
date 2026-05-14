@@ -70,6 +70,7 @@
 8888.ch
 88888.ch
 888888.ch
+8888888.ch
 88888888.ch
 8888888888.ch
 8888group.ch
@@ -102,6 +103,7 @@
 88houses.ch
 88invest.ch
 88k.ch
+88karat.ch
 88lucky.ch
 88m.ch
 88mobile.ch

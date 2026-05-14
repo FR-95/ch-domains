@@ -374,7 +374,6 @@ academia-nachhilfe.ch
 academia-plus.ch
 academia-press.ch
 academia-primar-sek.ch
-academia-primarschule.ch
 academia-primarsek.ch
 academia-reinach.ch
 academia-schools.ch
@@ -1326,6 +1325,7 @@ accentro.ch
 accents-du-terroir.ch
 accents.ch
 accentstyle.ch
+accentsys.ch
 accentua.ch
 accenture-careers.ch
 accenture.ch
@@ -1393,7 +1393,6 @@ access-de.ch
 access-design.ch
 access-entwickler.ch
 access-for-all.ch
-access-franchising.ch
 access-garden.ch
 access-hat.ch
 access-hgk.ch
@@ -1456,7 +1455,6 @@ accesscockpit.ch
 accesscom.ch
 accessconcept.ch
 accessconnect.ch
-accessconseil.ch
 accessconseils.ch
 accesscontrol.ch
 accessdenied.ch
@@ -1691,6 +1689,7 @@ accoladefund.ch
 accoladefunds.ch
 accolades-communication.ch
 accolate.ch
+accolis.ch
 accolist.ch
 accolla.ch
 accom-electro.ch
@@ -2029,7 +2028,6 @@ accountify.ch
 accounting-4-you.ch
 accounting-a-z.ch
 accounting-academy.ch
-accounting-arvenbuel.ch
 accounting-begriffe.ch
 accounting-by-barbora.ch
 accounting-controlling.ch
@@ -7022,6 +7020,7 @@ actoncopd.ch
 actonduebendorf.ch
 actone.ch
 actonenergy.ch
+actonfinance.ch
 actonic.ch
 actonline.ch
 actonm.ch
@@ -7057,6 +7056,7 @@ actractiv-fitness.ch
 actractivfitness.ch
 actraditon.ch
 actradns.ch
+actransport.ch
 actrecords.ch
 actreme.ch
 actress.ch

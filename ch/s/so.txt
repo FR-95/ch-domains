@@ -1411,7 +1411,6 @@ socialmediaclips.ch
 socialmediacom.ch
 socialmediacommunity.ch
 socialmediaconnector.ch
-socialmediacontentzurich.ch
 socialmediadays.ch
 socialmediadesign.ch
 socialmediaempire.ch
@@ -1421,7 +1420,6 @@ socialmediaexperten.ch
 socialmediafactory.ch
 socialmediafilm.ch
 socialmediafollower.ch
-socialmediafotos-zuerich.ch
 socialmediafotos.ch
 socialmediafotoszuerich.ch
 socialmediafuehrerschein.ch
@@ -2223,6 +2221,7 @@ sodablasting-schweiz.ch
 sodablasting.ch
 sodaboy-suisse.ch
 sodaboy.ch
+sodaburst.ch
 sodacan.ch
 sodaclub.ch
 sodaconsult.ch
@@ -4296,7 +4295,6 @@ sogiva.ch
 sogivaswiss.ch
 soglac.ch
 soglam-bymina.ch
-soglambeauty.ch
 soglei.ch
 sogleich.ch
 sogliare.ch
@@ -5736,7 +5734,6 @@ solar-heimspeicher.ch
 solar-held.ch
 solar-helden.ch
 solar-help-point.ch
-solar-helvetic.ch
 solar-hero.ch
 solar-hirsch.ch
 solar-hoefe.ch
@@ -6521,6 +6518,7 @@ solardusche.ch
 solarduschecamping.ch
 solarduschen.ch
 solarduscher.ch
+solare-adesso.ch
 solare-architektur.ch
 solare-energie.ch
 solare-svizzera.ch
@@ -6661,7 +6659,6 @@ solarflair.ch
 solarflares.ch
 solarflex.ch
 solarfloor.ch
-solarflow-technology.ch
 solarflow.ch
 solarflower.ch
 solarflowers.ch
@@ -6785,7 +6782,6 @@ solarhelden.ch
 solarhelfer.ch
 solarhelp.ch
 solarhelvetia.ch
-solarhelvetic.ch
 solarhelvetica.ch
 solarhero.ch
 solarhersteller.ch
@@ -11111,6 +11107,7 @@ solverio.ch
 solverion.ch
 solveriq.ch
 solveris.ch
+solvero-immo.ch
 solvero.ch
 solverr.ch
 solvers.ch
@@ -11627,6 +11624,7 @@ some-thing.ch
 some-wood.ch
 some.ch
 some1.ch
+somea-coaching.ch
 somea.ch
 someads.ch
 somebody.ch
@@ -13782,7 +13780,6 @@ sonma-docs.ch
 sonma.ch
 sonmar.ch
 sonmas.ch
-sonmat.ch
 sonmayol.ch
 sonmei.ch
 sonmez.ch
@@ -14208,6 +14205,7 @@ sonneneuenkirch.ch
 sonnenfaenger-basel.ch
 sonnenfaenger.ch
 sonnenfalter.ch
+sonnenfang.ch
 sonnenfassade.ch
 sonnenfeld-ermenswil.ch
 sonnenfeld-ruemikon.ch
@@ -15602,6 +15600,7 @@ sophia-naegeli.ch
 sophia-ohan.ch
 sophia-ophelia.ch
 sophia-orden.ch
+sophia-project.ch
 sophia-raimondi.ch
 sophia-siegenthaler.ch
 sophia-thiel.ch
@@ -15626,6 +15625,7 @@ sophiaclinicaltrials.ch
 sophiacom.ch
 sophiaddm.ch
 sophiadejong.ch
+sophiadini.ch
 sophiadoll.ch
 sophiae.ch
 sophiaeleonora-oberer.ch
@@ -15670,6 +15670,7 @@ sophiapaul.ch
 sophiapichler.ch
 sophiapiergiovanni.ch
 sophiaprogramm.ch
+sophiaproject.ch
 sophiaradiomics.ch
 sophiaraimondi.ch
 sophias.ch
@@ -15749,6 +15750,7 @@ sophie24.ch
 sophieabis.ch
 sophieaegerter.ch
 sophieallport.ch
+sophieandthomas.ch
 sophiebalser.ch
 sophieberdoz.ch
 sophieberner.ch
@@ -16069,7 +16071,6 @@ sophrologie-relaxation.ch
 sophrologie-sion.ch
 sophrologie-suisse-formation.ch
 sophrologie-suisse.ch
-sophrologie-therapie.ch
 sophrologie-vaud.ch
 sophrologie-visuelle.ch
 sophrologie-wil.ch
@@ -19479,6 +19480,7 @@ soundandmusic.ch
 soundandsilence-film.ch
 soundandstuff.ch
 soundandsummit.ch
+soundandvision.ch
 soundandwine.ch
 soundanlage.ch
 soundaround.ch
@@ -20770,10 +20772,12 @@ sovereign-intelligence.ch
 sovereign-invest.ch
 sovereign-it.ch
 sovereign-net.ch
+sovereign-paws.ch
 sovereign-workplace.ch
 sovereign.ch
 sovereign21.ch
 sovereignagents.ch
+sovereignagi.ch
 sovereignai.ch
 sovereignaiagents.ch
 sovereignarbor.ch
@@ -20797,6 +20801,7 @@ sovereignmind.ch
 sovereignnature.ch
 sovereignproductivitysuite.ch
 sovereignreserve.ch
+sovereignsafe.ch
 sovereignte.ch
 sovereigntechfund.ch
 sovereignthesis.ch
@@ -21306,6 +21311,7 @@ soziale-arbeit-entwickeln.ch
 soziale-arbeit-in-der-schule.ch
 soziale-arbeit.ch
 soziale-baugenossenschaft.ch
+soziale-begleitungen.ch
 soziale-beratung.ch
 soziale-berufe.ch
 soziale-bildung.ch

@@ -1621,7 +1621,6 @@ chaks.ch
 chakshusoni.ch
 chakuza.ch
 chal.ch
-chala.ch
 chalaalaa.ch
 chalado.ch
 chalais.ch
@@ -6807,7 +6806,6 @@ chaschnutze.ch
 chaschper.ch
 chaschperli.ch
 chaschtele-bier.ch
-chaschtele.ch
 chaschu.ch
 chase.ch
 chase4change.ch
@@ -7104,6 +7102,7 @@ chatbar24.ch
 chatbase.ch
 chatbechic.ch
 chatbeer.ch
+chatbelette.ch
 chatbit.ch
 chatbleu.ch
 chatbooks.ch
@@ -7193,6 +7192,7 @@ chateau-de-fieux.ch
 chateau-de-luins.ch
 chateau-de-mur.ch
 chateau-de-penthes.ch
+chateau-de-rochefort.ch
 chateau-de-tourbillon.ch
 chateau-de-valangin.ch
 chateau-des-chameaux.ch
@@ -10661,6 +10661,7 @@ cherryoffice.ch
 cherryoga.ch
 cherryonthecake.ch
 cherryonthethreads.ch
+cherryontop.ch
 cherrypick.ch
 cherrypicker.ch
 cherrypickings.ch
@@ -13493,6 +13494,7 @@ chilefeld-immobilien.ch
 chilefeld.ch
 chilefescht.ch
 chileflyer.ch
+chilegass-koelliken.ch
 chilegass.ch
 chilegmeind.ch
 chilegrueze.ch
@@ -14851,7 +14853,6 @@ chipforge.ch
 chipgitarlab.ch
 chipgut.ch
 chipheads.ch
-chiphealth.ch
 chipi.ch
 chipichapa.ch
 chipiedevie.ch
@@ -15727,7 +15728,6 @@ chisound.ch
 chispa-firedance.ch
 chispa.ch
 chispasupport.ch
-chispirit.ch
 chissgroup.ch
 chissihuis.ch
 chiste.ch
@@ -15889,6 +15889,7 @@ chlab.ch
 chladek.ch
 chlaebber-pfludde.ch
 chlaeber.ch
+chlaeberbox.ch
 chlaeberchrigu.ch
 chlaeberfee.ch
 chlaeberschmied.ch
@@ -17974,8 +17975,6 @@ chordisetorgano.ch
 chordmaster.ch
 chordozwil.ch
 chords.ch
-chordtherapeutics.ch
-chordtx.ch
 chorea-huntington.ch
 chorege.ch
 chorel.ch
@@ -18207,6 +18206,7 @@ chouchenemaths.ch
 chouchou-swiss.ch
 chouchou-switzerland.ch
 chouchou.ch
+chouchoubag.ch
 chouchouchou.ch
 chouchoucola.ch
 chouchouette.ch
@@ -20956,6 +20956,7 @@ christine-bulliard.ch
 christine-buono.ch
 christine-carucci.ch
 christine-cochard-medium.ch
+christine-cocondouceur.ch
 christine-coiffure.ch
 christine-demiere-sculptures.ch
 christine-derungs.ch
@@ -22901,7 +22902,6 @@ chronos-headhunter.ch
 chronos-nas.ch
 chronos-personalberatung.ch
 chronos-plus.ch
-chronos-products.ch
 chronos-ventures.ch
 chronos-verlag.ch
 chronos-web.ch

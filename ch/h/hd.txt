@@ -196,6 +196,7 @@ hdf-podcast.ch
 hdf-terraristik.ch
 hdf-treuhand.ch
 hdf.ch
+hdfc.ch
 hdfernsehen.ch
 hdforum.ch
 hdfoto.ch
@@ -415,7 +416,6 @@ hdurable.ch
 hdv-lausanne.ch
 hdv-online.ch
 hdv-rossiniere.ch
-hdv-umbau.ch
 hdv.ch
 hdvalais.ch
 hdvbroc.ch

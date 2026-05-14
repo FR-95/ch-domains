@@ -390,6 +390,7 @@ wealth-engineering.ch
 wealth-evaluation.ch
 wealth-experts.ch
 wealth-family-office.ch
+wealth-formula.ch
 wealth-gipfel.ch
 wealth-inequality.ch
 wealth-living.ch
@@ -1877,7 +1878,6 @@ web4solution.ch
 web4swiss.ch
 web4tec.ch
 web4u.ch
-web4we.ch
 web4win.ch
 web4work.ch
 web4you-gmbh.ch
@@ -3449,7 +3449,6 @@ weber-prevost.ch
 weber-psychotherapie.ch
 weber-rapperswil.ch
 weber-real-estate.ch
-weber-recht.ch
 weber-rechtsanwaelte.ch
 weber-rechtsanwalt.ch
 weber-rechtsberatungen.ch
@@ -3893,7 +3892,6 @@ webfactory.ch
 webfactory24.ch
 webfactory4you.ch
 webfactoryswiss.ch
-webfacts.ch
 webfacture.ch
 webfail.ch
 webfair.ch
@@ -11838,7 +11836,6 @@ weinsorten.ch
 weinsortiment.ch
 weinspanien.ch
 weinspeicher.ch
-weinspire.ch
 weinspirit.ch
 weinspot.ch
 weinspur.ch
@@ -12972,7 +12969,6 @@ weiterbildungskredit.ch
 weiterbildungskurs.ch
 weiterbildungskurse.ch
 weiterbildungsmanagement.ch
-weiterbildungsmanufaktur.ch
 weiterbildungsmarketing.ch
 weiterbildungsmarktplatz.ch
 weiterbildungsmesse.ch
@@ -20307,6 +20303,7 @@ wesenskern.ch
 wesenslicht.ch
 wesensplan.ch
 wesensrichter.ch
+wesensschule.ch
 wesensstern.ch
 wesenstor.ch
 wesenswandel.ch
@@ -20715,6 +20712,7 @@ westcountrylupins.ch
 westcut-academy.ch
 westcut.ch
 westdoor.ch
+westdry.ch
 weste.ch
 westec.ch
 westecker.ch
@@ -21267,6 +21265,7 @@ wetho.ch
 wethrive.ch
 weti.ch
 wetif.ch
+wetigo.ch
 wetime.ch
 wetip.ch
 wetis.ch
@@ -21566,6 +21565,7 @@ wetterflims.ch
 wetterfoto.ch
 wetterfroesche.ch
 wetterfrosch.ch
+wetterfroscher.ch
 wetterfuchs.ch
 wetterfunker.ch
 wettergott.ch
@@ -21727,6 +21727,7 @@ wettigocasino1.ch
 wettigocasinos.ch
 wettigoofficial.ch
 wettigoschweiz.ch
+wettigowetten.ch
 wettigruen.ch
 wettingen-1a.ch
 wettingen-augenarzt.ch

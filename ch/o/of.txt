@@ -217,7 +217,6 @@ ofenmarkt.ch
 ofenpass.ch
 ofenperle.ch
 ofenpizza.ch
-ofenprofi24.ch
 ofenrebellen.ch
 ofenrestauration.ch
 ofenrohr.ch
@@ -247,6 +246,7 @@ oferi.ch
 oferia.ch
 oferlo.ch
 ofero.ch
+oferrallbrothers.ch
 oferta.ch
 ofertas.ch
 ofertis.ch
@@ -1985,6 +1985,7 @@ offroad-dragrace-meisterschaft.ch
 offroad-dragrace.ch
 offroad-events.ch
 offroad-experte.ch
+offroad-experten.ch
 offroad-fair.ch
 offroad-family.ch
 offroad-heaven.ch
@@ -2040,6 +2041,8 @@ offroaddragrace.ch
 offroader.ch
 offroadexpedition.ch
 offroadexperience.ch
+offroadexperte.ch
+offroadexperten.ch
 offroadexploring.ch
 offroadfair.ch
 offroadfun.ch

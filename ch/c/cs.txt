@@ -10,7 +10,6 @@ cs-ar.ch
 cs-architekten.ch
 cs-arena.ch
 cs-ausreden.ch
-cs-automation.ch
 cs-automobile.ch
 cs-ba.ch
 cs-batterien.ch
@@ -223,6 +222,7 @@ cs99.ch
 csa-97.ch
 csa-empowerment.ch
 csa-engineering.ch
+csa-group.ch
 csa-haerdi.ch
 csa-hypotheken.ch
 csa-investment.ch
@@ -308,7 +308,6 @@ csb-bearings.ch
 csb-camper.ch
 csb-clothing.ch
 csb-conseil.ch
-csb-cuisines.ch
 csb-gleitlager.ch
 csb-hoster.ch
 csb-immobilien.ch
@@ -1003,6 +1002,7 @@ csmr.ch
 csms.ch
 csmsa.ch
 csmschweiz.ch
+csmstudio.ch
 csmswitzerland.ch
 csmtc.ch
 csmtc5.ch

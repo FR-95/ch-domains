@@ -1727,7 +1727,6 @@ asczh.ch
 asd-dental.ch
 asd-experience.ch
 asd-fiduciaire.ch
-asd-handbuch.ch
 asd-herzog.ch
 asd-int.ch
 asd-isolierungen.ch
@@ -7948,7 +7947,6 @@ astreabulletin.ch
 astrec.ch
 astree.ch
 astreea-charger.ch
-astreea-switzerland.ch
 astreea.ch
 astreeacharger.ch
 astreedgames.ch
@@ -8762,6 +8760,7 @@ astrosophie-beratung.ch
 astrosophie-coach.ch
 astrosophie-coaching.ch
 astrosophie-schweiz.ch
+astrosophie.ch
 astrosophiecoach.ch
 astrosophiecoaching.ch
 astrosoulcakes.ch
@@ -8802,6 +8801,7 @@ astrotobe.ch
 astrotoday.ch
 astrotreff.ch
 astroturf.ch
+astrouhr.ch
 astrouhren.ch
 astrouranus.ch
 astrouzmani.ch
@@ -8961,6 +8961,7 @@ asuit.ch
 asuite.ch
 asuitec.ch
 asujata.ch
+asuka.ch
 asulab.ch
 asulastudio.ch
 asule.ch
@@ -9001,6 +9002,7 @@ asurformation.ch
 asuria.ch
 asurion.ch
 asurit.ch
+asus-parts.ch
 asus-shop.ch
 asus-verlag.ch
 asus.ch

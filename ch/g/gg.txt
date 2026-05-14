@@ -145,6 +145,8 @@ ggbrau.ch
 ggbs.ch
 ggbuelach.ch
 ggburgdorf.ch
+ggbye.ch
+ggbyes.ch
 ggbzd.ch
 ggc.ch
 ggcag.ch
@@ -411,6 +413,7 @@ ggsoftware-test.ch
 ggsoftware.ch
 ggsolutions.ch
 ggsp.ch
+ggsplus.ch
 ggss.ch
 ggst.ch
 ggstda.ch

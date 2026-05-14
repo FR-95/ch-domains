@@ -811,6 +811,7 @@ hifi-kabel.ch
 hifi-kaufmann.ch
 hifi-klassiker.ch
 hifi-komponenten.ch
+hifi-luzern.ch
 hifi-manufaktur.ch
 hifi-mathys.ch
 hifi-meier.ch
@@ -1149,7 +1150,6 @@ highend-caraudio.ch
 highend-computer.ch
 highend-galerie.ch
 highend-logistik.ch
-highend-nachfolge.ch
 highend-notebook.ch
 highend-outlet.ch
 highend-pc.ch
@@ -1170,7 +1170,6 @@ highendgrowroom.ch
 highendhifi.ch
 highendlich.ch
 highendlow.ch
-highendnachfolge.ch
 highendoutlet.ch
 highendpresentation.ch
 highendprodukte.ch
@@ -1302,7 +1301,6 @@ highland-shop.ch
 highland-walde.ch
 highland.ch
 highlandbea.ch
-highlandbeef.ch
 highlandbridge.ch
 highlandcattle.ch
 highlandcattleeschiegg.ch
@@ -1436,7 +1434,6 @@ highperformancebar.ch
 highperformancebattery.ch
 highperformanceconsulting.ch
 highperformancedrink.ch
-highperformancefood.ch
 highperformancemeal.ch
 highperformanceoil.ch
 highperformancephysio.ch
@@ -3614,9 +3611,6 @@ hinterhus.ch
 hinteriors.ch
 hinterkaifeck.ch
 hinterkappelen.ch
-hinterkirch-reinach.ch
-hinterkirch-wohnen.ch
-hinterkirch.ch
 hinterland-aviatik.ch
 hinterland-leatherworks.ch
 hinterland.ch
@@ -4723,10 +4717,8 @@ hirschmann.ch
 hirschmannfoundation.ch
 hirschmannstiftung.ch
 hirschmannweb.ch
-hirschmatt-copy.ch
 hirschmatt-immobilien.ch
 hirschmatt-neustadt.ch
-hirschmatt-printcenter.ch
 hirschmatt-treuhand.ch
 hirschmatt.ch
 hirschmattenhof.ch
@@ -4894,7 +4886,6 @@ hirtenhofring28.ch
 hirtenhofstrasse-luzern.ch
 hirtenhuegel.ch
 hirtenhuette.ch
-hirtenhund.ch
 hirtenhunde-schweiz.ch
 hirtenhunde.ch
 hirtenkinder.ch
@@ -5568,7 +5559,6 @@ historyoftechnology.ch
 historysear.ch
 historyshandful.ch
 historyshandfull.ch
-historyshop39-45.ch
 historyswingers.ch
 historytalk.ch
 historytalks.ch

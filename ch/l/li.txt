@@ -1592,6 +1592,7 @@ licht-decken.ch
 licht-deko.ch
 licht-der-wahrheit.ch
 licht-der-welt.ch
+licht-des-herzens.ch
 licht-design.ch
 licht-designer.ch
 licht-ding.ch
@@ -1861,7 +1862,6 @@ lichtbogenopfer.ch
 lichtbombe.ch
 lichtbote.ch
 lichtboten.ch
-lichtbotschaft.ch
 lichtbox.ch
 lichtbox24.ch
 lichtbringer.ch
@@ -1892,7 +1892,6 @@ lichtdesign-schweiz.ch
 lichtdesign.ch
 lichtdesigner.ch
 lichtdesigngmbh.ch
-lichtdesignstudio.ch
 lichtdeslebens.ch
 lichtdienst.ch
 lichtdirekt.ch
@@ -2511,7 +2510,6 @@ lichtstrahl-soham.ch
 lichtstrahl.ch
 lichtstrahlpraxis.ch
 lichtstrom.ch
-lichtstromenergie.ch
 lichtstudio.ch
 lichtstuebli.ch
 lichtstufen.ch
@@ -5810,7 +5808,6 @@ lifeopedia.ch
 lifeops.ch
 lifeoptimators.ch
 lifeoptimist.ch
-lifeorganized.ch
 lifeoutdoorliving.ch
 lifepad-cpr.ch
 lifepak.ch
@@ -6920,7 +6917,6 @@ light-solution.ch
 light-sound-project.ch
 light-sound-systems.ch
 light-sound.ch
-light-sphere.ch
 light-system.ch
 light-systems.ch
 light-tech.ch
@@ -10166,7 +10162,6 @@ limoswiss.ch
 limotaxi-zuerich.ch
 limotee.ch
 limothun.ch
-limotime.ch
 limotions.ch
 limotour.ch
 limotransfer.ch
@@ -10351,6 +10346,7 @@ limpertinente.ch
 limpex.ch
 limpeza-reinigungsservice.ch
 limpia-nettoyage.ch
+limpiaberti.ch
 limpiado.ch
 limpiavida.ch
 limpid-helvetic.ch
@@ -11948,6 +11944,7 @@ linechecker.ch
 lineco.ch
 linecode.ch
 linecontroller.ch
+linecrest.ch
 lined-immobau.ch
 lined-immobilien.ch
 linedance-brunnen.ch
@@ -12790,6 +12787,7 @@ linkenbach.ch
 linkeo.ch
 linker.ch
 linkeracademy.ch
+linkerbot.ch
 linkerhand.ch
 linkering.ch
 linkerjobs.ch
@@ -14762,7 +14760,6 @@ lipper.ch
 lipperinsight.ch
 lippert.ch
 lippertt.ch
-lippgastro.ch
 lippi.ch
 lippinet.ch
 lippis-hundebetreuung.ch
@@ -17366,6 +17363,7 @@ littlestars-bluekosmetik.ch
 littlestars-shop.ch
 littlestars.ch
 littlestarsticino.ch
+littlestart.ch
 littlesteps.ch
 littlestone.ch
 littlestories.ch
@@ -17740,7 +17738,6 @@ live-cycle.ch
 live-data24.ch
 live-davos-klosters.ch
 live-digital-campus.ch
-live-digitalgraffiti.ch
 live-easy.ch
 live-eisen.ch
 live-erdgas.ch
@@ -18181,6 +18178,7 @@ livejukebox.ch
 livekameramann.ch
 livekarikatur.ch
 livekarikaturen.ch
+livekick.ch
 livekid.ch
 livekindly.ch
 livekom.ch

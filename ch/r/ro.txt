@@ -71,7 +71,6 @@ road-chicken.ch
 road-crew.ch
 road-drive-fahrschule.ch
 road-dust.ch
-road-empanadas.ch
 road-experts.ch
 road-eyes.ch
 road-forum.ch
@@ -204,10 +203,13 @@ roadlite.ch
 roadlok.ch
 roadly.ch
 roadman.ch
+roadmap-berufsbildung.ch
 roadmap-electromobilite.ch
 roadmap-electromobility.ch
 roadmap-elektromobilitaet.ch
 roadmap-elettromobilita.ch
+roadmap-formationprofessionnelle.ch
+roadmap-formazioneprofessionale.ch
 roadmap-grossen.ch
 roadmap-netto-null.ch
 roadmap-planer.ch
@@ -488,6 +490,7 @@ roastspace.ch
 roasty.ch
 roat.ch
 roatel.ch
+roaya.ch
 roaz.ch
 rob-ag.ch
 rob-award.ch
@@ -501,6 +504,7 @@ rob-spence.ch
 rob-walther.ch
 rob.ch
 rob1.ch
+rob1x1.ch
 rob58.ch
 roba-ag.ch
 roba-bautenschutz.ch
@@ -549,6 +553,7 @@ robatech-schweiz.ch
 robatech.ch
 robatel-etancheite.ch
 robatel.ch
+robatelprod.ch
 robatherm.ch
 robatti.ch
 robau.ch
@@ -910,6 +915,7 @@ robertkennedycollege.ch
 robertkenner.ch
 robertkiyosaki.ch
 robertkluser.ch
+robertknight.ch
 robertkoch.ch
 robertkocher.ch
 robertkoenig.ch
@@ -1124,7 +1130,6 @@ robertschneider.ch
 robertschroeder.ch
 robertschuetz.ch
 robertschweizer.ch
-robertschwere.ch
 robertselitrenny.ch
 robertsenn.ch
 robertsimeon.ch
@@ -2271,6 +2276,7 @@ robotik-info.ch
 robotik-recht.ch
 robotik-schweiz.ch
 robotik.ch
+robotik1x1.ch
 robotika.ch
 robotikag.ch
 robotikclubschweiz.ch
@@ -2643,6 +2649,7 @@ roccos.ch
 roccosanso.ch
 roccosound.ch
 roccosravioli.ch
+roccuzzogips.ch
 rocdesign-dev.ch
 rocdesign.ch
 rocdorsay.ch
@@ -4224,6 +4231,7 @@ rodizuerich.ch
 rodja.ch
 rodlee.ch
 rodlerbar.ch
+rodlfructus.ch
 rodmail.ch
 rodmedia.ch
 rodmedina.ch
@@ -5500,7 +5508,6 @@ roger-federer.ch
 roger-fessler.ch
 roger-forrer.ch
 roger-frank.ch
-roger-frei.ch
 roger-gallati.ch
 roger-gallet.ch
 roger-gasser.ch
@@ -7434,6 +7441,7 @@ rokic.ch
 rokid.ch
 rokinformatik.ch
 rokireisen.ch
+rokit.ch
 rokita.ch
 rokitphones.ch
 rokitta-partners.ch
@@ -12240,6 +12248,7 @@ room-dna.ch
 room-dresser.ch
 room-escape.ch
 room-exclusive.ch
+room-flims.ch
 room-for-inspiration.ch
 room-for-rent.ch
 room-for.ch
@@ -12309,6 +12318,7 @@ room4all.ch
 room4business.ch
 room4change.ch
 room4events.ch
+room4girls.ch
 room4love.ch
 room4me.ch
 room4music.ch
@@ -13386,6 +13396,7 @@ rosahadorn.ch
 rosahair.ch
 rosahauserstiftung.ch
 rosahealingmassage.ch
+rosaheart.ch
 rosahof.ch
 rosahorsch.ch
 rosaiasenergiequelle.ch
@@ -17657,6 +17668,7 @@ rovi-treuhand.ch
 rovi.ch
 rovia.ch
 roviabeauty.ch
+roviahair.ch
 rovial.ch
 rovicaremobil.ch
 rovicstyle.ch
@@ -18151,7 +18163,6 @@ royal-tattoo.ch
 royal-teppichpflege.ch
 royal-teppichreinigung.ch
 royal-thai-cuisine.ch
-royal-tickets.ch
 royal-tours.ch
 royal-trading.ch
 royal-transport.ch
@@ -18187,6 +18198,7 @@ royalaudemars.ch
 royalbaden.ch
 royalbakery.ch
 royalbank.ch
+royalbar-frauenfeld.ch
 royalbar.ch
 royalbasics.ch
 royalbau.ch
@@ -18482,6 +18494,7 @@ royalpool-blue.ch
 royalpool.ch
 royalpoolblue.ch
 royalpop.ch
+royalpopstrap.ch
 royalpratteln.ch
 royalpremiumcars.ch
 royalpresent.ch
@@ -18573,6 +18586,8 @@ royalstigerch.ch
 royalstigers.ch
 royalstore.ch
 royalstory.ch
+royalstrap.ch
+royalstraps.ch
 royalstudio.ch
 royalstudios.ch
 royalstyle.ch

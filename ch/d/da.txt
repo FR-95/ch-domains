@@ -3449,6 +3449,7 @@ daliono.ch
 dalip.ch
 dalipi-automobile.ch
 dalipi-gmbh.ch
+dalipibau.ch
 dalipigmbh.ch
 dalipo.ch
 daliproperties.ch
@@ -7773,7 +7774,6 @@ danieltrojanek.ch
 danieltruessel.ch
 danieltschumi.ch
 danielulbrich.ch
-danielulerio.ch
 danielulrich.ch
 danielundsusanne.ch
 danieluntersander.ch
@@ -8189,6 +8189,7 @@ danjatim.ch
 danjo.ch
 danjohn.ch
 dank-ihnen.ch
+dank.ch
 danka.ch
 dankadir.ch
 dankaeslin.ch
@@ -9976,6 +9977,7 @@ darkhyp.ch
 darkinbox.ch
 darkine.ch
 darkink.ch
+darkinproduction.ch
 darkiq.ch
 darkk-swiss.ch
 darkk.ch
@@ -12079,6 +12081,7 @@ daslottchen.ch
 daslu.ch
 dasludwig.ch
 dasluftbett.ch
+daslumpenhaus.ch
 daslur-services.ch
 daslutzradio.ch
 dasluzern.ch
@@ -14621,7 +14624,6 @@ datenradar.ch
 datenraeume.ch
 datenraffinerie.ch
 datenraise.ch
-datenraum.ch
 datenraume.ch
 datenrecht.ch
 datenrecovery.ch
@@ -15519,6 +15521,7 @@ dauti-gartenbau.ch
 dauti-haustechnik.ch
 dauti-immo.ch
 dauti-maler.ch
+dauti.ch
 dautiautomobile.ch
 dautibau.ch
 dautibodendesign.ch
@@ -17582,6 +17585,7 @@ dayexcursions.ch
 dayfleur.ch
 dayforce.ch
 dayforcediscover.ch
+dayforceflexpay.ch
 dayfoto.ch
 daygecko.ch
 dayhikes.ch

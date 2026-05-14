@@ -1237,7 +1237,6 @@ tsg-cloud.ch
 tsg-construction.ch
 tsg-fleet.ch
 tsg-gas.ch
-tsg-referendum.ch
 tsg-shop.ch
 tsg-solar.ch
 tsg-solutions.ch
@@ -1316,7 +1315,6 @@ tshirts.ch
 tshirtsbedrucken.ch
 tshirtsfactory.ch
 tshirtshop.ch
-tshirtstore.ch
 tshirtstudio.ch
 tshirtswiss.ch
 tshm-arvelac.ch

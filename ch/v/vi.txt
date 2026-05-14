@@ -578,6 +578,7 @@ viama.ch
 viamaggio2-lugano.ch
 viamail.ch
 viamaja.ch
+viamala-brocki.ch
 viamala-ferien.ch
 viamala-gartenbau.ch
 viamala-gebaeudereinigung.ch
@@ -1101,7 +1102,6 @@ vibea.ch
 vibeagency.ch
 vibeagent.ch
 vibeandcode.ch
-vibeapp.ch
 vibear.ch
 vibeathon.ch
 vibebag.ch
@@ -1134,13 +1134,11 @@ vibeconsulting.ch
 vibecore.ch
 vibecraft.ch
 vibed.ch
-vibedesign.ch
 vibeevents.ch
 vibefilm.ch
 vibefinder.ch
 vibeflash.ch
 vibeflow-ai.ch
-vibeflow.ch
 vibeforge.ch
 vibefoundrystudio.ch
 vibegroup.ch
@@ -1155,7 +1153,6 @@ vibekluis.ch
 vibekmu.ch
 vibel.ch
 vibelab-zuerich.ch
-vibelab.ch
 vibelaun.ch
 vibelearnhub.ch
 vibelec.ch
@@ -2827,11 +2824,9 @@ videografen.ch
 videografie.ch
 videografik.ch
 videografis.ch
-videografzuerich.ch
 videogramm.ch
 videograph.ch
 videographen.ch
-videographer-zurich.ch
 videographer.ch
 videographerfrank.ch
 videographergeneva.ch
@@ -3334,6 +3329,7 @@ vidonne.ch
 vidonya.ch
 vidoo.ch
 vidoora.ch
+vidora.ch
 vidorihabitas.ch
 vidos.ch
 vidoudez.ch
@@ -4081,6 +4077,7 @@ vietnamvoyage.ch
 vietnet.ch
 vietorisz.ch
 vietpop.ch
+viets-dns.ch
 vietstreetfood.ch
 vietswiss-bf.ch
 vietswiss.ch
@@ -4925,6 +4922,7 @@ viksystem.ch
 viktilabs.ch
 viktor-ackermann.ch
 viktor-award.ch
+viktor-awards.ch
 viktor-bern.ch
 viktor-giacobbo.ch
 viktor-immobilien.ch
@@ -4932,7 +4930,6 @@ viktor-inglin.ch
 viktor-khrapunov.ch
 viktor-lekaj.ch
 viktor-mueller-law.ch
-viktor-multimedia.ch
 viktor-raetzer.ch
 viktor-roethlin.ch
 viktor-rolf-parfums.ch
@@ -4945,6 +4942,7 @@ viktor.ch
 viktor623.ch
 viktora.ch
 viktorairservice.ch
+viktoraward.ch
 viktorbauch.ch
 viktorbaumann.ch
 viktordelponte.ch
@@ -5497,6 +5495,7 @@ villa12.ch
 villa1203.ch
 villa1566.ch
 villa166.ch
+villa1905.ch
 villa1a-rueschlikon.ch
 villa1a.ch
 villa21.ch
@@ -5583,6 +5582,7 @@ villachoisy.ch
 villachribu.ch
 villachristine.ch
 villacircle.ch
+villaclaudiatorbole.ch
 villaclub.ch
 villacoffea.ch
 villacolina-ibiza.ch
@@ -7509,6 +7509,7 @@ vinduterroir.ch
 vinduvalais.ch
 vine-vision.ch
 vine4friends.ch
+vinea-cressier.ch
 vinea-dielsdorf.ch
 vinea-helvetica.ch
 vinea-immobilien.ch
@@ -10220,6 +10221,7 @@ vipshuttle.ch
 vipsingles.ch
 vipskaderberatung.ch
 vipsky.ch
+vipsluck.ch
 vipsocial.ch
 vipsolar.ch
 vipsolarium.ch
@@ -10468,7 +10470,9 @@ vireo-empower.ch
 vireo.ch
 vireobags.ch
 vireolabs.ch
+vireon-realestate.ch
 vireon.ch
+vireonrealestate.ch
 vireos-partners.ch
 vireos.ch
 vireq.ch
@@ -11195,7 +11199,6 @@ virtuallanguages.ch
 virtuallearning.ch
 virtuallesson.ch
 virtuallongtermdataroom.ch
-virtually.ch
 virtuallyaudio.ch
 virtuallyeverything.ch
 virtualmachineprovider.ch
@@ -11881,6 +11884,7 @@ visalia.ch
 visalight.ch
 visalis.ch
 visall-brillenglas.ch
+visall-group.ch
 visall-suisse.ch
 visall-swiss.ch
 visall.ch
@@ -12821,6 +12825,7 @@ vision360coaching.ch
 vision360diplomacy.ch
 vision365.ch
 vision4460.ch
+vision4ads.ch
 vision4business.ch
 vision4immobilien.ch
 vision4peace.ch
@@ -13048,6 +13053,7 @@ visionenwerkstatt.ch
 visioneo.ch
 visioner-living.ch
 visionera.ch
+visionesvizzera2035.ch
 visionet.ch
 visioneur.ch
 visioneurope.ch
@@ -13183,6 +13189,7 @@ visionloop.ch
 visionlytix.ch
 visionmail.ch
 visionmarket.ch
+visionmatch.ch
 visionmedia.ch
 visionmediagames.ch
 visionmediation.ch
@@ -13301,6 +13308,7 @@ visionscenter.ch
 visionschule.ch
 visionschweiz.ch
 visionschweiz2030.ch
+visionschweiz2035.ch
 visionscience.ch
 visionscoaching.ch
 visionscometrue.ch
@@ -13362,6 +13370,7 @@ visionstudio.ch
 visionstudioauto.ch
 visionstudios.ch
 visionsuisse.ch
+visionsuisse2035.ch
 visionsuite.ch
 visionsurvey.ch
 visionswerk.ch
@@ -14174,7 +14183,6 @@ vistaholding.ch
 vistahome.ch
 vistahotel.ch
 vistahp.ch
-vistaimmo.ch
 vistaio.ch
 vistaiovisuals.ch
 vistait.ch
@@ -14817,6 +14825,7 @@ visum-beratung.ch
 visum-bern.ch
 visum-centrale.ch
 visum-china.ch
+visum-consulting.ch
 visum-design.ch
 visum-foto.ch
 visum-indien.ch
@@ -15435,7 +15444,6 @@ vitagetikkongress.ch
 vitagevity.ch
 vitagliano.ch
 vitaglobis.ch
-vitaglow.ch
 vitaglp.ch
 vitaglucan.ch
 vitagneau.ch
@@ -16220,7 +16228,6 @@ vitalogic.ch
 vitalogie-bern.ch
 vitalogie.ch
 vitalogy.ch
-vitalon.ch
 vitalonde.ch
 vitalonga.ch
 vitaloor.ch
@@ -16643,7 +16650,6 @@ vitaminde.ch
 vitamindealer.ch
 vitamindkarte.ch
 vitamindmangel-hilfe.ch
-vitamindmarketing.ch
 vitamindrink.ch
 vitamindservice.ch
 vitamine-b.ch
@@ -16929,6 +16935,7 @@ vitario-schweiz.ch
 vitario.ch
 vitaris.ch
 vitarit.ch
+vitaritual.ch
 vitarium.ch
 vitarlity.ch
 vitarlo.ch
@@ -17363,7 +17370,6 @@ viton.ch
 vitona-fachhandel.ch
 vitona-shop.ch
 vitona.ch
-vitonashop.ch
 vitones.ch
 vitoni-spritz.ch
 vitoni.ch
@@ -19030,6 +19036,7 @@ vivianedusil.ch
 vivianeegli.ch
 vivianeerb.ch
 vivianefontaine.ch
+vivianegatelier.ch
 vivianegerzner.ch
 vivianegiroud.ch
 vivianegloor.ch
@@ -19091,6 +19098,7 @@ vivibeautylashes.ch
 vivibeni.ch
 vivibiasca.ch
 vivibilis.ch
+vivibono.ch
 vivibot.ch
 vivibreganzona.ch
 vivicams.ch
@@ -19520,7 +19528,6 @@ vivovelo.ch
 vivovital.ch
 vivovivo.ch
 vivovojo.ch
-vivoweb.ch
 vivoweight.ch
 vivowood.ch
 vivoyage.ch
@@ -19780,7 +19787,6 @@ vizion.ch
 vizion3d.ch
 vizionaire.ch
 vizionart.ch
-vizionaryworldtrade.ch
 vizioneyewear.ch
 vizioni.ch
 vizionr.ch

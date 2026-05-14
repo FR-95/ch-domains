@@ -485,7 +485,6 @@ crag.ch
 cragganmore.ch
 craggles.ch
 cragno.ch
-crai.ch
 craie.ch
 craies.ch
 craig.ch
@@ -605,6 +604,7 @@ crane.ch
 cranecam.ch
 cranecamera.ch
 cranecapital.ch
+cranecraft.ch
 craneflow.ch
 cranenext.ch
 cranenxt.ch
@@ -1796,6 +1796,7 @@ crazy-art.ch
 crazy-bag.ch
 crazy-bags.ch
 crazy-bikes.ch
+crazy-bingo.ch
 crazy-black.ch
 crazy-box.ch
 crazy-bull-customs.ch
@@ -6165,6 +6166,7 @@ crepetruck.ch
 crepewagen.ch
 crepex.ch
 crepextasy.ch
+crephouse.ch
 crepic.ch
 crepiere.ch
 crepin.ch
@@ -9489,7 +9491,6 @@ crownmarine.ch
 crownmetal.ch
 crownmgmt.ch
 crownmountain.ch
-crownmountains.ch
 crownnet.ch
 crownofindiarestaurant.ch
 crownos.ch
@@ -9984,6 +9985,7 @@ crunch-time.ch
 crunch.ch
 crunchandcloud.ch
 crunchandcream.ch
+crunchandmunch.ch
 crunchbit.ch
 crunched.ch
 cruncher.ch
@@ -10633,7 +10635,6 @@ cryptoactu.ch
 cryptoad.ch
 cryptoad24.ch
 cryptoads.ch
-cryptoadvise.ch
 cryptoadvisenet.ch
 cryptoadvisor.ch
 cryptoadvisory.ch
@@ -11157,7 +11158,6 @@ cryptoproject.ch
 cryptopropfirm.ch
 cryptoproxyvote.ch
 cryptoproxyvoting.ch
-cryptopulse.ch
 cryptopunk.ch
 cryptopunks.ch
 cryptoq.ch
@@ -11459,6 +11459,7 @@ crystal-medical.ch
 crystal-moments.ch
 crystal-network.ch
 crystal-nte.ch
+crystal-patisserie.ch
 crystal-pool-group.ch
 crystal-pool-media.ch
 crystal-pool-shop.ch
@@ -11570,6 +11571,7 @@ crystalnailszurich.ch
 crystalowl.ch
 crystalp.ch
 crystalparadise.ch
+crystalpatisserie.ch
 crystalpeptides.ch
 crystalpoolgroup.ch
 crystalraptor.ch

@@ -1899,6 +1899,7 @@ dianabustos.ch
 dianabuzzurro.ch
 dianacapital.ch
 dianacare.ch
+dianacarlos.ch
 dianacasoni.ch
 dianaceli.ch
 dianaceppi.ch
@@ -2476,7 +2477,6 @@ diblue.ch
 dibo.ch
 diboard.ch
 diboks.ch
-dibon.ch
 dibond.ch
 dibooster-kinaesthetics.ch
 dibooster.ch
@@ -2838,6 +2838,7 @@ dict.ch
 dictanet.ch
 dictaphone.ch
 dictaphones.ch
+dictare.ch
 dictate.ch
 dictatec.ch
 dictation-avocats-valais.ch
@@ -3151,7 +3152,6 @@ didis-kebab.ch
 didis-shop.ch
 didis.ch
 didisburger.ch
-didisfoodtruck.ch
 didisfrieden.ch
 didisheim.ch
 didiswelt.ch
@@ -3257,6 +3257,7 @@ die-allergie.ch
 die-allergien.ch
 die-allesmacher.ch
 die-allgaeuer.ch
+die-allrounder.ch
 die-alm.ch
 die-alp.ch
 die-alpen-brauchen-klimaschutz.ch
@@ -4247,6 +4248,7 @@ die-lagereinrichter.ch
 die-landmaschinen.ch
 die-landschaftplaner.ch
 die-landschaftsarchitekten.ch
+die-landschaftsplaner.ch
 die-langs.ch
 die-lanschaftsplaner.ch
 die-lastwagen.ch
@@ -4764,6 +4766,7 @@ die-rederei.ch
 die-rednerin.ch
 die-reform.ch
 die-regalmacher.ch
+die-regalpruefer.ch
 die-regierung.ch
 die-regiomesse.ch
 die-reichtumsformel.ch
@@ -8238,6 +8241,7 @@ dierechtskanzlei.ch
 dierecycler.ch
 diereferenz.ch
 dieregalmacher.ch
+dieregalpruefer.ch
 dieregel.ch
 dieregie.ch
 dieregiomesse.ch
@@ -10457,7 +10461,6 @@ digidot.ch
 digidox-consulting.ch
 digidox.ch
 digidreams.ch
-digidrip.ch
 digidrive.ch
 digidrone.ch
 digidruck.ch
@@ -11621,6 +11624,7 @@ digital-mikroskope.ch
 digital-minds.ch
 digital-mindset.ch
 digital-mit-system.ch
+digital-mitarbeiter.ch
 digital-mobility.ch
 digital-momentum.ch
 digital-monitor.ch
@@ -13477,12 +13481,6 @@ digitalgoodsag.ch
 digitalgoodsstore.ch
 digitalgorillas.ch
 digitalgov.ch
-digitalgraffiti-atelier.ch
-digitalgraffiti-event.ch
-digitalgraffiti-experience.ch
-digitalgraffiti-live.ch
-digitalgraffiti-studio.ch
-digitalgraffiti-team.ch
 digitalgraffiti.ch
 digitalgraubuenden.ch
 digitalgreenfinance.ch
@@ -13553,6 +13551,7 @@ digitalhero.ch
 digitalheroes.ch
 digitalheros.ch
 digitalhiker.ch
+digitalhilfe-pratteln.ch
 digitalhilfe.ch
 digitalhirsch.ch
 digitalhistory.ch
@@ -13960,7 +13959,6 @@ digitalmarketinglab.ch
 digitalmarketingmanager.ch
 digitalmarketingmesse.ch
 digitalmarketingpme.ch
-digitalmarketingpro.ch
 digitalmarketingprofessional.ch
 digitalmarketingschweiz.ch
 digitalmarketingsolutions.ch
@@ -14281,7 +14279,6 @@ digitalpun.ch
 digitalpurist.ch
 digitalpurpose.ch
 digitalpuzzle.ch
-digitalpv.ch
 digitalq.ch
 digitalqconcept.ch
 digitalqrqode.ch
@@ -18017,6 +18014,7 @@ directional.ch
 directioncapri.ch
 directioncommunication.ch
 directionnorth.ch
+directionnotarial-lukasmeyer.ch
 directionplus.ch
 directions-scolaires.ch
 directions-shop.ch
@@ -18997,6 +18995,7 @@ disco80.ch
 discoasis.ch
 discobarfm.ch
 discobed.ch
+discobedshop.ch
 discobeton.ch
 discobox.ch
 discoburger.ch
@@ -20115,7 +20114,6 @@ dispositifcba.ch
 dispositifdefermeture.ch
 dispositifmedical.ch
 disposition-jobs.ch
-disposition.ch
 dispositionspersonnelles.ch
 dispositiv.ch
 dispotech.ch

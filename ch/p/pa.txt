@@ -1102,7 +1102,6 @@ packetwat.ch
 packex.ch
 packexport.ch
 packexpress.ch
-packflex.ch
 packgeiss.ch
 packgeissen.ch
 packgeissenwanderung.ch
@@ -3798,7 +3797,6 @@ paladinoinsurtech.ch
 paladinproductions.ch
 paladinsafe.ch
 paladinsec.ch
-paladinstudio.ch
 paladinte.ch
 paladintools.ch
 paladinventures.ch
@@ -4808,6 +4806,7 @@ palmersnowboards.ch
 palmerte.ch
 palmes.ch
 palmese.ch
+palmeum.ch
 palmeundtopf.ch
 palmexpress.ch
 palmey.ch
@@ -5072,6 +5071,7 @@ paluma-likoer.ch
 paluma.ch
 palumbi.ch
 palumbo-schaub.ch
+palumbo.ch
 palumboinvestag.ch
 palummo.ch
 palumotos.ch
@@ -5939,6 +5939,7 @@ pandar.ch
 pandarchitecture.ch
 pandaro.ch
 pandaroo.ch
+pandarosa.ch
 pandartdesign.ch
 pandas-hundesalon.ch
 pandas.ch
@@ -7544,7 +7545,6 @@ pantschuggerli.ch
 pantsula.ch
 pantu.ch
 pantucci.ch
-pantugium.ch
 pantum.ch
 pantuso.ch
 panty.ch
@@ -7563,6 +7563,7 @@ panurbano.ch
 panurge.ch
 panvega.ch
 panventures.ch
+panvia.ch
 panvica.ch
 panvionsolutions.ch
 panx.ch
@@ -8221,6 +8222,7 @@ paperandsilk.ch
 paperandstyle.ch
 paperandtea.ch
 paperangler.ch
+paperartgeneva.ch
 paperartist.ch
 paperasse-etc.ch
 paperasse.ch
@@ -10329,6 +10331,7 @@ parasailing.ch
 parasailor.ch
 parasana.ch
 parascal.ch
+parascale.ch
 parascan.ch
 paraschidis.ch
 paraschool.ch
@@ -15172,6 +15175,7 @@ partydoktor.ch
 partydome.ch
 partydream.ch
 partydrink.ch
+partydrinks.ch
 partydrop.ch
 partydruck.ch
 partyduo.ch
@@ -17383,7 +17387,6 @@ passingaware.ch
 passingplace.ch
 passini-sa.ch
 passini.ch
-passino.ch
 passint.ch
 passio-immo.ch
 passio-immobilien.ch
@@ -19530,7 +19533,6 @@ patientenueberwachung.ch
 patientenumfrage.ch
 patientenuni.ch
 patientenuniversitaet.ch
-patientenverfuegung-digital.ch
 patientenverfuegung-formular.ch
 patientenverfuegung-in-leichter-sprache.ch
 patientenverfuegung-online.ch
@@ -21328,7 +21330,6 @@ patriziacroce.ch
 patriziadatz.ch
 patriziadellamaria.ch
 patriziadevittori.ch
-patriziaeandrea.ch
 patriziafani.ch
 patriziafontana.ch
 patriziafurrer.ch
@@ -24398,6 +24399,7 @@ paythings.ch
 paythos.ch
 paytmmall.ch
 payto.ch
+paytonhat.ch
 paytrans.ch
 paytress.ch
 paytreu.ch

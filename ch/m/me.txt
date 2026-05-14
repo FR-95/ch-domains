@@ -509,7 +509,6 @@ meatico.ch
 meating.ch
 meatingroom.ch
 meatintegrity.ch
-meatique.ch
 meative.ch
 meatjapan.ch
 meatlove.ch
@@ -1919,7 +1918,6 @@ medcampus.ch
 medcamswiss.ch
 medcan.ch
 medcann.ch
-medcannabis.ch
 medcap.ch
 medcapital.ch
 medcar.ch
@@ -8153,6 +8151,7 @@ medizinisches-zentrum-rorschach.ch
 medizinisches-zentrum-st-raphael.ch
 medizinisches-zentrum-thal.ch
 medizinisches-zentrum.ch
+medizinischescannabis.ch
 medizinischescoaching.ch
 medizinischesfortbildungszentrum.ch
 medizinischesocken.ch
@@ -8599,7 +8598,6 @@ medolu.ch
 medolution.ch
 medomat.ch
 medomeg.ch
-medomics.ch
 medon-immobilien.ch
 medon.ch
 medone.ch
@@ -8702,8 +8700,10 @@ medplusmobil.ch
 medpme.ch
 medpoint.ch
 medpointconnect.ch
+medpointoftringen.ch
 medpoints.ch
 medpointsupply.ch
+medpointunterkulm.ch
 medpol.ch
 medpooler.ch
 medpooling.ch
@@ -8874,7 +8874,6 @@ medskincare.ch
 medskinlounge.ch
 medskript.ch
 medslot.ch
-medsmg.ch
 medsocks.ch
 medsoft.ch
 medsol.ch
@@ -9150,6 +9149,7 @@ medusahair.ch
 medusahairstyle.ch
 medusaimmo.ch
 medusaip.ch
+medusapack.ch
 medusapiercing.ch
 medusarestaurantlounge-liebefeld.ch
 medusaschweiz.ch
@@ -9666,6 +9666,7 @@ meetaxz.ch
 meetbeauty.ch
 meetbennettburke.ch
 meetblind.ch
+meetblue.ch
 meetboard.ch
 meetbora.ch
 meetbox.ch
@@ -10319,7 +10320,6 @@ megafahrzeuge.ch
 megafan.ch
 megafarma.ch
 megafestzelt.ch
-megafestzelt1.ch
 megafeux.ch
 megafiduciaria.ch
 megafile.ch
@@ -10470,6 +10470,7 @@ megamorphose-coaching.ch
 megamorphose.ch
 megamosaik.ch
 megamoto.ch
+megamun.ch
 megamusikschule.ch
 megan-osteo-animalier.ch
 megan-rochat.ch
@@ -10717,6 +10718,7 @@ megavitalshop.ch
 megavoice.ch
 megavolts.ch
 megavox.ch
+megawaffel.ch
 megawatt-energie.ch
 megawatt-solar.ch
 megawatt-supporter.ch
@@ -12001,7 +12003,6 @@ meier-metallbau-ag.ch
 meier-metallbau.ch
 meier-metalldesign.ch
 meier-metzg.ch
-meier-modehaus.ch
 meier-modellbau.ch
 meier-modelle.ch
 meier-moebel.ch
@@ -12690,6 +12691,7 @@ meilennet.ch
 meilenoger.ch
 meilenoptimieren.ch
 meilenrechner.ch
+meilensammeln.ch
 meilensothebysrealty.ch
 meilenstein-coaching.ch
 meilenstein-events.ch
@@ -14007,7 +14009,6 @@ mein-synbol.ch
 mein-tabak.ch
 mein-taegerwilen.ch
 mein-tattoo.ch
-mein-taxi.ch
 mein-team.ch
 mein-teamevent.ch
 mein-teamshop.ch
@@ -14277,7 +14278,6 @@ meinarztdirekt.ch
 meinarztmail.ch
 meinasendas.ch
 meinasien.ch
-meinassistenz.ch
 meinastrobook.ch
 meinatem.ch
 meinatemraum.ch
@@ -16038,6 +16038,7 @@ meinfarberlebnis.ch
 meinfaustballshop.ch
 meinfavorit.ch
 meinfederwerk.ch
+meinfeinkostladen.ch
 meinfeld.ch
 meinfenster.ch
 meinfensterbrett.ch
@@ -19644,6 +19645,7 @@ mellis-naehzauber.ch
 mellis-napfzauber.ch
 mellis-tierphysiotherapie.ch
 mellis-zauberwelt.ch
+mellitivision.ch
 mellius.ch
 mellness.ch
 mello-immo.ch
@@ -20743,6 +20745,7 @@ memoriamennonitica.ch
 memorian.ch
 memoriastein.ch
 memoriasteinkunst.ch
+memoriastudio.ch
 memoriav.ch
 memoriavita.ch
 memoriavitis.ch
@@ -22390,6 +22393,7 @@ mentalartstudio.ch
 mentalbalance.ch
 mentalbasics.ch
 mentalbasicscoach.ch
+mentalbau.ch
 mentalberater.ch
 mentalbereit.ch
 mentalbewegt.ch
@@ -22494,6 +22498,7 @@ mentalesmanagement.ch
 mentalespitzenleistung.ch
 mentalesreiten.ch
 mentalestaerke.ch
+mentalestraining.ch
 mentaleswohl.ch
 mentaletankstelle.ch
 mentaletherapie.ch
@@ -22916,6 +22921,7 @@ mentorae.ch
 mentorag.ch
 mentorama.ch
 mentorapp.ch
+mentorasuisse.ch
 mentorat-hes.ch
 mentorat-lernen.ch
 mentorat-m7.ch
@@ -26478,7 +26484,6 @@ meshme.ch
 meshnet.ch
 meshnodes.ch
 meshop.ch
-meshopping.ch
 meshormones.ch
 meshpass.ch
 meshtalent.ch
@@ -29490,6 +29495,7 @@ metasearch.ch
 metasecurity.ch
 metaseite.ch
 metaseiten.ch
+metasens.ch
 metaseo.ch
 metaserv.ch
 metaserve.ch

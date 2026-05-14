@@ -1158,7 +1158,6 @@ sweetlabel.ch
 sweetland.ch
 sweetlandia.ch
 sweetlashesbylaura.ch
-sweetleaf.ch
 sweetlemon-concepts.ch
 sweetlemon.ch
 sweetlemonade.ch
@@ -3407,7 +3406,6 @@ swiss-bitcoin-events.ch
 swiss-bitcoin-pay.ch
 swiss-bitcoin-vault.ch
 swiss-bitcoin.ch
-swiss-bitcoiner.ch
 swiss-bitcoinevents.ch
 swiss-biz-catalyst.ch
 swiss-biz.ch
@@ -4162,7 +4160,6 @@ swiss-contest.ch
 swiss-contests.ch
 swiss-continence-foundation.ch
 swiss-continuum.ch
-swiss-contracting.ch
 swiss-contractor.ch
 swiss-contractors.ch
 swiss-contribution.ch
@@ -6064,6 +6061,7 @@ swiss-international-air-lines.ch
 swiss-international-airlines.ch
 swiss-international-center.ch
 swiss-international-centers.ch
+swiss-international-institute.ch
 swiss-international-management.ch
 swiss-international-railways.ch
 swiss-international-security.ch
@@ -6464,6 +6462,7 @@ swiss-limousine-geneva.ch
 swiss-limousine-geneve.ch
 swiss-limousine-service.ch
 swiss-limousine-services.ch
+swiss-limousinenservice.ch
 swiss-limousineservice.ch
 swiss-limousineservices.ch
 swiss-lims.ch
@@ -8062,7 +8061,6 @@ swiss-rets.ch
 swiss-reuse.ch
 swiss-review.ch
 swiss-reviews.ch
-swiss-revision.ch
 swiss-revotion.ch
 swiss-rex.ch
 swiss-rf.ch
@@ -8332,7 +8330,6 @@ swiss-secure-seal.ch
 swiss-secure.ch
 swiss-securitas-group.ch
 swiss-securitas.ch
-swiss-securite-incendie.ch
 swiss-securities.ch
 swiss-security-consulting.ch
 swiss-security-days.ch
@@ -8907,7 +8904,6 @@ swiss-subbuteo.ch
 swiss-sublimation.ch
 swiss-subnet.ch
 swiss-succession.ch
-swiss-suchhunde-team.ch
 swiss-suchhunde.ch
 swiss-sugar.ch
 swiss-suiseki-association.ch
@@ -9159,6 +9155,7 @@ swiss-tms.ch
 swiss-tobacco.ch
 swiss-togo.ch
 swiss-toilet.ch
+swiss-toit-express.ch
 swiss-toitures.ch
 swiss-tok.ch
 swiss-token.ch
@@ -9282,7 +9279,6 @@ swiss-trennwaende.ch
 swiss-trennwand.ch
 swiss-tresor.ch
 swiss-treuhand-1897.ch
-swiss-treuhand-services.ch
 swiss-treuhand.ch
 swiss-triathlon-shop.ch
 swiss-triathlonshop.ch
@@ -11294,6 +11290,7 @@ swissbarbellclub.ch
 swissbarber.ch
 swissbarbers.ch
 swissbarcamps.ch
+swissbarco.ch
 swissbarcup.ch
 swissbarefootcompany.ch
 swissbarf.ch
@@ -11758,7 +11755,6 @@ swissbitcoincash.ch
 swissbitcoinconference.ch
 swissbitcoincongress.ch
 swissbitcoineconomy.ch
-swissbitcoiner.ch
 swissbitcoinevent.ch
 swissbitcoinevents.ch
 swissbitcoinfund.ch
@@ -11914,7 +11910,6 @@ swissbob.ch
 swissboboq.ch
 swissboda.ch
 swissboden-design.ch
-swissboden.ch
 swissbodensysteme.ch
 swissbody-pilates.ch
 swissbodycraft.ch
@@ -12963,7 +12958,6 @@ swisscbdcare.ch
 swisscbdconsulting.ch
 swisscbdfarm.ch
 swisscbdlabs.ch
-swisscbdream.ch
 swisscbg.ch
 swisscbholding.ch
 swisscbn.ch
@@ -13047,6 +13041,7 @@ swisscf.ch
 swisscfc.ch
 swisscfo.ch
 swisscfoday.ch
+swisscfopartners.ch
 swisscg.ch
 swisschado.ch
 swisschain.ch
@@ -19207,6 +19202,7 @@ swisskalkmobile.ch
 swisskam.ch
 swisskamel.ch
 swisskamper.ch
+swisskanalservice.ch
 swisskanaltechnikag.ch
 swisskandi.ch
 swisskangal.ch
@@ -20053,6 +20049,7 @@ swisslivetalent.ch
 swisslivetalents.ch
 swisslivin.ch
 swissliving.ch
+swisslivingdesign.ch
 swisslivinghome.ch
 swisslivingsoil.ch
 swisslivingspaces.ch
@@ -25315,6 +25312,7 @@ swissskillhub.ch
 swissskills-automobiltechnik-zentralschweiz.ch
 swissskills.ch
 swissskills2009.ch
+swissskills27.ch
 swissskillsbern.ch
 swissskillsbern2014.ch
 swissskilodge.ch
@@ -25527,6 +25525,7 @@ swisssoul.ch
 swisssoulcancles.ch
 swisssoulcandles.ch
 swisssoulcompany.ch
+swisssoulsewing.ch
 swisssound.ch
 swisssoundandlight.ch
 swisssounds.ch
@@ -26290,6 +26289,7 @@ swisstennis-pickleball.ch
 swisstennis-securitas-direct.ch
 swisstennis.ch
 swisstennisacademie.ch
+swisstennisacademy.ch
 swisstennisakademie.ch
 swisstenniscoach.ch
 swisstennispickleball.ch
@@ -27334,7 +27334,6 @@ swissvfx.ch
 swissvgc.ch
 swissvhs.ch
 swissvhv.ch
-swissvia.ch
 swissviager.ch
 swissvibe.ch
 swissvibecoding.ch
@@ -29087,7 +29086,6 @@ swizolpflegecenter.ch
 swizone.ch
 swizonic.ch
 swizr.ch
-swiztwatch.ch
 swizu.ch
 swizworld.ch
 swizz-ag.ch
@@ -29502,6 +29500,7 @@ swrhospitality.ch
 swri.ch
 swrnd.ch
 swro.ch
+swrplus-wiki.ch
 swrplus.ch
 swrt.ch
 swrv.ch

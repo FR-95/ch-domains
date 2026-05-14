@@ -405,6 +405,7 @@ idcode.ch
 idcom.ch
 idcon.ch
 idconcept.ch
+idconstructions.ch
 idconsult.ch
 idconsulting.ch
 idcontests.ch
@@ -1742,6 +1743,7 @@ ideogym.ch
 ideohumancapital.ch
 ideolab.ch
 ideologie.ch
+ideology.ch
 ideology2.ch
 ideomea.ch
 ideon.ch

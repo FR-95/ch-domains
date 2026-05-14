@@ -160,7 +160,6 @@ dddpi.ch
 dddrags-band.ch
 dddrendering.ch
 ddds.ch
-dddsicherheitsdienst.ch
 dddw.ch
 dde.ch
 ddeals.ch

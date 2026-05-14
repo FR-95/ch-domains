@@ -4328,7 +4328,6 @@ phoneindex.ch
 phoneiverse.ch
 phoneklinik.ch
 phonekonzept.ch
-phonelab.ch
 phonelabrepair.ch
 phonelabstore.ch
 phoneland.ch
@@ -4900,6 +4899,7 @@ photobastei.ch
 photobatterie.ch
 photobauer.ch
 photobay.ch
+photobd.ch
 photobeat.ch
 photobee.ch
 photobelle.ch
@@ -5040,7 +5040,6 @@ photoclubnestle.ch
 photoclubneuchatel.ch
 photoclubs.ch
 photoclubsr.ch
-photoclubsuisse.ch
 photoclubvouvry.ch
 photocoa.ch
 photocoaching.ch
@@ -5293,7 +5292,6 @@ photographeneuchatel.ch
 photographeportrait.ch
 photographeprofessionnel.ch
 photographer-swiss.ch
-photographer-zurich.ch
 photographer.ch
 photographer24.ch
 photographerbaiba.ch
@@ -6099,6 +6097,7 @@ photovoltaikschweiz.ch
 photovoltaikservice.ch
 photovoltaikshop.ch
 photovoltaikshop24.ch
+photovoltaikspeicher.ch
 photovoltaikspezialist.ch
 photovoltaiksysteme.ch
 photovoltaiktagung.ch
@@ -6685,7 +6684,6 @@ physio-animasana.ch
 physio-animaux-valais.ch
 physio-appenzellerland.ch
 physio-aquamed.ch
-physio-ar-aare.ch
 physio-araya.ch
 physio-arbon.ch
 physio-arcades.ch
@@ -8234,7 +8232,6 @@ physioapa.ch
 physioapm.ch
 physioapp.ch
 physioaquamed.ch
-physioaraare.ch
 physioarbon.ch
 physioareal.ch
 physioarena.ch
@@ -9130,6 +9127,7 @@ physiomedicalgroup.ch
 physiomedicenter.ch
 physiomedicentre.ch
 physiomedicformation.ch
+physiomedico.ch
 physiomedifit.ch
 physiomedlocarno.ch
 physiomedo.ch
@@ -9220,6 +9218,7 @@ physionet.ch
 physionetic.ch
 physionetwork.ch
 physionetz.ch
+physioneuch.ch
 physioneuchatel.ch
 physioneuengasse.ch
 physioneuenkirch.ch
@@ -9229,7 +9228,6 @@ physioneumarkt.ch
 physioneurhome.ch
 physioneuro.ch
 physioneuron.ch
-physionex.ch
 physionext.ch
 physionicolas.ch
 physionicolegebraad.ch
@@ -11028,7 +11026,6 @@ phytosanitaire.ch
 phytosanitarycertificate.ch
 phytosante-cures.ch
 phytosante.ch
-phytosciences.ch
 phytoshop.ch
 phytosolution.ch
 phytosoma-zentrum-fricktal.ch

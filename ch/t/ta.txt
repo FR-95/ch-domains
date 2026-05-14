@@ -592,6 +592,7 @@ tabledor.ch
 tabledubonheur.ch
 tableducotton.ch
 tableduroy.ch
+tablee.ch
 tableflip.ch
 tableflow.ch
 tablefootball-shop.ch
@@ -1172,7 +1173,6 @@ tacosplaza.ch
 tacosplazazh.ch
 tacoss.ch
 tacostacos.ch
-tacostaho.ch
 tacostiftung.ch
 tacostime.ch
 tacoswalima.ch
@@ -2235,6 +2235,7 @@ tagesfamilien-hombrechtikon.ch
 tagesfamilien-kriens.ch
 tagesfamilien-langenthal.ch
 tagesfamilien-laufental.ch
+tagesfamilien-leimental.ch
 tagesfamilien-linthgebiet.ch
 tagesfamilien-marchhoefe.ch
 tagesfamilien-motg.ch
@@ -3489,7 +3490,6 @@ tajka.ch
 tajloro.ch
 tajmahaar.ch
 tajmahal-baden.ch
-tajmahal-restaurant.ch
 tajmahal-zurich.ch
 tajmahal.ch
 tajmahalbaden.ch
@@ -4578,6 +4578,7 @@ talentlab.ch
 talentlabor.ch
 talentless.ch
 talentlms.ch
+talentloop.ch
 talently.ch
 talentmagnet.ch
 talentmanagement-gipfel.ch
@@ -7095,6 +7096,7 @@ tanjakull.ch
 tanjakummer.ch
 tanjakundenfokus.ch
 tanjakunz.ch
+tanjakuriger-fotografie.ch
 tanjakurt.ch
 tanjalacroix-art.ch
 tanjalacroix.ch
@@ -7919,7 +7921,6 @@ tansun-heizloesungen.ch
 tanswiss.ch
 tant-ra-love.ch
 tant-ra.ch
-tanta-roba.ch
 tantachyon.ch
 tantal.ch
 tantalium.ch
@@ -12913,7 +12914,6 @@ tauchschein.ch
 tauchschiff.ch
 tauchschiffe.ch
 tauchschiffwalensee.ch
-tauchschule-aquarius.ch
 tauchschule-augst.ch
 tauchschule-basel.ch
 tauchschule-basilisk.ch

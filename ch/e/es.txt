@@ -2748,7 +2748,6 @@ esoragoto.ch
 esoro.ch
 esos.ch
 esosa.ch
-esosgrill.ch
 esoshop.ch
 esostar.ch
 esot.ch
@@ -2977,7 +2976,6 @@ espace-diabete.ch
 espace-diabeto-sante.ch
 espace-diamono.ch
 espace-dickens.ch
-espace-digitalgraffiti.ch
 espace-droit.ch
 espace-du-futur.ch
 espace-du-pied.ch
@@ -3381,6 +3379,7 @@ espacebeautedesbergieres.ch
 espacebeautelasarraz.ch
 espacebeautesarah.ch
 espacebeautevital.ch
+espacebebe.ch
 espacebellavita.ch
 espacebiel-bienne.ch
 espacebielbienne.ch
@@ -4499,6 +4498,7 @@ esprit-sport-physio-yverdon.ch
 esprit-sport-physio.ch
 esprit-sport-physiotherapie-yverdon.ch
 esprit-sport-physiotherapie.ch
+esprit-sport.ch
 esprit-tarot.ch
 esprit-technology.ch
 esprit-valaisan.ch

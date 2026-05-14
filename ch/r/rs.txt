@@ -165,6 +165,7 @@ rs-motos.ch
 rs-music.ch
 rs-natursteine.ch
 rs-natursteinpflege.ch
+rs-nc.ch
 rs-net.ch
 rs-nettoyage.ch
 rs-network.ch
@@ -410,6 +411,7 @@ rsbs.ch
 rsbt.ch
 rsbtreuhand.ch
 rsc-016.ch
+rsc-advisory.ch
 rsc-bauconsult.ch
 rsc-holzdesign.ch
 rsc-it.ch

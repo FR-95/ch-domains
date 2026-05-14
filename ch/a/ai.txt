@@ -825,7 +825,6 @@ ai-tentix.ch
 ai-text-humanizer.ch
 ai-text.ch
 ai-texte.ch
-ai-texten.ch
 ai-textwerk.ch
 ai-thank-city.ch
 ai-theorie.ch
@@ -1893,10 +1892,8 @@ aidg.ch
 aidgate.ch
 aidge.ch
 aidgenoss.ch
-aidgenosse.ch
 aidgenossenschaft.ch
 aidgi.ch
-aidgnoss.ch
 aidh.ch
 aidhere.ch
 aidi.ch
@@ -3672,6 +3669,7 @@ aipingsilber.ch
 aipip.ch
 aipisabella.ch
 aipix.ch
+aipixel.ch
 aipizza.ch
 aiplainpalais.ch
 aiplan.ch
@@ -4302,6 +4300,7 @@ aircentervilleneuve.ch
 airch.ch
 airchair-shop.ch
 airchairshop.ch
+airchart.ch
 aircharter-service.ch
 aircharter.ch
 aircharterservice.ch

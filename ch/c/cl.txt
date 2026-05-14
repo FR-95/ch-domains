@@ -1976,6 +1976,7 @@ claude-hunkeler.ch
 claude-jaquenod.ch
 claude-ki.ch
 claude-lachat.ch
+claude-legal.ch
 claude-mahler.ch
 claude-martin.ch
 claude-mayor.ch
@@ -3916,6 +3917,7 @@ cleanbench.ch
 cleanbey.ch
 cleanblue.ch
 cleanbnb.ch
+cleanboat.ch
 cleanbody.ch
 cleanboss.ch
 cleanbot.ch
@@ -5555,6 +5557,7 @@ cleticino.ch
 cletobalmelli.ch
 cleton.ch
 cleu.ch
+cleune.ch
 cleupin.ch
 cleusb.ch
 cleuson-dixence.ch
@@ -7464,6 +7467,7 @@ climbing-topos.ch
 climbing-zug.ch
 climbing.ch
 climbingacademy.ch
+climbingarboriste.ch
 climbingcamp.ch
 climbingchurch.ch
 climbingcoach.ch
@@ -11782,6 +11786,7 @@ clubprime.ch
 clubprive.ch
 clubprivilege.ch
 clubpronostics.ch
+clubr.ch
 clubradio.ch
 clubrathausbar.ch
 clubrealestate.ch

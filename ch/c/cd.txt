@@ -314,7 +314,6 @@ cdhk.ch
 cdhl.ch
 cdhr.ch
 cdhsa.ch
-cdi-geneve.ch
 cdi-kid.ch
 cdi-local.ch
 cdi.ch

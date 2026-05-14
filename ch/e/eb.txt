@@ -48,7 +48,6 @@ eb-olivia.ch
 eb-onyva.ch
 eb-petermaier.ch
 eb-pointcloud.ch
-eb-produktdesign.ch
 eb-qual.ch
 eb-re.ch
 eb-realestate.ch
@@ -1384,6 +1383,7 @@ ebooksfotografie.ch
 ebookshop.ch
 ebooksplus.ch
 ebooksurf.ch
+ebookswiss.ch
 ebooktester.ch
 ebookx.ch
 eboons.ch

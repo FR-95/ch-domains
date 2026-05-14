@@ -50,6 +50,7 @@ e-administration.ch
 e-adressauskunft.ch
 e-adresse.ch
 e-advertising.ch
+e-advisory.ch
 e-advisy.ch
 e-advo.ch
 e-advokatur.ch
@@ -2540,6 +2541,7 @@ e-qrcode.ch
 e-qss.ch
 e-quad.ch
 e-quadrat.ch
+e-quadtours.ch
 e-quality.ch
 e-qualmi.ch
 e-quentus.ch
@@ -2711,6 +2713,7 @@ e-sammelstellen.ch
 e-sample.ch
 e-san.ch
 e-sane.ch
+e-sanitaire.ch
 e-sanpool.ch
 e-sante-securite.ch
 e-sapiens.ch

@@ -480,7 +480,6 @@ team-development.ch
 team-dialogue.ch
 team-digital-business.ch
 team-digital.ch
-team-digitalgraffiti.ch
 team-dress.ch
 team-dsd.ch
 team-dynamics.ch
@@ -1350,6 +1349,7 @@ teamgaragedethurens.ch
 teamgarten.ch
 teamgate.ch
 teamgc.ch
+teamgear.ch
 teamgeist.ch
 teamgenetix.ch
 teamgeneve.ch
@@ -2291,6 +2291,7 @@ teaworld.ch
 teayan.ch
 teayourgin.ch
 teazaric.ch
+teazen.ch
 teazer.ch
 teazerland.ch
 teb-ai.ch
@@ -3688,6 +3689,7 @@ technikpool.ch
 technikportal.ch
 technikprofi.ch
 technikraum.ch
+technikraum24.ch
 technikrecht.ch
 technikreisen.ch
 technikscheune.ch
@@ -5416,6 +5418,7 @@ tediservice.ch
 tedj.ch
 tedke.ch
 tedlift.ch
+tedlove.ch
 tedme.ch
 tedo.ch
 tedoc.ch
@@ -7719,7 +7722,6 @@ telemarkgrischuna.ch
 telemarkgstaad.ch
 telemarkguide.ch
 telemarklenzerheide.ch
-telemarkschule.ch
 telemarkshop.ch
 telemarkskischool.ch
 telemarkskischule.ch
@@ -8766,10 +8768,12 @@ telno.ch
 telnotes.ch
 telo.ch
 teloaffitto.ch
+telobit.ch
 telocin.ch
 telofaccioio.ch
 telofis.ch
 teloma.ch
+telomasoundandvision.ch
 telomeran.ch
 telomerase.ch
 telomere.ch
@@ -8994,6 +8998,7 @@ temili.ch
 teminian.ch
 temiras.ch
 temis.ch
+temislaw.ch
 temisluxury.ch
 temitea.ch
 temix.ch
@@ -10516,7 +10521,6 @@ tenniscoach.ch
 tenniscoaching.ch
 tenniscomment.ch
 tenniscompany.ch
-tenniscool.ch
 tenniscortebert-courtelary.ch
 tenniscourt.ch
 tenniscourtedoux.ch
@@ -11482,6 +11486,7 @@ tepraxis.ch
 tepris.ch
 tepros.ch
 teps.ch
+tepsa.ch
 tepsic.ch
 tepsija.ch
 tepsy.ch
@@ -11911,6 +11916,7 @@ terhuerne.ch
 terhuurne.ch
 teri-eschenbach.ch
 teri.ch
+teria-veranda.ch
 tericonseils.ch
 terima.ch
 terimag.ch
@@ -14756,7 +14762,6 @@ test-di-gravidanza.ch
 test-di-ovulazione.ch
 test-dich.ch
 test-disc.ch
-test-dm.ch
 test-dmarc-dev-workspace-test.ch
 test-doesnt-exist-12345.ch
 test-domain-check-123.ch
@@ -15314,6 +15319,7 @@ testdenzdetail.ch
 testdesign-website.ch
 testdessirenes.ch
 testdetraction.ch
+testdev.ch
 testdich.ch
 testdinaturalizzazione.ch
 testdiya29.ch

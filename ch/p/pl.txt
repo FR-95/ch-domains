@@ -2121,6 +2121,7 @@ plannazb-live.ch
 planned.ch
 planneo.ch
 planner-addict.ch
+planner-romand.ch
 planner.ch
 planner24.ch
 planner5d.ch
@@ -3105,7 +3106,6 @@ plasmacoat.ch
 plasmacom.ch
 plasmaconcept.ch
 plasmacube.ch
-plasmadequinton.ch
 plasmaderm.ch
 plasmadesign.ch
 plasmadiam-systems.ch
@@ -3115,14 +3115,12 @@ plasmafreezer.ch
 plasmaliquid.ch
 plasmam.ch
 plasmamade.ch
-plasmamarin.ch
 plasmamonitor.ch
 plasmanorm.ch
 plasmaone.ch
 plasmapen.ch
 plasmapolieren.ch
 plasmapolishing.ch
-plasmaquinton.ch
 plasmarama.ch
 plasmarecordsandtapes.ch
 plasmaresearch.ch
@@ -5054,6 +5052,7 @@ playmark.ch
 playmarketing.ch
 playmat.ch
 playmate.ch
+playmatelinda.ch
 playmates.ch
 playmates2go.ch
 playmath.ch
@@ -6386,6 +6385,7 @@ plombe.ch
 plombeau.ch
 plomben-shop.ch
 plomben.ch
+plomber.ch
 plomberie-express.ch
 plomberie-ge.ch
 plomberie-lausanne.ch
@@ -6484,7 +6484,9 @@ plombierurgence24.ch
 plombierurgencegeneve.ch
 plombiervaudois.ch
 plombiervernier.ch
+plombir.ch
 plombiste.ch
+plombor.ch
 plombs.ch
 plomed.ch
 plomotos.ch

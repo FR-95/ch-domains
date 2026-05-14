@@ -975,6 +975,7 @@ urbanpadel.ch
 urbanpantry.ch
 urbanparcel.ch
 urbanparcours.ch
+urbanparfum.ch
 urbanpartners.ch
 urbanparts.ch
 urbanparx.ch
@@ -1700,7 +1701,6 @@ urheberrechtsgesetz.ch
 urheberrechtsrevision.ch
 urheberrechtsverletzung.ch
 urheberrechtsverordnung.ch
-urheberregister.ch
 urheberunrecht.ch
 urhebervertragsrecht.ch
 urheil.ch
@@ -2837,6 +2837,7 @@ urologie-toggenburg.ch
 urologie-vaud.ch
 urologie-wallisellen.ch
 urologie-welt.ch
+urologie-wetterauer.ch
 urologie-wettingen.ch
 urologie-winterthur.ch
 urologie-wipkingen.ch

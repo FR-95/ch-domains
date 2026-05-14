@@ -2335,7 +2335,6 @@ fomedia.ch
 fomeno.ch
 fomenta.ch
 fomep.ch
-fomes-fomentarius.ch
 fomesco-gmbh.ch
 fomf.ch
 fomfiduciaria.ch
@@ -2741,7 +2740,6 @@ fondation-monfoyer.ch
 fondation-monique-staempfli.ch
 fondation-montagu.ch
 fondation-montetan.ch
-fondation-moulin-severy.ch
 fondation-mv.ch
 fondation-mvs.ch
 fondation-nana.ch
@@ -4394,6 +4392,7 @@ fontaine.ch
 fontaineandre.ch
 fontaineavin.ch
 fontainecompta.ch
+fontainedejouvence.ch
 fontaineeau.ch
 fontainemagique.ch
 fontainemagnetique.ch
@@ -4923,7 +4922,6 @@ food4thought.ch
 food4u2.ch
 food4winners.ch
 food4you.ch
-foodacademy.ch
 foodact.ch
 foodad.ch
 foodadvisor.ch
@@ -7413,6 +7411,7 @@ foresightlight.ch
 foresightpreneur.ch
 foresights.ch
 foresightsecurity.ch
+foresightsession.ch
 foresightstmoritz.ch
 foresilience.ch
 foresina.ch
@@ -7431,6 +7430,7 @@ forest-glass.ch
 forest-gum.ch
 forest-hut.ch
 forest-invest.ch
+forest-iq.ch
 forest-lodge.ch
 forest-mindfulness.ch
 forest-sound.ch
@@ -7524,6 +7524,7 @@ forestier.ch
 forestiere.ch
 forestimatteo.ch
 foresting.ch
+forestiq.ch
 forestis-jenins.ch
 forestis.ch
 forestisjenins.ch
@@ -8237,7 +8238,6 @@ formafeu.ch
 formafix.ch
 formafle.ch
 formaflon.ch
-formaflusso.ch
 formaform.ch
 formaforte.ch
 formafutura.ch
@@ -8794,6 +8794,8 @@ formationprofesseuryoga.ch
 formationprofessionnelle-plus.ch
 formationprofessionnelle.ch
 formationprofessionnelle2030.ch
+formationprofessionnelle2040.ch
+formationprofessionnelle2050.ch
 formationprofessionnelleict.ch
 formationprofessionnelleplus.ch
 formationprojectmanager.ch
@@ -9014,6 +9016,8 @@ formazionepratica.ch
 formazioneprof.ch
 formazioneprofessionale-plus.ch
 formazioneprofessionale2030.ch
+formazioneprofessionale2040.ch
+formazioneprofessionale2050.ch
 formazioneprofessionaleplus.ch
 formazionesicurezza.ch
 formazioneticino.ch
@@ -9982,6 +9986,7 @@ forst-haellchoepfli.ch
 forst-hasliberg.ch
 forst-haslital.ch
 forst-hauenstein.ch
+forst-iq.ch
 forst-irchel.ch
 forst-jobs.ch
 forst-jura.ch
@@ -10245,6 +10250,7 @@ forstina.ch
 forstinfo.ch
 forsting.ch
 forstingplus.ch
+forstiq.ch
 forstjob.ch
 forstjobs.ch
 forstkalender.ch
@@ -11581,6 +11587,7 @@ forumhandicapvisuel.ch
 forumhandspinnen.ch
 forumhauswirtschaft.ch
 forumheilpaedagogik.ch
+forumhelveticum.ch
 forumhes-so.ch
 forumhesso.ch
 forumhoch2.ch
@@ -13853,7 +13860,6 @@ fotokurse-online.ch
 fotokurse-reisen.ch
 fotokurse-schweiz.ch
 fotokurse-zuerich.ch
-fotokurse-zurich.ch
 fotokurse.ch
 fotokurseonline.ch
 fotokursonline.ch
@@ -14647,7 +14653,6 @@ fotoundrahmen.ch
 fotoundsoweiter.ch
 fotoundstyle.ch
 fotoundtext.ch
-fotoundvideo-zuerich.ch
 fotoundvideografie.ch
 fotoundvideozuerich.ch
 fotounikat.ch

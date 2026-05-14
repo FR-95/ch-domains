@@ -856,7 +856,6 @@ isantin.ch
 isanutri.ch
 isany.ch
 isap.ch
-isapex.ch
 isaphancreative.ch
 isapi.ch
 isapina.ch
@@ -2889,6 +2888,7 @@ isolation-facade.ch
 isolation-impero888.ch
 isolation-naturelle.ch
 isolation-nein.ch
+isolation-neuchatel.ch
 isolation-peinture.ch
 isolation-phonique.ch
 isolation-sensorielle.ch

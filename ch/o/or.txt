@@ -613,7 +613,6 @@ orasch.ch
 orascom.ch
 orascomdh.ch
 orascomhd.ch
-orasfm.ch
 orasi.ch
 orasio.ch
 orasis-refraktive-chirurgie.ch
@@ -1060,10 +1059,8 @@ orchester-cham-huenenberg.ch
 orchester-conbrio.ch
 orchester-dornach.ch
 orchester-erstfeld.ch
-orchester-finder.ch
 orchester-i-medici.ch
 orchester-kh.ch
-orchester-landschaft.ch
 orchester-laufen.ch
 orchester-maerchen.ch
 orchester-muensingen.ch
@@ -1152,6 +1149,7 @@ orchestramusicdirect.ch
 orchestranazionalesvizzera.ch
 orchestrasvizzera.ch
 orchestrasvizzeraitaliana.ch
+orchestrate.ch
 orchestratepharma.ch
 orchestration.ch
 orchestrator.ch
@@ -1429,6 +1427,7 @@ ordercockpit21.ch
 orderdays.ch
 orderdomainthroughapicall.ch
 ordereat.ch
+orderfile.ch
 orderflow-it.ch
 orderflow-its.ch
 orderflow.ch
@@ -2556,8 +2555,6 @@ organized-stalking-and-mind-control.ch
 organized.ch
 organizedhome.ch
 organizedhumanity.ch
-organizedlife-schweiz.ch
-organizedlife.ch
 organizedte.ch
 organizeme.ch
 organizen.ch
@@ -3299,6 +3296,7 @@ origin-assosiation.ch
 origin-dog.ch
 origin-gourmet.ch
 origin-group.ch
+origin-gruppe.ch
 origin-infinite.ch
 origin-lab.ch
 origin-massage-shop.ch
@@ -3487,6 +3485,7 @@ originaljeetkunedo.ch
 originaljulen.ch
 originalkebabhaus-zuerich.ch
 originalkebabhaus.ch
+originalkebaphaus.ch
 originall.ch
 originallack.ch
 originalleitspruchkalender.ch
@@ -5137,7 +5136,6 @@ ortho-labor.ch
 ortho-lachen.ch
 ortho-lausanne.ch
 ortho-liebefeld.ch
-ortho-life.ch
 ortho-linth.ch
 ortho-longevity.ch
 ortho-lotz.ch
@@ -5621,6 +5619,7 @@ orthoklinsen.ch
 orthokoeniz.ch
 orthokoenizpraxis.ch
 orthokoller.ch
+orthokomfort.ch
 orthokoniz.ch
 orthokontor.ch
 orthokontrol.ch
@@ -6368,7 +6367,9 @@ ortsbuergerinnen.ch
 ortsbuergermuri.ch
 ortsbuergerstiftung.ch
 ortsbuergerwein.ch
+ortsbus-wohlen.ch
 ortsbus.ch
+ortsbuswohlen.ch
 ortschafft.ch
 ortschafftentwicklung.ch
 ortschafftkultur.ch

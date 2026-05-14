@@ -69,6 +69,7 @@ ns-sarl.ch
 ns-schwimmkurse.ch
 ns-sear.ch
 ns-secondary.confirm.ch
+ns-semi.ch
 ns-sephir-01.sephir.ch
 ns-sephir-02.sephir.ch
 ns-sephir-03.sephir.ch
@@ -216,7 +217,6 @@ ns.fairware.ch
 ns.familleoggier.ch
 ns.fanari.ch
 ns.felicidad.ch
-ns.felixmorgner.ch
 ns.fide-admin.ch
 ns.fide-info.ch
 ns.fide-service.ch
@@ -8472,6 +8472,7 @@ nsante.ch
 nsaonline.ch
 nsarchitectes.ch
 nsas.ch
+nsat.ch
 nsauriga.ch
 nsautoersatzteile.ch
 nsautomobile.ch

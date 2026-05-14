@@ -138,7 +138,6 @@ rhaetischebahn.ch
 rhaetischezeitung.ch
 rhaeto-romanic.ch
 rhaeto.ch
-rhaeusler.ch
 rhaezuens-trins.ch
 rhaezuens.ch
 rhaezuens24.ch
@@ -1935,6 +1934,7 @@ rhv.ch
 rhvaud.ch
 rhvcom.ch
 rhvinformatik.ch
+rhvisuals.ch
 rhvo.ch
 rhw-immobilien.ch
 rhw-services.ch

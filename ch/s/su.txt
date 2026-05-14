@@ -834,7 +834,6 @@ subversion.ch
 subversiv-konstruktiv.ch
 subversiv-renaissance.ch
 subversive.ch
-subvisory.ch
 subwave.ch
 subway-altstetten.ch
 subway-basel-bahnhof.ch
@@ -2990,7 +2989,6 @@ suisse-constructive.ch
 suisse-consult.ch
 suisse-consultants.ch
 suisse-consulting.ch
-suisse-contracting.ch
 suisse-controle.ch
 suisse-cosplay.ch
 suisse-courtage.ch
@@ -3210,6 +3208,7 @@ suisse-massage-sportif.ch
 suisse-massage-therapeutique.ch
 suisse-massage.ch
 suisse-massages.ch
+suisse-materiel-medical.ch
 suisse-maurice.ch
 suisse-med.ch
 suisse-medical.ch
@@ -3248,6 +3247,7 @@ suisse-onu.ch
 suisse-openerp.ch
 suisse-opensky.ch
 suisse-ortho.ch
+suisse-os.ch
 suisse-osteo.ch
 suisse-oui.ch
 suisse-ouverte-et-durable.ch
@@ -3295,7 +3295,6 @@ suisse-prodig.ch
 suisse-psy.ch
 suisse-pur.ch
 suisse-pure.ch
-suisse-pv.ch
 suisse-qr.ch
 suisse-qualite.ch
 suisse-quiz.ch
@@ -3688,7 +3687,6 @@ suisseconstructive.ch
 suisseconsulences.ch
 suisseconsultants.ch
 suissecontract.ch
-suissecontracting.ch
 suissecontrol.ch
 suissecontrole.ch
 suissecoquine.ch
@@ -3798,7 +3796,6 @@ suisseequinevets.ch
 suisseergo.ch
 suisseerp.ch
 suisseessences.ch
-suisseestategroup.ch
 suisseethanol.ch
 suisseevent.ch
 suisseevents.ch
@@ -4049,6 +4046,7 @@ suisseloto.ch
 suisseluxury.ch
 suisseluxurydrink.ch
 suisseluxurydrinks.ch
+suissely.ch
 suissemachine.ch
 suissemachineacoudre.ch
 suissemachinesacoudre.ch
@@ -4078,6 +4076,7 @@ suissemassagemedical.ch
 suissemassages.ch
 suissemasseurmedical.ch
 suissematcha.ch
+suissematerielmedical.ch
 suissematic.ch
 suissematrimonial.ch
 suissemeat.ch
@@ -4275,7 +4274,6 @@ suissepub.ch
 suissepublic.ch
 suissepublicite.ch
 suissepublicsmart.ch
-suissepv.ch
 suissequalite.ch
 suissequalitycontrol.ch
 suissequiz.ch
@@ -4586,6 +4584,7 @@ suissma.ch
 suissmeister.ch
 suissness.ch
 suisso-romand.ch
+suisso.ch
 suissology.ch
 suissoptical.ch
 suissox.ch
@@ -11396,6 +11395,7 @@ surfaces-stockage.ch
 surfaces.ch
 surfaceshop.ch
 surfacesolutions.ch
+surfacesolutiontec.ch
 surfacetechnologies.ch
 surfacetreatment.ch
 surfacexpert.ch
@@ -11639,7 +11639,6 @@ surfstudy.ch
 surfstyle.ch
 surfswiss.ch
 surfswitzerland.ch
-surfsyndikat.ch
 surftalk.ch
 surfterminal.ch
 surfthebigwave.ch
@@ -13156,7 +13155,6 @@ sushi-metropole.ch
 sushi-mobil.ch
 sushi-momo.ch
 sushi-monthey.ch
-sushi-morcote.ch
 sushi-naruto-allschwil.ch
 sushi-naturals.ch
 sushi-nori.ch

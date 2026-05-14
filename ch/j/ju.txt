@@ -2548,7 +2548,6 @@ juglux.ch
 jugo-kitchen.ch
 jugo.ch
 jugodiva.ch
-jugofresh.ch
 jugojebedugo.ch
 jugopack.ch
 jugosi.ch
@@ -4242,6 +4241,7 @@ jumeaunumerique.ch
 jumeaux-et-plus.ch
 jumeaux-romandie.ch
 jumeaux-suisse-romande.ch
+jumeaux.ch
 jumeauxetplus.ch
 jumeauxromandie.ch
 jumeauxsuisseromande.ch
@@ -5255,7 +5255,6 @@ jungschar-brunnen.ch
 jungschar-bucheggberg.ch
 jungschar-buchs-otelfingen.ch
 jungschar-einsiedeln.ch
-jungschar-ek.ch
 jungschar-embrach.ch
 jungschar-felben.ch
 jungschar-frauenfeld.ch
@@ -6151,7 +6150,6 @@ jura-sushis.ch
 jura-tauchen.ch
 jura-taxi.ch
 jura-taxi1.ch
-jura-team.ch
 jura-theatre.ch
 jura-ticker.ch
 jura-tourisme.ch
@@ -6807,6 +6805,7 @@ jurisic.ch
 jurisit.ch
 juriskids.ch
 jurislaw.ch
+jurislegal.ch
 jurislex.ch
 jurismagna.ch
 jurismail.ch
@@ -7638,7 +7637,6 @@ justdrinks.ch
 justdrive-buchs.ch
 justdrive.ch
 justdriver.ch
-justdrone.ch
 juste-a-cote.ch
 juste-ag.ch
 juste-arch.ch
@@ -8188,7 +8186,6 @@ justsan.ch
 justsardinia.ch
 justsaydouble.ch
 justsayit.ch
-justsayyes.ch
 justschai.ch
 justschool.ch
 justschweiz.ch
@@ -8233,7 +8230,6 @@ justswim.ch
 justswissthings.ch
 justswitzerland.ch
 justtable.ch
-justtalk.ch
 justtalkklartext.ch
 justtalkmultilin.ch
 justtall.ch

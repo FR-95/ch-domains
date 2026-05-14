@@ -671,6 +671,7 @@ cppi.ch
 cppib.ch
 cppic.ch
 cppj-ge.ch
+cppjm.ch
 cppjoliette.ch
 cppl.ch
 cppm.ch

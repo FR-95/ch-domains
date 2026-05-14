@@ -920,6 +920,7 @@ shame-on-you.ch
 shame.ch
 shameless.ch
 shameltvplaylist.ch
+shameonyou.ch
 shameorfame.ch
 shami-food.ch
 shami-mui-birma.ch
@@ -1010,6 +1011,7 @@ shane-osteosarcoma.ch
 shane.ch
 shane28.ch
 shanealmeida.ch
+shanebrady.ch
 shanebuchs.ch
 shanehofstetter.ch
 shanejeannet.ch
@@ -2953,7 +2955,6 @@ sheready.ch
 sherecruits.ch
 shereida.ch
 sheremet.ch
-sheremeti.ch
 sherepunjab.ch
 shereturns.ch
 sherger.ch
@@ -4473,6 +4474,7 @@ shinrinyoku-gesundheits-training.ch
 shinrinyoku-gesundheitstraining.ch
 shinrinyoku-guide.ch
 shinrinyoku-kloten.ch
+shinrinyoku-pfad.ch
 shinrinyoku-romandie.ch
 shinrinyoku-schweiz.ch
 shinrinyoku-switzerland.ch
@@ -4487,6 +4489,7 @@ shinrinyokubaden.ch
 shinrinyokubern.ch
 shinrinyokugesundheitstrainer.ch
 shinrinyokuguide.ch
+shinrinyokupfad.ch
 shinrinyokuschweiz.ch
 shinrinyokuswitzerland.ch
 shinrinyokuzurich.ch
@@ -4957,7 +4960,6 @@ shisha.ch
 shisha24.ch
 shisha4you.ch
 shishaart.ch
-shishabar-baumeler.ch
 shishabar-kumpir.ch
 shishabar-luzen.ch
 shishabar.ch
@@ -5217,7 +5219,6 @@ shlomo-baden.ch
 shlomo.ch
 shlorox.ch
 shlr.ch
-shlstudentclub.ch
 shlt.ch
 shluk.ch
 shlut.ch
@@ -8549,6 +8550,7 @@ shuffleboard.ch
 shufflecasino.ch
 shuffledance-bern.ch
 shuffledance.ch
+shufflekasino.ch
 shufflekurse.ch
 shufflemyshoes.ch
 shuffleprojects.ch

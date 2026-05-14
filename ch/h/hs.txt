@@ -156,6 +156,7 @@ hs1.ch
 hs12.ch
 hs17.ch
 hs19.ch
+hs1u.ch
 hs2.ch
 hs20.ch
 hs24.ch

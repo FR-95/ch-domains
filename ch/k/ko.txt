@@ -707,7 +707,6 @@ kochco.ch
 kochcoa.ch
 kochcoaching.ch
 kochconsulting.ch
-kochdani.ch
 kochdaniel.ch
 kochdays.ch
 kochdepot.ch
@@ -1501,6 +1500,7 @@ koellisch.ch
 koellmann.ch
 koelln.ch
 koellreuter.ch
+koelm.ch
 koelman.ch
 koelmel.ch
 koeln-50667.ch
@@ -2472,7 +2472,6 @@ kognitives-training.ch
 kognitivmotorisch.ch
 kognitivmotorischestraining.ch
 kognitivpro.ch
-kognito.ch
 kogo.ch
 kogoo.ch
 kogorent.ch
@@ -3021,7 +3020,6 @@ kokclean.ch
 koke-studio.ch
 koke-studios.ch
 koke.ch
-koke2koke.ch
 kokea.ch
 kokedama.ch
 kokedamas.ch
@@ -3802,7 +3800,6 @@ koller-lab.ch
 koller-laser.ch
 koller-law.ch
 koller-loewen.ch
-koller-marketing.ch
 koller-mechanik.ch
 koller-mels.ch
 koller-metall.ch
@@ -4611,6 +4608,7 @@ kommazwerg.ch
 kommbinat.ch
 kommbox.ch
 kommcheck.ch
+kommdarina.ch
 komme-was-wolle.ch
 kommende-reiden.ch
 kommentar-idg.ch
@@ -5319,6 +5317,7 @@ kompetenz-zentrum-gesundheit.ch
 kompetenz-zentrum-industrie4-0.ch
 kompetenz-zentrum-stiftungen.ch
 kompetenz-zentrum.ch
+kompetenz.ch
 kompetenz55plus.ch
 kompetenz60plus.ch
 kompetenzacademy.ch
@@ -5777,6 +5776,7 @@ komptoi.ch
 kompulsa.ch
 komputer.ch
 komputronik.ch
+kompwerk.ch
 kompy.ch
 kompzen.ch
 kompzenkaffee.ch
@@ -10291,6 +10291,7 @@ kosmetik-uschy.ch
 kosmetik-uster.ch
 kosmetik-uuszyt.ch
 kosmetik-venere.ch
+kosmetik-venus.ch
 kosmetik-vera.ch
 kosmetik-versand.ch
 kosmetik-vertrieb.ch

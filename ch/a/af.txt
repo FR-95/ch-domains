@@ -508,6 +508,7 @@ affichage-public.ch
 affichage-sga.ch
 affichage-suisse.ch
 affichage-t.ch
+affichage.ch
 affichage24.ch
 affichageapg.ch
 affichageculturel.ch

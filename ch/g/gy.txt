@@ -183,6 +183,7 @@ gym-hirondelle.ch
 gym-hommes-chatel-st-denis.ch
 gym-hommes-monthey.ch
 gym-hommes.ch
+gym-i-fit.ch
 gym-inspector.ch
 gym-inspektor.ch
 gym-jazz-studio.ch
@@ -574,7 +575,6 @@ gymivorbereitung.ch
 gymivorbereitung360.ch
 gymivorbereitungnow.ch
 gymivorbereitungonline.ch
-gymivorbereitungskurs-zug.ch
 gymivorbereitungskurs.ch
 gymivorbereitungskurse-winterthur.ch
 gymivorbereitungskurse.ch

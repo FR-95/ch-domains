@@ -4839,7 +4839,6 @@ caiocars.ch
 caiocommunity.ch
 caioworkshop.ch
 caipi-bar.ch
-caipi-beach.ch
 caipi-cocktail.ch
 caipi-drink.ch
 caipi-drinks.ch
@@ -4853,7 +4852,6 @@ caipibar-wunderbar.ch
 caipibar.ch
 caipibarpicnic.ch
 caipibarwunderbar.ch
-caipibeach.ch
 caipibus.ch
 caipicocktail.ch
 caipicultura.ch
@@ -6792,6 +6790,7 @@ callpam.ch
 callpamtoday.ch
 callparrot.ch
 callpartner.ch
+callpatch.ch
 callpay.ch
 callperformance.ch
 callpersonal.ch
@@ -6970,6 +6969,7 @@ calmnest.ch
 calmo.ch
 calmodo.ch
 calmolab.ch
+calmomoona.ch
 calmon-conseils.ch
 calmon-group.ch
 calmon.ch
@@ -8794,7 +8794,6 @@ campengelberg.ch
 campenmithund.ch
 campeo.ch
 campeonbet.ch
-camper-4-sharing.ch
 camper-abstellplatz.ch
 camper-atelier.ch
 camper-aufkleber.ch
@@ -11527,6 +11526,7 @@ canddes.ch
 canddlona.ch
 cande.ch
 candea.ch
+candeago-hospitality.ch
 candeago.ch
 candeco.ch
 candeias.ch
@@ -12302,6 +12302,7 @@ canix.ch
 canizares.ch
 canjason.ch
 canjordi.ch
+cankaya.ch
 cankurt.ch
 canlab.ch
 canlabmv.ch
@@ -12406,7 +12407,6 @@ cannabis-anbau.ch
 cannabis-apothecarium.ch
 cannabis-apotheke-niedersachsen.ch
 cannabis-apotheke.ch
-cannabis-arzneimittel.ch
 cannabis-arzt.ch
 cannabis-basel.ch
 cannabis-baselland.ch
@@ -12503,7 +12503,6 @@ cannabis-suisse.ch
 cannabis-swiss.ch
 cannabis-switzerland.ch
 cannabis-tabletten.ch
-cannabis-technik.ch
 cannabis-terapeutica.ch
 cannabis-thc.ch
 cannabis-therapeutics.ch
@@ -12895,6 +12894,7 @@ cannamedicine.ch
 cannamedisuisse.ch
 cannamediswiss.ch
 cannamedixx.ch
+cannamedizin.ch
 cannamedswitzerland.ch
 cannamel.ch
 cannameleon.ch
@@ -12982,7 +12982,6 @@ cannatheque-morges.ch
 cannatheque.ch
 cannatherapy.ch
 cannatlantis.ch
-cannatogo.ch
 cannatonia.ch
 cannatrade.ch
 cannatrading.ch
@@ -15711,7 +15710,6 @@ captain-potenzialanalyse.ch
 captain-records.ch
 captain-repair.ch
 captain-son.ch
-captain-sos.ch
 captain-system.ch
 captain.ch
 captain66.ch
@@ -15788,7 +15786,6 @@ captainscor.ch
 captainsessentials.ch
 captainskully.ch
 captainslots.ch
-captainsos.ch
 captainsounds.ch
 captainsparkly.ch
 captainsrave.ch
@@ -17591,6 +17588,7 @@ carcity.ch
 carcity24.ch
 carclaim.ch
 carclaimsandconsulting.ch
+carclar.ch
 carclarity.ch
 carclassic.ch
 carclean-conthey.ch
@@ -18257,6 +18255,7 @@ cardoche.ch
 cardock.ch
 cardofswitzerland.ch
 cardogbox.ch
+cardojam.ch
 cardok.ch
 cardom.ch
 cardomat.ch
@@ -19294,7 +19293,6 @@ caresphere.ch
 carespitex.ch
 caresport.ch
 caresportconcept.ch
-caresportswear.ch
 carespreading.ch
 caress-ag.ch
 caresse-herbal.ch
@@ -19976,6 +19974,7 @@ caribbean-nights.ch
 caribbean-party.ch
 caribbean-shipping.ch
 caribbean-sun.ch
+caribbean-swissness.ch
 caribbean-village.ch
 caribbean.ch
 caribbeanconnectionswitzerland.ch
@@ -20795,7 +20794,6 @@ carlolacirasella.ch
 carlolaffranchi.ch
 carlolepori.ch
 carloloschiavo.ch
-carlomagico.ch
 carlomainetti.ch
 carlomarchinischweiz.ch
 carlomargiotta.ch
@@ -25157,6 +25155,7 @@ cartilage-engineering.ch
 cartilage.ch
 cartilagecare.ch
 cartilagerepair.ch
+cartilenix.ch
 cartillone.ch
 cartima.ch
 cartinapalliative.ch
@@ -25718,7 +25717,6 @@ carwashpark.ch
 carwashpoint.ch
 carwashpro.ch
 carwashprofi.ch
-carwashscout.ch
 carwashservice.ch
 carwashshop.ch
 carwashsion.ch
@@ -26519,6 +26517,7 @@ casa-roma.ch
 casa-romanilor-elvetia.ch
 casa-romanilor.ch
 casa-romantica.ch
+casa-rosa.ch
 casa-rossa.ch
 casa-rossi.ch
 casa-royal.ch
@@ -31772,7 +31771,6 @@ catchthesolution.ch
 catchthespirit2024.ch
 catchtiger.ch
 catchup-apps.ch
-catchup-media.ch
 catchup.ch
 catchupsette.ch
 catchwater.ch
@@ -32982,6 +32980,7 @@ cauderlier.ch
 caudex.ch
 caudoux.ch
 caudrelec.ch
+caught.ch
 cauguin.ch
 caujolle.ch
 cauldron.ch
@@ -33572,7 +33571,6 @@ cavechezviolaine.ch
 cavecidis.ch
 caveclaireremondeulaz.ch
 caveclairobscur.ch
-cavecleusix.ch
 caveclosdescypres.ch
 caveconstantin.ch
 cavecote.ch

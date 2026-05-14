@@ -228,6 +228,7 @@ hr-leadership.ch
 hr-legal.ch
 hr-leiter.ch
 hr-leiterin.ch
+hr-lex.ch
 hr-lexikon.ch
 hr-life.ch
 hr-lob.ch
@@ -339,6 +340,7 @@ hr-session.ch
 hr-shop.ch
 hr-site.ch
 hr-smart-study.ch
+hr-smart.ch
 hr-smartstudy.ch
 hr-snack.ch
 hr-software-vergleich.ch
@@ -699,6 +701,7 @@ hremote.ch
 hren-haustechnik.ch
 hren.ch
 hrengineering.ch
+hreport.ch
 hrequality.ch
 hresource.ch
 hresources.ch

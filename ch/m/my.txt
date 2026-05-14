@@ -434,7 +434,6 @@ my-deko.ch
 my-deliveries.ch
 my-delivery.ch
 my-deliverys.ch
-my-dentist.ch
 my-deposit.ch
 my-deposito.ch
 my-depot.ch
@@ -540,6 +539,7 @@ my-eigen-art.ch
 my-eklore.ch
 my-elearning.ch
 my-electrosmog.ch
+my-element.ch
 my-elife.ch
 my-elixir.ch
 my-ella.ch
@@ -585,6 +585,7 @@ my-event-planner.ch
 my-event.ch
 my-eventlocation.ch
 my-events.ch
+my-every.ch
 my-evolution.ch
 my-evtec.ch
 my-example.ch
@@ -1297,7 +1298,6 @@ my-perfectdraft.ch
 my-perfectlook.ch
 my-performance.ch
 my-pergola24.ch
-my-permanent-makeup.ch
 my-permanent.ch
 my-permanentmakeup.ch
 my-personal-trainer.ch
@@ -1532,7 +1532,6 @@ my-selection.ch
 my-selfie-booth.ch
 my-sensuality.ch
 my-seo-local.ch
-my-seo.ch
 my-sera.ch
 my-serenity.ch
 my-serr.ch
@@ -2600,6 +2599,7 @@ mybambinis.ch
 mybamert.ch
 mybananas.ch
 mybancaria.ch
+mybands.ch
 mybank.ch
 mybanker.ch
 mybanking.ch
@@ -4399,7 +4399,6 @@ mydeparture.ch
 mydeposit.ch
 mydeposito.ch
 mydepot.ch
-mydepot24.ch
 myderivative.ch
 myderm.ch
 myderma.ch
@@ -6128,6 +6127,7 @@ myhexagone.ch
 myhexcard.ch
 myhf.ch
 myhfb.ch
+myhforce.ch
 myhft.ch
 myhi.ch
 myhideaway.ch
@@ -6943,6 +6943,7 @@ mykv.ch
 mykw.ch
 mykws.ch
 myky.ch
+mykyc.ch
 mykyro.ch
 mykyta.ch
 mykytjuk.ch
@@ -7254,6 +7255,7 @@ mylindtshop.ch
 myline-art.ch
 myline-b2b.ch
 myline.ch
+mylineatrend.ch
 mylingerie.ch
 mylinguistics.ch
 mylinh.ch
@@ -8832,6 +8834,7 @@ mypersonaltree.ch
 mypersonnal.ch
 mypersotrainer.ch
 myperspectives.ch
+mypesnion.ch
 mypesso.ch
 mypet.ch
 mypet24.ch
@@ -9428,6 +9431,7 @@ myrapid.ch
 myrapunzel.ch
 myrasecurity.ch
 myrasen.ch
+myrasunikate.ch
 myrate.ch
 myratepay.ch
 myrating.ch
@@ -10144,6 +10148,7 @@ myserv.ch
 myserve.ch
 myserver.ch
 myservercontrol.ch
+myserverpanel.ch
 myservers.ch
 myservice.ch
 myservice24.ch
@@ -10735,7 +10740,6 @@ mystery-butler.ch
 mystery-eater.ch
 mystery-entertainment.ch
 mystery-escaperoom.ch
-mystery-game.ch
 mystery-games.ch
 mystery-guest.ch
 mystery-hikes.ch
@@ -10838,7 +10842,6 @@ mystic-highway.ch
 mystic-mama.ch
 mystic-mix.ch
 mystic-mountain.ch
-mystic-nail.ch
 mystic-pizza.ch
 mystic-shop.ch
 mystic-stones.ch
@@ -11184,6 +11187,7 @@ myswissburger.ch
 myswissbusiness.ch
 myswissbuy.ch
 myswisscar.ch
+myswisscard.ch
 myswisscare.ch
 myswisscareer.ch
 myswisscarport.ch
@@ -12260,6 +12264,7 @@ myvetplan.ch
 myvets.ch
 myvfo.ch
 myvh.ch
+myvhd.ch
 myvi.ch
 myvial.ch
 myviamala.ch

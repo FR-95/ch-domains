@@ -133,6 +133,7 @@ dlcp.ch
 dlcphoto.ch
 dlcproduction.ch
 dlcreations.ch
+dlcstreamer.ch
 dlctax.ch
 dlcustom.ch
 dlcustomgmbh.ch
@@ -205,7 +206,6 @@ dlg-treuimmo.ch
 dlg.ch
 dlgag.ch
 dlgmbh.ch
-dlgoffice.ch
 dlgrealestate.ch
 dlgroup.ch
 dlh-invest.ch

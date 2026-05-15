@@ -1081,7 +1081,6 @@ scandista.ch
 scandistyle.ch
 scandit.ch
 scandium.ch
-scandleshandmade.ch
 scandlines.ch
 scando.ch
 scandola-dryhire.ch
@@ -2592,6 +2591,7 @@ schaden-steuerung.ch
 schaden-ticker.ch
 schaden.ch
 schaden24.ch
+schaden247.ch
 schadenabwicklung.ch
 schadenadministration.ch
 schadenai.ch
@@ -8544,6 +8544,7 @@ schimmob.ch
 schimo-admin.ch
 schimo.ch
 schimon.ch
+schimonconsulting.ch
 schimoniartbrushes.ch
 schimpel.ch
 schimpf.ch
@@ -12112,7 +12113,6 @@ schluesseldienst-in-winterthur.ch
 schluesseldienst-interlaken.ch
 schluesseldienst-ittigen.ch
 schluesseldienst-jona.ch
-schluesseldienst-jvb.ch
 schluesseldienst-kaegi.ch
 schluesseldienst-kaiseraugst.ch
 schluesseldienst-kaufmann.ch
@@ -23274,7 +23274,6 @@ schuh-service.ch
 schuh-studhalter.ch
 schuh-toggenburg.ch
 schuh-treff.ch
-schuh-trend.ch
 schuh-trockner.ch
 schuh-versand.ch
 schuh-wehrli.ch
@@ -25822,6 +25821,7 @@ schulhotel.ch
 schulhotelregina.ch
 schulhotels.ch
 schulhotline.ch
+schulhub.ch
 schulhunde-schweiz.ch
 schulhundeausbildungen.ch
 schulhundevorbereitung.ch
@@ -30304,7 +30304,6 @@ schweizer-sanitaer-heizung.ch
 schweizer-sauerkraut.ch
 schweizer-sauna-bund.ch
 schweizer-sauna.ch
-schweizer-sbm.ch
 schweizer-schach-senioren.ch
 schweizer-schafwolle.ch
 schweizer-schaumwein.ch
@@ -33287,6 +33286,7 @@ schwimmschule-vollenweider.ch
 schwimmschule-vonrohr.ch
 schwimmschule-waikiki.ch
 schwimmschule-weinfelden.ch
+schwimmschule-wettingen.ch
 schwimmschule-winterthur.ch
 schwimmschule-wyland.ch
 schwimmschule-zamzam.ch
@@ -33320,6 +33320,7 @@ schwimmschuleuitikon.ch
 schwimmschuleuster.ch
 schwimmschulewal.ch
 schwimmschulewasserwirbel.ch
+schwimmschulewettingen.ch
 schwimmschulewiesendangen.ch
 schwimmschulewoelfli.ch
 schwimmschulezimmerberg.ch
@@ -34706,6 +34707,7 @@ scinformatique.ch
 scinora.ch
 scinstitute.ch
 scint.ch
+scintaris.ch
 scintec-diagnostics.ch
 scintics.ch
 scintigraphie-osseuse.ch

@@ -2069,7 +2069,6 @@ agentur-am-see.ch
 agentur-am-wasser.ch
 agentur-ananas.ch
 agentur-area.ch
-agentur-b2b.ch
 agentur-backstage.ch
 agentur-bagira.ch
 agentur-basel.ch
@@ -2792,6 +2791,7 @@ agica.ch
 agicap.ch
 agiceo.ch
 agichur.ch
+agidel.ch
 agidens.ch
 agidmuntiogna.ch
 agidmuntogna.ch
@@ -3322,7 +3322,6 @@ agirpoursauver.ch
 agis-bnb.ch
 agis-feinheiten.ch
 agis-ge.ch
-agis-sandwich.ch
 agis-suisse.ch
 agis-swiss.ch
 agis.ch
@@ -4432,7 +4431,6 @@ agri-sun.ch
 agri-swiss.ch
 agri-tech.ch
 agri-tent.ch
-agri-terra.ch
 agri-trading.ch
 agri-trans.ch
 agri-valais.ch

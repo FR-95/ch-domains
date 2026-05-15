@@ -1784,7 +1784,6 @@ brand-immobilien.ch
 brand-impact.ch
 brand-it.ch
 brand-journalism.ch
-brand-kit.ch
 brand-kore.ch
 brand-leadership.ch
 brand-lee.ch
@@ -2615,6 +2614,7 @@ brandscapes.ch
 brandschaden-gutachter.ch
 brandschaden-online.ch
 brandschaden.ch
+brandschaden247.ch
 brandschadensanierung.ch
 brandschadensanierungen.ch
 brandschatz.ch
@@ -3871,13 +3871,11 @@ brau-festival.ch
 brau-garage.ch
 brau-garten.ch
 brau-gin.ch
-brau-herz.ch
 brau-immo.ch
 brau-kompass.ch
 brau-kunst.ch
 brau-kurs.ch
 brau-kurse.ch
-brau-liebe.ch
 brau-manufaktur.ch
 brau-schau.ch
 brau-schuur.ch
@@ -4029,7 +4027,6 @@ brauerei-steinfels.ch
 brauerei-steinmann.ch
 brauerei-sunnegg.ch
 brauerei-sursee.ch
-brauerei-tour.ch
 brauerei-trun.ch
 brauerei-verband.ch
 brauerei-vitznau.ch
@@ -4096,7 +4093,6 @@ brauereisurbbach.ch
 brauereisutton.ch
 brauereithun.ch
 brauereithunag.ch
-brauereitour.ch
 brauereiuster.ch
 brauereiweisseskreuz.ch
 brauereiziz.ch
@@ -4144,7 +4140,6 @@ brauhaus.ch
 brauhaussternen.ch
 brauhauswinterthur.ch
 brauhelden.ch
-brauherz.ch
 brauhofer.ch
 brauhuus-waedenswil.ch
 brauhuus531.ch
@@ -4202,7 +4197,6 @@ braukurse.ch
 braulabor.ch
 brauland.ch
 braulia.ch
-brauliebe.ch
 braulio.ch
 braulioelitesolution.ch
 brault.ch
@@ -5041,6 +5035,7 @@ breagplus.ch
 breahna.ch
 break-a-leg.ch
 break-age.ch
+break-bar.ch
 break-box.ch
 break-cig.ch
 break-dance.ch
@@ -7383,6 +7378,7 @@ brickfilms.ch
 brickfinity.ch
 brickflix.ch
 brickflow.ch
+brickflowgroup.ch
 brickforge.ch
 brickfort.ch
 brickfox.ch
@@ -7517,6 +7513,7 @@ brickstravels.ch
 brickstreet.ch
 bricksundmortar.ch
 bricksupercars.ch
+brickswiss.ch
 bricksworld.ch
 bricktastic.ch
 bricktok.ch
@@ -7603,7 +7600,6 @@ bricolexpert.ch
 bricolib.ch
 bricologies.ch
 bricololotte.ch
-bricolons.ch
 bricolor.ch
 bricolus.ch
 bricom.ch
@@ -7725,6 +7721,8 @@ bridge-meetfood.ch
 bridge-msg.ch
 bridge-nyon.ch
 bridge-pipers.ch
+bridge-point-solution.ch
+bridge-point-solutions.ch
 bridge-rive-gauche.ch
 bridge-sa.ch
 bridge-shop.ch
@@ -7746,6 +7744,7 @@ bridge2summit.ch
 bridge4.ch
 bridge4erp.ch
 bridge4finance.ch
+bridge4impact.ch
 bridge4u.ch
 bridge4you.ch
 bridgea.ch
@@ -7857,6 +7856,8 @@ bridgepoint.ch
 bridgepointcapital.ch
 bridgepointgroup.ch
 bridgepointpartners.ch
+bridgepointsolution.ch
+bridgepointsolutions.ch
 bridger.ch
 bridgerepair.ch
 bridges-broker.ch
@@ -9517,6 +9518,7 @@ brindeveil.ch
 brindharmonie.ch
 brindille.ch
 brindilles-and-co.ch
+brindilles.ch
 brindisi.ch
 brindli.ch
 brindlisbacher.ch
@@ -9790,6 +9792,7 @@ briones.ch
 brionesopraminusio24.ch
 brioni.ch
 brionvega.ch
+brioo.ch
 brioristorante.ch
 brioschi.ch
 briosh.ch
@@ -11271,6 +11274,7 @@ broggibau.ch
 broggiepicerie.ch
 broggingen.ch
 broggini.ch
+broggio.ch
 broggis-laedaeli.ch
 broggisa.ch
 broggoli.ch
@@ -11591,6 +11595,7 @@ brokerweb.ch
 brokerwebsite.ch
 brokerwiki.ch
 brokerwise.ch
+brokerxpert.ch
 brokerzentrale.ch
 brokerzentrum-zuerich.ch
 brokerzentrum-zurich.ch
@@ -13639,6 +13644,7 @@ bruide.ch
 bruimo.ch
 bruin.ch
 bruincafe.ch
+bruinen.ch
 bruini-partii.ch
 bruisson.ch
 bruit-blanc.ch
@@ -14024,6 +14030,7 @@ brunke.ch
 brunkhorst.ch
 brunki.ch
 brunko.ch
+brunkowrecordingfactory.ch
 brunlauper.ch
 brunlaw.ch
 brunmartidytan.ch
@@ -14378,6 +14385,7 @@ brunnerconsulting.ch
 brunnercurling.ch
 brunnercustoms.ch
 brunnerdaniel.ch
+brunnerdeutsch.ch
 brunnerdigital.ch
 brunnerdrohnen.ch
 brunnerdubey.ch
@@ -15043,7 +15051,6 @@ brunosantschi.ch
 brunosauter.ch
 brunosbest.ch
 brunosborsalino.ch
-brunosbusreise.ch
 brunoschaerer.ch
 brunoschenk.ch
 brunoschleiss.ch
@@ -15634,6 +15641,7 @@ bruut.ch
 bruuwalder-spielluet.ch
 bruva.ch
 bruval.ch
+bruvalservice.ch
 bruvona.ch
 bruvymassage.ch
 bruw.ch
@@ -15760,6 +15768,7 @@ bryanumana.ch
 bryanvf.ch
 bryanyorc.ch
 brybry.ch
+brycal.ch
 brycatech.ch
 bryce.ch
 brycegoesglobal.ch

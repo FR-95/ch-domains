@@ -1157,10 +1157,7 @@ tuktacare.ch
 tuktoro.ch
 tuktuk-bar.ch
 tuktuk-bistro.ch
-tuktuk-brienz.ch
 tuktuk-ge.ch
-tuktuk-grindelwald.ch
-tuktuk-interlaken.ch
 tuktuk-rivieratours.ch
 tuktuk-thaikitchen.ch
 tuktuk-vermietung.ch
@@ -2012,7 +2009,6 @@ tupfer.ch
 tupfgenau-richtig.ch
 tupfgenau.ch
 tupflack.ch
-tupi.ch
 tupiano.ch
 tupibakery.ch
 tupihealthybakery.ch
@@ -2313,6 +2309,7 @@ turboweb.ch
 turbowins.ch
 turbowinz-casino.ch
 turbowinz.ch
+turbowinzcasino.ch
 turbox.ch
 turbozentrum.ch
 turbozone.ch
@@ -3739,6 +3736,7 @@ tuusch.ch
 tuusche.ch
 tuuschnetzsoorsi.ch
 tuusig.ch
+tuusigfiessler.ch
 tuusigundeingrund.ch
 tuusnutrition.ch
 tuut-mobile.ch

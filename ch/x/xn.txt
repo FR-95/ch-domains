@@ -2679,6 +2679,7 @@ xn--auto-verkaufen-graubnden-ftc.ch
 xn--auto-verkaufen-zrich-4ec.ch
 xn--auto-verkufer-jfb.ch
 xn--auto-verschnen-5pb.ch
+xn--auto-wthrich-ilb.ch
 xn--auto-zrich-feb.ch
 xn--auto-zriwest-ilb.ch
 xn--auto-zubehr-0fb.ch
@@ -5678,6 +5679,7 @@ xn--blasen-entzndung-tzb.ch
 xn--blasenentzndung-8vb.ch
 xn--blasenentzuendung-hnseler-3ec.ch
 xn--blasenschwche-kfb.ch
+xn--blaser-bhl-heb.ch
 xn--blaser-caf-k7a.ch
 xn--blaser-trsch-djb.ch
 xn--blasercaf-j4a.ch
@@ -6458,7 +6460,6 @@ xn--bogenhllen-feb.ch
 xn--bogenschtz-heb.ch
 xn--bogenschtze-0hb.ch
 xn--bogenschtzen-klb.ch
-xn--bogenschtzen-otelfingen-jpc.ch
 xn--bogenschtzen-stallikon-zlc.ch
 xn--bogenschtzen-swissair-gic.ch
 xn--bogenschtzenzuuotindorf-jpc.ch
@@ -6485,7 +6486,6 @@ xn--bois-de-chemine-onb.ch
 xn--bois-de-chne-xeb.ch
 xn--bois-de-chnes-yhb.ch
 xn--boisdechne-t7a.ch
-xn--boisetlumire-6db.ch
 xn--boissons-rafrachissantes-8ic.ch
 xn--bolero-getrnke-gib.ch
 xn--bolero-getrnkepulver-lzb.ch
@@ -6991,6 +6991,7 @@ xn--brentrek-0za.ch
 xn--brenwengen-q5a.ch
 xn--brenwohlen-q5a.ch
 xn--brenzaun-0za.ch
+xn--brenzetzbu-q5a.ch
 xn--brenzunft-v2a.ch
 xn--brenzwrge-02a2x.ch
 xn--brepadel-0za.ch
@@ -10989,7 +10990,6 @@ xn--crepehsli-v9a.ch
 xn--crer-cpa.ch
 xn--crer-site-internet-fribourg-coc.ch
 xn--crer-sites-internet-fribourg-crc.ch
-xn--crer-votre-site-internet-cfc.ch
 xn--crfcomptabilit-okb.ch
 xn--crfrvision-e7a.ch
 xn--crikube-9xa.ch
@@ -14190,6 +14190,8 @@ xn--elianedrst-geb.ch
 xn--elife-gebudeautomation-84b.ch
 xn--elife-gebudetechnik-owb.ch
 xn--elifzrich-u9a.ch
+xn--elina-mller-zhb.ch
+xn--elinamller-feb.ch
 xn--elioerzhlt-w5a.ch
 xn--eliohaberthr-nlb.ch
 xn--eliora-gva.ch
@@ -18956,6 +18958,7 @@ xn--gastro-zrichsee-6vb.ch
 xn--gastro-zubehr-tmb.ch
 xn--gastroabflle-ocb.ch
 xn--gastroble-h2a.ch
+xn--gastrobro-w9a.ch
 xn--gastroclubzrich-9vb.ch
 xn--gastroenterologie-altsttten-xkc.ch
 xn--gastroenterologie-zrich-upc.ch
@@ -19174,7 +19177,6 @@ xn--gebude-tech-n8a.ch
 xn--gebude-technik-7hb.ch
 xn--gebude-technik-planung-24b.ch
 xn--gebude-techniker-xnb.ch
-xn--gebude-und-garten-sqb.ch
 xn--gebude-unterhalt-xnb.ch
 xn--gebude-versicherung-iwb.ch
 xn--gebude-versicherungen-71b.ch
@@ -23219,6 +23221,7 @@ xn--gute-kchen-feb.ch
 xn--gute-lsung-jcb.ch
 xn--gute-zhne-02a.ch
 xn--gutegeschfte-ocb.ch
+xn--gutehnde-4za.ch
 xn--gutekche-b6a.ch
 xn--gutekchen-u9a.ch
 xn--gutelaunekapitn-elb.ch
@@ -26009,12 +26012,10 @@ xn--hpf-burgen-9db.ch
 xn--hpf-qla.ch
 xn--hpf-spass-q9a.ch
 xn--hpfburg-appenzell-22b.ch
-xn--hpfburg-basel-wob.ch
 xn--hpfburg-bodensee-jzb.ch
 xn--hpfburg-glarus-gsb.ch
 xn--hpfburg-gnstig-kaufen-8hci.ch
 xn--hpfburg-haris-wob.ch
-xn--hpfburg-leimental-22b.ch
 xn--hpfburg-linthgebiet-59b.ch
 xn--hpfburg-mieten-gsb.ch
 xn--hpfburg-mietung-zvb.ch
@@ -27005,7 +27006,6 @@ xn--hypnofertilit-nhb.ch
 xn--hypnose--lausanne-vob.ch
 xn--hypnose-anxit-genve-6ybpb.ch
 xn--hypnose-aufklrung-2qb.ch
-xn--hypnose-fllanden-3nb.ch
 xn--hypnose-graubnden-f3b.ch
 xn--hypnose-knig-djb.ch
 xn--hypnose-losgelst-zwb.ch
@@ -34207,6 +34207,7 @@ xn--llita-vua.ch
 xn--llleknig-0za8p.ch
 xn--llli-bru-0zag.ch
 xn--llli-loa.ch
+xn--lm-intrieur-gbb.ch
 xn--lm-lftung-t9a.ch
 xn--lm-xkab.ch
 xn--lma-9lab.ch
@@ -37079,6 +37080,7 @@ xn--meisterstck-1hb.ch
 xn--meisterstck-institut-xec.ch
 xn--meisterstcke-llb.ch
 xn--meisterzrich-klb.ch
+xn--melar-fsa.ch
 xn--meldegerte-x5a.ch
 xn--meli-4qa.ch
 xn--melisnhatelier-bib.ch
@@ -39319,7 +39321,6 @@ xn--mtler-schreinerei-pqb.ch
 xn--mtler-schreinerservice-z4b.ch
 xn--mtli-koa.ch
 xn--mto-alerte-b7ab.ch
-xn--mto-bmab.ch
 xn--mto-suisse-b7ab.ch
 xn--mtoalerte-b4ab.ch
 xn--mtocentrale-bbbb.ch
@@ -39735,10 +39736,6 @@ xn--nailstudio-zrich-uzb.ch
 xn--nak-qla.ch
 xn--nam-0ma.ch
 xn--nama-6pa.ch
-xn--nama-constellation-lzb.ch
-xn--nama-constellations-r2b.ch
-xn--namaconstellation-fwb.ch
-xn--namaconstellations-lzb.ch
 xn--namast-gva.ch
 xn--namenflstern-jlb.ch
 xn--namensnderung-gfb.ch
@@ -44965,6 +44962,7 @@ xn--rallyedesfes-keb.ch
 xn--rallyedespanthres-5sb.ch
 xn--ralphbrhwiler-2ob.ch
 xn--ralr-sqa.ch
+xn--ralr-zrich-ibb5i.ch
 xn--ramabtiment-sarl-0mb.ch
 xn--rambazamatrppli-9vb.ch
 xn--ramelichlis-zfb.ch
@@ -48413,7 +48411,6 @@ xn--schaltschrankberwachung-opc.ch
 xn--schaltschrnke-kfb.ch
 xn--schalungsgerste-bwb.ch
 xn--schalungstrger-gib.ch
-xn--schamanischetraumfngerin-7bc.ch
 xn--schamottmrtel-qmb.ch
 xn--schanz-stub-q8af.ch
 xn--schanzstub-v5ae.ch
@@ -50954,6 +50951,7 @@ xn--sdumfahrung-thb.ch
 xn--sdumfahrung-wildegg-59b.ch
 xn--sdwind-3ya.ch
 xn--sdwrts-dua3q.ch
+xn--sdy-qla.ch
 xn--se-brg-eua1q.ch
 xn--se-elektriker-vob.ch
 xn--se-grel-r2a.ch
@@ -51580,6 +51578,7 @@ xn--si-arena-55a.ch
 xn--si-bible-uf-zridtsch-oecnd.ch
 xn--si-drogerie-shb.ch
 xn--si-grn-7ya.ch
+xn--si-oase-m2a.ch
 xn--si-region-p9a.ch
 xn--si-wia.ch
 xn--siarena-m2a.ch
@@ -56132,7 +56131,6 @@ xn--tierbetreuung-ntlibuech-87b.ch
 xn--tierc-fsa.ch
 xn--tierdrfli-47a.ch
 xn--tiere-und-homopathie-gbc.ch
-xn--tierernhrungsberater-hzb.ch
 xn--tierernhrungsberatung-c2b.ch
 xn--tierflstereien-lsb.ch
 xn--tierflsterer-ilb.ch
@@ -56409,7 +56407,6 @@ xn--toiler-9ua.ch
 xn--toiles-9ua.ch
 xn--toilettensplung-9vb.ch
 xn--toilettensthle-qsb.ch
-xn--toilettessches-4jb.ch
 xn--toitoi-drcksack-8kb.ch
 xn--toitoi-drksak-jfb.ch
 xn--toldo-rckbau-jlb.ch
@@ -57451,7 +57448,6 @@ xn--tz-xka.ch
 xn--tzend-fra.ch
 xn--tzfrstenland-flb.ch
 xn--tzi-urpower-qfb.ch
-xn--tzibru-fua2l.ch
 xn--tziclub-80a.ch
 xn--tztal-iua.ch
 xn--tzy-rna.ch
@@ -58442,7 +58438,6 @@ xn--vermgensverwalter-finden-ooc.ch
 xn--vermgensverwalterbank-kec.ch
 xn--vermgensverwalterin-t6b.ch
 xn--vermgensverwaltung-basel-ooc.ch
-xn--vermgensverwaltung-fr-frauen-51c0r.ch
 xn--vermgensverwaltung-g3b.ch
 xn--vermgensverwaltung-law-xhc.ch
 xn--vermgensverwaltung-solothurn-51c.ch

@@ -1111,7 +1111,6 @@ kochtopf-sursee.ch
 kochtopf.ch
 kochtopfset.ch
 kochtraeff.ch
-kochtraum.ch
 kochtrennkost.ch
 kochtrotz.ch
 kochtueren-ai.ch
@@ -7477,6 +7476,7 @@ konteo.ch
 konter-ball.ch
 konter.ch
 kontera.ch
+konteraconsulting.ch
 konterball.ch
 kontermatch.ch
 konterpart.ch
@@ -9068,6 +9068,7 @@ kore-essentials.ch
 kore-ltd.ch
 kore-partner.ch
 kore-physio.ch
+kore-shop.ch
 kore-technologies.ch
 kore.ch
 korea-corp-chem.ch
@@ -9083,7 +9084,9 @@ koream.ch
 korean-beauty-shop.ch
 korean-beauty.ch
 korean-beautyshop.ch
+korean-beautytime.ch
 korean-festival.ch
+korean-glow.ch
 korean-skincare.ch
 korean.ch
 koreana.ch
@@ -9092,11 +9095,13 @@ koreanbeauty.ch
 koreanbeauty4u.ch
 koreanbeautycare.ch
 koreanbeautyproducts.ch
+koreanbeautytime.ch
 koreanbowls.ch
 koreancare.ch
 koreancosmetics.ch
 koreandesk.ch
 koreanfestival.ch
+koreanglow.ch
 koreanisch-essen.ch
 koreanisch.ch
 koreanische-budget.ch

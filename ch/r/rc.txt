@@ -286,7 +286,6 @@ rcapag.ch
 rcapaul.ch
 rcapital.ch
 rcaproperties.ch
-rcar.ch
 rcarbon.ch
 rcarch.ch
 rcarchitecte.ch
@@ -690,6 +689,7 @@ rcparagliding.ch
 rcparchitektur.ch
 rcpartner.ch
 rcpe.ch
+rcpeptides.ch
 rcperf.ch
 rcplace.ch
 rcplus.ch

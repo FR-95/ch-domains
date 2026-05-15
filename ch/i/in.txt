@@ -49,6 +49,7 @@ in-belp.ch
 in-bern-kinesiologie.ch
 in-bern.ch
 in-besten-haenden.ch
+in-bet.ch
 in-beton.ch
 in-between.ch
 in-bewegig.ch
@@ -2160,6 +2161,7 @@ inderrueti.ch
 inderruhe.ch
 indersaege.ch
 inderschweiz.ch
+inderseize.ch
 indersguide.ch
 indertiefe.ch
 indervilla.ch
@@ -3169,6 +3171,7 @@ individualhotels.ch
 individualingua.ch
 individualinvest.ch
 individualisation.ch
+individualiseyourtesla.ch
 individualisieren.ch
 individualisierung.ch
 individualist.ch
@@ -4324,7 +4327,10 @@ industrilas.ch
 industrim.ch
 industrix.ch
 industronic.ch
+industry-4-0.ch
 industry-4.ch
+industry-5-0.ch
+industry-50.ch
 industry-app.ch
 industry-day.ch
 industry-one.ch
@@ -7064,13 +7070,11 @@ infonica.ch
 infoniqa-200.ch
 infoniqa-50.ch
 infoniqa-api.ch
-infoniqa-cloud.ch
 infoniqa-hr.ch
 infoniqa-one-200.ch
 infoniqa-one-50.ch
 infoniqa-one-start.ch
 infoniqa-start.ch
-infoniqa-treuhand.ch
 infoniqa.ch
 infoniqa200.ch
 infoniqa50.ch
@@ -9351,6 +9355,7 @@ ingenor.ch
 ingenorag.ch
 ingenoshop.ch
 ingenou.ch
+ingens.ch
 ingenta.ch
 ingentias.ch
 ingenting.ch
@@ -10824,6 +10829,7 @@ inkayacu.ch
 inkbakery.ch
 inkbit.ch
 inkblu.ch
+inkbook.ch
 inkbot.ch
 inkbox.ch
 inkboyz.ch
@@ -13929,6 +13935,7 @@ innovativeschulen.ch
 innovativeseniorenarbeit.ch
 innovativesentsorgen.ch
 innovativeshaus.ch
+innovativeskincare.ch
 innovativesolutions.ch
 innovativesolutionsgarcia.ch
 innovativesproduzieren.ch
@@ -14083,6 +14090,7 @@ innovikon.ch
 innovillage.ch
 innovillageseeland.ch
 innovillagesuisse.ch
+innovimed.ch
 innovimmo-promotions.ch
 innovimmo.ch
 innovinfo.ch
@@ -14362,7 +14370,6 @@ inola.ch
 inolab.ch
 inolablatty.ch
 inolawyer.ch
-inold.ch
 inolearn.ch
 inolife.ch
 inolten.ch
@@ -17577,6 +17584,7 @@ instantmessenger.ch
 instantnoodle.ch
 instantnudel.ch
 instantoffices.ch
+instantpay.ch
 instantpayment.ch
 instantpayments.ch
 instantphoto.ch
@@ -17589,6 +17597,7 @@ instantpourmoi.ch
 instantpoursoi.ch
 instantpresent.ch
 instantprint.ch
+instantpur.ch
 instantquote.ch
 instantreflexo.ch
 instantrp.ch
@@ -17720,7 +17729,6 @@ instillagel.ch
 instillamed.ch
 instillations.ch
 instilled.ch
-instimatch-global.ch
 instimatch.ch
 instinct-basel.ch
 instinct-canin.ch
@@ -24805,6 +24813,7 @@ intratravel.ch
 intravalue.ch
 intravat.ch
 intravel.ch
+intraversum.ch
 intravision.ch
 intraware.ch
 intraweb.ch
@@ -24856,6 +24865,7 @@ intrinsic-engineering.ch
 intrinsic-fire.ch
 intrinsic.ch
 intrinsicmethod.ch
+intrinsicode.ch
 intrinsicoin.ch
 intrinsics.ch
 intrinsicsoundz.ch
@@ -25556,6 +25566,7 @@ inventure.ch
 inventurecapital.ch
 inventuren.ch
 inventures.ch
+inventurfix.ch
 inventuri.ch
 inventuroptimierung.ch
 inventus-park.ch

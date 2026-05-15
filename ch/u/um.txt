@@ -1619,7 +1619,6 @@ umzug-preise.ch
 umzug-profi.ch
 umzug-profis.ch
 umzug-rapperswil.ch
-umzug-ratgeber.ch
 umzug-regensdorf.ch
 umzug-region-zurich.ch
 umzug-reinigung-dunya.ch
@@ -1985,6 +1984,7 @@ umzugsfirma-bs.ch
 umzugsfirma-buchen.ch
 umzugsfirma-buelach.ch
 umzugsfirma-burgdorf.ch
+umzugsfirma-ch.ch
 umzugsfirma-chur.ch
 umzugsfirma-dietikon.ch
 umzugsfirma-easy.ch

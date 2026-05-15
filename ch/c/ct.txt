@@ -488,6 +488,7 @@ ctrlaltisol.ch
 ctrlaun.ch
 ctrlbrand.ch
 ctrlcenter.ch
+ctrlcraft.ch
 ctrld.ch
 ctrldata.ch
 ctrlelectrique.ch

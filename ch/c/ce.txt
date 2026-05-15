@@ -2811,7 +2811,6 @@ cengdirlik.ch
 cengic.ch
 cengiz.ch
 cengo-transporte.ch
-cengo-umzuege.ch
 cengo.ch
 cengo24.ch
 cengoag.ch
@@ -5819,6 +5818,7 @@ cercainfo.ch
 cercami.ch
 cercamoney.ch
 cercane.ch
+cercape.ch
 cercare.ch
 cercaticino.ch
 cercatoridoro.ch

@@ -1142,7 +1142,6 @@ ticinojobs.ch
 ticinojuice.ch
 ticinokalender.ch
 ticinolab.ch
-ticinoladies.ch
 ticinolaico.ch
 ticinolake.ch
 ticinolakes.ch
@@ -1310,6 +1309,7 @@ ticinotibet.ch
 ticinoticucino.ch
 ticinotoday.ch
 ticinotoner.ch
+ticinotop.ch
 ticinotopten.ch
 ticinotour.ch
 ticinotourism.ch
@@ -1877,7 +1877,6 @@ ticonnex.ch
 ticonsegno.ch
 ticonsiglio.ch
 ticonsigliorealestate.ch
-ticonstruction.ch
 ticonsul.ch
 ticonsulenze.ch
 ticonsulting.ch
@@ -2812,7 +2811,6 @@ tierarzt-in-zuerich.ch
 tierarzt-ins.ch
 tierarzt-interlaken.ch
 tierarzt-josseck.ch
-tierarzt-kamm-beffa.ch
 tierarzt-keller.ch
 tierarzt-kenel.ch
 tierarzt-kilchberg.ch
@@ -2858,8 +2856,6 @@ tierarzt-praxis-seetal.ch
 tierarzt-praxis.ch
 tierarzt-preisvergleich.ch
 tierarzt-rapperswil.ch
-tierarzt-risch-rotkreuz.ch
-tierarzt-risch.ch
 tierarzt-ritzberger.ch
 tierarzt-rothrist.ch
 tierarzt-rotkreuz.ch
@@ -6646,6 +6642,7 @@ time-sheet.ch
 time-sheets.ch
 time-shepherd.ch
 time-shift.ch
+time-shop.ch
 time-space-motel.ch
 time-square-putt.ch
 time-star.ch
@@ -9229,6 +9226,7 @@ tinychalet.ch
 tinychur.ch
 tinycinema.ch
 tinyclouds.ch
+tinycompass.ch
 tinyconcert.ch
 tinyconsultant.ch
 tinycube.ch
@@ -10128,6 +10126,7 @@ tira.ch
 tiraarch.ch
 tirabosco.ch
 tirabuscion.ch
+tiracconto.ch
 tiraccontomeraviglie.ch
 tiraccontounastoria.ch
 tiradelza.ch

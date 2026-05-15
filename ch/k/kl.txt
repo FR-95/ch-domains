@@ -1178,6 +1178,7 @@ klara-mportfpolio.ch
 klara-mylife.ch
 klara-regional.ch
 klara-studio.ch
+klara-technik.ch
 klara-theater.ch
 klara-vcard.ch
 klara-visitenkarte.ch
@@ -1292,6 +1293,7 @@ klareseite.ch
 klaresglas.ch
 klaresicht.ch
 klaresite.ch
+klaresplus.ch
 klaresprache.ch
 klaresto.ch
 klarestudio.ch
@@ -3410,7 +3412,6 @@ kleinesattelkammer.ch
 kleinesblech.ch
 kleinesbuero.ch
 kleineschanze.ch
-kleineschatzinsel.ch
 kleinescheidegg.ch
 kleineschnauze.ch
 kleineschnecke.ch

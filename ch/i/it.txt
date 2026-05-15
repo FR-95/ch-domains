@@ -2164,8 +2164,6 @@ itdag.ch
 itdata.ch
 itdatanet.ch
 itdauerschutz.ch
-itday-bern.ch
-itday-lausanne.ch
 itday-zuerich.ch
 itday.ch
 itdays.ch
@@ -2440,7 +2438,6 @@ iten-sanitaer.ch
 iten-sanitaerservice.ch
 iten-sport.ch
 iten-stiftung.ch
-iten-thomas.ch
 iten-translations.ch
 iten-treffen.ch
 iten-treuhand.ch
@@ -3182,6 +3179,7 @@ itninja.ch
 itnnet.ch
 itnoa.ch
 itnology.ch
+itnotfall.ch
 itnovis.ch
 itnovum.ch
 itnow.ch
@@ -3423,7 +3421,6 @@ itrafilm.ch
 itrail.ch
 itrain.ch
 itraining.ch
-itrainlabs.ch
 itrainyou.ch
 itrait.ch
 itram.ch
@@ -4059,6 +4056,7 @@ itswatergroup.ch
 itsweb.ch
 itswineoclock6.ch
 itswiss-os.ch
+itswiss.ch
 itswissfinancialjobs.ch
 itswisskumar.ch
 itswitch.ch

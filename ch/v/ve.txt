@@ -3397,7 +3397,6 @@ velopublicitaire.ch
 velopulfer.ch
 velopuls.ch
 velopumpe.ch
-velopumpi.ch
 velopunkt.ch
 velopure.ch
 veloqueen.ch
@@ -3815,6 +3814,7 @@ velowelt.ch
 veloweltreise.ch
 veloweltsm.ch
 velowende.ch
+velower.ch
 velowerbung.ch
 velowerft.ch
 velowerk-huber.ch
@@ -4442,7 +4442,6 @@ vendita21.ch
 venditaprofessionale.ch
 venditasvizzera.ch
 venditavinionline.ch
-venditi.ch
 venditio.ch
 venditorevincente.ch
 venditorevincentecorso.ch
@@ -5263,6 +5262,7 @@ ventealapropriete.ch
 venteam.ch
 venteanalytique.ch
 venteauto.ch
+venteauto24.ch
 venteauxencheres.ch
 ventebateau.ch
 ventebois.ch
@@ -6422,12 +6422,16 @@ veranstaltungstechnik-kaufen.ch
 veranstaltungstechnik-miete.ch
 veranstaltungstechnik-mieten.ch
 veranstaltungstechnik-ostschweiz.ch
+veranstaltungstechnik-pfaffnau.ch
+veranstaltungstechnik-reiden.ch
 veranstaltungstechnik-smartec.ch
 veranstaltungstechnik-stgallen.ch
 veranstaltungstechnik-vermietung.ch
 veranstaltungstechnik.ch
 veranstaltungstechnik24.ch
 veranstaltungstechniker.ch
+veranstaltungstechnikpfaffnau.ch
+veranstaltungstechnikreiden.ch
 veranstaltungstip.ch
 veranstaltungstipp.ch
 veranstaltungstipps.ch
@@ -7438,6 +7442,7 @@ verdecasino-ch.ch
 verdecasino.ch
 verdecasino24.ch
 verdecasinoch.ch
+verdecasinos.ch
 verdecia.ch
 verdeck-shop.ch
 verdeck.ch
@@ -8231,7 +8236,6 @@ vereinfuerwirtschaftsfoerderung.ch
 vereingeabasel.ch
 vereingegengrenzen.ch
 vereingianella.ch
-vereingipfeliexpress.ch
 vereingivefair.ch
 vereingleichwertig.ch
 vereinglow.ch
@@ -9543,6 +9547,7 @@ veriport.ch
 veripro.ch
 veriproag.ch
 verirrt.ch
+veris-invest.ch
 veris.ch
 verisa-care.ch
 verisa.ch
@@ -10813,7 +10818,6 @@ vermat.ch
 vermatec.ch
 vermatera.ch
 vermaye.ch
-vermdok.ch
 vermee.ch
 vermeer-alive.ch
 vermeer-ausstellung.ch
@@ -11119,7 +11123,6 @@ vermoegensverwalter.ch
 vermoegensverwalterbank.ch
 vermoegensverwalterschweiz.ch
 vermoegensverwaltung-ag.ch
-vermoegensverwaltung-fuer-frauen.ch
 vermoegensverwaltung-liechtenstein.ch
 vermoegensverwaltung-luzern.ch
 vermoegensverwaltung-schaffhausen.ch
@@ -11889,6 +11892,7 @@ verrilli.ch
 verrilux.ch
 verrimetall.ch
 verrines.ch
+verrit.ch
 verrivent.ch
 verrixmas.ch
 verrose.ch
@@ -11957,6 +11961,7 @@ versamax.ch
 versameb.ch
 versammlung.ch
 versammlungsleitung.ch
+versamorph.ch
 versand-apotheke.ch
 versand-apotheke24.ch
 versand-cbd.ch
@@ -14530,7 +14535,6 @@ vespa-classic.ch
 vespa-club-zug.ch
 vespa-collettivo.ch
 vespa-deals.ch
-vespa-doc.ch
 vespa-elettrica.ch
 vespa-frauenfeld.ch
 vespa-geneve.ch
@@ -14569,6 +14573,7 @@ vespa-store.ch
 vespa-teile.ch
 vespa-thurgau.ch
 vespa-velutina-busters.ch
+vespa-velutina-nigrithorax.ch
 vespa-velutina.ch
 vespa.ch
 vespa24.ch
@@ -14770,7 +14775,6 @@ vess.ch
 vessa.ch
 vessag.ch
 vessagl.ch
-vessal-zurich.ch
 vessal.ch
 vessaz-carrelages.ch
 vessaz-javet.ch
@@ -14861,6 +14865,7 @@ vestati.ch
 vestatibuleac.ch
 vestatis.ch
 vestatsybuliak.ch
+veste-side-story.ch
 veste.ch
 vestea.ch
 vesteairbag.ch
@@ -16338,7 +16343,6 @@ veyture.ch
 veyu.ch
 veyx.ch
 veyxon.ch
-veyy.ch
 vez-combustibles.ch
 vez-epay.ch
 vez-groupe.ch

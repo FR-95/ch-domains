@@ -858,7 +858,6 @@ bobina-doro.ch
 bobinealtitude.ch
 bobinecarree.ch
 bobinet.ch
-bobinette.ch
 bobins.ch
 bobis-carrosserie.ch
 bobisalon.ch
@@ -2038,7 +2037,6 @@ bodensee-aktiv.ch
 bodensee-aloe.ch
 bodensee-ansiedlung.ch
 bodensee-arena.ch
-bodensee-armband.ch
 bodensee-assekuranz.ch
 bodensee-atelier.ch
 bodensee-automation.ch
@@ -8998,7 +8996,6 @@ book-asiagarden-geneve.ch
 book-at-home.ch
 book-bar.ch
 book-bat.ch
-book-bylaw.ch
 book-circle.ch
 book-clip.ch
 book-club.ch
@@ -9632,7 +9629,6 @@ booktechnologies.ch
 booktee.ch
 booktheclassic.ch
 bookthepro.ch
-bookthetalent.ch
 booktodo.ch
 booktok.ch
 booktopus.ch
@@ -9967,6 +9963,7 @@ boosrpm.ch
 boossupport.ch
 boosswiss.ch
 boost-agency.ch
+boost-ai.ch
 boost-bar.ch
 boost-bcge.ch
 boost-consulting.ch
@@ -10004,6 +10001,8 @@ boost4site.ch
 boosta.ch
 boostag.ch
 boostagency.ch
+boostagentur.ch
+boostai.ch
 boostair.ch
 boostalternance.ch
 boostballer.ch
@@ -10556,6 +10555,7 @@ bootsfuehrerschein.ch
 bootsgarage.ch
 bootsglas-mobil.ch
 bootsglas.ch
+bootsguide.ch
 bootsgutachten-schweiz.ch
 bootsgutachten.ch
 bootshaendler.ch
@@ -11265,6 +11265,7 @@ bordoli.ch
 bordolibruciatori.ch
 bordolidadella.ch
 bordoll.ch
+bordon.ch
 bordoni-poschiavo.ch
 bordoni-production.ch
 bordoni-productions.ch
@@ -13089,6 +13090,7 @@ bossindustries.ch
 bossiney.ch
 bossinfo.ch
 bossinger.ch
+bossini.ch
 bossinicolas.ch
 bossinterim.ch
 bossionline.ch
@@ -13940,6 +13942,7 @@ bottlehub.ch
 bottleinabox.ch
 bottlelight.ch
 bottleneck.ch
+bottleoffice.ch
 bottleofwine.ch
 bottlepainting.ch
 bottler.ch

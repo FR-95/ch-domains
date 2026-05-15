@@ -2538,7 +2538,6 @@ grand-pont.ch
 grand-pre.ch
 grand-prestige.ch
 grand-prix-chasseral.ch
-grand-prix-der-volksmusik.ch
 grand-prix-du-vin-suisse.ch
 grand-prix-eschenbach.ch
 grand-prix-tickets.ch
@@ -12631,7 +12630,6 @@ groovin.ch
 groovinbrass.ch
 groovingkeys.ch
 groovium.ch
-groovo.ch
 groovy-cards.ch
 groovy-solar.ch
 groovy.ch
@@ -13323,6 +13321,7 @@ grossverbraucherspezialist.ch
 grossverteiler.ch
 grosswabere.ch
 grosswabern.ch
+grosswaescherei.ch
 grosswangen.ch
 grosswangen24.ch
 grossweid.ch
@@ -13489,7 +13488,6 @@ grottodellavalle.ch
 grottodelmagnan.ch
 grottodelmulo.ch
 grottodelpaolin.ch
-grottodeltiglio.ch
 grottodescanso.ch
 grottodurii.ch
 grottoefra.ch

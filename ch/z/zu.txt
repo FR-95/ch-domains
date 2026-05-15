@@ -609,6 +609,7 @@ zuegelfirma-basel.ch
 zuegelfirma-baselland.ch
 zuegelfirma-bern.ch
 zuegelfirma-biel.ch
+zuegelfirma-ch.ch
 zuegelfirma-in-zuerich.ch
 zuegelfirma-kloten.ch
 zuegelfirma-liestal.ch
@@ -3155,6 +3156,7 @@ zuf-schweiz.ch
 zuf.ch
 zufa.ch
 zufag.ch
+zufahrtsschutz-digital.ch
 zufahrtsschutz.ch
 zufahrtssperre.ch
 zufahrtssperremieten.ch
@@ -3211,6 +3213,7 @@ zufo.ch
 zuforo.ch
 zufp.ch
 zufra.ch
+zufran.ch
 zufreeden.ch
 zufriede.ch
 zufrieden-janein.ch
@@ -3472,6 +3475,7 @@ zugcompany.ch
 zugcompanyformation.ch
 zugcompanyincorporation.ch
 zugconsultants.ch
+zugcorporatemedia.ch
 zugcoworking.ch
 zugcraft.ch
 zugcricketclub.ch
@@ -4053,6 +4057,7 @@ zugmobil.ch
 zugmont.ch
 zugmusic.ch
 zugmusiziert.ch
+zugnachvorn.ch
 zugnet.ch
 zugnetgroup.ch
 zugnetx.ch
@@ -4389,6 +4394,7 @@ zukunft-fuer-kinder.ch
 zukunft-fza.ch
 zukunft-geelig.ch
 zukunft-gemeinde.ch
+zukunft-gemeinsam-gestalten.ch
 zukunft-gestalten.ch
 zukunft-gossau.ch
 zukunft-guyerhof.ch
@@ -5420,7 +5426,6 @@ zumetzgern.ch
 zumex.ch
 zumf27.ch
 zumfalken.ch
-zumfeinenjakob.ch
 zumfeissenwaschbaer.ch
 zumfelsamrhein.ch
 zumfiirtopf.ch
@@ -6955,6 +6960,7 @@ zurichconect.ch
 zurichconnect.ch
 zurichconnectgames.ch
 zurichconventioncenter.ch
+zurichcorporatemedia.ch
 zurichcounselling.ch
 zurichcountryfestival.ch
 zurichcountrymusicfestival.ch
@@ -7502,7 +7508,6 @@ zurichwinefestival.ch
 zurichwinetrophy.ch
 zurichwineweek.ch
 zurichwlan.ch
-zurichwonderland.ch
 zurichwood.ch
 zurichworksitesolutions.ch
 zurichx.ch

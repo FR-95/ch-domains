@@ -199,6 +199,7 @@ ps-luzern.ch
 ps-m.ch
 ps-magazin.ch
 ps-malerei.ch
+ps-management.ch
 ps-marbach.ch
 ps-marketing.ch
 ps-marly.ch
@@ -943,6 +944,7 @@ psicologa-sanchez.ch
 psicologa.ch
 psicologabanchieri.ch
 psicologadanielaminea.ch
+psicologalugano.ch
 psicologaonline.ch
 psicologaticino.ch
 psicologi-ticino.ch
@@ -2103,6 +2105,7 @@ psychiatrie-klinik.ch
 psychiatrie-koenigsfelden.ch
 psychiatrie-kongress.ch
 psychiatrie-kuessnacht-am-rigi.ch
+psychiatrie-lansana-woneh.ch
 psychiatrie-laufenburg.ch
 psychiatrie-luzern.ch
 psychiatrie-maennedorf.ch
@@ -3110,6 +3113,7 @@ psychosozialeberatung-sh.ch
 psychosozialeberatung-weberwiki.ch
 psychosozialeberatung-zuerich.ch
 psychosozialeberatung.ch
+psychosozialeberatungen.ch
 psychosozialeberatungzurrose.ch
 psychosozialepeerarbeit.ch
 psychosozialer-berater-hfp.ch
@@ -4128,6 +4132,7 @@ psychotherapiekrankenkasse.ch
 psychotherapiekriens.ch
 psychotherapiekronenberg.ch
 psychotherapieliebefeld.ch
+psychotherapieloretz.ch
 psychotherapieluzern.ch
 psychotherapielyss.ch
 psychotherapiematter.ch
@@ -4550,7 +4555,6 @@ psythera.ch
 psytherapie.ch
 psyticino.ch
 psytools.ch
-psytop.ch
 psytorrisi.ch
 psytox.ch
 psytrack.ch

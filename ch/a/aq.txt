@@ -1,5 +1,4 @@
 aq-20inc.ch
-aq-bau.ch
 aq-beratung.ch
 aq-energy.ch
 aq-engineering.ch
@@ -35,7 +34,6 @@ aqasha.ch
 aqathon.ch
 aqb.ch
 aqba.ch
-aqbau.ch
 aqbuchhaltung.ch
 aqc-asso.ch
 aqc.ch
@@ -478,6 +476,7 @@ aquabiss.ch
 aquabiz.ch
 aquablade.ch
 aquabladeauto.ch
+aquablast.ch
 aquablasting.ch
 aquablation.ch
 aquablu-services.ch
@@ -1319,7 +1318,6 @@ aquarius-zug.ch
 aquarius.ch
 aquariusbar.ch
 aquariusconsulting.ch
-aquariusevents.ch
 aquariusgroup.ch
 aquariusloftclub.ch
 aquariusprolife.ch

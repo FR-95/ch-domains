@@ -300,7 +300,6 @@ fvsp.ch
 fvsp2029.ch
 fvsp24.ch
 fvsp27.ch
-fvspitexaarebruegg.ch
 fvsportal.ch
 fvsr2-vsv2w.ch
 fvsr2.ch

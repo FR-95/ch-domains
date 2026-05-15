@@ -2941,6 +2941,7 @@ fif-tape.ch
 fif-tourismus.ch
 fif-treuhand.ch
 fif.ch
+fifa-manager.ch
 fifa-research-scholarship.ch
 fifa-sport.ch
 fifa-teammanager.ch
@@ -5044,6 +5045,7 @@ filmtext.ch
 filmtheater.ch
 filmtheatre.ch
 filmtherapie.ch
+filmthingzh.ch
 filmtier.ch
 filmtiere.ch
 filmtierfarm.ch
@@ -6076,7 +6078,6 @@ financeabike.ch
 financeacademie.ch
 financeacademy.ch
 financeadinterim.ch
-financeadmin.ch
 financeads.ch
 financeadvisory.ch
 financeadvisorygroup.ch
@@ -6204,6 +6205,7 @@ financeme.ch
 financemedia.ch
 financement-climatique.ch
 financement-entreprise.ch
+financement-hypothecaire.ch
 financement-immobilier.ch
 financement-informatique.ch
 financement-romand.ch
@@ -6454,6 +6456,7 @@ financialpublishing.ch
 financialregulation.ch
 financialreporting.ch
 financials.ch
+financialschweiz.ch
 financialservice.ch
 financialservices.ch
 financialservicescyberdome.ch
@@ -7027,7 +7030,6 @@ finanziariaticinese.ch
 finanzid.ch
 finanziell-auswandern.ch
 finanziell-frei.ch
-finanziell-gebildet.ch
 finanziell-intelligent.ch
 finanziell-unabhaengig.ch
 finanziell-zum-erfolg.ch
@@ -10506,6 +10508,7 @@ fionamagni.ch
 fionaminder.ch
 fionamuff.ch
 fionamurtaj.ch
+fionaonline.ch
 fionapanholzer.ch
 fionaperina.ch
 fionapfaeffli.ch
@@ -14389,7 +14392,6 @@ fishe.ch
 fishecology.ch
 fishedev.ch
 fishen.ch
-fisheo.ch
 fisher-investments.ch
 fisher-price-first-smile.ch
 fisher-price.ch
@@ -17390,7 +17392,6 @@ five7.ch
 five88.ch
 five9.ch
 five9s.ch
-fivea.ch
 fiveagency.ch
 fivealpha.ch
 fivealsodomain.ch
@@ -17645,7 +17646,6 @@ fixading.ch
 fixadmin.ch
 fixado.ch
 fixag.ch
-fixaid.ch
 fixalys.ch
 fixami.ch
 fixana.ch
@@ -17676,7 +17676,6 @@ fixation-plum.ch
 fixation.ch
 fixato.ch
 fixatti.ch
-fixaway.ch
 fixbau-ag.ch
 fixbau.ch
 fixbaubedarf.ch
@@ -18000,6 +17999,7 @@ fixvermietung.ch
 fixvessels.ch
 fixvorfertig.ch
 fixvorort.ch
+fixware.ch
 fixwear.ch
 fixweb.ch
 fixwerk.ch

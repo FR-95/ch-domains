@@ -2878,6 +2878,7 @@ blattschuss.ch
 blattstark.ch
 blattstiel.ch
 blattundbluete.ch
+blattundflosse.ch
 blattundstift.ch
 blattundzweig.ch
 blattverlag.ch
@@ -4532,6 +4533,7 @@ blfm.ch
 blfog.ch
 blfr-sby.ch
 blfstore.ch
+blfv.ch
 blg-carrelages.ch
 blg-coaching.ch
 blg-veda.ch
@@ -6868,7 +6870,6 @@ bloombricks.ch
 bloombridge.ch
 bloombrush.ch
 bloombusinesssolutions.ch
-bloombybianka.ch
 bloombycassandra.ch
 bloombyliane.ch
 bloombysenga.ch
@@ -11175,6 +11176,7 @@ blunergy.ch
 blunet.ch
 blunic.ch
 blunier-edv.ch
+blunier-gipserei.ch
 blunier-haenni.ch
 blunier-textilag.ch
 blunier.ch

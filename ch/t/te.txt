@@ -4613,6 +4613,7 @@ techtexholding.ch
 techtextil.ch
 techtherm.ch
 techthete.ch
+techthingzh.ch
 techties.ch
 techtim.ch
 techtimeapp.ch
@@ -5094,7 +5095,6 @@ tecracer.ch
 tecram.ch
 tecrapharm.ch
 tecreal.ch
-tecreart.ch
 tecrein.ch
 tecrent.ch
 tecres.ch
@@ -11992,7 +11992,6 @@ termin-buchen.ch
 termin-buchung.ch
 termin-checker.ch
 termin-coiffeur-moni-jasmin.ch
-termin-coiffeurmimi.ch
 termin-direkt.ch
 termin-driveclean.ch
 termin-hermes-lyss.ch
@@ -13537,6 +13536,7 @@ terredeigigli.ch
 terredejade.ch
 terredejobs.ch
 terredelarche.ch
+terredelice.ch
 terredelles.ch
 terredelune-art.ch
 terredelune.ch
@@ -16005,7 +16005,6 @@ testvic2test.ch
 testvictest.ch
 testvide.ch
 testvih.ch
-testvirtualvisits.ch
 testvnhjfgjfhj.ch
 testwasser.ch
 testweb.ch

@@ -23,7 +23,6 @@ h2-konformitaet.ch
 h2-lab.ch
 h2-lastwagen.ch
 h2-leitung.ch
-h2-life.ch
 h2-marktplatz.ch
 h2-medien.ch
 h2-mobil.ch
@@ -175,7 +174,6 @@ h2kompetenzzentrum.ch
 h2l.ch
 h2lab.ch
 h2lastwagen.ch
-h2life.ch
 h2light.ch
 h2m-elektro.ch
 h2m-exploitation.ch

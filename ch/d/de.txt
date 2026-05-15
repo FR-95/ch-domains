@@ -300,7 +300,6 @@ dea-delices.ch
 dea-dienstleistungen.ch
 dea-dos.ch
 dea-flury.ch
-dea-gestion.ch
 dea-gipser.ch
 dea-innenausbau.ch
 dea-reinigung.ch
@@ -454,6 +453,7 @@ deal-house.ch
 deal-immo.ch
 deal-it.ch
 deal-lux.ch
+deal-maker.ch
 deal-now.ch
 deal-o-mania.ch
 deal-of-the-week.ch
@@ -1023,7 +1023,6 @@ debarras-fribourg.ch
 debarras-geneva.ch
 debarras-geneve.ch
 debarras-gva.ch
-debarras-helvetia.ch
 debarras-jura.ch
 debarras-lancy.ch
 debarras-lausanne.ch
@@ -1691,6 +1690,7 @@ debz.ch
 dec-cintrage.ch
 dec-energy.ch
 dec-group.ch
+dec-gruop.ch
 dec-online.ch
 dec-sa.ch
 dec-services.ch
@@ -1820,6 +1820,7 @@ decarlipinoja.ch
 decaro.ch
 decarolis.ch
 decarshome.ch
+decarsloc.ch
 decart.ch
 decarte.ch
 decartes.ch
@@ -3503,6 +3504,7 @@ deemo.ch
 deempto.ch
 deemsworld.ch
 deen-sa.ch
+deen-tech.ch
 deen-up.ch
 deen.ch
 deena.ch
@@ -4114,6 +4116,7 @@ deesa.ch
 deesapa.ch
 deesba.ch
 deesco.ch
+deescovery.ch
 deescus.ch
 deese.ch
 deesgartenparadies.ch
@@ -11504,7 +11507,6 @@ demenzberatung-winterthur.ch
 demenzbetreuung.ch
 demenzbox.ch
 demenzcoach.ch
-demenzcoaching.ch
 demenzcommunity.ch
 demenzdiagnostik.ch
 demenzdialog.ch
@@ -13446,7 +13448,6 @@ denova-gartenmoebel.ch
 denova.ch
 denovation.ch
 denovo-interactive.ch
-denovo-treuhand.ch
 denovo.ch
 denovoskin.ch
 denovum.ch
@@ -15297,6 +15298,7 @@ depannage-are-electromenager.ch
 depannage-autos.ch
 depannage-canalisation.ch
 depannage-canalisations.ch
+depannage-carouge.ch
 depannage-chauffage.ch
 depannage-comparatif.ch
 depannage-electricien.ch
@@ -15454,6 +15456,7 @@ depannageadistance.ch
 depannageautomobile.ch
 depannagecanalisation.ch
 depannagecanalisations.ch
+depannagecarouge.ch
 depannageduvanel.ch
 depannageelectrique.ch
 depannagegeneveinformatique.ch
@@ -15461,13 +15464,17 @@ depannageinfo.ch
 depannageinformatique-geneve.ch
 depannageinformatique.ch
 depannageinformatiquecarouge.ch
+depannageinformatiquechampel.ch
 depannageinformatiquegeneve.ch
+depannageinformatiquelancy.ch
 depannageinformatiquelausanne.ch
+depannageinformatiquemeyrin.ch
 depannageinformatiquepro.ch
 depannageinformatiquesecours.ch
 depannageinformatiquesuisse.ch
 depannageinformatiquesuisseromande.ch
 depannageinformatiquevalais.ch
+depannageinformatiquevernier.ch
 depannageordinateurgeneve.ch
 depannageordinateurlausanne.ch
 depannagepc.ch
@@ -17464,7 +17471,6 @@ derfachmarkt.ch
 derfaecher.ch
 derfahnder.ch
 derfahnenach.ch
-derfahrer.ch
 derfahrlehrer.ch
 derfahrtrainer.ch
 derfairecredit.ch
@@ -18855,7 +18861,6 @@ dermatologue-geneve.ch
 dermatologue.ch
 dermatologuegeneve.ch
 dermatologueneuchatel.ch
-dermatologues-romands.ch
 dermatologues.ch
 dermatologuesgeneve.ch
 dermatologueversoix.ch
@@ -20144,6 +20149,7 @@ deschamp.ch
 deschamps-family.ch
 deschamps-partners.ch
 deschamps.ch
+deschampsprivateadvisory.ch
 deschavu.ch
 deschawue.ch
 deschdanja.ch
@@ -22874,6 +22880,7 @@ destinationsports.ch
 destinationssante.ch
 destinationsuisse.ch
 destinationswissalps.ch
+destinationswitzerland.ch
 destinationtennis.ch
 destinationterroir.ch
 destinationtrailverbierstbernard.ch
@@ -24460,6 +24467,7 @@ devadea.ch
 devado.ch
 devaere.ch
 devaeva.ch
+devaf3.ch
 devagency.ch
 devagent.ch
 devaholding.ch

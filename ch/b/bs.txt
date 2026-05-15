@@ -516,6 +516,7 @@ bscoldboys.ch
 bscolor.ch
 bscom.ch
 bscompany.ch
+bscompanyconsulting.ch
 bscomputer.ch
 bscon.ch
 bsconseils.ch
@@ -1096,6 +1097,7 @@ bss-rothen.ch
 bss-schutz.ch
 bss-sdw.ch
 bss-security.ch
+bss-service.ch
 bss-sicherheit.ch
 bss-sicherheitsdienst.ch
 bss-steiner.ch

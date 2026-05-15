@@ -1192,7 +1192,6 @@ exec-coaching.ch
 exec-comm.ch
 exec-express.ch
 exec-reader.ch
-exec-search.ch
 exec.ch
 execal.ch
 execbridge.ch
@@ -1273,7 +1272,6 @@ executive-mba-luzern.ch
 executive-mba.ch
 executive-mediation.ch
 executive-medium-international.ch
-executive-neuweiler.ch
 executive-office.ch
 executive-point.ch
 executive-precision.ch
@@ -3897,7 +3895,6 @@ expirywat.ch
 expivi.ch
 expiwa.ch
 explain-consulting.ch
-explain-it-simple.ch
 explain-it.ch
 explain-my-brain.ch
 explain-pain.ch
@@ -5547,6 +5544,7 @@ extrabild.ch
 extrabillig.ch
 extrablack.ch
 extrablatt.ch
+extrable.ch
 extrableu.ch
 extrableuciel.ch
 extrablitz.ch

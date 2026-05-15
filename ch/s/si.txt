@@ -4748,6 +4748,7 @@ signalfc.ch
 signalfeuer.ch
 signalfisher.ch
 signalforge.ch
+signalfragrance.ch
 signalfree.ch
 signalfumee.ch
 signalfundament.ch
@@ -7505,7 +7506,6 @@ silo-reinigung.ch
 silo-reinigungen.ch
 silo-robofox.ch
 silo-schweiz.ch
-silo-sicherheit.ch
 silo-toess.ch
 silo-world.ch
 silo.ch
@@ -8476,6 +8476,7 @@ silverton.ch
 silvertonni.ch
 silvertrade.ch
 silvertree.ch
+silvervalley.ch
 silvervintage.ch
 silvervision.ch
 silvervreneli.ch
@@ -9122,9 +9123,9 @@ sima-beauty.ch
 sima-bern.ch
 sima-care.ch
 sima-cleantec.ch
+sima-events.ch
 sima-fund.ch
 sima-immobilien.ch
-sima-insurance.ch
 sima-kaffee.ch
 sima-medical.ch
 sima-nails-beauty.ch
@@ -11561,6 +11562,7 @@ simplaner.ch
 simplanta.ch
 simplapos.ch
 simplaris.ch
+simplavo.ch
 simplay-band.ch
 simplay.ch
 simplcare.ch
@@ -14398,7 +14400,6 @@ sininvest.ch
 siniprofessional.ch
 sinirea.ch
 sinis-kebap-huus-schlieren.ch
-sinis.ch
 sinisa.ch
 sinisamatetic.ch
 sinisamedic.ch

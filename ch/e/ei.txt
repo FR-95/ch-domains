@@ -584,7 +584,6 @@ eid-non.ch
 eid-oui.ch
 eid-referendum.ch
 eid-schweiz.ch
-eid-sind-wir.ch
 eid-suisse-oui.ch
 eid-svizzera-si.ch
 eid-votation.ch
@@ -2874,6 +2873,7 @@ einfachmehrweg.ch
 einfachmehrwert.ch
 einfachmensch.ch
 einfachmetallbau.ch
+einfachmieten.ch
 einfachmieten24.ch
 einfachmilch.ch
 einfachmithelfen.ch
@@ -3947,6 +3947,7 @@ einsiedelei.ch
 einsiedeln-agenda.ch
 einsiedeln-anderswo.ch
 einsiedeln-devotionalien.ch
+einsiedeln-digital.ch
 einsiedeln-elsewhere.ch
 einsiedeln-immobilien.ch
 einsiedeln-live.ch

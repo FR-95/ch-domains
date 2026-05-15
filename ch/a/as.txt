@@ -1280,6 +1280,7 @@ ascensori.ch
 ascensorieninter.ch
 ascensorifalconi.ch
 ascensoriticino.ch
+ascensus.ch
 ascent-ag.ch
 ascent-labs.ch
 ascent-megeve.ch
@@ -2620,6 +2621,7 @@ asia-spa-zuerich.ch
 asia-specialties.ch
 asia-spezial.ch
 asia-store.ch
+asia-studio.ch
 asia-supermarket.ch
 asia-swiss-invest.ch
 asia-take-away-bern.ch
@@ -5019,6 +5021,7 @@ asset--management.ch
 asset-allocation.ch
 asset-assistance.ch
 asset-awards.ch
+asset-brain.ch
 asset-broker.ch
 asset-consulting.ch
 asset-control.ch
@@ -5167,7 +5170,6 @@ assetstrategy.ch
 assetstreet.ch
 assetsundermanagement.ch
 assetsvalue-assetsman.ch
-assetta.ch
 assettalents.ch
 assettoforza.ch
 assettokenization.ch
@@ -5392,7 +5394,6 @@ assistana.ch
 assistance-a-domicile.ch
 assistance-accompagnement-delavy.ch
 assistance-administrative-domicile.ch
-assistance-administrative-nyon.ch
 assistance-administrative-seniors.ch
 assistance-administrative.ch
 assistance-agricole.ch
@@ -5448,6 +5449,8 @@ assistancedessorbiers.ch
 assistancedomicile.ch
 assistanceetcoercition.ch
 assistanceimmo.ch
+assistanceinformatique-geneve.ch
+assistanceinformatiquecarouge.ch
 assistancenaf.ch
 assistancenotariale.ch
 assistanceordinateurgeneve.ch
@@ -5905,6 +5908,7 @@ association-freego.ch
 association-fs.ch
 association-galerie-samia-artho.ch
 association-genevoise-cannabis.ch
+association-genevoise-lipoedeme.ch
 association-giip.ch
 association-glocal.ch
 association-gorgesdutrient.ch
@@ -6544,6 +6548,7 @@ assperr.ch
 assph.ch
 asspo.ch
 assportsante.ch
+asspp.ch
 asspren.ch
 asspro-group.ch
 asspro-jobs.ch
@@ -7071,7 +7076,6 @@ assurjess.ch
 assurland.ch
 assurlife.ch
 assurly.ch
-assurmate.ch
 assurminute.ch
 assurmoi.ch
 assurnet.ch
@@ -7847,6 +7851,7 @@ astraled.ch
 astralement-votre.ch
 astralementvotre.ch
 astrales.ch
+astralex.ch
 astralgarden.ch
 astrali.ch
 astralia.ch
@@ -8693,6 +8698,7 @@ astrophotography.ch
 astrophotomanie.ch
 astrophotos.ch
 astrophysics.ch
+astrophysik.ch
 astrophytum.ch
 astropi.ch
 astropicture.ch

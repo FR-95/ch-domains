@@ -1019,8 +1019,10 @@ framegame-security.ch
 framegame.ch
 framegate.ch
 framegeist.ch
+frameglide.ch
 framegrill.ch
 framegrills.ch
+framehq.ch
 framehunt.ch
 frameit.ch
 framelab.ch
@@ -2334,6 +2336,7 @@ frankies.ch
 frankiesauction.ch
 frankieschurros.ch
 frankiestudio.ch
+frankiewhatelse.ch
 frankii.ch
 frankimmobilien.ch
 frankincense.ch
@@ -3830,7 +3833,6 @@ frauen-suche.ch
 frauen-taxi.ch
 frauen-team-armee.ch
 frauen-treff.ch
-frauen-und-vermoegen.ch
 frauen-ursern.ch
 frauen-vereint.ch
 frauen-waehlen.ch
@@ -7468,7 +7470,6 @@ freeridehotel.ch
 freeridehotspot.ch
 freerideict.ch
 freeridejungfrau.ch
-freerideklosters.ch
 freeridelachen.ch
 freeriden.ch
 freeridepark.ch
@@ -11407,7 +11408,6 @@ freude-am-klavier.ch
 freude-am-leben.ch
 freude-am-lernen.ch
 freude-am-malen.ch
-freude-am-pc.ch
 freude-am-pferd.ch
 freude-am-rechen.ch
 freude-am-rechnen.ch
@@ -12725,6 +12725,7 @@ frick-it-solutions.ch
 frick-lawyers.ch
 frick-lehmann.ch
 frick-liest.ch
+frick-media.ch
 frick-michel.ch
 frick-moccetti.ch
 frick-ofenbau.ch

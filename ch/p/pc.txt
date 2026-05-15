@@ -961,6 +961,7 @@ pcmo.ch
 pcmod.ch
 pcmodding.ch
 pcmonitor.ch
+pcmontage.ch
 pcmotion.ch
 pcms.ch
 pcmsa.ch
@@ -1234,7 +1235,6 @@ pcsuite.ch
 pcsupp.ch
 pcsupport-bern.ch
 pcsupport-graf.ch
-pcsupport-solothurn.ch
 pcsupport-zo.ch
 pcsupport-zurich.ch
 pcsupport.ch

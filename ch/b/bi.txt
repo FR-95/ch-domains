@@ -856,6 +856,7 @@ bibifamily.ch
 bibifish.ch
 bibiis.ch
 bibili.ch
+bibiliotecaromaneasca.ch
 bibim.ch
 bibimbap.ch
 bibimgenve.ch
@@ -1862,6 +1863,7 @@ bidbuddy.ch
 bidcar.ch
 bidcars.ch
 bidcars24.ch
+bidch.ch
 bidco.ch
 bidcrafter.ch
 bidder.ch
@@ -6735,7 +6737,6 @@ bikersforhomeless.ch
 bikersforhumanity.ch
 bikersgarage.ch
 bikersheart.ch
-bikershelm.ch
 bikershop-flumserberg.ch
 bikershop.ch
 bikershq.ch
@@ -12728,6 +12729,7 @@ biodirektabhof.ch
 biodisc.ch
 biodisco.ch
 biodiscovery.ch
+biodisel.ch
 biodiv.ch
 biodivcollector.ch
 biodiver-city.ch
@@ -17891,6 +17893,7 @@ bismillah.ch
 bismillahandeat.ch
 bismillahandsmile.ch
 bismobil.ch
+bismontag.ch
 bismor.ch
 bismtf.ch
 bismuth.ch
@@ -18477,6 +18480,7 @@ bistrotdelmeta.ch
 bistrotdeltennis.ch
 bistrotdescedres.ch
 bistrotdesevaux.ch
+bistrotdesreineschampery.ch
 bistrotdesuttins.ch
 bistrotduconcert.ch
 bistrotduweb.ch
@@ -19106,7 +19110,6 @@ bitcoingifts.ch
 bitcoinglobal.ch
 bitcoingmbh.ch
 bitcoingold.ch
-bitcoingoldmine.ch
 bitcoingp.ch
 bitcoingratis.ch
 bitcoingroup.ch
@@ -19294,6 +19297,7 @@ bitcoinsticker.ch
 bitcoinstorage.ch
 bitcoinstore.ch
 bitcoinstrategie.ch
+bitcoinstrategy.ch
 bitcoinsuise.ch
 bitcoinsuisse-bank.ch
 bitcoinsuisse.ch
@@ -19441,7 +19445,6 @@ bitech.ch
 biteclear.ch
 bitecoin.ch
 bitecoins.ch
-bitecoinswiss.ch
 bitedefender.ch
 bitedelite.ch
 bitefight.ch
@@ -20180,7 +20183,6 @@ bitzer-sg.ch
 bitzer.ch
 bitzerag.ch
 bitzero.ch
-bitzestgenius.ch
 bitzgi.ch
 bitzi-appenzell.ch
 bitzi-ennetbuergen.ch
@@ -20246,7 +20248,6 @@ bivas.ch
 bive.ch
 bivelaro.ch
 biveli.ch
-bivelle.ch
 bivenco.ch
 biver-watches.ch
 biver.ch

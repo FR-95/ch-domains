@@ -47,13 +47,11 @@ da-do.ch
 da-dur.ch
 da-eltec.ch
 da-ernesto.ch
-da-ettore.ch
 da-ferrari.ch
 da-fiduciaire.ch
 da-franco.ch
 da-fuer-dich.ch
 da-gartenpflege.ch
-da-gbt.ch
 da-gennaro.ch
 da-gerardo.ch
 da-gio.ch
@@ -2156,6 +2154,7 @@ daganigiardini.ch
 dagarni.ch
 dagassan.ch
 dagaz.ch
+dagbaumaterial.ch
 dagci.ch
 dagclothing.ch
 dagda-consulting.ch
@@ -4480,6 +4479,7 @@ dammkultur.ch
 dammo.ch
 dammpark.ch
 dammron.ch
+dammschindler.ch
 dammstrasse-biberist.ch
 dammv.ch
 dammweg.ch
@@ -6582,6 +6582,7 @@ danielamarx.ch
 danielamaske.ch
 danielamassage.ch
 danielamatthey.ch
+danielamaurer.ch
 danielamberg.ch
 danielambrosoli.ch
 danielambuehl.ch
@@ -8953,7 +8954,6 @@ danysweets.ch
 danyswisschocolatier.ch
 danytex.ch
 danyunddenise.ch
-danyvisuals.ch
 danywaldner.ch
 danyzone.ch
 danz-architektur.ch
@@ -9552,6 +9552,7 @@ dariamechkat.ch
 dariamusic.ch
 darian.ch
 darianails.ch
+dariangasser.ch
 dariangutzwiller.ch
 darianne.ch
 darianne34.ch
@@ -9811,6 +9812,7 @@ dariowalker.ch
 darioweb.ch
 dariowerder.ch
 dariowidmer.ch
+dariowillommet.ch
 dariowittwer.ch
 darioz.ch
 dariozahnd.ch
@@ -11108,6 +11110,7 @@ das-smartphoneabo.ch
 das-sofa.ch
 das-solidarische-bern.ch
 das-sonnensegel.ch
+das-spaeti.ch
 das-spiel-deines-lebens.ch
 das-spiel-um-die-million.ch
 das-sprechzimmer.ch
@@ -12008,6 +12011,7 @@ daskunstwarenhaus.ch
 daskurvenreich.ch
 daslabor.ch
 daslaborag.ch
+daslaborwerk.ch
 daslabyrinth.ch
 daslachendeherz.ch
 daslager.ch
@@ -13803,7 +13807,6 @@ datapower.ch
 datapracticecode.ch
 datapredictor.ch
 datapreneur.ch
-datapreneurs.ch
 datapreparation.ch
 datapresent.ch
 datapretta.ch

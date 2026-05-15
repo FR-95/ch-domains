@@ -627,6 +627,7 @@ plakatmann.ch
 plakatmax.ch
 plakatonline.ch
 plakatperlen.ch
+plakatplaner.ch
 plakatplus.ch
 plakatproblem.ch
 plakatprofi.ch
@@ -2442,6 +2443,7 @@ plantana.ch
 plantandeat.ch
 plantandplate.ch
 plantaneo.ch
+plantao.ch
 plantapedis.ch
 plantara.ch
 plantarfasziitis.ch
@@ -2467,7 +2469,6 @@ plantastique.ch
 plantatech.ch
 plantation.ch
 plantationarbre.ch
-plantationbennouri.ch
 plantationrum.ch
 plantations-suisses.ch
 plantatree.ch
@@ -3537,7 +3538,6 @@ plateaumagique.ch
 plateaurosa.ch
 plateaustiefel.ch
 plateautournantvoiture.ch
-plateaux.ch
 platebande.ch
 platebandes.ch
 plated.ch
@@ -3741,6 +3741,7 @@ platin-wheels.ch
 platin.ch
 platina-kuechen.ch
 platina.ch
+platinamons.ch
 platinankauf.ch
 platinautomobile.ch
 platinbarren.ch
@@ -3877,7 +3878,6 @@ platinumpromotion.ch
 platinumracing.ch
 platinumschweiz.ch
 platinumseaandsky.ch
-platinumservices.ch
 platinumshop.ch
 platinumslots.ch
 platinumsp.ch
@@ -7533,7 +7533,6 @@ pluriwiz.ch
 plurstudios.ch
 plus-1.ch
 plus-2.ch
-plus-a.ch
 plus-ag.ch
 plus-ai.ch
 plus-and-more.ch

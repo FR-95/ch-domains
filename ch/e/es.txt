@@ -873,6 +873,7 @@ escapist.ch
 escapment.ch
 escapo.ch
 escapology.ch
+escapp.ch
 escar.ch
 escara-feelings.ch
 escara.ch
@@ -3706,6 +3707,7 @@ espaceplenitude.ch
 espaceplongee.ch
 espacepluriel.ch
 espaceplus.ch
+espacepointvirgule.ch
 espacepoppies.ch
 espaceposture.ch
 espacepoumon.ch
@@ -4212,11 +4214,9 @@ esport24.ch
 esportacademy.ch
 esportanwalt.ch
 esportbar.ch
-esportbusinessforum.ch
 esportcity.ch
 esportconnect.ch
 esportforce.ch
-esportforum.ch
 esportgame.ch
 esportgames.ch
 esportgamingforum.ch
@@ -4431,6 +4431,7 @@ espringer.ch
 esprint.ch
 esprinter.ch
 esprit-active.ch
+esprit-alpin.ch
 esprit-animal.ch
 esprit-art-deco.ch
 esprit-artisan.ch
@@ -5727,6 +5728,7 @@ est-swisstime.ch
 est-vd.ch
 est.ch
 est1973.ch
+est2023.ch
 est2026.ch
 est3banio.ch
 est8.ch

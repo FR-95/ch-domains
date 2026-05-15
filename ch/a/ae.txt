@@ -3159,7 +3159,6 @@ aeschlidave.ch
 aeschliexpress.ch
 aeschlimann-ag.ch
 aeschlimann-architekten.ch
-aeschlimann-bauberatung.ch
 aeschlimann-bedachungen.ch
 aeschlimann-bois.ch
 aeschlimann-carrosserie.ch
@@ -3638,6 +3637,7 @@ aeterna-la.ch
 aeterna-lucy.ch
 aeterna-medical.ch
 aeterna.ch
+aeternajulia.ch
 aeternal.ch
 aeternalux.ch
 aeternam-atelier.ch

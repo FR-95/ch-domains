@@ -1626,6 +1626,7 @@ web-stage2.ch
 web-star.ch
 web-start.ch
 web-starter.ch
+web-startup.ch
 web-stat.ch
 web-station.ch
 web-steuern.ch
@@ -4197,7 +4198,6 @@ webhorn.ch
 webhorspiste.ch
 webhorst.ch
 webhorticole.ch
-webhost-germany.ch
 webhost-markt.ch
 webhost-schweiz.ch
 webhost.ch
@@ -5643,7 +5643,6 @@ webseitenstudio.ch
 webseitentest.ch
 webseitentool.ch
 webseitenvergleich.ch
-webseitenvorschau.ch
 webseitenwartung.ch
 webseitenwerbung.ch
 webseitenwerk.ch
@@ -6281,6 +6280,7 @@ webstick.ch
 webstier.ch
 webstile.ch
 webstit.ch
+websto.ch
 webstobe.ch
 webstobler.ch
 webstoff.ch
@@ -6692,6 +6692,7 @@ webvisioncommunication.ch
 webvisioned.ch
 webvisionen.ch
 webvisionnary.ch
+webvisionticino.ch
 webvisit.ch
 webvisity.ch
 webvitals.ch
@@ -7746,7 +7747,6 @@ wedofreemovies.ch
 wedofreenews.ch
 wedofreesport.ch
 wedofreetv.ch
-wedog.ch
 wedogood.ch
 wedoino.ch
 wedoit.ch
@@ -10544,6 +10544,7 @@ wein-versand.ch
 wein-verschenken.ch
 wein-verstehen.ch
 wein-villnachern.ch
+wein-vision.ch
 wein-visionen.ch
 wein-vom-fass.ch
 wein-von-freunden.ch
@@ -10652,7 +10653,6 @@ weinbau-gianini.ch
 weinbau-habuehl.ch
 weinbau-hartmann.ch
 weinbau-hazeraj.ch
-weinbau-hermann.ch
 weinbau-holzgang.ch
 weinbau-hotz.ch
 weinbau-imhof.ch
@@ -11970,6 +11970,7 @@ weinviertel.ch
 weinvinovin.ch
 weinvinvino.ch
 weinvision.ch
+weinvisionen.ch
 weinviteyou.ch
 weinvogel.ch
 weinvolve.ch
@@ -13514,6 +13515,7 @@ weldart.ch
 weldas.ch
 weldaseurope.ch
 weldax.ch
+weldbeing.ch
 weldbild.ch
 weldcleaningbrush.ch
 weldcleaningbrushes.ch
@@ -18361,7 +18363,6 @@ werkarena-basel.ch
 werkarena.ch
 werkart-turbenthal.ch
 werkart.ch
-werkartag.ch
 werkatelier-arch.ch
 werkatelier-hoeri.ch
 werkatelier-palazzo.ch
@@ -18599,6 +18600,7 @@ werkma.ch
 werkmacherei.ch
 werkmal.ch
 werkmangel.ch
+werkmann.ch
 werkmaterial.ch
 werkmatik.ch
 werkmatt-uri.ch
@@ -19846,6 +19848,7 @@ wertemanagement.ch
 wertemanager.ch
 wertemanufaktur.ch
 wertenbru.ch
+wertenburg.ch
 wertengel.ch
 wertentfaltung.ch
 werteorientiert.ch
@@ -21725,6 +21728,7 @@ wettigo.ch
 wettigocasino.ch
 wettigocasino1.ch
 wettigocasinos.ch
+wettigokasino.ch
 wettigoofficial.ch
 wettigoschweiz.ch
 wettigowetten.ch

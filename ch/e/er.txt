@@ -2087,6 +2087,7 @@ ergo-kinder.ch
 ergo-kk.ch
 ergo-kleeblatt.ch
 ergo-klingenfuss.ch
+ergo-knopf.ch
 ergo-koenig.ch
 ergo-koeniz.ch
 ergo-kuettigen.ch
@@ -2383,6 +2384,7 @@ ergokids.ch
 ergokindjugend.ch
 ergokissen.ch
 ergokleeblatt.ch
+ergoknopf.ch
 ergokoeniz.ch
 ergokomfort.ch
 ergokunst.ch
@@ -2841,6 +2843,7 @@ ergotherapie-neunkirch.ch
 ergotherapie-neurologie.ch
 ergotherapie-obwalden.ch
 ergotherapie-oerlikon.ch
+ergotherapie-ogi.ch
 ergotherapie-online.ch
 ergotherapie-p.ch
 ergotherapie-papillon.ch
@@ -5263,6 +5266,7 @@ ernaehrungsoptimierung.ch
 ernaehrungsplan.ch
 ernaehrungspoint.ch
 ernaehrungspolitik.ch
+ernaehrungspraxis-neumann.ch
 ernaehrungspraxis.ch
 ernaehrungspraxisnatsume.ch
 ernaehrungsprofil.ch

@@ -332,6 +332,7 @@ shackassociation.ch
 shackdata.ch
 shacksear.ch
 shacman.ch
+shaconcept.ch
 shad.ch
 shadait.ch
 shadam.ch
@@ -836,6 +837,7 @@ shalom-drivers.ch
 shalom-espace-bien-etre.ch
 shalom-israel-reisen.ch
 shalom-music.ch
+shalom-switzerland.ch
 shalom.ch
 shalomatelier.ch
 shalombroker.ch
@@ -2682,6 +2684,7 @@ shelf.ch
 shelf24.ch
 shelfapp.ch
 shelfcompany.ch
+shelfer.ch
 shelfhero.ch
 shelfie.ch
 shelfiestorage.ch
@@ -2968,6 +2971,7 @@ sheriff-direct.ch
 sheriff-sd.ch
 sheriff-securite.ch
 sheriff-security.ch
+sheriff-sicherheit.ch
 sheriff-switzerland.ch
 sheriff-umzuege.ch
 sheriff.ch
@@ -4012,6 +4016,7 @@ shift360.ch
 shift4.ch
 shift7.ch
 shift7nine.ch
+shifta.ch
 shiftadvisor.ch
 shiftai.ch
 shiftandgo.ch
@@ -4098,6 +4103,7 @@ shifttek.ch
 shifttoclarity.ch
 shiftup.ch
 shiftvaud.ch
+shiftwithinyou.ch
 shiftworks.ch
 shiftx.ch
 shifty.ch
@@ -4732,6 +4738,7 @@ shirin.ch
 shirinbeauty.ch
 shirinferdows.ch
 shirinlanz.ch
+shirinpatwa.ch
 shirinpfisterer.ch
 shirinpinto.ch
 shiriru94.ch
@@ -5137,6 +5144,7 @@ shizuniversity.ch
 shizzle.ch
 shizzy.ch
 shj.ch
+shjazz.ch
 shjloppliger.ch
 shjob.ch
 shk-agent.ch
@@ -6744,6 +6752,7 @@ shopit-dropit.ch
 shopit.ch
 shopitalia.ch
 shopitaly.ch
+shopiterm.ch
 shopitnow.ch
 shopito.ch
 shopity.ch
@@ -7057,6 +7066,7 @@ shoppingbroker.ch
 shoppingbuchs.ch
 shoppingcard.ch
 shoppingcards.ch
+shoppingcart.ch
 shoppingcenter-events.ch
 shoppingcenter-migros.ch
 shoppingcenter-signaletik.ch
@@ -8239,13 +8249,13 @@ shqipe.ch
 shqipefashion.ch
 shqiperia.ch
 shqipet.ch
+shqipetyre.ch
 shqipfood.ch
 shqiphop.ch
 shqiponja-shop.ch
 shqiponja.ch
 shqiponjashop.ch
 shqiponjat-dardane.ch
-shqiponjat.ch
 shqiponjatdardane.ch
 shqiponjatmc.ch
 shqiponjeasllani.ch

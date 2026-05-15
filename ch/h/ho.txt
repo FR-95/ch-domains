@@ -854,18 +854,12 @@ hochlandrindfleisch.ch
 hochlehner.ch
 hochleistungs-faserbeton.ch
 hochleistungsabscheider.ch
-hochleistungsdrink.ch
 hochleistungsfaserbeton.ch
-hochleistungsfood.ch
 hochleistungskeramik.ch
 hochleistungskunststoffe.ch
-hochleistungslebensmittel.ch
-hochleistungsmahlzeit.ch
 hochleistungsmotoren.ch
 hochleistungsreiniger.ch
-hochleistungsriegel.ch
 hochleistungsschmierstoffe.ch
-hochleistungssnack.ch
 hochleistungsstahl.ch
 hochleistungsstapler.ch
 hochleistungundmenschlichkeit.ch
@@ -2507,6 +2501,7 @@ hockeysport.ch
 hockeystaff.ch
 hockeystar.ch
 hockeystats.ch
+hockeystick.ch
 hockeystock.ch
 hockeystore.ch
 hockeystuff.ch
@@ -4496,7 +4491,6 @@ hoferpiller.ch
 hoferr.ch
 hoferreisen.ch
 hoferrissi.ch
-hofers-hof.ch
 hofers-immo.ch
 hofers-ponyfarm.ch
 hofers.ch
@@ -5044,7 +5038,6 @@ hofmaettli.ch
 hofmag-fit.ch
 hofmag-therapie.ch
 hofmagtherapie.ch
-hofmaier-partner.ch
 hofmaier.ch
 hofmaiezyt.ch
 hofmail.ch
@@ -6739,7 +6732,6 @@ holiday-sun.ch
 holiday-survival.ch
 holiday-swiss.ch
 holiday-switzerland.ch
-holiday-taxi.ch
 holiday-thun.ch
 holiday-valais.ch
 holiday-yachting.ch
@@ -6883,7 +6875,6 @@ holidaysear.ch
 holidaysearch.ch
 holidayservices.ch
 holidayshop.ch
-holidaysinn.ch
 holidaysinsaasfee.ch
 holidaysinvalais.ch
 holidaysitting.ch
@@ -7614,6 +7605,7 @@ hollywaters.ch
 hollywd.ch
 hollyweed.ch
 hollywin.ch
+hollywincasino.ch
 hollywind.ch
 hollywins.ch
 hollywood-bar.ch
@@ -10280,7 +10272,6 @@ holzseele.ch
 holzseife.ch
 holzseiten.ch
 holzservice24.ch
-holzshipping.ch
 holzshop.ch
 holzshredder.ch
 holzsig.ch
@@ -11492,6 +11483,7 @@ homebase365.ch
 homebasecloud.ch
 homebasecoworking.ch
 homebased.ch
+homebasetools.ch
 homebattaglia.ch
 homebattery.ch
 homebau.ch
@@ -23689,6 +23681,7 @@ houseofchristine.ch
 houseofclassics.ch
 houseofclubs.ch
 houseofcoco.ch
+houseofcoffee.ch
 houseofcollectors.ch
 houseofcolor.ch
 houseofcomedy.ch
@@ -23876,6 +23869,7 @@ houseofomika.ch
 houseoforange.ch
 houseoforgaenic.ch
 houseofpadel.ch
+houseofpainda.ch
 houseofpaint.ch
 houseofparty.ch
 houseofpassion.ch
@@ -23930,6 +23924,7 @@ houseofscience.ch
 houseofsciences.ch
 houseofscotland.ch
 houseofseba.ch
+houseofsei.ch
 houseofsex.ch
 houseofshen.ch
 houseofshirts.ch

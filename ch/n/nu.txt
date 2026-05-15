@@ -1604,6 +1604,7 @@ numerozero.ch
 numerum.ch
 numerus-clausus-app.ch
 numerus-clausus.ch
+numerus-ia.ch
 numerus.ch
 numerusapertus.ch
 numerusclausus.ch
@@ -2380,7 +2381,6 @@ nurse-support.ch
 nurse.ch
 nurse24.ch
 nurse2nurse.ch
-nurse4swiss.ch
 nurse4u.ch
 nurse4you.ch
 nurseathome.ch
@@ -3089,6 +3089,7 @@ nutridynamics.ch
 nutriearth.ch
 nutrieasy.ch
 nutriella.ch
+nutrielle.ch
 nutriem.ch
 nutrience.ch
 nutrienergia.ch
@@ -3992,7 +3993,6 @@ nuvonda.ch
 nuvoni.ch
 nuvora.ch
 nuvordex.ch
-nuvoria.ch
 nuvoro-store.ch
 nuvoro.ch
 nuvosette.ch

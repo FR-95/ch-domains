@@ -12,6 +12,7 @@ he-bau.ch
 he-baumanagement.ch
 he-bro.ch
 he-bv.ch
+he-carrosserie.ch
 he-complete.ch
 he-con.ch
 he-decor.ch
@@ -4198,7 +4199,6 @@ hefti-uebersetzungen.ch
 hefti-verena.ch
 hefti-vital.ch
 hefti.ch
-heftiaufkurs.ch
 heftibb.ch
 heftig.ch
 heftigcidre.ch
@@ -7288,7 +7288,6 @@ heinza.ch
 heinzadank.ch
 heinzallemann-art.ch
 heinzampuls.ch
-heinzanderhalden.ch
 heinzandkraft.ch
 heinzart.ch
 heinzb.ch
@@ -8944,6 +8943,7 @@ heldentrainer.ch
 heldentraining.ch
 heldentrank.ch
 heldentum.ch
+heldenundlegenden.ch
 heldenunterwegs.ch
 heldenvoll.ch
 heldenwurzel.ch
@@ -10229,6 +10229,7 @@ hellbrothers.ch
 hellbuehl.ch
 hellbuehlerstrasse.ch
 hellbunt.ch
+hellcase.ch
 hellcloud.ch
 hellcom.ch
 helldesk.ch
@@ -13860,6 +13861,7 @@ helvinovadach.ch
 helvio.ch
 helvion-pure.ch
 helvion.ch
+helvionai.ch
 helvionics.ch
 helvionpartners.ch
 helvionpharma.ch
@@ -13888,6 +13890,7 @@ helvital.ch
 helvitech.ch
 helvitiait.ch
 helviticai.ch
+helvitiprint3d.ch
 helvitique.ch
 helvitron.ch
 helvium.ch
@@ -20877,7 +20880,6 @@ heuschnupfen-loswerden.ch
 heuschnupfen-therapie.ch
 heuschnupfen.ch
 heuschober.ch
-heuschrecke.ch
 heuschrecken.ch
 heusel.ch
 heuser-booking.ch
@@ -21482,7 +21484,6 @@ hexagon360.ch
 hexagon6.ch
 hexagonab.ch
 hexagonagriculture.ch
-hexagonal.ch
 hexagoncobra.ch
 hexagondev.ch
 hexagondigitalreality.ch

@@ -6,7 +6,6 @@ ah-art.ch
 ah-atelier.ch
 ah-autohandel.ch
 ah-bau.ch
-ah-bauberatung.ch
 ah-beratung.ch
 ah-beschriftung.ch
 ah-bilderpassion.ch
@@ -528,6 +527,7 @@ ahlwardt.ch
 ahm-ag.ch
 ahm-architectes.ch
 ahm.ch
+ahma.ch
 ahmad-benmrad.ch
 ahmad-tea.ch
 ahmad.ch

@@ -1099,6 +1099,7 @@ localtel.ch
 localtelefon.ch
 localtelsearch.ch
 localtherm.ch
+localthingzh.ch
 localticker.ch
 localtoday.ch
 localtouch.ch
@@ -6237,6 +6238,7 @@ lokalstark-emoos.ch
 lokalstark.ch
 lokalstern.ch
 lokalstolz.ch
+lokalstrom-luzern.ch
 lokalstrom-schweiz.ch
 lokalstrom.ch
 lokalstromnetz.ch
@@ -8256,6 +8258,7 @@ loopivo.ch
 loopix.ch
 looplab.ch
 looplabor.ch
+looplayer.ch
 loopless.ch
 loopli.ch
 looplight.ch
@@ -8663,6 +8666,7 @@ lor-energy.ch
 lor-espresso.ch
 lor-image.ch
 lor-trans.ch
+lor-vert.ch
 lor.ch
 lora-ai.ch
 lora-aprs.ch
@@ -8732,6 +8736,7 @@ lorangebleue.ch
 loranger-geneve.ch
 lorangeraie-rennaz.ch
 lorangeraie.ch
+lorangerie-ristorante-bar.ch
 lorangerie.ch
 lorangexpress.ch
 loranito.ch
@@ -11735,6 +11740,7 @@ louves.ch
 louvessence.ch
 louvet.ch
 louveteaux.ch
+louvia.ch
 louviadesign.ch
 louvie.ch
 louviere.ch

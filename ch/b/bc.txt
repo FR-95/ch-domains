@@ -39,6 +39,7 @@ bc-chasseral.ch
 bc-chatel.ch
 bc-chemie.ch
 bc-chur.ch
+bc-clean.ch
 bc-cleaningservices.ch
 bc-club.ch
 bc-coachingsportif.ch
@@ -180,6 +181,7 @@ bc-vision.ch
 bc-vista.ch
 bc-wagen.ch
 bc-web.ch
+bc-wilddogs.ch
 bc-winterthur.ch
 bc-wolhusen.ch
 bc-z.ch

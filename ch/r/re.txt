@@ -645,6 +645,7 @@ reading-socks.ch
 reading.ch
 readingcenter.ch
 readingprints.ch
+readingretreat.ch
 readingsbyramon.ch
 readingshoes.ch
 readingsocks.ch
@@ -3816,7 +3817,6 @@ receptionservice.ch
 receptionservices.ch
 receptly.ch
 recertification.ch
-recess.ch
 recessed-lids.ch
 recethal.ch
 recette-du-heros.ch
@@ -5895,7 +5895,6 @@ recuperersonex.ch
 recuperertva.ch
 recupero-crediti-svizzera.ch
 recupero-crediti.ch
-recupero-credito.ch
 recupero.ch
 recuperoauto.ch
 recuperodati-svizzera.ch
@@ -7765,6 +7764,7 @@ redro.ch
 redroc.ch
 redrock-bar.ch
 redrock-booking.ch
+redrock-eyewear.ch
 redrock-management.ch
 redrock.ch
 redrockadventures.ch
@@ -8334,6 +8334,7 @@ reel-moeller.ch
 reel-moller.ch
 reel-nkmnoell.ch
 reel-one.ch
+reel-raven.ch
 reel-rock.ch
 reel-shop.ch
 reel-vision.ch
@@ -9772,7 +9773,6 @@ refohreinigung.ch
 refohreinigungen.ch
 refold.ch
 refolio.ch
-refon.ch
 refona.ch
 refond.ch
 refondo.ch
@@ -13046,7 +13046,6 @@ regon.ch
 regonalwerke.ch
 regondi.ch
 regonius.ch
-regonsoc.ch
 regopir-hf.ch
 regopir.ch
 regor.ch
@@ -15232,6 +15231,7 @@ rein-prozess-technik.ch
 rein-sein.ch
 rein-service.ch
 rein-solar.ch
+rein-taxi.ch
 rein-wasser.ch
 rein-werk.ch
 rein.ch
@@ -18945,7 +18945,6 @@ relaxdays.ch
 relaxdogs.ch
 relaxdogshundepension.ch
 relaxdos.ch
-relaxe.ch
 relaxed-and-focused-it.ch
 relaxed-dogs.ch
 relaxed-leadership.ch
@@ -20353,7 +20352,6 @@ remington-products.ch
 remington.ch
 remini.ch
 reminiscence.ch
-reminiscences.ch
 reminyl.ch
 remio.ch
 remion-immo.ch
@@ -22891,6 +22889,7 @@ rengler.ch
 rengli-carriere.ch
 rengoo.ch
 rengucci.ch
+rengvano-pittura.ch
 rengy.ch
 renhetcm.ch
 renhotel.ch
@@ -24529,6 +24528,7 @@ rentability.ch
 rentabl.ch
 rentable.ch
 rentables.ch
+rentablu.ch
 rentabmwswitzerland.ch
 rentabo.ch
 rentaboard.ch
@@ -25099,6 +25099,7 @@ rentfair.ch
 rentfast.ch
 rentferrari.ch
 rentfirefly.ch
+rentfix.ch
 rentflatlausanne.ch
 rentflirt.ch
 rentflow.ch
@@ -25980,6 +25981,7 @@ reparateur-steiner.ch
 reparateur.ch
 reparateuriphone.ch
 reparateurlausanne.ch
+reparateurpcgeneve.ch
 reparateurs-suisse.ch
 reparateurs.ch
 reparateursolutionag.ch
@@ -26080,7 +26082,9 @@ reparationmac.ch
 reparationmobile.ch
 reparationmontre.ch
 reparationmontres.ch
+reparationordinateur.ch
 reparationordinateurgeneve.ch
+reparationpc-geneve.ch
 reparationpc.ch
 reparationpcgeneve.ch
 reparations-bateaux.ch
@@ -26583,6 +26587,7 @@ replicawatches.ch
 replicit.ch
 replifex.ch
 replight.ch
+replik.ch
 replika.ch
 replika3d.ch
 replikamodellbau.ch
@@ -28643,6 +28648,7 @@ residenzaalgrotto.ch
 residenzaalmolino.ch
 residenzaalparco.ch
 residenzaalsasso.ch
+residenzaamarillys.ch
 residenzaascona.ch
 residenzabella.ch
 residenzabelvedere.ch
@@ -28757,6 +28763,7 @@ residenzbroker.ch
 residenzcartau-alters-pflegeheim.ch
 residenzchlosterhof.ch
 residenzchurfirsten.ch
+residenze-amaryllis.ch
 residenze-geremeas.ch
 residenze-giardini.ch
 residenzebrenchio.ch
@@ -31237,7 +31244,6 @@ restaurant-krone.ch
 restaurant-kronenhof.ch
 restaurant-kropf.ch
 restaurant-kuh.ch
-restaurant-kuhhorn.ch
 restaurant-kunsteisbahn.ch
 restaurant-kunsthalle.ch
 restaurant-kuonimatt.ch
@@ -34036,6 +34042,7 @@ restopiscine.ch
 restoplage.ch
 restoplast.ch
 restopolitan.ch
+restoqr.ch
 restor.ch
 restora-atelier.ch
 restora-handwerk.ch
@@ -34198,7 +34205,6 @@ restrukturierungsmagazin.ch
 restrukturierungsmanager.ch
 restrukturierungspraxis.ch
 restschuldbefreiung.ch
-restseller.ch
 reststep.ch
 reststernen.ch
 reststoff-pool.ch
@@ -34906,7 +34912,6 @@ reto-imhof.ch
 reto-inderbitzin.ch
 reto-indergand.ch
 reto-jau.ch
-reto-kaelli.ch
 reto-kaempfer.ch
 reto-kaiser.ch
 reto-koch.ch
@@ -35410,7 +35415,6 @@ retoweiss.ch
 retowettstein.ch
 retowidmer.ch
 retowiedmer.ch
-retowiesmann.ch
 retowild.ch
 retowinkelmann.ch
 retowinkler.ch

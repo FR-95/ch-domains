@@ -1803,7 +1803,6 @@ societebiblique.ch
 societec.ch
 societecanine-fribourg.ch
 societecaninedegeneve.ch
-societecaninegeneve.ch
 societecaninelausannoise.ch
 societecavaleriefm.ch
 societeciviledigitale.ch
@@ -2036,6 +2035,7 @@ sockenswiss.ch
 sockenwelt.ch
 sockenweltrekord.ch
 sockenwolle.ch
+sockenwolleabo.ch
 socket.ch
 socketwen.ch
 sockewasser.ch
@@ -2876,6 +2876,7 @@ sofiaswiss.ch
 sofiavilela.ch
 sofibeco.ch
 sofibell.ch
+sofibio.ch
 sofibis.ch
 soficalatinfood.ch
 sofico.ch
@@ -4860,7 +4861,6 @@ soinsetservices.ch
 soinsfeepourtoi.ch
 soinsgrimm.ch
 soinsholistiques.ch
-soinsimmo.ch
 soinsinfinis.ch
 soinsintuitifs.ch
 soinsjobs.ch
@@ -5219,6 +5219,7 @@ sol42.ch
 sol4erp.ch
 sol4it.ch
 sol4u.ch
+sola-academy.ch
 sola-aegeri.ch
 sola-ar-sg.ch
 sola-coaching.ch
@@ -5241,6 +5242,7 @@ sola-nak.ch
 sola-pics.ch
 sola-propeinture.ch
 sola-renovation.ch
+sola-school.ch
 sola-schupfart.ch
 sola-sempach.ch
 sola-shop.ch
@@ -8284,6 +8286,7 @@ soleal-stables.ch
 soleal.ch
 solealiving.ch
 solealivingandmore.ch
+soleame.ch
 soleameilen.ch
 soleane.ch
 soleann.ch
@@ -8669,6 +8672,7 @@ soleviva.ch
 solevivo.ch
 solevo.ch
 solevogroup.ch
+solevyn.ch
 solewa-lego.ch
 solewa-store.ch
 solewa.ch
@@ -15068,6 +15072,7 @@ sonoloc.ch
 sonolog.ch
 sonologie.ch
 sonolux.ch
+sonoluxsuisse.ch
 sonom.ch
 sonoma.ch
 sonomag.ch
@@ -15707,6 +15712,7 @@ sophie-dupont.ch
 sophie-ellen-frank.ch
 sophie-emmylou.ch
 sophie-energie.ch
+sophie-esthetique.ch
 sophie-everett.ch
 sophie-fischer.ch
 sophie-florence.ch
@@ -17694,7 +17700,6 @@ soscleaning.ch
 sosclear.ch
 soscledurgence.ch
 soscloud.ch
-soscoaching.ch
 soscocktails.ch
 soscode.ch
 soscommerce.ch
@@ -18148,6 +18153,7 @@ sot-fachverband.ch
 sot-medical.ch
 sot-te.ch
 sot.ch
+sota-prime.ch
 sota-shop.ch
 sota-wellness.ch
 sota.ch
@@ -18159,6 +18165,7 @@ sotallytober.ch
 sotam.ch
 sotamagazine.ch
 sotamedia.ch
+sotaprime.ch
 sotasky.ch
 sotassa.ch
 sotatabac.ch
@@ -18696,7 +18703,6 @@ soulclub.ch
 soulcoach.ch
 soulcoaching.ch
 soulcode.ch
-soulcodealchemy.ch
 soulcodebranding.ch
 soulcodedesign.ch
 soulcoffee.ch
@@ -20702,7 +20708,6 @@ sov.ch
 sov4.ch
 sov42.ch
 sova-advisory.ch
-sova-events.ch
 sova.ch
 sova360.ch
 sovabad.ch

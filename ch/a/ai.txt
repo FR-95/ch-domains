@@ -475,6 +475,7 @@ ai-jobcoach.ch
 ai-jobfinder.ch
 ai-jobportal.ch
 ai-jobs-portal.ch
+ai-jobs-schweiz.ch
 ai-jobs-switzerland.ch
 ai-jobs.ch
 ai-justice.ch
@@ -606,6 +607,7 @@ ai-nova.ch
 ai-now.ch
 ai-observatory.ch
 ai-observer.ch
+ai-offerte.ch
 ai-office-agent.ch
 ai-office.ch
 ai-officer.ch
@@ -838,7 +840,6 @@ ai-tool.ch
 ai-tools.ch
 ai-toolz.ch
 ai-trade.ch
-ai-trader.ch
 ai-trading.ch
 ai-trainer.ch
 ai-training.ch
@@ -1662,6 +1663,7 @@ aidbase.ch
 aidby.ch
 aidcam.ch
 aidchat.ch
+aidcom.ch
 aidcomm.ch
 aidcon.ch
 aidconsultancy.ch
@@ -2250,7 +2252,6 @@ aigeneratedcontent.ch
 aigenerator.ch
 aigenesis.ch
 aigeneva.ch
-aigenevadays.ch
 aigenic.ch
 aigenie.ch
 aigeniex.ch
@@ -2811,6 +2812,7 @@ ail-noir.ch
 ail-purtroppo.ch
 ail-rose.ch
 ail-service.ch
+ail-servizi.ch
 ail-swiss-austria-leasing.ch
 ail.ch
 aila-bambini.ch
@@ -2938,6 +2940,7 @@ ailnoy.ch
 ailo-stiftung.ch
 ailo-verein.ch
 ailo.ch
+ailoc.ch
 ailog.ch
 ailogo.ch
 ailogus.ch
@@ -3654,7 +3657,6 @@ aiphysio.ch
 aipi.ch
 aipia.ch
 aipic.ch
-aipicier.ch
 aipics.ch
 aipicture.ch
 aipiee.ch
@@ -6057,6 +6059,8 @@ aistream.ch
 aists.ch
 aistudio.ch
 aistudiobooth.ch
+aistudiomedia.ch
+aistudiomedialab.ch
 aistudios.ch
 aistudy.ch
 aistuff.ch

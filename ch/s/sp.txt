@@ -1403,7 +1403,6 @@ spaetig.ch
 spaetigmotorrad.ch
 spaetiholzbau.ch
 spaetiinnenausbau.ch
-spaetikiosk.ch
 spaetikonzeptag.ch
 spaetirecycling.ch
 spaetischaulager.ch
@@ -3520,6 +3519,7 @@ spc-ticino.ch
 spc-tooling.ch
 spc-zh.ch
 spc.ch
+spca.ch
 spcadn.ch
 spcafe.ch
 spcag.ch
@@ -7959,6 +7959,7 @@ spielgruppe-heggenhof.ch
 spielgruppe-hegi.ch
 spielgruppe-heimberg.ch
 spielgruppe-herbligen.ch
+spielgruppe-hermetschwil.ch
 spielgruppe-hettlingen.ch
 spielgruppe-heubuerzeli.ch
 spielgruppe-heubuerzli.ch
@@ -8954,7 +8955,6 @@ spielsparadies.ch
 spielspass-arnegg.ch
 spielspass.ch
 spielspassparty.ch
-spielspecht.ch
 spielsport-akademie.ch
 spielsport.ch
 spielsportagentur.ch
@@ -9329,7 +9329,6 @@ spiezer48er.ch
 spiezeragenda21.ch
 spiezerbucht.ch
 spiezerkulturnacht.ch
-spiezerkultursommer.ch
 spiezerli.ch
 spiezerorgelkonzerte.ch
 spiezertagung.ch
@@ -9910,6 +9909,7 @@ spinfusor.ch
 sping.ch
 spingler.ch
 spingrande.ch
+spingranny-casino.ch
 spingranny.ch
 spingranny1.ch
 spingrannycasino.ch
@@ -16537,7 +16537,6 @@ sportnahrung-wehle.ch
 sportnahrung.ch
 sportnahrung24.ch
 sportnahrungsmittel.ch
-sportnation.ch
 sportnative.ch
 sportnatur.ch
 sportnautic.ch
@@ -19082,7 +19081,6 @@ spreadex.ch
 spreadgroup.ch
 spreadit.ch
 spreadjoy.ch
-spreadlove.ch
 spreadlys.ch
 spreadmorelove.ch
 spreadoc.ch
@@ -19769,7 +19767,6 @@ sprintinhouse.ch
 sprintis.ch
 sprintix.ch
 sprintlab.ch
-sprintly.ch
 sprintmail.ch
 sprinto.ch
 sprintometer.ch
@@ -20545,6 +20542,7 @@ spur38.ch
 spurabbau-nein.ch
 spurbag.ch
 spurbar.ch
+spure.ch
 spuren-check.ch
 spuren-einer-familie.ch
 spuren-horizonte.ch

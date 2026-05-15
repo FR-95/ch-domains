@@ -2992,7 +2992,6 @@ pfister-wohnungen.ch
 pfister.ch
 pfisteraeschi.ch
 pfisterag.ch
-pfisterandfriends.ch
 pfisterarch.ch
 pfisteratelier.ch
 pfisterautotechnik-shop.ch
@@ -3751,7 +3750,6 @@ pflege-partner.ch
 pflege-personal-hf.ch
 pflege-personal.ch
 pflege-pfad.ch
-pflege-pilot.ch
 pflege-plattform.ch
 pflege-plus.ch
 pflege-point.ch
@@ -4335,7 +4333,6 @@ pflegepersonenvermittlung.ch
 pflegepfad.ch
 pflegepflaster.ch
 pflegepfote.ch
-pflegepilot.ch
 pflegeplaetze.ch
 pflegeplan.ch
 pflegeplanung.ch
@@ -4367,6 +4364,7 @@ pflegeprofis.ch
 pflegeprozess.ch
 pflegepunkt.ch
 pflegequalitaet.ch
+pflegequiz.ch
 pfleger-anstellen.ch
 pfleger-versichern.ch
 pfleger.ch
@@ -5065,6 +5063,7 @@ pfotenzeit-sarganserland.ch
 pfotenzeit.ch
 pfotenzeitlh.ch
 pfotenzentrale.ch
+pfotenzentrum-muensingen.ch
 pfotenzentrum-taegertschi.ch
 pfotenzentrum.ch
 pfotenzial.ch

@@ -626,7 +626,6 @@ atds.ch
 atdt.ch
 atdta.ch
 atdv.ch
-atdvwqm.ch
 atdw-cars.ch
 atdw.ch
 ate-bienne.ch
@@ -3941,6 +3940,7 @@ atelierlefil.ch
 atelierleichtesprache.ch
 atelierleitner.ch
 atelierlelac.ch
+atelierleman.ch
 atelierleo.ch
 atelierleonhard.ch
 atelierlepiccolecose.ch
@@ -7963,7 +7963,6 @@ atrea.ch
 atreacca.ch
 atreakka.ch
 atreashop.ch
-atreatforthesenses.ch
 atredici.ch
 atreeinafieldmusic.ch
 atrega.ch

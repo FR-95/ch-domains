@@ -1865,7 +1865,6 @@ skigolf.ch
 skigolo.ch
 skigondel.ch
 skigrim.ch
-skigrimentz.ch
 skigrips.ch
 skigstaad.ch
 skiguard.ch
@@ -3428,6 +3427,7 @@ skirentalzermatt.ch
 skirentzermatt.ch
 skiresort.ch
 skiresortcheck.ch
+skiresortposter.ch
 skiresorts.ch
 skiriege-auenstein.ch
 skiriege-oltingen.ch
@@ -4466,6 +4466,7 @@ skribble.ch
 skribe.ch
 skribex.ch
 skribo.ch
+skribr.ch
 skridoc.ch
 skrieger.ch
 skriegers.ch
@@ -5229,7 +5230,6 @@ skycruise.ch
 skycruises.ch
 skycube.ch
 skycycle.ch
-skyd.ch
 skydach.ch
 skydance.ch
 skydancer.ch

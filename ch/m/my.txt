@@ -675,6 +675,7 @@ my-fotobox.ch
 my-fotobuch.ch
 my-foundation.ch
 my-fourchette.ch
+my-fragrance.ch
 my-fram.ch
 my-frecem.ch
 my-freelance.ch
@@ -767,6 +768,7 @@ my-happening.ch
 my-happy-food.ch
 my-happy-home.ch
 my-happy-life.ch
+my-happy-menopause.ch
 my-happy-mind.ch
 my-happymind.ch
 my-happytravel.ch
@@ -1389,7 +1391,6 @@ my-products.ch
 my-profi.ch
 my-profiflitzer.ch
 my-profil.ch
-my-project.ch
 my-projects.ch
 my-prolog.ch
 my-promoshop.ch
@@ -2316,6 +2317,7 @@ myanmarsupport.ch
 myantaes.ch
 myantaesassurances.ch
 myanteis.ch
+myantiques.ch
 myants.ch
 myanusisbleeding.ch
 myanwalt.ch
@@ -2352,6 +2354,7 @@ myaquarium.ch
 myaquarylic.ch
 myaquila.ch
 myaquilana.ch
+myar-gmbh.ch
 myar.ch
 myara.ch
 myarc.ch
@@ -2970,7 +2973,6 @@ mybloom.ch
 mybloombox.ch
 myblooms.ch
 mybloomup.ch
-myblox.ch
 myblpk.ch
 myblu.ch
 myblue.ch
@@ -6268,6 +6270,7 @@ myhookup.ch
 myhop.ch
 myhope.ch
 myhopper.ch
+myhora.ch
 myhorgen.ch
 myhorion.ch
 myhorizon.ch
@@ -10294,6 +10297,7 @@ mysingleurlaub.ch
 mysinp.ch
 mysinyon.ch
 mysiren.ch
+mysirius.ch
 mysirnach.ch
 mysirup.ch
 mysisa.ch
@@ -10740,6 +10744,7 @@ mystery-butler.ch
 mystery-eater.ch
 mystery-entertainment.ch
 mystery-escaperoom.ch
+mystery-game.ch
 mystery-games.ch
 mystery-guest.ch
 mystery-hikes.ch
@@ -10931,7 +10936,6 @@ mystique.ch
 mystiquehall.ch
 mystiquemix.ch
 mystiqueroom.ch
-mystisch.ch
 mystische-kunstschule.ch
 mystische-regio.ch
 mystische-welt.ch

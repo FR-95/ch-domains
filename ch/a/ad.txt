@@ -37,7 +37,6 @@ ad-booster.ch
 ad-box.ch
 ad-brands.ch
 ad-claim.ch
-ad-clean.ch
 ad-coaching.ch
 ad-coiffure-esthetique.ch
 ad-commerce.ch
@@ -4038,6 +4037,7 @@ admin-spitex.ch
 admin-ssa.ch
 admin-stellen.ch
 admin-studio.ch
+admin-suisse.ch
 admin-support-online.ch
 admin-support-zumstein.ch
 admin-support.ch
@@ -4289,6 +4289,7 @@ adminova-services.ch
 adminova.ch
 adminovaai.ch
 adminover.ch
+adminpalaciossa.ch
 adminpanel.ch
 adminpartners.ch
 adminpassion.ch
@@ -4618,7 +4619,6 @@ adnura-shop.ch
 adnura.ch
 adnuviii.ch
 adnv.ch
-adnvape.ch
 adnvoyage.ch
 adnvoyages.ch
 adnvtourisme.ch

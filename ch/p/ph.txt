@@ -1998,7 +1998,6 @@ phi-lynh.ch
 phi-max.ch
 phi-mind.ch
 phi-network.ch
-phi-opportunity.ch
 phi-pharma.ch
 phi-power.ch
 phi-sigma.ch
@@ -3931,7 +3930,6 @@ phoenix-immobilier.ch
 phoenix-information-technologies.ch
 phoenix-innovation.ch
 phoenix-innovative-factory.ch
-phoenix-installationen.ch
 phoenix-institution.ch
 phoenix-insurance.ch
 phoenix-invest.ch
@@ -6684,6 +6682,7 @@ physio-animasana.ch
 physio-animaux-valais.ch
 physio-appenzellerland.ch
 physio-aquamed.ch
+physio-ar-aare.ch
 physio-araya.ch
 physio-arbon.ch
 physio-arcades.ch
@@ -8041,6 +8040,7 @@ physio-win.ch
 physio-winkler.ch
 physio-winter.ch
 physio-winterthur.ch
+physio-wintherthur.ch
 physio-winti.ch
 physio-wislig.ch
 physio-witikon.ch
@@ -8232,6 +8232,7 @@ physioapa.ch
 physioapm.ch
 physioapp.ch
 physioaquamed.ch
+physioaraare.ch
 physioarbon.ch
 physioareal.ch
 physioarena.ch

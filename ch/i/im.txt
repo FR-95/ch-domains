@@ -395,6 +395,7 @@ ima-ge.ch
 ima-gin.ch
 ima-huber.ch
 ima-management.ch
+ima-maternite.ch
 ima-medium.ch
 ima-olten.ch
 ima-rheinau-bd-zh.ch
@@ -2378,6 +2379,7 @@ imkerei-burkhardt.ch
 imkerei-businger.ch
 imkerei-corrado.ch
 imkerei-dietikon.ch
+imkerei-dietwiler.ch
 imkerei-dinkel.ch
 imkerei-dolder.ch
 imkerei-eberle.ch
@@ -4429,6 +4431,7 @@ immo2day.ch
 immo2f.ch
 immo2geneve.ch
 immo2go.ch
+immo2live.ch
 immo2mains.ch
 immo2rent.ch
 immo2u.ch
@@ -7780,6 +7783,7 @@ immoinfo.ch
 immoinfo24.ch
 immoinform.ch
 immoinfos.ch
+immoinfoswiss.ch
 immoing.ch
 immoinnovation.ch
 immoinserat.ch
@@ -8616,7 +8620,6 @@ immora.ch
 immoradar.ch
 immoradar24.ch
 immoradius.ch
-immorain-wyne.ch
 immorais.ch
 immorales.ch
 immorama.ch
@@ -9539,7 +9542,6 @@ immowecoag.ch
 immoweg.ch
 immowegmueller.ch
 immowehren.ch
-immoweis.ch
 immoweiss.ch
 immoweiterbildung.ch
 immowel.ch
@@ -9607,8 +9609,6 @@ immowinwin.ch
 immowir.ch
 immowirt.ch
 immowirtschaft.ch
-immowise.ch
-immowisse.ch
 immowissen-sonnenbau.ch
 immowissen360.ch
 immowitschi.ch
@@ -9871,7 +9871,6 @@ immuntherapie-krebs.ch
 immuntherapie-spengler.ch
 immuntherapie.ch
 immunwerkstatt.ch
-immuphytol.ch
 immur.ch
 immus.ch
 immusil.ch
@@ -10154,13 +10153,10 @@ imovis.ch
 imovo.ch
 imow.ch
 imowa.ch
-imoweis.ch
 imowel.ch
 imowerita.ch
 imowin.ch
 imowinner.ch
-imowise.ch
-imowisse.ch
 imox.ch
 imoxa.ch
 imoxel.ch
@@ -10473,7 +10469,6 @@ impactfulspeaking.ch
 impactfulspeakingschool.ch
 impactfund.ch
 impactfuture.ch
-impactgeneve.ch
 impactgolf.ch
 impactgovernance.ch
 impactgrischun.ch
@@ -10839,7 +10834,6 @@ imperialwealth.ch
 imperialworkout.ch
 imperialyt.ch
 imperian-group.ch
-imperian-personal.ch
 imperian.ch
 imperiar.ch
 imperiasystems.ch

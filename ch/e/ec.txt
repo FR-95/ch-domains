@@ -2445,7 +2445,6 @@ eco9.ch
 eco9sarl.ch
 ecoa.ch
 ecoab.ch
-ecoabo.ch
 ecoacademy.ch
 ecoach-jura.ch
 ecoach.ch
@@ -2490,7 +2489,6 @@ ecoatm.ch
 ecoatre.ch
 ecoautark.ch
 ecoauto.ch
-ecoautoabo.ch
 ecoautoclean.ch
 ecoautomobiles.ch
 ecoautonet.ch
@@ -4698,6 +4696,7 @@ econnect.ch
 econnectenergy.ch
 econnection.ch
 econnovation.ch
+econny.ch
 econo-we.ch
 econo.ch
 econochic.ch

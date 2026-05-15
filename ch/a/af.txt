@@ -288,6 +288,8 @@ afcustom.ch
 afczaech.ch
 afd-bedachungen.ch
 afd-fin.ch
+afd-methodologie.ch
+afd-methodology.ch
 afdanny.ch
 afdb.ch
 afdd.ch

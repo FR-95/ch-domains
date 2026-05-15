@@ -1041,7 +1041,6 @@ vogelschutzverein-kreuzlingen.ch
 vogelschutzverein.ch
 vogelscigars.ch
 vogelservice.ch
-vogelsicht.ch
 vogelspandau.ch
 vogelspandaupumpen.ch
 vogelspike.ch
@@ -1093,7 +1092,6 @@ vogelzug-almanach.ch
 vogeno.ch
 voges.ch
 vogese-rueche.ch
-vogesenstrasse.ch
 vogesenstube.ch
 vogeser.ch
 vogeserueche.ch
@@ -2312,6 +2310,7 @@ volantski.ch
 volapyk.ch
 volar.ch
 volaracing.ch
+volarch.ch
 volare-bern.ch
 volare-group.ch
 volare-waltenschwil.ch
@@ -6030,6 +6029,7 @@ vontscharner.ch
 vontsira.ch
 vonturm.ch
 vonundzu.ch
+vonuns.ch
 vonunsfuerdich.ch
 vonunterwegs.ch
 vonurbisch.ch
@@ -6897,6 +6897,7 @@ vorsorge-digital.ch
 vorsorge-einfach.ch
 vorsorge-erbrecht.ch
 vorsorge-erholung.ch
+vorsorge-etf.ch
 vorsorge-experte.ch
 vorsorge-experten.ch
 vorsorge-finanzen.ch
@@ -6940,6 +6941,7 @@ vorsorge-plattform.ch
 vorsorge-plus.ch
 vorsorge-portal.ch
 vorsorge-produkte.ch
+vorsorge-ratgeber.ch
 vorsorge-rechner.ch
 vorsorge-recht.ch
 vorsorge-saeule3a.ch

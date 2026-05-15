@@ -1253,6 +1253,7 @@ libreetvous.ch
 libref.ch
 librefinance.ch
 libreforme8.ch
+librego.ch
 libregraph.ch
 librehost.ch
 libreinformatique.ch
@@ -2279,6 +2280,7 @@ lichtnatur.ch
 lichtnelke.ch
 lichtner.ch
 lichtnest.ch
+lichtnetz-zentrum.ch
 lichtnetz.ch
 lichtnetz23.ch
 lichtnetzwerk.ch
@@ -6834,6 +6836,7 @@ light-art.ch
 light-as.ch
 light-at-heart.ch
 light-beamer.ch
+light-bee.ch
 light-beyond.ch
 light-bikes.ch
 light-bounce.ch
@@ -9353,7 +9356,6 @@ limeco2050.ch
 limecoabfall.ch
 limecoenergie.ch
 limecon.ch
-limeconcept.ch
 limecopower.ch
 limecore.ch
 limecorecycling.ch
@@ -12538,6 +12540,7 @@ lining-tech.ch
 lining.ch
 liningtech.ch
 linisbites.ch
+liniscleaning.ch
 linit.ch
 linita.ch
 liniten.ch
@@ -14296,7 +14299,6 @@ lionsclubzuerich.ch
 lionscoach.ch
 lionscomedy.ch
 lionsconnect.ch
-lionsconsulting.ch
 lionscreative.ch
 lionscup.ch
 lionsdarts.ch
@@ -15863,7 +15865,6 @@ liseroduitphoto.ch
 liseron.ch
 lisess.ch
 lisetech.ch
-liseterpoorten.ch
 lisetta-loretz.ch
 lisette-jensen.ch
 lisette-mueller.ch
@@ -17941,7 +17942,6 @@ liveatrazzia.ch
 liveatsunset.ch
 liveattheoffice.ch
 liveauction.ch
-liveauditions.ch
 liveauktion.ch
 liveaventure.ch
 liveband-agentur.ch
@@ -19323,7 +19323,6 @@ livingtech.ch
 livingtech360.ch
 livingtechengineering.ch
 livingtemple.ch
-livingthebestlife.ch
 livingthedream.ch
 livingthroughbooks.ch
 livingticino.ch
@@ -19585,6 +19584,7 @@ livos.ch
 livotido.ch
 livox.ch
 livplus.ch
+livq.ch
 livra-epicerie.ch
 livra-magasin.ch
 livra-restaurant.ch

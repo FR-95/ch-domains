@@ -5656,11 +5656,13 @@ andropolus.ch
 andros-be-nuts.ch
 andros-foodservice.ch
 andros-gourmand-vegetal.ch
+andros-health.ch
 andros-immobilien.ch
 andros.ch
 androsan.ch
 androschef.ch
 androsfoodservice.ch
+androshealth.ch
 androshop.ch
 androsoft.ch
 androspa.ch
@@ -10983,8 +10985,6 @@ anlasssicherheit.ch
 anlassstrom.ch
 anlasszurfreude.ch
 anlauf-services-and-products.ch
-anlauf-services-products.ch
-anlauf-servicesproducts.ch
 anlauf-sp.ch
 anlauf.ch
 anlaufpunkt.ch
@@ -14514,6 +14514,7 @@ antarcticresearch.ch
 antarctide.ch
 antarctis.ch
 antares-ag.ch
+antares-automation.ch
 antares-com.ch
 antares-informatik.ch
 antares-it.ch
@@ -15460,6 +15461,7 @@ antihaft.ch
 antihaftbeschichtungen.ch
 antihangover.ch
 antihanta.ch
+antihantavirus.ch
 antiheld.ch
 antihero.ch
 antiheroproductions.ch
@@ -15539,6 +15541,7 @@ antike-baustoffe.ch
 antike-beschlaege.ch
 antike-karussellpferde.ch
 antike-kronleuchter.ch
+antike-kunst.ch
 antike-moebel-restaurieren.ch
 antike-moebel.ch
 antike-mopeds.ch
@@ -16968,6 +16971,7 @@ anven.ch
 anventure.ch
 anveo.ch
 anver.ch
+anvere.ch
 anvero.ch
 anversa.ch
 anversahome.ch

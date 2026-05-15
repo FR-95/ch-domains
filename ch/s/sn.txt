@@ -124,6 +124,7 @@ snackbars.ch
 snackbartimeout.ch
 snackbarufo.ch
 snackbarvillage.ch
+snackbase.ch
 snackbeauregard.ch
 snackbee.ch
 snackbestellen.ch
@@ -194,6 +195,7 @@ snackmarly-marly.ch
 snackmat.ch
 snackmatic.ch
 snackmax.ch
+snackme-suisse.ch
 snackme.ch
 snackmix.ch
 snackmomente.ch
@@ -403,6 +405,8 @@ snapagency.ch
 snapandgo.ch
 snapandpunch.ch
 snapandshot.ch
+snapandsmile.ch
+snapandsmilefotobox.ch
 snapapp.ch
 snapbabes.ch
 snapbaby.ch
@@ -606,6 +610,7 @@ snapwatch.ch
 snapweb.ch
 snapwork.ch
 snapx.ch
+snapy.ch
 snapys.ch
 snapzpictures.ch
 snapzstudio.ch

@@ -77,6 +77,7 @@ b-art.ch
 b-assurances.ch
 b-at.ch
 b-atelier.ch
+b-athome.ch
 b-attitude-geneve.ch
 b-attitude.ch
 b-attitudes.ch
@@ -830,6 +831,7 @@ b-solved.ch
 b-sound.ch
 b-source.ch
 b-sp.ch
+b-space.ch
 b-spag.ch
 b-sparkle.ch
 b-speak.ch

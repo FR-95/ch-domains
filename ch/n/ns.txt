@@ -1550,6 +1550,7 @@ ns1.duotones.ch
 ns1.dustgroove.ch
 ns1.dwb.ch
 ns1.dynabyte.ch
+ns1.dynkit.ch
 ns1.e-b-p.ch
 ns1.e-bibliotg.ch
 ns1.e-depannages.ch
@@ -3512,6 +3513,7 @@ ns1.swissclouds.ch
 ns1.swisscum.ch
 ns1.swissdigicert.ch
 ns1.swissdigit.ch
+ns1.swissdruck24.ch
 ns1.swissfarming.ch
 ns1.swissfile.ch
 ns1.swissfintechinnovationlab.ch
@@ -4881,6 +4883,7 @@ ns2.dur.ch
 ns2.dustgroove.ch
 ns2.dwb.ch
 ns2.dynabyte.ch
+ns2.dynkit.ch
 ns2.e-b-p.ch
 ns2.e-depannages.ch
 ns2.e-future.ch
@@ -6763,6 +6766,7 @@ ns2.swisscloudhosting.ch
 ns2.swissclouds.ch
 ns2.swisscum.ch
 ns2.swissdigit.ch
+ns2.swissdruck24.ch
 ns2.swisselectricity.ch
 ns2.swissfarming.ch
 ns2.swissfintechinnovationlab.ch
@@ -8880,6 +8884,7 @@ nsweb.ch
 nswiss.ch
 nswit.ch
 nswow.ch
+nsws.ch
 nsx.ch
 nsx.claubscher.ch
 nsx.laubschernet.ch

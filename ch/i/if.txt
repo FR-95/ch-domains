@@ -163,6 +163,7 @@ ifc-ag.ch
 ifc-bim.ch
 ifc-check.ch
 ifc-ge.ch
+ifc-gsee.ch
 ifc-intern.ch
 ifc-lab.ch
 ifc-services.ch
@@ -179,6 +180,7 @@ ifcc-ie.ch
 ifccheck.ch
 ifccom.ch
 ifcenter.ch
+ifcgsee.ch
 ifchor.ch
 ifchorgalbraiths.ch
 ifchormt.ch

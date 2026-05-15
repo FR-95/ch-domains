@@ -1615,6 +1615,7 @@ slothi.ch
 slothive.ch
 slothmaster.ch
 slothunter.ch
+slothuntercasino.ch
 slothware.ch
 slothy.ch
 slotier.ch
@@ -2231,7 +2232,6 @@ sls-airport.ch
 sls-allround.ch
 sls-architecte.ch
 sls-cambridge.ch
-sls-charity.ch
 sls-connect.ch
 sls-gmbh.ch
 sls-lawyers.ch

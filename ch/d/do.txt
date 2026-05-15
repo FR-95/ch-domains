@@ -1943,6 +1943,8 @@ doerig-doerig.ch
 doerig-einbruchschutz.ch
 doerig-fenster.ch
 doerig-fisch.ch
+doerig-fortec-security.ch
+doerig-fortec.ch
 doerig-gartenbau.ch
 doerig-heizsysteme.ch
 doerig-invest.ch
@@ -1963,6 +1965,8 @@ doerigdoerig.ch
 doerigfenster.ch
 doerigfensterag.ch
 doerigfisch.ch
+doerigfortec.ch
+doerigfortecsecurity.ch
 doerigkaese.ch
 doerigmedien.ch
 doerigmetallbau.ch
@@ -1982,6 +1986,7 @@ doerken.ch
 doerks-consulting.ch
 doerks.ch
 doerksconsulting.ch
+doerksendigital.ch
 doerlemann-verlag.ch
 doerlemann.ch
 doerlemannverlag.ch
@@ -2247,6 +2252,7 @@ dog-turnier-zug.ch
 dog-ville.ch
 dog-vitalis.ch
 dog-vitality.ch
+dog-walk.ch
 dog-walker.ch
 dog-walkers.ch
 dog-wash.ch
@@ -4352,6 +4358,7 @@ dollycam.ch
 dollycas.ch
 dollycasino.ch
 dollycasinoch.ch
+dollycasinos.ch
 dollyhay.ch
 dollyhouse.ch
 dollykon.ch
@@ -5914,7 +5921,6 @@ domenic-schneider.ch
 domenic.ch
 domenica-ammann.ch
 domenica-chiesaviva.ch
-domenica-label.ch
 domenica.ch
 domenicadeimedia.ch
 domenicagottardo.ch
@@ -8058,7 +8064,11 @@ donatoren-club70.ch
 donatoren-ehcb.ch
 donatoren-ehcw.ch
 donatoren-fcf.ch
+donatoren-fcl.ch
+donatoren-fcl1895.ch
 donatoren-fcla.ch
+donatoren-fcliestal.ch
+donatoren-fcliestal1895.ch
 donatoren-klewenalp-stockhuette.ch
 donatoren-sjo.ch
 donatoren.ch
@@ -9514,6 +9524,7 @@ dorathedeepthroater.ch
 doratransports.ch
 dorau.ch
 doraus.ch
+doravpn.ch
 dorawa.ch
 dorawespi.ch
 dorayaki.ch
@@ -10514,6 +10525,7 @@ dorint.ch
 dorintresorts.ch
 dorinum.ch
 dorinvest.ch
+dorinyhome.ch
 dorio.ch
 dorion.ch
 doriot.ch
@@ -11015,7 +11027,6 @@ dornpointzuerich.ch
 dornpraxis.ch
 dornroeschen-wachgekuesst.ch
 dornroeschendvd.ch
-dornschild-consulting.ch
 dornschild.ch
 dornschliesse.ch
 dornschwanzagamen.ch
@@ -12505,6 +12516,7 @@ doutaz.ch
 doutdes.ch
 doute.ch
 douthiam.ch
+douve.ch
 douville.ch
 douw.ch
 douwat.ch

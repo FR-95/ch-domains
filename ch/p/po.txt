@@ -2,8 +2,10 @@ po-box.ch
 po-di.ch
 po-dusche.ch
 po-em.ch
+po-et-li.ch
 po-ja.ch
 po-k.ch
+po-li.ch
 po-m.ch
 po-mail.ch
 po-ostschweiz.ch
@@ -1445,6 +1447,7 @@ poetische-rosinen.ch
 poetisserie.ch
 poetitcraeperie.ch
 poetix.ch
+poetli.ch
 poetohneworte.ch
 poetomat.ch
 poetrice.ch
@@ -5677,6 +5680,7 @@ polygenschwyz.ch
 polygest.ch
 polygiene.ch
 polygl0ts.ch
+polyglobe.ch
 polyglot.ch
 polyglotchaininstitute.ch
 polyglotheroes.ch
@@ -6309,7 +6313,6 @@ pomino.ch
 pomkwo.ch
 pomkwopo.ch
 poml.ch
-pomm.ch
 pommac.ch
 pommade.ch
 pommadeauchou.ch
@@ -6418,7 +6421,6 @@ pomona-park.ch
 pomona-ratgeber.ch
 pomona-spirit.ch
 pomona-suisse.ch
-pomona-tippspiel.ch
 pomona-unnerwaegs.ch
 pomona.ch
 pomonaagentur.ch
@@ -9684,7 +9686,6 @@ portalesud.ch
 portalesulclima.ch
 portalet.ch
 portalfactory.ch
-portalfin.ch
 portalgeschichtebasel.ch
 portalgraubuenden.ch
 portalhaus.ch
@@ -12460,6 +12461,7 @@ poteriedes4cheminees.ch
 poteriedutunnel.ch
 poteries-artisanales.ch
 poterit.ch
+poterne.ch
 poteryves.ch
 potes-a-pattes.ch
 potes-au-feu.ch
@@ -13518,6 +13520,7 @@ powerasylant.ch
 poweratoffice.ch
 powerator.ch
 poweraufdauer.ch
+powerauto-exchange.ch
 powerauto.ch
 powerautomate.ch
 powerautomatedesktop.ch

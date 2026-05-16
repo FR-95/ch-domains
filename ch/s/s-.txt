@@ -123,7 +123,6 @@ s-boss.ch
 s-box.ch
 s-brass-o.ch
 s-brunner.ch
-s-bs.ch
 s-bt.ch
 s-buerki.ch
 s-bus.ch
@@ -478,6 +477,7 @@ s-lowtech.ch
 s-luce.ch
 s-lutze.ch
 s-lw.ch
+s-m-a.ch
 s-m-b-a.ch
 s-m-consulting.ch
 s-m-delcampo.ch

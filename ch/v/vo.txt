@@ -1639,7 +1639,6 @@ voicetrunk.ch
 voiceup.ch
 voiceupnow.ch
 voicevalue.ch
-voicevibe.ch
 voicevoyager.ch
 voicework.ch
 voiceworkers.ch
@@ -5162,6 +5161,7 @@ vonballmoos.ch
 vonballmoospartner.ch
 vonballmoossolar.ch
 vonban.ch
+vonbark.ch
 vonbarnekow.ch
 vonbartha.ch
 vonbauchzubauch.ch
@@ -5244,6 +5244,7 @@ vonburg-management.ch
 vonburg-outdoorkitchen.ch
 vonburg-solar.ch
 vonburg.ch
+vonburgarchitektur.ch
 vonburgbau.ch
 vonburggartenbau.ch
 vonburgmanagement.ch
@@ -7601,6 +7602,7 @@ vosperholding.ch
 vospharmaciensconseils.ch
 vosports.ch
 vosressources.ch
+voss-coaching.ch
 voss-consulting.ch
 voss-family.ch
 voss-farming.ch
@@ -8184,7 +8186,6 @@ vovd.ch
 vovesny-architecture.ch
 vovesny.ch
 vovi-ittigen.ch
-vovi.ch
 vovietnam-bern.ch
 vovietnam-geneve.ch
 vovietnam.ch

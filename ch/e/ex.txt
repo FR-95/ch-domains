@@ -1735,7 +1735,6 @@ eximias-solutions.ch
 eximias-web.ch
 eximias.ch
 eximiasprev.ch
-eximium.ch
 eximius.ch
 eximiuswine.ch
 eximm.ch
@@ -1928,6 +1927,8 @@ exklusiv-store.ch
 exklusiv-transport.ch
 exklusiv.ch
 exklusivankauf.ch
+exklusivauktion.ch
+exklusivauktionen.ch
 exklusivaviation.ch
 exklusivbad.ch
 exklusivbonsai.ch
@@ -4292,6 +4293,7 @@ expo-cars.ch
 expo-cosa.ch
 expo-cucine.ch
 expo-cuisines.ch
+expo-dieux.ch
 expo-digger.ch
 expo-dino.ch
 expo-door.ch

@@ -5497,7 +5497,6 @@ hairnut.ch
 hairoasis.ch
 hairobotics.ch
 hairofqueens.ch
-hairofswiss.ch
 hairotto.ch
 hairoyal.ch
 hairpalace.ch
@@ -6454,6 +6453,7 @@ halde14.ch
 halde20.ch
 halde4.ch
 haldebaden.ch
+haldebistro.ch
 haldecoiffeur.ch
 haldegalerie.ch
 haldegarte.ch
@@ -8500,6 +8500,7 @@ hammerli.ch
 hammerlisa.ch
 hammermaessig.ch
 hammermann.ch
+hammermaschinen.ch
 hammermetall.ch
 hammermetallbau.ch
 hammermetzg.ch
@@ -11906,7 +11907,6 @@ hanfthekebern.ch
 hanfthekewinterthur.ch
 hanftipp.ch
 hanftofu.ch
-hanftopia.ch
 hanftreff.ch
 hanftropfen.ch
 hanfu.ch
@@ -15477,7 +15477,6 @@ hardbrueggli.ch
 hardbrugg.ch
 hardbuehne.ch
 hardcase.ch
-hardcases.ch
 hardchor.ch
 hardcode.ch
 hardcoeur.ch
@@ -16554,6 +16553,7 @@ harmonieromande.ch
 harmonieroom.ch
 harmonies.ch
 harmoniesalgesch.ch
+harmoniesante.ch
 harmonieschiene.ch
 harmonieschmiede.ch
 harmoniesierungsinitiative.ch
@@ -16774,9 +16774,7 @@ harmorama.ch
 harmorizon.ch
 harmos.ch
 harmoscale.ch
-harmosia-immo.ch
 harmosia.ch
-harmosiaimmo.ch
 harmosweb.ch
 harmovia.ch
 harmoz.ch
@@ -17515,7 +17513,6 @@ harvestmoonhaven.ch
 harvestore.ch
 harvestory.ch
 harvestrepublic.ch
-harvestright.ch
 harvestshop.ch
 harvestventures.ch
 harvey-audio.ch
@@ -17629,6 +17626,7 @@ hasancandan.ch
 hasandemir.ch
 hasaneser.ch
 hasanexport.ch
+hasangambling.ch
 hasani-baukeramik.ch
 hasani-bodenbelaege.ch
 hasani-immobilien.ch
@@ -17954,6 +17952,7 @@ hashtag-studio.ch
 hashtag.ch
 hashtag85.ch
 hashtagagence.ch
+hashtagbeauty.ch
 hashtagbonheur.ch
 hashtagcine.ch
 hashtagcity.ch
@@ -19618,6 +19617,7 @@ haus-st-michael.ch
 haus-st-otmar.ch
 haus-stall-harmonisierung.ch
 haus-stammheim.ch
+haus-stauffacher.ch
 haus-steinfels.ch
 haus-stelz.ch
 haus-stil.ch
@@ -21360,6 +21360,7 @@ hausharmonisierung.ch
 haushaus.ch
 haushaut.ch
 haushebamme.ch
+hausheer-deutsch.ch
 hausheer-elektro.ch
 hausheer-holzbau.ch
 hausheer-metz.ch
@@ -21811,6 +21812,7 @@ hausratvergleich24.ch
 hausratversicherer.ch
 hausratversichern.ch
 hausratversicherung-direkt.ch
+hausratversicherung-schweiz.ch
 hausratversicherung-vergleich.ch
 hausratversicherung.ch
 hausratversicherung24.ch
@@ -21830,6 +21832,7 @@ hausreinigung.ch
 hausreinigungen.ch
 hausreinigungsdienst.ch
 hausreinigungsdienste.ch
+hausrenova.ch
 hausrenovation.ch
 hausrenovationen.ch
 hausrenovieren.ch
@@ -22932,6 +22935,7 @@ hautarzt-wohlen.ch
 hautarzt-zentrum.ch
 hautarzt-zentrumbern.ch
 hautarzt-zofingen.ch
+hautarzt-zuerich-eichner.ch
 hautarzt-zuerich.ch
 hautarzt-zuerichsee.ch
 hautarzt-zurich.ch
@@ -23383,6 +23387,7 @@ hautzentrumluzern.ch
 hautzentrumzuerich.ch
 hautzentrumzug.ch
 hautzone.ch
+hautzuerich.ch
 hauwe.ch
 hauweb.ch
 hauy.ch

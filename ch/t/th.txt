@@ -447,6 +447,7 @@ thaiessen-zuhause.ch
 thaiessen.ch
 thaiessenmalters.ch
 thaiestate.ch
+thaievents.ch
 thaiexpert.ch
 thaiexpress-food-entreprises.ch
 thaiexpress-food.ch
@@ -456,6 +457,7 @@ thaiexpressfood.ch
 thaifamily.ch
 thaiferien.ch
 thaifestival.ch
+thaifestivals.ch
 thaifestivalschweiz.ch
 thaiflowerspa.ch
 thaifood-catering.ch
@@ -2200,8 +2202,6 @@ the-flash-tattoo.ch
 the-flavour-kitchen.ch
 the-flechten-foundation.ch
 the-floor-innovation-group.ch
-the-floris-hotel.ch
-the-floris.ch
 the-florist.ch
 the-flow.ch
 the-flyfishers.ch
@@ -2404,6 +2404,7 @@ the-icon-rally.ch
 the-icon-rallye.ch
 the-icon.ch
 the-idfactory.ch
+the-immo-landman.ch
 the-impulse.ch
 the-in.ch
 the-incubator.ch
@@ -2566,6 +2567,7 @@ the-menopause-sherpa.ch
 the-mental-academy.ch
 the-mental-way-of-life.ch
 the-mental-way.ch
+the-mentor.ch
 the-menu.ch
 the-mesh.ch
 the-milfs.ch
@@ -5381,7 +5383,6 @@ thebreathingtree.ch
 thebreathlab.ch
 thebreathofthemind.ch
 thebreathstudio.ch
-thebreeze-bar.ch
 thebreeze-horgen.ch
 thebreeze-rocks.ch
 thebreeze.ch
@@ -6908,9 +6909,7 @@ thefloatinglamp.ch
 thefloor.ch
 thefloorinnovationgroup.ch
 theflorianfischer.ch
-thefloris.ch
 theflorisgroup.ch
-theflorishotel.ch
 theflorist.ch
 theflow-restaurant.ch
 theflow-talent.ch
@@ -7246,6 +7245,7 @@ thegeocoregroup.ch
 thegeoffreystoys.ch
 thegeorgousdog.ch
 thegerbers.ch
+thegerhardts.ch
 thegermanedit.ch
 thegermankitchen.ch
 thegestionadmin.ch
@@ -8522,6 +8522,7 @@ thelabmediagroup.ch
 thelaboratory.ch
 thelabproject.ch
 thelabs.ch
+thelabzuri.ch
 thelacestudio.ch
 thelacustre.ch
 theladies.ch
@@ -9920,6 +9921,7 @@ theoldstyler.ch
 theoleuthold.ch
 theolfactory.ch
 theolis.ch
+theolivegrove.ch
 theoliveoilco.ch
 theoliver.ch
 theolix.ch
@@ -13357,7 +13359,6 @@ theseedstore.ch
 theseiconsulting.ch
 theselected.ch
 theselection.ch
-theselfcareclub.ch
 theselfedit.ch
 theselfiebox.ch
 theselfloveclub.ch
@@ -13930,7 +13931,6 @@ thestudiobyselina.ch
 thestudioflowers.ch
 thestudioone.ch
 thestudiozh.ch
-thestudiozuerich.ch
 thestuhl.ch
 thesturzis.ch
 thestyle.ch
@@ -14141,6 +14141,7 @@ theswissspirit.ch
 theswissstandard.ch
 theswissstars.ch
 theswisssteakfrites.ch
+theswissstonecapital.ch
 theswissstudioplanner.ch
 theswisstable.ch
 theswissteasommelier.ch
@@ -16072,6 +16073,7 @@ thinking-for-victoria.ch
 thinking-hands.ch
 thinking-house.ch
 thinking-solar.ch
+thinking-up.ch
 thinking.ch
 thinkingabout.ch
 thinkingbeyonddomains.ch
@@ -16097,6 +16099,7 @@ thinkingspace.ch
 thinkingspot.ch
 thinkingthefuture.ch
 thinkingtoolsatschool.ch
+thinkingup.ch
 thinkinink.ch
 thinkink.ch
 thinkinnovation.ch
@@ -16638,7 +16641,6 @@ thm-bau.ch
 thm-group.ch
 thm-peinture.ch
 thm.ch
-thmad.ch
 thmail.ch
 thmar.ch
 thmarketz.ch
@@ -17736,7 +17738,6 @@ thomashoehle.ch
 thomashofer.ch
 thomashofstetter.ch
 thomashomes.ch
-thomashuber-psychotherapie.ch
 thomashuber.ch
 thomashuegli.ch
 thomashuesser.ch
@@ -19810,7 +19811,6 @@ thurgau-bodensee.ch
 thurgau-cloud.ch
 thurgau-dankt.ch
 thurgau-du-heimat.ch
-thurgau-elektrorent.ch
 thurgau-entruempelung.ch
 thurgau-grenadiers.ch
 thurgau-hotels.ch

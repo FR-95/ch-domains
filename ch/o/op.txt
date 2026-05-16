@@ -477,7 +477,6 @@ open-air-kino-zofingen.ch
 open-air-kino.ch
 open-air-kinos.ch
 open-air-tours.ch
-open-air-uster.ch
 open-air-wil.ch
 open-air-zofingen.ch
 open-air.ch
@@ -500,6 +499,7 @@ open-build.ch
 open-business-basel.ch
 open-business.ch
 open-c.ch
+open-call.ch
 open-campus.ch
 open-canoe.ch
 open-capital.ch
@@ -947,7 +947,6 @@ openairtheatre.ch
 openairtipp.ch
 openairtools.ch
 openairtours.ch
-openairuster.ch
 openairwettingen.ch
 openairwil.ch
 openairwildhaus.ch
@@ -1056,6 +1055,7 @@ openc.ch
 openca.ch
 opencaching.ch
 opencafe.ch
+opencall.ch
 opencampus.ch
 opencanoe.ch
 opencapital.ch
@@ -1270,7 +1270,6 @@ openfinance.ch
 openfinanceacademy.ch
 openfinanceexpert.ch
 openfinanceproject.ch
-openfirefestival.ch
 openfleet.ch
 openflex.ch
 openflightmap.ch
@@ -1760,6 +1759,7 @@ opensourced.ch
 opensourceexperte.ch
 opensourceforum.ch
 opensourcehub.ch
+opensourcelaw.ch
 opensourcemarketing.ch
 opensourceproject.ch
 opensourcery.ch
@@ -1814,6 +1814,7 @@ openswiss-rexhepi.ch
 openswiss.ch
 openswissbankaccount.ch
 openswisscompany.ch
+openswisslawfirm.ch
 openswissparking.ch
 openswit-ai.ch
 opensynaps.ch
@@ -2205,6 +2206,7 @@ operio.ch
 operioapp.ch
 operion.ch
 operionpartners.ch
+operiq.ch
 operis.ch
 operislogistique.ch
 operissima.ch
@@ -3108,6 +3110,7 @@ opsint.ch
 opsio.ch
 opsion.ch
 opsis.ch
+opskins.ch
 opslegal.ch
 opsmail.ch
 opsmailtest.ch
@@ -3422,6 +3425,7 @@ opticalairlines.ch
 opticalbonding.ch
 opticalcable.ch
 opticalcenter.ch
+opticalcraft.ch
 opticalexpress.ch
 opticalfiber.ch
 opticalflow.ch
@@ -4337,7 +4341,6 @@ optimum-import.ch
 optimum-institute.ch
 optimum-invest.ch
 optimum-kom.ch
-optimum-kuesnacht.ch
 optimum-management.ch
 optimum-maschinen.ch
 optimum-mfs.ch
@@ -4709,6 +4712,7 @@ optistarsarl.ch
 optistartech.ch
 optistop.ch
 optistore-designer.ch
+optistrom.ch
 optisuite.ch
 optisun.ch
 optisure.ch

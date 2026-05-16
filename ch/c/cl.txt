@@ -205,7 +205,6 @@ claimtrue.ch
 claimvita.ch
 claimworks.ch
 claimx.ch
-claimxpert.ch
 claimyourbrain.ch
 clainscig.ch
 clair-ag.ch
@@ -1233,6 +1232,7 @@ clashathon.ch
 clashbern.ch
 clashevent.ch
 clashgeneve.ch
+clashgg.ch
 clashheroes.ch
 clashofclan.ch
 clashofclans.ch
@@ -2502,6 +2502,7 @@ claudiaflisch.ch
 claudiafluri.ch
 claudiafopp.ch
 claudiafrancois2022.ch
+claudiafrauenfelder.ch
 claudiafrick.ch
 claudiafricker.ch
 claudiafriedli.ch
@@ -3022,6 +3023,7 @@ claudio.ch
 claudio1970.ch
 claudio8bit.ch
 claudioalberti.ch
+claudioambrosi.ch
 claudioambrosio.ch
 claudioamsler.ch
 claudioangelini.ch
@@ -6875,6 +6877,7 @@ clientes.ch
 clientevogestion.ch
 clientexcellence.ch
 clientexperience.ch
+clientexpert.ch
 clientfiles.ch
 clientfinder.ch
 clientflow.ch
@@ -8052,6 +8055,7 @@ cliniquedentairedepayerne.ch
 cliniquedentairedulac.ch
 cliniquedentairegeneve.ch
 cliniquedentairelancy.ch
+cliniquedentairelancybachet.ch
 cliniquedentairelausanneepalinges.ch
 cliniquedentairemorges.ch
 cliniquedentaireneuchatel.ch
@@ -8619,6 +8623,7 @@ clockdoc.ch
 clockguard.ch
 clockhouse.ch
 clockin.ch
+clockit.ch
 clockle.ch
 clocklounge.ch
 clockmaker.ch
@@ -8810,7 +8815,6 @@ clos-des-hetres.ch
 clos-des-lices.ch
 clos-des-marronniers.ch
 clos-des-moines.ch
-clos-des-pieces.ch
 clos-des-pierres.ch
 clos-des-rennauds.ch
 clos-domitia.ch

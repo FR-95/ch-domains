@@ -535,8 +535,10 @@ job-personal.ch
 job-perspectives.ch
 job-perspektive-wildenau.ch
 job-perspektive.ch
+job-pflegefachfrau.ch
 job-pharma.ch
 job-physio.ch
+job-physiotherapeut.ch
 job-physiotherapie.ch
 job-pilot.ch
 job-plattform.ch
@@ -547,6 +549,8 @@ job-portal.ch
 job-pot.ch
 job-price.ch
 job-produktion.ch
+job-psychologe.ch
+job-psychologie.ch
 job-punkt.ch
 job-push.ch
 job-putzfrau.ch
@@ -619,6 +623,8 @@ job-thurgau.ch
 job-ti.ch
 job-ticino.ch
 job-ticker.ch
+job-tierarzt-schweiz.ch
+job-tierarzt.ch
 job-tinder.ch
 job-tip.ch
 job-to.ch
@@ -627,6 +633,7 @@ job-too.ch
 job-tool.ch
 job-tools.ch
 job-tourism.ch
+job-tpa.ch
 job-trade.ch
 job-trail.ch
 job-trainer.ch
@@ -667,7 +674,6 @@ job-winner.ch
 job-winnerag.ch
 job-wohnung.ch
 job-yellowpages.ch
-job-z.ch
 job-zeiger.ch
 job-zeitung.ch
 job-zentralschweiz.ch
@@ -1113,6 +1119,7 @@ jobdoo.ch
 jobdoor-plus.ch
 jobdoor.ch
 jobdoorplus.ch
+jobdossier.ch
 jobdown.ch
 jobdress.ch
 jobdrin.ch
@@ -1783,6 +1790,7 @@ jobregistration.ch
 jobrelations.ch
 jobresponse.ch
 jobrestaurant.ch
+jobresto.ch
 jobrevolt.ch
 jobrevolution.ch
 jobrh.ch
@@ -1894,6 +1902,8 @@ jobs-gemeinde.ch
 jobs-geneva.ch
 jobs-geneve.ch
 jobs-genf.ch
+jobs-gesundheitsbereich.ch
+jobs-gesundheitswesen.ch
 jobs-glarus.ch
 jobs-gpt.ch
 jobs-graubuenden.ch
@@ -1950,6 +1960,7 @@ jobs-kreuzlingen.ch
 jobs-kriens.ch
 jobs-kv.ch
 jobs-la-chaux-de-fonds.ch
+jobs-labor.ch
 jobs-lancy.ch
 jobs-lausanne.ch
 jobs-lehrer.ch
@@ -1969,6 +1980,7 @@ jobs-maschinen-metall.ch
 jobs-match.ch
 jobs-mechaniker-schlosser-schweisser-dreher.ch
 jobs-medizin-schweiz.ch
+jobs-medizintechnik.ch
 jobs-metzgerhandwerk.ch
 jobs-meyrin.ch
 jobs-mit-gehaltsangabe.ch
@@ -1981,6 +1993,7 @@ jobs-montreux.ch
 jobs-more.ch
 jobs-movement.ch
 jobs-ms.ch
+jobs-mtra.ch
 jobs-mzisa-group.ch
 jobs-nachtschicht.ch
 jobs-netzwerk.ch
@@ -1997,12 +2010,14 @@ jobs-oberwallis.ch
 jobs-obwalden.ch
 jobs-olten.ch
 jobs-online.ch
+jobs-op.ch
 jobs-opfikon.ch
 jobs-ost.ch
 jobs-ostschweiz.ch
 jobs-personalberatungen.ch
 jobs-pflege.ch
 jobs-pharma-schweiz.ch
+jobs-physiotherapie.ch
 jobs-pilot.ch
 jobs-plattform.ch
 jobs-plus.ch
@@ -2013,6 +2028,7 @@ jobs-quereinsteiger.ch
 jobs-regional.ch
 jobs-remote.ch
 jobs-repol-wettingen-limmattal.ch
+jobs-rfp.ch
 jobs-rh.ch
 jobs-rito.ch
 jobs-romandie.ch
@@ -2064,6 +2080,7 @@ jobs-uri.ch
 jobs-uster.ch
 jobs-uzwil.ch
 jobs-valais.ch
+jobs-vat.ch
 jobs-vaud.ch
 jobs-vd.ch
 jobs-vernier.ch
@@ -4026,7 +4043,6 @@ joeri-bestattungen.ch
 joeri-immo.ch
 joeri-platten.ch
 joeri.ch
-joerimann-dokumentenmanagement.ch
 joerimann-gruppe.ch
 joerimann-immobilien.ch
 joerimann-schreinerei.ch
@@ -6711,6 +6727,7 @@ jonesjoos.ch
 joneslanglasalle.ch
 jonesmusic.ch
 jonespayroll.ch
+jonesthala.ch
 jonet.ch
 jonetsu.ch
 jonetsuclothes.ch

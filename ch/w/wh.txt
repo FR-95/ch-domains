@@ -35,6 +35,7 @@ wh40k.ch
 wh7.ch
 wha.ch
 whaaam.ch
+whaaaprod.ch
 whaaatapp.ch
 whaas.ch
 whab.ch
@@ -488,7 +489,6 @@ wheelie-king.ch
 wheelie.ch
 wheelieking.ch
 wheelieschule.ch
-wheelin.ch
 wheeling.ch
 wheelino.ch
 wheelio.ch
@@ -2018,6 +2018,7 @@ whitetiger.ch
 whitetigerfin.ch
 whitetime.ch
 whitetipracing.ch
+whitetortuga.ch
 whitetower-baden.ch
 whitetree.ch
 whitetruck-expedition.ch

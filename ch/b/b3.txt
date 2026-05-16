@@ -36,6 +36,7 @@ b3c.ch
 b3cc.ch
 b3cells.ch
 b3cgroup.ch
+b3communication.ch
 b3d-druck.ch
 b3d.ch
 b3dev.ch

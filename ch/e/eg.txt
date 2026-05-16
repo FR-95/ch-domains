@@ -1560,7 +1560,6 @@ egloff-city.ch
 egloff-cl.ch
 egloff-druck.ch
 egloff-engineering.ch
-egloff-es.ch
 egloff-gartenbau.ch
 egloff-gartendesign.ch
 egloff-gfk.ch
@@ -1946,7 +1945,6 @@ egret.ch
 egretail.ch
 egrevision.ch
 egrholding.ch
-egri.ch
 egricayir.ch
 egrifta.ch
 egrimaldi.ch

@@ -2757,6 +2757,7 @@ waidhof.ch
 waidistribution.ch
 waidli.ch
 waidmann.ch
+waidmannsheil-kalender.ch
 waidmannsheil.ch
 waidmarkt.ch
 waidmatt.ch
@@ -3065,7 +3066,6 @@ wakesurf-walensee.ch
 wakesurf24.ch
 wakesurfacademy.ch
 wakesurfe.ch
-wakesurfen-luzern.ch
 wakesurfen.ch
 wakesurfer.ch
 wakesurfers.ch
@@ -7423,7 +7423,6 @@ wanderbare-schweiz.ch
 wanderbarewunderwelt.ch
 wanderbegleitung.ch
 wanderbeizli.ch
-wanderberatung.ch
 wanderbild.ch
 wanderbilder.ch
 wanderbilderberg.ch
@@ -8060,6 +8059,7 @@ wandprinter.ch
 wandprinz.ch
 wandprofis.ch
 wandpuzzle.ch
+wandr.ch
 wandradiator.ch
 wandradiatoren.ch
 wandraum.ch
@@ -13329,7 +13329,6 @@ waychur.ch
 waycoaching.ch
 waycom.ch
 waydbrink.ch
-waydeev.ch
 wayden.ch
 waydo.ch
 waydoo.ch

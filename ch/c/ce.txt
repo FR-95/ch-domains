@@ -36,7 +36,6 @@ ce-massagesthera.ch
 ce-mt.ch
 ce-nails.ch
 ce-p.ch
-ce-personal.ch
 ce-plo.ch
 ce-pos.ch
 ce-praxistage.ch
@@ -384,7 +383,6 @@ ceciliabatista.ch
 ceciliabedding.ch
 ceciliabernasconi.ch
 ceciliabisi.ch
-ceciliabrenni.ch
 ceciliachiara.ch
 ceciliademarmels.ch
 ceciliaerwann.ch
@@ -394,7 +392,6 @@ ceciliagirard.ch
 ceciliagrados.ch
 ceciliahamel.ch
 ceciliahofer.ch
-ceciliaimages.ch
 ceciliajuliano.ch
 cecilialuxurygrooming.ch
 ceciliascraniosacraltherapie.ch
@@ -790,6 +787,7 @@ cee-dose.ch
 cee-kabel.ch
 cee-kabeltrommel.ch
 cee-line.ch
+cee-site.ch
 cee-steckdose.ch
 cee-stecker.ch
 cee-winkelkupplung.ch
@@ -5815,6 +5813,7 @@ cercaetrova.ch
 cercaimmobili.ch
 cercaimpiego.ch
 cercainfo.ch
+cercalo.ch
 cercami.ch
 cercamoney.ch
 cercane.ch
@@ -7312,6 +7311,7 @@ cetlemservic.ch
 cetlin.ch
 cetm.ch
 cetn.ch
+cetnik.ch
 ceto-solutions.ch
 ceto.ch
 cetoday.ch

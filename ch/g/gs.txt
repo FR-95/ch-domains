@@ -724,6 +724,7 @@ gsfp.ch
 gsfr.ch
 gsfranches-montagnes.ch
 gsfunds.ch
+gsg-ag.ch
 gsg-engadina.ch
 gsg-int.ch
 gsg-nein.ch
@@ -887,7 +888,9 @@ gslb.ch
 gsle.ch
 gsli.ch
 gslot.ch
+gslotcasino-ch.ch
 gslotcasino.ch
+gslots.ch
 gslp.ch
 gslpeseux.ch
 gslr.ch

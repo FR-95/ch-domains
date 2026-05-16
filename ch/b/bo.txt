@@ -2869,9 +2869,7 @@ bodyarmor.ch
 bodyart-bielbienne.ch
 bodyart.ch
 bodyartbypriska.ch
-bodyartglobal.ch
 bodyartsculpture.ch
-bodyartstudio.ch
 bodyartwork.ch
 bodyasante.ch
 bodyaspect.ch
@@ -3118,7 +3116,6 @@ bodyfuturo.ch
 bodygarage.ch
 bodygard.ch
 bodygee.ch
-bodygetik.ch
 bodyghostandsoul.ch
 bodyglam.ch
 bodyglo.ch
@@ -5916,6 +5913,7 @@ boldrini.ch
 boldrock.ch
 boldrprod.ch
 boldsales.ch
+boldsight.ch
 boldsolutions.ch
 boldspace.ch
 boldspaces.ch
@@ -6094,6 +6092,7 @@ boll-ingenieure.ch
 boll-solar.ch
 boll.ch
 bolla.ch
+bollabonzanigo.ch
 bollacarassina.ch
 bollacker.ch
 bollag-architekt.ch
@@ -9109,7 +9108,6 @@ bookalimo.ch
 bookamat.ch
 bookamodel.ch
 bookandcook.ch
-bookandfly.ch
 bookandplay.ch
 bookandstore.ch
 bookanexam.ch
@@ -12949,6 +12947,7 @@ bosservice.ch
 bosses.ch
 bosseshop.ch
 bosset.ch
+bossette.ch
 bossey.ch
 bossfamily.ch
 bossfdm.ch
@@ -13355,6 +13354,7 @@ botanicoteas.ch
 botanics.ch
 botanicstudio.ch
 botanicum.ch
+botanicumbar.ch
 botanicus-schaffhausen.ch
 botanicus.ch
 botanicy.ch
@@ -14055,6 +14055,7 @@ bou-druf.ch
 bou-obeid.ch
 bou-sol.ch
 bou.ch
+bou2s.ch
 boua.ch
 bouabbadi.ch
 bouabdallah.ch
@@ -14995,10 +14996,12 @@ boundaryscan.ch
 boundbymetal.ch
 boundcon.ch
 boundfactory.ch
+boundless-coffee.ch
 boundless-events.ch
 boundless-gmbh.ch
 boundless.ch
 boundlesscarrier.ch
+boundlesscoffee.ch
 boundlessconsultancy.ch
 boundlessevents.ch
 boundlesste.ch

@@ -761,7 +761,6 @@ etfberater.ch
 etfbitcoin.ch
 etfblog.ch
 etfbtc.ch
-etfcentral.ch
 etfda.ch
 etfdoc.ch
 etfeth.ch
@@ -3019,6 +3018,7 @@ etudeslb.ch
 etudesreconnues.ch
 etudesrussie.ch
 etudessecondaires.ch
+etudessport.ch
 etudestucky.ch
 etudethaler.ch
 etudetheurillat.ch

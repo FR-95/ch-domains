@@ -174,7 +174,6 @@ ki-communications.ch
 ki-community.ch
 ki-compliance-schweiz.ch
 ki-compliance.ch
-ki-consultant.ch
 ki-consulter.ch
 ki-consulting-schweiz.ch
 ki-consulting-zug.ch
@@ -1682,7 +1681,6 @@ kicompany.ch
 kicompliance.ch
 kicon.ch
 kiconsult.ch
-kiconsultant.ch
 kiconsulter.ch
 kiconsulting.ch
 kiconsulting24.ch
@@ -3526,6 +3524,7 @@ kiiaudio.ch
 kiib.ch
 kiic-ag.ch
 kiichin.ch
+kiidle.ch
 kiidoo.ch
 kiids.ch
 kiik.ch
@@ -6352,14 +6351,12 @@ kinderhort-praettigau.ch
 kinderhort-rapperswil-jona.ch
 kinderhort-teufen.ch
 kinderhort-urdorf.ch
-kinderhort-zuerich.ch
 kinderhort.ch
 kinderhorte.ch
 kinderhortolten.ch
 kinderhortshop.ch
 kinderhortsunshine.ch
 kinderhortwohlen.ch
-kinderhortzuerich.ch
 kinderhosen.ch
 kinderhospiz-bern.ch
 kinderhospiz-flamingo.ch
@@ -6817,7 +6814,6 @@ kinderlogo.ch
 kinderlogoluzern.ch
 kinderlogopaedie.ch
 kinderlogopaedieuster.ch
-kinderlogouster.ch
 kinderlos-wie-weiter.ch
 kindermachen.ch
 kindermagazin.ch
@@ -7252,7 +7248,6 @@ kinderrehabilitation-schweiz.ch
 kinderrehaschweiz.ch
 kinderrei.ch
 kinderreich.ch
-kinderreiseapotheke.ch
 kinderreisen.ch
 kinderreiten-felsberg.ch
 kinderreiten-lostorf.ch
@@ -10619,6 +10614,7 @@ kinyo.ch
 kinzel-jewelry.ch
 kinzel.ch
 kinzenba.ch
+kinzeno.ch
 kinzframe.ch
 kinzi.ch
 kinzo.ch
@@ -12453,6 +12449,7 @@ kirue.ch
 kiruma.ch
 kirumaconsulting.ch
 kiruna.ch
+kirvero-consulting.ch
 kirwald.ch
 kiry-tore.ch
 kis-ag.ch
@@ -13919,7 +13916,6 @@ kitakibiz.ch
 kitakicher-erbsen.ch
 kitakichererbsen.ch
 kitakiddi.ch
-kitakidolino.ch
 kitakidszone.ch
 kitakigazauberfloete.ch
 kitakind.ch

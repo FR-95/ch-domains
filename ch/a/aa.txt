@@ -32,6 +32,7 @@ aa-forum.ch
 aa-g.ch
 aa-gestion.ch
 aa-gifs.ch
+aa-globalmanagement.ch
 aa-group.ch
 aa-handwerk.ch
 aa-happiness.ch
@@ -615,6 +616,8 @@ aagile.ch
 aagipserbrueder.ch
 aagl-shop.ch
 aagl.ch
+aaglobal-management.ch
+aaglobalmanagement.ch
 aagm.ch
 aagmbh.ch
 aagmedical.ch
@@ -1777,6 +1780,7 @@ aareweg.ch
 aarewegleist-lyss.ch
 aarewelle.ch
 aarewerft.ch
+aarewerk.ch
 aarewohnraum.ch
 aarewohntraum.ch
 aarewood.ch
@@ -1807,7 +1811,6 @@ aargau-bewegt.ch
 aargau-dawillichsein.ch
 aargau-digital.ch
 aargau-echo.ch
-aargau-elektrorent.ch
 aargau-endreinigung.ch
 aargau-escape.ch
 aargau-events.ch
@@ -2154,6 +2157,7 @@ aargreinigung.ch
 aargus.ch
 aargusweb.ch
 aargv.ch
+aarhalde.ch
 aarhaug.ch
 aarhof-bellach.ch
 aarhof-zucht.ch

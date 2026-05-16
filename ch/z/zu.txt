@@ -1786,7 +1786,6 @@ zuerich-dutyfreestore.ch
 zuerich-eisschnelllauf.ch
 zuerich-elektriker.ch
 zuerich-elektro.ch
-zuerich-elektrorent.ch
 zuerich-emba.ch
 zuerich-endreinigung.ch
 zuerich-engineering.ch
@@ -2800,6 +2799,7 @@ zuerimitsabina.ch
 zuerimobil.ch
 zuerimomo.ch
 zuerimongos.ch
+zuerinaeschtli.ch
 zuerinails.ch
 zuerinet.ch
 zuerineu.ch
@@ -3269,7 +3269,6 @@ zug-domizil.ch
 zug-einzelfirma-eintragen.ch
 zug-einzelfirma-gruenden.ch
 zug-einzelfirma.ch
-zug-elektrorent.ch
 zug-endreinigung.ch
 zug-estate.ch
 zug-estates.ch
@@ -7544,6 +7543,7 @@ zuriexpress.ch
 zuriflex.ch
 zurifood.ch
 zurifoto.ch
+zurifrost.ch
 zurify.ch
 zuriga.ch
 zurigay.ch

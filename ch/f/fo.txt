@@ -633,7 +633,6 @@ focuswerk.ch
 focuswomanhealth.ch
 focuswomenhealth.ch
 focuswork.ch
-focusworks.ch
 focusyourenergy.ch
 focusyourvitamins.ch
 focuszone.ch
@@ -810,6 +809,7 @@ foerderband-service.ch
 foerderband.ch
 foerderband24.ch
 foerderbande.ch
+foerderbandlego.ch
 foerderbeitragbasel.ch
 foerderbuddy.ch
 foerdercockpit.ch
@@ -1561,6 +1561,7 @@ fokusbau-filisetti.ch
 fokusbau.ch
 fokusbaumanagement.ch
 fokusbaumensch.ch
+fokusbegleitung.ch
 fokusberatung.ch
 fokusberatungen.ch
 fokusbern.ch
@@ -5758,7 +5759,6 @@ foodthingzh.ch
 foodticino.ch
 foodticket.ch
 foodtime.ch
-foodtivism.ch
 foodtoday.ch
 foodtogo.ch
 foodtools.ch
@@ -7948,6 +7948,7 @@ forgeovelo.ch
 forgeprive.ch
 forgeprivee.ch
 forgereves.ch
+forgerie.ch
 forgeron-bergere.ch
 forgeron.ch
 forgerons.ch
@@ -8125,6 +8126,7 @@ form-emblematik.ch
 form-end.ch
 form-farbe.ch
 form-flow.ch
+form-follows-footprint.ch
 form-frei.ch
 form-gebung.ch
 form-group.ch
@@ -9222,6 +9224,8 @@ formfit.ch
 formflow.ch
 formflowcollective.ch
 formfollowsflow.ch
+formfollowsfootprint.ch
+formfollowsfunction.ch
 formforge.ch
 formforum.ch
 formfraesen.ch
@@ -9512,6 +9516,7 @@ formulare-chmedia.ch
 formulare-dreilinden.ch
 formulare-vitafutura.ch
 formulare.ch
+formularent.ch
 formularflow.ch
 formularhase.ch
 formulari.ch
@@ -10964,6 +10969,7 @@ fortune-foundation.ch
 fortune-funds.ch
 fortune-jack.ch
 fortune-strategique.ch
+fortune-wealth-group.ch
 fortune.ch
 fortunecapital.ch
 fortunecapitalservices.ch
@@ -12036,6 +12042,7 @@ foss-group.ch
 foss-innovation.ch
 foss.ch
 foss4g.ch
+fossa-bau.ch
 fossa.ch
 fossailing.ch
 fossati-architectes.ch
@@ -12960,6 +12967,7 @@ fotobox4you.ch
 fotobox92.ch
 fotoboxaarau.ch
 fotoboxaargau.ch
+fotoboxapp.ch
 fotoboxbasel.ch
 fotoboxbauer.ch
 fotoboxbern.ch
@@ -15028,7 +15036,6 @@ founderdocs.ch
 founderfox.ch
 founderful.ch
 foundergroup.ch
-founderio.ch
 founderion.ch
 founderlaun.ch
 founderlongevityclub.ch

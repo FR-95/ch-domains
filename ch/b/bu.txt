@@ -724,6 +724,7 @@ buchcheck24.ch
 buchchur.ch
 buchcity.ch
 buchclub-bern.ch
+buchclub-schweiz.ch
 buchclub-zuerich.ch
 buchclub.ch
 buchcommunity.ch
@@ -1559,6 +1560,7 @@ buchloch.ch
 buchloe-cars.ch
 buchloe-classics.ch
 buchlounge.ch
+buchly.ch
 buchma.ch
 buchmacher.ch
 buchmacherei.ch
@@ -6181,7 +6183,6 @@ buffalo-dancers.ch
 buffalo-grill.ch
 buffalo-salesacademy.ch
 buffalo-star.ch
-buffalo-technology.ch
 buffalo.ch
 buffalobag.ch
 buffaloband.ch
@@ -6573,6 +6574,7 @@ buhl-gruppe.ch
 buhl.ch
 buhle.ch
 buhlenberg.ch
+buhler-avocat.ch
 buhler-bache.ch
 buhler-baches-sur-mesure.ch
 buhler-baches.ch
@@ -6723,7 +6725,6 @@ build4.ch
 build4life.ch
 build4me.ch
 build4travel.ch
-build4you.ch
 buildabear.ch
 buildabearworkshop.ch
 buildabit.ch
@@ -6928,7 +6929,6 @@ buildingtogether.ch
 buildingtrust-ag.ch
 buildingtrust.ch
 buildingtrustag.ch
-buildingtrustinhealth.ch
 buildinguniverse.ch
 buildingup-ag.ch
 buildingup.ch
@@ -7173,6 +7173,7 @@ bukanzurich.ch
 bukarest.ch
 bukasta.ch
 bukaya.ch
+bukd.ch
 bukdaten.ch
 bukdesign.ch
 buke.ch
@@ -7479,6 +7480,7 @@ bullebox.ch
 bullebusinesscenter.ch
 bullecare.ch
 bullechess.ch
+bullecreative.ch
 bulleculture.ch
 bulledailes.ch
 bulledair.ch
@@ -8997,6 +8999,7 @@ buraluxcleaning.ch
 buramusig.ch
 buran.ch
 buranaka.ch
+burancasino-ch.ch
 burancasino.ch
 burando.ch
 burandoshipping.ch
@@ -11026,7 +11029,6 @@ burofurbauten.ch
 burofurguteideen.ch
 burog.ch
 burogate.ch
-burogo.ch
 burogris.ch
 burohelp.ch
 burok9.ch
@@ -11506,6 +11508,7 @@ buschag.ch
 buschan.ch
 buschangerbeck.ch
 buschauer-dental.ch
+buschauer-massagepraxis.ch
 buschauer.ch
 buschauffeur-sh.ch
 buschauffeur.ch
@@ -14527,6 +14530,7 @@ buuremetzgete.ch
 buuremusig-gilgebaerg.ch
 buuremusig-gossau-sg.ch
 buuremusig-gossau.ch
+buurenetz.ch
 buureradio.ch
 buureschinken.ch
 buureschueblig.ch

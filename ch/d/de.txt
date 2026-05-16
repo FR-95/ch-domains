@@ -149,7 +149,6 @@ de-marchi.ch
 de-marco.ch
 de-maria.ch
 de-marinis.ch
-de-marquet.ch
 de-martinis-photography.ch
 de-martinis.ch
 de-martino.ch
@@ -556,6 +555,7 @@ dealdone.ch
 dealdonkey.ch
 dealeaf.ch
 dealence.ch
+dealengine.ch
 dealer-info.ch
 dealer-news.ch
 dealer-os.ch
@@ -773,6 +773,7 @@ dealwatch.ch
 dealwithit.ch
 dealwithmeal.ch
 dealwoche.ch
+dealworld.ch
 dealx.ch
 dealy.ch
 dealys.ch
@@ -783,6 +784,7 @@ dealz.ch
 dealzarena.ch
 dealzilla.ch
 dealzona.ch
+dealzone.ch
 dealzone24.ch
 dealzoom.ch
 dealzy.ch
@@ -3162,10 +3164,8 @@ decroissance-alternatives.ch
 decroissance-bern.ch
 decroissance-non.ch
 decroissance-suisse.ch
-decroissance-vevey.ch
 decroissance.ch
 decroissancealternatives.ch
-decroissancevevey.ch
 decrousaz-ceramique.ch
 decrousaz.ch
 decroux.ch
@@ -3253,6 +3253,7 @@ dedalservices.ch
 dedalshop.ch
 dedalus-group.ch
 dedalus.ch
+dedalusdivers.ch
 dedalusgroup.ch
 dedalweeds.ch
 dedani.ch
@@ -5826,9 +5827,7 @@ dein-transformationscoach.ch
 dein-transport.ch
 dein-transporter.ch
 dein-traum-job.ch
-dein-traum-pflegeberuf.ch
 dein-traum.ch
-dein-traumberuf.ch
 dein-traumkleid.ch
 dein-traumraum.ch
 dein-traumschrank.ch
@@ -7472,7 +7471,6 @@ deintiercoach.ch
 deintierimfluss.ch
 deintierverstehen.ch
 deintimeout.ch
-deintinyhaus.ch
 deintisch.ch
 deintor.ch
 deintortenbild.ch
@@ -8510,6 +8508,7 @@ delaterrealatable.ch
 delateteaucoeur.ch
 delateteauxpieds.ch
 delatia.ch
+delationtheband.ch
 delatorre.ch
 delatour.ch
 delattre.ch
@@ -8604,6 +8603,7 @@ delconpetfood.ch
 delconseils.ch
 delcorazon.ch
 delcore.ch
+delcosmetic.ch
 delcostyle.ch
 delcourt.ch
 delcoy.ch
@@ -11048,6 +11048,7 @@ demander.ch
 demanderlalune.ch
 demandes-conges.ch
 demandes-oft.ch
+demandes.ch
 demandesubvention.ch
 demandethomas.ch
 demandevisa.ch
@@ -11135,8 +11136,6 @@ demarmelsit.ch
 demarne.ch
 demaro.ch
 demarquet.ch
-demarquetonline.ch
-demarquetworld.ch
 demarquez-vous.ch
 demarrer-business.ch
 demarrer.ch
@@ -11418,7 +11417,6 @@ demenz-beratung.ch
 demenz-bern.ch
 demenz-betreuung.ch
 demenz-bewegt.ch
-demenz-coaching.ch
 demenz-dialog.ch
 demenz-doc.ch
 demenz-entdecken.ch
@@ -13175,6 +13173,7 @@ denkraum-ow.ch
 denkraum-pflege.ch
 denkraum-schweiz.ch
 denkraum-test.ch
+denkraum-zurich.ch
 denkraum.ch
 denkraumgymnasium.ch
 denkraumhofmann.ch
@@ -15288,6 +15287,7 @@ depanfenetres-geneve.ch
 depanfenetres.ch
 depaninfo.ch
 depaninfovalais.ch
+depanit.ch
 depann-elec.ch
 depann-info.ch
 depannage-24.ch
@@ -15873,6 +15873,7 @@ depothuber.ch
 depotix.ch
 depotkasten.ch
 depotknonau.ch
+depotkonto.ch
 depotlab.ch
 depotlino.ch
 depotlogiciel.ch
@@ -16516,7 +16517,6 @@ der-ludwig.ch
 der-lueftungsreiniger.ch
 der-macher.ch
 der-maenner-coach.ch
-der-magische-rucksack.ch
 der-makler.ch
 der-malercoach.ch
 der-malerhosen.ch
@@ -16555,6 +16555,7 @@ der-mensch-in-seinem-zentrum.ch
 der-mensch.ch
 der-menschliche-faktor.ch
 der-mentalcoach.ch
+der-mentor.ch
 der-messias-komoedie.ch
 der-metallbauer.ch
 der-mietkoch.ch
@@ -20335,7 +20336,6 @@ desgrandchamps.ch
 desgrelets.ch
 desh.ch
 deshalb.ch
-deshaus.ch
 deshautsetdesailes.ch
 deshawresear.ch
 deshawresearch.ch
@@ -20871,6 +20871,7 @@ design911.ch
 designa.ch
 designable.ch
 designabo.ch
+designacademy.ch
 designacademy24.ch
 designacademyzurich.ch
 designaddict.ch
@@ -22169,6 +22170,7 @@ desireegastpar.ch
 desireegmuer.ch
 desireegood.ch
 desireeguzzo.ch
+desireehangartner.ch
 desireehess.ch
 desireehilscher.ch
 desireehofmann.ch
@@ -22513,6 +22515,7 @@ despontagri.ch
 despontin.ch
 despontoldtimer.ch
 despontsa.ch
+despossibles.ch
 despot.ch
 despotov.ch
 despottakeaway-lyss.ch
@@ -23264,6 +23267,7 @@ detective-badger.ch
 detective-blaireau.ch
 detective-ch.ch
 detective-conan.ch
+detective-conjugal.ch
 detective-geneve.ch
 detective-international.ch
 detective-investigator.ch

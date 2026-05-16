@@ -127,6 +127,7 @@ sm-world.ch
 sm-zentrale.ch
 sm-zimmer.ch
 sm-zuerich.ch
+sm0ke.ch
 sm0l.ch
 sm10km-uster.ch
 sm10m.ch
@@ -3270,7 +3271,6 @@ smartlox.ch
 smartlpd.ch
 smartlpp.ch
 smartls.ch
-smartlt.ch
 smartlueftung.ch
 smartlumbar.ch
 smartlun.ch
@@ -6795,6 +6795,7 @@ smprint.ch
 smpro.ch
 smpservices.ch
 smpsolutions.ch
+smpsuisse.ch
 smpt.ch
 smptec.ch
 smptreatment.ch
@@ -6901,6 +6902,7 @@ sms-prio.ch
 sms-pro.ch
 sms-rechtsanwaelte.ch
 sms-reinigung.ch
+sms-renovation.ch
 sms-revolution.ch
 sms-safari.ch
 sms-schoenenberger.ch
@@ -7140,7 +7142,6 @@ smt-ts.ch
 smt.ch
 smt188.ch
 smta-polesana.ch
-smta.ch
 smtal.ch
 smtalcom.ch
 smtc.ch

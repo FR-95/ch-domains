@@ -1957,6 +1957,7 @@ skiinstructor.ch
 skiinstructors.ch
 skiip.ch
 skiit.ch
+skijack.ch
 skijacke.ch
 skijaun.ch
 skijumpgiants.ch
@@ -2739,6 +2740,7 @@ skin-wonder.ch
 skin-xpert.ch
 skin-xpertch.ch
 skin-zero.ch
+skin-zuerich.ch
 skin.ch
 skin1004.ch
 skin2skin.ch
@@ -2864,6 +2866,7 @@ skinclear.ch
 skinclinic.ch
 skincliniclugano.ch
 skinclinik.ch
+skinclub.ch
 skincoach.ch
 skincode.ch
 skincollagen.ch

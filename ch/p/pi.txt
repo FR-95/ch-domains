@@ -146,6 +146,7 @@ piabovis.ch
 piabuerki.ch
 piabuob.ch
 piaca.ch
+piacafe.ch
 piacasanova.ch
 piacattin.ch
 piacca.ch
@@ -1499,6 +1500,7 @@ pickabike.ch
 pickablue.ch
 pickabrick.ch
 pickacar.ch
+pickadate.ch
 pickagenius.ch
 pickajob.ch
 pickalendar.ch
@@ -3715,7 +3717,6 @@ pikespeak.ch
 pikestorm.ch
 pikett-administrativhaft.ch
 pikett-asyl.ch
-pikett-dienst.ch
 pikett-fachanwalt-strafrecht.ch
 pikett-glattal.ch
 pikett-handwerker.ch
@@ -4192,6 +4193,7 @@ pilatesfehraltorf.ch
 pilatesfit.ch
 pilatesfitness.ch
 pilatesflow.ch
+pilatesflows-belp.ch
 pilatesflows-elfriede.ch
 pilatesflows-instructors.ch
 pilatesflows-leazoe.ch
@@ -4427,6 +4429,7 @@ pilatus-schliesstechnik.ch
 pilatus-security.ch
 pilatus-seilpark.ch
 pilatus-spitz.ch
+pilatus-sport.ch
 pilatus-steinteppich.ch
 pilatus-tandemflug.ch
 pilatus-taxi.ch
@@ -4606,7 +4609,6 @@ piletek.ch
 piletmaquettes.ch
 piletpartner.ch
 piletrenaud.ch
-piletta-zanin.ch
 pileus.ch
 pilf.ch
 pilger-amber.ch
@@ -5195,6 +5197,7 @@ pilzfrisch.ch
 pilzfuchs.ch
 pilzgarten.ch
 pilzgericht.ch
+pilzglueck.ch
 pilzgram.ch
 pilzh.ch
 pilzhandel.ch
@@ -6478,7 +6481,6 @@ pinkpizza.ch
 pinkplaza.ch
 pinkpoint.ch
 pinkpoker.ch
-pinkpomelo.ch
 pinkpona.ch
 pinkpony.ch
 pinkpool.ch
@@ -6871,7 +6873,6 @@ pinsmanagement.ch
 pinso.ch
 pinson.ch
 pinsonresident.ch
-pinsoteca.ch
 pinsource.ch
 pinsplit.ch
 pinsport.ch
@@ -7862,7 +7863,6 @@ pirl.ch
 pirlipi-pet-sitter.ch
 pirlo-magazine.ch
 pirlo.ch
-pirlotv.ch
 pirlouit.ch
 pirmin-aregger.ch
 pirmin-bischof.ch
@@ -12557,6 +12557,7 @@ pizzicotto.ch
 pizzicotto28.ch
 pizzikotto.ch
 pizzimenti.ch
+pizzini.ch
 pizzinini.ch
 pizzinis.ch
 pizzita.ch

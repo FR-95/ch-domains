@@ -459,6 +459,7 @@ ig-strasse-zuerich.ch
 ig-sud.ch
 ig-sulgenost.ch
 ig-sunnewis.ch
+ig-swiss-camino.ch
 ig-swisscowboy.ch
 ig-swissmade.ch
 ig-swissmetro-ng.ch
@@ -1897,6 +1898,7 @@ igvt.ch
 igvz.ch
 igw-schweiz.ch
 igw-uta.ch
+igw-walde.ch
 igw-zuerich.ch
 igw.ch
 igwab.ch

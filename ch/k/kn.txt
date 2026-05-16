@@ -224,7 +224,6 @@ knaust.ch
 knaute.ch
 knauth.ch
 knauthe.ch
-knautopflegen.ch
 knauts.ch
 knautsch-verlag.ch
 knautsch-verlaggmbh.ch
@@ -1596,6 +1595,7 @@ knowwhere.ch
 knowx.ch
 knowyourcatdna.ch
 knowyourchoice.ch
+knowyourclient.ch
 knowyourdata.ch
 knowyourdogdna.ch
 knowyourneighbour.ch

@@ -413,6 +413,7 @@ imabakids.ch
 imabis.ch
 imabureautechnique.ch
 imac-morgia.ch
+imac-secondlife.ch
 imac.ch
 imacademy.ch
 imacbond.ch
@@ -1373,6 +1374,7 @@ imbisswagen.ch
 imbkuhn.ch
 imblatt.ch
 imblauenatelier.ch
+imblauenhaus.ch
 imbli.ch
 imblick.ch
 imblickwinkel.ch
@@ -2347,6 +2349,7 @@ imker-hinwil.ch
 imker-horgen.ch
 imker-kurs.ch
 imker-laupen-erlach.ch
+imker-luzern.ch
 imker-marktplatz.ch
 imker-meilen.ch
 imker-passion.ch
@@ -2420,6 +2423,7 @@ imkerei-lehmann.ch
 imkerei-lehnherr.ch
 imkerei-lienhard.ch
 imkerei-luethi.ch
+imkerei-luzern.ch
 imkerei-mader.ch
 imkerei-manco.ch
 imkerei-marbach.ch
@@ -3384,6 +3388,7 @@ immo-checkup.ch
 immo-chlupf.ch
 immo-christho.ch
 immo-chur.ch
+immo-circle.ch
 immo-city.ch
 immo-clean.ch
 immo-click.ch
@@ -3735,6 +3740,7 @@ immo-klip.ch
 immo-koch.ch
 immo-kollerfamily.ch
 immo-kom.ch
+immo-kompass.ch
 immo-koncept.ch
 immo-kongress.ch
 immo-konrad.ch
@@ -4361,6 +4367,7 @@ immo-werdenberg.ch
 immo-werk.ch
 immo-werkraum.ch
 immo-werkstatt.ch
+immo-wert.ch
 immo-west.ch
 immo-widmer.ch
 immo-wil.ch
@@ -8901,6 +8908,7 @@ immoshots.ch
 immoshow.ch
 immosia.ch
 immosicht.ch
+immosid.ch
 immoside.ch
 immosieber.ch
 immosieger.ch
@@ -9027,7 +9035,6 @@ immostema.ch
 immostemaimmobilien.ch
 immostern.ch
 immostich-sa.ch
-immostiftung.ch
 immostile.ch
 immostim.ch
 immostluc.ch
@@ -10884,6 +10891,7 @@ imperiumindustriae.ch
 imperiumluxcom.ch
 imperiumpizzamore-wattwil.ch
 imperiumromanum.ch
+imperiumsignature.ch
 imperiumss.ch
 imperiumtaxi.ch
 imperiumtime.ch
@@ -12390,6 +12398,7 @@ impuls-zone.ch
 impuls-zusammenleben.ch
 impuls.ch
 impuls20.ch
+impuls2020.ch
 impuls24.ch
 impuls2b.ch
 impuls3.ch

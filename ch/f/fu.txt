@@ -2711,7 +2711,6 @@ funbase.ch
 funbasel.ch
 funbeachvolley.ch
 funbear.ch
-funbet.ch
 funbetcas.ch
 funbetch.ch
 funbike-center.ch
@@ -3660,7 +3659,6 @@ funke-richter.ch
 funke-sprung.ch
 funke-travel.ch
 funke.ch
-funkedupevents.ch
 funkeflug.ch
 funkegruppe.ch
 funkeinteriordesign.ch
@@ -4461,7 +4459,6 @@ fuqing.ch
 fur-consult.ch
 fur-eel-products.ch
 fur-ever-fantasy.ch
-fur-kinder-im-wallis.ch
 fur-shop.ch
 fur-sie.ch
 fur.ch
@@ -4550,6 +4547,7 @@ furf.ch
 furfarch.ch
 furfari.ch
 furfectmatch.ch
+furfet.ch
 furframes.ch
 furfree.ch
 furfur.ch
@@ -5308,6 +5306,8 @@ fusiondancestudios.ch
 fusiondancezurich.ch
 fusiondasie.ch
 fusionday.ch
+fusiondecommune.ch
+fusiondecommunes.ch
 fusiondesign.ch
 fusiondirectory.ch
 fusionenergy.ch
@@ -5722,7 +5722,6 @@ fussballrasen.ch
 fussballreisenonline.ch
 fussballreiseonline.ch
 fussballrondell.ch
-fussballschiri.ch
 fussballschueli.ch
 fussballschuh.ch
 fussballschuhe.ch

@@ -2,6 +2,7 @@ ez-3.ch
 ez-altdorf.ch
 ez-base.ch
 ez-day.ch
+ez-eli.ch
 ez-express.ch
 ez-fischen.ch
 ez-golf.ch

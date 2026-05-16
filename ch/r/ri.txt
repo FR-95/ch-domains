@@ -482,6 +482,7 @@ ricardo-gruppe.ch
 ricardo-help.ch
 ricardo-inserat.ch
 ricardo-inserate.ch
+ricardo-kauf.ch
 ricardo-kleinanzeigen.ch
 ricardo-massages.ch
 ricardo-moneyguard.ch
@@ -3083,7 +3084,6 @@ riesenarschlo.ch
 riesenart.ch
 riesenball.ch
 riesenballone.ch
-riesenbasel.ch
 riesenberg.ch
 riesenblumen.ch
 riesenbrezel.ch
@@ -5593,7 +5593,9 @@ ripara.ch
 riparami.ch
 riparare.ch
 riparasito.ch
+riparatore.ch
 riparatori.ch
+riparatoro.ch
 riparatutti.ch
 riparatutto.ch
 riparauto.ch
@@ -5766,6 +5768,7 @@ ripware.ch
 ripz.ch
 ripzone.ch
 riq.ch
+riqavo.ch
 riqs-test.ch
 riqs.ch
 riqualifica.ch
@@ -6701,7 +6704,6 @@ ristorante-caesars.ch
 ristorante-cambrena.ch
 ristorante-campofelice.ch
 ristorante-capri-aarau.ch
-ristorante-capriccio.ch
 ristorante-carmela.ch
 ristorante-caruso.ch
 ristorante-casa-mia-hoeri.ch
@@ -7354,7 +7356,6 @@ rita-rusterholz.ch
 rita-s.ch
 rita-sauter.ch
 rita-scherrer.ch
-rita-schiavi.ch
 rita-schlapbach.ch
 rita-schmid.ch
 rita-schmucki.ch
@@ -8657,7 +8658,6 @@ riverside-lifestyle.ch
 riverside-living.ch
 riverside-lodge.ch
 riverside-lounge.ch
-riverside-office.ch
 riverside-pb.ch
 riverside-productions.ch
 riverside-projects.ch

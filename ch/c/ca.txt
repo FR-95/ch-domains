@@ -211,7 +211,6 @@ caar.ch
 caaran.ch
 caarco.ch
 caard.ch
-caare.ch
 caarecollective.ch
 caargroup.ch
 caars.ch
@@ -256,6 +255,7 @@ cab-ly.ch
 cab-motoworks.ch
 cab-org.ch
 cab-ost-perolles.ch
+cab-perspectives.ch
 cab-psy-appl.ch
 cab-schweiz.ch
 cab-taxi.ch
@@ -2977,6 +2977,7 @@ cafard-blatte.ch
 cafard-geneve.ch
 cafaree.ch
 cafarli.ch
+cafarov.ch
 cafart.ch
 cafarte.ch
 cafarteaneuch.ch
@@ -3439,6 +3440,7 @@ cafealexander.ch
 cafealma.ch
 cafealmadepasion.ch
 cafeambach.ch
+cafeambiente.ch
 cafeambrosia.ch
 cafeamgleis.ch
 cafeami.ch
@@ -4000,6 +4002,7 @@ cafepavillon.ch
 cafepedal.ch
 cafepelikan.ch
 cafephilo.ch
+cafephilobrugg.ch
 cafephin.ch
 cafepiacere.ch
 cafeplace.ch
@@ -6953,6 +6956,7 @@ calmflow.ch
 calmgard.ch
 calmhaus.ch
 calmheart.ch
+calmhelvet.ch
 calmholidays.ch
 calmia.ch
 calmina.ch
@@ -11108,6 +11112,7 @@ canadagoose.ch
 canadagooseherren.ch
 canadalife.ch
 canadamark.ch
+canadamexicousa2026.ch
 canadasuisse.ch
 canadatravel.ch
 canadea.ch
@@ -12249,6 +12254,7 @@ caniscienta.ch
 canisco.ch
 canisconcept.ch
 caniscout.ch
+caniscowork.ch
 caniscura.ch
 canisdetection.ch
 canisens.ch
@@ -13297,6 +13303,7 @@ cantaarini.ch
 cantaarte.ch
 cantabella.ch
 cantabile.ch
+cantabria.ch
 cantabro.ch
 cantacanti.ch
 cantacuore.ch
@@ -13600,6 +13607,7 @@ cantinetta-joe-vanni.ch
 cantinetta-joevanni.ch
 cantinetta.ch
 cantinettabalmelli.ch
+cantinho-portugues.ch
 cantini-eng.ch
 cantini.ch
 cantiniere.ch
@@ -13673,6 +13681,7 @@ cantonalwealth.ch
 cantonaria.ch
 cantonbaden.ch
 cantoncheck.ch
+cantoncompliancehub.ch
 cantone-libero.ch
 cantone-ticino.ch
 cantone.ch
@@ -14333,6 +14342,7 @@ capeherb.ch
 capehome.ch
 capehorn.ch
 capehouse.ch
+capeinvest.ch
 capek.ch
 capela.ch
 capelacamp.ch
@@ -15940,6 +15950,7 @@ capturewonders.ch
 capturex.ch
 capturiant.ch
 capturing-moments.ch
+capturing-the-senses.ch
 capturing.ch
 capturingmoments.ch
 capturis.ch
@@ -18586,6 +18597,7 @@ care4vision.ch
 care4web.ch
 care4you.ch
 care4yourbaby.ch
+care7.ch
 carea-design.ch
 carea-fassade.ch
 carea.ch
@@ -18761,6 +18773,7 @@ career-cheer.ch
 career-coa.ch
 career-coach.ch
 career-coaching.ch
+career-compass.ch
 career-concept.ch
 career-connect.ch
 career-consult.ch
@@ -18999,6 +19012,7 @@ careformance.ch
 careforme.ch
 careforpet.ch
 careforpets.ch
+careforplastic.ch
 careforthecarers.ch
 careforyou.ch
 carefox.ch
@@ -19109,7 +19123,6 @@ carelounge.ch
 carelparis.ch
 carelucerne.ch
 carelvetia.ch
-carely.ch
 carelyapp.ch
 carelynk.ch
 carelyse.ch
@@ -20644,6 +20657,7 @@ carliershop.ch
 carlife.ch
 carlife24.ch
 carlifornia.ch
+carlift.ch
 carlifting.ch
 carlige.ch
 carlight.ch
@@ -23048,6 +23062,7 @@ carreco.ch
 carrecornavin.ch
 carredanges.ch
 carredart.ch
+carredas.ch
 carredchoc.ch
 carredo.ch
 carreels.ch
@@ -23799,6 +23814,7 @@ carrosserie-promartin.ch
 carrosserie-putallaz.ch
 carrosserie-raynal.ch
 carrosserie-recto-verso.ch
+carrosserie-redline.ch
 carrosserie-relais.ch
 carrosserie-remoschmid.ch
 carrosserie-rheintal.ch
@@ -24208,6 +24224,7 @@ carrosseriepool.ch
 carrosserieprocar.ch
 carrosserier.ch
 carrosserieraf.ch
+carrosserieredline.ch
 carrosserieregamey.ch
 carrosserierepair4tcs.ch
 carrosseriereparatur.ch
@@ -25133,7 +25150,6 @@ carthagomed.ch
 carthagoswiss.ch
 carthair.ch
 cartheia-solarcarport.ch
-cartheigie.ch
 carthesio.ch
 cartho-bois.ch
 cartho.ch
@@ -29255,6 +29271,7 @@ cashpensionscoach.ch
 cashper.ch
 cashphone.ch
 cashpilot.ch
+cashpilotechr.ch
 cashplan.ch
 cashplus.ch
 cashpoint-geneve.ch
@@ -29392,7 +29409,6 @@ casimersen.ch
 casimi.ch
 casimir-m.ch
 casimir.ch
-casimirendingen.ch
 casimirmatter.ch
 casimirmoll.ch
 casimiro-avocat.ch
@@ -29796,6 +29812,7 @@ casinocasinia.ch
 casinocasino.ch
 casinocasoola.ch
 casinoch.ch
+casinochan-ch.ch
 casinochanz.ch
 casinochatbot.ch
 casinocheck.ch
@@ -30341,6 +30358,7 @@ caslano24.ch
 caslanobikerental.ch
 caslanoblues.ch
 caslanocasutt.ch
+caslanoworks.ch
 caslegaltech.ch
 caslex.ch
 casli.ch
@@ -32598,7 +32616,6 @@ catmueller.ch
 catmusic.ch
 catna.ch
 catnanny-bern.ch
-catnanny.ch
 catnannybern.ch
 catnannyzueri.ch
 catnannyzuerich.ch
@@ -33331,6 +33348,7 @@ cavalvita.ch
 cavamieux.ch
 cavanauto.ch
 cavanha.ch
+cavanis.ch
 cavann.ch
 cavansite.ch
 cavantis.ch

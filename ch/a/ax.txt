@@ -786,6 +786,7 @@ axi.ch
 axia-advisory.ch
 axia-cautionnement.ch
 axia-immobilien.ch
+axia-jobs.ch
 axia.ch
 axiaclients.ch
 axiaconsulting.ch
@@ -1156,6 +1157,7 @@ axo.ch
 axoa.ch
 axoactive.ch
 axoba.ch
+axobook.ch
 axobyte.ch
 axocon.ch
 axodevlabs.ch

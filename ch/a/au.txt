@@ -1010,6 +1010,7 @@ auctiones.ch
 auctiongeneva.ch
 auctionhome.ch
 auctionhouse.ch
+auctionhub.ch
 auctionhunter.ch
 auctionic.ch
 auctionis.ch
@@ -2386,6 +2387,7 @@ audrey-golightly.ch
 audrey-huguenin.ch
 audrey-instructeurcanin.ch
 audrey-lecomte.ch
+audrey-lincoln.ch
 audrey-orthobionomy.ch
 audrey-selim.ch
 audrey-test-domaine.ch
@@ -5667,8 +5669,10 @@ auktionen.ch
 auktionen24.ch
 auktionenonline.ch
 auktionenschweiz.ch
+auktionenswiss.ch
 auktionenvogler.ch
 auktionitis.ch
+auktionjetzt.ch
 auktionnexus.ch
 auktiono.ch
 auktiononline.ch
@@ -5702,12 +5706,16 @@ auktionsjaeger.ch
 auktionskatalog.ch
 auktionsknaller.ch
 auktionsmakler24.ch
+auktionsmarkt.ch
+auktionsnetzwerk.ch
 auktionspool.ch
+auktionsportal.ch
 auktionsservice.ch
 auktionsshow.ch
 auktionswall.ch
 auktionswiss.ch
 auktiontg.ch
+auktionwelt.ch
 auktionz.ch
 aukto.ch
 auktra.ch
@@ -6422,7 +6430,6 @@ aurag.ch
 auragast.ch
 aurageneva.ch
 aurageneve.ch
-auragetik.ch
 auraglas.ch
 auraglobe.ch
 auraglow.ch
@@ -6822,7 +6829,6 @@ aurelia.ch
 aureliaart.ch
 aureliaatelier.ch
 aureliablum.ch
-aureliaboutique.ch
 aureliabrenner.ch
 aureliaburlet.ch
 aureliaclarity.ch
@@ -7553,7 +7559,6 @@ auroraserver.ch
 auroraservice.ch
 aurorashop.ch
 auroraskyline.ch
-aurorasociety.ch
 aurorastore.ch
 aurorastp.ch
 auroraswitzerland.ch
@@ -9534,6 +9539,7 @@ autarkiemacher.ch
 autarkieportal.ch
 autarkinfo.ch
 autarking.ch
+autarkis.ch
 autarkkeiser.ch
 autarklab.ch
 autarkleben.ch
@@ -12259,7 +12265,6 @@ autocave.ch
 autocavin.ch
 autoccasion.ch
 autoccustom.ch
-autocdr.ch
 autocedre.ch
 autocenic.ch
 autocenter-aarau.ch
@@ -13879,6 +13884,7 @@ autoidat.ch
 autoident-shop.ch
 autoidlabs.ch
 autoifs.ch
+autoiliria.ch
 autoillustrierte.ch
 autoimabo.ch
 autoimage.ch
@@ -15820,10 +15826,10 @@ autoretail.ch
 autoretro.ch
 autoretro3d.ch
 autoretter.ch
+autorevenue.ch
 autoreves.ch
 autorevolution.ch
 autorevue.ch
-autorex-zuerich.ch
 autorex.ch
 autoria-verlag.ch
 autoria.ch
@@ -17453,6 +17459,7 @@ autoxchange.ch
 autoxclusive.ch
 autoxi.ch
 autoxlubricants.ch
+autoxp.ch
 autoxperience.ch
 autoxpert.ch
 autoxperts.ch

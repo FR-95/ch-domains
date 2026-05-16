@@ -2867,7 +2867,6 @@ indignatevi.ch
 indignum.ch
 indignus.ch
 indigo-ayurveda.ch
-indigo-bausysteme.ch
 indigo-beach.ch
 indigo-betten.ch
 indigo-ceylon.ch
@@ -8940,6 +8939,7 @@ infusionsstuhl.ch
 infusionstherapie-aarau.ch
 infusionstherapie.ch
 infusionszentrum.ch
+infusium.ch
 infusol.ch
 infuswiss.ch
 infuturaforum.ch
@@ -11592,6 +11592,7 @@ inn-transport.ch
 inn.ch
 inna-jakobson.ch
 inna-jockers-kosmetikerin-im-schloss.ch
+inna-tylkowski.ch
 inna.ch
 innabeauty.ch
 innabewegt.ch
@@ -11993,7 +11994,6 @@ inner.ch
 innera.ch
 innerabundance.ch
 inneraction.ch
-inneradvantage.ch
 inneralchemy.ch
 inneralp.ch
 inneranchor.ch
@@ -13777,7 +13777,6 @@ innovationskulturnavigator.ch
 innovationslabor.ch
 innovationsloft.ch
 innovationsmanagement.ch
-innovationsmethodenbaukasten.ch
 innovationsmonitor.ch
 innovationsnet.ch
 innovationsnetzwerk-ost.ch
@@ -14121,7 +14120,6 @@ innovius.ch
 innoviva.ch
 innoviz-lidar.ch
 innovize.ch
-innovizer.ch
 innovizn.ch
 innovjs.ch
 innovlab.ch
@@ -14270,6 +14268,7 @@ ino-bau.ch
 ino-co.ch
 ino-com.ch
 ino-conseil.ch
+ino-dms.ch
 ino-erlass.ch
 ino-immobilien.ch
 ino-kreativatelier.ch
@@ -20641,6 +20640,7 @@ inter-nez.ch
 inter-oasis.ch
 inter-office.ch
 inter-papier.ch
+inter-pares.ch
 inter-pension.ch
 inter-personal.ch
 inter-pizza-wabern.ch
@@ -22114,7 +22114,6 @@ interlocation.ch
 interlock.ch
 interlock24.ch
 interlockmed.ch
-interlog.ch
 interloglogistik.ch
 interlogserv.ch
 interlokal.ch
@@ -24021,6 +24020,9 @@ interwega.ch
 interwelten.ch
 interwerk.ch
 interwest-swiss.ch
+interweten-17.ch
+interweten-20.ch
+interweten-24.ch
 interweten12.ch
 interweten17.ch
 interweten18.ch
@@ -24033,13 +24035,19 @@ interweten24.ch
 interweten25.ch
 interwetenbet.ch
 interwetenonline.ch
+interwetenschweiz.ch
 interwett.ch
 interwette.ch
 interwetten-11.ch
 interwetten-17.ch
 interwetten-19.ch
 interwetten-20.ch
+interwetten-21.ch
+interwetten-22.ch
+interwetten-23.ch
 interwetten-24.ch
+interwetten-25.ch
+interwetten-26.ch
 interwetten-7.ch
 interwetten-casino.ch
 interwetten-ch.ch
@@ -25396,7 +25404,6 @@ invee.ch
 invega.ch
 inveim.ch
 inveion.ch
-invektris.ch
 invelio.ch
 invelis.ch
 invell-ag.ch

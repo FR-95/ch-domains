@@ -203,13 +203,11 @@ xn--4waldstttersee-cib.ch
 xn--4wellenlngenlaser-xqb.ch
 xn--4wrts-hra.ch
 xn--50-wka.ch
-xn--50findet-55a.ch
 xn--50flirts-55a.ch
 xn--50nuancesdegrs-7jb.ch
 xn--50plus-singlebrse-d0b.ch
 xn--50plussinglebrse-ywb.ch
 xn--50stellenmarkt-fsb.ch
-xn--50sucht-m2a.ch
 xn--55-wka.ch
 xn--5605hbel-b6a.ch
 xn--5drfer-xxa.ch
@@ -6486,6 +6484,7 @@ xn--bois-de-chemine-onb.ch
 xn--bois-de-chne-xeb.ch
 xn--bois-de-chnes-yhb.ch
 xn--boisdechne-t7a.ch
+xn--boisetlumire-6db.ch
 xn--boissons-rafrachissantes-8ic.ch
 xn--bolero-getrnke-gib.ch
 xn--bolero-getrnkepulver-lzb.ch
@@ -10437,6 +10436,7 @@ xn--clinique-sant-nhb.ch
 xn--clinique-vtrinaire-kwbb.ch
 xn--cliniquedumolson-nqb.ch
 xn--cliniqueesthtique-mtb.ch
+xn--cliniquelancybchet-vsb.ch
 xn--cliniquemolson-lkb.ch
 xn--cliniqueprive-mhb.ch
 xn--cliniquevtrinaire-jtbb.ch
@@ -14289,6 +14289,7 @@ xn--employs-suisse-gkb.ch
 xn--employssuisse-ghb.ch
 xn--employssuisses-gkb.ch
 xn--employsuisse-geb.ch
+xn--empreintedeux-xdb.ch
 xn--empreintemnage-kkb.ch
 xn--empreintemnages-knb.ch
 xn--empreintes-ergothrapie-r8b.ch
@@ -14643,8 +14644,6 @@ xn--erinnurgssttte-gib.ch
 xn--erkennen-beraten-verndern-4ec.ch
 xn--erkenntnisgrten-blb.ch
 xn--erklr-mir-mal-efb.ch
-xn--erklr-video-o8a.ch
-xn--erklr-videos-jcb.ch
 xn--erklrbild-y2a.ch
 xn--erklrbr-8wac.ch
 xn--erklrfilm-y2a.ch
@@ -16241,7 +16240,6 @@ xn--feuerwerk-ohne-lrm-0tb.ch
 xn--feuerwerkskrper-jtb.ch
 xn--feuz-gebudetechnik-stb.ch
 xn--feverte-bya.ch
-xn--fewo-bergfhre-rmb.ch
 xn--fewo-trumli-r8a.ch
 xn--feyco-gmligen-2ob.ch
 xn--ff-wka.ch
@@ -17674,6 +17672,7 @@ xn--frderapp-n4a.ch
 xn--frderatelier-4ib.ch
 xn--frderband-07a.ch
 xn--frderbande-ecb.ch
+xn--frderbandlego-imb.ch
 xn--frderbar-n4a.ch
 xn--frderbeitrge-pcb6v.ch
 xn--frderbnder-v5a4s.ch
@@ -20700,7 +20699,6 @@ xn--glactorten-e7a.ch
 xn--glaeser-mmliswil-rzb.ch
 xn--glamours-t4a.ch
 xn--glamurs-f1a.ch
-xn--glanette-fort-0hb.ch
 xn--glanzhsli-v9a.ch
 xn--glanzstck-w9a.ch
 xn--glanzstcke-geb.ch
@@ -20820,7 +20818,6 @@ xn--glckich-o2a.ch
 xn--glckimbauch-uhb.ch
 xn--glckimglas-beb.ch
 xn--glckistjetzt-elb.ch
-xn--glckkanja-r9a.ch
 xn--glckler-b1a.ch
 xn--glckli-4ya.ch
 xn--glcklich-24-uhb.ch
@@ -21321,7 +21318,6 @@ xn--gmnder-4ya.ch
 xn--gmnderkeramik-xob.ch
 xn--gmnders-o2a.ch
 xn--gmont-bsa.ch
-xn--gmp-hoa.ch
 xn--gmperle-5wa.ch
 xn--gmr-bau-handwerk-kzb.ch
 xn--gmr-decor-r9a.ch
@@ -29964,8 +29960,6 @@ xn--kindergrtner-mcb.ch
 xn--kindergrtnerin-cib.ch
 xn--kindergynkologie-winterthur-jkc.ch
 xn--kinderhomopathie-uwb.ch
-xn--kinderhort-zrich-uzb.ch
-xn--kinderhortzrich-9vb.ch
 xn--kinderhotel-sdtirol-ibc.ch
 xn--kinderhotel-sterreich-sec.ch
 xn--kinderhotelsdtirol-x6b.ch
@@ -31702,6 +31696,7 @@ xn--krcken-4ya.ch
 xn--krcker-cua.ch
 xn--kreak-ova.ch
 xn--krearmli-b6a.ch
+xn--kreativ-egg-v8a.ch
 xn--kreativ-nschtli-8kb.ch
 xn--kreativ-wrchstatt-yqb.ch
 xn--kreative-glcksmomente-jic.ch
@@ -34649,6 +34644,7 @@ xn--lsch-max-n4a.ch
 xn--lschanlage-ecb.ch
 xn--lschanlagen-rfb.ch
 xn--lschanleitung-imb.ch
+xn--lschbar-90a.ch
 xn--lschblatt-07a.ch
 xn--lschconcept-rfb.ch
 xn--lschdecke-07a.ch
@@ -35540,6 +35536,7 @@ xn--maltherapie-kunsttherapie-zrich-fjd.ch
 xn--maltherapie-zrich-f3b.ch
 xn--malvoz-dva.ch
 xn--malwrchstatt-jcb.ch
+xn--mam-0la.ch
 xn--mama-dpa.ch
 xn--mamacita-zrich-psb.ch
 xn--mamaglck-c6a.ch
@@ -39994,6 +39991,7 @@ xn--natur-dnger-zhb.ch
 xn--natur-ernhrung-eib.ch
 xn--natur-grten-r8a.ch
 xn--natur-grtner-mcb.ch
+xn--natur-kruter-ncb.ch
 xn--natur-ldeli-r8a.ch
 xn--natur-machtglcklich-ibc.ch
 xn--natur-schn-mcb.ch
@@ -44611,7 +44609,6 @@ xn--ptanque-chavornay-btb.ch
 xn--ptanque-chtillon-5mb0j.ch
 xn--ptanque-heitenried-bwb.ch
 xn--ptanque-les-poissonnet-b8b.ch
-xn--ptanque-les-poissonnets-bcc.ch
 xn--ptanquesoleure-bkb.ch
 xn--ptisserie-b2a.ch
 xn--ptisserie-ladure-wmb4l.ch
@@ -46857,6 +46854,7 @@ xn--roto-dachflchenfenster-b5b.ch
 xn--rotrcklein-hcb.ch
 xn--rotschimmermhne-clb.ch
 xn--rotseefhre-w5a.ch
+xn--rotseehhe-67a.ch
 xn--rotseemven-kcb.ch
 xn--rotseetftler-bjb.ch
 xn--rotsockbck-lcb.ch
@@ -47833,7 +47831,6 @@ xn--sagetreuhnder-jfb.ch
 xn--saghaft-7wa.ch
 xn--sagibchler-u5a.ch
 xn--sagibru-bxa.ch
-xn--sagmhltalk-t5a.ch
 xn--sagmu-jra.ch
 xn--sahnehubchen-lcb.ch
 xn--saienbrcke-geb.ch
@@ -48083,7 +48080,6 @@ xn--sanitr4you-u5a.ch
 xn--sanitrabazi-p8a.ch
 xn--sanitranhnger-ffbe.ch
 xn--sanitranlagen-ffb.ch
-xn--sanitrapp-z2a.ch
 xn--sanitrapparate-9hb.ch
 xn--sanitrausstellung-uqb.ch
 xn--sanitrausstellungen-kwb.ch
@@ -52645,6 +52641,7 @@ xn--spielgruppe-glcksbrli-n2b16c.ch
 xn--spielgruppe-glgglifrosch-yoc.ch
 xn--spielgruppe-hlderli-26b.ch
 xn--spielgruppe-hnibach-ibc.ch
+xn--spielgruppe-hslihpf-swb22c.ch
 xn--spielgruppe-hutligen-nzb.ch
 xn--spielgruppe-kinderknuel-f8b.ch
 xn--spielgruppe-mariachferli-8bc.ch
@@ -53341,6 +53338,7 @@ xn--stadtzrchermaroni-72b.ch
 xn--stadtzri-c6a.ch
 xn--stadtzrich-feb.ch
 xn--stadtzuhrerin-pmb.ch
+xn--stadtzwrgli-so-cib.ch
 xn--stafibru-6za.ch
 xn--stage-kidz-zrich-uzb.ch
 xn--stahl-kche-geb.ch
@@ -55025,6 +55023,7 @@ xn--taktgefhl-w9a.ch
 xn--talent-campus-grndenmoos-btc.ch
 xn--talent-campus-zrichsee-6lc.ch
 xn--talent-zrich-klb.ch
+xn--talentefrdieregion-t6b.ch
 xn--talentfrderung-1pb.ch
 xn--talgarage-urnsch-7nb.ch
 xn--talgarageurnsch-clb.ch
@@ -57693,6 +57692,7 @@ xn--unflle-dua.ch
 xn--unflle-heute-icb.ch
 xn--ungarbhl-c6a.ch
 xn--ungarischespezialitten-j5b.ch
+xn--ungehrt-e1a.ch
 xn--ungelst-xy-fricktal-u6b.ch
 xn--ungelstefamilienkonflikte-2rc.ch
 xn--ungerwx-bxa.ch
@@ -59237,7 +59237,6 @@ xn--wahrheit-verit-vrit-vardad-qec8wd.ch
 xn--wahrsagen-zrich-9vb.ch
 xn--wakeboard-zrichsee-w6b.ch
 xn--wakesurf-zrichsee-c3b.ch
-xn--wakesurfen-vierwaldstttersee-qnc.ch
 xn--wal-upcosmetics-dnb.ch
 xn--walchezrich-zhb.ch
 xn--wald-kche-v9a.ch
@@ -60585,6 +60584,7 @@ xn--wnschli-n2a.ch
 xn--wo-drckt-der-schuh-q6b.ch
 xn--wo-ist-es-khl-6ob.ch
 xn--wo-ist-kde-heb.ch
+xn--wobro-mva.ch
 xn--wochedesglcks-5ob.ch
 xn--wochenendausflge-wzb.ch
 xn--wochenendhuser-fib.ch
@@ -62344,6 +62344,7 @@ xn--zgerfrischkse-lfb36a.ch
 xn--zgerhonig-q9a.ch
 xn--zgerkche-65ae.ch
 xn--zgermofatechnik-zvb.ch
+xn--zgerrecovery-dlb.ch
 xn--zgeryachting-dlb.ch
 xn--zgerzahn-65a.ch
 xn--zgerzahntechnik-zvb.ch
@@ -63741,6 +63742,7 @@ xn--zrinetgroup-thb.ch
 xn--zrinews24-q9a.ch
 xn--zrinightlife-dlb.ch
 xn--zrinord-n2a.ch
+xn--zrinschtli-t5a8z.ch
 xn--zrinvest-65a.ch
 xn--zrioberland-fahrschule-slc.ch
 xn--zrioberland-gesellschaft-vsc.ch
@@ -64256,7 +64258,6 @@ xn--zzri-1ra.ch
 xn-pc.ch
 xn-swissco-y03c.ch
 xn3.ch
-xna.ch
 xnails.ch
 xnames.ch
 xnano.ch

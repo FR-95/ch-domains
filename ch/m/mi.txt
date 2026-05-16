@@ -788,7 +788,6 @@ mibo-gmbh.ch
 mibo.ch
 mibody.ch
 mibojets.ch
-mibomed.ch
 mibon.ch
 miborg.ch
 mibosa.ch
@@ -963,6 +962,8 @@ mice-access.ch
 mice-alps.ch
 mice-club.ch
 mice-desk.ch
+mice-hall-of-fame.ch
+mice-halloffame.ch
 mice-job.ch
 mice-jobs.ch
 mice-pilot.ch
@@ -1295,7 +1296,6 @@ michael-samir-abend.ch
 michael-santeler.ch
 michael-sauter.ch
 michael-sax.ch
-michael-schaefer.ch
 michael-schaeppi.ch
 michael-schaer.ch
 michael-schaerlig.ch
@@ -1334,6 +1334,7 @@ michael-tojner.ch
 michael-travels.ch
 michael-utecht.ch
 michael-utz.ch
+michael-varejcka-coaching.ch
 michael-verlemann-consulting.ch
 michael-vogt.ch
 michael-von-arx.ch
@@ -1385,7 +1386,6 @@ michaela-luechinger.ch
 michaela-meier.ch
 michaela-odermatt.ch
 michaela-pfister.ch
-michaela-photography.ch
 michaela-rodenburg.ch
 michaela-schaefer.ch
 michaela-schaerli.ch
@@ -1955,7 +1955,6 @@ michaelpfenning.ch
 michaelpfister.ch
 michaelphelpsswimspa.ch
 michaelphelpsswimspas.ch
-michaelphofmann.ch
 michaelphotography.ch
 michaelpiel.ch
 michaelpkaufmann.ch
@@ -2499,6 +2498,7 @@ michelanklin.ch
 michelanouchka.ch
 michelapp.ch
 michelaris.ch
+michelarolle.ch
 michelart.ch
 michelaseggiani.ch
 michelasilge.ch
@@ -3571,7 +3571,6 @@ micra.ch
 micracc.ch
 micrat.ch
 micrella.ch
-micreos.ch
 micrho.ch
 micrite.ch
 micro-angio.ch
@@ -9637,6 +9636,7 @@ miliboo.ch
 milibotics.ch
 milibruegger.ch
 milic-it.ch
+milic-ss.ch
 milic-transporte.ch
 milic.ch
 milica-bozic.ch
@@ -9820,7 +9820,6 @@ military-world-shop.ch
 military-world.ch
 military.ch
 military1st.ch
-militarycases.ch
 militarycross.ch
 militaryethics.ch
 militaryflo.ch
@@ -11497,6 +11496,7 @@ mind-body-therapy.ch
 mind-body.ch
 mind-bodyart.ch
 mind-bodycenter.ch
+mind-boost.ch
 mind-booster.ch
 mind-box.ch
 mind-bridge.ch
@@ -16062,6 +16062,7 @@ mir-gold.ch
 mir-guets.ch
 mir-gutes-tun.ch
 mir-haelfe.ch
+mir-hamza.ch
 mir-integration.ch
 mir-jam.ch
 mir-lieferet.ch
@@ -16144,7 +16145,6 @@ mira-yourway.ch
 mira-zeichnet.ch
 mira.ch
 mira26.ch
-miraa.ch
 miraadvisory.ch
 miraandcompany.ch
 miraassetmanagement.ch
@@ -16556,6 +16556,7 @@ mirandareinigung.ch
 mirandaroux.ch
 mirandas-nailcorner.ch
 mirandasculpt.ch
+mirandasoglueck.ch
 mirandaweb.ch
 mirandawidmer.ch
 mirandawinter.ch
@@ -17768,6 +17769,7 @@ miruminmodum.ch
 mirumo.ch
 mirumpharma.ch
 miruna.ch
+miruro.ch
 mirus-schweiz.ch
 mirus-swiss.ch
 mirus-tech.ch
@@ -18327,7 +18329,6 @@ misinovic.ch
 misinserat.ch
 mision-aargau.ch
 mision-basel.ch
-mision-basilea.ch
 mision-espanola-sg.ch
 misioncatolica.ch
 misioncatolicadelenguaespanolabs-bl.ch
@@ -19247,6 +19248,7 @@ mister-diy.ch
 mister-dj.ch
 mister-doityourself.ch
 mister-drink.ch
+mister-dtf.ch
 mister-etienne.ch
 mister-ev.ch
 mister-extravaganza.ch
@@ -20744,6 +20746,7 @@ mitronics.ch
 mitroom.ch
 mitropolitsky.ch
 mitros.ch
+mitrosolutions.ch
 mitrotherme.ch
 mitrovic.ch
 mitrovicmail.ch

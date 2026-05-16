@@ -356,7 +356,6 @@ academia-engiadina.ch
 academia-euregio.ch
 academia-global.ch
 academia-group.ch
-academia-gruppe.ch
 academia-gymnasium.ch
 academia-integration.ch
 academia-international.ch
@@ -2215,6 +2214,7 @@ acctrio.ch
 acctron.ch
 acctrust.ch
 accu-24.ch
+accu-band.ch
 accu-check.ch
 accu-checkconnect.ch
 accu-chek.ch
@@ -3606,7 +3606,6 @@ achtsamkeitscoaching-sg.ch
 achtsamkeitscoaching.ch
 achtsamkeitscou.ch
 achtsamkeitsfaktor.ch
-achtsamkeitsimpuls.ch
 achtsamkeitsinterozeption.ch
 achtsamkeitskurs.ch
 achtsamkeitskurse-zuerich.ch
@@ -5310,6 +5309,7 @@ acrozueri.ch
 acrozuri.ch
 acrphysio.ch
 acrpoker.ch
+acrpokercasino-ch.ch
 acrpro-sa.ch
 acrpro.ch
 acrprosa.ch

@@ -263,7 +263,6 @@ rc3d.ch
 rc40.ch
 rc4u.ch
 rc4wd.ch
-rc4you.ch
 rc8.ch
 rc88.ch
 rc9a864y.ch
@@ -693,7 +692,6 @@ rcpeptides.ch
 rcperf.ch
 rcplace.ch
 rcplus.ch
-rcpoint.ch
 rcpont.ch
 rcpp.ch
 rcpproducts.ch

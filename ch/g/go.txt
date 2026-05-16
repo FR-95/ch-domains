@@ -814,7 +814,6 @@ goalkeeper.ch
 goalkeeperjenny.ch
 goalkeeping.ch
 goalkick.ch
-goallin.ch
 goalline.ch
 goallover.ch
 goallydays.ch
@@ -2683,6 +2682,7 @@ gold-delikatessen.ch
 gold-deluxe.ch
 gold-deposito.ch
 gold-depot.ch
+gold-design.ch
 gold-designer.ch
 gold-detektor.ch
 gold-detektoren.ch
@@ -4068,6 +4068,7 @@ goldenseed.ch
 goldensence.ch
 goldenseniors.ch
 goldenserengeti.ch
+goldenserval.ch
 goldenservice.ch
 goldenserviceawards.ch
 goldenservicesge.ch
@@ -5533,6 +5534,7 @@ golf-haslital.ch
 golf-hauenstein.ch
 golf-haus.ch
 golf-hopper.ch
+golf-hotel-des-alpes.ch
 golf-hotel-montreux.ch
 golf-hotel.ch
 golf-hotels.ch
@@ -6861,6 +6863,7 @@ gomi.ch
 gomibo.ch
 gomila.ch
 gomilieu.ch
+gomilitar.ch
 gomimax.ch
 gomiminal.ch
 gomimosa.ch
@@ -7746,6 +7749,7 @@ goodeye.ch
 goodfair.ch
 goodfam.ch
 goodfamily.ch
+goodfarmfood.ch
 goodfarming.ch
 goodfashioninstitute.ch
 goodfeel.ch
@@ -8433,6 +8437,7 @@ google-business-view.ch
 google-ch.ch
 google-desktop.ch
 google-energy.ch
+google-erfolg.ch
 google-for-jobs.ch
 google-geo.ch
 google-kaffeebar.ch
@@ -8485,6 +8490,7 @@ googlebard.ch
 googlebase.ch
 googlebewertung.ch
 googlebewertungen.ch
+googlebook.ch
 googlebooking.ch
 googlebooster.ch
 googlebot.ch
@@ -9580,6 +9586,7 @@ gossauer-post.ch
 gossauer-zeitung.ch
 gossauer.ch
 gossauerautovermietung.ch
+gossauerfasnachtsumzug.ch
 gossauerinfo.ch
 gossauerinfos.ch
 gossauernews.ch
@@ -11092,6 +11099,7 @@ governancesimulation.ch
 governancesoftware.ch
 governancetechnology.ch
 governanceundrecht.ch
+governex.ch
 governext.ch
 governing-board.ch
 governing-energy-transitions.ch

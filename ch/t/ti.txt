@@ -813,7 +813,6 @@ ticino-digital.ch
 ticino-digitale.ch
 ticino-droni.ch
 ticino-edizioni.ch
-ticino-elettrorent.ch
 ticino-energia.ch
 ticino-energy-nature.ch
 ticino-express.ch
@@ -2041,7 +2040,6 @@ tidyandclean.ch
 tidyapp.ch
 tidybooks.ch
 tidybuddy.ch
-tidybuy.ch
 tidyclean.ch
 tidycollective.ch
 tidygo.ch
@@ -4065,6 +4063,7 @@ tierkommunikation-ursulaweberzbinden.ch
 tierkommunikation-vogel.ch
 tierkommunikation-wallimann.ch
 tierkommunikation-weber.ch
+tierkommunikation-weis.ch
 tierkommunikation-zh.ch
 tierkommunikation-zuerich.ch
 tierkommunikation.ch
@@ -4353,6 +4352,8 @@ tierpflege-enzian.ch
 tierpflege-merlin.ch
 tierpflege-waldhuesli.ch
 tierpflege.ch
+tierpflegedienst-hofstetter.ch
+tierpflegedienst.ch
 tierpflegehilfe.ch
 tierpflegemerlin.ch
 tierpfleger.ch
@@ -7552,6 +7553,7 @@ timevalley.ch
 timevest.ch
 timeview.ch
 timevision.ch
+timevo.ch
 timewalk.ch
 timewarp.ch
 timewatch.ch
@@ -7804,6 +7806,7 @@ timoberger.ch
 timobil.ch
 timobile.ch
 timoblanc.ch
+timoboehm.ch
 timoborer.ch
 timobuser.ch
 timocasa.ch
@@ -9322,6 +9325,7 @@ tinyhousesuisse.ch
 tinyhouseswitzerland.ch
 tinyhousetenna.ch
 tinyhouz.ch
+tinyhuman.ch
 tinyhumansphotography.ch
 tinyhus.ch
 tinyhuus.ch
@@ -9352,6 +9356,7 @@ tinymiracles.ch
 tinymobil.ch
 tinymobilerobots.ch
 tinymoments.ch
+tinymonster.ch
 tinymudclub.ch
 tinymuseum.ch
 tinyness.ch
@@ -9529,6 +9534,7 @@ tip2toe-online-shop.ch
 tip2toe.ch
 tip3.ch
 tip3000.ch
+tip4event.ch
 tip4fun.ch
 tip4u.ch
 tip88.ch
@@ -9591,7 +9597,6 @@ tipi-dorf.ch
 tipi-gantrisch.ch
 tipi-kaufen.ch
 tipi-mieten.ch
-tipi-oase.ch
 tipi-ranch-etivaz.ch
 tipi-romoos.ch
 tipi-stube.ch
@@ -10928,6 +10933,7 @@ tisiaoutplacement.ch
 tisiedi.ch
 tisiglow.ch
 tisin.ch
+tisinconsorzioffs.ch
 tisinweb.ch
 tisiphone.ch
 tisis.ch
@@ -11126,6 +11132,7 @@ titan-nomad.ch
 titan-org.ch
 titan-patrimoine.ch
 titan-piercing.ch
+titan-rent.ch
 titan-resilience.ch
 titan-saab.ch
 titan-schmuck.ch

@@ -932,6 +932,7 @@ localmarket.ch
 localmarketing.ch
 localmarkets.ch
 localmarkt.ch
+localmassage.ch
 localmatador.ch
 localmate.ch
 localmatters.ch
@@ -5705,7 +5706,6 @@ loicfroidevaux.ch
 loicgardiol.ch
 loicgasch.ch
 loicgaudiello.ch
-loicgirard.ch
 loicgrandchamp.ch
 loicgrobety.ch
 loicguibert.ch
@@ -6241,6 +6241,7 @@ lokalstolz.ch
 lokalstrom-luzern.ch
 lokalstrom-schweiz.ch
 lokalstrom.ch
+lokalstrom24.ch
 lokalstromnetz.ch
 lokalsuche.ch
 lokalsuchen.ch
@@ -6295,6 +6296,7 @@ lokboard.ch
 lokbox.ch
 lokcity.ch
 lokd.ch
+lokdellentechnik.ch
 lokdepot-koblenz.ch
 lokdepot.ch
 lokdi.ch
@@ -8332,6 +8334,7 @@ loopzeitung.ch
 loopzurich.ch
 looq.ch
 looque.ch
+looqz.ch
 loorabbit.ch
 loordy.ch
 looren-immobilien.ch
@@ -9112,6 +9115,7 @@ lorenz-gartenbau.ch
 lorenz-gemuese.ch
 lorenz-giovanelli.ch
 lorenz-habicher.ch
+lorenz-hartung.ch
 lorenz-haustechnik.ch
 lorenz-held.ch
 lorenz-immo.ch
@@ -9177,6 +9181,7 @@ lorenzgraf.ch
 lorenzgrimm.ch
 lorenzgygax.ch
 lorenzhaenni.ch
+lorenzhartung.ch
 lorenzhauser.ch
 lorenzheer.ch
 lorenzheld.ch
@@ -10542,6 +10547,7 @@ lottilotto.ch
 lottimeschter.ch
 lottipartner.ch
 lottipeter.ch
+lottipower.ch
 lottique.ch
 lottis-chnoblibrot.ch
 lottis-gartae.ch
@@ -10923,6 +10929,7 @@ louairin.ch
 louan.ch
 louana.ch
 louanaberger.ch
+louandrose.ch
 louandyou.ch
 louanegachet.ch
 louange-reconvilier.ch
@@ -11073,6 +11080,7 @@ louetonsitequirapporte.ch
 louetonvae.ch
 louetonvelo.ch
 louetonveloelectrique.ch
+louetrose.ch
 loueundeuxroues.ch
 loueur.ch
 louevard.ch
@@ -11146,6 +11154,7 @@ louis-max.ch
 louis-meile.ch
 louis-menar.ch
 louis-merz.ch
+louis-mk2.ch
 louis-moto.ch
 louis-motorrad.ch
 louis-mouwen.ch
@@ -11541,6 +11550,7 @@ loungeart.ch
 loungebar-moutier.ch
 loungebar.ch
 loungeboat.ch
+loungeboot.ch
 loungebuddy.ch
 loungebyzalando.ch
 loungechair.ch
@@ -11555,6 +11565,7 @@ loungefire-grill.ch
 loungefire.ch
 loungefiregrill.ch
 loungefires.ch
+loungefloss.ch
 loungefly.ch
 loungekino.ch
 loungekissen.ch
@@ -12151,6 +12162,7 @@ loved-product.ch
 loved-products.ch
 loved.ch
 lovedate.ch
+lovedating.ch
 lovedbylovie.ch
 lovedbylovy.ch
 lovedeal.ch
@@ -13187,7 +13199,6 @@ lowszn.ch
 lowtable.ch
 lowtaxhome.ch
 lowtaxhomes.ch
-lowte.ch
 lowtec-ag.ch
 lowtec.ch
 lowtech.ch

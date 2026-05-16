@@ -559,6 +559,7 @@ btr-netcom.ch
 btr-partner.ch
 btr-swiss.ch
 btr-tatortreinigungen.ch
+btr-tools.ch
 btr-treuhand.ch
 btr.ch
 btr9.ch
@@ -586,6 +587,7 @@ btrice.ch
 btrieve.ch
 btronic.ch
 btrsa.ch
+btrtools.ch
 btrucksrent.ch
 btrue.ch
 btrusted.ch

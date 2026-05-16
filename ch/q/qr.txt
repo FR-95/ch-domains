@@ -85,6 +85,7 @@ qr-ready.ch
 qr-rechnung-api.ch
 qr-rechnung-app.ch
 qr-rechnung-erstellen.ch
+qr-rechnung-generator.ch
 qr-rechnung-online.ch
 qr-rechnung-schweiz.ch
 qr-rechnung-software.ch
@@ -286,6 +287,7 @@ qrinvoice.ch
 qrinvoicing.ch
 qrit.ch
 qriz.ch
+qrk.ch
 qrkarte.ch
 qrkassenbon.ch
 qrking.ch
@@ -371,13 +373,17 @@ qrreroute.ch
 qrrgenerator.ch
 qrs-advisors.ch
 qrs-berater.ch
+qrs-care.ch
 qrs-consulting.ch
 qrs-k9-unit.ch
 qrs-magnetfeldtherapie.ch
 qrs-magnetstimulation.ch
+qrs-produkte.ch
+qrs-vertrieb.ch
 qrs.ch
 qrscan.ch
 qrscanner.ch
+qrscare.ch
 qrscode.ch
 qrse.ch
 qrservice.ch

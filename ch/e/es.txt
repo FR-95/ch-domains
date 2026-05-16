@@ -921,6 +921,7 @@ escd.ch
 esce.ch
 escea.ch
 escen.ch
+escenario-living.ch
 escenario-sl.ch
 escenarte.ch
 escendit.ch
@@ -3881,6 +3882,7 @@ espacevalderuz.ch
 espacevelos.ch
 espacevelosjura.ch
 espacevert.ch
+espacevessy.ch
 espacevet.ch
 espacevibrance.ch
 espacevide.ch

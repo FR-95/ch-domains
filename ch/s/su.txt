@@ -522,6 +522,7 @@ sublitime.ch
 sublival-xtool.ch
 sublival.ch
 sublove.ch
+subly.ch
 submail.ch
 submanager.ch
 submandibularis.ch
@@ -1038,7 +1039,6 @@ successionsuisse.ch
 successisabit.ch
 successit.ch
 successiun.ch
-successive.ch
 successlife.ch
 successlogic.ch
 successlyness.ch
@@ -1076,7 +1076,6 @@ successum.ch
 successworks.ch
 successworld.ch
 successxd.ch
-successys.ch
 succesuisse.ch
 succint.ch
 succodifrutta-michel.ch
@@ -3190,7 +3189,6 @@ suisse-lingua.ch
 suisse-links.ch
 suisse-literie.ch
 suisse-livraison.ch
-suisse-location-velo.ch
 suisse-lockers.ch
 suisse-logement.ch
 suisse-loto.ch
@@ -4095,6 +4093,7 @@ suissemedica.ch
 suissemedical.ch
 suissemedicalcenter.ch
 suissemedicare.ch
+suissemedium.ch
 suissemedizin.ch
 suissemelio.ch
 suissemem.ch
@@ -6076,6 +6075,7 @@ sun-ray.ch
 sun-reference.ch
 sun-s.ch
 sun-seat.ch
+sun-server.ch
 sun-set.ch
 sun-shield.ch
 sun-shine.ch
@@ -8374,6 +8374,7 @@ super-bet.ch
 super-bicycles.ch
 super-bike.ch
 super-box.ch
+super-brix.ch
 super-buffo.ch
 super-bus.ch
 super-camper.ch
@@ -8510,7 +8511,6 @@ super-recognizer.ch
 super-reinigung.ch
 super-reinigungen.ch
 super-renovation.ch
-super-resear.ch
 super-resistent.ch
 super-rtl-now.ch
 super-rtl.ch
@@ -8742,6 +8742,7 @@ superbrand.ch
 superbrands.ch
 superbrewbros.ch
 superbricoleur.ch
+superbrix.ch
 superbtent.ch
 superbuch.ch
 superbud.ch
@@ -10217,7 +10218,6 @@ supevents.ch
 supevisor.ch
 supex.ch
 supexor.ch
-supexperience.ch
 supferien.ch
 supfit.ch
 supfitness.ch

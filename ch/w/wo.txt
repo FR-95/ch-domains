@@ -161,6 +161,7 @@ wobrennts.ch
 wobrenz.ch
 wobs.ch
 wobu.ch
+wobuero.ch
 wobw.ch
 woby.ch
 woc-factory.ch
@@ -1558,7 +1559,6 @@ wohnen-in.ch
 wohnen-ipunkt.ch
 wohnen-ist-leben.ch
 wohnen-kleinbasel.ch
-wohnen-kloten.ch
 wohnen-langendorf.ch
 wohnen-langenthal.ch
 wohnen-langhalde.ch
@@ -7342,6 +7342,7 @@ workandconflict.ch
 workandevents-massage.ch
 workandfamily.ch
 workandfly.ch
+workandgo.ch
 workandgrow.ch
 workandhealth.ch
 workandhike.ch
@@ -9891,6 +9892,7 @@ woundmanagement.ch
 woundmix.ch
 woundo.ch
 woundprofi.ch
+woundsandwonders.ch
 woundsapp.ch
 woundshield.ch
 woundspecialistday.ch

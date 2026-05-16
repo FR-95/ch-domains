@@ -1151,6 +1151,7 @@ scanix.ch
 scanizer.ch
 scanjet.ch
 scanjob.ch
+scanjoy.ch
 scankab.ch
 scankreis.ch
 scanlab-360.ch
@@ -4442,7 +4443,6 @@ schanin.ch
 schank.ch
 schankag.ch
 schankanlage.ch
-schankanlagenhandel.ch
 schankath.ch
 schankkontrolle.ch
 schanksysteme24.ch
@@ -7219,6 +7219,7 @@ schichtly.ch
 schichtmatch.ch
 schichtplan.ch
 schichtplaner.ch
+schichtplanerpro.ch
 schichtplanner.ch
 schichtplanung-schweiz.ch
 schichtplanung.ch
@@ -7473,7 +7474,6 @@ schiess-iti.ch
 schiess-konzepte-ag-ch-reviews.ch
 schiess-konzepte.ch
 schiess-kurse.ch
-schiess-mentoring.ch
 schiess-metalldesign.ch
 schiess-mobile.ch
 schiess-partner.ch
@@ -8278,6 +8278,7 @@ schillingfamily.ch
 schillingholzdesign.ch
 schillingkochtechnik.ch
 schillingnews.ch
+schillingp2.ch
 schillingpartner.ch
 schillingpartners.ch
 schillingreport.ch
@@ -10996,7 +10997,6 @@ schloesser-armaturen.ch
 schloesser-haustechnik.ch
 schloesser.ch
 schloesserfilm.ch
-schloessersommer.ch
 schloessle.ch
 schloessli-ag.ch
 schloessli-agentur.ch
@@ -15061,7 +15061,6 @@ schmuki-wyss.ch
 schmuki.ch
 schmukiadvokatur.ch
 schmukihatrecht.ch
-schmukiownerservices.ch
 schmukis-pendenzen.ch
 schmukis.ch
 schmukisa.ch
@@ -16151,6 +16150,8 @@ schneider-management.ch
 schneider-marfels.ch
 schneider-markus.ch
 schneider-maschinenbetrieb.ch
+schneider-matter.ch
+schneider-matters.ch
 schneider-mbz.ch
 schneider-media.ch
 schneider-meilen.ch
@@ -16461,6 +16462,8 @@ schneidermanagement.ch
 schneidermann.ch
 schneidermanuel.ch
 schneidermarketing.ch
+schneidermatter.ch
+schneidermatters.ch
 schneidermax.ch
 schneidermcsa.ch
 schneidermech.ch
@@ -19575,6 +19578,7 @@ schoolweb.ch
 schoolwork.ch
 schoolyard.ch
 schoolyears.ch
+schoolyfy.ch
 schoolzone.ch
 schoolzz.ch
 schoonderwaldt.ch
@@ -26721,7 +26725,6 @@ schumacherlaw.ch
 schumacherlegal.ch
 schumacherlivio.ch
 schumachermsfp.ch
-schumachermueller.ch
 schumacherprint.ch
 schumacherpt.ch
 schumacherrecht.ch
@@ -29787,6 +29790,7 @@ schweizer-geschichte.ch
 schweizer-geschichten.ch
 schweizer-gesetze.ch
 schweizer-gesundheit.ch
+schweizer-gesundheits-fachkreis.ch
 schweizer-gesundheits-journal.ch
 schweizer-gesundheits-shop.ch
 schweizer-gesundheitsjournal.ch
@@ -30676,6 +30680,7 @@ schweizerart.ch
 schweizerarzteschaft.ch
 schweizeratlas.ch
 schweizeraufgussmeisterschaft.ch
+schweizerauktion.ch
 schweizerauktionen.ch
 schweizerauktionshaus.ch
 schweizerausbildung.ch
@@ -30864,6 +30869,7 @@ schweizerdatenschutzberater.ch
 schweizerdatenschutzberatung.ch
 schweizerdating.ch
 schweizerdaunen.ch
+schweizerdeals.ch
 schweizerdelikatessen.ch
 schweizerdemokratieimpuls.ch
 schweizerdentalsoftware.ch
@@ -33277,6 +33283,7 @@ schwimmschule-strasser.ch
 schwimmschule-susanne.ch
 schwimmschule-svw85.ch
 schwimmschule-swimstar.ch
+schwimmschule-taegi.ch
 schwimmschule-theler.ch
 schwimmschule-toggenburg.ch
 schwimmschule-uitikon.ch
@@ -33678,6 +33685,7 @@ schwinigxrecords.ch
 schwinlibar.ch
 schwinn-cycling.ch
 schwinn-fitness.ch
+schwinn.ch
 schwinnfitness.ch
 schwip.ch
 schwippsel-jagd.ch
@@ -36231,6 +36239,7 @@ scrapandstamp-shop.ch
 scrapandstamp.ch
 scrapandstampshop.ch
 scrapbook.ch
+scrapbooking-occasion.ch
 scrapbooking.ch
 scrapbookingclub.ch
 scrapbookingstempel.ch
@@ -36693,6 +36702,7 @@ scripticus.ch
 scriptingframework.ch
 scriptis.ch
 scriptit.ch
+scriptium.ch
 scriptlab.ch
 scriptli.ch
 scriptlite.ch

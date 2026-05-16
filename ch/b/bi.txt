@@ -2730,7 +2730,6 @@ bienenpratteln.ch
 bienenprinz.ch
 bienenpro.ch
 bienenprodukte.ch
-bienenrasen.ch
 bienenreservat.ch
 bienenrettung.ch
 bienenroth.ch
@@ -3913,6 +3912,7 @@ bierversuche.ch
 biervibration.ch
 biervielfalt-schweiz.ch
 biervielfalt.ch
+biervielfaltentdecken.ch
 biervision-monstein.ch
 biervision.ch
 biervonbier.ch
@@ -8215,6 +8215,7 @@ bildschirme.ch
 bildschirmfrei.ch
 bildschirmfreie-woche.ch
 bildschirmglas.ch
+bildschirmhaus.ch
 bildschirmopfer.ch
 bildschirmorientiert.ch
 bildschirmrefurbisher.ch
@@ -8335,6 +8336,7 @@ bildung-fuer-morgen.ch
 bildung-fuer-nachhaltigkeit.ch
 bildung-fuer-sie.ch
 bildung-gastrosuisse.ch
+bildung-gesundheit.ch
 bildung-gr.ch
 bildung-graubuenden.ch
 bildung-hoersystemakustik.ch
@@ -13813,6 +13815,7 @@ biohofhermandingen.ch
 biohofhermikon.ch
 biohofhittenberg.ch
 biohofhobiel.ch
+biohofhoechweid.ch
 biohofimhecht.ch
 biohofjaun.ch
 biohofjuon.ch
@@ -14666,6 +14669,7 @@ bionator-schweiz.ch
 bionator-therapie.ch
 bionator.ch
 bionatortechnik.ch
+bionatortherapie.ch
 bionatur-hotel.ch
 bionatur.ch
 bionatura.ch
@@ -15805,6 +15809,7 @@ biotrain.ch
 biotrans.ch
 biotransfer.ch
 biotranslogistics.ch
+biotraum.ch
 biotrauminfo.ch
 biotrauringe.ch
 biotrax.ch
@@ -17870,6 +17875,7 @@ biskuit.ch
 biskuitfabrikation.ch
 biskuitgrafik.ch
 biskuitt.ch
+biskup.ch
 bislapis.ch
 bisley-shop.ch
 bisley.ch
@@ -18916,6 +18922,7 @@ bitcoin-standard.ch
 bitcoin-start.ch
 bitcoin-store.ch
 bitcoin-stores.ch
+bitcoin-strategy.ch
 bitcoin-suisse-bank.ch
 bitcoin-suisse-securities.ch
 bitcoin-suisse-security.ch
@@ -19857,6 +19864,7 @@ bitsandbricks.ch
 bitsandbulbs.ch
 bitsandbytes.ch
 bitsandlikes.ch
+bitsandpassion.ch
 bitsandpieces.ch
 bitsblast.ch
 bitsbytes.ch
@@ -19945,6 +19953,7 @@ bitstoenergy.ch
 bitstone.ch
 bitstore.ch
 bitstream.ch
+bitstrikecasino-ch.ch
 bitstudio.ch
 bitstudy.ch
 bitstyle.ch
@@ -20210,6 +20219,7 @@ bitzumi.ch
 bitzza.ch
 bitzzeria.ch
 biu.ch
+biubstock.ch
 biud.ch
 biuder.ch
 biuderwaerch.ch

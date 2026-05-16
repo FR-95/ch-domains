@@ -213,7 +213,6 @@ hobby-world.ch
 hobby-ws.ch
 hobby-yarn.ch
 hobby.ch
-hobby24.ch
 hobby41.ch
 hobbyastronaut.ch
 hobbyatelier.ch
@@ -238,7 +237,6 @@ hobbychuchi.ch
 hobbycircle.ch
 hobbycity.ch
 hobbycook.ch
-hobbycorner.ch
 hobbydance.ch
 hobbydancers.ch
 hobbydiscount.ch
@@ -1456,6 +1454,7 @@ hochzeit-samira-andreas.ch
 hochzeit-sandra-christian.ch
 hochzeit-sandra-und-fabian.ch
 hochzeit-sandraundkevin.ch
+hochzeit-sarina-jan.ch
 hochzeit-schiff.ch
 hochzeit-schloss.ch
 hochzeit-schuele.ch
@@ -3418,7 +3417,6 @@ hoerfux.ch
 hoergalerie.ch
 hoergasmus.ch
 hoergenuss.ch
-hoergeraet-online.ch
 hoergeraet-vergleich.ch
 hoergeraet.ch
 hoergeraet24.ch
@@ -5449,7 +5447,6 @@ hofstetter-blachen.ch
 hofstetter-bluemeflueschter.ch
 hofstetter-bluemegflueschter.ch
 hofstetter-camperbau.ch
-hofstetter-carrosserie.ch
 hofstetter-caviezel.ch
 hofstetter-coaching.ch
 hofstetter-consulting.ch
@@ -8588,6 +8585,7 @@ holzbad.ch
 holzbadewanne.ch
 holzbadewannen.ch
 holzbaenke-hofer.ch
+holzbaenke.ch
 holzbaenkli.ch
 holzbahn.ch
 holzbalken.ch
@@ -8934,6 +8932,7 @@ holzbauprodukte.ch
 holzbauprofi.ch
 holzbauprofis.ch
 holzbauprojekt.ch
+holzbauprojekte.ch
 holzbaurapperswiljona.ch
 holzbauriget.ch
 holzbauringeisen.ch
@@ -9471,6 +9470,8 @@ holzgespuer.ch
 holzgestalter.ch
 holzgestaltung.ch
 holzgestein.ch
+holzgestell.ch
+holzgestelle.ch
 holzgewinnt.ch
 holzgipfel.ch
 holzglanz.ch
@@ -9747,6 +9748,8 @@ holzkohlen-senf.ch
 holzkohlengrill.ch
 holzkohlengrills.ch
 holzkollektiv.ch
+holzkommode.ch
+holzkommoden.ch
 holzkompetenz.ch
 holzkompetenzcenter.ch
 holzkompetenzzentrum.ch
@@ -10173,6 +10176,7 @@ holzrebel.ch
 holzrebell.ch
 holzrecycling-thurgau.ch
 holzregal.ch
+holzregale.ch
 holzregen.ch
 holzrei.ch
 holzreich.ch
@@ -12170,6 +12174,7 @@ homemade-deko.ch
 homemade-label.ch
 homemade-labor.ch
 homemade-naturprodukte.ch
+homemade-relocation.ch
 homemade-sweets.ch
 homemade-x.ch
 homemade.ch
@@ -13278,6 +13283,7 @@ homingzon.ch
 homini.ch
 homininft.ch
 hominis.ch
+hominox.ch
 hominum-by-mstcosmetics.ch
 hominum-diodenlaser.ch
 hominum.ch
@@ -13610,6 +13616,7 @@ homote.ch
 homotec.ch
 homothetie.ch
 homothety.ch
+homovolants.ch
 homoz.ch
 hompa-albis.ch
 hompage.ch
@@ -14622,7 +14629,6 @@ hookah-club.ch
 hookah-shop.ch
 hookah.ch
 hookahblack.ch
-hookahclub.ch
 hookahshop.ch
 hookain.ch
 hookandfly.ch
@@ -15624,6 +15630,7 @@ horcolor.ch
 horcy.ch
 hord.ch
 horde.ch
+hordea.ch
 hordeum.ch
 hordez.ch
 hordomus.ch
@@ -15871,6 +15878,7 @@ horizon-sante.ch
 horizon-schoenberg.ch
 horizon-sfa.ch
 horizon-signature.ch
+horizon-solution.ch
 horizon-solutions.ch
 horizon-south.ch
 horizon-studio.ch
@@ -16995,6 +17003,7 @@ horserelaxe.ch
 horserescue.ch
 horseresort-sl.ch
 horserisk.ch
+horservice.ch
 horses-deal.ch
 horses-deals.ch
 horses-in-jura.ch
@@ -18045,6 +18054,7 @@ hostelworld.ch
 hostens.ch
 hosteo.ch
 hoster.ch
+hostera.ch
 hosterei.ch
 hosteria-dedi.ch
 hosteria.ch
@@ -18940,7 +18950,6 @@ hotel-bad-buchen.ch
 hotel-bad-muntelier.ch
 hotel-baden.ch
 hotel-badenerhof.ch
-hotel-badnerhof.ch
 hotel-badzurzach.ch
 hotel-baer.ch
 hotel-baeren-amriswil.ch
@@ -20461,6 +20470,7 @@ hotelattisholz.ch
 hotelatureta.ch
 hotelaufwertung-schweiz.ch
 hotelaufwertung.ch
+hotelauktion.ch
 hotelaumajordavel.ch
 hotelaurora.ch
 hotelauskunft.ch
@@ -21145,7 +21155,6 @@ hotelgastro-treuhand.ch
 hotelgastro.ch
 hotelgastro24.ch
 hotelgastrobern.ch
-hotelgastrobuero.ch
 hotelgastroconnect.ch
 hotelgastroformation.ch
 hotelgastroformationost.ch
@@ -21440,6 +21449,8 @@ hotellandhaus.ch
 hotellandhausbern.ch
 hotellapalma.ch
 hotellapalmalocarno.ch
+hotellaperla.ch
+hotellaplage.ch
 hotellaprairie.ch
 hotellasuite.ch
 hotellatruite.ch
@@ -21617,6 +21628,7 @@ hotelmoebel.ch
 hotelmoebel24.ch
 hotelmoeschberg.ch
 hotelmokka.ch
+hotelmoment.ch
 hotelmondial.ch
 hotelmonrepos.ch
 hotelmonstein.ch
@@ -22225,6 +22237,7 @@ hotelsilvretta.ch
 hotelsimi.ch
 hotelsimizermatt.ch
 hotelsimmental.ch
+hotelsimplicity.ch
 hotelsimplon.ch
 hotelsimtessin.ch
 hotelsinbasel.ch
@@ -23624,6 +23637,7 @@ houseofafrica.ch
 houseofair.ch
 houseofakrea.ch
 houseofalchemy.ch
+houseofaneha.ch
 houseofanyways.ch
 houseofaquarius.ch
 houseofaramis.ch

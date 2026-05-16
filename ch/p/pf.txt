@@ -1286,7 +1286,6 @@ pfauen-restaurant.ch
 pfauen-treuhand.ch
 pfauen-zucht.ch
 pfauen.ch
-pfauenapotheke.ch
 pfauenbier.ch
 pfauenbuehne.ch
 pfauenfarm.ch
@@ -2636,7 +2635,6 @@ pfersich.ch
 pfertastisch.ch
 pferx.ch
 pfes.ch
-pfeservices.ch
 pfet.ch
 pfetex.ch
 pfetsch.ch
@@ -3308,7 +3306,6 @@ pflanzenerde.ch
 pflanzenerden.ch
 pflanzenerkennen.ch
 pflanzenexkursionen.ch
-pflanzenexperte.ch
 pflanzenextrakte.ch
 pflanzenfan.ch
 pflanzenfarben.ch
@@ -3859,6 +3856,7 @@ pflegeallianz.ch
 pflegeamsee.ch
 pflegeangebot.ch
 pflegeangehoerige.ch
+pflegeanspruch.ch
 pflegeanwalt24.ch
 pflegeapp.ch
 pflegearchitektur.ch

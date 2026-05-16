@@ -2730,7 +2730,6 @@ pagerduty.ch
 pagerh.ch
 pageris.ch
 pagero.ch
-pagers.ch
 pages-blanches.ch
 pages-commerciales.ch
 pages-emploi.ch
@@ -4104,7 +4103,6 @@ palestinadatteln.ch
 palestinart.ch
 palestinasi.ch
 palestine-arts.ch
-palestine-cola.ch
 palestine-drinks.ch
 palestine-fce.ch
 palestine-federation.ch
@@ -4826,6 +4824,7 @@ palmieri-boutique.ch
 palmieri-communication.ch
 palmieri.ch
 palmieriboutique.ch
+palmieripfund.ch
 palmiers.ch
 palmina.ch
 palmine.ch
@@ -7236,6 +7235,7 @@ panprev.ch
 panpuri.ch
 panqui.ch
 panraumsysteme.ch
+panrelay.ch
 panrep-gmbh.ch
 panrep.ch
 panrep4704.ch
@@ -13947,7 +13947,6 @@ parteditions.ch
 partee.ch
 partei-finanzierung.ch
 partei-frei.ch
-partei-lebenswerte-schweiz.ch
 partei-los.ch
 partei-neue-schweiz.ch
 partei-news.ch
@@ -14357,7 +14356,6 @@ partner-mailing.ch
 partner-massage.ch
 partner-massagekurs.ch
 partner-massagekurse.ch
-partner-mind.ch
 partner-mondial.ch
 partner-net.ch
 partner-netzwerk.ch
@@ -15659,7 +15657,6 @@ parvatayoga.ch
 parvati-immobilien.ch
 parvati-massage.ch
 parvati.ch
-parvatiimmobilien.ch
 parvatimassage.ch
 parvex-gestion.ch
 parvex-immo.ch
@@ -16564,6 +16561,7 @@ paschundsoehne.ch
 paschunit.ch
 paschweiz.ch
 pasci.ch
+pasci1980.ch
 pascii.ch
 pasco.ch
 pascoarenov.ch
@@ -20368,7 +20366,6 @@ patrick-staeuble.ch
 patrick-stahel.ch
 patrick-stalder.ch
 patrick-steiner.ch
-patrick-stoeckli.ch
 patrick-strasser.ch
 patrick-stricker.ch
 patrick-stunkel.ch
@@ -22247,6 +22244,7 @@ pauli-biglen.ch
 pauli-co.ch
 pauli-concept.ch
 pauli-digital.ch
+pauli-fachmandate.ch
 pauli-feinmechanik.ch
 pauli-fineart.ch
 pauli-haesler.ch
@@ -23872,6 +23870,7 @@ paylino.ch
 paylnit.ch
 paylo.ch
 payload.ch
+payloadcat.ch
 paylogic.ch
 paylogiq.ch
 paylohn.ch

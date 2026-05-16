@@ -1950,6 +1950,7 @@ my-window.ch
 my-wine-moments.ch
 my-wine.ch
 my-winenot.ch
+my-wines.ch
 my-winetime.ch
 my-wings.ch
 my-winmed.ch
@@ -2203,6 +2204,7 @@ myaibit.ch
 myaibot.ch
 myaic.ch
 myaicoa.ch
+myaid.ch
 myaida.ch
 myaifino.ch
 myaigent.ch
@@ -3727,7 +3729,6 @@ mycitys.ch
 mycityscanner.ch
 mycityschweiz.ch
 mycitystory.ch
-myckw.ch
 mycl.ch
 myclaim.ch
 myclaims.ch
@@ -4246,6 +4247,7 @@ mydachzelt.ch
 mydacia.ch
 mydafa.ch
 mydagobert.ch
+mydai.ch
 mydaily.ch
 mydailyaid.ch
 mydailyapple.ch
@@ -7315,7 +7317,6 @@ mylittlemomento.ch
 mylittlemountain.ch
 mylittleoasis.ch
 mylittleone.ch
-mylittlepampas.ch
 mylittlepause.ch
 mylittleplane.ch
 mylittlepony.ch
@@ -7334,7 +7335,6 @@ mylittleteachingcorner.ch
 mylittlethai.ch
 mylittlething.ch
 mylittlethings.ch
-mylittletomte.ch
 mylittlewaiwai.ch
 mylittlewarung.ch
 mylittlewonder.ch
@@ -8500,6 +8500,7 @@ myopiepraxis.ch
 myopievorsorge.ch
 myopill.ch
 myopinionclub.ch
+myopizza.ch
 myopoint.ch
 myopraxis.ch
 myoprecise.ch
@@ -10835,7 +10836,6 @@ mystevia-sweet.ch
 mysteviasweet.ch
 mystex.ch
 mysthari.ch
-mysthera.ch
 mystheratherapeutics.ch
 mystheratx.ch
 mysthetic.ch
@@ -11418,6 +11418,7 @@ mysysbo.ch
 mysysinf.ch
 mysystem.ch
 mysz.ch
+mysza.ch
 myszkowski.ch
 myt.ch
 myta.ch

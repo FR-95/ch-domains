@@ -1,4 +1,5 @@
 uc-atelier.ch
+uc-com.ch
 uc-consult.ch
 uc-design.ch
 uc-duke.ch
@@ -95,6 +96,7 @@ uccholding.ch
 ucciani.ch
 uccide.ch
 uccio.ch
+uccom.ch
 uccombat.ch
 ucconsult.ch
 ucconthey.ch

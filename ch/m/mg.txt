@@ -639,7 +639,6 @@ mgeau.ch
 mgeb.ch
 mgebaeudereinigungsag.ch
 mgedik.ch
-mgeek.ch
 mgegg.ch
 mgeggersriet.ch
 mgeggiwil.ch
@@ -700,6 +699,7 @@ mgferenbalm.ch
 mgferenberg.ch
 mgfh.ch
 mgfid.ch
+mgfiducial.ch
 mgfiduciaria.ch
 mgfillinger.ch
 mgfinance.ch
@@ -1109,7 +1109,6 @@ mgpaudit.ch
 mgpb.ch
 mgpe.ch
 mgpeinture.ch
-mgperformance.ch
 mgpfeffikon.ch
 mgphoto.ch
 mgpiper-affoltern.ch

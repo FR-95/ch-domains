@@ -345,7 +345,6 @@ usbstick.ch
 usbsticks.ch
 usbstore.ch
 usbt.ch
-usbuext.ch
 usbv.ch
 usbvisitenkarten.ch
 usbwerbeartikel.ch
@@ -1271,6 +1270,7 @@ ustamm.ch
 ustareia-alpina.ch
 ustaria.ch
 ustariatschlin.ch
+ustasa.ch
 ustat.ch
 ustaudacher.ch
 ustavag.ch

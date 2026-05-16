@@ -1676,7 +1676,6 @@ jaegershop.ch
 jaegerstein.ch
 jaegerstube-bergfeld.ch
 jaegerstube.ch
-jaegerstuebli-anwil.ch
 jaegerstuebli-binningen.ch
 jaegerstuebli-kallern.ch
 jaegerstuebli-naefels.ch
@@ -2130,6 +2129,7 @@ jagdhundeverein.ch
 jagdinfo.ch
 jagdinungarn.ch
 jagdjournal.ch
+jagdkalender.ch
 jagdkamerad.ch
 jagdkanzel.ch
 jagdkanzeln-bern.ch
@@ -4461,6 +4461,7 @@ janibe.ch
 janibell.ch
 janic.ch
 janicairinamadjar.ch
+janicar.ch
 janicc.ch
 janice-med.ch
 janice-official.ch
@@ -4830,6 +4831,7 @@ janisramseier.ch
 janisringli.ch
 janisrupp.ch
 janissa.ch
+janissaire.ch
 janisschneider.ch
 janisschumacher.ch
 janisson.ch
@@ -5900,6 +5902,7 @@ jar-offbeat.ch
 jar.ch
 jara-art.ch
 jara-facility.ch
+jara-haffter.ch
 jara-online.ch
 jara-store.ch
 jara-wille.ch
@@ -6113,6 +6116,7 @@ jardindescouleurs.ch
 jardindescrepes.ch
 jardindescrets.ch
 jardindesdents.ch
+jardindeserenite.ch
 jardindesfamilles.ch
 jardindesign.ch
 jardindesiris.ch

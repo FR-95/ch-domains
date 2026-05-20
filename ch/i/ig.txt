@@ -62,9 +62,6 @@ ig-boedeliwerke.ch
 ig-boeju.ch
 ig-boningen.ch
 ig-bootshafen2575.ch
-ig-bostude.ch
-ig-bostuden.ch
-ig-bostudenzelg.ch
 ig-brandschutz.ch
 ig-braunwald.ch
 ig-brego.ch
@@ -570,7 +567,6 @@ igabz.ch
 igacr.ch
 igadget.ch
 igads.ch
-igae.ch
 igaeli.ch
 igaf.ch
 igafua.ch

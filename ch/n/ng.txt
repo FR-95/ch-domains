@@ -1,5 +1,6 @@
 ng-100.ch
 ng-agencement.ch
+ng-artwork.ch
 ng-audit.ch
 ng-bauberatung.ch
 ng-concept.ch
@@ -30,6 +31,7 @@ ng-schwanden.ch
 ng-screener.ch
 ng-signals.ch
 ng-sigriswil.ch
+ng-thurgau.ch
 ng-unicodesign.ch
 ng-uri-fauna.ch
 ng-uri-flora.ch

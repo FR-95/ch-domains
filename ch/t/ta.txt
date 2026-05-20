@@ -202,6 +202,7 @@ tabafloristik.ch
 tabagie.ch
 tabagisme-traitement.ch
 tabagisme.ch
+tabagismepassif.ch
 tabahome.ch
 tabahresear.ch
 tabai.ch
@@ -1130,7 +1131,6 @@ tacos-avenue.ch
 tacos-bar.ch
 tacos-burgeravenue.ch
 tacos-carouge.ch
-tacos-du-chef.ch
 tacos-factorys.ch
 tacos-geneve.ch
 tacos-giga.ch
@@ -3098,6 +3098,7 @@ taiganidis.ch
 taigaole.ch
 taigas.ch
 taigaspirit.ch
+taigatransport.ch
 taigh.ch
 taigild.ch
 taigo88.ch
@@ -3788,6 +3789,7 @@ takefitline.ch
 takefive.ch
 takefivetheatre.ch
 takefriss.ch
+takegive.ch
 takego.ch
 takegoo.ch
 takegoodcare.ch
@@ -9438,7 +9440,6 @@ tapberne.ch
 tapbit.ch
 tapbulletin.ch
 tapca.ch
-tapcap.ch
 tapcard.ch
 tapcharge.ch
 tapcocktail.ch
@@ -11347,6 +11348,7 @@ tassenpreis.ch
 tassenshop.ch
 tassenwelt.ch
 tassetrend.ch
+tassettodragan.ch
 tassi-ipotecari.ch
 tassi.ch
 tassile.ch
@@ -12137,7 +12139,6 @@ tatouagegeneve.ch
 tatouages.ch
 tatouagetemporaire.ch
 tatoue.ch
-tatouer.ch
 tatoueur.ch
 tatoueuse.ch
 tatouici.ch
@@ -12347,7 +12348,6 @@ tattoo-weinfelden.ch
 tattoo-werkstatt.ch
 tattoo-world.ch
 tattoo-you.ch
-tattoo-zirkus.ch
 tattoo-zubehoer.ch
 tattoo-zuerich.ch
 tattoo.ch
@@ -13189,6 +13189,7 @@ taurasi.ch
 tauratrox.ch
 taure.ch
 taureau-mecaniques.ch
+taureaumecanique.ch
 taureaux-ia-bio.ch
 taureg.ch
 tauregulus.ch
@@ -13905,7 +13906,6 @@ tax25.ch
 tax360.ch
 tax4expat.ch
 tax4expats.ch
-tax4u.ch
 tax5.ch
 tax7.ch
 taxa.ch
@@ -16013,6 +16013,7 @@ taxswiss.ch
 taxswisscrypto.ch
 taxswitzerland.ch
 taxsy.ch
+taxtabl.ch
 taxtalente.ch
 taxtalk.ch
 taxtalks.ch

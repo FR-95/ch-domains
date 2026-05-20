@@ -1487,6 +1487,7 @@ iptv--schweiz.ch
 iptv-abonnement.ch
 iptv-anbieter.ch
 iptv-ch.ch
+iptv-exclusive.ch
 iptv-hotel.ch
 iptv-kaufen.ch
 iptv-playout.ch
@@ -1535,7 +1536,6 @@ iptvschweizhq.ch
 iptvschweizhub.ch
 iptvschweizlive.ch
 iptvschweizlivetv.ch
-iptvschweizmax.ch
 iptvschweizsg.ch
 iptvschweiztv.ch
 iptvschweizuhd.ch

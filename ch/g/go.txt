@@ -1971,7 +1971,6 @@ goetz-fm.ch
 goetz-gmbh.ch
 goetz-grob.ch
 goetz-gruppe.ch
-goetz-iff.ch
 goetz-immobilien.ch
 goetz-karriere.ch
 goetz-kontroll.ch
@@ -3594,6 +3593,7 @@ goldencare.ch
 goldencarrot.ch
 goldencash.ch
 goldencasino.ch
+goldencasinos.ch
 goldencatering.ch
 goldencbd.ch
 goldenchance.ch
@@ -3790,6 +3790,7 @@ goldenetage.ch
 goldeneuro-casino.ch
 goldeneuro.ch
 goldeneurocasino.ch
+goldeneuros.ch
 goldeneworte.ch
 goldeneye-academy.ch
 goldeneye-eng.ch
@@ -4718,7 +4719,6 @@ goldmmax.ch
 goldmobil.ch
 goldmobile.ch
 goldmohn.ch
-goldmoment.ch
 goldmomente.ch
 goldmoments.ch
 goldmomentum.ch
@@ -5065,7 +5065,6 @@ goldschmittecoray.ch
 goldschmittestans.ch
 goldschmuck.ch
 goldschmuckankauf.ch
-goldschmuckswiss.ch
 goldschnitt.ch
 goldschoen.ch
 goldschool.ch
@@ -5080,6 +5079,7 @@ goldseeli.ch
 goldseiten.ch
 goldservice.ch
 goldservices.ch
+goldset.ch
 goldsfitness.ch
 goldsgym-switzerland.ch
 goldsgym.ch
@@ -5373,7 +5373,6 @@ goldwertflow.ch
 goldwette.ch
 goldwiese.ch
 goldwin.ch
-goldwinbeauty.ch
 goldwinbrowspecialist.ch
 goldwing-center-oftringen.ch
 goldwing-center.ch
@@ -9942,6 +9941,7 @@ gotoshop.ch
 gotosixfashion.ch
 gotospeed.ch
 gotosport.ch
+gotoswiss.ch
 gototaiwan.ch
 gototec.ch
 gotothailand.ch
@@ -10408,6 +10408,7 @@ gotukola.ch
 gotup.ch
 goturkiye.ch
 gotusseau-electricite.ch
+gotv.ch
 gotway.ch
 gotwo.ch
 gotwood.ch

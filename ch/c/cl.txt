@@ -1897,6 +1897,7 @@ classrecht.ch
 classroom-escape.ch
 classroom-management.ch
 classroom.ch
+classroomcreators.ch
 classroomcubes.ch
 classroommanagement.ch
 classroomonwheels.ch
@@ -1949,6 +1950,7 @@ claubscher.ch
 claud-art.ch
 claud-info.ch
 claud.ch
+claudaition.ch
 claudanova-health.ch
 claudanova.ch
 claude-agent.ch
@@ -3005,6 +3007,7 @@ claudio-capelli.ch
 claudio-caprez.ch
 claudio-carbone.ch
 claudio-catenazzi.ch
+claudio-caviezel.ch
 claudio-conte.ch
 claudio-dilligo.ch
 claudio-gisler.ch
@@ -3252,6 +3255,7 @@ clauwau.ch
 clauwi.ch
 clauxi.ch
 clauze.ch
+clav.ch
 clava-tax.ch
 clavadaetscher.ch
 clavadaira.ch
@@ -3724,6 +3728,7 @@ clean-me-in-9-days.ch
 clean-me.ch
 clean-meat.ch
 clean-medical-cosmetic.ch
+clean-medical.ch
 clean-meister.ch
 clean-microgreen.ch
 clean-more.ch
@@ -4249,6 +4254,7 @@ cleaningcard.ch
 cleaningcars.ch
 cleaningcenter.ch
 cleaningcompany.ch
+cleaningexperten.ch
 cleaningfactory.ch
 cleaningfairy.ch
 cleaningfairys.ch
@@ -4274,6 +4280,7 @@ cleaningracoon.ch
 cleaningrobotics.ch
 cleanings.ch
 cleaningservice.ch
+cleaningservicebern.ch
 cleaningservicebrahimi.ch
 cleaningservices-ramic.ch
 cleaningservices.ch
@@ -5500,6 +5507,7 @@ clerelove.ch
 clerenet.ch
 clerezza.ch
 clerhorizon.ch
+cleria.ch
 clerici-engineering.ch
 clerici-immo.ch
 clerici-mueller.ch
@@ -7285,6 +7293,7 @@ climatehub.ch
 climateid.ch
 climateimpactpartners.ch
 climateimpacts.ch
+climateindustry.ch
 climateinitiative.ch
 climateintelligence.ch
 climateinvest.ch
@@ -8829,6 +8838,7 @@ clos-des-hetres.ch
 clos-des-lices.ch
 clos-des-marronniers.ch
 clos-des-moines.ch
+clos-des-pieces.ch
 clos-des-pierres.ch
 clos-des-rennauds.ch
 clos-domitia.ch
@@ -10323,7 +10333,6 @@ cloudwatch.ch
 cloudwatcher.ch
 cloudwaves.ch
 cloudwawi.ch
-cloudway.ch
 cloudways.ch
 cloudweb.ch
 cloudweigh.ch
@@ -11134,6 +11143,7 @@ club4company.ch
 club4entrepreneur.ch
 club4entrepreneurs.ch
 club4gentlemen.ch
+club4k.ch
 club4nautico.ch
 club4stagioni.ch
 club4u.ch
@@ -11654,6 +11664,7 @@ clubly.ch
 clubm.ch
 clubm4.ch
 clubmag.ch
+clubmailer.ch
 clubmaillotdor.ch
 clubmaillotjaune.ch
 clubmaker.ch
@@ -12215,7 +12226,6 @@ clymate.ch
 clymind.ch
 clyms.ch
 clyn.ch
-clyner.ch
 clynique.ch
 clyno.ch
 clynol.ch

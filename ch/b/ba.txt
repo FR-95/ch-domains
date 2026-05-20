@@ -616,6 +616,7 @@ babellingua.ch
 babelonia.ch
 babelquartier.ch
 babelreplay.ch
+babelspee.ch
 babelstrings.ch
 babeltrans.ch
 babemoo.ch
@@ -1478,7 +1479,6 @@ babyjeux.ch
 babyjoe.ch
 babyjogger.ch
 babyjola.ch
-babyjones.ch
 babyjost.ch
 babyjourney.ch
 babyjoy.ch
@@ -1995,7 +1995,6 @@ babytraum.ch
 babytrend.ch
 babytrends.ch
 babytritt.ch
-babytroc.ch
 babytrop.ch
 babytuch.ch
 babyu.ch
@@ -4394,6 +4393,7 @@ baden-tourismus.ch
 baden-turgi.ch
 baden-war.ch
 baden-wettingen.ch
+baden-wird.ch
 baden-zahnarzt-stadtturm.ch
 baden-zahnarzt.ch
 baden-zahnarztpraxis.ch
@@ -4815,6 +4815,7 @@ badezimmerumbauen.ch
 badezimmerwelt.ch
 badezimmerwelt24.ch
 badezimmerzubehoer.ch
+badezubehoer.ch
 badezuber.ch
 badezusaetze.ch
 badezusatz.ch
@@ -10429,6 +10430,7 @@ balena.ch
 balencia.ch
 balenciaga.ch
 balencio.ch
+balene.ch
 balenekingo.ch
 baleness.ch
 balengineering.ch
@@ -11710,7 +11712,6 @@ balloons.ch
 balloonsgalore.ch
 balloonsoverswitzerland.ch
 balloonstar.ch
-balloontastic.ch
 balloontogo.ch
 balloonworld.ch
 balloonwrld.ch
@@ -11902,6 +11903,7 @@ balmer-baurealisierung.ch
 balmer-bd.ch
 balmer-bergsport.ch
 balmer-biberist.ch
+balmer-broker.ch
 balmer-bsp.ch
 balmer-buecherdienst.ch
 balmer-coaching.ch
@@ -13926,6 +13928,7 @@ banga.ch
 bangalore.ch
 bangames.ch
 bangarang.ch
+bangaranga.ch
 bangbabe.ch
 bangbang.ch
 bangbangandfriends.ch
@@ -15552,6 +15555,7 @@ bar-tapas-aipes.ch
 bar-theatre.ch
 bar-therapie.ch
 bar-tools.ch
+bar-topas.ch
 bar-topaze.ch
 bar-tour.ch
 bar-verbano.ch
@@ -16739,6 +16743,7 @@ barber24.ch
 barbera-craft.ch
 barbera.ch
 barberabo.ch
+barberafoodco.ch
 barberaliev.ch
 barberandsons.ch
 barberangels.ch
@@ -23487,6 +23492,7 @@ batitek.ch
 batitherm.ch
 batitime.ch
 batitonic.ch
+batitool.ch
 batitout.ch
 batitrade.ch
 batitravaux.ch
@@ -24109,6 +24115,7 @@ batzeli.ch
 batzen.ch
 batzenbrot.ch
 batzenhochzeit.ch
+batzensparen.ch
 batzer.ch
 batzi.ch
 batzig.ch
@@ -24130,6 +24137,7 @@ bau-ag-alpnach.ch
 bau-ag-baumanagement.ch
 bau-ag.ch
 bau-agent.ch
+bau-agentur.ch
 bau-aktuell.ch
 bau-akustik.ch
 bau-alarm.ch
@@ -25155,6 +25163,7 @@ bauckmuehle.ch
 bauclass.ch
 bauclaud.ch
 bauclean.ch
+baucleanservice.ch
 bauclever.ch
 baucloud-schweiz.ch
 baucloud-suisse.ch
@@ -25465,6 +25474,7 @@ bauenboltigen.ch
 bauendigital.ch
 bauendigitalschweiz.ch
 bauendreinigung.ch
+bauendreinigungbern.ch
 bauendreinigungen.ch
 bauenergie-beratung.ch
 bauenergie-lehner.ch
@@ -25483,7 +25493,6 @@ bauenimbestandswiss.ch
 bauenimdorf.ch
 baueninholz.ch
 bauenistvertrauen.ch
-bauenlassen.ch
 bauenlebenwohnen.ch
 bauenlimmattal.ch
 bauenmit.ch
@@ -25582,6 +25591,7 @@ bauer-schweiz.ch
 bauer-schweizer.ch
 bauer-services.ch
 bauer-sportpreise.ch
+bauer-tg.ch
 bauer-travel.ch
 bauer-treuhand.ch
 bauer-umweltsciences.ch
@@ -25984,6 +25994,7 @@ baufamilie.ch
 baufarben-teknos.ch
 baufarben.ch
 baufehler.ch
+baufeinreinigung.ch
 baufeld.ch
 baufeldag.ch
 baufeldh-lyss.ch
@@ -26490,6 +26501,7 @@ bauinspektorat.ch
 bauinstahl.ch
 bauintegral.ch
 bauintelligence.ch
+bauinventar.ch
 bauinvest-ag.ch
 bauinvest.ch
 bauinvest11.ch
@@ -28081,7 +28093,6 @@ baumlieferservice.ch
 baumline.ch
 baumlink.ch
 baumlos.ch
-baumlossattel-mieten.ch
 baumlumens.ch
 baummaa-baumpflege.ch
 baummaa.ch
@@ -28881,6 +28892,7 @@ baureinigung-aarau.ch
 baureinigung-aargau.ch
 baureinigung-basel.ch
 baureinigung-bern.ch
+baureinigung-bern24.ch
 baureinigung-luzern.ch
 baureinigung-schweiz.ch
 baureinigung-zueri.ch
@@ -28892,6 +28904,7 @@ baureinigung365.ch
 baureinigungbasel.ch
 baureinigungbern.ch
 baureinigungen.ch
+baureinigungsfirma.ch
 baureinigungsotelo.ch
 baureklame.ch
 baureklame24.ch
@@ -29391,6 +29404,7 @@ baustellennews.ch
 baustellenparcours.ch
 baustellenprofi.ch
 baustellenradio.ch
+baustellenreinigungbern.ch
 baustellenrisotto.ch
 baustellenschild.ch
 baustellenschilder.ch

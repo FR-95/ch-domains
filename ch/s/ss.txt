@@ -149,6 +149,7 @@ ssbase.ch
 ssbb-office.ch
 ssbb.ch
 ssbc.ch
+ssbcll.ch
 ssbd-online.ch
 ssbd.ch
 ssbe.ch
@@ -400,6 +401,7 @@ ssegroup.ch
 ssei.ch
 ssei1.ch
 ssei2.ch
+ssei3.ch
 ssem-journal.ch
 ssem.ch
 ssen.ch

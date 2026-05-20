@@ -99,7 +99,6 @@ ti-group.ch
 ti-help.ch
 ti-house.ch
 ti-i.ch
-ti-immo.ch
 ti-immobili.ch
 ti-immobilien.ch
 ti-incasso.ch
@@ -1277,6 +1276,7 @@ ticinosoloaffitti.ch
 ticinosostenibile.ch
 ticinospa.ch
 ticinospace.ch
+ticinospecialgardenstabio.ch
 ticinospirit.ch
 ticinospitex.ch
 ticinosport.ch
@@ -1322,7 +1322,6 @@ ticinotraslochi.ch
 ticinotrasporti.ch
 ticinotrasportietraslochi.ch
 ticinotravel.ch
-ticinotravelblog.ch
 ticinotrend.ch
 ticinotta.ch
 ticinoturismo.ch
@@ -5644,7 +5643,6 @@ tiinnovatis.ch
 tiins-creations.ch
 tiira.ch
 tiirendo.ch
-tiis-natural-food.ch
 tiiss.ch
 tiissa.ch
 tiit.ch
@@ -7321,6 +7319,7 @@ timepost.ch
 timepot.ch
 timepride.ch
 timeprime.ch
+timeprofessor.ch
 timeprofi.ch
 timepromio.ch
 timeproof.ch
@@ -9369,6 +9368,7 @@ tinyoffice.ch
 tinyoils.ch
 tinyorganics.ch
 tinyou.ch
+tinypartner.ch
 tinypaws.ch
 tinypin.ch
 tinyplace.ch
@@ -9419,7 +9419,6 @@ tinyteen.ch
 tinytelling.ch
 tinythings.ch
 tinythreadsexchange.ch
-tinytidy.ch
 tinytimeout.ch
 tinytoes.ch
 tinytools.ch

@@ -50,6 +50,7 @@ ef27.ch
 ef2start.ch
 ef3047.ch
 ef3basic.ch
+ef3bau.ch
 ef3premium.ch
 ef5.ch
 ef8450.ch

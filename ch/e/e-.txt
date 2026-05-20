@@ -297,6 +297,7 @@ e-bike-adventure-tours.ch
 e-bike-akku.ch
 e-bike-basel.ch
 e-bike-belp.ch
+e-bike-center.ch
 e-bike-chur.ch
 e-bike-congress.ch
 e-bike-damen.ch
@@ -853,7 +854,6 @@ e-daten.ch
 e-datenraum.ch
 e-dates.ch
 e-dating.ch
-e-day.ch
 e-days.ch
 e-de-rothschild-group.ch
 e-deals.ch
@@ -3245,6 +3245,7 @@ e-vapeshop.ch
 e-vaporizer.ch
 e-vat.ch
 e-vaulting.ch
+e-velo-center.ch
 e-velo-reisen.ch
 e-velo.ch
 e-velo365.ch

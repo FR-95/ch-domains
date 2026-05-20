@@ -167,7 +167,6 @@ ch-es-reicht.ch
 ch-es.ch
 ch-estate.ch
 ch-events.ch
-ch-evignette.ch
 ch-evote.ch
 ch-evoting.ch
 ch-f.ch
@@ -2118,6 +2117,7 @@ chalet-mirella.ch
 chalet-mischabel.ch
 chalet-molignon.ch
 chalet-monbijou.ch
+chalet-mondschein.ch
 chalet-monika.ch
 chalet-montana.ch
 chalet-montblanc.ch
@@ -2273,6 +2273,7 @@ chalet-thesy.ch
 chalet-thoeny-arosa.ch
 chalet-timber-inn.ch
 chalet-tirolia.ch
+chalet-tobler.ch
 chalet-toggenburg.ch
 chalet-torgon.ch
 chalet-traeumli-frutt.ch
@@ -5163,6 +5164,7 @@ chapiteauxenchantes.ch
 chapito.ch
 chapitre-7.ch
 chapitre-cinq.ch
+chapitre-immobilier.ch
 chapitre-stnicolas.ch
 chapitre.ch
 chapitre7.ch
@@ -6663,8 +6665,6 @@ chasa-capol.ch
 chasa-capricornin-scuol.ch
 chasa-chalavaina.ch
 chasa-champatsch.ch
-chasa-clavazin-ardez.ch
-chasa-curtin17-sent.ch
 chasa-curtins.ch
 chasa-diana.ch
 chasa-doepper-scuol.ch
@@ -6691,7 +6691,6 @@ chasa-montagna.ch
 chasa-muntplan-ftan.ch
 chasa-nova.ch
 chasa-nuotcla.ch
-chasa-panorama-scuol.ch
 chasa-parli.ch
 chasa-perspectiva.ch
 chasa-plan-grond.ch
@@ -7395,7 +7394,6 @@ chateaumarinara.ch
 chateaumeggenhorn.ch
 chateaumercier-residence.ch
 chateaumercier.ch
-chateaumerlinge.ch
 chateaumito.ch
 chateaumouton.ch
 chateaumuzot.ch
@@ -8245,6 +8243,7 @@ chaville.ch
 chaviolas.ch
 chavjoh.ch
 chavo-immo.ch
+chavo.ch
 chavoir.ch
 chavonnes.ch
 chavornay-terminal.ch
@@ -8530,6 +8529,7 @@ che-kunststiftung.ch
 che-lieblingsnaht.ch
 che-mate.ch
 che-pizza.ch
+che-studi-scegliere.ch
 che-vaud.ch
 che-vegara.ch
 che-xeroxprintportal.ch
@@ -13562,6 +13562,7 @@ chili-health-hombrechtikon.ch
 chili-health-maennedorf.ch
 chili-health-staefa.ch
 chili-health.ch
+chili-holding.ch
 chili-im-gurkenglas.ch
 chili-kaufen.ch
 chili-kult.ch
@@ -14069,6 +14070,7 @@ china-auto-import.ch
 china-auto.ch
 china-autoimport.ch
 china-basel.ch
+china-cars.ch
 china-chuchi.ch
 china-competence.ch
 china-connect.ch
@@ -14193,6 +14195,7 @@ chinagarden-geneve.ch
 chinagarden-wattwil.ch
 chinagarden-zermatt.ch
 chinagarden.ch
+chinagardenke.ch
 chinagarten-zuerich.ch
 chinagesund.ch
 chinagirl.ch
@@ -15298,7 +15301,6 @@ chirosundteam.ch
 chirosurf.ch
 chirosursee.ch
 chiroswiss.ch
-chiroswiss1.ch
 chiroswiss2.ch
 chirotherapie.ch
 chirotraining.ch
@@ -15754,7 +15756,6 @@ chitarraclassica.ch
 chitarre.ch
 chitarredalmondo.ch
 chitchat.ch
-chitec.ch
 chitech.ch
 chitengineering.ch
 chitin.ch
@@ -15778,6 +15779,7 @@ chitzele.ch
 chiu.ch
 chiubigiglae.ch
 chiubigigle.ch
+chiubikompass.ch
 chiuche.ch
 chiudi-il-cerchio.ch
 chiudiilcerchio.ch
@@ -15812,7 +15814,6 @@ chiwckf.ch
 chiwellpointer.ch
 chiweto.ch
 chiwi.ch
-chiwing.ch
 chiwok-thai-therapie.ch
 chix.ch
 chixxi.ch
@@ -19134,6 +19135,7 @@ chrisleebear.ch
 chrisleni.ch
 chrisler.ch
 chrislifecoach.ch
+chrislight.ch
 chrislinder.ch
 chrislive.ch
 chrislou.ch
@@ -20479,7 +20481,6 @@ christianriba.ch
 christianrieder.ch
 christianrieger.ch
 christianriesen.ch
-christianrijke.ch
 christianriner.ch
 christianrivola.ch
 christianrobert.ch
@@ -24163,7 +24164,6 @@ chutz.ch
 chutze-verwaltung.ch
 chutze.ch
 chutzechuchi.ch
-chutzegarte.ch
 chutzegruess.ch
 chutzejodler.ch
 chutzemischt.ch

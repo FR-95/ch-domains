@@ -17,6 +17,7 @@ re-aktiv.ch
 re-al.ch
 re-anchor.ch
 re-animated.ch
+re-ar.ch
 re-architecture.ch
 re-art.ch
 re-ba.ch
@@ -1044,7 +1045,6 @@ real-estate-digital.ch
 real-estate-due-diligence.ch
 real-estate-europe.ch
 real-estate-evaluation.ch
-real-estate-executive.ch
 real-estate-in-switzerland.ch
 real-estate-investing.ch
 real-estate-investment.ch
@@ -1834,6 +1834,7 @@ realitylens.ch
 realitymaps.ch
 realitymotion.ch
 realityplus.ch
+realityproductions.ch
 realitytextile.ch
 realitytraining.ch
 realityverse.ch
@@ -3036,6 +3037,7 @@ rebelmedia.ch
 rebelmediadesign.ch
 rebelmind.ch
 rebelmoto.ch
+rebelmotobox.ch
 rebelnexus.ch
 rebelo-carrelage.ch
 rebelo.ch
@@ -5490,6 +5492,9 @@ recover-me.ch
 recover.ch
 recoverassist.ch
 recovercrypto.ch
+recovered-fibers.ch
+recovered-steelfibers.ch
+recovered-steelfibres.ch
 recovered.ch
 recoverformotion.ch
 recoverics.ch
@@ -7502,6 +7507,7 @@ redm-software.ch
 redm.ch
 redmag.ch
 redmagnetics.ch
+redmail.ch
 redmall.ch
 redman.ch
 redmanconsulting.ch
@@ -15005,6 +15011,7 @@ reiki-raumzeit.ch
 reiki-rive-gauche.ch
 reiki-roman.ch
 reiki-roulotte.ch
+reiki-samson.ch
 reiki-schaffhausen.ch
 reiki-schmocker.ch
 reiki-school.ch
@@ -15769,10 +15776,12 @@ reinigungen-basel.ch
 reinigungen-berger.ch
 reinigungen-berisha.ch
 reinigungen-bern.ch
+reinigungen-biel.ch
 reinigungen-frick.ch
 reinigungen-goci.ch
 reinigungen-hauswartung.ch
 reinigungen-jorge.ch
+reinigungen-k.ch
 reinigungen-luchsinger.ch
 reinigungen-luzern.ch
 reinigungen-malters.ch
@@ -15795,6 +15804,7 @@ reinigungenberisha.ch
 reinigungenbern.ch
 reinigungencorreia.ch
 reinigungengraf.ch
+reinigungenk.ch
 reinigungenmitherz.ch
 reinigungenschlossergmbh.ch
 reinigungentschanz.ch
@@ -15877,6 +15887,7 @@ reinigungsag.ch
 reinigungsagentur.ch
 reinigungsallauka.ch
 reinigungsanbieter.ch
+reinigungsangebot.ch
 reinigungsangebote.ch
 reinigungsanlage.ch
 reinigungsanlagen.ch
@@ -16159,6 +16170,7 @@ reinigungsservice-zuri.ch
 reinigungsservice.ch
 reinigungsservice24.ch
 reinigungsservice365.ch
+reinigungsservicebern.ch
 reinigungsservicenadjajaeggli.ch
 reinigungsservices.ch
 reinigungsservicezuerich.ch
@@ -18220,6 +18232,7 @@ rejeb.ch
 reject.ch
 rejected.ch
 rejects.ch
+rejetdistillerie.ch
 rejeuv.ch
 rejewled.ch
 rejewls.ch
@@ -18972,7 +18985,6 @@ relaxedundgsund.ch
 relaxeez.ch
 relaxeffect.ch
 relaxenfant.ch
-relaxentials.ch
 relaxer.ch
 relaxescort.ch
 relaxeur.ch
@@ -19178,6 +19190,7 @@ release-therapeutics.ch
 release-tx.ch
 release.ch
 release1punkt6.ch
+release33.ch
 release36.ch
 releaseco.ch
 released.ch
@@ -22753,7 +22766,6 @@ renewave.ch
 reneway.ch
 renewbike.ch
 renewbynath.ch
-renewcode.ch
 reneweb.ch
 reneweber.ch
 reneweiss.ch
@@ -22964,6 +22976,7 @@ renjo.ch
 renk-immo.ch
 renk-maag.ch
 renk.ch
+renka-immobilien.ch
 renka.ch
 renkel.ch
 renken.ch
@@ -23850,6 +23863,7 @@ renovations.ch
 renovationsabzug.ch
 renovationsalledebainbienne.ch
 renovationsalledebaingeneve.ch
+renovationsalledebainlausanne.ch
 renovationsalledebainneuchatel.ch
 renovationsalledebainvaud.ch
 renovationsarbeiten.ch
@@ -25452,7 +25466,6 @@ rentreview.ch
 rentrewards.ch
 rentric.ch
 rentrio.ch
-rentro.ch
 rentrobot.ch
 rentroom.ch
 rentrooms.ch
@@ -25460,7 +25473,6 @@ rentrop.ch
 rentrust.ch
 rents.ch
 rentsales.ch
-rentsave.ch
 rentsch-ag.ch
 rentsch-agrardienst.ch
 rentsch-automobile.ch
@@ -25705,6 +25717,7 @@ reobrix-switzerland.ch
 reobrix.ch
 reoc.ch
 reocani.ch
+reod.ch
 reoffice.ch
 reofin.ch
 reofinconsult.ch
@@ -26164,6 +26177,7 @@ reparatur-werk.ch
 reparatur-werkstatt.ch
 reparatur-wintergarten.ch
 reparatur.ch
+reparatur24.ch
 reparaturabc.ch
 reparaturanleitung.ch
 reparaturanmeldung.ch
@@ -26236,12 +26250,14 @@ reparaturschreiner24.ch
 reparaturschreiner48.ch
 reparaturscout.ch
 reparaturservice-baldinger.ch
+reparaturservice-bern.ch
 reparaturservice.ch
 reparaturshop.ch
 reparaturspezialisten.ch
 reparaturstadt.ch
 reparaturteile.ch
 reparaturverglasung.ch
+reparaturvergleich.ch
 reparaturverzeichnis.ch
 reparaturwelt.ch
 reparaturwerk.ch
@@ -27251,6 +27267,7 @@ rerni.ch
 rernst.ch
 rernund-kuster.ch
 rero-ag.ch
+rero-defence.ch
 rero-glasdesign.ch
 rero-tex-shop.ch
 rero-tex.ch
@@ -30406,7 +30423,6 @@ restaurant-allegrezza.ch
 restaurant-allmend.ch
 restaurant-allmendhof.ch
 restaurant-alma.ch
-restaurant-alp.ch
 restaurant-alpenblick-gspon.ch
 restaurant-alpenblick.ch
 restaurant-alpenhof.ch
@@ -31090,7 +31106,6 @@ restaurant-henry.ch
 restaurant-herbilo.ch
 restaurant-herrenberg.ch
 restaurant-hertenstein.ch
-restaurant-heugemper.ch
 restaurant-heyer.ch
 restaurant-high-tech.ch
 restaurant-hirschberg.ch
@@ -31679,7 +31694,6 @@ restaurant-piritacos.ch
 restaurant-piscine-lasarraz.ch
 restaurant-piscine-venoge.ch
 restaurant-piscinelignon.ch
-restaurant-pizzabar-koeniz.ch
 restaurant-pizzeria-3-dranses.ch
 restaurant-pizzeria-angolino.ch
 restaurant-pizzeria-baeren.ch
@@ -33973,7 +33987,6 @@ restobrocafe.ch
 restocafe.ch
 restocar.ch
 restocareer.ch
-restochaletneuf.ch
 restock.ch
 restocks.ch
 restoclub.ch
@@ -34299,9 +34312,12 @@ resultheadwear.ch
 resulting.ch
 resultingroup.ch
 resultra.ch
+results-story.ch
 results.ch
 resultsbysimplicity.ch
 resultservice.ch
+resultsstory.ch
+resultstory.ch
 resulty.ch
 resuma.ch
 resumate.ch
@@ -35789,6 +35805,7 @@ retrology.ch
 retrolook.ch
 retrolove.ch
 retrolux.ch
+retroluz.ch
 retromag.ch
 retromania.ch
 retromaniac.ch
@@ -35912,7 +35929,6 @@ retrouversonetoile.ch
 retrouvetaclasse.ch
 retrouveunjob.ch
 retrouvezvous.ch
-retrova.ch
 retrovale.ch
 retrovare.ch
 retrovault.ch
@@ -35941,6 +35957,7 @@ retrozone.ch
 retry-rechance.ch
 retry.ch
 retrys.ch
+retsch.ch
 retschitzki-ingenieur.ch
 retschwil.ch
 retseptli.ch
@@ -37142,7 +37159,6 @@ revesafrique.ch
 revesalpins.ch
 revesdebrousse.ch
 revesdebulles.ch
-revesdecrampons.ch
 revesdedodo.ch
 revesdenature.ch
 revesdenfantsbijoux.ch
@@ -37550,6 +37566,7 @@ revita-clinic.ch
 revita-klinik.ch
 revita-naturheilkunde.ch
 revita.ch
+revitabau.ch
 revitaconsulting.ch
 revitadetox.ch
 revitae.ch
@@ -37824,6 +37841,7 @@ revoltech.ch
 revolterum.ch
 revoltingkids.ch
 revoltmusic.ch
+revoltproject.ch
 revoltstone.ch
 revoluciole.ch
 revolucion.ch
@@ -38674,10 +38692,8 @@ reyoma.ch
 reyondesoleil.ch
 reyonfire.ch
 reyora.ch
-reyou.ch
 reyouch.ch
 reyouclinic.ch
-reyouclinique.ch
 reyousuisseclinic.ch
 reyouth.ch
 reyouz.ch

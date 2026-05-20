@@ -303,6 +303,7 @@ cabane-dent-blanche.ch
 cabane-des-vignettes.ch
 cabane-diablerets.ch
 cabane-du-pecheur.ch
+cabane-du-web.ch
 cabane-fxb-panossiere.ch
 cabane-hotel.ch
 cabane-moiry.ch
@@ -1030,6 +1031,7 @@ cabinet-veterinaire-fribourg.ch
 cabinet-veterinaire-krebs.ch
 cabinet-veterinaire-re.ch
 cabinet-veterinaire.ch
+cabinet-vex.ch
 cabinet-vidal.ch
 cabinet-vieille-ville.ch
 cabinet-villars.ch
@@ -2005,6 +2007,7 @@ cache.ch
 cache24.ch
 cacheaventure.ch
 cachecache.ch
+cachecachesuisse.ch
 cacheequip.ch
 cachemaille.ch
 cachemical.ch
@@ -2257,6 +2260,7 @@ cadastre-vs.ch
 cadastre.ch
 cadastre3d.ch
 cadastres-valais.ch
+cadastresouterrain.ch
 cadastresuisse.ch
 cadatelier.ch
 cadautomation.ch
@@ -2293,7 +2297,6 @@ caddenz.ch
 caddesign.ch
 caddev.ch
 caddi.ch
-caddia.ch
 caddie-service.ch
 caddie.ch
 caddie102.ch
@@ -2733,6 +2736,7 @@ cadservice.ch
 cadshop.ch
 cadsolution.ch
 cadsolutions.ch
+cadsout.ch
 cadspeter.ch
 cadspezialist.ch
 cadstar-order.ch
@@ -6147,6 +6151,7 @@ californiacarstour.ch
 californiacustom.ch
 californiacustoms.ch
 californiaferien.ch
+californiafitnessproducts.ch
 californiagreen.ch
 californiagrownhemp.ch
 californiagym.ch
@@ -6845,6 +6850,7 @@ callup.ch
 callus.ch
 callusan.ch
 callux.ch
+callvana.ch
 callwey.ch
 callwise.ch
 cally.ch
@@ -9376,6 +9382,7 @@ camping-gas.ch
 camping-gasgrill.ch
 camping-gasgrills.ch
 camping-gaskocher.ch
+camping-generation-shop.ch
 camping-generation.ch
 camping-geschirr-set.ch
 camping-geschirr.ch
@@ -13586,6 +13593,7 @@ cantine.ch
 cantineaperte.ch
 cantineaperteticino.ch
 cantineboldini.ch
+cantinecaprino.ch
 cantinedentreprise.ch
 cantinedeselfes.ch
 cantinediablerets.ch
@@ -15143,7 +15151,6 @@ caponconsulting.ch
 capone-mail.ch
 capone.ch
 caponfinance.ch
-caponi.ch
 caponordinmoto.ch
 capoons.ch
 capop.ch
@@ -15514,6 +15521,7 @@ capriv8.ch
 capriva.ch
 caprivida.ch
 caprivipartners.ch
+caprizzi.ch
 capro-kantenschutz.ch
 capro.ch
 caprock-partners.ch
@@ -19160,6 +19168,7 @@ caremia.ch
 careminerals.ch
 caremis.ch
 caremitou.ch
+caremobil-basel.ch
 caremobil.ch
 caremobile.ch
 caremobilia-shop.ch
@@ -20547,6 +20556,7 @@ carlane.ch
 carlanja.ch
 carlano.ch
 carlapeterhans.ch
+carlaphotography.ch
 carlapinana.ch
 carlareinhard.ch
 carlarickenbacher.ch
@@ -20815,6 +20825,7 @@ carlolacirasella.ch
 carlolaffranchi.ch
 carlolepori.ch
 carloloschiavo.ch
+carlomagico.ch
 carlomainetti.ch
 carlomarchinischweiz.ch
 carlomargiotta.ch
@@ -21442,6 +21453,7 @@ carmignac-gestion.ch
 carmignac.ch
 carmignacgestion.ch
 carmignani.ch
+carmigo.ch
 carmillion.ch
 carmina-dave.ch
 carmina-quartett.ch
@@ -21862,7 +21874,6 @@ carografie.ch
 carografik.ch
 carogusto.ch
 carohill.ch
-carohome.ch
 carohonegger.ch
 carohug.ch
 carohypnose.ch
@@ -23307,6 +23318,7 @@ carrieredanslavente.ch
 carrieredevolleges.ch
 carrierefeminine.ch
 carrierehotelresto.ch
+carrierekit.ch
 carrierelab.ch
 carriereonline.ch
 carrieres-a-voir.ch
@@ -24676,7 +24688,6 @@ carshipping.ch
 carshoot.ch
 carshooting.ch
 carshoots.ch
-carshop-kia.ch
 carshop.ch
 carshop24.ch
 carshopper.ch
@@ -25023,6 +25034,7 @@ cartelcarouge.ch
 cartelevents.ch
 cartelfoods.ch
 cartelgryon.ch
+cartelier.ch
 cartell.ch
 cartella-diabete.ch
 cartella-paziente.ch
@@ -25850,7 +25862,6 @@ carzan.ch
 carzaniga.ch
 carzh.ch
 carzi.ch
-carzil.ch
 carzilla.ch
 carzip.ch
 carzmart.ch
@@ -27277,6 +27288,7 @@ casaflora.ch
 casaflorentini.ch
 casaflorio.ch
 casaflow-yoga.ch
+casaflow.ch
 casafluretta.ch
 casaflurina.ch
 casaflury.ch
@@ -27670,7 +27682,6 @@ casamedien.ch
 casamediterranea.ch
 casameier.ch
 casamelodia.ch
-casamendes.ch
 casamento2025.ch
 casamercurio.ch
 casamere.ch
@@ -28124,6 +28135,7 @@ casasantabirgitta.ch
 casasantacaterina.ch
 casasantaelisabetta.ch
 casasantalucia.ch
+casasanti.ch
 casasantostefano.ch
 casasarda.ch
 casasasso.ch
@@ -29810,6 +29822,7 @@ casinobros.ch
 casinobrothers.ch
 casinobud.ch
 casinobutler.ch
+casinocampione.ch
 casinocapitol.ch
 casinocapospin.ch
 casinocasinacho.ch
@@ -29972,6 +29985,7 @@ casinoinfo.ch
 casinoinquirer.ch
 casinoinswitserland.ch
 casinointerlaken.ch
+casinointernational.ch
 casinoiris-ch.ch
 casinoiris.ch
 casinoirwin.ch
@@ -30134,6 +30148,7 @@ casinoroyale.ch
 casinoroyals.ch
 casinoroyalsea.ch
 casinos-austria.ch
+casinos-en-ligne-international.ch
 casinos-en-ligne.ch
 casinos-online.ch
 casinos-schweiz.ch
@@ -30168,6 +30183,7 @@ casinoseiten.ch
 casinosenligne.ch
 casinosenlignesuisse.ch
 casinosenlignesuisses.ch
+casinosetranger.ch
 casinosg.ch
 casinoshop.ch
 casinoshopping.ch
@@ -31860,7 +31876,6 @@ catdog.ch
 catdogfood.ch
 catdogs.ch
 catdoor.ch
-catdoors.ch
 catdr.ch
 catdream.ch
 cate-ring.ch
@@ -33826,7 +33841,6 @@ cavemus.ch
 cavena.ch
 cavenaghi-mayor.ch
 cavenago.ch
-cavendisch.ch
 cavendric-governance.ch
 cavendric.ch
 cavendum-futura.ch

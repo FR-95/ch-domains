@@ -3112,7 +3112,6 @@ guitaremontblanc.ch
 guitaremontreux.ch
 guitares.ch
 guitareshop.ch
-guitaresolo.ch
 guitarfest.ch
 guitarguitar.ch
 guitarhero.ch
@@ -5000,6 +4999,7 @@ guteaussichten.ch
 guteautos.ch
 gutebaukultur.ch
 gutebaukulturluzern.ch
+gutebegleitung.ch
 gutebeispiele.ch
 guteberatung.ch
 gutebesserung.ch
@@ -5351,6 +5351,7 @@ guthess.ch
 guthings.ch
 guthirt-beratung.ch
 guthirt-treuhand.ch
+guthirt-treuhandservices.ch
 guthirt-zug.ch
 guthirt.ch
 guthirtberatung.ch

@@ -112,6 +112,7 @@ ki-bike.ch
 ki-bild.ch
 ki-bilder-erstellen.ch
 ki-bilderservice.ch
+ki-bildung.ch
 ki-bildungsinstitut.ch
 ki-blick.ch
 ki-blickpunkt.ch
@@ -181,7 +182,6 @@ ki-consulting.ch
 ki-consulting24.ch
 ki-consultingagency.ch
 ki-content-generator.ch
-ki-content.ch
 ki-contor.ch
 ki-control.ch
 ki-controlling.ch
@@ -418,6 +418,7 @@ ki-ko.ch
 ki-koach.ch
 ki-koch.ch
 ki-kodex.ch
+ki-koffer.ch
 ki-kommunikation.ch
 ki-kommunikationsberatung.ch
 ki-kompakt.ch
@@ -457,6 +458,7 @@ ki-leadconversionlizenz.ch
 ki-lebenslauf.ch
 ki-legal.ch
 ki-lehrer.ch
+ki-lehrgang.ch
 ki-lehrling.ch
 ki-lektorat.ch
 ki-lernen.ch
@@ -795,7 +797,6 @@ ki-talk.ch
 ki-te.ch
 ki-teacher.ch
 ki-team.ch
-ki-tech.ch
 ki-telefon.ch
 ki-telefonagent.ch
 ki-telefonassistent.ch
@@ -846,6 +847,7 @@ ki-und-kirche.ch
 ki-und-management.ch
 ki-und-therapie.ch
 ki-unternehmen.ch
+ki-unterricht.ch
 ki-unterstuetzung.ch
 ki-update.ch
 ki-verband.ch
@@ -1109,7 +1111,6 @@ kiamotors.ch
 kiamove.ch
 kian-alexander.ch
 kian-fischer.ch
-kian-materials.ch
 kian-roya.ch
 kian.ch
 kiana-ag.ch
@@ -1782,6 +1783,7 @@ kiddoland.ch
 kiddos.ch
 kiddoskiste.ch
 kiddoz.ch
+kidduu.ch
 kiddy-box.ch
 kiddy-casa.ch
 kiddy-dome.ch
@@ -1885,6 +1887,7 @@ kidli.ch
 kidlit.ch
 kidloc.ch
 kidly.ch
+kidmap.ch
 kidmed.ch
 kidmoe.ch
 kidmose.ch
@@ -1918,6 +1921,7 @@ kidomio.ch
 kidoo.ch
 kidooclub.ch
 kidoolia.ch
+kidoolum.ch
 kidoprotect.ch
 kidor.ch
 kidora.ch
@@ -3640,6 +3644,7 @@ kikabet.ch
 kikac.ch
 kikadogtrainer.ch
 kikaevents.ch
+kikafi.ch
 kikai-shiatsu.ch
 kikai.ch
 kikaj-consulting.ch
@@ -7719,6 +7724,7 @@ kindervilla-kita.ch
 kindervilla-kitas.ch
 kindervilla-krippen.ch
 kindervilla-lummerland.ch
+kindervilla-wilchingen.ch
 kindervilla.ch
 kindervillakunterbunt.ch
 kindervitamine.ch
@@ -8672,7 +8678,6 @@ kinesiologie-bergdietikon.ch
 kinesiologie-bern-andrealaky.ch
 kinesiologie-bern-bolligen.ch
 kinesiologie-bern.ch
-kinesiologie-bernasconi.ch
 kinesiologie-beutler.ch
 kinesiologie-bewegt.ch
 kinesiologie-bianchi.ch
@@ -8729,7 +8734,6 @@ kinesiologie-einsiedeln.ch
 kinesiologie-elisabeth-sz.ch
 kinesiologie-ellenberger.ch
 kinesiologie-emeline.ch
-kinesiologie-emmenbruecke.ch
 kinesiologie-emmenegger.ch
 kinesiologie-energetique.ch
 kinesiologie-energiefluss.ch
@@ -8980,7 +8984,6 @@ kinesiologie-sabine-bianchi.ch
 kinesiologie-sakura.ch
 kinesiologie-sandragygax.ch
 kinesiologie-sarah.ch
-kinesiologie-saru.ch
 kinesiologie-schaefer.ch
 kinesiologie-schaerer.ch
 kinesiologie-scheda.ch
@@ -9740,7 +9743,6 @@ kingofrolls.ch
 kingofstatenisland-lefilm.ch
 kingofstatenisland.ch
 kingofsteel.ch
-kingofsuhomesco.ch
 kingofsuhomeso.ch
 kingofsweets.ch
 kingofswiss.ch
@@ -9964,7 +9966,6 @@ kingstreet.ch
 kingstreetcapital.ch
 kingstreetcapitalmanagement.ch
 kingstreeteurope.ch
-kingsuhomesco.ch
 kingsuhomeso.ch
 kingsummer.ch
 kingsverbier.ch
@@ -10408,7 +10409,6 @@ kinonische.ch
 kinooberwallis.ch
 kinooensingen.ch
 kinoonline.ch
-kinooo.ch
 kinoopen.ch
 kinoopenair.ch
 kinoopenairs.ch
@@ -14052,6 +14052,7 @@ kitapraxis.ch
 kitapro.ch
 kitapunkt.ch
 kitaradar.ch
+kitarafiki.ch
 kitaratatui.ch
 kitarchitects.ch
 kitarchitekten.ch
@@ -14681,6 +14682,7 @@ kitpizzas.ch
 kitplanes.ch
 kitpowell.ch
 kitpower.ch
+kitpro.ch
 kitrading.ch
 kitrainer.ch
 kitraining.ch
@@ -15380,6 +15382,7 @@ kizomba-zug.ch
 kizomba-zurich.ch
 kizomba.ch
 kizombachata.ch
+kizombadream.ch
 kizombaton.ch
 kizombatouch.ch
 kizombazug.ch

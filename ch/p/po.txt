@@ -3549,6 +3549,7 @@ polikar.ch
 polikem.ch
 polikit.ch
 poliklinik.ch
+polikom.ch
 polikomm.ch
 polikos.ch
 polikosimmo.ch
@@ -3706,9 +3707,11 @@ polit-x.ch
 polit.ch
 polit2go.ch
 polita.ch
+politacademy.ch
 politagenda.ch
 politagentur.ch
 politains.ch
+politakademie.ch
 politakt.ch
 politan.ch
 politanalyst.ch
@@ -4885,7 +4888,6 @@ pollu-laboratoir.ch
 pollu-test.ch
 pollu.ch
 polluanalyse.ch
-polluant.ch
 polluantdubatiment.ch
 polluants.ch
 polluantsdubatiment.ch
@@ -6827,6 +6829,7 @@ ponga.ch
 pongarde.ch
 pongelli.ch
 pongibox.ch
+pongkopia.ch
 pongo.ch
 pongohundesitter.ch
 pongoland.ch
@@ -8126,6 +8129,7 @@ popcreative.ch
 popcrown.ch
 popcult.ch
 popculture.ch
+popcultureconvention.ch
 popcultureisgood.ch
 popdate.ch
 popday.ch
@@ -10416,6 +10420,7 @@ portraitfotografen.ch
 portraitfotografie.ch
 portraitfotografin.ch
 portraitfotos.ch
+portraitgeneva.ch
 portraitgraf.ch
 portraitherapie.ch
 portraitierung.ch
@@ -10670,7 +10675,6 @@ pos-pharma.ch
 pos-picture.ch
 pos-report.ch
 pos-retail.ch
-pos-schnittstellen.ch
 pos-sector.ch
 pos-service.ch
 pos-services.ch
@@ -13003,7 +13007,6 @@ pouseblooser.ch
 pouseiro-peinture.ch
 pouseiropeinture.ch
 pousekiosk.ch
-poushe-strudelhaus.ch
 poushe.ch
 pousse-crayon.ch
 poussedechene.ch
@@ -13062,6 +13065,7 @@ pouzar.ch
 pouzat.ch
 pov-kommunikation.ch
 pov.ch
+pova-studio.ch
 povaami.ch
 povag.ch
 povallat.ch

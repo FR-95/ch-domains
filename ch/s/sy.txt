@@ -2439,7 +2439,6 @@ synta.ch
 syntace-parts.ch
 syntace.ch
 syntaceparts.ch
-syntactica.ch
 syntacticsq.ch
 syntadler.ch
 syntagma.ch
@@ -3730,6 +3729,7 @@ systemvesta.ch
 systemvision.ch
 systemwaende.ch
 systemwand.ch
+systemwandler.ch
 systemwasser.ch
 systemwat.ch
 systemwatch.ch

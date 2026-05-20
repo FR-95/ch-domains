@@ -870,7 +870,6 @@ urbanitas.ch
 urbanite.ch
 urbaniten.ch
 urbanites.ch
-urbanitex.ch
 urbanity-art.ch
 urbanity.ch
 urbanix.ch
@@ -1567,9 +1566,14 @@ urgencebatiment.ch
 urgencecanalisation.ch
 urgencecanalisations.ch
 urgencedentaire.ch
+urgencedentairebulle.ch
 urgencedentairegeneve.ch
+urgencedentairelausanne.ch
 urgencedentairemontreux.ch
+urgencedentaireneuchatel.ch
 urgencedentairesuisse.ch
+urgencedentairevevey.ch
+urgencedentaireyverdon.ch
 urgencedentistedomicile.ch
 urgencedermato.ch
 urgencedermatologiegeneve.ch
@@ -1591,6 +1595,7 @@ urgencepc.ch
 urgencepcgeneve.ch
 urgencepediatregeneve.ch
 urgencepediatrique.ch
+urgencepediatriquegeneve.ch
 urgenceplomberie.ch
 urgenceplombier.ch
 urgences-bienne.ch
@@ -1645,6 +1650,7 @@ urgencesvetnordvaudois.ch
 urgencesvevey.ch
 urgencevaud.ch
 urgenceveterinaire.ch
+urgenceveterinairegeneve.ch
 urgencezurich3.ch
 urgency.ch
 urgent.ch
@@ -4160,7 +4166,6 @@ ursulahasler.ch
 ursulahauserorgel.ch
 ursulaheim.ch
 ursulaheitz.ch
-ursulaherren.ch
 ursulaherzog.ch
 ursulahess.ch
 ursulahinden.ch

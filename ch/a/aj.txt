@@ -1,6 +1,5 @@
 aj-advisory.ch
 aj-art.ch
-aj-bau.ch
 aj-baumanagement.ch
 aj-computer.ch
 aj-concept.ch
@@ -577,7 +576,6 @@ ajvazi.ch
 ajvf.ch
 ajvgr.ch
 ajvj.ch
-ajvl.ch
 ajvogel.ch
 ajvt.ch
 ajwalker.ch

@@ -1,5 +1,4 @@
 vk-af.ch
-vk-agency.ch
 vk-albis.ch
 vk-app.ch
 vk-be.ch
@@ -244,7 +243,6 @@ vku-emmen.ch
 vku-emmenbruecke.ch
 vku-english-zurich.ch
 vku-english.ch
-vku-fahrschuleaargau.ch
 vku-fahrschulewalter.ch
 vku-frauenfeld.ch
 vku-fricktal.ch

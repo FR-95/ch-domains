@@ -890,7 +890,6 @@ wunde.ch
 wunden.ch
 wundenheilen.ch
 wunder-baer.ch
-wunder-bar-restaurant.ch
 wunder-bar.ch
 wunder-bare-natur.ch
 wunder-baum.ch
@@ -1443,6 +1442,7 @@ wundversorgung-und-beratung.ch
 wundversorgung.ch
 wundw-waermetechnik.ch
 wundw.ch
+wundwissen.ch
 wundwstore.ch
 wundxpert.ch
 wundxperten.ch
@@ -1479,7 +1479,6 @@ wunsch-galerie.ch
 wunsch-geschenk.ch
 wunsch-guthaben.ch
 wunsch-gutschein.ch
-wunsch-haus.ch
 wunsch-hotel.ch
 wunsch-immobilie.ch
 wunsch-immobilien.ch

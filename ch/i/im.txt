@@ -4920,6 +4920,7 @@ immobilie-verkaufen-bern.ch
 immobilie-verkaufen-koeniz.ch
 immobilie-verkaufen-notar-luzern.ch
 immobilie-verkaufen-schweiz.ch
+immobilie-verkaufen-winterthur.ch
 immobilie-verkaufen-zuerich.ch
 immobilie-verkaufen-zug.ch
 immobilie-verkaufen.ch
@@ -5341,7 +5342,6 @@ immobilien-oberengadin.ch
 immobilien-obersee.ch
 immobilien-oberwallis.ch
 immobilien-obwalden.ch
-immobilien-offerte.ch
 immobilien-offmarket.ch
 immobilien-ohne-makler.ch
 immobilien-ok.ch
@@ -6228,6 +6228,7 @@ immobilienprojektentwicklung.ch
 immobilienprozesse.ch
 immobilienpunkt.ch
 immobilienraeumung.ch
+immobilienraeumung24.ch
 immobilienratgeber.ch
 immobilienratgebertessin.ch
 immobilienrating.ch
@@ -6301,6 +6302,7 @@ immobilienservice-chur.ch
 immobilienservice-schweiz.ch
 immobilienservice.ch
 immobilienservice24.ch
+immobilienservicebern.ch
 immobilienservices.ch
 immobiliensg.ch
 immobilienshop-buelach.ch
@@ -7142,6 +7144,7 @@ immocourtier.ch
 immocover.ch
 immocracy.ch
 immocrans.ch
+immocrash.ch
 immocratie.ch
 immocrawler.ch
 immocreate.ch
@@ -7930,6 +7933,7 @@ immokumo.ch
 immokurse.ch
 immokuster.ch
 immokv.ch
+immolaax.ch
 immolab-fr.ch
 immolab.ch
 immolabel.ch
@@ -8207,6 +8211,7 @@ immomentor.ch
 immomentum.ch
 immomenu-verkauf.ch
 immomenu.ch
+immomenureviews.ch
 immomercur.ch
 immomesse.ch
 immomessen.ch
@@ -8248,6 +8253,7 @@ immomogul.ch
 immomonaco.ch
 immomondo.ch
 immomonitor.ch
+immomonitoring.ch
 immomonster.ch
 immomoon.ch
 immomoreno.ch
@@ -8333,6 +8339,7 @@ immonize.ch
 immonobil.ch
 immonodo.ch
 immonopoly.ch
+immonora.ch
 immonordwest.ch
 immonos.ch
 immonot.ch
@@ -9036,6 +9043,7 @@ immosteiner.ch
 immostema.ch
 immostemaimmobilien.ch
 immostern.ch
+immostich-sa.ch
 immostile.ch
 immostim.ch
 immostluc.ch
@@ -9331,6 +9339,7 @@ immovaluation.ch
 immovaluator.ch
 immovalue.ch
 immovana.ch
+immovanta.ch
 immovara.ch
 immovaria.ch
 immovario.ch
@@ -12244,6 +12253,7 @@ improvisession.ch
 improvisible.ch
 improvisibles.ch
 improvisieren.ch
+improvisiert.ch
 improvision.ch
 improvisorisch.ch
 improvisorium-herisau.ch

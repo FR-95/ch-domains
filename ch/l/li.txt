@@ -401,6 +401,7 @@ liba.ch
 libaax.ch
 libab.ch
 libaer.ch
+libaerlernen.ch
 libag.ch
 libai.ch
 libaimmobilien.ch
@@ -847,7 +848,6 @@ libertin-debutant.ch
 libertin-geneve.ch
 libertin-suisse.ch
 libertin.ch
-libertina.ch
 libertinage-pour-tous.ch
 libertinagepourtous.ch
 libertine.ch
@@ -5501,7 +5501,6 @@ lifedesignag.ch
 lifedesignai.ch
 lifedesignbern.ch
 lifedesigncanvas.ch
-lifedesigncoaching.ch
 lifedesignerin.ch
 lifedesignerinnen.ch
 lifedesignhub.ch
@@ -5635,6 +5634,7 @@ lifehub.ch
 lifeimmo.ch
 lifeimmoo.ch
 lifeimmoundtreuhand.ch
+lifein.ch
 lifeina.ch
 lifeinabundance.ch
 lifeinbalance.ch
@@ -7921,7 +7921,6 @@ liitattoo.ch
 liitu.ch
 liiv.ch
 liiva.ch
-liivaapi.ch
 liivfit.ch
 liivik.ch
 liiviq.ch
@@ -8089,7 +8088,6 @@ likero.ch
 likes.ch
 likes24.ch
 likesbet.ch
-likeshannen.ch
 likestage.ch
 likesun.ch
 likeswiss.ch
@@ -11348,6 +11346,7 @@ lindenpark-businesscenter.ch
 lindenpark-engelburg.ch
 lindenpark-frauenfeld.ch
 lindenpark-holziken.ch
+lindenpark-home.ch
 lindenpark-huenenberg.ch
 lindenpark-kollbrunn.ch
 lindenpark-kriens.ch
@@ -11818,7 +11817,6 @@ lineabertoli.ch
 lineablu.ch
 lineablupiscine.ch
 lineabodenbelaege.ch
-lineabrille.ch
 lineabyprontera.ch
 lineacancro.ch
 lineacartomanti.ch
@@ -12934,6 +12932,7 @@ linkonito.ch
 linkonline.ch
 linkonnu.ch
 linkontro.ch
+linkora.ch
 linkorama.ch
 linkos.ch
 linkoseum.ch
@@ -13796,7 +13795,6 @@ linuxburg.ch
 linuxcenter.ch
 linuxcloud.ch
 linuxcluster.ch
-linuxcomputer.ch
 linuxday.ch
 linuxdays.ch
 linuxfabi.ch
@@ -14597,6 +14595,7 @@ lipoakku.ch
 lipoakkus.ch
 lipoaspiration.ch
 lipoautoankauf.ch
+lipobalance.ch
 lipobene.ch
 lipocaps.ch
 lipocel.ch
@@ -19170,6 +19169,7 @@ livingindubai.ch
 livinginharmony.ch
 livinginlacote.ch
 livinginlausanne.ch
+livinginlove.ch
 livinginluzern.ch
 livinginplace.ch
 livinginspain.ch

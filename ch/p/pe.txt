@@ -3371,6 +3371,7 @@ pelma.ch
 pelmecanic.ch
 pelmeg.ch
 pelmen.ch
+pelmeniandmore.ch
 pelmovia.ch
 pelo-bois.ch
 pelo.ch
@@ -4350,6 +4351,7 @@ pensionday.ch
 pensiondirekt.ch
 pensiondovronnaz.ch
 pensiondugrandlac.ch
+pensionduroc.ch
 pensiondurock.ch
 pensiondynamics.ch
 pensione-boschetto.ch
@@ -6580,6 +6582,7 @@ perfectpresent.ch
 perfectprint.ch
 perfectpro.ch
 perfectpromotion.ch
+perfectproposal.ch
 perfectpur.ch
 perfectraw.ch
 perfectrecruitement.ch
@@ -7149,7 +7152,6 @@ perfuturo.ch
 perfwave.ch
 perg.ch
 perga.ch
-pergalou.ch
 pergam-suisse.ch
 pergam.ch
 pergamadvisory.ch
@@ -8285,6 +8287,7 @@ permanencecossonay.ch
 permanencecouplefamille.ch
 permanencedelaplace.ch
 permanencedentaire.ch
+permanencedentairegeneve.ch
 permanencedeshalles.ch
 permanencedulac.ch
 permanencejuridique-oda.ch
@@ -11458,9 +11461,7 @@ pestalozziaarau.ch
 pestalozziagenda.ch
 pestalozzianum.ch
 pestalozzigroup.ch
-pestalozzihaus-dietikon.ch
 pestalozzihaus.ch
-pestalozzihausdietikon.ch
 pestalozzihof.ch
 pestalozziinternational.ch
 pestalozziintl.ch

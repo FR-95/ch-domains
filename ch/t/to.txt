@@ -1264,6 +1264,7 @@ toduka-physio.ch
 todundalltag.ch
 todundsein11.ch
 todundtrauer.ch
+todundverderben.ch
 toduro.ch
 toduro4you.ch
 tody.ch
@@ -4338,7 +4339,6 @@ tonallmen.ch
 tonalo.ch
 tonalpohualli.ch
 tonalstudios.ch
-tonandi.ch
 tonangebend.ch
 tonangeber.ch
 tonangegardien.ch
@@ -5003,7 +5003,6 @@ tonis-marktplatz.ch
 tonis-massage-oase.ch
 tonis-mozzarella.ch
 tonis-pasta.ch
-tonis-pizza-express.ch
 tonis-pizza.ch
 tonis-pizzeria.ch
 tonis-reinigung.ch
@@ -5223,6 +5222,7 @@ tonquellehofer.ch
 tonquifaitlamusique.ch
 tonquiz.ch
 tonraum-basel.ch
+tonraum-simpoppe.ch
 tonraum.ch
 tonre.ch
 tonrec.ch
@@ -5474,7 +5474,6 @@ tonyleung.ch
 tonylewis.ch
 tonyluechinger.ch
 tonymalonys.ch
-tonymat.ch
 tonymate.ch
 tonymola.ch
 tonymontana.ch
@@ -7041,6 +7040,7 @@ topas-ag.ch
 topas-engineering.ch
 topas-feelgood.ch
 topas-finanztreuhand.ch
+topas-food.ch
 topas-immoservice.ch
 topas-premiumstones.ch
 topas-reisen.ch
@@ -7056,6 +7056,7 @@ topascham.ch
 topaschur.ch
 topascoaching.ch
 topasdietikon.ch
+topasfood.ch
 topasfreelance.ch
 topasgruppe.ch
 topasiarestaurants.ch
@@ -7618,6 +7619,7 @@ topfilme.ch
 topfiltre.ch
 topfiltres.ch
 topfilz.ch
+topfin.ch
 topfinance.ch
 topfinanzierung.ch
 topfinanzkombi.ch
@@ -8384,7 +8386,9 @@ topofswisswine.ch
 topofswisswines.ch
 topofswitzerland.ch
 topoftaxi.ch
+topofthe70s.ch
 topofthe80s.ch
+topofthe90s.ch
 topofthealp.ch
 topofthealps.ch
 topofthefood.ch
@@ -8921,6 +8925,7 @@ topstore.ch
 topstores.ch
 topstory.ch
 topstrategy.ch
+topstreetlight.ch
 topstretching.ch
 topstroh.ch
 topstrom.ch
@@ -10715,7 +10720,6 @@ totemimaging.ch
 totemjeunes.ch
 totemlimousine.ch
 totemo.ch
-totems.ch
 totemsa.ch
 totemsbonmont.ch
 totemsport.ch
@@ -11735,6 +11739,7 @@ tourismevs.ch
 tourismexperts.ch
 tourismimage.ch
 tourisminclusive.ch
+tourisminsights.ch
 tourismmanagement.ch
 tourismmarketing.ch
 tourismpress.ch

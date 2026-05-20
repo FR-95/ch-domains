@@ -228,6 +228,7 @@ othenticspa.ch
 other-days.ch
 other-generation.ch
 other-normal.ch
+other-voices.ch
 other-watches.ch
 other-ways.ch
 other.ch
@@ -308,6 +309,7 @@ oti-education.ch
 oti-gmbh.ch
 oti-immobilien.ch
 oti-institue.ch
+oti-institute.ch
 oti.ch
 otia.ch
 otiangallery.ch

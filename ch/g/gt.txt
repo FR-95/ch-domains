@@ -514,6 +514,7 @@ gtsz.ch
 gtt-canalisation.ch
 gtt-canalisations.ch
 gtt-fleutrysa.ch
+gtt-insektenschutz.ch
 gtt-online.ch
 gtt-schweiz.ch
 gtt-taegerwilen.ch

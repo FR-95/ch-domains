@@ -269,6 +269,7 @@ headsarchive.ch
 headscale.ch
 headscoiffure.ch
 headscouts.ch
+headsearch.ch
 headselect.ch
 headsense.ch
 headset-markt.ch
@@ -738,7 +739,6 @@ health-ict.ch
 health-id.ch
 health-in-balance.ch
 health-innovation-hub.ch
-health-innovation.ch
 health-innovations.ch
 health-institute.ch
 health-insurance-abroad.ch
@@ -9934,6 +9934,7 @@ heliosdruck.ch
 heliosenergy.ch
 helioshandicap.ch
 helioshauswartungen.ch
+helioshockey.ch
 helioshome.ch
 heliosign.ch
 heliosky.ch
@@ -10847,7 +10848,6 @@ hellonipco.ch
 hellonoa.ch
 hellonomad.ch
 hellonurse.ch
-helloo.ch
 helloocto.ch
 hellopage.ch
 helloparts.ch
@@ -12023,6 +12023,7 @@ heluxwindows.ch
 helv-ai.ch
 helv.ch
 helv47.ch
+helva-meubles.ch
 helva-personal.ch
 helva-quotes.ch
 helva-stay.ch
@@ -12106,6 +12107,7 @@ helvecire.ch
 helvecit.ch
 helvecities.ch
 helveclick.ch
+helvecloud.ch
 helveco-ag.ch
 helvecom.ch
 helvecon.ch
@@ -12303,6 +12305,7 @@ helvetechnologie.ch
 helvetechpro.ch
 helvetechs.ch
 helveteconseils.ch
+helvetedge.ch
 helvetee.ch
 helveteinitiative.ch
 helvetek.ch
@@ -12374,6 +12377,7 @@ helvetia-baumaschinen.ch
 helvetia-bc.ch
 helvetia-beauty.ch
 helvetia-bennes.ch
+helvetia-berater.ch
 helvetia-bern.ch
 helvetia-bettwaren.ch
 helvetia-buchberg.ch
@@ -12410,6 +12414,7 @@ helvetia-environnement.ch
 helvetia-esports.ch
 helvetia-export.ch
 helvetia-facility.ch
+helvetia-fahrzeugversicherung.ch
 helvetia-fiduciaire.ch
 helvetia-fintech.ch
 helvetia-fondation.ch
@@ -12419,12 +12424,14 @@ helvetia-forum.ch
 helvetia-games-shop.ch
 helvetia-games.ch
 helvetia-ge.ch
+helvetia-gesundheit.ch
 helvetia-glas.ch
 helvetia-glasservice.ch
 helvetia-glow.ch
 helvetia-group.ch
 helvetia-gt.ch
 helvetia-haus.ch
+helvetia-hausratversicherung.ch
 helvetia-hockey.ch
 helvetia-holding.ch
 helvetia-home.ch
@@ -12481,12 +12488,14 @@ helvetia-protect.ch
 helvetia-pub.ch
 helvetia-racconta.ch
 helvetia-range.ch
+helvetia-rechtsschutz.ch
 helvetia-recycling-fribourg.ch
 helvetia-recycling-geneve.ch
 helvetia-recycling-vaud.ch
 helvetia-recycling.ch
 helvetia-reinigung.ch
 helvetia-reinigungen.ch
+helvetia-reiseversicherung.ch
 helvetia-rennt.ch
 helvetia-resources.ch
 helvetia-retten.ch
@@ -12533,6 +12542,7 @@ helvetia-versicherung.ch
 helvetia-versicherungen.ch
 helvetia-vie.ch
 helvetia-vita.ch
+helvetia-vorsorge.ch
 helvetia-vous-appelle.ch
 helvetia-waft.ch
 helvetia-wertpapieranalyse.ch
@@ -12563,6 +12573,7 @@ helvetiabar.ch
 helvetiabau.ch
 helvetiabc.ch
 helvetiabennes.ch
+helvetiaberater.ch
 helvetiabettwaren.ch
 helvetiabi.ch
 helvetiabin.ch
@@ -12611,6 +12622,7 @@ helvetiaestate.ch
 helvetiafacility-crm.ch
 helvetiafacility.ch
 helvetiafactoring.ch
+helvetiafahrzeugversicherung.ch
 helvetiafiduciaire.ch
 helvetiafilm.ch
 helvetiafinancial.ch
@@ -12622,6 +12634,7 @@ helvetiagaming.ch
 helvetiagent.ch
 helvetiagents.ch
 helvetiagesund.ch
+helvetiagesundheit.ch
 helvetiagin.ch
 helvetiaglow.ch
 helvetiagold.ch
@@ -12632,6 +12645,7 @@ helvetiagroup.ch
 helvetiaguide.ch
 helvetiagunshop.ch
 helvetiah2o.ch
+helvetiahausratversicherung.ch
 helvetiahealing.ch
 helvetiaheat.ch
 helvetiaheritage.ch
@@ -12736,8 +12750,10 @@ helvetiarange.ch
 helvetiarch.ch
 helvetiare.ch
 helvetiarecherches.ch
+helvetiarechtsschutz.ch
 helvetiarecycling.ch
 helvetiareinigung.ch
+helvetiareiseversicherung.ch
 helvetiarennt.ch
 helvetiarenov.ch
 helvetiareview.ch
@@ -12802,6 +12818,7 @@ helvetiaversicherungen.ch
 helvetiavideo.ch
 helvetiavideoproduction.ch
 helvetiavigilanza.ch
+helvetiavorsorge.ch
 helvetiawater.ch
 helvetiawealth.ch
 helvetiaweapon.ch
@@ -13337,7 +13354,6 @@ helveticjournal.ch
 helvetick.ch
 helveticks.ch
 helveticlab.ch
-helveticlabs.ch
 helveticlanguageinstitute.ch
 helveticlaw.ch
 helveticleads.ch
@@ -13837,6 +13853,7 @@ helviaflex.ch
 helviago.ch
 helviahabitat.ch
 helviahotel.ch
+helviaonline.ch
 helvias.ch
 helviatravel.ch
 helvibat.ch
@@ -15984,6 +16001,7 @@ herbstag.ch
 herbstanemone.ch
 herbstball.ch
 herbstbar.ch
+herbstbasis.ch
 herbstbazar.ch
 herbstbier.ch
 herbstbluete.ch
@@ -20712,6 +20730,7 @@ heucob.ch
 heucobs.ch
 heucon.ch
 heudili.ch
+heudini.ch
 heudl.ch
 heudorf.ch
 heuel-gruppenreisen.ch
@@ -22202,6 +22221,7 @@ heysoniq.ch
 heysorry.ch
 heystack-solutions.ch
 heystamina.ch
+heystep.ch
 heystgallen.ch
 heystudio.ch
 heysugarbynadja.ch

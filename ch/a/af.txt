@@ -289,7 +289,6 @@ afd-bedachungen.ch
 afd-fin.ch
 afd-methodologie.ch
 afd-methodology.ch
-afdanny.ch
 afdb.ch
 afdd.ch
 afddp.ch
@@ -464,7 +463,6 @@ affenkopf.ch
 affenland.ch
 affenpinscher.ch
 affenpocken-test.ch
-affenpocken.ch
 affenpockencheck.ch
 affenpockentest.ch
 affenrefugium.ch
@@ -1288,6 +1286,7 @@ afpartners.ch
 afpc.ch
 afpcourts.ch
 afpdanza.ch
+afpdisco.ch
 afperformance.ch
 afpersonal.ch
 afpess.ch

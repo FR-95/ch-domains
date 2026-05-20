@@ -786,6 +786,7 @@ dslaser.ch
 dslbank.ch
 dslconnect.ch
 dsld.ch
+dslegacy.ch
 dslegal.ch
 dslex.ch
 dslflat.ch

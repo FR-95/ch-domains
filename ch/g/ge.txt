@@ -590,6 +590,7 @@ gebaeudeschutz.ch
 gebaeudeschutzfolien.ch
 gebaeudeservice.ch
 gebaeudeservice24.ch
+gebaeudeservicebern.ch
 gebaeudesicherer.ch
 gebaeudesicherheit.ch
 gebaeudesimulation.ch
@@ -1906,7 +1907,6 @@ ged-edu.ch
 ged-elo.ch
 ged-groupestaff.ch
 ged.ch
-ged360.ch
 geda-labels.ch
 geda.ch
 geda2026.ch
@@ -6435,6 +6435,7 @@ geminiresear.ch
 geminis.ch
 geminisa.ch
 geminise.ch
+geminispark.ch
 geminivalve.ch
 geminix.ch
 geminni.ch
@@ -6653,7 +6654,6 @@ gemploy.ch
 gemporia.ch
 gemport.ch
 gempro-plus.ch
-gempro.ch
 gemproductions.ch
 gemproject.ch
 gemps.ch
@@ -7791,7 +7791,6 @@ generationsmanagement.ch
 generationsmartphone.ch
 generationsmokefree.ch
 generationsolaire.ch
-generationsplus.ch
 generationsport.ch
 generationssante.ch
 generationswechsel.ch
@@ -8755,6 +8754,7 @@ genevaluxurycars.ch
 genevaluxuryrent.ch
 genevalytics.ch
 genevamag.ch
+genevamagiccabaret.ch
 genevamagicfestival.ch
 genevamagicshow.ch
 genevamail.ch
@@ -11765,6 +11765,7 @@ geoamb.ch
 geoamrein.ch
 geoanalysis.ch
 geoanalytics.ch
+geoapplication.ch
 geoapps.ch
 geoar.ch
 geoarc.ch
@@ -11944,6 +11945,7 @@ geoconcept.ch
 geoconnect.ch
 geocons.ch
 geoconseils.ch
+geoconstat.ch
 geoconsulting.ch
 geocontrol.ch
 geocool.ch
@@ -12003,6 +12005,7 @@ geodesignbarriers.ch
 geodesis-suisse.ch
 geodesis.ch
 geodeswitzerland.ch
+geodesy-map.ch
 geodesy.ch
 geodetec.ch
 geodetiche.ch
@@ -12216,6 +12219,7 @@ geohouse.ch
 geohousecheck.ch
 geohub.ch
 geoi.ch
+geoia.ch
 geoid.ch
 geoidee.ch
 geoig.ch
@@ -12245,6 +12249,7 @@ geoinser.ch
 geoinsight.ch
 geoinsurance.ch
 geoint.ch
+geointelligence.ch
 geointelligenz.ch
 geoinvest-ag.ch
 geoiot.ch
@@ -12372,7 +12377,6 @@ geolsoc.ch
 geoluck.ch
 geolution.ch
 geolutions.ch
-geolux.ch
 geoluzern.ch
 geolytics.ch
 geom-service.ch
@@ -13140,6 +13144,7 @@ geosolution.ch
 geosolutions.ch
 geosolve.ch
 geosoma.ch
+geosondage.ch
 geosources.ch
 geosourcier.ch
 geospatial.ch
@@ -13857,6 +13862,7 @@ gerber-bs.ch
 gerber-busreisen.ch
 gerber-carreisen.ch
 gerber-champignons.ch
+gerber-charpente.ch
 gerber-cheese.ch
 gerber-christian.ch
 gerber-coach.ch
@@ -14001,6 +14007,8 @@ gerber-treuhand.ch
 gerber-troxler-bauag.ch
 gerber-uebersetzungen.ch
 gerber-uhren.ch
+gerber-umzuege.ch
+gerber-umzug.ch
 gerber-unikate.ch
 gerber-unternehmensberatung.ch
 gerber-utzigen.ch
@@ -16508,6 +16516,7 @@ geschicklichkeitsspiele.ch
 geschickt-bestickt.ch
 geschickt-gereinigt.ch
 geschickt-gestickt.ch
+geschickt.ch
 geschicktgereinigt.ch
 geschiebe.ch
 geschieden.ch
@@ -17692,6 +17701,7 @@ gestuet-lindenhof.ch
 gestuet-lully.ch
 gestuet-ruetimann.ch
 gestuet-seeruecken.ch
+gestuet-staufberg.ch
 gestuet.ch
 gestuetbommerten.ch
 gestuete.ch
@@ -18013,7 +18023,6 @@ gesundehochschulen.ch
 gesundehufe.ch
 gesundehunde.ch
 gesundeinnenraeume.ch
-gesundejugendjetzt.ch
 gesundekatzenundhunde.ch
 gesundekerne.ch
 gesundekinder.ch
@@ -19517,6 +19526,7 @@ gesundmitwasser.ch
 gesundmunter.ch
 gesundnatuerlich.ch
 gesundnetz.ch
+gesundohnestress.ch
 gesundomat.ch
 gesundonline.ch
 gesundplus.ch
@@ -19581,6 +19591,7 @@ gesundvital-schweiz.ch
 gesundvital.ch
 gesundvitalfit.ch
 gesundvoninnen.ch
+gesundwaerts.ch
 gesundwasser.ch
 gesundwelt.ch
 gesundwerden.ch
@@ -20082,6 +20093,7 @@ getech.ch
 getechno.ch
 getecsolutions.ch
 getedgy.ch
+getedubridge.ch
 geteiltehilfe.ch
 geteiltesglueck.ch
 getejanc-transport.ch

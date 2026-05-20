@@ -1784,6 +1784,7 @@ sharevest.ch
 sharevision.ch
 sharewash.ch
 sharewat.ch
+sharewavetech.ch
 shareway.ch
 shareweb.ch
 sharewebs.ch
@@ -2411,6 +2412,7 @@ shebuildswealth.ch
 shebyshanoo.ch
 shecareerthriving.ch
 shecares.ch
+shechats.ch
 sheck.ch
 shecoaches.ch
 shecode.ch
@@ -4164,7 +4166,6 @@ shikoyo.ch
 shiku.ch
 shikumi.ch
 shil.ch
-shila-jit.ch
 shila-line.ch
 shila-pure.ch
 shila.ch
@@ -6107,7 +6108,6 @@ shop-sanacare.ch
 shop-saradisli.ch
 shop-schiffbrau.ch
 shop-schlosser.ch
-shop-schnittstellen.ch
 shop-schrauben.ch
 shop-schriften.ch
 shop-schutzmasken.ch
@@ -6199,6 +6199,7 @@ shop-verein-shop.ch
 shop-verpackungen.ch
 shop-vespa.ch
 shop-vianatura.ch
+shop-vitego.ch
 shop-volet-roulant.ch
 shop-volets-roulants.ch
 shop-volets.ch
@@ -6329,7 +6330,6 @@ shopaguy.ch
 shopahoi.ch
 shopaholic.ch
 shopaholicsworld.ch
-shopai.ch
 shopairhealth.ch
 shopaja.ch
 shopalike.ch
@@ -6716,7 +6716,6 @@ shopimmo.ch
 shopimshop.ch
 shopin-solothurn.ch
 shopin.ch
-shopinabox.ch
 shopinbit.ch
 shopindex.ch
 shopinet.ch
@@ -7350,7 +7349,6 @@ shopsmall.ch
 shopsmania.ch
 shopsmart.ch
 shopsmarter.ch
-shopsmartly.ch
 shopsmer.ch
 shopsmile.ch
 shopsmitherz.ch

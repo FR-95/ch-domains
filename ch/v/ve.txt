@@ -829,7 +829,6 @@ vegan-probieren.ch
 vegan-protein.ch
 vegan-proteine.ch
 vegan-raclette.ch
-vegan-safe.ch
 vegan-schmaus.ch
 vegan-schokolade.ch
 vegan-schweiz.ch
@@ -838,7 +837,6 @@ vegan-shop.ch
 vegan-stgallen.ch
 vegan-strom.ch
 vegan-superfood.ch
-vegan-supps.ch
 vegan-sushi.ch
 vegan-tattoo.ch
 vegan-test.ch
@@ -930,7 +928,6 @@ vegane-schmankerl.ch
 vegane-schuhe.ch
 vegane-seide.ch
 vegane-singles.ch
-vegane-supps.ch
 vegane-textilien.ch
 vegane-torten.ch
 vegane-weine.ch
@@ -1122,7 +1119,6 @@ veganrock.ch
 veganrocks.ch
 veganrun.ch
 vegans.ch
-vegansafe.ch
 vegansbazaar.ch
 veganschweiz.ch
 vegansein.ch
@@ -1260,6 +1256,7 @@ vegawatt.ch
 vegawell.ch
 vegazcasino.ch
 vegazone-ch.ch
+vegazone.ch
 vegbegleiterin.ch
 vegbio.ch
 vegbottle.ch
@@ -1320,7 +1317,6 @@ vegetalementbon.ch
 vegetalis-mur-vegetal.ch
 vegetalis.ch
 vegetalise-nutrition.ch
-vegetalise.ch
 vegetaliserlaville.ch
 vegetality.ch
 vegetaliz.ch
@@ -2226,6 +2222,7 @@ vellone.ch
 vellor.ch
 vellora.ch
 vellorafood.ch
+vellorakueche.ch
 vellorcars.ch
 vellore.ch
 vellorio.ch
@@ -2992,6 +2989,7 @@ velofreundlicheschule.ch
 velofritz.ch
 velofritzen.ch
 velofruehling.ch
+velofruehlingbaden.ch
 velofuedli.ch
 velofun.ch
 velofuudfestival.ch
@@ -5825,7 +5823,6 @@ venus-dessous.ch
 venus-diamond-beauty.ch
 venus-energie.ch
 venus-escort.ch
-venus-events.ch
 venus-hairstylist.ch
 venus-in-libra.ch
 venus-line.ch
@@ -5974,6 +5971,7 @@ vepar.ch
 vepartners.ch
 vepass.ch
 vepe.ch
+vepee.ch
 vepmanagement.ch
 vepo.ch
 vepochemie.ch
@@ -8288,7 +8286,6 @@ vereinigung-pferd.ch
 vereinigung-rieden.ch
 vereinigung-toggenburger-choere.ch
 vereinigung-zum-schutze-des-sense-und-schwarzwassergebietes.ch
-vereinigung.ch
 vereinigungcerebral.ch
 vereinigungeuropaallee.ch
 vereinigungfreieslernen.ch
@@ -10968,6 +10965,8 @@ vermietungwohnmobil.ch
 vermietungwohnung.ch
 vermietungwohnungen.ch
 vermietwerk.ch
+vermifuge.ch
+vermifuges.ch
 vermigel.ch
 vermigelhuette.ch
 vermigli.ch
@@ -13895,7 +13894,6 @@ vertuswealth.ch
 vertuus.ch
 vertx-iq.ch
 vertx.ch
-vertxaiq.ch
 vertxiq.ch
 vertykal.ch
 vertys.ch
@@ -14954,7 +14952,6 @@ vestis.ch
 vestita.ch
 vestiti.ch
 vestitia.ch
-vestitino.ch
 vestito.ch
 vestivity.ch
 vestlyd.ch
@@ -16326,7 +16323,6 @@ veyras.ch
 veyras24.ch
 veyrat-sarasin.ch
 veyre.ch
-veyrier-cote-a-cote.ch
 veyrier-ensemble.ch
 veyrier-village.ch
 veyrier.ch
@@ -16339,6 +16335,7 @@ veyriland.ch
 veyrivox.ch
 veyro.ch
 veyron-venoge.ch
+veyronne.ch
 veys.ch
 veysel.ch
 veysonnaz-agir.ch
@@ -16379,7 +16376,6 @@ vezia24.ch
 veziafutura.ch
 veziamoci.ch
 vezion.ch
-vezoa.ch
 vezr.ch
 vezs.ch
 veztoitures.ch

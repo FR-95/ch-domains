@@ -9,6 +9,7 @@
 7-cars.ch
 7-casino.ch
 7-continents.ch
+7-core.ch
 7-d.ch
 7-data.ch
 7-days.ch

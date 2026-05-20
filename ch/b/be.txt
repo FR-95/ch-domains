@@ -910,7 +910,6 @@ beachspiez.ch
 beachsport.ch
 beachsportgrabs.ch
 beachsports.ch
-beachsprintleman.ch
 beachstadium.ch
 beachstore.ch
 beachstyle-solothurn.ch
@@ -1147,6 +1146,7 @@ bealstone.ch
 bealundmark.ch
 beam-consulting.ch
 beam-dampfsauger.ch
+beam-division.ch
 beam-invest.ch
 beam-me-up.ch
 beam-private-equity.ch
@@ -1167,6 +1167,7 @@ beambuddies.ch
 beamcalc.ch
 beamcard.ch
 beamcontrol.ch
+beamdivision.ch
 beamdrive.ch
 beamer-discount.ch
 beamer-discounter.ch
@@ -8687,6 +8688,7 @@ beherenow.ch
 beheroes.ch
 beherrsche-die-energie.ch
 beherrschedieenergie.ch
+beherzig-group.ch
 beherzig.ch
 beherzt-fuehren.ch
 beherzt.ch
@@ -8909,6 +8911,8 @@ behumanatwork.ch
 behumanoriginal.ch
 behumanthewayback.ch
 behumbl.ch
+behunkynotjunkie.ch
+behunkynotjunky.ch
 behutet-entspannen.ch
 behutsam-gebunden.ch
 behutsam.ch
@@ -8916,6 +8920,7 @@ behv.ch
 behydrated.ch
 bei-artur.ch
 bei-bangis.ch
+bei-bridge.ch
 bei-dir.ch
 bei-expertises.ch
 bei-fouad.ch
@@ -9963,6 +9968,7 @@ belchenstuermer.ch
 belchentunnel.ch
 belchior.ch
 belci.ch
+belcircle.ch
 belco.ch
 belcol.ch
 belcolart.ch
@@ -16620,6 +16626,7 @@ beratung360.ch
 beratung365.ch
 beratung37grad.ch
 beratung3plus.ch
+beratung65plus.ch
 beratungagrotourismus.ch
 beratungambach.ch
 beratungamrhy.ch
@@ -17115,6 +17122,7 @@ berenberg.ch
 berenbergbank-schweiz.ch
 berenbergbank.ch
 berence.ch
+berendak.ch
 berendfrenzel.ch
 berendi.ch
 berends.ch
@@ -17231,6 +17239,7 @@ berg-bonsai.ch
 berg-box.ch
 berg-brauerei.ch
 berg-cafe.ch
+berg-camper.ch
 berg-cm.ch
 berg-coach.ch
 berg-coiffeur.ch
@@ -17589,6 +17598,7 @@ bergc.ch
 bergcafe-aurora.ch
 bergcafe.ch
 bergcafeaurora.ch
+bergcamper.ch
 bergcamping.ch
 bergcenter.ch
 bergchalet-goms.ch
@@ -17882,6 +17892,7 @@ bergerjl.ch
 bergerkevin.ch
 bergerklebegmbh.ch
 bergerklimabiel.ch
+bergerlanz.ch
 bergerlaw.ch
 bergerleandro.ch
 bergerlebnis.ch
@@ -21062,6 +21073,7 @@ bernergesundheit.ch
 bernergesundheitszentrum.ch
 bernergipser.ch
 bernergipserei.ch
+bernerglaserei.ch
 bernerglasfasernetz.ch
 bernergleitschirmschule.ch
 bernergoclub.ch
@@ -23985,6 +23997,7 @@ besas-altersmedizin.ch
 besas-siloah.ch
 besas.ch
 besasatelier.ch
+besashop.ch
 besashopbiel.ch
 besasiloah.ch
 besaspitex.ch
@@ -24219,6 +24232,7 @@ bescon.ch
 bescore.ch
 bescort.ch
 bescottish.ch
+bescripted.ch
 bescuba.ch
 bescuit.ch
 bescuits.ch
@@ -25031,6 +25045,7 @@ best-energies.ch
 best-english-antiques.ch
 best-eo.ch
 best-escort-zurich.ch
+best-escort.ch
 best-escorts.ch
 best-eu.ch
 best-events.ch
@@ -25893,6 +25908,7 @@ bestchefchatbot.ch
 bestchefs.ch
 bestchoice-gutschein.ch
 bestchoice-shop.ch
+bestchoicecards.ch
 bestchoicemassagen.ch
 bestchoicepartners.ch
 bestchoiceyachting.ch
@@ -25901,6 +25917,7 @@ bestcity.ch
 bestclassicdesign.ch
 bestclean-sagl.ch
 bestclean.ch
+bestcleanbern.ch
 bestcleanreinigung.ch
 bestcleansagl.ch
 bestcleanservice.ch
@@ -26589,6 +26606,7 @@ bestinparking.ch
 bestinprint.ch
 bestinsekt.ch
 bestinsurance.ch
+bestinswiss.ch
 bestintech.ch
 bestinterim.ch
 bestintown.ch
@@ -27020,6 +27038,7 @@ bestrates.ch
 bestreactiven.ch
 bestread.ch
 bestrealestate.ch
+bestrec.ch
 bestrecruiter.ch
 bestrecruiters.ch
 bestregards.ch
@@ -27247,6 +27266,7 @@ bestware.ch
 bestwarriorstudios.ch
 bestwatches.ch
 bestwater.ch
+bestway-lifestyle.ch
 bestway-piscine.ch
 bestway-piscines.ch
 bestway-pool.ch
@@ -27969,6 +27989,7 @@ bethmann.ch
 bethraim.ch
 bethree.ch
 bethsabe.ch
+bethub.ch
 bethuned.ch
 bethusienne.ch
 bethusy-art-design.ch
@@ -28938,6 +28959,7 @@ betriebstechniker.ch
 betriebstreuhand.ch
 betriebsuebergabe.ch
 betriebsuebernahme.ch
+betriebsuebersicht.ch
 betriebsumzuege.ch
 betriebsumzug-winterthur.ch
 betriebsumzug.ch
@@ -30816,6 +30838,7 @@ bevoelkerungsumfrage.ch
 bevog.ch
 bevola.ch
 bevoli.ch
+bevor-ich-sterbe.ch
 bevor-informatik.ch
 bevor-verlag.ch
 bevor.ch
@@ -30906,7 +30929,6 @@ bewatechnik.ch
 bewater.ch
 bewatermusic.ch
 bewave.ch
-bewax.ch
 bewe-bra.ch
 bewe-consulting.ch
 bewe.ch
@@ -31756,7 +31778,10 @@ bewertung-liegenschaft.ch
 bewertung-loeschen.ch
 bewertung.ch
 bewertung24.ch
+bewertungen-gerber-transport.ch
 bewertungen-rechtssicher-loeschen.ch
+bewertungen-vergleichsofferten.ch
+bewertungen-zuber-umzuege.ch
 bewertungen.ch
 bewertungimmobilie.ch
 bewertungs-experte.ch
@@ -32646,7 +32671,6 @@ beyondcapital.ch
 beyondcarbon.ch
 beyondcare.ch
 beyondcdn.ch
-beyondchange.ch
 beyondchat.ch
 beyondcheese.ch
 beyondcheesecake.ch

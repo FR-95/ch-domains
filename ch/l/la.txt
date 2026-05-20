@@ -1524,7 +1524,6 @@ la-sorgente.ch
 la-sosta-basel.ch
 la-sosta.ch
 la-soupiere.ch
-la-source-a-domicile.ch
 la-source-en-soi.ch
 la-source-infinie.ch
 la-source-intarissable.ch
@@ -2636,6 +2635,7 @@ labellemousse.ch
 labellenuit.ch
 labelleofficial.ch
 labelleombre.ch
+labelleombrebramois.ch
 labelleonline.ch
 labellepastel.ch
 labellepau.ch
@@ -6912,6 +6912,7 @@ ladouche.ch
 ladouchedufayet.ch
 ladouchefroide.ch
 ladoula.ch
+ladoulasociale.ch
 ladouzette.ch
 ladphotography.ch
 ladrageedesign.ch
@@ -7727,6 +7728,7 @@ laeserbau.ch
 laeserbook.ch
 laesertextil.ch
 laeset-spiez.ch
+laeset-sunntige-erlach.ch
 laeset-sunntige.ch
 laesetspiez.ch
 laesetsunntige.ch
@@ -15174,9 +15176,11 @@ landtwing-informatik.ch
 landtwing-iseli.ch
 landtwing-mediation.ch
 landtwing-ruetter.ch
+landtwing-tooling.ch
 landtwing-verlag.ch
 landtwing.ch
 landtwingdestillate.ch
+landtwingtooling.ch
 landtwingverlag.ch
 landucci.ch
 landuf-landab.ch
@@ -16298,7 +16302,6 @@ languagecompass.ch
 languageconsultancy.ch
 languageconsultant.ch
 languagecorner.ch
-languagecube.ch
 languagedetox.ch
 languagedetoxing.ch
 languagees.ch
@@ -17422,7 +17425,6 @@ laperle-bethusy.ch
 laperle-immobilier.ch
 laperle-zermatt.ch
 laperle.ch
-laperleaulac.ch
 laperlecouture.ch
 laperledejade.ch
 laperledelagruyere.ch
@@ -17618,6 +17620,7 @@ lapidaris.ch
 lapidarium.ch
 lapidarum.ch
 lapidispa.ch
+lapidoth.ch
 lapie.ch
 lapiece.ch
 lapiecedejeux.ch
@@ -19288,6 +19291,7 @@ laroserouge.ch
 larosesauvage.ch
 larosetta.ch
 laroseverte.ch
+larosiere.ch
 larossa-lieferservice.ch
 larossa-pizzeria.ch
 larossa.ch
@@ -19456,6 +19460,7 @@ larsbrillen.ch
 larsbuehlmann.ch
 larsburkhalter.ch
 larschi.ch
+larschin.ch
 larsdaenzer.ch
 larsdeuber.ch
 larsdierauer.ch
@@ -19636,6 +19641,7 @@ lartdubetoncire.ch
 lartduboisflotte.ch
 lartduchat.ch
 lartduchien.ch
+lartducuir.ch
 lartdudesir.ch
 lartdufeu.ch
 lartdugeste.ch
@@ -22902,6 +22908,7 @@ latinos-mate.ch
 latinos-voyages.ch
 latinos.ch
 latinoseneuropa.ch
+latinoshop.ch
 latinosluzern.ch
 latinosnews.ch
 latinosolodance.ch
@@ -23323,7 +23330,6 @@ latwinbike.ch
 latwitch.ch
 latx.ch
 laty.ch
-latypique.ch
 latz-tg.ch
 latz-theater.ch
 latz.ch
@@ -23671,7 +23677,6 @@ laufbahn-gestalten.ch
 laufbahn-info.ch
 laufbahn-infopoint.ch
 laufbahn-kmsu.ch
-laufbahn-metier.ch
 laufbahn-mosaik.ch
 laufbahn-planer.ch
 laufbahn-plus.ch

@@ -344,7 +344,6 @@ svam.ch
 svamh.ch
 svammuggio.ch
 svamoksha.ch
-svamv-fsfm.ch
 svamv.ch
 svan.ch
 svana.ch
@@ -1593,6 +1592,7 @@ svk-asmpa.ch
 svk-asp.ch
 svk-bau.ch
 svk-bern.ch
+svk-for-crissier.ch
 svk-kreuzlingen.ch
 svk-weiterbildung.ch
 svk.ch
@@ -1797,6 +1797,7 @@ svot.ch
 svote.ch
 svov.ch
 svow.ch
+svox.ch
 svp-6440.ch
 svp-aarau.ch
 svp-aarberg.ch
@@ -2357,6 +2358,7 @@ svp-schwamendingen.ch
 svp-schwarzbubenland.ch
 svp-schwarzenberg.ch
 svp-schwarzenburg.ch
+svp-schweiz-nein.ch
 svp-schweiz.ch
 svp-schwyz.ch
 svp-see-gaster.ch

@@ -4480,7 +4480,6 @@ felsen-wollerau.ch
 felsen6.ch
 felsenau-3.ch
 felsenau-bremgarten.ch
-felsenau-wald-restaurant.ch
 felsenau.ch
 felsenaubier.ch
 felsenauimmobilien.ch
@@ -4601,7 +4600,6 @@ feltstrap.ch
 feltstraps.ch
 feltstudio.ch
 felttech.ch
-feltway.ch
 feltz.ch
 felu.ch
 felucca.ch
@@ -6208,7 +6206,6 @@ fensterpro.ch
 fensterproduktion.ch
 fensterprof.ch
 fensterprofi.ch
-fensterprofis.ch
 fensterprojekt.ch
 fensterputz-roboter.ch
 fensterputz-service.ch
@@ -6288,6 +6285,7 @@ fensterreinigung24.ch
 fensterreinigung365.ch
 fensterreinigung94.ch
 fensterreinigungbasel.ch
+fensterreinigungbern.ch
 fensterreinigungen.ch
 fensterreinigungsmittel.ch
 fensterreinigungsroboter.ch
@@ -8873,6 +8871,7 @@ ferienwohnungsoftware.ch
 ferienwohnungsoglio.ch
 ferienwohnungspanien.ch
 ferienwohnungsportal.ch
+ferienwohnungsreinigung.ch
 ferienwohnungsservice.ch
 ferienwohnungstefania.ch
 ferienwohnungstmoritz.ch
@@ -9882,6 +9881,7 @@ ferrail.ch
 ferraillon-cotignac.ch
 ferrair.ch
 ferraiuolofoods.ch
+ferrali.ch
 ferralu.ch
 ferralux.ch
 ferramenta-jenny.ch
@@ -10269,7 +10269,6 @@ ferrofolien.ch
 ferrogmbh.ch
 ferrographx.ch
 ferroguard.ch
-ferrohy.ch
 ferrol.ch
 ferrolabs.ch
 ferrolatino.ch
@@ -10350,13 +10349,17 @@ ferrucciocainero.ch
 ferrucciogaropesani.ch
 ferrucciopozzi.ch
 ferruggia.ch
+ferrum-areal.ch
 ferrum-helveticum.ch
 ferrum-metall.ch
+ferrum-rupperswil.ch
 ferrum.ch
+ferrumareal.ch
 ferrumed.ch
 ferrumhelveticum.ch
 ferrumholding.ch
 ferrumkunst.ch
+ferrumrupperswil.ch
 ferrux.ch
 ferry-booking-24.ch
 ferry-booking24.ch
@@ -12668,7 +12671,6 @@ feuerundkeramik.ch
 feuerundlehm.ch
 feuerundmehr.ch
 feuerundpfanne.ch
-feuerundplatten.ch
 feuerundrauch.ch
 feuerundreitkunst.ch
 feuerundring.ch

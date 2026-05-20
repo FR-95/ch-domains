@@ -33,6 +33,7 @@ lh-training.ch
 lh-treuhand.ch
 lh-twin.ch
 lh-virtual.ch
+lh-widnau.ch
 lh0.ch
 lh2.ch
 lh2mehle.ch
@@ -167,6 +168,7 @@ lhi-group.ch
 lhi-gruppe.ch
 lhi.ch
 lhiag.ch
+lhids.ch
 lhidz.ch
 lhimmobilien.ch
 lhimmosolution.ch

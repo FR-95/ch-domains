@@ -1599,6 +1599,7 @@ drainandglow.ch
 drainbot.ch
 drainbreacher.ch
 draindesign.ch
+drainext.ch
 drainfloor.ch
 drainflow.ch
 drainguard.ch
@@ -1628,6 +1629,7 @@ drakar.ch
 drakbow.ch
 drake-inviktus.ch
 drake-store-shop.ch
+drake-store.ch
 drake.ch
 drakebox.ch
 drakedigital.ch
@@ -2118,7 +2120,6 @@ drbrenn.ch
 drbretagnol.ch
 drbricolus.ch
 drbronner.ch
-drbronners.ch
 drbronz.ch
 drbruckert.ch
 drbruhin.ch
@@ -2421,7 +2422,6 @@ dream-life-sarl2.ch
 dream-life.ch
 dream-lift.ch
 dream-light.ch
-dream-luxe.ch
 dream-machine.ch
 dream-machines.ch
 dream-massage.ch
@@ -2767,6 +2767,7 @@ dreaminghearts.ch
 dreamingpixel.ch
 dreamingwithjulia.ch
 dreaminpink.ch
+dreaminticino.ch
 dreaminvest.ch
 dreamis.ch
 dreamisland.ch
@@ -4130,6 +4131,7 @@ dresscodes.ch
 dresscodewoman.ch
 dresscue.ch
 dressed-by-ad.ch
+dressed.ch
 dressedtokill.ch
 dressel.ch
 dresselhaus.ch
@@ -4585,7 +4587,6 @@ drhonow.ch
 drhorloger.ch
 drhorvath.ch
 drhouse.ch
-drhouse33.ch
 drhundt.ch
 drhuppertz.ch
 drhydro.ch
@@ -5064,7 +5065,6 @@ drinks-online.ch
 drinks-pronto.ch
 drinks-to-enjoy.ch
 drinks-unlimited.ch
-drinks-west.ch
 drinks-world.ch
 drinks.ch
 drinks24.ch
@@ -5632,7 +5632,6 @@ drivemycar.ch
 drivemyecar.ch
 drivemyt3sla.ch
 drivemytesla.ch
-driven-app.ch
 driven-by-ecologic.ch
 driven-co.ch
 driven-performance.ch
@@ -6422,6 +6421,7 @@ drod.ch
 drods.ch
 droe.ch
 droegeler.ch
+droelivent.ch
 droescher.ch
 droeschger.ch
 droeschi.ch
@@ -8534,6 +8534,7 @@ druck4kollegen.ch
 druck4me.ch
 druck4you.ch
 druckag.ch
+druckagent.ch
 druckagentur.ch
 druckagenturag.ch
 druckagenturamberg.ch
@@ -9267,7 +9268,6 @@ druh.ch
 druid.ch
 druida-portal.ch
 druida.ch
-druidbrewing.ch
 druide.ch
 druiden-luzern.ch
 druiden-wissen.ch

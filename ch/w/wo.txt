@@ -2947,6 +2947,7 @@ wohnung-verkaufen-langnauamalbis-zurich.ch
 wohnung-verkaufen-luzern.ch
 wohnung-verkaufen-notar-luzern.ch
 wohnung-verkaufen-schwyz.ch
+wohnung-verkaufen-winterthur.ch
 wohnung-verkaufen-zuerich.ch
 wohnung-verkaufen-zug.ch
 wohnung-verkaufen-zurich.ch
@@ -3109,6 +3110,7 @@ wohnungs-werk.ch
 wohnungsabgabe-bern.ch
 wohnungsabgabe-reinigung.ch
 wohnungsabnahme-protokoll.ch
+wohnungsabnahme-reinigung.ch
 wohnungsabnahme.ch
 wohnungsabnahmen.ch
 wohnungsagentur.ch
@@ -3122,11 +3124,13 @@ wohnungsanzeige.ch
 wohnungsanzeigen.ch
 wohnungsanzeiger.ch
 wohnungsapp.ch
+wohnungsaufloesung-bern.ch
 wohnungsaufloesung-schweiz.ch
 wohnungsaufloesung-zuerich.ch
 wohnungsaufloesung.ch
 wohnungsaufloesung365.ch
 wohnungsaufloesungen.ch
+wohnungsaufloesungsservice24.ch
 wohnungsauflosung.ch
 wohnungsausweis.ch
 wohnungsbau.ch
@@ -3168,6 +3172,7 @@ wohnungskonfigurator.ch
 wohnungskonzept.ch
 wohnungskosten.ch
 wohnungskrise.ch
+wohnungsleerung.ch
 wohnungslos.ch
 wohnungslosigkeit-kumpantiere.ch
 wohnungslosigkeit.ch
@@ -3264,6 +3269,7 @@ wohnungsreinigung365.ch
 wohnungsreinigungaargau.ch
 wohnungsreinigungbasel.ch
 wohnungsreinigungbern.ch
+wohnungsreinigungbern24.ch
 wohnungsreinigungen.ch
 wohnungsreinigungluzern.ch
 wohnungsreinigungzuerich.ch
@@ -4322,6 +4328,7 @@ wolfstudio.ch
 wolfswagen.ch
 wolfsweb.ch
 wolfsweg.ch
+wolfswinkel.ch
 wolfsync.ch
 wolfsystem.ch
 wolfszauber.ch
@@ -7025,7 +7032,6 @@ wordpressagentur.ch
 wordpressbeispiel.ch
 wordpressblog.ch
 wordpresscare.ch
-wordpressclinic.ch
 wordpresscloud.ch
 wordpresscms.ch
 wordpressdesign.ch
@@ -7510,6 +7516,7 @@ workdress.ch
 worked.ch
 workedd.ch
 workee.ch
+workeer.ch
 workend.ch
 workenda.ch
 workeone.ch
@@ -7663,6 +7670,7 @@ workhub.ch
 workhuman.ch
 workhunter.ch
 worki.ch
+workia.ch
 workibe.ch
 workid.ch
 workie-eng.ch

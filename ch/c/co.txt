@@ -538,6 +538,7 @@ coach-ausbildung.ch
 coach-bar.ch
 coach-basel.ch
 coach-bastien.ch
+coach-benji.ch
 coach-beratung.ch
 coach-blog.ch
 coach-board.ch
@@ -832,6 +833,7 @@ coachboard.ch
 coachboat.ch
 coachbox.ch
 coachbraegger.ch
+coachbridge.ch
 coachbudget.ch
 coachbuero.ch
 coachbunny.ch
@@ -1304,6 +1306,7 @@ coaching-job.ch
 coaching-joel.ch
 coaching-julia-lange.ch
 coaching-julia.ch
+coaching-jura.ch
 coaching-k.ch
 coaching-karriere.ch
 coaching-kaspar.ch
@@ -1916,6 +1919,7 @@ coachingingold.ch
 coachinginmotion.ch
 coachinginstitut.ch
 coachingjetzt.ch
+coachingjura.ch
 coachingkaffee.ch
 coachingkafi.ch
 coachingkaiser.ch
@@ -2077,6 +2081,7 @@ coachingsolution.ch
 coachingsolutions.ch
 coachingspace.ch
 coachingspeech.ch
+coachingspichtig.ch
 coachingspiele.ch
 coachingsport.ch
 coachingsportgeneve.ch
@@ -3547,7 +3552,6 @@ cocotan.ch
 cocotarot.ch
 cocotaxi.ch
 cocotec.ch
-cocothai.ch
 cocothaispa.ch
 cocotravel.ch
 cocotshibuabua.ch
@@ -3626,6 +3630,7 @@ codaix.ch
 codak.ch
 codalab.ch
 codalies.ch
+codalis.ch
 codamental.ch
 codan.ch
 codanargus.ch
@@ -7095,6 +7100,7 @@ coiffeurtommi.ch
 coiffeurtrendline.ch
 coiffeurtresbelle.ch
 coiffeurtresbelles.ch
+coiffeurtscharner.ch
 coiffeuruelibrun.ch
 coiffeuruemit.ch
 coiffeurugi.ch
@@ -8845,6 +8851,7 @@ coldrerio.ch
 coldrerio24.ch
 coldritual.ch
 coldriver.ch
+coldrivercollective.ch
 coldservice2020.ch
 coldsirup.ch
 coldsmoke.ch
@@ -9152,7 +9159,6 @@ colinabesada.ch
 colinal.ch
 colinario.ch
 colinaymon.ch
-colinbaetschmann.ch
 colinbiermann.ch
 colinbond.ch
 colinbottinelli.ch
@@ -9351,6 +9357,7 @@ collaboration-design.ch
 collaboration-next.ch
 collaboration-now.ch
 collaboration-pioneers.ch
+collaboration-platform.ch
 collaboration-portal.ch
 collaboration-sharespace.ch
 collaboration-solution.ch
@@ -10160,6 +10167,7 @@ collinedaval.ch
 collinededaval.ch
 collinedom.ch
 collinemontmasson.ch
+collineorigini.ch
 collineraidillon.ch
 collines.ch
 collinesdeprovence.ch
@@ -10431,7 +10439,6 @@ colombiasportswear.ch
 colombie.ch
 colombier-10.ch
 colombier-8.ch
-colombier.ch
 colombier10.ch
 colombier8.ch
 colombiere.ch
@@ -11170,6 +11177,7 @@ colour-consulting.ch
 colour-effects.ch
 colour-food.ch
 colour-grading.ch
+colour-me-beautiful.ch
 colour-sense.ch
 colour-style-jewellery.ch
 colour-style.ch
@@ -13415,7 +13423,6 @@ committed.ch
 committed2.ch
 committedcapital.ch
 committedteam.ch
-committedworld.ch
 committee.ch
 committeegsem.ch
 committenti.ch
@@ -14965,6 +14972,7 @@ compasscup.ch
 compassfoundation.ch
 compassgroup.ch
 compasshealth.ch
+compasshq.ch
 compasshubelmatt.ch
 compassia.ch
 compassin.ch
@@ -18033,6 +18041,7 @@ concerts-classiques-gryon.ch
 concerts-de-cheseaux.ch
 concerts-decouvertes.ch
 concerts-du-centre.ch
+concerts-ete2020.ch
 concerts-musique.ch
 concerts-of-nations.ch
 concerts-pamplona.ch
@@ -18182,6 +18191,7 @@ concierges.ch
 conciergesante.ch
 conciergeservice.ch
 conciergeservices.ch
+conciergesfolio.ch
 conciergesolutions.ch
 conciergesuisse.ch
 conciergevalais.ch
@@ -20026,7 +20036,9 @@ connectcloud.ch
 connectcoach.ch
 connectcom-networks.ch
 connectcom.ch
+connecte-eglise.ch
 connecte-toit.ch
+connecte-vdt.ch
 connecte.ch
 connectec.ch
 connectech.ch
@@ -20439,7 +20451,6 @@ conntec.ch
 conny-adams.ch
 conny-artho.ch
 conny-balzer.ch
-conny-bastelt.ch
 conny-br.ch
 conny-buechler.ch
 conny-coaching.ch
@@ -22304,6 +22315,7 @@ consult-pms.ch
 consult-psy.ch
 consult-service.ch
 consult-task.ch
+consult-tech.ch
 consult-tlc.ch
 consult-us.ch
 consult-vonmeiss.ch
@@ -22972,7 +22984,6 @@ contactit.ch
 contactiva.ch
 contactive.ch
 contactlab.ch
-contactlapierreromande.ch
 contactlens.ch
 contactless-payment.ch
 contactless-payments.ch
@@ -23867,6 +23878,7 @@ conthey-centre.ch
 conthey-dentaire.ch
 conthey-dentiste.ch
 conthey-informatique.ch
+conthey-palladio.ch
 conthey.ch
 conthey24.ch
 contheycentre.ch
@@ -25343,7 +25355,6 @@ cookiecakeandco.ch
 cookiecasino-swiss.ch
 cookiecasino.ch
 cookieclub.ch
-cookieclubp.ch
 cookiecoin.ch
 cookieconsent.ch
 cookiecrew.ch
@@ -25678,7 +25689,6 @@ coolbaker.ch
 coolbar.ch
 coolbase.ch
 coolbat.ch
-coolbe.ch
 coolbeans.ch
 coolbello.ch
 coolbern.ch
@@ -26985,6 +26995,7 @@ copperhead.ch
 copperhead3.ch
 copperhill.ch
 copperiq.ch
+copperleaf.ch
 coppermates.ch
 coppernet.ch
 copperpen.ch
@@ -29084,6 +29095,7 @@ corinnemerz.ch
 corinnemessikommer.ch
 corinnemetzger.ch
 corinnemeyer-photographie.ch
+corinnemeyer.ch
 corinnemoesching.ch
 corinnemosimann.ch
 corinnenocco.ch
@@ -31452,6 +31464,8 @@ cortijo-la-perla.ch
 cortijolapaz.ch
 cortikal.ch
 cortile.ch
+cortilecarra.ch
+cortiledicarra.ch
 cortiletto.ch
 cortility.ch
 cortiment.ch
@@ -32203,7 +32217,6 @@ cosmeticloungelucerne.ch
 cosmeticlydia.ch
 cosmeticmanuela.ch
 cosmeticmedicine.ch
-cosmeticmeyer.ch
 cosmetico-bern.ch
 cosmetico-sterile.ch
 cosmetico.ch
@@ -32403,7 +32416,6 @@ cosmichealing-schweiz.ch
 cosmichealing.ch
 cosmichealingschweiz.ch
 cosmicintent.ch
-cosmiclightquantatechnology.ch
 cosmicmatter.ch
 cosmicme.ch
 cosmicmeow.ch
@@ -33061,6 +33073,7 @@ costationnement.ch
 costato.ch
 costaud.ch
 costavictoria.ch
+costawebsites.ch
 costay.ch
 costazzurra.ch
 costbar.ch
@@ -33913,6 +33926,7 @@ couleurduvin.ch
 couleuretmatiere.ch
 couleuretparfum.ch
 couleurfouta.ch
+couleurfoutas.ch
 couleurgraf.ch
 couleurgrafikerin.ch
 couleuriker.ch
@@ -34001,7 +34015,6 @@ councilofreligions.ch
 coundco.ch
 counhani.ch
 couniq.ch
-counsale.ch
 counsel-services.ch
 counsel.ch
 counsel4you.ch

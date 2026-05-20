@@ -648,7 +648,6 @@ job-universum.ch
 job-up.ch
 job-update.ch
 job-uri.ch
-job-vd.ch
 job-vector.ch
 job-vektor.ch
 job-vente.ch
@@ -2084,7 +2083,6 @@ jobs-uzwil.ch
 jobs-valais.ch
 jobs-vat.ch
 jobs-vaud.ch
-jobs-vd.ch
 jobs-vernier.ch
 jobs-versicherung.ch
 jobs-versicherungen.ch
@@ -2407,7 +2405,6 @@ jobspilot.ch
 jobspin.ch
 jobsplus.ch
 jobspoint.ch
-jobsportal.ch
 jobspot.ch
 jobspourmoi.ch
 jobspringer-sh.ch
@@ -8066,6 +8063,7 @@ josia-schweizer.ch
 josia.ch
 josiag.ch
 josiah-emery.ch
+josiajohn.ch
 josiajourdan.ch
 josiamayer.ch
 josiane-lingerie.ch

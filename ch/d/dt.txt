@@ -385,6 +385,7 @@ dts24.ch
 dtsa.ch
 dtsag.ch
 dtsandbox.ch
+dtsapp.ch
 dtschpn.ch
 dtschudin.ch
 dtsconsulting.ch

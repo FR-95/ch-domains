@@ -635,6 +635,7 @@ zuegelfirma-zug.ch
 zuegelfirma.ch
 zuegelfirma24.ch
 zuegelfirmabasel.ch
+zuegelfirmabern24.ch
 zuegelfirmazuerich.ch
 zuegelfirmen-vergleichen.ch
 zuegelfirmen.ch
@@ -643,8 +644,10 @@ zuegelhaus.ch
 zuegelheld.ch
 zuegelhelden.ch
 zuegelhelfer.ch
+zuegelhilfe-bern24.ch
 zuegelhilfe-guenstig.ch
 zuegelhilfe.ch
+zuegelhilfebern24.ch
 zuegelinfo.ch
 zuegelkarton.ch
 zuegelki.ch
@@ -705,10 +708,12 @@ zuegelprofis.ch
 zuegelreinigung.ch
 zuegelscout.ch
 zuegelscout24.ch
+zuegelservice-bern.ch
 zuegelservice-reinigungsservice.ch
 zuegelservice-zuerich.ch
 zuegelservice.ch
 zuegelservice365.ch
+zuegelservicebern.ch
 zuegelshop-zuerich.ch
 zuegelshop.ch
 zuegelshop24.ch
@@ -1149,6 +1154,7 @@ zuercher-ringerclub.ch
 zuercher-rudolf.ch
 zuercher-s-bahn.ch
 zuercher-sanitaer.ch
+zuercher-schachverband.ch
 zuercher-schule.ch
 zuercher-schweiz.ch
 zuercher-segelclub.ch
@@ -1654,6 +1660,7 @@ zueribimcoach.ch
 zueribistro.ch
 zueriblau.ch
 zueribliebtlinks.ch
+zueriblitz.ch
 zueriblueme.ch
 zueribluete.ch
 zueribooch.ch
@@ -3378,6 +3385,7 @@ zug-vku.ch
 zug-wandern.ch
 zug-wealthmanagement.ch
 zug-webdesign.ch
+zug-weinberg.ch
 zug-werbung.ch
 zug-westwind.ch
 zug-wm.ch
@@ -3835,6 +3843,7 @@ zugeroktoberfest.ch
 zugeron.ch
 zugeropenexpo.ch
 zugerpartners.ch
+zugerpfoten.ch
 zugerpizza.ch
 zugerpk.ch
 zugerplan.ch
@@ -4099,6 +4108,7 @@ zugreisen.ch
 zugreisenprofi.ch
 zugride.ch
 zugriff.ch
+zugriffssicher.ch
 zugrist.ch
 zugrugby.ch
 zugrun.ch
@@ -4402,7 +4412,6 @@ zukunft-guyerhof.ch
 zukunft-hallenbad.ch
 zukunft-handwerk.ch
 zukunft-hat-herkunft.ch
-zukunft-heidadorf.ch
 zukunft-hgzz.ch
 zukunft-hochdorf.ch
 zukunft-hofdere.ch
@@ -5460,6 +5469,7 @@ zumgmuesrad.ch
 zumgoldenenhaar.ch
 zumgoldenenkopf.ch
 zumgoldenenkreuz-rafz.ch
+zumgoldenenkreuz.ch
 zumgoldenenlamm.ch
 zumgoldenenschaeflisg.ch
 zumgoldenenschnitt.ch
@@ -8071,6 +8081,7 @@ zuspru.ch
 zuspruch.ch
 zussau.ch
 zusslin.ch
+zusss.ch
 zust-consulting.ch
 zust-vanherk.ch
 zust.ch

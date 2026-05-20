@@ -481,6 +481,7 @@ mmdeals.ch
 mmdempro.ch
 mmdent.ch
 mmdesign.ch
+mmdetailing.ch
 mmdeutsch.ch
 mmdeutschhauswartung.ch
 mmdg.ch
@@ -811,6 +812,7 @@ mmp-blog.ch
 mmp-consulting.ch
 mmp-immobilien.ch
 mmp-klima.ch
+mmp-legal.ch
 mmp-premium.ch
 mmp-tools.ch
 mmp-trubschachen.ch
@@ -819,7 +821,11 @@ mmpag.ch
 mmpart.ch
 mmpartner.ch
 mmpbildungsinstitut.ch
+mmpconsulting-services.ch
+mmpconsulting-solutions.ch
 mmpconsulting.ch
+mmpconsultingservices.ch
+mmpconsultingsolutions.ch
 mmpe.ch
 mmpeintures.ch
 mmperformance.ch
@@ -828,6 +834,7 @@ mmpfilms.ch
 mmpharm.ch
 mmplab.ch
 mmplc.ch
+mmplegal.ch
 mmplo.ch
 mmplus.ch
 mmpmarketing.ch
@@ -840,6 +847,8 @@ mmpro.ch
 mmprod.ch
 mmproduction.ch
 mmpromotion.ch
+mmpservices.ch
+mmpsolutions.ch
 mmpsy.ch
 mmpweb.ch
 mmpwuethrich.ch

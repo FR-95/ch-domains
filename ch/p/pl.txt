@@ -1722,7 +1722,6 @@ planetkeeper.ch
 planetkommunikation.ch
 planetkono.ch
 planetlanguages.ch
-planetlife.ch
 planetlingua.ch
 planetlive.ch
 planetlove.ch
@@ -1994,9 +1993,11 @@ planikafires.ch
 planikum.ch
 planila.ch
 planilo.ch
+planimazione.ch
 planimmo.ch
 planimmobilier3d.ch
 planimpuls.ch
+planina.ch
 planincreaform.ch
 planinfo.ch
 planing.ch
@@ -5392,7 +5393,6 @@ plazamail.ch
 plazamedia-swiss.ch
 plazamedia.ch
 plazamediaswiss.ch
-plazaofdreams.ch
 plazarium.ch
 plazart.ch
 plazatoys.ch
@@ -6569,7 +6569,6 @@ plop-app.ch
 plop.ch
 plopapp.ch
 plopbox.ch
-plopdesign.ch
 ploper.ch
 ploply.ch
 plopp.ch

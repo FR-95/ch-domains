@@ -1672,6 +1672,7 @@ isg-luxury.ch
 isg-one.ch
 isg-security.ch
 isg-suisse.ch
+isg-syndrom.ch
 isg-therapie.ch
 isg-zentrum.ch
 isg.ch
@@ -3773,7 +3774,6 @@ isssicherheit.ch
 isssicurezza.ch
 issswissawards.ch
 isst-bewusst.ch
-isst-und-ist.ch
 isst-zustand.ch
 isst.ch
 issthai.ch

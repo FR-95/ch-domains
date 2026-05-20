@@ -1205,6 +1205,7 @@ kmuclima.ch
 kmucloud.ch
 kmucoach.ch
 kmucoaching.ch
+kmucockpit.ch
 kmucommunity.ch
 kmucompanion.ch
 kmuconnect.ch
@@ -1657,6 +1658,7 @@ kmuwebbox.ch
 kmuwebcoach.ch
 kmuwebseite.ch
 kmuwebseiten.ch
+kmuwebservice.ch
 kmuwebsites.ch
 kmuwebsolutions.ch
 kmuweiterbildung.ch

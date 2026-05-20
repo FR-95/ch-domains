@@ -275,6 +275,7 @@ ns.ins-online.ch
 ns.interdesk.ch
 ns.international-cooperation.ch
 ns.introshop.ch
+ns.ipng.ch
 ns.iprotus.ch
 ns.iridium.ch
 ns.isitconseils.ch
@@ -3161,7 +3162,6 @@ ns1.ritns.ch
 ns1.rivalution.ch
 ns1.rivejob.ch
 ns1.rixs.ch
-ns1.rksconsulting.ch
 ns1.robic.ch
 ns1.robinblaser.ch
 ns1.rockentalent.ch
@@ -3519,7 +3519,6 @@ ns1.swissclouds.ch
 ns1.swisscum.ch
 ns1.swissdigicert.ch
 ns1.swissdigit.ch
-ns1.swissdruck24.ch
 ns1.swissfarming.ch
 ns1.swissfile.ch
 ns1.swissfintechinnovationlab.ch
@@ -3772,6 +3771,7 @@ ns1.vs.ch
 ns1.vsm-nettoyage.ch
 ns1.vtspace.ch
 ns1.vulvantine.ch
+ns1.vylaris.ch
 ns1.vyma.ch
 ns1.w-4.ch
 ns1.w3design.ch
@@ -6424,7 +6424,6 @@ ns2.ritns.ch
 ns2.rivalution.ch
 ns2.rivejob.ch
 ns2.rixs.ch
-ns2.rksconsulting.ch
 ns2.robic.ch
 ns2.robinblaser.ch
 ns2.rockentalent.ch
@@ -6778,7 +6777,6 @@ ns2.swisscloudhosting.ch
 ns2.swissclouds.ch
 ns2.swisscum.ch
 ns2.swissdigit.ch
-ns2.swissdruck24.ch
 ns2.swisselectricity.ch
 ns2.swissfarming.ch
 ns2.swissfintechinnovationlab.ch
@@ -7031,6 +7029,7 @@ ns2.vsm-nettoyage.ch
 ns2.vtspace.ch
 ns2.vulvantine.ch
 ns2.vyan.ch
+ns2.vylaris.ch
 ns2.vyma.ch
 ns2.w-4.ch
 ns2.w4u2.ch
@@ -7865,7 +7864,6 @@ ns3.righter.ch
 ns3.riono.ch
 ns3.ritns.ch
 ns3.rixs.ch
-ns3.rksconsulting.ch
 ns3.roe.ch
 ns3.rohn.ch
 ns3.roninf.ch
@@ -8008,6 +8006,7 @@ ns3.vivanet.ch
 ns3.vneko.ch
 ns3.volleyuntervaz.ch
 ns3.vr-technics.ch
+ns3.vylaris.ch
 ns3.w-4.ch
 ns3.w3design.ch
 ns3.waly.ch
@@ -8319,6 +8318,7 @@ ns4.uhot.ch
 ns4.unique-hosting.ch
 ns4.virtualhosts.ch
 ns4.viseca.ch
+ns4.vylaris.ch
 ns4.waly.ch
 ns4.webland.ch
 ns4.webwer.ch
@@ -8399,6 +8399,7 @@ ns5.swissquake.ch
 ns5.swissrack.ch
 ns5.threema.ch
 ns5.uhot.ch
+ns5.vylaris.ch
 ns50.kbsd.ch
 ns59.tophost.ch
 ns6.another.ch
@@ -8429,6 +8430,7 @@ ns6.serverhouse.ch
 ns6.stylebeauty.ch
 ns6.sunbeam.ch
 ns6.swissrack.ch
+ns6.vylaris.ch
 ns60.tophost.ch
 ns7.avaloqsourcing.ch
 ns7.b-source.ch

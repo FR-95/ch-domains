@@ -6484,7 +6484,6 @@ xn--bois-de-chnes-yhb.ch
 xn--boisdechne-t7a.ch
 xn--boisetlumire-6db.ch
 xn--boissons-rafrachissantes-8ic.ch
-xn--bolero-getrnke-gib.ch
 xn--bolero-getrnkepulver-lzb.ch
 xn--bolerogetrnke-kfb.ch
 xn--bolerogetrnkepulver-pwb.ch
@@ -9520,7 +9519,6 @@ xn--chalet-hckli-cjb.ch
 xn--chalet-laust-meb.ch
 xn--chalet-rosita-srenberg-8hc.ch
 xn--chalet-sdtirol-nsb.ch
-xn--chalet-tnneli-ifb.ch
 xn--chalet-trbsee-4ob.ch
 xn--chaletamschrme-gib.ch
 xn--chaletbrgsunne-cib.ch
@@ -13567,6 +13565,7 @@ xn--echtschn-t4a.ch
 xn--eckbnke-8wa.ch
 xn--eckschrnke-w5a.ch
 xn--eckstck-r2a.ch
+xn--eckstein-vermgensschutz-klc.ch
 xn--eclisse-schiebetren-lbc.ch
 xn--eco-dbarras-au-meilleur-prix-frc.ch
 xn--eco-dbarras-fbb.ch
@@ -14048,6 +14047,7 @@ xn--elektro-fahrzeuge-rmer-dic.ch
 xn--elektro-flckiger-szb.ch
 xn--elektro-frhlich-itb.ch
 xn--elektro-gerteprfung-qwb22c.ch
+xn--elektro-gnssler-8kb.ch
 xn--elektro-hberli-eib.ch
 xn--elektro-hrz-t8a.ch
 xn--elektro-kch-t8a.ch
@@ -16486,6 +16486,7 @@ xn--filmorchesterzrich-z6b.ch
 xn--filmproduktionzrich-kbc.ch
 xn--filmstiftung-zrich-z6b.ch
 xn--filmwrk-9wa.ch
+xn--filosspezilitten-7nb.ch
 xn--filspapa-2ya.ch
 xn--filterbrse-kcb.ch
 xn--filterhlsen-zhb.ch
@@ -22063,7 +22064,6 @@ xn--greber-haushaltgerte-szb.ch
 xn--grebler-o2a.ch
 xn--grebler-stiftung-kzb.ch
 xn--greco-im-gssli-fib.ch
-xn--grecornovation-gkb.ch
 xn--greencity-zahnrzte-ytb.ch
 xn--greenko-e1a.ch
 xn--greenview-zrich-9vb.ch
@@ -31943,6 +31943,7 @@ xn--krperfettmessung-mwb.ch
 xn--krperfettwaagen-8sb.ch
 xn--krperfit-n4a.ch
 xn--krperflsterin-imb0h.ch
+xn--krperformen-ems-8sb.ch
 xn--krperformen-rfb.ch
 xn--krperfragen-rfb.ch
 xn--krperfreude-rfb.ch
@@ -32663,6 +32664,7 @@ xn--kvblach-p2a.ch
 xn--kvbusinessschoolzrich-pic.ch
 xn--kver-art-65a.ch
 xn--kvin-bpa.ch
+xn--kvkniz-yxa.ch
 xn--kvzrich-p2a.ch
 xn--kw-eka.ch
 xn--kw-lka.ch
@@ -33563,7 +33565,6 @@ xn--lentreprise-buissonnire-6bc.ch
 xn--lentreprisebuissonnire-67b.ch
 xn--lenuagesr-n9a.ch
 xn--lenzerhsli-geb.ch
-xn--leo-anhngerfahrschule-c2b.ch
 xn--leo-gebudetechnik-wqb.ch
 xn--leo-gerst-w9a.ch
 xn--leo-und-pfdi-mlb.ch
@@ -34206,13 +34207,13 @@ xn--llita-vua.ch
 xn--llleknig-0za8p.ch
 xn--llli-bru-0zag.ch
 xn--llli-loa.ch
-xn--lm-intrieur-gbb.ch
 xn--lm-lftung-t9a.ch
 xn--lm-xkab.ch
 xn--lma-9lab.ch
 xn--lma-hoa.ch
 xn--lmaa-4qa.ch
 xn--lmalerei-m4a.ch
+xn--lman-automation-bnb.ch
 xn--lman-bti-nza8d.ch
 xn--lman-care-b4a.ch
 xn--lman-chirurgie-bkb.ch
@@ -37026,7 +37027,6 @@ xn--meinmenplan-zhb.ch
 xn--meinmrchen-u5a.ch
 xn--meinohrfrdich-3ob.ch
 xn--meinonlinebro-6ob.ch
-xn--meinparfm-x9a.ch
 xn--meinpartnerschlgt-4qb.ch
 xn--meinpersnlichkeitsprofil-soc.ch
 xn--meinpflnzli-r8a.ch
@@ -44976,6 +44976,7 @@ xn--ramne-6ra.ch
 xn--ramnli-yxa.ch
 xn--ramonakchli-xfb.ch
 xn--ramonamller-photography-ipc.ch
+xn--ramonsfleischspezialitten-6ec.ch
 xn--rampass-cxa.ch
 xn--rampenknig-kcb.ch
 xn--rampenmbel-kcb.ch
@@ -51062,6 +51063,7 @@ xn--seelenglcklich-nsb.ch
 xn--seelengrtnerin-cib.ch
 xn--seelenhter-geb.ch
 xn--seelenklnge-s8a.ch
+xn--seelenkrper-massagen-99b.ch
 xn--seelenksse-geb.ch
 xn--seelenlcheln-mcb.ch
 xn--seelenplne-x5a.ch
@@ -53141,6 +53143,7 @@ xn--srenberger-ecb.ch
 xn--srenbergerin-4ib.ch
 xn--srenbergsounds-vpb.ch
 xn--srendeep-b1a.ch
+xn--srendip-ellipsis-bqb.ch
 xn--srendipeur-b7a.ch
 xn--srendipit-b4ai.ch
 xn--srensen-90a.ch
@@ -58391,6 +58394,7 @@ xn--vermgen-beratung-pwb.ch
 xn--vermgen-beratungen-g3b.ch
 xn--vermgen-bilden-ypb.ch
 xn--vermgen-d1a.ch
+xn--vermgen-in-der-schweiz-xhc.ch
 xn--vermgen-investieren-t6b.ch
 xn--vermgen-mensch-ypb.ch
 xn--vermgen-richtig-denken-xhc.ch

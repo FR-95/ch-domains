@@ -1331,7 +1331,6 @@ graffiti-shrek.ch
 graffiti-sprayer.ch
 graffiti-stop.ch
 graffiti-suisse.ch
-graffiti-sylvie.ch
 graffiti-weg.ch
 graffiti-workshop.ch
 graffiti-workshops.ch
@@ -2270,7 +2269,6 @@ gramjuriens.ch
 gramke.ch
 gramking.ch
 gramli.ch
-gramm-oib.ch
 gramm.ch
 grammalinga.ch
 grammar-mentor.ch
@@ -2486,6 +2484,7 @@ grand-festival.ch
 grand-fin.ch
 grand-geneva-hosting.ch
 grand-geneve.ch
+grand-golf.ch
 grand-h-sanitaire.ch
 grand-hostel.ch
 grand-hotel-bellevue.ch
@@ -4766,7 +4765,6 @@ graubuendenviva.ch
 graubuendenvivonda.ch
 graubuendenwald.ch
 graubuendenwasser.ch
-graubuendenweb.ch
 graubuendenwein.ch
 graubuendig.ch
 graubuendner-kantonalbank.ch
@@ -5413,6 +5411,8 @@ grayling.ch
 graymail.ch
 graymarket.ch
 graymatter.ch
+grayoak-nuclear.ch
+grayoak-nuklear.ch
 grayoak.ch
 grayowl.ch
 graypine.ch
@@ -5744,7 +5744,6 @@ greatplacefortalents.ch
 greatplacetogrow.ch
 greatplacetostart.ch
 greatplacetowork.ch
-greatplacework.ch
 greatplanning.ch
 greatplate.ch
 greatplates.ch
@@ -10719,6 +10718,7 @@ grillkaese.ch
 grillkaiser.ch
 grillkamin.ch
 grillking.ch
+grillkings-atheko.ch
 grillkoenig.ch
 grillkoenige.ch
 grillkoffer.ch
@@ -10739,7 +10739,6 @@ grillkurs.ch
 grillkurse-kochkurse-teamevents.ch
 grillkurse.ch
 grillland-catering.ch
-grillland-online.ch
 grillland.ch
 grilllandcatering.ch
 grilllounge.ch
@@ -11441,7 +11440,6 @@ griplab.ch
 gripline.ch
 gripme.ch
 gripmode.ch
-gripmoto.ch
 gripmyride.ch
 gripnfun.ch
 gripngo.ch
@@ -12780,6 +12778,7 @@ gross-matta.ch
 gross-mc.ch
 gross-metallbauer.ch
 gross-national-happiness-commission.ch
+gross-online.ch
 gross-optik.ch
 gross-pest-control.ch
 gross-reinigung.ch
@@ -14280,6 +14279,8 @@ groupeproactifsa.ch
 groupeproconseil.ch
 groupeproconseils.ch
 groupeprodo.ch
+groupeprotech-etancheite.ch
+groupeprotech.ch
 groupeproton.ch
 groupepsa.ch
 grouper.ch

@@ -56,6 +56,7 @@ dwarf8.ch
 dwarfish.ch
 dwarfsandgiants.ch
 dwassmer.ch
+dwat.ch
 dwatcher.ch
 dwave.ch
 dway.ch

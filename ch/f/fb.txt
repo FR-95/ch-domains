@@ -240,6 +240,7 @@ fbgraphiques.ch
 fbgzh.ch
 fbh-capital.ch
 fbh-etancheite.ch
+fbh-service-schweiz.ch
 fbh.ch
 fbhandelsag.ch
 fbhavocats.ch
@@ -318,13 +319,13 @@ fbm-ag.ch
 fbm-analytics.ch
 fbm-bacheli.ch
 fbm-entertainment.ch
+fbm-fr.ch
 fbm-gmbh.ch
 fbm-group.ch
 fbm-management.ch
 fbm-photography.ch
 fbm.ch
 fbma.ch
-fbmag.ch
 fbmanagement.ch
 fbmarketplace.ch
 fbmarketplaces.ch

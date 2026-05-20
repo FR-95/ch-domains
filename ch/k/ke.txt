@@ -700,7 +700,6 @@ keg-waermepumpe.ch
 keg.ch
 kega-party.ch
 kega.ch
-kegac.ch
 kegcocktail.ch
 kegcocktails.ch
 kegel-club.ch
@@ -992,6 +991,8 @@ kein-werkhof-am-friedhof.ch
 kein-witz.ch
 kein-wohnungs-bschiss.ch
 kein-zwang-gr.ch
+kein-zwang-zh.ch
+kein-zwang-zuerich.ch
 kein-zwang.ch
 kein.ch
 kein0815.ch
@@ -1175,6 +1176,9 @@ keinwitz.ch
 keinwolf.ch
 keinwuns.ch
 keinzufall.ch
+keinzwang-zh.ch
+keinzwang.ch
+keinzwangzuerich.ch
 keinzweifel.ch
 keiplan.ch
 keiplastik.ch

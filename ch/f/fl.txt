@@ -989,7 +989,6 @@ flapsone.ch
 flapsup.ch
 flaquita.ch
 flar-com.ch
-flarainfluo.ch
 flarch.ch
 flarchitecture.ch
 flarcom.ch
@@ -2839,6 +2838,7 @@ fleuristnet.ch
 fleurlicious.ch
 fleurlune.ch
 fleurmann.ch
+fleurnettoyage.ch
 fleurnoble.ch
 fleurock.ch
 fleurolle.ch
@@ -4276,7 +4276,6 @@ fliesboden.ch
 fliescher.ch
 fliese.ch
 fliesen-4you.ch
-fliesen-basel.ch
 fliesen-boxx.ch
 fliesen-experte.ch
 fliesen-fachhaendler.ch
@@ -4425,6 +4424,7 @@ flightbooker.ch
 flightbookers.ch
 flightbroker.ch
 flightbuddies.ch
+flightbuddyki.ch
 flightcalibration.ch
 flightcar.ch
 flightcard.ch
@@ -8303,6 +8303,7 @@ flowonlights.ch
 flowops.ch
 flowora.ch
 flowork.ch
+floworks.ch
 floworx.ch
 flowowow.ch
 flowpac.ch
@@ -8460,7 +8461,6 @@ flowtrails.ch
 flowtrain.ch
 flowtransport.ch
 flowtriathlete.ch
-flowty.ch
 flowupyoursoul.ch
 flowvalley.ch
 flowventures.ch
@@ -10265,7 +10265,6 @@ flurysports.ch
 flurystiftung.ch
 flurytools.ch
 flurytrans.ch
-flurytransport.ch
 fluryundrudolf.ch
 fluryversicherungen.ch
 fluryvisuals.ch
@@ -11265,7 +11264,6 @@ flying-cranes.ch
 flying-dentist.ch
 flying-dentists.ch
 flying-devil.ch
-flying-dinner.ch
 flying-disc.ch
 flying-doc.ch
 flying-doctor.ch
@@ -11711,7 +11709,6 @@ flypig.ch
 flypilatus.ch
 flypingo.ch
 flypink.ch
-flyplay.ch
 flypoint.ch
 flypol.ch
 flypower-arbi.ch

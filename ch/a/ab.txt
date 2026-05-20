@@ -32,6 +32,8 @@ ab-ba.ch
 ab-basel.ch
 ab-batusha-construction.ch
 ab-bau-transport.ch
+ab-bau.ch
+ab-bauleistung.ch
 ab-baulesitung.ch
 ab-baumanagement.ch
 ab-bausysteme.ch
@@ -1945,7 +1947,6 @@ abcrealestate-verbier.ch
 abcreation.ch
 abcreations.ch
 abcrecords.ch
-abcrecy.ch
 abcreinigung-zh.ch
 abcreinigung.ch
 abcreiseclub.ch
@@ -3131,10 +3132,13 @@ abflussprofi.ch
 abflussreinigen.ch
 abflussreiniger.ch
 abflussreinigung-express.ch
+abflussreinigung-notdienst.ch
 abflussreinigung.ch
 abflussreinigung24.ch
 abflussreinigungen.ch
+abflussservice-bern.ch
 abflussservice.ch
+abflussservicebern.ch
 abflusstaurus.ch
 abflusstech.ch
 abflussverstopft.ch
@@ -3189,6 +3193,7 @@ abgabe-service-bern.ch
 abgabe.ch
 abgabeco2.ch
 abgabefertig.ch
+abgabegarantie-reinigung.ch
 abgabegarantie.ch
 abgaben.ch
 abgabenrecht-anwalt.ch
@@ -3305,7 +3310,6 @@ abhari.ch
 abhashmittal.ch
 abhasia.ch
 abhatisuisse.ch
-abhaya-coaching.ch
 abhaya-yoga.ch
 abhconseils.ch
 abhealthy.ch
@@ -4176,10 +4180,13 @@ abnahme-service.ch
 abnahme-test.ch
 abnahme.ch
 abnahmegarantie-bern.ch
+abnahmegarantie-reinigung.ch
 abnahmegarantie-wohnungsreinigung.ch
 abnahmegarantie.ch
+abnahmegarantiebern.ch
 abnahmeprotokoll.ch
 abnahmepruefungen.ch
+abnahmeservicebern.ch
 abnamo.ch
 abnamro.ch
 abnamroprivatebanking.ch
@@ -5769,6 +5776,7 @@ absinthum.ch
 absinthworld.ch
 absintissimo.ch
 absis.ch
+absiz-buero.ch
 absl-dach.ch
 absl.ch
 absm.ch
@@ -6165,6 +6173,7 @@ abstimmungstipp.ch
 abstimmungszeitung.ch
 abstinent.ch
 abstinenz.ch
+abstore.ch
 abstr-act.ch
 abstra.ch
 abstracks.ch

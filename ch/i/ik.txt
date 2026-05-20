@@ -223,6 +223,7 @@ ikea-foundation.ch
 ikea-kuechen.ch
 ikea-mastercard.ch
 ikea-montage-service.ch
+ikea-pax-service.ch
 ikea-rentaservice.ch
 ikea-schweiz.ch
 ikea-servicebooking.ch
@@ -231,6 +232,7 @@ ikea-switzerland.ch
 ikea-workshop.ch
 ikea-zh-design-week.ch
 ikea.ch
+ikeaaufbau-bern.ch
 ikeaddd.ch
 ikeafamilycreditcard.ch
 ikeafronten.ch
@@ -320,6 +322,7 @@ ikigai-coach.ch
 ikigai-couleurs.ch
 ikigai-food.ch
 ikigai-geneve.ch
+ikigai-jura.ch
 ikigai-kompass.ch
 ikigai-lantretemps.ch
 ikigai-leadership.ch

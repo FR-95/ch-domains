@@ -11,6 +11,7 @@ sm-art-contract.ch
 sm-art-polydesign.ch
 sm-art.ch
 sm-arte.ch
+sm-artis.ch
 sm-auto.ch
 sm-automobile.ch
 sm-baudienstleistungen.ch
@@ -635,6 +636,7 @@ smaro.ch
 smaroche.ch
 smarpay.ch
 smarques.ch
+smarra.ch
 smarrito.ch
 smarschall.ch
 smarsh.ch
@@ -2507,8 +2509,6 @@ smartex-sarl.ch
 smartex.ch
 smartexam.ch
 smartexcel.ch
-smartexpense.ch
-smartexpenses.ch
 smartexperience.ch
 smartexperts.ch
 smartexpertseurope.ch
@@ -3082,6 +3082,7 @@ smartjewel.ch
 smartjob.ch
 smartjobimmo.ch
 smartjobs.ch
+smartjobsearch.ch
 smartjoule.ch
 smartjournalist.ch
 smartjourney.ch
@@ -5318,6 +5319,7 @@ smile-4-kids.ch
 smile-accident.ch
 smile-ag.ch
 smile-again.ch
+smile-ai.ch
 smile-akademie.ch
 smile-and-care.ch
 smile-and-style.ch
@@ -5383,6 +5385,7 @@ smile-geneva.ch
 smile-hauswart.ch
 smile-health.ch
 smile-home.ch
+smile-ia.ch
 smile-igienista-mobile.ch
 smile-immobilien.ch
 smile-in.ch
@@ -5680,6 +5683,7 @@ smilemassage.ch
 smileme.ch
 smilemed.ch
 smilemedia.ch
+smilemobdetailing.ch
 smilemobil.ch
 smilemoments.ch
 smilemonalisa.ch
@@ -6545,7 +6549,6 @@ smonnier.ch
 smons.ch
 smoo.ch
 smoobies.ch
-smoobottle.ch
 smoobster.ch
 smoobu.ch
 smoochy.ch
@@ -7145,6 +7148,7 @@ smt-ts.ch
 smt.ch
 smt188.ch
 smta-polesana.ch
+smta.ch
 smtal.ch
 smtalcom.ch
 smtc.ch

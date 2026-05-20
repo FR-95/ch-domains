@@ -642,6 +642,7 @@ fueglistaller-treuhand.ch
 fueglistaller.ch
 fueglistallerag.ch
 fueglister.ch
+fuego-chips.ch
 fuego-clothing.ch
 fuego-solution.ch
 fuego.ch
@@ -796,6 +797,7 @@ fuehrungslabor.ch
 fuehrungsmacher.ch
 fuehrungsmanagement.ch
 fuehrungsmittel.ch
+fuehrungsproblem.ch
 fuehrungsrad.ch
 fuehrungsraum.ch
 fuehrungsschmiede.ch
@@ -1516,7 +1518,6 @@ fugen-shop.ch
 fugen-tec.ch
 fugen-tech.ch
 fugen-tropiejko.ch
-fugen-werk.ch
 fugen-zopf.ch
 fugen-zueri.ch
 fugen-zuerich.ch
@@ -2447,6 +2448,7 @@ fumedica.ch
 fumee-onlineshop.ch
 fumee.ch
 fumeepassive-fr.ch
+fumeepassive.ch
 fumeetertiaire.ch
 fumeiro-iberico.ch
 fumer-ca-fait-du-mal.ch
@@ -2506,6 +2508,7 @@ fumoirdelacote.ch
 fumoirs.ch
 fumoirverzeichnis.ch
 fumoiry.ch
+fumopassivo.ch
 fumor.ch
 fumora.ch
 fumosa.ch
@@ -4353,6 +4356,7 @@ funteachers.ch
 funtec.ch
 funtech.ch
 funtheon.ch
+funtik.ch
 funtime.ch
 funtimechicago.ch
 funtimer.ch
@@ -5697,8 +5701,10 @@ fussballkunst.ch
 fussballlichtspiele.ch
 fussballlivestream.ch
 fussballlivetv.ch
+fussballmaeuse.ch
 fussballmagazin.ch
 fussballmanager.ch
+fussballmarkt.ch
 fussballmatch.ch
 fussballmiete.ch
 fussballmitpassion.ch
@@ -6430,7 +6436,6 @@ fusspflegemobil-ai.ch
 fusspflegemobil.ch
 fusspflegemonicaforgione.ch
 fusspflegemonikagloor.ch
-fusspflegen.ch
 fusspflegeoase.ch
 fusspflegeoberbipp.ch
 fusspflegeparadies.ch
@@ -6455,6 +6460,7 @@ fusspflegepraxis-s.ch
 fusspflegepraxis-seetal.ch
 fusspflegepraxis-senn.ch
 fusspflegepraxis-sutz.ch
+fusspflegepraxis.ch
 fusspflegepraxis39.ch
 fusspflegepraxisgerig.ch
 fusspflegepraxisimoberdorf.ch
@@ -7038,7 +7044,6 @@ futujob.ch
 futun.ch
 futunatura.ch
 futunk.ch
-futur-2.ch
 futur-ai.ch
 futur-anterieur.ch
 futur-care.ch

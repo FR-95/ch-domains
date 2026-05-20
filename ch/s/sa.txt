@@ -2224,7 +2224,6 @@ sachkundeausbildung.ch
 sachkundeausweis.ch
 sachkundenachweis-laserakupunktur.ch
 sachkundenachweis-pferdehaltung.ch
-sachkundenachweis-quiz.ch
 sachkundenachweis-v-nissg--ausbildung.ch
 sachkundenachweis-v-nissg-kosmetik-info.ch
 sachkundenachweis-v-nissg-schule-zurich.ch
@@ -3887,7 +3886,6 @@ safeload.ch
 safelock.ch
 safelog.ch
 safelogin.ch
-safelogistik.ch
 safelove.ch
 safelux.ch
 safeluxury.ch
@@ -3914,6 +3912,7 @@ safemedsolutions.ch
 safemo.ch
 safemobiletechnology.ch
 safemobility.ch
+safemode-ia.ch
 safemode.ch
 safemoney.ch
 safemoni.ch
@@ -3925,6 +3924,7 @@ safemountain.ch
 safemove.ch
 safemoving.ch
 safemybike.ch
+safenames.ch
 safeness.ch
 safenest.ch
 safenestforchildren.ch
@@ -7523,7 +7523,6 @@ salathe-weinbau.ch
 salathe.ch
 salathearchitekten.ch
 salathearchitektenbasel.ch
-salatheautohandel.ch
 salathebodendesign.ch
 salathem.ch
 salatheo-schaffner.ch
@@ -8766,6 +8765,7 @@ salmunikat.ch
 salmutter.ch
 salmverlag.ch
 salnet.ch
+salnova.ch
 salnuun.ch
 salo-ag.ch
 salo-clean.ch
@@ -8902,7 +8902,6 @@ salometschanz.ch
 salomeulrich.ch
 salomeundandreas.ch
 salomeundjeremy.ch
-salomeundmichael.ch
 salomeundpatrick.ch
 salomeundsandro.ch
 salomeursinawirth.ch
@@ -12188,6 +12187,7 @@ sameseambutdifferent.ch
 sameside.ch
 sameskiesinternational.ch
 samesky.ch
+samespace.ch
 samesystem.ch
 samet-shehu.ch
 samet.ch
@@ -15961,7 +15961,6 @@ sandrazurfluh.ch
 sandrazurmuehle.ch
 sandrazwald.ch
 sandrazweidler.ch
-sandre.ch
 sandrea-gonfi.ch
 sandrea.ch
 sandreagonfi.ch
@@ -16250,6 +16249,7 @@ sandromatter.ch
 sandromauchle.ch
 sandromedina.ch
 sandrominuz.ch
+sandromonti.ch
 sandromoor.ch
 sandromorof.ch
 sandronafzger.ch
@@ -17642,6 +17642,7 @@ sanitaerheizig.ch
 sanitaerheizung.ch
 sanitaerheizungsolar.ch
 sanitaerheld.ch
+sanitaerhilfe24.ch
 sanitaerhofer.ch
 sanitaerinbasel.ch
 sanitaerinstallateur-baselland.ch
@@ -17678,6 +17679,7 @@ sanitaermorelli.ch
 sanitaermueller.ch
 sanitaernetzwerk.ch
 sanitaernotdienst.ch
+sanitaernotdienstbern.ch
 sanitaernotfall.ch
 sanitaernotfalldienst.ch
 sanitaernotfalldienst24.ch
@@ -17701,6 +17703,7 @@ sanitaerservice-buchen.ch
 sanitaerservice-winterthur.ch
 sanitaerservice.ch
 sanitaerservice24.ch
+sanitaerservicebern.ch
 sanitaerservicegmbh.ch
 sanitaershop.ch
 sanitaershop24.ch
@@ -19006,6 +19009,7 @@ sante-jobs.ch
 sante-joye.ch
 sante-kinesiologie.ch
 sante-la.ch
+sante-lamal.ch
 sante-liberee.ch
 sante-libre.ch
 sante-mentale-en-entreprise.ch
@@ -22174,6 +22178,7 @@ sarka-herot.ch
 sarkadi.ch
 sarkaherot.ch
 sarkalon.ch
+sarkanproduktion.ch
 sarkany.ch
 sarkar.ch
 sarkara.ch
@@ -22228,6 +22233,7 @@ sarlnsp.ch
 sarlstb.ch
 sarlsuisse.ch
 sarm.ch
+sarma.ch
 sarmad.ch
 sarmale.ch
 sarman.ch
@@ -22873,7 +22879,6 @@ sasin.ch
 sasint.ch
 sasinvest.ch
 sasinvestag.ch
-sasis-curry-krone.ch
 sasis.ch
 sasisbistro.ch
 sasisoft.ch
@@ -23938,7 +23943,6 @@ satwork.ch
 satya-hatha.ch
 satya-oils.ch
 satya-seifen.ch
-satya-yoga.ch
 satya.ch
 satyaandtheaerialworld.ch
 satyagraha.ch
@@ -23971,6 +23975,7 @@ satzatelier-b.ch
 satzball.ch
 satzbau.ch
 satzbauer.ch
+satzbaukunst.ch
 satzbaumeister.ch
 satzbausatz.ch
 satzbaustelle.ch
@@ -24260,6 +24265,7 @@ saucissedajoie.ch
 saucisses.ch
 saucisson-vaudois.ch
 saucisson.ch
+saucissons.ch
 saucissonvaudois.ch
 saucitheque.ch
 saucity.ch
@@ -24781,6 +24787,7 @@ saunamax.ch
 saunameister.ch
 saunamenthol.ch
 saunamieten.ch
+saunamo.ch
 saunamobile.ch
 saunamylord.ch
 saunanettoyage.ch
@@ -25729,6 +25736,7 @@ savers.ch
 saverup.ch
 saves.ch
 savesafely.ch
+savesdgsnow.ch
 saveshelp.ch
 saveshelpswiss.ch
 savesightnowdev.ch
@@ -26156,7 +26164,6 @@ savoir-vivre-8049.ch
 savoir-vivre.ch
 savoir-voir.ch
 savoir.ch
-savoiragency.ch
 savoirallure-lausanne.ch
 savoirbeds.ch
 savoirdire.ch

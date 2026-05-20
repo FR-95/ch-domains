@@ -4784,6 +4784,7 @@ degambsevents.ch
 degandpaysage.ch
 degange.ch
 degani.ch
+deganutti.ch
 degap.ch
 degarage.ch
 degarde.ch
@@ -7052,7 +7053,6 @@ deinkoch.ch
 deinkoenigsweg.ch
 deinkoerper-deinzuhause.ch
 deinkoerper.ch
-deinkompass.ch
 deinkompetenzzentrum.ch
 deinkompostbeet.ch
 deinkondom.ch
@@ -10711,6 +10711,7 @@ delukdev.ch
 delukdev3.ch
 delulu-list.ch
 delulu.ch
+deluludeluxe.ch
 deluluvibe.ch
 delumani.ch
 delumine.ch
@@ -10920,7 +10921,6 @@ dely.ch
 delyachristian.ch
 delyer.ch
 delyfreres.ch
-delykk.ch
 delylao.ch
 delymobile.ch
 delyra.ch
@@ -12198,7 +12198,6 @@ demonstrator.ch
 demont-catering.ch
 demont-engineering.ch
 demont-flamatt.ch
-demont-immobilien.ch
 demont-patrice.ch
 demont-reklame.ch
 demont-software.ch
@@ -13142,6 +13141,7 @@ denkmalzeit.ch
 denkmaschine.ch
 denkmaschinen.ch
 denkmit.ch
+denkmitdenhaenden.ch
 denkmotor.ch
 denkmuster.ch
 denkna.ch
@@ -14819,20 +14819,25 @@ dentistebarthelemy.ch
 dentistebernex.ch
 dentistebienne.ch
 dentistebudapest.ch
+dentistebulle.ch
 dentistechantepoulet.ch
+dentistedegardevalais.ch
 dentistedomodossola.ch
 dentistedorigny.ch
 dentisteenfant.ch
 dentisteenfantgeneve.ch
 dentisteenhongrie.ch
 dentistefribourg.ch
+dentistefribourg24.ch
 dentistegc.ch
 dentistegeinoz.ch
 dentistegeneva.ch
+dentistegeneve24.ch
 dentistegenevoise.ch
 dentistegivisiez.ch
 dentistegland.ch
 dentistehaerri.ch
+dentisteholistiquegeneve.ch
 dentistehongrie.ch
 dentistehostettler.ch
 dentistehypnose.ch
@@ -14840,12 +14845,15 @@ dentistejura.ch
 dentistekliafascevey.ch
 dentistelacote.ch
 dentistelancy.ch
+dentistelausanne24.ch
 dentistelegazfribourg.ch
 dentistemarly.ch
 dentistemartigny.ch
 dentistemesserli.ch
 dentistemolinari.ch
 dentisteneuchatel.ch
+dentisteneuchatel24.ch
+dentistenyon.ch
 dentistepaquis.ch
 dentistepaudex.ch
 dentistepeseux.ch
@@ -14893,8 +14901,11 @@ dentistesfribourg.ch
 dentistesgeneve.ch
 dentistesignorini.ch
 dentistesion.ch
+dentistesion24.ch
 dentisteslausanne.ch
+dentistesneuchatel.ch
 dentistesrolle.ch
+dentistession.ch
 dentistestephani.ch
 dentistesvernier.ch
 dentistetatulli.ch
@@ -15471,9 +15482,12 @@ depannageinformatique.ch
 depannageinformatiquecarouge.ch
 depannageinformatiquechampel.ch
 depannageinformatiquegeneve.ch
+depannageinformatiquegrandlancy.ch
 depannageinformatiquelancy.ch
 depannageinformatiquelausanne.ch
 depannageinformatiquemeyrin.ch
+depannageinformatiqueonex.ch
+depannageinformatiquepetitlancy.ch
 depannageinformatiquepro.ch
 depannageinformatiquesecours.ch
 depannageinformatiquesuisse.ch
@@ -16165,6 +16179,7 @@ der-blaue-chiron.ch
 der-blickwechsel.ch
 der-blumengarten.ch
 der-blumenladen.ch
+der-bluthochdruck.ch
 der-bodenleger.ch
 der-body-coach.ch
 der-bogenweg.ch
@@ -17461,7 +17476,6 @@ dererumnatura.ch
 deres-hornbauer.ch
 derescape.ch
 derestrichleger.ch
-deresys.ch
 deretwasanderepfad.ch
 dereuphoniumbauer.ch
 dereva.ch
@@ -18521,7 +18535,6 @@ dermanetzwerk-usz.ch
 dermanews.ch
 dermanext.ch
 dermanifestierer.ch
-dermaniq.ch
 dermanis.ch
 dermankebap.ch
 dermann.ch
@@ -24318,6 +24331,7 @@ dev-club.ch
 dev-cmiag.ch
 dev-com-chat.ch
 dev-correcttime.ch
+dev-dashboard.ch
 dev-dataquest.ch
 dev-datatrust.ch
 dev-dbs.ch
@@ -24580,7 +24594,6 @@ devbox.ch
 devbran.ch
 devbrauer.ch
 devbrnw.ch
-devbros.ch
 devbs.ch
 devbyjannis.ch
 devcafe.ch
@@ -25567,9 +25580,11 @@ devpops.ch
 devport.ch
 devpowerapps.ch
 devprime.ch
+devpro-formation.ch
 devpro.ch
 devprocess.ch
 devprod.ch
+devproformation.ch
 devprojects.ch
 devpunks.ch
 devqon.ch

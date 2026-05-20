@@ -277,6 +277,7 @@ epargne-enfant.ch
 epargne-logement.ch
 epargne-prevoyance.ch
 epargne-retraite.ch
+epargne-suisse.ch
 epargne.ch
 epargneactions.ch
 epargnecassemaladie.ch
@@ -1666,6 +1667,7 @@ epocell-therapeutics.ch
 epocelltherapeutics.ch
 epoch-intelligence.ch
 epoch.ch
+epoch42.ch
 epochal.ch
 epoche.ch
 epochenaturstein.ch

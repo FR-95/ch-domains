@@ -1395,6 +1395,7 @@ gift-butler.ch
 gift-card.ch
 gift-cards.ch
 gift-haexli.ch
+gift-im-stoff.ch
 gift-links.ch
 gift-media.ch
 gift-print.ch
@@ -1710,7 +1711,6 @@ gigastyle.ch
 gigasure.ch
 gigasvelt.ch
 gigaswiss.ch
-gigatacos-chatel-stdenis.ch
 gigatacos-lemont-sur-lausanne.ch
 gigatacos-morges-gare.ch
 gigatacos-renens.ch
@@ -4371,6 +4371,7 @@ gips-work.ch
 gips.ch
 gipsa.ch
 gipsair.ch
+gipsart.ch
 gipsbach.ch
 gipsbachschluderi.ch
 gipsbau-24.ch
@@ -5419,7 +5420,6 @@ gisinspiration.ch
 gisinsportag.ch
 gisipulami.ch
 gisir.ch
-gisis-tortenwelt.ch
 gisitech.ch
 giskis.ch
 gisknonaueramt.ch

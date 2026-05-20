@@ -3158,6 +3158,7 @@ swiss-aware.ch
 swiss-away.ch
 swiss-awp.ch
 swiss-axe-throwing.ch
+swiss-axi.ch
 swiss-ayran.ch
 swiss-ayurved.ch
 swiss-ayurveda.ch
@@ -5093,7 +5094,6 @@ swiss-fahrschule.ch
 swiss-fail.ch
 swiss-fair-trade-ag.ch
 swiss-fair.ch
-swiss-fairdog.ch
 swiss-fam.ch
 swiss-families.ch
 swiss-family-association.ch
@@ -12738,7 +12738,6 @@ swisscarecheck.ch
 swisscarecompany.ch
 swisscareconnect.ch
 swisscareer.ch
-swisscareeraccelerator.ch
 swisscareercenter.ch
 swisscareercentre.ch
 swisscareers.ch
@@ -12804,6 +12803,7 @@ swisscarrosserie.ch
 swisscarry.ch
 swisscarrypack.ch
 swisscars-ag.ch
+swisscars-luzern.ch
 swisscars.ch
 swisscars24.ch
 swisscarsales.ch
@@ -13692,6 +13692,7 @@ swisscomfortbau.ch
 swisscomfortline.ch
 swisscomhosting.ch
 swisscomiccon.ch
+swisscomicexpo.ch
 swisscomics.ch
 swisscomintrumconnector.ch
 swisscomit.ch
@@ -14330,7 +14331,6 @@ swisscxguides.ch
 swisscxo.ch
 swisscxoforum.ch
 swisscxsummit.ch
-swisscy.ch
 swisscyber-institute.ch
 swisscyber.ch
 swisscyberacademy.ch
@@ -14520,7 +14520,6 @@ swissdave.ch
 swissdavecoaching.ch
 swissdawa.ch
 swissdax.ch
-swissday.ch
 swissdaycare.ch
 swissdayclinic.ch
 swissdaydeal.ch
@@ -15353,7 +15352,6 @@ swissdss.ch
 swissdt.ch
 swissdtconcept.ch
 swissdtech.ch
-swissdtf.ch
 swissdtimmo.ch
 swissdtx.ch
 swissduathlon.ch
@@ -15415,7 +15413,6 @@ swisseazy.ch
 swisseben.ch
 swissebics.ch
 swissebikepower.ch
-swissebill.ch
 swissebrands.ch
 swissebusplus.ch
 swissebuy.ch
@@ -15698,6 +15695,7 @@ swissenergyatlas.ch
 swissenergyaward.ch
 swissenergycity.ch
 swissenergyexpert.ch
+swissenergyexperts.ch
 swissenergyforum.ch
 swissenergygate.ch
 swissenergyindex.ch
@@ -16808,6 +16806,7 @@ swissfrankensouvenir.ch
 swissfrankensouvenirs.ch
 swissfranksouvenir.ch
 swissfranksouvenirs.ch
+swissfranx.ch
 swissfreak.ch
 swissfreaks.ch
 swissfree.ch
@@ -16870,7 +16869,6 @@ swissfuelapi.ch
 swissfuelservices.ch
 swissfugen.ch
 swissfujidays.ch
-swissful.ch
 swissfulfillment.ch
 swissfulfilment.ch
 swissfullhair.ch
@@ -20780,6 +20778,7 @@ swissmedexchange.ch
 swissmedexpert.ch
 swissmedexpertag.ch
 swissmedfamilyoffice.ch
+swissmedflow.ch
 swissmedforum.ch
 swissmedgate.ch
 swissmedglow.ch
@@ -21781,6 +21780,7 @@ swissnebenjobs.ch
 swissned.ch
 swissneedleworker.ch
 swissneeds.ch
+swissnegociations.ch
 swissnegotiation.ch
 swissnegroni.ch
 swissneo.ch
@@ -25663,7 +25663,6 @@ swisssportstech.ch
 swisssportstribunal.ch
 swisssportstyle.ch
 swisssportsweek.ch
-swisssporttherapie.ch
 swisssportwetten.ch
 swissspot.ch
 swissspots.ch
@@ -26122,7 +26121,6 @@ swissteamag.ch
 swissteamaster.ch
 swissteamasterclub.ch
 swissteamchallenge.ch
-swissteamchampionships2025.ch
 swissteamgenesis.ch
 swissteamperformance.ch
 swissteamreport.ch
@@ -26891,7 +26889,6 @@ swisstreks.ch
 swisstrekshop.ch
 swisstrend.ch
 swisstrendag.ch
-swisstrendline.ch
 swisstrends.ch
 swisstrendshop.ch
 swisstrendwelt.ch
@@ -27741,6 +27738,7 @@ swisswebcollege.ch
 swisswebconferencing.ch
 swisswebconsult.ch
 swisswebcraft.ch
+swisswebcreation.ch
 swisswebcreators.ch
 swisswebday.ch
 swisswebdays.ch
@@ -28990,6 +28988,7 @@ switzerlandwalkingtours.ch
 switzerlandwanderlust.ch
 switzerlandwatch.ch
 switzerlandweb.ch
+switzerlandwebdesign.ch
 switzerlandweddingcompany.ch
 switzerlandweddingexcellence.ch
 switzerlandweddingfilm.ch

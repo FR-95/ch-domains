@@ -816,6 +816,7 @@ bibey.ch
 bibfer-demenagement.ch
 bibfer-demenagements.ch
 bibguru.ch
+bibhaus.ch
 bibi-art.ch
 bibi-bibi.ch
 bibi-bike.ch
@@ -2954,6 +2955,8 @@ bienne-est.ch
 bienne-fiduciaire.ch
 bienne-food.ch
 bienne-gerance.ch
+bienne-grand-chasseral.ch
+bienne-grandchasseral.ch
 bienne-guide.ch
 bienne-hypotheque.ch
 bienne-hypotheques.ch
@@ -2983,6 +2986,7 @@ biennedarts.ch
 bienneenmouvement.ch
 biennefoil.ch
 biennefoils.ch
+biennegrandchasseral.ch
 bienneguide.ch
 bienneimmo.ch
 biennemaville.ch
@@ -5849,7 +5853,6 @@ bike-lift.ch
 bike-live.ch
 bike-local.ch
 bike-locarno.ch
-bike-locker.ch
 bike-lodge.ch
 bike-loft.ch
 bike-log.ch
@@ -6657,6 +6660,7 @@ bikeregion-olten.ch
 bikeregion.ch
 bikeregionvoralpen.ch
 bikereifen.ch
+bikereise.ch
 bikereisen.ch
 bikerennen-arbon.ch
 bikerennen-giebenach.ch
@@ -9559,6 +9563,7 @@ billionaires-cars-auction.ch
 billionaires-world.ch
 billionaires.ch
 billionairesluxery.ch
+billionairespincasino.ch
 billionairetravel.ch
 billionairewheels.ch
 billionario.ch
@@ -9579,6 +9584,9 @@ billmagee.ch
 billme.ch
 billmelater.ch
 billmind.ch
+billmond-capital.ch
+billmond.ch
+billmondcapital.ch
 billmore.ch
 billmusic.ch
 billnet.ch
@@ -9600,6 +9608,7 @@ billposters.ch
 billpresentment.ch
 billqr.ch
 billr.ch
+billradar.ch
 billrothminerva.ch
 bills-burger.ch
 bills-diving-adventures.ch
@@ -10595,7 +10604,6 @@ binbeimarzt.ch
 binbin-schweiz.ch
 binbin.ch
 binbo.ch
-binbon.ch
 binc.ch
 bincerle.ch
 binch.ch
@@ -13523,6 +13531,7 @@ biohackers.ch
 biohackerscode.ch
 biohackify.ch
 biohackin.ch
+biohacking-shop.ch
 biohacking-studio.ch
 biohacking-switzerland.ch
 biohacking.ch
@@ -15881,6 +15890,7 @@ biovalley.ch
 biovalues.ch
 biovance.ch
 biovanille.ch
+biovanta.ch
 biovar.ch
 biovarieta-per-tutti.ch
 biovasemaker.ch
@@ -20577,7 +20587,6 @@ biznes.ch
 biznesi.ch
 bizness-network.ch
 bizness.ch
-biznessmagazine.ch
 biznessnetwork.ch
 biznet.ch
 biznetz.ch

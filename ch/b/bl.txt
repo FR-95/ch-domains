@@ -1908,7 +1908,6 @@ blaise-magnenat.ch
 blaise-morand.ch
 blaise-sylvie.ch
 blaise.ch
-blaisebron.ch
 blaisecoutaz.ch
 blaisedevaud.ch
 blaiseduboux.ch
@@ -4346,6 +4345,7 @@ blessner.ch
 blessnet.ch
 blessof.ch
 blessproduction.ch
+blessschaffhausen.ch
 blessseeland.ch
 blesssirnach.ch
 blesssolothurn.ch
@@ -5478,6 +5478,7 @@ blitzkasten.ch
 blitzkeramik.ch
 blitzkiste.ch
 blitzklar.ch
+blitzkmu.ch
 blitzkontakt.ch
 blitzkorrekturen.ch
 blitzkredit.ch
@@ -5948,7 +5949,6 @@ blockchainassociation.ch
 blockchainaudit.ch
 blockchainawards.ch
 blockchainbank.ch
-blockchainbanking.ch
 blockchainbea.ch
 blockchainbeef.ch
 blockchainbusiness.ch
@@ -7351,6 +7351,7 @@ blsc.ch
 blscargo-nord.ch
 blscargo.ch
 blscargonord.ch
+blscargos.ch
 blschk.ch
 blsconcept.ch
 blscy.ch
@@ -7753,7 +7754,6 @@ blue-mind.ch
 blue-minerals.ch
 blue-moments.ch
 blue-monday.ch
-blue-monkey-restaurant.ch
 blue-monkey.ch
 blue-moon-ag.ch
 blue-moon-agency.ch
@@ -7790,7 +7790,6 @@ blue-paradise.ch
 blue-pearl.ch
 blue-people.ch
 blue-physio.ch
-blue-planet-eltif.ch
 blue-planet.ch
 blue-play.ch
 blue-player.ch
@@ -8242,6 +8241,7 @@ blueconnection.ch
 blueconomics.ch
 blueconseil.ch
 blueconsulting.ch
+blueconta.ch
 bluecontact.ch
 bluecore.ch
 bluecorps.ch

@@ -1801,7 +1801,6 @@ teamscompliance.ch
 teamsconnect.ch
 teamscout.ch
 teamsdachservices.ch
-teamsdemo.ch
 teamsdirectrouting.ch
 teamsear.ch
 teamsebi.ch
@@ -1996,6 +1995,7 @@ teamumzug.ch
 teamunique.ch
 teamunited.ch
 teamuntereemme.ch
+teamup-hsg.ch
 teamup-supsi.ch
 teamup-zurich.ch
 teamup.ch
@@ -4630,7 +4630,6 @@ techtopia.ch
 techtor.ch
 techtory.ch
 techtown.ch
-techtoysworld.ch
 techtrad.ch
 techtrader.ch
 techtrading.ch
@@ -6610,6 +6609,7 @@ teknaurum.ch
 tekne.ch
 tekneo.ch
 teknet.ch
+teknetics.ch
 teknetsa.ch
 teknic.ch
 teknico.ch
@@ -9758,6 +9758,7 @@ tenafrank.ch
 tenafreundschaftist.ch
 tenag.ch
 tenaiam.ch
+tenaion.ch
 tenalady.ch
 tenalis.ch
 tenall.ch
@@ -10735,6 +10736,7 @@ tennisschweiz.ch
 tennisseniorscarouge.ch
 tennisshop.ch
 tennisshops.ch
+tennisspielen.ch
 tennisspieler.ch
 tennissport-groth.ch
 tennissport.ch
@@ -11037,6 +11039,7 @@ tentop.ch
 tentori.ch
 tentorium.ch
 tentparty.ch
+tentportal.ch
 tentrent.ch
 tentri.ch
 tentriqs.ch
@@ -11370,6 +11373,7 @@ teppichhaus.ch
 teppichhuber.ch
 teppichkaufen.ch
 teppichkistler.ch
+teppichkontor.ch
 teppichkueng.ch
 teppichkunst.ch
 teppichlaeufer.ch
@@ -13305,6 +13309,7 @@ terravalor.ch
 terravalora.ch
 terravalue.ch
 terravat.ch
+terravate-alliance.ch
 terravate.ch
 terravecchia.ch
 terravecchiabordei.ch
@@ -15631,6 +15636,7 @@ testlesen.ch
 testless.ch
 testli.ch
 testlink.ch
+testlinkksuitedomainenprod.ch
 testliquidclub.ch
 testlisaisonapresplusdendd.ch
 testlocalsearch.ch
@@ -17511,7 +17517,6 @@ textjournal.ch
 textkammer.ch
 textkanal24.ch
 textkantine.ch
-textkarawane.ch
 textkernel.ch
 textkino.ch
 textkiosk.ch

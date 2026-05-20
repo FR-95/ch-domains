@@ -887,6 +887,7 @@ ebikeboard.ch
 ebikebosch.ch
 ebikebusiness.ch
 ebikecamping.ch
+ebikecenter.ch
 ebikecenterbern.ch
 ebikecenterthun.ch
 ebikecharger.ch
@@ -942,7 +943,6 @@ ebikeparts.ch
 ebikepilot.ch
 ebikeplan.ch
 ebikeplanet.ch
-ebikeplus.ch
 ebikepoint.ch
 ebikeportal.ch
 ebikeprofi.ch

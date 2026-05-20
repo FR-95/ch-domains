@@ -1993,7 +1993,6 @@ umzugsfirma-dietikon.ch
 umzugsfirma-easy.ch
 umzugsfirma-erlenbach.ch
 umzugsfirma-finden.ch
-umzugsfirma-frauenfeld.ch
 umzugsfirma-freienbach.ch
 umzugsfirma-glarus.ch
 umzugsfirma-goldkueste.ch
@@ -2312,6 +2311,7 @@ umzugspreis.ch
 umzugspreischeck.ch
 umzugspreise.ch
 umzugspreisvergleich.ch
+umzugsprofi-zuerich.ch
 umzugsprofi.ch
 umzugsprofi24.ch
 umzugsprofis.ch
@@ -2393,6 +2393,7 @@ umzugsreinigung.ch
 umzugsreinigung24.ch
 umzugsreinigungbasel.ch
 umzugsreinigungbern.ch
+umzugsreinigungbern24.ch
 umzugsreinigungen-aargau.ch
 umzugsreinigungen-preis.ch
 umzugsreinigungen-winterthur.ch
@@ -2442,6 +2443,7 @@ umzugsservice-zurich.ch
 umzugsservice.ch
 umzugsservice24.ch
 umzugsservice365.ch
+umzugsservicebern.ch
 umzugsservicech.ch
 umzugsservicecomparis.ch
 umzugsserviceeasy.ch

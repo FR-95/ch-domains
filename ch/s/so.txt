@@ -727,6 +727,7 @@ soccerdynamics.ch
 soccerevents.ch
 soccerfirst.ch
 soccerflow.ch
+soccerflowagency.ch
 soccergame.ch
 soccergolf.ch
 soccerground.ch
@@ -1044,7 +1045,6 @@ socialaffin.ch
 socialagency.ch
 socialagile.ch
 socialaira.ch
-socialandbeyond.ch
 socialandsearch.ch
 socialangel.ch
 socialangels.ch
@@ -1516,6 +1516,7 @@ socialnow-bracherdigital.ch
 socialnow.ch
 socialoffice.ch
 socialogic.ch
+socialone.ch
 socialpadelclub.ch
 socialpage.ch
 socialpartner.ch
@@ -2026,7 +2027,6 @@ sockenparadies.ch
 sockenschuhe.ch
 sockenshop.ch
 sockenshoppen.ch
-sockenstar.ch
 sockenstore.ch
 sockenstrickerei.ch
 sockenstube.ch
@@ -3793,7 +3793,6 @@ software-engineering-lab.ch
 software-engineering-leadership.ch
 software-engineering.ch
 software-engineers.ch
-software-entwickeln.ch
 software-entwickler-job.ch
 software-entwickler-jobs.ch
 software-entwickler.ch
@@ -3969,7 +3968,6 @@ softwarediscount.ch
 softwareengineer.ch
 softwareengineeringaudit.ch
 softwareengineers.ch
-softwareentwickeln.ch
 softwareentwickler-job.ch
 softwareentwickler-jobs.ch
 softwareentwickler-stellen.ch
@@ -5668,7 +5666,6 @@ solar-etzwilen.ch
 solar-experte-schweiz.ch
 solar-experte.ch
 solar-experten-finden.ch
-solar-express.ch
 solar-fachmann.ch
 solar-factory.ch
 solar-faehre.ch
@@ -11311,6 +11308,7 @@ soma-medical.ch
 soma-nova.ch
 soma-npt.ch
 soma-physio.ch
+soma-pilates.ch
 soma-praxis.ch
 soma-psy.ch
 soma-restaurant.ch
@@ -14092,6 +14090,7 @@ sonnenberg-buurehof.ch
 sonnenberg-heiden.ch
 sonnenberg-hof.ch
 sonnenberg-immobilien.ch
+sonnenberg-leben.ch
 sonnenberg-lenzburg.ch
 sonnenberg-luzern.ch
 sonnenberg-mieg.ch
@@ -15993,7 +15992,6 @@ sophistikat.ch
 sophistique.ch
 sophistocats.ch
 sophistolab.ch
-sophisty.ch
 sophisware.ch
 sophisweb.ch
 sophius.ch

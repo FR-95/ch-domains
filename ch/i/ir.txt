@@ -89,7 +89,6 @@ iran-schweiz.ch
 iran.ch
 iranair.ch
 iranamerica.ch
-irandmc.ch
 irane.ch
 iranembassy.ch
 iraner.ch
@@ -671,6 +670,7 @@ iria-rodriguez.ch
 iria.ch
 iriadegen.ch
 iriadiaz.ch
+irialab.ch
 irialacarta.ch
 irian.ch
 iriarte.ch
@@ -1616,6 +1616,7 @@ ironmasterclass.ch
 ironmax.ch
 ironmaxx.ch
 ironmedline.ch
+ironmind.ch
 ironmongerydirect.ch
 ironmountain.ch
 ironmum.ch

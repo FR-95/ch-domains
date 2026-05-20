@@ -30,6 +30,7 @@ wc-papier.ch
 wc-papiere.ch
 wc-r.ch
 wc-rollenstaender.ch
+wc-service-bern.ch
 wc-service.ch
 wc-shop.ch
 wc-sitze.ch
@@ -38,6 +39,7 @@ wc-trennwaende.ch
 wc-trennwand.ch
 wc-vaud.ch
 wc-vermietung.ch
+wc-verstopft-bern.ch
 wc-verstopft.ch
 wc-verstopft24h.ch
 wc-wagen.ch

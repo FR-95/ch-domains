@@ -309,6 +309,7 @@ paarprobleme.ch
 paarpunkt.ch
 paarreise.ch
 paarring.ch
+paarsache.ch
 paarschip.ch
 paarschule.ch
 paarsein.ch
@@ -1969,6 +1970,7 @@ padelpoint.ch
 padelpop.ch
 padelpower.ch
 padelprime.ch
+padelprint.ch
 padelpro.ch
 padelprofi.ch
 padelproject.ch
@@ -5818,7 +5820,6 @@ panda-freestyle.ch
 panda-generalbau.ch
 panda-house.ch
 panda-int.ch
-panda-keramik.ch
 panda-nails.ch
 panda-nation.ch
 panda-pinguin.ch
@@ -5885,7 +5886,6 @@ pandaily.ch
 pandaimmo.ch
 pandaink.ch
 pandakarma.ch
-pandakeramik.ch
 pandaki-shop.ch
 pandaki.ch
 pandakids.ch
@@ -10517,6 +10517,7 @@ parazicid.ch
 parazone.ch
 parazuerich.ch
 parazzo.ch
+parbal.ch
 parbat-garden.ch
 parbat.ch
 parbeaute.ch
@@ -10995,6 +10996,7 @@ parenthese-de-tendresse.ch
 parenthese-decoration.ch
 parenthese-enchantee.ch
 parenthese-evenements.ch
+parenthese-hygieniste.ch
 parenthese-mediation.ch
 parenthese-now-communication.ch
 parenthese-now.ch
@@ -12661,7 +12663,6 @@ parkinson-film.ch
 parkinson-fribourg.ch
 parkinson-geneve.ch
 parkinson-guide.ch
-parkinson-info.ch
 parkinson-infocenter.ch
 parkinson-net.ch
 parkinson-oberaargau.ch
@@ -15015,7 +15016,6 @@ party-szene.ch
 party-talk.ch
 party-tiger.ch
 party-to-go.ch
-party-tour.ch
 party-travel.ch
 party-trends.ch
 party-tv.ch
@@ -16164,6 +16164,7 @@ pascaleugster.ch
 pascaleundphilippeheiraten.ch
 pascaleva.ch
 pascaleweber.ch
+pascalexmarketing.ch
 pascaleyoga.ch
 pascaleyogaprana.ch
 pascalf.ch
@@ -17298,7 +17299,6 @@ passerotto.ch
 passes.ch
 passesimple.ch
 passetonbillet.ch
-passetonpermis.ch
 passetui.ch
 passeulanoel.ch
 passeur-de-nature.ch
@@ -17881,6 +17881,7 @@ passivbau.ch
 passivbauen.ch
 passive-aggressive.ch
 passive-attack.ch
+passive-smoke.ch
 passive.ch
 passiveattack.ch
 passivebrain.ch
@@ -22104,6 +22105,7 @@ paulbaus.ch
 paulbegman.ch
 paulbeguin.ch
 paulberclaz.ch
+paulbereuter.ch
 paulberger.ch
 paulbiffiger.ch
 paulbischof.ch
@@ -23300,12 +23302,12 @@ pawlus.ch
 pawly.ch
 pawlyapp.ch
 pawmatics.ch
+pawmont.ch
 pawmotion.ch
 pawn-film.ch
 pawn.ch
 pawnation.ch
 pawnbroker.ch
-pawnest.ch
 pawnevent.ch
 pawnexia.ch
 pawnkingzug.ch
@@ -23557,6 +23559,7 @@ paxpit.ch
 paxquovadis.ch
 paxromanawine.ch
 paxsajob.ch
+paxservicebern.ch
 paxson.ch
 paxsupplychain.ch
 paxton-ag.ch

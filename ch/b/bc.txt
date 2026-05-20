@@ -235,6 +235,7 @@ bcandc.ch
 bcanniviers.ch
 bcaonline.ch
 bcap.ch
+bcapps.ch
 bcaptures.ch
 bcar.ch
 bcarbon.ch
@@ -774,6 +775,7 @@ bcnutrition.ch
 bcnworkation.ch
 bco-aerztetreuhand.ch
 bco-agro.ch
+bco-bridge.ch
 bco-immo.ch
 bco-invest.ch
 bco-registration.ch

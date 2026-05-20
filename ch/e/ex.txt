@@ -261,7 +261,6 @@ examate.ch
 exambot.ch
 examcenter.ch
 examcentre.ch
-examcfc.ch
 examcheck.ch
 examcraft.ch
 examedia-service.ch
@@ -2518,7 +2517,6 @@ expataccountant.ch
 expataptitude.ch
 expatation.ch
 expatax.ch
-expatbabyzurich.ch
 expatbasel.ch
 expatcard.ch
 expatcare.ch
@@ -3886,6 +3884,7 @@ expired-domains.ch
 expired.ch
 expireddomain.ch
 expireddomains.ch
+expirex.ch
 expirio.ch
 expirion.ch
 expirit.ch
@@ -4588,6 +4587,7 @@ exporteur.ch
 exportex.ch
 exportfahrzeuge.ch
 exportfinance.ch
+exportfinder.ch
 exportfirmen.ch
 exportfoerderer.ch
 exportfoerderung.ch
@@ -4744,6 +4744,7 @@ expreso.ch
 express-24.ch
 express-abbruch.ch
 express-admin.ch
+express-airbnbservice.ch
 express-allschwil.ch
 express-angebot.ch
 express-auto.ch
@@ -5000,6 +5001,7 @@ expresskorrektorat.ch
 expresskorrektur.ch
 expresskredit.ch
 expresskuechen.ch
+expresskurier-bern.ch
 expresskurier-schweiz.ch
 expresskurier.ch
 expresskurierdienst.ch
@@ -5100,6 +5102,7 @@ expresstype.ch
 expressuebersetzung.ch
 expressumzuege.ch
 expressumzuegefirma.ch
+expressumzug-bern.ch
 expressumzug-schweiz.ch
 expressumzug.ch
 expressumzugsfirma.ch

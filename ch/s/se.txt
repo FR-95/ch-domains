@@ -6104,7 +6104,6 @@ seeland-treuhand.ch
 seeland-tv.ch
 seeland-tvv.ch
 seeland-united.ch
-seeland-vegan.ch
 seeland-vet.ch
 seeland-veteranen.ch
 seeland-web.ch
@@ -6352,6 +6351,7 @@ seelen-karten.ch
 seelen-klang.ch
 seelen-kommunikation.ch
 seelen-kompass.ch
+seelen-kosmos.ch
 seelen-kraft.ch
 seelen-leben.ch
 seelen-leicht.ch
@@ -6670,6 +6670,7 @@ seelenkleid.ch
 seelenklempner.ch
 seelenklempnerin.ch
 seelenknete.ch
+seelenkoerper-masssagen.ch
 seelenkoffer.ch
 seelenkommunikation.ch
 seelenkompass.ch
@@ -6971,7 +6972,6 @@ seelenzahl.ch
 seelenzart.ch
 seelenzauber-tk.ch
 seelenzauber.ch
-seelenzaubern.ch
 seelenzauberraum.ch
 seelenzeit-doersel.ch
 seelenzeit-praxis.ch
@@ -7008,6 +7008,7 @@ seeleziit-onlineshop.ch
 seeleziit.ch
 seelezone.ch
 seelgut.ch
+seelhaus.ch
 seelhofer.ch
 seeli-ranch.ch
 seeli.ch
@@ -10049,6 +10050,7 @@ seitenatelier.ch
 seitenbau.ch
 seitenblick-basel.ch
 seitenblick-buch.ch
+seitenblick-coaching.ch
 seitenblick.ch
 seitenblickverlag.ch
 seitenbunt.ch
@@ -12698,6 +12700,7 @@ sellarolester.ch
 sellartbuyart.ch
 sellathurai.ch
 sellauto.ch
+sellavie.ch
 sellavista.ch
 sellawat.ch
 sellbee.ch
@@ -12896,6 +12899,7 @@ sellyourluxe.ch
 sellyourmac.ch
 sellyourproject.ch
 sellyourstuff.ch
+sellyourtruth.ch
 sellyourwin.ch
 sellys.ch
 sellytics.ch
@@ -13087,6 +13091,7 @@ seltzerei.ch
 seltzerfarben.ch
 seltzershop.ch
 seltzerwasser.ch
+selu-studios.ch
 selu.ch
 seluba.ch
 selubau.ch
@@ -14402,6 +14407,7 @@ sencon.ch
 senconsulting.ch
 senconvast.ch
 sencor.ch
+sencoris.ch
 sencos.ch
 sencrop.ch
 sencury.ch
@@ -14520,7 +14526,6 @@ sendnudies.ch
 sendnudis.ch
 sendo-abdichtungen.ch
 sendo.ch
-sendok-garpu-sushi.ch
 sendokgarpu.ch
 sendoo.ch
 sendopro.ch
@@ -19286,7 +19291,6 @@ serendys.ch
 serene-beat.ch
 serene-beats.ch
 serene.ch
-serenea.ch
 serenebeat.ch
 sereneclothes.ch
 sereneco.ch
@@ -20387,6 +20391,7 @@ serrurierrenens.ch
 serrurierromand247.ch
 serruriers-durgence.ch
 serruriers-en-ligne.ch
+serruriers-martigny.ch
 serruriers-monthey.ch
 serruriers-sion.ch
 serruriers.ch
@@ -20405,6 +20410,7 @@ serruriersschweizer.ch
 serruriersuisse.ch
 serruriertop.ch
 serrurierurgence.ch
+serrurierurgencegeneve.ch
 serrurierurgences.ch
 serruriervaud.ch
 serruriervevey.ch
@@ -21066,6 +21072,7 @@ service-friends.ch
 service-froid-roesler.ch
 service-fsa-sav.ch
 service-fsa.ch
+service-fuer-verwaltungen.ch
 service-funebre.ch
 service-furrer.ch
 service-garage-hug.ch
@@ -22736,6 +22743,7 @@ setc.ch
 setcard.ch
 setchat.ch
 setchup.ch
+setclean.ch
 setco.ch
 setcom.ch
 setcon.ch

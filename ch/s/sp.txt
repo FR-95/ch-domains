@@ -787,6 +787,7 @@ space-exchange.ch
 space-expert.ch
 space-eye.ch
 space-finder.ch
+space-first.ch
 space-fit.ch
 space-flex.ch
 space-for-inclusion.ch
@@ -1003,6 +1004,7 @@ spacehamster.ch
 spaceharbor.ch
 spaceheater.ch
 spacehills.ch
+spacehillscasino.ch
 spacehost.ch
 spacehouse.ch
 spacehub.ch
@@ -3383,6 +3385,7 @@ spazioinnerharmony.ch
 spaziointerieur.ch
 spaziointeriordesign.ch
 spazioipnosi.ch
+spaziokoru.ch
 spaziolampo.ch
 spaziolavoro.ch
 spaziolibero.ch
@@ -4131,6 +4134,7 @@ specialsale.ch
 specialsales.ch
 specialservices.ch
 specialshop.ch
+specialsituationsgroup.ch
 specialsteel.ch
 specialstore.ch
 specialt.ch
@@ -7175,7 +7179,6 @@ spicystudio.ch
 spicytapas.ch
 spicytschauu.ch
 spicyumzuege.ch
-spicyworld.ch
 spicyyballs.ch
 spicyyworld.ch
 spid.ch
@@ -9473,7 +9476,6 @@ spillmann-apotheke.ch
 spillmann-bildung.ch
 spillmann-coaching.ch
 spillmann-drogerien.ch
-spillmann-informatik.ch
 spillmann-kunst.ch
 spillmann-maurer.ch
 spillmann-media.ch
@@ -10341,6 +10343,7 @@ spir-it.ch
 spira-ce.ch
 spira-conservation.ch
 spira-ergotherapie.ch
+spira-kinesiologie.ch
 spira-labs.ch
 spira-physio.ch
 spira-psychotherapie.ch
@@ -12108,7 +12111,6 @@ spitex-kopernika.ch
 spitex-kreuzlingen.ch
 spitex-kriens.ch
 spitex-kt-zh.ch
-spitex-kuesnacht.ch
 spitex-kuessnacht.ch
 spitex-kujdesi.ch
 spitex-kultur-gesundheit.ch
@@ -15812,7 +15814,6 @@ sportfm.ch
 sportfocus360.ch
 sportfoerderclub-team-suisse.ch
 sportfoerderclub.ch
-sportfoerderung.ch
 sportfohlenauktion.ch
 sportfokus.ch
 sportfolio.ch
@@ -16035,7 +16036,6 @@ sporthypnose-schweiz.ch
 sporthypnose-schwyz.ch
 sporthypnose.ch
 sporthypnosebern.ch
-sporthypnosecoaching.ch
 sporthypnosen.ch
 sporthypnoseschwyz.ch
 sporti.ch
@@ -16056,7 +16056,6 @@ sportifmassage.ch
 sportifree.ch
 sportifs.ch
 sportifsvaudois.ch
-sportify-app.ch
 sportify.ch
 sportigeneve.ch
 sportigruesch.ch
@@ -20746,6 +20745,7 @@ spybuch.ch
 spycam.ch
 spycams.ch
 spycamshop.ch
+spyce.ch
 spychair.ch
 spychala.ch
 spycher-ag.ch

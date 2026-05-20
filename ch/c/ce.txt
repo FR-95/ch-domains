@@ -41,6 +41,7 @@ ce-pos.ch
 ce-praxistage.ch
 ce-pro.ch
 ce-que-nous-faisons.ch
+ce-qui-me-manque.ch
 ce-rechtsanwaelte.ch
 ce-renens.ch
 ce-research.ch
@@ -203,7 +204,6 @@ cecb-tool.ch
 cecb.ch
 cecbexpert.ch
 cecbexpress.ch
-cecbmanager.ch
 cecbplus.ch
 cecbvalais.ch
 cecc.ch
@@ -392,6 +392,7 @@ ceciliagrados.ch
 ceciliahamel.ch
 ceciliahofer.ch
 ceciliajuliano.ch
+cecilialarson.ch
 cecilialuxurygrooming.ch
 ceciliascraniosacraltherapie.ch
 ceciliasfarm.ch
@@ -1952,6 +1953,7 @@ celleste.ch
 cellesteron.ch
 cellestglobal.ch
 cellestia.ch
+cellestiaspace.ch
 cellestlifesciences.ch
 cellestsolutions.ch
 cellet.ch
@@ -4667,6 +4669,7 @@ centresmigros.ch
 centresnature.ch
 centresoinscroset.ch
 centresoinsdelemont.ch
+centresoleil-collombey.ch
 centresoleil.ch
 centresport.ch
 centresportetsante.ch
@@ -7679,7 +7682,6 @@ ceylongemsswitzerland.ch
 ceylonian.ch
 ceylonleaf.ch
 ceylonmee.ch
-ceylonswissfamilies.ch
 ceylontaste.ch
 ceylontea.ch
 ceylonteabrew.ch

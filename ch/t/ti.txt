@@ -1748,7 +1748,6 @@ ticketsservice.ch
 ticketsshop.ch
 ticketsstadttheater.ch
 ticketsstadttheatersh.ch
-ticketstar.ch
 ticketstarter.ch
 ticketstation.ch
 ticketstore.ch
@@ -1796,6 +1795,7 @@ ticki.ch
 ticking.ch
 tickipark.ch
 tickit.ch
+tickivo.ch
 tickiwi.ch
 tickle.ch
 ticklers.ch
@@ -2563,7 +2563,6 @@ tier-praxis.ch
 tier-probleme.ch
 tier-raum.ch
 tier-recht.ch
-tier-reformhaus.ch
 tier-reich.ch
 tier-reiki.ch
 tier-residenz.ch
@@ -2862,6 +2861,7 @@ tierarzt-samedan.ch
 tierarzt-schaffhausen.ch
 tierarzt-schlegel.ch
 tierarzt-schoetz.ch
+tierarzt-schuepfheim.ch
 tierarzt-schwarzenburg.ch
 tierarzt-seeland.ch
 tierarzt-seetal.ch
@@ -3020,6 +3020,7 @@ tierarztpraxis-chliundgross.ch
 tierarztpraxis-dammbuehl.ch
 tierarztpraxis-domleschg.ch
 tierarztpraxis-eberli.ch
+tierarztpraxis-emmenegger.ch
 tierarztpraxis-emmental.ch
 tierarztpraxis-enge.ch
 tierarztpraxis-ettingen.ch
@@ -3366,7 +3367,6 @@ tierecho.ch
 tierederschweiz.ch
 tiereentlaufen.ch
 tiereessen.ch
-tiereffect.ch
 tiereffekt.ch
 tiereganznah.ch
 tiereggli.ch
@@ -4494,7 +4494,6 @@ tierrechtsanwalt.ch
 tierrechtsgruppe-zh.ch
 tierrechtskongress.ch
 tierrechtsmagazin.ch
-tierreformhaus.ch
 tierregister.ch
 tierreich.ch
 tierreichvonafrika.ch
@@ -10333,6 +10332,7 @@ tiriga.ch
 tirigenera.ch
 tirinnovo.ch
 tirio.ch
+tirion-ki.ch
 tirion.ch
 tiriordino.ch
 tiriparo.ch

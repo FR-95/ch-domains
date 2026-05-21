@@ -31,6 +31,7 @@ gl-iso.ch
 gl-it.ch
 gl-law.ch
 gl-lines.ch
+gl-lingg.ch
 gl-marketing.ch
 gl-mik.ch
 gl-nachhaltigkeitspreis.ch
@@ -6534,7 +6535,6 @@ glowapp.ch
 glowart.ch
 glowartyf.ch
 glowathome.ch
-glowbabbl.ch
 glowbal-network.ch
 glowbalact-vernetzungschweiz.ch
 glowbalanceritual.ch
@@ -6577,7 +6577,6 @@ glowcore.ch
 glowcosmeticnatalie.ch
 glowcreations.ch
 glowcrystal.ch
-glowdarling.ch
 glowdavos.ch
 glowdenage.ch
 glowdent.ch
@@ -6980,7 +6979,9 @@ glucose.ch
 glucosefestival.ch
 glucoshop.ch
 glucosulf.ch
+glucotex.ch
 glucovance.ch
+glucovin.ch
 glucovit.ch
 glucovital.ch
 glucoze.ch

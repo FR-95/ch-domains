@@ -1366,7 +1366,6 @@ thar.ch
 thara-thaimassage.ch
 thara-thaispa.ch
 thara.ch
-tharaa.ch
 tharad.ch
 tharakan.ch
 tharathaimassage.ch
@@ -1869,7 +1868,6 @@ the-boardroom.ch
 the-boat.ch
 the-body-language.ch
 the-body-shop.ch
-the-body.ch
 the-bodymaker.ch
 the-bodymassage.ch
 the-bodymind.ch
@@ -2413,6 +2411,7 @@ the-impulse.ch
 the-in.ch
 the-incubator.ch
 the-indastry.ch
+the-index.ch
 the-indian-food-court-meisterschwanden.ch
 the-individual.ch
 the-innovationcenter-uptownbasel.ch
@@ -2687,6 +2686,7 @@ the-padel-zone.ch
 the-padel.ch
 the-palazzo.ch
 the-palmist.ch
+the-panthera-music.ch
 the-paramedic.ch
 the-parapharmacy.ch
 the-park.ch
@@ -5386,6 +5386,7 @@ thebreastcarecenter.ch
 thebreath.ch
 thebreathfastclub.ch
 thebreathgallery.ch
+thebreathingladies.ch
 thebreathingtree.ch
 thebreathlab.ch
 thebreathofthemind.ch
@@ -5906,6 +5907,7 @@ thecoachingway.ch
 thecoachswitzerland.ch
 thecoast.ch
 thecoatingshop.ch
+thecoatlab.ch
 thecobra.ch
 thecocktail.ch
 thecocktailbus.ch
@@ -6880,7 +6882,6 @@ thefishhealthhub.ch
 thefitch.ch
 thefitchef.ch
 thefitfactory.ch
-thefitfoodkitchen.ch
 thefitlifedealer.ch
 thefitnesscoa.ch
 thefitnesscoach.ch
@@ -6991,6 +6992,7 @@ thefoolsonthehill.ch
 thefootballgraph.ch
 thefootlounge.ch
 thefootworkers.ch
+theforbiddenatelier.ch
 theforce.ch
 theforesthouse.ch
 theforestretreat.ch
@@ -8545,6 +8547,7 @@ theladywashungry.ch
 thelaglers.ch
 thelakefestival.ch
 thelakehouse.ch
+thelakehousesociety.ch
 thelakesgt.ch
 thelakesideconnection.ch
 thelakevalley.ch
@@ -10630,11 +10633,11 @@ thepplkickstarter.ch
 thepractice.ch
 thepracticeroom.ch
 thepraysingvoice.ch
+theprclub.ch
 thepredatorlefilm.ch
 theprelude.ch
 thepreludes.ch
 theprepaidfactory.ch
-thepresalers.ch
 thepresentation.ch
 thepresenter.ch
 thepresentmind.ch
@@ -10999,6 +11002,7 @@ therapeuten-vergleich.ch
 therapeuten-verzeichnis.ch
 therapeuten-zentrum-seefeld.ch
 therapeuten.ch
+therapeutenagent.ch
 therapeutenaturel-talisman.ch
 therapeutenbuchen.ch
 therapeutenclub.ch
@@ -11014,7 +11018,6 @@ therapeutenplus.ch
 therapeutenportal.ch
 therapeutenpraxis.ch
 therapeutenschweiz.ch
-therapeutenshop.ch
 therapeutenstelle.ch
 therapeutenversicherung.ch
 therapeutenversicherungen.ch
@@ -11476,6 +11479,7 @@ therapieaargau.ch
 therapieadmin.ch
 therapieadomicile.ch
 therapieag.ch
+therapieagent.ch
 therapiealm.ch
 therapiealthaus.ch
 therapieamarenenberg.ch
@@ -12908,6 +12912,7 @@ thermoresoetoy.ch
 thermoresogland.ch
 thermoresonyon.ch
 thermorezo.ch
+thermoroller.ch
 thermoroom.ch
 thermorossi.ch
 thermory.ch
@@ -14819,6 +14824,7 @@ thewahracircle.ch
 thewaldenburg.ch
 thewaldos.ch
 thewalkers.ch
+thewalkingladies.ch
 thewall.ch
 thewallag.ch
 thewallart.ch
@@ -15170,7 +15176,6 @@ theworkingclub.ch
 theworklabhq.ch
 theworklounge.ch
 theworknetzwerk.ch
-theworkout.ch
 theworks.ch
 theworkshop.ch
 theworkwatch.ch
@@ -16442,7 +16447,6 @@ this-is-life.ch
 this-is-love.ch
 this-is-me-watch.ch
 this-is-me.ch
-this-is-mine.ch
 this-is-my-six.ch
 this-is-pink-butterfly.ch
 this-is-pop.ch
@@ -17064,6 +17068,7 @@ thomas-faessler.ch
 thomas-fahrschule.ch
 thomas-fehr.ch
 thomas-finance.ch
+thomas-fischer.ch
 thomas-fleischer.ch
 thomas-florin.ch
 thomas-flueck.ch
@@ -18009,6 +18014,7 @@ thomasperonnet.ch
 thomasperreten.ch
 thomaspesendorfer.ch
 thomaspeter.ch
+thomaspeters.ch
 thomaspfaller.ch
 thomaspfenninger.ch
 thomaspfister.ch
@@ -18940,6 +18946,7 @@ threefour.ch
 threegether.ch
 threegreen.ch
 threegreens.ch
+threehalo.ch
 threehandscollective.ch
 threeheadedlady.ch
 threeheroes.ch

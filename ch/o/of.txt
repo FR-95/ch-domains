@@ -1724,6 +1724,7 @@ offitec.ch
 offitrad.ch
 offix.ch
 offixholding.ch
+offixpro.ch
 offizia.ch
 offizialat-bistum-chur.ch
 offiziell.ch
@@ -1820,7 +1821,6 @@ offlinegehen.ch
 offlinegeldverdienen.ch
 offlinegirls.ch
 offlinegmbh.ch
-offlineguild.ch
 offlinehelden.ch
 offlineholidays.ch
 offlineimmoprojekte.ch
@@ -2092,6 +2092,7 @@ offrod.ch
 offroud-schweiz.ch
 offscent.ch
 offscreen.ch
+offscreens.ch
 offscript.ch
 offseason.ch
 offseasonbikehotel.ch

@@ -2333,7 +2333,6 @@ ns1.kpcs.ch
 ns1.krak.ch
 ns1.krea-ns.ch
 ns1.kreativloft-shop.ch
-ns1.kreator2.ch
 ns1.ksb.ch
 ns1.kscag.ch
 ns1.ksso.ch
@@ -3082,6 +3081,7 @@ ns1.quick-net.ch
 ns1.quick2web.ch
 ns1.qwery.ch
 ns1.r1e.ch
+ns1.raagold.ch
 ns1.raan-thai.ch
 ns1.rabbitnet.ch
 ns1.rabiya.ch
@@ -3539,6 +3539,7 @@ ns1.swisstrans.ch
 ns1.swizzonicmail.ch
 ns1.sws-hosting.ch
 ns1.sxn.ch
+ns1.sygnvm.ch
 ns1.symple.ch
 ns1.syntax-agency.ch
 ns1.syselcloud.ch
@@ -3771,7 +3772,6 @@ ns1.vs.ch
 ns1.vsm-nettoyage.ch
 ns1.vtspace.ch
 ns1.vulvantine.ch
-ns1.vylaris.ch
 ns1.vyma.ch
 ns1.w-4.ch
 ns1.w3design.ch
@@ -5649,7 +5649,6 @@ ns2.krak.ch
 ns2.krea-ns.ch
 ns2.kreativloft-shop.ch
 ns2.kreativmedia.ch
-ns2.kreator2.ch
 ns2.kriz.ch
 ns2.kulturbau.ch
 ns2.kulturpark.ch
@@ -6354,6 +6353,7 @@ ns2.quick-net.ch
 ns2.quick2web.ch
 ns2.qwery.ch
 ns2.r1e.ch
+ns2.raagold.ch
 ns2.raan-thai.ch
 ns2.rabbitnet.ch
 ns2.radlosservice.ch
@@ -6801,6 +6801,7 @@ ns2.switzerland-hosting.ch
 ns2.swix.ch
 ns2.swizzonicmail.ch
 ns2.sws-hosting.ch
+ns2.sygnvm.ch
 ns2.symple.ch
 ns2.syntax-agency.ch
 ns2.syselcloud.ch
@@ -7029,7 +7030,6 @@ ns2.vsm-nettoyage.ch
 ns2.vtspace.ch
 ns2.vulvantine.ch
 ns2.vyan.ch
-ns2.vylaris.ch
 ns2.vyma.ch
 ns2.w-4.ch
 ns2.w4u2.ch
@@ -8006,7 +8006,6 @@ ns3.vivanet.ch
 ns3.vneko.ch
 ns3.volleyuntervaz.ch
 ns3.vr-technics.ch
-ns3.vylaris.ch
 ns3.w-4.ch
 ns3.w3design.ch
 ns3.waly.ch
@@ -8210,7 +8209,6 @@ ns4.marco-salzmann.ch
 ns4.martronic.ch
 ns4.matrixserver.ch
 ns4.maxbit.ch
-ns4.mgehosting.ch
 ns4.miraweb.ch
 ns4.mk-office.ch
 ns4.mobiletechnics.ch
@@ -8318,7 +8316,6 @@ ns4.uhot.ch
 ns4.unique-hosting.ch
 ns4.virtualhosts.ch
 ns4.viseca.ch
-ns4.vylaris.ch
 ns4.waly.ch
 ns4.webland.ch
 ns4.webwer.ch
@@ -8399,7 +8396,6 @@ ns5.swissquake.ch
 ns5.swissrack.ch
 ns5.threema.ch
 ns5.uhot.ch
-ns5.vylaris.ch
 ns50.kbsd.ch
 ns59.tophost.ch
 ns6.another.ch
@@ -8430,7 +8426,6 @@ ns6.serverhouse.ch
 ns6.stylebeauty.ch
 ns6.sunbeam.ch
 ns6.swissrack.ch
-ns6.vylaris.ch
 ns60.tophost.ch
 ns7.avaloqsourcing.ch
 ns7.b-source.ch

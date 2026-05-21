@@ -158,6 +158,7 @@ rpf.ch
 rpf3dshop.ch
 rpfammatter.ch
 rpfhr.ch
+rpfiberone.ch
 rpfid.ch
 rpfister.ch
 rpfly.ch
@@ -381,7 +382,6 @@ rptools.ch
 rptraiteur.ch
 rptreuhand.ch
 rptronics.ch
-rptz.ch
 rpu.ch
 rpub.ch
 rpublik.ch

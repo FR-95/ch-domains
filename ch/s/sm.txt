@@ -1759,7 +1759,6 @@ smartbeet.ch
 smartbench.ch
 smartbern.ch
 smartbess.ch
-smartbett.ch
 smartbev.ch
 smartbeverage.ch
 smartbeverages.ch
@@ -2262,6 +2261,7 @@ smartdossier.ch
 smartdpp.ch
 smartdraw.ch
 smartdream.ch
+smartdrinking.ch
 smartdrive.ch
 smartdriver-ch.ch
 smartdriver-online.ch
@@ -7395,7 +7395,9 @@ smzb.ch
 smzbi.ch
 smzconcept.ch
 smzentrale.ch
+smzh-prisma.ch
 smzh.ch
+smzhprisma.ch
 smzimmer.ch
 smzinformatik.ch
 smzng.ch

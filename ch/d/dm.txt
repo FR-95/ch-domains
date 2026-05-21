@@ -312,7 +312,6 @@ dmeag.ch
 dmech.ch
 dmed.ch
 dmedia.ch
-dmedia360.ch
 dmedias.ch
 dmegc.ch
 dmehta.ch
@@ -538,7 +537,6 @@ dmp-immo.ch
 dmp-immobilien.ch
 dmp-legal.ch
 dmp-reinigung.ch
-dmp-services.ch
 dmp-treuhand.ch
 dmp.ch
 dmpartner.ch

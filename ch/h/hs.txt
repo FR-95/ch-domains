@@ -849,6 +849,7 @@ hstest-domain2.ch
 hstgc.ch
 hstib.ch
 hstick.ch
+hstl.ch
 hstle.ch
 hstlr.ch
 hstnet.ch

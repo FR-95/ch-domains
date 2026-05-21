@@ -180,7 +180,12 @@ kfmv-bl.ch
 kfmv-jobs.ch
 kfmv-luzern.ch
 kfmv-ostschweiz.ch
+kfmv-region.ch
+kfmv-regionen.ch
 kfmv-schaffhausen.ch
+kfmv-schweiz.ch
+kfmv-sektion.ch
+kfmv-sektionen.ch
 kfmv-seminare.ch
 kfmv-so.ch
 kfmv-solothurn.ch

@@ -693,6 +693,7 @@ sslps.ch
 sslreview.ch
 sslsites.ch
 sslstore.ch
+sslt.ch
 ssltd.ch
 ssltest.ch
 sslu.ch
@@ -1113,7 +1114,6 @@ sssllc.ch
 ssslmv.ch
 ssslu.ch
 ssslugano.ch
-sssnara.ch
 sssnm.ch
 ssso.ch
 sssolution.ch

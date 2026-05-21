@@ -204,6 +204,7 @@ fock.ch
 fockus.ch
 focl.ch
 foclette.ch
+foco-suisse.ch
 foco.ch
 fococontainers.ch
 focodesign.ch
@@ -259,7 +260,6 @@ focus-connexion.ch
 focus-creation.ch
 focus-deco.ch
 focus-dental.ch
-focus-dev.ch
 focus-dialog.ch
 focus-drink.ch
 focus-drive.ch
@@ -354,7 +354,6 @@ focus-verlag.ch
 focus-vs.ch
 focus-watch.ch
 focus-water.ch
-focus-well-being.ch
 focus-winterthur.ch
 focus-you.ch
 focus-yourself.ch
@@ -415,6 +414,7 @@ focuscura.ch
 focusd.ch
 focusdance.ch
 focusdental.ch
+focusdesk.ch
 focusdialog-digital.ch
 focusdialog.ch
 focusdigital.ch
@@ -2907,6 +2907,7 @@ fondation-vm.ch
 fondation-watch-academy.ch
 fondation-worldline.ch
 fondation-wrp.ch
+fondation-yuki.ch
 fondation-zenokarlschindler.ch
 fondation-zmb.ch
 fondation-zurcher-madagascar.ch
@@ -6147,6 +6148,7 @@ footballticket.ch
 footballticketnet.ch
 footballtickets.ch
 footballtobusiness.ch
+footballtrainer.ch
 footballtrainingcamps.ch
 footballtravel.ch
 footballtrip.ch
@@ -7708,6 +7710,7 @@ foreveraloe-shop.ch
 foreveraloe.ch
 foreveraloenoemi.ch
 foreveraloevera.ch
+foreverasanin.ch
 foreverbeautiful.ch
 foreverboutique.ch
 forevercircular.ch
@@ -9283,7 +9286,6 @@ formidable-pelikan.ch
 formidable-server.ch
 formidable.ch
 formidablepelikan.ch
-formidables.ch
 formidabplus.ch
 formidalp.ch
 formidgraphic.ch
@@ -10392,6 +10394,7 @@ forsupport.ch
 forsure.ch
 forsweets.ch
 forswitzerland.ch
+forsys.ch
 forsyth.ch
 forsythegroup.ch
 fort-adviser.ch

@@ -1352,7 +1352,6 @@ ordcon.ch
 orde.ch
 ordedjibouti.ch
 ordega.ch
-ordelia.ch
 ordelt.ch
 ordem.ch
 orden.ch
@@ -1629,7 +1628,6 @@ ordnr.ch
 ordnung-at-home.ch
 ordnung-belohnt.ch
 ordnung-erschaffen.ch
-ordnung-in-sicht.ch
 ordnung-leben.ch
 ordnung-macht-gluecklich.ch
 ordnung-mit-herz.ch
@@ -1649,7 +1647,6 @@ ordnungerschaffen.ch
 ordnunggelingt.ch
 ordnunghochdrei.ch
 ordnungimsystem.ch
-ordnunginsicht.ch
 ordnunginsleben.ch
 ordnungleben.ch
 ordnungmachtgluecklich.ch
@@ -3791,7 +3788,6 @@ orionadastra.ch
 orionai.ch
 orionapex.ch
 orionapp.ch
-orionatelier.ch
 orionbau.ch
 orioncapital.ch
 orioncapitalag.ch
@@ -3855,6 +3851,7 @@ orionsigny.ch
 orionsolar.ch
 orionstar.ch
 orionsteam.ch
+orionswiss.ch
 orionsystematic.ch
 oriontation.ch
 oriontax.ch
@@ -4507,7 +4504,6 @@ oroferro.ch
 orofx.ch
 orogeisha.ch
 orogen.ch
-oroger.ch
 orogg.ch
 orogold.ch
 orogone.ch
@@ -6049,7 +6045,6 @@ orthoschuh.ch
 orthoschuhe.ch
 orthoschuler.ch
 orthoschwyz.ch
-orthoscoot.ch
 orthosedis.ch
 orthoseeland.ch
 orthosens.ch
@@ -6294,6 +6289,7 @@ ortopediatulipani.ch
 ortopedica.ch
 ortopedico.ch
 ortopet.ch
+ortoprime.ch
 ortoramani.ch
 ortorampante.ch
 ortorex.ch

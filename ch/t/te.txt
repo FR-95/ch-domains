@@ -2253,6 +2253,7 @@ teatrodaruma.ch
 teatrodelfiore.ch
 teatrodellaparola.ch
 teatrodellecontrade.ch
+teatrodellimprevisto.ch
 teatrodeltempo.ch
 teatrodibanco.ch
 teatrodicapua.ch
@@ -2284,7 +2285,6 @@ teaviar.ch
 teavita.ch
 teaweb.ch
 teawithannabel.ch
-teaworkers.ch
 teaworld.ch
 teayan.ch
 teayourgin.ch
@@ -4082,7 +4082,6 @@ technoledge.ch
 technoleman.ch
 technoleo.ch
 technoliberale-aktion.ch
-technoliberale-partei.ch
 technoliberale.ch
 technoliberaleaktion.ch
 technoliberalepartei.ch
@@ -6385,8 +6384,6 @@ teilzeitbeschaeftigung.ch
 teilzeitbretter.ch
 teilzeitbuero.ch
 teilzeitcfo.ch
-teilzeitfreund.ch
-teilzeitfreundin.ch
 teilzeithobby.ch
 teilzeitjob-schweiz.ch
 teilzeitjob.ch
@@ -6841,7 +6838,6 @@ telas.ch
 telast.ch
 telau.ch
 telauskunft.ch
-telautomatics.ch
 telaves.ch
 telaviv.ch
 telavocat.ch
@@ -8322,6 +8318,7 @@ tell-collect.ch
 tell-daten.ch
 tell-derfilm.ch
 tell-digital.ch
+tell-eiger.ch
 tell-family.ch
 tell-fire-grill.ch
 tell-freilichtspiele.ch
@@ -8462,6 +8459,7 @@ teller-weise.ch
 teller.ch
 teller2seller.ch
 telleraufsteller.ch
+tellerbar.ch
 tellerei.ch
 tellerfeder.ch
 tellerfedern.ch
@@ -9496,6 +9494,7 @@ temporarysecretary.ch
 temporarystore.ch
 temporaryswiss.ch
 temporarytattoo.ch
+temporaryworkaround.ch
 temporaryy.ch
 temporasystem.ch
 temporaus.ch
@@ -11190,6 +11189,7 @@ teomed.ch
 teomen.ch
 teomera.ch
 teomestiere.ch
+teomi.ch
 teomusic.ch
 teon.ch
 teonee.ch
@@ -12000,6 +12000,7 @@ termin-buchen.ch
 termin-buchung.ch
 termin-checker.ch
 termin-coiffeur-moni-jasmin.ch
+termin-coiffeurmimi.ch
 termin-direkt.ch
 termin-driveclean.ch
 termin-hermes-lyss.ch
@@ -13025,7 +13026,6 @@ terrart.ch
 terrarte.ch
 terras-ag.ch
 terras-do-churrasco.ch
-terras-gmbh.ch
 terrasagrada.ch
 terrasana.ch
 terrasasso.ch
@@ -13478,6 +13478,7 @@ terre-precieuse.ch
 terre-promise-international.ch
 terre-rosse.ch
 terre-rouge.ch
+terre-sacree-ail-noir.ch
 terre-sacree.ch
 terre-sainte-directory.ch
 terre-sainte-immobilier.ch

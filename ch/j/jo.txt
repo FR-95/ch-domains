@@ -415,6 +415,7 @@ job-drive.ch
 job-e-bike.ch
 job-eco.ch
 job-empfehlung.ch
+job-emploi.ch
 job-engine.ch
 job-engineering.ch
 job-erfolg.ch
@@ -4697,6 +4698,7 @@ john-mullet.ch
 john-problem.ch
 john-r.ch
 john-reed.ch
+john-roberts.ch
 john-roth.ch
 john-rutishauser.ch
 john-sanitaer.ch
@@ -5265,7 +5267,6 @@ jointhechur.ch
 jointheclub.ch
 jointheclubsandwi.ch
 jointheexcellence.ch
-jointhefuture.ch
 jointhegreen.ch
 jointhegrid.ch
 jointhejourney.ch
@@ -5306,6 +5307,7 @@ joinup.ch
 joinusapp.ch
 joinusorfearus.ch
 joinvest.ch
+joinvio.ch
 joinvision.ch
 joinwealth.ch
 joinwebtouch.ch
@@ -7525,6 +7527,7 @@ jornalo.ch
 jornod-demenagements.ch
 jornod.ch
 jornodic.ch
+jornot.ch
 jorns-ag.ch
 jorns-maschinen.ch
 jorns-partner.ch
@@ -9423,7 +9426,6 @@ joyful-workshops.ch
 joyful.ch
 joyfulapps.ch
 joyfularchitecture.ch
-joyfulbits.ch
 joyfulcoaching.ch
 joyfulcraftsmen.ch
 joyfuldoglife.ch

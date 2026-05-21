@@ -112,7 +112,6 @@ as-facility-services.ch
 as-facility.ch
 as-fairplay.ch
 as-fam.ch
-as-fashionconcept.ch
 as-fenster.ch
 as-fensterbau.ch
 as-ferraillage.ch
@@ -3821,7 +3820,6 @@ asmanex.ch
 asmar.ch
 asmara.ch
 asmaracapital.ch
-asmaragmbh.ch
 asmarareinigunggmbh.ch
 asmaraswiss.ch
 asmarc.ch
@@ -5075,6 +5073,7 @@ assetcustody.ch
 assetdeal.ch
 assetdevelopment.ch
 assetenterprises.ch
+assetfinder.ch
 assetgpt.ch
 assethub.ch
 assetia.ch
@@ -5694,6 +5693,7 @@ assitec.ch
 assiteca.ch
 assitecaonline.ch
 assitej.ch
+assitheque.ch
 assitool.ch
 assitools.ch
 assive.ch
@@ -7816,10 +7816,6 @@ astrahotel.ch
 astrahotelvevey.ch
 astrahr.ch
 astraia.ch
-astrain-architektur.ch
-astrain-holzbau.ch
-astrain-planung.ch
-astrain-schreinerei.ch
 astrain.ch
 astraios.ch
 astrairidium.ch
@@ -8580,6 +8576,7 @@ astrologos.ch
 astrologue-geneve.ch
 astrologue-humaniste.ch
 astrologue.ch
+astrologuesdedemain.ch
 astrology.ch
 astrologyforyou.ch
 astroloji.ch
@@ -8887,6 +8884,7 @@ astucejeux.ch
 astuces-et-soluces.ch
 astuces-internet.ch
 astuces-solutions.ch
+astuces-webmaster.ch
 astuces.ch
 astucesetsoluces.ch
 astucesfamilles.ch
@@ -9151,6 +9149,7 @@ aswe.ch
 aswealth.ch
 asweb.ch
 aswebdesign.ch
+aswedding2027.ch
 asweetescape.ch
 aswegetit.ch
 asweha.ch

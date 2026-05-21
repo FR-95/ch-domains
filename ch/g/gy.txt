@@ -482,7 +482,6 @@ gymibriefe.ch
 gymicamp.ch
 gymicards.ch
 gymicheck.ch
-gymiclass.ch
 gymiclub.ch
 gymicoach-schweiz.ch
 gymicoach.ch
@@ -1227,6 +1226,7 @@ gyngiadina.ch
 gyngoldbach.ch
 gynguggisberg.ch
 gynguide.ch
+gynhaus.ch
 gynhealth.ch
 gynhorgen.ch
 gyni-altnau.ch
@@ -1629,6 +1629,7 @@ gyt.ch
 gyta.ch
 gytech.ch
 gytronic.ch
+gyu.ch
 gyula.ch
 gyura.ch
 gyuri.ch

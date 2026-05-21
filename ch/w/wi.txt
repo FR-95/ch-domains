@@ -205,6 +205,7 @@ wibutler.ch
 wibuweb.ch
 wic-broker.ch
 wic.ch
+wica.ch
 wicam.ch
 wicanders-parquet.ch
 wicanders.ch
@@ -420,7 +421,6 @@ wickelwerk.ch
 wickelwink.ch
 wickelzauber.ch
 wickelziit.ch
-wicken-cloud.ch
 wickenden.ch
 wickenweg.ch
 wicker-baumpflege.ch
@@ -1541,12 +1541,10 @@ wiegel.ch
 wiegeld.ch
 wiegelmann.ch
 wiegelpulverbeschichten.ch
-wiegen-manufaktur.ch
 wiegen.ch
 wiegenacker.ch
 wiegenfee.ch
 wiegenliebe.ch
-wiegenmanufaktur.ch
 wiegeparadies.ch
 wiegerdejong.ch
 wiegershaus.ch
@@ -3652,7 +3650,6 @@ wildhaberconsulting.ch
 wildhabermontagen.ch
 wildhabersmarthome.ch
 wildhaeri.ch
-wildhair.ch
 wildhairswil.ch
 wildhandel.ch
 wildhappyheart.ch
@@ -4144,6 +4141,7 @@ wildsauenhuette.ch
 wildsauparty.ch
 wildsaurotte-burgdorf.ch
 wildsauzunft.ch
+wildscan.ch
 wildscasino.ch
 wildscentedsoul.ch
 wildschaden.ch
@@ -8239,6 +8237,7 @@ winkler-ecommerce.ch
 winkler-fahrzeugteile.ch
 winkler-fam.ch
 winkler-family.ch
+winkler-fitness.ch
 winkler-getraenke.ch
 winkler-handwerk.ch
 winkler-insektenschutz.ch
@@ -9380,7 +9379,6 @@ winterthur-osteopathie.ch
 winterthur-paarberatung.ch
 winterthur-pcsupport.ch
 winterthur-pension.ch
-winterthur-personaltraining.ch
 winterthur-physiotherapie.ch
 winterthur-piercing.ch
 winterthur-pilates.ch
@@ -10292,6 +10290,7 @@ wipatec.ch
 wipavo.ch
 wipaw.ch
 wipcare.ch
+wipcom.ch
 wipcon.ch
 wipe-away.ch
 wipe-center.ch
@@ -13298,6 +13297,7 @@ wish6.ch
 wisha.ch
 wishable.ch
 wishalize.ch
+wishando.ch
 wishandthemob.ch
 wishapremium.ch
 wishare.ch
@@ -14224,7 +14224,6 @@ witterswil24.ch
 witterswilhilft.ch
 wittewave.ch
 wittfeld.ch
-wittflow.ch
 wittgas.ch
 wittgenstein.ch
 witthaus.ch

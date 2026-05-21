@@ -1248,6 +1248,7 @@ huebag.ch
 huebb.ch
 huebbande.ch
 huebbe.ch
+huebberg.ch
 huebbrunnen.ch
 huebe-ferien.ch
 huebe-pokale.ch
@@ -5365,11 +5366,9 @@ hundefoto-session.ch
 hundefotograf.ch
 hundefotografie-bern.ch
 hundefotografie-graubuenden.ch
-hundefotografie-luzern.ch
 hundefotografie-manuela-klaeui.ch
 hundefotografie-rheintal.ch
 hundefotografie-schweiz.ch
-hundefotografie-zentralschweiz.ch
 hundefotografie-zug.ch
 hundefotografie.ch
 hundefotografin-luzern.ch
@@ -5533,6 +5532,7 @@ hundehueten.ch
 hundehueterin.ch
 hundehueti.ch
 hundehuette.ch
+hundehuette7.ch
 hundehuetten.ch
 hundehuettl.ch
 hundehuettli.ch
@@ -6942,6 +6942,7 @@ hundmenschgefaehrtencoaching.ch
 hundmenschmeyer.ch
 hundmenschteam.ch
 hundmenschtraining.ch
+hundmittosca.ch
 hundmobil.ch
 hundnatur.ch
 hundnews.ch
@@ -7258,7 +7259,6 @@ hunt24.ch
 hunt4crypto.ch
 hunt4treasures.ch
 hunta.ch
-hunted.ch
 hunteddeer.ch
 hunteed.ch
 huntelweg.ch

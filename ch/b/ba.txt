@@ -2350,7 +2350,6 @@ bachelor-prof-pflege.ch
 bachelor-professional.ch
 bachelor-professionnel.ch
 bachelor-stoppen.ch
-bachelor-ucd.ch
 bachelor-universitaire.ch
 bachelor-vergleich.ch
 bachelor.ch
@@ -2393,7 +2392,6 @@ bachelors-universitaires.ch
 bachelors.ch
 bachelorstudium.ch
 bachelorthesis.ch
-bachelorucd.ch
 bachelorweekendberlin.ch
 bachelorwork.ch
 bachelot.ch
@@ -3451,7 +3449,6 @@ backofficemedia.ch
 backofficemeier.ch
 backofficeonline.ch
 backofficeplus.ch
-backofficerestaurant.ch
 backoffices.ch
 backofficeschmidig.ch
 backofficeservicebox.ch
@@ -7776,7 +7773,6 @@ bagnidibosco.ch
 bagnieri.ch
 bagninoshirt.ch
 bagnisartorialisagl.ch
-bagniticino.ch
 bagnity.ch
 bagno-cucina-vita.ch
 bagno-vita.ch
@@ -8482,6 +8478,7 @@ bahnhofwasserauen.ch
 bahnhofweg.ch
 bahnhofweg20.ch
 bahnhofwerbung.ch
+bahnhofwest-aarburg.ch
 bahnhofwest.ch
 bahnhofwiedikon.ch
 bahnhofzentrum-wetzikon.ch
@@ -9402,6 +9399,7 @@ bakink.ch
 bakinstitut.ch
 bakir.ch
 bakirci.ch
+bakis.ch
 bakisandco.ch
 bakiscapital.ch
 bakisi.ch
@@ -9719,7 +9717,6 @@ balance-of-soul.ch
 balance-of-the-family.ch
 balance-overview-jss.ch
 balance-perspektive-coach.ch
-balance-pilatesreformer.ch
 balance-praxis-laden.ch
 balance-promote-group-records.ch
 balance-promote-group.ch
@@ -9916,7 +9913,6 @@ balanceofsoul.ch
 balancepark4you.ch
 balancepartner.ch
 balancephysio.ch
-balancepilatesreformer.ch
 balanceplace-online.ch
 balanceplace.ch
 balanceplus.ch
@@ -10764,6 +10760,7 @@ balkanking.ch
 balkanladen.ch
 balkanlovers.ch
 balkanmaniak.ch
+balkanmap.ch
 balkanmarkt-shahin.ch
 balkannet.ch
 balkanology.ch
@@ -12012,6 +12009,7 @@ balneo-centre.ch
 balneo-design.ch
 balneo-yverdon.ch
 balneo.ch
+balneobike.ch
 balneocar.ch
 balneocentre.ch
 balneochamard.ch
@@ -17051,6 +17049,7 @@ barc.ch
 barca-academy-zuerich.ch
 barca-academy.ch
 barca-ag.ch
+barca-blu.ch
 barca-creation.ch
 barca-malley.ch
 barca.ch
@@ -17077,7 +17076,6 @@ barcap.ch
 barcapinvest.ch
 barcapitol.ch
 barcar.ch
-barcarole.ch
 barcarolle.ch
 barcasablanca.ch
 barcastello.ch
@@ -20910,6 +20908,7 @@ baseltaxis.ch
 baseltaxservice.ch
 baseltaxtreuhand.ch
 baseltcm.ch
+baseltech-consulting.ch
 baseltech.ch
 baseltemporaer.ch
 baseltennisacademy.ch
@@ -21049,6 +21048,7 @@ basenstick.ch
 basenwelt.ch
 basenyon.ch
 baseo.ch
+baseofficenow.ch
 baseone.ch
 basepackage.ch
 basephyto.ch
@@ -24442,6 +24442,7 @@ bau-planer.ch
 bau-planungsrecht.ch
 bau-plenum.ch
 bau-plus.ch
+bau-pool.ch
 bau-portal.ch
 bau-praxis.ch
 bau-print.ch
@@ -24673,6 +24674,7 @@ bauakzente.ch
 baualarm.ch
 baualex.ch
 bauallianz.ch
+bauallround.ch
 bauallrounder.ch
 baualp.ch
 baualpin.ch
@@ -24682,6 +24684,8 @@ bauamt-oberwil.ch
 bauamt-ringgenberg.ch
 bauanalyse.ch
 bauanalysen.ch
+bauanalytics.ch
+bauanalyticsai.ch
 bauanalytik.ch
 bauangebot.ch
 bauangebote.ch
@@ -25493,6 +25497,7 @@ bauenimbestandswiss.ch
 bauenimdorf.ch
 baueninholz.ch
 bauenistvertrauen.ch
+bauenlassen.ch
 bauenlebenwohnen.ch
 bauenlimmattal.ch
 bauenmit.ch
@@ -26783,6 +26788,7 @@ baulandportal.ch
 baulandpreise.ch
 baulandrechner.ch
 baulandreserven.ch
+baulandschaft.ch
 baulandschweiz.ch
 baulandservice.ch
 baulandsuchen.ch
@@ -27612,7 +27618,6 @@ baumeisterschweiz.ch
 baumeisterschwyz.ch
 baumeistersg.ch
 baumeistershop.ch
-baumeisterstein.ch
 baumeistersupport.ch
 baumelair.ch
 baumeler-ag.ch
@@ -27757,7 +27762,6 @@ baumgarten-egolzwil.ch
 baumgarten-goldach.ch
 baumgarten-hombrechtikon.ch
 baumgarten-hottwil.ch
-baumgarten-kuettigen.ch
 baumgarten-ramsen.ch
 baumgarten-sevelen.ch
 baumgarten-solar.ch
@@ -29402,6 +29406,7 @@ baustellenmanager.ch
 baustellenmaterial.ch
 baustellennews.ch
 baustellenparcours.ch
+baustellenparkplatz.ch
 baustellenprofi.ch
 baustellenradio.ch
 baustellenreinigungbern.ch
@@ -29686,6 +29691,7 @@ bautenbacher.ch
 bautensan.ch
 bautenschaeden.ch
 bautenschutz-5.ch
+bautenschutz-jensen.ch
 bautenschutz-schweiz.ch
 bautenschutz-verbund.ch
 bautenschutz-zuerich.ch

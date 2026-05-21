@@ -382,7 +382,6 @@ oldenburg.ch
 oldeneye.ch
 oldenhorn-iv.ch
 oldenhorn.ch
-oldenoak.ch
 oldenresidence.ch
 olderclassics.ch
 olderfans.ch
@@ -1278,6 +1277,7 @@ oleum-alpium.ch
 oleum-cesare.ch
 oleum.ch
 oleumalpium.ch
+oleumvictorum.ch
 olevado.ch
 olevapaa.ch
 olevelo.ch
@@ -2468,6 +2468,7 @@ olivertwist.ch
 oliverum.ch
 oliverundlena.ch
 oliverunger.ch
+olivervogel.ch
 olivervonarx.ch
 oliverwachs.ch
 oliverwaespi.ch
@@ -3540,6 +3541,7 @@ olykon.ch
 olylife.ch
 olym.ch
 olymige.ch
+olymp-ag.ch
 olymp-arts.ch
 olymp-club.ch
 olymp-invest.ch

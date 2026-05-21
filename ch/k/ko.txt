@@ -300,7 +300,6 @@ kobiboden2.ch
 kobiboxen.ch
 kobiconsult.ch
 kobid.ch
-kobido-academy.ch
 kobido-beaute-geneve.ch
 kobido-beaute.ch
 kobido-chez-soi.ch
@@ -312,7 +311,6 @@ kobido-weinfelden.ch
 kobido-zuerich.ch
 kobido-zurich.ch
 kobido.ch
-kobidoacademy.ch
 kobidogeneve.ch
 kobidotraining.ch
 kobiecydobrostan.ch
@@ -1081,7 +1079,6 @@ kochshop.ch
 kochshow.ch
 kochsiek.ch
 kochsite.ch
-kochsport.ch
 kochsports.ch
 kochsportverein.ch
 kochstall.ch
@@ -1986,6 +1983,7 @@ koerperfeinarbeit.ch
 koerperfettanalyse.ch
 koerperfettwaage.ch
 koerperfit.ch
+koerperfluesterin.ch
 koerperfluss.ch
 koerperfokus.ch
 koerperform-8.ch
@@ -1994,6 +1992,7 @@ koerperfragen.ch
 koerperfreude.ch
 koerperfruehling.ch
 koerpergaertner.ch
+koerpergefluester.ch
 koerpergefuehl-praxis.ch
 koerpergefuehl.ch
 koerpergeheimnis.ch
@@ -2993,6 +2992,7 @@ kojiki.ch
 kojima-solutions.ch
 kojima.ch
 kojirind.ch
+kojntech.ch
 kojo-realestate.ch
 kojo.ch
 kojoo.ch
@@ -3688,7 +3688,6 @@ kollektivearchitekt.ch
 kollektiveillusion.ch
 kollektiven.ch
 kollektiver-rechtsschutz.ch
-kollektiverdikal.ch
 kollektiverhalt.ch
 kollektiverrechtsschutz.ch
 kollektives-management.ch
@@ -4266,6 +4265,7 @@ komani-ag.ch
 komani-bau.ch
 komani-care.ch
 komani.ch
+komann-engineering.ch
 komar.ch
 komarkiri.ch
 komaro.ch
@@ -5917,6 +5917,7 @@ koncept3d.ch
 konceptify.ch
 koncertpromo.ch
 koncinamedia.ch
+konclav.ch
 koncon.ch
 koncret.ch
 koncrete.ch
@@ -6137,6 +6138,7 @@ konferenzmappen.ch
 konferenznet.ch
 konferenznetze.ch
 konferenzort.ch
+konferenzplaner.ch
 konferenzraeume.ch
 konferenzraum-luzern-d4.ch
 konferenzraum-mieten.ch
@@ -7502,6 +7504,7 @@ kontext-architektur.ch
 kontext-brille.ch
 kontext-generalplanung.ch
 kontext-gp.ch
+kontext-jugend.ch
 kontext-marketing.ch
 kontext-matters.ch
 kontext-reisen.ch
@@ -7803,6 +7806,7 @@ konvink.ch
 konvivent.ch
 konvivia.ch
 konvoi.ch
+konvolio.ch
 konvortec.ch
 konvox.ch
 konvoy.ch

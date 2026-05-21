@@ -1491,6 +1491,7 @@ openloadmovies.ch
 openlocal.ch
 openlogs.ch
 openlook.ch
+openloop.ch
 openlr.ch
 openlugano.ch
 openlux.ch
@@ -3888,6 +3889,7 @@ optima-climatisation.ch
 optima-consulting.ch
 optima-cosmetic.ch
 optima-cult.ch
+optima-design.ch
 optima-engineers.ch
 optima-fachshop.ch
 optima-feng-shui.ch
@@ -4141,7 +4143,6 @@ optimehl.ch
 optimental.ch
 optimeo.ch
 optimera.ch
-optimerio.ch
 optimess.ch
 optimetal.ch
 optimetis.ch
@@ -5059,7 +5060,6 @@ opus-eximium.ch
 opus-expo.ch
 opus-fabriks.ch
 opus-fashion.ch
-opus-grischa.ch
 opus-group.ch
 opus-groupe.ch
 opus-haus.ch

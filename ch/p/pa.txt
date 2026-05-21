@@ -1929,7 +1929,6 @@ padelmove.ch
 padelmurten.ch
 padeln-zuerich.ch
 padeln.ch
-padelnation.ch
 padelnero.ch
 padelneufeld.ch
 padelnews.ch
@@ -2881,7 +2880,6 @@ pagopace.ch
 pagora.ch
 pagosa.ch
 pagosi.ch
-pagotantodicassamalati.ch
 pagozar.ch
 pagr.ch
 pagram.ch
@@ -3012,7 +3010,6 @@ paille.ch
 pailleco.ch
 pailles.ch
 paillettarium.ch
-pailletten-bilder.ch
 paillettes.ch
 paillettesattitudeswiss.ch
 paillettesetchocolat.ch
@@ -3388,7 +3385,6 @@ paires.ch
 pairesbiomagnetiques.ch
 pairfactlegal.ch
 pairfect.ch
-pairfekt.ch
 pairfinance.ch
 pairformance.ch
 pairin-thai-massage.ch
@@ -3989,6 +3985,8 @@ palazzo-nobile.ch
 palazzo-patatuet.ch
 palazzo-petraglio.ch
 palazzo-pisano.ch
+palazzo-rudolfo-soglio.ch
+palazzo-rudolfo.ch
 palazzo-salis-soglio.ch
 palazzo-salis.ch
 palazzo-soglio.ch
@@ -5191,6 +5189,7 @@ pamco.ch
 pamcom.ch
 pamcreativ.ch
 pamdan.ch
+pamdebulle.ch
 pamdir.ch
 pame-kl.ch
 pame-yoga.ch
@@ -6876,6 +6875,7 @@ panoptimum.ch
 panoptix.ch
 panopto.ch
 panopub.ch
+panora-app.ch
 panora-malt.ch
 panora.ch
 panorablack.ch
@@ -9279,7 +9279,6 @@ para-villeneuve.ch
 para-wing.ch
 para.ch
 paraair.ch
-paraalpine.ch
 paraalpineskiing-saas-fee.ch
 paraaqua.ch
 paraaramid.ch
@@ -10417,6 +10416,7 @@ parasympathikus.ch
 parat-beschriftungen.ch
 parat-gmbh.ch
 parat-studio.ch
+parat.ch
 parata-conseils.ch
 parata-immo.ch
 parata-invest.ch
@@ -11845,6 +11845,7 @@ parkbooks.ch
 parkbox.ch
 parkboxen.ch
 parkboxstorage.ch
+parkbuegel.ch
 parkburger-nidau.ch
 parkbusse.ch
 parkbussen.ch
@@ -12643,6 +12644,7 @@ parkingurania.ch
 parkingvalet.ch
 parkingvaletschweiz.ch
 parkingverwaltung.ch
+parkingvisiteurs.ch
 parkingwolf.ch
 parkingzrh.ch
 parkingzuerich.ch
@@ -14820,6 +14822,7 @@ parts4you.ch
 partsandgo.ch
 partscatalog.ch
 partscenter.ch
+partsconnectcopart.ch
 partscout-24.ch
 partscout24.ch
 partsdata.ch
@@ -15635,7 +15638,6 @@ partzilla.ch
 paru-paro.ch
 paru-vendu.ch
 paru.ch
-paruck.ch
 parure.ch
 paruresis.ch
 parurupa.ch
@@ -17692,6 +17694,7 @@ passioneegusto.ch
 passioneepiu.ch
 passioneer-investments.ch
 passioneer.ch
+passionef40.ch
 passionefredda.ch
 passioneghiaccio.ch
 passioneitaliana.ch
@@ -17854,7 +17857,6 @@ passionvoyage.ch
 passionvoyages.ch
 passionvoyagestucki.ch
 passionwear.ch
-passionwork.ch
 passionworks.ch
 passionworx.ch
 passionx.ch
@@ -23536,7 +23538,6 @@ paxkids.ch
 paxkidz.ch
 paxkontakt.ch
 paxleben.ch
-paxlibertaspatria.ch
 paxligna.ch
 paxloveismus.ch
 paxlovid.ch
@@ -23632,7 +23633,6 @@ pay-smart.ch
 pay-solution.ch
 pay-spot.ch
 pay-swiss.ch
-pay-treu.ch
 pay-tv.ch
 pay-u.ch
 pay-with-me.ch
@@ -24084,6 +24084,7 @@ paypoint-payroll.ch
 paypoint.ch
 paypointpayroll.ch
 paypool.ch
+paypora.ch
 payport.ch
 payprism.ch
 paypro.ch
@@ -24409,7 +24410,6 @@ payto.ch
 paytonhat.ch
 paytrans.ch
 paytress.ch
-paytreu.ch
 paytrim.ch
 paytsoftware.ch
 paytv-shop.ch
@@ -24520,7 +24520,6 @@ pazzi.ch
 pazzipizza.ch
 pazziria.ch
 pazzis.ch
-pazzle-concept.ch
 pazznet.ch
 pazzo-napoletano.ch
 pazzo.ch

@@ -320,6 +320,7 @@ vmprocolor.ch
 vmproperty.ch
 vmprovider.ch
 vmproviding.ch
+vmpub.ch
 vmq.ch
 vmr-consulting.ch
 vmr-optimum.ch

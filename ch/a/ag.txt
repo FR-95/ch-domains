@@ -1981,7 +1981,6 @@ agentki.ch
 agentkosovo.ch
 agentlab.ch
 agentlabs.ch
-agentlane.ch
 agentleman.ch
 agentli.ch
 agentlog.ch
@@ -2419,6 +2418,7 @@ agentworkflows.ch
 agentworks.ch
 agentworx.ch
 agentx.ch
+agentxo.ch
 agentxyz.ch
 agentys.ch
 agentyx.ch
@@ -3685,6 +3685,7 @@ agnostic-intelligence.ch
 agnostic-platform.ch
 agnostic.ch
 agnosticalyze.ch
+agnosticap.ch
 agnostik.ch
 agnostiker.ch
 agnosys.ch
@@ -5680,7 +5681,6 @@ aguamundo.ch
 aguanaboca.ch
 aguante.ch
 aguaparaavida.ch
-aguaparachocolate.ch
 aguaparalavida.ch
 aguaplast.ch
 aguapura.ch
@@ -5895,7 +5895,6 @@ agwheels.ch
 agwo.ch
 agwohnen.ch
 agwonders.ch
-agworks.ch
 agwsb.ch
 agwua.ch
 agx.ch

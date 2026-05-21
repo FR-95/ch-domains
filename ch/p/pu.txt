@@ -41,7 +41,6 @@ pub-enseignes.ch
 pub-escape.ch
 pub-fiction.ch
 pub-flumserberg.ch
-pub-gastro.ch
 pub-gurmels.ch
 pub-interlaken.ch
 pub-laupen.ch
@@ -390,6 +389,7 @@ publicgate.ch
 publicgood.ch
 publicgovernance.ch
 publicgroup.ch
+publich.ch
 publichealth.ch
 publichealthcg.ch
 publichealthdoctors.ch
@@ -2223,7 +2223,6 @@ pumpclub.ch
 pumpe-direkt.ch
 pumpe.ch
 pumped.ch
-pumpedair.ch
 pumpelack.ch
 pumpelpitz.ch
 pumpen-3s.ch
@@ -3474,7 +3473,6 @@ purcrue.ch
 purdecoration.ch
 purdesign.ch
 purdk.ch
-purdouceur.ch
 purdu.ch
 purdue.ch
 purduroc-swiss.ch
@@ -4087,6 +4085,7 @@ purejoule.ch
 purejoy.ch
 purejoyevent.ch
 purejoyevents.ch
+pureju.ch
 purejump.ch
 purekashmir.ch
 purekeys.ch
@@ -5178,7 +5177,6 @@ purzeli.ch
 purzelifyable.ch
 purzelnest.ch
 purzels.ch
-purzelschloss.ch
 purzeltanz.ch
 purzelwald.ch
 purzelwurzel.ch
@@ -5956,7 +5954,6 @@ puzzle-3d.ch
 puzzle-atelier.ch
 puzzle-challenge.ch
 puzzle-coaching.ch
-puzzle-concept.ch
 puzzle-days.ch
 puzzle-design.ch
 puzzle-ecke.ch

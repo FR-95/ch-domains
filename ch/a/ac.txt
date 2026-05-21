@@ -1181,6 +1181,7 @@ accaputo.ch
 accar.ch
 accar24.ch
 accarda.ch
+accardi-solutions.ch
 accardi-tec.ch
 accardi.ch
 accardisolutions.ch
@@ -1517,6 +1518,7 @@ accessiway.ch
 accesskey24.ch
 accessmanagement.ch
 accessmgmt.ch
+accessmgr.ch
 accessmigration.ch
 accessmobility.ch
 accessmode.ch
@@ -5693,14 +5695,19 @@ acta-ch.ch
 acta-conseil.ch
 acta-conseils.ch
 acta-consultants.ch
+acta-etudes.ch
 acta-facta.ch
+acta-flow.ch
 acta-ge.ch
+acta-group.ch
 acta-ing.ch
 acta-libre.ch
 acta-notaire.ch
 acta-notaires.ch
 acta-nova.ch
+acta-pilote.ch
 acta-service.ch
+acta-studio.ch
 acta-ticino.ch
 acta-treuhand.ch
 acta.ch

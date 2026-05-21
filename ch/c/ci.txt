@@ -978,6 +978,7 @@ cifas.ch
 cifasa.ch
 cifc-ge.ch
 cifc-geneve.ch
+cifc-grandchasseral.ch
 cifc-jb.ch
 cifc-ju.ch
 cifc-ne.ch
@@ -3732,6 +3733,7 @@ cis-research.ch
 cis-solettese.ch
 cis-sugiez.ch
 cis-supervision.ch
+cis-swiss.ch
 cis-tournoi-padel.ch
 cis.ch
 cisa-geneva.ch
@@ -4728,6 +4730,7 @@ city-pizzeria.ch
 city-plaza.ch
 city-podologie-luzern.ch
 city-podologie.ch
+city-poller.ch
 city-pop.ch
 city-post.ch
 city-press.ch
@@ -5108,7 +5111,6 @@ cityfilter.ch
 cityfinder.ch
 cityfit.ch
 cityfitness.ch
-cityflat.ch
 cityflats.ch
 cityflirt.ch
 cityflitzer.ch
@@ -5985,7 +5987,6 @@ civitillo.ch
 civitta.ch
 civity.ch
 civiva.ch
-civivo.ch
 civix.ch
 civnet.ch
 civo.ch

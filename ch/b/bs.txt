@@ -55,6 +55,7 @@ bs-c.ch
 bs-card-service.ch
 bs-carstyling.ch
 bs-cbd.ch
+bs-centralis.ch
 bs-cigars.ch
 bs-co.ch
 bs-coach.ch
@@ -465,6 +466,7 @@ bscempuriabrava.ch
 bscene.ch
 bscenearchiv.ch
 bscengel.ch
+bscentralis.ch
 bscf.ch
 bscg-handball.ch
 bscg.ch

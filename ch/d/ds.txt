@@ -967,6 +967,7 @@ dspt.ch
 dsptalumis.ch
 dsptoitures.ch
 dsptransports.ch
+dsq.ch
 dsqr.ch
 dsquare.ch
 dsquared-tm.ch

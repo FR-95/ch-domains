@@ -2120,7 +2120,6 @@ myacdg.ch
 myacertiel.ch
 myacht.ch
 myacker.ch
-myacoaching.ch
 myactilife.ch
 myactilive.ch
 myactive.ch
@@ -3966,6 +3965,7 @@ mycompi.ch
 mycomplaint.ch
 mycomplemed.ch
 mycompliance.ch
+mycompose.ch
 mycompta.ch
 mycompu.ch
 mycomputer.ch
@@ -6174,6 +6174,7 @@ myholisticlife.ch
 myhollister.ch
 myhologram.ch
 myholyplace.ch
+myholytowel.ch
 myholz.ch
 myholzland.ch
 myhome-3963.ch
@@ -7182,7 +7183,6 @@ mylife-coach.ch
 mylife-diabetescare.ch
 mylife-digital.ch
 mylife-direct.ch
-mylife-nutrition.ch
 mylife-online.ch
 mylife.ch
 mylife24.ch
@@ -7207,7 +7207,6 @@ mylifematters.ch
 mylifemybreath.ch
 mylifemyrules.ch
 mylifemysmile.ch
-mylifenutrition.ch
 mylifephotos.ch
 mylifeplan-academy.ch
 mylifeplan-center.ch
@@ -7623,6 +7622,7 @@ mymarketing.ch
 mymarketplace.ch
 mymarketplus.ch
 mymarkets.ch
+mymarketzh.ch
 mymarkt.ch
 mymarktforschung.ch
 mymarrakech.ch
@@ -9581,6 +9581,7 @@ myreviews.ch
 myrevision.ch
 myrevita.ch
 myrevo.ch
+myrevoks.ch
 myrevyve.ch
 myrewaco.ch
 myreward.ch
@@ -10461,6 +10462,7 @@ mysocialengagement.ch
 mysocialmediamentor.ch
 mysocialnetworks.ch
 mysocialstart.ch
+mysociete.ch
 mysociety.ch
 mysockdesign.ch
 mysocken.ch
@@ -10875,7 +10877,6 @@ mysticalpix.ch
 mysticamazonianjourneys.ch
 mysticangel.ch
 mysticarium.ch
-mysticaura.ch
 mysticcinema.ch
 mysticdog-accessories.ch
 mysticflow.ch
@@ -10923,6 +10924,7 @@ mystik.ch
 mystika.ch
 mystikafestival.ch
 mystikdesweines.ch
+mystikerin.ch
 mystikos.ch
 mystikraft.ch
 mystikschweiz.ch
@@ -12653,7 +12655,6 @@ mywomen.ch
 mywomens.ch
 mywomo.ch
 mywonderland.ch
-mywonderworld.ch
 mywoocommerce.ch
 mywood.ch
 mywoodin.ch

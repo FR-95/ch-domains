@@ -824,6 +824,7 @@ pearl-living.ch
 pearl-nails.ch
 pearl-online.ch
 pearl-outdoor.ch
+pearl-outlet.ch
 pearl-pedergnana.ch
 pearl-permanent-beauty.ch
 pearl-schweiz.ch
@@ -912,7 +913,6 @@ pearlpedergnana.ch
 pearlpermanent.ch
 pearlpolishswiss.ch
 pearlpure.ch
-pearlrealestate.ch
 pearlriver.ch
 pearlriverhuts.ch
 pearls-estates.ch
@@ -4343,7 +4343,6 @@ pensionbugatti.ch
 pensioncanine.ch
 pensioncare.ch
 pensionclub.ch
-pensioncockpit.ch
 pensioncompare.ch
 pensionconsulting.ch
 pensionda.ch
@@ -4641,7 +4640,6 @@ pensiontech.ch
 pensiontools.ch
 pensiontracing.ch
 pensiontracker.ch
-pensionview.ch
 pensionzihlmatt.ch
 pensionzone.ch
 pensionzurheimat.ch
@@ -5516,7 +5514,6 @@ peppachicken.ch
 peppadew.ch
 peppapig.ch
 peppastrasser.ch
-peppaward.ch
 peppcorn.ch
 peppe-naty.ch
 peppe-pizza.ch
@@ -8924,6 +8921,7 @@ pernodricardswiss.ch
 pernoire.ch
 pernollet.ch
 pernoquet.ch
+pernot.ch
 pernotto.ch
 pernoudmarche.ch
 pernova.ch
@@ -9088,6 +9086,7 @@ perr-gent.ch
 perr.ch
 perr1.ch
 perra.ch
+perrac.ch
 perraire.ch
 perramilano.ch
 perramond.ch
@@ -10498,15 +10497,12 @@ personaltraining-burgdorf.ch
 personaltraining-conny-moveon.ch
 personaltraining-ds.ch
 personaltraining-eglisau.ch
-personaltraining-ermatingen.ch
 personaltraining-feusisberg.ch
-personaltraining-frauenfeld.ch
 personaltraining-freienbach.ch
 personaltraining-geneve.ch
 personaltraining-graber.ch
 personaltraining-jh.ch
 personaltraining-jk.ch
-personaltraining-kreuzlingen.ch
 personaltraining-lausanne.ch
 personaltraining-lounge.ch
 personaltraining-luzern.ch
@@ -10516,17 +10512,12 @@ personaltraining-men.ch
 personaltraining-moveon-kriens.ch
 personaltraining-moveon.ch
 personaltraining-nr.ch
-personaltraining-opfikon.ch
 personaltraining-ostschweiz.ch
 personaltraining-richterswil.ch
 personaltraining-sarganserland.ch
-personaltraining-schaffhausen.ch
 personaltraining-schindellegi.ch
 personaltraining-schweiz.ch
 personaltraining-selina.ch
-personaltraining-steckborn.ch
-personaltraining-stgallen.ch
-personaltraining-uster.ch
 personaltraining-vevey.ch
 personaltraining-waedenswil.ch
 personaltraining-wallis.ch
@@ -11747,7 +11738,6 @@ petales-osiris.ch
 petales-rouges.ch
 petalesdabeilles.ch
 petali.ch
-petalia.ch
 petalidicerabycri.ch
 petalidiriso.ch
 petalidirosa.ch
@@ -13560,6 +13550,7 @@ petit-jardin.ch
 petit-lac.ch
 petit-lancy.ch
 petit-levage.ch
+petit-litige.ch
 petit-lucelle.ch
 petit-luxe.ch
 petit-marais.ch
@@ -13995,6 +13986,7 @@ petits-fruits.ch
 petits-gourmands.ch
 petits-grains.ch
 petits-jobs.ch
+petits-litiges.ch
 petits-maitres.ch
 petits-messages.ch
 petits-pas.ch

@@ -83,7 +83,6 @@ ab-edition.ch
 ab-elektrotechnik.ch
 ab-energy.ch
 ab-etancheite.ch
-ab-express.ch
 ab-face-body-kosmetik.ch
 ab-facilityservice.ch
 ab-fassaden.ch
@@ -4292,6 +4291,7 @@ abnehmpille.ch
 abnehmpillen.ch
 abnehmprogramm.ch
 abnehmspritze.ch
+abnehmspritzen.ch
 abnehmstudio.ch
 abnehmtabletten.ch
 abnehmtrainer.ch
@@ -4315,6 +4315,7 @@ abnml.ch
 abnnden-urlaub.ch
 abnndenurlaub.ch
 abnoba.ch
+abnocto.ch
 abnomaly.ch
 abnorm-moebel.ch
 abnorm.ch
@@ -6057,6 +6058,7 @@ abspecken.ch
 absperrarmatur.ch
 absperrarmaturen.ch
 absperrband-warnband.ch
+absperrband.ch
 absperrblase.ch
 absperren-basel.ch
 absperren-bern.ch
@@ -6148,6 +6150,7 @@ abstimmungs-parolen.ch
 abstimmungsbarometerapp.ch
 abstimmungsbeobachterschweiz.ch
 abstimmungsbier.ch
+abstimmungscheck.ch
 abstimmungschweiz.ch
 abstimmungscouvert.ch
 abstimmungscouverts.ch

@@ -285,7 +285,6 @@ headsforbrands.ch
 headshape.ch
 headshaper.ch
 headshirt.ch
-headshop-delivery.ch
 headshop-discount.ch
 headshop-one.ch
 headshop-schweiz.ch
@@ -2845,7 +2844,6 @@ hebammeanouk.ch
 hebammeathome.ch
 hebammebarbara.ch
 hebammebasel.ch
-hebammebeffa.ch
 hebammebern.ch
 hebammebianca.ch
 hebammebianka.ch
@@ -3134,7 +3132,6 @@ hebammereilanker.ch
 hebammeria.ch
 hebammerie.ch
 hebammeruum.ch
-hebammesabrina.ch
 hebammesalome.ch
 hebammesamira.ch
 hebammesarah.ch
@@ -11764,7 +11761,6 @@ helplinedfae.ch
 helplineeda.ch
 helplinefdfa.ch
 helplinehandicap.ch
-helplinepsy.ch
 helpling.ch
 helplink.ch
 helplio.ch
@@ -12849,7 +12845,6 @@ helvetic-algo.ch
 helvetic-alphorn.ch
 helvetic-archives.ch
 helvetic-assistance.ch
-helvetic-axe-throwing.ch
 helvetic-bank.ch
 helvetic-banking.ch
 helvetic-barbeque.ch
@@ -13218,7 +13213,6 @@ helveticavacuum.ch
 helveticavocats.ch
 helveticaweb-solutions.ch
 helveticaweb.ch
-helveticaxethrowing.ch
 helveticbackcountry.ch
 helveticbaits.ch
 helveticbank.ch
@@ -13825,6 +13819,7 @@ helvex-ai.ch
 helvex.ch
 helvexa-agency.ch
 helvexa.ch
+helvexcellence.ch
 helvexia.ch
 helvexim.ch
 helvexis.ch
@@ -14623,6 +14618,7 @@ henggarterrevolution.ch
 henggarterspargeln.ch
 henggarterweine.ch
 henggeler-naturgaerten.ch
+henggeler-naturgarten.ch
 henggeler-partner.ch
 henggeler.ch
 henggelercommerce.ch
@@ -15372,7 +15368,6 @@ heppenstall.ch
 heppermis.ch
 heppfotografie.ch
 heppgold.ch
-hepphfr-reverence.ch
 heppi.ch
 heppinn.ch
 heppler.ch
@@ -16051,6 +16046,7 @@ herbstlaufwila.ch
 herbstlegende.ch
 herbstlektuere.ch
 herbstlesung.ch
+herbstli.ch
 herbstmaert-heiliggeist.ch
 herbstmaert-woelflinswil.ch
 herbstmaert.ch

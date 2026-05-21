@@ -674,7 +674,6 @@ race-world.ch
 race-x.ch
 race.ch
 race2win.ch
-race2zerocarbon.ch
 race4ace.ch
 race4swiss.ch
 raceacademy.ch
@@ -796,6 +795,7 @@ racerbuddy.ch
 racerdip-shop.ch
 racerep.ch
 racerepublic.ch
+raceresult-timing.ch
 raceresult.ch
 racerfish.ch
 raceria.ch
@@ -2169,7 +2169,9 @@ radio-istanbul.ch
 radio-james.ch
 radio-js.ch
 radio-jukebox.ch
+radio-kanal-k.ch
 radio-kanal.ch
+radio-kanalk.ch
 radio-kessler.ch
 radio-lac.ch
 radio-laden.ch
@@ -7734,6 +7736,7 @@ rammount.ch
 rammounts.ch
 ramms.ch
 rammschutz-kunststoff.ch
+rammschutz-produkte.ch
 rammschutz.ch
 rammschutz24.ch
 rammschutzshop.ch
@@ -7874,6 +7877,7 @@ ramonaprojer.ch
 ramonarickli.ch
 ramonaronner.ch
 ramonaroppel.ch
+ramonarosian.ch
 ramonart.ch
 ramonas-blachenwelt.ch
 ramonas-fusspflege.ch
@@ -8404,6 +8408,7 @@ ranchcoach.ch
 ranchduflamy.ch
 rancheiro.ch
 rancher.ch
+rancherbar.ch
 ranchers.ch
 ranchesperanza.ch
 ranchforyou.ch
@@ -10672,6 +10677,7 @@ rascal-bikes.ch
 rascale.ch
 rascals.ch
 rascapital.ch
+rasch-engineering.ch
 rasch-gartenbau.ch
 rasch.ch
 raschag.ch
@@ -12357,6 +12363,7 @@ raum-stark.ch
 raum-struktur.ch
 raum-styling.ch
 raum-suche.ch
+raum-sursee.ch
 raum-teiler.ch
 raum-traum.ch
 raum-trend.ch
@@ -12721,6 +12728,7 @@ raumfuerdeinenerfolg.ch
 raumfuerdeinsein.ch
 raumfuerdi.ch
 raumfuerdialog.ch
+raumfuerdialoge.ch
 raumfuerdich-begleitet.ch
 raumfuerdich-ganzheitlich.ch
 raumfuerdich.ch
@@ -12779,6 +12787,7 @@ raumfuertanzundtherapie.ch
 raumfuertee.ch
 raumfuertherapie.ch
 raumfuertrauer.ch
+raumfuerveraenderung.ch
 raumfuerverbindung.ch
 raumfuerwandel.ch
 raumfuerwandelundentwicklung.ch
@@ -13065,6 +13074,7 @@ raumprojekt.ch
 raumprozesse.ch
 raumpsychologie.ch
 raumpunkt.ch
+raumpur.ch
 raumquadrat.ch
 raumquell.ch
 raumquelle.ch
@@ -14515,6 +14525,7 @@ razdesign.ch
 raze-cat.ch
 raze-gt.ch
 raze.ch
+razed.ch
 razen.ch
 razer.ch
 razerfree.ch

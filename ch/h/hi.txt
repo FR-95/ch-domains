@@ -199,7 +199,6 @@ hiatus-arch.ch
 hiatus-escape.ch
 hiatus.ch
 hiax.ch
-hib-carrosserie.ch
 hib-solutions.ch
 hib-tech.ch
 hib.ch
@@ -1604,7 +1603,6 @@ hightimesmusik.ch
 hightitude.ch
 hightlandway.ch
 hightou.ch
-hightouch.ch
 hightower.ch
 hightpro.ch
 hightrade.ch
@@ -2219,6 +2217,7 @@ hildit.ch
 hildiweb.ch
 hilds.ch
 hildy.ch
+hilec.ch
 hiler-metallbau.ch
 hilevel.ch
 hilf-auch-du.ch
@@ -3166,7 +3165,6 @@ himmelsleiter.ch
 himmelsleitere.ch
 himmelsleiterli.ch
 himmelslicht.ch
-himmelsmensch.ch
 himmelsnachrichten.ch
 himmelsobjekte.ch
 himmelsperlen.ch
@@ -4164,7 +4162,6 @@ hire-sacha.ch
 hire-x.ch
 hire.ch
 hire2retire.ch
-hire4health.ch
 hire4you.ch
 hireable.ch
 hireablecraftsman.ch
@@ -5139,6 +5136,7 @@ hispeef.ch
 hispin-casino.ch
 hispin.ch
 hispincasino.ch
+hispins.ch
 hispmo.ch
 hispoon.ch
 hisport.ch
@@ -6053,6 +6051,7 @@ hivehub.ch
 hiveimmo.ch
 hiveinvest.ch
 hivelab.ch
+hivelabs.ch
 hivelife.ch
 hivelo.ch
 hivelocity.ch

@@ -336,7 +336,6 @@ pharbclex.ch
 pharc.ch
 pharca.ch
 pharch.ch
-pharcom.ch
 pharcons.ch
 pharconswiss.ch
 pharcoswiss.ch
@@ -1922,7 +1921,6 @@ phenotech.ch
 phenotype.ch
 phenovox.ch
 phentermine.ch
-phenthaimassage.ch
 phenum.ch
 phenylcetonurie.ch
 phenyx.ch
@@ -2468,6 +2466,7 @@ philipp-bachmann.ch
 philipp-breitenfeld.ch
 philipp-bruegger.ch
 philipp-brugger.ch
+philipp-brunner.ch
 philipp-buechner.ch
 philipp-buergi.ch
 philipp-buergler.ch
@@ -3094,6 +3093,7 @@ philippodermatt.ch
 philippon.ch
 philippos-ag.ch
 philippos.ch
+philippoz-freres.ch
 philippoz.ch
 philipppeter.ch
 philippplein.ch
@@ -4231,7 +4231,6 @@ phone-cap.ch
 phone-caps.ch
 phone-case.ch
 phone-center.ch
-phone-city.ch
 phone-cloud.ch
 phone-dating.ch
 phone-doc.ch
@@ -4508,6 +4507,7 @@ phoque-accia.ch
 phoque.ch
 phoqueaccia.ch
 phord.ch
+phoreia.ch
 phoreo.ch
 phorest.ch
 phorm.ch
@@ -6505,6 +6505,7 @@ physastromath.ch
 physcom.ch
 physcout.ch
 physdb.ch
+physea.ch
 physeo-bestage.ch
 physeo.ch
 physeos.ch
@@ -7122,6 +7123,7 @@ physio-grueningen.ch
 physio-gruetli.ch
 physio-gschwendstoller.ch
 physio-guerra.ch
+physio-guilhem.ch
 physio-gutenbrunnen.ch
 physio-gutteck.ch
 physio-gym.ch

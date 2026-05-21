@@ -347,7 +347,6 @@ we7.ch
 wea-winterthur.ch
 wea.ch
 weaare.ch
-weaccelerate.ch
 weacceptbitcoin.ch
 weaccuse.ch
 weacol.ch
@@ -496,6 +495,7 @@ wealthmanagementadvisor.ch
 wealthmanagementbanks.ch
 wealthmanagementhub.ch
 wealthmanagementswitzerland.ch
+wealthmanagementwir.ch
 wealthmanagementzuerich.ch
 wealthmanagementzug.ch
 wealthmanagementzurich.ch
@@ -771,6 +771,7 @@ weareprint.ch
 weareprompt.ch
 wearepublic.ch
 weareradium.ch
+wearereal.ch
 weareredmoon.ch
 wearerequired.ch
 wearerh.ch
@@ -897,6 +898,7 @@ weasy-management.ch
 weasy.ch
 weasyfix.ch
 weat.ch
+weatclub.ch
 weather-alarm.ch
 weather-alert.ch
 weather-forecast.ch
@@ -2237,7 +2239,6 @@ webaw-s.ch
 webaward.ch
 webawards.ch
 webaws.ch
-webax.ch
 webaxe-it.ch
 webaxial.ch
 webay.ch
@@ -3625,6 +3626,7 @@ weberfassung.ch
 weberfest.ch
 weberfilm.ch
 weberfloors.ch
+weberflugaufnahmen.ch
 weberfolg.ch
 weberfondue.ch
 weberfood.ch
@@ -8614,6 +8616,7 @@ wegers.ch
 wegerschaffer.ch
 wegertu.ch
 wegeso.ch
+wegesperren.ch
 wegetdigital.ch
 wegetit.ch
 wegetmigraine.ch
@@ -9813,6 +9816,7 @@ weiherschloss.ch
 weiherstrasse-freienwil.ch
 weiherstrasse.ch
 weiherstrasse2.ch
+weiherweg-allschwil.ch
 weiherweg.ch
 weiherweg36.ch
 weiherweid.ch
@@ -13130,7 +13134,6 @@ weitundbreit.ch
 weitundbreitsicht.ch
 weitwanderer.ch
 weitwandern.ch
-weitwandern3.ch
 weitwanderung.ch
 weitwanderwege.ch
 weitweg.ch
@@ -16541,7 +16544,6 @@ weniger-miete.ch
 weniger-schulden.ch
 weniger-stau.ch
 weniger-steuern-fuer-alle.ch
-weniger-steuern.ch
 weniger-stress-mehr-energie.ch
 weniger-trinken.ch
 weniger.ch
@@ -19130,6 +19132,7 @@ werkzeug-profi.ch
 werkzeug-profi24.ch
 werkzeug-profis.ch
 werkzeug-ratgeber.ch
+werkzeug-schweiz.ch
 werkzeug-set.ch
 werkzeug-shop.ch
 werkzeug-treichler.ch
@@ -19779,6 +19782,7 @@ wert-finder.ch
 wert-immobilien-ag.ch
 wert-immobilien.ch
 wert-immobilienag.ch
+wert-institut.ch
 wert-kueche.ch
 wert-leben.ch
 wert-meiner-arbeit.ch
@@ -19978,6 +19982,7 @@ wertimmobilien.ch
 wertimmobilienag.ch
 wertimo.ch
 wertimpuls.ch
+wertinstitut.ch
 wertiq.ch
 wertismus.ch
 wertjaeger.ch
@@ -21395,7 +21400,6 @@ wettbasel.ch
 wettbasis.ch
 wettbet.ch
 wettbewerb-ausflug.ch
-wettbewerb-bodegasborsao.ch
 wettbewerb-bup.ch
 wettbewerb-concours.ch
 wettbewerb-krankenkasse.ch
@@ -22109,7 +22113,7 @@ wexcamera.ch
 wexecutive.ch
 wexim.ch
 wexio.ch
-wexlr8.ch
+wexora.ch
 wexphoto.ch
 wexphotographic.ch
 wexphotovideo.ch

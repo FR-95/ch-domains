@@ -94,6 +94,7 @@ etabetawheels.ch
 etable-gryon.ch
 etableduprey.ch
 etabli-bar.ch
+etabli-ia.ch
 etablirestaurant.ch
 etablissage.ch
 etablissement-yverdon-pestalozzi.ch
@@ -841,6 +842,7 @@ eth-juniors.ch
 eth-life.ch
 eth-match.ch
 eth-ml.ch
+eth-os.ch
 eth-professorinnen-forum.ch
 eth-rat.ch
 eth-store.ch

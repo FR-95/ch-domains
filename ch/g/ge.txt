@@ -2860,7 +2860,6 @@ gefuehlvoll.ch
 gefuehlvollzeitlos.ch
 gefuehrte-wanderung.ch
 gefuehrte-wanderungen.ch
-gefuhlsfreundin.ch
 gefuhrte-wanderung.ch
 gefunden-werden.ch
 gefunden.ch
@@ -3163,6 +3162,7 @@ geheimakte.ch
 geheimat.ch
 geheimdienst.ch
 geheimdienste.ch
+geheime-buchgesellschaft.ch
 geheimeaffaire.ch
 geheimebegierde.ch
 geheimedaten.ch
@@ -3531,7 +3531,6 @@ geigenbau-vonow.ch
 geigenbau.ch
 geigenbauatelier.ch
 geigenbaubern.ch
-geigenbauboner.ch
 geigenbauer-luzern.ch
 geigenbauer.ch
 geigenbauerin.ch
@@ -4521,6 +4520,7 @@ gelatonachmass.ch
 gelatonaturale.ch
 gelatone.ch
 gelatonetwork.ch
+gelatopro.ch
 gelatosapore.ch
 gelatosegreto.ch
 gelatoshop.ch
@@ -6129,6 +6129,7 @@ gemeinsam-zukunft-gestalten.ch
 gemeinsam.ch
 gemeinsam24.ch
 gemeinsamaktiv.ch
+gemeinsamamberg.ch
 gemeinsamamherd.ch
 gemeinsambauen.ch
 gemeinsambauenwirneu.ch
@@ -9177,7 +9178,6 @@ geneve-kinesio.ch
 geneve-kinesiologie.ch
 geneve-la-residence.ch
 geneve-lancer-de-hache.ch
-geneve-lancer-hache.ch
 geneve-laresidence.ch
 geneve-lasik.ch
 geneve-lausanne-informatique.ch
@@ -9409,6 +9409,7 @@ genevedentiste.ch
 genevedermatologie.ch
 genevedesign.ch
 genevedigital.ch
+geneveditnon.ch
 genevedojo.ch
 genevedomicile.ch
 genevedomotique.ch
@@ -9475,7 +9476,6 @@ genevekinesiologie.ch
 genevekinesiotraining.ch
 geneveknx.ch
 genevelancerdehache.ch
-genevelancerhache.ch
 genevelaresidence.ch
 genevelesportes.ch
 genevelibertin.ch
@@ -10288,6 +10288,7 @@ genolino.ch
 genolipidic.ch
 genom.ch
 genoma.ch
+genomanalyse.ch
 genomaudit.ch
 genomberatung.ch
 genomcompliance.ch
@@ -11390,7 +11391,6 @@ genussvollfasten.ch
 genussvollgastro.ch
 genussvollglutenfrei.ch
 genussvollschenken.ch
-genussvollschlank.ch
 genussvomhof.ch
 genusswaelt-toggenburg.ch
 genusswaerts.ch
@@ -12487,14 +12487,12 @@ geometre-morges.ch
 geometre-saviese.ch
 geometre-sion.ch
 geometre-valais.ch
-geometre-vaud.ch
 geometre-vd.ch
 geometre-vetroz.ch
 geometre-vex.ch
 geometre-vs.ch
 geometre-yverdon.ch
 geometre.ch
-geometrebrevete.ch
 geometreofficiel.ch
 geometres-arbaz.ch
 geometres-ardon.ch
@@ -12512,10 +12510,7 @@ geometres-vs.ch
 geometres.ch
 geometrescentre.ch
 geometresvalais.ch
-geometreswiss.ch
 geometrevalais.ch
-geometrevaud.ch
-geometrevd.ch
 geometreyverdon.ch
 geometria.ch
 geometric.ch
@@ -13331,7 +13326,6 @@ geoval.ch
 geovan.ch
 geovanta.ch
 geovaud.ch
-geovd.ch
 geovelo.ch
 geovent.ch
 geoverbund-ost.ch
@@ -18569,6 +18563,7 @@ gesundheitsaktie.ch
 gesundheitsaktion-schleiereule.ch
 gesundheitsallee.ch
 gesundheitsanbieter.ch
+gesundheitsanzeiger.ch
 gesundheitsapotheke.ch
 gesundheitsapps.ch
 gesundheitsartikel.ch
@@ -18890,7 +18885,6 @@ gesundheitspersonal.ch
 gesundheitspfad.ch
 gesundheitspflaster.ch
 gesundheitspflege.ch
-gesundheitspflegerin.ch
 gesundheitspiegel.ch
 gesundheitsplan.ch
 gesundheitsplanung.ch
@@ -19287,6 +19281,7 @@ gesundheitsurlaub.ch
 gesundheitsurselva.ch
 gesundheitsverbund.ch
 gesundheitsverein.ch
+gesundheitsvergleich-schweiz.ch
 gesundheitsversand-bs.ch
 gesundheitsversand.ch
 gesundheitsversicherer.ch
@@ -19976,6 +19971,7 @@ getbring.ch
 getbrun.ch
 getbun.ch
 getbutik.ch
+getbuttered.ch
 getbux.ch
 getbyrd.ch
 getc.ch
@@ -20169,7 +20165,6 @@ getfuud.ch
 getg.ch
 getgad.ch
 getgadgets.ch
-getgainsathome.ch
 getgas.ch
 getgeek.ch
 getgenius.ch
@@ -22129,6 +22124,7 @@ gewerbetreuhandag.ch
 gewerbetriengen.ch
 gewerbetv.ch
 gewerbeunion.ch
+gewerbeuznach.ch
 gewerbeverband-affoltern.ch
 gewerbeverband-basel-stadt-geschaeftsbericht-2025.ch
 gewerbeverband-furttal.ch

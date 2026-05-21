@@ -765,6 +765,7 @@ ai-shore.ch
 ai-shorts.ch
 ai-sicherheit.ch
 ai-sight.ch
+ai-signal.ch
 ai-site.ch
 ai-sites.ch
 ai-skills.ch
@@ -5423,7 +5424,6 @@ airr-belt.ch
 airrace.ch
 airracer.ch
 airrbelt.ch
-airrdream.ch
 airred.ch
 airrefund.ch
 airrenouvo.ch
@@ -5508,6 +5508,7 @@ airsix.ch
 airsky.ch
 airsleep-luftbetten.ch
 airsleep.ch
+airsmart.ch
 airsocial.ch
 airsoft-arena.ch
 airsoft-contact.ch
@@ -6197,6 +6198,7 @@ aithon-robotics.ch
 aithongroup.ch
 aithority.ch
 aiti.ch
+aiti4csr.ch
 aiti4welfare.ch
 aitia-erb.ch
 aitia.ch

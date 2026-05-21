@@ -199,7 +199,6 @@ czvakademie.ch
 czvausbildung.ch
 czvbasel.ch
 czvberger.ch
-czvbern.ch
 czvcoach.ch
 czve-pruefung.ch
 czvelearning.ch
@@ -217,7 +216,6 @@ czvprofi.ch
 czvschweiz.ch
 czvsupport.ch
 czvtheorie.ch
-czvthun.ch
 czvtipps.ch
 czvtraining.ch
 czvvergleich.ch

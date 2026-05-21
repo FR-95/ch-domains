@@ -189,7 +189,6 @@ tlot.ch
 tlp-ag.ch
 tlp-customs.ch
 tlp-emmen.ch
-tlp-schweiz.ch
 tlp-shop.ch
 tlp-sm.ch
 tlp-strategie-merger.ch
@@ -203,7 +202,6 @@ tlplus-test.ch
 tlplus.ch
 tlpm.ch
 tlprojects.ch
-tlpschweiz.ch
 tlpth.ch
 tlr-sa.ch
 tlr-techleaseandrent.ch

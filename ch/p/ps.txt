@@ -515,7 +515,6 @@ psalt.ch
 psalz.ch
 psam.ch
 psandelfingen.ch
-psantoele.ch
 psaonline.ch
 psap.ch
 psaparts.ch
@@ -3271,6 +3270,7 @@ psychotherapie-barbara-schuler.ch
 psychotherapie-barbara-streit.ch
 psychotherapie-barroso.ch
 psychotherapie-bartlome.ch
+psychotherapie-bartram.ch
 psychotherapie-basel.ch
 psychotherapie-baselstadt.ch
 psychotherapie-bauer.ch
@@ -4378,6 +4378,7 @@ psygo.ch
 psygrassi.ch
 psygress.ch
 psygruendung.ch
+psyguidance.ch
 psyharmony.ch
 psyhealth.ch
 psyhelp.ch

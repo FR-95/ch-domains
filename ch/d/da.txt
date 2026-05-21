@@ -1487,7 +1487,6 @@ dada.ch
 dada100zuerich2016.ch
 dadaa.ch
 dadaad.ch
-dadaandrocco.ch
 dadaanteportas.ch
 dadabar.ch
 dadachi.ch
@@ -2365,7 +2364,6 @@ daheim-gepflegt.ch
 daheim-gut.ch
 daheim-imheim.ch
 daheim-personaltraining.ch
-daheim-pflegen.ch
 daheim-roggwil.ch
 daheim-sein.ch
 daheim-statt-heim.ch
@@ -2391,7 +2389,6 @@ daheimli.ch
 daheimlich.ch
 daheimnisse.ch
 daheimpersonaltraining.ch
-daheimpflegen.ch
 daheimplus.ch
 daheimsein.ch
 daheimsi.ch
@@ -2745,6 +2742,7 @@ dailygems.ch
 dailygeneralist.ch
 dailygreens.ch
 dailygrind.ch
+dailygrowth.ch
 dailyhabit.ch
 dailyhacks.ch
 dailyhealth.ch
@@ -3717,6 +3715,7 @@ daluapps.ch
 dalubeauty.ch
 daluca-aromisiciliani.ch
 daluca-herzogenbuchsee.ch
+daluca-willisau.ch
 daluca.ch
 dalucas.ch
 dalucashop.ch
@@ -8222,6 +8221,7 @@ danke-apotheker.ch
 danke-basel.ch
 danke-frau-savic.ch
 danke-kunz.ch
+danke-louis.ch
 danke-mama.ch
 danke-musik.ch
 danke-tag.ch
@@ -11411,7 +11411,6 @@ dasbuchhaltungsabo.ch
 dasbuergerheim.ch
 dasbuero.ch
 dasbulletin.ch
-dasbuntehaus.ch
 dasbunteshaus.ch
 dasbureau.ch
 dasbusiness.ch
@@ -11817,6 +11816,7 @@ dashochbett.ch
 dashoer-vademecum.ch
 dashoergeraeteabo.ch
 dashoeschen.ch
+dashofglace.ch
 dasholding.ch
 dashollaendischemoebelhaus.ch
 dasholz.ch
@@ -14611,6 +14611,7 @@ datenmeer.ch
 datenmigration-experte.ch
 datenmigration-schweiz.ch
 datenmigration.ch
+datenmuendig.ch
 datennetze.ch
 datennetzworker.ch
 datenoekosystem.ch
@@ -15867,6 +15868,7 @@ david-lee.ch
 david-leudolph.ch
 david-lienert.ch
 david-lift.ch
+david-lillis.ch
 david-limacher.ch
 david-lopes-silva.ch
 david-loredana.ch

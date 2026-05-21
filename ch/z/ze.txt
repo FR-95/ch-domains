@@ -696,7 +696,6 @@ zehnder-design.ch
 zehnder-elektrotechnik.ch
 zehnder-eriswil.ch
 zehnder-erp.ch
-zehnder-explore.ch
 zehnder-family.ch
 zehnder-finanz.ch
 zehnder-foto.ch
@@ -4233,7 +4232,6 @@ zentrum-fuer-kinderhypnose.ch
 zentrum-fuer-kinderwunsch.ch
 zentrum-fuer-lebendige-nahrung.ch
 zentrum-fuer-lebensenergie.ch
-zentrum-fuer-lebensqualitaet.ch
 zentrum-fuer-plastische-chirurgie-und-dermatologie.ch
 zentrum-fuer-psychotherapie.ch
 zentrum-fuer-radiotherapie.ch
@@ -4515,7 +4513,6 @@ zentrumfuerholz.ch
 zentrumfuerindividuellepsychotherapie.ch
 zentrumfuerlebensenergie.ch
 zentrumfuerlebensfreude.ch
-zentrumfuerlebensqualitaet.ch
 zentrumfuerliterarischegegenwart.ch
 zentrumfuermigrationshilfe.ch
 zentrumfuermusik.ch
@@ -4921,7 +4918,6 @@ zeppelin-familien-startklar.ch
 zeppelin-familien.ch
 zeppelin-hfh.ch
 zeppelin-international.ch
-zeppelin-jlh.ch
 zeppelin-musical.ch
 zeppelin-nt.ch
 zeppelin-project-services.ch

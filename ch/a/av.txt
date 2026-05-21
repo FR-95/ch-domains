@@ -835,7 +835,6 @@ avanzza.ch
 avao.ch
 avaonda.ch
 avap-vd.ch
-avap.ch
 avapartners.ch
 avapersonal.ch
 avapetroleum.ch
@@ -860,6 +859,7 @@ avarealestate.ch
 avarec.ch
 avarell.ch
 avarelstudios.ch
+avareo.ch
 avarexx.ch
 avarfun.ch
 avari-med.ch
@@ -1516,6 +1516,7 @@ avenir-berne.ch
 avenir-biel-bienne.ch
 avenir-biel.ch
 avenir-bilaterales.ch
+avenir-bizness.ch
 avenir-bois.ch
 avenir-business.ch
 avenir-care.ch
@@ -1595,6 +1596,7 @@ avenirbeton.ch
 avenirbetonprodukte.ch
 avenirbiel.ch
 avenirbilaterales.ch
+avenirbizness.ch
 avenirbois.ch
 avenirboisconstruction.ch
 avenirbusiness.ch
@@ -2474,6 +2476,9 @@ aviatorwallet.ch
 aviatorwatch.ch
 aviatrade.ch
 aviatrix-game.ch
+aviatrix.ch
+aviatrixgame.ch
+aviatrixslot.ch
 aviavera.ch
 aviavolt.ch
 aviaxpert.ch
@@ -2896,6 +2901,7 @@ avisonik.ch
 avisonyoung.ch
 avisor.ch
 avisora.ch
+avisoris.ch
 avispa.ch
 avispersonal.ch
 avispilot.ch
@@ -3430,6 +3436,7 @@ avocatdesign.ch
 avocatdf.ch
 avocatdivorce.ch
 avocatdivorcealausanne.ch
+avocatdivorcegeneve.ch
 avocatdivorces.ch
 avocatdroitbail.ch
 avocatdroitdelafamille.ch
@@ -3442,9 +3449,7 @@ avocate-abogada.ch
 avocate-alpesfr.ch
 avocate-denereazluisier.ch
 avocate-divorce-lausanne.ch
-avocate-divorce.ch
 avocate-famille-mediation.ch
-avocate-famille.ch
 avocate-geneve.ch
 avocate-mazou.ch
 avocate-mediation.ch
@@ -4434,7 +4439,6 @@ avyota.ch
 avyra.ch
 avyukt.ch
 avyukta.ch
-avyx-radar.ch
 avyx.ch
 avz-gmbh.ch
 avz.ch

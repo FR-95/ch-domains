@@ -2543,7 +2543,6 @@ wohnpsychologie.ch
 wohnpsychologin.ch
 wohnpunkt-kalchstaetten.ch
 wohnpunkt.ch
-wohnpunktag.ch
 wohnquadrat.ch
 wohnqualitaet-thayngen.ch
 wohnqualitaet.ch
@@ -3156,7 +3155,6 @@ wohnungsfeuchte.ch
 wohnungsfinanzierung.ch
 wohnungsfinanzierungen.ch
 wohnungsfinder.ch
-wohnungsflohmarkt.ch
 wohnungsgenossenschaft.ch
 wohnungshelden.ch
 wohnungsindex.ch
@@ -3786,6 +3784,7 @@ wolf-ulri.ch
 wolf-umzugservice.ch
 wolf-umzugsservice.ch
 wolf-weine.ch
+wolf-werler.ch
 wolf-wolf.ch
 wolf-zuercher.ch
 wolf.ch
@@ -4178,6 +4177,7 @@ wolfpack.ch
 wolfpacks.ch
 wolfpak.ch
 wolfpark.ch
+wolfparty.ch
 wolfpeople.ch
 wolfpeopledevelopment.ch
 wolfplan.ch
@@ -8016,6 +8016,7 @@ workprotect.ch
 workpsw.ch
 workpsy.ch
 workpsychology.ch
+workpulse.ch
 workpush.ch
 workr.ch
 workradar.ch

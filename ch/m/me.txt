@@ -1061,6 +1061,10 @@ mechtig.ch
 mechtildwilli.ch
 mechtop.ch
 mechwaerch.ch
+mechwatt.ch
+mechwattbuilding.ch
+mechwattdesgin.ch
+mechwattindustries.ch
 mechwerk.ch
 mechwizard.ch
 mechwizzard.ch
@@ -1692,7 +1696,6 @@ medalliongroup.ch
 medalme.ch
 medalp.ch
 medalparco.ch
-medalpina.ch
 medalps.ch
 medals.ch
 medaltra.ch
@@ -1980,6 +1983,7 @@ medclinic.ch
 medclip.ch
 medclips.ch
 medcloud.ch
+medcloudgroup.ch
 medcloudsuisse.ch
 medclub-support.ch
 medco-gmbh.ch
@@ -2590,6 +2594,7 @@ medgatezh.ch
 medge.ch
 medgen.ch
 medgeneve.ch
+medgenie.ch
 medgenx.ch
 medgerzen.ch
 medges.ch
@@ -6104,7 +6109,6 @@ medienecho.ch
 medienentwickler.ch
 medienerstellung.ch
 medienerziehungsspiel.ch
-medienevent.ch
 medienexperte.ch
 medienfabrik.ch
 medienfachmann.ch
@@ -8425,6 +8429,7 @@ medmassage-huber.ch
 medmassage-irene.ch
 medmassage-kloten.ch
 medmassage-langnau.ch
+medmassage-laura.ch
 medmassage-lengnau.ch
 medmassage-lenzerheide.ch
 medmassage-levitas.ch
@@ -9272,7 +9277,6 @@ medyoga.ch
 medyoo.ch
 medyor.ch
 medyoucate.ch
-medyros.ch
 medys.ch
 medysoft.ch
 medytech.ch
@@ -9317,7 +9321,6 @@ meedscare.ch
 meee.ch
 meeer.ch
 meeet.ch
-meefit.ch
 meeflow.ch
 meeforms.ch
 meega.ch
@@ -10976,6 +10979,7 @@ mehblau.ch
 mehblaufuerzueri.ch
 mehdi-amhand.ch
 mehdi-haustechnik.ch
+mehdi-posturo.ch
 mehdi.ch
 mehdia.ch
 mehdiamhand.ch
@@ -12297,7 +12301,6 @@ meierhof-muolen.ch
 meierhof-victoria.ch
 meierhof.ch
 meierhofapotheke.ch
-meierhofdavos.ch
 meierhofer-ag.ch
 meierhofer-architektur.ch
 meierhofer-beratung.ch
@@ -13270,6 +13273,7 @@ mein-elektroauto.ch
 mein-elektrovan.ch
 mein-emedo.ch
 mein-emmental.ch
+mein-energiefuchs.ch
 mein-energieraum.ch
 mein-entscheid.ch
 mein-entwicklungsraum.ch
@@ -13703,7 +13707,6 @@ mein-nebeneinkommen.ch
 mein-nepal.ch
 mein-netzwerk.ch
 mein-neuer-camper.ch
-mein-neuer-horizont.ch
 mein-neuer-job.ch
 mein-neues-bad.ch
 mein-neues-dach.ch
@@ -14298,6 +14301,7 @@ meinarztdirekt.ch
 meinarztmail.ch
 meinasendas.ch
 meinasien.ch
+meinassistenz.ch
 meinastrobook.ch
 meinatem.ch
 meinatemraum.ch
@@ -14366,7 +14370,6 @@ meinbastelshop.ch
 meinbau-gmbh.ch
 meinbau.ch
 meinbauanwalt.ch
-meinbauch.ch
 meinbauer.ch
 meinbauernhof.ch
 meinbaugesuch.ch
@@ -15768,7 +15771,6 @@ meineprovision.ch
 meinepsoriasis.ch
 meinepsychologin.ch
 meinepsychotherapiepraxis.ch
-meinepsypraxis.ch
 meinepta.ch
 meineputzfee.ch
 meineputzfrau.ch
@@ -16768,7 +16770,6 @@ meinnetz.ch
 meinnetzakademie.ch
 meinnetzwerk.ch
 meinneuerbroker.ch
-meinneuerhorizont.ch
 meinneuerjob.ch
 meinneuerplan.ch
 meinneuesbad.ch
@@ -17954,6 +17955,7 @@ meisterholzart.ch
 meisterhonig.ch
 meisterimmo.ch
 meisterimmobilien.ch
+meisterin.ch
 meisterinnenklasse.ch
 meisterinnovation.ch
 meisterinstrumente-verleih.ch
@@ -18888,6 +18890,7 @@ melcakes.ch
 melcap.ch
 melcapcoaching.ch
 melcar.ch
+melcarne-peinture.ch
 melcarne.ch
 melch-braente.ch
 melch-schuum.ch
@@ -19174,7 +19177,6 @@ melijoy.ch
 melik-scheurer.ch
 melik-watch.ch
 melik.ch
-melika.ch
 melike.ch
 melikeyoga.ch
 melikwatch.ch
@@ -19459,6 +19461,7 @@ melissazoecastelletti.ch
 melisse-et-vitalite.ch
 melisse.ch
 melissedor.ch
+melissegido-studio.ch
 melisssalashes.ch
 melisssalashespiercing.ch
 meliste.ch
@@ -20264,7 +20267,6 @@ memachines.ch
 memacon.ch
 memade.ch
 memael.ch
-memafotografie.ch
 memago.ch
 memail.ch
 memakesyourclothes.ch
@@ -20979,6 +20981,7 @@ memphys.ch
 memplex.ch
 mempool.ch
 mempro.ch
+memra.ch
 memreg.ch
 memriy.ch
 memry.ch
@@ -22409,7 +22412,6 @@ mental20kmlausanne.ch
 mental2go.ch
 mental4all.ch
 mental4cast.ch
-mental4coaching.ch
 mental4you.ch
 mentalacademy.ch
 mentalagency.ch
@@ -23066,7 +23068,6 @@ mentovia.ch
 mentra-academy.ch
 mentrac.ch
 mentralized-music.ch
-mentrans.ch
 mentras.ch
 mentre.ch
 mentress.ch
@@ -23143,9 +23144,9 @@ menuch.ch
 menuchkids.ch
 menucost.ch
 menucreme.ch
+menudelgiorno.ch
 menudigital.ch
 menudigitale.ch
-menudiscover.ch
 menudo.ch
 menudomicil.ch
 menudujour.ch
@@ -24545,7 +24546,6 @@ mercerie-moesch.ch
 mercerie-onlineshop.ch
 mercerie-schweiz.ch
 mercerie-shop.ch
-mercerie-tandem.ch
 mercerie.ch
 mercerieonlineshop.ch
 mercerieschweiz.ch
@@ -25296,6 +25296,7 @@ merinox.ch
 merinta-firefly.ch
 merion.ch
 merional.ch
+meriox.ch
 merioz.ch
 merireinigung.ch
 meris-bioedilizia.ch
@@ -31911,6 +31912,7 @@ meuschke.ch
 meuse-office.ch
 meuse.ch
 meusel.ch
+meusforma.ch
 meusi.ch
 meuss.ch
 meusy.ch

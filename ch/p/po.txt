@@ -157,6 +157,7 @@ pocket-wealth.ch
 pocket-wear.ch
 pocket-web.ch
 pocket.ch
+pocketa.ch
 pocketalk.ch
 pocketapp.ch
 pocketashtray.ch
@@ -968,7 +969,6 @@ podologiegabrielaheiniger.ch
 podologiegafner.ch
 podologiegeneve.ch
 podologiegg.ch
-podologiegie-ast.ch
 podologiegiessenturm.ch
 podologiegschwind.ch
 podologiehagen.ch
@@ -2175,7 +2175,6 @@ pokebulk.ch
 pokecado.ch
 pokecapsule.ch
 pokecard.ch
-pokecards.ch
 pokecenter.ch
 pokecentershop.ch
 pokecity.ch
@@ -5301,7 +5300,6 @@ polsterwerkstatt-staub.ch
 polsterwerkstatt.ch
 polsterwerkstattstaub.ch
 polsterxxl.ch
-polsuisse.ch
 polswiss.ch
 polt-lutsenko.ch
 polt.ch
@@ -6876,7 +6874,6 @@ ponomarev.ch
 ponomarov.ch
 ponos.ch
 ponosponos.ch
-ponponlumineux.ch
 ponroy.ch
 pons-hospitality.ch
 pons-switzerland.ch
@@ -7211,6 +7208,7 @@ ponyhof-gruenau.ch
 ponyhof-huber.ch
 ponyhof-impark.ch
 ponyhof-kinderferien.ch
+ponyhof-kindergruppe.ch
 ponyhof-kunterbunt.ch
 ponyhof-letzau.ch
 ponyhof-reuenthal.ch
@@ -8253,7 +8251,6 @@ poplon.ch
 poploot-shop.ch
 poploot.ch
 poplop.ch
-poplunch.ch
 popm.ch
 popmag.ch
 popmail.ch
@@ -12527,6 +12524,7 @@ potions-shop.ch
 potions.ch
 potionsandco.ch
 potionsetelixirs.ch
+potionsetsortileges.ch
 potis.ch
 potissimus.ch
 potito.ch

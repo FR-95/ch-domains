@@ -107,7 +107,6 @@ haabundguet.ch
 haabuu.ch
 haabwalser.ch
 haabzh.ch
-haack-solutions-digital.ch
 haack-solutions.ch
 haack.ch
 haacke.ch
@@ -1798,6 +1797,7 @@ habkern24.ch
 habla-ai.ch
 habla-espanol.ch
 habla.ch
+hablaespagnol.ch
 hablaho.ch
 hablahoy.ch
 hablamos-online.ch
@@ -1915,7 +1915,6 @@ haccpforfree.ch
 hace.ch
 haceka.ch
 hacen.ch
-hacer.ch
 hacerdaily.ch
 hacg.ch
 hach-b2b.ch
@@ -7318,6 +7317,7 @@ halloch.ch
 hallochur.ch
 hallocoach.ch
 hallocoiffure.ch
+hallocom.ch
 halloconsultants.ch
 hallocreatives.ch
 hallocrowd.ch
@@ -8910,7 +8910,6 @@ hanayumi-ventures.ch
 hanayumi.ch
 hanayummy.ch
 hanba.ch
-hanbeissi.ch
 hanbekk.ch
 hanbekks.ch
 hanberg.ch
@@ -9267,7 +9266,6 @@ handbandagen.ch
 handbar.ch
 handbb.ch
 handbedruckt.ch
-handbeissi.ch
 handbemalt.ch
 handbeschriftetes.ch
 handbewegung.ch
@@ -9470,7 +9468,6 @@ handels-haus.ch
 handels-inkasso.ch
 handels-marketing.ch
 handels-shop.ch
-handels-spedition.ch
 handels.ch
 handelsagent.ch
 handelsagentur-schild.ch
@@ -10830,6 +10827,8 @@ handwerkeragentur.ch
 handwerkerai.ch
 handwerkeraiagent.ch
 handwerkerallround.ch
+handwerkeranalyticsai.ch
+handwerkeranalyticsgpt.ch
 handwerkeranderegg.ch
 handwerkerapp.ch
 handwerkerapps.ch
@@ -12160,7 +12159,6 @@ hanis-beauty.ch
 hanis.ch
 hanisch-innenarchitektur.ch
 hanisch.ch
-hanischtextil.ch
 hanisfrequenzraum.ch
 hanit.ch
 hanita-beauty.ch
@@ -14108,6 +14106,7 @@ happyaging.ch
 happyagua.ch
 happyai.ch
 happyair.ch
+happyairbag.ch
 happyairbnb.ch
 happyalma.ch
 happyamps.ch
@@ -14244,6 +14243,7 @@ happybutcher.ch
 happybuthungry.ch
 happybutterfly.ch
 happybuy.ch
+happybuzz.ch
 happycaching.ch
 happycactus.ch
 happycalf.ch
@@ -14569,7 +14569,6 @@ happyheart.ch
 happyhearts.ch
 happyheartwedding.ch
 happyhedgehog.ch
-happyheilpraktiker.ch
 happyheim.ch
 happyhelp.ch
 happyhelpers.ch
@@ -18339,7 +18338,6 @@ hasruedihottiger.ch
 hass-abattage.ch
 hass-swiss.ch
 hass.ch
-hass360.ch
 hassabauag.ch
 hassam.ch
 hassan.ch
@@ -18838,7 +18836,6 @@ haueter-it.ch
 haueter-kran.ch
 haueter-net.ch
 haueter-real-estate.ch
-haueter-steinpflege.ch
 haueter.ch
 haueterc.ch
 haueterdestillate.ch
@@ -19846,6 +19843,7 @@ hausaerztezuerich.ch
 hausaerztin-akupunktur.ch
 hausaerztin-witikon.ch
 hausaerztin.ch
+hausaerztinnen-thun.ch
 hausaerztinrupp.ch
 hausafrika.ch
 hausag.ch
@@ -22636,7 +22634,6 @@ hauswartungenplus.ch
 hauswartungenspg.ch
 hauswartungleothuerlemann.ch
 hauswartungliste.ch
-hauswartungplus.ch
 hauswartungpro.ch
 hauswartungreinigung.ch
 hauswartungromanshorn.ch
@@ -23177,7 +23174,6 @@ hautfein.ch
 hautflecken.ch
 hautfleckentypen.ch
 hautforschung.ch
-hautfoto.ch
 hautfreunde.ch
 hautfreundli.ch
 hautfreundlich.ch

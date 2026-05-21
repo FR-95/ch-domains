@@ -285,6 +285,7 @@ bubblevintage.ch
 bubblewaffle-foodtruck.ch
 bubblewaffle.ch
 bubblewash.ch
+bubblewashblanchisserie.ch
 bubblewashlaundry.ch
 bubbleweb.ch
 bubblewebdesign.ch
@@ -310,7 +311,6 @@ bubblyotheque.ch
 bubblypath.ch
 bubblystudio.ch
 bubblytea.ch
-bubbulyboutique.ch
 bubbulyemporium.ch
 bubbulz.ch
 bubby.ch
@@ -1257,6 +1257,7 @@ buchhaltung-sommer.ch
 buchhaltung-spiez.ch
 buchhaltung-steuern.ch
 buchhaltung-stgallen.ch
+buchhaltung-thalwil.ch
 buchhaltung-thun.ch
 buchhaltung-und-services.ch
 buchhaltung-und-steuern.ch
@@ -1302,7 +1303,6 @@ buchhaltungkrypto.ch
 buchhaltungluzern.ch
 buchhaltungmitlucia.ch
 buchhaltungnachmass.ch
-buchhaltungoje.ch
 buchhaltungonline.ch
 buchhaltungostschweiz.ch
 buchhaltungplus.ch
@@ -4408,6 +4408,7 @@ buerger-muenchenstein.ch
 buerger-notfunk.ch
 buerger-notruf.ch
 buerger-partei.ch
+buerger-pennella.ch
 buerger-rorschach.ch
 buerger-zugang.ch
 buergerallianz.ch
@@ -6114,6 +6115,7 @@ buetzzwerge.ch
 bueumadruck.ch
 bueva.ch
 buevetta.ch
+buevette.ch
 buevsg.ch
 buewa-lotto.ch
 buewa.ch
@@ -7407,7 +7409,6 @@ bullbreath.ch
 bullburger.ch
 bullburner.ch
 bullcherie.ch
-bullcity.ch
 bullcoin.ch
 bullde.ch
 bulldesign.ch
@@ -8365,6 +8366,8 @@ bundnerladali.ch
 bundnerrigi.ch
 bundnertalk.ch
 bundnertuch.ch
+bundnis-fr.ch
+bundnis-fribourg.ch
 bundo.ch
 bundp.ch
 bundpartner-news.ch
@@ -11713,7 +11716,6 @@ busetti.ch
 busewa.ch
 busexpress.ch
 busfabrik.ch
-busfahren.ch
 busfahrer-jobs.ch
 busfahrer.ch
 busfahrerdesjahres2023.ch
@@ -12524,6 +12526,8 @@ businessanalysis.ch
 businessanalyst.ch
 businessanalytics.ch
 businessanalyticsagenda.ch
+businessanalyticsai.ch
+businessanalyticsgpt.ch
 businessanalyze.ch
 businessandfriends.ch
 businessandit.ch
@@ -13306,6 +13310,7 @@ businessradar.ch
 businessrail.ch
 businessrating.ch
 businessraum-olten.ch
+businessraum-sursee.ch
 businessrea.ch
 businessrebel.ch
 businessrebels.ch
@@ -13570,6 +13575,7 @@ busnitch.ch
 buso.ch
 busoberthurgau.ch
 busoco.ch
+busofhope.ch
 busol.ch
 busold.ch
 busoldtimer.ch
@@ -14715,6 +14721,7 @@ buy-a-bike.ch
 buy-aid.ch
 buy-and-build.ch
 buy-and-sell.ch
+buy-art-online.ch
 buy-bernina.ch
 buy-best.ch
 buy-bitcoin.ch

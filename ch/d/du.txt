@@ -2795,6 +2795,7 @@ dungeons.ch
 dungeonsanddragons.ch
 dungeonsdragonsderfilm.ch
 dunger.ch
+dunghanoi.ch
 dunghi.ch
 dungito-hr.ch
 dungito.ch
@@ -3901,6 +3902,7 @@ durieux.ch
 durig.ch
 durigbois.ch
 durighello.ch
+durikovi.ch
 durimmo.ch
 durimshala.ch
 durin-reinigungen.ch
@@ -4161,7 +4163,6 @@ duscharmaturen.ch
 duschaust.ch
 duschbad.ch
 duschbadag.ch
-duschblock.ch
 duschboden.ch
 duschbox.ch
 duschbrause-co2.ch

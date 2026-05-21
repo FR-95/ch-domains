@@ -1965,6 +1965,7 @@ xn--architekturbrogrnden-0ece.ch
 xn--architekturbroholinger-3lc.ch
 xn--architekturbros-bwb.ch
 xn--architekturbrowalder-0ec.ch
+xn--architekturfotograf-graubnden-9bd.ch
 xn--architekturgesprche-vwb.ch
 xn--architekturkonomie-n3b.ch
 xn--architekturlthi-bwb.ch
@@ -3528,7 +3529,6 @@ xn--baumfller-z2a.ch
 xn--baumfllspezialist-uqb.ch
 xn--baumfllung-u5a.ch
 xn--baumfllungen-kcb.ch
-xn--baumgarten-kttigen-x6b.ch
 xn--baumgarten-zrich-hngg-yec5k.ch
 xn--baumgartenweg-klliken-vec.ch
 xn--baumgartner-bcher-f3b.ch
@@ -8216,6 +8216,7 @@ xn--brsen-coach-rfb.ch
 xn--brsen-guru-ecb.ch
 xn--brsen-jua.ch
 xn--brsen-talk-ecb.ch
+xn--brsenaffe-07a.ch
 xn--brsenagentur-4ib.ch
 xn--brsenakademie-imb.ch
 xn--brsenalltag-rfb.ch
@@ -8932,6 +8933,7 @@ xn--buuremusig-gilgebrg-wwb.ch
 xn--buureschblig-klb.ch
 xn--buzzer-glcksrad-7vb.ch
 xn--bvetta-3ya.ch
+xn--bvette-3ya.ch
 xn--bvg-rhywlle-s8a.ch
 xn--bvgausknfte-zhb.ch
 xn--bvszrich-95a.ch
@@ -11059,6 +11061,7 @@ xn--crte-du-plan-peb.ch
 xn--crtin-csa.ch
 xn--cryosphre-63a.ch
 xn--crypto-genve-6db.ch
+xn--crypto-vermgensberatung-ilc.ch
 xn--crypto-whrungen-7kb.ch
 xn--cryptobrse-kcb.ch
 xn--cryptowhrung-mcb.ch
@@ -11386,6 +11389,7 @@ xn--datenbernahme-0ob.ch
 xn--datenbertragung-3vb.ch
 xn--datenkosystem-mmb.ch
 xn--datenlschen-wfb.ch
+xn--datenmndig-feb.ch
 xn--datenqualitt-qcb.ch
 xn--datenrettung-zrich-z6b.ch
 xn--datenschtzen-klb.ch
@@ -12092,6 +12096,7 @@ xn--diana-strkle-ncb.ch
 xn--dianacionaldacachaa-nyb.ch
 xn--dianaglck-w9a.ch
 xn--diaphe-fva.ch
+xn--diapropret-k7a.ch
 xn--dibi-dbi-5za.ch
 xn--dibidbi-9wa.ch
 xn--dibidbis-4za.ch
@@ -13063,7 +13068,6 @@ xn--drckergarnitur-hsb.ch
 xn--drckjob-6wa.ch
 xn--drcksack-1za.ch
 xn--drcksack-toitoi-1kb.ch
-xn--drcksak-6wa.ch
 xn--drckscross-r5a.ch
 xn--drcksloch-w2a.ch
 xn--drcktechniker-xob.ch
@@ -13351,7 +13355,6 @@ xn--dtartrage-b4a.ch
 xn--dtatouage-b4a.ch
 xn--dtatouagelaser-bkb.ch
 xn--dtective-b1a.ch
-xn--dtectiveprivpreuvesvrits-bfclid.ch
 xn--dtendre-bya.ch
 xn--dtraz-bsa.ch
 xn--dts-hoa.ch
@@ -17170,7 +17173,6 @@ xn--fnfvorflug-9db.ch
 xn--fnfvorwahnsinn-gsb.ch
 xn--fnfzehnnullsieben-22b.ch
 xn--fnfzig-3ya.ch
-xn--fnfzigjahrekreuz-jzb.ch
 xn--fngli-gra.ch
 xn--fni-qla.ch
 xn--fnix-5qa.ch
@@ -18625,6 +18627,7 @@ xn--galeriemder-s8a.ch
 xn--galeriet-h1ab.ch
 xn--galexis-rzteservice-nwb.ch
 xn--galgvgel-3za5p.ch
+xn--galhandschin-2eb.ch
 xn--gallati-mbel-djb.ch
 xn--galle-osa.ch
 xn--gallerie-zrich-psb.ch
@@ -21816,7 +21819,6 @@ xn--golkche-q2a.ch
 xn--gologie-gotechnique-bzbi.ch
 xn--gomatique-b4a.ch
 xn--goms-gebudetechnik-stb.ch
-xn--gomtre-5uaf.ch
 xn--gonalo-rodrigues-epb.ch
 xn--gonalorodrigues-gmb.ch
 xn--gonalves-u0a.ch
@@ -25853,6 +25855,7 @@ xn--horgen-kieferorthopdie-j5b.ch
 xn--horizon-hrgert-iib7z.ch
 xn--horizon-plerin-3jb.ch
 xn--horizonhrgerte-hib7z.ch
+xn--horizonsant-lbb.ch
 xn--horizontalbohrgerte-wwb.ch
 xn--horizontgesprch-dlb.ch
 xn--horizontgesprche-7nb.ch
@@ -29343,9 +29346,7 @@ xn--kchenuhren-9db.ch
 xn--kchenumbau-9db.ch
 xn--kchenumbau-luzern-22b.ch
 xn--kchenumbau-zrich-jzbl.ch
-xn--kchenumbau-zuerich-m6b.ch
 xn--kchenumbau-zug-gsb.ch
-xn--kchenumbau-zurich-22b.ch
 xn--kchenumbau24-dlb.ch
 xn--kchenumbauer-dlb.ch
 xn--kchenumbauten-wob.ch
@@ -33679,6 +33680,7 @@ xn--lesthsdumarch-fhbi.ch
 xn--lestotch-f1ad.ch
 xn--lesuccs-7xa.ch
 xn--lesvapeurparc-9ib.ch
+xn--lesvillasdusert-pnb.ch
 xn--letempsretrouv-okb.ch
 xn--letlphoneduvent-dnbb.ch
 xn--leto-cole-f4a.ch
@@ -35501,6 +35503,7 @@ xn--malergeschft-stckli-pwb79a.ch
 xn--malergeschft-stckliknonau-uec50c.ch
 xn--malergeschft-stgallen-f2b.ch
 xn--malergeschft-suozzi-pwb.ch
+xn--malergeschft-supernova-94b.ch
 xn--malergeschft-suter-utb.ch
 xn--malergeschft-utz-4nb.ch
 xn--malergeschft-vonlanthen-47b.ch
@@ -35847,7 +35850,6 @@ xn--martisanitr-u8a.ch
 xn--marty-przision-dib.ch
 xn--martygetrnke-ocb.ch
 xn--marvinschrer-ocb.ch
-xn--marygesundheitandschnheit-isc.ch
 xn--marzilibrcke-llb.ch
 xn--masantmag-g4a.ch
 xn--maschamller-zhb.ch
@@ -41534,7 +41536,6 @@ xn--optikkhnis-feb.ch
 xn--optikvlker-jcb.ch
 xn--optimal-frdern-3pb.ch
 xn--optimal-fttern-osb.ch
-xn--optimus-zubehr-7pb.ch
 xn--optioncarrire-6gb.ch
 xn--optique-sant-meb.ch
 xn--optiquesant-lbb.ch
@@ -42332,7 +42333,6 @@ xn--pdalo-bsa.ch
 xn--pdalos-bva.ch
 xn--pdaudiologie-gcb.ch
 xn--pdf-zusammenfgen-vzb.ch
-xn--pdi-qla.ch
 xn--pdiater-5wa.ch
 xn--pdiatre-bya.ch
 xn--pdiatres-b1a.ch
@@ -44120,6 +44120,7 @@ xn--prmien-schweiz-6hb.ch
 xn--prmien-senken-cfb.ch
 xn--prmien-senken-ja-wnb.ch
 xn--prmien-sparen-cfb.ch
+xn--prmien-vergleichen-mtb.ch
 xn--prmienangebot-cfb.ch
 xn--prmienentlastungs-initiative-6mc.ch
 xn--prmienfinder-hcb.ch
@@ -45173,6 +45174,7 @@ xn--raupenbhne-geb.ch
 xn--raupenbhnen-zhb.ch
 xn--raupenhebebhne-qsb.ch
 xn--raupenhebebhnen-9vb.ch
+xn--rauschbrenbande-6kb.ch
 xn--rausschwrmer-ncb.ch
 xn--ray-cration-gbb.ch
 xn--rayvolthndler-ifb.ch
@@ -49860,6 +49862,7 @@ xn--schnppli-optik-8hb.ch
 xn--schnppli24-t5a.ch
 xn--schnpplibrse-jcb1x.ch
 xn--schnpplijger-jcbf.ch
+xn--schnpplino-t5a.ch
 xn--schnpplioptik-efb.ch
 xn--schnpreis-27a.ch
 xn--schnpse-8wa.ch
@@ -51530,6 +51533,7 @@ xn--shiatsu-homopathie-n3b.ch
 xn--shiatsu-krpertherapie-pec.ch
 xn--shiatsu-zrich-4ob.ch
 xn--shiatsufrtiere-nsb.ch
+xn--shiatsuzrich-klb.ch
 xn--shin-epa.ch
 xn--shirt-sprche-llb.ch
 xn--shisha-knig-yfb.ch
@@ -52578,6 +52582,7 @@ xn--sperisen-weihnachtsbume-f8b.ch
 xn--spermaknigin-bjb.ch
 xn--sperrmll-c6a.ch
 xn--sperrmll-entsorgung-bbc.ch
+xn--sperrstnder-r8a.ch
 xn--spescha-gebudetechnik-g2b.ch
 xn--speutztrckli-klb.ch
 xn--spezialanhnger-fib.ch
@@ -53914,7 +53919,6 @@ xn--stg-rla.ch
 xn--stg-rlaa.ch
 xn--stg-zrich-u9a.ch
 xn--stge-6qa.ch
-xn--stge-moa.ch
 xn--stgenbuck-w2a.ch
 xn--stger-comdist-cfb.ch
 xn--stger-hra.ch
@@ -57837,6 +57841,7 @@ xn--unterlnderbru-gfbg.ch
 xn--untermhle-flaach-ozb.ch
 xn--unternehmen-grnden-z6b.ch
 xn--unternehmengrnden-f3b.ch
+xn--unternehmensberater-zrich-zwc.ch
 xn--unternehmensberatung-fr-kmu-33c.ch
 xn--unternehmensberatung-zrich-k0c.ch
 xn--unternehmensberatungzrich-zwc.ch
@@ -58448,6 +58453,7 @@ xn--vermgensportal-ypb.ch
 xn--vermgensschutz-schweiz-xhc.ch
 xn--vermgenssicherung-2zb.ch
 xn--vermgensspeicher-pwb.ch
+xn--vermgensstrategie-2zb.ch
 xn--vermgensungleichheit-69b.ch
 xn--vermgensverwalter-2zb.ch
 xn--vermgensverwalter-bank-xhc.ch
@@ -62150,7 +62156,6 @@ xn--zentrum-fr-herzdiagnostik-nwc.ch
 xn--zentrum-fr-hundecoaching-3sc.ch
 xn--zentrum-fr-innere-freiheit-6zc.ch
 xn--zentrum-fr-krpergesundheit-nvc8n.ch
-xn--zentrum-fr-lebensqualitt-dcc32d.ch
 xn--zentrum-fr-psychosomatik-basel-dfd.ch
 xn--zentrum-fr-psychotherapie-nwc.ch
 xn--zentrum-fr-roboterchirurgie-q3c.ch
@@ -62181,7 +62186,6 @@ xn--zentrumfrdiefrau-qzb.ch
 xn--zentrumfrhekindheit-ebc.ch
 xn--zentrumfrholz-3ob.ch
 xn--zentrumfrinformatik-dbc.ch
-xn--zentrumfrlebensqualitt-l5b67c.ch
 xn--zentrumfrmagendarm-bern-jpc.ch
 xn--zentrumfrpsychosomatik-zlc.ch
 xn--zentrumfrtiermedizin-wec.ch

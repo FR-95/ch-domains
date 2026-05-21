@@ -120,7 +120,6 @@ road2losangeles.ch
 road2paris.ch
 road2rome.ch
 road2santiago.ch
-road2sport.ch
 road2tokyo.ch
 road2zero.ch
 road42.ch
@@ -1297,7 +1296,6 @@ robin-kosmetik.ch
 robin-laborde.ch
 robin-lenzser.ch
 robin-loosli.ch
-robin-maeder.ch
 robin-meier.ch
 robin-messerli.ch
 robin-michel.ch
@@ -1362,6 +1360,7 @@ robinbusch.ch
 robinbushell.ch
 robincadez.ch
 robincarbon.ch
+robincarnal.ch
 robincarnello.ch
 robincarnes.ch
 robincastro.ch
@@ -9696,6 +9695,7 @@ rollstuhltanz.ch
 rollstuhltarif.ch
 rollstuhltauglich.ch
 rollstuhltaxi--bremgarten.ch
+rollstuhltaxi-aarau.ch
 rollstuhltaxi-aargau.ch
 rollstuhltaxi-brugg.ch
 rollstuhltaxi-dm.ch
@@ -11675,7 +11675,6 @@ ronds-points.ch
 ronds.ch
 rone-immobilien.ch
 rone.ch
-ronedwards.ch
 roneey.ch
 roneimmobilien.ch
 ronel-sports.ch
@@ -11862,6 +11861,7 @@ ronnerventures.ch
 ronngard.ch
 ronnibus.ch
 ronnibuser.ch
+ronnie-hartmann.ch
 ronnie-huerlimann.ch
 ronnie-schenk.ch
 ronnie.ch
@@ -12192,7 +12192,6 @@ rooftopgrill.ch
 rooftophair.ch
 rooftopigloo.ch
 rooftopimmo.ch
-rooftoploft.ch
 rooftoplounge.ch
 rooftopparty.ch
 rooftopreadings.ch
@@ -12949,7 +12948,6 @@ rootserver24.ch
 rootservercheck.ch
 rootserverschweiz.ch
 rootsestates.ch
-rootsfashion.ch
 rootsforvision.ch
 rootsforvisions.ch
 rootsh.ch
@@ -13850,6 +13848,7 @@ rosedigital.ch
 rosedor.ch
 rosedornezunft.ch
 rosedusahara.ch
+rosedvents.ch
 rosee.ch
 roseedazur.ch
 roseergotherapie.ch
@@ -14618,6 +14617,7 @@ rosigezeiten.ch
 rosigiovanni.ch
 rosiheller.ch
 rosilocher.ch
+rosilvia.ch
 rosimerybeauty.ch
 rosin-group.ch
 rosin.ch

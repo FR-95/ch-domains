@@ -653,6 +653,7 @@ la-forge-catholique.ch
 la-forge-d-odal.ch
 la-forge-des-reves.ch
 la-forge-du-grand-pere.ch
+la-forge-restaurant.ch
 la-forge-yverdon.ch
 la-forge.ch
 la-forma.ch
@@ -2209,7 +2210,6 @@ labarca-luzern.ch
 labarca.ch
 labarcablu.ch
 labarcaluzern.ch
-labarcarole.ch
 labarcarolle.ch
 labarena.ch
 labarga.ch
@@ -6874,6 +6874,7 @@ ladolcevitabar.ch
 ladolcevitacreperia.ch
 ladolcevitalausanne.ch
 ladolcevitalugano.ch
+ladolcevitaswitzerland.ch
 ladolcezza.ch
 ladolchatvita.ch
 ladoline.ch
@@ -6952,6 +6953,7 @@ ladune.ch
 ladunedesiloe.ch
 ladung-sichern.ch
 ladungssicherung-shop.ch
+ladungssicherung.ch
 ladungssicherungen.ch
 ladungssicherungskreis.ch
 ladungssicherungskurs.ch
@@ -8104,7 +8106,6 @@ lafermeagachet.ch
 lafermearoulettes.ch
 lafermeauxagrumes.ch
 lafermeauxanes.ch
-lafermebertrand.ch
 lafermebio.ch
 lafermecbd.ch
 lafermecesar.ch
@@ -10436,6 +10437,7 @@ lakehouse.ch
 lakehouseclub.ch
 lakehouseconsulting.ch
 lakehousepadel.ch
+lakehousesociety.ch
 lakehub.ch
 lakeinterlaken.ch
 lakeit.ch
@@ -13411,19 +13413,14 @@ lancelot.ch
 lancelotburwell.ch
 lanceolata.ch
 lancer-de-hache-geneve.ch
-lancer-de-hache-suisse.ch
 lancer-de-hache.ch
 lancer-evolution.ch
-lancer-hache-geneve.ch
 lancer-hache.ch
 lancer.ch
 lancerdehache.ch
 lancerdehachegeneve.ch
-lancerdehachesuisse.ch
 lancerdestrucs.ch
 lancereynolds.ch
-lancerhachegeneve.ch
-lancerhachesuisse.ch
 lancerskincare.ch
 lances.ch
 lanceslink.ch
@@ -21950,7 +21947,6 @@ lastwagenbuch.ch
 lastwagenchauffeur.ch
 lastwagenchauffeure.ch
 lastwagenersatzteile.ch
-lastwagenfahren.ch
 lastwagenfahrer.ch
 lastwagenfahrlehrer.ch
 lastwagenfahrschule-aargau.ch
@@ -22012,6 +22008,7 @@ lasuisseditnon.ch
 lasuisseenfamille.ch
 lasuisseenforme.ch
 lasuisseenmoto.ch
+lasuisseenpelote.ch
 lasuissegourmande.ch
 lasuissegroup.ch
 lasuissehorlogere.ch
@@ -26209,6 +26206,7 @@ lavasuisse.ch
 lavate.ch
 lavatelli.ch
 lavater-selection.ch
+lavater-stiftung.ch
 lavater.ch
 lavater44.ch
 lavaterhaus.ch

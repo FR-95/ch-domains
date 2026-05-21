@@ -919,7 +919,6 @@ ki-workflows.ch
 ki-works.ch
 ki-workshop-schweiz.ch
 ki-workshop.ch
-ki-workshops.ch
 ki-workspace.ch
 ki-world.ch
 ki-x-start.ch
@@ -2609,6 +2608,7 @@ kidyland.ch
 kidylang.ch
 kidylove.ch
 kidys.ch
+kidysit.ch
 kidywolf.ch
 kidz-arena.ch
 kidz-audio.ch
@@ -5294,6 +5294,7 @@ kinder-und-jugendphysiotherapie.ch
 kinder-und-jugendtherapie-zuerich.ch
 kinder-und-jugendtherapie.ch
 kinder-und-jugendtrauerbegleitung.ch
+kinder-und-jugendverein-rickenbach.ch
 kinder-und-ki.ch
 kinder-und-lernen.ch
 kinder-und-rehakompetenz.ch
@@ -7656,7 +7657,6 @@ kindertraumland.ch
 kindertraumpartyinbox.ch
 kindertreff-aha.ch
 kindertreff-arlesheim.ch
-kindertreff-berneck.ch
 kindertreff-miraculix.ch
 kindertreff-muensterlingen.ch
 kindertreff.ch
@@ -10735,7 +10735,6 @@ kioskfinder.ch
 kioskgeorg.ch
 kioskgrosshandel.ch
 kioskgutstrasse162.ch
-kioskhallau.ch
 kioski.ch
 kioskim4.ch
 kioskimvieri.ch
@@ -11684,6 +11683,7 @@ kirchenchor-langendorf.ch
 kirchenchor-langenthal.ch
 kirchenchor-leuggern.ch
 kirchenchor-lyss.ch
+kirchenchor-mr.ch
 kirchenchor-muellheim.ch
 kirchenchor-muensingen.ch
 kirchenchor-murten.ch
@@ -13062,6 +13062,7 @@ kisum.ch
 kisuna.ch
 kisunla.ch
 kisupertag.ch
+kisupervisor.ch
 kisupport.ch
 kiswah.ch
 kiswahili.ch
@@ -13896,7 +13897,6 @@ kitaherzenskind.ch
 kitaheugoemper.ch
 kitahilfe.ch
 kitahinwil.ch
-kitahofzauber.ch
 kitahohmadpark.ch
 kitahort-ragaboge.ch
 kitahorw.ch

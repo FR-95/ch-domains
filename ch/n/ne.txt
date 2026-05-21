@@ -854,6 +854,7 @@ need-sa.ch
 need-step-in.ch
 need-weed.ch
 need-you.ch
+need.ch
 need2dive.ch
 need2see.ch
 need4seed.ch
@@ -939,6 +940,7 @@ needsomemarketing.ch
 needsommer.ch
 needspeed.ch
 needsummer.ch
+needsy.ch
 needtodrive.ch
 needtoknow.ch
 needweed.ch
@@ -1187,7 +1189,6 @@ neftel.ch
 neftenba.ch
 neftenbach.ch
 neftenbach24.ch
-neftenbachcars.ch
 neftenbacher.ch
 nefti-huus.ch
 nefti-shop.ch
@@ -4530,6 +4531,7 @@ nerva.ch
 nervada-shipping.ch
 nervagus.ch
 nerval.ch
+nervalia.ch
 nervana.ch
 nervaxis.ch
 nerve-bikewear.ch
@@ -6214,7 +6216,6 @@ netmri.ch
 netmums.ch
 netmunier.ch
 netn.ch
-netnadif.ch
 netname.ch
 netnames-business.ch
 netnames.ch
@@ -7164,6 +7165,7 @@ netupdate.ch
 netupitant.ch
 netural.ch
 neture.ch
+netureform.ch
 neturio.ch
 neturo.ch
 netuschil.ch
@@ -8984,7 +8986,6 @@ neue-luzerner-medien-ag.ch
 neue-luzerner-zeitung-ag.ch
 neue-luzerner-zeitung.ch
 neue-lz.ch
-neue-maerkte.ch
 neue-maurmer-zeitung.ch
 neue-medien-portal.ch
 neue-medien-schweiz.ch
@@ -10904,7 +10905,6 @@ neurodivergenz-therapie.ch
 neurodivergenz-uri.ch
 neurodivergenz-verstehen.ch
 neurodivergenz.ch
-neurodivergenza.ch
 neurodivergenze.ch
 neurodivergenzia.ch
 neurodivergenzswitzerland.ch
@@ -12717,6 +12717,7 @@ nevsky.ch
 nevst.ch
 nevtone.ch
 nevu.ch
+nevuj-yourforeverbag.ch
 nevuno.ch
 nevura.ch
 nevuro.ch
@@ -12946,6 +12947,7 @@ new-relax.ch
 new-relic.ch
 new-retro-wood.ch
 new-retro.ch
+new-room.ch
 new-saviva-integrale.ch
 new-school-of-it.ch
 new-scim.ch
@@ -14464,7 +14466,6 @@ newslitter.ch
 newsload.ch
 newslocal.ch
 newslog.ch
-newslogix.ch
 newslots.ch
 newsluxurycars.ch
 newsluzern.ch
@@ -15240,6 +15241,7 @@ nexigo.ch
 nexigroup.ch
 nexilan.ch
 nexilis-consulting.ch
+nexilis-immobilier.ch
 nexilis.ch
 nexiliscapital.ch
 nexilon.ch
@@ -15299,7 +15301,6 @@ nexitdata.ch
 nexitera.ch
 nexities.ch
 nexitify.ch
-nexitus.ch
 nexity-agency.ch
 nexium-immobilier.ch
 nexium.ch
@@ -15469,6 +15470,7 @@ nexoris.ch
 nexorissuisse.ch
 nexorium.ch
 nexoriumbit.ch
+nexoriumbitai.ch
 nexoro.ch
 nexorpersonal.ch
 nexorya.ch
@@ -16690,7 +16692,6 @@ nexumagencyswitzerland.ch
 nexumbau.ch
 nexumglobal.ch
 nexumina.ch
-nexumlegal.ch
 nexumpadel.ch
 nexumscience.ch
 nexumverein.ch
@@ -16840,6 +16841,7 @@ nexusavocat.ch
 nexusavocats.ch
 nexusbiosolutions.ch
 nexusbotics.ch
+nexusbrands.ch
 nexuscapital.ch
 nexuscare.ch
 nexuscars.ch

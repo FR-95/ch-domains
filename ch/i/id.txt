@@ -18,6 +18,7 @@ id-baumanagement.ch
 id-bedachungen.ch
 id-berlin.ch
 id-buzz.ch
+id-cam.ch
 id-campus.ch
 id-cash.ch
 id-ch.ch
@@ -2029,7 +2030,6 @@ idlab-geneve.ch
 idlab-support.ch
 idlab-test.ch
 idlab.ch
-idlabtech.ch
 idlag.ch
 idlasolutions.ch
 idlb.ch
@@ -2164,6 +2164,7 @@ idolc.ch
 idolcidipoppy.ch
 idoldna.ch
 idole-studio.ch
+idole.ch
 idoledesjeunes.ch
 idolestudio.ch
 idolight.ch

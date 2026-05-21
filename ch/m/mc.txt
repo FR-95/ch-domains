@@ -290,6 +290,7 @@ mc-wyland.ch
 mc-zen.ch
 mc-zh.ch
 mc-zug-cham.ch
+mc-zug.ch
 mc1.ch
 mc18.ch
 mc19.ch
@@ -614,7 +615,6 @@ mcco.ch
 mccoach.ch
 mccoaching.ch
 mccoiffeur.ch
-mccoiffure-jobs.ch
 mccoiffure.ch
 mccombie.ch
 mccomish.ch
@@ -849,7 +849,6 @@ mcfintech.ch
 mcfire.ch
 mcfish-flyfishing.ch
 mcfish.ch
-mcfit.ch
 mcfit24.ch
 mcfix.ch
 mcfleischag.ch
@@ -1245,6 +1244,7 @@ mcleanonline.ch
 mclee-project.ch
 mclee.ch
 mclegal.ch
+mclement.ch
 mclens.ch
 mcleod.ch
 mcleon.ch
@@ -1410,6 +1410,7 @@ mcnet.ch
 mcneti.ch
 mcnettoyage.ch
 mcneuchatel.ch
+mcneuendorf.ch
 mcni.ch
 mcnick.ch
 mcnicksisto.ch
@@ -1954,4 +1955,5 @@ mczen.ch
 mczi.ch
 mczueri.ch
 mczuerich.ch
+mczug.ch
 mczw.ch

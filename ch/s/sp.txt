@@ -829,6 +829,7 @@ space-spirit.ch
 space-star.ch
 space-station.ch
 space-store.ch
+space-sursee.ch
 space-symposium.ch
 space-t.ch
 space-taxi.ch
@@ -2471,7 +2472,6 @@ spark-property.ch
 spark-sa.ch
 spark-sion.ch
 spark-skills.ch
-spark-solutions.ch
 spark-team.ch
 spark-textil.ch
 spark-up.ch
@@ -4510,6 +4510,7 @@ spectrumstore.ch
 spectrumstudios.ch
 spectrus.ch
 specula.ch
+specular.ch
 speculative-psychology.ch
 speculativefutures.ch
 speculo.ch
@@ -4990,7 +4991,6 @@ speedmodels.ch
 speedmonkeys.ch
 speedmovemarian.ch
 speednames.ch
-speednet.ch
 speednetwork.ch
 speednetworking.ch
 speednight.ch
@@ -6127,6 +6127,7 @@ sperrholzplatten.ch
 sperrholzzentrum.ch
 sperriard.ch
 sperrkantscheiben.ch
+sperrketten.ch
 sperrkonto.ch
 sperrle.ch
 sperrliste.ch
@@ -6135,6 +6136,8 @@ sperrmuell-bern.ch
 sperrmuell-zuerich.ch
 sperrmuell.ch
 sperroud.ch
+sperrpfosten.ch
+sperrschranken.ch
 sperrservice.ch
 sperrstrasse.ch
 sperrstunde.ch
@@ -6199,6 +6202,7 @@ spesen-online.ch
 spesen-software.ch
 spesen.ch
 spesenabrechnung.ch
+spesenagent.ch
 spesenapp.ch
 spesenbeleg.ch
 spesenbot.ch
@@ -7396,7 +7400,11 @@ spieglein-spieglein.ch
 spieglein.ch
 spiegleinspieglein.ch
 spieglerey.ch
+spiegltec-group.ch
+spiegltec-gruppe.ch
 spiegltec.ch
+spiegltecgroup.ch
+spiegltecgruppe.ch
 spieics.ch
 spieker.ch
 spiekermann.ch
@@ -9099,6 +9107,7 @@ spielwegschweiz.ch
 spielweise.ch
 spielwelle.ch
 spielwelt.ch
+spielwelten.ch
 spielweltenfabrik.ch
 spielwerk.ch
 spielwerkplatz.ch
@@ -10246,6 +10255,7 @@ spinslandia.ch
 spinsof-glory.ch
 spinsofglory.ch
 spinsofglorycasino.ch
+spinsofglorycasinos.ch
 spinsofglorych.ch
 spinsole.ch
 spinsoup.ch
@@ -12000,7 +12010,6 @@ spitex-gruenden.ch
 spitex-grueningen.ch
 spitex-gruppe.ch
 spitex-gsund.ch
-spitex-guscha.ch
 spitex-hallau.ch
 spitex-harmony.ch
 spitex-hausen.ch
@@ -17628,6 +17637,7 @@ sportstiming.ch
 sportstimme.ch
 sportstipendium.ch
 sportstipp-pro.ch
+sportstore.ch
 sportstories.ch
 sportstown.ch
 sportstrafrecht.ch

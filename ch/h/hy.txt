@@ -1980,6 +1980,7 @@ hyperstep.ch
 hypersthene.ch
 hyperstition.ch
 hyperstore.ch
+hyperstrong.ch
 hyperstudio.ch
 hyperstuffworks.ch
 hypersuper.ch
@@ -4449,6 +4450,7 @@ hyroxguide.ch
 hyroxgva.ch
 hyroxgym.ch
 hyroxhorgen.ch
+hyroxlausanne.ch
 hyroxme.ch
 hyroxplan.ch
 hyroxplanlesouates.ch
@@ -4645,6 +4647,7 @@ hyva.ch
 hyvarinen.ch
 hyve.ch
 hyvendo.ch
+hyver.ch
 hyveri.ch
 hyvert.ch
 hyvia.ch

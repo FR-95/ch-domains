@@ -100,7 +100,6 @@ ps-ecublens.ch
 ps-education.ch
 ps-egg.ch
 ps-einsiedeln.ch
-ps-elsau.ch
 ps-embra.ch
 ps-embrach.ch
 ps-emotions.ch
@@ -544,7 +543,6 @@ psautomobile.ch
 psaviation.ch
 psawert.ch
 psayent.ch
-psazentrale.ch
 psazurich.ch
 psb-academy.ch
 psb-am.ch
@@ -3879,6 +3877,7 @@ psychotherapie-schweiz-online.ch
 psychotherapie-schweiz.ch
 psychotherapie-schwery.ch
 psychotherapie-schwinger.ch
+psychotherapie-schwob.ch
 psychotherapie-schwyz.ch
 psychotherapie-seeland.ch
 psychotherapie-seestrasse.ch

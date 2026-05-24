@@ -630,7 +630,6 @@ readers-digest.ch
 readers.ch
 readerscopenhagen.ch
 readersdigest-shop.ch
-readersdigest-verlag.ch
 readersdigest.ch
 readersdigestshop.ch
 readerslounge.ch
@@ -670,6 +669,7 @@ readom.ch
 readon-mobile.ch
 readon.ch
 readonly.ch
+readout.ch
 readr.ch
 readring.ch
 reads.ch
@@ -1926,6 +1926,7 @@ really-life.ch
 really.ch
 reallycozyhomes.ch
 reallyeffective.ch
+reallyfineideas.ch
 reallygoodfood.ch
 reallylife.ch
 reallytea.ch
@@ -4013,6 +4014,7 @@ rechercheetrehumain.ch
 recherchefuites.ch
 recherchegarage.ch
 recherchegrele.ch
+rechercheheldin.ch
 recherchehopital.ch
 recherchehopitaux.ch
 recherchehospitaliere.ch
@@ -4063,6 +4065,7 @@ rechi.ch
 rechit.ch
 rechl.ch
 rechmeier.ch
+rechn.ch
 rechne.ch
 rechnen-lesen-schreiben.ch
 rechnen.ch
@@ -4143,6 +4146,7 @@ rechnungswesenpraxis.ch
 rechnungswesenstellen.ch
 rechnungswesenzuerich.ch
 rechnungszahlung.ch
+rechnungszeug.ch
 rechnungzahlung.ch
 rechoice.ch
 rechoired.ch
@@ -5348,7 +5352,6 @@ reconsilia.ch
 reconsite.ch
 reconstruct.ch
 reconstructablehouse.ch
-reconstruction-analytique.ch
 reconstruction.ch
 reconstructioncapillaire.ch
 reconstructiondupoil.ch
@@ -9179,13 +9182,11 @@ refigura.ch
 refikmalikov.ch
 refilef.ch
 refili.ch
-refill-day.ch
 refill-diet.ch
 refill-post.ch
 refill.ch
 refillandreduce.ch
 refillconcept.ch
-refillday.ch
 refilldiet.ch
 refilled.ch
 refiller.ch
@@ -9730,7 +9731,6 @@ reflocker.ch
 refloor.ch
 reflor.ch
 reflora.ch
-reflos.ch
 reflow.ch
 reflowtherapie.ch
 reflu.ch
@@ -18225,7 +18225,10 @@ rejeb.ch
 reject.ch
 rejected.ch
 rejects.ch
+rejet-distillerie.ch
+rejet.ch
 rejetdistillerie.ch
+rejetdistillery.ch
 rejeuv.ch
 rejewled.ch
 rejewls.ch
@@ -19394,7 +19397,6 @@ religion.ch
 religionamgymnasium.ch
 religione.ch
 religionecattolica.ch
-religionen-am-gymnasium.ch
 religionen-im-dialog.ch
 religionen-integration.ch
 religionen-lokal.ch
@@ -20528,6 +20530,7 @@ remo-zuberbuehler.ch
 remo.ch
 remoabplanalp.ch
 remoackermann.ch
+remoankli.ch
 remoarpagaus.ch
 remob.ch
 remobaerlocher.ch
@@ -23864,7 +23867,6 @@ renovationsalledebainvaud.ch
 renovationsarbeiten.ch
 renovationsberatung.ch
 renovationschweiz.ch
-renovationsdienst.ch
 renovationsetnettoyages.ch
 renovationsetpeintures.ch
 renovationsexperten.ch
@@ -24092,6 +24094,7 @@ renovum.ch
 renovumch.ch
 renovup.ch
 renovx.ch
+renovys.ch
 renowait.ch
 renowaition.ch
 renowall.ch
@@ -24598,6 +24601,7 @@ rentacarlausanne.ch
 rentacarmomo.ch
 rentacars.ch
 rentacarsg.ch
+rentacarsoft.ch
 rentacarswiss.ch
 rentacarthun.ch
 rentacarzuerich.ch
@@ -24680,7 +24684,6 @@ rentahacker.ch
 rentahand.ch
 rentaharp.ch
 rentahauswart.ch
-rentaheli.ch
 rentahelp.ch
 rentahess.ch
 rentahome.ch
@@ -26861,6 +26864,7 @@ reprintedbyhuber.ch
 repris-ici.ch
 reprisdejustesse.ch
 reprise-auto.ch
+reprise-chantier.ch
 reprise-citroen.ch
 reprise-de-bail.ch
 reprise-de-biens.ch
@@ -29119,6 +29123,7 @@ resiliu.ch
 resilium.ch
 resilius.ch
 resilla.ch
+resillianz.ch
 resiltech.ch
 resilux.ch
 resilyou.ch
@@ -31093,6 +31098,7 @@ restaurant-hecht-haag.ch
 restaurant-hecht.ch
 restaurant-hedi.ch
 restaurant-hedwig.ch
+restaurant-heimat.ch
 restaurant-heimberg.ch
 restaurant-heimelig.ch
 restaurant-heitersberg.ch
@@ -32697,6 +32703,7 @@ restaurantdesducats.ch
 restaurantdesevaux.ch
 restaurantdesfontaines.ch
 restaurantdesgorges.ch
+restaurantdesjeunesrives.ch
 restaurantdesponeys.ch
 restaurantdesquais.ch
 restaurantdestennis.ch
@@ -33754,6 +33761,7 @@ restauratorin.ch
 restauratorschweiz.ch
 restauratrice-art.ch
 restauraunt-zuerich.ch
+restaure.ch
 restaureantdupaon.ch
 restaurent.ch
 restaurentdupaon.ch
@@ -35349,6 +35357,7 @@ retouche.ch
 retouches-julie.ch
 retouchesdesign.ch
 retouchphotos.ch
+retounddominique.ch
 retoundmirellaunterwegs.ch
 retoundsalo.ch
 retour-a-soi.ch
@@ -35531,6 +35540,7 @@ retreat-online.ch
 retreat-partner.ch
 retreat-piemont.ch
 retreat-provence.ch
+retreat-schoenenboden.ch
 retreat-weitblick.ch
 retreat.ch
 retreat4u.ch
@@ -36738,6 +36748,8 @@ revalier.ch
 revalino.ch
 revalio.ch
 revalis.ch
+revalisme.ch
+revaliste.ch
 revalize.ch
 revalizesoftware.ch
 revall.ch
@@ -38029,6 +38041,7 @@ revsol.ch
 revsoldecor.ch
 revson.ch
 revsticks.ch
+revstore.ch
 revswiss.ch
 revt-band.ch
 revtag.ch

@@ -1986,7 +1986,6 @@ hack-steiner.ch
 hack-the-code.ch
 hack-trick.ch
 hack-with-admin.ch
-hack-your-system.ch
 hack-zack.ch
 hack.ch
 hack3rs.ch
@@ -16348,6 +16347,7 @@ harmonie-delame.ch
 harmonie-der-sinne.ch
 harmonie-des-seins.ch
 harmonie-des-sens.ch
+harmonie-digitale.ch
 harmonie-ebnatkappel.ch
 harmonie-ehb.ch
 harmonie-einklang.ch
@@ -17812,7 +17812,6 @@ hasenlauf-rebgut.ch
 hasenlauf.ch
 hasenlicht.ch
 hasenmatt-grenchen.ch
-hasenmuseum.ch
 hasennaht.ch
 hasenoehrl.ch
 hasenpfote.ch
@@ -18376,8 +18375,11 @@ hassler-solutions.ch
 hassler-verwaltung.ch
 hassler.ch
 hasslerenergia.ch
+hasslergroup.ch
 hasslermail.ch
 hasslermedic.ch
+hasslerteam.ch
+hasslerzug.ch
 hasslinger-consulting.ch
 hasslinger-messe-manufaktur.ch
 hasslingermessemanufaktur.ch
@@ -18918,7 +18920,6 @@ haumiau.ch
 haumont.ch
 haumuehle.ch
 haun.ch
-haunani-cat.ch
 hauner.ch
 haunet.ch
 haung-asian-food-house-horgen.ch
@@ -19170,6 +19171,7 @@ haus-alea.ch
 haus-alouette.ch
 haus-alpenrose.ch
 haus-alpensicht.ch
+haus-alpina.ch
 haus-am-bach.ch
 haus-am-ballypark.ch
 haus-am-bodensee.ch
@@ -20754,6 +20756,7 @@ hausemma.ch
 hausen-aa.ch
 hausen-am-albis24.ch
 hausen.ch
+hausen2018.ch
 hausen24.ch
 hausen30.ch
 hausenag.ch
@@ -21605,6 +21608,7 @@ hausmanag.ch
 hausmanagement.ch
 hausmanagementag.ch
 hausmanager.ch
+hausmandat.ch
 hausmann-handel.ch
 hausmann-hw.ch
 hausmann-immobilien.ch

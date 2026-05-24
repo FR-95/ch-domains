@@ -65,8 +65,6 @@ uvboosting.ch
 uvc-clean.ch
 uvc-decontamination.ch
 uvc-entkeimung.ch
-uvc-institut.ch
-uvc-institute.ch
 uvc-luftentkeimung.ch
 uvc-profi.ch
 uvc-schweiz.ch
@@ -77,8 +75,6 @@ uvc-technik.ch
 uvc-wasserentkeimung.ch
 uvc.ch
 uvcdesinfektion.ch
-uvcinstitut.ch
-uvcinstitute.ch
 uvclean.ch
 uvclichtdesinfektion.ch
 uvcoop.ch

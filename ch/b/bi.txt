@@ -2616,7 +2616,6 @@ bienenbeuten.ch
 bienenbiodach.ch
 bienenbotschafter.ch
 bienenbox.ch
-bienenboxen.ch
 bienenbrief.ch
 bienenbrot.ch
 bienenbuch.ch
@@ -2687,7 +2686,6 @@ bienenjourdan.ch
 bienenkabinett.ch
 bienenkasten.ch
 bienenkiste.ch
-bienenkisten.ch
 bienenknecht.ch
 bienenkoenigin.ch
 bienenkoeniginnen.ch
@@ -4722,7 +4720,6 @@ bigelow.ch
 bigemotions.ch
 bigen.ch
 bigeneric.ch
-bigenia.ch
 bigenius.ch
 bigenthal.ch
 bigeuropa.ch
@@ -8162,7 +8159,6 @@ bildo.ch
 bildof.ch
 bildografie.ch
 bildographie.ch
-bildographiewerkstatt.ch
 bildomio.ch
 bildonline.ch
 bildor.ch
@@ -8808,6 +8804,7 @@ bildungswert.ch
 bildungswesen.ch
 bildungswirksam.ch
 bildungswoche.ch
+bildungsynodal.ch
 bildungszeitraum.ch
 bildungszenter.ch
 bildungszentren.ch
@@ -10258,6 +10255,7 @@ bimit.ch
 bimitspektrum.ch
 bimity.ch
 bimixx.ch
+bimizi.ch
 bimjura.ch
 bimkonferenz.ch
 bimkongress.ch
@@ -20599,7 +20597,6 @@ bizmedia.ch
 bizmeeting.ch
 bizmeilen.ch
 bizmind.ch
-biznes.ch
 biznesi.ch
 bizness-network.ch
 bizness.ch

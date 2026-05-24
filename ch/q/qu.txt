@@ -1400,7 +1400,6 @@ quandilfautcommeilfaut.ch
 quandjypense.ch
 quandleschiens.ch
 quandleschiensemmelent.ch
-quandleschienssemmelent.ch
 quandletravailfaitaie.ch
 quandnousetionspetitsenfants.ch
 quando-serve-quanto-serve.ch
@@ -1684,7 +1683,6 @@ quantnetwork.ch
 quanto-game.ch
 quanto.ch
 quantobasca.ch
-quantobasta.ch
 quantocheck.ch
 quantocoin.ch
 quantocore.ch
@@ -2939,7 +2937,6 @@ qubitron.ch
 qubitrust.ch
 qubits.ch
 qubity.ch
-qubitz.ch
 qubium.ch
 qubiz.ch
 qubo-bern.ch

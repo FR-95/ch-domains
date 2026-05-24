@@ -3798,7 +3798,6 @@ multijoint.ch
 multijournal.ch
 multikamera.ch
 multikanal.ch
-multikitchenservice.ch
 multikollagen.ch
 multikom.ch
 multikompass.ch
@@ -8498,6 +8497,7 @@ musik-uniform.ch
 musik-uniformen.ch
 musik-unterricht-davos.ch
 musik-unterricht.ch
+musik-unterscheidet-nicht.ch
 musik-vagabunden.ch
 musik-vbz.ch
 musik-verbindet.ch
@@ -10440,6 +10440,7 @@ muthu-advisory.ch
 muthu-services.ch
 muthu.ch
 muthur.ch
+muthutech.ch
 mutichundstark.ch
 mutig-in-die-zukunft.ch
 mutig-leben.ch

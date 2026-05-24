@@ -1108,7 +1108,6 @@ abba-doors.ch
 abba-dorma.ch
 abba-hauswartungen.ch
 abba-kabba.ch
-abba-peinture.ch
 abba-porte.ch
 abba-portes.ch
 abba-portesetautomatismes.ch
@@ -2421,6 +2420,7 @@ abeloconseil.ch
 abeloconsulting.ch
 abeloo.ch
 abelovsky.ch
+abelproduction.ch
 abelrichard.ch
 abels.ch
 abelsavocats.ch
@@ -3360,7 +3360,6 @@ abholstation.ch
 abholstationen.ch
 abholungen-raeumungen.ch
 abholungseinladungen.ch
-abholungservice.ch
 abholzung-stoppen.ch
 abholzungsfrei.ch
 abhome.ch
@@ -4579,6 +4578,7 @@ abook.ch
 aboon.ch
 aboonline.ch
 aboorbit.ch
+abooz.ch
 abopart.ch
 abopartner.ch
 abopass-shop.ch
@@ -4918,6 +4918,7 @@ abox.ch
 aboxdesign.ch
 aboyer.ch
 abozentrale.ch
+abozigzag.ch
 abozone.ch
 abp-ag.ch
 abp-architekten.ch

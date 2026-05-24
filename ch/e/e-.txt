@@ -2220,6 +2220,7 @@ e-novatic.ch
 e-novations.ch
 e-novativ.ch
 e-novative.ch
+e-novcompliance.ch
 e-novday.ch
 e-novdocs.ch
 e-novetic.ch
@@ -2830,6 +2831,7 @@ e-shopping.ch
 e-shoppingcenter.ch
 e-shops.ch
 e-shopswiss.ch
+e-shopy.ch
 e-shopzh.ch
 e-shot.ch
 e-sicherheit.ch
@@ -3143,7 +3145,6 @@ e-transaction.ch
 e-transit.ch
 e-transition.ch
 e-transport.ch
-e-transporte.ch
 e-transporter.ch
 e-travail.ch
 e-travel.ch

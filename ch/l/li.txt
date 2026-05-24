@@ -5497,6 +5497,7 @@ lifedent-luzern.ch
 lifedent.ch
 lifedesign-beratungen.ch
 lifedesign-coaching.ch
+lifedesign-ostschweiz.ch
 lifedesign-schweiz.ch
 lifedesign4you.ch
 lifedesignag.ch
@@ -8271,7 +8272,6 @@ lilaloki.ch
 lilaloop.ch
 lilalos.ch
 lilaloves.ch
-lilalu.ch
 lilaluchs.ch
 lilaluna.ch
 lilalup.ch
@@ -8318,7 +8318,6 @@ lilaseiten.ch
 lilasetrose.ch
 lilash.ch
 lilashes.ch
-lilasoie.ch
 lilastrauss.ch
 lilaswisspaper.ch
 lilasystem.ch
@@ -9674,6 +9673,7 @@ limmat-invest.ch
 limmat-kids.ch
 limmat-klinik.ch
 limmat-kontor.ch
+limmat-labs.ch
 limmat-legal.ch
 limmat-lightning.ch
 limmat-linth.ch
@@ -11546,6 +11546,9 @@ lindley.ch
 lindli-badi.ch
 lindli-beach.ch
 lindli-huus.ch
+lindli-immo-gmbh.ch
+lindli-immobilien-gmbh.ch
+lindli-immobilien.ch
 lindli-sauna.ch
 lindli-taxi.ch
 lindli.ch
@@ -11649,6 +11652,7 @@ lindt-home-of-chocolate.ch
 lindt-kirschstengli.ch
 lindt-lapinor.ch
 lindt-lindor.ch
+lindt-schuttle.ch
 lindt-shop.ch
 lindt-spruengli.ch
 lindt-tech.ch
@@ -13156,7 +13160,6 @@ linnkraft.ch
 linno.ch
 linnocore.ch
 linns.ch
-linnsings.ch
 linnstuder.ch
 linnus.ch
 linnwyler.ch
@@ -18964,6 +18967,7 @@ living-islands.ch
 living-keramik.ch
 living-lands.ch
 living-led.ch
+living-liat.ch
 living-lifefullness.ch
 living-light.ch
 living-locarno.ch

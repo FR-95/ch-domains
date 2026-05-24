@@ -1958,6 +1958,7 @@ velarion-data.ch
 velarion.ch
 velariq.ch
 velaris-rent.ch
+velaris-shop.ch
 velaris.ch
 velarisgroup.ch
 velarius.ch
@@ -4297,7 +4298,6 @@ venaya.ch
 venbardha.ch
 venbild.ch
 venbona.ch
-venbrick.ch
 venbridge.ch
 venca.ch
 vencaf.ch
@@ -7982,6 +7982,7 @@ verein-regenbogen.ch
 verein-respekto.ch
 verein-restful.ch
 verein-revita.ch
+verein-rheingold.ch
 verein-rian.ch
 verein-ritec.ch
 verein-rodtegg.ch
@@ -8342,7 +8343,6 @@ vereinl39freunde.ch
 vereinlafontana.ch
 vereinlanga.ch
 vereinlatzhose.ch
-vereinlebenundtod.ch
 vereinlegalhelp.ch
 vereinlindentalpark-boll.ch
 vereinliteraturstiftung.ch
@@ -8531,6 +8531,7 @@ vereinskleidung.ch
 vereinskompass.ch
 vereinslabel.ch
 vereinslager.ch
+vereinsleben.ch
 vereinsliebe.ch
 vereinsliste.ch
 vereinslogos.ch
@@ -9002,7 +9003,6 @@ vergano.ch
 vergara.ch
 vergarafinance.ch
 vergari.ch
-vergarielectricite.ch
 vergaser.ch
 vergaserrohrbach.ch
 vergasta.ch
@@ -11167,7 +11167,6 @@ vermoegensverwaltungsmandat.ch
 vermoegensverwaltungspraxis.ch
 vermoegensverwaltungsrecht.ch
 vermoegensverwaltungzuerich.ch
-vermoegenswert-kunst.ch
 vermoegenszentrum.ch
 vermoegenverwalten.ch
 vermoegenzsentrum.ch
@@ -12146,6 +12145,7 @@ verschickt.ch
 verschiebe-regal.ch
 verschieberegale.ch
 verschiebungen.ch
+verschiebungen18-18.ch
 verschiedene-angebote.ch
 verschiedeneangebote.ch
 verschiedenes.ch
@@ -14958,6 +14958,7 @@ vestigeluxury.ch
 vestigia.ch
 vestigious.ch
 vestigium.ch
+vestiio.ch
 vestima.ch
 vestimaplus.ch
 vestin-hategekimana.ch
@@ -16305,6 +16306,7 @@ vexo.ch
 vexon.ch
 vexontransporte.ch
 vexor.ch
+vexora.ch
 vexp.ch
 vexperts.ch
 vexrobotics.ch

@@ -230,7 +230,6 @@ lobbit.ch
 lobby-bar.ch
 lobby-mall.ch
 lobby-nein.ch
-lobby-petrole-stop.ch
 lobby-pilot.ch
 lobby.ch
 lobbyai.ch
@@ -806,6 +805,7 @@ localfood.ch
 localfoodfestival.ch
 localfoodie.ch
 localfoodstories.ch
+localfoot.ch
 localforge.ch
 localfriend.ch
 localfriends.ch
@@ -1571,6 +1571,7 @@ locationanimation.ch
 locationanimations.ch
 locationanniviers.ch
 locationanzere.ch
+locationappartementgeneve.ch
 locationastonmartin.ch
 locationaudi.ch
 locationauto.ch
@@ -7275,7 +7276,6 @@ longeborgne.ch
 longemalle.ch
 longemallecollection.ch
 longemi.ch
-longemix.ch
 longenecker.ch
 longenic.ch
 longenics.ch
@@ -9401,6 +9401,7 @@ lorganic.ch
 lorgano.ch
 lorger.ch
 lorgnoudcottarenz.ch
+lori-app.ch
 lori-garten.ch
 lori-music.ch
 lori-renigungen.ch
@@ -12076,7 +12077,6 @@ loveandromance.ch
 loveandsalt.ch
 loveandsaveyourboobies.ch
 loveandsex.ch
-loveandsmile.ch
 loveandstitch.ch
 loveandtruth.ch
 loveandvibes.ch

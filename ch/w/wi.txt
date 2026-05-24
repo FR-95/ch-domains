@@ -3157,17 +3157,12 @@ wildbienen.ch
 wildbienenberatung.ch
 wildbienenbestaeubung.ch
 wildbienenbiodach.ch
-wildbienenbox.ch
-wildbienenboxen.ch
 wildbienendach.ch
 wildbienenflachdach.ch
 wildbienengarten.ch
 wildbienenglueck.ch
 wildbienenhaus.ch
 wildbieneninfo.ch
-wildbienenkasten.ch
-wildbienenkiste.ch
-wildbienenkisten.ch
 wildbienenkunst.ch
 wildbienenlehrpfad.ch
 wildbienenpalette.ch
@@ -5411,6 +5406,7 @@ willyoubemyvalentine.ch
 willyoumusicme.ch
 willyoutravel.ch
 willyphoto.ch
+willyplomb.ch
 willyportmann.ch
 willyreber.ch
 willyrentcar.ch
@@ -6515,7 +6511,6 @@ windinformation.ch
 winding-technology-group.ch
 winding.ch
 windinvest.ch
-windiq.ch
 windirect.ch
 windirs.ch
 windirsch.ch
@@ -6790,7 +6785,6 @@ windpassion.ch
 windpearl.ch
 windpocken-info.ch
 windpocken.ch
-windpod.ch
 windpool.ch
 windpower-energy.ch
 windpower.ch
@@ -8243,6 +8237,7 @@ winkler-family.ch
 winkler-fitness.ch
 winkler-getraenke.ch
 winkler-handwerk.ch
+winkler-ingenieure.ch
 winkler-insektenschutz.ch
 winkler-jorda.ch
 winkler-kanalreinigung.ch
@@ -10895,7 +10890,6 @@ wir-sind-web.ch
 wir-sind-weinfelden.ch
 wir-sind.ch
 wir-solutions.ch
-wir-sonnen-uns-um-die-welt.ch
 wir-sorgen-vor.ch
 wir-spende.ch
 wir-spenden-blut.ch

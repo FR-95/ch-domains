@@ -3679,6 +3679,7 @@ pflege-expertise.ch
 pflege-fachkraft.ch
 pflege-familie.ch
 pflege-fanaj.ch
+pflege-finanzierung.ch
 pflege-finden.ch
 pflege-finder.ch
 pflege-fuer-angehoerige-sg.ch
@@ -3809,6 +3810,7 @@ pflege-verglei.ch
 pflege-vergleich.ch
 pflege-vermittler.ch
 pflege-vermittlung.ch
+pflege-vernetzt.ch
 pflege-versicherung.ch
 pflege-viamala.ch
 pflege-visite.ch
@@ -4478,6 +4480,7 @@ pflegethun.ch
 pflegetipp.ch
 pflegetipps.ch
 pflegetogo.ch
+pflegetor.ch
 pflegets.ch
 pflegeuhr.ch
 pflegeuhren.ch

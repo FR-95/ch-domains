@@ -297,7 +297,6 @@ go-pme.ch
 go-poschte.ch
 go-print.ch
 go-pro.ch
-go-prodea.ch
 go-public.ch
 go-pure.ch
 go-qm.ch
@@ -5376,6 +5375,7 @@ goldwincasino.ch
 goldwing-center-oftringen.ch
 goldwing-center.ch
 goldwing-club.ch
+goldwing-treffen.ch
 goldwing.ch
 goldwinggarage.ch
 goldwingsound.ch
@@ -5443,6 +5443,7 @@ golestan.ch
 golette.ch
 goletz.ch
 golex.ch
+goleytaxi.ch
 golf-about.ch
 golf-academy-aare.ch
 golf-academy.ch
@@ -5994,6 +5995,7 @@ golferversicherung.ch
 golferweek.ch
 golfetrelax.ch
 golfetto-weiss.ch
+golfeursepicuriens.ch
 golfevent.ch
 golfevents.ch
 golfever.ch
@@ -8823,7 +8825,6 @@ goprint.ch
 gopro-accessoires.ch
 gopro-gimbal.ch
 gopro.ch
-goprodea.ch
 goproduct.ch
 goproject.ch
 goprojet.ch

@@ -109,6 +109,7 @@ luabella.ch
 luacore.ch
 luada.ch
 luadev.ch
+luado.ch
 luaeg.ch
 luafabrik.ch
 luafaktchosefakt.ch
@@ -150,7 +151,6 @@ luana-cosmetics.ch
 luana-fahrni.ch
 luana-fahrschule.ch
 luana-group.ch
-luana-jannis.ch
 luana-lightwood.ch
 luana-maione.ch
 luana-meyer.ch
@@ -1882,7 +1882,6 @@ lucienpannatier.ch
 lucienpe.ch
 lucienpiccard.ch
 lucienpiccardwatches.ch
-lucienpraz.ch
 lucienrochat.ch
 lucienruffet.ch
 lucienschubert.ch
@@ -4584,7 +4583,6 @@ luganoairport.ch
 luganoalverde.ch
 luganoanimationdays.ch
 luganoannunci.ch
-luganoantiques.ch
 luganoapartments.ch
 luganoaperta.ch
 luganoaquatic.ch
@@ -6225,7 +6223,6 @@ lullabit.ch
 lullaboo.ch
 lullaby.ch
 lullabyavenue.ch
-lullabyloungewear.ch
 lullabyofbeauty.ch
 lullabystudios.ch
 lullaloom.ch
@@ -6384,7 +6381,6 @@ lumaagency.ch
 lumaarc.ch
 lumaay.ch
 lumaba.ch
-lumabar.ch
 lumabee.ch
 lumabeef.ch
 lumabill.ch
@@ -6453,6 +6449,7 @@ lumaldo.ch
 lumali.ch
 lumalife.ch
 lumalines.ch
+lumamail.ch
 lumamassagen.ch
 lumamoney.ch
 lumamusic.ch
@@ -7494,7 +7491,6 @@ lumosweb.ch
 lumoswelt.ch
 lumoswitzerland.ch
 lumot.ch
-lumotec.ch
 lumotion.ch
 lumotubo.ch
 lumoundflix.ch
@@ -8689,6 +8685,7 @@ luniq-pub.ch
 luniq.ch
 lunique-concept.ch
 lunique-depot.ch
+lunique-drinks.ch
 lunique-gallery.ch
 lunique-hq.ch
 lunique-livraison.ch
@@ -10596,7 +10593,6 @@ luxeboutique.ch
 luxecandle.ch
 luxecave.ch
 luxeclean.ch
-luxeclub.ch
 luxecoiffure.ch
 luxeconsult.ch
 luxed.ch
@@ -11144,7 +11140,6 @@ luxuriousmind.ch
 luxuriousrehabs.ch
 luxuriousswitzerland.ch
 luxuriouswatch.ch
-luxurity.ch
 luxurium.ch
 luxurizz.ch
 luxurly.ch

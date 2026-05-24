@@ -2990,6 +2990,7 @@ aufildeslunes.ch
 aufildesmerveilles.ch
 aufildesmois.ch
 aufildesmots.ch
+aufildesnoeuds.ch
 aufildesoi.ch
 aufildespattes.ch
 aufildesrandos.ch
@@ -10606,6 +10607,7 @@ auto-fahrlehrer.ch
 auto-fahrschule-bern.ch
 auto-fahrschule-kohler.ch
 auto-fahrschule-wil.ch
+auto-fahrschule-winterthur.ch
 auto-fahrschule.ch
 auto-fahrschulen.ch
 auto-faktum.ch
@@ -11940,7 +11942,6 @@ autoauktion24.ch
 autoauktionen.ch
 autoauktionshausschweiz.ch
 autoaula.ch
-autoaura.ch
 autoausbeulen.ch
 autoausbildung.ch
 autoauschina.ch
@@ -16362,7 +16363,6 @@ autoshowaathal.ch
 autoshowsg.ch
 autoshowwinterthur.ch
 autoshub.ch
-autosicherheitsgurte.ch
 autosieger.ch
 autosiegrist.ch
 autosiegristag.ch
@@ -17768,6 +17768,7 @@ auwasa.ch
 auwaschweiz.ch
 auwe.ch
 auweko.ch
+auwem.ch
 auwi.ch
 auwiese.ch
 auwiesen-sport.ch

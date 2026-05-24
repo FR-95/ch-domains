@@ -113,7 +113,6 @@ glace-perlen.ch
 glace-undmehr.ch
 glace-velo.ch
 glace-veneta.ch
-glace-zueri.ch
 glace.ch
 glace24.ch
 glaceambodensee.ch
@@ -195,7 +194,6 @@ glacewandern.ch
 glacewerk.ch
 glacewerkstatt.ch
 glacezauber.ch
-glacezueri.ch
 glachesecheexpress.ch
 glachips.ch
 glacial-glow.ch
@@ -844,7 +842,6 @@ glanzjahre.ch
 glanzklarfacility.ch
 glanzklargmbh.ch
 glanzkraft.ch
-glanzlab.ch
 glanzlackierungen.ch
 glanzleistung.ch
 glanzlicht-fotografie.ch
@@ -3905,6 +3902,7 @@ glismet.ch
 glisoni-elektro.ch
 glisoni.ch
 glisovic.ch
+glispa.ch
 gliss-caffee.ch
 gliss-kur.ch
 gliss-shop.ch
@@ -3925,8 +3923,10 @@ glisshop.ch
 glisskaffee.ch
 glisskur.ch
 glist.ch
+glisuisse.ch
 glisvizzeri.ch
 glisvizzerivotanoudc.ch
+gliswiss.ch
 glit-kmu-software.ch
 glitapp.ch
 glitch-spin.ch
@@ -6859,6 +6859,7 @@ glpschlieren.ch
 glptool.ch
 glptools.ch
 glpura.ch
+glpuraglp1.ch
 glpuri-wahlen.ch
 glr.ch
 glrconsulting.ch
@@ -6934,6 +6935,7 @@ glubschis.ch
 gluc.ch
 glucalc.ch
 glucavit.ch
+glucavitcapsules.ch
 glucavitkapseln.ch
 gluceofine-pro.ch
 gluceofine.ch

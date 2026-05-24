@@ -195,7 +195,6 @@ gpbz.ch
 gpc-impresaedile.ch
 gpc-partners.ch
 gpc-rp.ch
-gpc-solutions.ch
 gpc-tax.ch
 gpc.ch
 gpcampo.ch
@@ -215,7 +214,6 @@ gpconsult.ch
 gpcorse.ch
 gpcs.ch
 gpcsa.ch
-gpcsolutions.ch
 gpct.ch
 gpd-ag.ch
 gpd-schweiz.ch
@@ -680,6 +678,7 @@ gpttraining.ch
 gptvonheidi.ch
 gptw.ch
 gptwit.ch
+gptworks.ch
 gptx.ch
 gpu-cloud.ch
 gpu-server.ch

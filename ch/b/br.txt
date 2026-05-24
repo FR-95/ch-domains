@@ -2589,6 +2589,7 @@ brands4employees.ch
 brands4friends.ch
 brands4kids.ch
 brands4kidz.ch
+brands4sale.ch
 brands4students.ch
 brands4u.ch
 brands4you.ch
@@ -2902,6 +2903,7 @@ brandsforfriends.ch
 brandsforinfluencer.ch
 brandsforinfluencers.ch
 brandsforless.ch
+brandsforsale.ch
 brandsforstudent.ch
 brandsforstudents.ch
 brandsforyou.ch
@@ -7484,6 +7486,7 @@ bricks4you.ch
 bricksandbrains.ch
 bricksandbytes.ch
 bricksandmore.ch
+bricksandrobots.ch
 bricksandsounds.ch
 bricksbrains.ch
 bricksbrainsconsulting.ch
@@ -7989,7 +7992,6 @@ briefbogen.ch
 briefbogenprofi.ch
 briefbot.ch
 briefbox.ch
-briefbuechse.ch
 briefbutler.ch
 briefcase.ch
 briefcases.ch
@@ -9750,6 +9752,7 @@ brinkmannprivat.ch
 brinkmanship.ch
 brinkmeier.ch
 brinko.ch
+brinkor.ch
 brinkrolf.ch
 brinks.ch
 brinkspointcash.ch
@@ -11608,6 +11611,7 @@ brokervergleichen.ch
 brokerverzeichnis.ch
 brokervision.ch
 brokerwahl.ch
+brokerware.ch
 brokerweb.ch
 brokerwebsite.ch
 brokerwiki.ch

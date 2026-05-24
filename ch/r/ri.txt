@@ -3626,6 +3626,7 @@ rights4kidz.ch
 rights4nature.ch
 rightsdesk.ch
 rightsdirect.ch
+rightsdoc.ch
 rightsfornature.ch
 rightshare.ch
 rightshoes.ch
@@ -4808,7 +4809,6 @@ rinderkohle.ch
 rinderli-gartenbau.ch
 rinderli.ch
 rinderplaetz.ch
-rinderschutz.ch
 rinderstall.ch
 rindertalg.ch
 rindertallow.ch
@@ -6661,7 +6661,6 @@ ristorante-99.ch
 ristorante-a-agno.ch
 ristorante-a-bioggio.ch
 ristorante-accademia.ch
-ristorante-aerodromo.ch
 ristorante-al-barilotto.ch
 ristorante-al-lago.ch
 ristorante-al-parco.ch
@@ -9186,7 +9185,6 @@ riyadh-watch-days.ch
 riyadh-watch-week.ch
 riyadhair.ch
 riyadscatering-upu.ch
-riyadscateringupu.ch
 riyah-mobile.ch
 riyah.ch
 riyahrealprint.ch

@@ -1040,7 +1040,6 @@ wohn-deal.ch
 wohn-design24.ch
 wohn-doku.ch
 wohn-eigentum.ch
-wohn-eleganz.ch
 wohn-epos.ch
 wohn-fabrik.ch
 wohn-fee.ch
@@ -1899,6 +1898,7 @@ wohngemeinschaft-paraplui.ch
 wohngemeinschaft-pfaeffikon.ch
 wohngemeinschaft.ch
 wohngemeinschaften.ch
+wohngenerator.ch
 wohngenossen.ch
 wohngenossenschaft-entenweid.ch
 wohngenossenschaft-erzenberg.ch
@@ -1946,6 +1946,7 @@ wohngrupperose.ch
 wohnguet.ch
 wohnguide.ch
 wohnguru.ch
+wohngut-heule.ch
 wohngut.ch
 wohnhaas.ch
 wohnhaeuser.ch
@@ -8103,7 +8104,6 @@ workshoptage.ch
 workshopthurgau.ch
 workshopverfahren.ch
 workshopvideo.ch
-workshopzuhause.ch
 workshow.ch
 worksite.ch
 workskills.ch

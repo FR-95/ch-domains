@@ -884,6 +884,7 @@ eifachdeburner.ch
 eifachdigital.ch
 eifachdihai.ch
 eifachdihei.ch
+eifachdjana.ch
 eifacheifach.ch
 eifacheliane.ch
 eifacheppis.ch
@@ -2650,7 +2651,6 @@ einfachdasein.ch
 einfachdeluxe.ch
 einfachdenken.ch
 einfachdesign.ch
-einfachdeuts.ch
 einfachdeutsch.ch
 einfachdigital.ch
 einfachdigitalisieren.ch
@@ -2721,7 +2721,6 @@ einfachfein.ch
 einfachferien.ch
 einfachfertiglos.ch
 einfachfilz.ch
-einfachfinanzieren.ch
 einfachfinanziert.ch
 einfachfinden.ch
 einfachfischen.ch
@@ -4817,6 +4816,7 @@ eisblau.ch
 eisblock.ch
 eisblume-worb.ch
 eisblume.ch
+eisblumen.ch
 eisbock.ch
 eisbomben.ch
 eisbox.ch
@@ -5206,6 +5206,7 @@ eisgenossen.ch
 eisgentile.ch
 eisgenuss.ch
 eisglas.ch
+eisgozieh.ch
 eish.ch
 eishalle-baeretswil.ch
 eishalle-gruesch.ch
@@ -5216,7 +5217,6 @@ eishalle.ch
 eishallen.ch
 eishallesursee.ch
 eishalleuzwil.ch
-eishaus-schweiz.ch
 eishaus-swiss.ch
 eisheilige-hockey.ch
 eisheizung.ch

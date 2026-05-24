@@ -1937,7 +1937,6 @@ robomow.ch
 robomower.ch
 robomule.ch
 robomuli.ch
-robonaut.ch
 robonauts.ch
 robonet.ch
 robonews.ch
@@ -2291,6 +2290,7 @@ robotik.ch
 robotik1x1.ch
 robotika.ch
 robotikag.ch
+robotikcheck.ch
 robotikclubschweiz.ch
 robotikklubschweiz.ch
 robotikschule.ch
@@ -5513,7 +5513,6 @@ roger-engweiler.ch
 roger-ernst.ch
 roger-et-gallet.ch
 roger-etter.ch
-roger-federer-residences.ch
 roger-federer.ch
 roger-fessler.ch
 roger-forrer.ch
@@ -5746,11 +5745,9 @@ rogeretgallet.ch
 rogerettlin.ch
 rogerfamily.ch
 rogerfederer-arena.ch
-rogerfederer-residences.ch
 rogerfederer.ch
 rogerfedererarena.ch
 rogerfederermuseum.ch
-rogerfedererresidences.ch
 rogerfehr.ch
 rogerfelix.ch
 rogerfinance.ch
@@ -10271,6 +10268,7 @@ romandia-partner.ch
 romandia.ch
 romandialabs.ch
 romandicap.ch
+romandie-ai.ch
 romandie-architectes.ch
 romandie-arrosage.ch
 romandie-assainissement.ch
@@ -11070,6 +11068,7 @@ romeohafner.ch
 romeoherbst.ch
 romeojane.ch
 romeojulia.ch
+romeokolar.ch
 romeolardi.ch
 romeoleon.ch
 romeomeier.ch
@@ -12572,7 +12571,6 @@ roomy.ch
 roomz.ch
 roomzeiss.ch
 roomzoom.ch
-roon-gamingpower.ch
 roon.ch
 rooneys-bau.ch
 roony.ch
@@ -13322,7 +13320,6 @@ rosa-maria-sena.ch
 rosa-maria.ch
 rosa-mode.ch
 rosa-mystica.ch
-rosa-orientalisch.ch
 rosa-raumentwicklung.ch
 rosa-reinigung.ch
 rosa-rot.ch
@@ -16256,6 +16253,7 @@ rothholding.ch
 rothholzbau.ch
 rothholzbauplanung.ch
 rothhome.ch
+rothi.ch
 rothimmo.ch
 rothimmoag.ch
 rothimmobilien.ch
@@ -17325,7 +17323,6 @@ roundnetclubzurich.ch
 roundnetleague.ch
 roundnetschaffhausen.ch
 roundnetsg.ch
-roundnetzug.ch
 roundoffice.ch
 roundofsound.ch
 roundpen.ch

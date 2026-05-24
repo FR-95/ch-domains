@@ -838,7 +838,6 @@ affutage-ribeaud.ch
 affutage.ch
 affutd.ch
 affuteur.ch
-affuteurs-remouleurs.ch
 afg-amriswil.ch
 afg-basler.ch
 afg-bau.ch
@@ -1042,6 +1041,7 @@ afis.ch
 afisa-vfas.ch
 afiscahilty.ch
 afisch.ch
+afischaverein.ch
 afischbacher.ch
 afischer-architekten.ch
 afischer.ch

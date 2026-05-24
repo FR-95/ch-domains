@@ -2200,7 +2200,6 @@ heartsy.ch
 heartsync.ch
 hearttoart.ch
 hearttoheart.ch
-hearttouch.ch
 hearttrace.ch
 heartvalveanswers.ch
 heartvalvecenterhirslanden.ch
@@ -4610,7 +4609,6 @@ heidbuehlmetzg.ch
 heide-art.ch
 heide-jagd.ch
 heide.ch
-heideal.ch
 heideblick.ch
 heideco.ch
 heidedurant.ch
@@ -6746,6 +6744,7 @@ heimly.ch
 heimmassage.ch
 heimmeister.ch
 heimmo.ch
+heimnah.ch
 heimnest.ch
 heimnet.ch
 heimnetz.ch
@@ -10153,6 +10152,7 @@ helixor.ch
 helixoriginal.ch
 helixpiercing.ch
 helixs.ch
+helixservice.ch
 helixshop.ch
 helixsolar.ch
 helixsolutions.ch
@@ -12275,6 +12275,7 @@ helvetax.ch
 helvetbeauty.ch
 helvetbill.ch
 helvetbox.ch
+helvetcell.ch
 helvetcleaner.ch
 helvetco.ch
 helvetcocoon.ch
@@ -13676,6 +13677,7 @@ helvetiqs.ch
 helvetiqua.ch
 helvetiquant.ch
 helvetiquantlabs.ch
+helvetique-assainissement.ch
 helvetique-cd27.ch
 helvetique-chauffage.ch
 helvetique-electricite.ch
@@ -18805,6 +18807,7 @@ herzenslotsin.ch
 herzenslust-ehe.ch
 herzenslust.ch
 herzensmagie.ch
+herzensmelodien.ch
 herzensmensch.ch
 herzensmenschen.ch
 herzensmenschli.ch

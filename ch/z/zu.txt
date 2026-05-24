@@ -787,7 +787,6 @@ zueger-garten.ch
 zueger-gartenbau.ch
 zueger-gz.ch
 zueger-hof.ch
-zueger-hr-consulting.ch
 zueger-immobilien.ch
 zueger-impact.ch
 zueger-kohlbrenner.ch
@@ -1291,6 +1290,7 @@ zuercherholzbauag.ch
 zuercherhonig.ch
 zuercherimmo.ch
 zuercherin.ch
+zuercherinnenmachen.ch
 zuercherischefreitagszeitung.ch
 zuercherjodlerfruende.ch
 zuercherkaese.ch
@@ -1470,7 +1470,6 @@ zueri-genussregion.ch
 zueri-geruest.ch
 zueri-gipser.ch
 zueri-girls.ch
-zueri-glace.ch
 zueri-gladiators.ch
 zueri-graffiti.ch
 zueri-gruppe.ch
@@ -3476,9 +3475,11 @@ zugcare.ch
 zugcc.ch
 zugcess.ch
 zugcircle.ch
+zugcity.ch
 zugcityapartment.ch
 zugcityapartments.ch
 zugcloud.ch
+zugcoin.ch
 zugcommodity.ch
 zugcompany.ch
 zugcompanyformation.ch
@@ -3617,6 +3618,7 @@ zuger-schreinerei.ch
 zuger-schuelertransport.ch
 zuger-schulen.ch
 zuger-schulfahrdienst.ch
+zuger-see-initiative.ch
 zuger-see.ch
 zuger-seefest.ch
 zuger-senioren-wandern.ch
@@ -3873,6 +3875,7 @@ zugersee-garage.ch
 zugersee-immo.ch
 zugersee-immobilien.ch
 zugersee-info.ch
+zugersee-initiative.ch
 zugersee-lido.ch
 zugersee-schiffahrt.ch
 zugersee-schifffahrt.ch
@@ -4053,6 +4056,7 @@ zugli.ch
 zuglian.ch
 zugliani.ch
 zugliebe.ch
+zuglife.ch
 zuglive.ch
 zugliving.ch
 zuglogin.ch
@@ -4079,6 +4083,7 @@ zugocha.ch
 zugoffice.ch
 zugogen.ch
 zugol.ch
+zugone.ch
 zugontour.ch
 zugontourkriens.ch
 zugopen.ch
@@ -4088,6 +4093,7 @@ zugortho.ch
 zugorthodontist.ch
 zugpack.ch
 zugpatch.ch
+zugpay.ch
 zugpferd-rechnung-erstellen.ch
 zugpferd.ch
 zugpferde.ch
@@ -5371,7 +5377,6 @@ zumblutigenlauch.ch
 zumbo.ch
 zumbra.ch
 zumbrueggli.ch
-zumbrun.ch
 zumbrunn-ag.ch
 zumbrunn-architekten.ch
 zumbrunn-bau.ch
@@ -8170,7 +8175,6 @@ zutrittssicherheit.ch
 zutrittssysteme-zentralschweiz.ch
 zutrittssysteme.ch
 zutrittsysteme.ch
-zuts.ch
 zutsuu.ch
 zutt-eventconsulting.ch
 zutt.ch

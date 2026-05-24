@@ -264,7 +264,6 @@ sc-t.ch
 sc-ta.ch
 sc-taegi.ch
 sc-tech.ch
-sc-technique.ch
 sc-technology.ch
 sc-therapiehundeteam.ch
 sc-tht.ch
@@ -2293,6 +2292,7 @@ schaber.ch
 schaberei-aebersold.ch
 schaberei-revisionen-schenk.ch
 schaberei.ch
+schabernack-musik.ch
 schabernack.ch
 schabert.ch
 schabetransport.ch
@@ -2941,6 +2941,7 @@ schaefermechanik.ch
 schaefernet.ch
 schaeferpartner.ch
 schaeferpfote.ch
+schaeferrain.ch
 schaeferrundumsauber.ch
 schaefers.ch
 schaefersarl.ch
@@ -5830,6 +5831,7 @@ scheidungscoaching.ch
 scheidungsdienst.ch
 scheidungsfabrik.ch
 scheidungsforum.ch
+scheidungsfotografie.ch
 scheidungsgrund.ch
 scheidungshelfer.ch
 scheidungshilfe.ch
@@ -12717,9 +12719,6 @@ schmack.ch
 schmacke-realestate.ch
 schmackes.ch
 schmacko.ch
-schmackofatz-catering.ch
-schmackofatz.ch
-schmackofatzcatering.ch
 schmackofatzi.ch
 schmadl.ch
 schmadrihuette.ch
@@ -13101,6 +13100,7 @@ schmerzprofis.ch
 schmerzpsychotherapie.ch
 schmerzpumpe.ch
 schmerzpunkt.ch
+schmerzraum.ch
 schmerzreduktion.ch
 schmerzreset.ch
 schmerzspezialist-schweiz.ch
@@ -18958,6 +18958,7 @@ schoggishow.ch
 schoggisiite.ch
 schoggisite.ch
 schoggispruch.ch
+schoggistuebli.ch
 schoggisusi.ch
 schoggiswiss.ch
 schoggitage.ch
@@ -23674,6 +23675,7 @@ schulangst.ch
 schulanlage-wangensz.ch
 schulanlagen.ch
 schulanlagenplaner.ch
+schulanlass-planer.ch
 schulanlass.ch
 schulapps.ch
 schularbeiten.ch
@@ -23884,6 +23886,7 @@ schuldig.ch
 schuldirektion.ch
 schuldiscount.ch
 schuldlos.ch
+schuldner.ch
 schuldneranwalt24.ch
 schuldnerberater.ch
 schuldnerberatung.ch
@@ -25737,6 +25740,7 @@ schulfrucht.ch
 schulfrust.ch
 schulfuehrer.ch
 schulfuehrung.ch
+schulfunken.ch
 schulfussball.ch
 schulgarderoben.ch
 schulgarten.ch
@@ -26983,7 +26987,6 @@ schutz-masken.ch
 schutz-mit-system.ch
 schutz-naturgefahren.ch
 schutz-polizei.ch
-schutz-raum.ch
 schutz-rettung.ch
 schutz-sagl.ch
 schutz-sicherheit.ch
@@ -33729,6 +33732,7 @@ schwinn-fitness.ch
 schwinn.ch
 schwinnfitness.ch
 schwip.ch
+schwipo.ch
 schwippsel-jagd.ch
 schwips.ch
 schwipsel-jagd.ch

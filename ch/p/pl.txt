@@ -705,6 +705,7 @@ plan-a-weddings-events.ch
 plan-a.ch
 plan-aktionsgruppen.ch
 plan-and-hike.ch
+plan-and-play.ch
 plan-andenmatten.ch
 plan-ar.ch
 plan-archiv.ch
@@ -774,6 +775,7 @@ plan-fabrik.ch
 plan-fille.ch
 plan-filles.ch
 plan-fit.ch
+plan-form.ch
 plan-francey.ch
 plan-fuchs.ch
 plan-fx.ch
@@ -1900,6 +1902,7 @@ planflex.ch
 planflow.ch
 planfokus.ch
 planfor.ch
+planform.ch
 planformat.ch
 planforum.ch
 planforyou.ch
@@ -2767,6 +2770,7 @@ planum.ch
 planumzug.ch
 planun-bau.ch
 planundbau.ch
+planundform.ch
 planundholz.ch
 planundwerk.ch
 planundwerke.ch
@@ -3098,7 +3102,6 @@ plasma-riche-en-plaquettes.ch
 plasma-schneiden.ch
 plasma-therapie.ch
 plasma.ch
-plasmaa.ch
 plasmaaktivierung.ch
 plasmaart.ch
 plasmabeauty.ch
@@ -7433,7 +7436,6 @@ plumor-werbeartikel.ch
 plumor.ch
 plump-holzbau.ch
 plump.ch
-plumpahpea.ch
 plumpart.ch
 plumplori.ch
 plumplum.ch

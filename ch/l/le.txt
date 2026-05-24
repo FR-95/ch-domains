@@ -3910,7 +3910,6 @@ leavillette.ch
 leaving-care.ch
 leaving-room.ch
 leaving-speicher.ch
-leaving.ch
 leavingswitzerland.ch
 leavio.ch
 leavioletta.ch
@@ -5100,7 +5099,6 @@ lebenskleid.ch
 lebenskleidung.ch
 lebensklug.ch
 lebensknospe.ch
-lebenskoffer.ch
 lebenskompass-praxis.ch
 lebenskompass.ch
 lebenskompetent.ch
@@ -5699,7 +5697,6 @@ lebenswerkstatt-seelenoase.ch
 lebenswerkstatt.ch
 lebenswerktreuhand.ch
 lebenswert-alt.ch
-lebenswert-betreuung.ch
 lebenswert-plus.ch
 lebenswert-therapie.ch
 lebenswert-wohnen.ch
@@ -5765,7 +5762,6 @@ lebenundreisen.ch
 lebenundsein.ch
 lebenundsterben.ch
 lebenundsterbenbern.ch
-lebenundtod.ch
 lebenundtrauer.ch
 lebenundwirken.ch
 lebenundwohnen.ch
@@ -8425,7 +8421,6 @@ ledline.ch
 ledlines.ch
 ledliving.ch
 ledlux.ch
-ledm.ch
 ledmaison.ch
 ledmakers.ch
 ledmala.ch
@@ -11765,6 +11760,7 @@ lehrplan-ru.ch
 lehrplan.ch
 lehrplan21.ch
 lehrplan21gr.ch
+lehrplanai.ch
 lehrplancheck.ch
 lehrplaner21.ch
 lehrplanforschung.ch
@@ -12834,7 +12830,6 @@ leistung-ist-relativ.ch
 leistung-steigern.ch
 leistung-und-gesundheit.ch
 leistung.ch
-leistungamlimit.ch
 leistungen.ch
 leistungs-software.ch
 leistungsbereitschaft.ch
@@ -13563,6 +13558,7 @@ lelefantino.ch
 lelegal.ch
 lelegancedejasmine.ch
 leleganzaschmuckuhren.ch
+leleiva.ch
 leleive.ch
 lelejavel.ch
 lelemanhotel.ch
@@ -17846,6 +17842,7 @@ lepage-shop.ch
 lepage.ch
 lepaginebianche.ch
 lepaginegialle.ch
+lepaginerosa.ch
 lepaginerosse.ch
 lepaille.ch
 lepain-du-dimanche.ch
@@ -18058,7 +18055,6 @@ lepetitbalcon-rangement.ch
 lepetitbalcon.ch
 lepetitballon.ch
 lepetitbar.ch
-lepetitbazar-frauenfeld.ch
 lepetitbazar.ch
 lepetitbistrot.ch
 lepetitbouleau.ch
@@ -22824,7 +22820,6 @@ lescourtisanes.ch
 lescouteauxdusoleil.ch
 lescouteauxsuisses.ch
 lescouturiersdutemps.ch
-lescouvreurs.ch
 lescouvreursdegeneve.ch
 lescouvreursgenevois.ch
 lescoxinelles.ch
@@ -25516,7 +25511,6 @@ lesventsduleman.ch
 lesverdets.ch
 lesvergers-meyrin.ch
 lesvergers.ch
-lesvergersandalous.ch
 lesvergersdajoie.ch
 lesvergersdecollex.ch
 lesvergersdecrans.ch
@@ -26046,6 +26040,7 @@ letourfemmes.ch
 letourier.ch
 letourmentin.ch
 letournesol.ch
+letourteau.ch
 letout.ch
 letoyvan.ch
 letp.ch
@@ -28122,6 +28117,7 @@ leventssa.ch
 leventtourne.ch
 levenue.ch
 leveo.ch
+leveque.ch
 lever-faberge.ch
 lever.ch
 levera.ch

@@ -1969,7 +1969,6 @@ folienwerk-wetzikon.ch
 folienwerk.ch
 folienwerke.ch
 folienwerkstatt.ch
-folienwerktafaj.ch
 folienwissen.ch
 folienws.ch
 folienxperte.ch
@@ -4885,6 +4884,7 @@ food-trotteuse.ch
 food-truck-catering.ch
 food-truck-happening.ch
 food-truck-martigny.ch
+food-truck-solutions.ch
 food-truck-valais.ch
 food-truck.ch
 food-truckcrepizza-schaanwald.ch
@@ -5135,6 +5135,7 @@ foodcornerniederdorf-zurich.ch
 foodcornerwinterthur-winterthur.ch
 foodcostpro.ch
 foodcourt-tivoli.ch
+foodcourt.ch
 foodcourtgeneva.ch
 foodcouture.ch
 foodcreative.ch
@@ -9105,7 +9106,6 @@ formei.ch
 formeitalia.ch
 formel-1-museum.ch
 formel-1-total.ch
-formel-1.ch
 formel-e-ade.ch
 formel-e.ch
 formel-events.ch
@@ -10392,7 +10392,6 @@ forsuccess.ch
 forsupport.ch
 forsure.ch
 forsweets.ch
-forswitzerland.ch
 forsys.ch
 forsyth.ch
 forsythegroup.ch

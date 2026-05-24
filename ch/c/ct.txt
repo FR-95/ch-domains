@@ -495,7 +495,6 @@ ctrlm.ch
 ctrlnet.ch
 ctrlplus.ch
 ctrls.ch
-ctrlshift.ch
 ctrlstudio.ch
 ctrlt.ch
 ctrlv.ch

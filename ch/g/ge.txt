@@ -1302,6 +1302,7 @@ gebrueder-kaeppeli.ch
 gebrueder-keller.ch
 gebrueder-kistler.ch
 gebrueder-knecht.ch
+gebrueder-kraus.ch
 gebrueder-kuehnis.ch
 gebrueder-kuelling.ch
 gebrueder-leka.ch
@@ -1748,7 +1749,6 @@ geca.ch
 gecad.ch
 gecal.ch
 gecam.ch
-gecap.ch
 gecapitalbank.ch
 gecaro.ch
 gecars.ch
@@ -8206,7 +8206,6 @@ geneva-city.ch
 geneva-classics.ch
 geneva-climbing.ch
 geneva-coach.ch
-geneva-colorectal-institute.ch
 geneva-conferencing-coworking.ch
 geneva-consulting.ch
 geneva-convention-bureau.ch
@@ -9870,6 +9869,7 @@ genicad.ch
 genico.ch
 genicofamilyoffice.ch
 genicologie.ch
+genicology.ch
 genicoud.ch
 genics.ch
 genidea.ch
@@ -10180,7 +10180,6 @@ genlaw.ch
 genlawpartners.ch
 genlawyer.ch
 genlegal.ch
-genline.ch
 genlink.ch
 genlivingbasel.ch
 genm.ch
@@ -13291,6 +13290,7 @@ geotracker.ch
 geotrade-tiefbau.ch
 geotrade.ch
 geotrail.ch
+geotrails.ch
 geotransports.ch
 geotravel-bus.ch
 geotravel-busreisen.ch
@@ -17856,6 +17856,7 @@ gesund-soland.ch
 gesund-trinken.ch
 gesund-tv.ch
 gesund-und-entspannt.ch
+gesund-und-frei.ch
 gesund-und-krank.ch
 gesund-und-mehr.ch
 gesund-und-munter.ch
@@ -18077,7 +18078,6 @@ gesunderdarm.ch
 gesunderdrucker.ch
 gesunderegion.ch
 gesunderezepte.ch
-gesunderfuellt.ch
 gesunderfuss.ch
 gesundergenuss.ch
 gesunderhund.ch
@@ -19997,7 +19997,6 @@ getchecked.ch
 getchexter.ch
 getcircle.ch
 getclarity.ch
-getclean.ch
 getcleaning.ch
 getcleartou.ch
 getclic.ch
@@ -20354,6 +20353,7 @@ getmall.ch
 getmamm.ch
 getmanaged.ch
 getmanukahoney.ch
+getmar.ch
 getmarketing.ch
 getmarketingservices.ch
 getmarvyn.ch

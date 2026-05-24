@@ -4008,7 +4008,6 @@ cleanconnect.ch
 cleanconsult.ch
 cleanconsulting.ch
 cleancooking.ch
-cleancore.ch
 cleancraft.ch
 cleancrew.ch
 cleandata.ch
@@ -7573,7 +7572,6 @@ clin.ch
 clin365.ch
 clina.ch
 clinaci.ch
-clinage.ch
 clinam.ch
 clinamen.ch
 clinara.ch
@@ -7741,7 +7739,6 @@ clinicarts.ch
 clinicasantachiara.ch
 clinicasantacroce.ch
 clinicasantanna.ch
-clinicaserena.ch
 clinicaspinedi.ch
 clinicatambre.ch
 clinicathome.ch
@@ -8030,6 +8027,7 @@ cliniquecic-saxon.ch
 cliniquecic.ch
 cliniqueclea.ch
 cliniquecolorire.ch
+cliniquecoquillage.ch
 cliniquecosmetics.ch
 cliniquecroixdor.ch
 cliniquedecarouge.ch

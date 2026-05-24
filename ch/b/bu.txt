@@ -3239,7 +3239,6 @@ buechslen.ch
 buechstaebli.ch
 buechwaeldli.ch
 buechweid.ch
-buechwisen-attikon.ch
 buecken.ch
 buecker-museum.ch
 bueckerflug.ch
@@ -5795,7 +5794,6 @@ buerovier.ch
 buerovision.ch
 buerovisp.ch
 buerovoegtlin.ch
-buerovolution.ch
 buerovonallmen.ch
 buerovorsprung.ch
 buerowand.ch
@@ -14627,6 +14625,7 @@ buvettedelapati-morges.ch
 buvettedelaplage.ch
 buvettedesbains.ch
 buvettedesevaux.ch
+buvettedesjeunesrives.ch
 buvettedessapins.ch
 buvettedetannay.ch
 buvettedreirosen.ch

@@ -2615,7 +2615,6 @@ doggystylez.ch
 doggystylz.ch
 doggytime.ch
 doggytourer.ch
-doggytrade.ch
 doggytreats.ch
 doggywalker.ch
 doggywash.ch
@@ -5252,6 +5251,7 @@ domainedesize.ch
 domainedeslerins.ch
 domainedesloyettes.ch
 domainedesmarnes.ch
+domainedesmesanges.ch
 domainedesmoulins.ch
 domainedesmuriers.ch
 domainedesmuses.ch
@@ -5865,7 +5865,6 @@ dome-visual.ch
 dome-vr.ch
 dome.ch
 dome1.ch
-domea-portal.ch
 domea.ch
 domea360.ch
 domeba.ch

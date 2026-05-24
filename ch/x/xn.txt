@@ -4113,7 +4113,6 @@ xn--behtet-und-geborgen-79b.ch
 xn--beimhollnder-ncb.ch
 xn--beingthere-zri-rsb.ch
 xn--beingthere-zrich-uzb.ch
-xn--beistndinnen-kcb.ch
 xn--beitrge-9wa.ch
 xn--beizen-fr-bezer-6vbd.ch
 xn--beizenfhrer-zhb.ch
@@ -10285,8 +10284,6 @@ xn--chummerbueb-v8a.ch
 xn--churcherlbt-t8a.ch
 xn--churchill-in-zrich-z6b.ch
 xn--churchillinzrich-uzb.ch
-xn--churros-wgeli-jfb.ch
-xn--churroswgeli-ncb.ch
 xn--churzltz-5za.ch
 xn--chuttl-gua.ch
 xn--chuzehsli-v9a.ch
@@ -12117,6 +12114,7 @@ xn--dichtungsbnder-fib.ch
 xn--dick-kchen-feb.ch
 xn--dickkchen-u9a.ch
 xn--dickunddnn-heb.ch
+xn--didaktikbro-1hb.ch
 xn--die-autohndler-eib.ch
 xn--die-bank-der-vermgensverwalter-98c.ch
 xn--die-bergkserei-eib.ch
@@ -12769,7 +12767,6 @@ xn--dner-kebap-ecb.ch
 xn--dner-king-07a.ch
 xn--dner-mitalles-imb.ch
 xn--dner-spectacle-gmb.ch
-xn--dner-wgeli-v5a4s.ch
 xn--dner4party-ecb.ch
 xn--dnerbey-90a.ch
 xn--dnerbox-90a.ch
@@ -12792,7 +12789,6 @@ xn--dnerroboter-rfb.ch
 xn--dnerspectacle-bjb.ch
 xn--dnerstag-n4a.ch
 xn--dnerstand-07a.ch
-xn--dnerwgeli-z2a7q.ch
 xn--dngeli-bua.ch
 xn--dngeliszenen-gcb.ch
 xn--dngemittel-9db.ch
@@ -20209,6 +20205,7 @@ xn--gesprchsfhrung-9hb20b.ch
 xn--gesprchskultur-9hb.ch
 xn--gesprchskunst-ffb.ch
 xn--gesprchsort-p8a.ch
+xn--gesprchspartner-4kb.ch
 xn--gesprchsraum-kcb.ch
 xn--gesprchsrunde-ffb.ch
 xn--gesprchsstoff-ffb.ch
@@ -20250,7 +20247,6 @@ xn--gesundebume-s8a.ch
 xn--gesundeernhrung-9kb.ch
 xn--gesundegrnde-llb.ch
 xn--gesundekinderernhrung-l2b.ch
-xn--gesunderfllt-llb.ch
 xn--gesundernhren-jfb.ch
 xn--gesunderume-s8a.ch
 xn--gesundesexualitt-9nb.ch
@@ -20697,10 +20693,8 @@ xn--glac-coach-e7a.ch
 xn--glac-epa.ch
 xn--glac-laden-e7a.ch
 xn--glaccoach-e4a.ch
-xn--glace-zri-w9a.ch
 xn--glacesche-53a.ch
 xn--glacetrpfli-xfb.ch
-xn--glacezri-c6a.ch
 xn--glacgarten-e7a.ch
 xn--glacgartenklettgau-ewb.ch
 xn--glacladen-e4a.ch
@@ -25897,7 +25891,6 @@ xn--hoslupfbar-s5a.ch
 xn--hostpont-71a.ch
 xn--hostpont-h2a.ch
 xn--hot-zrich-u9a.ch
-xn--hotdog-wgeli-ncb.ch
 xn--hotdogwgeli-r8a.ch
 xn--hote-8qa.ch
 xn--hotel-arvenbel-rsb.ch
@@ -29412,8 +29405,6 @@ xn--kdermeister-rfb.ch
 xn--kderpalast-ecb.ch
 xn--kdershop-n4a.ch
 xn--ke-haushaltgerte-8nb.ch
-xn--kebab-wgeli-r8a.ch
-xn--kebabwgeli-v5a.ch
 xn--kegeltten-v9a.ch
 xn--kehlenkhler-zhb.ch
 xn--kehlkopfentzndung-e3b.ch
@@ -33413,6 +33404,7 @@ xn--lectionsauconseilnational-9hc.ch
 xn--lectionsfdrales-9mbjb.ch
 xn--lectricien-96a.ch
 xn--lectriciengenve-6mbd.ch
+xn--lectriciens-99a.ch
 xn--lectricit-93aj.ch
 xn--lectricit-propre-9pbj.ch
 xn--lectrique-93a.ch
@@ -33533,7 +33525,6 @@ xn--leistungserklrungen-swb.ch
 xn--leistungserklrungen-tren-2bc64d.ch
 xn--leistungserklrungen-tueren-shc.ch
 xn--leistungsfhig-kfb.ch
-xn--leistungsfrderpartner-swissengineering-10d.ch
 xn--leistungsprfstand-d3b.ch
 xn--leitern-gurte-psagerteprfung-pnc83e.ch
 xn--leiterplatten-bestckung-tpc.ch
@@ -37105,7 +37096,6 @@ xn--menguide-85a.ch
 xn--meni-ernhrungsberatung-74b.ch
 xn--menkarte-85a.ch
 xn--menlounge-s9a.ch
-xn--menplan-p2a.ch
 xn--menschen-fr-tiere-c3b.ch
 xn--menschen-mglich-itb.ch
 xn--menschenfrsklima-rzb.ch
@@ -38744,8 +38734,6 @@ xn--momentefnger-ncb.ch
 xn--momentumdit-u8a.ch
 xn--momnt-ira.ch
 xn--momntwerk-x2a.ch
-xn--momo-wgeli-v5a.ch
-xn--momowgeli-z2a.ch
 xn--mon-corps-ma-dcision-o2b.ch
 xn--mon-ide-gya.ch
 xn--mon-mariage-laque-rwb.ch
@@ -39101,7 +39089,6 @@ xn--mri-sna.ch
 xn--mri-treuhand-dlb.ch
 xn--mri-zrich-u9a.ch
 xn--mri-zrichberg-0ob.ch
-xn--mria-9oab.ch
 xn--mriag-kva.ch
 xn--mrich-fra.ch
 xn--mriconsulting-wob.ch
@@ -41920,7 +41907,6 @@ xn--palml-mua.ch
 xn--palmldeklaration-pwb.ch
 xn--palmlfrei-37a.ch
 xn--palmlnetzwerk-lmb.ch
-xn--palmyre-genve-6gb.ch
 xn--palo-dpa.ch
 xn--paloblog-d1a.ch
 xn--palofestival-deb.ch
@@ -42513,9 +42499,7 @@ xn--personal-training-zrich-upc.ch
 xn--personalberater-rzte-qzb.ch
 xn--personalbro-1hb.ch
 xn--personalfhrung-osb.ch
-xn--personalisierte-ernhrung-8bc.ch
 xn--personalisiertebcher-4ec.ch
-xn--personalisierteernhrung-d8b.ch
 xn--personalisiertekinderbcher-k0c.ch
 xn--personalkonomie-gtb.ch
 xn--personalkonomik-gtb.ch
@@ -44351,7 +44335,6 @@ xn--prozesswrme-s8a.ch
 xn--proznt-evnt-o8af.ch
 xn--prozrcherberggebiet-89b.ch
 xn--prp-rla.ch
-xn--prpagymnase-cbb.ch
 xn--prparation-r5a.ch
 xn--prparationsauxexamens-c5b.ch
 xn--prparatorium-hcb.ch
@@ -45458,12 +45441,10 @@ xn--rdemann-n2a.ch
 xn--rder-5qa.ch
 xn--rder-loa.ch
 xn--rder-nach-mass-5hb.ch
-xn--rder-park-v2a.ch
 xn--rder-reifen-l8a.ch
 xn--rder-reisen-rfb.ch
 xn--rder-rollen-l8a.ch
 xn--rderhotel-v2a.ch
-xn--rderpark-0za.ch
 xn--rderregal-v2a.ch
 xn--rderreifen-q5a.ch
 xn--rdershop-0za.ch
@@ -46759,6 +46740,7 @@ xn--rollstuhl-zubehr-0wb.ch
 xn--rollstuhlaufzge-cwb.ch
 xn--rollstuhlhebebhne-g3b.ch
 xn--rollstuhltaxi-zrich-kbc.ch
+xn--rollstuhltaxi-zrichsee-6lc.ch
 xn--rollstuhlzubehr-mtb.ch
 xn--rologie-m2a.ch
 xn--roman-brgi-geb.ch
@@ -48490,7 +48472,6 @@ xn--schdler-c1a.ch
 xn--schdliche-begrenzungsinitiative-nein-29c.ch
 xn--schdliche-kndigungsinitiative-nein-d4c68f.ch
 xn--schdling-2za.ch
-xn--schdling-bekmpfen-sqbj.ch
 xn--schdlingbekmpfung-sqbi.ch
 xn--schdlinge-ungeziefer-dzb.ch
 xn--schdlinge-x2a.ch
@@ -50756,6 +50737,7 @@ xn--schwitzchstli-jfb.ch
 xn--schwitzhtte-0hb.ch
 xn--schwitzhtte-biel-qzb.ch
 xn--schwitzhtten-klb.ch
+xn--schwizerchrz-nlb.ch
 xn--schwizerhsli-llb.ch
 xn--schwlbeli-y2a.ch
 xn--schwmmbar-t9a.ch
@@ -55946,6 +55928,7 @@ xn--thme-6oa.ch
 xn--thme-6qa.ch
 xn--thmeli-xxa.ch
 xn--thmes-5ra.ch
+xn--thmes-kua.ch
 xn--thmis-holzwerkstatt-r6b.ch
 xn--thmsns-xxa.ch
 xn--thmu-6qa.ch
@@ -62942,7 +62925,6 @@ xn--zri-food-65a.ch
 xn--zri-frwrch-w5a5zea.ch
 xn--zri-garten-9db.ch
 xn--zri-gas-n2a.ch
-xn--zri-glace-q9a.ch
 xn--zri-gyn-n2a.ch
 xn--zri-hell-65a.ch
 xn--zri-het-energie-zvb.ch

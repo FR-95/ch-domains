@@ -97,7 +97,6 @@ x-chocolates.ch
 x-clan.ch
 x-class.ch
 x-clean.ch
-x-click.ch
 x-cloud.ch
 x-clouds.ch
 x-club-basel.ch
@@ -408,7 +407,6 @@ x-raycyling.ch
 x-re.ch
 x-reader.ch
 x-rechnung.ch
-x-rechnungen.ch
 x-reichmuth.ch
 x-reinigungen.ch
 x-rent.ch

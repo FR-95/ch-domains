@@ -2460,6 +2460,7 @@ dibidding.ch
 dibidu.ch
 dibiost.ch
 dibirowing.ch
+dibis.ch
 dibisoft.ch
 dibit.ch
 dibito-files.ch
@@ -3336,7 +3337,6 @@ die-autodoctoren.ch
 die-autodoktoren.ch
 die-autogarage.ch
 die-autohaendler.ch
-die-autoreinigung.ch
 die-autos.ch
 die-autoverpackerei.ch
 die-autowerkstatt.ch
@@ -6377,7 +6377,6 @@ diegesundheitsexperten.ch
 diegesundheitsligen.ch
 diegesundheitslotsen.ch
 diegesundheitsmanagerin.ch
-diegesundheitsmesse.ch
 diegesundheitspraxis.ch
 diegesundheitstrainerin.ch
 diegesundmacher.ch
@@ -6576,7 +6575,6 @@ diegrille.ch
 diegrippe.ch
 diegroesstenschweizertalente.ch
 diegroobschlaechtige.ch
-diegrossebox.ch
 diegrosseeinheit.ch
 diegrossepause.ch
 diegrosseschlagerueberraschung.ch
@@ -10482,7 +10480,6 @@ digiexperts.ch
 digifab.ch
 digifactory-sa.ch
 digifactory.ch
-digifactur.ch
 digifai.ch
 digifaktur.ch
 digifan.ch
@@ -10745,6 +10742,7 @@ digion.ch
 digione.ch
 digionline.ch
 digiop.ch
+digiops.ch
 digiorgio-baukeramik.ch
 digiorgio.ch
 digiorgiolht.ch
@@ -11197,6 +11195,7 @@ digital-card.ch
 digital-care.ch
 digital-cash.ch
 digital-caveau.ch
+digital-century.ch
 digital-cfo.ch
 digital-ch.ch
 digital-chameleon.ch
@@ -15516,7 +15515,6 @@ dilearning.ch
 dileas.ch
 dileca.ch
 dileci.ch
-dilection.ch
 dilegno-alpine.ch
 dilegno-city.ch
 dilegno-falegnameria.ch
@@ -18827,11 +18825,13 @@ disart.ch
 disartteam.ch
 disasse.ch
 disasso.ch
+disaster-mode.ch
 disaster-pharmacy.ch
 disaster-recovery.ch
 disaster.ch
 disasterdesign.ch
 disasterdreams.ch
+disastermode.ch
 disasterrecovery.ch
 disastershow.ch
 disastersystems.ch

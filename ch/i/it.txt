@@ -1,7 +1,6 @@
 it-2-do.ch
 it-24.ch
 it-3.ch
-it-360.ch
 it-365.ch
 it-4-finance.ch
 it-4-you.ch
@@ -112,6 +111,7 @@ it-bergamo.ch
 it-bern.ch
 it-bernadog.ch
 it-berufsschule.ch
+it-beschaffung.ch
 it-betschart.ch
 it-bikes.ch
 it-bildung.ch
@@ -1473,6 +1473,7 @@ italiahome.ch
 italiaindependent.ch
 italiaintesta.ch
 italiaiptv-dream.ch
+italiamia.ch
 italiamo.ch
 italiamybike.ch
 italiamygolf.ch
@@ -3831,7 +3832,6 @@ itsk.ch
 itskanal.ch
 itskastro.ch
 itskenny.ch
-itskills-online.ch
 itskills.ch
 itskillz.ch
 itskillzglobal.ch

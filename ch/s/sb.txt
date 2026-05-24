@@ -554,6 +554,7 @@ sbcert.ch
 sbcfiduciaire.ch
 sbcfiduciaria.ch
 sbcg.ch
+sbcgroup.ch
 sbcgx.ch
 sbch.ch
 sbchausag.ch

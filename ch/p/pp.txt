@@ -12,7 +12,6 @@ pp-cloud.ch
 pp-coach.ch
 pp-coaching.ch
 pp-company.ch
-pp-consulting-schweiz.ch
 pp-consulting.ch
 pp-design.ch
 pp-ed.ch
@@ -382,6 +381,7 @@ ppi-schweiz.ch
 ppi-suisse.ch
 ppi-summerball.ch
 ppi.ch
+ppi2026.ch
 ppicture.ch
 ppienet.ch
 ppienetwork.ch

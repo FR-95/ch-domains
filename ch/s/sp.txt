@@ -892,7 +892,6 @@ spacebank.ch
 spacebar.ch
 spacebase.ch
 spacebasel.ch
-spacebay.ch
 spacebetween.ch
 spacebluecloud.ch
 spacebok.ch
@@ -1741,7 +1740,6 @@ spamclaim.ch
 spamclean.ch
 spamcleaner.ch
 spamcop.ch
-spamdeny.ch
 spamdichfrei.ch
 spamedhotels.ch
 spamenmoins.ch
@@ -5213,7 +5211,6 @@ speedylex.ch
 speedymaler.ch
 speedymontani.ch
 speedymustafi.ch
-speedypadel.ch
 speedyphone.ch
 speedypipe.ch
 speedypizza-beringen.ch
@@ -5243,7 +5240,6 @@ speedyservicesagl.ch
 speedyshop.ch
 speedysolutions.ch
 speedyspeed.ch
-speedytalk.ch
 speedytaxiboot.ch
 speedytrans.ch
 speedytransport.ch
@@ -10279,6 +10275,7 @@ spintechgroup.ch
 spintechnology.ch
 spintein.ch
 spinteincasino.ch
+spintelligence.ch
 spinteriordesign.ch
 spintero.ch
 spintexas.ch
@@ -10481,6 +10478,7 @@ spiri.ch
 spiribubble.ch
 spiricloud.ch
 spiridea.ch
+spiridon-bois.ch
 spiridon.ch
 spiridonsvc.ch
 spiridus-bau-gmbh.ch
@@ -12979,6 +12977,7 @@ spitexladen.ch
 spitexlaendli-jobs.ch
 spitexlaendli.ch
 spitexlagomaggiore.ch
+spitexlamedical.ch
 spitexlarisa.ch
 spitexlauchetal.ch
 spitexleads.ch
@@ -15985,6 +15984,7 @@ sportheldinnen.ch
 sportheon.ch
 sportherapsy.ch
 sportheroes.ch
+sportherzzentrum.ch
 sporthg.ch
 sporthilfe-franken.ch
 sporthilfe-schweiz.ch
@@ -16191,6 +16191,7 @@ sportkarate-liestal.ch
 sportkarate-sursee.ch
 sportkarate.ch
 sportkaratesursee.ch
+sportkardiologe.ch
 sportkardiologie-baden.ch
 sportkardiologie.ch
 sportkarriere.ch
@@ -17378,7 +17379,6 @@ sportservices.ch
 sportsetang.ch
 sportsetaventures.ch
 sportsetloisirs.ch
-sportsetted.ch
 sportsevent.ch
 sportsevents365.ch
 sportsevision.ch
@@ -17499,7 +17499,6 @@ sportsme.ch
 sportsmed-research.ch
 sportsmedia.ch
 sportsmedianetwork.ch
-sportsmedicalbase.ch
 sportsmedicine.ch
 sportsmedicineacademy.ch
 sportsmedicineinnovations.ch
@@ -17593,7 +17592,6 @@ sportssale.ch
 sportssecrets.ch
 sportsselect.ch
 sportssense.ch
-sportssetted.ch
 sportsshoes.ch
 sportsshop.ch
 sportssoft.ch
@@ -19634,6 +19632,7 @@ springinn.ch
 springinsfeldmaler.ch
 springinsfeldmalergmbh.ch
 springinvest.ch
+springip.ch
 springkonkurrenz.ch
 springkurs.ch
 springlane.ch
@@ -20165,6 +20164,7 @@ sprungziffern-taschenuhren.ch
 sprutz.ch
 sprutzos.ch
 spruuchriif.ch
+spruzzi.ch
 sprv.ch
 sprvs.ch
 sprw.ch

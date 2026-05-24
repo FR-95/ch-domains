@@ -5376,7 +5376,6 @@ webrewards.ch
 webrezept.ch
 webrian.ch
 webrick.ch
-webricks.ch
 webridge.ch
 webriese.ch
 webril.ch
@@ -6274,7 +6273,6 @@ webster-media.ch
 webster.ch
 websterclo.ch
 webstergeneva.ch
-websterize.ch
 webstermusic.ch
 webstern.ch
 websternine.ch
@@ -8635,6 +8633,7 @@ wegezumdialog.ch
 wegezumwandel.ch
 wegezumwir.ch
 wegezurheilung.ch
+wegezurkunst.ch
 wegezurmusik.ch
 wegfahr-sperre.ch
 wegfahrsperre.ch
@@ -8938,6 +8937,7 @@ wegweiser-astrologie.ch
 wegweiser-coach.ch
 wegweiser-der-seele.ch
 wegweiser-freiwilligenarbeit.ch
+wegweiser-helfer.ch
 wegweiser-kind.ch
 wegweiser-online.ch
 wegweiser-planungsbeschaffung.ch
@@ -9618,7 +9618,6 @@ weidmann-ag.ch
 weidmann-apos.ch
 weidmann-architekten-ag.ch
 weidmann-architekten.ch
-weidmann-aviation.ch
 weidmann-coaching.ch
 weidmann-consulting.ch
 weidmann-fiber.ch
@@ -13838,8 +13837,6 @@ wellbeingadvisory.ch
 wellbeingapp.ch
 wellbeingatwork.ch
 wellbeingcenter-basel.ch
-wellbeingcenter.ch
-wellbeingcentre.ch
 wellbeingclinic.ch
 wellbeingcoaching.ch
 wellbeingconcierge.ch
@@ -14626,6 +14623,7 @@ wellnessintourism.ch
 wellnessity.ch
 wellnessium.ch
 wellnessjazz.ch
+wellnessjournal.ch
 wellnesskandersteg.ch
 wellnesskinesiologie.ch
 wellnessking.ch
@@ -19784,6 +19782,7 @@ werstreamtes.ch
 wersuchetderfindet.ch
 wersuchtderfindet.ch
 wert-anlage.ch
+wert-blick.ch
 wert-blog.ch
 wert-check.ch
 wert-e.ch
@@ -19797,6 +19796,7 @@ wert-leben.ch
 wert-meiner-arbeit.ch
 wert-meiner-immobilie.ch
 wert-online.ch
+wert-pilot.ch
 wert-schaetzer.ch
 wert-schatz.ch
 wert-sein.ch

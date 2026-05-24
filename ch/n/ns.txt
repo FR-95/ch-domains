@@ -944,7 +944,6 @@ ns1.babyshiatsu-zuerioberland.ch
 ns1.bach-streaming.ch
 ns1.bachmann-bbb.ch
 ns1.backbone.ch
-ns1.backmail.ch
 ns1.baconniere.ch
 ns1.bader-hetzel.ch
 ns1.baeuerinnenportal.ch
@@ -4320,7 +4319,6 @@ ns2.babyshiatsu-zuerioberland.ch
 ns2.bach-streaming.ch
 ns2.bachmann-bbb.ch
 ns2.backbone.ch
-ns2.backmail.ch
 ns2.baconniere.ch
 ns2.baeuerinnenportal.ch
 ns2.bagnoud.ch

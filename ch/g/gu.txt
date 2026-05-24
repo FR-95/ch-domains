@@ -1410,6 +1410,7 @@ guespi.ch
 guess-fashion.ch
 guess-who.ch
 guess.ch
+guessbb.ch
 guessow.ch
 guesss.ch
 guessthat.ch
@@ -1537,6 +1538,7 @@ guestship.ch
 guestsupport.ch
 guesttoguest.ch
 guestvibes.ch
+guestvoiceai.ch
 guestvoip.ch
 guestweave.ch
 gueswitzerland.ch
@@ -2639,7 +2641,6 @@ guido-wagner.ch
 guido-walker.ch
 guido-zaech.ch
 guido.ch
-guidoachermann.ch
 guidoaellig.ch
 guidoalb.ch
 guidoalbers.ch

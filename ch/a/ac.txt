@@ -5553,7 +5553,6 @@ acsjets.ch
 acsm-fr.ch
 acsmetall.ch
 acsmotorsport.ch
-acsn.ch
 acsnet.ch
 acsoft.ch
 acsol.ch
@@ -7419,6 +7418,7 @@ acupuncture-vd.ch
 acupuncture-vetroz.ch
 acupuncture-vevey.ch
 acupuncture-vs.ch
+acupuncture-yongyi.ch
 acupuncture-yverdon.ch
 acupuncture-zurich.ch
 acupuncture.ch

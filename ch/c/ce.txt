@@ -3294,7 +3294,6 @@ central-garage.ch
 central-garagewirz.ch
 central-gate.ch
 central-haetzingen.ch
-central-home-management.ch
 central-hotel.ch
 central-kirchberg.ch
 central-klinik.ch
@@ -5373,6 +5372,7 @@ ceojobs.ch
 ceol.ch
 ceoled-display.ch
 ceoltoir.ch
+ceolution.ch
 ceon.ch
 ceonews.ch
 ceoo.ch

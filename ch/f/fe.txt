@@ -3529,7 +3529,6 @@ felicien.ch
 felicienbugnon.ch
 felicienfavre.ch
 felicienriondel.ch
-felicieredard.ch
 felicio.ch
 feliciodoval.ch
 felicious.ch
@@ -3951,6 +3950,7 @@ felixlehmann.ch
 felixleo.ch
 felixline.ch
 felixloretz.ch
+felixlubri.ch
 felixluethy.ch
 felixm.ch
 felixmagicwave.ch
@@ -5408,7 +5408,6 @@ fenetresconcept.ch
 fenetresdelavent.ch
 fenetresenvers.ch
 fenetresg.ch
-fenetresgeneve.ch
 fenetrespvc.ch
 fenetresurjardin.ch
 fenetrier.ch
@@ -5616,6 +5615,7 @@ fenix-proservice.ch
 fenix-psy.ch
 fenix-records.ch
 fenix-rosenfelder.ch
+fenix-sa.ch
 fenix-sicherheit.ch
 fenix-zh.ch
 fenix.ch
@@ -7905,6 +7905,7 @@ ferienjobs-schweiz.ch
 ferienjobs.ch
 ferienjournal.ch
 ferienjurte.ch
+ferienkalender-schweiz.ch
 ferienkalender.ch
 ferienkatalog.ch
 ferienkataloge.ch

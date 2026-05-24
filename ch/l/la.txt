@@ -2071,6 +2071,7 @@ lab1.ch
 lab1007.ch
 lab1337.ch
 lab15.ch
+lab16.ch
 lab17.ch
 lab2-talus.ch
 lab21.ch
@@ -4461,7 +4462,6 @@ lacaisseabois.ch
 lacaisseaoutils.ch
 lacaissedepargnedesfrontaliers.ch
 lacaisserie.ch
-lacaissesecure.ch
 lacaisseunique.ch
 lacaissevaudoise.ch
 lacaixa.ch
@@ -5586,6 +5586,7 @@ lacliniquedesartiste.ch
 lacliniquedesartistes.ch
 lacliniquedespoux.ch
 lacliniquedu-tapis.ch
+lacliniqueducoquillage.ch
 lacliniquedujouet.ch
 lacliniquedumoteurelectrique.ch
 lacliniquedupaysdenhaut.ch
@@ -5869,6 +5870,7 @@ lacote-urology.ch
 lacote-zuerich.ch
 lacote.ch
 lacoteargusdumobile.ch
+lacoteautoglass.ch
 lacoteauxfees.ch
 lacotebouge.ch
 lacotechurch.ch
@@ -12253,6 +12255,7 @@ lambriggerstoren.ch
 lambrinos.ch
 lambro.ch
 lambropoulou.ch
+lambru.ch
 lambrusceria.ch
 lambruscheria.ch
 lambrusco.ch
@@ -13452,6 +13455,7 @@ lanciennecourgenay.ch
 lanciennedouane1820.ch
 lancienneposte.ch
 lancieno.ch
+lancing.ch
 lancioparacaduteticino.ch
 lancivis.ch
 lanckau.ch
@@ -20597,6 +20601,7 @@ laserglas.ch
 laserglauser.ch
 laserglow.ch
 lasergonin.ch
+lasergr.ch
 lasergrafik.ch
 lasergrafix.ch
 lasergraph.ch
@@ -27381,6 +27386,7 @@ lawinenrucksack.ch
 lawinenrucksaecke.ch
 lawinenschutz.ch
 lawinenschutzfenster.ch
+lawinensm2017.ch
 lawinensuchgeraet.ch
 lawinentest.ch
 lawinenverbauungen.ch

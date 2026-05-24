@@ -1444,7 +1444,6 @@ tradingfreaks.ch
 tradingfutures.ch
 tradinggame.ch
 tradinggroup.ch
-tradingheros.ch
 tradinghouse.ch
 tradinghub.ch
 tradinghunters.ch
@@ -3436,6 +3435,7 @@ trakt.ch
 traktanden.ch
 traktandenliste.ch
 traktandum.ch
+traktandum1.ch
 traktat.ch
 traktate.ch
 traktatmaeppchen.ch
@@ -7289,6 +7289,7 @@ traumartisiart.ch
 traumasensibel.ch
 traumasensible-beratung.ch
 traumasensible-familienbegleitung.ch
+traumasensible-handanalyse.ch
 traumasensible-spitex.ch
 traumasensible-transformation.ch
 traumasensibleraeume.ch
@@ -7624,7 +7625,6 @@ traumjobwebmaster.ch
 traumjuwelen.ch
 traumkamin.ch
 traumkarriere.ch
-traumkatzenwelt.ch
 traumkerzen.ch
 traumkind-zh.ch
 traumkinobasel.ch
@@ -8792,6 +8792,8 @@ travellanguage.ch
 travellapartners.ch
 travelle.ch
 travelleadersint.ch
+traveller-kid.ch
+traveller-kit.ch
 traveller.ch
 travellerag.ch
 travellerbuddy.ch
@@ -11761,6 +11763,7 @@ tresorimmod.ch
 tresorion.ch
 tresoris.ch
 tresorit.ch
+tresorive.ch
 tresorloesungen.ch
 tresormontage.ch
 tresoro-international.ch
@@ -14116,6 +14119,7 @@ trienger-woche.ch
 triengerbote.ch
 triengerwoche.ch
 triennale.ch
+triennale2014.ch
 triennale2017.ch
 triennalemaroggia.ch
 trient-uprising.ch

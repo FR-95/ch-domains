@@ -2394,6 +2394,7 @@ unifr-test.ch
 unifr.ch
 unifree.ch
 unifreiburg.ch
+unifresh.ch
 unifribourg.ch
 unifrit.ch
 unifritgastro.ch
@@ -4083,7 +4084,6 @@ unisexe.ch
 unisexiaspa.ch
 unisfoa-campus.ch
 unisfoa.ch
-unisg-forecasting.ch
 unisg.ch
 unisg97.ch
 unisg98.ch
@@ -4778,7 +4778,6 @@ unitysound.ch
 unityspace.ch
 unitysystems.ch
 unitytrust.ch
-unityup.ch
 unium.ch
 uniun-cristallina.ch
 uniun-travers.ch
@@ -7457,7 +7456,6 @@ unternehmercoa.ch
 unternehmercoach.ch
 unternehmercoaching.ch
 unternehmercode.ch
-unternehmerconvento.ch
 unternehmerdashboard.ch
 unternehmerdesk.ch
 unternehmerdetail.ch
@@ -7484,7 +7482,6 @@ unternehmerhacks.ch
 unternehmerhaus.ch
 unternehmerheld.ch
 unternehmerhelden.ch
-unternehmerimpuls.ch
 unternehmerimpulse.ch
 unternehmerin-im-portrait.ch
 unternehmerin-vital.ch

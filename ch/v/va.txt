@@ -3233,7 +3233,6 @@ valhorestag.ch
 valhoriz.ch
 valhost.ch
 valhun.ch
-vali-allround.ch
 vali-bau.ch
 vali-construction.ch
 vali-lio.ch
@@ -6622,6 +6621,8 @@ vanthoff.ch
 vanthomas.ch
 vanthuyne.ch
 vantiginex.ch
+vantigo.ch
+vantigogroup.ch
 vantigoswiss.ch
 vantik.ch
 vantikai.ch
@@ -7638,7 +7639,6 @@ variohausswiss.ch
 variohouse.ch
 varioimmobilien.ch
 variojet.ch
-variokreuzfahrten.ch
 variolens.ch
 variomail.ch
 variomaison.ch
@@ -8894,7 +8894,6 @@ vaudroutes.ch
 vaudroz.ch
 vaudruziens.ch
 vaudschoollab.ch
-vaudsentiers.ch
 vaudshop.ch
 vaudsolutions.ch
 vaudsuccession.ch

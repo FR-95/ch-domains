@@ -194,6 +194,7 @@ ai-code.ch
 ai-coder-association.ch
 ai-coding-foundation.ch
 ai-coding.ch
+ai-collab-films.ch
 ai-collab.ch
 ai-collective.ch
 ai-college.ch
@@ -5548,6 +5549,7 @@ airsoftid.ch
 airsoftipsc.ch
 airsoftjura.ch
 airsoftladen.ch
+airsoftlaw.ch
 airsoftoccasion.ch
 airsoftshop.ch
 airsoftsquadbasel.ch

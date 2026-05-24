@@ -603,7 +603,6 @@ ch-yoga.ch
 ch-zahnarzt-brunnen.ch
 ch-zentral.ch
 ch-zuercher.ch
-ch-zug.ch
 ch.ch
 ch0.ch
 ch01.ch
@@ -830,6 +829,7 @@ chablaisparapente.ch
 chablaispaysage.ch
 chablaisrc.ch
 chablaisremorques.ch
+chablaistattoo.ch
 chablaistherapies.ch
 chablaistrophy.ch
 chablaisvins.ch
@@ -2045,6 +2045,7 @@ chalet-la-tzoumaz.ch
 chalet-ladaille.ch
 chalet-laerche.ch
 chalet-laerchenhalte.ch
+chalet-lamarmotte-bruson.ch
 chalet-lapantheredesneiges.ch
 chalet-lapinou.ch
 chalet-larix-lenk.ch
@@ -2433,7 +2434,6 @@ chaletbelalp.ch
 chaletbella.ch
 chaletbellaluna-belalp.ch
 chaletbelleclaire.ch
-chaletbellecrete.ch
 chaletbelleponcke.ch
 chaletbellerive.ch
 chaletbello.ch
@@ -4166,7 +4166,6 @@ change-movement.ch
 change-navigator.ch
 change-neerach.ch
 change-now.ch
-change-oerlikon.ch
 change-on.ch
 change-over.ch
 change-pain.ch
@@ -4635,6 +4634,7 @@ chantale-gfeller.ch
 chantale-riccardo.ch
 chantale-tschirren.ch
 chantale.ch
+chantaleham.ch
 chantalehrat.ch
 chantalekueng.ch
 chantalemesserli.ch
@@ -5649,7 +5649,6 @@ charismaleben.ch
 charismarealestate.ch
 charismarke.ch
 charismarken.ch
-charismaschool.ch
 charismasierre.ch
 charismastiftung.ch
 charismaticbranding.ch
@@ -5844,7 +5843,6 @@ charlescolby.ch
 charlescottet.ch
 charlesdeceuninck.ch
 charlesdelapala.ch
-charlesdevantay.ch
 charlesdrachenseite.ch
 charlesedouardguillaume.ch
 charlesedouardjacot.ch
@@ -7652,6 +7650,7 @@ chatmail.ch
 chatmailsecure.ch
 chatman.ch
 chatmania.ch
+chatmap.ch
 chatmat.ch
 chatmath.ch
 chatme.ch
@@ -7712,8 +7711,10 @@ chatrea.ch
 chatrencontre.ch
 chatresear.ch
 chatriand.ch
+chatric.ch
 chatrina.ch
 chatrinaschumacher.ch
+chatriq.ch
 chatrondell.ch
 chatroom.ch
 chatroom2000.ch
@@ -8110,6 +8111,7 @@ chaussettehorpheline.ch
 chaussettes.ch
 chausseurs-de-grancy.ch
 chausseurs-scholders.ch
+chaussin.ch
 chausson-campingcar.ch
 chausson-wohnmobil.ch
 chausson.ch
@@ -12110,6 +12112,7 @@ chezzen.ch
 chezzio.ch
 chf-coin.ch
 chf-es.ch
+chf-iban.ch
 chf-krise.ch
 chf-retten.ch
 chf-trust.ch
@@ -12142,6 +12145,7 @@ chff.ch
 chffn.ch
 chffundtoken.ch
 chfi.ch
+chfiban.ch
 chfiber.ch
 chfilm.ch
 chfilmszene.ch
@@ -18960,6 +18964,7 @@ chrischona-ebnat-kappel.ch
 chrischona-frauenfeld.ch
 chrischona-freienstein.ch
 chrischona-frick.ch
+chrischona-glattfelden.ch
 chrischona-gossau.ch
 chrischona-graenichen.ch
 chrischona-hallau.ch
@@ -20929,6 +20934,8 @@ christinaurnatur.ch
 christinavanligten.ch
 christinavarveris.ch
 christinavassalli.ch
+christinavassalliservice.ch
+christinavassalliservices.ch
 christinaveya.ch
 christinavilliger.ch
 christinavirzi.ch

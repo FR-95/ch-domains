@@ -393,6 +393,7 @@ mr2.ch
 mr24.ch
 mr2c.ch
 mr2tuning.ch
+mr38.ch
 mr41.ch
 mr6.ch
 mr7.ch

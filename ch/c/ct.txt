@@ -266,7 +266,6 @@ cthulhu.ch
 cti-bcs.ch
 cti-company.ch
 cti-conference.ch
-cti-entrepreneurship.ch
 cti-ge.ch
 cti-group.ch
 cti-interweb.ch
@@ -364,6 +363,7 @@ ctnq.ch
 ctns.ch
 ctnsupport.ch
 cto-circle.ch
+cto-desk.ch
 cto-impact.ch
 cto-now.ch
 cto-riviera.ch

@@ -682,7 +682,6 @@ excellentfacets.ch
 excellentfood.ch
 excellentgo4.ch
 excellenthousing.ch
-excellentia.ch
 excellentjob.ch
 excellentlivesound.ch
 excellentmartialarts.ch
@@ -4307,6 +4306,7 @@ expo-extra.ch
 expo-fleuves.ch
 expo-floor.ch
 expo-geissberg.ch
+expo-hdv.ch
 expo-hitzkirchertal.ch
 expo-hors.ch
 expo-horse.ch
@@ -4830,6 +4830,7 @@ express-offerten24.ch
 express-online.ch
 express-personal.ch
 express-pfarrer.ch
+express-phone-klinik.ch
 express-pizza-chur.ch
 express-pizza-kebap.ch
 express-planung.ch
@@ -5285,6 +5286,7 @@ exta.ch
 extablish.ch
 extasa.ch
 extase.ch
+extaseband.ch
 extasia.ch
 extasiadrink.ch
 extasify.ch

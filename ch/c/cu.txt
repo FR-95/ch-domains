@@ -265,7 +265,6 @@ cubeet.ch
 cubefilms.ch
 cubefinance.ch
 cubefluid.ch
-cubefrog.ch
 cubegames.ch
 cubegrafik.ch
 cubeheat.ch
@@ -2662,6 +2661,7 @@ curapraxis.ch
 curaprime.ch
 curaprivat.ch
 curapro.ch
+curaprocess.ch
 curaproperties.ch
 curaprox-baby.ch
 curaprox-roadshow.ch
@@ -3322,6 +3322,7 @@ currencysolutions.ch
 current.ch
 currentbody.ch
 currentconcerns.ch
+currently.ch
 currentmoves.ch
 currents-festival.ch
 currents.ch

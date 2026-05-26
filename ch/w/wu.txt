@@ -2030,7 +2030,6 @@ wurzeln.ch
 wurzelnaescht.ch
 wurzelnausholz.ch
 wurzelnd.ch
-wurzelnderfreiheit.ch
 wurzelnundmehr.ch
 wurzelnundsterne.ch
 wurzelnundwachsen.ch
@@ -2129,6 +2128,7 @@ wuse.ch
 wusel.ch
 wuseldusel.ch
 wuselhain.ch
+wusfa.ch
 wushen.ch
 wushentang.ch
 wushu-akademie.ch

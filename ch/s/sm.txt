@@ -935,6 +935,7 @@ smart-equestrian.ch
 smart-erb.ch
 smart-escape.ch
 smart-estate.ch
+smart-events.ch
 smart-evolution.ch
 smart-exam.ch
 smart-expense.ch
@@ -1368,7 +1369,6 @@ smart-skill.ch
 smart-skills.ch
 smart-sky.ch
 smart-sla.ch
-smart-sm.ch
 smart-smart-home.ch
 smart-smile.ch
 smart-social-solutions.ch
@@ -2646,7 +2646,6 @@ smartfox-news.ch
 smartfox-reviews.ch
 smartfox-tech.ch
 smartfox.ch
-smartframe.ch
 smartfrank.ch
 smartfree.ch
 smartfreelancing.ch
@@ -2830,7 +2829,6 @@ smarthome-beratung.ch
 smarthome-bricolage.ch
 smarthome-competence.ch
 smarthome-eimsig.ch
-smarthome-elektriker.ch
 smarthome-elmiger.ch
 smarthome-engineer.ch
 smarthome-engineers.ch
@@ -4441,6 +4439,7 @@ smartysdesign.ch
 smartytap.ch
 smartzapp.ch
 smartzebra.ch
+smartzeit.ch
 smartzell.ch
 smartzeugnis.ch
 smartziel.ch

@@ -1830,10 +1830,12 @@ dufoto.ch
 dufour-150.ch
 dufour-1875-2025.ch
 dufour-advice.ch
+dufour-advisory.ch
 dufour-advokatur-ag.ch
 dufour-advokatur.ch
 dufour-advokaturag.ch
 dufour-architektur.ch
+dufour-capital-advisory.ch
 dufour-capital.ch
 dufour-cockpit.ch
 dufour-group.ch
@@ -1860,6 +1862,7 @@ dufouradvokaturag.ch
 dufourag.ch
 dufouratelier.ch
 dufourcapital.ch
+dufourcapitaladvisory.ch
 dufourcompany.ch
 dufourdent.ch
 dufourfo.ch
@@ -2988,6 +2991,7 @@ dunstkreis.ch
 duntelen.ch
 duntrade.ch
 dunum.ch
+dunut.ch
 dunwicks.ch
 duny-muffin.ch
 dunya-portfolio.ch
@@ -3315,6 +3319,7 @@ duovendela.ch
 duovermu.ch
 duoversum.ch
 duovet.ch
+duoveya.ch
 duovino.ch
 duovinum.ch
 duovita.ch
@@ -4480,7 +4485,6 @@ dustwit.ch
 dusty-angels.ch
 dusty-brush.ch
 dusty-donkey.ch
-dusty-green.ch
 dusty-live.ch
 dusty-seekers.ch
 dusty.ch
@@ -4568,7 +4572,6 @@ duthalergmbh.ch
 duthe.ch
 dutheatre.ch
 duti-sound.ch
-duti.ch
 duties.ch
 dutis-sound.ch
 dutisound.ch

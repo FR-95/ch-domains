@@ -147,6 +147,7 @@ pc-hilfe-frauenfeld.ch
 pc-hilfe-gantrisch.ch
 pc-hilfe-interlaken.ch
 pc-hilfe-kreuzlingen.ch
+pc-hilfe-linthgebiet.ch
 pc-hilfe-murten.ch
 pc-hilfe-rj.ch
 pc-hilfe-schwarzenburg.ch
@@ -284,6 +285,7 @@ pc-reinach.ch
 pc-reinigung.ch
 pc-rent.ch
 pc-repair.ch
+pc-reparatur-rapperswil.ch
 pc-reparatur-service.ch
 pc-reparatur-winterthur.ch
 pc-reparatur-zuerich.ch
@@ -785,6 +787,7 @@ pchilfe-schweiz.ch
 pchilfe-thun.ch
 pchilfe-winterthur.ch
 pchilfe.ch
+pchilfeag.ch
 pchilfebasel.ch
 pchilfebern.ch
 pchilfeschweiz.ch

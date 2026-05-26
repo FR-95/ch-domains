@@ -133,7 +133,6 @@ zicabret.ch
 zicaffe.ch
 zicc.ch
 zice.ch
-zich.ch
 zichels.ch
 zichorien-kaffee.ch
 zichorien.ch
@@ -2487,6 +2486,7 @@ zinssaetze.ch
 zinssatz.ch
 zinsscout.ch
 zinsscout24.ch
+zinssenker.ch
 zinssenkung.ch
 zinsser.ch
 zinssparen.ch
@@ -2722,7 +2722,6 @@ zipship.ch
 zipsin.ch
 zipsterbaby.ch
 zipstring.ch
-ziptonip.ch
 ziptra-filter.ch
 ziptra.ch
 ziptrak.ch

@@ -2487,7 +2487,6 @@ coastal-rowing.ch
 coastal.ch
 coastalrowing.ch
 coastalscents.ch
-coastalvibes.ch
 coastboutique.ch
 coastcamp.ch
 coastcampbar.ch
@@ -2607,7 +2606,6 @@ cobart.ch
 cobas.ch
 cobase.ch
 cobasoft.ch
-cobasound.ch
 cobasysco.ch
 cobatec.ch
 cobatech.ch
@@ -3228,7 +3226,6 @@ cocobrown.ch
 cocobyina.ch
 cococabana.ch
 cococan.ch
-cococannelle.ch
 cococera.ch
 cocochalet.ch
 cocochanel.ch
@@ -3944,6 +3941,7 @@ codefive.ch
 codeflare.ch
 codeflow.ch
 codeflux.ch
+codefly.ch
 codefocus.ch
 codefoils.ch
 codeforge.ch
@@ -5995,7 +5993,6 @@ coiffeur-curtins.ch
 coiffeur-dalir.ch
 coiffeur-damen.ch
 coiffeur-dan.ch
-coiffeur-daniel.ch
 coiffeur-daniela-buttikon.ch
 coiffeur-daniela.ch
 coiffeur-danniel.ch
@@ -6223,7 +6220,6 @@ coiffeur-kopfarbeit.ch
 coiffeur-kosmetik-basel.ch
 coiffeur-kreativ.ch
 coiffeur-kreuzlingen.ch
-coiffeur-kristian.ch
 coiffeur-kuenste.ch
 coiffeur-kuessnacht.ch
 coiffeur-kunterbunt.ch
@@ -6884,6 +6880,7 @@ coiffeurkoenig.ch
 coiffeurkosmetik-sabrinavalt.ch
 coiffeurkotas.ch
 coiffeurkoto.ch
+coiffeurkreativwelt.ch
 coiffeurkreuzlingen.ch
 coiffeurkunst-poeschick.ch
 coiffeurkuonimatt.ch
@@ -9647,6 +9644,7 @@ collectif-fr.ch
 collectif-gynecee.ch
 collectif-hp.ch
 collectif-immersif.ch
+collectif-inaart.ch
 collectif-indigene.ch
 collectif-insolite.ch
 collectif-jeux-caritatifs.ch
@@ -9704,6 +9702,7 @@ collectifergo.ch
 collectiffoulles.ch
 collectifgalta.ch
 collectifimago.ch
+collectifinaart.ch
 collectifjetaime.ch
 collectiflabo.ch
 collectiflesalon.ch
@@ -13310,7 +13309,6 @@ commercialproperty.ch
 commercialrealestate.ch
 commercialregister.ch
 commercials.ch
-commercialschwyz.ch
 commercialscout.ch
 commercialscout24.ch
 commercialservice.ch
@@ -15025,7 +15023,6 @@ compasuisse.ch
 compasys.ch
 compat.ch
 compata.ch
-compatamarketing.ch
 compatbuddy.ch
 compaterra.ch
 compath.ch
@@ -17639,7 +17636,6 @@ concept-coste.ch
 concept-creatif.ch
 concept-cuisine.ch
 concept-cuisines.ch
-concept-d.ch
 concept-dach.ch
 concept-design.ch
 concept-designlab.ch
@@ -18274,6 +18270,7 @@ conconiapp.ch
 concor.ch
 concora.ch
 concoracare.ch
+concord-agency.ch
 concord-die-matratze.ch
 concord-diematratze.ch
 concord-lighting.ch
@@ -22420,7 +22417,6 @@ consultation-esport.ch
 consultation-imagerie-cardiaque-geneve.ch
 consultation-insight.ch
 consultation-libellule.ch
-consultation-makela.ch
 consultation-neuropsy.ch
 consultation-nutritionnelle-berne-seeland.ch
 consultation-nutritionnelle-comparaison.ch
@@ -23164,6 +23160,7 @@ containerlager-kerzers.ch
 containerland.ch
 containerline.ch
 containerlogistik.ch
+containerlugano.ch
 containermarket.ch
 containermaxx.ch
 containermiete.ch
@@ -23855,6 +23852,7 @@ contextanalytics.ch
 contextbasieux.ch
 contextcamenzind.ch
 contextcoaching.ch
+contextcompanion.ch
 contextcreators.ch
 contextdriven.ch
 contexte-architecture.ch
@@ -31260,6 +31258,7 @@ corsofantasticfunnel.ch
 corsofantasticgoogle.ch
 corsofulvia.ch
 corsoimmobilien.ch
+corsoinumerichecontano.ch
 corsoioinvestoinimmobilisvizzera.ch
 corsoioinvestoinmercatifinanziari.ch
 corsoitaliano.ch
@@ -32299,8 +32298,6 @@ cosmeticstudio-natascha.ch
 cosmeticstudio.ch
 cosmeticsundmassagen.ch
 cosmeticsurgery.ch
-cosmeticsurgeryzuerich.ch
-cosmeticsurgeryzurich.ch
 cosmeticswehntal.ch
 cosmeticswiss.ch
 cosmetictattoo.ch
@@ -32357,6 +32354,7 @@ cosmia.ch
 cosmic-animals.ch
 cosmic-art.ch
 cosmic-bloom.ch
+cosmic-body-dynamics.ch
 cosmic-cafe.ch
 cosmic-camera.ch
 cosmic-cannabis.ch
@@ -35300,7 +35298,6 @@ courtneyar.ch
 courtneyhart.ch
 courtneylee.ch
 courtneylyn.ch
-courtoisconsulting.ch
 courtoisie-savoir-vivre.ch
 courtoisie.ch
 courtoujours.ch
@@ -35459,7 +35456,6 @@ couture-champvent.ch
 couture-coco.ch
 couture-costume.ch
 couture-e-moda-elena.ch
-couture-elsbeth.ch
 couture-et-bicyclette.ch
 couture-et-mariage.ch
 couture-eveline.ch

@@ -2421,6 +2421,8 @@ declic-holding.ch
 declic-ia.ch
 declic-marketing.ch
 declic-mobilite.ch
+declic-performance.ch
+declic-performances.ch
 declic-photo.ch
 declic-sciences.ch
 declic-serment.ch
@@ -2441,6 +2443,8 @@ declick.ch
 declickanimal.ch
 declicmoi.ch
 declicpartner.ch
+declicperformance.ch
+declicperformances.ch
 declics.ch
 declicsauvage.ch
 declicsetcie.ch
@@ -3505,6 +3509,7 @@ deely.ch
 deelz.ch
 deem.ch
 deemaa.ch
+deemarc.ch
 deemaze.ch
 deemeed.ch
 deemkhan.ch
@@ -3862,6 +3867,7 @@ deeply.ch
 deeplyconnected.ch
 deeplydeepy.ch
 deepmail.ch
+deepmatch.ch
 deepmattercapital.ch
 deepmed.ch
 deepmind.ch
@@ -4329,6 +4335,7 @@ defense-aerienne.ch
 defense-animaux.ch
 defense-consulting-company.ch
 defense-consulting.ch
+defense-de-toucher.ch
 defense-democratie-suisse.ch
 defense-des-soins.ch
 defense-fitness.ch
@@ -5410,6 +5417,7 @@ dein-essen.ch
 dein-event-dj.ch
 dein-event.ch
 dein-expert.ch
+dein-facereading.ch
 dein-fachhandel.ch
 dein-fahrberater.ch
 dein-fahrer.ch
@@ -5820,7 +5828,6 @@ dein-teil.ch
 dein-testament.ch
 dein-texter.ch
 dein-textiletikett.ch
-dein-theater.ch
 dein-therapeut.ch
 dein-therapiegarten.ch
 dein-ticket.ch
@@ -6341,7 +6348,6 @@ deine-sexualtherapie.ch
 deine-software.ch
 deine-spange.ch
 deine-spielebox.ch
-deine-sprache.ch
 deine-sprachschule.ch
 deine-stadt-braucht-dich.ch
 deine-stadt.ch
@@ -6710,7 +6716,6 @@ deinesolutions.ch
 deinesolutionsag.ch
 deinesoterik.ch
 deinespange.ch
-deinesprache.ch
 deinesprecherin.ch
 deinesprechstunde.ch
 deinespuren.ch
@@ -6814,7 +6819,6 @@ deinezukunftistbunt.ch
 deinfach.ch
 deinfahrberater.ch
 deinfahrcoach.ch
-deinfahrer.ch
 deinfahrlehrer.ch
 deinfahrrad.ch
 deinfamilienkompass.ch
@@ -7474,7 +7478,6 @@ deintest.ch
 deintestament.ch
 deintext.ch
 deintextil.ch
-deintheater.ch
 deintherapeut.ch
 deinticker.ch
 deinticket.ch
@@ -7489,7 +7492,6 @@ deintor.ch
 deintortenbild.ch
 deintrainer.ch
 deintrainingsimpuls.ch
-deintransfer.ch
 deintransport24.ch
 deintransporter.ch
 deintraum.ch
@@ -9233,7 +9235,6 @@ delikatessen-shop.ch
 delikatessen-wipkingen.ch
 delikatessen.ch
 delikatessen24.ch
-delikatessen4you.ch
 delikatessengeschaeft.ch
 delikatessenhandel.ch
 delikatessenmanufaktur.ch
@@ -9252,6 +9253,7 @@ delikte.ch
 delil.ch
 delilahlovegood.ch
 delilahmartin.ch
+delilahs.ch
 delile.ch
 delilloholi.ch
 delilove.ch
@@ -10854,7 +10856,6 @@ deluxerentalcar.ch
 deluxerentalcars.ch
 deluxerie.ch
 deluxeroller.ch
-deluxerotik.ch
 deluxescooter.ch
 deluxescort.ch
 deluxeshop.ch
@@ -11935,6 +11936,7 @@ demo-thurn.ch
 demo-ton-informaticien.ch
 demo-typo3.ch
 demo-vonmedia.ch
+demo-web.ch
 demo-weblsy.ch
 demo-webshop.ch
 demo-xbees.ch
@@ -14270,7 +14272,6 @@ dentalrent.ch
 dentalrepair.ch
 dentalrepairshop.ch
 dentalreport.ch
-dentalresincycle.ch
 dentalrobotics.ch
 dentalrockers.ch
 dentalrules.ch
@@ -14743,8 +14744,6 @@ dentiste-haerri.ch
 dentiste-he.ch
 dentiste-herens.ch
 dentiste-hongrie.ch
-dentiste-hypnose.ch
-dentiste-implant.ch
 dentiste-jurt.ch
 dentiste-kolly.ch
 dentiste-kramer.ch
@@ -14835,7 +14834,6 @@ dentistechantepoulet.ch
 dentistedegardevalais.ch
 dentistedomodossola.ch
 dentistedorigny.ch
-dentisteenfant.ch
 dentisteenfantgeneve.ch
 dentisteenhongrie.ch
 dentistefribourg.ch
@@ -14851,7 +14849,6 @@ dentistehaerri.ch
 dentisteholistiquegeneve.ch
 dentistehongrie.ch
 dentistehostettler.ch
-dentistehypnose.ch
 dentistejura.ch
 dentistekliafascevey.ch
 dentistelacote.ch
@@ -14868,7 +14865,6 @@ dentistenyon.ch
 dentistepaquis.ch
 dentistepaudex.ch
 dentistepeseux.ch
-dentistepeur.ch
 dentisteplanlesouates.ch
 dentisteplo.ch
 dentistepully.ch
@@ -16495,7 +16491,6 @@ der-ko.ch
 der-koffer.ch
 der-komiker.ch
 der-kommentar.ch
-der-kommentator.ch
 der-konfliktcoach.ch
 der-kontrolleur.ch
 der-koordinator.ch
@@ -18930,7 +18925,6 @@ dermaviduals.ch
 dermavision.ch
 dermavit.ch
 dermaviva.ch
-dermavolution.ch
 dermawz.ch
 dermax.ch
 dermaxchange.ch
@@ -20066,6 +20060,7 @@ desalvador.ch
 desalvatoreconsulting.ch
 desalvoetfils.ch
 desamiantage-pro.ch
+desamiantage-suisse.ch
 desamiantage.ch
 desamiantech.ch
 desamianteur.ch
@@ -21712,7 +21707,6 @@ designportal.ch
 designpost.ch
 designposter.ch
 designpower.ch
-designpraxis.ch
 designpreis.ch
 designpreise.ch
 designpress.ch
@@ -21951,6 +21945,7 @@ designwaren.ch
 designwat.ch
 designway.ch
 designweb.ch
+designwebch.ch
 designwebsite.ch
 designwebstore.ch
 designweek.ch
@@ -25024,6 +25019,7 @@ deviens-qui-tu-es.ch
 deviens-toi.ch
 deviens.ch
 deviensarbitre.ch
+devienscettefemme.ch
 devienscroupier.ch
 devienselectricien-nedereseau.ch
 deviensmachiniste.ch
@@ -26151,6 +26147,7 @@ deziliter.ch
 dezimal.ch
 dezimo.ch
 dezine.ch
+deziner.ch
 dezing.ch
 dezlhofer.ch
 dezman.ch

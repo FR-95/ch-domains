@@ -332,6 +332,7 @@ kfx.ch
 kfz-anhaenger.ch
 kfz-ankauf.ch
 kfz-anzeigen.ch
+kfz-autoankauf.ch
 kfz-boxx.ch
 kfz-dealer.ch
 kfz-dienst.ch

@@ -769,7 +769,6 @@ pseudarthrose.ch
 pseudo-radio.ch
 pseudo.ch
 pseudocode.ch
-pseudograin.ch
 pseudokenner.ch
 pseudokrupp.ch
 pseudoma.ch
@@ -3502,6 +3501,7 @@ psychotherapie-hasler.ch
 psychotherapie-hatebur.ch
 psychotherapie-haueter.ch
 psychotherapie-hausarzt.ch
+psychotherapie-hayoz.ch
 psychotherapie-hecht.ch
 psychotherapie-heeren.ch
 psychotherapie-hegibach.ch
@@ -4554,6 +4554,7 @@ psythera.ch
 psytherapie.ch
 psyticino.ch
 psytools.ch
+psytop.ch
 psytorrisi.ch
 psytox.ch
 psytrack.ch

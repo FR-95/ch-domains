@@ -194,7 +194,6 @@ bpe-angus.ch
 bpe-baumanagement.ch
 bpe-global.ch
 bpe-gruposantander.ch
-bpe-logistics.ch
 bpe.ch
 bpeaeqt.ch
 bpeaeqtasia.ch

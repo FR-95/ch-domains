@@ -1818,6 +1818,7 @@ fiduciaire-alpes-vetroz.ch
 fiduciaire-alpes.ch
 fiduciaire-amanda.ch
 fiduciaire-amar.ch
+fiduciaire-amorim.ch
 fiduciaire-andrey.ch
 fiduciaire-antoniadis.ch
 fiduciaire-ar.ch
@@ -2336,6 +2337,7 @@ fidudrake.ch
 fidudv.ch
 fiduecg.ch
 fidued.ch
+fiduex.ch
 fiduexpert.ch
 fidufacile.ch
 fidufc.ch
@@ -4471,8 +4473,6 @@ filmacherei.ch
 filmader.ch
 filmaero3d.ch
 filmag.ch
-filmage.ch
-filmagency.ch
 filmagentur-stgallen.ch
 filmagentur-winterthur.ch
 filmagentur-zurich.ch
@@ -5298,6 +5298,7 @@ filterakademie.ch
 filteranlage.ch
 filteranlagen.ch
 filterbank.ch
+filterbedarf.ch
 filterbestellung.ch
 filterbeutel.ch
 filterboerse.ch
@@ -5774,7 +5775,6 @@ finacad.ch
 finacare.ch
 finaccess.ch
 finacco.ch
-finacct.ch
 finace.ch
 finaco.ch
 finacon.ch
@@ -5809,6 +5809,7 @@ finae.ch
 finaec.ch
 finaence.ch
 finaex.ch
+finafast.ch
 finafoto.ch
 finag-ag.ch
 finag.ch
@@ -5919,6 +5920,7 @@ finalrentals.ch
 finalrest.ch
 finalsan.ch
 finalscribe.ch
+finalset.ch
 finalsolutions.ch
 finalstage.ch
 finalstep.ch
@@ -7195,6 +7197,7 @@ finanzmanager.ch
 finanzmann.ch
 finanzmanual.ch
 finanzmanufaktur.ch
+finanzmarc.ch
 finanzmarkt-compliance.ch
 finanzmarkt-enforcement.ch
 finanzmarkt-recht.ch
@@ -7493,6 +7496,7 @@ finaport.ch
 finapp.ch
 finapps.ch
 finaprest.ch
+finaprism.ch
 finapse.ch
 finaquant.ch
 finaquantanalytics.ch
@@ -7899,6 +7903,7 @@ findario.ch
 findaro.ch
 findartprints.ch
 findasenior.ch
+findash.ch
 findashboard.ch
 findastartup.ch
 findata.ch
@@ -9194,6 +9199,7 @@ fingerklemmer.ch
 fingerklemmschutz.ch
 fingerkunst.ch
 fingerkuppenanalyse.ch
+fingerlab.ch
 fingerlaterne.ch
 fingerle.ch
 fingerlickers.ch
@@ -14746,7 +14752,6 @@ fisionatura.ch
 fisionetwork-ticino.ch
 fisionova.ch
 fisiopadel.ch
-fisioplus.ch
 fisiopluschiasso.ch
 fisiopoint.ch
 fisiopolmonare.ch
@@ -17307,7 +17312,6 @@ fitzonline.ch
 fitzpatrick.ch
 fitzroy.ch
 fitzroysa.ch
-fitzufuss.ch
 fitzurich.ch
 fitzys.ch
 fitzza.ch

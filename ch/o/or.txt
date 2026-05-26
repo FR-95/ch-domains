@@ -416,7 +416,6 @@ orangebikes.ch
 orangebird.ch
 orangebistro.ch
 orangebistrolenzerheide-lenzerheide.ch
-orangebleue.ch
 orangeblue.ch
 orangebox.ch
 orangebutterfly.ch
@@ -6636,6 +6635,7 @@ orvan.ch
 orvantis.ch
 orvayo.ch
 orvea.ch
+orveamedia.ch
 orveaswiss.ch
 orved-vakuummaschine.ch
 orved.ch

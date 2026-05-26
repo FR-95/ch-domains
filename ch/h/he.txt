@@ -1697,6 +1697,7 @@ healthyman.ch
 healthymanagement.ch
 healthymass.ch
 healthymassage.ch
+healthymat.ch
 healthyme.ch
 healthymeals.ch
 healthymedtech.ch
@@ -1958,7 +1959,6 @@ heartbeat-party.ch
 heartbeat-visions.ch
 heartbeat.ch
 heartbeatchurch.ch
-heartbeatcoaching.ch
 heartbeatdrummer.ch
 heartbeatdrumming.ch
 heartbeatevents.ch
@@ -2151,7 +2151,6 @@ heartrockclimbing.ch
 heartroom.ch
 hearts-and-brains.ch
 hearts-arrows.ch
-hearts-mg.ch
 hearts-science.ch
 hearts.ch
 hearts4dogs.ch
@@ -7182,6 +7181,7 @@ heinrichmuralt.ch
 heinrichpestalozzi.ch
 heinrichs.ch
 heinrichschulte.ch
+heinrichswil-winistorf.ch
 heinrichtessenow.ch
 heinrichvilliger.ch
 heinrichvorhang.ch
@@ -10850,6 +10850,7 @@ hellonoa.ch
 hellonomad.ch
 hellonurse.ch
 helloocto.ch
+hellooh.ch
 hellopage.ch
 helloparts.ch
 helloparty.ch
@@ -11168,7 +11169,6 @@ helm-art.ch
 helm-design.ch
 helm-immigration.ch
 helm-kamera.ch
-helm-labs.ch
 helm-pokale.ch
 helm-sauer.ch
 helm-shop.ch
@@ -11893,7 +11893,6 @@ helptex.ch
 helpthee.ch
 helpthehofis.ch
 helptic.ch
-helptime.ch
 helptoday.ch
 helptogether.ch
 helptohelp.ch
@@ -12165,6 +12164,7 @@ helvendia.ch
 helvendo.ch
 helvenet.ch
 helvenezia.ch
+helvengo.ch
 helventec.ch
 helvento.ch
 helventra.ch
@@ -12207,6 +12207,7 @@ helvesko-ag.ch
 helvesko-golf.ch
 helvesko.ch
 helveskogolf.ch
+helvesmart.ch
 helvesocial.ch
 helvesoft.ch
 helvesolar.ch
@@ -13215,6 +13216,7 @@ helveticatransport.ch
 helveticats.ch
 helveticatshop.ch
 helveticaunion.ch
+helveticauto.ch
 helveticautoclean.ch
 helveticautomatik.ch
 helveticautomation.ch
@@ -13611,6 +13613,7 @@ helvetik-invest.ch
 helvetik-journal.ch
 helvetik-keramik.ch
 helvetik-move.ch
+helvetik-signature.ch
 helvetik-throwers.ch
 helvetik.ch
 helvetika-consulting.ch
@@ -18827,6 +18830,7 @@ herzenspferd.ch
 herzenspferde.ch
 herzenspflege.ch
 herzenspfoetchen.ch
+herzenspost.ch
 herzensprojekt.ch
 herzensprojekt24.ch
 herzenspunkte.ch
@@ -20443,6 +20447,7 @@ hesta-immobilien.ch
 hesta.ch
 hestabsbat20.ch
 hestabskp20.ch
+hestafest.ch
 hestag-ag.ch
 hestag.ch
 hestai.ch
@@ -21481,6 +21486,7 @@ hexa-crise.ch
 hexa-therapie.ch
 hexa.ch
 hexa3d.ch
+hexabet.ch
 hexabit.ch
 hexacadam.ch
 hexachrome.ch

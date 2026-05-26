@@ -94,7 +94,6 @@ cval.ch
 cvallround.ch
 cvalue.ch
 cvanalytics.ch
-cvanini.ch
 cvapp.ch
 cvarch.ch
 cvargos.ch
@@ -120,7 +119,6 @@ cvbinternational.ch
 cvbl.ch
 cvbmedia.ch
 cvbn.ch
-cvboost.ch
 cvbot.ch
 cvbox.ch
 cvbs.ch

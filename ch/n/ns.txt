@@ -1,3 +1,4 @@
+ns-01.nachmittag.ch
 ns-01.ocrcl-staging.ch
 ns-01.stepping-stone.ch
 ns-01.stoney-cloud.ch
@@ -1097,7 +1098,6 @@ ns1.bornoese.ch
 ns1.bossinfo.ch
 ns1.bostit.ch
 ns1.box.beemail.ch
-ns1.box.dukic.ch
 ns1.box.fakegmail.ch
 ns1.box.hishams.ch
 ns1.box.michaelhobbs.ch
@@ -2667,6 +2667,7 @@ ns1.myhostplus.ch
 ns1.mymeme.ch
 ns1.myrtillabox.ch
 ns1.myserverpanel.ch
+ns1.mysticindigo.ch
 ns1.n3network.ch
 ns1.n3t.ch
 ns1.nabiona.ch
@@ -4459,7 +4460,6 @@ ns2.bornoese.ch
 ns2.bossinfo.ch
 ns2.bostit.ch
 ns2.box.beemail.ch
-ns2.box.dukic.ch
 ns2.box.fakegmail.ch
 ns2.box.hishams.ch
 ns2.box.michaelhobbs.ch
@@ -5967,6 +5967,7 @@ ns2.myhostplus.ch
 ns2.mymeme.ch
 ns2.myrtillabox.ch
 ns2.myserverpanel.ch
+ns2.mysticindigo.ch
 ns2.n3network.ch
 ns2.n3t.ch
 ns2.nabiona.ch
@@ -7747,6 +7748,7 @@ ns3.mydns4you.ch
 ns3.mydnsnet.ch
 ns3.myhostpart.ch
 ns3.myserverpanel.ch
+ns3.mysticindigo.ch
 ns3.mywebhost.ch
 ns3.n3network.ch
 ns3.nabiona.ch
@@ -8229,6 +8231,7 @@ ns4.msa-net.ch
 ns4.musikzielke.ch
 ns4.my-namaste.ch
 ns4.myserverpanel.ch
+ns4.mysticindigo.ch
 ns4.mywebhost.ch
 ns4.namemaster.ch
 ns4.navacoaching.ch

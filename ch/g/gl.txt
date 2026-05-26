@@ -2662,7 +2662,6 @@ glattphone.ch
 glattpraxis.ch
 glattprint.ch
 glattsalz.ch
-glattservices.ch
 glattstab.ch
 glattstiftung.ch
 glattstrom.ch
@@ -3707,6 +3706,7 @@ glhm.ch
 glhof.ch
 glholzbau.ch
 glhuette.ch
+gli-amici.ch
 gli-dash.ch
 gli-esperti-in-letti.ch
 gli-esperti-in-pavimenti.ch
@@ -3716,6 +3716,7 @@ gli-svizzeri-votano-udc.ch
 gli.ch
 gli7.ch
 glia.ch
+gliamici.ch
 gliangeligeneve.ch
 gliannintasca.ch
 gliapharm.ch
@@ -6364,7 +6365,6 @@ gloss-shop.ch
 gloss.ch
 glossa-group.ch
 glossa.ch
-glossagens.ch
 glossaire-romand.ch
 glossandwood.ch
 glossandwoods.ch
@@ -7470,6 +7470,7 @@ glug-degufestival.ch
 glug-glug.ch
 glug.ch
 glugchallenge.ch
+glugclub.ch
 glugdegufestival.ch
 glugg-und-mampf.ch
 glugg.ch
@@ -7764,6 +7765,7 @@ glyphing.ch
 glypressin.ch
 glypto.ch
 glyptodon.ch
+glyqo.ch
 glys.ch
 glysofor.ch
 glyssen.ch

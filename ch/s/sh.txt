@@ -1391,7 +1391,6 @@ shapingnewtomorrow.ch
 shapira.ch
 shapiro.ch
 shapix.ch
-shaply.ch
 shapo.ch
 shaposhnik.ch
 shapp.ch
@@ -1454,6 +1453,7 @@ share-bodywork.ch
 share-care.ch
 share-deal.ch
 share-designs.ch
+share-dudes.ch
 share-ech.ch
 share-event.ch
 share-fair.ch
@@ -2611,6 +2611,7 @@ sheisanartist.ch
 sheisarider.ch
 sheisyours.ch
 sheitan.ch
+sheja.ch
 shejboden.ch
 shejoba.ch
 shek-o-monthey.ch
@@ -5309,7 +5310,6 @@ shnosh-snus.ch
 shnosh.ch
 shnoshpouch.ch
 sho-ag.ch
-sho-bauservice.ch
 sho-fertig.ch
 sho-holzbau.ch
 sho-me.ch
@@ -7032,6 +7032,7 @@ shopping-tipps.ch
 shopping-tissotarena.ch
 shopping-trolley.ch
 shopping-unique.ch
+shopping-universe.ch
 shopping-uster-galerie.ch
 shopping-versicherung.ch
 shopping-verzeichnis.ch
@@ -7179,6 +7180,7 @@ shoppingmum.ch
 shoppingmurten.ch
 shoppingnet.ch
 shoppingnetwork.ch
+shoppingnews.ch
 shoppingnewsletter.ch
 shoppingnow.ch
 shoppingofferten.ch
@@ -7237,7 +7239,6 @@ shoppingverzeichnis.ch
 shoppingville.ch
 shoppingwalke.ch
 shoppingwalkestrasse.ch
-shoppingwelt24.ch
 shoppingwithgeraldinestyle.ch
 shoppingxl.ch
 shoppingzeit.ch

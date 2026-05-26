@@ -3589,6 +3589,7 @@ humanatwork-hub.ch
 humanatwork-lab.ch
 humanatwork-space.ch
 humanatwork.ch
+humanaugmentation.ch
 humanbalance.ch
 humanbeans.ch
 humanbeinc.ch
@@ -5168,7 +5169,6 @@ hundebestattungen.ch
 hundebetreuer.ch
 hundebetreuerin.ch
 hundebetreuig.ch
-hundebetreuung-basel.ch
 hundebetreuung-bern.ch
 hundebetreuung-birsfelden.ch
 hundebetreuung-engadin.ch
@@ -7599,6 +7599,7 @@ hupsago.ch
 hupsport.ch
 huptex.ch
 hupu.ch
+huqqa-sg.ch
 hur-energie.ch
 hur.ch
 hura-ag.ch

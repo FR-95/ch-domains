@@ -1801,7 +1801,6 @@ zeitundrat.ch
 zeitundraum-studio.ch
 zeitundraum.ch
 zeitundraumfuerdich.ch
-zeitundsein.ch
 zeitundtraum.ch
 zeitundwert.ch
 zeitundwohlstand.ch
@@ -2378,6 +2377,7 @@ zellularesenergiesystem.ch
 zellulitis.ch
 zellulose.ch
 zellulosedaemmung.ch
+zellunique.ch
 zelluxury.ch
 zellversorgung.ch
 zellvital.ch
@@ -2901,7 +2901,6 @@ zen-peinture.ch
 zen-photographs.ch
 zen-pizza-kebab-burger.ch
 zen-plast.ch
-zen-plattenleger.ch
 zen-pme.ch
 zen-qigong.ch
 zen-rapperswil.ch

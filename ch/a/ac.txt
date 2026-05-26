@@ -28,6 +28,7 @@ ac-b.ch
 ac-baertschi.ch
 ac-bau.ch
 ac-baumanagement.ch
+ac-bauservice.ch
 ac-bauteam.ch
 ac-beratung.ch
 ac-bioscience.ch
@@ -4331,7 +4332,6 @@ acn-suisse.ch
 acn-svizzera.ch
 acn.ch
 acnag.ch
-acnautoag.ch
 acnautocenterniederbipp.ch
 acnba.ch
 acncars.ch
@@ -7389,8 +7389,6 @@ acupuncture-isabelle.ch
 acupuncture-laserson.ch
 acupuncture-latourdepeilz.ch
 acupuncture-lausanne.ch
-acupuncture-lavaux.ch
-acupuncture-lutry.ch
 acupuncture-magnetisme.ch
 acupuncture-medicale.ch
 acupuncture-morges.ch

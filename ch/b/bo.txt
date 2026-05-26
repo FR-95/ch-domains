@@ -973,7 +973,6 @@ bobshop.ch
 bobsmember.ch
 bobsmile.ch
 bobsport.ch
-bobsports.ch
 bobsquat.ch
 bobst-beratung.ch
 bobst-bodenbelaege.ch
@@ -1035,7 +1034,6 @@ bobynetwork.ch
 bobzero.ch
 bobzien.ch
 bobzin.ch
-boc-blumenthal.ch
 boc-suisse.ch
 boc.ch
 boc24.ch
@@ -4081,6 +4079,7 @@ boenzliundpartnerag.ch
 boeoegenzunft-nuederef.ch
 boeoegg.ch
 boeoeggenzunft.ch
+boeoeggenzunftboezingen.ch
 boeoeggziit.ch
 boeoerds.ch
 boep.ch
@@ -6385,6 +6384,7 @@ bollingermusic.ch
 bollingerorigin.ch
 bollingers.ch
 bollingersandstein.ch
+bollingersolutions.ch
 bollini.ch
 bollino.ch
 bollinshop.ch
@@ -9049,6 +9049,7 @@ book-shop.ch
 book-shopping.ch
 book-shops.ch
 book-simonin.ch
+book-slots.ch
 book-stock.ch
 book-store.ch
 book-stores.ch
@@ -9956,6 +9957,7 @@ boos-holz.ch
 boos-it.ch
 boos-lounge.ch
 boos-online.ch
+boos-os.ch
 boos-swiss.ch
 boos.ch
 boosag.ch
@@ -9971,6 +9973,7 @@ boosholz.ch
 boosinvestments.ch
 boositive.ch
 boosmail.ch
+boosos.ch
 boospa.ch
 boospirani.ch
 boosport.ch
@@ -12148,7 +12151,6 @@ borsdrohne.ch
 borse-di-studio.ch
 borse.ch
 borsedistudio.ch
-borsella.ch
 borsellini.ch
 borsellino.ch
 borselly.ch

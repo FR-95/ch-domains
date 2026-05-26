@@ -10450,6 +10450,7 @@ crypto-card.ch
 crypto-care-consulting.ch
 crypto-cash.ch
 crypto-casino.ch
+crypto-casinos.ch
 crypto-ch.ch
 crypto-chocolat.ch
 crypto-chocolate.ch
@@ -10957,7 +10958,6 @@ cryptoheld.ch
 cryptohelvetia.ch
 cryptohelvetica.ch
 cryptoheroes.ch
-cryptohodler.ch
 cryptoholding.ch
 cryptohome.ch
 cryptohomini.ch

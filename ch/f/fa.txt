@@ -1579,6 +1579,7 @@ fabitasia-cards.ch
 fabitasia.ch
 fabitom.ch
 fabiucci.ch
+fabiundjay.ch
 fabius.ch
 fabivia.ch
 fabivonlanthen.ch
@@ -2326,7 +2327,6 @@ face-dogs.ch
 face-elements.ch
 face-face.ch
 face-first.ch
-face-former.ch
 face-formula.ch
 face-girl.ch
 face-gym.ch
@@ -3246,8 +3246,6 @@ fachschreinerei.ch
 fachschule-ecommerce.ch
 fachschule-handanalyse.ch
 fachschule-huforthopaedie.ch
-fachschule-medizinische-kosmetik-zurich.ch
-fachschule-medizinische-kosmetik.ch
 fachschule-mobilitaet.ch
 fachschule-musiktherapie.ch
 fachschule-rituale.ch
@@ -3594,7 +3592,6 @@ facility-consultants.ch
 facility-engineering.ch
 facility-excellence.ch
 facility-experts.ch
-facility-fs.ch
 facility-gate.ch
 facility-illnau.ch
 facility-jobs.ch
@@ -3938,7 +3935,6 @@ factoryglass-stone.ch
 factorygroupe.ch
 factorygruppe.ch
 factoryhouse.ch
-factoryinconcert.ch
 factorylab.ch
 factorylan.ch
 factorylayer.ch
@@ -4621,6 +4617,7 @@ faesslers-tisch.ch
 faesslers.ch
 faesslersalate.ch
 faesslerspiel.ch
+faesslerundhorst.ch
 faesslerundpartner.ch
 faesslerundpartnerimmobilien.ch
 faesslerwriting.ch
@@ -5843,6 +5840,7 @@ fahrschule-brugg.ch
 fahrschule-brunnen.ch
 fahrschule-brunner.ch
 fahrschule-bs.ch
+fahrschule-bsl.ch
 fahrschule-bubendorf.ch
 fahrschule-bucher.ch
 fahrschule-buchrain.ch
@@ -8986,6 +8984,7 @@ faisdodo.ch
 faisel.ch
 faiseur-de-mots.ch
 faiseurdemieux.ch
+faiseurdesecrets.ch
 faiseurs.ch
 faiseursdelames.ch
 faisgaffe.ch
@@ -11776,6 +11775,7 @@ familie-zueger.ch
 familie-zuercher.ch
 familie-zumstein.ch
 familie-zurkinden.ch
+familie.ch
 familie24.ch
 familie2punkt0.ch
 familieaerni.ch
@@ -17786,6 +17786,7 @@ farmestate.ch
 farmette.ch
 farmevent.ch
 farmevents.ch
+farmeyes.ch
 farmfacts.ch
 farmfair.ch
 farmfest.ch
@@ -20152,7 +20153,6 @@ fastserver.ch
 fastservers.ch
 fastservice.ch
 fastservices.ch
-fastsex.ch
 fastshift.ch
 fastshop-schweiz.ch
 fastshop.ch
@@ -20953,6 +20953,7 @@ faustaborsani.ch
 faustacapaul.ch
 faustangela.ch
 faustauto.ch
+faustball-affeltrangen.ch
 faustball-alpnach.ch
 faustball-auenstein.ch
 faustball-bern.ch

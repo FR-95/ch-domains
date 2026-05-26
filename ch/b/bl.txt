@@ -839,6 +839,7 @@ blackflash.ch
 blackflat.ch
 blackflower.ch
 blackfluencers.ch
+blackfly.ch
 blackford.ch
 blackforest-steel.ch
 blackforest.ch
@@ -3384,6 +3385,7 @@ blauringzug.ch
 blaurock.ch
 blaurockpix.ch
 blaurockstieg.ch
+blaurotgelb.ch
 blaus-huus.ch
 blaus.ch
 blausbaehnli.ch
@@ -4310,6 +4312,7 @@ blessedpeople.ch
 blessedroots.ch
 blessedsinners.ch
 blessemmental.ch
+blessfamily.ch
 blessglassart-shop.ch
 blessglassart.ch
 blesshess.ch
@@ -6061,6 +6064,7 @@ blockdaten.ch
 blockdesign.ch
 blockdev.ch
 blocked-account.ch
+blocked.ch
 blockeng.ch
 blocker.ch
 blockerty.ch
@@ -6242,6 +6246,7 @@ blockzeit.ch
 blockzero.ch
 bloco.ch
 blocochauffage.ch
+blocodile.ch
 blocodiles.ch
 blocos.ch
 blocozum.ch
@@ -6988,12 +6993,14 @@ bloomingroots.ch
 bloomingseason.ch
 bloomingstudio.ch
 bloomingville.ch
+bloomingworld.ch
 bloominktattoo.ch
 bloomintolight.ch
 bloominyoga.ch
 bloomio.ch
 bloomique.ch
 bloomis.ch
+bloomist.ch
 bloomit.ch
 bloomkino.ch
 bloomkraft.ch
@@ -9544,7 +9551,6 @@ bluestreet.ch
 bluestrich.ch
 bluestrix.ch
 bluestudio.ch
-bluestudiodesign.ch
 bluestyle.ch
 bluestyling.ch
 bluesugar.ch

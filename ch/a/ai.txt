@@ -25,6 +25,7 @@ ai-agency-zuerich.ch
 ai-agency-zurich.ch
 ai-agency.ch
 ai-agency24.ch
+ai-agencyos.ch
 ai-agent-agency.ch
 ai-agent-framework.ch
 ai-agent-hotel.ch
@@ -1094,6 +1095,7 @@ aiandshit.ch
 aianna.ch
 aianwalt.ch
 aiap-ticino.ch
+aiapi.ch
 aiapinsa.ch
 aiapp.ch
 aiapply.ch
@@ -1243,6 +1245,7 @@ aibs-marketing.ch
 aibs-operations.ch
 aibs-pharma.ch
 aibs-sa.ch
+aibs-sim.ch
 aibs-swiss.ch
 aibs-switzerland.ch
 aibs-vergleich.ch
@@ -1436,6 +1439,7 @@ aicoresolution.ch
 aicorp.ch
 aicorporate.ch
 aicos.ch
+aicoshop.ch
 aicosolutions.ch
 aicotps.ch
 aicotpsvip.ch
@@ -1630,7 +1634,6 @@ aidanouaim.ch
 aidanova.ch
 aidaorga.ch
 aidaperla.ch
-aidapt.ch
 aidaradio.ch
 aidaris.ch
 aidaro.ch
@@ -2366,8 +2369,10 @@ aiglobal.ch
 aiglon-geneve.ch
 aiglon-life.ch
 aiglon.ch
+aiglonalumni.ch
 aigloncollege.ch
 aiglonconnect.ch
+aiglongraduate.ch
 aiglonlanguages.ch
 aiglonlife.ch
 aiglonmed.ch
@@ -3546,6 +3551,9 @@ aionfreetoplay.ch
 aiongroup.ch
 aionholding.ch
 aionia-olive.ch
+aionic-labs.ch
+aionic.ch
+aioniclabs.ch
 aionics.ch
 aioninstitute.ch
 aionios.ch
@@ -5567,6 +5575,7 @@ airsoundlocation.ch
 airspace-sauna.ch
 airspace-tandem.ch
 airspace.ch
+airspacebulletin.ch
 airspacework.ch
 airspective.ch
 airsped.ch
@@ -5776,7 +5785,6 @@ airventure.ch
 airventures-reisen.ch
 airventures.ch
 airvenue.ch
-airveo.ch
 airvertiser.ch
 airvet.ch
 airvi.ch
@@ -5869,6 +5877,7 @@ ais-reinigung.ch
 ais-schweiz.ch
 ais-sportschule.ch
 ais-versicherungen.ch
+ais-web-development.ch
 ais-zh.ch
 ais.ch
 aisa-imagery.ch

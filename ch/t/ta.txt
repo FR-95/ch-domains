@@ -2150,6 +2150,7 @@ tagenimgruenen.ch
 tagenmitweitsicht.ch
 tageo.ch
 tagera.ch
+tagerechner.ch
 tagerhard-bistro.ch
 tages-aktion.ch
 tages-anzeiger.ch
@@ -2787,7 +2788,6 @@ tagswiss.ch
 tagsystem.ch
 tagtacle.ch
 tagtaeglich.ch
-tagtamort.ch
 tagtanz.ch
 tagteach.ch
 tagteam.ch
@@ -9327,7 +9327,6 @@ taotree.ch
 taotronics.ch
 taou.ch
 taoudanse.ch
-taoulebateau.ch
 taoupercussions.ch
 taow.ch
 taowat.ch
@@ -11031,6 +11030,7 @@ taschenmoench.ch
 taschenmonster.ch
 taschenmontage.ch
 taschenmunition.ch
+taschenmuschi.ch
 taschenonline.ch
 taschenpost.ch
 taschenproduzent.ch
@@ -11619,7 +11619,6 @@ tasteria.ch
 tasteroute.ch
 tasters.ch
 tastes.ch
-tastescapes.ch
 tastescore.ch
 tastesociology.ch
 tastesofbelgium.ch
@@ -12289,6 +12288,7 @@ tattoo-me.ch
 tattoo-med.ch
 tattoo-medical.ch
 tattoo-mike.ch
+tattoo-nation.ch
 tattoo-needs.ch
 tattoo-netzwerk.ch
 tattoo-on-the-road.ch
@@ -14921,6 +14921,7 @@ taxibissone.ch
 taxiblitz.ch
 taxiblock.ch
 taxiboat.ch
+taxiboats.ch
 taxibob.ch
 taxibon.ch
 taxibons.ch
@@ -15676,6 +15677,7 @@ taxitbl.ch
 taxiteasy.ch
 taxitell.ch
 taxitesla.ch
+taxitesserete.ch
 taxithalwil.ch
 taxitheorie.ch
 taxitherwil.ch
@@ -15985,7 +15987,6 @@ taxreturnzurich.ch
 taxright.ch
 taxrobot.ch
 taxroom.ch
-taxs.ch
 taxsafe.ch
 taxsave.ch
 taxsavinghomes.ch

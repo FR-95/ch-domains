@@ -3161,7 +3161,6 @@ ecohomes.ch
 ecohomesbuilding.ch
 ecohost.ch
 ecohoster.ch
-ecohosting.ch
 ecohotel.ch
 ecohotwater.ch
 ecohouse.ch
@@ -4559,6 +4558,7 @@ ecomodulhaus.ch
 ecomol.ch
 ecomon.ch
 ecomone.ch
+ecomoneacademy.ch
 ecomonecloud.ch
 ecomonitor.ch
 ecomonitoring.ch
@@ -5786,7 +5786,6 @@ ecowashing.ch
 ecowashlaundry.ch
 ecowaste.ch
 ecowater-romandie.ch
-ecowater-systems.ch
 ecowater.ch
 ecowaterjet.ch
 ecowatt-energie.ch

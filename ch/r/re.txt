@@ -3074,7 +3074,6 @@ rebeltoi.ch
 rebeltouch.ch
 rebeltours.ch
 rebeltraining.ch
-rebelundreason.ch
 rebelvideo.ch
 rebelwebdesign.ch
 rebelyell.ch
@@ -6522,6 +6521,7 @@ redabe.ch
 redable.ch
 redaboumasmoud.ch
 redacom.ch
+redacorrec.ch
 redact.ch
 redacta.ch
 redacted.ch
@@ -7085,7 +7085,6 @@ redesign-agency.ch
 redesign-clinic.ch
 redesign-omgroup.ch
 redesign-ostschweiz.ch
-redesign-swiss.ch
 redesign-switzerland.ch
 redesign-your-business.ch
 redesign-your-life.ch
@@ -7621,7 +7620,6 @@ redoaksourcing.ch
 redob.ch
 redobify.ch
 redochsenbein.ch
-redock.ch
 redocks.ch
 redocomp.ch
 redoct.ch
@@ -9381,6 +9379,7 @@ reflectionrun.ch
 reflections-and-ghosts.ch
 reflections-of-you.ch
 reflections.ch
+reflectionstories.ch
 reflectionswork.ch
 reflectionwalk.ch
 reflectiq.ch
@@ -18643,7 +18642,6 @@ relaisdugrandmont.ch
 relaisdulcevitae.ch
 relaisdumontdorge.ch
 relaisdupetitbourg.ch
-relaisdupeupe.ch
 relaisdusaintbernard.ch
 relaisdusimplon.ch
 relaisdustbernard.ch
@@ -25208,7 +25206,6 @@ rentinorio-kaufen.ch
 rentinorio.ch
 rentinorio24.ch
 rentinvesto.ch
-rentio-zurich.ch
 rentio.ch
 rentiq.ch
 rentir.ch
@@ -28066,6 +28063,7 @@ resetandflow.ch
 resetandrise.ch
 resetbar.ch
 resetcenter.ch
+resetclub.ch
 resetcosmetic.ch
 resetdesign.ch
 resetdouleur.ch
@@ -28439,6 +28437,7 @@ residenceplus.ch
 residencepolaris.ch
 residenceprincipale.ch
 residenceprincipalecrans.ch
+residenceromandie.ch
 residencerosat.ch
 residencerossi.ch
 residences-anieres-realys.ch
@@ -28635,7 +28634,6 @@ residenza-faggi.ch
 residenza-grava.ch
 residenza-ilanz.ch
 residenza-julietta.ch
-residenza-lago.ch
 residenza-lagrev.ch
 residenza-leonardo.ch
 residenza-luce.ch
@@ -28671,7 +28669,6 @@ residenza61.ch
 residenza6532.ch
 residenza725.ch
 residenza7nani.ch
-residenza99-221.ch
 residenza99.ch
 residenzaaifiori-tenero.ch
 residenzaaifiori.ch
@@ -28684,7 +28681,6 @@ residenzaalsasso.ch
 residenzaamarillys.ch
 residenzaascona.ch
 residenzabella.ch
-residenzabelvedere.ch
 residenzabrione.ch
 residenzacastagna.ch
 residenzacecilia.ch
@@ -29428,6 +29424,7 @@ resona-so.ch
 resona.ch
 resonac.ch
 resonance-bern.ch
+resonance-coaching.ch
 resonance-harmonie.ch
 resonance-homeopathie.ch
 resonance-lab.ch
@@ -29693,7 +29690,6 @@ respcair.ch
 respecdata.ch
 respect-animals.ch
 respect-camp.ch
-respect-climate.ch
 respect-dpd.ch
 respect-energies.ch
 respect-everybodys-beauty.ch
@@ -33901,7 +33897,6 @@ restis.ch
 restitutio-in-integrum.ch
 restivo.ch
 restkabinen.ch
-restkleefeld.ch
 restkreuz.ch
 restkreuzstrasse.ch
 restkultur.ch
@@ -37324,6 +37319,7 @@ review-flow.ch
 review-guard.ch
 review-management.ch
 review-manager.ch
+review-pilot.ch
 review-social.ch
 review.ch
 reviewavis.ch
@@ -37339,6 +37335,7 @@ reviewgenius.ch
 reviewgorilla.ch
 reviewguard.ch
 reviewly.ch
+reviewmanager.ch
 reviewmarketing.ch
 reviewmaster.ch
 reviewme.ch
@@ -37699,6 +37696,7 @@ revivalforyourlife.ch
 revivalhair.ch
 revivalhealth.ch
 revivalife.ch
+revivalmedia.ch
 revivalnetwork.ch
 revivaloftopjobs.ch
 revivalradio.ch
@@ -37921,6 +37919,7 @@ revolutionmary.ch
 revolutionmedicines.ch
 revolutionnumerique.ch
 revolutionrace.ch
+revolutionrobotics.ch
 revolutions-biennale.ch
 revolutions.ch
 revolutionsatwork.ch

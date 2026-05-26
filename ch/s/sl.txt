@@ -118,7 +118,6 @@ sl4u.ch
 sl500.ch
 sl77.ch
 sl8.ch
-sl99.ch
 sla-aarau.ch
 sla-academy.ch
 sla-association.ch
@@ -273,6 +272,7 @@ slam-shop.ch
 slam-store.ch
 slam-suisse.ch
 slam.ch
+slam2008.ch
 slam2018.ch
 slam4switzerland.ch
 slama.ch
@@ -1125,6 +1125,7 @@ slimanolcaps.ch
 slimapi.ch
 slimapp.ch
 slimathome.ch
+slimax.ch
 slimba.ch
 slimbalance.ch
 slimbe.ch

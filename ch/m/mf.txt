@@ -664,6 +664,7 @@ mfswissolution.ch
 mfsystem.ch
 mft-ag.ch
 mft-bs.ch
+mft-cloud.ch
 mft-gmbh.ch
 mft-immo.ch
 mft-it.ch

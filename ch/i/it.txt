@@ -3115,6 +3115,8 @@ itmediation.ch
 itmediator.ch
 itmeister.ch
 itmensch.ch
+itmentor.ch
+itmentoring.ch
 itmex.ch
 itmeyer.ch
 itmfa.ch
@@ -4080,7 +4082,6 @@ itsystems-nottwil.ch
 itsystems.ch
 itsz.ch
 itsza.ch
-itszg.ch
 itszug-edu.ch
 itszug-gov.ch
 itszug.ch

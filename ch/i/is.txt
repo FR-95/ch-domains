@@ -386,6 +386,7 @@ isabelle-koenig.ch
 isabelle-leclercq.ch
 isabelle-lehmann.ch
 isabelle-lenzi.ch
+isabelle-live.ch
 isabelle-marinazzo-therapies.ch
 isabelle-menzi.ch
 isabelle-monnier.ch

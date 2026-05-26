@@ -980,6 +980,7 @@ dracely.ch
 dracer.ch
 drach.ch
 drachafaeger.ch
+drachastuebli.ch
 drache-inferno.ch
 drache-kokosnuss.ch
 drache-schraenzer.ch
@@ -1967,6 +1968,7 @@ drawx.ch
 drax.ch
 draxfit.ch
 draxinia-plattenbelage.ch
+draxinia.ch
 draxinusom.ch
 draxl.ch
 draxon.ch
@@ -5494,6 +5496,7 @@ drivebuy-solution.ch
 drivebuy.ch
 driveby.ch
 drivebyburgers.ch
+drivebykitchen.ch
 drivebymartin.ch
 drivecab.ch
 drivecafe.ch
@@ -5759,6 +5762,7 @@ driverstest.ch
 driverstime.ch
 driverstyle.ch
 driversupport.ch
+driverswiss.ch
 driversworld.ch
 drivertise.ch
 drivertrainer.ch
@@ -7780,6 +7784,7 @@ dropcatching.ch
 dropchat.ch
 dropclean.ch
 dropcloud.ch
+dropday.ch
 dropdeal.ch
 dropdealer.ch
 dropdown.ch
@@ -8656,7 +8661,6 @@ drucker-patronen.ch
 drucker-plus.ch
 drucker-printer.ch
 drucker-reparatur.ch
-drucker-reparaturen.ch
 drucker-reparieren-bern.ch
 drucker-reparieren.ch
 drucker-schweiz.ch
@@ -9424,6 +9428,7 @@ drumsome.ch
 drumsonly.ch
 drumsounds.ch
 drumspace.ch
+drumspercussioncamp.ch
 drumspot.ch
 drumsrecycled.ch
 drumsticks.ch

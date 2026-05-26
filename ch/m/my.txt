@@ -51,7 +51,6 @@ my-alloa.ch
 my-ally.ch
 my-alm.ch
 my-aloe.ch
-my-aloevera.ch
 my-aloha.ch
 my-alps.ch
 my-als-life.ch
@@ -632,6 +631,7 @@ my-filabe.ch
 my-filati.ch
 my-files.ch
 my-film.ch
+my-fin.ch
 my-final-backup.ch
 my-finance-coach.ch
 my-finance-world.ch
@@ -3165,6 +3165,7 @@ mybris.ch
 mybritain.ch
 mybritt.ch
 mybrix.ch
+mybroapp.ch
 mybroccoli.ch
 mybrocki.ch
 mybrocky.ch
@@ -4007,7 +4008,6 @@ myconsultation.ch
 myconsulting.ch
 mycontent.ch
 mycontest.ch
-myconti.ch
 mycontipark.ch
 mycontracts.ch
 mycontrol.ch
@@ -4503,6 +4503,7 @@ mydirndl.ch
 mydirty-hobby.ch
 mydirtygarage.ch
 mydirtyhobby.ch
+mydirtyjob.ch
 mydirtylittlehelper.ch
 mydirtylittlesecret.ch
 mydirtymobile.ch
@@ -5983,7 +5984,6 @@ myhappinessritual.ch
 myhappy-home.ch
 myhappy.ch
 myhappybaby.ch
-myhappybelly.ch
 myhappybraids.ch
 myhappybride.ch
 myhappycat.ch
@@ -6867,8 +6867,6 @@ mykolping.ch
 mykom.ch
 mykomo.ch
 mykompass.ch
-mykomundi.ch
-mykomundo.ch
 mykomyko.ch
 mykon.ch
 mykonet.ch
@@ -7691,6 +7689,7 @@ mymedi24.ch
 mymedia.ch
 mymediabox.ch
 mymediaserverathome.ch
+mymediaserverfallback.ch
 mymediaswiss.ch
 mymediati.ch
 mymediation.ch
@@ -8000,6 +7999,7 @@ mymvd.ch
 mymx.ch
 mymxns.ch
 mymy.ch
+mymyind.ch
 mymyio.ch
 mymyoga.ch
 mymystery.ch
@@ -12694,7 +12694,6 @@ myworkwear.ch
 myworld-lts.ch
 myworld-luxurytravelservices.ch
 myworld.ch
-myworldesign.ch
 myworldisyours.ch
 myworldofcycling.ch
 myworldofjomalonelondon.ch

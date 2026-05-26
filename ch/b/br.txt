@@ -832,7 +832,6 @@ brain-tool.ch
 brain-tools.ch
 brain-train-statt-brain-drain.ch
 brain-train.ch
-brain-tree.ch
 brain-trust.ch
 brain-tumor-atlas.ch
 brain-view.ch
@@ -4740,6 +4739,7 @@ bravofly.ch
 bravoflynext.ch
 bravoflyrumbo.ch
 bravoflyrumbogroup.ch
+bravofoxzulu.ch
 bravogo.ch
 bravogroup.ch
 bravogutschein.ch
@@ -7130,7 +7130,6 @@ brf.ch
 brfahrschule.ch
 brfeuninger.ch
 brfholding.ch
-brfin.ch
 brfinanzen.ch
 brfoto.ch
 brfotograf-shop.ch
@@ -7177,6 +7176,7 @@ brhotels.ch
 brhpartners.ch
 brhs.ch
 bri-architekten.ch
+bri-art.ch
 bri-ma.ch
 bri-mar.ch
 bri-projekte.ch
@@ -15764,7 +15764,6 @@ bryanbalsiger.ch
 bryanblank.ch
 bryanbrand.ch
 bryancash.ch
-bryancc.ch
 bryancoletta.ch
 bryand.ch
 bryangotti.ch

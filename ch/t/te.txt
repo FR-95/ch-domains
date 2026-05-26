@@ -974,7 +974,6 @@ teamargovia.ch
 teamaria.ch
 teamarmee.ch
 teamarthur.ch
-teamassembly.ch
 teamassist.ch
 teamaster.ch
 teamatec.ch
@@ -1572,6 +1571,7 @@ teammotivator.ch
 teammueller.ch
 teamnarex.ch
 teamnature.ch
+teamnavi.ch
 teamnavigator.ch
 teamnegroni.ch
 teamness.ch
@@ -4463,6 +4463,7 @@ techpublishing.ch
 techpulse-store.ch
 techq.ch
 techqon.ch
+techquantum.ch
 techquest.ch
 techrack.ch
 techradars.ch
@@ -5962,6 +5963,7 @@ tegaderminfo.ch
 tegalad.ch
 tegamasaki.ch
 tegami.ch
+tegaro.ch
 tegart.ch
 tegastore.ch
 tegatec-immobilien.ch
@@ -8656,6 +8658,7 @@ tellsarmory.ch
 tellsauna.ch
 tellsbells.ch
 tellschnitt.ch
+tellscleaning.ch
 tellscloud.ch
 tellsgarten.ch
 tellsgeschoss.ch
@@ -10369,6 +10372,7 @@ tennis-zuerich.ch
 tennis-zurich.ch
 tennis-zurzach.ch
 tennis-zurzi.ch
+tennis.ch
 tennis04.ch
 tennis1x1.ch
 tennis24.ch
@@ -10909,6 +10913,7 @@ tensoalarm.ch
 tensochema.ch
 tensoft.ch
 tensol-pv.ch
+tensol.ch
 tensolife.ch
 tensolock.ch
 tensolrail.ch
@@ -13800,6 +13805,7 @@ territoriosvizzera.ch
 territorisvizra.ch
 territorium.ch
 territorivivibili.ch
+territory-b.ch
 territory-influence.ch
 territory.ch
 terrn.ch
@@ -14425,6 +14431,7 @@ teso.ch
 tesol.ch
 tesolat.ch
 tesolve.ch
+tesor.ch
 tesorart.ch
 tesori-doriente.ch
 tesori.ch
@@ -14822,7 +14829,6 @@ test-gfnet.ch
 test-gkk-app.ch
 test-glycemie.ch
 test-gmbh.ch
-test-googplace.ch
 test-grive.ch
 test-grossesse.ch
 test-gsnet.ch

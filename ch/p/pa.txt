@@ -1225,7 +1225,6 @@ packswiss.ch
 packsy.ch
 packsys.ch
 packsysglobal.ch
-packsysiglobal.ch
 packtalk.ch
 packtaschen.ch
 packte.ch
@@ -1894,7 +1893,6 @@ padelist.ch
 padelista.ch
 padelistes.ch
 padelita.ch
-padelite.ch
 padelitos.ch
 padelitroz.ch
 padelium.ch
@@ -2083,6 +2081,7 @@ padelxpert.ch
 padely.ch
 padelys.ch
 padelytics.ch
+padelyz.ch
 padelz.ch
 padelzenter.ch
 padelzh.ch
@@ -7018,6 +7017,7 @@ panoramabruecke.ch
 panoramabrunch.ch
 panoramacamera.ch
 panoramacamp.ch
+panoramacamping.ch
 panoramacard.ch
 panoramacenter.ch
 panoramachalet.ch
@@ -10929,8 +10929,10 @@ pare.ch
 parea-sg.ch
 pareagmbh.ch
 pareasy.ch
+parebrise-expert.ch
 parebrise.ch
 parebrise360.ch
+parebriseexpert.ch
 parebrisegrandchasseral.ch
 parebrisevaudois.ch
 parecrit.ch
@@ -10967,6 +10969,7 @@ parent-these.ch
 parent.ch
 parenta.ch
 parentaise.ch
+parental-wellbeing.ch
 parental.ch
 parentalescence.ch
 parentalfamilyoffice.ch
@@ -11509,6 +11512,7 @@ parimmo.ch
 parimob-holding.ch
 parimob.ch
 parimobholding.ch
+parimobservices.ch
 parin.ch
 parinag.ch
 parinama.ch
@@ -18396,6 +18400,7 @@ pastelli-suisse.ch
 pastelli.ch
 pastellmalerei.ch
 pastellzauber.ch
+pastelnata.ch
 pastelnotes.ch
 pastelpoeme.ch
 pastels.ch
@@ -19694,7 +19699,6 @@ patio-direkt.ch
 patio-dulliken.ch
 patio-invest.ch
 patio-plaza.ch
-patio-tower.ch
 patio-zuerich.ch
 patio.ch
 patiobullri.ch
@@ -20633,6 +20637,7 @@ patrickhertig.ch
 patrickheusser.ch
 patrickhewer.ch
 patrickhildbrand.ch
+patrickhilftdir.ch
 patrickhitz.ch
 patrickhodel.ch
 patrickhoerdt.ch

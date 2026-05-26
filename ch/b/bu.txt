@@ -2467,6 +2467,7 @@ budget-moebellift.ch
 budget-motel.ch
 budget-nein.ch
 budget-optik.ch
+budget-pestcontrol.ch
 budget-pharma.ch
 budget-plot.ch
 budget-pokal.ch
@@ -4515,7 +4516,6 @@ buergerliche-frauen.ch
 buergerliche-mehrheit.ch
 buergerliche-mitte.ch
 buergerliche-politik.ch
-buergerliche.ch
 buergerlichefrauen.ch
 buergerlichepolitik.ch
 buergerliches-ja.ch
@@ -6701,6 +6701,7 @@ build-connect.ch
 build-conseils.ch
 build-design.ch
 build-digital.ch
+build-hub.ch
 build-in.ch
 build-ing.ch
 build-invest.ch
@@ -6954,6 +6955,7 @@ buildlead.ch
 buildli.ch
 buildlink.ch
 buildlinkpitch.ch
+buildlog.ch
 buildlogic.ch
 buildlr.ch
 buildly.ch
@@ -12543,6 +12545,7 @@ businessapartment-sg.ch
 businessapartment.ch
 businessapartments.ch
 businessapero.ch
+businessapp.ch
 businessapps.ch
 businessappstore.ch
 businessarchitect.ch
@@ -14417,7 +14420,6 @@ butunique.ch
 butv.ch
 butwhy.ch
 butwil.ch
-butworks.ch
 butyggli.ch
 butyourself.ch
 butz-glaswelten.ch

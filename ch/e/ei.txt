@@ -1409,7 +1409,6 @@ eigenversion.ch
 eigenwa.ch
 eigenwand.ch
 eigenwatt.ch
-eigenweg.ch
 eigenweld.ch
 eigenweltdemenz.ch
 eigenwerke.ch
@@ -4694,6 +4693,7 @@ eirischfouk.ch
 eiritana.ch
 eiriz.ch
 eiro.ch
+eirona.ch
 eironos.ch
 eirueh.ch
 eirviva.ch

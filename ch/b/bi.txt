@@ -76,7 +76,6 @@ bi-oil.ch
 bi-online.ch
 bi-performance.ch
 bi-pi.ch
-bi-polar.ch
 bi-portal.ch
 bi-project.ch
 bi-projekt.ch
@@ -3496,6 +3495,7 @@ bierguine.ch
 bierguru.ch
 biergut.ch
 biergutpola.ch
+bierhaben.ch
 bierhake.ch
 bierhalle-balgach.ch
 bierhalle-chur.ch
@@ -5304,6 +5304,7 @@ bigte.ch
 bigtech.ch
 bigthing.ch
 bigthings.ch
+bigthoms.ch
 bigthree.ch
 bigtime-production.ch
 bigtime.ch
@@ -5597,7 +5598,6 @@ bijouteriejeanmonod.ch
 bijouteriekurz.ch
 bijouteriemathys.ch
 bijouterien.ch
-bijouteriepelletier.ch
 bijouterierhyhof.ch
 bijouteries.ch
 bijouterieschori.ch
@@ -12613,6 +12613,7 @@ bioconbiologics.ch
 bioconcept.ch
 bioconceptltd.ch
 bioconex.ch
+bioconfidant.ch
 bioconfort.ch
 bioconnect.ch
 bioconsommacteurs.ch
@@ -14852,7 +14853,6 @@ bioohne.ch
 bioohnemeh.ch
 biooil.ch
 biooliven.ch
-bioolivenhain.ch
 bioolivenoel.ch
 bioom.ch
 biooni.ch
@@ -17654,6 +17654,7 @@ bischoff-bischoff.ch
 bischoff-creatives.ch
 bischoff-diepoldsau.ch
 bischoff-entsorgung.ch
+bischoff-gartenbau.ch
 bischoff-gipserei.ch
 bischoff-hochdorf.ch
 bischoff-hotz.ch
@@ -18812,7 +18813,9 @@ bitcoin-broker.ch
 bitcoin-buy.ch
 bitcoin-campus.ch
 bitcoin-cash.ch
+bitcoin-casino-schweiz.ch
 bitcoin-casino.ch
+bitcoin-casinos.ch
 bitcoin-change.ch
 bitcoin-chf.ch
 bitcoin-circle.ch
@@ -20689,7 +20692,6 @@ bizzarri.ch
 bizzarriniparts.ch
 bizzarrinispares.ch
 bizzarro.ch
-bizzarto.ch
 bizzcenter24.ch
 bizzcloud.ch
 bizzcon.ch

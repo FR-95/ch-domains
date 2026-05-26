@@ -4117,7 +4117,6 @@ safeskrill.ch
 safesky.ch
 safesleep.ch
 safeslots.ch
-safesofa.ch
 safesolution.ch
 safesolutions.ch
 safesound.ch
@@ -4517,6 +4516,7 @@ safexschweiz.ch
 safexspace.ch
 safextixi.ch
 safexword.ch
+safeyogaspace.ch
 safeyour.ch
 safeyourbusiness.ch
 safeyourinternet.ch
@@ -5734,7 +5734,6 @@ sahlifreiag.ch
 sahligitarren.ch
 sahligrafik.ch
 sahligravuren.ch
-sahlihuus.ch
 sahlimarketing.ch
 sahlimatte-hinterkappelen.ch
 sahlimatte.ch
@@ -9233,6 +9232,7 @@ salondesmetiers.ch
 salondesreves.ch
 salondesvins.ch
 salondesvinslibres.ch
+salondesvoyages.ch
 salondetre.ch
 salondoebeli.ch
 salondolcecoiffure.ch
@@ -10207,6 +10207,7 @@ salutatoi.ch
 salutatoilartiste.ch
 salutbiscuit.ch
 salutcanton.ch
+salutcava.ch
 salutcher.ch
 salutcherie.ch
 salutchouchou.ch
@@ -11082,6 +11083,7 @@ samahan-shop.ch
 samahan.ch
 samai.ch
 samaia.ch
+samail.ch
 samaimmobilien.ch
 samainekas.ch
 samaipata.ch
@@ -11150,6 +11152,7 @@ samantha-aguilar.ch
 samantha-bourgoin.ch
 samantha-et-cyril-mariage2026.ch
 samantha-forrer.ch
+samantha-hund-coach.ch
 samantha-keel.ch
 samantha-luis.ch
 samantha-reinigung.ch
@@ -17818,13 +17821,17 @@ sanitaire-jura-suisse.ch
 sanitaire-jura.ch
 sanitaire-lausanne.ch
 sanitaire-marcelgarin.ch
+sanitaire-meyrin.ch
 sanitaire-morges.ch
 sanitaire-nendaz.ch
 sanitaire-neuchatel.ch
+sanitaire-nyon.ch
 sanitaire-pully.ch
+sanitaire-renens.ch
 sanitaire-renovation-geneve.ch
 sanitaire-urgence.ch
 sanitaire-vaud.ch
+sanitaire-vernier.ch
 sanitaire.ch
 sanitaire24.ch
 sanitaireallaman.ch
@@ -17835,10 +17842,15 @@ sanitairecorsier.ch
 sanitairecrans.ch
 sanitairefounex.ch
 sanitairegeneve.ch
+sanitairegeneve24.ch
 sanitairegland.ch
+sanitairelancy.ch
 sanitairelausanne.ch
+sanitairelausanne24.ch
 sanitairemeyrin.ch
+sanitairemontreux.ch
 sanitairemorges.ch
+sanitairemorges24.ch
 sanitaireneuchatel.ch
 sanitairenyon.ch
 sanitaireplus.ch
@@ -17856,7 +17868,9 @@ sanitairescalvillo.ch
 sanitaireslausanne.ch
 sanitairevernier.ch
 sanitaireversoix.ch
+sanitairevevey.ch
 sanitairevezenaz.ch
+sanitaireyverdon.ch
 sanitamed.ch
 sanitanazionale.ch
 sanitar.ch
@@ -18973,6 +18987,7 @@ sante-active.ch
 sante-acupuncture.ch
 sante-ados.ch
 sante-agile.ch
+sante-au-feminin.ch
 sante-au-travail-neuchatel.ch
 sante-au-travail.ch
 sante-ayurveda.ch
@@ -22881,6 +22896,7 @@ sashimi.ch
 sashka.ch
 sashkama.ch
 sashncompany.ch
+sashongu.ch
 sashop.ch
 sashquasar.ch
 sasi-partyservice.ch
@@ -23391,6 +23407,7 @@ satinnaturel.ch
 satino.ch
 satinrosen.ch
 satinsecrets.ch
+satinsights.ch
 satinskin.ch
 satinsleepers.ch
 satinstudio.ch
@@ -25760,6 +25777,8 @@ saverup.ch
 saves.ch
 savesafely.ch
 savesdgsnow.ch
+savesecret.ch
+savesecrets.ch
 saveshelp.ch
 saveshelpswiss.ch
 savesightnowdev.ch
@@ -26161,6 +26180,7 @@ savognin-apartments.ch
 savognin-bivio.ch
 savognin-ferien.ch
 savognin-ferienhaus.ch
+savognin-gr.ch
 savognin.ch
 savogninbergbahnen.ch
 savogniner-frauenpowder.ch

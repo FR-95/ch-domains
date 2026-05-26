@@ -427,7 +427,6 @@ kuchenzumglueck.ch
 kucher.ch
 kuchi.ch
 kuchikaeschtli.ch
-kuchikaestli.ch
 kuchilada.ch
 kuchinox.ch
 kuchisabishii.ch
@@ -3241,6 +3240,7 @@ kultnet.ch
 kultobjekt.ch
 kultomat.ch
 kultonline.ch
+kultools.ch
 kultopia.ch
 kultour-ferien.ch
 kultour-ferienreisen.ch
@@ -6074,6 +6074,7 @@ kunst-versicherung.ch
 kunst-versteigerung.ch
 kunst-versteigerungen.ch
 kunst-vonlanthen.ch
+kunst-wachgekuesst.ch
 kunst-wallis.ch
 kunst-welt.ch
 kunst-welten.ch
@@ -8279,7 +8280,6 @@ kupferpreis.ch
 kupferpreise.ch
 kupferprofile.ch
 kupferrecycler.ch
-kupferrecycling.ch
 kupferritter.ch
 kupferrose.ch
 kupfers.ch

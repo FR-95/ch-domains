@@ -5282,7 +5282,6 @@ badmoebel-basel.ch
 badmoebel-markenshop.ch
 badmoebel-online.ch
 badmoebel-onlineshop.ch
-badmoebel-outlet.ch
 badmoebel.ch
 badmoebel24.ch
 badmoebelmarkenshop.ch
@@ -6068,7 +6067,6 @@ baedpeaq.ch
 baedue.ch
 baeflor.ch
 baega.ch
-baegels.ch
 baeggli.ch
 baegl.ch
 baeh.ch
@@ -14369,8 +14367,10 @@ bankerwerker.ch
 bankery.ch
 bankett-luzern.ch
 bankett.ch
+bankettai.ch
 bankette.ch
 bankettfertiger.ch
+bankettki.ch
 bankettmanager.ch
 bankettmauer.ch
 bankettraum-mieten.ch
@@ -23277,6 +23277,7 @@ batidevis.ch
 batidex.ch
 batidiag.ch
 batidoc.ch
+batidock.ch
 batidocu.ch
 batidoo.ch
 batidurable.ch

@@ -732,7 +732,6 @@ wohinheute.ch
 wohinjetzt.ch
 wohinmobil.ch
 wohinwillstdu.ch
-wohl-auf.ch
 wohl-befinden.ch
 wohl-ergehen.ch
 wohl-fuehl-oase.ch
@@ -1874,6 +1873,7 @@ wohnfuehl.ch
 wohnfuehlen.ch
 wohnfuehlhaus.ch
 wohnfuehloase.ch
+wohnfuehlservice-hess.ch
 wohnfuehlzeit.ch
 wohnfuehlzone.ch
 wohnfugen.ch
@@ -1888,6 +1888,7 @@ wohngate.ch
 wohngaudi.ch
 wohngebaeudeversicherung.ch
 wohngefuehl-home.ch
+wohngefuehl-sf.ch
 wohngefuehl.ch
 wohngefuehlhome.ch
 wohngefuehlshop.ch
@@ -2570,6 +2571,7 @@ wohnraum-mattertal.ch
 wohnraum-oberbild.ch
 wohnraum-plus.ch
 wohnraum-pro.ch
+wohnraum-reset.ch
 wohnraum-schmiede.ch
 wohnraum-schuetzen.ch
 wohnraum-schweiz.ch
@@ -4486,6 +4488,7 @@ wolkenmaler.ch
 wolkenmeer.ch
 wolkenmill.ch
 wolkenpost.ch
+wolkenrei.ch
 wolkenreich-shop.ch
 wolkenreich.ch
 wolkenreiter.ch
@@ -5308,11 +5311,9 @@ womenyunique.ch
 womepro.ch
 womick.ch
 womies.ch
-womifarm.ch
 womiferien.ch
 wominanz.ch
 womins.ch
-womive.ch
 womm.ch
 womma.ch
 womman-gmbh.ch
@@ -6009,7 +6010,7 @@ woodea.ch
 woodeco.ch
 woodecology.ch
 wooded.ch
-woodefficent.ch
+woodefficient.ch
 woodelektro.ch
 woodelements.ch
 woodelicious.ch
@@ -7575,7 +7576,6 @@ workflow-scaffolders.ch
 workflow-swiss.ch
 workflow-system.ch
 workflow.ch
-workflowagenten.ch
 workflowalchemy.ch
 workflowautomation.ch
 workflowcare.ch

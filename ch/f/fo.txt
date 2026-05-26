@@ -4545,7 +4545,6 @@ fontboxx.ch
 fontbundle.ch
 fontbundles.ch
 fontcare.ch
-fontcircus.ch
 fontclara.ch
 fontdesign.ch
 fonte-flamme.ch
@@ -6673,7 +6672,6 @@ forcesdevies.ch
 forcesmotrices.ch
 forcesvives-vs.ch
 forcesvives.ch
-forcetatic.ch
 forcethon-talent.ch
 forcethon-verbier.ch
 forcethon.ch
@@ -7313,6 +7311,7 @@ forelpreis.ch
 forelsket-hairdesign.ch
 forelsket.ch
 foremaag.ch
+foremanai.ch
 foreminds.ch
 foremost.ch
 foren.ch
@@ -7811,7 +7810,6 @@ forex-trading.ch
 forex.ch
 forex24.ch
 forex360.ch
-forexacademy.ch
 forexample.ch
 forexamples.ch
 forexbook.ch
@@ -9723,6 +9721,7 @@ fornoise.ch
 fornokuba.ch
 fornoni.ch
 fornopanfilo.ch
+fornopopolare.ch
 fornow.ch
 fornus.ch
 fornuspizzakurierundtakeaway.ch
@@ -11700,6 +11699,7 @@ forumpn.ch
 forumpoenale.ch
 forumpolitica.ch
 forumpolitiqueagricole.ch
+forumportugais.ch
 forumportugues.ch
 forumpourlamusiqueancienne.ch
 forumpr.ch

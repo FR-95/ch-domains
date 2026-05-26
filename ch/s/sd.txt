@@ -1,6 +1,5 @@
 sd-aerzte.ch
 sd-agrar.ch
-sd-architekten.ch
 sd-arzier-le-muids.ch
 sd-automobile.ch
 sd-bauservice.ch
@@ -631,7 +630,6 @@ sdp-treuhand.ch
 sdp.ch
 sdpa.ch
 sdpartners.ch
-sdpconstruction.ch
 sdpeinture.ch
 sdpercussion.ch
 sdphotography.ch
@@ -653,7 +651,6 @@ sdq.ch
 sdr-adr.ch
 sdr-data-recovery.ch
 sdr-datarecovery.ch
-sdr-datenrettung.ch
 sdr-jegenstorf.ch
 sdr-peinture.ch
 sdr-platrerie-peinture.ch

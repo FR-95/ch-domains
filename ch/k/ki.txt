@@ -1073,7 +1073,6 @@ kiagency.ch
 kiagent-swiss.ch
 kiagent.ch
 kiagenten.ch
-kiagentenschweiz.ch
 kiagentenservice.ch
 kiagents.ch
 kiagentswiss.ch
@@ -4720,7 +4719,6 @@ kimstraehler.ch
 kimstrebel.ch
 kimstyle.ch
 kimsufi.ch
-kimsvoice.ch
 kimsweetware.ch
 kimtatic.ch
 kimtcherei.ch
@@ -5757,6 +5755,7 @@ kinderbegegnenmusik.ch
 kinderbegegnensprache.ch
 kinderbegleiten.ch
 kinderbegleitung.ch
+kinderbegriffe.ch
 kinderbekleidung-luzern.ch
 kinderbekleidung.ch
 kinderberatung.ch
@@ -8223,6 +8222,7 @@ kindprofessor.ch
 kindquestking.ch
 kindradiance.ch
 kindred.ch
+kindredapp.ch
 kindredherbals.ch
 kindregards.ch
 kinds-verlust.ch
@@ -8456,7 +8456,6 @@ kinegram.ch
 kinegysi.ch
 kinehealth.ch
 kinehome.ch
-kineis.ch
 kinej.ch
 kineju.ch
 kineka.ch
@@ -10548,6 +10547,7 @@ kinsora.ch
 kinsperger.ch
 kinspiration.ch
 kinsta.ch
+kinstories.ch
 kinsu.ch
 kinsult.ch
 kinsurance.ch
@@ -12975,7 +12975,6 @@ kistenschieber.ch
 kistentier.ch
 kistentrends.ch
 kistenzauber.ch
-kister.ch
 kisterei.ch
 kisters-gmbh.ch
 kisters.ch
@@ -13355,6 +13354,7 @@ kita-im-park.ch
 kita-impark.ch
 kita-in-der-naehe.ch
 kita-in-meiner-naehe.ch
+kita-index.ch
 kita-info-app.ch
 kita-initiative-ja.ch
 kita-initiative.ch
@@ -14131,8 +14131,6 @@ kitastgallen.ch
 kitasuche.ch
 kitasuchen.ch
 kitasuisse.ch
-kitasumis.ch
-kitasumiswald.ch
 kitasummervogel.ch
 kitasunneschii.ch
 kitasunneschyn.ch
@@ -14648,6 +14646,7 @@ kitly.ch
 kitman.ch
 kitmanif.ch
 kitn.ch
+kitnation.ch
 kitnet.ch
 kitnetic.ch
 kitnkraft.ch
@@ -14975,6 +14974,7 @@ kiwahrsager.ch
 kiwai.ch
 kiwalshki.ch
 kiwambo.ch
+kiwami.ch
 kiwana.ch
 kiwani.ch
 kiwanis-aarau.ch

@@ -4759,6 +4759,7 @@ geldderzukunft.ch
 gelddominas.ch
 gelddruckmaschine.ch
 geldeintreiben.ch
+geldeintreiber.ch
 geldeintreiberagentur.ch
 geldeintreiberagenturblog.ch
 geldeintreiberagenturnews.ch
@@ -8682,7 +8683,6 @@ genevahostel.ch
 genevahotel.ch
 genevahotels.ch
 genevahousecleaners.ch
-genevai.ch
 genevaideasforum.ch
 genevaimmo.ch
 genevaimmobilier.ch
@@ -10596,7 +10596,10 @@ gentec.ch
 gentech-center.ch
 gentech-formation.ch
 gentech-initiative.ch
+gentech-schoo.ch
+gentech-school.ch
 gentech-scoo.ch
+gentech-scoop.ch
 gentech.ch
 gentechfrei-initiative.ch
 gentechfrei-waehlen.ch
@@ -11741,6 +11744,7 @@ geoaero.ch
 geoag.ch
 geoagency.ch
 geoagentur.ch
+geoagenturbasel.ch
 geoagenturschweiz.ch
 geoai.ch
 geoaider.ch
@@ -16116,7 +16120,6 @@ geschenkemagie.ch
 geschenkemanufaktur.ch
 geschenkemitherz.ch
 geschenkemitsinn.ch
-geschenkempfehlungen.ch
 geschenkenachmass.ch
 geschenkenews.ch
 geschenkeonline.ch
@@ -18571,7 +18574,6 @@ gesundheitsallee.ch
 gesundheitsanbieter.ch
 gesundheitsanzeiger.ch
 gesundheitsapotheke.ch
-gesundheitsapps.ch
 gesundheitsartikel.ch
 gesundheitsarzt.ch
 gesundheitsaspekte.ch
@@ -20949,6 +20951,7 @@ gettheview.ch
 getthingsdone.ch
 getthiswritten.ch
 getti.ch
+gettigeneral.ch
 getting-close.ch
 getting-digital-to-work.ch
 getting-it-done.ch
@@ -21303,7 +21306,6 @@ gewa-ict.ch
 gewa-innerschwyz.ch
 gewa-itremarketing.ch
 gewa-konfektionierung.ch
-gewa-kreuzlingen.ch
 gewa-liegenschaftsservice.ch
 gewa-logistik.ch
 gewa-march-2027.ch
@@ -22464,7 +22466,6 @@ gewinnen-mit-herz.ch
 gewinnen.ch
 gewinnen24.ch
 gewinnendepflege.ch
-gewinner-der-krise.ch
 gewinner-digitalisierung.ch
 gewinner-fabrik.ch
 gewinner-kampagne.ch

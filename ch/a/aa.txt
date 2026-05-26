@@ -906,7 +906,6 @@ aar-mosaik.ch
 aar-shiatsu.ch
 aar-stedtli.ch
 aar-tax.ch
-aar-thun.ch
 aar-treuhand.ch
 aar-ufer.ch
 aar-umzuege.ch
@@ -1488,6 +1487,7 @@ aaregarage-marti.ch
 aaregarage.ch
 aaregarten.ch
 aaregeist.ch
+aaregemini.ch
 aaregenuss.ch
 aaregeruest.ch
 aaregetraenke.ch
@@ -1509,6 +1509,7 @@ aaregroup.ch
 aaregruess.ch
 aareguerbetal.ch
 aareguet.ch
+aareguru.ch
 aaregusler.ch
 aaregut.ch
 aareha.ch
@@ -1613,7 +1614,6 @@ aaremilch.ch
 aaremontagen.ch
 aaremusik.ch
 aaremutz.ch
-aarena-thun.ch
 aarena.ch
 aarenailspa.ch
 aarenarkose.ch

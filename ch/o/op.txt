@@ -2131,7 +2131,6 @@ operationrh.ch
 operations-diversity.ch
 operations-resear.ch
 operations-research.ch
-operations.ch
 operations1.ch
 operationsadvisor.ch
 operationsadvisors.ch
@@ -3942,6 +3941,7 @@ optima-umfragen.ch
 optima-versicherung.ch
 optima-voice.ch
 optima.ch
+optima3d.ch
 optima4u.ch
 optimaautomobile.ch
 optimabat.ch

@@ -282,6 +282,7 @@ pgsitp.ch
 pgslot.ch
 pgsoft.ch
 pgsolar.ch
+pgsplay.ch
 pgss-systems.ch
 pgss.ch
 pgsssa.ch

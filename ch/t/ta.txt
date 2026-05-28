@@ -4178,6 +4178,8 @@ talama.ch
 talamanca.ch
 talamar.ch
 talamare.ch
+talamas.ch
+talamascastedo.ch
 talamona.ch
 talamonti.ch
 talampaya.ch
@@ -4377,6 +4379,7 @@ talent-screen.ch
 talent-serve.ch
 talent-service.ch
 talent-services.ch
+talent-sh.ch
 talent-soft.ch
 talent-solutions.ch
 talent-soul.ch
@@ -13523,6 +13526,7 @@ taveri.ch
 taverimoto.ch
 tavern-of-heroes.ch
 tavern.ch
+tavern61.ch
 taverna-apollo.ch
 taverna-ascona.ch
 taverna-buchhaltung.ch
@@ -13732,7 +13736,6 @@ tavorabrands.ch
 tavox.ch
 tavradesign.ch
 tavrida.ch
-tavros.ch
 tavs.ch
 tavsa.ch
 tavstmoritz.ch
@@ -15989,6 +15992,7 @@ taxreturnzurich.ch
 taxright.ch
 taxrobot.ch
 taxroom.ch
+taxs.ch
 taxsafe.ch
 taxsave.ch
 taxsavinghomes.ch

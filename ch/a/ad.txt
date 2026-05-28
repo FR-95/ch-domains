@@ -28,6 +28,7 @@ ad-bau.ch
 ad-baugroup.ch
 ad-baumanagement.ch
 ad-baumgartner.ch
+ad-bausysteme.ch
 ad-bb.ch
 ad-beratung.ch
 ad-blue.ch
@@ -2290,6 +2291,7 @@ adfidor-consulting.ch
 adfidor-management.ch
 adfidor-treuhand.ch
 adfidor.ch
+adfin.ch
 adfinance.ch
 adfinas.ch
 adfinco.ch
@@ -2433,7 +2435,6 @@ adhelp.ch
 adhelvita.ch
 adherarchitectes.ch
 adhere-up.ch
-adhere.ch
 adherenz.ch
 adhereup.ch
 adherlo.ch
@@ -3173,7 +3174,6 @@ adis-soloband.ch
 adis.ch
 adis1450.ch
 adisa.ch
-adisadauti.ch
 adisag.ch
 adisailor.ch
 adisca.ch
@@ -4012,6 +4012,7 @@ admin-media.ch
 admin-mezieres-fr.ch
 admin-mobile.ch
 admin-net.ch
+admin-night.ch
 admin-nights.ch
 admin-nolocopartage.ch
 admin-nova-metrics.ch
@@ -7569,6 +7570,7 @@ adventureworld.ch
 adventurex.ch
 adventuria-swiss.ch
 adventuria.ch
+adventuring-logbooks.ch
 adventurix.ch
 adventurly.ch
 adventurs.ch
@@ -8121,6 +8123,7 @@ advofinder.ch
 advofive.ch
 advofleet.ch
 advoflex.ch
+advoflow.ch
 advofrey.ch
 advofuenf.ch
 advogada.ch

@@ -2457,6 +2457,7 @@ swipeapply.ch
 swipebee.ch
 swipecasino.ch
 swipeclean.ch
+swipecor.ch
 swipedon.ch
 swipefilms.ch
 swipeflat.ch
@@ -2799,6 +2800,7 @@ swiss-ai-factory.ch
 swiss-ai-film-award.ch
 swiss-ai-hotel.ch
 swiss-ai-hub.ch
+swiss-ai-infrastructure.ch
 swiss-ai-job.ch
 swiss-ai-jobs.ch
 swiss-ai-lab.ch
@@ -6975,6 +6977,7 @@ swiss-motorways.ch
 swiss-motos.ch
 swiss-mototours.ch
 swiss-motto.ch
+swiss-mountain-accounting.ch
 swiss-mountain-accouting.ch
 swiss-mountain-beer.ch
 swiss-mountain-bier.ch
@@ -7170,6 +7173,7 @@ swiss-odp.ch
 swiss-odyssey.ch
 swiss-oekohaus.ch
 swiss-oel.ch
+swiss-oenotourisme.ch
 swiss-oergeler.ch
 swiss-offerte.ch
 swiss-offerten.ch
@@ -8071,6 +8075,7 @@ swiss-rets.ch
 swiss-reuse.ch
 swiss-review.ch
 swiss-reviews.ch
+swiss-revision.ch
 swiss-revotion.ch
 swiss-rex.ch
 swiss-rf.ch
@@ -9759,7 +9764,6 @@ swiss-yachtfurniture.ch
 swiss-yachting-association.ch
 swiss-yachting.ch
 swiss-yachts.ch
-swiss-yield.ch
 swiss-yogalodge.ch
 swiss-you.ch
 swiss-young-academy.ch
@@ -10573,6 +10577,7 @@ swissalts.ch
 swissalu.ch
 swissalumni.ch
 swissalunet.ch
+swissaluprofi.ch
 swissalytics.ch
 swissam.ch
 swissamadeus.ch
@@ -11040,6 +11045,7 @@ swissauto250.ch
 swissautoag.ch
 swissautoankauf.ch
 swissautoauktion.ch
+swissautocare.ch
 swissautocars.ch
 swissautocenter.ch
 swissautoclean.ch
@@ -12421,6 +12427,7 @@ swisscadeau.ch
 swisscafe.ch
 swisscaffe.ch
 swisscai.ch
+swisscaio.ch
 swisscake-academy.ch
 swisscake.ch
 swisscakeacademy.ch
@@ -13176,7 +13183,6 @@ swisschoc.ch
 swisschocbeef.ch
 swisschoco.ch
 swisschoco24.ch
-swisschocobox.ch
 swisschocolat.ch
 swisschocolate.ch
 swisschocolateabo.ch
@@ -15994,6 +16000,7 @@ swissexotool.ch
 swissexp.ch
 swissexpatguide.ch
 swissexpatguides.ch
+swissexpathub.ch
 swissexpatrealtor.ch
 swissexpats.ch
 swissexpatservices.ch
@@ -16906,6 +16913,7 @@ swissfundforum.ch
 swissfundinfo.ch
 swissfunding.ch
 swissfundmanagement.ch
+swissfundmarket.ch
 swissfundplatform.ch
 swissfundpool.ch
 swissfundraisers.ch
@@ -17843,6 +17851,7 @@ swisshealth.ch
 swisshealth24.ch
 swisshealthadmin.ch
 swisshealthadvisory.ch
+swisshealthai.ch
 swisshealthalliance.ch
 swisshealthawareness.ch
 swisshealthbank.ch
@@ -19604,6 +19613,7 @@ swissland.ch
 swisslander.ch
 swisslandestates.ch
 swisslandgroup.ch
+swisslanding.ch
 swisslandingpage.ch
 swisslandlease.ch
 swisslando.ch
@@ -21495,6 +21505,7 @@ swissmountain-handbags.ch
 swissmountain-shelties.ch
 swissmountain-textils.ch
 swissmountain.ch
+swissmountainaccounting.ch
 swissmountainaccouting.ch
 swissmountainaid.ch
 swissmountainair.ch
@@ -23189,6 +23200,7 @@ swissplaner.ch
 swissplanet.ch
 swissplangu.ch
 swissplanie.ch
+swissplanif.ch
 swissplaninvest.ch
 swissplaninvestag.ch
 swissplankton.ch
@@ -23728,6 +23740,7 @@ swissprinters-events.ch
 swissprinters-publications.ch
 swissprinters.ch
 swissprinting.ch
+swissprintlab.ch
 swissprintmanagement.ch
 swissprintondemand.ch
 swissprintproduction.ch
@@ -24039,7 +24052,6 @@ swisspu.ch
 swisspub-sz.ch
 swisspub.ch
 swisspubli.ch
-swisspublic.ch
 swisspublicdomain.ch
 swisspublichealth.ch
 swisspublichealthconference.ch
@@ -24758,6 +24770,7 @@ swissrex.ch
 swissrexag.ch
 swissrexcapital.ch
 swissreyoga.ch
+swissrezension.ch
 swissrezept.ch
 swissrg.ch
 swissrgpd.ch
@@ -27080,6 +27093,7 @@ swissu.ch
 swissuance.ch
 swissub.ch
 swissubase.ch
+swissube.ch
 swissuber.ch
 swissucc.ch
 swissuccess.ch
@@ -28225,6 +28239,7 @@ swissyachting.ch
 swissyachtingassociation.ch
 swissyahtzee.ch
 swissyakoubidev.ch
+swissyamadori.ch
 swissyandsassy.ch
 swissyap.ch
 swissyapp.ch

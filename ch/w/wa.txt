@@ -816,6 +816,7 @@ waechter-systems.ch
 waechter-textilreinigung.ch
 waechter.ch
 waechterag.ch
+waechterderschweiz.ch
 waechtergarage.ch
 waechtermail.ch
 waechterswerkstatt.ch
@@ -1104,7 +1105,6 @@ waeltis-holzbau.ch
 waeltis.ch
 waeltisohn.ch
 waeltisolutions.ch
-waeltistore.ch
 waeltistoren.ch
 waeltiworb.ch
 waeltlade-rothenburg.ch
@@ -1326,6 +1326,7 @@ waermepumpen-boiler.ch
 waermepumpen-check.ch
 waermepumpen-checkup.ch
 waermepumpen-fachmann.ch
+waermepumpen-guide.ch
 waermepumpen-heizung.ch
 waermepumpen-info.ch
 waermepumpen-klimaanlagen.ch
@@ -1434,6 +1435,7 @@ waermetechnik.ch
 waermetechniker.ch
 waermethalwil.ch
 waermethurgau.ch
+waermetiere.ch
 waermetrennschied.ch
 waermeverbund-ag.ch
 waermeverbund-baspo-magglingen.ch
@@ -1515,7 +1517,6 @@ waesche-service.ch
 waesche-spezialist.ch
 waesche-trockner.ch
 waesche.ch
-waescheabo.ch
 waescheabwurf-online.ch
 waescheabwurf-schweiz-shop.ch
 waescheabwurf-schweiz.ch
@@ -1945,7 +1946,6 @@ wagenmeister.ch
 wagenmieten.ch
 wagenpartners.ch
 wagenpflege.ch
-wagenplatz.ch
 wagenrain.ch
 wagenrunse.ch
 wagensauna.ch
@@ -2425,7 +2425,6 @@ wahlen-dietikon.ch
 wahlen-duedingen.ch
 wahlen-ebikon.ch
 wahlen-gewinnen.ch
-wahlen-glarus.ch
 wahlen-gr.ch
 wahlen-graubuenden.ch
 wahlen-grosser-rat.ch
@@ -5041,6 +5040,7 @@ walkabouts.ch
 walkabut.ch
 walkaloosa.ch
 walkandbless.ch
+walkandcare.ch
 walkandeat.ch
 walkandjog.ch
 walkandtalk-luzern.ch
@@ -7352,6 +7352,7 @@ wandeltreppe.ch
 wandelundharmonie.ch
 wandelundwunder.ch
 wandelvernetztdenken.ch
+wandelwahl.ch
 wandelweg.ch
 wandelwege-coaching.ch
 wandelwege.ch
@@ -7426,7 +7427,6 @@ wanderbackyard.ch
 wanderbaer.ch
 wanderbank.ch
 wanderbar.ch
-wanderbare-schweiz.ch
 wanderbarewunderwelt.ch
 wanderbegleitung.ch
 wanderbeizli.ch
@@ -8812,7 +8812,6 @@ warenwelten.ch
 warenwerk.ch
 warenwirtschaft.ch
 warenwirtschaftssystem.ch
-warenwunde.ch
 warenwunder.ch
 warenyk.ch
 warenyky.ch
@@ -11843,6 +11842,7 @@ watchesandwonders.ch
 watchesandwondersgeneva.ch
 watchesandwondersgeneve.ch
 watchesdirect.ch
+watchesfortomorrow.ch
 watchesfromhelvetia.ch
 watchesinternational.ch
 watchesjewels.ch
@@ -12507,6 +12507,7 @@ watertecpro.ch
 watertemp.ch
 watertemple.ch
 waterthrone.ch
+watertight.ch
 watertime.ch
 watertogas.ch
 watertogo.ch

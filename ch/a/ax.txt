@@ -451,7 +451,6 @@ axe-nova.ch
 axe-online.ch
 axe-physio.ch
 axe-profil.ch
-axe-realestate.ch
 axe-reporter.ch
 axe-souple.ch
 axe-summer.ch
@@ -985,6 +984,7 @@ axionyx.ch
 axiop.ch
 axiopex.ch
 axioprop.ch
+axioq.ch
 axior.ch
 axiora.ch
 axiorix.ch

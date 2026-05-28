@@ -103,6 +103,7 @@ kebab-master.ch
 kebab-meister.ch
 kebab-ouchy-lausanne.ch
 kebab-ouchy.ch
+kebab-paradise.ch
 kebab-sierre.ch
 kebab-square.ch
 kebab-station.ch
@@ -2075,9 +2076,11 @@ kellerl0.ch
 kellerlab.ch
 kellerlabs.ch
 kellerladenbau.ch
+kellerlager.ch
 kellerlandtechnik.ch
 kellerlapointe.ch
 kellerlaser.ch
+kellerli.ch
 kellerlichtsysteme.ch
 kellerlifecoach.ch
 kellerlimo.ch
@@ -2791,7 +2794,6 @@ kendera.ch
 kendermann.ch
 kendeyaa.ch
 kendi.ch
-kendicaffe.ch
 kendix.ch
 kendo-basel.ch
 kendo-club-kriens.ch
@@ -4316,6 +4318,7 @@ kernzahl.ch
 kernzone.ch
 kero-bau.ch
 kero-connect.ch
+kero-web.ch
 kero-zen.ch
 kero.ch
 keroag.ch
@@ -4384,7 +4387,6 @@ kerstin-joanna.ch
 kerstin-kemper.ch
 kerstin-loeffler.ch
 kerstin-nemeth.ch
-kerstin-ott.ch
 kerstin-philipp.ch
 kerstin-r-stoll.ch
 kerstin-steiner.ch
@@ -5125,7 +5127,6 @@ ketorestaurant.ch
 ketorestaurants.ch
 ketori.ch
 ketory.ch
-ketos.ch
 ketosalus.ch
 ketosan.ch
 ketosansstress.ch
@@ -5422,6 +5423,7 @@ kevinarbeitetfursie.ch
 kevinarenja.ch
 kevinauto.ch
 kevinbalogh.ch
+kevinbantli.ch
 kevinbarrionuevo.ch
 kevinbartschi.ch
 kevinbaumgartner.ch
@@ -6045,6 +6047,7 @@ keylargo-shop.ch
 keylearn-kairospartner.ch
 keylearn.ch
 keylearning.ch
+keylens.ch
 keyless.ch
 keylessworld.ch
 keylight.ch
@@ -6167,6 +6170,7 @@ keyprozessing.ch
 keypublishinggroup.ch
 keypun.ch
 keyquest.ch
+keyra.ch
 keyrange-gs1.ch
 keyranges-gs1.ch
 keyreal.ch
@@ -6227,6 +6231,7 @@ keysie-systems.ch
 keysify.ch
 keysight.ch
 keysign.ch
+keysmart.ch
 keysnow.ch
 keysofenoch.ch
 keysoft.ch

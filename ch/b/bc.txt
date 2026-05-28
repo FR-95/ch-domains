@@ -34,7 +34,6 @@ bc-bubendorf.ch
 bc-buochs.ch
 bc-calzature.ch
 bc-cesu.ch
-bc-cham.ch
 bc-chasseral.ch
 bc-chatel.ch
 bc-chemie.ch
@@ -930,7 +929,6 @@ bcs-computer.ch
 bcs-consulting.ch
 bcs-energie.ch
 bcs-facades.ch
-bcs-ferrari.ch
 bcs-fiduciaire.ch
 bcs-gipselemente.ch
 bcs-haustechnik.ch

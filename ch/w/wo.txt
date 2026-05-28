@@ -425,7 +425,6 @@ wocons.ch
 wocr.ch
 wocs.ch
 wocsuisse.ch
-wocube.ch
 wocuzaba.ch
 wod-consulting.ch
 wod.ch
@@ -1562,7 +1561,6 @@ wohnen-langendorf.ch
 wohnen-langenthal.ch
 wohnen-langhalde.ch
 wohnen-langnau.ch
-wohnen-laupen.ch
 wohnen-leben-geniessen.ch
 wohnen-leben.ch
 wohnen-lettenstrasse.ch
@@ -2547,6 +2545,7 @@ wohnquadrat.ch
 wohnqualitaet-thayngen.ch
 wohnqualitaet.ch
 wohnradar.ch
+wohnradarschweiz.ch
 wohnraeume.ch
 wohnratgeber.ch
 wohnraum-ag.ch
@@ -7324,7 +7323,6 @@ workadvisors.ch
 workag.ch
 workagile.ch
 workahobbit.ch
-workaholic.ch
 workaholica.ch
 workaholics.ch
 workai.ch
@@ -8503,6 +8501,7 @@ world-tour.ch
 world-trace.ch
 world-trade.ch
 world-travel.ch
+world-tree-trust.ch
 world-tree.ch
 world-view.ch
 world-vision-one.ch
@@ -9132,6 +9131,7 @@ worldtreasure.ch
 worldtree-studio.ch
 worldtree.ch
 worldtreestudio.ch
+worldtreetrust.ch
 worldtv.ch
 worldunitedsports.ch
 worldusabilityday.ch

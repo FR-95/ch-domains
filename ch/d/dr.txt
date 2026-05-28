@@ -640,6 +640,7 @@ dr-patricia-christoph.ch
 dr-paul-janssen-academy.ch
 dr-pavic.ch
 dr-pc.ch
+dr-peacock.ch
 dr-peros-derm.ch
 dr-persi.ch
 dr-peter-abegg.ch
@@ -842,6 +843,7 @@ dr-tanner.ch
 dr-tatjana-lanaras.ch
 dr-team.ch
 dr-tec.ch
+dr-technics.ch
 dr-teterycz.ch
 dr-text.ch
 dr-thalmann.ch
@@ -2147,6 +2149,7 @@ drbussenault.ch
 drbusvochur.ch
 drbusvuchur.ch
 drbutti.ch
+drbutzke.ch
 drbw.ch
 drbyte.ch
 drc-treuhand.ch
@@ -2355,6 +2358,7 @@ dready.ch
 dreadz.ch
 dreael.ch
 dreag.ch
+dreah.ch
 dreal.ch
 drealty.ch
 dream-air.ch
@@ -4256,6 +4260,9 @@ dretgspolitics.ch
 dretienney.ch
 dreugster.ch
 dreumex.ch
+dreuver-verlag.ch
+dreuver.ch
+dreuversum.ch
 drev.ch
 drevadrahovzalova.ch
 drevci.ch
@@ -4741,6 +4748,7 @@ drike7dates.ch
 drikung.ch
 drikungsamtenchoeling.ch
 drilic.ch
+drill-nav.ch
 drill-point-fishing.ch
 drill-point.ch
 drill-tech.ch
@@ -4760,6 +4768,7 @@ drillix.ch
 drilljet.ch
 drillkart.ch
 drillmat.ch
+drillnav.ch
 drillpoint.ch
 drills.ch
 drilltec.ch
@@ -4973,6 +4982,7 @@ drinkflip.ch
 drinkflitzer.ch
 drinkflow.ch
 drinkformetta.ch
+drinkfreisinger.ch
 drinkful.ch
 drinkgaswiss.ch
 drinkgazosa.ch
@@ -8796,7 +8806,6 @@ druckereiwuethrich.ch
 druckereizollikofen.ch
 druckereizuerich.ch
 druckerfachmann.ch
-druckerfarben.ch
 druckerfarm.ch
 druckerhaus24.ch
 druckerhoehung.ch
@@ -9395,7 +9404,6 @@ drumnbrass.ch
 drumnight-thun.ch
 drumnight.ch
 drumnightthun.ch
-drumnoisestudio.ch
 drumpact.ch
 drumplay.ch
 drumrelease.ch
@@ -9860,7 +9868,6 @@ drymat-suisse.ch
 drymat-svizzera.ch
 drymat.ch
 drymax.ch
-drymaxpro.ch
 drymaxsports.ch
 drymeatvalais.ch
 drymi.ch
@@ -9873,7 +9880,6 @@ dryneedling-book.ch
 dryneedling-buch.ch
 dryneedling-luzern.ch
 dryneedling-lyss.ch
-dryneedling-region-suhren.ch
 dryneedling-therapie.ch
 dryneedling-therapy.ch
 dryneedling.ch

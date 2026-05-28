@@ -1465,6 +1465,7 @@ prats-swiss.ch
 prats-switzerland.ch
 prats.ch
 pratschazernez.ch
+pratslens.ch
 prattele.ch
 prattelino.ch
 pratteln-augenarzt.ch
@@ -2274,6 +2275,7 @@ praxis-depesche.ch
 praxis-deplazes.ch
 praxis-depot.ch
 praxis-der-5-sinne.ch
+praxis-der-natur.ch
 praxis-der-ruhe.ch
 praxis-derachtsamkeit.ch
 praxis-derma.ch
@@ -3437,6 +3439,7 @@ praxis-mans.ch
 praxis-manubrium.ch
 praxis-manuela.ch
 praxis-manumed.ch
+praxis-manus.ch
 praxis-marcello.ch
 praxis-margritrast.ch
 praxis-margulies.ch
@@ -4791,6 +4794,7 @@ praxis-zwicky.ch
 praxis-zwischenzeit.ch
 praxis.ch
 praxis0-18.ch
+praxis1.ch
 praxis10.ch
 praxis11.ch
 praxis111.ch
@@ -7248,6 +7252,7 @@ pre-giroud.ch
 pre-guillaume.ch
 pre-home.ch
 pre-inferno.ch
+pre-ipo.ch
 pre-it.ch
 pre-jdid.ch
 pre-jeantet.ch
@@ -9516,6 +9521,7 @@ prendresoinicls.ch
 prendresonenvol.ch
 prends-lis.ch
 prends-moi-sec.ch
+prends-moi.ch
 prends-soin-de-toi.ch
 prends-ton-baluchon.ch
 prends-ton-sac.ch
@@ -9939,6 +9945,7 @@ presencecontinue.ch
 presencedelinstant.ch
 presencedigitale.ch
 presencelab.ch
+presencelocale.ch
 presencemode.ch
 presenceone.ch
 presenceplus.ch
@@ -10013,7 +10020,6 @@ presentfactory.ch
 presenthotel.ch
 presentia-zurich.ch
 presentia.ch
-presentiare.ch
 presentiarealmeida.ch
 presentiel.ch
 presentient.ch
@@ -10454,6 +10460,7 @@ presspart.ch
 presspass.ch
 pressphoto.ch
 pressplay.ch
+pressplus-repassage.ch
 pressportal.ch
 presspuccino.ch
 presspump.ch
@@ -13530,6 +13537,7 @@ primestoneholding.ch
 primestore.ch
 primestrip.ch
 primestudio.ch
+primestudios.ch
 primestyle.ch
 primesu.ch
 primesuisse.ch
@@ -14354,6 +14362,7 @@ printandpaper.ch
 printandsend.ch
 printandsoft.ch
 printandweb.ch
+printaniere.ch
 printannay.ch
 printany.ch
 printanywhere.ch
@@ -14892,7 +14901,6 @@ printsofswitzerland.ch
 printsoft.ch
 printsolutions.ch
 printspeed.ch
-printsport.ch
 printspot.ch
 printstagram.ch
 printstar-sa.ch
@@ -18801,6 +18809,7 @@ pro-nachtleben-zueri.ch
 pro-nano.ch
 pro-nasa.ch
 pro-natura-schlafsystem.ch
+pro-natura.ch
 pro-natural.ch
 pro-nature.ch
 pro-naturpark.ch
@@ -20663,6 +20672,7 @@ procopt.ch
 procopter.ch
 procopy.ch
 procor.ch
+procora.ch
 procoralan.ch
 procore-help.ch
 procore-info.ch
@@ -26677,7 +26687,6 @@ promo-loisir.ch
 promo-loisirs.ch
 promo-macher.ch
 promo-martigny.ch
-promo-mat.ch
 promo-misc.ch
 promo-neuve.ch
 promo-nflxscs.ch
@@ -27298,6 +27307,7 @@ prompt-art.ch
 prompt-artist.ch
 prompt-battle-zurich.ch
 prompt-battle.ch
+prompt-cms.ch
 prompt-crafter.ch
 prompt-creative-director.ch
 prompt-degrader.ch
@@ -27339,6 +27349,7 @@ promptbattlebern.ch
 promptbib.ch
 promptbuilder.ch
 promptcapitalshq.ch
+promptcms.ch
 promptcoach.ch
 promptcraft.ch
 promptcrafter.ch
@@ -27676,7 +27687,6 @@ prontodigitalnetwork.ch
 prontodrinks.ch
 prontodruck.ch
 prontoexpress.ch
-prontofacility.ch
 prontoflat.ch
 prontogips.ch
 prontoibrahim-thun.ch
@@ -28228,6 +28238,7 @@ propertysold.ch
 propertysolution.ch
 propertysolutions.ch
 propertysourcing.ch
+propertystaging.ch
 propertystone.ch
 propertysuisse.ch
 propertyswiss.ch
@@ -28572,6 +28583,7 @@ proprietes-de-suisse.ch
 proprietes-privees.ch
 proprietes.ch
 proprietesdesuisse.ch
+proprimmo.ch
 proprint.ch
 proprint2.ch
 proprio-ag.ch
@@ -32352,6 +32364,7 @@ pruefungszentrum-zuerich.ch
 pruefungszentrum.ch
 pruefxpert.ch
 pruegelhaus.ch
+pruegeli.ch
 pruegelnacht.ch
 pruegg.ch
 pruem.ch

@@ -597,7 +597,6 @@ tmwsk.ch
 tmx-darts.ch
 tmx-savoleyres.ch
 tmx-trigger.ch
-tmx-verbier.ch
 tmx.ch
 tmxs.ch
 tmxsavoleyres.ch
@@ -605,7 +604,6 @@ tmxschweiz.ch
 tmxsuisse.ch
 tmxsvizzera.ch
 tmxtrigger.ch
-tmxverbier.ch
 tmxx.ch
 tmy-connect.ch
 tmy.ch

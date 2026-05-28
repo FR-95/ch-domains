@@ -51,7 +51,6 @@ ai-ambassadors.ch
 ai-amplifier.ch
 ai-analyse.ch
 ai-analysen.ch
-ai-analyses.ch
 ai-analytics.ch
 ai-and-shit.ch
 ai-and-shizzle.ch
@@ -434,6 +433,7 @@ ai-implementierung.ch
 ai-impulse.ch
 ai-in-a-box.ch
 ai-in-action.ch
+ai-in-business.ch
 ai-in-communication.ch
 ai-in-communications.ch
 ai-in-corpcom.ch
@@ -1366,7 +1366,6 @@ aiciso.ch
 aiciti.ch
 aicitizensummit.ch
 aicity.ch
-aiclarity.ch
 aiclaritylab.ch
 aiclasses.ch
 aiclassroom.ch
@@ -1890,7 +1889,6 @@ aidevelopers.ch
 aidevelopment.ch
 aidevia.ch
 aidevops.ch
-aidewiss.ch
 aidex.ch
 aidexa.ch
 aidez-a-aider.ch
@@ -3372,6 +3370,7 @@ ainhoamate.ch
 aini.ch
 ainiac.ch
 ainights.ch
+ainim.ch
 ainisha-morselli.ch
 ainium.ch
 ainja.ch
@@ -3737,6 +3736,7 @@ aipply.ch
 aipproperty.ch
 aipraa.ch
 aipractice.ch
+aipratica.ch
 aipraxis.ch
 aipreneur.ch
 aiprime.ch
@@ -4033,6 +4033,7 @@ air360.ch
 air4life.ch
 air4rent.ch
 air4th.ch
+air4u.ch
 air4water.ch
 air8.ch
 air9baticontrole.ch
@@ -5026,6 +5027,7 @@ airoagent.ch
 airobot.ch
 airobotics.ch
 airobots.ch
+airobrands.ch
 airocide.ch
 airoclean.ch
 airodoctor.ch
@@ -6404,6 +6406,7 @@ aivb.ch
 aivd-info.ch
 aivd.ch
 aive.ch
+aiven.ch
 aivendu.ch
 aiveniox.ch
 aivens-dreamgoldenretrievers.ch

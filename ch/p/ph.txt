@@ -1286,8 +1286,10 @@ pharmalp.ch
 pharmalpes.ch
 pharmalucens.ch
 pharmalunch.ch
+pharmalys-lab.ch
 pharmalys-laboratories.ch
 pharmalys.ch
+pharmalyslab.ch
 pharmalyslaboratories.ch
 pharmalyslabs.ch
 pharmalytic.ch
@@ -8562,6 +8564,7 @@ physiodomizil-grogg.ch
 physiodomizil-vg.ch
 physiodomizil-zuerich.ch
 physiodomizil.ch
+physiodomizilbehandlung.ch
 physiodomus.ch
 physiodoo.ch
 physiodos.ch
@@ -8641,6 +8644,7 @@ physiofamily.ch
 physiofausch.ch
 physiofdr.ch
 physiofdrsport.ch
+physiofeet.ch
 physioferran-adom.ch
 physiofilic.ch
 physiofinder.ch

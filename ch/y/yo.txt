@@ -818,7 +818,6 @@ yoga-sitz-luzern.ch
 yoga-sitz.ch
 yoga-sivananda.ch
 yoga-smile.ch
-yoga-socken.ch
 yoga-soham.ch
 yoga-soleil.ch
 yoga-soletta.ch
@@ -880,6 +879,7 @@ yoga-therapie-winterthur.ch
 yoga-therapie-zentrum.ch
 yoga-therapie-zuerich.ch
 yoga-therapiezentrum.ch
+yoga-therapy-motion.ch
 yoga-ticino.ch
 yoga-time-baar.ch
 yoga-time.ch
@@ -1482,6 +1482,7 @@ yogaiyengar.ch
 yogaiyengarsuisse.ch
 yogajana.ch
 yogajap.ch
+yogajas.ch
 yogajaya.ch
 yogajetz.ch
 yogajetzt.ch
@@ -2080,7 +2081,6 @@ yogasitzluzern.ch
 yogasleep.ch
 yogasnacks.ch
 yogasnax.ch
-yogasocken.ch
 yogasol.ch
 yogasolothurn.ch
 yogasolutions.ch
@@ -3199,6 +3199,7 @@ you-are-blocked.ch
 you-are-ems.ch
 you-are-more.ch
 you-are-never-alone.ch
+you-are-right.ch
 you-are-special.ch
 you-are-the-captain.ch
 you-are-the-key.ch
@@ -4137,13 +4138,10 @@ younited-coach.ch
 younited-credit.ch
 younited.ch
 younitedcredit.ch
+younitedsach.ch
 younitiate.ch
 youniting.ch
-younity-home.ch
-younity-homes.ch
 younity.ch
-younityhome.ch
-younityhomes.ch
 younivers.ch
 youniverse-coaching.ch
 youniverse.ch
@@ -4739,6 +4737,7 @@ yourcoach.ch
 yourcoaches.ch
 yourcoaching.ch
 yourcoder.ch
+yourcodes.ch
 yourcolors.ch
 yourcomm.ch
 yourcompanion.ch

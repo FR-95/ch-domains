@@ -8911,7 +8911,6 @@ fairyclean.ch
 fairycreatures.ch
 fairydreams.ch
 fairydress.ch
-fairydust-by-victoria.ch
 fairydust-geneve.ch
 fairydust.ch
 fairyfloss.ch
@@ -9138,6 +9137,7 @@ fakaru.ch
 fakb.ch
 fake-away.ch
 fake-bank.ch
+fake-corp.ch
 fake-fact.ch
 fake-fakt.ch
 fake-id.ch
@@ -13765,6 +13765,7 @@ familly.ch
 familoo.ch
 familoop.ch
 familotel.ch
+familou.ch
 familux-hotel.ch
 familux-hotels.ch
 familux-resort.ch
@@ -16451,7 +16452,6 @@ farb-drucker.ch
 farb-echt.ch
 farb-energie-atelier.ch
 farb-etiketten.ch
-farb-finish.ch
 farb-form.ch
 farb-formwerk.ch
 farb-gestaltung.ch
@@ -19451,6 +19451,7 @@ fassadenreinigung-szff.ch
 fassadenreinigung-thurgau.ch
 fassadenreinigung-winterthur.ch
 fassadenreinigung-zentralschweiz.ch
+fassadenreinigung-zimmermann.ch
 fassadenreinigung-zuerich.ch
 fassadenreinigung-zug.ch
 fassadenreinigung.ch

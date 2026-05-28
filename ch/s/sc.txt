@@ -586,6 +586,7 @@ scalealpha.ch
 scalealphas.ch
 scaleavesenaz.ch
 scalebit.ch
+scaleblock.ch
 scaleboost.ch
 scalebridge.ch
 scalebuy.ch
@@ -603,9 +604,7 @@ scaleflow.ch
 scaleflowmarketing.ch
 scalefree.ch
 scalegate.ch
-scalegift-massage.ch
 scalegift.ch
-scalegiftmassage.ch
 scalegiftmassages.ch
 scalegiftsignature.ch
 scalegroup.ch
@@ -1628,6 +1627,7 @@ scb-helfer.ch
 scb-history.ch
 scb-innerschweiz.ch
 scb-invest.ch
+scb-schleiferei.ch
 scb.ch
 scbaden.ch
 scbadragaz.ch
@@ -2063,7 +2063,6 @@ scentofjapan.ch
 scentoforient.ch
 scentoforigin.ch
 scentofpink.ch
-scentofswitzerland.ch
 scentomethod.ch
 scentopia.ch
 scentora.ch
@@ -8972,9 +8971,7 @@ schlacht3r.ch
 schlachtabrechnung.ch
 schlachtanlage-walterswil.ch
 schlachtanlagewalterswil.ch
-schlachtbetrieb.ch
 schlachtbild.ch
-schlachten.ch
 schlachter-ag.ch
 schlachter-torbau.ch
 schlachter.ch
@@ -9870,6 +9867,7 @@ schlaginhaufen-consulting.ch
 schlaginstrument.ch
 schlaginstrumente.ch
 schlagis.ch
+schlaglicht.ch
 schlaglichter.ch
 schlagloch-reparieren.ch
 schlaglochmaterial.ch
@@ -12075,6 +12073,7 @@ schluesseldienst-binningen.ch
 schluesseldienst-birsfelden.ch
 schluesseldienst-bl.ch
 schluesseldienst-bottmingen.ch
+schluesseldienst-bremgarten.ch
 schluesseldienst-brig.ch
 schluesseldienst-brugg.ch
 schluesseldienst-bs.ch
@@ -14173,6 +14172,7 @@ schmidvelosport.ch
 schmidventuregroup.ch
 schmidversicherungsberatung.ch
 schmidversicherungstreuhand.ch
+schmidvision.ch
 schmidvolketswil.ch
 schmidvonuri.ch
 schmidvonwerra.ch
@@ -14352,8 +14352,6 @@ schmink-kurs.ch
 schmink-kurse.ch
 schmink-lounge-meilen.ch
 schmink-lounge.ch
-schmink-mi.ch
-schmink-mich.ch
 schmink-party.ch
 schmink-shop.ch
 schminkambulanz.ch
@@ -14387,8 +14385,6 @@ schminkkurs-zuerich.ch
 schminklounge.ch
 schminklusiv.ch
 schminkmaske.ch
-schminkmi.ch
-schminkmich.ch
 schminkparadies.ch
 schminkparty.ch
 schminkperle.ch
@@ -14744,6 +14740,7 @@ schmuck-zurich.ch
 schmuck-zyt.ch
 schmuck.ch
 schmuck1983.ch
+schmuck1x1.ch
 schmuck24.ch
 schmuck42.ch
 schmuck4u.ch
@@ -17787,7 +17784,6 @@ schoberli.ch
 schobersysteme.ch
 schobert.ch
 schobertrans.ch
-schobi-motorsport.ch
 schobi.ch
 schobinger.ch
 schobingerfotografie.ch
@@ -18992,6 +18988,7 @@ schoggolatier.ch
 schoggovino.ch
 schogi.ch
 schoguet.ch
+schointu.ch
 schoio.ch
 schoiswohl.ch
 schoja.ch
@@ -20659,6 +20656,7 @@ schreiner-azo.ch
 schreiner-basel.ch
 schreiner-baselland.ch
 schreiner-bau.ch
+schreiner-bauallrounder.ch
 schreiner-baumann.ch
 schreiner-bern.ch
 schreiner-berneroberland.ch
@@ -23956,7 +23954,6 @@ schule-bauernhof.ch
 schule-be.ch
 schule-beatenberg.ch
 schule-beckenried.ch
-schule-beclean.ch
 schule-begleiten.ch
 schule-beinwil.ch
 schule-beinwilamsee.ch
@@ -25721,6 +25718,7 @@ schulferienparadies.ch
 schulferienparadiesnidau.ch
 schulferienschweiz.ch
 schulfernsehen.ch
+schulfest-mpso.ch
 schulfilm.ch
 schulfilme-im-netz.ch
 schulfluencer.ch
@@ -26605,6 +26603,7 @@ schulwettkampf-ag.ch
 schulwiesel.ch
 schulwolke.ch
 schulyoga.ch
+schulz-aktiv-reisen.ch
 schulz-bier.ch
 schulz-deluxe.ch
 schulz-designs.ch
@@ -26621,6 +26620,7 @@ schulz-media.ch
 schulz-net.ch
 schulz-orbe.ch
 schulz-solutions.ch
+schulz-sportreisen.ch
 schulz-system.ch
 schulz-zug.ch
 schulz.ch
@@ -27386,6 +27386,7 @@ schwabkuster.ch
 schwabmartin.ch
 schwabmetall.ch
 schwabmobil.ch
+schwabo.ch
 schwaboberwil.ch
 schwabpeinture.ch
 schwabrealestate.ch
@@ -27459,6 +27460,8 @@ schwafle.ch
 schwafli.ch
 schwager-ag.ch
 schwager-bedachungen.ch
+schwager-boden.ch
+schwager-bodenbelaege.ch
 schwager-gmbh.ch
 schwager-graphics.ch
 schwager-innenausbau.ch
@@ -29656,6 +29659,7 @@ schweizer-diamanten.ch
 schweizer-dienstleister.ch
 schweizer-dienstleistungen.ch
 schweizer-diplom.ch
+schweizer-domain-garde.ch
 schweizer-domain-gmbh.ch
 schweizer-domain.ch
 schweizer-domains-gmbh.ch
@@ -30603,7 +30607,6 @@ schweizer-webseite.ch
 schweizer-webseiten.ch
 schweizer-webshop.ch
 schweizer-website.ch
-schweizer-websites.ch
 schweizer-weed.ch
 schweizer-weg-forum.ch
 schweizer-weg.ch
@@ -32316,7 +32319,6 @@ schweizmarketing.ch
 schweizmarkt.ch
 schweizmarktplatz.ch
 schweizmarktprofi.ch
-schweizmedia.ch
 schweizmeer.ch
 schweizmeeradweg.ch
 schweizmeerradweg.ch
@@ -33950,7 +33952,6 @@ schwurbel.ch
 schwurbelfrei.ch
 schwurbelwoche.ch
 schwurbi.ch
-schwurbler.ch
 schwyberg-bike.ch
 schwybergenergie.ch
 schwybergenergieag.ch
@@ -35311,7 +35312,6 @@ scoladinamica.ch
 scoladis.ch
 scoladisentis.ch
 scoladmin.ch
-scolaide.ch
 scolaire.ch
 scolalumnezia.ch
 scolar-chur.ch

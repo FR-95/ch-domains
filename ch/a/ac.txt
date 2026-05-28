@@ -1392,6 +1392,7 @@ access-de.ch
 access-design.ch
 access-entwickler.ch
 access-for-all.ch
+access-franchising.ch
 access-garden.ch
 access-hat.ch
 access-hgk.ch
@@ -2413,7 +2414,6 @@ acdmendrisiotto.ch
 acdn.ch
 acdoctor.ch
 acdpraxis.ch
-acdroid.ch
 acdromande.ch
 acdruck.ch
 acds.ch
@@ -4539,7 +4539,6 @@ aconso-swiss.ch
 aconso.ch
 aconsosuisse.ch
 aconsoswiss.ch
-aconsulteria.ch
 aconsulting.ch
 acont-ag.ch
 acont-schadstoff.ch
@@ -5143,7 +5142,6 @@ acrisco.ch
 acrisi.ch
 acristalia.ch
 acristianmassages.ch
-acrisure.ch
 acritar.ch
 acritec.ch
 acriteretfideliter.ch
@@ -5943,7 +5941,6 @@ actifs-ge.ch
 actifs-seniors.ch
 actifs.ch
 actifscompta.ch
-actifsconseil.ch
 actifservice.ch
 actifserviceinterim.ch
 actifservicemedical.ch

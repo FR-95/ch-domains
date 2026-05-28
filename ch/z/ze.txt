@@ -1661,7 +1661,6 @@ zeitraum-homeorganizing.ch
 zeitraum-immobilien.ch
 zeitraum-planungen.ch
 zeitraum-podcast.ch
-zeitraum-raumzeit.ch
 zeitraum-waedenswil.ch
 zeitraum.ch
 zeitraum60.ch
@@ -1734,7 +1733,6 @@ zeitschrift-strassenverkehr.ch
 zeitschrift-wohnen.ch
 zeitschrift-zzz.ch
 zeitschrift.ch
-zeitschrift24.ch
 zeitschriftabo.ch
 zeitschriftbox.ch
 zeitschriften-abo.ch
@@ -2962,6 +2960,7 @@ zenaba.ch
 zenabu.ch
 zenaco.ch
 zenacosmetic.ch
+zenadir.ch
 zenadmin.ch
 zenador-shop.ch
 zenador.ch
@@ -3131,7 +3130,6 @@ zendojos.ch
 zendojostgallen.ch
 zendojoyogapourtous.ch
 zendom.ch
-zendoo.ch
 zendora.ch
 zendoro.ch
 zendoron.ch
@@ -3639,6 +3637,7 @@ zenpfad.ch
 zenpflegesessel.ch
 zenpizza.ch
 zenplast.ch
+zenplatesdelivery.ch
 zenplify.ch
 zenplus.ch
 zenpme-facturation.ch
@@ -5801,7 +5800,6 @@ zerotaxi.ch
 zerote.ch
 zerotec.ch
 zerotech.ch
-zeroth.ch
 zerothird.ch
 zerotime.ch
 zeroto1-mailservice.ch
@@ -5872,6 +5870,7 @@ zerpla.ch
 zerra-wheels.ch
 zerra.ch
 zerreisprobe.ch
+zerreissprobe.ch
 zerres-design.ch
 zerres.ch
 zerrhairandartatelier.ch
@@ -5990,7 +5989,6 @@ zesc.ch
 zesch.ch
 zeschky.ch
 zesco.ch
-zese.ch
 zeseewjinu.ch
 zesel.ch
 zesh.ch
@@ -6382,7 +6380,6 @@ zeusch.ch
 zeusclub.ch
 zeusdotnet.ch
 zeusfaber.ch
-zeusfactory.ch
 zeusinc.ch
 zeusler.ch
 zeuslife.ch

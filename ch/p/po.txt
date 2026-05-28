@@ -2098,7 +2098,6 @@ pokai.ch
 pokal-ag.ch
 pokal-haus.ch
 pokal-kaufen.ch
-pokal-king.ch
 pokal-shop.ch
 pokal-total.ch
 pokal.ch
@@ -2106,21 +2105,18 @@ pokal2000.ch
 pokalbrueder.ch
 pokaldiscounter.ch
 pokale-bauer.ch
-pokale-king.ch
 pokale-medaillen-kaufen.ch
 pokale-medaillen.ch
 pokale-nrw.ch
 pokale-shop.ch
 pokale-und-medaillen.ch
 pokale.ch
-pokaleking.ch
 pokalenrw.ch
 pokaleshop.ch
 pokaleundprofiteure.ch
 pokalfabrik.ch
 pokalhaus.ch
 pokali.ch
-pokalking.ch
 pokalman.ch
 pokalmatador.ch
 pokalonline.ch
@@ -2135,7 +2131,6 @@ pokarhome.ch
 pokawa.ch
 poke-bar.ch
 poke-bellinzona.ch
-poke-boss.ch
 poke-bowl-bar.ch
 poke-bowl.ch
 poke-corner.ch
@@ -3483,6 +3478,7 @@ polidea.ch
 polideco.ch
 polident.ch
 polidentia.ch
+polidesk.ch
 polidolci.ch
 polidom.ch
 polidortransfert.ch
@@ -3990,6 +3986,7 @@ politkampagne.ch
 politkampagnen.ch
 politkomm-ostschweiz.ch
 politkomm.ch
+politkontext.ch
 politkovskaya.ch
 politlab.ch
 politlabor.ch
@@ -4116,6 +4113,7 @@ polizei-bern.ch
 polizei-bl.ch
 polizei-ch.ch
 polizei-dienst.ch
+polizei-eignungstest.ch
 polizei-einsatz.ch
 polizei-entwaffnen-nein.ch
 polizei-erlenbach.ch
@@ -6283,7 +6281,6 @@ pomegreatjuice.ch
 pomegreatpomegranatejuice.ch
 pomegreatpomwonderful.ch
 pomeiron.ch
-pomeki.ch
 pomellato.ch
 pomelli.ch
 pomello.ch
@@ -12312,6 +12309,7 @@ potbellys.ch
 potblack.ch
 potburri.ch
 potcast.ch
+potchi.ch
 potclub.ch
 potd.ch
 potdev.ch
@@ -13171,6 +13169,7 @@ powelli.ch
 powells.ch
 powener.ch
 powengo.ch
+powenza.ch
 power-2-x-days.ch
 power-2-x-forum.ch
 power-360.ch

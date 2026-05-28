@@ -33,6 +33,7 @@ ls-elektrokontrollen.ch
 ls-emotions.ch
 ls-eng.ch
 ls-events.ch
+ls-facility.ch
 ls-films.ch
 ls-gartenbau.ch
 ls-gestion.ch

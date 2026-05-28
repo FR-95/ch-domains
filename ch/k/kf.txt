@@ -67,6 +67,7 @@ kfc-bubendorf.ch
 kfc-chur.ch
 kfc-davos.ch
 kfc-ebikon.ch
+kfc-interlaken.ch
 kfc-langenthal.ch
 kfc-oftringen.ch
 kfc-ps.ch
@@ -239,6 +240,7 @@ kfo-nord.ch
 kfo-opfikon.ch
 kfo-posfortbildung.ch
 kfo-rheinfelden.ch
+kfo-rotmonten.ch
 kfo-sallmann.ch
 kfo-sargans.ch
 kfo-schwyz.ch

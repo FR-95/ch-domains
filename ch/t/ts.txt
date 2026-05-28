@@ -996,7 +996,6 @@ tschuempi.ch
 tschuenschenundandrea.ch
 tschueplanung.ch
 tschuese.ch
-tschuess-eigenmietwert.ch
 tschuess-elektroheizung.ch
 tschuess-genderstern.ch
 tschuess-stress.ch
@@ -1321,6 +1320,7 @@ tshirtstudio.ch
 tshirtswiss.ch
 tshm-arvelac.ch
 tshm-b2p.ch
+tshm-genthod.ch
 tshm-lancy.ch
 tshm-versoix.ch
 tshm.ch

@@ -4468,6 +4468,7 @@ xn--bernachtungen-vob.ch
 xn--bernachtungsparty-12b.ch
 xn--bernadette-hfliger-wtb.ch
 xn--bernadetteschpf-ltb.ch
+xn--bernahmebilanz-fsb.ch
 xn--bernahmerecht-vob.ch
 xn--bernardguniot-jhb.ch
 xn--bernecker-brsenbrief-ebc.ch
@@ -5704,7 +5705,6 @@ xn--blaulicht-zrich-9vb.ch
 xn--blaulichteinstze-7nb.ch
 xn--blaulichtgraubnden-z6b.ch
 xn--blaulichtzrich-psb.ch
-xn--blaulichtzubehrrder-36bc.ch
 xn--blauliechtmss-lfb.ch
 xn--blauschimmelkse-dlb.ch
 xn--blauugig-3za.ch
@@ -7125,6 +7125,7 @@ xn--brgerliche-frauen-22b.ch
 xn--brgerliche-frauen-schweiz-fwc.ch
 xn--brgerliche-mehrheit-59b.ch
 xn--brgerliche-politik-m6b.ch
+xn--brgerliche-sagen-nein-8hc.ch
 xn--brgerlichefrauen-jzb.ch
 xn--brgerlichefrauenschweiz-cpc.ch
 xn--brgerlichepolitik-22b.ch
@@ -8365,6 +8366,7 @@ xn--brtten24-75a.ch
 xn--brtterbude-r5a.ch
 xn--brttisellen-uhb.ch
 xn--brttiseller-tor-0vb.ch
+xn--brttisellertor-hsb.ch
 xn--brttlizauber-hcb.ch
 xn--brttspiugnuss-cfb.ch
 xn--brtwerk-o2a.ch
@@ -9064,6 +9066,7 @@ xn--cafcondor-d4ag.ch
 xn--cafcondorelli-dhb.ch
 xn--cafcrme-6xag.ch
 xn--cafdelapaix-dbb.ch
+xn--cafdellago-16a.ch
 xn--cafdeparis-d7a.ch
 xn--cafdespyrnes-debgb.ch
 xn--cafdollo-d1a.ch
@@ -10009,6 +10012,8 @@ xn--chrmerlade-s5a.ch
 xn--chrmerladegallery-sqb.ch
 xn--chrmerldeli-n8ae.ch
 xn--chrmig17-85a.ch
+xn--chrml-kra7j.ch
+xn--chrmle-yxa.ch
 xn--chrmmeler-s9a.ch
 xn--chrmmerli-x2a.ch
 xn--chrnebistro-m8a.ch
@@ -10857,6 +10862,7 @@ xn--cortengefsse-ocb.ch
 xn--cortijopatio-khb.ch
 xn--corysespacebeaut-qqb.ch
 xn--cosmetic-blach-psb.ch
+xn--cosmeticsurgeryzrich-4ec.ch
 xn--cosmos-dbendorf-6vb.ch
 xn--cosmos-messgerte-8nb.ch
 xn--cosmtique-du-bton-etbk.ch
@@ -11192,7 +11198,9 @@ xn--dachservicezrich-uzb.ch
 xn--dachshhli-z2a3r.ch
 xn--dachstckli-jcb.ch
 xn--dachtrger-02a.ch
+xn--dachtrger-versand-vqb.ch
 xn--dachtrgershop-gfb.ch
+xn--dachtrgerversand-0nb.ch
 xn--dachverband-schlichtungsbehrde-k9c.ch
 xn--dachverband-schlichtungsbehrden-xdd.ch
 xn--dachwartung-zrichsee-1ec.ch
@@ -12008,6 +12016,7 @@ xn--deutschfrdu-0hb.ch
 xn--deutschfrunternehmen-bewerbungscoaching-7be.ch
 xn--deutschfrunternehmungen-bewerbungscoaching-ume.ch
 xn--deutschksnacht-nsb.ch
+xn--deutschkurs-zrich-f3b.ch
 xn--deux-ctes-l7a.ch
 xn--deuximepioche-0gb.ch
 xn--deuxpices-53a.ch
@@ -13475,6 +13484,7 @@ xn--dvt-zrich-u9a.ch
 xn--dvu-qla.ch
 xn--dwabr-kvae.ch
 xn--dwrchi-cua.ch
+xn--dynamowiggfisch-9kb.ch
 xn--dzonage-bya.ch
 xn--e-auszge-c6a.ch
 xn--e-berufsprfung-psb.ch
@@ -24433,8 +24443,6 @@ xn--helvetia-umzge-rsb.ch
 xn--helvetia-zrich-psb.ch
 xn--helvetiaumzge-6ob.ch
 xn--helvetic-brgbau-9kb.ch
-xn--helvetic-rechtsanwlte-n2b.ch
-xn--helveticrechtsanwlte-rzb.ch
 xn--helvetisches-mnzkontor-5lc.ch
 xn--helvtique-e4a.ch
 xn--helvtique-project-etb.ch
@@ -26506,6 +26514,7 @@ xn--hrzruum-5wa.ch
 xn--hrzschlag-v2a.ch
 xn--hrzstei-5wa.ch
 xn--hrztn-gra3k.ch
+xn--hrztraum-0za.ch
 xn--hrztroum-0za.ch
 xn--hrztupf-5wa.ch
 xn--hrzu-5qa.ch
@@ -27490,7 +27499,6 @@ xn--immunsystemstrken-2qb.ch
 xn--impact-sant-lbb.ch
 xn--impactsant-k7a.ch
 xn--impactsvits-hbbd.ch
-xn--impfbchlein-xhb.ch
 xn--implantat-entzndung-jbc.ch
 xn--implantate-gnstig-e3b.ch
 xn--implantate-weisheitszhne-bcc.ch
@@ -28575,6 +28583,7 @@ xn--junggrtner-u5a.ch
 xn--junghni-9wa.ch
 xn--junghnis-4za.ch
 xn--junglck-r2a.ch
+xn--jungmnnerbund-theater-91b.ch
 xn--jungschar-blach-9vb.ch
 xn--jungschtzen-platten-cbc.ch
 xn--jungvlker-47a.ch
@@ -29761,6 +29770,7 @@ xn--kickboxing-zrich-uzb.ch
 xn--kidal-dsa.ch
 xn--kidal-kitas-dbb.ch
 xn--kidalkitas-d7a.ch
+xn--kiddy-brse-kcb.ch
 xn--kiddybrse-57a.ch
 xn--kidsbrse-r4a.ch
 xn--kiefer-orthopde-dlb.ch
@@ -30558,7 +30568,6 @@ xn--klppelboden-sfb.ch
 xn--klppelshop-fcb.ch
 xn--klppelwerk-fcb.ch
 xn--klr-team-1za.ch
-xn--klr-werk-1za.ch
 xn--klranlage-w2a.ch
 xn--klranlagen-hunger-rqb.ch
 xn--klranlagen-r5a.ch
@@ -31912,6 +31921,7 @@ xn--krper-raum-ecb.ch
 xn--krper-schafft-imb.ch
 xn--krper-selbst-wert-zzb.ch
 xn--krper-sinn-ecb.ch
+xn--krper-und-geist-8sb.ch
 xn--krper-und-raum-vpb.ch
 xn--krper-und-seele-8sb.ch
 xn--krper-zentrum-imb.ch
@@ -36059,7 +36069,6 @@ xn--maxzch-eua.ch
 xn--maya-bchi-v9a.ch
 xn--mayas-hxehsli-hfb77a.ch
 xn--mayaskstlichkeiten-i3b.ch
-xn--mayer-sanitr-qcb.ch
 xn--mayer-tren-geb.ch
 xn--maylnder-3za.ch
 xn--maymassagestha-8mb.ch
@@ -37348,6 +37357,7 @@ xn--mhl-sna.ch
 xn--mhlau-kva.ch
 xn--mhlau24-n2a.ch
 xn--mhlaubrcke-9dbg.ch
+xn--mhlaugmbh-q9a.ch
 xn--mhlbach-whisky-gsb.ch
 xn--mhlberg-n2a.ch
 xn--mhlberger-q9a.ch
@@ -44341,6 +44351,7 @@ xn--prpster-b1a.ch
 xn--prro-0ra.ch
 xn--prsence-active-ckb.ch
 xn--prsence-cya.ch
+xn--prsencelocale-chb.ch
 xn--prsens-cua.ch
 xn--prsensation-m8a.ch
 xn--prsent-au-vivant-cqb.ch
@@ -55783,7 +55794,6 @@ xn--tgkchen-p2a.ch
 xn--tgli-loa.ch
 xn--tglichesmanna-bfb.ch
 xn--tglichfrisch-gcb.ch
-xn--tglichgut-v2a.ch
 xn--tgrg-bpacb.ch
 xn--tgsa-val-20a.ch
 xn--th-aquarelle-5ib.ch
@@ -57255,7 +57265,6 @@ xn--tschpe-zxa.ch
 xn--tschppel-3za.ch
 xn--tschppt-abflltechnik-ezbc17c.ch
 xn--tschss-6ya.ch
-xn--tschss-eigenmietwert-sec.ch
 xn--tschss-genderstern-p6b.ch
 xn--tschss-stress-zob.ch
 xn--tschssli-95a.ch
@@ -62520,6 +62529,7 @@ xn--zlt-qla.ch
 xn--zm-red-buabe.ch
 xn--zm-uia.ch
 xn--zm-viab.ch
+xn--zm26-loab.ch
 xn--zm28-loab.ch
 xn--zm3-qlab.ch
 xn--zma-gsund-v2a.ch
@@ -63023,6 +63033,7 @@ xn--zri-wiesn-q9a.ch
 xn--zri-wyland-9db.ch
 xn--zri-yoga-65a.ch
 xn--zri-zahni-q9a.ch
+xn--zri-zisch-q9a.ch
 xn--zri-zoo-n2a.ch
 xn--zri1-0ra.ch
 xn--zri10-kva.ch
@@ -63916,6 +63927,7 @@ xn--zriyoga-n2a.ch
 xn--zrizahni-65a.ch
 xn--zrizaun-n2a.ch
 xn--zrizimmer-q9a.ch
+xn--zrizisch-65a.ch
 xn--zrizone-n2a.ch
 xn--zrizoo-3ya.ch
 xn--zrizyt-3ya.ch

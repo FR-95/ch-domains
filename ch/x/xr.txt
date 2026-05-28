@@ -1,11 +1,9 @@
 xr-agentur.ch
 xr-by.ch
 xr-consulting.ch
-xr-design.ch
 xr-geneva.ch
 xr-lausanne.ch
 xr-park.ch
-xr-plus.ch
 xr-raeumungen.ch
 xr-reinigungen.ch
 xr-services.ch
@@ -49,7 +47,6 @@ xrbrillen.ch
 xrby.ch
 xrc.ch
 xrcag.ch
-xrdesign.ch
 xre.ch
 xreal.ch
 xreality.ch
@@ -121,7 +118,6 @@ xrpbank.ch
 xrpkaufen.ch
 xrpl.ch
 xrplay.ch
-xrplus.ch
 xrpolice.ch
 xrportal.ch
 xrpripple.ch

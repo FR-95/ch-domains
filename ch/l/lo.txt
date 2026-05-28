@@ -700,6 +700,7 @@ localblog.ch
 localbob.ch
 localbonplan.ch
 localboost-swiss.ch
+localboost-zs.ch
 localboost.ch
 localbox.ch
 localbrand.ch
@@ -895,6 +896,7 @@ localistes.ch
 localita.ch
 localitel.ch
 localiti.ch
+localities.ch
 locality.ch
 localiz.ch
 localization.ch
@@ -5456,7 +5458,6 @@ lohnerbar.ch
 lohnerfreunde.ch
 lohnermarbach.ch
 lohnerpartner.ch
-lohnersatz.ch
 lohnerziegelei.ch
 lohnexpert.ch
 lohnexperte.ch
@@ -9205,7 +9206,6 @@ lorenzhartung.ch
 lorenzhauser.ch
 lorenzheer.ch
 lorenzheld.ch
-lorenzheldconsulting.ch
 lorenzhess.ch
 lorenzhuber.ch
 lorenzhumbel.ch
@@ -10355,7 +10355,6 @@ loterie-romande.ch
 loterie-suisse.ch
 loterie.ch
 loteriearena.ch
-loteriecasino.ch
 loterieelectronique.ch
 loterielectronique.ch
 loterienationale.ch
@@ -13307,6 +13306,7 @@ loxopay.ch
 loxoshop.ch
 loxotipu.ch
 loxprint.ch
+loxsan.ch
 loxshop.ch
 loxstation.ch
 loxstorm.ch

@@ -1548,6 +1548,7 @@ imd-solutions.ch
 imd-tpi-fribourg.ch
 imd-tpi-vaud.ch
 imd-tpi.ch
+imd-treuhand.ch
 imd.ch
 imda.ch
 imdacademy.ch
@@ -2264,6 +2265,7 @@ imigradata.ch
 imihydronic.ch
 imiklang.ch
 imilab.ch
+imile.ch
 imim.ch
 imimemo.ch
 imimmo.ch
@@ -5780,6 +5782,7 @@ immobilienboutiq.ch
 immobilienboutiqe.ch
 immobilienboutique.ch
 immobilienbox.ch
+immobilienbracher.ch
 immobilienbranche.ch
 immobilienbranding.ch
 immobilienbrasilien.ch
@@ -10332,7 +10335,6 @@ impact-realestate.ch
 impact-recruiting.ch
 impact-recruitment.ch
 impact-relation.ch
-impact-report.ch
 impact-rh.ch
 impact-roundtable.ch
 impact-rp.ch
@@ -10356,6 +10358,7 @@ impact-systems.ch
 impact-technik.ch
 impact-techniken.ch
 impact-together.ch
+impact-togo.ch
 impact-toolbox.ch
 impact-trading.ch
 impact-transition.ch
@@ -10486,6 +10489,7 @@ impactfoundation.ch
 impactfpv.ch
 impactfuel.ch
 impactful.ch
+impactfulinnovation.ch
 impactfulmedia.ch
 impactfulone.ch
 impactfulspeaking.ch
@@ -10588,7 +10592,6 @@ impactrecycling.ch
 impactrelation.ch
 impactrelations.ch
 impactrepair.ch
-impactreport.ch
 impactrepublic.ch
 impactrh.ch
 impacts-ch.ch
@@ -10652,6 +10655,7 @@ impagex.ch
 impairment.ch
 impakt-nexus.ch
 impakt.ch
+impakta.ch
 impakters.ch
 impaktkapital.ch
 impaktpro.ch
@@ -12192,6 +12196,7 @@ improtheater-workshop-schweiz.ch
 improtheater-workshop.ch
 improtheater.ch
 improtheaterbern.ch
+improtheaterfestival.ch
 improtheaterschule.ch
 improtheaterschweiz.ch
 improtheaterverband.ch

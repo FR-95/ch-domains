@@ -1566,7 +1566,6 @@ escortsnearme.ch
 escortsofia.ch
 escortsqui.ch
 escortsswiss.ch
-escortstars.ch
 escortsuche.ch
 escortsuisse.ch
 escortsvalencia.ch
@@ -4467,7 +4466,6 @@ esprit-engineering.ch
 esprit-entente.ch
 esprit-europeen.ch
 esprit-evasion.ch
-esprit-extranet.ch
 esprit-festif.ch
 esprit-fitness.ch
 esprit-fleurdefeu.ch
@@ -6207,7 +6205,6 @@ esteticacris.ch
 esteticacrisalide.ch
 esteticadentale.ch
 esteticadesigns.ch
-esteticadesiree.ch
 esteticadharma.ch
 esteticadi.ch
 esteticadream.ch
@@ -6327,6 +6324,7 @@ esteyo.ch
 estg.ch
 estgeneva.ch
 esthair.ch
+esthaus.ch
 esthe-swiss.ch
 esthea-atelier.ch
 esthea-sarl.ch
@@ -6484,6 +6482,7 @@ esthercarlin.ch
 esthercossalter.ch
 estherdesign.ch
 esthereberth.ch
+estherelisabethschuetz.ch
 estherelitebraids.ch
 estherfaes.ch
 estherfelber.ch
@@ -6818,7 +6817,6 @@ estifanos-garage.ch
 estifrei.ch
 estigarribia.ch
 estika.ch
-estile.ch
 estille.ch
 estilo-libre.ch
 estilo-r.ch

@@ -2344,6 +2344,7 @@ geekpaper.ch
 geekparade.ch
 geekparents.ch
 geekplace.ch
+geekplus.ch
 geekposter.ch
 geeks.ch
 geekserver.ch
@@ -6932,6 +6933,7 @@ genaiacademy.ch
 genaiassetmanagement.ch
 genaiaward.ch
 genaiconsulting.ch
+genaiengineers.ch
 genaigeek.ch
 genaigeneva.ch
 genairenovations.ch
@@ -7833,7 +7835,6 @@ generative-kunst.ch
 generative-optimierung.ch
 generative-optimization.ch
 generative-search-optimization.ch
-generative-seo.ch
 generative-trading.ch
 generative.ch
 generativebiology.ch
@@ -7929,6 +7930,7 @@ genericsshop.ch
 genericsupplies.ch
 generictoner-shop.ch
 generictoner.ch
+generictrade.ch
 genericum.ch
 generieren.ch
 generik-suisse.ch
@@ -8956,6 +8958,7 @@ genevatrail.ch
 genevatransfer.ch
 genevatransfers.ch
 genevatransport.ch
+genevatravel.ch
 genevatrend.ch
 genevatriathlon.ch
 genevatrust.ch
@@ -10896,6 +10899,7 @@ gentomobil.ch
 genton-multiservice.ch
 genton.ch
 gentoo.ch
+gentrade.ch
 gentrifucker.ch
 gentritfactory.ch
 gentry.ch
@@ -11501,7 +11505,6 @@ genzonevr.ch
 genzyme.ch
 geo-academy.ch
 geo-ag.ch
-geo-agency.ch
 geo-agentur-schweiz.ch
 geo-agentur.ch
 geo-ai.ch
@@ -11659,7 +11662,6 @@ geo-schwyz.ch
 geo-science.ch
 geo-search.ch
 geo-see.ch
-geo-seo-agentur.ch
 geo-seo.ch
 geo-services-conseils.ch
 geo-shop.ch
@@ -11742,7 +11744,6 @@ geoadm.ch
 geoadmin.ch
 geoaero.ch
 geoag.ch
-geoagency.ch
 geoagentur.ch
 geoagenturbasel.ch
 geoai.ch
@@ -20384,6 +20385,7 @@ getminddrop.ch
 getmingle.ch
 getmira.ch
 getmiradry.ch
+getmithril.ch
 getmobile.ch
 getmomentum.ch
 getmonar.ch
@@ -20435,6 +20437,7 @@ getnavo.ch
 getneo.ch
 getneon.ch
 getnetunia.ch
+getneva.ch
 getnews.ch
 getnext.ch
 getnextcloud.ch

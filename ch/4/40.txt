@@ -45,6 +45,7 @@
 40404.ch
 4048.ch
 4049.ch
+404canvas.ch
 404cloud.ch
 404cup.ch
 404error.ch
@@ -101,6 +102,7 @@
 40m2.ch
 40mm.ch
 40plus.ch
+40plus40.ch
 40plusflirt.ch
 40plustreff.ch
 40seconds.ch

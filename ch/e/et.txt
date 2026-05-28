@@ -757,6 +757,7 @@ etf1x1.ch
 etf2025.ch
 etf24.ch
 etf31.ch
+etf3a.ch
 etfanalyst.ch
 etfaward.ch
 etfawards.ch

@@ -679,6 +679,7 @@ diagnosticimaging.ch
 diagnosticpartner.ch
 diagnosticpreimplantatoire.ch
 diagnostics.ch
+diagnosticsai.ch
 diagnosticsystems.ch
 diagnostify.ch
 diagnostik-amato-medical.ch
@@ -769,6 +770,7 @@ diakoneo.ch
 diakonia.ch
 diakonie-bistum-basel.ch
 diakonie-entwicklung.ch
+diakonie-joker.ch
 diakonie-kirche.ch
 diakonie-pfimithun.ch
 diakonie-pool.ch
@@ -922,7 +924,6 @@ dialog-klang.ch
 dialog-koerper.ch
 dialog-konstruktiv.ch
 dialog-luzern.ch
-dialog-marketing-expo.ch
 dialog-marketing.ch
 dialog-mediation.ch
 dialog-melchior.ch
@@ -1043,12 +1044,10 @@ dialogloest.ch
 dialogluzern.ch
 dialogmanager.ch
 dialogmanufaktur.ch
-dialogmarketing-expo.ch
 dialogmarketing-schweiz.ch
 dialogmarketing-zurich.ch
 dialogmarketing.ch
 dialogmarketing24.ch
-dialogmarketingexpo.ch
 dialogmarketingsolutions.ch
 dialogmethode.ch
 dialogmitfrog.ch
@@ -6887,6 +6886,7 @@ diejungemitte-vs.ch
 diejungemitte-zg.ch
 diejungemitte-zh.ch
 diejungemitte.ch
+diejungendamen.ch
 diejungenunternehmer.ch
 diejungevodeaute.ch
 diejungsvomrebberg.ch
@@ -8464,6 +8464,7 @@ dieschweizverstehen.ch
 dieschweizvonmorgen.ch
 dieschweizwirdfit.ch
 dieschweizzuerst.ch
+dieschwellenhueterin.ch
 dieschwerenbeine.ch
 dieschwimmlehrer.ch
 dieschwimmschule.ch
@@ -9628,6 +9629,7 @@ diewortagentin.ch
 diewortfabrik.ch
 diewoudesoi.ch
 diewucht.ch
+diewuerde.ch
 diewufflinger.ch
 diewunderbar.ch
 diewunderbarereise.ch
@@ -9893,7 +9895,6 @@ difficultes-scolaires.ch
 difficulture.ch
 diffikult.ch
 diffinco.ch
-diffinno.ch
 diffino.ch
 diffit.ch
 difflausanne.ch
@@ -10268,6 +10269,7 @@ digiagrar.ch
 digiagrifood.ch
 digiai.ch
 digiairbrush.ch
+digiaiuto.ch
 digialog.ch
 digialp.ch
 digiapps.ch
@@ -13026,7 +13028,6 @@ digitalequity.ch
 digitaler-abu.ch
 digitaler-adventskalender.ch
 digitaler-anwalt.ch
-digitaler-arbeitsplatz.ch
 digitaler-assistent.ch
 digitaler-augenstress.ch
 digitaler-aussendienst-mitarbeiter.ch
@@ -13112,7 +13113,6 @@ digitalera.ch
 digitalerabu.ch
 digitalerakete.ch
 digitaleranwalt.ch
-digitalerarbeitsplatz.ch
 digitalerarzt.ch
 digitalerassistent.ch
 digitaleratgeber.ch
@@ -15277,6 +15277,7 @@ dihei-fachmesse.ch
 dihei-saland.ch
 dihei-uf-reise.ch
 dihei.ch
+diheibliibe.ch
 diheifach.ch
 diheim.ch
 diheime.ch
@@ -16773,6 +16774,7 @@ dining-pass.ch
 dining-room.ch
 dining-voucher.ch
 dining.ch
+diningalliance.ch
 diningart.ch
 diningcards.ch
 diningclub.ch

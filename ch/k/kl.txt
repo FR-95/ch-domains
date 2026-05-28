@@ -114,7 +114,6 @@ klaengraum.ch
 klaentschi-bedachungen.ch
 klaentschi.ch
 klaer-team.ch
-klaer-werk.ch
 klaer.ch
 klaeranlage.ch
 klaeranlagen-hunger.ch
@@ -613,7 +612,6 @@ klangklinik.ch
 klangkoerper.ch
 klangkojoten.ch
 klangkollektiv.ch
-klangkonservatorium.ch
 klangkonzept.ch
 klangkonzert.ch
 klangkosmos.ch
@@ -1785,6 +1783,8 @@ klassenraum.ch
 klassenreisen.ch
 klassenretter.ch
 klassens.ch
+klassensatz-medien.ch
+klassensatz.ch
 klassenschla-gr.ch
 klassenschlagr.ch
 klassenseite.ch
@@ -3809,6 +3809,7 @@ kleintierdoctor.ch
 kleintierdoktor.ch
 kleintiere-appenzell.ch
 kleintiere-bern-jura.ch
+kleintiere-gloor.ch
 kleintiere-gonten.ch
 kleintiere-magazin.ch
 kleintiere-niederbueren.ch
@@ -5877,6 +5878,7 @@ klingtee-thai-massage.ch
 klingtee.ch
 klingtgut.ch
 klingtwiekindheit.ch
+klini.ch
 klinident.ch
 klinik-aadorf.ch
 klinik-aarau.ch

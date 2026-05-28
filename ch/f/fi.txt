@@ -1683,6 +1683,7 @@ fidsolar.ch
 fidste.ch
 fidstucki.ch
 fidswiss.ch
+fidtab.ch
 fidtax.ch
 fidti.ch
 fidtrade.ch
@@ -3365,7 +3366,6 @@ figouvernance.ch
 figoxal.ch
 figoxalcaps.ch
 figre.ch
-figrex.ch
 figs.ch
 figsci.ch
 figsie.ch
@@ -5147,6 +5147,7 @@ filofax.ch
 filofem.ch
 filofibra.ch
 filofibraholding.ch
+filofilo.ch
 filofloor.ch
 filoform.ch
 filofs.ch
@@ -5753,7 +5754,6 @@ fin360.ch
 fin4.ch
 fin4all.ch
 fin4cast.ch
-fin4frau.ch
 fin4log.ch
 fin4u.ch
 fin5.ch
@@ -11715,7 +11715,6 @@ firmen.ch
 firmen24.ch
 firmenabc.ch
 firmenabo.ch
-firmenabtretung.ch
 firmenadresse-vergleich.ch
 firmenadresse-zug-mieten.ch
 firmenadresse-zug.ch
@@ -12249,7 +12248,6 @@ firmswap.ch
 firmtec.ch
 firmtecsolutions.ch
 firmtel.ch
-firmum.ch
 firmung-rontal.ch
 firmung.ch
 firmung15.ch
@@ -12279,6 +12277,7 @@ firnstudio.ch
 firnswitzerland.ch
 firntec.ch
 firnu.ch
+firnwerk.ch
 firo.ch
 firoag.ch
 firobigbank.ch

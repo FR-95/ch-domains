@@ -1513,7 +1513,6 @@ teamleiter.ch
 teamleiterausbildung.ch
 teamleitertraining.ch
 teamleman.ch
-teamleman3x3.ch
 teamlemansuisse.ch
 teamlenzburg.ch
 teamliberta.ch
@@ -1531,7 +1530,6 @@ teamlodge.ch
 teamlofoto.ch
 teamlog.ch
 teamls.ch
-teamlubra.ch
 teamluca.ch
 teamluxuryinternational.ch
 teamly-power.ch
@@ -2780,7 +2778,6 @@ tech-store.ch
 tech-sun.ch
 tech-support.ch
 tech-swiss.ch
-tech-swss.ch
 tech-talente.ch
 tech-talentpool.ch
 tech-talents.ch
@@ -4428,6 +4425,7 @@ techpilot.ch
 techplace.ch
 techplan.ch
 techplane.ch
+techplast.ch
 techplay.ch
 techplus.ch
 techplusam.ch
@@ -6374,6 +6372,7 @@ teilzahlung.ch
 teilzeit-agency.ch
 teilzeit-arbeit.ch
 teilzeit-cfo.ch
+teilzeit-ciso.ch
 teilzeit-job.ch
 teilzeit-jobs.ch
 teilzeit-karriere.ch
@@ -7620,6 +7619,7 @@ telekom-profis.ch
 telekom-rating.ch
 telekom-security.ch
 telekom-vergleich.ch
+telekom.ch
 telekom26.ch
 telekomfonie.ch
 telekomm.ch
@@ -7803,9 +7803,7 @@ telemillennium.ch
 telemis.ch
 telemisgroup.ch
 telemixte-savoleyres.ch
-telemixte-verbier.ch
 telemixtesavoleyres.ch
-telemixteverbier.ch
 telemnar.ch
 telemobile.ch
 telemondi.ch
@@ -8654,7 +8652,6 @@ tells-pub.ch
 tells-soehne.ch
 tells-studio.ch
 tells-toechter.ch
-tells-treuhand.ch
 tells.ch
 tellsangels.ch
 tellsarmory.ch
@@ -11796,6 +11793,7 @@ tercerpilar.ch
 tercia.ch
 terciart.ch
 tercier-ferblanterie.ch
+tercier-ventilation.ch
 tercier.ch
 tercinod.ch
 terclara.ch
@@ -11848,7 +11846,6 @@ terencehilllikoer.ch
 terencehillrum.ch
 terencehillwhiskey.ch
 terencehillwhisky.ch
-terencehowellsmusic.ch
 terencemajeur.ch
 terendo.ch
 terensis.ch
@@ -13949,7 +13946,6 @@ tersaco.ch
 tersane.ch
 terschweiz.ch
 tersicore.ch
-terssus.ch
 terstena-carrelage.ch
 terstena-sa.ch
 tersuisse.ch
@@ -15570,6 +15566,7 @@ testingday.ch
 testingdos.ch
 testinggrounds.ch
 testingideas.ch
+testinglab.ch
 testingnp.ch
 testingraum.ch
 testingrestoredomain.ch
@@ -17675,6 +17672,7 @@ textraumsg.ch
 textrausch.ch
 textred.ch
 textredaktion.ch
+textrefs.ch
 textreich.ch
 textreisen.ch
 textrem.ch

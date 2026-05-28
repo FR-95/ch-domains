@@ -132,6 +132,7 @@ mda-haiti.ch
 mda-m.ch
 mda-neuchatel.ch
 mda-re.ch
+mda-reinigung.ch
 mda-schweiz.ch
 mda-security.ch
 mda-suisse.ch
@@ -576,7 +577,6 @@ mdn-fribourg.ch
 mdn-gu.ch
 mdn.ch
 mdna.ch
-mdnettoyage.ch
 mdnettoyages.ch
 mdneurologie.ch
 mdneurology.ch

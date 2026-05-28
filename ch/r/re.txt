@@ -1597,6 +1597,7 @@ realfinder.ch
 realfindo.ch
 realfintech.ch
 realfiresystems.ch
+realfitzug.ch
 realflash.ch
 realfloat.ch
 realfly.ch
@@ -1679,7 +1680,6 @@ realim.ch
 realimage.ch
 realimages.ch
 realimmobau.ch
-realimmodata.ch
 realimmopartner.ch
 realimo.ch
 realin.ch
@@ -4675,6 +4675,7 @@ rechtsberater-bern.ch
 rechtsberater-luzern.ch
 rechtsberater-zug.ch
 rechtsberater.ch
+rechtsberater24.ch
 rechtsberaterin.ch
 rechtsberaterki.ch
 rechtsberatung-ag.ch
@@ -4887,6 +4888,7 @@ rechtsschenkelblock.ch
 rechtsschmid.ch
 rechtsschrift.ch
 rechtsschule.ch
+rechtsschutz-angebot.ch
 rechtsschutz-blog.ch
 rechtsschutz-kmu.ch
 rechtsschutz-offerte.ch
@@ -4896,6 +4898,7 @@ rechtsschutz-schweiz.ch
 rechtsschutz-spezialist.ch
 rechtsschutz-vergleich.ch
 rechtsschutz-vergleiche.ch
+rechtsschutz-versicherung-schweiz.ch
 rechtsschutz-versicherung.ch
 rechtsschutz-versicherungen.ch
 rechtsschutz.ch
@@ -5213,7 +5216,6 @@ recognized.ch
 recognizing.ch
 recoin.ch
 recolca.ch
-recolead.ch
 recolinks.ch
 recolit.ch
 recolive.ch
@@ -5677,7 +5679,6 @@ recruiting-days.ch
 recruiting-der-zukunft.ch
 recruiting-excellence-award.ch
 recruiting-factory.ch
-recruiting-group.ch
 recruiting-gym.ch
 recruiting-hub.ch
 recruiting-intelligence.ch
@@ -5724,7 +5725,6 @@ recruitingfactory.ch
 recruitingfilme.ch
 recruitingflow.ch
 recruitingfunnel.ch
-recruitinggroup.ch
 recruitinggym.ch
 recruitinghelden.ch
 recruitinghub.ch
@@ -7627,6 +7627,7 @@ redoct.ch
 redodoo.ch
 redoffice.ch
 redog-be.ch
+redog-ge.ch
 redog-pate.ch
 redog-rgbasel.ch
 redog-zh.ch
@@ -9561,8 +9562,6 @@ reflexionlight.ch
 reflexionlumiere.ch
 reflexionplus.ch
 reflexions-coaching.ch
-reflexions-zeit.ch
-reflexions-ziit.ch
 reflexions.ch
 reflexionscoach.ch
 reflexionsexpertin.ch
@@ -9572,7 +9571,6 @@ reflexionskarte.ch
 reflexionspunkt.ch
 reflexionsraum.ch
 reflexionszeit.ch
-reflexionsziit.ch
 reflexiv.ch
 reflexive.ch
 reflexivity.ch
@@ -11311,6 +11309,7 @@ regies-geneve.ch
 regies.ch
 regiesafe.ch
 regiesaintgervais.ch
+regiesriviera.ch
 regiestauffer.ch
 regiestuhl-camping.ch
 regiestuhl.ch
@@ -16423,6 +16422,7 @@ reinugungmaranata.ch
 reinundclean.ch
 reinundfein.ch
 reinundfrei.ch
+reinundklar.ch
 reinuvo.ch
 reinv.ch
 reinveganesdating.ch
@@ -18161,6 +18161,7 @@ reitzubehoer.ch
 reiuji.ch
 reiv.ch
 reivilo.ch
+reivilo3d.ch
 reivo.ch
 reiw.ch
 reiwacon.ch
@@ -22731,6 +22732,7 @@ renew-bulls.ch
 renew-by-nath.ch
 renew-group.ch
 renew-gt.ch
+renew-heat.ch
 renew-home.ch
 renew-it.ch
 renew-reform.ch
@@ -22777,6 +22779,7 @@ reneweiss.ch
 renewenaweser.ch
 renewformswiss.ch
 renewgroup.ch
+renewheat.ch
 renewi.ch
 renewidmer.ch
 renewiederkehr.ch
@@ -23951,6 +23954,7 @@ renovec.ch
 renovecarrelage.ch
 renoveco.ch
 renovecuisine.ch
+renovecuisines.ch
 renoveda.ch
 renovedesign.ch
 renoveetconstruis.ch
@@ -26388,7 +26392,6 @@ repavital.ch
 repawerk.ch
 repax.ch
 repay.ch
-repbarsar.ch
 repbooking.ch
 repborn.ch
 repbox.ch
@@ -26397,6 +26400,7 @@ repc.ch
 repcar-auto.ch
 repcar.ch
 repcat-biodiesel.ch
+repcenter.ch
 repch.ch
 repcheck.ch
 repchef24.ch
@@ -28197,6 +28201,7 @@ residence-beaulieu.ch
 residence-beaurivage.ch
 residence-bellevue.ch
 residence-belvedere.ch
+residence-bernegg.ch
 residence-brig-glis.ch
 residence-californiaparc.ch
 residence-cappella.ch
@@ -28375,6 +28380,7 @@ residenceaurora.ch
 residenceauxiris.ch
 residencebeaulieu.ch
 residencebellevue.ch
+residencebernegg.ch
 residencebienetre.ch
 residenceborgeaud.ch
 residencebrissago.ch
@@ -29021,6 +29027,7 @@ resilienz-im-fokus.ch
 resilienz-im-zentrum.ch
 resilienz-info.ch
 resilienz-institut-schweiz.ch
+resilienz-kinder.ch
 resilienz-kompass.ch
 resilienz-kompetenz.ch
 resilienz-kongress.ch
@@ -33466,6 +33473,7 @@ restaurantschlossblick.ch
 restaurantschlossburgdorf.ch
 restaurantschlossreichenbach.ch
 restaurantschluesselamsee.ch
+restaurantschmerikon.ch
 restaurantschmiedstube.ch
 restaurantschoenau.ch
 restaurantschoengruen.ch
@@ -34034,6 +34042,7 @@ restoduport-erlach.ch
 restodutennis.ch
 restodutheatre.ch
 restodutraiteur.ch
+restoflow.ch
 restoge.ch
 restogest.ch
 restoi.ch
@@ -38037,7 +38046,6 @@ revoxa77.ch
 revoxforum.ch
 revoxinperfection.ch
 revoxio.ch
-revoxmania.ch
 revoxonline.ch
 revoxsammler.ch
 revoxservice.ch
@@ -38160,7 +38168,6 @@ revvear.ch
 revver.ch
 revvest.ch
 revvline.ch
-revvluxmotors.ch
 revvolution.ch
 revvy.ch
 revwien.ch
@@ -38200,6 +38207,7 @@ rewanu.ch
 rewapersonal.ch
 rewar.ch
 reward-advisory.ch
+reward-me.ch
 reward.ch
 rewardcard.ch
 rewarded.ch

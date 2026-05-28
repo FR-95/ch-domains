@@ -294,7 +294,6 @@ ptitsfooteux.ch
 ptitsgaliciens.ch
 ptitslapins.ch
 ptitsloups.ch
-ptitslutins.ch
 ptitsnains.ch
 ptitsreveurs.ch
 ptitstaignons.ch
@@ -307,6 +306,7 @@ ptj.ch
 ptjg.ch
 ptk-sg.ch
 ptk.ch
+ptkandco.ch
 ptkchain.ch
 ptkn.ch
 ptkraftwerk.ch

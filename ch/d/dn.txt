@@ -1039,7 +1039,6 @@ dns3.advantix.ch
 dns3.apogee.ch
 dns3.aubep-manager.ch
 dns3.balgrist.ch
-dns3.bks-campus.ch
 dns3.bluetec.ch
 dns3.ccc-rheintal.ch
 dns3.ch

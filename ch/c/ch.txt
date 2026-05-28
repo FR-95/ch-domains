@@ -592,7 +592,6 @@ ch-weihnachtsbaum.ch
 ch-weiss.ch
 ch-werbung.ch
 ch-wichtig.ch
-ch-wiki.ch
 ch-wine-and-fine.ch
 ch-wirth.ch
 ch-wolke.ch
@@ -6483,6 +6482,7 @@ charrat24.ch
 charratmuse.ch
 charre.ch
 charret.ch
+charrette.ch
 charrewaeg.ch
 charrez.ch
 charrezarchitecture.ch
@@ -6815,6 +6815,7 @@ chaschi.ch
 chaschieldalp.ch
 chaschmer.ch
 chaschnedimmergwuenne.ch
+chaschnitexplaine.ch
 chaschnorasch.ch
 chaschnutze.ch
 chaschper.ch
@@ -9343,6 +9344,8 @@ cheesefactory.ch
 cheesefestival.ch
 cheesefondue.ch
 cheesefood.ch
+cheesefoot-music.ch
+cheesefootmusic.ch
 cheesefromswitzerland.ch
 cheesehouse.ch
 cheeseinsound.ch
@@ -9982,7 +9985,6 @@ chemin-d-histoires.ch
 chemin-de-fer-fribourg.ch
 chemin-de-la-sarine.ch
 chemin-de-st-jacques.ch
-chemin-de-stjacques.ch
 chemin-de-traverse.ch
 chemin-de-vie.ch
 chemin-des-arts.ch
@@ -10367,6 +10369,7 @@ chene-renens.ch
 chene-sarl.ch
 chene-thonex.ch
 chene-traverse.ch
+chene-vert.ch
 chene.ch
 chene2b.ch
 cheneau-de-bourg.ch
@@ -11108,7 +11111,6 @@ chetelatberatung.ch
 chetham.ch
 chethletic.ch
 chetis.ch
-chetos.ch
 chetou.ch
 chetoy-esprit-cafe.ch
 chetoy.ch
@@ -13869,7 +13871,6 @@ chillingbar.ch
 chillingclub.ch
 chillinglounge.ch
 chillings.ch
-chillingsheep.ch
 chillioel.ch
 chillipepper.ch
 chillipepperclothing.ch
@@ -16693,7 +16694,6 @@ chocaid.ch
 chocaltitude.ch
 chocana.ch
 chocandco.ch
-chocaneo.ch
 chocanille.ch
 chocanna.ch
 chocard-aventure.ch
@@ -19143,6 +19143,7 @@ chriskarrerphotography.ch
 chriskast.ch
 chriskatzenbach.ch
 chriskeller.ch
+chriskhair.ch
 chriskin.ch
 chriskind.ch
 chrisklaus.ch
@@ -21178,6 +21179,7 @@ christinegaillard.ch
 christinegambini.ch
 christinegariazzo.ch
 christinegaulke.ch
+christinegerber-bern.ch
 christinegiger-beratung.ch
 christinegiger.ch
 christinegirod.ch
@@ -21303,7 +21305,6 @@ christinestieger.ch
 christinestreiff.ch
 christinestreuli.ch
 christinestrub.ch
-christinestruebin.ch
 christinestucki.ch
 christinestueckelberger.ch
 christinesuessmann.ch
@@ -21482,6 +21483,7 @@ christlicher-glaube.ch
 christlicher-glaubenskurs.ch
 christlicher-lehrdienst.ch
 christlicher-missionsdienst.ch
+christlicher-orient.ch
 christlicher-shop.ch
 christlicher-stellenmarkt.ch
 christlicher-treffpunkt.ch
@@ -22634,7 +22636,6 @@ chromoson.ch
 chromosphere.ch
 chromotec.ch
 chromotel.ch
-chromotherapie-suisse.ch
 chromotherapie-valais.ch
 chromotherapie.ch
 chromox.ch
@@ -23205,6 +23206,7 @@ chruut-und-erni.ch
 chruut.ch
 chruutondmond.ch
 chruutundbaeumli.ch
+chruutundchessel.ch
 chruutunderni.ch
 chruutundruebe.ch
 chruutundruebli.ch

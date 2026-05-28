@@ -316,7 +316,6 @@ rabbana.ch
 rabbani.ch
 rabbany.ch
 rabbar.ch
-rabbat.ch
 rabbath-eric-site-creator.ch
 rabbath-eric-starter.ch
 rabbath-eric-test-dns-externe.ch
@@ -793,6 +792,7 @@ racerace.ch
 raceramps.ch
 racerbikescup.ch
 racerbuddy.ch
+racerdip-shop.ch
 racerep.ch
 racerepublic.ch
 raceresult-timing.ch
@@ -1974,6 +1974,7 @@ radicalisation.ch
 radicalismusic.ch
 radicaljibe.ch
 radicalmaker.ch
+radicalmatter.ch
 radicalmotorsport.ch
 radicalp.ch
 radicalracing.ch
@@ -2389,6 +2390,7 @@ radiobern3.ch
 radioberneins.ch
 radioberneroberland.ch
 radiobesa.ch
+radiobetschi.ch
 radiobiella.ch
 radiobikes.ch
 radiobit.ch
@@ -4251,7 +4253,6 @@ raeumungen-pratteln.ch
 raeumungen-reinach.ch
 raeumungen-reinigungen.ch
 raeumungen-riehen.ch
-raeumungen-saanenland.ch
 raeumungen-schweiz.ch
 raeumungen-sissach.ch
 raeumungen-solothurn.ch
@@ -6630,6 +6631,7 @@ raisroulage.ch
 raissa.ch
 raissabonjour.ch
 raissig.ch
+raissigdesiena.ch
 raissle.ch
 raistlin.ch
 raisun-itservice.ch
@@ -8692,7 +8694,6 @@ randonnee-en-chiffres.ch
 randonnee-pedestre.ch
 randonnee.ch
 randonneeenchiffres.ch
-randonneenocturne.ch
 randonnees-accompagnees.ch
 randonnees-parc.ch
 randonnees-pedestres.ch
@@ -8702,7 +8703,6 @@ randonneesaccompagnees.ch
 randonneesbonheur.ch
 randonneesdeloise.ch
 randonneesdeplusieursjours.ch
-randonneesnocturnes.ch
 randonner-en-securite.ch
 randonner-ensemble.ch
 randonner.ch
@@ -9395,6 +9395,7 @@ raphaela-hoehn.ch
 raphaela-huegli.ch
 raphaela-jonny.ch
 raphaela-koeppel.ch
+raphaela-laich.ch
 raphaela-roger.ch
 raphaela.ch
 raphaelabon.ch
@@ -10653,6 +10654,7 @@ rasa.ch
 rasa4.ch
 rasab.ch
 rasac.ch
+rasadalem.ch
 rasael.ch
 rasafelight.ch
 rasagiline.ch
@@ -13257,7 +13259,6 @@ raumundrat.ch
 raumundrecht.ch
 raumundruhe.ch
 raumundsein.ch
-raumundstandort.ch
 raumundstiel.ch
 raumundstil.ch
 raumundstille.ch

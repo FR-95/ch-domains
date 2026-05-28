@@ -45,6 +45,7 @@ bk-event.ch
 bk-fahrzeugtechnik.ch
 bk-fashionstyle.ch
 bk-frauenfeld.ch
+bk-fs.ch
 bk-gartenbau.ch
 bk-gerueste.ch
 bk-gessatura.ch

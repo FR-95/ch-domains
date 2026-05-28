@@ -1799,7 +1799,6 @@ valaiswineselection.ch
 valaiswinetours.ch
 valaiswm.ch
 valaiswood.ch
-valaiswork.ch
 valaisyarde.ch
 valaisyoga.ch
 valaisyouth.ch
@@ -3103,6 +3102,7 @@ valeve.ch
 valevent.ch
 valevi.ch
 valevia.ch
+valevio.ch
 valevo.ch
 valewa.ch
 valex-aktien-schweiz.ch
@@ -4005,6 +4005,7 @@ valoair.ch
 valobra.ch
 valoc-locations.ch
 valoc.ch
+valocar.ch
 valoceprot.ch
 valoche.ch
 valocini.ch
@@ -4170,6 +4171,7 @@ valoriser.ch
 valorisetesdechets.ch
 valorisetesmetaux.ch
 valorisetonchantier.ch
+valorisexperts.ch
 valorisez.ch
 valorisfirm.ch
 valorisgestion.ch
@@ -4910,7 +4912,6 @@ valution.ch
 valuto-orig.ch
 valuto.ch
 valutrades.ch
-valutta.ch
 valutus.ch
 valuu-test.ch
 valuu.ch
@@ -4984,7 +4985,6 @@ valvperso.ch
 valvpn.ch
 valvuk.ch
 valweb.ch
-valwork.ch
 valx.ch
 valy.ch
 valyago.ch
@@ -6185,7 +6185,6 @@ vanitytables.ch
 vanium.ch
 vaniundandres.ch
 vaniveloz.ch
-vanix.ch
 vanja.ch
 vanjaarzner.ch
 vanjabinder.ch
@@ -8617,6 +8616,8 @@ vaud-demain.ch
 vaud-demenagements.ch
 vaud-demontages.ch
 vaud-dj.ch
+vaud-drone.ch
+vaud-drones.ch
 vaud-du-ciel.ch
 vaud-economie.ch
 vaud-emotion.ch
@@ -8730,7 +8731,6 @@ vaudcereales.ch
 vaudcert.ch
 vaudchien.ch
 vaudchiens.ch
-vaudcitoyen.ch
 vaudclean.ch
 vaudcleaner.ch
 vaudcliniquehygienedentaire.ch
@@ -8742,6 +8742,8 @@ vauddata.ch
 vauddeals.ch
 vauddemenagement.ch
 vauddetartrage.ch
+vauddrone.ch
+vauddrones.ch
 vaude-sport.ch
 vaude.ch
 vaudebarras.ch
@@ -8895,6 +8897,7 @@ vaudrenovo.ch
 vaudrentals.ch
 vaudrier.ch
 vaudrisk.ch
+vaudroit.ch
 vaudroutes.ch
 vaudroz.ch
 vaudruziens.ch

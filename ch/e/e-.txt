@@ -1,4 +1,3 @@
-e--a--t.ch
 e--b.ch
 e-0800.ch
 e-10.ch
@@ -509,9 +508,7 @@ e-burgener.ch
 e-buro.ch
 e-burris.ch
 e-bus.ch
-e-business-expo.ch
 e-business-manager.ch
-e-business-messe.ch
 e-business-pay.ch
 e-business-seminar.ch
 e-business-suite.ch
@@ -1983,6 +1980,7 @@ e-mitsubishi.ch
 e-mitwirkung.ch
 e-mix.ch
 e-mks.ch
+e-ml.ch
 e-mm.ch
 e-mmo.ch
 e-mmob.ch
@@ -2155,7 +2153,6 @@ e-nergy.ch
 e-nergyflow.ch
 e-nergylaw.ch
 e-ness.ch
-e-nestbrokers.ch
 e-net-gmbh.ch
 e-net.ch
 e-network.ch

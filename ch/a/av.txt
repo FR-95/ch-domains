@@ -1316,6 +1316,7 @@ avegail.ch
 avegailpham.ch
 avegailvillalonpham.ch
 avegena.ch
+avegenamedical.ch
 avegeneralbau.ch
 aveger.ch
 avegerservice.ch
@@ -2576,7 +2577,6 @@ avifaunistik.ch
 aviflow.ch
 aviform.ch
 aviforum.ch
-avig-aviv.ch
 avig-praxis.ch
 avig.ch
 aviga.ch
@@ -2744,7 +2744,6 @@ aviora.ch
 avioraconseils.ch
 aviore.ch
 aviorswiss.ch
-avioscout24.ch
 aviosoft.ch
 aviotech.ch
 aviotraining.ch
@@ -2902,6 +2901,7 @@ avisjuridiques.ch
 aviska.ch
 avisletzi.ch
 avisletzipark.ch
+avislocataires.ch
 avismail.ch
 aviso.ch
 avisoadvisory.ch
@@ -4251,7 +4251,6 @@ avtex.ch
 avtonline.ch
 avtools.ch
 avtopro.ch
-avtotor.ch
 avtr.ch
 avtransfert.ch
 avtras.ch

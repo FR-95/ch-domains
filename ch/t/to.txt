@@ -2593,6 +2593,7 @@ tokenstreet.ch
 tokensuisse.ch
 tokenswap.ch
 tokenswiss.ch
+tokentact2.ch
 tokentimer.ch
 tokentrade.ch
 tokentreasures.ch
@@ -6909,7 +6910,6 @@ top4job.ch
 top4me.ch
 top4move.ch
 top4running.ch
-top4sport.ch
 top4tea.ch
 top4u.ch
 top4winter.ch
@@ -7534,8 +7534,6 @@ topelectro-nyon.ch
 topelectro-valais.ch
 topelectro-zurich.ch
 topelectro.ch
-topelectronic.ch
-topelectronics.ch
 topelektriker.ch
 topelektro.ch
 topeliteescort.ch
@@ -7990,7 +7988,6 @@ topjob-fribourg.ch
 topjob-net.ch
 topjob-oberwallis.ch
 topjob-renner.ch
-topjob-schweiz.ch
 topjob-staeubli.ch
 topjob.ch
 topjob24.ch
@@ -9814,7 +9811,6 @@ torrentdownload.ch
 torrente.ch
 torrentesanitaire.ch
 torrentetrade.ch
-torrentik.ch
 torrentlegal.ch
 torrents.ch
 torrentvitrerie.ch
@@ -10913,6 +10909,7 @@ toucancoffee.ch
 toucandoit.ch
 toucaneco.ch
 toucangroup.ch
+toucanote.ch
 toucanpack.ch
 toucanweb.ch
 touch-academy.ch
@@ -11562,7 +11559,6 @@ tourenscout.ch
 tourenski.ch
 tourenskimiete.ch
 tourenskis.ch
-tourenskischule.ch
 tourenskiservice.ch
 tourenskishop.ch
 tourensohn.ch

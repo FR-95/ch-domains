@@ -975,6 +975,7 @@ planausmass.ch
 planaustausch.ch
 planavila.ch
 planavor.ch
+planaway.ch
 planax.ch
 planaxis.ch
 planb-agency.ch
@@ -2762,7 +2763,6 @@ planum-bau.ch
 planum-int.ch
 planum-zuerich.ch
 planum.ch
-planumzug.ch
 planun-bau.ch
 planundbau.ch
 planundform.ch
@@ -3827,6 +3827,7 @@ platinum-ladys.ch
 platinum-leads.ch
 platinum-limousine.ch
 platinum-manager-demo.ch
+platinum-medcare.ch
 platinum-natural.ch
 platinum-news.ch
 platinum-online.ch

@@ -21,7 +21,6 @@ ur-gin.ch
 ur-grappa.ch
 ur-guet.ch
 ur-guetzli.ch
-ur-haushaltsgeraete.ch
 ur-health.ch
 ur-heimisch.ch
 ur-heimische-medizin.ch
@@ -1067,7 +1066,6 @@ urbanshaman.ch
 urbanshift.ch
 urbanshrooms.ch
 urbanshutter.ch
-urbansin-piercing.ch
 urbanskate.ch
 urbansketchers.ch
 urbansketchersluzern.ch
@@ -1554,6 +1552,7 @@ urgence-plombier-geneve.ch
 urgence-plombier-lausanne.ch
 urgence-plombier.ch
 urgence-plombiers.ch
+urgence-punaises.ch
 urgence-serrure.ch
 urgence-serrurerie-geneve.ch
 urgence-serrurerie.ch
@@ -1627,6 +1626,7 @@ urgences-osteopathiques.ch
 urgences-renens.ch
 urgences-sante.ch
 urgences-vaud.ch
+urgences-veterinaire-fribourg.ch
 urgences-veterinaire.ch
 urgences-vevey.ch
 urgencesbienne.ch
@@ -4382,7 +4382,6 @@ ursweb.ch
 ursweber.ch
 ursweberarchitektur.ch
 ursweberco.ch
-ursweder-onlinewerbung.ch
 ursweder.ch
 ursweg.ch
 urswegmann.ch

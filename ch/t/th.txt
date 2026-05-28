@@ -1593,7 +1593,6 @@ thc-manufaktur.ch
 thc-medizin.ch
 thc-oel.ch
 thc-oil.ch
-thc-onlineshop.ch
 thc-pharma.ch
 thc-pilotversuch.ch
 thc-planet.ch
@@ -1673,7 +1672,6 @@ thcseeds.ch
 thcshop.ch
 thcshopbern.ch
 thcshops.ch
-thcstore.ch
 thcsuisse.ch
 thctest.ch
 thcvalais.ch
@@ -1803,7 +1801,6 @@ the-beach.ch
 the-beachhouse.ch
 the-bear.ch
 the-beard-shop.ch
-the-beard-struggle.ch
 the-beast.ch
 the-beauty-and-the-beast.ch
 the-beauty-lounge.ch
@@ -4870,7 +4867,6 @@ thebear.ch
 thebearcoaching.ch
 thebeardedchefs.ch
 thebeardshop.ch
-thebeardstruggle.ch
 thebears.ch
 thebearscave.ch
 thebearshop.ch
@@ -6738,7 +6734,6 @@ thefairagency.ch
 thefairshit.ch
 thefairwayseekers.ch
 thefairydusters.ch
-thefairystone.ch
 thefake.ch
 thefaktories.ch
 thefallguy-film.ch
@@ -7115,6 +7110,7 @@ thefullhouse.ch
 thefun.ch
 thefund.ch
 thefundamentals.ch
+thefundingcompany.ch
 thefundingradar.ch
 thefuneralplanner.ch
 thefunkey.ch
@@ -7377,6 +7373,7 @@ thegoldenmoon.ch
 thegoldenpear.ch
 thegoldenpeople.ch
 thegoldenrule.ch
+thegoldensphere.ch
 thegoldfather.ch
 thegoldfin.ch
 thegoldhouse.ch
@@ -8222,6 +8219,7 @@ theinstitute.ch
 theinsurance.ch
 theintegrated.ch
 theintegratedteam.ch
+theintellegencelab.ch
 theintelligence.ch
 theintelligent.ch
 theinterimmanager.ch
@@ -8335,6 +8333,7 @@ thejeweler.ch
 thejeweljoy.ch
 thejeweller.ch
 thejewellershop.ch
+thejewelleryhouse.ch
 thejewelryeditor.ch
 thejewelrymafia.ch
 thejfnmoments.ch
@@ -9815,6 +9814,7 @@ theoclerc.ch
 theocompany.ch
 theocratie.ch
 theocraty.ch
+theoctane.ch
 theoctanebarber.ch
 theodavis.ch
 theodechanez.ch
@@ -10548,6 +10548,7 @@ theplunge.ch
 theplus.ch
 thepo.ch
 thepocket.ch
+thepocketsouls.ch
 thepod.ch
 thepoetics.ch
 thepoint.ch
@@ -11466,6 +11467,7 @@ therapie-zollikerberg.ch
 therapie-zuerich-enge.ch
 therapie-zumbuehl.ch
 therapie.ch
+therapie1.ch
 therapie11.ch
 therapie24.ch
 therapie3chenes.ch
@@ -12916,6 +12918,7 @@ thermorossi.ch
 thermory.ch
 thermos-flasche.ch
 thermos-shop.ch
+thermos-varios.ch
 thermos.ch
 thermosafe-homogen.ch
 thermosafe-wd.ch
@@ -13567,6 +13570,7 @@ thesite.ch
 thesitsgroup.ch
 thesitter.ch
 thesius.ch
+thesix-meggen.ch
 thesix.ch
 thesixisles.ch
 thesixlegacy.ch
@@ -13792,6 +13796,7 @@ thespeckers.ch
 thespeechtherapist.ch
 thespeschas.ch
 thesphere.ch
+thespherecenter.ch
 thespiceclub.ch
 thespiceshop.ch
 thespinalflow.ch
@@ -16325,6 +16330,7 @@ thinline.ch
 thinningscissor.ch
 thino.ch
 thinortho.ch
+thinotech.ch
 thinplus.ch
 thinplytechnology.ch
 thinprep.ch
@@ -19468,6 +19474,7 @@ thunderballs.ch
 thunderbee.ch
 thunderbike.ch
 thunderbird-club.ch
+thunderbird-experience.ch
 thunderbird-gva.ch
 thunderbird-rock.ch
 thunderbird.ch
@@ -20213,7 +20220,6 @@ thushi.ch
 thusi.ch
 thusis-masein-reformiert.ch
 thusis-mitwirken.ch
-thusis-reinigung.ch
 thusis-und-masein.ch
 thusis.ch
 thusis24.ch

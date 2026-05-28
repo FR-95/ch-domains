@@ -23,6 +23,7 @@ mh-comptabilite-gestion.ch
 mh-consulting.ch
 mh-cosmetics.ch
 mh-creative.ch
+mh-cyber.ch
 mh-cybersecurity.ch
 mh-dental.ch
 mh-design.ch
@@ -112,6 +113,7 @@ mh2.ch
 mh3.ch
 mh3d.ch
 mh3o.ch
+mha-3d.ch
 mha-architectes.ch
 mha-geneva.ch
 mha-geneve.ch

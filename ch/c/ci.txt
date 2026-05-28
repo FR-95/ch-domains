@@ -323,7 +323,6 @@ ciba-geigy.ch
 ciba.ch
 cibabila.ch
 cibachrome.ch
-cibacolor.ch
 cibageigy.ch
 cibao.ch
 cibaria.ch
@@ -1246,6 +1245,7 @@ cignaglobalhealthchoice.ch
 cignaglobalhealthchoices.ch
 cignaling.ch
 cignetti.ch
+cigno.ch
 cignobianco.ch
 cignus-diagnostics.ch
 cignusdiagnostics.ch

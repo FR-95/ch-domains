@@ -1829,6 +1829,7 @@ abchasien.ch
 abchauffages.ch
 abchina.ch
 abchome.ch
+abchomes.ch
 abchost.ch
 abchydro.ch
 abci-avocats.ch
@@ -2967,7 +2968,6 @@ abfallfeind.ch
 abfallforum-schweiz.ch
 abfallforum.ch
 abfallfrei.ch
-abfallgebinde.ch
 abfallhai-insel.ch
 abfallhai.ch
 abfallhandbuch.ch
@@ -4310,6 +4310,7 @@ abnettoyage.ch
 abnettoyagepro.ch
 abnetwork.ch
 abnetz.ch
+abneuropsychologie.ch
 abnhemenaberrichtig.ch
 abniden-urlaub.ch
 abnidenurlaub.ch
@@ -6468,6 +6469,7 @@ abu-bewegt.ch
 abu-bot.ch
 abu-cleaningservices.ch
 abu-dhabi-incentives.ch
+abu-dhabi.ch
 abu-edelstahl.ch
 abu-facility.ch
 abu-gmbh.ch

@@ -20,6 +20,7 @@ ti-alto-malcantone.ch
 ti-altoticino.ch
 ti-ambri.ch
 ti-amministro.ch
+ti-amo-bub.ch
 ti-amo.ch
 ti-aqua.ch
 ti-architektur.ch
@@ -1819,6 +1820,7 @@ tickomed.ch
 tickondo.ch
 tickopur.ch
 tickpanel.ch
+tickpanelready.ch
 tickr.ch
 tickremover.ch
 ticks.ch
@@ -5732,6 +5734,7 @@ tikistrandbar.ch
 tikitaco.ch
 tikitaka.ch
 tikitakacas.ch
+tikitakacasino.ch
 tikitakach.ch
 tikitakafussball.ch
 tikitakafussballschule.ch
@@ -7569,7 +7572,6 @@ timewaver-worb.ch
 timewaver4business.ch
 timewaverbern.ch
 timewaverthurgau.ch
-timeweaver-gesundheitszentrum.ch
 timeweb.ch
 timewellspent.ch
 timewinner.ch
@@ -9934,6 +9936,7 @@ tiptop-umzug.ch
 tiptop.ch
 tiptop10.ch
 tiptop24.ch
+tiptop3d.ch
 tiptopauto.ch
 tiptopautocenter.ch
 tiptopautoteile.ch

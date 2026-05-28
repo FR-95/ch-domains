@@ -417,7 +417,6 @@ soazza-livecam.ch
 soazza.ch
 soazza24.ch
 sob-consulting.ch
-sob-infrastruktur.ch
 sob-krimi.ch
 sob-learning.ch
 sob-npz.ch
@@ -1672,6 +1671,7 @@ socialwall360.ch
 socialwalls.ch
 socialwat.ch
 socialwave.ch
+socialweavers.ch
 socialweb-services.ch
 socialweb.ch
 socialwebassist.ch
@@ -1778,6 +1778,7 @@ societe-immobiliere.ch
 societe-intendance.ch
 societe-maire.ch
 societe-mandataire.ch
+societe-micronutrition.ch
 societe-mont-soleil.ch
 societe-nautique-lausanne.ch
 societe-nci.ch
@@ -2749,6 +2750,7 @@ sofawelt.ch
 sofawerk.ch
 sofawolf.ch
 sofaworld.ch
+sofayoga.ch
 sofazeit.ch
 sofc.ch
 sofcigars.ch
@@ -2797,6 +2799,8 @@ sofi-creative.ch
 sofi-social.ch
 sofi-sofa.ch
 sofi.ch
+sofi2026.ch
+sofi2027.ch
 sofia-alchimie.ch
 sofia-automobile.ch
 sofia-coiffure-beaute.ch
@@ -4448,7 +4452,6 @@ sohnomusic.ch
 sohnrey.ch
 sohns.ch
 sohnverlag.ch
-soho-burger.ch
 soho-capital.ch
 soho-club.ch
 soho-event.ch
@@ -4458,7 +4461,6 @@ soho-kosmos.ch
 soho-lounge.ch
 soho-padel.ch
 soho-paragliding.ch
-soho-restaurant.ch
 soho-rooftop.ch
 soho-solutions.ch
 soho-switzerland.ch
@@ -4544,6 +4546,8 @@ soigetier-tattoo.ch
 soigetier.ch
 soigna.ch
 soignant.ch
+soignante.ch
+soignantes.ch
 soignants.ch
 soigne-ton-futur.ch
 soignee.ch
@@ -8189,6 +8193,7 @@ soldevila.ch
 soldexposition.ch
 soldi-e-valori.ch
 soldier.ch
+soldifica.ch
 soldini-sa.ch
 soldini.ch
 soldinipiastrelle.ch
@@ -9186,6 +9191,7 @@ solidquant.ch
 solidra.ch
 solidracks.ch
 solidreal.ch
+solidrealty.ch
 solidrock.ch
 solidroller.ch
 solids-basel.ch
@@ -11066,7 +11072,6 @@ solvenow.ch
 solvens-fiduciaire.ch
 solvens.ch
 solvenswiss.ch
-solvent-recycling.ch
 solvent-windland.ch
 solvent.ch
 solventa-hypo.ch
@@ -16732,6 +16737,7 @@ sorghrum.ch
 sorghum-hirse.ch
 sorghum.ch
 sorghumhirse.ch
+sorghumhub.ch
 sorghumunitedglobal.ch
 sorgiacomodesign.ch
 sorgila.ch
@@ -17142,6 +17148,7 @@ sortirvalais.ch
 sortirvaud.ch
 sortisocs.ch
 sortitout.ch
+sortiva.ch
 sortlabs.ch
 sortlist.ch
 sortmypaper.ch
@@ -21345,6 +21352,7 @@ sozialdschungel.ch
 sozialdynamik.ch
 soziale-aengste.ch
 soziale-alternativen-thurgau.ch
+soziale-angst.ch
 soziale-arbeit-entwickeln.ch
 soziale-arbeit-in-der-schule.ch
 soziale-arbeit.ch

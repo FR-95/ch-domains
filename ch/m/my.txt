@@ -1578,6 +1578,7 @@ my-skincare-lausanne.ch
 my-skincare.ch
 my-skoda.ch
 my-sky.ch
+my-sleep.ch
 my-smart-home.ch
 my-smart-tax.ch
 my-smart.ch
@@ -3765,7 +3766,6 @@ mycleanservices.ch
 mycleanspace.ch
 mycleanup.ch
 mycleanworld.ch
-myclearart.ch
 myclearchannel.ch
 myclearing.ch
 mycler.ch
@@ -3888,7 +3888,6 @@ mycoffee24.ch
 mycoffeecup.ch
 mycoffeeshop.ch
 mycoffeeworld.ch
-mycoffola.ch
 mycoflex.ch
 mycofr.ch
 mycog.ch
@@ -6521,6 +6520,7 @@ myinkasso.ch
 myinkshop.ch
 myinnerbalance.ch
 myinnerdharma.ch
+myinnerfire.ch
 myinnerpower.ch
 myinnershift.ch
 myinnervoice.ch
@@ -6760,6 +6760,7 @@ myketobrain.ch
 mykex.ch
 mykey.ch
 mykeyboard.ch
+mykeysalert.ch
 mykeytours.ch
 mykeyuser.ch
 mykeyz.ch
@@ -8341,7 +8342,6 @@ myofascial-release.ch
 myofascial.ch
 myofascialrelease.ch
 myofascialtaping.ch
-myofasziale-schmerzen-aargau.ch
 myofasziale-therapie.ch
 myofasziales-system.ch
 myoffer.ch
@@ -11763,7 +11763,6 @@ mything.ch
 mythings.ch
 mythinklab.ch
 mythinksecurity.ch
-mythios.ch
 mythique.ch
 mythirai.ch
 mythisch-ibach.ch

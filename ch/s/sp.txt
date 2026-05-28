@@ -1383,6 +1383,7 @@ spaeth-holding.ch
 spaeth-shop.ch
 spaeth-wiesner.ch
 spaeth.ch
+spaeti-ag.ch
 spaeti-buero.ch
 spaeti-bueromoebel.ch
 spaeti-holzbau.ch
@@ -2451,6 +2452,7 @@ spark-cycle.ch
 spark-estate.ch
 spark-ge.ch
 spark-geneve.ch
+spark-gland.ch
 spark-gva.ch
 spark-hr.ch
 spark-it.ch
@@ -3328,6 +3330,7 @@ spazio-basel.ch
 spazio-da-vivere.ch
 spazio-gioco.ch
 spazio-lagerverkauf.ch
+spazio-libero.ch
 spazio-onda.ch
 spazio-progetto.ch
 spazio-sursee.ch
@@ -5235,6 +5238,7 @@ speedyservicesagl.ch
 speedyshop.ch
 speedysolutions.ch
 speedyspeed.ch
+speedytaxi.ch
 speedytaxiboot.ch
 speedytrans.ch
 speedytransport.ch
@@ -5709,6 +5713,7 @@ spendenkonto.ch
 spendenkontos.ch
 spendenladen.ch
 spendenlauf143.ch
+spendenliste.ch
 spendenlotto.ch
 spendenmagazin.ch
 spendenmailing-digital.ch
@@ -6766,17 +6771,20 @@ sphera-avocates.ch
 sphera.ch
 spheragroup.ch
 spheraskin.ch
+sphere-ai.ch
 sphere-csp.ch
 sphere-esg.ch
 sphere-events.ch
 sphere-health.ch
 sphere-immo.ch
+sphere-intelligence.ch
 sphere-mentoring.ch
 sphere-of-spirit.ch
 sphere-perinatale.ch
 sphere-profiles.ch
 sphere-sante.ch
 sphere-scan.ch
+sphere-technology.ch
 sphere-tv.ch
 sphere.ch
 spherecoaching.ch
@@ -7420,7 +7428,6 @@ spiel-dich-durchs-dorf.ch
 spiel-dose.ch
 spiel-engelberg.ch
 spiel-entwickler.ch
-spiel-freizeitlokal.ch
 spiel-garten.ch
 spiel-gigant.ch
 spiel-gruppe.ch
@@ -8507,7 +8514,6 @@ spielgrupperueti.ch
 spielgrupperuetihof.ch
 spielgrupperufeli.ch
 spielgrupperupperswil.ch
-spielgrupperussikon.ch
 spielgruppesamstagern.ch
 spielgruppeschiers.ch
 spielgruppeschildchroetli.ch
@@ -8958,6 +8964,7 @@ spielsport.ch
 spielsportagentur.ch
 spielsportspass.ch
 spielstadt-sg.ch
+spielstadt.ch
 spielstar.ch
 spielstarch.ch
 spielstart.ch
@@ -10226,6 +10233,7 @@ spinsahara1.ch
 spinsaharacasino.ch
 spinsaharas.ch
 spinsamba.ch
+spinsamurai-casino.ch
 spinsamurai.ch
 spinsamuraicasino.ch
 spinscasino.ch
@@ -17454,7 +17462,6 @@ sportshouse.ch
 sportshow.ch
 sportshowroom.ch
 sportshub.ch
-sportsies.ch
 sportsign.ch
 sportsimaging.ch
 sportsinfos.ch
@@ -17524,7 +17531,6 @@ sportsneuroscience.ch
 sportsnews-swiss.ch
 sportsnews.ch
 sportsnight.ch
-sportsnordic.ch
 sportsnose.ch
 sportsnotion.ch
 sportsnow.ch
@@ -17680,7 +17686,6 @@ sportsworld.ch
 sportsx.ch
 sportsxlab.ch
 sportsxpert.ch
-sportsy.ch
 sportsylv.ch
 sportsyoga.ch
 sportsys.ch

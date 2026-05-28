@@ -1736,7 +1736,6 @@ asd-experience.ch
 asd-fiduciaire.ch
 asd-herzog.ch
 asd-int.ch
-asd-isolierungen.ch
 asd-law.ch
 asd-magazine.ch
 asd-marketing.ch
@@ -5028,6 +5027,7 @@ assessmentservices.ch
 assessmentsolutions.ch
 assessmentstufe.ch
 assessmenttool.ch
+assessor.ch
 assessperform.ch
 assest.ch
 asset--management.ch

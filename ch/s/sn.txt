@@ -1615,7 +1615,6 @@ snowboard-outlet.ch
 snowboard-rent-grindelwald.ch
 snowboard-rental.ch
 snowboard-sale.ch
-snowboard-school-verbier.ch
 snowboard-schule.ch
 snowboard-schulen.ch
 snowboard-schweiz.ch
@@ -1913,6 +1912,7 @@ snowlines.ch
 snowlink.ch
 snowlion.ch
 snowlirestaurant.ch
+snowloop.ch
 snowlord.ch
 snowlounger.ch
 snowls.ch

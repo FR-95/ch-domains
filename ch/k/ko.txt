@@ -561,6 +561,7 @@ koch-kreativ.ch
 koch-kunst.ch
 koch-kupfer.ch
 koch-kurse.ch
+koch-lang-stiftung.ch
 koch-law.ch
 koch-liegenschaftsunterhalt.ch
 koch-logo.ch
@@ -1364,7 +1365,6 @@ koechinnen.ch
 koechinsharmistha.ch
 koechlerei.ch
 koechli-hauswartungen.ch
-koechli-holding.ch
 koechli-pferdefahrten.ch
 koechli-sanitaer.ch
 koechli-technik.ch
@@ -1938,6 +1938,7 @@ koerper-therapie.ch
 koerper-therapien.ch
 koerper-u-seele.ch
 koerper-und-atem.ch
+koerper-und-geist.ch
 koerper-und-klang-praxis.ch
 koerper-und-klang.ch
 koerper-und-psychotherapie.ch
@@ -3061,7 +3062,6 @@ kokiris.ch
 kokishop.ch
 kokiweb.ch
 kokka.ch
-kokkaarako.ch
 kokkaflokka.ch
 kokki-klubbi.ch
 kokkinos.ch
@@ -8909,6 +8909,7 @@ kor-liqueur.ch
 kor.ch
 kora-balance.ch
 kora-cosec.ch
+kora-learn.ch
 kora.ch
 koraal.ch
 korab.ch
@@ -9343,7 +9344,6 @@ kornbur.ch
 kornel.ch
 kornelia-kaufmann.ch
 kornelia.ch
-korneliaberweiler.ch
 korneliabruggmann.ch
 korneliafroehlich.ch
 korneliussen.ch
@@ -9887,7 +9887,6 @@ koservice.ch
 kosexclusive.ch
 kosferien.ch
 kosh.ch
-kosha-coaching.ch
 kosha-yoga.ch
 kosha.ch
 koshance.ch

@@ -1385,7 +1385,6 @@ hochzeit-fotos.ch
 hochzeit-geschenk.ch
 hochzeit-graedel.ch
 hochzeit-gs.ch
-hochzeit-hofer.ch
 hochzeit-hotel.ch
 hochzeit-im-hasliberg.ch
 hochzeit-im-kaefer.ch
@@ -4151,6 +4150,7 @@ hofacker-bruetten.ch
 hofacker-oberneunforn.ch
 hofacker.ch
 hofacker13.ch
+hofacker61.ch
 hofackerbusswil.ch
 hofackergarage.ch
 hofackerstrasse.ch
@@ -10448,7 +10448,6 @@ holztreppe.ch
 holztreppen.ch
 holztreppenbau.ch
 holztreppenhaus.ch
-holztrockner.ch
 holztrub.ch
 holztruhe.ch
 holztuer.ch
@@ -10885,6 +10884,7 @@ home-360.ch
 home-4-you.ch
 home-a.ch
 home-abo.ch
+home-academie.ch
 home-academy.ch
 home-access.ch
 home-addict.ch
@@ -11268,7 +11268,6 @@ home-st-joseph.ch
 home-stage.ch
 home-staging-schweiz.ch
 home-staging.ch
-home-start.ch
 home-stitch.ch
 home-stories.ch
 home-story.ch
@@ -12613,6 +12612,7 @@ homepageerstellen.ch
 homepageerstellenlassen.ch
 homepagefabrik.ch
 homepagefactory.ch
+homepageflat.ch
 homepagegestalten.ch
 homepageguide.ch
 homepagehans.ch
@@ -12981,7 +12981,6 @@ homestagingvirtuel.ch
 homestagingwest.ch
 homestar.ch
 homestart.ch
-homestartgmbh.ch
 homestay-ag.ch
 homestay.ch
 homestayaustralia.ch
@@ -17426,6 +17425,7 @@ hosana.ch
 hosanalive.ch
 hosang-disentis.ch
 hosang-sa.ch
+hosang-security.ch
 hosang-winkel.ch
 hosang-zuoz.ch
 hosang.ch
@@ -18563,6 +18563,7 @@ hostworkzone.ch
 hostworld.ch
 hostx.ch
 hosty.ch
+hostyna.ch
 hostyou.ch
 hostyx.ch
 hostzenter.ch
@@ -19810,6 +19811,7 @@ hotel-oeschinensee.ch
 hotel-ohne-kinder.ch
 hotel-oldtown.ch
 hotel-olivone.ch
+hotel-olten.ch
 hotel-oltnerhof.ch
 hotel-olympia.ch
 hotel-one66.ch
@@ -22786,6 +22788,7 @@ hotmassage.ch
 hotmaus.ch
 hotmeals.ch
 hotmed.ch
+hotmeet.ch
 hotmelt.ch
 hotmeltevents.ch
 hotmenu.ch
@@ -24429,6 +24432,7 @@ howett.ch
 however.ch
 howeveryoumove.ch
 howhiss-sa.ch
+howhotel.ch
 howhow.ch
 howi-services.ch
 howi.ch

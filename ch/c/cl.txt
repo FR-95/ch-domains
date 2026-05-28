@@ -512,6 +512,7 @@ clanso.ch
 clanweibel.ch
 clanx.ch
 clanz.ch
+claoflow.ch
 claoue-morton.ch
 claouemorton.ch
 clap-partners.ch
@@ -1007,6 +1008,7 @@ clarke.ch
 clarkefamily.ch
 clarkequay.ch
 clarkfamily.ch
+clarkia.ch
 clarkmasts-swiss.ch
 clarkmasts.ch
 clarkmheu.ch
@@ -2337,6 +2339,7 @@ claudia-und-simon.ch
 claudia-und-stefan.ch
 claudia-und-thorsten.ch
 claudia-utz.ch
+claudia-valentin.ch
 claudia-vogel.ch
 claudia-vogelsanger.ch
 claudia-wagner.ch
@@ -3344,6 +3347,7 @@ clavitus.ch
 clavium.ch
 clavius.ch
 clavivo.ch
+clavix.ch
 clavizurich.ch
 clavo.ch
 clavocado.ch
@@ -5072,6 +5076,7 @@ clearvision-laser.ch
 clearvision.ch
 clearvisionforyou.ch
 clearvisionlaser.ch
+clearvita.ch
 clearvue.ch
 clearward.ch
 clearwatec.ch
@@ -5764,7 +5769,6 @@ clever-steuern.ch
 clever-strom.ch
 clever-supermarkt.ch
 clever-support.ch
-clever-system.ch
 clever-tag.ch
 clever-tax.ch
 clever-tech.ch
@@ -6148,7 +6152,6 @@ cleverstudent.ch
 cleverstudieren.ch
 cleversuchen.ch
 cleversys.ch
-cleversystem.ch
 clevertag.ch
 clevertax.ch
 clevertaxplan.ch
@@ -7031,6 +7034,7 @@ clim-diffusion-service.ch
 clim-diffusion.ch
 clim-diffusionservice.ch
 clim-pro.ch
+clim-systeme.ch
 clim.ch
 clima-ch2025.ch
 clima-configurateur.ch
@@ -9088,6 +9092,7 @@ clotureromande.ch
 clotures-isolation-phonique.ch
 clotures-mobiles.ch
 clotures-service.ch
+clotures-solaires.ch
 clotures.ch
 cloturesjaquet.ch
 cloturex.ch
@@ -9247,7 +9252,6 @@ cloud-informatique.ch
 cloud-infrastructure-agency.ch
 cloud-innovation.ch
 cloud-intec.ch
-cloud-integration.ch
 cloud-io.ch
 cloud-it-solutions.ch
 cloud-it.ch
@@ -9352,7 +9356,6 @@ cloud-server-schweiz.ch
 cloud-server.ch
 cloud-service.ch
 cloud-services-ag.ch
-cloud-services-integration.ch
 cloud-services.ch
 cloud-services364.ch
 cloud-services365.ch
@@ -11117,6 +11120,7 @@ club207.ch
 club21.ch
 club23.ch
 club24.ch
+club26.ch
 club27.ch
 club28.ch
 club2811.ch

@@ -250,6 +250,7 @@ roadpricing-oui.ch
 roadpricing-si.ch
 roadpricing.ch
 roadpricinginitiative.ch
+roadpulse.ch
 roadquake.ch
 roadquest.ch
 roadracingshop.ch
@@ -357,6 +358,7 @@ roadtotokyo.ch
 roadtour.ch
 roadtrek.ch
 roadtrip-festival.ch
+roadtrip-jura-suisse.ch
 roadtrip-surprise.ch
 roadtrip.ch
 roadtrip2010.ch
@@ -1026,6 +1028,7 @@ robertoclown.ch
 robertocoin.ch
 robertocossai.ch
 robertocresta.ch
+robertodalcorso.ch
 robertodambruso.ch
 robertodeluca.ch
 robertodesimone.ch
@@ -2901,6 +2904,7 @@ rock-das-handwerk.ch
 rock-dein-handwerk.ch
 rock-design.ch
 rock-enten.ch
+rock-exotica.ch
 rock-factory.ch
 rock-festival.ch
 rock-fever.ch
@@ -3368,6 +3372,7 @@ rocketweb.ch
 rocketworks.ch
 rocketx.ch
 rocketz.ch
+rockexotica.ch
 rockezz.ch
 rockface.ch
 rockfact.ch
@@ -3587,6 +3592,7 @@ rockolan.ch
 rockolaservice.ch
 rockoldies.ch
 rockoli.ch
+rockon-gmbh.ch
 rockon.ch
 rockondigital.ch
 rockone.ch
@@ -3710,6 +3716,7 @@ rockstarnails.ch
 rockstarnailsbyjb.ch
 rockstarprinzip.ch
 rockstarradio.ch
+rockstars.ch
 rockstarsneverdie.ch
 rockstarworld.ch
 rockstation.ch
@@ -3883,7 +3890,6 @@ rockyourbusiness.ch
 rockyourcareer.ch
 rockyourcoaching.ch
 rockyourcurves.ch
-rockyourdiabetes.ch
 rockyourdrive.ch
 rockyourflat.ch
 rockyourfuture.ch
@@ -5282,7 +5288,6 @@ roethlinstierleben.ch
 roethlintreuhand.ch
 roethlis.ch
 roethlisberger-ag.ch
-roethlisberger-architektur.ch
 roethlisberger-consulting.ch
 roethlisberger-elektro.ch
 roethlisberger-gartenbau.ch
@@ -5407,6 +5412,7 @@ rofrabaut.ch
 rofradom.ch
 rofri.ch
 rofriscuol.ch
+rofs.ch
 rofu-coffee.ch
 rofu-immobilien.ch
 rofu.ch
@@ -5489,6 +5495,7 @@ roger-andrea.ch
 roger-arnold.ch
 roger-aschilier.ch
 roger-bachmann.ch
+roger-baerenfaller.ch
 roger-barbey.ch
 roger-bartholdi.ch
 roger-bass.ch
@@ -5926,6 +5933,7 @@ rogerrenggli-personalberatung.ch
 rogerrenggli.ch
 rogerreuss.ch
 rogerrh.ch
+rogerrhyner.ch
 rogerrichard.ch
 rogerricksmusic.ch
 rogerriedi.ch
@@ -7834,6 +7842,7 @@ rolandkrenn.ch
 rolandkueng.ch
 rolandkuenzler.ch
 rolandkuettel.ch
+rolandkuhny.ch
 rolandkupperbasel.ch
 rolandkurmann.ch
 rolandkym.ch
@@ -10026,6 +10035,7 @@ romamemoria.ch
 roman-ag.ch
 roman-alt.ch
 roman-anderau.ch
+roman-angst.ch
 roman-bernhardsgruetter.ch
 roman-binder.ch
 roman-bloechlinger.ch
@@ -10244,7 +10254,6 @@ romande-store.ch
 romande-studio.ch
 romande2026.ch
 romandeassure.ch
-romandecasino.ch
 romandechafaudages.ch
 romandecole.ch
 romandee.ch
@@ -11141,6 +11150,7 @@ romi-buergin.ch
 romi-fischer.ch
 romi.ch
 romibetcas.ch
+romibetcasino.ch
 romibetch.ch
 romibi.ch
 romic.ch
@@ -12524,6 +12534,7 @@ rooms25.ch
 roomsandblooms.ch
 roomscan.ch
 roomsearch.ch
+roomseason.ch
 roomseek.ch
 roomsense.ch
 roomservice.ch
@@ -12576,6 +12587,7 @@ roomzeiss.ch
 roomzoom.ch
 roon.ch
 rooneys-bau.ch
+roonlabs.ch
 roony.ch
 roonys.ch
 rooom.ch
@@ -15376,7 +15388,6 @@ rot-versand.ch
 rot-weine.ch
 rot-weiss-roth-weine.ch
 rot-weiss-winterthur.ch
-rot-weiss.ch
 rot.ch
 rot24.ch
 rot8.ch
@@ -18017,6 +18028,8 @@ roy-trolling.ch
 roy-winterthur.ch
 roy-wohnen.ch
 roy.ch
+roya-bar-lounge.ch
+roya-barlounge.ch
 roya-energy.ch
 roya-lounge.ch
 roya.ch

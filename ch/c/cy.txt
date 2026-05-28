@@ -1,5 +1,4 @@
 cy-abstrait.ch
-cy-base.ch
 cy-belle.ch
 cy-clope.ch
 cy-data.ch
@@ -568,7 +567,6 @@ cyberdrob.ch
 cyberdrop.ch
 cyberduck.ch
 cyberdyn.ch
-cyberdynamics.ch
 cyberdyne-systems.ch
 cyberdyne.ch
 cyberdynesystems.ch
@@ -2298,6 +2296,7 @@ cyper.ch
 cyperia.ch
 cypersecurity-jobs.ch
 cypersmith.ch
+cypert.ch
 cypeurope.ch
 cyph.ch
 cypher.ch

@@ -602,7 +602,6 @@ djequipment.ch
 djerba.ch
 djerbaplay.ch
 djerfavenue.ch
-djerfavenuebeauty.ch
 djergo.ch
 djeric-hunold.ch
 djeric.ch
@@ -618,6 +617,7 @@ djeszed.ch
 djet.ch
 djeva.ch
 djevahirdjian.ch
+djevegstudios.ch
 djevenementiel.ch
 djevent.ch
 djevents.ch

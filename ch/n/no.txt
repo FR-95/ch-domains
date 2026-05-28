@@ -315,7 +315,6 @@ no4verbier.ch
 no5-pizzeriakebab.ch
 no5.ch
 no5verbier.ch
-no66.ch
 no67.ch
 no6verbier.ch
 no7-luzern.ch
@@ -680,6 +679,8 @@ noapartners.ch
 noaperturedomenicali.ch
 noapp.ch
 noaq.ch
+noar-coffe.ch
+noar-coffee.ch
 noar-design.ch
 noar-dev.ch
 noar.ch
@@ -1604,6 +1605,7 @@ nodomo.ch
 nodon.ch
 nodoo.ch
 nodoroom.ch
+nodoscore.ch
 nodostudio.ch
 nodoubt.ch
 nodpossibl.ch
@@ -7171,6 +7173,7 @@ nosssal.ch
 nossweb.ch
 nost.ch
 nosta-immobilien.ch
+nosta.ch
 nostal-chic.ch
 nostalchic-class.ch
 nostalchic.ch
@@ -7823,7 +7826,6 @@ notariat-bienne.ch
 notariat-birseck.ch
 notariat-bl.ch
 notariat-blank.ch
-notariat-blum.ch
 notariat-bolliger.ch
 notariat-brand.ch
 notariat-bruegger.ch
@@ -11105,6 +11107,7 @@ novalogix.ch
 novaloop.ch
 novalounge.ch
 novaloxx.ch
+novalp-fluides.ch
 novalp.ch
 novalpe.ch
 novalpes.ch
@@ -11137,6 +11140,7 @@ novalyt.ch
 novalytica.ch
 novam.ch
 novama.ch
+novamac.ch
 novamag.ch
 novamail.ch
 novamaison.ch
@@ -11793,6 +11797,7 @@ novelle-wine.ch
 novelle.ch
 novelli.ch
 novelliag.ch
+novelligelato.ch
 novellini.ch
 novellino.ch
 novellinutrition.ch
@@ -11895,6 +11900,7 @@ noventix.ch
 novento.ch
 noventra-swiss.ch
 noventra.ch
+noventri.ch
 noventrix.ch
 noventro.ch
 noventum.ch

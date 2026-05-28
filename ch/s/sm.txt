@@ -38,6 +38,7 @@ sm-editions.ch
 sm-eod.ch
 sm-ep.ch
 sm-essences.ch
+sm-facilityservices.ch
 sm-ferien.ch
 sm-finance.ch
 sm-formation-continue.ch
@@ -4134,6 +4135,8 @@ smarttan.ch
 smarttanken.ch
 smarttap.ch
 smarttask.ch
+smarttax-gmbh.ch
+smarttax-group.ch
 smarttax.ch
 smarttaxes.ch
 smarttaxi.ch

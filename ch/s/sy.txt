@@ -1737,7 +1737,6 @@ syncros.ch
 syncrosaudio.ch
 syncrosweets.ch
 syncserv.ch
-syncshift.ch
 syncsmart.ch
 syncsoft.ch
 syncsolutions.ch
@@ -1993,7 +1992,6 @@ synergieskin.ch
 synergiesmag.ch
 synergiessingulieres.ch
 synergiesuisse.ch
-synergietherapeutique.ch
 synergik.ch
 synergimmo.ch
 synerginvest.ch
@@ -2360,6 +2358,7 @@ synoptiques.ch
 synoq.ch
 synor.ch
 synora.ch
+synorcorp.ch
 synorga.ch
 synoria.ch
 synoro.ch
@@ -3790,7 +3789,6 @@ systhermarlise.ch
 systimax.ch
 systime.ch
 systinfo.ch
-systint.ch
 systix.ch
 systm.ch
 systmcaldara.ch

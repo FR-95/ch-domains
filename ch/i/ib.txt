@@ -61,6 +61,7 @@ ib-print.ch
 ib-project.ch
 ib-qigong.ch
 ib-roehrig.ch
+ib-sanitaire.ch
 ib-schauberger.ch
 ib-schulze.ch
 ib-schweiz.ch
@@ -389,6 +390,7 @@ ibeisola.ch
 ibek.ch
 ibeko.ch
 ibel.ch
+ibela.ch
 ibelaege.ch
 ibele.ch
 ibelieveinyou.ch

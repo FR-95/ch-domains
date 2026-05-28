@@ -1938,7 +1938,6 @@ coachingkursebern.ch
 coachinglab.ch
 coachinglatour.ch
 coachinglausanne.ch
-coachinglazo.ch
 coachinglbulliat.ch
 coachingleader.ch
 coachingleadership.ch
@@ -4067,6 +4066,7 @@ codeofconduct.ch
 codeofcontent.ch
 codeofethics.ch
 codeon.ch
+codeone.ch
 codeowl.ch
 codepalace.ch
 codeparc.ch
@@ -6295,6 +6295,7 @@ coiffeur-mikado.ch
 coiffeur-milano.ch
 coiffeur-miriam.ch
 coiffeur-mirjana.ch
+coiffeur-miro-sales.ch
 coiffeur-mirosales.ch
 coiffeur-mirza.ch
 coiffeur-mit-herz.ch
@@ -6566,7 +6567,6 @@ coiffeur3volution.ch
 coiffeur4.ch
 coiffeur4410.ch
 coiffeur99.ch
-coiffeurabo.ch
 coiffeurabschnitt.ch
 coiffeuradambarbershop.ch
 coiffeuradomicile.ch
@@ -6841,6 +6841,7 @@ coiffeurhombrechtikon.ch
 coiffeurhomepage.ch
 coiffeurhottingen.ch
 coiffeurhouse.ch
+coiffeurhub.ch
 coiffeurhuesi.ch
 coiffeurhuesli.ch
 coiffeurimpark.ch
@@ -7365,6 +7366,7 @@ coiffure-emel-duebendorf.ch
 coiffure-energetique-fribourg.ch
 coiffure-energetique-neuchatel.ch
 coiffure-energetique.ch
+coiffure-entrenous.ch
 coiffure-enz.ch
 coiffure-enzo.ch
 coiffure-erica.ch
@@ -8723,7 +8725,6 @@ colau.ch
 colaun.ch
 colaus-psycolaus.ch
 colaus.ch
-colavecchio.ch
 colavel.ch
 colavent.ch
 colaw.ch
@@ -9569,6 +9570,7 @@ collecastagno.ch
 collecla.ch
 collect-and-swap.ch
 collect-express.ch
+collect-food.ch
 collect-lounge.ch
 collect-n-swap.ch
 collect-o-zone.ch
@@ -10656,7 +10658,6 @@ color-consulting.ch
 color-corn.ch
 color-cosmetic-lorena.ch
 color-cube.ch
-color-disco.ch
 color-energy.ch
 color-foil.ch
 color-fotoservice.ch
@@ -12706,7 +12707,6 @@ comgenius.ch
 comgest.ch
 comgestsa.ch
 comgi.ch
-comglom.ch
 comgraph.ch
 comgut.ch
 comgy.ch
@@ -13943,7 +13943,6 @@ community-hub.ch
 community-impact-investing.ch
 community-impact.ch
 community-in-health.ch
-community-incryptus.ch
 community-isp.ch
 community-ix.ch
 community-library.ch
@@ -16394,6 +16393,7 @@ computer-hotline-schweiz.ch
 computer-hotline.ch
 computer-huetten.ch
 computer-ins.ch
+computer-instruktor.ch
 computer-jobs.ch
 computer-kasse.ch
 computer-kauf.ch
@@ -19127,6 +19127,7 @@ confidimus.ch
 confidio.ch
 confidis.ch
 confidium.ch
+confido-baumanagement.ch
 confido-immobilien.ch
 confido-swiss.ch
 confido-treuhand.ch
@@ -19429,6 +19430,7 @@ confoederatio-helvetica.ch
 confoederatio.ch
 confoederatiohelvetica.ch
 confoot.ch
+conforama-group.ch
 conforama.ch
 confores.ch
 conforlife.ch
@@ -22424,7 +22426,6 @@ consultatio.ch
 consultation-aeai.ch
 consultation-at.ch
 consultation-colibris.ch
-consultation-couple.ch
 consultation-de-couple.ch
 consultation-de-la-gare.ch
 consultation-divorce.ch
@@ -22578,7 +22579,6 @@ consulting-ict.ch
 consulting-idea.ch
 consulting-immo.ch
 consulting-it.ch
-consulting-jaeger.ch
 consulting-jaeggi.ch
 consulting-jovanovic.ch
 consulting-jungo.ch
@@ -25655,6 +25655,7 @@ cool-pack.ch
 cool-racing.ch
 cool-rent.ch
 cool-roof.ch
+cool-room.ch
 cool-runners.ch
 cool-school.ch
 cool-schweiz.ch
@@ -26033,6 +26034,7 @@ coolroof-europe.ch
 coolroof-ge.ch
 coolroof.ch
 coolroofeurope.ch
+coolroom.ch
 coolrunner.ch
 coolrunners.ch
 coolrunnings-wellness.ch
@@ -26980,6 +26982,7 @@ copool.ch
 coposclean.ch
 coposreinigung.ch
 copot.ch
+copp.ch
 coppa-romana.ch
 coppa-svizzera.ch
 coppa.ch
@@ -27624,7 +27627,6 @@ corally.ch
 coralmangarosa.ch
 coralmineral.ch
 coralpes.ch
-coralpina.ch
 coralpix.ch
 coralreef.ch
 coralrocks.ch
@@ -28292,6 +28294,7 @@ corecapture.ch
 corecare.ch
 corecareflow.ch
 corecco.ch
+corecenter.ch
 corechair.ch
 corechange-coaching.ch
 corechange.ch
@@ -30055,6 +30058,7 @@ corona-testcenter-schweiz.ch
 corona-testcenter-zuerich.ch
 corona-testing.ch
 corona-testung.ch
+corona-testzentrum.ch
 corona-tips.ch
 corona-transporte.ch
 corona-viren-schutz.ch
@@ -32316,6 +32320,8 @@ cosmeticstudio-natascha.ch
 cosmeticstudio.ch
 cosmeticsundmassagen.ch
 cosmeticsurgery.ch
+cosmeticsurgeryzuerich.ch
+cosmeticsurgeryzurich.ch
 cosmeticswehntal.ch
 cosmeticswiss.ch
 cosmetictattoo.ch
@@ -35731,6 +35737,7 @@ coverbett.ch
 coverbind.ch
 coverboot.ch
 coverbox-music.ch
+coverbox.ch
 coverbrands.ch
 covercamper.ch
 covercar.ch
@@ -35799,6 +35806,8 @@ coverlift.ch
 coverlink.ch
 coverlook.ch
 coverly.ch
+coverlyapp.ch
+coverlyswiss.ch
 covermafia.ch
 covermail.ch
 covermanager.ch

@@ -42,8 +42,6 @@ ki-an-wald.ch
 ki-an.ch
 ki-analyse.ch
 ki-analysen.ch
-ki-analyses.ch
-ki-analytics.ch
 ki-analyzer.ch
 ki-anbieter.ch
 ki-anfragesystem.ch
@@ -357,6 +355,7 @@ ki-in-der-wirtschaft.ch
 ki-in-finance.ch
 ki-in-kirche.ch
 ki-in-sales.ch
+ki-index.ch
 ki-influencer.ch
 ki-influencerin.ch
 ki-informatik.ch
@@ -433,6 +432,7 @@ ki-kompetenz-zentrum.ch
 ki-kompetenz.ch
 ki-kompetenzen.ch
 ki-kompetenzgruppe.ch
+ki-kompetenzprogramm.ch
 ki-kompetenzzentrum-schweiz.ch
 ki-kompetenzzentrum.ch
 ki-komplize.ch
@@ -442,6 +442,7 @@ ki-korrektur.ch
 ki-kosmetik.ch
 ki-kraft.ch
 ki-kratie.ch
+ki-kreationen.ch
 ki-kreativ.ch
 ki-kredit.ch
 ki-kreuzfahrtplaner.ch
@@ -475,6 +476,7 @@ ki-loesungen.ch
 ki-logo.ch
 ki-lokal.ch
 ki-lotse.ch
+ki-lotsen.ch
 ki-lunch.ch
 ki-macher.ch
 ki-macht-schule.ch
@@ -726,6 +728,7 @@ ki-seo.ch
 ki-service.ch
 ki-services-fuer-unternehmen.ch
 ki-servises.ch
+ki-sh.ch
 ki-shani.ch
 ki-sheriff.ch
 ki-shiatsu.ch
@@ -830,6 +833,7 @@ ki-toolbox.ch
 ki-tools.ch
 ki-toolz.ch
 ki-tourismus.ch
+ki-trade.ch
 ki-trading-network.ch
 ki-trading.ch
 ki-trainer.ch
@@ -1199,6 +1203,7 @@ kiasorento.ch
 kiasoul.ch
 kiasportage.ch
 kiassessment.ch
+kiassistent.ch
 kiassistenz.ch
 kiastinger.ch
 kiastonic.ch
@@ -1827,6 +1832,7 @@ kidea.ch
 kideal-kitas.ch
 kideal.ch
 kidealkitas.ch
+kideat.ch
 kideate.ch
 kidecor.ch
 kidee.ch
@@ -2652,6 +2658,7 @@ kidzi.ch
 kidzino.ch
 kidzkonzept.ch
 kidzlution.ch
+kidzly.ch
 kidzmania.ch
 kidzmobil.ch
 kidzmoovearea.ch
@@ -2922,6 +2929,7 @@ kieferorthopaedie-rheinfelden.ch
 kieferorthopaedie-rheintal.ch
 kieferorthopaedie-rohrer.ch
 kieferorthopaedie-rothenburg.ch
+kieferorthopaedie-rotmonten.ch
 kieferorthopaedie-ruswil.ch
 kieferorthopaedie-sargans.ch
 kieferorthopaedie-schaffhausen.ch
@@ -3547,6 +3555,7 @@ kiimmobilien.ch
 kiimverkauf.ch
 kiimvertrieb.ch
 kiin.ch
+kiindex.ch
 kiinfluencer.ch
 kiinfluencerin.ch
 kiinformatik.ch
@@ -6904,7 +6913,6 @@ kindermusiktage.ch
 kindermusikwithbrandy.ch
 kindermusizieren.ch
 kindermut.ch
-kindern-begegnen.ch
 kindern-helfen.ch
 kindernachmittag.ch
 kindernachrichten.ch
@@ -10156,6 +10164,7 @@ kinlife4you.ch
 kinlinko.ch
 kinlo.ch
 kinly.ch
+kinlytime.ch
 kinmed.ch
 kinmotion.ch
 kinn.ch
@@ -11688,6 +11697,7 @@ kirchenchor-haegendorf.ch
 kirchenchor-haegglingen.ch
 kirchenchor-hasle.ch
 kirchenchor-henggart.ch
+kirchenchor-hildisrieden.ch
 kirchenchor-illgau.ch
 kirchenchor-inwil.ch
 kirchenchor-jonen.ch
@@ -14689,6 +14699,7 @@ kitplanes.ch
 kitpowell.ch
 kitpower.ch
 kitpro.ch
+kitrade.ch
 kitrading.ch
 kitrainer.ch
 kitraining.ch

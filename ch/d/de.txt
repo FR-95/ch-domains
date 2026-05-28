@@ -295,6 +295,7 @@ de-zytiga.ch
 de1.martronic.ch
 de2sign.ch
 de5erundsweggli.ch
+dea-and-martin-day.ch
 dea-bambini.ch
 dea-construction.ch
 dea-delices.ch
@@ -955,7 +956,6 @@ deathmat.ch
 deathmetal.ch
 deathntaxes.ch
 deathonthenilemovie.ch
-deathpeak.ch
 deathpresso.ch
 deathrider.ch
 deathrock.ch
@@ -1038,7 +1038,6 @@ debarras-meubles.ch
 debarras-meyrin.ch
 debarras-montreux.ch
 debarras-morges.ch
-debarras-multiservices.ch
 debarras-neuchatel.ch
 debarras-pro-space.ch
 debarras-restauration-neuchatel.ch
@@ -1414,6 +1413,7 @@ deborah-legler.ch
 deborah-luescher.ch
 deborah-lukas.ch
 deborah-mangold.ch
+deborah-manzato.ch
 deborah-merceron.ch
 deborah-merian.ch
 deborah-millett.ch
@@ -1472,6 +1472,7 @@ deborahlivia.ch
 deborahloosli.ch
 deborahlucarelli.ch
 deborahlyssy.ch
+deborahmanzato.ch
 deborahmarchetti.ch
 deborahmariabrunke.ch
 deborahmayer.ch
@@ -1661,7 +1662,6 @@ debue.ch
 debuechi.ch
 debuehler.ch
 debug.ch
-debugcafe.ch
 debugdeploy.ch
 debugfox.ch
 debugged.ch
@@ -2299,6 +2299,7 @@ deckgroup.ch
 deckgut.ch
 deckhengst.ch
 deckhorgen.ch
+deckig.ch
 deckisol.ch
 deckit.ch
 decklab.ch
@@ -2613,6 +2614,7 @@ decodeus.ch
 decodeyourdesign.ch
 decodeyourlife.ch
 decodia.ch
+decodial.ch
 decoding-x.ch
 decoding.ch
 decodingthedots.ch
@@ -4612,7 +4614,6 @@ defitech.ch
 defitechnique.ch
 defitelio.ch
 defitrust.ch
-defiuniverse.ch
 defivalley.ch
 defivis.ch
 defiwat.ch
@@ -4774,7 +4775,6 @@ defy.ch
 defyp.ch
 defyra.ch
 deg-ascenseurs.ch
-deg-da.ch
 dega-automobile.ch
 dega-garage.ch
 dega-immobilien.ch
@@ -5314,6 +5314,7 @@ dein-auto.ch
 dein-autoaufkleber.ch
 dein-autoberater.ch
 dein-autoexpert.ch
+dein-babel-projekt.ch
 dein-backbedarf.ch
 dein-backoffice.ch
 dein-baggererlebnis.ch
@@ -6225,7 +6226,6 @@ deine-geburtskarten.ch
 deine-gedanken-werkstatt.ch
 deine-geldgeschichte.ch
 deine-gemeinde-braucht-dich.ch
-deine-gemeinde.ch
 deine-genusswerkstatt.ch
 deine-geschenkecke.ch
 deine-geschenkidee.ch
@@ -6282,7 +6282,6 @@ deine-kraft.ch
 deine-krankenkasse.ch
 deine-kueche.ch
 deine-kunst.ch
-deine-landingpage.ch
 deine-laufbahnberatung.ch
 deine-lebensgeschichte.ch
 deine-lederhose.ch
@@ -6327,7 +6326,6 @@ deine-private-ki.ch
 deine-psychologische-hilfe.ch
 deine-pusteblume.ch
 deine-putzfrau.ch
-deine-quelle.ch
 deine-rabatte.ch
 deine-rechtsberatung.ch
 deine-region.ch
@@ -15140,7 +15138,6 @@ denuncia-corona.ch
 denuncia-provider.ch
 denunciacorona.ch
 denunterschiedmachen.ch
-denunziant.ch
 denunzianten.ch
 denuo.ch
 denura.ch
@@ -15557,6 +15554,7 @@ depanninfoge.ch
 depanninfogeneve.ch
 depanninformatique.ch
 depannservices.ch
+depano-plombier.ch
 depaola.ch
 depaoli.ch
 depaolis.ch
@@ -17244,7 +17242,6 @@ derboulevard.ch
 derboxer.ch
 derbrandschutz.ch
 derbrautschuhladen.ch
-derbre.ch
 derbreitekiosk.ch
 derbreiteraum.ch
 derbrief.ch
@@ -18999,7 +18996,6 @@ dermexpert-skincare.ch
 dermfix.ch
 dermi.ch
 dermia.ch
-dermibeauty.ch
 dermica.ch
 dermical.ch
 dermichaelbrunner.ch
@@ -21417,7 +21413,6 @@ designfrey.ch
 designfribourg.ch
 designfriends.ch
 designfront.ch
-designfuchs.ch
 designfundgrube.ch
 designfundus.ch
 designfunktion.ch
@@ -21927,7 +21922,6 @@ designundarchitektur.ch
 designundbau.ch
 designundbauprofi.ch
 designunddesign.ch
-designundgrafik-hug.ch
 designundgrafik.ch
 designundhandwerk.ch
 designundholz.ch
@@ -22111,7 +22105,6 @@ desinfektionsmittel.ch
 desinfektionsmittel24.ch
 desinfektionsmittelonline.ch
 desinfektionsmittelprodukte.ch
-desinfektionsmittelspender.ch
 desinfektionspender.ch
 desinfektionsprodukte.ch
 desinfektionsspender24.ch
@@ -23905,6 +23898,7 @@ deutsch-kurs.ch
 deutsch-kurse.ch
 deutsch-lehrer.ch
 deutsch-lernen-nachhilfe.ch
+deutsch-lernen-schweiz.ch
 deutsch-lernen-zurich.ch
 deutsch-lernen.ch
 deutsch-mit-brigitte.ch

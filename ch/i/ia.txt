@@ -293,8 +293,6 @@ iaeth.ch
 iaexpert.ch
 iaf-advantis.ch
 iaf-ag.ch
-iaf-code.ch
-iaf-impact.ch
 iaf-kampfsport.ch
 iaf-online.ch
 iaf-schulung.ch
@@ -303,11 +301,9 @@ iaf.ch
 iafa.ch
 iafactory.ch
 iafag.ch
-iafcode.ch
 iafgl.ch
 iafiduciaire.ch
 iafiduciaires.ch
-iafimpact.ch
 iafinance.ch
 iafit.ch
 iafl.ch
@@ -810,6 +806,7 @@ iaphysique.ch
 iapiaget.ch
 iapichino.ch
 iaplernakademie.ch
+iaplus-automotive.ch
 iapme.ch
 iapmesuisse.ch
 iapoly.ch

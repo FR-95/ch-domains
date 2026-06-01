@@ -31,7 +31,6 @@ ac-baumanagement.ch
 ac-bauservice.ch
 ac-bauteam.ch
 ac-beratung.ch
-ac-bioscience.ch
 ac-brandschutzfugen.ch
 ac-building.ch
 ac-businesscenter.ch
@@ -519,7 +518,6 @@ academie-ma.ch
 academie-magie-taoiste.ch
 academie-mdc.ch
 academie-michel-sogny.ch
-academie-nemesis.ch
 academie-nuances.ch
 academie-numerique.ch
 academie-opera.ch
@@ -753,7 +751,6 @@ acadyme.ch
 acadys.ch
 acadyse.ch
 acae.ch
-acaei.ch
 acaeng.ch
 acaf.ch
 acag.ch
@@ -1040,7 +1037,6 @@ acbgiovanile.ch
 acbhg.ch
 acbhygienistes.ch
 acbio.ch
-acbioscience.ch
 acbis.ch
 acbj-admin.ch
 acbj.ch
@@ -1944,6 +1940,7 @@ accordo.ch
 accordoelettricita-no.ch
 accordoelettricita-si.ch
 accordoelettricita.ch
+accordohospitality.ch
 accordomontage.ch
 accordoquadro.ch
 accordparfait.ch
@@ -3557,7 +3554,6 @@ achtsamkeit-ostschweiz.ch
 achtsamkeit-praxis.ch
 achtsamkeit-psychotherapie.ch
 achtsamkeit-qigong.ch
-achtsamkeit-raum-brugg.ch
 achtsamkeit-schweiz.ch
 achtsamkeit-sg.ch
 achtsamkeit-stgallen.ch
@@ -5941,7 +5937,6 @@ actifree.ch
 actifs-ge.ch
 actifs-seniors.ch
 actifs.ch
-actifscompta.ch
 actifservice.ch
 actifserviceinterim.ch
 actifservicemedical.ch
@@ -7482,7 +7477,6 @@ acustan.ch
 acustic-design.ch
 acustica-godel.ch
 acustica-svizzera.ch
-acustica-watches.ch
 acustica.ch
 acusticasvizzera.ch
 acusticuera.ch

@@ -823,6 +823,7 @@ widler-gartenbau-horgen.ch
 widler-gartenbau.ch
 widler-mettlen.ch
 widler-partner.ch
+widler-vermoegen.ch
 widler.ch
 widleraerzte.ch
 widlerbkk.ch
@@ -2693,6 +2694,7 @@ wikistudio.ch
 wikistyle.ch
 wikisuter.ch
 wikiswing.ch
+wikiswiss.ch
 wikit.ch
 wikitex.ch
 wikiti.ch
@@ -3206,6 +3208,7 @@ wildblumenburri.ch
 wildblumencup.ch
 wildblumendienst.ch
 wildblumenhaus.ch
+wildblumenkind.ch
 wildblumenreich.ch
 wildblumensamen.ch
 wildblumenverein.ch
@@ -3334,7 +3337,6 @@ wilde-rabauken.ch
 wilde-rheingans.ch
 wilde-schnaepse.ch
 wilde-schweizer.ch
-wilde-seelen.ch
 wilde-stimme.ch
 wilde-weiden-schweiz.ch
 wilde-weiden.ch
@@ -3939,6 +3941,7 @@ wildmatters.ch
 wildmeadows.ch
 wildmeat.ch
 wildmeister.ch
+wildmeldung.ch
 wildmen.ch
 wildmenue.ch
 wildmetallbau.ch
@@ -4452,6 +4455,7 @@ wildzaeune.ch
 wildzahm.ch
 wildzart.ch
 wildzcasino.ch
+wildzeit.ch
 wildzelten.ch
 wildzogs.ch
 wildzone.ch
@@ -4830,7 +4834,6 @@ willens.ch
 willensakademie.ch
 willensgarten.ch
 willenskompass.ch
-willenskuemmerer.ch
 willensnation.ch
 willensstark.ch
 willensvollstrecker-zuerich.ch
@@ -5857,7 +5860,6 @@ win-design.ch
 win-door.ch
 win-doors.ch
 win-e.ch
-win-electronics.ch
 win-estate.ch
 win-expert.ch
 win-fest.ch
@@ -6555,7 +6557,6 @@ windkraft-zuerich.ch
 windkraft.ch
 windkraftanlage.ch
 windkraftanlagen.ch
-windkraftgegner.ch
 windkraftgmbh.ch
 windkraftgrenchen.ch
 windkraftlogistic.ch
@@ -6680,7 +6681,6 @@ windows-center.ch
 windows-datacenter.ch
 windows-discount.ch
 windows-doktor.ch
-windows-embedded.ch
 windows-expert.ch
 windows-help.ch
 windows-hilfe.ch
@@ -6712,7 +6712,6 @@ windowsbu.ch
 windowsclientmanagement.ch
 windowscloud.ch
 windowscreen.ch
-windowsembedded.ch
 windowsensor.ch
 windowsfashion.ch
 windowsforum.ch
@@ -7119,7 +7118,9 @@ wine-space.ch
 wine-spirit.ch
 wine-spirits.ch
 wine-stocks.ch
+wine-storage-basel.ch
 wine-storage-zuerich.ch
+wine-storage-zug.ch
 wine-storage.ch
 wine-stories.ch
 wine-superstar.ch
@@ -8062,7 +8063,6 @@ winiger.ch
 winigerconsulting.ch
 winigerdetailing.ch
 winigerfamily.ch
-winigergeobiologie.ch
 winigerhorloger.ch
 winigerhorlogers.ch
 winigerischmeh.ch
@@ -11768,7 +11768,6 @@ wirkungspartner.ch
 wirkungsprofil.ch
 wirkungspunkt.ch
 wirkungsraum.ch
-wirkungsreich.ch
 wirkungsspieler.ch
 wirkungsstark.ch
 wirkungsvoll.ch
@@ -13062,7 +13061,6 @@ wischimalerei.ch
 wischiwaschi.ch
 wischjuwel.ch
 wischmann.ch
-wischmaschinen.ch
 wischmi.ch
 wischmob.ch
 wischmobb.ch
@@ -14546,7 +14544,6 @@ wix-website.ch
 wix.ch
 wixbox.ch
 wixcam.ch
-wixdireinen.ch
 wixeid.ch
 wixen.ch
 wixer.ch

@@ -2696,18 +2696,15 @@ blattbalance.ch
 blattbau.ch
 blatten-belalp.ch
 blatten-elektrisiert.ch
-blatten-erinnerung.ch
 blatten-forever.ch
 blatten-hilfe.ch
 blatten-panthers.ch
 blatten-vs.ch
 blatten-zermatt.ch
 blatten.ch
-blatten2025.ch
 blatten2030.ch
 blatten24.ch
 blatten4you.ch
-blattenarchiv.ch
 blattenduerren.ch
 blattengarage.ch
 blattenhalden.ch
@@ -6180,6 +6177,7 @@ blockrock.ch
 blocks-bits.ch
 blocks-bricks-bits.ch
 blocks-bricks.ch
+blocks.ch
 blocksatz.ch
 blocksauna.ch
 blocksberg.ch
@@ -6219,7 +6217,6 @@ blockswiss.ch
 blocktakt.ch
 blocktdi.ch
 blocktech.ch
-blocktechnical.ch
 blocktempus.ch
 blockticker.ch
 blocktime.ch
@@ -6522,7 +6519,6 @@ blogpolitica.ch
 blogpost.ch
 blogprotestant.ch
 blogpunkteplus.ch
-blograum.ch
 blogrea.ch
 blogredaction.ch
 blogrencontre.ch
@@ -7157,6 +7153,7 @@ blossomtoserenity.ch
 blossomwell.ch
 blossomyoga.ch
 blossomyou.ch
+blossy.ch
 blot.ch
 blota.ch
 blotphysio.ch
@@ -9111,7 +9108,6 @@ blueparking.ch
 blueparrott.ch
 bluepass.ch
 bluepath.ch
-bluepawn.ch
 bluepay.ch
 bluepc.ch
 bluepeace-centralasia.ch

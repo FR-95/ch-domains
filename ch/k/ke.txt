@@ -2264,6 +2264,7 @@ kellervital.ch
 kellervonarxpartner.ch
 kellervonarxundpartner.ch
 kellerwasser.ch
+kellerweb.ch
 kellerweid.ch
 kellerweihnachten.ch
 kellerweine.ch
@@ -3103,7 +3104,6 @@ kenshoshiatsu.ch
 kensing.ch
 kensingfield.ch
 kensington-immobilien.ch
-kensington-international.ch
 kensington-karriere.ch
 kensington.ch
 kenso.ch
@@ -4053,7 +4053,6 @@ kernbohrarbeiten.ch
 kernbohren-zuerich.ch
 kernbohren.ch
 kernbohrexpress.ch
-kernbohrmaschinen.ch
 kernbohrprofi.ch
 kernbohrservice.ch
 kernbohrshop.ch
@@ -6090,6 +6089,7 @@ keymember.ch
 keymemo.ch
 keymens.ch
 keymetrics.ch
+keymgmt.ch
 keymil.ch
 keymkr.ch
 keymo-gmbh.ch
@@ -6250,7 +6250,6 @@ keystash.ch
 keyste.ch
 keysteps.ch
 keystone-ag.ch
-keystone-ats-direct.ch
 keystone-ats.ch
 keystone-capital.ch
 keystone-corp.ch

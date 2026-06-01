@@ -1164,7 +1164,6 @@ eft-lernen.ch
 eft-luzern.ch
 eft-neuchatel.ch
 eft-officiel.ch
-eft-optimal.ch
 eft-ostschweiz.ch
 eft-paartherapie.ch
 eft-pe.ch
@@ -1219,7 +1218,6 @@ eftjunior-senior.ch
 eftlernen.ch
 eftnet.ch
 eftofficiel.ch
-eftoptimal.ch
 eftours.ch
 eftown.ch
 eftpaartherapie.ch

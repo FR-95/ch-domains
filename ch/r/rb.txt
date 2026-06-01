@@ -141,7 +141,6 @@ rb1.ch
 rb10.ch
 rb12.ch
 rb17.ch
-rb2.ch
 rb21.ch
 rb24.ch
 rb2a.ch

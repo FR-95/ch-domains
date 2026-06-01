@@ -717,7 +717,6 @@ zahlenklar-buchhaltung.ch
 zahlenklar.ch
 zahlenklinik.ch
 zahlenkoch.ch
-zahlenkoenig.ch
 zahlenkompass.ch
 zahlenkraft.ch
 zahlenkueche.ch
@@ -1038,7 +1037,6 @@ zahnaerzte-hasenberg.ch
 zahnaerzte-heimberg.ch
 zahnaerzte-herisau.ch
 zahnaerzte-hersberger.ch
-zahnaerzte-hirzel-horgen.ch
 zahnaerzte-huldi-duran.ch
 zahnaerzte-im-zentrum.ch
 zahnaerzte-in-basel.ch
@@ -1212,8 +1210,6 @@ zahnaerztin-bern.ch
 zahnaerztin-brunnen.ch
 zahnaerztin-buelach.ch
 zahnaerztin-greifensee.ch
-zahnaerztin-hirzel-horgen.ch
-zahnaerztin-horgen-hirzel.ch
 zahnaerztin-ilanz.ch
 zahnaerztin-jess.ch
 zahnaerztin-liestal.ch
@@ -1685,7 +1681,6 @@ zahnarzt-herzogenbuchsee.ch
 zahnarzt-hess.ch
 zahnarzt-heusser.ch
 zahnarzt-hinwil.ch
-zahnarzt-hirzel-horgen.ch
 zahnarzt-hitzkirch.ch
 zahnarzt-hobi.ch
 zahnarzt-hoefe-adliswil.ch
@@ -2944,7 +2939,6 @@ zahnarztpraxis-heuwaage.ch
 zahnarztpraxis-hildisrieden.ch
 zahnarztpraxis-hinterkappelen.ch
 zahnarztpraxis-hinwil.ch
-zahnarztpraxis-hirzel-horgen.ch
 zahnarztpraxis-hofgarten.ch
 zahnarztpraxis-hofmann.ch
 zahnarztpraxis-holzer.ch
@@ -2958,7 +2952,6 @@ zahnarztpraxis-husi.ch
 zahnarztpraxis-in-bern.ch
 zahnarztpraxis-ingenbohl.ch
 zahnarztpraxis-iwanski.ch
-zahnarztpraxis-jegenstorf.ch
 zahnarztpraxis-jonaport.ch
 zahnarztpraxis-jonasch.ch
 zahnarztpraxis-jordi.ch
@@ -5198,7 +5191,6 @@ zanderpizzababy.ch
 zanders-consulting.ch
 zanders.ch
 zandersconsulting.ch
-zandershop.ch
 zanderspezialitaeten.ch
 zandertactical.ch
 zandi.ch

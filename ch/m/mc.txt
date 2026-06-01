@@ -914,7 +914,6 @@ mcga.ch
 mcgadmin.ch
 mcgaholding.ch
 mcgallus.ch
-mcgame.ch
 mcgames.ch
 mcgarage.ch
 mcgaragen.ch
@@ -1297,7 +1296,6 @@ mcm-creation.ch
 mcm-events.ch
 mcm-fiduciaire.ch
 mcm-garage.ch
-mcm-goalkeeping.ch
 mcm-group.ch
 mcm-gt.ch
 mcm-handwerk.ch

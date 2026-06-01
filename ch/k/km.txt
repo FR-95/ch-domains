@@ -9,7 +9,6 @@ km-construction.ch
 km-consult.ch
 km-consulting-suisse.ch
 km-consulting.ch
-km-cosmetics.ch
 km-decor.ch
 km-deli.ch
 km-design.ch
@@ -52,7 +51,6 @@ km-realestate.ch
 km-renovations.ch
 km-s.ch
 km-sandbox.ch
-km-sarchitectes.ch
 km-self-defense.ch
 km-service.ch
 km-sg.ch
@@ -832,7 +830,6 @@ kmu-nachhaltigkeit.ch
 kmu-nachhaltigkeitsbericht.ch
 kmu-navigator.ch
 kmu-net.ch
-kmu-networking.ch
 kmu-netz.ch
 kmu-netzwerk-graubuenden.ch
 kmu-netzwerk-heidiland.ch
@@ -1149,7 +1146,6 @@ kmuapp.ch
 kmuappstore.ch
 kmuarchiv.ch
 kmuassist.ch
-kmuassistent.ch
 kmuassistenz.ch
 kmuatelier.ch
 kmuaudit.ch

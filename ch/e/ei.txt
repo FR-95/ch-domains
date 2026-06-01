@@ -1829,7 +1829,6 @@ eimfootball.ch
 eimimmo.ch
 eimklg.ch
 eimm.ch
-eimmo.ch
 eimmobilie.ch
 eimmobilien.ch
 eimmobilier.ch
@@ -2154,7 +2153,6 @@ einduo.ch
 eine-art-therapie.ch
 eine-chance-schenken.ch
 eine-chance.ch
-eine-ecke-schoener.ch
 eine-empfehlung.ch
 eine-ente.ch
 eine-erde.ch
@@ -2670,7 +2668,6 @@ einfache-sprache-basel.ch
 einfache-sprache.ch
 einfache-texte.ch
 einfache-webseite.ch
-einfache-website.ch
 einfache-zeiterfassung.ch
 einfachearbeit.ch
 einfacheasy.ch
@@ -5286,6 +5283,9 @@ eishockeytraining.ch
 eishockeytrainingslager.ch
 eishockeytrikot.ch
 eishockeyturnierebasel.ch
+eishockeyweltmeister.ch
+eishockeyweltmeister2026.ch
+eishockeyweltmeister26.ch
 eishome.ch
 eisi-treuhand.ch
 eisi.ch

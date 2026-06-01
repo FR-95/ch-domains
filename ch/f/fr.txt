@@ -493,6 +493,7 @@ frag-maria.ch
 frag-mark.ch
 frag-nina.ch
 frag-oskar.ch
+frag-patrick.ch
 frag-pirkko.ch
 frag-pirmin.ch
 frag-shifu.ch
@@ -1574,7 +1575,6 @@ francinedefferrard.ch
 francinedelcoso.ch
 francinedereynier.ch
 francinedupraz.ch
-francineetter.ch
 francinehertrampf.ch
 francinejordi.ch
 francineluethi.ch
@@ -3446,6 +3446,7 @@ fratelli-salsiccia.ch
 fratelli.ch
 fratelli1920.ch
 fratelliadv.ch
+fratellialbertolli.ch
 fratellib.ch
 fratelliberetta.ch
 fratelliberettasa.ch
@@ -4268,7 +4269,6 @@ frauenfeld-city.ch
 frauenfeld-events.ch
 frauenfeld-fitness.ch
 frauenfeld-fotos.ch
-frauenfeld-garten.ch
 frauenfeld-goldankauf.ch
 frauenfeld-guide.ch
 frauenfeld-kieferorthopaedie.ch
@@ -5439,7 +5439,6 @@ frautaschli.ch
 frautext.ch
 frauthentisch.ch
 frautolis.ch
-frautrifftfrau.ch
 frautschi-christian.ch
 frautschi-sport.ch
 frautschi.ch
@@ -5704,7 +5703,6 @@ frebooks.ch
 frebu.ch
 frec.ch
 frecat.ch
-frecc.ch
 freccegialle.ch
 freccetricolorifanclub127.ch
 frecciarossa.ch
@@ -7602,7 +7600,6 @@ freesmart.ch
 freesmoke.ch
 freesms.ch
 freesms4u.ch
-freesnowsattel.ch
 freesnus.ch
 freeso.ch
 freesoft.ch
@@ -9206,7 +9203,6 @@ freihof-farm.ch
 freihof-flowers.ch
 freihof-garage.ch
 freihof-gastro.ch
-freihof-germen.ch
 freihof-goldingen.ch
 freihof-hinwil.ch
 freihof-horgen.ch
@@ -10183,6 +10179,7 @@ freizeitpass-vdt.ch
 freizeitpass.ch
 freizeitpfad.ch
 freizeitpferde.ch
+freizeitpiraten.ch
 freizeitplan.ch
 freizeitplaner.ch
 freizeitplanung.ch
@@ -11461,7 +11458,6 @@ freudeambewirken.ch
 freudeamdetail.ch
 freudeamfahren.ch
 freudeamgarten.ch
-freudeamhandwerk.ch
 freudeamheute.ch
 freudeamholz.ch
 freudeamhund.ch
@@ -12915,7 +12911,6 @@ fricomfort.ch
 fricomics.ch
 fricompost.ch
 friconfisch.ch
-fricons.ch
 fricopy.ch
 fricot.ch
 fricsay.ch
@@ -13559,7 +13554,6 @@ friedrich-goebber.ch
 friedrich-haener.ch
 friedrich-hebeisen.ch
 friedrich-immo.ch
-friedrich-immobilien.ch
 friedrich-kaffeehaus.ch
 friedrich-lift.ch
 friedrich-motorsport.ch
@@ -14376,7 +14370,6 @@ frinapse.ch
 frinat.ch
 frinbe.ch
 frinch.ch
-frindlo.ch
 frindscout.ch
 frindscout24.ch
 frindt.ch
@@ -16522,6 +16515,7 @@ frontlinepublishing.ch
 frontliner.ch
 frontliners.ch
 frontlineshop.ch
+frontlinesocialwork.ch
 frontlinetv.ch
 frontlinework.ch
 frontloop.ch

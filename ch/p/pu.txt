@@ -692,7 +692,6 @@ publionline.ch
 publionline24.ch
 publipack.ch
 publipage.ch
-publipark.ch
 publipass.ch
 publiphone.ch
 publipix.ch
@@ -2347,7 +2346,6 @@ pumps.ch
 pumpselector.ch
 pumpservice.ch
 pumpsking.ch
-pumpsociety.ch
 pumpsolutions.ch
 pumpspots.ch
 pumpsprueher.ch
@@ -2754,6 +2752,7 @@ punktlandung-polizei.ch
 punktlandung-sprachdienstleistungen.ch
 punktlandung.ch
 punktli.ch
+punktlichreisen.ch
 punktlicht.ch
 punktlogos.ch
 punktly.ch
@@ -3223,7 +3222,6 @@ pur-tec.ch
 pur-turf.ch
 pur-und-schoen.ch
 pur.ch
-pur24.ch
 pura-bagno.ch
 pura-bellezza.ch
 pura-culina.ch
@@ -3613,6 +3611,7 @@ pure-jasmin.ch
 pure-joy.ch
 pure-kinesiologie.ch
 pure-kiss.ch
+pure-lab.ch
 pure-lebensfreude.ch
 pure-leichtigkeit.ch
 pure-life.ch
@@ -3689,8 +3688,6 @@ pure-simple.ch
 pure-skin-cosmetics.ch
 pure-skin.ch
 pure-sleep.ch
-pure-smoothie.ch
-pure-smoothies.ch
 pure-snowboard.ch
 pure-snowboarding.ch
 pure-snowboardrental.ch
@@ -4359,7 +4356,6 @@ puresleben.ch
 puresleep.ch
 puresmile.ch
 puresmilemontreux.ch
-puresmoothie.ch
 puresocial.ch
 puresolution.ch
 puresolutions.ch
@@ -4879,6 +4875,7 @@ purplefish.ch
 purpleflamecosmetics.ch
 purpleflowers.ch
 purplefox.ch
+purplegato.ch
 purpleglow.ch
 purplegreen.ch
 purplegreens.ch

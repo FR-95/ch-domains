@@ -2270,6 +2270,7 @@ skillcloud.ch
 skillclub.ch
 skillcoa.ch
 skillcoach.ch
+skillcode.ch
 skillcorner.ch
 skillcraft.ch
 skillcube.ch
@@ -3197,7 +3198,6 @@ skinstory.ch
 skinstudiobeautyinstitute.ch
 skinstylus.ch
 skinsupply.ch
-skinsurfing.ch
 skinsurgery.ch
 skinswisscenter.ch
 skinte.ch
@@ -5800,7 +5800,7 @@ skypad.ch
 skypanel.ch
 skypano.ch
 skypanorama.ch
-skyparapente.ch
+skypara.ch
 skypark.ch
 skyparts.ch
 skypass.ch

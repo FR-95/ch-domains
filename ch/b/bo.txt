@@ -211,6 +211,7 @@ boardadvisor.ch
 boardadvisors.ch
 boardadvisory.ch
 boardagent.ch
+boardagents.ch
 boardanchor.ch
 boardapp.ch
 boardaudit.ch
@@ -1548,7 +1549,6 @@ boden-traum.ch
 boden-trend.ch
 boden-trittsicherheit.ch
 boden-uri.ch
-boden-verkauf.ch
 boden-verlegen.ch
 boden-verleger.ch
 boden-verlegerservice.ch
@@ -3355,7 +3355,6 @@ bodypaintingschweiz.ch
 bodypaintingswiss.ch
 bodypalace.ch
 bodypane.ch
-bodyparts.ch
 bodypass-shop.ch
 bodypass.ch
 bodypath.ch
@@ -5794,7 +5793,6 @@ bolay-metallbau.ch
 bolay-psychotherapie.ch
 bolay.ch
 bolayfils.ch
-bolaymanagement.ch
 bolaysa.ch
 bolba.ch
 bolberatungen.ch
@@ -6849,6 +6847,7 @@ bombo-svizzero.ch
 bombo.ch
 bombogalo.ch
 bombogn.ch
+bomboko.ch
 bombom.ch
 bombon.ch
 bombona.ch
@@ -14031,7 +14030,6 @@ bottomline.ch
 bottomorchestra.ch
 bottomsup.ch
 bottomsupbeer.ch
-bottomtotop.ch
 bottomup.ch
 bottomupbeer.ch
 bottomupdemocracy.ch
@@ -14250,7 +14248,6 @@ boucherie-paupe.ch
 boucherie-peguiron.ch
 boucherie-penel.ch
 boucherie-perroud.ch
-boucherie-pierrefleur.ch
 boucherie-prelaz.ch
 boucherie-preville.ch
 boucherie-rawyl.ch
@@ -15054,7 +15051,6 @@ bounous-avocats.ch
 bounthai.ch
 bounties.ch
 bountiful.ch
-bountifulliving.ch
 bountouvis.ch
 bounty-prinzip.ch
 bounty.ch
@@ -15610,6 +15606,7 @@ boutique-jeux.ch
 boutique-john-cador.ch
 boutique-jourdefete.ch
 boutique-jura.ch
+boutique-k.ch
 boutique-klima.ch
 boutique-kreuzfahrt.ch
 boutique-kreuzfahrten.ch
@@ -16693,7 +16690,6 @@ boxconcept.ch
 boxconnect.ch
 boxconsulting.ch
 boxcontainer.ch
-boxcovery.ch
 boxcrm.ch
 boxcryptor.ch
 boxd.ch
@@ -16948,7 +16944,6 @@ boxingteamittigen.ch
 boxingteamluganese.ch
 boxingtherapie.ch
 boxingtherapy.ch
-boxingtouch.ch
 boxingtown.ch
 boxingtraining.ch
 boxingtype.ch

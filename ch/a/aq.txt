@@ -124,7 +124,6 @@ aqstudio.ch
 aqswissinvest.ch
 aqswissvalue.ch
 aqt.ch
-aqt3.ch
 aqte.ch
 aqtec-ag.ch
 aqtis.ch
@@ -804,7 +803,6 @@ aqualibre.ch
 aqualibur.ch
 aqualide.ch
 aqualife.ch
-aqualift-systems.ch
 aqualift.ch
 aqualiftindustrie.ch
 aqualight.ch
@@ -1308,6 +1306,7 @@ aquariumundteich.ch
 aquariumundteichag.ch
 aquariumvoegeli.ch
 aquariumwelt.ch
+aquariumwissen.ch
 aquariumwracks.ch
 aquariurs.ch
 aquarius-analytic.ch
@@ -1922,7 +1921,6 @@ aqw.ch
 aqwa-filter.ch
 aqwa-session.ch
 aqwa.ch
-aqwaitineris.ch
 aqwasession.ch
 aqwavit.ch
 aqwiss.ch

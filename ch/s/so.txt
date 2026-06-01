@@ -401,6 +401,7 @@ soaringfly.ch
 soaringmeteo.ch
 soaringspirit.ch
 soaringwings.ch
+soarr.ch
 soarsavvy.ch
 soarsociety.ch
 soary.ch
@@ -417,6 +418,7 @@ soazza-livecam.ch
 soazza.ch
 soazza24.ch
 sob-consulting.ch
+sob-i.ch
 sob-krimi.ch
 sob-learning.ch
 sob-npz.ch
@@ -770,6 +772,7 @@ soccerturnier.ch
 soccertutor.ch
 soccertypes.ch
 soccerwat.ch
+soccerway.ch
 soccerworld.ch
 soccerxp.ch
 socceryou.ch
@@ -1542,7 +1545,6 @@ socialqualitycenter.ch
 socialqualityclub.ch
 socialqualityforum.ch
 socialqualityhub.ch
-socialqualle.ch
 socialradar.ch
 socialrea.ch
 socialreach.ch
@@ -3407,6 +3409,7 @@ softeka.ch
 softel.ch
 softelearn.ch
 softelement.ch
+softella.ch
 soften.ch
 softener.ch
 softenergy.ch
@@ -4776,7 +4779,6 @@ soins-longueduree.ch
 soins-mindfullness.ch
 soins-mindfulness.ch
 soins-mortuaires.ch
-soins-musique-dyslexie.ch
 soins-nagomi.ch
 soins-naturels.ch
 soins-naturels1.ch
@@ -4943,7 +4945,6 @@ sois-curieux.ch
 sois-net.ch
 sois-ose.ch
 sois-prudent.ch
-sois-toi.ch
 sois.ch
 soisbelle.ch
 soischdelebe.ch
@@ -6689,7 +6690,6 @@ solarfreeze.ch
 solarfreiamt.ch
 solarfreunde.ch
 solarfricktal.ch
-solarfritz.ch
 solarfrosch.ch
 solarfruend.ch
 solarfuchs.ch
@@ -7496,7 +7496,10 @@ solarreinigung-ostschweiz.ch
 solarreinigung-profis.ch
 solarreinigung-schweiz.ch
 solarreinigung-steffen.ch
+solarreinigung-stgallen.ch
 solarreinigung-winterthur.ch
+solarreinigung-zuerich.ch
+solarreinigung-zug.ch
 solarreinigung-zurich.ch
 solarreinigung24.ch
 solarreinigungen.ch
@@ -8105,7 +8108,6 @@ solcheck.ch
 solcia.ch
 solcircle.ch
 solcito.ch
-solcity.ch
 solclean.ch
 solcleaner.ch
 solclear.ch
@@ -8761,7 +8763,6 @@ solgel.ch
 solgema.ch
 solgeo.ch
 solgest.ch
-solgips.ch
 solgold.ch
 solgreen.ch
 solgroup.ch
@@ -8988,6 +8989,7 @@ solidaritaetsaktion.ch
 solidaritaetsaktionfuermutterundkind.ch
 solidaritaetsausweis.ch
 solidaritaetsbeitrag.ch
+solidaritaetsbruecke-ukraine-schweiz.ch
 solidaritaetsfond.ch
 solidaritaetsfonds.ch
 solidaritaetshaus.ch
@@ -9026,6 +9028,7 @@ solidaritemoutier-rwanda.ch
 solidaritendem.ch
 solidaritepaysans.ch
 solidarites-ge.ch
+solidarites-tchado-suisse.ch
 solidarites.ch
 solidarites2020.ch
 solidarites2023.ch
@@ -9433,6 +9436,7 @@ solit-kapital.ch
 solit.ch
 solita.ch
 solitaer-technologie.ch
+solitaer.ch
 solitaerfindling.ch
 solitaerstauden.ch
 solitair.ch
@@ -10024,6 +10028,7 @@ solothurnermusikschulen.ch
 solothurnermusiktage.ch
 solothurnernachrichten.ch
 solothurnernotare.ch
+solothurnerpopchor.ch
 solothurnerrundschau.ch
 solothurnersafran.ch
 solothurnershop.ch
@@ -10771,6 +10776,7 @@ solutions-solaire-edf.ch
 solutions-solaires-edf.ch
 solutions-sols.ch
 solutions-srd.ch
+solutions-succession.ch
 solutions-suisse.ch
 solutions-swiss.ch
 solutions-talent.ch
@@ -11045,7 +11051,6 @@ solveed.ch
 solveex.ch
 solvefortomorrow.ch
 solveg.ch
-solvegate.ch
 solvego.ch
 solveig-aleksandraphotography.ch
 solveig-berg.ch
@@ -11265,7 +11270,6 @@ solyluna-beauty.ch
 solyluna-energies.ch
 solyluna-photography.ch
 solyluna-therapies.ch
-solyluna.ch
 solyma.ch
 solymar-music.ch
 solymar-reinigungen.ch
@@ -11596,6 +11600,7 @@ somavibe.ch
 somavita.ch
 somawalk.ch
 somawave.ch
+somawear.ch
 somaweine.ch
 somawonglamdab.ch
 somawork.ch
@@ -11699,6 +11704,7 @@ someko-secoss.ch
 someko.ch
 somel.ch
 somelikeitfrench.ch
+somema.ch
 somemail.ch
 somemoms.ch
 somena.ch
@@ -15966,7 +15972,6 @@ sophiesmom.ch
 sophiesnadelspiel.ch
 sophiesolo.ch
 sophiesophie.ch
-sophiespasta.ch
 sophiesprugasci.ch
 sophiesreinigungen.ch
 sophiesreise.ch
@@ -17569,6 +17574,7 @@ sos-shops.ch
 sos-sicherheit.ch
 sos-sicherheitstechnik.ch
 sos-sinusitis.ch
+sos-sion.ch
 sos-smart.ch
 sos-software.ch
 sos-solaire.ch
@@ -17724,6 +17730,7 @@ soscbd.ch
 soschats.ch
 soschatzsuche.ch
 soschauffage.ch
+soschienspolaires.ch
 soschildrensvillages.ch
 soschmuck.ch
 soschoen.ch
@@ -18487,7 +18494,6 @@ soul-2-soul.ch
 soul-academy.ch
 soul-access.ch
 soul-acrobatics.ch
-soul-age.ch
 soul-aligned.ch
 soul-and-colours.ch
 soul-angel.ch
@@ -18840,7 +18846,6 @@ soulflowartwear.ch
 soulflower-schenker-verein.ch
 soulflowers.ch
 soulflowerschenker.ch
-soulflowjs.ch
 soulflowpascalejosi.ch
 soulflowtattoo.ch
 soulfluence.ch
@@ -18884,7 +18889,6 @@ soulfuledit.ch
 soulfulemotion.ch
 soulfulhome.ch
 soulfulhorse.ch
-soulfulhouse.ch
 soulfuljourney.ch
 soulfullife.ch
 soulfullinen.ch
@@ -19821,7 +19825,6 @@ soundplus.ch
 soundpool.ch
 soundpost.ch
 soundpro.ch
-soundprogress.ch
 soundproject.ch
 soundpromotion.ch
 soundproof.ch
@@ -20275,7 +20278,6 @@ souriredesoleil.ch
 souriredesyeux.ch
 sourireenville.ch
 sourireplus.ch
-souriresdefemmes.ch
 souriresdusaloum.ch
 sourireverslavenir.ch
 souris-dor.ch
@@ -21378,7 +21380,6 @@ soziale-kompetenz.ch
 soziale-medien.ch
 soziale-mitte.ch
 soziale-musik.ch
-soziale-phobie.ch
 soziale-plastik.ch
 soziale-produkte.ch
 soziale-rendite.ch

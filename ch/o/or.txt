@@ -817,6 +817,7 @@ orbit-6.ch
 orbit-ag.ch
 orbit-asset.ch
 orbit-cloud.ch
+orbit-consulting.ch
 orbit-crm.ch
 orbit-for-life.ch
 orbit-gum.ch
@@ -1337,7 +1338,6 @@ ord-hackathon.ch
 ord-ix.ch
 ord.ch
 orda.ch
-ordaf.ch
 ordalis.ch
 ordan.ch
 ordana.ch
@@ -2130,7 +2130,6 @@ org-zuerich.ch
 org.ch
 org1464.ch
 org4events.ch
-org4millennials.ch
 org4nx.ch
 org4you.ch
 orga-consult.ch
@@ -2150,7 +2149,6 @@ orgadata.ch
 orgaderm.ch
 orgadesign.ch
 orgadmin.ch
-orgadog.ch
 orgadvance.ch
 orgaenic-academy.ch
 orgaenic.ch
@@ -2239,7 +2237,6 @@ organic-garden.ch
 organic-hair.ch
 organic-haircare.ch
 organic-hairstudio.ch
-organic-hemp.ch
 organic-herbs.ch
 organic-hotels-certified.ch
 organic-jewellery.ch
@@ -2487,7 +2484,6 @@ organisazia.ch
 organisch.ch
 organischdenken.ch
 organische-architektur.ch
-organische-aufstellung.ch
 organische-chemie.ch
 organischeintelligenz.ch
 organisches-kalzium.ch
@@ -2532,7 +2528,6 @@ organixfood.ch
 organiz.ch
 organizaa.ch
 organizable.ch
-organizactions.ch
 organizactionsconseil.ch
 organizasyon.ch
 organization-therapy.ch
@@ -3310,6 +3305,7 @@ origin-sense.ch
 origin-store.ch
 origin-studio.ch
 origin-swiss.ch
+origin-water.ch
 origin.ch
 origin3.ch
 origin8.ch
@@ -3381,7 +3377,6 @@ original-raeder.ch
 original-ragdoll.ch
 original-reflet.ch
 original-regional.ch
-original-retos.ch
 original-sa.ch
 original-sango-korallen.ch
 original-schweizer-messer.ch
@@ -3445,7 +3440,6 @@ originalcooking.ch
 originalcup.ch
 originaldesign.ch
 originaldrspengler.ch
-originaldumaroc.ch
 originaldzodzet.ch
 originale-galerie.ch
 originale-murten.ch
@@ -3514,7 +3508,6 @@ originalposters.ch
 originalpress.ch
 originalpriligy.ch
 originalrad.ch
-originalretos.ch
 originals-salon.ch
 originals.ch
 originalsandco.ch
@@ -3621,6 +3614,7 @@ originti.ch
 originum.ch
 originv.ch
 originvine.ch
+originwater.ch
 originwealth.ch
 originwine.ch
 originz.ch

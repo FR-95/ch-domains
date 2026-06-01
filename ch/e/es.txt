@@ -840,7 +840,6 @@ escapesquad.ch
 escapestore.ch
 escapestories.ch
 escapestory.ch
-escapestv.ch
 escapeswiss.ch
 escapetalk.ch
 escapetheatre.ch
@@ -1386,6 +1385,7 @@ escort4fun.ch
 escort4ladies.ch
 escort4me.ch
 escort4my.ch
+escort4u.ch
 escort4you.ch
 escort6.ch
 escort66.ch
@@ -1989,7 +1989,6 @@ esg-boerse.ch
 esg-bonus.ch
 esg-campus.ch
 esg-carboncredits-direct.ch
-esg-careers.ch
 esg-co2-zertifikate.ch
 esg-cockpit.ch
 esg-complete.ch
@@ -2230,7 +2229,6 @@ eshoot.ch
 eshop-cslatour.ch
 eshop-fcpc.ch
 eshop-fcvignoble.ch
-eshop-gourmand.ch
 eshop-it.ch
 eshop-itsolutions.ch
 eshop-pandinavia.ch
@@ -2249,14 +2247,12 @@ eshop1.ch
 eshop24.ch
 eshop365.ch
 eshop4.ch
-eshop4you.ch
 eshopandplay.ch
 eshopbuilder.ch
 eshope.ch
 eshopemfffm26.ch
 eshopen.ch
 eshopfribourg.ch
-eshopgourmand.ch
 eshophekuro.ch
 eshopino.ch
 eshopnet.ch
@@ -3312,7 +3308,6 @@ espace-zen.ch
 espace-zeniors.ch
 espace-zigzag.ch
 espace.ch
-espace132.ch
 espace1606.ch
 espace1h.ch
 espace1to1energy.ch
@@ -3540,7 +3535,6 @@ espacefusterie.ch
 espacegabert.ch
 espacegaea.ch
 espacegaertner.ch
-espaceganesh.ch
 espacegarde.ch
 espacegere.ch
 espacegourmand.ch
@@ -3925,6 +3919,7 @@ espacite-cdf.ch
 espacite.ch
 espacito.ch
 espaco.ch
+espacolemanbrasil.ch
 espacom.ch
 espacore-reinigung.ch
 espacore.ch

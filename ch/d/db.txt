@@ -35,6 +35,7 @@ db-bootswerft.ch
 db-boutiques.ch
 db-c.ch
 db-ca.ch
+db-campaigns.ch
 db-care.ch
 db-cargo.ch
 db-cars.ch

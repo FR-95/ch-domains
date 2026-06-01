@@ -695,7 +695,6 @@ dealradar.ch
 dealrakete.ch
 dealrebels.ch
 dealroom.ch
-dealry.ch
 deals-2-go.ch
 deals-4-2-wheels.ch
 deals-arena.ch
@@ -1192,7 +1191,6 @@ debesiscapital.ch
 debest.ch
 debesti.ch
 debet.ch
-debetcard.ch
 debetek.ch
 debethune-resonique.ch
 debethune.ch
@@ -3766,7 +3764,6 @@ deeperchess.ch
 deepermindfulness.ch
 deeperquest.ch
 deeperricherwilder.ch
-deepersoul.ch
 deepertone.ch
 deepestate.ch
 deepestdarkestswitzerland.ch
@@ -3834,7 +3831,6 @@ deepinference.ch
 deepinfo.ch
 deepinfos.ch
 deepinity.ch
-deepinside.ch
 deepinvest.ch
 deepit.ch
 deepjudge.ch
@@ -5427,7 +5423,6 @@ dein-fachhandel.ch
 dein-fahrberater.ch
 dein-fahrer.ch
 dein-fahrlehrer.ch
-dein-fahrwerk.ch
 dein-fahrzeug.ch
 dein-familienkompass.ch
 dein-feierabend.ch
@@ -5593,6 +5588,7 @@ dein-lead.ch
 dein-leben-jetzt.ch
 dein-lebens-drehbuch.ch
 dein-lebensbuch.ch
+dein-lebensgefuehl.ch
 dein-lebenslauf.ch
 dein-lebensplan.ch
 dein-lebenssinn.ch
@@ -5621,7 +5617,6 @@ dein-marketing-coach.ch
 dein-marketingcoach.ch
 dein-marktplatz.ch
 dein-marktwert.ch
-dein-massage.ch
 dein-masseur.ch
 dein-matratzenshop.ch
 dein-matratzenshop24.ch
@@ -5798,7 +5793,6 @@ dein-spiel.ch
 dein-spielfeld.ch
 dein-spielplatz.ch
 dein-spiritueller-weg.ch
-dein-sportauspuff.ch
 dein-sprungbrett.ch
 dein-spurwechsel.ch
 dein-standort.ch
@@ -6596,7 +6590,6 @@ deinelebensberatung.ch
 deinelebensenergie.ch
 deinelebensentscheidung.ch
 deinelebensentscheidungen.ch
-deinelebensgeschichte.ch
 deinelebensmelodie.ch
 deinelebensschule.ch
 deinelehre-deinegeschichte.ch
@@ -6874,6 +6867,7 @@ deinfreiraum.ch
 deinfreund.ch
 deinfreundeskreis.ch
 deinfriseur.ch
+deinfundstueck.ch
 deinfuss.ch
 deinfussabdruck.ch
 deinfutter.ch
@@ -7785,6 +7779,7 @@ dejschmi.ch
 dejung-avci.ch
 dejung.ch
 dejungavci.ch
+dejungavcidefalco.ch
 dejure.ch
 dejureccj.ch
 dejurelemag.ch
@@ -8686,6 +8681,7 @@ delegiertentag.ch
 delegio.ch
 delegis.ch
 deleglise.ch
+delego.ch
 delegon.ch
 delegue-admin.ch
 deleguer.ch
@@ -9206,7 +9202,6 @@ deligrow.ch
 delihasani.ch
 delihealth.ch
 deliinka.ch
-delija-allrounder.ch
 delija-peinture.ch
 delija.ch
 delijagroup-gmbh.ch
@@ -10009,7 +10004,6 @@ delphinelebrun.ch
 delphinelin-photographie.ch
 delphinelin.ch
 delphinemalapert.ch
-delphinemarchetti.ch
 delphinemeyer.ch
 delphinemoennat.ch
 delphinepapilloud.ch
@@ -10924,7 +10918,6 @@ delwag.ch
 delweb.ch
 delwebsolutions.ch
 delwest.ch
-delwikgroup.ch
 delwing.ch
 dely.ch
 delyachristian.ch
@@ -11141,7 +11134,6 @@ demarie.ch
 demarinis.ch
 demark.ch
 demarkable.ch
-demarkierung.ch
 demarkresear.ch
 demarkunzle.ch
 demarle.ch
@@ -11973,12 +11965,10 @@ demochurch.ch
 democite.ch
 democloud.ch
 democommaerp.ch
-democracy-gpt.ch
 democracy-schweiz.ch
 democracy.ch
 democracyday.ch
 democracyfitness.ch
-democracygpt.ch
 democracytools.ch
 democracywat.ch
 democracywithoutborders.ch
@@ -12068,7 +12058,6 @@ demokratie-buero.ch
 demokratie-dialog.ch
 demokratie-ermoeglichen.ch
 demokratie-festival.ch
-demokratie-gpt.ch
 demokratie-im-dialog.ch
 demokratie-initiative-ja.ch
 demokratie-initiative-nein.ch
@@ -12105,7 +12094,6 @@ demokratiefighter.ch
 demokratiefitness.ch
 demokratieforum.ch
 demokratieforumbasel.ch
-demokratiegpt.ch
 demokratieinitative.ch
 demokratiejetzt.ch
 demokratiekompetenz.ch
@@ -13937,7 +13925,6 @@ dentaleurope-zurich.ch
 dentaleurope.ch
 dentalevent.ch
 dentalevents.ch
-dentalex.ch
 dentalexpert.ch
 dentalexperte.ch
 dentalexperten.ch
@@ -16869,7 +16856,6 @@ der-verein.ch
 der-verhandler.ch
 der-verkaufsberater.ch
 der-verkehrswert.ch
-der-verlag.ch
 der-vermarkter.ch
 der-vermittler.ch
 der-verpackungsshop.ch
@@ -18276,7 +18262,6 @@ derma-marti.ch
 derma-med.ch
 derma-medical-clinic.ch
 derma-merfen.ch
-derma-murtensee.ch
 derma-netz.ch
 derma-now.ch
 derma-online.ch
@@ -22450,6 +22435,7 @@ desole.ch
 desolee.ch
 desolutions.ch
 desolux.ch
+desolvin.ch
 desomed.ch
 desomedical.ch
 desondo.ch
@@ -24440,7 +24426,6 @@ dev-web.ch
 dev-webteex.ch
 dev-wildix.ch
 dev-wings.ch
-dev-wlm.ch
 dev-workplace.ch
 dev-workplaces.ch
 dev-wp.ch
@@ -25081,7 +25066,6 @@ devin-nahrstedt.ch
 devin-objektservice.ch
 devin-service.ch
 devin.ch
-devinator.ch
 devinaz.ch
 devincenti.ch
 devinci-bikes.ch
@@ -25369,7 +25353,6 @@ devita-sichtschutz.ch
 devita-sonnenschutz.ch
 devita.ch
 devitabeata.ch
-devitalo.ch
 devitas.ch
 devitaswitzerland.ch
 devitis-keramik.ch
@@ -25663,6 +25646,7 @@ devsoul.ch
 devsource-suisse.ch
 devsource.ch
 devspace.ch
+devspielwiese.ch
 devsrv.ch
 devstack.ch
 devstorage.ch

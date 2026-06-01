@@ -8,6 +8,7 @@ ht-blatter.ch
 ht-board.ch
 ht-brugg.ch
 ht-concept.ch
+ht-constructions.ch
 ht-design.ch
 ht-edelweiss.ch
 ht-eh.ch

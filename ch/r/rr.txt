@@ -157,6 +157,7 @@ rrc.ch
 rrca.ch
 rrcag.ch
 rrcars.ch
+rrcarsswiss.ch
 rrcbern.ch
 rrclollipop-intern.ch
 rrclollipop.ch

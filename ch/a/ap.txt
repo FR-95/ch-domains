@@ -843,6 +843,7 @@ apeainthepod.ch
 apeakstudio.ch
 apealv.ch
 apearson.ch
+apeav.ch
 apeaweb.ch
 apeb.ch
 apebar.ch
@@ -1770,7 +1771,6 @@ apharem.ch
 aphasia.ch
 aphasiacare.ch
 aphasie-acf.ch
-aphasie-ageva.ch
 aphasie-chor.ch
 aphasie-mm.ch
 aphasie.ch
@@ -2268,7 +2268,6 @@ apju.ch
 apk-aarau.ch
 apk-bucher.ch
 apk-cylinder.ch
-apk-kunsttherapie.ch
 apk-trade.ch
 apk.ch
 apkaarau.ch
@@ -6131,6 +6130,7 @@ apptitrack.ch
 apptitude.ch
 apptiva-mailer.ch
 apptiva.ch
+apptivate.ch
 apptive.ch
 apptivo.ch
 apptocloud.ch
@@ -6268,6 +6268,7 @@ apres-ge.ch
 apres-lebip.ch
 apres-midi.ch
 apres-sail.ch
+apres-school.ch
 apres-schweiz.ch
 apres-schwingern.ch
 apres-ski-bus.ch

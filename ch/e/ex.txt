@@ -332,7 +332,6 @@ exandas.ch
 exandascapital.ch
 exandaswealth.ch
 exane.ch
-exaneindex.ch
 exanekeyproducts.ch
 exanet.ch
 exanic-software.ch
@@ -481,7 +480,6 @@ excel-profi.ch
 excel-programmierer.ch
 excel-revisionssicher.ch
 excel-service.ch
-excel-solution.ch
 excel-spezialist.ch
 excel-support.ch
 excel-to-fibu.ch
@@ -1010,7 +1008,6 @@ exclusive.ch
 exclusive4animals.ch
 exclusive4u.ch
 exclusiveadventure.ch
-exclusiveadventures.ch
 exclusiveangebot.ch
 exclusiveattitude.ch
 exclusiveauto.ch
@@ -2345,6 +2342,7 @@ exotic-rental.ch
 exotic-rustic-plants.ch
 exotic-shorthair.ch
 exotic-vapes.ch
+exotic-video-vibes.ch
 exotic-wheels.ch
 exotic-whip.ch
 exotic.ch
@@ -2694,8 +2692,6 @@ expedientenportal.ch
 expedio.ch
 expedions.ch
 expedipack.ch
-expedirect.ch
-expedirekt.ch
 expedismart.ch
 expedite.ch
 expedition-africa.ch
@@ -3044,11 +3040,9 @@ expert-baumann.ch
 expert-bertschi.ch
 expert-beton.ch
 expert-bohl.ch
-expert-bohren.ch
 expert-bois.ch
 expert-buesser-caduff.ch
 expert-build.ch
-expert-bula.ch
 expert-caisse-de-pension.ch
 expert-call.ch
 expert-canalisation.ch
@@ -3090,14 +3084,12 @@ expert-dentaire.ch
 expert-design.ch
 expert-desk.ch
 expert-detatouage.ch
-expert-detraz.ch
 expert-directory.ch
 expert-direkt.ch
 expert-drive.ch
 expert-drone-immo.ch
 expert-e.ch
 expert-echafaudage.ch
-expert-eglin.ch
 expert-eichenberger.ch
 expert-electromenager.ch
 expert-en-batiment.ch
@@ -3134,9 +3126,7 @@ expert-friedrich.ch
 expert-fries.ch
 expert-geo.ch
 expert-google-adwords.ch
-expert-graber.ch
 expert-group.ch
-expert-gysin.ch
 expert-heller.ch
 expert-hersberger.ch
 expert-heusi.ch
@@ -3255,7 +3245,6 @@ expert-sea.ch
 expert-securite-incendie.ch
 expert-seminars.ch
 expert-senior.ch
-expert-senn.ch
 expert-seo-geneve.ch
 expert-seo.ch
 expert-sergeferrari.ch
@@ -3401,7 +3390,6 @@ experte-supervisor.ch
 experte-velux.ch
 experte.ch
 experteach.ch
-experteam.ch
 expertease.ch
 expertebv.ch
 expertec.ch
@@ -5161,6 +5149,7 @@ expsy.ch
 expure.ch
 expy.ch
 expy5.ch
+expyr.ch
 exq.ch
 exqata.ch
 exquadra.ch

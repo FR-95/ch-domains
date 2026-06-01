@@ -1171,7 +1171,6 @@ djschule.ch
 djschweiz.ch
 djscode.ch
 djsconcepts.ch
-djseal.ch
 djsearch.ch
 djseib.ch
 djsequence.ch
@@ -1250,6 +1249,7 @@ djt.ch
 djt3.ch
 djtal.ch
 djtalclient.ch
+djtall.ch
 djtaptap.ch
 djtatana.ch
 djtava.ch

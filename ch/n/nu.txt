@@ -1390,7 +1390,6 @@ numberpainting.ch
 numberplate.ch
 numberportability.ch
 numbers-and-people.ch
-numbers.ch
 numbersandmore.ch
 numbersix.ch
 numbersoflife.ch
@@ -3459,7 +3458,6 @@ nutritiondeluxe.ch
 nutritiondesplantes.ch
 nutritiondietetique.ch
 nutritiondm.ch
-nutritiondusport.ch
 nutritioneat.ch
 nutritionelles.ch
 nutritionenterale.ch
@@ -3860,7 +3858,6 @@ nuuvi.ch
 nuuvies.ch
 nuuweb.ch
 nuux.ch
-nuuxit.ch
 nuv.ch
 nuva-raumzeitberatung.ch
 nuva.ch
@@ -3997,6 +3994,7 @@ nuvole.ch
 nuvolead.ch
 nuvolt.ch
 nuvolu.ch
+nuvomedis.ch
 nuvon-zurich.ch
 nuvon.ch
 nuvonda.ch

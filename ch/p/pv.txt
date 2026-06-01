@@ -434,7 +434,6 @@ pvl-gravuren.ch
 pvl-jura.ch
 pvl-lab.ch
 pvl-versoix.ch
-pvl.ch
 pvl24h.ch
 pvlab.ch
 pvladen.ch
@@ -462,7 +461,6 @@ pvmarkt.ch
 pvmc.ch
 pvmedien.ch
 pvmgroup.ch
-pvmmedia.ch
 pvmmotosport.ch
 pvmobile.ch
 pvmodul.ch

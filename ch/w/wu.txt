@@ -1094,6 +1094,7 @@ wunderkammern.ch
 wunderkammerzuerich.ch
 wunderkarten.ch
 wunderkauf.ch
+wunderkern.ch
 wunderkerze.ch
 wunderkerzen.ch
 wunderkette.ch
@@ -1825,7 +1826,6 @@ wursch.ch
 wurscht-chaes-szenario.ch
 wurschtchnebel.ch
 wurschte.ch
-wurschtischwurscht.ch
 wurschtubrot.ch
 wurst-art.ch
 wurst-fleisch.ch
@@ -2066,7 +2066,6 @@ wurzelstockpool.ch
 wurzelstuebler.ch
 wurzelstufe.ch
 wurzeltod.ch
-wurzeltrieb.ch
 wurzelundwerk.ch
 wurzelundwolle.ch
 wurzelursprung.ch

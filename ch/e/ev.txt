@@ -1046,7 +1046,6 @@ evastensrud.ch
 evastimme.ch
 evastreit.ch
 evastricker.ch
-evastyle.ch
 evasulai.ch
 evasupport.ch
 evasure.ch
@@ -1302,7 +1301,6 @@ eveil-citoyen.ch
 eveil-de-conscience.ch
 eveil-des-sens.ch
 eveil-du-coeur.ch
-eveil-epalinges.ch
 eveil-essence.ch
 eveil-et-conscience-de-soi.ch
 eveil-et-sens.ch
@@ -1971,7 +1969,6 @@ event-gear.ch
 event-geneva.ch
 event-geneve.ch
 event-gewa.ch
-event-group.ch
 event-gstaad.ch
 event-guide.ch
 event-gwunder.ch
@@ -2685,6 +2682,7 @@ eventfeuerwerk.ch
 eventfever.ch
 eventfex.ch
 eventfieber.ch
+eventfiesta.ch
 eventfile.ch
 eventfiles.ch
 eventfilm.ch
@@ -2773,7 +2771,6 @@ eventgrafik.ch
 eventgrid.ch
 eventgrill.ch
 eventgroove.ch
-eventgroup.ch
 eventgruppe-chauchloechli.ch
 eventguide.ch
 eventguide24.ch
@@ -3641,7 +3638,6 @@ eventsportal.ch
 eventsportservices.ch
 eventspot.ch
 eventspro.ch
-eventspub.ch
 eventsrhypark.ch
 eventsservices.ch
 eventsspiele.ch
@@ -5107,7 +5103,6 @@ evnwebaccess.ch
 evnyo.ch
 evo-bar.ch
 evo-bau.ch
-evo-bewegt.ch
 evo-cardio.ch
 evo-city.ch
 evo-clean.ch
@@ -5195,7 +5190,6 @@ evobatch.ch
 evobau.ch
 evobend.ch
 evoberbuchsiten.ch
-evobewegt.ch
 evobiomed.ch
 evoblox.ch
 evoboot.ch
@@ -5203,7 +5197,6 @@ evoboxes.ch
 evobrands.ch
 evobridge.ch
 evobuild.ch
-evobus.ch
 evobyeurosport.ch
 evobyte-gest.ch
 evobyte.ch
@@ -5366,7 +5359,6 @@ evolaris-parts.ch
 evolaris.ch
 evolarshop.ch
 evolatis.ch
-evolcoach.ch
 evolcorp.ch
 evole.ch
 evole36.ch
@@ -5865,6 +5857,7 @@ evoqse-plus.ch
 evoqua.ch
 evoque.ch
 evoquelife.ch
+evoquer.ch
 evora-ai.ch
 evora-expert.ch
 evora-experts.ch
@@ -6336,7 +6329,6 @@ evtrading.ch
 evtronics.ch
 evts.ch
 evtt-en-veveyse.ch
-evtt.ch
 evtuning.ch
 evu-benchmark.ch
 evu-benchmarking.ch
@@ -6425,7 +6417,6 @@ evy-companion.ch
 evy-solutions.ch
 evy-tausky.ch
 evy-xpact.ch
-evy.ch
 evy4style.ch
 evyachting.ch
 evyallegridesign.ch

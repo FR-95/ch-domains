@@ -18,7 +18,6 @@ sp-albulasurses.ch
 sp-allschwil.ch
 sp-alt-toggenburg.ch
 sp-altaleventina.ch
-sp-altstadt.ch
 sp-am.ch
 sp-amriswil.ch
 sp-ar.ch
@@ -367,7 +366,6 @@ sp-sa.ch
 sp-sanitaerplanung.ch
 sp-sarganserland.ch
 sp-sb.ch
-sp-schaffhausen.ch
 sp-schmitten.ch
 sp-schoetz.ch
 sp-schuepfen.ch
@@ -838,6 +836,7 @@ space-tourer.ch
 space-travel.ch
 space-valley.ch
 space-view.ch
+space-vision.ch
 space-web.ch
 space-wheels.ch
 space-x.ch
@@ -2568,7 +2567,6 @@ sparklaneag.ch
 sparklaun.ch
 sparkle-by.ch
 sparkle-shop.ch
-sparkle.ch
 sparkleaf.ch
 sparklean.ch
 sparkleandwine.ch
@@ -3102,7 +3100,6 @@ spasskellner.ch
 spasskiste.ch
 spasslerndenk.ch
 spassmirheigarkewebsite.ch
-spassmitcomputer.ch
 spassmithund.ch
 spassmixens.ch
 spassmobilthun.ch
@@ -3659,7 +3656,6 @@ speag.ch
 speak-albertin.ch
 speak-dating.ch
 speak-different.ch
-speak-dog.ch
 speak-english.ch
 speak-for.ch
 speak-german.ch
@@ -3826,7 +3822,6 @@ spearmintrhino.ch
 spearpoint.ch
 spearsystems.ch
 spearvest.ch
-speasy.ch
 speat.ch
 speatch.ch
 speate.ch
@@ -5289,7 +5284,6 @@ speerspitze.ch
 speerweg-oetwil.ch
 speerweg.ch
 speerwerfen.ch
-speesy.ch
 speetch-agency.ch
 speetch.ch
 speetchagency.ch
@@ -6053,7 +6047,6 @@ sperm-donation.ch
 sperm.ch
 sperma-radar.ch
 sperma-spender.ch
-sperma-test.ch
 sperma.ch
 spermafrost.ch
 spermakoenigin.ch
@@ -7116,7 +7109,6 @@ spickel.ch
 spickelart.ch
 spicker.ch
 spickers.ch
-spickfamilie.ch
 spicki.ch
 spicking.ch
 spickmann.ch
@@ -7166,6 +7158,7 @@ spicylips.ch
 spicymondo.ch
 spicyontour.ch
 spicyparadise.ch
+spicypizza.ch
 spicypizzaexpress-aesch.ch
 spicypizzaexpress.ch
 spicyroots.ch
@@ -7787,6 +7780,7 @@ spielfreunde.ch
 spielfuehrung.ch
 spielfuerdeinland.ch
 spielfun.ch
+spielfunke.ch
 spielfux.ch
 spielgaertli.ch
 spielgalaxy.ch
@@ -8120,6 +8114,7 @@ spielgruppe-rasselbande.ch
 spielgruppe-rasselbandi.ch
 spielgruppe-rassubandi-wolfwil.ch
 spielgruppe-regaboga.ch
+spielgruppe-regenbogen-muri.ch
 spielgruppe-regenbogen.ch
 spielgruppe-regenbogenhaus.ch
 spielgruppe-regensdorf.ch
@@ -8147,7 +8142,6 @@ spielgruppe-salenstein.ch
 spielgruppe-sargans.ch
 spielgruppe-schaenis.ch
 spielgruppe-scharans.ch
-spielgruppe-schatzchistli.ch
 spielgruppe-schaukelpferd.ch
 spielgruppe-schenkon.ch
 spielgruppe-schildchroetli.ch
@@ -9536,7 +9530,6 @@ spin-assistance.ch
 spin-aura.ch
 spin-bara.ch
 spin-better.ch
-spin-bike-blog.ch
 spin-bike.ch
 spin-casino.ch
 spin-club.ch
@@ -9594,7 +9587,6 @@ spin-tt.ch
 spin-up.ch
 spin-winera.ch
 spin-zen.ch
-spin-zone.ch
 spin-zur-ideenfindung.ch
 spin.ch
 spin247.ch
@@ -10450,7 +10442,6 @@ spiranca.ch
 spirandelli.ch
 spiranova.ch
 spiraphysio.ch
-spirare.ch
 spirarestauro.ch
 spirasoul-madlen.ch
 spiratec.ch
@@ -10631,7 +10622,6 @@ spirit-of-appenzell.ch
 spirit-of-art.ch
 spirit-of-arts.ch
 spirit-of-beauty.ch
-spirit-of-bern.ch
 spirit-of-biel-bienne.ch
 spirit-of-dance.ch
 spirit-of-darkwolf.ch
@@ -16879,7 +16869,6 @@ sportquiz.ch
 sportr.ch
 sportracingcars.ch
 sportrack.ch
-sportradar-ag.ch
 sportradar.ch
 sportradio.ch
 sportradio1.ch
@@ -17794,7 +17783,6 @@ sportunacasino.ch
 sportunach.ch
 sportundaerztezentrum.ch
 sportundausbildung.ch
-sportundbewegung.ch
 sportunderholung.ch
 sportundernaehrung.ch
 sportunderwear.ch
@@ -20160,7 +20148,6 @@ sprungbrettbaden.ch
 sprungbrettevent.ch
 sprungbrettevents.ch
 sprungbu.ch
-sprungconsulting.ch
 sprunger-fit.ch
 sprunger.ch
 sprungergarten.ch

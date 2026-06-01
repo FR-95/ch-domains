@@ -91,7 +91,6 @@ pp6plus.ch
 pp99.ch
 ppa-assurance.ch
 ppa-assurances.ch
-ppa-communications.ch
 ppa-distribution.ch
 ppa-online.ch
 ppa.ch
@@ -217,7 +216,6 @@ ppdevelopment.ch
 ppdf.ch
 ppdi-vd.ch
 ppdj.ch
-ppdl.ch
 ppdlab.ch
 ppdlugano.ch
 ppdlv.ch

@@ -1,8 +1,10 @@
+ns-01.grabmalkunst-honauer.ch
 ns-01.nachmittag.ch
 ns-01.ocrcl-staging.ch
 ns-01.stepping-stone.ch
 ns-01.stoney-cloud.ch
 ns-01.stoneycloud.ch
+ns-02.grabmalkunst-honauer.ch
 ns-02.nachmittag.ch
 ns-02.ocrcl-staging.ch
 ns-02.stepping-stone.ch
@@ -2047,7 +2049,6 @@ ns1.hostvgmc.ch
 ns1.hostyx.ch
 ns1.hotel-grandpre.ch
 ns1.hotel-zimba.ch
-ns1.hotelswiss.ch
 ns1.hotelzimba.ch
 ns1.hrcd.ch
 ns1.hses.ch
@@ -2811,7 +2812,6 @@ ns1.ohosting.ch
 ns1.oi-web.ch
 ns1.ois-groups.ch
 ns1.olys.ch
-ns1.ombudsman-kv.ch
 ns1.omemo.ch
 ns1.omnes.ch
 ns1.omnespro.ch
@@ -3204,7 +3204,6 @@ ns1.rundb.ch
 ns1.rutishauser.ch
 ns1.rvha.ch
 ns1.rxr.ch
-ns1.s-business.ch
 ns1.s-informatik.ch
 ns1.s-mi.ch
 ns1.s-pa.ch
@@ -3455,6 +3454,7 @@ ns1.statistics-counts.ch
 ns1.statistik-zaehlt.ch
 ns1.stauffacher-sa.ch
 ns1.steger-edv.ch
+ns1.steiner-solutions.ch
 ns1.steinertank.ch
 ns1.sten.ch
 ns1.sterndiagnose.ch
@@ -3550,7 +3550,6 @@ ns1.symple.ch
 ns1.syntax-agency.ch
 ns1.syselcloud.ch
 ns1.sysinfhosting.ch
-ns1.syslog-informatique.ch
 ns1.syslog.ch
 ns1.syslogsa.ch
 ns1.systacom.ch
@@ -3642,6 +3641,7 @@ ns1.tokee.ch
 ns1.tomax.ch
 ns1.tomeo.ch
 ns1.tomppa.ch
+ns1.tonio-service.ch
 ns1.tools4ever.ch
 ns1.toon.ch
 ns1.topdns.ch
@@ -3720,7 +3720,6 @@ ns1.usz.ch
 ns1.ut99.ch
 ns1.uzh.ch
 ns1.vacc.ch
-ns1.vaeternetz.ch
 ns1.valdraus.ch
 ns1.valentin-wine.ch
 ns1.valsite.ch
@@ -5376,7 +5375,6 @@ ns2.hostvgmc.ch
 ns2.hostyx.ch
 ns2.hotel-grandpre.ch
 ns2.hotelnapf.ch
-ns2.hotelswiss.ch
 ns2.hrcd.ch
 ns2.hses.ch
 ns2.hsmart.ch
@@ -6095,7 +6093,6 @@ ns2.ohnegluten.ch
 ns2.ohosting.ch
 ns2.oi-web.ch
 ns2.olys.ch
-ns2.ombudsman-kv.ch
 ns2.omemo.ch
 ns2.omnes.ch
 ns2.omniamea.ch
@@ -6471,7 +6468,6 @@ ns2.rudolflemcke.ch
 ns2.rundb.ch
 ns2.rvha.ch
 ns2.rxr.ch
-ns2.s-business.ch
 ns2.s-informatik.ch
 ns2.s-mi.ch
 ns2.s-pa.ch
@@ -6723,6 +6719,7 @@ ns2.statistics-counts.ch
 ns2.statistik-zaehlt.ch
 ns2.stefanjud.ch
 ns2.steger-edv.ch
+ns2.steiner-solutions.ch
 ns2.steinertank.ch
 ns2.sten.ch
 ns2.sterci.ch
@@ -6819,7 +6816,6 @@ ns2.symple.ch
 ns2.syntax-agency.ch
 ns2.syselcloud.ch
 ns2.sysinfhosting.ch
-ns2.syslog-informatique.ch
 ns2.syslog.ch
 ns2.syslogsa.ch
 ns2.systacom.ch
@@ -6909,6 +6905,7 @@ ns2.toedtli.ch
 ns2.tokee.ch
 ns2.tomax.ch
 ns2.tomeo.ch
+ns2.tonio-service.ch
 ns2.toon.ch
 ns2.topdns.ch
 ns2.topdomain.ch
@@ -6984,7 +6981,6 @@ ns2.usz.ch
 ns2.ut99.ch
 ns2.uzh.ch
 ns2.vacc.ch
-ns2.vaeternetz.ch
 ns2.valentin-wine.ch
 ns2.valsite.ch
 ns2.vamacy.ch
@@ -7945,6 +7941,7 @@ ns3.spreng.ch
 ns3.sputniks.ch
 ns3.srgssr.ch
 ns3.stageone.ch
+ns3.steiner-solutions.ch
 ns3.steinertank.ch
 ns3.stilvollesmagazin.ch
 ns3.strateo.ch

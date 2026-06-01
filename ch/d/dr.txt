@@ -1413,6 +1413,7 @@ dragonmedical.ch
 dragonmedicalschweiz.ch
 dragonmer.ch
 dragonmoon.ch
+dragonmx.ch
 dragonne.ch
 dragono.ch
 dragonpalace.ch
@@ -1955,7 +1956,6 @@ drawingroom.ch
 drawings.ch
 drawingschool.ch
 drawit.ch
-drawlaw.ch
 drawly.ch
 drawmebot.ch
 drawn.ch
@@ -3984,7 +3984,6 @@ dreiwert.ch
 dreiwil.ch
 dreiwinkel-seewen.ch
 dreiwinkel.ch
-dreiwipkinger.ch
 dreiwort.ch
 dreizack-keramik.ch
 dreizack.ch
@@ -4583,7 +4582,6 @@ drhlanterolten.ch
 drhobi.ch
 drhoehn.ch
 drhoelter.ch
-drhoffmann.ch
 drhofmeister.ch
 drhofstetter.ch
 drholgerklein.ch
@@ -4886,7 +4884,6 @@ drink-taxi.ch
 drink-time.ch
 drink-toms.ch
 drink-tower.ch
-drink-trend.ch
 drink-trends.ch
 drink-truck.ch
 drink-vs.ch
@@ -5472,7 +5469,6 @@ drive95.ch
 driveabo.ch
 driveacademy.ch
 driveadvisor.ch
-driveagent.ch
 driveahead.ch
 drivealtitude.ch
 driveandcare.ch
@@ -5616,7 +5612,6 @@ drivekatze.ch
 driveking.ch
 drivel.ch
 drivelab.ch
-drivelegance.ch
 drivelektro.ch
 driveletics.ch
 drivelier.ch
@@ -8860,7 +8855,6 @@ druckexperten.ch
 druckexpress.ch
 druckfabrik-zueri.ch
 druckfabrik.ch
-druckfactory.ch
 druckfahne.ch
 druckfarbe.ch
 druckfarben.ch
@@ -9939,6 +9933,7 @@ dryuptechnologies.ch
 dryuptechnology.ch
 dryv.ch
 dryvalais.ch
+dryve-rent.ch
 dryve.ch
 dryvit.ch
 drywall.ch

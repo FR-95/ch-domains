@@ -1552,7 +1552,6 @@ location-voiture-geneve.ch
 location-voiture-lausanne.ch
 location-voiture-neuchatel.ch
 location-voiture-romandie.ch
-location-voiture-valais.ch
 location-voiture-yverdon.ch
 location-voiture.ch
 location-voitures-geneve.ch
@@ -3016,6 +3015,7 @@ loewen-lodge.ch
 loewen-maienfeld.ch
 loewen-mama.ch
 loewen-meilen.ch
+loewen-meisterschwanden.ch
 loewen-melchnau.ch
 loewen-mellingen.ch
 loewen-menzingen.ch
@@ -7093,6 +7093,7 @@ lone-wolf.ch
 lone-worker.ch
 lone.ch
 loneacandle.ch
+loneakunst.ch
 lonec.ch
 lonechristensen.ch
 lonecore.ch
@@ -7442,6 +7443,7 @@ longevityhausarztpraxis.ch
 longevityhealth.ch
 longevityhome.ch
 longevityhub.ch
+longevityhubgroup.ch
 longevityhubs.ch
 longevityinapill.ch
 longevityinstitut.ch
@@ -8655,6 +8657,7 @@ lopwellatelier.ch
 loq-coffee.ch
 loq.ch
 loqal.ch
+loqara.ch
 loqato.ch
 loqi.ch
 loqico.ch
@@ -9027,6 +9030,7 @@ lorenabaldelli.ch
 lorenabalzano.ch
 lorenabeauty.ch
 lorenabeck.ch
+lorenabenz.ch
 lorenabraun.ch
 lorenabrunner.ch
 lorenacanals.ch
@@ -9522,7 +9526,6 @@ loris-julien-salpeter.ch
 loris-lunettes.ch
 loris-mate.ch
 loris-mittaz.ch
-loris-olivier.ch
 loris-parfum.ch
 loris-pezzetta.ch
 loris-pinoli.ch
@@ -9714,7 +9717,6 @@ lorrys.ch
 lorrystallow.ch
 lors.ch
 lorsba.ch
-lorscards.ch
 lorsdelicious.ch
 lorsdutemps.ch
 lorsobianco.ch
@@ -9808,7 +9810,6 @@ los-habas.ch
 los-hermanos-int.ch
 los-hermanos.ch
 los-ibericos.ch
-los-incas.ch
 los-is-labe.ch
 los-is-laebe.ch
 los-jetzt.ch
@@ -13030,7 +13031,6 @@ lowa-store.ch
 lowa-webshop.ch
 lowa.ch
 lowaathome.ch
-lowabo.ch
 lowag.ch
 lowago.ch
 lowal.ch

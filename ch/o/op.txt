@@ -1666,6 +1666,7 @@ openrailmap.ch
 openrange.ch
 openrate.ch
 openrdm.ch
+openrealestate.ch
 openrecargas.ch
 openreef.ch
 openreefconsulting.ch
@@ -2402,7 +2403,6 @@ ophelie-benjamin.ch
 ophelie.ch
 opheliebiselx.ch
 opheliebrandt.ch
-ophelieelzingre.ch
 opheliefankhauser.ch
 ophelieschneider.ch
 opheliethenotpsy.ch
@@ -3917,6 +3917,7 @@ optima-feng-shui.ch
 optima-fengshui.ch
 optima-folio.ch
 optima-fotos.ch
+optima-gestion.ch
 optima-gmbh.ch
 optima-group.ch
 optima-h2o.ch
@@ -3994,7 +3995,6 @@ optimal-banking.ch
 optimal-clean.ch
 optimal-eft-gary-craig.ch
 optimal-eft-suisse.ch
-optimal-eft.ch
 optimal-eftsuisse.ch
 optimal-facility.ch
 optimal-finance.ch
@@ -4032,8 +4032,6 @@ optimaldesign.ch
 optimale-zahnbehandlung.ch
 optimale.ch
 optimaleft-suisse.ch
-optimaleft.ch
-optimaleftsuisse.ch
 optimalegal.ch
 optimalenergy.ch
 optimaler-teller.ch

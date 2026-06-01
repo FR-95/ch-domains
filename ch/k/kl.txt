@@ -257,6 +257,7 @@ klampfenstube.ch
 klamu.ch
 klamydias.ch
 klan-gantrisch.ch
+klan.ch
 klanbau.ch
 klanc.ch
 klancanto.ch
@@ -1226,6 +1227,7 @@ klarasophie.ch
 klaraspuren.ch
 klarasteinweg.ch
 klarasternenstaub.ch
+klarastudio.ch
 klaraungefiltert.ch
 klarautoglas.ch
 klaravik.ch
@@ -1298,10 +1300,8 @@ klarerpfad.ch
 klarers.ch
 klarersinn.ch
 klarerweiter.ch
-klareseite.ch
 klaresglas.ch
 klaresicht.ch
-klaresite.ch
 klaresplus.ch
 klaresprache.ch
 klaresto.ch
@@ -1982,7 +1982,6 @@ klatt.ch
 klattermusen.ch
 klatts.ch
 klatzer.ch
-klau.ch
 klaube-bau-loesungen.ch
 klauck.ch
 klauco.ch
@@ -2056,7 +2055,6 @@ klaus-multiparking.ch
 klaus-nesser.ch
 klaus-privat.ch
 klaus-reichert.ch
-klaus-ruthenbeck.ch
 klaus-schmid.ch
 klaus-schreinerei.ch
 klaus-solutions.ch
@@ -2289,7 +2287,6 @@ klaviergesang.ch
 klaviergeschaeft.ch
 klaviergeschichten.ch
 klavierhalle.ch
-klavierhandel.ch
 klavierhandwerk.ch
 klavierhaus.ch
 klavierherbstzeitlose.ch
@@ -4241,6 +4238,7 @@ klemmsteine.ch
 klemmunity.ch
 klemmwerk.ch
 klempner-hilfe.ch
+klempner-notfalldienst.ch
 klempner-service.ch
 klempner-service24.ch
 klempner.ch
@@ -5279,6 +5277,8 @@ klimainitiativen-luzern.ch
 klimainitiativen.ch
 klimainitiativenein.ch
 klimainitiativenluzern.ch
+klimainsel.ch
+klimainseln.ch
 klimainspektor.ch
 klimainspektorat.ch
 klimajob.ch
@@ -5439,7 +5439,6 @@ klimapreise.ch
 klimaprima.ch
 klimaprime.ch
 klimaprint.ch
-klimapro.ch
 klimaprofi.ch
 klimaprofis.ch
 klimaprogramm.ch

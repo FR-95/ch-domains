@@ -370,7 +370,6 @@ mkfservices.ch
 mkg-basel.ch
 mkg-bern.ch
 mkg-chirugie-thun.ch
-mkg-chirurg.ch
 mkg-chirurgie-biel.ch
 mkg-chirurgie.ch
 mkg-chur.ch

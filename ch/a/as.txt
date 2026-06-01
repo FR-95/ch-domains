@@ -1,6 +1,5 @@
 as-2.ch
 as-24.ch
-as-a-service-it.ch
 as-admin.ch
 as-advokaten.ch
 as-ag.ch
@@ -255,6 +254,7 @@ as-parquet.ch
 as-pek.ch
 as-pensionskasse.ch
 as-performance.ch
+as-personal.ch
 as-pferderennstall.ch
 as-pferdestall.ch
 as-photographie.ch
@@ -776,8 +776,6 @@ asasdeportugal.ch
 asase.ch
 asasecurities.ch
 asasello-quartett.ch
-asaservice-it.ch
-asaserviceit.ch
 asasi.ch
 asasoglu.ch
 asason.ch
@@ -3943,7 +3941,6 @@ asms.ch
 asmsa.ch
 asmsolutions.ch
 asmsr.ch
-asmsystem.ch
 asmta.ch
 asmueller.ch
 asmultiplex.ch
@@ -4203,7 +4200,6 @@ aspectra.ch
 aspects.ch
 aspectus.ch
 aspectzoneproperties.ch
-asped.ch
 aspeda-congres.ch
 aspeda-gmbh.ch
 aspeda.ch
@@ -6191,12 +6187,12 @@ associationfamilles.ch
 associationfcpl.ch
 associationferdelance.ch
 associationfeuvert.ch
+associationfides.ch
 associationflaca.ch
 associationfluorescence.ch
 associationfougere.ch
 associationfredericfellay.ch
 associationfundraising.ch
-associationfuret.ch
 associationgeneration.ch
 associationgrand.ch
 associationgregorydidier.ch
@@ -6447,7 +6443,6 @@ associazionerew.ch
 associazionerilancio.ch
 associazionerlh.ch
 associazionescintilla.ch
-associazionescrittori.ch
 associazioneserviziopubblico.ch
 associazionesilarte.ch
 associazionesportforpeace.ch
@@ -8543,7 +8538,6 @@ astrologie-und-seele.ch
 astrologie-uznach.ch
 astrologie-vertrieb.ch
 astrologie-winterthur.ch
-astrologie-world.ch
 astrologie-zentrum-bern.ch
 astrologie-zentrum.ch
 astrologie-zfa.ch
@@ -8980,7 +8974,6 @@ asuera.ch
 asuerastiftung.ch
 asug.ch
 asugarage.ch
-asugas.ch
 asugd.ch
 asugs.ch
 asuhr.ch
@@ -9250,7 +9243,6 @@ asylchaosstoppen.ch
 asyldebatte.ch
 asylex.ch
 asylfakten.ch
-asylg-ja.ch
 asylgesetz-ja.ch
 asylgesetz-nein.ch
 asylgesetz.ch

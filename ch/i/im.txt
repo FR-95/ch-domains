@@ -1710,7 +1710,6 @@ imelda-stadler.ch
 imeldabischof.ch
 imeldakoger.ch
 imeldaschildknecht.ch
-imeldaschiltknecht.ch
 imeldastalder.ch
 imelektroinspect.ch
 imelo.ch
@@ -1749,6 +1748,7 @@ imerabeauty.ch
 imerage.ch
 imeraj.ch
 imercantini.ch
+imerco.ch
 imeretea.ch
 imerfelsberg.ch
 imergroup.ch
@@ -4558,6 +4558,7 @@ immoagent.ch
 immoagents.ch
 immoagentur.ch
 immoagenzia.ch
+immoagzell.ch
 immoai.ch
 immoaigent.ch
 immoair.ch
@@ -4571,6 +4572,7 @@ immoalerte.ch
 immoalerts.ch
 immoall.ch
 immoallianz.ch
+immoallroundcare.ch
 immoalmanach.ch
 immoalp.ch
 immoalpes.ch
@@ -4640,7 +4642,6 @@ immoavendre.ch
 immoawards.ch
 immoazur.ch
 immob-24.ch
-immob-illiez.ch
 immob-online.ch
 immob-summum.ch
 immob.ch
@@ -4690,6 +4691,7 @@ immobat.ch
 immobau-behrami.ch
 immobau-muff.ch
 immobau-schreinerei.ch
+immobau-schweiz.ch
 immobau-solutions.ch
 immobau.ch
 immobau4u.ch
@@ -5929,7 +5931,6 @@ immobiliengriechenland.ch
 immobiliengrundstuecke.ch
 immobiliengruppe.ch
 immobilienguide.ch
-immobilienguide24.ch
 immobilienguru.ch
 immobiliengutachten.ch
 immobiliengutachter-mallorca.ch
@@ -6207,6 +6208,7 @@ immobilienpark.ch
 immobilienpartner-wyss.ch
 immobilienpartner.ch
 immobilienpartner24.ch
+immobilienpfadfinder.ch
 immobilienpflege-bern.ch
 immobilienpflege.ch
 immobilienpics.ch
@@ -6606,7 +6608,6 @@ immobilier-founex.ch
 immobilier-fr.ch
 immobilier-france.ch
 immobilier-fribourg-vaud.ch
-immobilier-fribourg.ch
 immobilier-gasser.ch
 immobilier-ge.ch
 immobilier-geneve-lacote.ch
@@ -7240,7 +7241,6 @@ immodemo.ch
 immodenktur.ch
 immodenz.ch
 immodepot.ch
-immodescrosets.ch
 immodesign-international.ch
 immodesign.ch
 immodesign62.ch
@@ -8342,6 +8342,7 @@ immoni.ch
 immonia.ch
 immoniac.ch
 immonik.ch
+immonika.ch
 immonio.ch
 immoniq.ch
 immonique.ch
@@ -8823,7 +8824,6 @@ immoschlussel-ag.ch
 immoschmid.ch
 immoschneider.ch
 immoschool.ch
-immoschout.ch
 immoschreiner.ch
 immoschwab.ch
 immoschwein.ch
@@ -9358,7 +9358,6 @@ immovaria.ch
 immovario.ch
 immovaris.ch
 immovartis.ch
-immovate.ch
 immovation.ch
 immovations.ch
 immovativ-immobilien.ch
@@ -10108,9 +10107,6 @@ imortel.ch
 imos-immobilier.ch
 imos.ch
 imosam.ch
-imoscaut.ch
-imoscaut24.ch
-imoscount.ch
 imoscout.ch
 imoscout24.ch
 imoserv.ch
@@ -10290,7 +10286,6 @@ impact-golf.ch
 impact-graphic.ch
 impact-group.ch
 impact-groupe.ch
-impact-hiring.ch
 impact-hope.ch
 impact-hub.ch
 impact-immo.ch
@@ -10650,7 +10645,6 @@ impactweek.ch
 impactx.ch
 impactxpo.ch
 impactyoga.ch
-impactz.ch
 impactzero.ch
 impactzone.ch
 impactzurich.ch
@@ -11531,7 +11525,6 @@ importoptic.ch
 importoptik-promo.ch
 importoptik.ch
 importoswiss.ch
-importparfum.ch
 importparfumerie.ch
 importpneus.ch
 importraits.ch
@@ -13056,7 +13049,6 @@ imunida.ch
 imunin.ch
 imunius.ch
 imunixx.ch
-imunsen.ch
 imuntertor.ch
 imupret.ch
 imupro.ch

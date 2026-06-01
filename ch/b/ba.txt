@@ -1872,7 +1872,6 @@ babysitteragentur.ch
 babysittercrs.ch
 babysitterin-fricktal.ch
 babysitterin.ch
-babysitternet.ch
 babysitters.ch
 babysittersrk.ch
 babysitterticino.ch
@@ -3155,7 +3154,6 @@ backcash.ch
 backcashimmo.ch
 backcheck.ch
 backclub.ch
-backcountry-basecamp.ch
 backcountry-kollektiv.ch
 backcountry-weeks.ch
 backcountry.ch
@@ -3407,6 +3405,7 @@ backmatte.ch
 backmaus.ch
 backme.ch
 backmehl.ch
+backmeister.ch
 backmeitschi.ch
 backmeup.ch
 backmischung.ch
@@ -3472,6 +3471,7 @@ backontracksuisse.ch
 backorder.ch
 backordering.ch
 backorders.ch
+backoschmatz.ch
 backpack.ch
 backpacker-baeren.ch
 backpacker-grindelwald.ch
@@ -8707,7 +8707,6 @@ baierfamily.ch
 baiermed.ch
 baiers.ch
 baiersbronn.ch
-baierswiss.ch
 baiesderelle.ch
 baiesduvalais.ch
 baifa.ch
@@ -9036,6 +9035,7 @@ baisse-impots.ch
 baissedeloyer.ch
 baisserlesprimes-oui.ch
 baisserlesprimes.ch
+baissetonloyer.ch
 baissonslesgaz.ch
 bait-drone.ch
 bait-express.ch
@@ -9480,7 +9480,6 @@ bakterien.ch
 bakteriologie.ch
 bakteriophagen.ch
 baktokult.ch
-baktrade.ch
 baku-bau.ch
 baku-caviar.ch
 baku-management.ch
@@ -9769,7 +9768,6 @@ balance4dogs.ch
 balance4life.ch
 balance4pets.ch
 balance4u.ch
-balance4yourday.ch
 balance8.ch
 balanceacademy.ch
 balanceact.ch
@@ -10173,6 +10171,7 @@ balcondelagruyere.ch
 balconduciel.ch
 balcondujura.ch
 balcone-d-italia.ch
+balconergy.ch
 balconetdecoration.ch
 balconfleuri.ch
 balconi.ch
@@ -11085,7 +11084,6 @@ ballerbergstudios.ch
 ballerbier.ch
 ballerbike.ch
 ballerbude.ch
-ballerburg.ch
 ballerette.ch
 ballerina-breast.ch
 ballerina-breastaugmentation.ch
@@ -11703,7 +11701,6 @@ balloonking.ch
 balloonland.ch
 balloonline.ch
 balloonmagic.ch
-balloonmuseum.ch
 balloons-over-switzerland.ch
 balloons.ch
 balloonsgalore.ch
@@ -12238,7 +12235,6 @@ balsiger-malerei.ch
 balsiger-metzgerei.ch
 balsiger-osm.ch
 balsiger-paysagiste.ch
-balsiger-team.ch
 balsiger-textil.ch
 balsiger-transporte.ch
 balsiger-transports.ch
@@ -13311,7 +13307,6 @@ bananenkisten-mieten.ch
 bananenkisten.ch
 bananenreiferei.ch
 bananenrepublik.ch
-bananenschachtel.ch
 bananenschachtelrepublik.ch
 bananensplit.ch
 bananensplitter.ch
@@ -14328,6 +14323,7 @@ bankeninschweiz.ch
 bankenjobs.ch
 bankenkompass.ch
 bankenkrise.ch
+bankenlage.ch
 bankenland.ch
 bankenmuseum.ch
 bankenombudsman.ch
@@ -14569,7 +14565,6 @@ bankofamericamerrilllynch.ch
 bankofamericaml.ch
 bankofamericasecurities.ch
 bankofbacchus.ch
-bankofbit.ch
 bankofchina.ch
 bankofchinaa.ch
 bankofchinasuisse.ch
@@ -15682,7 +15677,6 @@ barahuitre.ch
 barahuitres.ch
 barailler.ch
 barajeux.ch
-barak.ch
 barak7.ch
 baraka-day.ch
 baraka-foundation.ch
@@ -17041,7 +17035,6 @@ barbundara.ch
 barbur.ch
 barbus-de-la-gruyere.ch
 barbus.ch
-barbuscia-consulting.ch
 barbuscia.ch
 barbuto-treuhand.ch
 barbuto.ch
@@ -17178,8 +17171,6 @@ barcode-shop.ch
 barcode.ch
 barcode24.ch
 barcodeborgo.ch
-barcodecloud.ch
-barcodedata.ch
 barcodedatenbank.ch
 barcodedb.ch
 barcodedrucker-mobit.ch
@@ -20219,7 +20210,6 @@ basel-schreinerei.ch
 basel-scooter.ch
 basel-selfstorage.ch
 basel-seminarhotels.ch
-basel-seo-agentur.ch
 basel-sexualtherapie.ch
 basel-shiatsu.ch
 basel-sicherheitsdienst.ch
@@ -22569,7 +22559,6 @@ bastelalbum.ch
 bastelando.ch
 bastelanleitung.ch
 bastelanleitungen.ch
-bastelbar.ch
 bastelbedarf-wimmel.ch
 bastelbedarf.ch
 bastelbiet.ch
@@ -23780,7 +23769,6 @@ batterie-velo-electrique.ch
 batterie-velo.ch
 batterie.ch
 batterie13.ch
-batterie24.ch
 batterieanalyse.ch
 batteriebewertung.ch
 batteriecheck.ch
@@ -24297,7 +24285,6 @@ bau-facilitymanagement.ch
 bau-fair.ch
 bau-finanzierung.ch
 bau-firmen.ch
-bau-flair.ch
 bau-flex.ch
 bau-fokus.ch
 bau-forensik.ch
@@ -29184,6 +29171,7 @@ bauservice-gasser.ch
 bauservice-gerlach.ch
 bauservice-hunziker.ch
 bauservice-luzern.ch
+bauservice-nagel.ch
 bauservice-persoenlich.ch
 bauservice-schnyder.ch
 bauservice-spina.ch
@@ -29196,6 +29184,7 @@ bauservicegasser.ch
 bauservicegecaj.ch
 bauservicegmbh.ch
 bauserviceluzern.ch
+bauservicenagel.ch
 bauservicepartner.ch
 bauservicepoint.ch
 bauservicermus.ch
@@ -30358,7 +30347,6 @@ baxtergroup.ch
 baxterhotel.ch
 baxterhotels.ch
 baxterintl.ch
-baxters-paradies.ch
 baxterweb.ch
 baxton.ch
 baxtreuhand.ch
@@ -30439,7 +30427,6 @@ bayberry.ch
 baybies.ch
 baybmoonrenatafranca.ch
 baybreezer.ch
-bayburger.ch
 bayburtlu.ch
 baycigarettes.ch
 baycoaster.ch

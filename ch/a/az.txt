@@ -1260,7 +1260,6 @@ azure-local-tour.ch
 azure-platform.ch
 azure-schweiz.ch
 azure-services.ch
-azure-stack.ch
 azure-studio.ch
 azure-studios.ch
 azure-support.ch

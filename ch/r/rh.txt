@@ -1948,7 +1948,6 @@ rhy-arena.ch
 rhy-bistro.ch
 rhy-blitz.ch
 rhy-carrosserie.ch
-rhy-com.ch
 rhy-elektro.ch
 rhy-event.ch
 rhy-events.ch
@@ -2399,7 +2398,6 @@ rhytm.ch
 rhytmologie.ch
 rhytmusfrau.ch
 rhyton.ch
-rhytondor.ch
 rhytop.ch
 rhytraining.ch
 rhytreat.ch

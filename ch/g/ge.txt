@@ -786,7 +786,6 @@ gebetsgeschenk.ch
 gebetsgruppe.ch
 gebetshandbuch.ch
 gebetshaus-aaretal.ch
-gebetshaus-amden.ch
 gebetshaus-baden.ch
 gebetshaus-buelach.ch
 gebetshaus-davos.ch
@@ -1880,7 +1879,6 @@ gecomtrade.ch
 gecomus.ch
 gecon.ch
 geconcept.ch
-geconex.ch
 geconnect.ch
 geconsomme.ch
 geconsommelocal.ch
@@ -2147,6 +2145,8 @@ gedenkjahr.ch
 gedenkkarten-drucken.ch
 gedenkkarten.ch
 gedenkkerzen.ch
+gedenklicht.ch
+gedenklichter.ch
 gedenkmuenze.ch
 gedenkmuenzen.ch
 gedenkportal.ch
@@ -3039,7 +3039,6 @@ gegenwind-zo.ch
 gegenwind.ch
 gegenwindaesch.ch
 gegenwindfrienisberg.ch
-gegenwindkraft.ch
 gegere.ch
 gegerestaurant.ch
 gegessler.ch
@@ -5123,7 +5122,6 @@ gelindiamond.ch
 geling-garantie.ch
 geling.ch
 gelingen.ch
-gelingendes-leben.ch
 gelingendesleben.ch
 gelingendeslernen.ch
 gelinggarantie.ch
@@ -5460,7 +5458,6 @@ gemdat-rubin.ch
 gemdat.ch
 gemdata.ch
 gemdatwebhooks.ch
-gemdesign.ch
 gemdocs.ch
 gemdoluxe.ch
 gemdrink.ch
@@ -6374,6 +6371,7 @@ gemeva.ch
 gemex.ch
 gemexpo.ch
 gemeyer.ch
+gemeyert.ch
 gemfactor.ch
 gemfactory.ch
 gemfest.ch
@@ -6689,7 +6687,6 @@ gemseco.ch
 gemselect.ch
 gemsenberg.ch
 gemsflower.ch
-gemsg.ch
 gemsgeneva.ch
 gemshop.ch
 gemsi.ch
@@ -8753,7 +8750,6 @@ genevaluxury.ch
 genevaluxurycars.ch
 genevaluxuryrent.ch
 genevalytics.ch
-genevamag.ch
 genevamagiccabaret.ch
 genevamagicfestival.ch
 genevamagicshow.ch
@@ -8870,7 +8866,6 @@ genevartcol.ch
 genevartfestival.ch
 genevarugby.ch
 genevarumfest.ch
-genevarunclub.ch
 genevarunners.ch
 genevasafari.ch
 genevasailing.ch
@@ -9536,7 +9531,6 @@ geneveparquet.ch
 geneveparquets.ch
 genevepascher.ch
 genevepassion.ch
-genevepatrimoine.ch
 genevepc.ch
 genevepeintre.ch
 genevepeinture.ch
@@ -11220,7 +11214,6 @@ genusshoch10.ch
 genusshochschwein.ch
 genusshof.ch
 genusshotel.ch
-genusshotelkandersteg.ch
 genussimglas.ch
 genussimkreis4.ch
 genussimpuls.ch
@@ -11885,10 +11878,7 @@ geocaching-schweiz.ch
 geocaching-shop.ch
 geocaching-triregio.ch
 geocaching.ch
-geocachingschweiz.ch
 geocachingshop.ch
-geocachingsuisse.ch
-geocachingsvizzera.ch
 geocairn.ch
 geocal.ch
 geocalia.ch
@@ -12054,7 +12044,6 @@ geoevents.ch
 geoexpedition.ch
 geoexpert.ch
 geoexperten.ch
-geoexplorer.ch
 geofarm.ch
 geofence.ch
 geofetcher.ch
@@ -12122,6 +12111,7 @@ geogard.ch
 geogas.ch
 geogatto.ch
 geogbr.ch
+geogebra.ch
 geoged.ch
 geogem.ch
 geogeny.ch
@@ -13060,7 +13050,6 @@ georisk.ch
 georjon.ch
 geork.ch
 georoc.ch
-georoca.ch
 georock.ch
 georomandie.ch
 georomandie2018.ch
@@ -13334,6 +13323,7 @@ geoversand.ch
 geoversand24.ch
 geoview.ch
 geoviewer.ch
+geoviewgeneve.ch
 geoviews.ch
 geovis-ai7d.ch
 geovis.ch
@@ -15957,7 +15947,6 @@ geschenk-kaufen.ch
 geschenk-kiste.ch
 geschenk-kistenmanufaktur.ch
 geschenk-kistli.ch
-geschenk-knigge.ch
 geschenk-koerbe.ch
 geschenk-korb.ch
 geschenk-korb24.ch
@@ -17038,7 +17027,6 @@ gespraechstherapie.ch
 gespraechswerkstatt.ch
 gespraechszeit.ch
 gespraechszentrum.ch
-gespro.ch
 gespuerfuerstier.ch
 gespuertes-theater.ch
 gesreg.ch
@@ -17274,7 +17262,6 @@ gestaltwerk.ch
 gestaltwerkstatt.ch
 gestaltzauber.ch
 gestalya.ch
-gestamm.ch
 gestaodeseguros.ch
 gestapp.ch
 gestar.ch
@@ -17481,6 +17468,7 @@ gestion-saf.ch
 gestion-salaires.ch
 gestion-salles-reunion-elfswiss.ch
 gestion-services.ch
+gestion-sic.ch
 gestion-smedical.ch
 gestion-suisse.ch
 gestion-suiza.ch
@@ -19765,6 +19753,7 @@ get-seed.ch
 get-seo.ch
 get-services.ch
 get-set.ch
+get-shapes.ch
 get-shellacked.ch
 get-shit-done.ch
 get-sides.ch
@@ -19965,6 +19954,7 @@ getbodyposi.ch
 getbonnie.ch
 getbooked.ch
 getbooking.ch
+getboostify.ch
 getboutique.ch
 getbox.ch
 getboxxd.ch
@@ -20137,7 +20127,6 @@ getfit.ch
 getfitbylina.ch
 getfitjanine.ch
 getfitstayfit.ch
-getfitstore.ch
 getfitsuisse.ch
 getfitwith1010.ch
 getfityanchovelon.ch
@@ -20834,6 +20823,7 @@ getseasons.ch
 getseated.ch
 getsecure.ch
 getseed.ch
+getseen.ch
 getself.ch
 getsemani.ch
 getseo.ch

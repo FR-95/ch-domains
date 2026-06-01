@@ -364,7 +364,6 @@ a-fighters-trip.ch
 a-film.ch
 a-fischer.ch
 a-fit.ch
-a-fleur-de-mains.ch
 a-fleur-de-peau.ch
 a-fleur-de-toi.ch
 a-fluetsch.ch
@@ -703,7 +702,6 @@ a-multilink.ch
 a-mura.ch
 a-muse.ch
 a-musik.ch
-a-n-archi.ch
 a-n-art.ch
 a-n-c.ch
 a-n-d.ch
@@ -1156,7 +1154,6 @@ a-v-s-a.ch
 a-v-s.ch
 a-v.ch
 a-vanti.ch
-a-vas.ch
 a-vd.ch
 a-velo.ch
 a-vendre-cologny.ch

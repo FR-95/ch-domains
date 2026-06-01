@@ -135,7 +135,6 @@ ecaduniverse.ch
 ecaengineering.ch
 ecaf.ch
 ecafe.ch
-ecaffe.ch
 ecafoundation.ch
 ecaftan.ch
 ecag.ch
@@ -1259,7 +1258,6 @@ echter-bodensee.ch
 echter-schweizer-onlineshop.ch
 echter-tschunk.ch
 echter-wohnschutz.ch
-echter-zugerberg-kirsch.ch
 echter-zugerkirsch.ch
 echterbodensee.ch
 echterfassadenbau.ch
@@ -2379,7 +2377,6 @@ eco-treuhand.ch
 eco-tsapi.ch
 eco-tuch.ch
 eco-tuning.ch
-eco-twine.ch
 eco-umweltdienste.ch
 eco-upcycling.ch
 eco-vaisselles.ch
@@ -2544,7 +2541,6 @@ ecobeton.ch
 ecobetonag.ch
 ecobetonsa.ch
 ecobi.ch
-ecobike-geneve.ch
 ecobike.ch
 ecobikewash.ch
 ecobil.ch
@@ -4462,7 +4458,6 @@ ecomm.ch
 ecommc.ch
 ecomment.ch
 ecommerce-academy.ch
-ecommerce-agentur-schweiz.ch
 ecommerce-agentur.ch
 ecommerce-anleitung.ch
 ecommerce-ausbildung.ch
@@ -4470,7 +4465,6 @@ ecommerce-automation.ch
 ecommerce-award.ch
 ecommerce-conference.ch
 ecommerce-connect.ch
-ecommerce-einleitung.ch
 ecommerce-erstellen-lassen.ch
 ecommerce-expert.ch
 ecommerce-factory.ch
@@ -5570,6 +5564,7 @@ ecotherapy.ch
 ecotherm-fraestechnik.ch
 ecotherm-fresatura.ch
 ecotherm-group.ch
+ecotherm-schweiz.ch
 ecotherm-solar.ch
 ecotherm-system.ch
 ecotherm.ch
@@ -5658,7 +5653,6 @@ ecotubes.ch
 ecotuning.ch
 ecoturbino.ch
 ecoturismo.ch
-ecotwine.ch
 ecoulement.ch
 ecoumena.ch
 ecoumra.ch

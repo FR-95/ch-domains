@@ -213,7 +213,6 @@ pocketknife.ch
 pocketlab.ch
 pocketlawyer.ch
 pocketlearn.ch
-pocketlife.ch
 pocketlink.ch
 pocketm8.ch
 pocketmail.ch
@@ -441,7 +440,6 @@ podcastrienadire.ch
 podcasts.ch
 podcastschmiede.ch
 podcastschule.ch
-podcastscience.ch
 podcastsear.ch
 podcastslernen.ch
 podcaststation.ch
@@ -1848,6 +1846,7 @@ pointg.ch
 pointgesa.ch
 pointgmbh.ch
 pointgourmand.ch
+pointgrill.ch
 pointgroup.ch
 pointguards.ch
 pointhour.ch
@@ -1971,6 +1970,7 @@ pointzero-architecture.ch
 pointzero.ch
 pointzug.ch
 poinz.ch
+poio.ch
 poios.ch
 poipoi.ch
 poipolloi.ch
@@ -2864,7 +2864,6 @@ polarity-im-zentrum.ch
 polarity-institut.ch
 polarity-jaquelinemueller.ch
 polarity-kobler-basel.ch
-polarity-komplementaertherapie.ch
 polarity-lichtblick.ch
 polarity-praxis.ch
 polarity-rapperswil.ch
@@ -3053,7 +3052,6 @@ polcomticino.ch
 polconsul-basel.ch
 polcontec.ch
 pold.ch
-poldeck.ch
 poldecor.ch
 polder.ch
 poldi.ch
@@ -3413,7 +3411,6 @@ policescommunales.ch
 policescommunalesvaudoises.ch
 policesport.ch
 policesromandes.ch
-policesromandesrecrutement.ch
 policesuisse.ch
 policetest.ch
 policevalais.ch
@@ -3507,6 +3504,7 @@ polierstrahlen.ch
 polierstrahlmittel.ch
 poliertechnik.ch
 poliertuch.ch
+polierwerkdetailing.ch
 polierwerkstatt.ch
 polierwerkzeug.ch
 polierwerkzeuge.ch
@@ -7391,6 +7389,7 @@ pool-feminin.ch
 pool-folie.ch
 pool-folierengelterkinden.ch
 pool-for-nature.ch
+pool-garten.ch
 pool-hagelschaden.ch
 pool-hagelschutz.ch
 pool-heini.ch
@@ -7564,6 +7563,7 @@ poolcaredistribution.ch
 poolcarmobility.ch
 poolcenter.ch
 poolchemie.ch
+poolchind.ch
 poolchlor.ch
 poolchlor24.ch
 poolclean.ch
@@ -7688,7 +7688,6 @@ poolmatix.ch
 poolmax-snc.ch
 poolmax.ch
 poolmaxx.ch
-poolmegastore.ch
 poolmeup.ch
 poolmiete.ch
 poolmieten.ch
@@ -8228,7 +8227,6 @@ popken-selection.ch
 popken.ch
 popkenfashion.ch
 popkenselection.ch
-popki.ch
 popkitchen.ch
 popkonditorei.ch
 popkonzert.ch
@@ -14550,7 +14548,6 @@ powervoices.ch
 powervolt.ch
 powervorsorge.ch
 powerwalker.ch
-powerwall.ch
 powerwandel.ch
 powerwasser.ch
 powerwat.ch

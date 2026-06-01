@@ -799,7 +799,6 @@ ccmetal.ch
 ccmetallbau.ch
 ccmft.ch
 ccmgl.ch
-ccmhockey.ch
 ccmhockeyschweiz.ch
 ccmhockeyshop.ch
 ccmhockeyswitzerland.ch
@@ -1221,7 +1220,6 @@ ccvgc.ch
 ccvia.ch
 ccvm.ch
 ccvmail.ch
-ccvonline.ch
 ccvouivre.ch
 ccvouivres.ch
 ccvp.ch

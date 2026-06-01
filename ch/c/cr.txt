@@ -1865,7 +1865,6 @@ crazy-kilts.ch
 crazy-legs.ch
 crazy-linedancers.ch
 crazy-lobster.ch
-crazy-loca.ch
 crazy-lounge.ch
 crazy-market.ch
 crazy-marmots.ch
@@ -2479,7 +2478,6 @@ crea-rex.ch
 crea-ring-design.ch
 crea-scan.ch
 crea-schrei.ch
-crea-schriften.ch
 crea-shirt.ch
 crea-soft.ch
 crea-sol.ch
@@ -2632,7 +2630,6 @@ creaclo.ch
 creacloud.ch
 creaco.ch
 creacoach.ch
-creacocco.ch
 creacodei.ch
 creacoeur.ch
 creacoeurevents.ch
@@ -3484,7 +3481,6 @@ createsmile.ch
 createst.ch
 createswitzerland.ch
 createtheflow.ch
-createur-ambiance.ch
 createur-contenu.ch
 createur-d-ombre.ch
 createur-de-contenu.ch
@@ -3851,7 +3847,6 @@ creationdesites.ch
 creationdesitesweb.ch
 creationdesoi.ch
 creationdesouvenirs.ch
-creationdessitesweb.ch
 creationdigitale.ch
 creationdinterieur.ch
 creationdomi.ch
@@ -4197,7 +4192,6 @@ creative-leadership-coaching.ch
 creative-leadership.ch
 creative-leonora.ch
 creative-life-coaching.ch
-creative-life.ch
 creative-lightness.ch
 creative-little-finger.ch
 creative-living.ch
@@ -6212,7 +6206,6 @@ crescenda.ch
 crescendi.ch
 crescendo-ag.ch
 crescendo-dance.ch
-crescendo-danse.ch
 crescendo-formation-coaching.ch
 crescendo-formation.ch
 crescendo-jura.ch
@@ -6277,6 +6270,7 @@ creso.ch
 cresoft.ch
 cresolution.ch
 cresolutions.ch
+cresovia.ch
 crespace.ch
 crespi.ch
 crespiarchitetti.ch
@@ -9599,7 +9593,6 @@ crpme.ch
 crpn.ch
 crpnl.ch
 crpnordiquegj.ch
-crpp-sta.ch
 crpp.ch
 crpproducts.ch
 crpr.ch

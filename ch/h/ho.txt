@@ -1319,7 +1319,6 @@ hochzeit-anzug.ch
 hochzeit-ap.ch
 hochzeit-apero.ch
 hochzeit-art.ch
-hochzeit-bapa.ch
 hochzeit-baraigla.ch
 hochzeit-basel.ch
 hochzeit-beratung.ch
@@ -2121,7 +2120,6 @@ hochzeitsportal-schweiz.ch
 hochzeitsportal-zuerich.ch
 hochzeitsportal.ch
 hochzeitsportal24.ch
-hochzeitsprofi.ch
 hochzeitsprofis-akademie.ch
 hochzeitsqr.ch
 hochzeitsquartett.ch
@@ -3904,7 +3902,6 @@ hof-halde.ch
 hof-hausmatt.ch
 hof-heer.ch
 hof-hegisau.ch
-hof-held.ch
 hof-hellgrau.ch
 hof-herrendingen.ch
 hof-hinder.ch
@@ -4032,7 +4029,6 @@ hof-schmid.ch
 hof-schnabelsberg.ch
 hof-schoenau.ch
 hof-schoenegg.ch
-hof-schoeneich.ch
 hof-schoenmatt.ch
 hof-schons.ch
 hof-schuebshub.ch
@@ -4844,6 +4840,7 @@ hofkonflikt.ch
 hofkonzept.ch
 hofkonzert.ch
 hofkonzerte.ch
+hofkorb.ch
 hofkost.ch
 hofkreis.ch
 hofkrummacker.ch
@@ -5479,7 +5476,6 @@ hofstetter-roefs.ch
 hofstetter-schreinerei.ch
 hofstetter-sins.ch
 hofstetter-solutions.ch
-hofstetter-sports.ch
 hofstetter-stahlbau.ch
 hofstetter-swiss.ch
 hofstetter-switzerland.ch
@@ -6319,7 +6315,6 @@ holbrookecentre.ch
 holc-naturpools.ch
 holc.ch
 holcad.ch
-holcbecher.ch
 holcim-boutique.ch
 holcim-events.ch
 holcim-lafarge.ch
@@ -7573,7 +7568,6 @@ holly.ch
 hollyair.ch
 hollyandthesnowman.ch
 hollyballon.ch
-hollybay.ch
 hollycamp.ch
 hollydia.ch
 hollydolly.ch
@@ -9103,6 +9097,7 @@ holzboutique-senn.ch
 holzboutique.ch
 holzbox.ch
 holzboxx.ch
+holzbranche-aktuell.ch
 holzbranche.ch
 holzbrand-keramik.ch
 holzbrand.ch
@@ -10737,7 +10732,6 @@ hom1.ch
 hom3-services.ch
 hom3.ch
 hom3services.ch
-hom4800.ch
 homa-architetti.ch
 homa-architettura.ch
 homa-bau.ch
@@ -10869,7 +10863,6 @@ homburger.ch
 homco.ch
 homday.ch
 home-11.ch
-home-2-print.ch
 home-24.ch
 home-360.ch
 home-4-you.ch
@@ -11347,7 +11340,6 @@ home2go.ch
 home2home.ch
 home2live.ch
 home2move.ch
-home2print.ch
 home2suites.ch
 home2suitesbyhilton.ch
 home2suiteshi.ch
@@ -12441,6 +12433,7 @@ homeofswitzerland.ch
 homeoftalents.ch
 homeoftea.ch
 homeofteak.ch
+homeoftennis.ch
 homeofthemortgage.ch
 homeofthewhopper.ch
 homeoftrade.ch
@@ -13054,7 +13047,6 @@ homesys.ch
 homesystem.ch
 homesystems.ch
 homeszenario.ch
-hometag.ch
 hometainment.ch
 hometaste.ch
 hometax.ch
@@ -15369,7 +15361,6 @@ hopperandhawkes.ch
 hopperschte.ch
 hoppersmovie.ch
 hoppflex.ch
-hoppfoods.ch
 hopphopp.ch
 hoppi-galoppi.ch
 hoppi.ch
@@ -16503,7 +16494,6 @@ hornig.ch
 hornisse.ch
 hornissen-entfernen.ch
 hornissen-koenigin.ch
-hornissen-notdienst.ch
 hornissen-rettung.ch
 hornissen-wespenfachberater.ch
 hornissen.ch
@@ -16567,6 +16557,7 @@ hornung-lawfirm.ch
 hornung-shop.ch
 hornung.ch
 hornungconsulting.ch
+hornungdigital.ch
 hornungs.ch
 hornungsoukup.ch
 hornungviolins.ch
@@ -17161,7 +17152,6 @@ horsystemakustik-schweiz.ch
 horsystemakustik.ch
 horsysteme.ch
 hort-data.ch
-hort-elgg.ch
 hort-globalservice.ch
 hort-happykids.ch
 hort-info-app.ch
@@ -18726,7 +18716,6 @@ hotbabes.ch
 hotbananas.ch
 hotbars.ch
 hotben.ch
-hotbench.ch
 hotberry.ch
 hotbid.ch
 hotbike-shop.ch
@@ -20402,7 +20391,6 @@ hotelalex.ch
 hotelalexander.ch
 hotelalexzermatt.ch
 hotelalfa.ch
-hotelalfasoleil.ch
 hotelalgarve.ch
 hotelallalin.ch
 hotelallegro.ch
@@ -22402,7 +22390,6 @@ hotelswallis.ch
 hotelswengen.ch
 hotelswien.ch
 hotelswiss-marketing.ch
-hotelswiss.ch
 hotelswissalp.ch
 hotelswitzerland.ch
 hotelsymphony.ch
@@ -23135,7 +23122,6 @@ hoty.ch
 hotyeti.ch
 hotyoga.ch
 hotyoga4u.ch
-hotyogablog.ch
 hotyogachristophherren.ch
 hotyogaolten.ch
 hotyogazug.ch
@@ -23525,7 +23511,6 @@ houseboat.ch
 houseboats.ch
 housebook.ch
 housebox.ch
-housebuilding.ch
 housebuildsolution.ch
 housebutler.ch
 housebythelake.ch

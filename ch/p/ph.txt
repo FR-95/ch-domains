@@ -673,7 +673,6 @@ pharmacie-grangettes.ch
 pharmacie-grognuz.ch
 pharmacie-hadid.ch
 pharmacie-helvetique.ch
-pharmacie-holistique.ch
 pharmacie-ile-verte.ch
 pharmacie-imperiale.ch
 pharmacie-internationale.ch
@@ -690,7 +689,6 @@ pharmacie-medimarket.ch
 pharmacie-miserez.ch
 pharmacie-mont.ch
 pharmacie-montreux.ch
-pharmacie-mousquines.ch
 pharmacie-moutier.ch
 pharmacie-naturelle.ch
 pharmacie-nidau.ch
@@ -922,6 +920,7 @@ pharmaciemauverneygland.ch
 pharmaciemedbase.ch
 pharmaciemedi-market.ch
 pharmaciemedimarket.ch
+pharmaciemole.ch
 pharmaciemontbrillant.ch
 pharmaciemontchoisy.ch
 pharmaciemontolivet.ch
@@ -1962,7 +1961,6 @@ phformula.ch
 phfr.ch
 phfragrance.ch
 phfragrances.ch
-phfrank.ch
 phg-architekten.ch
 phg-art.ch
 phg-labs.ch
@@ -2807,7 +2805,6 @@ philippegertsch.ch
 philippegetaz.ch
 philippegiraudon.ch
 philippegli.ch
-philippegolaz.ch
 philippegraff.ch
 philippegroux.ch
 philippegrueninger.ch
@@ -4804,7 +4801,6 @@ photo-suisse.ch
 photo-supply.ch
 photo-sur-toile.ch
 photo-sw.ch
-photo-swiss.ch
 photo-swissmasters.ch
 photo-talks.ch
 photo-therapie.ch
@@ -5672,7 +5668,6 @@ photopixel.ch
 photoplanete.ch
 photoplay.ch
 photopluess.ch
-photopmodels.ch
 photopoetry.ch
 photopoint.ch
 photopol.ch
@@ -10389,7 +10384,6 @@ physiotherapieamdorfplatz.ch
 physiotherapieamkreisel.ch
 physiotherapieamrhein.ch
 physiotherapieamsee.ch
-physiotherapieanderhalde.ch
 physiotherapieandrea.ch
 physiotherapieauenstein.ch
 physiotherapieausbildung.ch

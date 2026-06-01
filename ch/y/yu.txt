@@ -7,6 +7,7 @@ yu-immo.ch
 yu-ja.ch
 yu-kursaal.ch
 yu-long.ch
+yu-migration.ch
 yu-schlossberg.ch
 yu-via.ch
 yua-sushi.ch
@@ -378,7 +379,6 @@ yumiks.ch
 yumilashes.ch
 yuminet.ch
 yumio.ch
-yumipopup.ch
 yumis.ch
 yumisenses.ch
 yumistokyokitchen.ch

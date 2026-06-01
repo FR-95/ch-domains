@@ -321,7 +321,6 @@ typisch.ch
 typisch17.ch
 typischaargau.ch
 typischag.ch
-typischagenda.ch
 typischanders.ch
 typischbern.ch
 typischbrauchtum.ch
@@ -331,7 +330,6 @@ typischemil.ch
 typischich.ch
 typischjung.ch
 typischm.ch
-typischmagazin.ch
 typischphotonics.ch
 typischsandra.ch
 typischschweiz.ch
@@ -671,6 +669,7 @@ tyrolitlive.ch
 tyrolla.ch
 tyromediagroup.ch
 tyromotion.ch
+tyron.ch
 tyrone-nelson.ch
 tyrone.ch
 tyronerichards.ch

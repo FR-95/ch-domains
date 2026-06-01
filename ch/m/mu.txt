@@ -24,7 +24,6 @@ mu-mo.ch
 mu-pi.ch
 mu-sa.ch
 mu-services.ch
-mu-shop.ch
 mu-t.ch
 mu-tech.ch
 mu-tools.ch
@@ -1598,6 +1597,7 @@ muellerpc.ch
 muellerpeter.ch
 muellerpfyn.ch
 muellerphysio.ch
+muellerplanstudio.ch
 muellerpost.ch
 muellerprange.ch
 muellerpraxis.ch
@@ -5235,7 +5235,6 @@ munitions-piraten.ch
 munitionsbox.ch
 munitionsdepot.ch
 munitionsdiscount.ch
-munitionskiste.ch
 munitionspreise.ch
 munity.ch
 munivers.ch
@@ -5683,6 +5682,7 @@ murattokay.ch
 muratum-murten.ch
 muratum.ch
 muratum43.ch
+muratumcoaching.ch
 muratyakinkinderstiftung.ch
 muratyener.ch
 murauer.ch
@@ -6606,7 +6606,6 @@ mused.ch
 musee-absurde.ch
 musee-agricole.ch
 musee-alberto-giacometti.ch
-musee-alpin.ch
 musee-ariana.ch
 musee-arman.ch
 musee-armee.ch
@@ -6688,7 +6687,6 @@ musee.ch
 musee3d.ch
 museealbertogiacometti.ch
 museealemporter.ch
-museealpin.ch
 museeatelier.ch
 museeatelieraudemarspiguet.ch
 museeaucinema.ch
@@ -7408,7 +7406,6 @@ mushing-shop.ch
 mushing4you.ch
 mushlove.ch
 mushmed.ch
-mushop.ch
 mushotoku.ch
 mushpet.ch
 mushroom-club.ch
@@ -7528,7 +7525,6 @@ music-monkeys.ch
 music-more.ch
 music-n-joy.ch
 music-news.ch
-music-o-mania.ch
 music-o-mere.ch
 music-on-a-beautiful-day.ch
 music-on-demand.ch
@@ -10128,7 +10124,6 @@ muster-shop.ch
 muster-solutions.ch
 muster-statuten.ch
 muster-stempel.ch
-muster-tank.ch
 muster-urkunden.ch
 muster-vorlage.ch
 muster-vorlagen.ch

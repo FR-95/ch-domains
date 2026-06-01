@@ -39,7 +39,6 @@ on-da.ch
 on-debouche.ch
 on-demand-services.ch
 on-demand-talent.ch
-on-demand-tv.ch
 on-demand.ch
 on-digital-solutions.ch
 on-do-design.ch
@@ -3944,7 +3943,6 @@ online-shop-aufbauen.ch
 online-shop-auswahl.ch
 online-shop-eroeffnen.ch
 online-shop-erstellen-lassen.ch
-online-shop-erstellen-schweiz.ch
 online-shop-erstellen.ch
 online-shop-fitness.ch
 online-shop-kaufen.ch
@@ -5867,7 +5865,6 @@ only-climate.ch
 only-consulting.ch
 only-cool.ch
 only-digital.ch
-only-dive.ch
 only-dog.ch
 only-dogs.ch
 only-drive.ch
@@ -6668,7 +6665,6 @@ onstage.ch
 onstagecoaching.ch
 onstageevents.ch
 onstagefilm.ch
-onstagemusic.ch
 onstagenow.ch
 onstar.ch
 onstay.ch
@@ -7095,9 +7091,11 @@ onyx-media.ch
 onyx-medical.ch
 onyx-nyon.ch
 onyx-online.ch
+onyx-realestate.ch
 onyx-sensual.ch
 onyx-smash.ch
 onyx-studio.ch
+onyx-swiss.ch
 onyx-taxi.ch
 onyx-trust.ch
 onyx-webagentur.ch
@@ -7160,6 +7158,8 @@ onyxsoul.ch
 onyxsports.ch
 onyxstudio.ch
 onyxsui009.ch
+onyxswiss-realestate.ch
+onyxswiss.ch
 onyxvssarl.ch
 onyxyacht.ch
 onz.ch

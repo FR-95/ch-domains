@@ -354,7 +354,6 @@ weacceptbitcoin.ch
 weaccuse.ch
 weacol.ch
 weact.ch
-weactive.ch
 weactnow.ch
 weadplus.ch
 weadvance.ch
@@ -472,6 +471,7 @@ wealthiee.ch
 wealthier.ch
 wealthinequality.ch
 wealthing.ch
+wealthingo.ch
 wealthings-vaud.ch
 wealthings.ch
 wealthink.ch
@@ -709,7 +709,6 @@ weareinnovatech.ch
 wearejamoon.ch
 wearejolies.ch
 wearekind.ch
-weareklara.ch
 weareklinx.ch
 weareknitters.ch
 wearekollektiv.ch
@@ -1000,7 +999,6 @@ web-adventures.ch
 web-advertising.ch
 web-advice.ch
 web-advisor.ch
-web-agence-geneve.ch
 web-agency.ch
 web-agents.ch
 web-agentur-aargau.ch
@@ -1667,7 +1665,6 @@ web-team.ch
 web-tec.ch
 web-tech.ch
 web-template.ch
-web-templates.ch
 web-test.ch
 web-testumgebung.ch
 web-text.ch
@@ -2756,7 +2753,6 @@ webdesign-berner-oberland.ch
 webdesign-biel.ch
 webdesign-bienne.ch
 webdesign-bl.ch
-webdesign-blog.ch
 webdesign-bolinger.ch
 webdesign-braegger.ch
 webdesign-bremgarten.ch
@@ -2793,7 +2789,6 @@ webdesign-freiburg.ch
 webdesign-fricktal.ch
 webdesign-frutigen.ch
 webdesign-fuer-iphone.ch
-webdesign-future.ch
 webdesign-geneva.ch
 webdesign-geneve.ch
 webdesign-gl.ch
@@ -2890,7 +2885,6 @@ webdesign-schaffhausen.ch
 webdesign-schatt.ch
 webdesign-school.ch
 webdesign-schule.ch
-webdesign-schweiz-agentur.ch
 webdesign-schweiz.ch
 webdesign-schwyz.ch
 webdesign-seeland.ch
@@ -2989,7 +2983,6 @@ webdesignbaselland.ch
 webdesignbeer.ch
 webdesignberlin.ch
 webdesignbern.ch
-webdesignblog.ch
 webdesignburgdorf.ch
 webdesignbyleon.ch
 webdesignbysonia.ch
@@ -3091,7 +3084,6 @@ webdesignundhosting.ch
 webdesignuno.ch
 webdesignvision.ch
 webdesignvisp.ch
-webdesignvorlagen.ch
 webdesignwerk.ch
 webdesignwerkstatt.ch
 webdesignwey.ch
@@ -3940,7 +3932,6 @@ webfinancialtools.ch
 webfinanz.ch
 webfinder.ch
 webfine.ch
-webfini.ch
 webfinity.ch
 webfink-broennimann.ch
 webfire.ch
@@ -4296,7 +4287,6 @@ webideas.ch
 webidee.ch
 webideen.ch
 webidentity.ch
-webidoo.ch
 webie.ch
 webif.ch
 webifly.ch
@@ -5210,6 +5200,7 @@ webpresent.ch
 webpress.ch
 webpression.ch
 webpresso.ch
+webpresta.ch
 webpreview.ch
 webprevoyance.ch
 webprime.ch
@@ -5357,12 +5348,10 @@ webreporting.ch
 webrepublic-beratung.ch
 webrepublic-branding.ch
 webrepublic-direct.ch
-webrepublic-ouest.ch
 webrepublic-performance.ch
 webrepublic-strategies.ch
 webrepublic-technologies.ch
 webrepublic.ch
-webrepublicouest.ch
 webrepublicstrategies.ch
 webrepublictechnologies.ch
 webrepublik.ch
@@ -6714,7 +6703,6 @@ webvorschlag.ch
 webvote-so.ch
 webvoting.ch
 webwab.ch
-webwachs.ch
 webwachstum.ch
 webwade.ch
 webwaerts.ch
@@ -7255,7 +7243,6 @@ weddevent.ch
 weddies.ch
 weddina.ch
 wedding-aargau.ch
-wedding-academy.ch
 wedding-air.ch
 wedding-anna-armir.ch
 wedding-award.ch
@@ -7382,7 +7369,6 @@ wedding-zeqiri.ch
 wedding2024.ch
 wedding360.ch
 weddingaargau.ch
-weddingacademy.ch
 weddingadvisor.ch
 weddingalacarte.ch
 weddingangeladaniel.ch
@@ -9751,7 +9737,6 @@ weight-doctors.ch
 weight-fighters.ch
 weight-gain.ch
 weight-gainer.ch
-weight-lifebalance.ch
 weight-loss.ch
 weight-management.ch
 weight-power.ch
@@ -10468,7 +10453,6 @@ wein-kaufen.ch
 wein-keller.ch
 wein-kellers-gourmet.ch
 wein-kiste.ch
-wein-klimaschrank.ch
 wein-kompetenz.ch
 wein-kontor.ch
 wein-kuehler.ch
@@ -18361,6 +18345,7 @@ werk23.ch
 werk25.ch
 werk2ag.ch
 werk2go.ch
+werk3-mechanik.ch
 werk3.ch
 werk31.ch
 werk314.ch
@@ -20478,7 +20463,6 @@ wespen-experte.ch
 wespen-feuerwehr.ch
 wespen-luzern.ch
 wespen-nest-entfernen.ch
-wespen-notdienst.ch
 wespen-oliva.ch
 wespen-spray.ch
 wespen-stop.ch

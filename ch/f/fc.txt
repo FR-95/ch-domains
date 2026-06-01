@@ -1116,7 +1116,6 @@ fcmv28.ch
 fcn-fasnacht.ch
 fcn-gruempi.ch
 fcn.ch
-fcn1.ch
 fcna.ch
 fcnarvik.ch
 fcnaters.ch
@@ -1165,6 +1164,7 @@ fcolympicfahy.ch
 fcom.ch
 fcomfinance.ch
 fcomini.ch
+fconex.ch
 fconnection.ch
 fcons.ch
 fcontracting.ch

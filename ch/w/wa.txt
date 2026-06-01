@@ -830,7 +830,6 @@ waeckerli.ch
 waeckerlig.ch
 waeckerlin-ag.ch
 waeckerlin-car.ch
-waeckerlin-clan.ch
 waeckerlin-meier.ch
 waeckerlin-praxis.ch
 waeckerlin.ch
@@ -1704,6 +1703,7 @@ waffen-kaufen.ch
 waffen-koffer.ch
 waffen-magazin.ch
 waffen-manufaktur.ch
+waffen-marktplatz.ch
 waffen-militaria.ch
 waffen-online.ch
 waffen-schweiz.ch
@@ -3168,7 +3168,6 @@ wakouwateatro.ch
 wakoweb.ch
 wakra.ch
 waks.ch
-wakte.ch
 waku-waku.ch
 waku.ch
 wakuko.ch
@@ -3246,7 +3245,6 @@ walchi.ch
 walchli.ch
 walchmail.ch
 walchmaschinen.ch
-walchs.ch
 walchshofer.ch
 walchwil.ch
 walchwil24.ch
@@ -4203,6 +4201,7 @@ waldluft-atmen.ch
 waldluft.ch
 waldlust.ch
 waldluzern.ch
+waldmacher.ch
 waldmachthappy.ch
 waldmaeuse.ch
 waldmagazin.ch
@@ -7380,6 +7379,7 @@ wander-guide.ch
 wander-hotel.ch
 wander-kalender.ch
 wander-kathi.ch
+wander-land.ch
 wander-leiter.ch
 wander-lims.ch
 wander-maler.ch
@@ -10649,6 +10649,7 @@ wasserfilterstaubsauger.ch
 wasserfiltersystem.ch
 wasserfiltervergleich24.ch
 wasserfinder.ch
+wasserfindet.ch
 wasserfindling.ch
 wasserfischnatur.ch
 wasserfitgym.ch
@@ -12338,7 +12339,6 @@ waterjet-schweiz.ch
 waterjet-standards.ch
 waterjet-structuring.ch
 waterjet-systems.ch
-waterjet-technologe.ch
 waterjet-technology.ch
 waterjet-turning.ch
 waterjet.ch
@@ -13445,7 +13445,6 @@ waypoint-beratung.ch
 waypoint-consulting.ch
 waypoint.ch
 waypoints.ch
-waypointx.ch
 wayra-capital.ch
 wayra.ch
 wayraatpadhai.ch

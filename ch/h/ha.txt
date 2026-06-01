@@ -2877,7 +2877,6 @@ haellozumleben.ch
 haelmlibieger.ch
 haelo.ch
 haelok.ch
-haelp.ch
 haelsa.ch
 haelsamedia.ch
 haelsi.ch
@@ -3004,6 +3003,8 @@ haendel-zepf.ch
 haendel.ch
 haendelchor.ch
 haendelundknetel.ch
+haendereich.ch
+haendereichen.ch
 haenders.ch
 haendetrockner.ch
 haendewaschen.ch
@@ -4589,7 +4590,6 @@ hai-haiku.ch
 hai-insel.ch
 hai-school.ch
 hai-speed.ch
-hai-treuhand.ch
 hai-trust.ch
 hai-visto.ch
 hai.ch
@@ -4600,7 +4600,6 @@ haiabubu.ch
 haiaiai.ch
 haiart.ch
 haiaty.ch
-haib.ch
 haibach.ch
 haibaechli.ch
 haibike-bern.ch
@@ -6806,7 +6805,6 @@ hallaufitness.ch
 hallay.ch
 hallba.ch
 hallbar.ch
-hallberg-dentes.ch
 hallberg-rassy.ch
 hallberg.ch
 hallbergrassy.ch
@@ -7184,7 +7182,6 @@ hallo-arbon.ch
 hallo-ausserholligen.ch
 hallo-ausserrhoden.ch
 hallo-baby.ch
-hallo-babysitter.ch
 hallo-baern.ch
 hallo-basel-landschaft.ch
 hallo-baselland.ch
@@ -7415,6 +7412,7 @@ hallopc.ch
 hallopetra.ch
 hallopizza-chezbeny.ch
 hallopizza.ch
+hallopizzeria.ch
 hallopoint.ch
 hallopraxis.ch
 halloprivacy.ch
@@ -13704,7 +13702,6 @@ happy-air.ch
 happy-alma.ch
 happy-alpaka.ch
 happy-and-healthy.ch
-happy-and-smart.ch
 happy-animal.ch
 happy-art.ch
 happy-arts.ch
@@ -16619,7 +16616,6 @@ harmonikaclub-stz.ch
 harmonikaclubduebendorf.ch
 harmonikalischefrequenzanwendung.ch
 harmonikalischefrequenzen.ch
-harmonikatueren.ch
 harmonikcoaching.ch
 harmonina.ch
 harmonious-living.ch
@@ -18245,7 +18241,6 @@ hasliberge.ch
 hasliberger.ch
 haslibergerwein.ch
 haslibergferien.ch
-haslibergkaese.ch
 hasliberglindeli.ch
 haslibergoase.ch
 haslibergpraxis.ch
@@ -18553,7 +18548,6 @@ hateordate.ch
 hatespea.ch
 hatespee.ch
 hatetepe.ch
-hatevent.ch
 hatex.ch
 hatfabric.ch
 hatga.ch
@@ -18643,7 +18637,6 @@ hatschicrm.ch
 hatschigroup.ch
 hatschii.ch
 hatschiportal.ch
-hatsevents.ch
 hatsk.ch
 hatstore.ch
 hatsu.ch
@@ -18821,7 +18814,6 @@ hauenstein.ch
 hauensteinag.ch
 hauensteinandrea.ch
 hauensteincoaching.ch
-hauensteinfotografie.ch
 hauensteingruppe.ch
 hauensteinhome.ch
 hauensteinhotels.ch
@@ -19652,6 +19644,7 @@ haus-spitex.ch
 haus-sprecher.ch
 haus-st-michael.ch
 haus-st-otmar.ch
+haus-staging.ch
 haus-stall-harmonisierung.ch
 haus-stammheim.ch
 haus-stauffacher.ch
@@ -21614,6 +21607,7 @@ hauslein.ch
 hausleiter.ch
 hauslennox.ch
 hausler.ch
+hausli.ch
 hausliche-pflege.ch
 hausliebe.ch
 hausliefer-service.ch
@@ -22004,6 +21998,7 @@ hausspezi.ch
 hausspezialitaeten.ch
 hausspitex.ch
 haussponagel.ch
+hausstaging.ch
 hausstammheim.ch
 hausstauballergie.ch
 hausstaubmilben.ch
@@ -22563,7 +22558,6 @@ hauswartschule-schweiz.ch
 hauswartschule.ch
 hauswartschweiz.ch
 hauswartsdienst.ch
-hauswartservice-kern.ch
 hauswartservice.ch
 hauswartservicebern.ch
 hauswartshop.ch
@@ -23486,7 +23480,6 @@ havana-smokers-club.ch
 havana.ch
 havanacigars.ch
 havanaclab.ch
-havanaclub.ch
 havanafest.ch
 havanagalerie.ch
 havanahouse.ch
@@ -23724,12 +23717,10 @@ hawaii-schweiz.ch
 hawaii-urlaub.ch
 hawaii.ch
 hawaii24shop.ch
-hawaiian-foodtruck.ch
 hawaiian-touch.ch
 hawaiian.ch
 hawaiiana.ch
 hawaiianbodywork.ch
-hawaiianfoodtruck.ch
 hawaiianischemassage.ch
 hawaiianmassage.ch
 hawaiiantreatments.ch

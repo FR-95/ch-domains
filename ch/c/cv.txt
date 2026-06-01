@@ -28,7 +28,6 @@ cv-goldiwil.ch
 cv-help.ch
 cv-invest.ch
 cv-jobs.ch
-cv-lab.ch
 cv-labs.ch
 cv-liber.ch
 cv-liiber.ch
@@ -201,7 +200,6 @@ cvebassenges.ch
 cvecellio.ch
 cveconsulting.ch
 cvecostruzionigr.ch
-cvecour.ch
 cvedemaillefer.ch
 cvefind.ch
 cveil.ch
@@ -398,7 +396,6 @@ cvp-nw.ch
 cvp-oberaargau.ch
 cvp-oberwallis.ch
 cvp-polit2go.ch
-cvp-rapperswil.ch
 cvp-reinach.ch
 cvp-roeschenz.ch
 cvp-rueti.ch

@@ -200,6 +200,7 @@ s-d-c.ch
 s-d-d.ch
 s-d-f.ch
 s-d-g.ch
+s-d-l.ch
 s-d-m.ch
 s-d.ch
 s-dahay-dorf.ch
@@ -474,6 +475,7 @@ s-load.ch
 s-loch.ch
 s-log.ch
 s-lowtech.ch
+s-lts.ch
 s-luce.ch
 s-lutze.ch
 s-lw.ch

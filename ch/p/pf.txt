@@ -2086,7 +2086,6 @@ pferdekraemer.ch
 pferdekraft.ch
 pferdekram.ch
 pferdekrankheit.ch
-pferdekraut.ch
 pferdekremation-schweiz.ch
 pferdekremation-seon.ch
 pferdekremation.ch
@@ -2671,7 +2670,6 @@ pfg-energy.ch
 pfg-experience.ch
 pfg-fribourg.ch
 pfg-geneve.ch
-pfg-gossau.ch
 pfg-immo.ch
 pfg-lausanne.ch
 pfg-re.ch
@@ -2811,7 +2809,6 @@ pfingstcamp.ch
 pfingstegg.ch
 pfingsten.ch
 pfingstfest-bettwiesen.ch
-pfingstfest.ch
 pfingstfestival.ch
 pfingstfreude.ch
 pfingstfreuden.ch
@@ -3163,6 +3160,7 @@ pfl-location.ch
 pfl-transport.ch
 pfl-verwaltung.ch
 pfl.ch
+pflab.ch
 pflaeg-dahei.ch
 pflaeg-dehei.ch
 pflaeg.ch
@@ -3395,6 +3393,7 @@ pflanzenmagie.ch
 pflanzenmann.ch
 pflanzenmarkt.ch
 pflanzenmax.ch
+pflanzenmedizin.ch
 pflanzenmeister.ch
 pflanzenmieten-basel.ch
 pflanzenmieten-bern.ch

@@ -608,6 +608,7 @@ bibelkultur.ch
 bibelkurs.ch
 bibelkurse.ch
 bibelleben.ch
+bibellebendig.ch
 bibellehrdienst.ch
 bibellehrer.ch
 bibellese-zeitschriften.ch
@@ -862,7 +863,6 @@ bibimmedia.ch
 bibimshack.ch
 bibin.ch
 bibinails.ch
-bibine.ch
 bibinetz.ch
 bibinfo.ch
 bibino.ch
@@ -3727,7 +3727,6 @@ bierlab.ch
 bierlabel.ch
 bierlabor.ch
 bierlabsounds.ch
-bierlade.ch
 bierladen.ch
 bierlager.ch
 bierland.ch
@@ -4104,7 +4103,6 @@ bifanghof.ch
 bifangimbiss.ch
 bifangmarkt.ch
 bifangnet.ch
-bifangpark.ch
 bifangweg.ch
 bifbof.ch
 bifc.ch
@@ -5447,7 +5445,9 @@ biing.ch
 biings.ch
 biinii-design.ch
 biinii-designs.ch
+biinii-paws.ch
 biinii.ch
+biiniipaws.ch
 biinom.ch
 biinome.ch
 biip.ch
@@ -5585,7 +5585,6 @@ bijouterie-sonderegger.ch
 bijouterie-thiel.ch
 bijouterie-valais.ch
 bijouterie-vergleich.ch
-bijouterie-zbinden.ch
 bijouterie.ch
 bijouteriebrunner.ch
 bijouteriebrunnerbyrejane.ch
@@ -5635,7 +5634,6 @@ bijoux-de-peaux.ch
 bijoux-do.ch
 bijoux-et-plus.ch
 bijoux-fantaisie.ch
-bijoux-fous.ch
 bijoux-herelba.ch
 bijoux-huebel.ch
 bijoux-io.ch
@@ -5650,7 +5648,6 @@ bijoux-outlet.ch
 bijoux-rederer.ch
 bijoux-schmuckhandwerk.ch
 bijoux-spheres.ch
-bijoux-suisse.ch
 bijoux-supair.ch
 bijoux.ch
 bijoux24.ch
@@ -5679,7 +5676,6 @@ bijouxdonut.ch
 bijouxdor.ch
 bijouxetplus.ch
 bijouxfaitalamain13.ch
-bijouxforyou.ch
 bijouxguggisberg.ch
 bijouxherbarium.ch
 bijouxjaccard.ch
@@ -6315,7 +6311,6 @@ bikefestival-basel.ch
 bikefilmtour.ch
 bikefinance.ch
 bikefinder.ch
-bikefit.ch
 bikefitcenter.ch
 bikefitcentre.ch
 bikefitter.ch
@@ -6360,6 +6355,7 @@ bikegenossin.ch
 bikegoms.ch
 bikegrouplostorf.ch
 bikegryon.ch
+bikeguide-mittelland.ch
 bikeguide.ch
 bikeguidemiche.ch
 bikeguides-zentralschweiz.ch
@@ -6860,6 +6856,7 @@ bikeschule-lenk.ch
 bikeschule-lenzerheide.ch
 bikeschule-luzern.ch
 bikeschule-marbachegg.ch
+bikeschule-mittelland.ch
 bikeschule-moerlialp.ch
 bikeschule-obwalden.ch
 bikeschule-olten.ch
@@ -7368,7 +7365,6 @@ bilan.ch
 bilancarbone.ch
 bilancarbonebgo.ch
 bilance-industriali.ch
-bilance.ch
 bilancia-treuhand.ch
 bilanciarsi.ch
 bilancio-al-femminile.ch
@@ -7579,6 +7575,7 @@ bild-werk-stadt.ch
 bild-werk-statt.ch
 bild-zeitung.ch
 bild.ch
+bild1x1.ch
 bild24.ch
 bild8005.ch
 bilda.ch
@@ -9581,7 +9578,6 @@ billionsto1.ch
 billionstoone.ch
 billionto1.ch
 billiontoone.ch
-billionwords.ch
 billis.ch
 billit.ch
 billitz.ch
@@ -10113,7 +10109,6 @@ bimbo-renovations-et-transformations.ch
 bimbo-spielwaren.ch
 bimbo.ch
 bimbocoding.ch
-bimbofun.ch
 bimboimmo.ch
 bimbolino.ch
 bimbonest.ch
@@ -12077,7 +12072,6 @@ bio-trueffel.ch
 bio-trutenzucht.ch
 bio-tuning.ch
 bio-twin.ch
-bio-twine.ch
 bio-ums-eck.ch
 bio-und-fair.ch
 bio-unkrautvernichter.ch
@@ -12921,7 +12915,6 @@ biodynamischewinzer.ch
 biodynamizer.ch
 biodynbox.ch
 biodynpraeparate.ch
-biodynterra.ch
 biodyssee.ch
 biodyssey.ch
 bioe.ch
@@ -13594,6 +13587,7 @@ biohelvetis.ch
 bioheme.ch
 biohemp.ch
 bioherbs.ch
+biohero.ch
 bioherz.ch
 bioheucobs.ch
 bioheucops.ch
@@ -14865,7 +14859,6 @@ biop.ch
 biopac.ch
 biopack.ch
 biopackagingsolutions.ch
-biopacks.ch
 biopad.ch
 biopak.ch
 biopanetteria.ch
@@ -15865,10 +15858,8 @@ biotune.ch
 biotuning-swiss.ch
 biotuning.ch
 biotunings.ch
-bioturf-proteins.ch
 bioturf.ch
 biotwin.ch
-biotwine.ch
 biotx.ch
 bioty.ch
 biotyful.ch
@@ -18636,6 +18627,7 @@ bit93.ch
 bita.ch
 bitaas.ch
 bitachon.ch
+bitademy.ch
 bitadvisor.ch
 bitag-brandschutz.ch
 bitagent.ch

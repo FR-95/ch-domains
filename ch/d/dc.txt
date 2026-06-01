@@ -58,7 +58,6 @@ dc-holding.ch
 dc-hp.ch
 dc-i.ch
 dc-iae.ch
-dc-immo.ch
 dc-industrie-elektronik.ch
 dc-info.ch
 dc-invest.ch
@@ -285,6 +284,7 @@ dcgdisplay.ch
 dcgestion-sa.ch
 dcgestion.ch
 dcgestionsa.ch
+dcgland.ch
 dcgmbh.ch
 dcgot.ch
 dcgreen.ch

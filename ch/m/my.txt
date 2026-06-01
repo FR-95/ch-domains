@@ -491,6 +491,7 @@ my-dreamgarage.ch
 my-dreams.ch
 my-dreamshop.ch
 my-dreamtimer.ch
+my-dressing.ch
 my-drink.ch
 my-drinks.ch
 my-drive.ch
@@ -852,6 +853,7 @@ my-hypothek.ch
 my-hypotheque.ch
 my-iaf.ch
 my-ibc.ch
+my-icetea.ch
 my-icros.ch
 my-ict.ch
 my-id.ch
@@ -2722,7 +2724,6 @@ mybecker.ch
 mybeckman.ch
 mybed.ch
 mybednbreakfast.ch
-mybee.ch
 mybeef3.ch
 mybeefclub.ch
 mybeelight.ch
@@ -3990,6 +3991,7 @@ myconfig.ch
 myconfigurator.ch
 myconfo.ch
 myconnect.ch
+myconnection.ch
 myconnectzone.ch
 myconnexioninch.ch
 myconova.ch
@@ -4395,6 +4397,7 @@ mydentist24.ch
 mydentitycolor.ch
 mydeo.ch
 mydeparture.ch
+mydepartures.ch
 mydeposit.ch
 mydeposito.ch
 mydepot.ch
@@ -7426,7 +7429,6 @@ mylongshirts.ch
 mylongstay.ch
 mylonhea.ch
 myloni.ch
-mylooks.ch
 myloona.ch
 myloop.ch
 myloopit.ch
@@ -8722,7 +8724,6 @@ mypassion.ch
 mypassionart.ch
 mypassiveincome.ch
 mypassport24.ch
-mypasspro.ch
 mypassword.ch
 mypat.ch
 mypatchlife.ch
@@ -10897,7 +10898,6 @@ mysticland.ch
 mysticlions.ch
 mysticmix.ch
 mysticmomo.ch
-mysticnails-lugano.ch
 mysticnailssuisse.ch
 mysticnailsswitzerland.ch
 mysticnepal.ch

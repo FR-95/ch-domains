@@ -10,7 +10,6 @@ ci-canapa.ch
 ci-cd.ch
 ci-chanvre.ch
 ci-ci.ch
-ci-cloud.ch
 ci-co.ch
 ci-commercededetail.ch
 ci-commercial.ch
@@ -564,14 +563,12 @@ cicloraumundlicht.ch
 ciclosporin.ch
 ciclosport.ch
 ciclosprint.ch
-cicloud.ch
 cicloudserver.ch
 cicloventure.ch
 cicloviadelmare.ch
 cicloviasvizzeramare.ch
 cicm.ch
 cicmanagement.ch
-cicn.ch
 cico-slt.ch
 cico.ch
 cicocoffeeandfood.ch
@@ -1185,7 +1182,6 @@ cigars-club.ch
 cigars-of-cuba.ch
 cigars-online.ch
 cigars-outlet.ch
-cigars-shop.ch
 cigars-spirits.ch
 cigars-unlimited.ch
 cigars-zurich.ch
@@ -4193,7 +4189,6 @@ citrat-basenpulver.ch
 citre.ch
 citreandco.ch
 citric.ch
-citrin-status.ch
 citrin.ch
 citrinae.ch
 citrine.ch
@@ -4593,7 +4588,6 @@ city-garden.ch
 city-gardens.ch
 city-geneva.ch
 city-gestion.ch
-city-gesundheitspraxis.ch
 city-glarus.ch
 city-golf-morges.ch
 city-golf-preverenges.ch
@@ -4715,7 +4709,6 @@ city-optik.ch
 city-osteopathie-bern.ch
 city-osteopathie.ch
 city-outlet.ch
-city-padel.ch
 city-parkhaus.ch
 city-parking.ch
 city-partners.ch
@@ -5857,7 +5850,6 @@ civapark.ch
 civatti.ch
 civc.ch
 civcb.ch
-cive.ch
 civediamoastabio.ch
 civelek.ch
 civelli.ch
@@ -5887,6 +5879,7 @@ civic-health-lab.ch
 civic-media.ch
 civic-tech.ch
 civic.ch
+civica-app.ch
 civica-giubiasco.ch
 civica-swiss.ch
 civica.ch

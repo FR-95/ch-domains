@@ -2054,7 +2054,6 @@ ride2gether.ch
 ride2go.ch
 ride2peak.ch
 ride2saentis.ch
-ride2share.ch
 ride2work.ch
 ride4business.ch
 ride4good.ch
@@ -3795,7 +3794,6 @@ rigiblickfarm.ch
 rigiblickhof.ch
 rigibligg.ch
 rigiblue.ch
-rigibohr.ch
 rigibox.ch
 rigibrau.ch
 rigibrocante.ch
@@ -4042,9 +4040,6 @@ rigotop.ch
 rigoundrosa-das-familientheater.ch
 rigoundrosa-das-musiktheater.ch
 rigoundrosa-freundefuersleben.ch
-rigoundrosa-teileins.ch
-rigoundrosa-teilzwei.ch
-rigoundrosa-wieallesbegann.ch
 rigoundrosa.ch
 rigoweb.ch
 rigozzi.ch
@@ -6186,7 +6181,6 @@ risikodynamik.ch
 risikofaktoren.ch
 risikofaktormensch.ch
 risikogebiet.ch
-risikogruppe.ch
 risikokapital.ch
 risikokarte.ch
 risikoklar.ch
@@ -6624,6 +6618,7 @@ ristart.ch
 ristau.ch
 ristauranto.ch
 ristaway.ch
+ristec.ch
 ristenbuehlranch.ch
 rister.ch
 ristevski.ch
@@ -7984,7 +7979,6 @@ ritualwege.ch
 ritualwelt.ch
 ritualwelten.ch
 ritualwerk.ch
-ritualwerkstatt.ch
 ritualwissen.ch
 ritualwort.ch
 ritualzeit.ch
@@ -8202,7 +8196,6 @@ rivafid.ch
 rivafit.ch
 rivafy.ch
 rivag.ch
-rivagarage.ch
 rivage-cruises.ch
 rivage-flussfahrten.ch
 rivage-flussreisen.ch
@@ -8243,7 +8236,6 @@ rivalabs.ch
 rivalag.ch
 rivalago-ascona.ch
 rivalago.ch
-rivalagoproperties.ch
 rivalboxing.ch
 rivale.ch
 rivalegnaeservizi.ch
@@ -8934,7 +8926,6 @@ rivieradigital.ch
 rivieraespresso.ch
 rivierafinance.ch
 rivierafit.ch
-rivieraflor.ch
 rivierafoodfestival.ch
 rivierafragrance.ch
 rivieragroup.ch

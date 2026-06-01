@@ -4873,6 +4873,7 @@ player-one.ch
 player-ranking.ch
 player.ch
 playeraccess.ch
+playerapp.ch
 playercard.ch
 playercard365.ch
 playercards.ch
@@ -5621,7 +5622,6 @@ plein-centre.ch
 plein-denergie.ch
 plein-lac.ch
 plein-sud.ch
-plein-vent.ch
 plein.ch
 pleinacces.ch
 pleinair.ch
@@ -6192,7 +6192,6 @@ plissee-atelier.ch
 plissee-box.ch
 plissee-duette.ch
 plissee-experte.ch
-plissee-gardinen.ch
 plissee-king.ch
 plissee-kleben.ch
 plissee-konfigurator.ch
@@ -7229,7 +7228,6 @@ pluesszeitmessung.ch
 plug-and-bar.ch
 plug-and-call.ch
 plug-and-play.ch
-plug-and-work.ch
 plug-charge.ch
 plug-in-b.ch
 plug-in-hybrid.ch
@@ -8183,7 +8181,6 @@ plzinfo.ch
 plzl.ch
 plzort.ch
 plzplz.ch
-plzservice.ch
 plzsocken.ch
 plztkr.ch
 plzz.ch

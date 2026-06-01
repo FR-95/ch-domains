@@ -31,7 +31,6 @@ sg-bc.ch
 sg-becke.ch
 sg-beinwilamsee.ch
 sg-beringen.ch
-sg-berlingen.ch
 sg-berneck.ch
 sg-bethlehemacker.ch
 sg-biber.ch
@@ -879,7 +878,6 @@ sgia.ch
 sgian.ch
 sgiba.ch
 sgibn.ch
-sgibs.ch
 sgier-andiast.ch
 sgier-beratung.ch
 sgier.ch

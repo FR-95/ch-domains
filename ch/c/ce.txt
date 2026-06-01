@@ -991,7 +991,6 @@ ceit.ch
 ceiv.ch
 ceizs.ch
 cej.ch
-ceja.ch
 cejano.ch
 cejare.ch
 ceje.ch
@@ -1709,6 +1708,7 @@ celinergie.ch
 celineribordy.ch
 celinerohrer.ch
 celineromainmamie.ch
+celinerothenfluh.ch
 celines-bluemehuusli.ch
 celines.ch
 celinesalamin.ch
@@ -2989,7 +2989,6 @@ centella.ch
 centellino.ch
 centena.ch
 centenaire.ch
-centenairegiussani.ch
 centenaires.ch
 centenairesaintbernard.ch
 centenara-labs.ch
@@ -4076,7 +4075,6 @@ centre-sportif-leysin.ch
 centre-sportif-malley.ch
 centre-sportif-verbier.ch
 centre-sporting.ch
-centre-sports-loisirs.ch
 centre-stprex.ch
 centre-suisse-de-resilience.ch
 centre-suisse-tricopigmentation.ch
@@ -4642,7 +4640,6 @@ centres-physior.ch
 centres-sportifs-leysin.ch
 centres.ch
 centresaintdominique.ch
-centresaintfrancois.ch
 centresaintjoseph.ch
 centresaintpaul.ch
 centresante-lafabrique.ch
@@ -5317,6 +5314,7 @@ centurytime.ch
 centuscapital.ch
 centvis.ch
 centvues.ch
+cenu.ch
 cenusa.ch
 cenv.ch
 cenvion.ch

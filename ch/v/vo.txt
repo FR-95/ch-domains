@@ -1043,6 +1043,7 @@ vogelschutzverein-kreuzlingen.ch
 vogelschutzverein.ch
 vogelscigars.ch
 vogelservice.ch
+vogelsolar.ch
 vogelspandau.ch
 vogelspandaupumpen.ch
 vogelspinne-ostschweiz.ch
@@ -2272,7 +2273,6 @@ volag.ch
 volagic.ch
 volagratis.ch
 volagsystem.ch
-volaille-import.ch
 volaille-suisse.ch
 volaille.ch
 volailles-de-race-suisse.ch
@@ -2467,7 +2467,6 @@ volevamote.ch
 volevio.ch
 volewa.ch
 volexo.ch
-volezpasmonpapa.ch
 volf.ch
 volferda.ch
 volg-app.ch
@@ -3447,6 +3446,7 @@ vollimmo.ch
 vollimsaft.ch
 vollimsei.ch
 vollimseich.ch
+volline.ch
 vollino-demolition.ch
 vollintegrierteinduktion.ch
 vollis.ch
@@ -3825,7 +3825,6 @@ volta61.ch
 volta79.ch
 voltaamps.ch
 voltabasel.ch
-voltablog.ch
 voltaboats.ch
 voltabox.ch
 voltaboxing.ch
@@ -4753,6 +4752,7 @@ vomlastergefallen.ch
 vomlebenbefluegelt.ch
 vomlebenshof.ch
 vomlebenundsterben.ch
+vomleyis.ch
 vomlittenbach.ch
 vomluesseltal.ch
 vommauswald.ch
@@ -5013,7 +5013,6 @@ vona-z.ch
 vona.ch
 vonaarburg.ch
 vonabisz.ch
-vonac.ch
 vonacare.ch
 vonaclean.ch
 vonaes.ch
@@ -6689,15 +6688,11 @@ vorkoster.ch
 vorkurs-aarau.ch
 vorkurs-alumni.ch
 vorkurs-baar.ch
-vorkurs-basel.ch
 vorkurs-bern.ch
 vorkurs-chur.ch
 vorkurs-digital.ch
 vorkurs-landquart.ch
-vorkurs-langenthal.ch
-vorkurs-luzern.ch
 vorkurs-muristalden.ch
-vorkurs-olten.ch
 vorkurs-online.ch
 vorkurs-propaedeutikum.ch
 vorkurs-romanshorn.ch
@@ -8329,6 +8324,8 @@ voxel4.ch
 voxelcorelab.ch
 voxeldefine.ch
 voxelfactory.ch
+voxeliq.ch
+voxeliq3d.ch
 voxeljet.ch
 voxellab.ch
 voxelmed.ch
@@ -8344,6 +8341,7 @@ voxetpapyrus.ch
 voxeus.ch
 voxeway.ch
 voxfinance.ch
+voxfit.ch
 voxfori.ch
 voxgate.ch
 voxgeneration.ch
@@ -8835,7 +8833,6 @@ voyant.ch
 voyantbenjamin.ch
 voyante.ch
 voyantedgarkeba.ch
-voyantemarocaine.ch
 voyantes.ch
 voyanteserieuse.ch
 voyantjulien.ch

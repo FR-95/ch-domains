@@ -499,7 +499,6 @@ reachgoals.ch
 reachimpact.ch
 reaching-higher-ground.ch
 reachingout.ch
-reachingscale.ch
 reachingsummits.ch
 reachinternational.ch
 reachit-successofwomen.ch
@@ -1621,7 +1620,6 @@ realgambiatours.ch
 realgar.ch
 realgarant.ch
 realgarlabs.ch
-realgate.ch
 realgateway.ch
 realgebaeudesanierung.ch
 realgems.ch
@@ -2362,7 +2360,6 @@ reamis.ch
 reamo.ch
 reamobil.ch
 reamonn.ch
-reamotion.ch
 reamtec.ch
 reamuff.ch
 rean-connectors.ch
@@ -5668,6 +5665,7 @@ recruiters.ch
 recruitersclub.ch
 recruitertool.ch
 recruiterwall.ch
+recruiterwithin.ch
 recruitglobalstaffing.ch
 recruitgs.ch
 recruiting-agents.ch
@@ -7640,7 +7638,6 @@ redonda.ch
 redondo.ch
 redondobea.ch
 redondurmishi.ch
-redone.ch
 redone4u.ch
 redonline.ch
 redonner-vie.ch
@@ -7740,7 +7737,6 @@ redpropeller.ch
 redpulse.ch
 redpym-cosplay.ch
 redq.ch
-redqube.ch
 redqueen.ch
 redqueenrunning.ch
 redr.ch
@@ -9202,6 +9198,7 @@ refillme.ch
 refillo.ch
 refillpost.ch
 refillpresso.ch
+refillprofil.ch
 refilltheke.ch
 refilltheshelf.ch
 refimmo.ch
@@ -9939,7 +9936,6 @@ reformhelvetica.ch
 reformhuus-aarau.ch
 reformhuus.ch
 reformieren.ch
-reformiert-am-rhein.ch
 reformiert-baden.ch
 reformiert-burkhard.ch
 reformiert-gl.ch
@@ -11569,8 +11565,6 @@ regio-chaes.ch
 regio-circle.ch
 regio-clean.ch
 regio-coin.ch
-regio-deal.ch
-regio-deals.ch
 regio-dienstleistungen.ch
 regio-durst.ch
 regio-egg.ch
@@ -11822,8 +11816,6 @@ regioconsulting.ch
 regiocup.ch
 regiodat.ch
 regiodatenschutz.ch
-regiodeal.ch
-regiodeals.ch
 regiodeals247.ch
 regiodelsberg.ch
 regiodesign.ch
@@ -14224,7 +14216,6 @@ reicheltgmbh.ch
 reichelundschulte.ch
 reichen-ag.ch
 reichen-bau.ch
-reichen-bonus-nein.ch
 reichen-clean.ch
 reichen-design.ch
 reichen-forst.ch
@@ -14751,7 +14742,6 @@ reifenpneusonline.ch
 reifenpoint.ch
 reifenpool.ch
 reifenportal.ch
-reifenpower.ch
 reifenpraktiker-ausbildung.ch
 reifenpraktiker.ch
 reifenpreise.ch
@@ -16442,6 +16432,7 @@ reinwall.ch
 reinwasser-gmbh.ch
 reinwasser-systeme.ch
 reinwasser.ch
+reinwasserprofi.ch
 reinwassersysteme.ch
 reinwear.ch
 reinwerk-gmbh.ch
@@ -16624,7 +16615,6 @@ reise-versicherungen.ch
 reise-vietnam.ch
 reise-wandergruppe.ch
 reise-weg.ch
-reise-welt.ch
 reise-welten.ch
 reise-wildeweste.ch
 reise-ziel.ch
@@ -19073,7 +19063,6 @@ relaxpoint-burgdorf.ch
 relaxpoint.ch
 relaxpower.ch
 relaxproject.ch
-relaxpunkt.ch
 relaxpunktpetra.ch
 relaxpur.ch
 relaxpurmassage.ch
@@ -20463,6 +20452,7 @@ remllov.ch
 remly.ch
 remlyag.ch
 remlyn.ch
+remlynag.ch
 remm.ch
 remma.ch
 remmail.ch
@@ -20737,7 +20727,6 @@ remorque-frigo.ch
 remorque-incendie.ch
 remorque-led.ch
 remorque.ch
-remorquecenter.ch
 remorquefoodtruck.ch
 remorquefrigo.ch
 remorqueled.ch
@@ -22005,7 +21994,6 @@ rencontresromandes.ch
 rencontresromandesdubois.ch
 rencontresromandesdv.ch
 rencontresromandie.ch
-rencontresrossiniere.ch
 rencontressexe.ch
 rencontressexuelle.ch
 rencontrestudio.ch
@@ -22890,7 +22878,6 @@ renggli-montagen.ch
 renggli-partner.ch
 renggli-personalberatung.ch
 renggli-renggli.ch
-renggli-schreiner.ch
 renggli-solution.ch
 renggli-spirituosen.ch
 renggli-stans.ch
@@ -23123,7 +23110,6 @@ rennmaus.ch
 rennmauscloud.ch
 rennmausmami.ch
 rennmauszucht-tamsrenner.ch
-rennmauszucht.ch
 rennmauszuchttamsrenner.ch
 rennmechaniker.ch
 rennmeister.ch
@@ -27901,6 +27887,7 @@ resellers.ch
 resellertool.ch
 resellerwebhosting.ch
 reselling.ch
+resellio.ch
 resellit.ch
 resello.ch
 resellx.ch
@@ -28399,6 +28386,7 @@ residencedalphin.ch
 residencedefrance.ch
 residencedelondine.ch
 residencedentsdumidi.ch
+residencedesalpes.ch
 residencedesjoncs.ch
 residencedesmoulins.ch
 residencedespres.ch
@@ -29659,7 +29647,6 @@ resoundpro.ch
 resource-capital.ch
 resource-consulting.ch
 resource-cpaital.ch
-resource-executive.ch
 resource-future.ch
 resource-group.ch
 resource-healthcare.ch
@@ -30641,7 +30628,6 @@ restaurant-binom.ch
 restaurant-bio-bistro.ch
 restaurant-biobistro.ch
 restaurant-birchen.ch
-restaurant-birgisch.ch
 restaurant-birseck.ch
 restaurant-birsfelderhof.ch
 restaurant-bismarck.ch
@@ -30931,7 +30917,6 @@ restaurant-enzian.ch
 restaurant-ephesus.ch
 restaurant-epicurien.ch
 restaurant-equinox.ch
-restaurant-ergolz.ch
 restaurant-erle.ch
 restaurant-erlen.ch
 restaurant-erlengolf.ch
@@ -31163,6 +31148,7 @@ restaurant-holzoffen-pizzeria-casa-mia.ch
 restaurant-homberg.ch
 restaurant-homepage.ch
 restaurant-hongmoon.ch
+restaurant-hopfenstube.ch
 restaurant-horat.ch
 restaurant-horgenberg.ch
 restaurant-hornegg.ch
@@ -34193,6 +34179,7 @@ restotuk.ch
 restouvert.ch
 restoverso.ch
 restoview.ch
+restowner.ch
 restpics.ch
 restplace.ch
 restplaetze.ch
@@ -34244,7 +34231,6 @@ restreet21.ch
 restrictive-fetish.ch
 restrictivefetish.ch
 restrisiko.ch
-restroches.ch
 restronex.ch
 restroom.ch
 restruct.ch
@@ -34360,7 +34346,6 @@ resultservice.ch
 resultsstory.ch
 resultstory.ch
 resulty.ch
-resuma.ch
 resumate.ch
 resume-library.ch
 resume.ch
@@ -37213,7 +37198,6 @@ revesdenature.ch
 revesdenfantsbijoux.ch
 revesdepetitefleur.ch
 revesdepoche.ch
-revesdeterre.ch
 revesdevol.ch
 revesdewhisky.ch
 revesdinterieurs.ch
@@ -37988,7 +37972,6 @@ revolved.ch
 revolver-kurs.ch
 revolver-nightclub.ch
 revolver-schiessen.ch
-revolver-studio.ch
 revolver-ticino.ch
 revolver.ch
 revolverblatt.ch
@@ -37997,8 +37980,6 @@ revolverhelden.ch
 revolverkino.ch
 revolvermaenner.ch
 revolvers.ch
-revolverstd.ch
-revolverstudio.ch
 revolving-histories.ch
 revolving.ch
 revolvit.ch

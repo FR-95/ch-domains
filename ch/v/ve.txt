@@ -360,7 +360,6 @@ vectura-transports.ch
 vectura.ch
 vecturaag.ch
 vectursa.ch
-vectus.ch
 vectusenergy.ch
 vectusintelligence.ch
 ved-sarl.ch
@@ -808,7 +807,6 @@ vegan-heroes.ch
 vegan-heros.ch
 vegan-job.ch
 vegan-jobs.ch
-vegan-kochen.ch
 vegan-kochkurse.ch
 vegan-korb.ch
 vegan-kuhn.ch
@@ -1654,6 +1652,7 @@ vehiclemultimediasystems.ch
 vehicleparts.ch
 vehicles.ch
 vehiclesear.ch
+vehicleshop.ch
 vehiclestats.ch
 vehicletobuilding.ch
 vehicletogrid.ch
@@ -1963,6 +1962,7 @@ velard.ch
 velarde.ch
 velardi.ch
 velardo.ch
+velare-store.ch
 velare.ch
 velaren.ch
 velares.ch
@@ -2002,6 +2002,7 @@ velasquez.ch
 velastel.ch
 velastre.ch
 velastudio.ch
+velat.ch
 velata.ch
 velati.ch
 velato.ch
@@ -2286,6 +2287,7 @@ velmore.ch
 velmuro.ch
 velnaro.ch
 velnewt.ch
+velninaaesthetics.ch
 velnor.ch
 velnora.ch
 velo-aarau.ch
@@ -2316,8 +2318,6 @@ velo-bikehotel.ch
 velo-boutique.ch
 velo-boxx.ch
 velo-brugnoli.ch
-velo-buch.ch
-velo-bueren.ch
 velo-buetler.ch
 velo-bus-reisen.ch
 velo-cafe.ch
@@ -2486,7 +2486,6 @@ velo-parker.ch
 velo-parts.ch
 velo-pass.ch
 velo-peter.ch
-velo-pflege.ch
 velo-photo-pro.ch
 velo-piraten.ch
 velo-pirelli.ch
@@ -2909,7 +2908,6 @@ velodeville.ch
 velodiebstahl.ch
 velodienst.ch
 velodirect.ch
-velodisco.ch
 velodoc.ch
 velodoccase.ch
 velodriver.ch
@@ -3235,7 +3233,6 @@ velolounge-zurichairport.ch
 velolounge.ch
 veloloungekloten.ch
 veloloungezurichairport.ch
-velolove.ch
 velolugano.ch
 velolukas.ch
 veloluzern.ch
@@ -3464,6 +3461,7 @@ veloraptor.ch
 veloraservices.ch
 velorast.ch
 velorastudio.ch
+velorastudios.ch
 veloraswiss.ch
 veloraum-einrichtung.ch
 veloraum.ch
@@ -4176,7 +4174,6 @@ velvon.ch
 velvora.ch
 velvy.ch
 velwins.ch
-velya.ch
 velychko.ch
 velyen.ch
 velyn.ch
@@ -5189,7 +5186,6 @@ venta-air.ch
 venta-exclusiva.ch
 venta-luftwaescher.ch
 venta-lw.ch
-venta.ch
 ventabel.ch
 ventabio.ch
 ventabird.ch
@@ -5771,7 +5767,6 @@ venturique-studio.ch
 venturique.ch
 venturiquestudio.ch
 venturis-consulting.ch
-venturis-it.ch
 venturis-treuhand.ch
 venturis.ch
 venturise.ch
@@ -7545,7 +7540,6 @@ verdian.ch
 verdiani.ch
 verdibau.ch
 verdich.ch
-verdichten.ch
 verdichter.ch
 verdichtete-wahrheiten.ch
 verdichtetewahrheiten.ch
@@ -11429,6 +11423,7 @@ veroblasi.ch
 verobservatoire.ch
 veroc.ch
 veroco.ch
+verocore.ch
 verodele.ch
 verodesign.ch
 verodidou.ch
@@ -11441,7 +11436,6 @@ veroetchris.ch
 verofino.ch
 verofit-bo.ch
 verofit-wittwer.ch
-verofit-zuercher.ch
 verofit.ch
 verofotoart.ch
 veroglardonbey.ch
@@ -13195,9 +13189,9 @@ vertexcare-shop.ch
 vertexcare.ch
 vertexcgt.ch
 vertexcleaning.ch
+vertexclimb.ch
 vertexconnects.ch
 vertexconnectsportal.ch
-vertexconsulting.ch
 vertexcp.ch
 vertexcrusher.ch
 vertexcup.ch
@@ -15624,6 +15618,7 @@ vetlabor.ch
 vetlachat.ch
 vetleman.ch
 vetli.ch
+vetlife.ch
 vetlink.ch
 vetlok.ch
 vetlook.ch
@@ -16263,6 +16258,7 @@ vevo.ch
 vevomail.ch
 vevopro.ch
 vevor.ch
+vevora.ch
 vevu.ch
 vevure.ch
 vevv.ch

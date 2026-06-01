@@ -18,6 +18,7 @@ dp-concept.ch
 dp-conseil.ch
 dp-consulting.ch
 dp-dach.ch
+dp-digital.ch
 dp-doja.ch
 dp-dp.ch
 dp-dynamic.ch
@@ -51,7 +52,6 @@ dp-pictures.ch
 dp-production.ch
 dp-psy.ch
 dp-regio.ch
-dp-renovation.ch
 dp-rep.ch
 dp-s.ch
 dp-sanitaer.ch
@@ -79,6 +79,7 @@ dp1.ch
 dp13z.ch
 dp3.ch
 dp360.ch
+dp4performance.ch
 dp7.ch
 dp8942.ch
 dp9.ch

@@ -1653,6 +1653,8 @@ fokusmensch.ch
 fokusmitherz.ch
 fokusmoves.ch
 fokusnatur.ch
+fokusnebel.ch
+fokusnebelflausen.ch
 fokusnet.ch
 fokusnetzwerk.ch
 fokusoberthurgau.ch
@@ -2110,7 +2112,6 @@ folkraft.ch
 folkrm.ch
 folks.ch
 folksinger.ch
-folksmusik.ch
 folkstudio.ch
 folkwang.ch
 folkwatch.ch
@@ -2247,7 +2248,6 @@ followspot.ch
 followspotcrew.ch
 followswiss.ch
 followthebutterfly.ch
-followthecake.ch
 followthefish.ch
 followtheflow.ch
 followthegold.ch
@@ -3339,6 +3339,7 @@ fondationpittier.ch
 fondationplacement.ch
 fondationplanque.ch
 fondationpleinair.ch
+fondationplus.ch
 fondationpolemuseal.ch
 fondationportaildesnations.ch
 fondationpourgeneve.ch
@@ -3959,7 +3960,6 @@ fondssparen.ch
 fondssparplan.ch
 fondssuisse.ch
 fondssuissedesecours.ch
-fondssuissepourlavenir.ch
 fondssupermarkt.ch
 fondstool.ch
 fondstotal.ch
@@ -5115,7 +5115,6 @@ foodcoop-triemli.ch
 foodcoop-trift.ch
 foodcoop-witikon.ch
 foodcoop-zhoberland.ch
-foodcoop-zurgertrud.ch
 foodcoop.ch
 foodcoops.ch
 foodcoopshop.ch
@@ -5536,7 +5535,6 @@ foodpac.ch
 foodpack.ch
 foodpacks.ch
 foodpal.ch
-foodpanda.ch
 foodpaper.ch
 foodparadise.ch
 foodpark-interlaken.ch
@@ -5687,7 +5685,6 @@ foodspace.ch
 foodspecialist.ch
 foodspecs.ch
 foodspot.ch
-foodspots.ch
 foodspotters.ch
 foodspring.ch
 foodstaende-bleiben.ch
@@ -6091,7 +6088,6 @@ footballcouture.ch
 footballcritic.ch
 footballcup.ch
 footballdata.ch
-footballdays.ch
 footballer.ch
 footballerista-mobile.ch
 footballerista.ch
@@ -6163,7 +6159,6 @@ footballworldjersey.ch
 footballytics.ch
 footbase.ch
 footberna.ch
-footbulle.ch
 footbus.ch
 footcare-sport.ch
 footcare.ch
@@ -7113,6 +7108,7 @@ forderungseingabe.ch
 forderungseinzug.ch
 forderungsinkasso.ch
 forderungsmanagement.ch
+forderungswerk.ch
 forderverband.ch
 fordescortclub.ch
 fordesign.ch
@@ -7293,7 +7289,6 @@ forellenfest.ch
 forellenfilet.ch
 forellenfischen.ch
 forellenfutter.ch
-forellenhof-kienberg.ch
 forellenparadies.ch
 forellensee-garage.ch
 forellensee.ch
@@ -10131,7 +10126,6 @@ forstelgg.ch
 forstema.ch
 forsten.ch
 forsteo.ch
-forster-appliance.ch
 forster-archiv.ch
 forster-beratung.ch
 forster-bischof.ch
@@ -10801,7 +10795,6 @@ fortkeys.ch
 fortknox.ch
 fortknoxintra.ch
 fortkord.ch
-fortland.ch
 fortlane-partners.ch
 fortlane.ch
 fortlanepartners.ch
@@ -11926,7 +11919,6 @@ foryouwoman.ch
 forys.ch
 foryuu.ch
 forza-electricmotors.ch
-forza-forza.ch
 forza-le-donne.ch
 forza-le-ragazze.ch
 forza-mojito.ch
@@ -12017,6 +12009,7 @@ foschi.ch
 foschicabdent.ch
 foschini-praezisions-dreh-und-fraesteile.ch
 foschini.ch
+foschinicnc.ch
 fosco-coaching.ch
 fosco-fosco-vogt.ch
 fosco.ch
@@ -12693,6 +12686,7 @@ foto-winti.ch
 foto-wishes.ch
 foto-wolf.ch
 foto-wolleb.ch
+foto-work.ch
 foto-workshop.ch
 foto-world.ch
 foto-wuethrich.ch
@@ -14117,7 +14111,6 @@ fotonews.ch
 fotoni.ch
 fotonic.ch
 fotonico.ch
-fotonicolas.ch
 fotoniederbacher.ch
 fotoninja.ch
 fotonmotor.ch
@@ -14569,7 +14562,6 @@ fotostudiolenzburg.ch
 fotostudioluzern.ch
 fotostudiomieten.ch
 fotostudiomueller.ch
-fotostudioprolith.ch
 fotostudios.ch
 fotostudioschaelchli.ch
 fotostudioschweiz.ch

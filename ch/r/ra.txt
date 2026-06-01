@@ -815,6 +815,7 @@ racespeed.ch
 racesportcenter.ch
 racesquare.ch
 racestore.ch
+racestuebli.ch
 racete.ch
 raceteam-suedostschweiz.ch
 raceteam.ch
@@ -932,7 +933,6 @@ rachelchevallier.ch
 rachelcosmetic.ch
 rachelcosmetics.ch
 racheldemuth.ch
-racheldiva.ch
 rachele.ch
 rachelefabio.ch
 rachelegger.ch
@@ -1820,7 +1820,6 @@ radfahrerverein-arbon.ch
 radfahrerverein-uster.ch
 radfahrschule.ch
 radfahrtest.ch
-radfahrzeuge.ch
 radfakt.ch
 radfazz.ch
 radferien-mallorca.ch
@@ -3475,7 +3474,6 @@ radquershop.ch
 radr.ch
 radrabbitstudios.ch
 radrap.ch
-radreise-shop.ch
 radreise.ch
 radreisen-engadin.ch
 radreisen.ch
@@ -4335,6 +4333,7 @@ rafa-foto.ch
 rafa-w.ch
 rafa.ch
 rafaa.ch
+raface.ch
 rafael-andrist.ch
 rafael-aragon.ch
 rafael-b-andrist.ch
@@ -5713,6 +5712,7 @@ raiffsilber.ch
 raiffsilver.ch
 raifgroup.ch
 raifit.ch
+raiflix.ch
 raig.ch
 raigauto.ch
 raigi.ch
@@ -7928,6 +7928,7 @@ ramonbill.ch
 ramonbini.ch
 ramonbrun.ch
 ramonbucher.ch
+ramonbuchs.ch
 ramonchristen.ch
 ramonclau.ch
 ramonda.ch
@@ -10250,7 +10251,6 @@ rapportblocks.ch
 rapportbuch.ch
 rapportbuecher.ch
 rapportclien.ch
-rapportdebase.ch
 rapportdegestion-digital.ch
 rapportdegestion.ch
 rapportdegestiondigital.ch
@@ -10782,11 +10782,9 @@ rasen-baer.ch
 rasen-blog.ch
 rasen-duenger-abo.ch
 rasen-fuer-alle.ch
-rasen-geraete.ch
 rasen-gesundheit.ch
 rasen-kurse.ch
 rasen-maehen.ch
-rasen-maeher.ch
 rasen-maschinen.ch
 rasen-online.ch
 rasen-pflege.ch
@@ -10845,8 +10843,6 @@ rasenmaehermann.ch
 rasenmaeherroboter.ch
 rasenmaehroboter.ch
 rasenmanager.ch
-rasenmaschine.ch
-rasenmaschinen.ch
 rasenna.ch
 rasenolten.ch
 rasenpartner.ch
@@ -10897,7 +10893,6 @@ rasentraktoren.ch
 rasentraum.ch
 rasentrimmer.ch
 rasentsorgung.ch
-rasenundgarten.ch
 rasenwelt.ch
 rasenwerk.ch
 raser-schicksal.ch
@@ -11302,10 +11297,7 @@ ratatoa.ch
 ratatoeskr.ch
 rataton.ch
 ratatosk.ch
-ratatouille-shop.ch
 ratatouille-vevey.ch
-ratatouille.ch
-ratatouilleshop.ch
 ratattack.ch
 ratattoo.ch
 ratatui.ch
@@ -12707,6 +12699,7 @@ raumfinder.ch
 raumfinder24.ch
 raumfindung.ch
 raumfix.ch
+raumfloristik.ch
 raumflow.ch
 raumfluesterin.ch
 raumfluestern.ch
@@ -13288,6 +13281,7 @@ raumvermietung-brugg.ch
 raumvermietung-eiken.ch
 raumvermietung-liebfrauen.ch
 raumvermietung-luzern.ch
+raumvero.ch
 raumverstand.ch
 raumverwalten.ch
 raumverwaltung-uster.ch
@@ -13798,6 +13792,7 @@ raveroom.ch
 ravers.ch
 raversfantasy.ch
 raverta.ch
+raveruns.ch
 raverwear.ch
 raves.ch
 ravessoud.ch
@@ -13880,6 +13875,7 @@ ravjob.ch
 ravjobs.ch
 ravlab.ch
 ravlija.ch
+ravn.ch
 ravndal.ch
 ravnikar.ch
 ravo.ch
@@ -14067,13 +14063,8 @@ rawport.ch
 rawpower.ch
 rawproduction.ch
 rawr.ch
-rawragentur.ch
-rawrcreative.ch
 rawreviews.ch
 rawrity.ch
-rawrproductions.ch
-rawrstudio.ch
-rawrvisuals.ch
 raws.ch
 rawsamples.ch
 rawschweiz.ch
@@ -14346,7 +14337,6 @@ raymondbrechbuehl.ch
 raymondclavien.ch
 raymondconus.ch
 raymonddettwiler.ch
-raymondeoppliger.ch
 raymondhofmann.ch
 raymondkaufmann.ch
 raymondkleger.ch

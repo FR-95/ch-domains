@@ -153,7 +153,6 @@ bdd.ch
 bddieses.ch
 bddp.ch
 bddt.ch
-bddv.ch
 bde-ge.ch
 bde-hearc.ch
 bde-terminals.ch
@@ -565,7 +564,6 @@ bdtronic.ch
 bdtuning.ch
 bdu.ch
 bdu239.ch
-bdubler.ch
 bdubs.ch
 bduesel.ch
 bdut.ch

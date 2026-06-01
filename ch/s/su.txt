@@ -187,7 +187,6 @@ subadvisory.ch
 subag-tech.ch
 subag.ch
 subagtech.ch
-subair.ch
 subala.ch
 subaltern.ch
 suban-instruments.ch
@@ -1426,7 +1425,6 @@ suchtberatung.ch
 suchtberatung55.ch
 suchtberatungen.ch
 suchtbs.ch
-suchtcheck.ch
 suchtcoach.ch
 suchtcoaching.ch
 suchtdruck.ch
@@ -3210,6 +3208,8 @@ suisse-mail.ch
 suisse-maintenant.ch
 suisse-majestic.ch
 suisse-maler.ch
+suisse-map.ch
+suisse-maps.ch
 suisse-marijuana.ch
 suisse-marketing.ch
 suisse-maroc.ch
@@ -4076,6 +4076,8 @@ suissemajestic.ch
 suissemakeup.ch
 suissemaler.ch
 suissemania.ch
+suissemap.ch
+suissemaps.ch
 suissemariage.ch
 suissemarket.ch
 suissemarketing.ch
@@ -4250,7 +4252,6 @@ suissepodcast.ch
 suissepodcastfestival.ch
 suissepoinz.ch
 suissepoker.ch
-suissepokeropen.ch
 suissepol.ch
 suissepolice.ch
 suissepompeachaleur.ch
@@ -6198,7 +6199,6 @@ sunandstar.ch
 sunandvegs.ch
 sunappeal.ch
 sunar.ch
-sunarc.ch
 sunarchitecture.ch
 sunart.ch
 sunaruarts.ch
@@ -6467,7 +6467,6 @@ sundeck-zollikofen.ch
 sundeck.ch
 sundeckavenue.ch
 sundeckflurhof.ch
-sundeckyachts.ch
 sundeco.ch
 sundee.ch
 sundel.ch
@@ -6968,6 +6967,7 @@ sunnaehus.ch
 sunnaeschyn.ch
 sunnaestrahl.ch
 sunnaewirbel.ch
+sunnaflow.ch
 sunnah-shop.ch
 sunnah-store.ch
 sunnah-zh.ch
@@ -8013,7 +8013,6 @@ suntag.ch
 suntainable.ch
 suntalk.ch
 suntan.ch
-suntastic.ch
 suntax.ch
 suntay.ch
 suntcm.ch
@@ -8518,7 +8517,6 @@ super-mom.ch
 super-move.ch
 super-nail-center.ch
 super-nailcenter.ch
-super-nanny.ch
 super-natural-club.ch
 super-natural.ch
 super-nova.ch
@@ -9342,7 +9340,6 @@ superiorspa.ch
 superiorwindows.ch
 superius.ch
 superixi.ch
-superjack100.ch
 superjarvis.ch
 superjob.ch
 superjobs.ch
@@ -10208,7 +10205,6 @@ superweichebettwaesche.ch
 superwein.ch
 superwell.ch
 superweltlieferwagen.ch
-superwerkstatt.ch
 superwesen.ch
 superwet.ch
 superwhite.ch
@@ -10985,7 +10981,6 @@ supreme-tacos-plainpalais.ch
 supreme-tacos.ch
 supreme-weed.ch
 supreme.ch
-supremeaccess.ch
 supremeassets.ch
 supremecarwash.ch
 supremecarwashfirst.ch
@@ -11156,6 +11151,7 @@ suraax.ch
 surace.ch
 suradavos.ch
 surag.ch
+surah.ch
 surainbow.ch
 suraj.ch
 suraka.ch
@@ -13543,6 +13539,7 @@ susmalans.ch
 susman.ch
 susmariazell.ch
 susmchat.ch
+susmedia.ch
 susmflow.ch
 susmo.ch
 susneckertal.ch

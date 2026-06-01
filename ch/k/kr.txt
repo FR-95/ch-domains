@@ -278,7 +278,6 @@ kraeuter-seife.ch
 kraeuter-store.ch
 kraeuter-stunde.ch
 kraeuter-vertrieb.ch
-kraeuter-wand.ch
 kraeuter-werk.ch
 kraeuter-werkerin.ch
 kraeuter-werkstatt.ch
@@ -413,7 +412,6 @@ kraeuterversand.ch
 kraeutervertrieb.ch
 kraeuterverzeichnis.ch
 kraeuterwald.ch
-kraeuterwand.ch
 kraeuterwanderung.ch
 kraeuterweg-maladers.ch
 kraeuterweg.ch
@@ -1716,7 +1714,6 @@ krankenkversicherungs-umfrage.ch
 krankenmobilien-limmattal.ch
 krankenmobilien.ch
 krankenmobilienhirschwiesen.ch
-krankenpflege-informatik.ch
 krankenpflege-luzern.ch
 krankenpflege-zuhause.ch
 krankenpflege.ch
@@ -2854,7 +2851,6 @@ kreativ-kuechen.ch
 kreativ-kurse.ch
 kreativ-labor.ch
 kreativ-laser.ch
-kreativ-leben.ch
 kreativ-lernen-bewegt.ch
 kreativ-lernen-und-foerdern.ch
 kreativ-lesen.ch
@@ -4629,7 +4625,6 @@ kress-optic.ch
 kress-robotik.ch
 kress-schulungen.ch
 kress-schweiz.ch
-kress-shop.ch
 kress.ch
 kresse.ch
 kressebu.ch
@@ -7410,6 +7405,7 @@ krummenacher-informatik.ch
 krummenacher-it.ch
 krummenacher-lu.ch
 krummenacher-me.ch
+krummenacher-ow.ch
 krummenacher-saattechnik.ch
 krummenacher-sanitaer.ch
 krummenacher-slamanig.ch

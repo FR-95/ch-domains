@@ -650,7 +650,6 @@ oldskullbarbershop.ch
 oldskullbarberstudio.ch
 oldskullstore.ch
 oldsmobile.ch
-oldsold.ch
 oldsoul.ch
 oldspee.ch
 oldspeed.ch
@@ -1528,7 +1527,6 @@ oliente.ch
 olieolia.ch
 oliera.ch
 oliesa.ch
-oliessenziali.ch
 olieu.ch
 olieve-securite.ch
 olif-horgen.ch
@@ -3179,6 +3177,7 @@ olmeztransport.ch
 olmi.ch
 olmiplast.ch
 olmix.ch
+olmlab.ch
 olmo.ch
 olmoblack.ch
 olmocerri.ch

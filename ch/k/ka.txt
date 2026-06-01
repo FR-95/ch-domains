@@ -2213,7 +2213,6 @@ kaffee-satz.ch
 kaffee-select.ch
 kaffee-selektion.ch
 kaffee-service.ch
-kaffee-shop-schweiz.ch
 kaffee-shop.ch
 kaffee-solo.ch
 kaffee-solutions.ch
@@ -3200,7 +3199,6 @@ kaikkialla-shop.ch
 kaikkialla.ch
 kaiknives.ch
 kaiko.ch
-kaikon.ch
 kaikopilates.ch
 kaikow.ch
 kaikowetter.ch
@@ -4478,6 +4476,7 @@ kalenderemmental.ch
 kalenderexperten.ch
 kalenderfabrik.ch
 kalenderfun.ch
+kalendergenerator.ch
 kalendergestalten.ch
 kalenderhuellen.ch
 kalenderie.ch
@@ -4527,6 +4526,7 @@ kaleo-logosynthese.ch
 kaleo-solar.ch
 kaleo.ch
 kaleocasino.ch
+kaleogluswiss.ch
 kaleokirche.ch
 kaleona.ch
 kaleos.ch
@@ -5352,7 +5352,6 @@ kamabert.ch
 kamabo.ch
 kamachi-matcha.ch
 kamaci-rs.ch
-kamada.ch
 kamadacreations.ch
 kamadevaverlag.ch
 kamadia.ch
@@ -5380,6 +5379,7 @@ kamagrabycarene.ch
 kamagragel.ch
 kamagrakaufenschweiz.ch
 kamagraoraljelly.ch
+kamagu.ch
 kamail.ch
 kamajalyoga.ch
 kamajitsu.ch
@@ -6226,6 +6226,7 @@ kammerjaegerbasel.ch
 kammerjaegerbern.ch
 kammerjaegerin.ch
 kammerjaegerschweiz.ch
+kammerjager.ch
 kammerklaenge.ch
 kammerkonzept.ch
 kammerkonzerte.ch
@@ -6565,7 +6566,6 @@ kampfundphilosophie.ch
 kampfundsport.ch
 kampfundtanzkunst.ch
 kampfwanderer.ch
-kampfzicke.ch
 kampfzoneossola.ch
 kamphaus.ch
 kamphausen.ch
@@ -6611,6 +6611,7 @@ kams.ch
 kamso.ch
 kamstrup.ch
 kamstudio.ch
+kamsy-studio.ch
 kamtchatka.ch
 kamtech.ch
 kamtschatka.ch
@@ -7453,7 +7454,6 @@ kannstmichmal.ch
 kannt.ch
 kannunlondon.ch
 kannwas-atelier.ch
-kannwas.ch
 kannwischer.ch
 kano-pet.ch
 kano.ch
@@ -9084,7 +9084,6 @@ kapselhotels.ch
 kapseljet.ch
 kapselkaffee.ch
 kapselkaffeemaschine.ch
-kapselking.ch
 kapselkraft.ch
 kapselmaschine.ch
 kapselmaschinen.ch
@@ -10631,7 +10630,6 @@ karine-maurice.ch
 karine-moutragi.ch
 karine-oliver.ch
 karine-rapp.ch
-karine-therapies.ch
 karine.ch
 karineaivazian.ch
 karineaymon.ch
@@ -11390,6 +11388,7 @@ karlwuestag.ch
 karly-gluecksfunken.ch
 karly.ch
 karlyle.ch
+karlys.ch
 karlzehnder.ch
 karlzemp.ch
 karlzgraggen.ch
@@ -12129,7 +12128,6 @@ karrierewechsel.ch
 karriereweg-schweiz.ch
 karriereweg.ch
 karrierewege.ch
-karrierewelt4medizin.ch
 karrierewerkstatt.ch
 karriereworld.ch
 karrierewuns.ch
@@ -13097,7 +13095,6 @@ kasiegproduction.ch
 kasiegproduktion.ch
 kasigi.ch
 kasime.ch
-kasimir-am-schwingfest.ch
 kasimir.ch
 kasimirsupport.ch
 kasimirtanner.ch
@@ -13802,7 +13799,6 @@ kat-ink-a.ch
 kat-koffer.ch
 kat-mooser.ch
 kat-music.ch
-kat-pattes.ch
 kat-photography.ch
 kat-seelenarbeit.ch
 kat-tattoo.ch
@@ -14072,7 +14068,6 @@ katena.ch
 kateo.ch
 kateodell.ch
 kateoover.ch
-katepriceenglishconnect.ch
 kateq.ch
 katequero.ch
 kater-jacob.ch
@@ -15095,7 +15090,6 @@ katifotografie.ch
 katika.ch
 katikati.ch
 katilu.ch
-katimavic.ch
 katimex.ch
 katimo-keramik.ch
 katina-brand.ch

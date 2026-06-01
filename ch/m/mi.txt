@@ -863,6 +863,7 @@ micadog.ch
 micadoni-pro.ch
 micadoni.ch
 micadonipro.ch
+micael-henry.ch
 micael-rodrigues.ch
 micael.ch
 micaela.ch
@@ -871,6 +872,7 @@ micaelapuls.ch
 micaelas.ch
 micaelasantos.ch
 micaelchevalley.ch
+micaelhenry.ch
 micaelmartin.ch
 micaelmuller.ch
 micafil.ch
@@ -2430,7 +2432,6 @@ michel-ofenbau.ch
 michel-oliver-herzog.ch
 michel-online.ch
 michel-partner.ch
-michel-perrin.ch
 michel-plastic.ch
 michel-platini.ch
 michel-platten.ch
@@ -2894,7 +2895,6 @@ michelle-heimberg.ch
 michelle-jens.ch
 michelle-joel.ch
 michelle-jost.ch
-michelle-julian.ch
 michelle-kaufmann.ch
 michelle-kissling.ch
 michelle-kraus.ch
@@ -4514,12 +4514,10 @@ microtaxi.ch
 microte.ch
 microtec.ch
 microtech-electronic.ch
-microtech-industry.ch
 microtech.ch
 microtechelectronic.ch
 microtechnik.ch
 microtechnique-sa.ch
-microtechnique.ch
 microtechniqueswiss.ch
 microtechnology.ch
 microtechx.ch
@@ -5280,6 +5278,7 @@ mien.ch
 mienne.ch
 mienskueche.ch
 miep.ch
+miepartenze.ch
 mier-fuer-euch.ch
 mier.ch
 mierau.ch
@@ -6796,7 +6795,6 @@ migraene-guide.ch
 migraene-hotline.ch
 migraene-im-beruf.ch
 migraene-infusion.ch
-migraene-oel.ch
 migraene-piercing.ch
 migraene-prophylaxe.ch
 migraene-schweiz.ch
@@ -9760,6 +9758,7 @@ militaergarten-luzern.ch
 militaergarten-thun.ch
 militaergarten.ch
 militaergartenthun.ch
+militaergeschichte.ch
 militaerhunde.ch
 militaerkantine.ch
 militaerkueche.ch
@@ -9833,6 +9832,7 @@ military1st.ch
 militarycross.ch
 militaryethics.ch
 militaryflo.ch
+militaryhistory.ch
 militarymedicalethics.ch
 militarymegablog.ch
 militarymegastore.ch
@@ -11346,7 +11346,6 @@ minageirim.ch
 minaglow.ch
 minah.ch
 minahope.ch
-minai.ch
 minair.ch
 minaju.ch
 minakbeauty.ch
@@ -11611,6 +11610,7 @@ mind-set.ch
 mind-shape.ch
 mind-shift.ch
 mind-shifters.ch
+mind-side.ch
 mind-solution.ch
 mind-solutions.ch
 mind-soul-coach.ch
@@ -12346,7 +12346,6 @@ mindgrooves.ch
 mindgroup-professionals.ch
 mindgroup.ch
 mindgrow.ch
-mindgrowth.ch
 mindgrp.ch
 mindguard.ch
 mindguards.ch
@@ -12729,6 +12728,8 @@ mindshiftstudio.ch
 mindshiftworks.ch
 mindship.ch
 mindshyft.ch
+mindside-begleitung.ch
+mindside-reflexion.ch
 mindside.ch
 mindsight.ch
 mindsinmotion.ch
@@ -12947,6 +12948,7 @@ mineandme.ch
 mineants.ch
 mineanz.ch
 minear.ch
+mineattack.ch
 mineawear.ch
 minebea-intec.ch
 minebeaintec.ch
@@ -13054,7 +13056,6 @@ mineral-check.ch
 mineral-geneve.ch
 mineral-guss.ch
 mineral-o-mat.ch
-mineral-photography.ch
 mineral-produkte.ch
 mineral-valais.ch
 mineral-vaud.ch
@@ -13802,6 +13803,7 @@ mini2teeny.ch
 mini4you.ch
 minia.ch
 miniabenteuer.ch
+miniabfahrte.ch
 miniac.ch
 miniactivity.ch
 miniactivityapproach.ch
@@ -13911,6 +13913,7 @@ minibarfilm.ch
 minibarren.ch
 minibars.ch
 minibasel.ch
+minibasketballcamp.ch
 minibasketcamp.ch
 minibatch.ch
 minibati.ch
@@ -16220,7 +16223,6 @@ mirabilia.ch
 mirabiliaroad.ch
 mirabilis-leben.ch
 mirabilis.ch
-mirabilissa.ch
 mirabisafran.ch
 mirabit.ch
 mirablaser.ch
@@ -16424,7 +16426,6 @@ miragisler.ch
 miraglia-bi.ch
 miraglia.ch
 mirago-group.ch
-mirago.ch
 miragolf-garni.ch
 miragolf.ch
 miragrillz.ch
@@ -16883,7 +16884,6 @@ mirendil.ch
 mirenova.ch
 mireo.ch
 mireos.ch
-mirepoix.ch
 mirer.ch
 mires.ch
 miresflavors.ch
@@ -17740,6 +17740,7 @@ mirse.ch
 mirselber.ch
 mirservices.ch
 mirshahi.ch
+mirsimir.ch
 mirsinarlese.ch
 mirsinbasel.ch
 mirsindamarsch.ch
@@ -18515,7 +18516,6 @@ miss-marcela.ch
 miss-marketing.ch
 miss-marple.ch
 miss-maserati.ch
-miss-minimalismus.ch
 miss-mister-neuchatel.ch
 miss-miu-europaalle.ch
 miss-miu.ch
@@ -19244,7 +19244,6 @@ mister-auto-pro.ch
 mister-auto.ch
 mister-autopro.ch
 mister-bags.ch
-mister-benson.ch
 mister-bold.ch
 mister-budget.ch
 mister-button.ch
@@ -19366,7 +19365,6 @@ misterbarista.ch
 misterbattery.ch
 misterbazar.ch
 misterbeam.ch
-misterbenson.ch
 misterbigler.ch
 misterbike.ch
 misterbio.ch
@@ -20694,6 +20692,7 @@ mitosync.ch
 mitotako.ch
 mitotane.ch
 mitotronic.ch
+mitoversa.ch
 mitovit.ch
 mitovital.ch
 mitovity.ch

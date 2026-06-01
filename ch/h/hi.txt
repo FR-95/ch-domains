@@ -1940,6 +1940,7 @@ hikix.ch
 hikizi.ch
 hikk.ch
 hikkaduwa-verein.ch
+hiklean-switzerland.ch
 hiklehrpersonen.ch
 hikm.ch
 hikma.ch
@@ -2182,7 +2183,6 @@ hilderbrand.ch
 hildering.ch
 hildesheimer.ch
 hildesign.ch
-hildesreise.ch
 hildi-art.ch
 hildi.ch
 hildicom.ch
@@ -2260,7 +2260,6 @@ hilfe-gr.ch
 hilfe-hilft.ch
 hilfe-ich-habe-angst-vorm-zahnarzt.ch
 hilfe-im-alltag-ag.ch
-hilfe-im-alltag.ch
 hilfe-im-alter.ch
 hilfe-im-buero.ch
 hilfe-im-web.ch
@@ -4769,9 +4768,6 @@ hirsig-blechtechnik.ch
 hirsig-schleifservice.ch
 hirsig.ch
 hirsigair.ch
-hirsiger-garten.ch
-hirsiger-gartenbau.ch
-hirsiger-gartenpflege.ch
 hirsiger-holzbau.ch
 hirsiger-partner.ch
 hirsiger-steinteppiche.ch
@@ -5257,6 +5253,7 @@ histoireeconomique.ch
 histoireetvoyages.ch
 histoiregout.ch
 histoiremagazine.ch
+histoiremilitaire.ch
 histoirene.ch
 histoireonline.ch
 histoireorale.ch
@@ -5991,7 +5988,6 @@ hiv-schnelltest.ch
 hiv-selbsttest.ch
 hiv-strafrecht.ch
 hiv-swiss-social-research.ch
-hiv-symptome.ch
 hiv-test.ch
 hiv-uci.ch
 hiv.ch

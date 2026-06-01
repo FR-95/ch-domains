@@ -739,7 +739,6 @@ sylvie-et-nathan.ch
 sylvie-gosteli.ch
 sylvie-grun.ch
 sylvie-helen.ch
-sylvie-institut-massages.ch
 sylvie-kids.ch
 sylvie-lindauer.ch
 sylvie-mathys.ch
@@ -1029,6 +1028,7 @@ symdesign.ch
 syme.ch
 symecom.ch
 symed-consulting.ch
+symedrev.ch
 symedric.ch
 symedya.ch
 symen.ch
@@ -2210,6 +2210,7 @@ syngentajob.ch
 syngentastein.ch
 syngentix.ch
 syngesa.ch
+syngestion.ch
 syngrid.ch
 syngroup.ch
 synguard.ch
@@ -2517,6 +2518,7 @@ synthara.ch
 synthas.ch
 synthauros.ch
 synthclub.ch
+synthcraft.ch
 synthdesign.ch
 synthe.ch
 synthedeal.ch
@@ -2976,7 +2978,6 @@ sysline.ch
 syslink.ch
 syslob.ch
 sysloc.ch
-syslog-informatique.ch
 syslog.ch
 syslogic-group.ch
 syslogic.ch
@@ -3428,6 +3429,7 @@ systemez.ch
 systemf.ch
 systemfabrik.ch
 systemfachbetrieb.ch
+systemfehler-kindswohl.ch
 systemfehler.ch
 systemfeuer.ch
 systemfive.ch

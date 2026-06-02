@@ -300,14 +300,10 @@ oralhistoryarchiv.ch
 oralhistoryofchant.ch
 oralia.ch
 oraliaformation.ch
-oralice.ch
 oralimplantology.ch
 oraline.ch
 oralink.ch
 oralinksuisse.ch
-oralis-be.ch
-oralis-dentiste.ch
-oralis-implantologie.ch
 oralis.ch
 oralix.ch
 oraljet.ch
@@ -624,6 +620,7 @@ orastral.ch
 orastrale.ch
 orastudio.ch
 orastudiofrib.ch
+orasync.ch
 orat.ch
 orata.ch
 oratamapparel.ch
@@ -703,6 +700,7 @@ orb-medau.ch
 orb-meditationen.ch
 orb.ch
 orb5.ch
+orb5073.ch
 orba-bau.ch
 orba.ch
 orbach-version.ch
@@ -1037,6 +1035,7 @@ orcatec.ch
 orcatex.ch
 orcatherapy.ch
 orcathletics.ch
+orcavi.ch
 orcawave.ch
 orcaweb.ch
 orcawellnessconcept.ch
@@ -3515,6 +3514,7 @@ originalschilder.ch
 originalschwedenbombe.ch
 originalschwedenbomben.ch
 originalschweizerarmee.ch
+originalscompletos.ch
 originalseedpaper.ch
 originalselves.ch
 originalsensible.ch
@@ -4357,6 +4357,7 @@ ornamaint.ch
 ornamaints.ch
 ornament.ch
 ornamentaltattoo.ch
+ornamentation.ch
 ornamentglas.ch
 ornamenti.ch
 ornaments.ch
@@ -4736,6 +4737,7 @@ orro.ch
 orru-partner.ch
 orry.ch
 orryka-design.ch
+orrys.ch
 ors-ag.ch
 ors-espana.ch
 ors-group.ch

@@ -20,6 +20,7 @@ wo-heiraten.ch
 wo-holzbau.ch
 wo-i-mei.ch
 wo-in-den-urlaub.ch
+wo-ist-andi.ch
 wo-ist-bea.ch
 wo-ist-berthu.ch
 wo-ist-es-warm.ch
@@ -688,6 +689,7 @@ wogeno-bern.ch
 wogeno-luzern.ch
 wogeno-mogelsberg.ch
 wogeno-pumera.ch
+wogeno-solothurn.ch
 wogeno-sursee.ch
 wogeno-zuerich.ch
 wogeno.ch
@@ -1694,6 +1696,7 @@ wohnenbasel.ch
 wohnenberg.ch
 wohnenbern.ch
 wohnenbis25.ch
+wohnenbleiben.ch
 wohnenbreitenbach.ch
 wohnench.ch
 wohnenchur.ch
@@ -1829,7 +1832,6 @@ wohnexperte.ch
 wohnexperten.ch
 wohnexpress.ch
 wohnfabrik-azmoos.ch
-wohnfabrik.ch
 wohnfachberatung.ch
 wohnfachleute.ch
 wohnfarbplan.ch
@@ -7571,6 +7573,7 @@ workflows.ch
 workflowservice.ch
 workflowsolution.ch
 workflowsolutions.ch
+workflowsprint.ch
 workflowstudio.ch
 workflowsystem.ch
 workflowxpert.ch
@@ -8190,6 +8193,7 @@ worktec.ch
 worktech-shop.ch
 worktech.ch
 workthatcapital.ch
+workthatreconnects.ch
 workthehouse.ch
 workthere.ch
 workthree.ch
@@ -9112,7 +9116,6 @@ worldtradingshahryar.ch
 worldtraffic.ch
 worldtransfer.ch
 worldtransit.ch
-worldtransitups.ch
 worldtravel.ch
 worldtravel24.ch
 worldtravelprotection.ch

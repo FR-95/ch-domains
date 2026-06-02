@@ -1736,6 +1736,7 @@ spambit.ch
 spambot.ch
 spambox.ch
 spambutler.ch
+spamcat.ch
 spamchek.ch
 spamclaim.ch
 spamclean.ch
@@ -2567,6 +2568,7 @@ sparklaneag.ch
 sparklaun.ch
 sparkle-by.ch
 sparkle-shop.ch
+sparkle.ch
 sparkleaf.ch
 sparklean.ch
 sparkleandwine.ch
@@ -3583,6 +3585,7 @@ spctr.ch
 spcv-gkpw.ch
 spcv.ch
 spcweb.ch
+spcx.ch
 spcy.ch
 spczh.ch
 spd-andelfingen.ch
@@ -4312,13 +4315,9 @@ spectacle.ch
 spectacledemagie.ch
 spectacleimpro.ch
 spectaclepourenfant.ch
-spectacles-animation.ch
-spectacles-animations.ch
 spectacles-onesiens.ch
 spectacles.ch
 spectaclesalondres.ch
-spectaclesanimation.ch
-spectaclesanimations.ch
 spectaclesetcompagnie.ch
 spectaclesfrancais.ch
 spectaclesonesiens.ch
@@ -4771,6 +4770,7 @@ speedbike.ch
 speedbikes.ch
 speedbird.ch
 speedblog.ch
+speedblok.ch
 speedboat-consulting.ch
 speedboat-digital.ch
 speedboat-methode.ch
@@ -5354,6 +5354,8 @@ speicherofen.ch
 speicherplatz.ch
 speicherprofis.ch
 speicherschwendi.ch
+speicherscout.ch
+speicherscout24.ch
 speichersee.ch
 speichersolaranlage.ch
 speichersolaranlagen.ch
@@ -7723,6 +7725,7 @@ spielerplus.ch
 spielers.ch
 spielerschmiede.ch
 spielerschutz.ch
+spielersuche.ch
 spielertransfer.ch
 spielervermittler.ch
 spielervermittlung.ch
@@ -8737,6 +8740,7 @@ spielofant.ch
 spielohnegrenzen.ch
 spielomat-83.ch
 spielomat.ch
+spieloper-mobil.ch
 spielort-am-baechli.ch
 spielorte.ch
 spielosoph.ch
@@ -10243,6 +10247,7 @@ spinshotsports.ch
 spinshuttle.ch
 spinsi-wedding.ch
 spinsi.ch
+spinsino-casino.ch
 spinsino-ch.ch
 spinsino.ch
 spinsinocasino.ch
@@ -10265,6 +10270,7 @@ spinstationx.ch
 spinstein.ch
 spinsteincasino.ch
 spinstudios.ch
+spinsup-casino.ch
 spinsup.ch
 spinsupcasino.ch
 spinsy-casino.ch
@@ -10728,7 +10734,6 @@ spiritbrothers.ch
 spiritbusiness.ch
 spiritcafe.ch
 spiritcampers.ch
-spiritcapital.ch
 spiritcare.ch
 spiritcenter.ch
 spiritchat.ch
@@ -14403,6 +14408,7 @@ sponton.ch
 spontx.ch
 sponty.ch
 sponzie.ch
+spoo.ch
 spoodle.ch
 spoodme.ch
 spoodrocket.ch
@@ -15692,7 +15698,6 @@ sportegration.ch
 sportehrungen.ch
 sporteinkauf.ch
 sporteinlage.ch
-sporteinlagen.ch
 sporteka.ch
 sportelan.ch
 sportelec.ch
@@ -17002,7 +17007,6 @@ sports-loisirs-vallorbe.ch
 sports-management-school.ch
 sports-management.ch
 sports-manager.ch
-sports-massage.ch
 sports-med.ch
 sports-media.ch
 sports-medic.ch
@@ -18151,7 +18155,6 @@ spot-robots.ch
 spot-sion.ch
 spot-tech.ch
 spot-theatre.ch
-spot-timeline.ch
 spot-vogel.ch
 spot.ch
 spot11.ch

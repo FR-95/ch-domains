@@ -327,7 +327,6 @@ cgmonthey.ch
 cgmoto.ch
 cgmp.ch
 cgmpmetalswiss.ch
-cgms.ch
 cgmu.ch
 cgn-exclusive.ch
 cgn-horizon.ch
@@ -390,6 +389,7 @@ cgrangier.ch
 cgrass.ch
 cgraum.ch
 cgrd.ch
+cgreene.ch
 cgremli.ch
 cgremlich.ch
 cgrenov.ch

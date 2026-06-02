@@ -213,6 +213,7 @@ dccg.ch
 dcch.ch
 dccholding.ch
 dccimmo.ch
+dccis.ch
 dccloudservices.ch
 dccm.ch
 dccoiffure.ch

@@ -1071,6 +1071,7 @@ pic4u.ch
 pic4you.ch
 pica-pau.ch
 pica-repica.ch
+pica-umzuege.ch
 pica.ch
 picabella.ch
 picabellos.ch
@@ -1125,7 +1126,6 @@ picapoint.ch
 picapp.ch
 picapture.ch
 picar.ch
-picara.ch
 picard-und.ch
 picard.ch
 picardangst.ch
@@ -2408,7 +2408,6 @@ piecesoriginales.ch
 piecesoriginalesford.ch
 piecesorsuisses.ch
 piecesplomberie.ch
-piecesporscheoccasions.ch
 piecestopeace.ch
 piecesvoitures.ch
 pieceuniquedesign.ch
@@ -2634,6 +2633,7 @@ piercing-ersteinsatz.ch
 piercing-frasson.ch
 piercing-fribourg.ch
 piercing-gutschein.ch
+piercing-gutscheine.ch
 piercing-kurs-zurich.ch
 piercing-kurs.ch
 piercing-lieferant.ch
@@ -2662,6 +2662,7 @@ piercingboutique.ch
 piercingersteinsatz.ch
 piercinggaby.ch
 piercinggutschein.ch
+piercinggutscheine.ch
 piercinghouse-lotzwil.ch
 piercingkurs.ch
 piercingkurse.ch
@@ -7104,6 +7105,7 @@ piombo.ch
 piomic.ch
 pion.ch
 piona.ch
+pionari.ch
 pioneer-amundi.ch
 pioneer-car.ch
 pioneer-city.ch
@@ -11222,6 +11224,7 @@ pizzahouse-jona.ch
 pizzahouse.ch
 pizzahouses.ch
 pizzahub.ch
+pizzahubsierre.ch
 pizzahuesli.ch
 pizzahus.ch
 pizzahut.ch
@@ -11898,6 +11901,7 @@ pizzeria-caprese.ch
 pizzeria-capri-adliswil.ch
 pizzeria-capri.ch
 pizzeria-capriccio-labelleombre.ch
+pizzeria-caruso.ch
 pizzeria-casablanca.ch
 pizzeria-castello.ch
 pizzeria-cavallino.ch

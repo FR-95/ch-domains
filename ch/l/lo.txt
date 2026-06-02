@@ -2660,6 +2660,9 @@ loerch.ch
 loercher.ch
 loeri.ch
 loerincz.ch
+loerke-auktionen.ch
+loerke-kunstauktionen.ch
+loerke.ch
 loerli.ch
 loerrach-paketdepot.ch
 loerrach-postadresse.ch
@@ -4174,7 +4177,6 @@ logisch.ch
 logischabc.ch
 logischastro.ch
 logischbio.ch
-logischburri.ch
 logischdenken.ch
 logischekommunikation.ch
 logisclean.ch
@@ -4863,7 +4865,6 @@ logolabs.ch
 logolarium.ch
 logolega.ch
 logolife.ch
-logolina.ch
 logoline-mh.ch
 logolini.ch
 logologic.ch
@@ -5331,6 +5332,7 @@ lohn-ag.ch
 lohn-ammannsegg-bewegt.ch
 lohn-ammannsegg.ch
 lohn-ammannsegg24.ch
+lohn-angriff.ch
 lohn-arbeiten.ch
 lohn-barometer.ch
 lohn-brief.ch
@@ -7436,6 +7438,7 @@ longevityfood.ch
 longevitygap.ch
 longevitygenetik.ch
 longevitygenomik.ch
+longevityglobalcircle.ch
 longevityguide.ch
 longevityhackers.ch
 longevityhausarzt.ch
@@ -7580,8 +7583,11 @@ longis.ch
 longisland.ch
 longisolar.ch
 longissi.ch
+longissilab.ch
 longissilabs.ch
 longissimus.ch
+longissimuslab.ch
+longissimuslabs.ch
 longitroc.ch
 longitude-7.ch
 longitude-coiffure.ch
@@ -9485,6 +9491,7 @@ lorinbuechel.ch
 lorincz.ch
 lorinda.ch
 lorinde.ch
+lorindebeauty.ch
 lorindel.ch
 lorine-berger.ch
 lorine.ch
@@ -10224,6 +10231,7 @@ lostinzurich.ch
 lostisland.ch
 lostit.ch
 lostivale.ch
+lostivaletto.ch
 lostjewellery.ch
 lostkeys.ch
 lostknives.ch
@@ -10702,7 +10710,6 @@ lotus-dinos.ch
 lotus-eaters.ch
 lotus-elise.ch
 lotus-eliser.ch
-lotus-energie.ch
 lotus-esprit.ch
 lotus-feeling.ch
 lotus-flower-yoga.ch
@@ -11005,7 +11012,6 @@ loucastel.ch
 louch.ch
 loucherehus.ch
 loucie.ch
-loucmyblog.ch
 loucor.ch
 loucore.ch
 loucrash-messer.ch
@@ -12230,7 +12236,6 @@ loveflows.ch
 lovefood.ch
 lovefoolosophy.ch
 lovefootball.ch
-loveforall.ch
 loveforbabys.ch
 loveforever.ch
 loveforhair.ch
@@ -13158,6 +13163,7 @@ lowinjo.ch
 lowinski.ch
 lowira.ch
 lowiraumvermietung.ch
+lowis-immobilier.ch
 lowis.ch
 lowit.ch
 lowitech.ch

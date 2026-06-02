@@ -382,6 +382,7 @@ cibotrade.ch
 cibottimo.ch
 ciboulette-grelinette.ch
 ciboulette.ch
+ciboulettes.ch
 cibovagando.ch
 cibovero.ch
 cibovino.ch
@@ -814,6 +815,7 @@ ciekane.ch
 ciel-bleu-mediation.ch
 ciel-bleu-toujours.ch
 ciel-bleu.ch
+ciel-clair.ch
 ciel-coiffeur.ch
 ciel-de-suisse.ch
 ciel-et-terre.ch
@@ -3049,7 +3051,6 @@ circle-transitions.ch
 circle-unlimited.ch
 circle-x.ch
 circle.ch
-circle10.ch
 circle19.ch
 circle3.ch
 circle6.ch
@@ -4672,6 +4673,7 @@ city-lucerne.ch
 city-luzern.ch
 city-maert.ch
 city-malerei.ch
+city-management-winterthur.ch
 city-management-zug.ch
 city-management.ch
 city-map.ch
@@ -5382,6 +5384,7 @@ citymanagement-basel.ch
 citymanagement-luzern.ch
 citymanagement-rheinfelden.ch
 citymanagement-schaffhausen.ch
+citymanagement-winterthur.ch
 citymanagement-zug.ch
 citymanagement.ch
 citymanagementbasel.ch

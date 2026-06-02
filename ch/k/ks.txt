@@ -400,6 +400,7 @@ ksg-bau24.ch
 ksg-ccr.ch
 ksg-cdr.ch
 ksg-nw.ch
+ksg-nw175.ch
 ksg.ch
 ksgag.ch
 ksgarage.ch
@@ -419,6 +420,7 @@ ksgr-cdgs.ch
 ksgr-ict.ch
 ksgr-int.ch
 ksgr.ch
+ksgroup-services.ch
 ksgroup.ch
 ksgsolutions.ch
 ksgv.ch
@@ -632,6 +634,7 @@ kspengel.ch
 kspengler.ch
 ksperf.ch
 ksperformance.ch
+kspinelli.ch
 ksplus.ch
 kspmaschinen.ch
 kspoerri.ch

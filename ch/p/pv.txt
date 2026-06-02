@@ -200,7 +200,6 @@ pv-vergleich.ch
 pv-vip.ch
 pv-vundac.ch
 pv-vzug.ch
-pv-waermepumpe-beratung.ch
 pv-wand.ch
 pv-wander.ch
 pv-wartung-schweiz.ch
@@ -392,7 +391,6 @@ pvh-editions.ch
 pvh-labs.ch
 pvh.ch
 pvhandbuch.ch
-pvhandel.ch
 pvheizung.ch
 pvheld.ch
 pvhilfe.ch

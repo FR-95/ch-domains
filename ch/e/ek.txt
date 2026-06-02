@@ -35,6 +35,7 @@ ek-menuiserie.ch
 ek-modeling.ch
 ek-robotics.ch
 ek-s.ch
+ek-services.ch
 ek-shop.ch
 ek-solutions.ch
 ek-spielgruppe.ch
@@ -196,7 +197,6 @@ ekey.ch
 ekeyplus.ch
 ekf.ch
 ekfabrics.ch
-ekfabt52.ch
 ekfashion.ch
 ekff.ch
 ekfootballcoaching.ch

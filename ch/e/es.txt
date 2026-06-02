@@ -17,6 +17,7 @@ es-bons.ch
 es-borrat.ch
 es-brennt-was-tun.ch
 es-c.ch
+es-care.ch
 es-castellot.ch
 es-cha.ch
 es-chonnt-scho-guet.ch
@@ -3535,6 +3536,7 @@ espacefusterie.ch
 espacegabert.ch
 espacegaea.ch
 espacegaertner.ch
+espaceganesh.ch
 espacegarde.ch
 espacegere.ch
 espacegourmand.ch
@@ -4213,7 +4215,6 @@ esport-sponsoring.ch
 esport-tournament.ch
 esport.ch
 esport1.ch
-esport24.ch
 esportacademy.ch
 esportanwalt.ch
 esportbar.ch
@@ -6854,7 +6855,6 @@ estimation-appartement.ch
 estimation-bien-immobilier-geneve.ch
 estimation-bien-immobilier-suisse.ch
 estimation-bien-immobilier.ch
-estimation-budget-immobilier.ch
 estimation-cardis.ch
 estimation-cave.ch
 estimation-de-ma-maison.ch
@@ -6926,7 +6926,6 @@ estimation-maison-versoix.ch
 estimation-maison-veyrier.ch
 estimation-maison.ch
 estimation-mon-appartement.ch
-estimation-prix-bien-immobilier.ch
 estimation-prix-immobilier.ch
 estimation-prix-terrain.ch
 estimation-rapide.ch

@@ -964,7 +964,6 @@ kraftzentrale-schoenenberg.ch
 kraftzentrale.ch
 kraftzentrum.ch
 kraftzone.ch
-kraftzwerg.ch
 krag.ch
 kragapa.ch
 kragarm-regale.ch
@@ -2980,6 +2979,7 @@ kreativateliercrimitech.ch
 kreativateliersibylle.ch
 kreativaudio.ch
 kreativauszeit.ch
+kreativbahnhof.ch
 kreativbalance.ch
 kreativbar.ch
 kreativbasteln.ch
@@ -4733,6 +4733,7 @@ kreuger.ch
 kreunggaengpeddai.ch
 kreusch.ch
 kreusel.ch
+kreussler.ch
 kreusslerladenbau.ch
 kreuter-architekten.ch
 kreuter-ing.ch
@@ -7543,6 +7544,7 @@ krvbrugg.ch
 krvbuempliz.ch
 krvguerbetal.ch
 krvkonolfingen.ch
+krvn.ch
 krvolten-goesgen.ch
 krvownw.ch
 krvportal.ch
@@ -7616,8 +7618,6 @@ kryolipolyse-studio.ch
 kryolipolyse-sursee.ch
 kryolipolyse-velfero.ch
 kryolipolyse-zentrum.ch
-kryolipolyse-zuerich.ch
-kryolipolyse-zurich.ch
 kryolipolyse.ch
 kryolipolysestudio.ch
 kryon.ch

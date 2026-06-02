@@ -821,11 +821,13 @@ foerderdiagnostik.ch
 foerderer.ch
 foerdergeld-check.ch
 foerdergelder.ch
+foerdergeldzentrale.ch
 foerdergroup.ch
 foerdergurtservice.ch
 foerdergurus.ch
 foerderkomitee-pflegeinitiative.ch
 foerderkompass.ch
+foerderkreis-gsag.ch
 foerderkreis-thr.ch
 foerderkreisthr.ch
 foerderlabor.ch
@@ -2543,7 +2545,6 @@ fondation-cerebral.ch
 fondation-chablais-nature.ch
 fondation-chalet-soldat.ch
 fondation-champittet.ch
-fondation-champoud.ch
 fondation-chante-bise.ch
 fondation-chat-botte.ch
 fondation-chercher-trouver.ch
@@ -2627,7 +2628,6 @@ fondation-fleuret.ch
 fondation-force.ch
 fondation-formaspo.ch
 fondation-forpro.ch
-fondation-francoise-champoud.ch
 fondation-fsb.ch
 fondation-fsfp.ch
 fondation-g.ch
@@ -2695,6 +2695,7 @@ fondation-journet.ch
 fondation-jubile-sierre.ch
 fondation-jumelles.ch
 fondation-kiss.ch
+fondation-kornkraft.ch
 fondation-krips.ch
 fondation-kurt-imhof.ch
 fondation-la-feuillere.ch
@@ -3030,7 +3031,6 @@ fondationcerebral.ch
 fondationceres.ch
 fondationch.ch
 fondationchablaisnature.ch
-fondationchampoud.ch
 fondationcharitable.ch
 fondationcharlotteolivier.ch
 fondationchercherettrouver.ch
@@ -3138,7 +3138,6 @@ fondationflac.ch
 fondationflaviaabubakir.ch
 fondationfondsdusportvaudois.ch
 fondationfrancinedelacretaz.ch
-fondationfrancoisechampoud.ch
 fondationfrancoregli.ch
 fondationfrutiger.ch
 fondationgaydoul.ch
@@ -3213,6 +3212,7 @@ fondationjura.ch
 fondationkhuon.ch
 fondationkiko.ch
 fondationkiss.ch
+fondationkornkraft.ch
 fondationkudelski.ch
 fondationlabri.ch
 fondationlachaloupe.ch
@@ -5133,6 +5133,7 @@ foodcourtgeneva.ch
 foodcouture.ch
 foodcreative.ch
 foodcreator.ch
+foodcreators.ch
 foodcrew.ch
 foodcrunch.ch
 foodcube.ch
@@ -7703,8 +7704,6 @@ forever66.ch
 foreveracademy.ch
 foreverafter.ch
 foreveraloe-shop.ch
-foreveraloe.ch
-foreveraloenoemi.ch
 foreveraloevera.ch
 foreverasanin.ch
 foreverbeautiful.ch
@@ -9045,6 +9044,7 @@ formbarcoiffeur.ch
 formbau.ch
 formbauer.ch
 formbaur.ch
+formberg.ch
 formbeton.ch
 formble-dakaj.ch
 formblech.ch
@@ -10021,6 +10021,7 @@ forst-mulcher.ch
 forst-neftenbach.ch
 forst-oa.ch
 forst-oberaargau.ch
+forst-oensingen.ch
 forst-olten.ch
 forst-or.ch
 forst-pfungen.ch
@@ -10433,6 +10434,7 @@ fortanis.ch
 fortaplus.ch
 fortas.ch
 fortasonline.ch
+fortate.ch
 fortatech.ch
 fortatek.ch
 fortax.ch
@@ -10692,6 +10694,7 @@ fortis-credit.ch
 fortis-echafaudage.ch
 fortis-echafaudages.ch
 fortis-energy-partner.ch
+fortis-esto.ch
 fortis-facility.ch
 fortis-holding.ch
 fortis-immobau.ch
@@ -10734,6 +10737,7 @@ fortisdigital.ch
 fortisec.ch
 fortisenergy.ch
 fortisenergypartner.ch
+fortisesto.ch
 fortiseven.ch
 fortisfit.ch
 fortisgroup.ch

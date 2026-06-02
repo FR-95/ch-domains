@@ -849,7 +849,6 @@ xn--all-la-terre-gib.ch
 xn--all-tec-amnagements-kzb.ch
 xn--alle-ferienhuser-6nb.ch
 xn--alle-ffnungszeiten-h3b.ch
-xn--alle-zuknfte-klb.ch
 xn--alleebume-02a.ch
 xn--alleferienhuser-blb.ch
 xn--allegerte-12a.ch
@@ -897,7 +896,6 @@ xn--alleskse-5za.ch
 xn--allesmgliche-9ib.ch
 xn--allestrungen-9ib.ch
 xn--alletne-e1a.ch
-xn--allezuknfte-zhb.ch
 xn--allgemeine-geschftsbedingungen-btc.ch
 xn--allgemeine-und-historische-pdagogik-x7c.ch
 xn--allgemeinrzte-jfb.ch
@@ -922,6 +920,7 @@ xn--allmend-blach-4ob.ch
 xn--allmerti-c6a.ch
 xn--allmnder-3za.ch
 xn--alloapique-r6a.ch
+xn--alloremplaant-rgb.ch
 xn--allroundbau-zurbrgg-mbc.ch
 xn--allrounder-zrich-uzb.ch
 xn--allrounderzri-6ob.ch
@@ -5201,8 +5200,6 @@ xn--bicom-veterinr-iib.ch
 xn--bidbi-ira.ch
 xn--bidbii-dua.ch
 xn--bidi-gartentrume-7nb.ch
-xn--bieler-geschfte-clb.ch
-xn--bielergeschfte-gib.ch
 xn--bielerhuusbrg-lfb.ch
 xn--bielerinzri-1hb.ch
 xn--bielerkolleg-rcb.ch
@@ -6026,7 +6023,6 @@ xn--blttler-o2a.ch
 xn--blttler-partner-1kb.ch
 xn--blttler-sanitr-6hbl.ch
 xn--blttlercoaching-1kb.ch
-xn--blttlers-1za.ch
 xn--blttlerswiss-hcb.ch
 xn--blttli-cua.ch
 xn--blttlizonftzomwii-rqb.ch
@@ -6359,6 +6355,7 @@ xn--bnten-chller-ncb24a.ch
 xn--bnter-kva.ch
 xn--bntergarten-thb.ch
 xn--bnterkeramik-dlb.ch
+xn--bnz-qla.ch
 xn--bnzaue-3ya.ch
 xn--bnze-loa.ch
 xn--bnzen24-n2a.ch
@@ -9244,7 +9241,6 @@ xn--cancrologue-ebb.ch
 xn--canel-fsa.ch
 xn--canipques-f2a.ch
 xn--cannabis-thrapeutique-l5b.ch
-xn--cannabiskche-llb.ch
 xn--cannabisl-77a.ch
 xn--cannabisldeli-jfb.ch
 xn--cannabissmli-ocb.ch
@@ -14397,12 +14393,14 @@ xn--engelhardt-plattenbelge-g8b.ch
 xn--engelhrner-jcb.ch
 xn--engelis-hofldeli-6nb.ch
 xn--engelknig-57a.ch
+xn--engels-glck-1hb.ch
 xn--engelundvlkers-capital-2hc.ch
 xn--engelundvlkerscapital-pec.ch
 xn--engelvlkers-capital-v6b.ch
 xn--engelvlkers-wfb.ch
 xn--engelvlkerscapital-i3b.ch
 xn--engineeringforenergykppel-jsc.ch
+xn--engler-sanitr-mfb.ch
 xn--englisch-bersetzen-u6b.ch
 xn--englisch-bersetzung-ebc.ch
 xn--englischlernenzrich-kbc.ch
@@ -15922,7 +15920,6 @@ xn--fengshuiglck-mlb.ch
 xn--fennern-bhne-llb.ch
 xn--fennobed-zrich-psb.ch
 xn--fenster-beschlge-8nb.ch
-xn--fenster-dnu-t8a.ch
 xn--fenster-drig-djb.ch
 xn--fenster-haustren-vzb.ch
 xn--fenster-lden-ocb.ch
@@ -17686,6 +17683,7 @@ xn--frdercockpit-4ib.ch
 xn--frdergeld-07a.ch
 xn--frdergelder-rfb.ch
 xn--frdergelder-wrmepumpe-i2b51b.ch
+xn--frdergeldzentrale-zzb.ch
 xn--frderketten-rfb.ch
 xn--frderkreis-thr-vpb.ch
 xn--frderkreisthr-imb.ch
@@ -19331,6 +19329,7 @@ xn--gebudesteuerung-2kb.ch
 xn--gebudete-2za.ch
 xn--gebudetech-s5a.ch
 xn--gebudetechexpert-xnb.ch
+xn--gebudetechnik-aktuell-71b.ch
 xn--gebudetechnik-bern-ntb.ch
 xn--gebudetechnik-dfb.ch
 xn--gebudetechnik-experten-24b.ch
@@ -21414,7 +21413,6 @@ xn--gnsser-4ya.ch
 xn--gnsserclub-beb.ch
 xn--gnsserei-75a.ch
 xn--gnsserei-75aa.ch
-xn--gnsserei-im-rssli-c0b6h.ch
 xn--gnsserli-75a.ch
 xn--gnsserzmittag-xob.ch
 xn--gnsslch-angers-9hb49a.ch
@@ -22443,7 +22441,6 @@ xn--grner-tee-r9a.ch
 xn--grner-zwang-uhb.ch
 xn--grner-zweig-gartenbau-9hc.ch
 xn--grneranarchist-hsb.ch
-xn--grnerapfel-beb.ch
 xn--grnerbaum-oberegg-32b.ch
 xn--grnerfaden-beb.ch
 xn--grnerfisher-uhb.ch
@@ -23164,6 +23161,7 @@ xn--guggetschli-q8a.ch
 xn--guggmusig-y2a.ch
 xn--gugilum-9wa.ch
 xn--gugulsch-b6a.ch
+xn--guh-joa.ch
 xn--guhwilmhle-geb.ch
 xn--guide-sant-k7a.ch
 xn--guidesant-j4a.ch
@@ -23630,9 +23628,7 @@ xn--hanf-pflnzli-ncb.ch
 xn--hanfblte-c6a.ch
 xn--hanfblten-v9a.ch
 xn--hanfbltter-v5a.ch
-xn--hanfchechli-yhb.ch
 xn--hanfdmmung-u5a.ch
-xn--hanfkche-b6a.ch
 xn--hanfknig-r4a.ch
 xn--hanfkrner-47a.ch
 xn--hanfkse-9wa.ch
@@ -32009,7 +32005,6 @@ xn--krpertherapie-baden-q6b.ch
 xn--krpertherapie-fritsche-uhc.ch
 xn--krpertherapie-luzern-39b.ch
 xn--krpertherapie-martin-39b.ch
-xn--krpertherapie-obererzrichsee-21c4r.ch
 xn--krpertherapie-praxis-39b.ch
 xn--krpertherapie-schdeli-m2b11b.ch
 xn--krpertherapie-spahn-q6b.ch
@@ -38373,7 +38368,6 @@ xn--mnnerdiskriminierung-bzb.ch
 xn--mnnerdrogerie-bfb.ch
 xn--mnnerevent-q5a.ch
 xn--mnnerexperten-bfb.ch
-xn--mnnerferien-l8a.ch
 xn--mnnerfeuer-q5a.ch
 xn--mnnerforum-q5a.ch
 xn--mnnerfrhschoppen-vnb25b.ch
@@ -39879,7 +39873,6 @@ xn--natrlichenahrung-lzb.ch
 xn--natrlicher-honig-lzb.ch
 xn--natrlicher-pflanzenschutz-hwc.ch
 xn--natrlicher-weinbau-o6b.ch
-xn--natrlicher-zeckenschutz-epc.ch
 xn--natrlicherden-yob.ch
 xn--natrlicherziehen-lzb.ch
 xn--natrliches-essen-lzb.ch
@@ -40320,6 +40313,7 @@ xn--neujahrsbltter-rheinfelden-phc.ch
 xn--neujahrsvorstze-clb.ch
 xn--neulnd-eua.ch
 xn--neumatt-mnchenbuchsee-hic.ch
+xn--neumattbnte-arlesheim-gic.ch
 xn--neumhle-q2a.ch
 xn--neumller-95a.ch
 xn--neumnster-musik-2vb.ch
@@ -41082,6 +41076,7 @@ xn--nziloch-4wa.ch
 xn--nzimmoclean-3eb.ch
 xn--nzk-ioa.ch
 xn--o-l-cla6j.ch
+xn--o-r-boa.ch
 xn--oase-fr-wohlbefinden-uec.ch
 xn--oase-hngg-57a.ch
 xn--oase-mnnedorf-gfb.ch
@@ -44099,6 +44094,7 @@ xn--prmienverbilligung-lu-61b.ch
 xn--prmienverbilligung-mtb.ch
 xn--prmienverbilligung-nw-61b.ch
 xn--prmienverbilligung-ow-61b.ch
+xn--prmienverbilligung-schweiz-hhc.ch
 xn--prmienverbilligung-sg-61b.ch
 xn--prmienverbilligung-sh-61b.ch
 xn--prmienverbilligung-so-61b.ch
@@ -44915,6 +44911,7 @@ xn--raisine-gya.ch
 xn--raisinest-cergue-gqb.ch
 xn--raisonn-hya.ch
 xn--raku-tpfer-jcb.ch
+xn--raligner-b1a.ch
 xn--ralisateur-publicitaire-bcc.ch
 xn--raliser-bya.ch
 xn--rallyedesfes-keb.ch
@@ -45101,7 +45098,6 @@ xn--raumfryoga-eeb.ch
 xn--raumfrzeit-eeb.ch
 xn--raumgefhl-w9a.ch
 xn--raumgefhle-geb.ch
-xn--raumgesprche-ocb.ch
 xn--raumgewrz-w9a.ch
 xn--raumgrn-s2a.ch
 xn--raumhlle-b6a.ch
@@ -45110,8 +45106,6 @@ xn--raumkche-b6a.ch
 xn--raumkhlung-eeb.ch
 xn--raumklima-sachverstndiger-3ec.ch
 xn--raumklimagerte-hib.ch
-xn--raumklren-02a.ch
-xn--raumklrung-v5a.ch
 xn--raumkrper-47a.ch
 xn--raumkrperemotion-qwb.ch
 xn--raumlftung-eeb.ch
@@ -47030,7 +47024,6 @@ xn--rsterei-baden-imb.ch
 xn--rsterei-maria-rickenbach-loc.ch
 xn--rsterei-n2a.ch
 xn--rsterei-rorschach-22b.ch
-xn--rsterei-scherrer-mwb.ch
 xn--rstereien-07a.ch
 xn--rstereiengelberg-mwb.ch
 xn--rstergilde-ecb.ch
@@ -51752,6 +51745,7 @@ xn--site-archologique-jtb.ch
 xn--sitescontamins-nkb.ch
 xn--sittermhle-geb.ch
 xn--situe-esa.ch
+xn--sitzblle-4za.ch
 xn--sitzbnke-4za.ch
 xn--sitzbnkli-z2a.ch
 xn--sitzerhhung-xfb.ch
@@ -53451,7 +53445,6 @@ xn--stckholzheizung-0vb.ch
 xn--stckholzheizungen-32b.ch
 xn--stckholzkessel-hsb.ch
 xn--stcki-basel-uhb.ch
-xn--stcki-grindelwaldblick-vhc.ch
 xn--stcki-kua.ch
 xn--stcki-lva.ch
 xn--stcki-park-beb.ch
@@ -56411,6 +56404,7 @@ xn--tooth-fsa.ch
 xn--top-bodenbelge-hib.ch
 xn--top-bropreise-0ob.ch
 xn--top-gartenmbel-5pb.ch
+xn--top-geschftsfhrer-yqb47b.ch
 xn--top-glser-02a.ch
 xn--top-haustren-llb.ch
 xn--top-headhunter-headhunting-bern-zrich-u4d.ch
@@ -56428,6 +56422,7 @@ xn--topfkruter-v5a.ch
 xn--topfsplautomaten-ozb.ch
 xn--topgartenmbel-rmb.ch
 xn--topgerstbau-yhb.ch
+xn--topgeschftsfhrer-2nb05b.ch
 xn--topgrten-3za.ch
 xn--tophandyhlle-llb.ch
 xn--tophandyhllen-4ob.ch
@@ -57113,7 +57108,6 @@ xn--trs-rla.ch
 xn--trs-tna.ch
 xn--trsch-eis-zocker-wnb.ch
 xn--trsch-gartenbau-9sb.ch
-xn--trsch-hra.ch
 xn--trsch-immobilien-nwb.ch
 xn--trsch-kua.ch
 xn--trsch-treuhand-wpb.ch
@@ -59740,7 +59734,6 @@ xn--weinlandbhne-llb.ch
 xn--weinlden-4za.ch
 xn--weinlnder-herbstfest-fzb.ch
 xn--weinlnder-lamas-4kb.ch
-xn--weinlnder2025-ffb.ch
 xn--weinmrt-9wa.ch
 xn--weinraritten-ocb.ch
 xn--weinrarittenankauf-ttb.ch
@@ -62481,6 +62474,7 @@ xn--zlt-qla.ch
 xn--zm-red-buabe.ch
 xn--zm-uia.ch
 xn--zm-viab.ch
+xn--zm1879-buab.ch
 xn--zm26-loab.ch
 xn--zm28-loab.ch
 xn--zm3-qlab.ch
@@ -62922,6 +62916,7 @@ xn--zri-massage-schule-m6b.ch
 xn--zri-meister-thb.ch
 xn--zri-metallbau-wob.ch
 xn--zri-mobil-q9a.ch
+xn--zri-nats-t1ag.ch
 xn--zri-news-65a.ch
 xn--zri-nord-65a.ch
 xn--zri-nord-boomt-gsb.ch

@@ -1422,7 +1422,9 @@ blacksew.ch
 blackshadow.ch
 blackshape-flyers.ch
 blackshape.ch
+blackshark-volleybernex.ch
 blackshark.ch
+blacksharks-volleybernex.ch
 blacksharksbernex.ch
 blackshaw.ch
 blacksheeep.ch
@@ -1917,7 +1919,6 @@ blaise-dental.ch
 blaise-galland.ch
 blaise-magnenat.ch
 blaise-morand.ch
-blaise-sylvie.ch
 blaise.ch
 blaisecoutaz.ch
 blaisedevaud.ch
@@ -2716,6 +2717,7 @@ blattenhof.ch
 blattensee.ch
 blatter-ag.ch
 blatter-akkord-ag.ch
+blatter-allround-service.ch
 blatter-automation.ch
 blatter-bau.ch
 blatter-bern.ch
@@ -3281,7 +3283,6 @@ blaulichtwaadt.ch
 blaulichtwallis.ch
 blaulichtzg.ch
 blaulichtzh.ch
-blaulichtzubehoerroeder.ch
 blaulichtzuerich.ch
 blaulichtzug.ch
 blauliecht.ch
@@ -4404,6 +4405,7 @@ bleu-saphir.ch
 bleu-turquoise.ch
 bleu-vert.ch
 bleu-virage.ch
+bleu.ch
 bleuair-helicopter.ch
 bleuair.ch
 bleuananas.ch
@@ -5103,7 +5105,6 @@ blingding.ch
 blingg.ch
 blingi.ch
 blingicasino.ch
-blingmafia.ch
 blingrock.ch
 blingsmanufaktur.ch
 blingsmile.ch
@@ -7786,7 +7787,6 @@ blue-navy.ch
 blue-news.ch
 blue-nivalis.ch
 blue-nordic.ch
-blue-note-club.ch
 blue-note.ch
 blue-nova.ch
 blue-o.ch
@@ -10072,6 +10072,7 @@ blumagnolia.ch
 blumagnoliacare.ch
 blumail.ch
 blumaler.ch
+blumamama.ch
 blumando.ch
 blumarea.ch
 blumart.ch
@@ -10133,6 +10134,7 @@ blumen-ackermann.ch
 blumen-aebi.ch
 blumen-alp.ch
 blumen-am-bahnhof.ch
+blumen-am-lindenweg.ch
 blumen-am-vorderberg.ch
 blumen-amriswil.ch
 blumen-an-der-oper.ch

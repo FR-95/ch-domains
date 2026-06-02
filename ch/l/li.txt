@@ -543,7 +543,6 @@ libellules.ch
 libellulestyle.ch
 libellum.ch
 libellus.ch
-libelula-care.ch
 libelula.ch
 libelulayogacoaching.ch
 libenter.ch
@@ -1590,7 +1589,6 @@ licht-blick-design.ch
 licht-blick.ch
 licht-box.ch
 licht-box24.ch
-licht-bruecke.ch
 licht-concept.ch
 licht-craft.ch
 licht-deals.ch
@@ -2223,6 +2221,7 @@ lichtkuppelonline.ch
 lichtkuppelservice.ch
 lichtkurven.ch
 lichtlabor.ch
+lichtlage.ch
 lichtlager.ch
 lichtleben.ch
 lichtlein.ch
@@ -5050,6 +5049,7 @@ life-digital.ch
 life-domain-balance.ch
 life-drive.ch
 life-emotions.ch
+life-enablement.ch
 life-end-coach.ch
 life-end.ch
 life-energie.ch
@@ -5180,6 +5180,7 @@ life-saver.ch
 life-savers.ch
 life-schmiede.ch
 life-school.ch
+life-science-community.ch
 life-science-consulting.ch
 life-science-jobs.ch
 life-science-jobs24.ch
@@ -5258,6 +5259,7 @@ life-workbalance.ch
 life-x.ch
 life.ch
 life24.ch
+life2home.ch
 life3-0.ch
 life3.ch
 life360.ch
@@ -5524,6 +5526,7 @@ lifedynamic.ch
 lifedynamics.ch
 lifeecostyle.ch
 lifeelements-trading.ch
+lifeenablement.ch
 lifeenergie.ch
 lifeenergy.ch
 lifeenergymaximizer.ch
@@ -5803,6 +5806,7 @@ lifenet.ch
 lifenethealth.ch
 lifenews.ch
 lifenode.ch
+lifenugget.ch
 lifenutrition.ch
 lifeofbrain.ch
 lifeofbrian.ch
@@ -6803,6 +6807,7 @@ ligahq.ch
 ligainvestment.ch
 ligakasten.ch
 ligalicht.ch
+ligam.ch
 ligamagendarm.ch
 ligamys.ch
 ligana.ch
@@ -7115,6 +7120,7 @@ lightforms.ch
 lightforyou.ch
 lightframe.ch
 lightframes.ch
+lightfreak.ch
 lightful.ch
 lightfulbe.ch
 lightfulrobinhealing.ch
@@ -11101,7 +11107,6 @@ lindegger-gmbh.ch
 lindegger-ober.ch
 lindegger-optic.ch
 lindegger-optique.ch
-lindegger-racing.ch
 lindegger.ch
 lindeggerbalance.ch
 lindeggeroptic.ch
@@ -12143,6 +12148,7 @@ linfina.ch
 linfini.ch
 linfinidubois.ch
 linfinir.ch
+linfinities.ch
 linfinity.ch
 linfluenza.ch
 linfo.ch
@@ -12552,6 +12558,7 @@ linimo.ch
 lining-tech.ch
 lining.ch
 liningtech.ch
+linirastudio.ch
 linisbites.ch
 liniscleaning.ch
 linit.ch
@@ -13253,6 +13260,7 @@ linotux.ch
 linotype.ch
 linouria.ch
 linova-consulting.ch
+linova-tech.ch
 linova.ch
 linovea.ch
 linovifian.ch
@@ -13470,6 +13478,7 @@ linta-brokertool.ch
 linta.ch
 lintakeaway.ch
 lintanf-traiteur.ch
+lintangibles.ch
 lintao-dashboards.ch
 lintao.ch
 lintbells.ch
@@ -13525,6 +13534,7 @@ linth-kuechen.ch
 linth-lackiererei.ch
 linth-lady.ch
 linth-law.ch
+linth-liegenschaften.ch
 linth-media.ch
 linth-net.ch
 linth-oberland-nachrichten.ch
@@ -14347,6 +14357,7 @@ lionshot.ch
 lionshub.ch
 lionsix.ch
 lionskitchen.ch
+lionslacote.ch
 lionslink.ch
 lionslocarno.ch
 lionsluzern.ch
@@ -16007,6 +16018,7 @@ lissag.ch
 lissage-bresilien.ch
 lissage.ch
 lissagebresilien.ch
+lissandgo.ch
 lissapreis.ch
 lissea.ch
 lissenheim.ch
@@ -17877,7 +17889,6 @@ live-sexcams.ch
 live-shoppen.ch
 live-ski.ch
 live-smart.ch
-live-sommelier.ch
 live-sound.ch
 live-sounds.ch
 live-sscores.ch
@@ -17901,7 +17912,6 @@ live-video.ch
 live-vision.ch
 live-webinar.ch
 live-webinare.ch
-live-weinsommelier.ch
 live-well.ch
 live-wetten.ch
 live-wine.ch
@@ -18519,7 +18529,6 @@ livesmart365.ch
 liveso.ch
 livesoccer.ch
 livesocialcell.ch
-livesommelier.ch
 livesound.ch
 livesounds.ch
 livesoundservice.ch
@@ -18669,9 +18678,6 @@ livewebcast.ch
 livewebinar.ch
 livewebinare.ch
 livewedding.ch
-liveweinberater.ch
-liveweinberatung.ch
-liveweinsommelier.ch
 livewell.ch
 livewelt.ch
 livewette.ch
@@ -18931,6 +18937,7 @@ living-free.ch
 living-from-within.ch
 living-garden.ch
 living-gardens.ch
+living-gebenstorf.ch
 living-giving.ch
 living-globally.ch
 living-group.ch
@@ -19156,6 +19163,7 @@ livinggallery.ch
 livinggarden-gartengestaltung.ch
 livinggardens.ch
 livinggate.ch
+livinggebenstorf.ch
 livinggeneration.ch
 livinggiving.ch
 livinggraceseminary.ch

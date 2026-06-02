@@ -21,7 +21,6 @@ so-biberist.ch
 so-bildung.ch
 so-bin-ich.ch
 so-bio.ch
-so-bitte-nicht.ch
 so-bon.ch
 so-br.ch
 so-broker.ch
@@ -1263,6 +1262,7 @@ socialinfluencer.ch
 socialinfluencerin.ch
 socialinfo.ch
 socialinformation.ch
+socialinfrastructure.ch
 socialing.ch
 socialinnovation.ch
 socialinnovationsummit.ch
@@ -2287,7 +2287,6 @@ sodastreamstaging.ch
 sodastreamuat.ch
 sodastudio.ch
 sodastudios.ch
-sodaswiss.ch
 sodata.ch
 sodataste.ch
 sodataxi.ch
@@ -3081,7 +3080,6 @@ soforthaben.ch
 soforthilfe-beratung.ch
 soforthilfe.ch
 soforthilfe4u.ch
-soforthilfesg.ch
 soforthomepage.ch
 sofortimplantat.ch
 sofortit.ch
@@ -5080,6 +5078,7 @@ sokolbioconsulting.ch
 sokolconsulting.ch
 sokoli-c.ch
 sokoli-coiffure.ch
+sokoli-webdesign.ch
 sokoli.ch
 sokolka.ch
 sokoll.ch
@@ -6161,7 +6160,6 @@ solaramsee.ch
 solaranalyse.ch
 solaranalyzer.ch
 solaranbieter.ch
-solarandmore.ch
 solarando.ch
 solarandpower.ch
 solarandreoli.ch
@@ -6679,6 +6677,7 @@ solarfolien.ch
 solarfonds.ch
 solarfoods.ch
 solarforall.ch
+solarforce-svizzera.ch
 solarform.ch
 solarforme.ch
 solarfox.ch
@@ -7880,7 +7879,6 @@ solarwatches.ch
 solarwaterdisinfection.ch
 solarwatt.ch
 solarwattinvest.ch
-solarway.ch
 solarweb.ch
 solarwebcam.ch
 solarwebservices.ch
@@ -8060,7 +8058,6 @@ solbar.ch
 solbari.ch
 solbask.ch
 solbat.ch
-solbau.ch
 solbeer.ch
 solberg-international.ch
 solberg.ch
@@ -9002,6 +8999,7 @@ solidaritaetsschleife.ch
 solidaritaetsverein-peru.ch
 solidaritaetswalk.ch
 solidaritas.ch
+solidaritatfinanzen.ch
 solidarite-albinismesuisse.ch
 solidarite-bosnie.ch
 solidarite-ecoles.ch
@@ -10399,6 +10397,7 @@ solumesl.ch
 solumgroup.ch
 solumics.ch
 solumstore.ch
+solumvia.ch
 solun.ch
 soluna-art.ch
 soluna-aurea.ch
@@ -11164,6 +11163,7 @@ solvid.ch
 solvida.ch
 solvie.ch
 solvig.ch
+solvik.ch
 solvil-et-titus.ch
 solvil.ch
 solvilettitus.ch
@@ -11496,6 +11496,7 @@ somat.ch
 somata.ch
 somatec.ch
 somatek.ch
+somaterra.ch
 somathea.ch
 somatheeram.ch
 somatherapie.ch
@@ -13991,7 +13992,6 @@ sonnegg-immo.ch
 sonnegg-immobilien.ch
 sonnegg-kapelle.ch
 sonnegg-langnau.ch
-sonnegg-meggen.ch
 sonnegg-neuheim.ch
 sonnegg-plus.ch
 sonnegg-rosenegg.ch
@@ -15531,7 +15531,6 @@ soorser-woerter.ch
 soorsi-chalet.ch
 soorsi-gin.ch
 soorsi-riders.ch
-soorsi-sitterin.ch
 soorsi.ch
 soorsi2025.ch
 soorsigin.ch
@@ -16954,6 +16953,7 @@ soroptimistgeneve-fondateur.ch
 soroptimistgeneve.ch
 soroptimistgruyere.ch
 soroptimistlachauxdefonds.ch
+sorora.ch
 sorores.ch
 sorori-the.ch
 sororis.ch
@@ -17807,6 +17807,7 @@ sosdrinks.ch
 sosdroitsdespatients.ch
 sose-arts.ch
 sose.ch
+sosea.ch
 soseag.ch
 sosec.ch
 soseco.ch
@@ -18882,6 +18883,7 @@ soulful.ch
 soulfulacademy.ch
 soulfulart-mandala.ch
 soulfulbeing.ch
+soulfulbirth.ch
 soulfulbros.ch
 soulfulconnection.ch
 soulfuldesert.ch
@@ -20161,6 +20163,7 @@ sourcemedium.ch
 sourcemotion.ch
 sourcenergy.ch
 sourcenet.ch
+sourcenexis.ch
 sourcent.ch
 sourcenutritioninstitute.ch
 sourceofbeauty.ch
@@ -20278,6 +20281,7 @@ souriredesoleil.ch
 souriredesyeux.ch
 sourireenville.ch
 sourireplus.ch
+souriresdefemmes.ch
 souriresdusaloum.ch
 sourireverslavenir.ch
 souris-dor.ch
@@ -20445,6 +20449,7 @@ souter.ch
 soutere-swiss.ch
 soutermah.ch
 souterrain.ch
+souters.ch
 south-africa.ch
 south-beach.ch
 south-pacific.ch

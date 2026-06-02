@@ -2043,7 +2043,6 @@ aktien-plus.ch
 aktien-post.ch
 aktien-radar.ch
 aktien-scan.ch
-aktien-schweiz.ch
 aktien-screener.ch
 aktien-xpress.ch
 aktien.ch
@@ -2464,8 +2463,6 @@ aktiveentspannung.ch
 aktiveferien.ch
 aktivefrau.ch
 aktivefrauen.ch
-aktivehealth.ch
-aktivehelp.ch
 aktivekids.ch
 aktivemattertal.ch
 aktivemenschen.ch
@@ -3507,7 +3504,6 @@ akynox.ch
 akynzeo.ch
 akyol-schneideratelier.ch
 akyol.ch
-akyrabeaute.ch
 akyron.ch
 akysia.ch
 akyswiss.ch

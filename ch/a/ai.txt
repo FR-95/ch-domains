@@ -38,6 +38,7 @@ ai-agents.ch
 ai-agentur-schweiz.ch
 ai-agentur-zuerich.ch
 ai-agentur.ch
+ai-agenturen.ch
 ai-ai-ai.ch
 ai-ai.ch
 ai-aiva.ch
@@ -49,6 +50,7 @@ ai-am.ch
 ai-ambassador.ch
 ai-ambassadors.ch
 ai-amplifier.ch
+ai-analyse-schweiz.ch
 ai-analyse.ch
 ai-analysen.ch
 ai-analytics.ch
@@ -457,6 +459,8 @@ ai-innovations.ch
 ai-insight.ch
 ai-insights.ch
 ai-install.ch
+ai-institut-schweiz.ch
+ai-institut-swiss.ch
 ai-institut.ch
 ai-institute.ch
 ai-integraters.ch
@@ -659,6 +663,7 @@ ai-plugin-wp.ch
 ai-pluginwp.ch
 ai-podcast.ch
 ai-podium.ch
+ai-portal-schweiz.ch
 ai-portal.ch
 ai-portrait.ch
 ai-pos.ch
@@ -767,6 +772,8 @@ ai-shopping.ch
 ai-shore.ch
 ai-shorts.ch
 ai-sicherheit.ch
+ai-sichtbarkeit-schweiz.ch
+ai-sichtbarkeit.ch
 ai-sight.ch
 ai-signal.ch
 ai-site.ch
@@ -907,7 +914,6 @@ ai-work.ch
 ai-worker.ch
 ai-workforce.ch
 ai-works.ch
-ai-workshop.ch
 ai-workshops.ch
 ai-writer.ch
 ai-writerin.ch
@@ -2043,6 +2049,7 @@ aieduai.ch
 aieducation.ch
 aiedv.ch
 aiee.ch
+aiefq.ch
 aiehj.ch
 aiei.ch
 aieinfa.ch
@@ -2518,6 +2525,7 @@ aiinnovations.ch
 aiinsales.ch
 aiinsight.ch
 aiinsociety.ch
+aiinstitut-swiss.ch
 aiinstitute.ch
 aiinsurance.ch
 aiintegrity.ch

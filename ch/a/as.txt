@@ -1280,6 +1280,7 @@ ascensionduchristroi.ch
 ascensione.ch
 ascensionis.ch
 ascensioswiss.ch
+ascenso.ch
 ascensore.ch
 ascensori.ch
 ascensorieninter.ch
@@ -3299,7 +3300,6 @@ ask-a-boomer.ch
 ask-a-lawyer.ch
 ask-a-rentner.ch
 ask-acvisa.ch
-ask-alfred.ch
 ask-askia.ch
 ask-autobraun.ch
 ask-can.ch
@@ -3323,6 +3323,7 @@ ask-james.ch
 ask-lei.ch
 ask-lou.ch
 ask-me.ch
+ask-medix.ch
 ask-meyer.ch
 ask-mono.ch
 ask-n-bid.ch
@@ -3366,7 +3367,6 @@ askagroup.ch
 askai.ch
 askaia.ch
 askalawyer.ch
-askalfred.ch
 askalina.ch
 askallo.ch
 askalon.ch
@@ -5057,6 +5057,7 @@ asset-solutions.ch
 asset-sphere.ch
 asset-swap.ch
 asset-swiss.ch
+asset-tattoo.ch
 asset-tracking.ch
 asset-valuation.ch
 asset.ch
@@ -5179,6 +5180,7 @@ assetsundermanagement.ch
 assetsvalue-assetsman.ch
 assetta.ch
 assettalents.ch
+assettattoo.ch
 assettoforza.ch
 assettokenization.ch
 assettrack.ch
@@ -5515,7 +5517,6 @@ assistantservices.ch
 assistantvirtuel.ch
 assistantvocal.ch
 assistao.ch
-assistapro.ch
 assistar.ch
 assistatreuhand.ch
 assistauto.ch
@@ -8457,6 +8458,7 @@ astroimpulse.ch
 astroinfo.ch
 astroinstitut.ch
 astrojahr.ch
+astrojour.ch
 astrokalender.ch
 astrokanal.ch
 astrokarma.ch
@@ -8974,6 +8976,7 @@ asuera.ch
 asuerastiftung.ch
 asug.ch
 asugarage.ch
+asugas.ch
 asugd.ch
 asugs.ch
 asuhr.ch
@@ -8995,7 +8998,6 @@ asumchipharma.ch
 asumi.cloud.seto.ch
 asumma.ch
 asumon.ch
-asuna-schweiz.ch
 asuna.ch
 asunaprevir.ch
 asuncion.ch
@@ -9308,7 +9310,6 @@ asyril.ch
 asys.ch
 asysa.ch
 asysbs.ch
-asyscomtech.ch
 asyst.ch
 asystems.ch
 asystra.ch

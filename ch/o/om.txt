@@ -216,7 +216,6 @@ omarini-architecture.ch
 omarini-micello.ch
 omarini-serrurerie.ch
 omarini.ch
-omarket.ch
 omarkt.ch
 omarley.ch
 omarnaas.ch
@@ -1022,6 +1021,7 @@ omni-team.ch
 omni-teens.ch
 omni-tool.ch
 omni-versity.ch
+omni-voice.ch
 omni-wear.ch
 omni.ch
 omni.computerfarm.ch

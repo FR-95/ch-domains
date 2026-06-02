@@ -1110,7 +1110,6 @@ ethicops.ch
 ethicos.ch
 ethicpharma.ch
 ethicproducts.ch
-ethicpurewater.ch
 ethicru.ch
 ethics-ability.ch
 ethics-ai.ch
@@ -2727,6 +2726,7 @@ etude-loretan.ch
 etude-lsl.ch
 etude-lubishtani.ch
 etude-mabillard.ch
+etude-manguay.ch
 etude-marche.ch
 etude-martigny.ch
 etude-membrez.ch
@@ -2956,6 +2956,7 @@ etudenr.ch
 etudenumerique.ch
 etudenussbaumer.ch
 etudeoswald.ch
+etudeott.ch
 etudeottomano.ch
 etudeowp.ch
 etudepbr.ch
@@ -3159,6 +3160,7 @@ ety.ch
 etyc.ch
 etyellejoel.ch
 etymologie.ch
+etynicone.ch
 etype.ch
 etyre.ch
 etz-ft.ch

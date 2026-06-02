@@ -1162,7 +1162,6 @@ clartefinance.ch
 clarteinterieure.ch
 clartementale.ch
 clartes.ch
-clartesante.ch
 clarteservices.ch
 clartesuccession.ch
 clarteswiss.ch
@@ -2839,6 +2838,7 @@ claudiasgeburri.ch
 claudiasgeburtstag.ch
 claudiasieber.ch
 claudiasieberbethke.ch
+claudiasignorelli.ch
 claudiasiragna.ch
 claudiasmonstercakes.ch
 claudiasnail-lounch.ch
@@ -3019,6 +3019,7 @@ claudio-caviezel.ch
 claudio-conte.ch
 claudio-dilligo.ch
 claudio-gisler.ch
+claudio-mettler.ch
 claudio-monaco.ch
 claudio-monstein.ch
 claudio-mueller.ch
@@ -3623,7 +3624,6 @@ clean-365.ch
 clean-9.ch
 clean-99.ch
 clean-a-service.ch
-clean-abc.ch
 clean-abo.ch
 clean-air-enterprise.ch
 clean-air.ch
@@ -6271,6 +6271,7 @@ clf-theatre.ch
 clf.ch
 clfkaraoke.ch
 clfm.ch
+clfolierung.ch
 clfr.ch
 clfrance.ch
 clg-immo.ch
@@ -8376,8 +8377,6 @@ clipflick.ch
 clipflyer.ch
 clipforge.ch
 clipgroup.ch
-clipimmo.ch
-clipimo.ch
 clipin.ch
 clipinc.ch
 clipindustrie.ch
@@ -9810,6 +9809,7 @@ cloudgermany.ch
 cloudgo.ch
 cloudgratuit.ch
 cloudgroup.ch
+cloudgruppe.ch
 cloudguard.ch
 cloudguard365.ch
 cloudguerilla.ch
@@ -10038,7 +10038,6 @@ cloudoperating.ch
 cloudoperations.ch
 cloudops.ch
 cloudopt.ch
-cloudora-community.ch
 cloudora.ch
 cloudoss.ch
 cloudoutsourcing.ch

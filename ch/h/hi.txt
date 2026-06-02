@@ -462,9 +462,9 @@ hiddenpath.ch
 hiddenpeak.ch
 hiddenpearldavos.ch
 hiddenpearls.ch
+hiddenpercent.ch
 hiddenprimary.ch
 hiddenprofitsmarketing.ch
-hiddenproject.ch
 hiddenprojects.ch
 hiddenrave.ch
 hiddenrealms.ch
@@ -1806,6 +1806,7 @@ hike4fun.ch
 hikea.ch
 hikeabout.ch
 hikeandbike.ch
+hikeandbiketours.ch
 hikeandcoach.ch
 hikeanddance.ch
 hikeanddate.ch
@@ -2231,7 +2232,6 @@ hilfe-bei-fahrangst.ch
 hilfe-bei-haarausfall.ch
 hilfe-bei-hexenschuss.ch
 hilfe-bei-impotenz.ch
-hilfe-bei-knieschmerzen.ch
 hilfe-bei-kryptobetrug.ch
 hilfe-bei-littering.ch
 hilfe-bei-mobbing.ch
@@ -3815,6 +3815,8 @@ hipanema.ch
 hipanya.ch
 hipartners.ch
 hipathos.ch
+hipatrimony.ch
+hipatrimonysuisse.ch
 hipay.ch
 hipbag.ch
 hipbee.ch
@@ -4206,6 +4208,7 @@ hirepool.ch
 hires.ch
 hirescam.ch
 hirespace.ch
+hireswiss.ch
 hireup.ch
 hirevery.ch
 hirevue.ch
@@ -4508,6 +4511,7 @@ hirschen-schwellbrunn.ch
 hirschen-schwyz.ch
 hirschen-stein.ch
 hirschen-steinen.ch
+hirschen-steinerberg.ch
 hirschen-stfiden.ch
 hirschen-sursee.ch
 hirschen-teufen.ch

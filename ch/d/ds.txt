@@ -92,7 +92,6 @@ ds-gov.ch
 ds-grafikdesign.ch
 ds-gwg.ch
 ds-h.ch
-ds-haustechnik.ch
 ds-herrenmode.ch
 ds-hoengg.ch
 ds-holzdesign.ch
@@ -374,6 +373,7 @@ dsc2.ch
 dsc33.ch
 dsc357.ch
 dsc42.ch
+dscag.ch
 dscargo.ch
 dscasapro.ch
 dscbasel.ch

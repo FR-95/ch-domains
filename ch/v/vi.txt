@@ -628,6 +628,7 @@ viamed.ch
 viamedic.ch
 viamedical.ch
 viamedici.ch
+viamedis.ch
 viameet.ch
 viamental.ch
 viamentis.ch
@@ -898,6 +899,7 @@ viasilva.ch
 viasimone.ch
 viasit.ch
 viasitag.ch
+viasite.ch
 viaslim.ch
 viaso.ch
 viasociata.ch
@@ -2558,7 +2560,6 @@ video-slots.ch
 video-smartphone.ch
 video-snippet.ch
 video-software.ch
-video-sommelier.ch
 video-son.ch
 video-spot.ch
 video-stadt.ch
@@ -2602,9 +2603,6 @@ video-violenti.ch
 video-virale-entreprise.ch
 video-virale.ch
 video-wahlkampf.ch
-video-weinberater.ch
-video-weinberatung.ch
-video-weinsommelier.ch
 video-werbung.ch
 video-werk.ch
 video-workshop.ch
@@ -3142,7 +3140,6 @@ videosmartphone.ch
 videosnack.ch
 videosnippet.ch
 videosolutions.ch
-videosommelier.ch
 videoson.ch
 videosonic.ch
 videosorveglianza.ch
@@ -3255,9 +3252,6 @@ videowand.ch
 videowanger.ch
 videowaser.ch
 videowave.ch
-videoweinberater.ch
-videoweinberatung.ch
-videoweinsommelier.ch
 videowerbung.ch
 videowerk.ch
 videowerkstatt.ch
@@ -3552,6 +3546,7 @@ vieira-autoglas.ch
 vieira-bau.ch
 vieira-consulting.ch
 vieira-renovation.ch
+vieira-sanitaire-chauffage.ch
 vieira-tartarotti.ch
 vieira.ch
 vieirabio.ch
@@ -4580,6 +4575,7 @@ vignetteabo.ch
 vignettebestellen.ch
 vignettecollection.ch
 vignettecollectionhotels.ch
+vignetteflotte.ch
 vignetten.ch
 vignettenaktion.ch
 vignetteoesterreich.ch
@@ -5058,7 +5054,6 @@ viktortrummer.ch
 viktorvoelkin.ch
 viktorwanner.ch
 viktorweber.ch
-viktorwildhaber.ch
 viktorwyssag.ch
 viktorwyssimmobilienag.ch
 viktos.ch
@@ -6282,6 +6277,7 @@ villas4you.ch
 villasa.ch
 villasabberlatz.ch
 villasaintadrian.ch
+villasalba.ch
 villasalma.ch
 villasalzburg.ch
 villasamara.ch
@@ -9535,6 +9531,7 @@ violinkonzerte.ch
 violinlektionen.ch
 violinlesson.ch
 violinlessons.ch
+violinmaker.ch
 violinmakingschool.ch
 violinmusik.ch
 violino.ch
@@ -10705,7 +10702,6 @@ viridis.ch
 viridisan.ch
 viridisgroup.ch
 viridispower.ch
-viridissima.ch
 viridisworld.ch
 viriditas.ch
 viriditastribe.ch
@@ -12737,6 +12733,7 @@ vision-magazine.ch
 vision-marketing-agency.ch
 vision-media.ch
 vision-mediation.ch
+vision-mint.ch
 vision-mission.ch
 vision-mixer.ch
 vision-mode.ch
@@ -13131,7 +13128,6 @@ visionheizung.ch
 visionhere.ch
 visionherens.ch
 visionheroes.ch
-visionhill.ch
 visionholz.ch
 visionhome.ch
 visionhomes.ch
@@ -14206,7 +14202,6 @@ vistaiovisuals.ch
 vistait.ch
 vistaklinik.ch
 vistakon.ch
-vistal.ch
 vistalago.ch
 vistalake.ch
 vistalid.ch
@@ -14598,6 +14593,7 @@ visualisierungsakademie.ch
 visualisierungscoach-limmattal.ch
 visualisierungsservice.ch
 visualisierungsterminal.ch
+visualista-eyewear.ch
 visualista.ch
 visuality.ch
 visualium.ch
@@ -17612,6 +17608,7 @@ vitrier-suisse.ch
 vitrier-urgence.ch
 vitrier-vaud.ch
 vitrier-vernier.ch
+vitrier-versoix.ch
 vitrier24.ch
 vitriercarouge.ch
 vitriergeneve.ch
@@ -17645,7 +17642,6 @@ vitrinelocale.ch
 vitrinemagique.ch
 vitrinemedia-shop.ch
 vitrinemedia.ch
-vitrinen-led.ch
 vitrinen-shop.ch
 vitrinen.ch
 vitrinenbasel.ch
@@ -19795,6 +19791,7 @@ vizart.ch
 vizarte.ch
 vizavi.ch
 vizaviz.ch
+vizbe.ch
 vizda.ch
 vize.ch
 vizefreitag.ch

@@ -1060,7 +1060,6 @@ prala.ch
 pralaz.ch
 pralaz25.ch
 pralet.ch
-pralfinances.ch
 pralimo.ch
 pralinardcompagny.ch
 pralinata.ch
@@ -2034,6 +2033,7 @@ praxis-birri.ch
 praxis-birseck.ch
 praxis-bischofberger.ch
 praxis-bischofstein.ch
+praxis-bitachon.ch
 praxis-bitterli.ch
 praxis-blaeser.ch
 praxis-blatten.ch
@@ -3146,6 +3146,7 @@ praxis-kineplus.ch
 praxis-kinesiologie-jsj-dietikon.ch
 praxis-kinesiologie-wil.ch
 praxis-kinesiologie.ch
+praxis-kirchhofer.ch
 praxis-kischu.ch
 praxis-kisner.ch
 praxis-kissling.ch
@@ -5414,7 +5415,6 @@ praxisdynamis.ch
 praxisdyskalkulie.ch
 praxisdz.ch
 praxiseaston.ch
-praxiseberhard.ch
 praxiseberle.ch
 praxisebner.ch
 praxiseda.ch
@@ -7196,6 +7196,7 @@ prd-lac.ch
 prd-mycerty.ch
 prd.ch
 prdc.ch
+prdctdsgn.ch
 prde.ch
 prdel.ch
 prdesign.ch
@@ -8757,6 +8758,7 @@ premium-immo.ch
 premium-immobilien.ch
 premium-immobilier.ch
 premium-informatik.ch
+premium-insektenschutz.ch
 premium-internet.ch
 premium-it.ch
 premium-job.ch
@@ -9224,6 +9226,7 @@ premiumofferte.ch
 premiumofferten.ch
 premiumoffice.ch
 premiumoldtimer.ch
+premiumone.ch
 premiumorganicskincare.ch
 premiumott.ch
 premiumoutlet.ch
@@ -9506,6 +9509,7 @@ prendrelair.ch
 prendrelelarge.ch
 prendrerdv.ch
 prendresoin.ch
+prendresoindesoi.ch
 prendresoindesoncorps.ch
 prendresoindevous.ch
 prendresoinicls.ch
@@ -10216,7 +10220,6 @@ presse-zentrum.ch
 presseabo.ch
 presseagentur.ch
 presseanzeiger.ch
-pressearbeit.ch
 presseartikel.ch
 presseausweis-beantragen.ch
 presseausweis.ch
@@ -10489,7 +10492,6 @@ pressurepoint.ch
 pressureregulator.ch
 pressuresuite.ch
 pressurewasch-zuerich.ch
-pressurewash.ch
 pressurewashing.ch
 pressurice.ch
 pressurtherapie.ch
@@ -10730,7 +10732,6 @@ prestigegraphique.ch
 prestigegroup.ch
 prestigehairdesignbasel.ch
 prestigehairlounge.ch
-prestigehomeimprovements.ch
 prestigehomerenovationsgroup.ch
 prestigehomes.ch
 prestigehomeservices.ch
@@ -12991,6 +12992,7 @@ primeautos.ch
 primeavantageuse.ch
 primeavo.ch
 primeawareness.ch
+primeaxis.ch
 primeb.ch
 primebackup.ch
 primebarswiss.ch
@@ -13111,7 +13113,6 @@ primedot.ch
 primedox.ch
 primedrinks.ch
 primedrive.ch
-primedruck.ch
 primedynamics.ch
 primeedge.ch
 primeeducation.ch
@@ -13543,6 +13544,7 @@ primesys.ch
 primesystems.ch
 primetaco.ch
 primetakeaway.ch
+primetalentgroup.ch
 primetaste.ch
 primetax.ch
 primetaxi.ch
@@ -13741,7 +13743,6 @@ primo-kanalservice.ch
 primo-leukerbad.ch
 primo-miglio.ch
 primo-passo.ch
-primo-patissier.ch
 primo-people.ch
 primo-personal.ch
 primo-pilastro.ch
@@ -14547,6 +14548,7 @@ printessential3d.ch
 printet-in-switzerland.ch
 printeum.ch
 printevent.ch
+printeverywhere.ch
 printex-offset.ch
 printex.ch
 printex24.ch
@@ -14936,7 +14938,6 @@ printwall.ch
 printware.ch
 printways.ch
 printwear.ch
-printwears.ch
 printweb.ch
 printweb24.ch
 printwerbung.ch
@@ -18892,6 +18893,7 @@ pro-pme.ch
 pro-pneus.ch
 pro-points.ch
 pro-pokale.ch
+pro-pose.ch
 pro-poux.ch
 pro-print.ch
 pro-production.ch
@@ -19508,7 +19510,6 @@ proassura.ch
 proastro.ch
 proatein.ch
 proathleta.ch
-proathlete.ch
 proathletic.ch
 proathletics.ch
 proathletis.ch
@@ -19744,7 +19745,6 @@ probeve.ch
 probezeit-gymnasium.ch
 probezeit.ch
 probezeitbegleitung.ch
-probi-immun.ch
 probi.ch
 probible.ch
 probibliobusvalderuz.ch
@@ -20527,6 +20527,7 @@ procleanmultiservices.ch
 procleanservices.ch
 procleansolothurn.ch
 procleansolution.ch
+procleanup.ch
 proclear.ch
 proclero.ch
 procles.ch
@@ -20782,6 +20783,7 @@ procurex.ch
 procuri.ch
 procuria-ag.ch
 procuria-sa.ch
+procuria-services.ch
 procuria-vs.ch
 procuria.ch
 procuriaag.ch
@@ -20937,6 +20939,7 @@ prodepstores.ch
 prodeq.ch
 proder.ch
 proderea.ch
+proderm-shop.ch
 proderm.ch
 proderma.ch
 prodermalab.ch
@@ -22884,7 +22887,6 @@ profilservice.ch
 profilshop.ch
 profilsistem.ch
 profilsnuances.ch
-profilstudio.ch
 profilsuisse.ch
 profilsysteme.ch
 profiltechnik.ch
@@ -24893,7 +24895,6 @@ projekt-shadow.ch
 projekt-signer.ch
 projekt-stark.ch
 projekt-synesius.ch
-projekt-tilla.ch
 projekt-traum.ch
 projekt-traumhaus.ch
 projekt-turnaround.ch
@@ -25316,7 +25317,6 @@ projektpilot.ch
 projektplan.ch
 projektplan16.ch
 projektplanag.ch
-projektplaner.ch
 projektplanung.ch
 projektplatform.ch
 projektplattform.ch
@@ -25731,7 +25731,6 @@ proki-events.ch
 proki-repro-krebs.ch
 proki.ch
 prokic.ch
-prokick.ch
 prokickers.ch
 prokicks.ch
 prokid.ch
@@ -27734,7 +27733,6 @@ pronux.ch
 pronvacred.ch
 pronvacrets.ch
 prooberland.ch
-prood.ch
 proodos.ch
 proodosgroup.ch
 prooergeli.ch
@@ -28038,6 +28036,7 @@ property-br.ch
 property-brothers.ch
 property-cafe.ch
 property-capital.ch
+property-cars.ch
 property-collection.ch
 property-company.ch
 property-consulting.ch
@@ -28103,6 +28102,7 @@ propertycafe.ch
 propertycaptain.ch
 propertycare.ch
 propertycaretaker.ch
+propertycars.ch
 propertycheck.ch
 propertyclean.ch
 propertycloud.ch
@@ -28852,6 +28852,7 @@ prosablage.ch
 prosad.ch
 prosafe.ch
 prosafecon.ch
+prosafegroup.ch
 prosafeline.ch
 prosafety.ch
 prosaffa1958-pavillon.ch
@@ -30228,6 +30229,7 @@ protein-wasser.ch
 protein-water.ch
 protein.ch
 protein24.ch
+proteinacademy.ch
 proteinas.ch
 proteinballs.ch
 proteinbar.ch
@@ -31687,7 +31689,6 @@ proxilab.ch
 proxiland-projets.ch
 proxiland.ch
 proxilia.ch
-proxilis.ch
 proxilive.ch
 proxilocation.ch
 proxim-it.ch

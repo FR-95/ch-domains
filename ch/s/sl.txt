@@ -1220,6 +1220,7 @@ slimprinter.ch
 slimprop.ch
 slimpuls.ch
 slimq.ch
+slimqare.ch
 slimqpatches.ch
 slimray.ch
 slimreduce.ch

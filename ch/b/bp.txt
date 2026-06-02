@@ -46,6 +46,7 @@ bp-health.ch
 bp-hudelist.ch
 bp-immo.ch
 bp-immobilien.ch
+bp-index.ch
 bp-ing.ch
 bp-it.ch
 bp-jannoun.ch

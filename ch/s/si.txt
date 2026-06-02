@@ -2588,6 +2588,7 @@ sideralloys.ch
 siderato.ch
 sideravita.ch
 sidere.ch
+sidereal.ch
 sidereus.ch
 siderfer.ch
 siderfix.ch
@@ -4370,7 +4371,6 @@ sigifarm.ch
 sigifix.ch
 sigigeralpakas.ch
 sigikid.ch
-sigil-leve-toi.ch
 sigil.ch
 sigila.ch
 sigilex.ch
@@ -4437,7 +4437,6 @@ sigita.ch
 sigitec.ch
 sigivideo.ch
 sigiweb.ch
-sigiwick.ch
 sigiwolf.ch
 sigj.ch
 sigkill.ch
@@ -5367,6 +5366,7 @@ signupnow.ch
 signups.ch
 signura.ch
 signus.ch
+signusvisual.ch
 signvision-ag.ch
 signvision.ch
 signware.ch
@@ -8520,6 +8520,7 @@ silverwash.ch
 silverwavemedical.ch
 silverwear.ch
 silverweb.ch
+silverwiings.ch
 silverwings-ag.ch
 silverwolf.ch
 silverwood.ch
@@ -13704,6 +13705,7 @@ singamaths.ch
 singandplay.ch
 singandsign.ch
 singandswing.ch
+singapac.ch
 singapore-airlines.ch
 singapore-marine.ch
 singapore-restaurant.ch
@@ -17037,6 +17039,7 @@ sitedev.ch
 sitedock.ch
 sitedubied.ch
 siteee.ch
+siteen48h.ch
 siteexemple.ch
 siteexpress.ch
 sitefactory.ch
@@ -17295,6 +17298,7 @@ sitewerk.ch
 sitewordpress.ch
 sitework.ch
 siteworker.ch
+sitewright.ch
 sitewww.ch
 sitex-powerhouse.ch
 sitex.ch

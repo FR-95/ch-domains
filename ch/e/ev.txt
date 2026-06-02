@@ -2050,7 +2050,6 @@ event-management.ch
 event-manager.ch
 event-managers.ch
 event-manufaktur.ch
-event-marketing.ch
 event-markt.ch
 event-master.ch
 event-masters.ch
@@ -3638,6 +3637,7 @@ eventsportal.ch
 eventsportservices.ch
 eventspot.ch
 eventspro.ch
+eventspub.ch
 eventsrhypark.ch
 eventsservices.ch
 eventsspiele.ch
@@ -3795,7 +3795,6 @@ eventvenue.ch
 eventveranstalter.ch
 eventveranstaltung.ch
 eventveranstaltungen.ch
-eventverein-dfg.ch
 eventverein-feuerundflamme.ch
 eventvereindaniken.ch
 eventvereingoms.ch
@@ -3866,7 +3865,6 @@ eventzubehoer.ch
 eventzug.ch
 evenus.ch
 evenver.ch
-evenz.ch
 evenzo.ch
 evenzone.ch
 evenzwitserland.ch
@@ -4274,6 +4272,7 @@ everreal.ch
 everrent.ch
 everri.ch
 everridge.ch
+everrise.ch
 everroam.ch
 everroll.ch
 everrose.ch
@@ -4826,6 +4825,7 @@ evignette-schenken.ch
 evignette-schweiz.ch
 evignette-switzerland.ch
 evignette.ch
+evignetteflotte.ch
 evignetten-schenken.ch
 evignetten.ch
 evignettes.ch
@@ -6017,6 +6017,9 @@ evox-consult.ch
 evox-daily.ch
 evox-health.ch
 evox.ch
+evoxa-ai.ch
+evoxa-app.ch
+evoxa.ch
 evoxdaily.ch
 evoxhealth.ch
 evoy.ch

@@ -202,6 +202,7 @@ placements.ch
 placementsdirectstd.ch
 placementservices.ch
 placemont.ch
+placenciereai.ch
 placeneuve.ch
 placenow.ch
 placenta-art.ch
@@ -635,6 +636,7 @@ plakatsammlung.ch
 plakatsammlungbasel.ch
 plakatscout.ch
 plakatscout24.ch
+plakatselect.ch
 plakatservice.ch
 plakatshop.ch
 plakatshop24.ch
@@ -1186,6 +1188,7 @@ plancktime.ch
 planclimat.ch
 planclimatsionregion.ch
 plancloud.ch
+planco.ch
 plancon.ch
 planconstruct.ch
 planconsult.ch
@@ -1858,6 +1861,7 @@ planetwerks.ch
 planetwheels.ch
 planetwin.ch
 planetwin365.ch
+planetwincasino.ch
 planetwine.ch
 planetwoman.ch
 planetwork.ch
@@ -3266,7 +3270,6 @@ plasticrafter.ch
 plasticrebels.ch
 plasticrecycler.ch
 plasticrecycling.ch
-plasticredit.ch
 plastics-consulting.ch
 plastics-jobs.ch
 plastics.ch
@@ -3764,6 +3767,7 @@ platinehome.ch
 platinen.ch
 platinenshop.ch
 platinescort.ch
+platinevtc.ch
 platinflute.ch
 plating.ch
 platingoose.ch
@@ -3991,7 +3995,6 @@ platten-leger.ch
 platten-luzern.ch
 platten-maxx.ch
 platten-meilen.ch
-platten-mentha.ch
 platten-ofen-andermatt.ch
 platten-ofenbau.ch
 platten-oschwald.ch
@@ -4801,6 +4804,7 @@ playblacklight.ch
 playbnj.ch
 playboater.ch
 playboille.ch
+playbold.ch
 playbook.ch
 playbooks.ch
 playbot.ch
@@ -6054,8 +6058,10 @@ plffond.ch
 plffund.ch
 plfm.ch
 plg-ag.ch
+plg-automaten.ch
 plg-law.ch
 plg.ch
+plgautomaten.ch
 plgestion.ch
 plginvest.ch
 plglobalsignaturetravel.ch
@@ -7633,6 +7639,7 @@ plus-produit.ch
 plus-puls.ch
 plus-punkt-coaching.ch
 plus-punkt.ch
+plus-qp.ch
 plus-rasmussen.ch
 plus-reinigungen.ch
 plus-reisen.ch

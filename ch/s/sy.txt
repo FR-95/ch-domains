@@ -1389,7 +1389,6 @@ synacom.ch
 synacon.ch
 synact.ch
 synacthen.ch
-synactif.ch
 synacts.ch
 synadiet.ch
 synadoc.ch
@@ -2140,7 +2139,7 @@ synetic.ch
 synetica.ch
 synetiq.ch
 synetis.ch
-synetix-labs.ch
+synetix-lab.ch
 synetix.ch
 synetos.ch
 synetronics.ch
@@ -2444,6 +2443,7 @@ synsleep.ch
 synsol.ch
 synsolar.ch
 synsoltech.ch
+synspace.ch
 synstores.ch
 synt.ch
 synta.ch
@@ -2495,6 +2495,7 @@ syntelio.ch
 syntelios.ch
 synten.ch
 synteny.ch
+synteq.ch
 synter.ch
 syntera.ch
 synteria.ch
@@ -2621,6 +2622,7 @@ syntony.ch
 syntopia-alpina.ch
 syntopia.ch
 syntopos.ch
+syntopyc.ch
 syntos.ch
 syntosil.ch
 syntovi.ch
@@ -2643,6 +2645,7 @@ syntrix.ch
 syntro.ch
 syntron.ch
 syntropia.ch
+syntropic-web.ch
 syntropic.ch
 syntropics.ch
 syntropie.ch
@@ -3501,6 +3504,7 @@ systemicworks.ch
 systemies.ch
 systemik.ch
 systemiker-club.ch
+systemiker-zertifikat.ch
 systemikerclub.ch
 systemimmun.ch
 systeminfo.ch
@@ -3692,6 +3696,7 @@ systemsdesign.ch
 systemsecure.ch
 systemsengineering.ch
 systemsitgroup.ch
+systemsmarter.ch
 systemsofus.ch
 systemsolutions.ch
 systemsprenger.ch

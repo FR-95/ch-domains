@@ -128,6 +128,7 @@ my-bar.ch
 my-barber.ch
 my-base.ch
 my-basefit.ch
+my-basket.ch
 my-bat.ch
 my-bau.ch
 my-bbw-valentine.ch
@@ -2634,6 +2635,7 @@ mybasiccharter.ch
 mybasicfit.ch
 mybasicflight.ch
 mybasics.ch
+mybasket.ch
 mybasler.ch
 mybass.ch
 mybassandco.ch
@@ -2866,7 +2868,6 @@ mybigtoe.ch
 mybihr.ch
 mybijouterie.ch
 mybike-shop.ch
-mybike.ch
 mybike24.ch
 mybikecoach.ch
 mybikeday.ch
@@ -5735,6 +5736,7 @@ myglobus.ch
 myglock.ch
 mygloss.ch
 myglossy.ch
+myglowbook.ch
 myglowlab.ch
 myglowy.ch
 myglutenfree.ch
@@ -9239,6 +9241,7 @@ myprivaterelay.ch
 myprivatesearch.ch
 myprivatesecret.ch
 myprivateshop.ch
+myprivatestore.ch
 myprivatetasting.ch
 myprivatetax.ch
 myprivatetoy.ch
@@ -9301,6 +9304,7 @@ mypshipping.ch
 mypsoriasis.ch
 mypsy.ch
 mypsybot.ch
+mypsyonline.ch
 mypt.ch
 mypub.ch
 mypubcrawl.ch
@@ -9972,7 +9976,6 @@ mysapeurs-pompiers.ch
 mysapin.ch
 mysapprocess.ch
 mysaracen.ch
-mysarah.ch
 mysaratz.ch
 mysareegallery.ch
 mysarl.ch
@@ -10237,6 +10240,7 @@ myshopfactory.ch
 myshopglass.ch
 myshophair.ch
 myshophouse.ch
+myshopkuesne.ch
 myshoponline.ch
 myshoppi.ch
 myshopping.ch

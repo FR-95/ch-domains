@@ -1,3 +1,4 @@
+qr-add.ch
 qr-app.ch
 qr-art.ch
 qr-audio.ch
@@ -140,6 +141,7 @@ qrac.ch
 qraccess.ch
 qrace.ch
 qrack.ch
+qradd.ch
 qraftwerk.ch
 qrago.ch
 qrais.ch

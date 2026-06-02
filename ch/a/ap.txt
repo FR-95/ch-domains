@@ -693,6 +693,7 @@ apchemie.ch
 apchim.ch
 apci.ch
 apcimmo.ch
+apcj.ch
 apcjm.ch
 apck-studio.ch
 apck.ch
@@ -1147,7 +1148,6 @@ aperooh.ch
 aperooo.ch
 aperopaeckli.ch
 aperopakete.ch
-aperoplan.ch
 aperoplatte.ch
 aperoplatten.ch
 aperopos.ch
@@ -2242,6 +2242,7 @@ apiveveyse.ch
 apivicques.ch
 apivita.ch
 apiware.ch
+apiwash.ch
 apiwelshare.ch
 apiwork.ch
 apiworkshop.ch
@@ -2299,7 +2300,6 @@ apl2.ch
 apla.ch
 aplace2be.ch
 aplacebythelake.ch
-aplaceforfun.ch
 aplaenia.ch
 aplafinimo.ch
 aplan.ch
@@ -2638,7 +2638,6 @@ apnraum.ch
 apnrt.ch
 apns.ch
 apnsinfo.ch
-apnticino.ch
 apnurse.ch
 apnvoyages.ch
 apnw.ch
@@ -3254,6 +3253,7 @@ apothecary.ch
 apothecaryofthesoul.ch
 apotheceur.ch
 apothek.ch
+apothekarzt.ch
 apothekaway.ch
 apotheke-24.ch
 apotheke-aarau.ch
@@ -3659,6 +3659,7 @@ apotheken.ch
 apotheken24.ch
 apothekenamavita.ch
 apothekenartikel.ch
+apothekenarzt.ch
 apothekenbau.ch
 apothekenbedarf.ch
 apothekenbeiderbasel.ch

@@ -673,6 +673,7 @@ pharmacie-grangettes.ch
 pharmacie-grognuz.ch
 pharmacie-hadid.ch
 pharmacie-helvetique.ch
+pharmacie-holistique.ch
 pharmacie-ile-verte.ch
 pharmacie-imperiale.ch
 pharmacie-internationale.ch
@@ -689,6 +690,7 @@ pharmacie-medimarket.ch
 pharmacie-miserez.ch
 pharmacie-mont.ch
 pharmacie-montreux.ch
+pharmacie-mousquines.ch
 pharmacie-moutier.ch
 pharmacie-naturelle.ch
 pharmacie-nidau.ch
@@ -3650,7 +3652,6 @@ phishify.ch
 phishing-awareness.ch
 phishing-check.ch
 phishing-service.ch
-phishing-simulation.ch
 phishing-test.ch
 phishing.ch
 phishingattacke.ch
@@ -4246,7 +4247,6 @@ phone-import.ch
 phone-klinik.ch
 phone-lab.ch
 phone-look.ch
-phone-mania.ch
 phone-numbers.ch
 phone-outlet.ch
 phone-service.ch
@@ -5677,7 +5677,6 @@ photopourtous.ch
 photopower.ch
 photopress.ch
 photopresta.ch
-photoprint.ch
 photoprism.ch
 photopro.ch
 photoprod.ch
@@ -5748,7 +5747,6 @@ photos-klimastiftung.ch
 photos-laya.ch
 photos-livre.ch
 photos-mariage.ch
-photos-moto.ch
 photos-musy.ch
 photos-nature.ch
 photos-noces.ch
@@ -6302,6 +6300,7 @@ phschmid.ch
 phschool.ch
 phschweiz.ch
 phschwyz.ch
+phseguros.ch
 phservices.ch
 phsf.ch
 phsg-forschungsbericht.ch
@@ -9201,7 +9200,6 @@ physiomove.ch
 physiomovefrei.ch
 physiomoveo.ch
 physiomoves.ch
-physiomoves2.ch
 physiomovewell.ch
 physiomovimento.ch
 physiomtblanc.ch
@@ -10719,6 +10717,7 @@ physiovich.ch
 physiovida.ch
 physiovidmar.ch
 physiovie.ch
+physiovieuxmoulin.ch
 physiovillmergen.ch
 physiovision.ch
 physiovisite.ch

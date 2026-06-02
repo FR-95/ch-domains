@@ -372,6 +372,7 @@ zaeltli.ch
 zaema-gsund.ch
 zaemae-fuers-dorf.ch
 zaemae.ch
+zaemae1879.ch
 zaemae26.ch
 zaemae3.ch
 zaemaecho.ch
@@ -782,7 +783,6 @@ zahlerholzbau-lenk.ch
 zahlerholzbau.ch
 zahlewasduwillst.ch
 zahlex.ch
-zahli.ch
 zahlig.ch
 zahligo.ch
 zahlin.ch
@@ -2952,6 +2952,7 @@ zahnarztpraxis-husi.ch
 zahnarztpraxis-in-bern.ch
 zahnarztpraxis-ingenbohl.ch
 zahnarztpraxis-iwanski.ch
+zahnarztpraxis-jegenstorf.ch
 zahnarztpraxis-jonaport.ch
 zahnarztpraxis-jonasch.ch
 zahnarztpraxis-jordi.ch
@@ -4888,7 +4889,6 @@ zalesny.ch
 zalewski.ch
 zalex.ch
 zalfa.ch
-zali.ch
 zalian.ch
 zalias.ch
 zalido.ch
@@ -5419,7 +5419,6 @@ zanoza.ch
 zanre.ch
 zans.ch
 zansahra.ch
-zansana.ch
 zansara.ch
 zanshara.ch
 zanshin.ch
@@ -5619,6 +5618,7 @@ zapio.ch
 zapiroi.ch
 zapjevala.ch
 zapl.ch
+zaplane.ch
 zapletal.ch
 zapletalova.ch
 zaplex.ch
@@ -5718,6 +5718,7 @@ zapro.ch
 zaproo.ch
 zaps.ch
 zapsell.ch
+zapshop.ch
 zapsono.ch
 zapstar.ch
 zapster.ch

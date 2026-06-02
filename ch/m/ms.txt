@@ -390,7 +390,6 @@ ms-vintage-cars.ch
 ms-w.ch
 ms-wadin.ch
 ms-web.ch
-ms-webcraft.ch
 ms-webdesign.ch
 ms-webservice.ch
 ms-websolutions.ch
@@ -677,6 +676,7 @@ mscaircargo.ch
 mscandle.ch
 mscap.ch
 mscar.ch
+mscare.ch
 mscargo.ch
 mscarinvest.ch
 mscarrosseriefaoug.ch
@@ -1613,7 +1613,6 @@ msrconsulting.ch
 msrcrew.ch
 msrd.ch
 msrds.ch
-msre-mueller.ch
 msrecords.ch
 msrecycling.ch
 msreina.ch

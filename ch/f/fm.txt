@@ -307,7 +307,6 @@ fmc.ch
 fmca.ch
 fmcarrelage.ch
 fmcb.ch
-fmcc.ch
 fmcenter.ch
 fmcg.ch
 fmcgconsulting.ch

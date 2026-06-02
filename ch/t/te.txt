@@ -1388,6 +1388,7 @@ teamhandwerker.ch
 teamhaus.ch
 teamhausarzt.ch
 teamhauser.ch
+teamhealthy.ch
 teamheart.ch
 teamheberger.ch
 teamhediger.ch
@@ -2807,6 +2808,7 @@ tech-value.ch
 tech-verlag.ch
 tech-viking.ch
 tech-vitre.ch
+tech-werft.ch
 tech-werk.ch
 tech-wizard.ch
 tech-work.ch
@@ -3108,7 +3110,6 @@ techfeeder.ch
 techfiber.ch
 techfields.ch
 techfina.ch
-techfinder.ch
 techfine.ch
 techfirm-engineering.ch
 techfirm-group.ch
@@ -3654,6 +3655,7 @@ technikgeek.ch
 technikguru.ch
 technikheld.ch
 technikhelfer.ch
+technikhilfe-winterthur.ch
 technikhilfe.ch
 technikhuette.ch
 technikhuus.ch
@@ -4696,6 +4698,7 @@ techvolver.ch
 techvr.ch
 techvs.ch
 techwan.ch
+techware-customs.ch
 techware.ch
 techwash.ch
 techwatch-basel.ch
@@ -4714,6 +4717,7 @@ techwekk.ch
 techwelt-media.ch
 techweltmedia-jerry-ritschard.ch
 techweltmedia.ch
+techwerft.ch
 techwerk.ch
 techwirth.ch
 techwise.ch
@@ -4797,6 +4801,7 @@ teclab-svizzera.ch
 teclab-swiss.ch
 teclab.ch
 teclabswiss.ch
+teclabticino.ch
 teclacreations.ch
 tecladies.ch
 teclae.ch
@@ -6791,6 +6796,7 @@ tel-tarif.ch
 tel-tarife.ch
 tel-tarifs.ch
 tel-treff.ch
+tel-treffen.ch
 tel-voip.ch
 tel142.ch
 tel143.ch
@@ -7648,7 +7654,6 @@ telekursid.ch
 telelab.ch
 telelacoteauxfees.ch
 telelader.ch
-teleladerfinder.ch
 telelafouly-champexlac.ch
 telelafouly.ch
 telelan.ch
@@ -8056,7 +8061,6 @@ teleskoplader-manitou.ch
 teleskoplader-mieten.ch
 teleskoplader-vermietung.ch
 teleskoplader.ch
-teleskopladerfinder.ch
 teleskopladervermietung.ch
 teleskopleiter.ch
 teleskopmast.ch
@@ -12379,7 +12383,6 @@ terra-kosmos.ch
 terra-latina.ch
 terra-libra.ch
 terra-link.ch
-terra-lumina.ch
 terra-luna.ch
 terra-lys.ch
 terra-mactec.ch
@@ -12538,6 +12541,7 @@ terrabuild.ch
 terrabuy.ch
 terrabyte.ch
 terrac.ch
+terracajou.ch
 terracalor.ch
 terracanis.ch
 terracap.ch
@@ -15530,7 +15534,6 @@ testhotel.ch
 testhub.ch
 testhuber.ch
 testhugentobler.ch
-testhugoreitzel.ch
 testi.ch
 testiadhoc.ch
 testiamoci.ch
@@ -15575,6 +15578,7 @@ testingbusinessideas.ch
 testingcountry.ch
 testingday.ch
 testingdos.ch
+testingdpbilling.ch
 testinggrounds.ch
 testingideas.ch
 testinglab.ch
@@ -16096,6 +16100,7 @@ tesuro.ch
 tesus.ch
 tesuwest.ch
 tesverse.ch
+tesvira.ch
 tesvo.ch
 tesvolt.ch
 tesvoltrx.ch
@@ -16142,7 +16147,6 @@ tete-services.ch
 tete.ch
 teteatete.ch
 teteatetecoiffure.ch
-teteauxpieds.ch
 tetecollection.ch
 tetedaffiche.ch
 tetedecon.ch
@@ -17209,7 +17213,6 @@ textildirekt.ch
 textildorf.ch
 textildruck-basel.ch
 textildruck-bern.ch
-textildruck-biel.ch
 textildruck-center.ch
 textildruck-glarnerland.ch
 textildruck-luzern.ch
@@ -17227,7 +17230,6 @@ textildruck1886.ch
 textildruck24.ch
 textildruck4you.ch
 textildruckbasel.ch
-textildruckbiel.ch
 textildruckcenter.ch
 textildrucke.ch
 textildrucken.ch

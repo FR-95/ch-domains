@@ -72,7 +72,6 @@ x-c.ch
 x-cab.ch
 x-call.ch
 x-cam.ch
-x-camp.ch
 x-cap.ch
 x-capital.ch
 x-caps.ch
@@ -165,6 +164,7 @@ x-eng.ch
 x-engineering.ch
 x-equestrian.ch
 x-erotik.ch
+x-et.ch
 x-event.ch
 x-events.ch
 x-eye.ch

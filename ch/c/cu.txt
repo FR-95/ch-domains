@@ -55,7 +55,6 @@ cuartito-azul-tango.ch
 cuartito-azul.ch
 cuartito.ch
 cuas.ch
-cuasgroup.ch
 cuatransporte.ch
 cub-e.ch
 cub.ch
@@ -3719,6 +3718,7 @@ custer-stiftung.ch
 custer.ch
 custex.ch
 custhome.ch
+custhomize.ch
 custic.ch
 custimmo.ch
 custimplant.ch
@@ -4150,6 +4150,7 @@ customservice.ch
 customsexpert.ch
 customsexperts.ch
 customshape.ch
+customshoe.ch
 customshop.ch
 customshopschenk.ch
 customshow.ch

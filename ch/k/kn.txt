@@ -316,6 +316,7 @@ knecht-stiftung.ch
 knecht-talentday.ch
 knecht-tools.ch
 knecht-uhren.ch
+knecht-vision.ch
 knecht-weinbau.ch
 knecht-weiterbildung.ch
 knecht-zukunftstag.ch
@@ -633,7 +634,6 @@ knicknclean.ch
 knicks.ch
 knicksandmore.ch
 knicksel.ch
-knie-bandage.ch
 knie-bandagen.ch
 knie-center.ch
 knie-chirurg.ch
@@ -747,7 +747,6 @@ knifeclub.ch
 knifefighting.ch
 knifeguys.ch
 knifemaker.ch
-knifemakersupplies.ch
 knifemaster.ch
 knifeprotect.ch
 knifepun.ch
@@ -1436,6 +1435,7 @@ know-it-all.ch
 know-know.ch
 know-ledge.ch
 know-me.ch
+know-more.ch
 know-murs.ch
 know-now.ch
 know-shit.ch

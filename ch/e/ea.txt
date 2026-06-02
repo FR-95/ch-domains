@@ -1275,6 +1275,7 @@ easy-beer.ch
 easy-bestellung.ch
 easy-betreibung.ch
 easy-betreibungsauszug.ch
+easy-bewerbung.ch
 easy-biker.ch
 easy-bikers.ch
 easy-bill.ch
@@ -1636,7 +1637,6 @@ easy-pilot.ch
 easy-pim.ch
 easy-plan.ch
 easy-planer-tool.ch
-easy-planner.ch
 easy-planning.ch
 easy-plant.ch
 easy-plissee.ch
@@ -3109,6 +3109,7 @@ easypalnning.ch
 easypancakes.ch
 easypanel.ch
 easypaper.ch
+easypapier.ch
 easypara.ch
 easyparapente.ch
 easyparapharmacie.ch
@@ -3194,7 +3195,6 @@ easyplissee.ch
 easyplissees.ch
 easyplixx.ch
 easyplot.ch
-easyplott.ch
 easyplug.ch
 easypms.ch
 easypneu.ch
@@ -3231,6 +3231,7 @@ easyprint3d.ch
 easyprintconnect.ch
 easyprinter.ch
 easyprinting.ch
+easyprints.ch
 easyprivatkonto.ch
 easypro.ch
 easyprocess.ch
@@ -4123,6 +4124,7 @@ eatout.ch
 eatoutclean.ch
 eatpac.ch
 eatpatat.ch
+eatpianopiano.ch
 eatpixel.ch
 eatpizza.ch
 eatplanted.ch
@@ -4515,9 +4517,6 @@ eazymatic-torantriebe.ch
 eazymatic.ch
 eazymenu.ch
 eazyone-agency.ch
-eazyone-fresquemurale.ch
-eazyone-graffeur.ch
-eazyone-graffiti.ch
 eazyone.ch
 eazyparking.ch
 eazypay.ch

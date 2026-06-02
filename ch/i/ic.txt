@@ -86,6 +86,7 @@ ica-ag.ch
 ica-architecture.ch
 ica-collab.ch
 ica-corp.ch
+ica-fahrzeugbau.ch
 ica-ika.ch
 ica-info.ch
 ica-invest.ch
@@ -712,7 +713,6 @@ icens.ch
 icenter.ch
 icentic.ch
 icentral.ch
-icentris.ch
 icentrispl.ch
 icenurse.ch
 iceo.ch
@@ -1411,7 +1411,6 @@ ichkannauchanders.ch
 ichkanndas.ch
 ichkannduauch.ch
 ichkanns.ch
-ichkaufdeinauto.ch
 ichkaufe.ch
 ichkaufebautraegerimmobilien.ch
 ichkaufefair.ch
@@ -2161,6 +2160,7 @@ iconicswisswatches.ch
 iconictech.ch
 iconicvivere.ch
 iconicworld.ch
+iconicz.ch
 iconik.ch
 iconikclub.ch
 iconimations.ch

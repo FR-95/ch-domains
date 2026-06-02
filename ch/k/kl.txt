@@ -4,8 +4,6 @@ kl-bauelemente.ch
 kl-bien-etre.ch
 kl-consulting.ch
 kl-dogaccessories.ch
-kl-enduro.ch
-kl-escooter.ch
 kl-flachdachplanung.ch
 kl-fliegengitter.ch
 kl-homoeopathie-luzern.ch
@@ -17,8 +15,6 @@ kl-management.ch
 kl-matterhorn.ch
 kl-mobility.ch
 kl-montagen.ch
-kl-motard.ch
-kl-moto.ch
 kl-motorcycle.ch
 kl-motorrad.ch
 kl-motors.ch
@@ -29,7 +25,6 @@ kl-pneu.ch
 kl-rechtsanwalt-luzern.ch
 kl-renovation.ch
 kl-schweiz.ch
-kl-scooter.ch
 kl-solutions.ch
 kl-speisewerk.ch
 kl-systems.ch
@@ -187,6 +182,7 @@ klages.ch
 klageweib.ch
 klagi.ch
 klagug.ch
+klahn.ch
 klaho-luzern.ch
 klaho.ch
 klahr.ch
@@ -1299,6 +1295,7 @@ klarerlaw.ch
 klarerpfad.ch
 klarers.ch
 klarersinn.ch
+klarerweg.ch
 klarerweiter.ch
 klaresglas.ch
 klaresicht.ch
@@ -2988,7 +2985,6 @@ kleidungstore.ch
 kleidungvergleich.ch
 kleie.ch
 kleih.ch
-kleihd.ch
 kleika.ch
 kleikamp.ch
 kleimann.ch
@@ -4010,6 +4006,7 @@ kleintierpraxis-steinhausen.ch
 kleintierpraxis-stgallen.ch
 kleintierpraxis-suppiger.ch
 kleintierpraxis-susiundstrolch.ch
+kleintierpraxis-than.ch
 kleintierpraxis-therwil.ch
 kleintierpraxis-thun.ch
 kleintierpraxis-tieregge.ch
@@ -4779,6 +4776,7 @@ klickworldwide.ch
 klicky-ersatzteile.ch
 klicky-store.ch
 klicky.ch
+klickzando.ch
 klico.ch
 klidera.ch
 kliebenschaedel-schreinerei.ch
@@ -6387,6 +6385,7 @@ klnr.ch
 klnschreinerei.ch
 klnshop.ch
 klnswiss.ch
+klnunity.ch
 klo-art.ch
 klo-papier.ch
 klo.ch
@@ -6819,6 +6818,7 @@ klosterspiele.ch
 klostersrent.ch
 klostersskischule.ch
 klosterssportanlagen.ch
+klosterssurprada.ch
 klosterstjohann.ch
 klosterstrasse.ch
 klostertage.ch
@@ -7235,7 +7235,6 @@ klws.ch
 klwtt.ch
 klx-ing.ch
 klx.ch
-kly.ch
 klybeck-apotheke.ch
 klybeck-areal.ch
 klybeck-basel.ch
@@ -7284,6 +7283,7 @@ klyr.ch
 klyrmois.ch
 klyro.ch
 klys.ch
+klyudt.ch
 klyve.ch
 klyx.ch
 klz-studio.ch

@@ -1916,6 +1916,7 @@ pulsetv.ch
 pulseup.ch
 pulsevr.ch
 pulsewat.ch
+pulsewave.ch
 pulsewear.ch
 pulsewearshop.ch
 pulsewebstudio.ch
@@ -4558,6 +4559,7 @@ puricolon.ch
 puricura.ch
 puridor.ch
 puridurussel.ch
+purifd.ch
 purifex-gashi.ch
 purifex-met.ch
 purificateur-air.ch
@@ -5153,6 +5155,7 @@ purwirkt.ch
 pury-piscine.ch
 pury.ch
 purya.ch
+puryfd.ch
 puryu.ch
 purzel-baum.ch
 purzel-huus.ch

@@ -1137,7 +1137,6 @@ waengifire.ch
 waengipizza.ch
 waengipizzakebaphaus.ch
 waengirain.ch
-waengiundkultur.ch
 waeni.ch
 waenibach.ch
 waenn-scho-daenn-scho.ch
@@ -1294,7 +1293,6 @@ waermepumpe-basel-stadt.ch
 waermepumpe-basel.ch
 waermepumpe-baselland.ch
 waermepumpe-be.ch
-waermepumpe-beratung.ch
 waermepumpe-bern.ch
 waermepumpe-check.ch
 waermepumpe-direkt.ch
@@ -2522,6 +2520,7 @@ wahlievents.ch
 wahlig.ch
 wahlin.ch
 wahlindex.ch
+wahlio.ch
 wahlioptik.ch
 wahliruefli.ch
 wahlisarl.ch
@@ -2535,7 +2534,6 @@ wahlkampf2018.ch
 wahlkampfbild.ch
 wahlkampfblog.ch
 wahlkampffinanzierung.ch
-wahlkampfplus.ch
 wahlkampfvideo.ch
 wahlkomitee.ch
 wahlkreis-mittelland.ch
@@ -2590,7 +2588,6 @@ wahnsinnsradio.ch
 wahobeha.ch
 wahoo-divers.ch
 wahoo-parakou.ch
-wahoo.ch
 wahou.ch
 wahouou.ch
 wahr-nehmen.ch
@@ -4995,8 +4992,21 @@ walk-in-clinic-berner-oberland.ch
 walk-in-clinic-interlaken.ch
 walk-in-clinic.ch
 walk-in-coaching.ch
+walk-in-heimberg-consilium.ch
+walk-in-heimberg-gastroenterologie.ch
+walk-in-heimberg-kardiologie.ch
+walk-in-heimberg-radiologie.ch
+walk-in-heimberg.ch
 walk-in-highheels.ch
 walk-in-lab.ch
+walk-in-luterbach-consilium.ch
+walk-in-luterbach-gastroenterologie.ch
+walk-in-luterbach-radiologie.ch
+walk-in-luterbach.ch
+walk-in-lyss-consilium.ch
+walk-in-lyss-gastroenterologie.ch
+walk-in-lyss-kardiologie.ch
+walk-in-lyss-radiologie.ch
 walk-in-lyss.ch
 walk-in-medin.ch
 walk-in-praxis.ch
@@ -5867,7 +5877,6 @@ walliserstube.ch
 walliserstubebettmeralp.ch
 wallisertaverna.ch
 wallisertaverne.ch
-wallisertour.ch
 wallisertourismuskammer.ch
 wallisertracht.ch
 wallisertrockenfleisch.ch
@@ -6042,7 +6051,6 @@ wallprinting.ch
 wallprintmomirovic.ch
 wallprintproject.ch
 wallprints.ch
-wallprintswiss.ch
 wallpro.ch
 wallprotection.ch
 wallpun.ch
@@ -7375,6 +7383,7 @@ wander-explorer.ch
 wander-freudig.ch
 wander-freunde.ch
 wander-gastro.ch
+wander-geschichten.ch
 wander-guide.ch
 wander-hotel.ch
 wander-kalender.ch
@@ -8876,7 +8885,6 @@ warm-up.ch
 warm-wasser.ch
 warm.ch
 warma.ch
-warmakquise.ch
 warmalhier.ch
 warmambience.ch
 warman.ch
@@ -9240,7 +9248,6 @@ wartezimmer2.ch
 wartezimmeranzeige-kehrberg.ch
 wartezimmertv.ch
 wartguet.ch
-warth-architektur.ch
 warth-weiningen.ch
 warth-weiningen24.ch
 warth-wil.ch
@@ -12177,7 +12184,6 @@ water37.ch
 water4africa.ch
 water4all.ch
 water4me.ch
-water4u.ch
 water4you.ch
 water4yousa.ch
 wateract.ch
@@ -12307,7 +12313,6 @@ waterglowmusic.ch
 watergraphy.ch
 watergroup.ch
 waterhero.ch
-waterhike.ch
 waterhog.ch
 waterhorse.ch
 waterimpulse.ch
@@ -13230,6 +13235,7 @@ waxbox.ch
 waxbrazil.ch
 waxcat.ch
 waxcenter.ch
+waxcycle.ch
 waxday.ch
 waxdesign.ch
 waxee.ch

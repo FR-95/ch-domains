@@ -1,7 +1,6 @@
 rg-590.ch
 rg-595.ch
 rg-a.ch
-rg-ac.ch
 rg-akademie.ch
 rg-albis.ch
 rg-athletics.ch
@@ -80,6 +79,7 @@ rg0.ch
 rg1.ch
 rg13-home.ch
 rg13.ch
+rg17.ch
 rg1950.ch
 rg2.ch
 rg3977.ch

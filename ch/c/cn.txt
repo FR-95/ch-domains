@@ -203,7 +203,6 @@ cnc-trade.ch
 cnc-training.ch
 cnc-werkstatt.ch
 cnc-werkzeuge.ch
-cnc-werkzeugmaschinen.ch
 cnc-werkzeugshop.ch
 cnc-woodcraft.ch
 cnc-woodwork.ch
@@ -403,7 +402,6 @@ cnlabperformance.ch
 cnlabsecurity.ch
 cnlabsoftware.ch
 cnlinko.ch
-cnliquidity.ch
 cnlm-switzerland.ch
 cnlogistics.ch
 cnlutry.ch

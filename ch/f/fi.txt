@@ -363,6 +363,7 @@ fiber-laupen.ch
 fiber-line.ch
 fiber-net.ch
 fiber-netzbau-allianz.ch
+fiber-nova.ch
 fiber-optic-monitoring.ch
 fiber-optic.ch
 fiber-optics.ch
@@ -1483,7 +1484,6 @@ fidget-spinner.ch
 fidget-sticks.ch
 fidget-toy.ch
 fidget-toys.ch
-fidget.ch
 fidgetandshine.ch
 fidgetbox.ch
 fidgetfroggo.ch
@@ -1906,6 +1906,7 @@ fiduciaire-gomez.ch
 fiduciaire-grandson.ch
 fiduciaire-gremaud.ch
 fiduciaire-grivera.ch
+fiduciaire-horlogere-suisse.ch
 fiduciaire-ia.ch
 fiduciaire-infostaehli.ch
 fiduciaire-insieme.ch
@@ -2617,6 +2618,7 @@ fiechterbeeren.ch
 fiechterboller.ch
 fiechterfiechter.ch
 fiechterforst.ch
+fiechterframes.ch
 fiechterfuchs.ch
 fiechtermt.ch
 fiechterorganizing.ch
@@ -2699,6 +2701,7 @@ fieldday.ch
 fieldfood.ch
 fieldforce.ch
 fieldforces.ch
+fieldgear.ch
 fieldgewinn.ch
 fieldgreen.ch
 fieldhockey.ch
@@ -3345,6 +3348,7 @@ figleaves.ch
 figlesias.ch
 figli-genitori-con-dipendenze.ch
 figli-genitori-dipendenza.ch
+figlidelsilenzio.ch
 figlidinapoli.ch
 figlioli.ch
 figliuzzi.ch
@@ -3948,7 +3952,6 @@ filemaker-kurse.ch
 filemaker-programmierer.ch
 filemaker-programmierung.ch
 filemaker-schule.ch
-filemaker-schweiz.ch
 filemaker-stammtisch.ch
 filemaker-webdirect.ch
 filemaker.ch
@@ -3963,10 +3966,8 @@ filemakerdeveloper.ch
 filemakerentwickler.ch
 filemakerentwicklung.ch
 filemakerhilfe.ch
-filemakerkurse.ch
 filemakernews.ch
 filemakerprofi.ch
-filemakerschule.ch
 filemakerserver.ch
 filemakerserverhosting.ch
 filemanager.ch
@@ -6064,6 +6065,7 @@ finance-watch.ch
 finance-weiterbildung.ch
 finance-xhp.ch
 finance.ch
+finance1x1.ch
 finance2.ch
 finance20.ch
 finance24.ch
@@ -6143,6 +6145,7 @@ financeeagles.ch
 financeeasy.ch
 financeelite.ch
 financeengine.ch
+financeestate.ch
 financeetstrategie.ch
 financeexcellence.ch
 financeexcellenceacademy.ch
@@ -13998,6 +14001,7 @@ fischerschriften.ch
 fischerschule.ch
 fischerschweiz.ch
 fischerseite.ch
+fischerservice.ch
 fischerservices.ch
 fischersfeine.ch
 fischersfritz.ch
@@ -15113,7 +15117,6 @@ fit-flight.ch
 fit-flop.ch
 fit-flow.ch
 fit-food-nutrition.ch
-fit-for-baby.ch
 fit-for-business.ch
 fit-for-care.ch
 fit-for-ever.ch

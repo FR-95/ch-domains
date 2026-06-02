@@ -2665,7 +2665,6 @@ bachmann-wiederkehr.ch
 bachmann-zur-metzg.ch
 bachmann.ch
 bachmann1.ch
-bachmann1886.ch
 bachmann4800.ch
 bachmannag.ch
 bachmannarchitekten.ch
@@ -3590,6 +3589,7 @@ backstagecorporate.ch
 backstagecrew.ch
 backstagedelemont.ch
 backstagedogtherapy.ch
+backstageengelberg.ch
 backstagehelden.ch
 backstagehotel.ch
 backstagekitchen.ch
@@ -3858,6 +3858,7 @@ backyardstuff.ch
 backyardtales.ch
 backyardultra.ch
 backyardultrachur.ch
+backyardultralausanne.ch
 backyardultravalais.ch
 backyouup.ch
 backyrd.ch
@@ -7214,6 +7215,7 @@ baettwilermarkt.ch
 baetyl.ch
 baetzenboden.ch
 baetzi.ch
+baetzimiuch.ch
 baetzner.ch
 baetzu.ch
 baeucher-huette.ch
@@ -7613,7 +7615,6 @@ baggerei.ch
 baggererlebnis.ch
 baggerersatzteile.ch
 baggerfahren.ch
-baggerfinder.ch
 baggerfraese.ch
 baggergemeinschaft.ch
 baggergreifer.ch
@@ -8734,6 +8735,7 @@ bail-aide.ch
 bail-avocat.ch
 bail-clair.ch
 bail-en-ligne.ch
+bail-ppe.ch
 bail.ch
 baila-baila.ch
 baila-conmigo.ch
@@ -9863,6 +9865,7 @@ balancedwesternriding.ch
 balancedyou.ch
 balanceenergie.ch
 balanceerleben.ch
+balancefacharztpraxis.ch
 balancefactory.ch
 balancefamilie.ch
 balancefit.ch
@@ -10316,7 +10319,6 @@ baldingermax.ch
 baldingeroptik.ch
 baldingers.ch
 baldingerzech.ch
-baldini-recycling.ch
 baldini-solutions.ch
 baldini.ch
 baldinimgmt.ch
@@ -10756,7 +10758,6 @@ balkanized.ch
 balkankaravan.ch
 balkanking.ch
 balkanladen.ch
-balkanlovers.ch
 balkanmaniak.ch
 balkanmap.ch
 balkanmarkt-shahin.ch
@@ -12235,6 +12236,7 @@ balsiger-malerei.ch
 balsiger-metzgerei.ch
 balsiger-osm.ch
 balsiger-paysagiste.ch
+balsiger-team.ch
 balsiger-textil.ch
 balsiger-transporte.ch
 balsiger-transports.ch
@@ -13938,6 +13940,7 @@ bangdrums.ch
 bange.ch
 banger-studio.ch
 banger.ch
+bangercasino.ch
 bangerl-fertiggaragen.ch
 bangerl-news.ch
 bangerl.ch
@@ -15582,6 +15585,7 @@ bar22.ch
 bar3000.ch
 bar31.ch
 bar33.ch
+bar365.ch
 bar3a.ch
 bar4.ch
 bar40.ch
@@ -18288,6 +18292,7 @@ barmoulinrouge.ch
 barmudafest.ch
 barmuenster.ch
 barmy.ch
+barmyway.ch
 barn-cars.ch
 barn.ch
 barna.ch
@@ -19887,6 +19892,7 @@ basedigital.ch
 basedinbasel.ch
 basedmovement.ch
 basedonatruestory.ch
+basedow.ch
 basedragon.ch
 basedresear.ch
 basedup.ch
@@ -20280,6 +20286,7 @@ basel-visagistin.ch
 basel-von-a-z.ch
 basel-vorkurs.ch
 basel-vorwaerts.ch
+basel-waslauft.ch
 basel-webdesign.ch
 basel-wedding.ch
 basel-weed.ch
@@ -20762,7 +20769,6 @@ baselmarkt.ch
 baselmarkthalle.ch
 baselmassage.ch
 baselmattweg.ch
-baselmeanmachine.ch
 baselmed.ch
 baselmedia.ch
 baselmediation.ch
@@ -21309,6 +21315,7 @@ basig-gudo.ch
 basig.ch
 basik-studio.ch
 basik.ch
+basik89.ch
 basikal.ch
 basil-bachmann.ch
 basil-bau.ch
@@ -21318,6 +21325,7 @@ basil-cafe.ch
 basil-denereaz.ch
 basil-huwyler.ch
 basil-milz.ch
+basil-seebach.ch
 basil-switzerland.ch
 basilaext.ch
 basilanderau.ch
@@ -22186,6 +22194,7 @@ baslerversicherungen.ch
 baslerwasser.ch
 baslerwassertaxi.ch
 baslerweihnacht.ch
+baslerweihnachtsdorf.ch
 baslerweihnachtszirkus.ch
 baslerweinmesse.ch
 baslerweiterbildungsmesse.ch
@@ -25304,6 +25313,7 @@ baudereco.ch
 baudergamba.ch
 baudertopgum.ch
 bauderventilationen.ch
+baudesign-aktuell.ch
 baudesign-ch.ch
 baudesign.ch
 baudesigner.ch
@@ -25420,10 +25430,8 @@ baueinkauf.ch
 baueinsprache.ch
 baueinsprachen.ch
 bauelement.ch
-bauelement365.ch
 bauelemente-shop.ch
 bauelemente.ch
-bauelemente365.ch
 bauen-aktuell.ch
 bauen-an-der-aa.ch
 bauen-auf-alu.ch
@@ -27454,7 +27462,6 @@ baumaschinenag.ch
 baumaschinenankauf.ch
 baumaschinendoktor.ch
 baumaschinenersatzteile.ch
-baumaschinenfinder.ch
 baumaschinenfuehrer.ch
 baumaschinengebraucht.ch
 baumaschinenhandel.ch
@@ -28453,6 +28460,7 @@ baumy.ch
 baumyoga.ch
 baumzeit-kempf.ch
 baumzeit.ch
+baumzeiten.ch
 baumzelt.ch
 baumzentrum.ch
 baumzi.ch
@@ -29223,6 +29231,7 @@ bauskirennen.ch
 bauskript.ch
 bausmart.ch
 bausmass.ch
+bausnack.ch
 bausoft.ch
 bausoft24.ch
 bausoftware.ch
@@ -29333,6 +29342,7 @@ baustellen-dialog.ch
 baustellen-dusche.ch
 baustellen-fotografie-bern.ch
 baustellen-fotografie.ch
+baustellen-holz.ch
 baustellen-igel.ch
 baustellen-info.ch
 baustellen-jobs.ch
@@ -29397,6 +29407,7 @@ baustellenentsorgung.ch
 baustellenfilme.ch
 baustellenfotograf.ch
 baustellenfotografie.ch
+baustellenholz.ch
 baustellenigel.ch
 baustelleninfo.ch
 baustelleninformation.ch

@@ -164,6 +164,7 @@ ifbz.ch
 ifc-ag.ch
 ifc-bim.ch
 ifc-check.ch
+ifc-examens.ch
 ifc-ge.ch
 ifc-gsee.ch
 ifc-intern.ch

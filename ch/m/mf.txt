@@ -358,6 +358,7 @@ mfh-emmen.ch
 mfh-feldstrasse.ch
 mfh-felsenau.ch
 mfh-forum.ch
+mfh-friedheim.ch
 mfh-huebwisen.ch
 mfh-hypo.ch
 mfh-inkwil.ch
@@ -388,6 +389,7 @@ mfhcoaching.ch
 mfhdesk.ch
 mfhealth.ch
 mfhforum.ch
+mfhfriedheim.ch
 mfhhypo.ch
 mfhjaegerheim.ch
 mfhkaufen.ch

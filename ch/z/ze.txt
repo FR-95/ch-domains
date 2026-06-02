@@ -761,7 +761,6 @@ zehndermetallbau.ch
 zehndermobility.ch
 zehndermoebel.ch
 zehndermusic.ch
-zehndernet.ch
 zehndernutzfahrzeuge.ch
 zehnderortho.ch
 zehnderpartner.ch
@@ -4883,7 +4882,6 @@ zephyrlys.ch
 zephyroff.ch
 zephyrone.ch
 zephyros.ch
-zephyrtandem.ch
 zepi.ch
 zepic.ch
 zepindustries.ch
@@ -5114,12 +5112,14 @@ zerg.ch
 zerga.ch
 zerhitta.ch
 zerhostudio.ch
+zeri-nates.ch
 zeria.ch
 zeridiasporesmk.ch
 zerii.ch
 zerilli.ch
 zerin.ch
 zerina.ch
+zerinates.ch
 zerion-ag.ch
 zerion.ch
 zerit.ch
@@ -5586,6 +5586,7 @@ zeroday.ch
 zerodc.ch
 zerodechet.ch
 zerodechets.ch
+zerodelta.ch
 zerodepot.ch
 zerodesign.ch
 zerodette.ch

@@ -166,6 +166,7 @@ wcs-events.ch
 wcs-kalender.ch
 wcs-rapperswil.ch
 wcs-rheintal.ch
+wcs-sg.ch
 wcs-vevey.ch
 wcs.ch
 wcsaargau.ch

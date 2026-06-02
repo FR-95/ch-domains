@@ -381,7 +381,6 @@ academia-sitten.ch
 academia-sprachen.ch
 academia-student.ch
 academia-teacher.ch
-academia-tennis.ch
 academia-ticino.ch
 academia-visp.ch
 academia-winterthur.ch
@@ -751,6 +750,7 @@ acadyme.ch
 acadys.ch
 acadyse.ch
 acae.ch
+acaei.ch
 acaeng.ch
 acaf.ch
 acag.ch
@@ -5721,6 +5721,7 @@ actag.ch
 actagest.ch
 actagis.ch
 actagrischuna.ch
+actahelvetica.ch
 actaia.ch
 actainfra.ch
 actainfrastructure.ch
@@ -6758,7 +6759,6 @@ actives-changement.ch
 actives.ch
 activesales.ch
 activesan.ch
-activesante.ch
 activescence.ch
 activescense.ch
 activesearch.ch
@@ -7156,7 +7156,6 @@ actuarialins.ch
 actuariallns.ch
 actuariat-conseil-etudes.ch
 actuaries.ch
-actuarion.ch
 actuarium.ch
 actuarius.ch
 actuary-cloud.ch
@@ -7266,6 +7265,8 @@ acudiet.ch
 acuendet.ch
 acuenta.ch
 acuforme.ch
+acuforta-sanbernardino.ch
+acuforta.ch
 acufribourg.ch
 acuge.ch
 acugeneve.ch

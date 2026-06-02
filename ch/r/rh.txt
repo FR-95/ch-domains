@@ -11,6 +11,7 @@ rh-audio.ch
 rh-autoconcept.ch
 rh-autoservice.ch
 rh-autotechnik.ch
+rh-avocats.ch
 rh-barren.ch
 rh-bauelemente.ch
 rh-bauleitung.ch
@@ -1842,6 +1843,7 @@ rhs-podologie.ch
 rhs-services.ch
 rhs-swiss.ch
 rhs.ch
+rhs42.ch
 rhsag.ch
 rhsb.ch
 rhsc-foundation.ch

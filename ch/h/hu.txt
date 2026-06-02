@@ -726,6 +726,7 @@ huberschweiz.ch
 hubersdorf.ch
 hubersdorf24.ch
 hubersebastian.ch
+hubersfest26.ch
 hubershipping.ch
 hubersilo.ch
 hubersilofraesen.ch
@@ -3485,7 +3486,6 @@ human-it.ch
 human-ity.ch
 human-juke-box.ch
 human-jukebox.ch
-human-key.ch
 human-kicker.ch
 human-kind.ch
 human-konsept.ch
@@ -3977,7 +3977,6 @@ humanjob.ch
 humanjukebox.ch
 humanka.ch
 humankare.ch
-humankey.ch
 humankicker.ch
 humankind.ch
 humankonsept.ch
@@ -4417,6 +4416,7 @@ humidification-oculaire.ch
 humidification.ch
 humidifier.ch
 humidite-des-sols.ch
+humidite.ch
 humiditedusol.ch
 humidity-calibration.ch
 humidity-health.ch
@@ -4928,6 +4928,7 @@ hunde-haftpflicht.ch
 hunde-halle.ch
 hunde-halsband.ch
 hunde-haus-alten.ch
+hunde-heimat.ch
 hunde-helfen-hunden.ch
 hunde-herz.ch
 hunde-hilfe.ch
@@ -7117,7 +7118,6 @@ hungerkur.ch
 hungerland.ch
 hungerpro.ch
 hungerprojekt.ch
-hungerpunkt.ch
 hungers.ch
 hungerstiller.ch
 hungerstreet.ch
@@ -7702,7 +7702,6 @@ hurrah-casino.ch
 hurrah-luzern.ch
 hurrah.ch
 hurrahabits.ch
-hurrahcasino.ch
 hurrahelden.ch
 hurrahkitchen.ch
 hurrahliving.ch

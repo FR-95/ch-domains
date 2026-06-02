@@ -3,6 +3,7 @@ gn-audio.ch
 gn-beratungen.ch
 gn-biogas.ch
 gn-biogaz.ch
+gn-coaching.ch
 gn-dach.ch
 gn-druck.ch
 gn-geruestbau.ch
@@ -415,7 +416,6 @@ gnueheudunge.ch
 gnuesse.ch
 gnuesser.ch
 gnuesserclub.ch
-gnuesserei-im-roessli.ch
 gnuesserei.ch
 gnuesserli.ch
 gnuesserzmittag.ch
@@ -510,6 +510,7 @@ gnusstal.ch
 gnusstreff-shop.ch
 gnusstreff.ch
 gnussundgsund.ch
+gnussundplausch.ch
 gnussundstil.ch
 gnussvoduss.ch
 gnussvoll.ch

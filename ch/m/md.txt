@@ -408,6 +408,7 @@ mdgruppe.ch
 mdgsuhr.ch
 mdgv.ch
 mdh-ag.ch
+mdh-fragebogen.ch
 mdh-kraft-bau.ch
 mdh.ch
 mdhag.ch
@@ -859,6 +860,7 @@ mdw.ch
 mdwatch.ch
 mdwatelier.ch
 mdweb.ch
+mdwoodart.ch
 mdwr-hauswartung.ch
 mdx-informatique.ch
 mdx.ch

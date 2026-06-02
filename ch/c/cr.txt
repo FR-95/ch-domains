@@ -1692,6 +1692,7 @@ cratos.ch
 cratosslot.ch
 cratschla.ch
 craucrau.ch
+crauder.ch
 crauloup.ch
 craumayor.ch
 crausaz-sa.ch
@@ -2610,7 +2611,6 @@ creacenter2.ch
 creaceram.ch
 creaceto.ch
 creachange.ch
-creachapes.ch
 creacharpente.ch
 creacheck.ch
 creacheztoi.ch
@@ -5562,7 +5562,6 @@ creditsansfrais.ch
 creditsconseils.ch
 creditscore.ch
 creditscorebureau.ch
-creditscout.ch
 creditscout24.ch
 creditsear.ch
 creditsearch.ch
@@ -5775,6 +5774,7 @@ creighton.ch
 creightonmodel.ch
 creiki.ch
 creimo.ch
+creinfluence.ch
 creinhard.ch
 creinigungen.ch
 creinsol.ch
@@ -7134,7 +7134,6 @@ cristal-immobilier.ch
 cristal-jardin.ch
 cristal-line.ch
 cristal-masseurin.ch
-cristal-ne.ch
 cristal-rojo.ch
 cristal-rouge.ch
 cristal-soerenberg.ch
@@ -7877,6 +7876,7 @@ croce-bianca.ch
 croce-electricite.ch
 croce-rossa.ch
 croce-samedan.ch
+croce-securite.ch
 croce.ch
 crocebianca.ch
 croceblu.ch
@@ -10200,7 +10200,6 @@ cryo-health.ch
 cryo-jura.ch
 cryo-liposuccion.ch
 cryo-liposuction.ch
-cryo-one.ch
 cryo-sauna.ch
 cryo-sport-sante.ch
 cryo-swiss.ch
@@ -11619,6 +11618,7 @@ crystaria.ch
 crystelbrunisholz.ch
 crystelite.ch
 crystelle.ch
+crysteltattoo.ch
 crystoil.ch
 crysus.ch
 crysvita.ch

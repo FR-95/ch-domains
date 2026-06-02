@@ -3029,7 +3029,6 @@ hoehigruess.ch
 hoehihof.ch
 hoehl.ch
 hoehlaeguugger.ch
-hoehle-der-loewen-bern.ch
 hoehle.ch
 hoehlederloewen.ch
 hoehlen.ch
@@ -5290,7 +5289,6 @@ hofmuracher.ch
 hofmurmatt.ch
 hofmutaun.ch
 hofmythen.ch
-hofn.ch
 hofnachfolge-parcours.ch
 hofnachfolge.ch
 hofnaehrwerk.ch
@@ -5323,6 +5321,7 @@ hofperspektive.ch
 hofpeter.ch
 hofpflastersteine.ch
 hofplattform.ch
+hofplatz.ch
 hofplatz7.ch
 hofprocatin.ch
 hofprodukte-saland.ch
@@ -6064,6 +6063,7 @@ hoidu.ch
 hoie.ch
 hoieats.ch
 hoienstein-transport.ch
+hoifon.ch
 hoigne.ch
 hoigold.ch
 hoihegi.ch
@@ -7427,7 +7427,6 @@ hollenstein-personalfuehrung-seminare-schweiz.ch
 hollenstein-storen.ch
 hollenstein-treuhand.ch
 hollenstein-waffen.ch
-hollenstein-weine.ch
 hollenstein-werbeagentur.ch
 hollenstein.ch
 hollensteinag-mosnang.ch
@@ -8095,6 +8094,7 @@ holyworld.ch
 holz-3.ch
 holz-4you.ch
 holz-aalange.ch
+holz-accoya.ch
 holz-ag.ch
 holz-agentur.ch
 holz-akademie.ch
@@ -9342,6 +9342,7 @@ holzerwettkampf.ch
 holzesel.ch
 holzesstisch.ch
 holzexport.ch
+holzexpress.ch
 holzfabrik.ch
 holzfachhandel.ch
 holzfachmann.ch
@@ -11975,7 +11976,6 @@ homehealth.ch
 homehealthcoaching.ch
 homehealthproducts.ch
 homehealthte.ch
-homeheart.ch
 homeheating.ch
 homeheaven.ch
 homehelp.ch
@@ -12285,7 +12285,6 @@ homeo-pat.ch
 homeo-prax.ch
 homeo-praxis.ch
 homeo-sante.ch
-homeo-zen.ch
 homeo.ch
 homeo24.ch
 homeobourqui.ch
@@ -15052,7 +15051,6 @@ hopeman.ch
 hopembc.ch
 hopemedia.ch
 hopemodell.ch
-hopen.ch
 hopena.ch
 hopenet.ch
 hopenow.ch
@@ -15156,6 +15154,7 @@ hopfenzunft-schwamendingen.ch
 hopfenzunft.ch
 hopfenzupfen.ch
 hopfenzupfer.ch
+hopfer.ch
 hopferdammi.ch
 hopferenfeld.ch
 hopferenfeld1-langenthal.ch
@@ -16898,7 +16897,6 @@ horsechallenge.ch
 horsechar.ch
 horsecoach.ch
 horsecoaching.ch
-horsecom.ch
 horsecombi.ch
 horsecompanion.ch
 horsecremation.ch
@@ -17685,6 +17683,7 @@ hospitalityinternational.ch
 hospitalityinvest.ch
 hospitalityinvestmentclub.ch
 hospitalitylawyers.ch
+hospitalitymanagement.ch
 hospitalitymanager.ch
 hospitalitymedia.ch
 hospitalitynextwork.ch
@@ -18804,7 +18803,6 @@ hotdoggy.ch
 hotdoghouse.ch
 hotdogking.ch
 hotdogmum.ch
-hotdognapoletano.ch
 hotdogs-chablais.ch
 hotdogs.ch
 hotdogzilla.ch
@@ -22610,7 +22608,6 @@ hotessespro.ch
 hotevent.ch
 hotex-recycling.ch
 hotezz.ch
-hotfashion.ch
 hotfashionshopping.ch
 hotfass-vermietung.ch
 hotfeet.ch
@@ -23540,6 +23537,7 @@ housedesign-kiechler.ch
 housedesign.ch
 housedesigner.ch
 housedesignsagl.ch
+housedistrict.ch
 housedoc.ch
 housedoctor.ch
 housedoctors.ch

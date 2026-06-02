@@ -1,15 +1,19 @@
 ns-01.grabmalkunst-honauer.ch
 ns-01.nachmittag.ch
 ns-01.ocrcl-staging.ch
+ns-01.pleb.ch
 ns-01.stepping-stone.ch
 ns-01.stoney-cloud.ch
 ns-01.stoneycloud.ch
+ns-01.vormittag.ch
 ns-02.grabmalkunst-honauer.ch
 ns-02.nachmittag.ch
 ns-02.ocrcl-staging.ch
+ns-02.pleb.ch
 ns-02.stepping-stone.ch
 ns-02.stoney-cloud.ch
 ns-02.stoneycloud.ch
+ns-02.vormittag.ch
 ns-03.bits-ns.ch
 ns-03.ocrcl-staging.ch
 ns-03.stepping-stone.ch
@@ -296,7 +300,6 @@ ns.kongresstronic.ch
 ns.kreativmedia.ch
 ns.kreativwebdesign.ch
 ns.kriz.ch
-ns.kupferschmid.ch
 ns.labomecum.ch
 ns.laiteriedegruyere.ch
 ns.landolt-network.ch
@@ -844,7 +847,6 @@ ns1.anderthalb.ch
 ns1.andreas-horvath.ch
 ns1.anixa.ch
 ns1.anniv.ch
-ns1.annoncea.ch
 ns1.anrac.ch
 ns1.anschau.ch
 ns1.antanet.ch
@@ -1118,6 +1120,7 @@ ns1.breman.ch
 ns1.bremsschlauch.ch
 ns1.brillenland.ch
 ns1.bringsel.ch
+ns1.brnc.ch
 ns1.browser7.ch
 ns1.bruecom.ch
 ns1.bruegger-haustechnik.ch
@@ -4477,6 +4480,7 @@ ns2.breman.ch
 ns2.brignoli.ch
 ns2.brillenland.ch
 ns2.bringsel.ch
+ns2.brnc.ch
 ns2.browser7.ch
 ns2.bruecom.ch
 ns2.bruegger-haustechnik.ch
@@ -7656,6 +7660,7 @@ ns3.jvweb.ch
 ns3.kamber-hosting.ch
 ns3.kaminbau-oswald.ch
 ns3.kappelergastro.ch
+ns3.kappes.ch
 ns3.kempel.ch
 ns3.kinet.ch
 ns3.kirchenweb.ch
@@ -8198,6 +8203,7 @@ ns4.jdns.ch
 ns4.jpu.eraw.ch
 ns4.jura.ch
 ns4.kamber-hosting.ch
+ns4.kappes.ch
 ns4.kinet.ch
 ns4.kirchenweb.ch
 ns4.kirtz.ch

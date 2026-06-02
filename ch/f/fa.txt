@@ -1379,7 +1379,6 @@ fabiocucina.ch
 fabiodaddario.ch
 fabiodante.ch
 fabiodasilva.ch
-fabiodellarossa.ch
 fabiodetata.ch
 fabiodete.ch
 fabiodonnaloia.ch
@@ -3693,7 +3692,6 @@ facilius.ch
 facilix.ch
 facilluzern.ch
 facilo.ch
-faciloffice.ch
 facilon.ch
 facilti.ch
 faciltiy-service.ch
@@ -7416,6 +7414,7 @@ fahrzeugdaten.ch
 fahrzeugdiagnose.ch
 fahrzeugdiagnostik.ch
 fahrzeugdoc.ch
+fahrzeugdossier.ch
 fahrzeuge-ankauf.ch
 fahrzeuge-ankaufen.ch
 fahrzeuge-reifen.ch
@@ -8602,7 +8601,6 @@ fairplay-zh.ch
 fairplay.ch
 fairplay11.ch
 fairplayagency.ch
-fairplayassociates.ch
 fairplaybet.ch
 fairplayclub.ch
 fairplaycoach.ch
@@ -9077,6 +9075,7 @@ faitmaison.ch
 faitnoise.ch
 faitoo.ch
 faitparpapa.ch
+faitransformation.ch
 faitron.ch
 faits-asile.ch
 faits-chiffres.ch
@@ -9336,6 +9335,7 @@ faktoria.ch
 faktories.ch
 faktorjournalisten.ch
 faktork.ch
+faktorki.ch
 faktorm.ch
 faktormens.ch
 faktormensch.ch
@@ -10792,6 +10792,7 @@ famaru.ch
 famasec.ch
 famaservice.ch
 famasofas.ch
+famassist.ch
 famastar.ch
 famasu.ch
 famasuisse.ch
@@ -10833,7 +10834,6 @@ famberger.ch
 famberisha.ch
 fambernegger.ch
 fambet-casino.ch
-fambet.ch
 fambetcasino.ch
 fambetriebsgmbh.ch
 fambets.ch
@@ -13115,6 +13115,7 @@ familienwelt.ch
 familienweltreise.ch
 familienwerkraum.ch
 familienwerkstatt.ch
+familienwerte-advisory.ch
 familienwerte.ch
 familienwette.ch
 familienwg.ch
@@ -16506,6 +16507,7 @@ farbambau.ch
 farbapotheke.ch
 farbara.ch
 farbarchitekt.ch
+farbarchitektur.ch
 farbart.ch
 farbartig.ch
 farbarts.ch
@@ -17173,6 +17175,7 @@ farbwerk-villmergen.ch
 farbwerk.ch
 farbwerkag.ch
 farbwerker.ch
+farbwerkgmbh.ch
 farbwerkstatt.ch
 farbwerkzuerich.ch
 farbwert.ch
@@ -18053,12 +18056,10 @@ faroplus.ch
 faropm.ch
 faroppa.ch
 faror.ch
-farorevision.ch
 faros-beratungen.ch
 faros.ch
 farosi.ch
 faross.ch
-farosteuern.ch
 farostudio.ch
 farotec.ch
 faroth.ch
@@ -18278,6 +18279,7 @@ fasciageneve.ch
 fascial-fitness.ch
 fascial-manipulation.ch
 fascialbody.ch
+fascialmaneuvers.ch
 fascialmanipulation.ch
 fascialrelease.ch
 fascialtraining.ch
@@ -18440,7 +18442,6 @@ fashion-art.ch
 fashion-attitude.ch
 fashion-beauty.ch
 fashion-bistro.ch
-fashion-bitch.ch
 fashion-blog.ch
 fashion-boutique.ch
 fashion-cafe.ch
@@ -21292,6 +21293,7 @@ favre-guth.ch
 favre-ingenieurs.ch
 favre-leuba.ch
 favre-maitre.ch
+favre-michel.ch
 favre-naudeix.ch
 favre-optique.ch
 favre-papaux.ch

@@ -184,7 +184,6 @@ im-kern.ch
 im-klang-sein.ch
 im-klang.ch
 im-klee.ch
-im-kleinhaus.ch
 im-klub.ch
 im-koerper-zuhause.ch
 im-kopf-von.ch
@@ -349,6 +348,7 @@ im-walder.ch
 im-waldpark.ch
 im-wandel-mit-dir.ch
 im-wandel.ch
+im-wealthselect.ch
 im-wein-zuhause.ch
 im-weinberg.ch
 im-weissen-roessl.ch
@@ -836,6 +836,7 @@ imagine-that.ch
 imagine-vdb.ch
 imagine-y.ch
 imagine-yourself.ch
+imagine-zh.ch
 imagine.ch
 imagine2.ch
 imagine360.ch
@@ -4822,6 +4823,7 @@ immobili-lugano.ch
 immobili-ticino.ch
 immobili.ch
 immobilia-ag.ch
+immobilia-amana-strategy.ch
 immobilia-factory.ch
 immobilia-grimentz.ch
 immobilia-suisse.ch
@@ -6308,7 +6310,6 @@ immobilienschule.ch
 immobilienschumacher.ch
 immobilienschweiz.ch
 immobilienschweizdaetwyler.ch
-immobilienschweizdf.ch
 immobilienscout.ch
 immobilienscout24.ch
 immobilienscreen.ch
@@ -7225,6 +7226,7 @@ immodealclub.ch
 immodealmaker.ch
 immodeals.ch
 immodealsa.ch
+immodebarras.ch
 immodebe.ch
 immodec.ch
 immodecarbo.ch
@@ -10337,7 +10339,6 @@ impact-roundtable.ch
 impact-rp.ch
 impact-sa.ch
 impact-sante.ch
-impact-schweiz.ch
 impact-selbstsicherheit.ch
 impact-sens.ch
 impact-services.ch
@@ -10349,8 +10350,6 @@ impact-sports.ch
 impact-stecroix.ch
 impact-studio.ch
 impact-suite.ch
-impact-svizzera.ch
-impact-switzerland.ch
 impact-systems.ch
 impact-technik.ch
 impact-techniken.ch
@@ -10604,7 +10603,6 @@ impactsante.ch
 impactschmiede.ch
 impactschools.ch
 impactschule.ch
-impactschweiz.ch
 impactsclub.ch
 impactsenior.ch
 impactseniors.ch
@@ -10620,7 +10618,6 @@ impactsports.ch
 impactstation.ch
 impactsummit.ch
 impactsvaluation.ch
-impactsvizzera.ch
 impactswiss.ch
 impactswitzerland.ch
 impacttavie.ch

@@ -296,6 +296,7 @@ agalistic.ch
 agalith.ch
 agaliving.ch
 agallati.ch
+agallego.ch
 agalliker.ch
 agalloreinigungumzug.ch
 agalma.ch
@@ -704,6 +705,7 @@ agebreaker.ch
 agec.ch
 agec2phases.ch
 agecab.ch
+agecalculator.ch
 agecare.ch
 agecareplus.ch
 agecheck.ch
@@ -964,7 +966,6 @@ agence-immobiliere-cologny.ch
 agence-immobiliere-confignon.ch
 agence-immobiliere-corsier.ch
 agence-immobiliere-eaux-vives.ch
-agence-immobiliere-estimation.ch
 agence-immobiliere-florissant.ch
 agence-immobiliere-geneve.ch
 agence-immobiliere-genthod.ch
@@ -1611,6 +1612,7 @@ agenda-schweiz.ch
 agenda-service.ch
 agenda-sion.ch
 agenda-social.ch
+agenda-societes.ch
 agenda-suisse.ch
 agenda-swiss.ch
 agenda-ticinese.ch
@@ -1859,6 +1861,7 @@ agentenwerkstatt.ch
 agentepiu.ch
 agenteria.ch
 agentes-culturelles.ch
+agentex.ch
 agentfabrik.ch
 agentfactory.ch
 agentfive.ch
@@ -3928,7 +3931,6 @@ agoramed.ch
 agoramondo.ch
 agoramundi.ch
 agoramurten.ch
-agoraphobie.ch
 agorapix.ch
 agorapro.ch
 agorarev.ch
@@ -5423,6 +5425,7 @@ agrotechseeland.ch
 agrotechvuille.ch
 agrotecost.ch
 agrotecsuisse.ch
+agrotecta.ch
 agroteczentral.ch
 agroteczhsh.ch
 agrotekag.ch

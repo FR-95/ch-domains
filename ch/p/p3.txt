@@ -18,6 +18,7 @@ p3art.ch
 p3b.ch
 p3connectors.ch
 p3construction.ch
+p3corner.ch
 p3d-health.ch
 p3d.ch
 p3e-steinbrech.ch

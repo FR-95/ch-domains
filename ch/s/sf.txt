@@ -214,6 +214,7 @@ sfasprachaufenthalt.ch
 sfasprachreisen.ch
 sfat.ch
 sfateh.ch
+sfatelier.ch
 sfauto.ch
 sfautomation.ch
 sfavrehornung.ch
@@ -879,6 +880,7 @@ sfssport-rvoz.ch
 sfst.ch
 sfstrahm.ch
 sfstrub.ch
+sfstudio.ch
 sfsunimarket-dev.ch
 sfsunimarket.ch
 sfsversoix.ch

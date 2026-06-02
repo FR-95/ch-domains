@@ -227,6 +227,7 @@ tv-search.ch
 tv-serie.ch
 tv-serien.ch
 tv-service.ch
+tv-servicefreiamt.ch
 tv-services.ch
 tv-shop.ch
 tv-signau.ch

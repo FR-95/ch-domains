@@ -66,7 +66,9 @@ lfcproduction.ch
 lfd-gardenatelier.ch
 lfd.ch
 lfda.ch
+lfde-im.ch
 lfde.ch
+lfdeim.ch
 lfdg.ch
 lfdgarden.ch
 lfdj.ch
@@ -97,6 +99,7 @@ lfg-kriens.ch
 lfg.ch
 lfge.ch
 lfgeneve.ch
+lfgenfersee.ch
 lfgfo.ch
 lfgholding.ch
 lfgnorthamerica.ch

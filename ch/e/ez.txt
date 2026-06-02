@@ -342,6 +342,7 @@ ezybank.ch
 ezybrands.ch
 ezycenter.ch
 ezycloud.ch
+ezycode.ch
 ezyconnect.ch
 ezycount.ch
 ezydev.ch
@@ -352,6 +353,7 @@ ezyfactures.ch
 ezyfin.ch
 ezyfinance.ch
 ezyhotel.ch
+ezyhub.ch
 ezyinvoice.ch
 ezyma.ch
 ezymeta.ch
@@ -365,6 +367,8 @@ ezyrechnung.ch
 ezyroller.ch
 ezyshop.ch
 ezysolutions.ch
+ezystudio.ch
+ezysuite.ch
 ezytax.ch
 ezytekt.ch
 ezyx.ch

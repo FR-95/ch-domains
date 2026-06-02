@@ -689,6 +689,7 @@ offertenhaschi.ch
 offertenheld.ch
 offertenhelden.ch
 offertenhero.ch
+offertenheute.ch
 offertenkontrolle.ch
 offertenmoving.ch
 offertenow.ch
@@ -699,6 +700,7 @@ offertenportal.ch
 offertenprofi.ch
 offertenrechner.ch
 offertenschweiz.ch
+offertenscout.ch
 offertenscout24.ch
 offertenservice.ch
 offertensuche.ch
@@ -1972,7 +1974,6 @@ offres-speciales.ch
 offres-systemes-solaires.ch
 offres-telecom.ch
 offres.ch
-offresassurance.ch
 offrescanal.ch
 offrescuisines.ch
 offresdemploi.ch

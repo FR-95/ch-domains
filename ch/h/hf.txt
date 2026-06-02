@@ -113,6 +113,7 @@ hf1988.ch
 hf2030.ch
 hf25.ch
 hf3.ch
+hf4.ch
 hf5.ch
 hf5js.ch
 hf8.ch

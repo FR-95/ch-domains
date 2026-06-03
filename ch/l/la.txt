@@ -473,6 +473,7 @@ la-creme-cosmetics.ch
 la-creperie.ch
 la-criniere-lausanne.ch
 la-croisee-des-mondes.ch
+la-croisee-des-sports.ch
 la-croisette.ch
 la-croix-blanche.ch
 la-croix-federale.ch
@@ -813,7 +814,6 @@ la-lampe-a-huile.ch
 la-lampe-solaire.ch
 la-lanche.ch
 la-land.ch
-la-laura.ch
 la-lavande.ch
 la-laverie.ch
 la-lecherette.ch
@@ -1165,7 +1165,9 @@ la-pepite-vegetale.ch
 la-pepite.ch
 la-perche-loe.ch
 la-pergola-bioclimatique.ch
+la-pergola-geneve.ch
 la-pergola-solaire.ch
+la-pergola-valais.ch
 la-pergola-winterthur.ch
 la-pergola-winti.ch
 la-pergola.ch
@@ -1766,6 +1768,7 @@ la-vie-en-verre.ch
 la-vie-enrose.ch
 la-vie-est-belle-massage.ch
 la-vie-est-belle-massages.ch
+la-vie-est-belle.ch
 la-vie-est-bizarre.ch
 la-vie-harmonie.ch
 la-vie-microscopique-des-etangs.ch
@@ -1965,6 +1968,7 @@ laaxlog.ch
 laaxmountain.ch
 laaxmountains.ch
 laaxopen.ch
+laaxpads.ch
 laaxresort.ch
 laaxschool.ch
 laaxski.ch
@@ -3032,6 +3036,7 @@ labmobil.ch
 labnaturel.ch
 labneh.ch
 labness.ch
+labnest.ch
 labnet.ch
 labnetwork.ch
 labnexus.ch
@@ -4509,6 +4514,7 @@ lacanopee-ambilly.ch
 lacanopee-arbres.ch
 lacanopee.ch
 lacanopeecreations.ch
+lacanopeegaming.ch
 lacanova.ch
 lacanseminar.ch
 lacantarella.ch
@@ -5111,7 +5117,6 @@ lachevrotine.ch
 lachez-prise.ch
 lachfabrik.ch
 lachfang.ch
-lachfestival.ch
 lachfinance.ch
 lachgas-supply.ch
 lachgas-zahnarzt.ch
@@ -5651,6 +5656,7 @@ lacollana.ch
 lacollection-airfrance.ch
 lacollection.ch
 lacollectionbyleclubaccorhotels.ch
+lacollectionparis.ch
 lacollective.ch
 lacollectivedeprevoyance.ch
 lacollegiale.ch
@@ -6892,6 +6898,7 @@ ladonna.ch
 ladonnalab.ch
 ladonnee.ch
 ladope.ch
+ladoprime.ch
 lador.ch
 ladore.ch
 ladorishti.ch
@@ -7455,7 +7462,6 @@ laela.ch
 laelaps.ch
 laelgg.ch
 laelia-sushis.ch
-laeljadesigns.ch
 laellekeenig.ch
 laellekoenig.ch
 laelli-braeu.ch
@@ -7531,6 +7537,7 @@ laendlerparty.ch
 laendlerquartett-schmid.ch
 laendlerspektakel.ch
 laendlerwinter.ch
+laendlespin360.ch
 laendletattoo.ch
 laendletech.ch
 laendleumzug.ch
@@ -7735,7 +7742,6 @@ laeset-sunntige-erlach.ch
 laeset-sunntige.ch
 laesetspiez.ch
 laesetsunntige.ch
-laesh.ch
 laesi-huus.ch
 laespanola.ch
 laesplora-collection.ch
@@ -10381,6 +10387,7 @@ lakecake.ch
 lakecapital.ch
 lakechristmas.ch
 lakecity.ch
+lakecityconnection.ch
 lakecitystompersluzern.ch
 lakecloud.ch
 lakeclub.ch
@@ -11088,6 +11095,7 @@ lalberodimomo.ch
 lalberodipaola.ch
 lalbumdusport.ch
 lalchimiedelavie.ch
+lalchimiedesfleurs.ch
 lalchimiedurirecomedyclub.ch
 lalchimiste.ch
 lalchipatissiere.ch
@@ -11101,6 +11109,7 @@ laldsource.ch
 lale.ch
 laleart.ch
 lalearte.ch
+lalebybati.ch
 lalec.ch
 lalecheleague.ch
 lalecheliga.ch
@@ -12287,7 +12296,6 @@ lamdeo.ch
 lamdi.ch
 lamdo.ch
 lamdubois.ch
-lame-agit.ch
 lame-dissidente.ch
 lame-du-mistral.ch
 lame.ch
@@ -12841,6 +12849,7 @@ lamoth.ch
 lamothe.ch
 lamothreimann.ch
 lamotion.ch
+lamotisanne.ch
 lamoto.ch
 lamotra.ch
 lamott.ch
@@ -15446,7 +15455,6 @@ lang-chemie.ch
 lang-consulting.ch
 lang-daf.ch
 lang-dasbad.ch
-lang-elektroag.ch
 lang-elgg.ch
 lang-engineering.ch
 lang-etter-druckatelier.ch
@@ -16152,6 +16160,7 @@ langnauamalbis.ch
 langnauamalbis24.ch
 langnauer-bildhauerei.ch
 langnauer.ch
+langnauergruempi.ch
 langnauerli.ch
 langnauerliebe.ch
 langnauerliteratour.ch
@@ -16282,6 +16291,7 @@ language-exchange.ch
 language-gallery.ch
 language-in.ch
 language-integration.ch
+language-intelligence.ch
 language-lab.ch
 language-labs.ch
 language-links.ch
@@ -17537,6 +17547,7 @@ lapetiteferme.ch
 lapetiteflamme.ch
 lapetiteflammebleue.ch
 lapetiteflammedecaro.ch
+lapetitefleureuse.ch
 lapetitefleuriste.ch
 lapetitefolie.ch
 lapetitefoufoune.ch
@@ -19008,7 +19019,6 @@ larisimmobiliare.ch
 larissa-atz.ch
 larissa-cano.ch
 larissa-denis.ch
-larissa-dollenmeier.ch
 larissa-dominic-2026.ch
 larissa-gasser.ch
 larissa-gassmann.ch
@@ -20973,7 +20983,6 @@ lasertag-zuerich.ch
 lasertag.ch
 lasertagaarau.ch
 lasertagarena.ch
-lasertagbasel.ch
 lasertagfarm.ch
 lasertags.ch
 lasertagzuerich.ch
@@ -21158,7 +21167,6 @@ lashes-and-brows.ch
 lashes-brows-winterthur.ch
 lashes-by-alexandra.ch
 lashes-by-nikki.ch
-lashes-by-rin.ch
 lashes-massage.ch
 lashes-nails.ch
 lashes-shop.ch
@@ -21462,6 +21470,7 @@ laspiraledelavie.ch
 laspiraledelesprit.ch
 laspiraleinitiatique.ch
 lasplendida.ch
+lasporee.ch
 lasportiva.ch
 lasportive.ch
 lasportivegrim.ch
@@ -22232,6 +22241,7 @@ latavoladelpuck.ch
 latavoladeltempo.ch
 latavolagastro.ch
 latavolapronta.ch
+latavolata.ch
 latavolatabordillonne.ch
 latavolatadubourg.ch
 latavolataverbier.ch
@@ -27017,6 +27027,7 @@ lavonio.ch
 lavoo.ch
 lavopa.ch
 lavora.ch
+lavoraberatung.ch
 lavorainticino.ch
 lavorama.ch
 lavorare-da-casa.ch

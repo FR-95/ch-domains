@@ -456,7 +456,6 @@ e-boom.ch
 e-boost.ch
 e-booster.ch
 e-boot.ch
-e-bootsmotor.ch
 e-boss.ch
 e-bosshard.ch
 e-boulange.ch
@@ -2860,7 +2859,6 @@ e-sloum.ch
 e-smart-monitoring.ch
 e-smart.ch
 e-smog-ausleuchtung.ch
-e-smog-befreit.ch
 e-smog-check.ch
 e-smog-free.ch
 e-smog-frei.ch
@@ -3384,6 +3382,7 @@ e-wit.ch
 e-with-us.ch
 e-wohnen.ch
 e-wohnmobile.ch
+e-wohnpass.ch
 e-wok.ch
 e-woke.ch
 e-wol.ch

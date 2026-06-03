@@ -1181,7 +1181,6 @@ sicher-geht-das.ch
 sicher-geldinvestieren.ch
 sicher-geruestet.ch
 sicher-gesund.ch
-sicher-gkb.ch
 sicher-grenzenlos.ch
 sicher-guenstiger.ch
 sicher-heben.ch
@@ -2200,6 +2199,7 @@ sicker.ch
 sickerbelag.ch
 sickerbeton.ch
 sickergrube.ch
+sickgrip.ch
 sicking-events.ch
 sicking.ch
 sickinga.ch
@@ -4112,7 +4112,6 @@ sig-vitale.ch
 sig-waffenstiftung.ch
 sig-wohlen.ch
 sig-zentrum.ch
-sig-zug.ch
 sig.ch
 sig1.ch
 sig11.ch
@@ -7125,7 +7124,6 @@ silicea.ch
 silich.ch
 silicium-consulting.ch
 silicium-organique.ch
-silicium-solar.ch
 silicium-spirit.ch
 silicium.ch
 siliciumcarbid.ch
@@ -7244,7 +7242,6 @@ silium.ch
 silixara.ch
 silixmedical-solutions.ch
 silizium-parfums.ch
-silizium-solar.ch
 silizium.ch
 siliziumnitrid.ch
 siliziumwasser.ch
@@ -9171,7 +9168,6 @@ sima-safety.ch
 sima-schilder.ch
 sima-swiss.ch
 sima-transporte.ch
-sima-versand.ch
 sima.ch
 sima04.ch
 simaandi.ch
@@ -9331,6 +9327,7 @@ simbaluna.ch
 simbamatelas.ch
 simbamatratze.ch
 simbaoryx.ch
+simbaprint.ch
 simbar.ch
 simbarun.ch
 simbasco.ch
@@ -10048,7 +10045,6 @@ simon-immobilien.ch
 simon-immobilier.ch
 simon-infanger.ch
 simon-informatik.ch
-simon-investment.ch
 simon-jaeggi.ch
 simon-kaelin.ch
 simon-kaiser.ch
@@ -11449,6 +11445,7 @@ simonwrites.ch
 simonwuest.ch
 simonwunderlich.ch
 simonwunderlin.ch
+simonwyrsch.ch
 simonwyss.ch
 simonyoung.ch
 simonzangger.ch
@@ -12716,7 +12713,6 @@ simplytilt.ch
 simplytimeout.ch
 simplytiser.ch
 simplytizer.ch
-simplytool.ch
 simplytoski.ch
 simplytouch.ch
 simplytrade.ch
@@ -16514,6 +16510,7 @@ sisseln24.ch
 sissi-ag.ch
 sissi-dreu.ch
 sissi-franz.ch
+sissi-giovanni.ch
 sissi-in-concert.ch
 sissi-inconcert.ch
 sissi-live-in-concert.ch
@@ -17959,6 +17956,7 @@ siwfass.ch
 siwheiniger.ch
 siwi.ch
 siwico.ch
+siwis.ch
 siwise.ch
 siwit.ch
 siwo-it.ch

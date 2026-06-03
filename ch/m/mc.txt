@@ -696,7 +696,6 @@ mcd-zobrist.ch
 mcd-zueri.ch
 mcd.ch
 mcd28marketing.ch
-mcda.ch
 mcdakota.ch
 mcdaniel.ch
 mcdarchitecte.ch
@@ -1878,6 +1877,7 @@ mcustomskins.ch
 mcutestserver.ch
 mcv-treuhand.ch
 mcv.ch
+mcv2-luzern.ch
 mcva.ch
 mcvadvisory.ch
 mcvalposchiavo.ch

@@ -64,14 +64,12 @@ we-bike.ch
 we-biz-partners.ch
 we-biz.ch
 we-bl.ch
-we-bodensee.ch
 we-book.ch
 we-box.ch
 we-breathe.ch
 we-brocki.ch
 we-build.ch
 we-bus.ch
-we-business.ch
 we-by-volkswagen.ch
 we-capture.ch
 we-care.ch
@@ -321,7 +319,6 @@ we-will-see.ch
 we-wood.ch
 we-work.ch
 we-xlr8.ch
-we-zuerich.ch
 we1.ch
 we13.ch
 we1930.ch
@@ -877,6 +874,7 @@ wearparts.ch
 wearpay.ch
 wears.ch
 wearshop.ch
+wearsroka.ch
 weart.ch
 weartanners.ch
 wearte.ch
@@ -952,7 +950,6 @@ weautomobiles-remorques.ch
 weautomobiles.ch
 weav.ch
 weave-impact.ch
-weave-in.ch
 weave.ch
 weaved.ch
 weavedance.ch
@@ -1071,6 +1068,7 @@ web-banking.ch
 web-barrierefrei.ch
 web-barrierefreiheit.ch
 web-bau.ch
+web-bd-suisse.ch
 web-beispiel.ch
 web-bern.ch
 web-best.ch
@@ -1078,7 +1076,6 @@ web-bestattung.ch
 web-betreuung.ch
 web-biz.ch
 web-blitz.ch
-web-boom.ch
 web-boost.ch
 web-boutique.ch
 web-box.ch
@@ -4404,7 +4401,6 @@ webinvo.ch
 webio.ch
 webion.ch
 webipark-aarburg.ch
-webipark.ch
 webiplus.ch
 webiq.ch
 webique.ch
@@ -4634,6 +4630,7 @@ webliniers.ch
 weblink.ch
 weblinks.ch
 weblinkservices.ch
+weblinkx.ch
 weblinnk.ch
 weblio.ch
 weblion.ch
@@ -5470,7 +5467,6 @@ websec.ch
 websecaudit.ch
 websecaudits.ch
 websectests.ch
-websection.ch
 websecurity.ch
 websecurityscan.ch
 webseek.ch
@@ -5716,6 +5712,7 @@ webshop-agentur.ch
 webshop-anbieter.ch
 webshop-appenzell.ch
 webshop-arbon.ch
+webshop-autoteile.ch
 webshop-awards.ch
 webshop-beratung.ch
 webshop-check.ch
@@ -6283,6 +6280,7 @@ webstobler.ch
 webstoff.ch
 webston.ch
 webstone.ch
+webstooni.ch
 webstorage.ch
 webstore-abarth.ch
 webstore-alfaromeo.ch
@@ -6744,6 +6742,7 @@ webwerbung.ch
 webwerk-fricktal.ch
 webwerk-studio.ch
 webwerk.ch
+webwerkbasel.ch
 webwerke.ch
 webwerker.ch
 webwerkerei.ch
@@ -6958,7 +6957,6 @@ wechseljahre-neubeginn.ch
 wechseljahre-permamed.ch
 wechseljahre-seminar.ch
 wechseljahre.ch
-wechseljahrebegleiterin.ch
 wechseljahrecoaching.ch
 wechseljahrekraft.ch
 wechseljahrkraft.ch
@@ -7915,6 +7913,7 @@ weedchur.ch
 weedcleaner.ch
 weedclub.ch
 weedcompany.ch
+weedcompass.ch
 weedcontrol.ch
 weedcore.ch
 weedcorner.ch
@@ -8088,7 +8087,6 @@ weekend-shop.ch
 weekend-spass.ch
 weekend-tipp.ch
 weekend-tipps.ch
-weekend-training.ch
 weekend-treff.ch
 weekend-trip.ch
 weekend-trips.ch
@@ -8485,6 +8483,7 @@ wegaufnehmer.ch
 wegaw.ch
 wegbegleiter-hunde.ch
 wegbegleiter.ch
+wegbegleiterapp.ch
 wegbegleiterin-nufer.ch
 wegbegleiterinnen.ch
 wegbegleitung-ag.ch
@@ -10137,7 +10136,6 @@ weihnachtsmarktreiden.ch
 weihnachtsmarktuettligen.ch
 weihnachtsmarktvisp.ch
 weihnachtsmarktwinterthur.ch
-weihnachtsmarktzwingen.ch
 weihnachtsminis.ch
 weihnachtsmusik.ch
 weihnachtsopen.ch
@@ -10767,7 +10765,6 @@ weinbergerkonzerte.ch
 weinbergers.ch
 weinberggarage.ch
 weinbergglarus.ch
-weinbergpfirsich.ch
 weinbergrealestate.ch
 weinbergschnecke.ch
 weinbergstrasse.ch
@@ -13611,6 +13608,7 @@ welestasolutions.ch
 welevelup.ch
 weleweg.ch
 welex.ch
+welexgroup.ch
 welf-switzerland.ch
 welf.ch
 welfair.ch
@@ -14107,6 +14105,7 @@ wellingtoncollege.ch
 wellingtonfadebarbershop.ch
 wellingtonia.ch
 wellingtonpartners.ch
+wellingvale.ch
 wellinno.ch
 wellino.ch
 wellinstalled.ch
@@ -14971,7 +14970,6 @@ welmi.ch
 welmind.ch
 welmoa.ch
 welmon.ch
-welmora.ch
 welmove.ch
 welna.ch
 welnea.ch
@@ -18052,7 +18050,6 @@ werden-sie-spendionaer.ch
 werden-und-sein.ch
 werden-wachsen-sein.ch
 werden.ch
-werdenberg-agenda.ch
 werdenberg-aktuell.ch
 werdenberg-finanz.ch
 werdenberg-medien.ch
@@ -18060,11 +18057,9 @@ werdenberg-musikanten.ch
 werdenberg-news.ch
 werdenberg-rheintal.ch
 werdenberg-sarganserland.ch
-werdenberg-veranstaltungskalender.ch
 werdenberg.ch
 werdenberg24.ch
 werdenberg360grad.ch
-werdenbergagenda.ch
 werdenbergaktuell.ch
 werdenberger-binnenkanal.ch
 werdenberger-brothandwerk.ch
@@ -18085,7 +18080,6 @@ werdenberginstitut.ch
 werdenbergmedien.ch
 werdenbergnews.ch
 werdenbergonline.ch
-werdenbergveranstaltungskalender.ch
 werdendes-leben.ch
 werdendesleben.ch
 werdenfelserei.ch
@@ -19127,6 +19121,7 @@ werkzeug-akku.ch
 werkzeug-bau.ch
 werkzeug-experte.ch
 werkzeug-express.ch
+werkzeug-guru.ch
 werkzeug-handel.ch
 werkzeug-hersteller.ch
 werkzeug-kaufen.ch
@@ -19179,6 +19174,7 @@ werkzeugfabrik.ch
 werkzeugfee.ch
 werkzeugfuchs.ch
 werkzeuggeschaeft.ch
+werkzeugguru.ch
 werkzeughandel-kj.ch
 werkzeughandel.ch
 werkzeughandel24.ch
@@ -20480,13 +20476,25 @@ wespenbekaempfung-thun.ch
 wespenbekaempfung.ch
 wespenentfernen.ch
 wespenentfernenzuerich.ch
+wespenexperte-aargau.ch
+wespenexperte-basel.ch
+wespenexperte-luzern.ch
 wespenexperte-schweiz.ch
+wespenexperte-schwyz.ch
+wespenexperte-thurgau.ch
 wespenexperte-zh.ch
 wespenexperte-zuerich.ch
+wespenexperte-zug.ch
 wespenexperte.ch
 wespenexperte24.ch
 wespenexperte365.ch
+wespenexperteaargau.ch
+wespenexpertebasel.ch
+wespenexperteluzern.ch
 wespenexperten.ch
+wespenexperteschwyz.ch
+wespenexpertethurgau.ch
+wespenexpertezug.ch
 wespenfalle.ch
 wespenfang.ch
 wespenfeuerwehr-aarau.ch

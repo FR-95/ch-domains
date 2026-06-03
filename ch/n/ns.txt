@@ -2246,6 +2246,8 @@ ns1.jdns.ch
 ns1.jean-marc-yersin.ch
 ns1.jemeteste.ch
 ns1.jenix.ch
+ns1.jetzt-kochen.ch
+ns1.jetztkochen.ch
 ns1.jlldealpage.ch
 ns1.jlpgestion.ch
 ns1.jmc-software.ch
@@ -3769,7 +3771,6 @@ ns1.volleyuntervaz.ch
 ns1.vom-hof.ch
 ns1.vomhof.ch
 ns1.vonrohr.ch
-ns1.voodoo-puppe.ch
 ns1.voozette.ch
 ns1.vortexvision.ch
 ns1.vr-technics.ch
@@ -5568,6 +5569,8 @@ ns2.jdns.ch
 ns2.jean-marc-yersin.ch
 ns2.jemeteste.ch
 ns2.jenix.ch
+ns2.jetzt-kochen.ch
+ns2.jetztkochen.ch
 ns2.jjcr.ch
 ns2.jlldealpage.ch
 ns2.jlpgestion.ch
@@ -7030,7 +7033,6 @@ ns2.volleyuntervaz.ch
 ns2.vom-hof.ch
 ns2.vomhof.ch
 ns2.vonrohr.ch
-ns2.voodoo-puppe.ch
 ns2.voozette.ch
 ns2.vortexvision.ch
 ns2.vr-technics.ch

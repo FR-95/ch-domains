@@ -1936,6 +1936,7 @@ wohngruppe-enzian.ch
 wohngruppe-felsberg.ch
 wohngruppe-meltingen.ch
 wohngruppe-neuwies.ch
+wohngruppe-noreia.ch
 wohngruppe-roessli.ch
 wohngruppe.ch
 wohngruppen-lattenberg.ch
@@ -3279,6 +3280,7 @@ wohnungsrenovierung.ch
 wohnungssanierung.ch
 wohnungsschluessel.ch
 wohnungsscout.ch
+wohnungsservice.ch
 wohnungssuche-rel-ex.ch
 wohnungssuche-schweiz.ch
 wohnungssuche.ch
@@ -3797,7 +3799,6 @@ wolfacker.ch
 wolfackerstrasse.ch
 wolfactivities.ch
 wolfadlerbaerundpartner.ch
-wolfagency.ch
 wolfagspiez.ch
 wolfandman.ch
 wolfangel.ch
@@ -3844,7 +3845,6 @@ wolfclaw-airsoft.ch
 wolfcoaching.ch
 wolfcoiffeur.ch
 wolfcoin.ch
-wolfcollection.ch
 wolfcons.ch
 wolfconsulting.ch
 wolfcontainer.ch
@@ -6099,7 +6099,6 @@ woodie.ch
 woodies.ch
 woodiez.ch
 woodify.ch
-woodigo.ch
 woodikat.ch
 woodinc.ch
 woodington.ch
@@ -7402,7 +7401,6 @@ workbase1.ch
 workbase46.ch
 workbase53.ch
 workbaseag.ch
-workbeat.ch
 workbee.ch
 workbeing.ch
 workben.ch
@@ -8124,6 +8122,7 @@ workspace-rheintal.ch
 workspace-schwerzenbach.ch
 workspace-seidenweg.ch
 workspace-service-mail.ch
+workspace-solutions.ch
 workspace-synonyme-test.ch
 workspace-team-test-commande1.ch
 workspace-team-test-commande2.ch

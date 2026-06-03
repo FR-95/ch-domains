@@ -1333,6 +1333,7 @@ eigentakt.ch
 eigental.ch
 eigentalstrasse17.ch
 eigentanz.ch
+eigente.ch
 eigentech.ch
 eigentext.ch
 eigenthal-historic.ch
@@ -2388,7 +2389,6 @@ einfach-helvetia.ch
 einfach-hoeren.ch
 einfach-holz.ch
 einfach-hund.ch
-einfach-hurra.ch
 einfach-ich.ch
 einfach-ilias.ch
 einfach-immo.ch
@@ -2573,7 +2573,6 @@ einfach365und.ch
 einfach3d.ch
 einfachachtsam.ch
 einfachaddicted.ch
-einfachaktuell.ch
 einfachakustik.ch
 einfachaldi.ch
 einfachanders-film.ch
@@ -2668,6 +2667,7 @@ einfache-sprache-basel.ch
 einfache-sprache.ch
 einfache-texte.ch
 einfache-webseite.ch
+einfache-zeiterfassung-schweiz.ch
 einfache-zeiterfassung.ch
 einfachearbeit.ch
 einfacheasy.ch
@@ -3165,6 +3165,7 @@ eingegenueber.ch
 eingeglast.ch
 eingeheizt.ch
 eingeladen.ch
+eingeliebt.ch
 eingemacht.ch
 eingemittet.ch
 eingepackt.ch
@@ -4299,7 +4300,6 @@ eintrag-gratis-schulung.ch
 eintrag-xl.ch
 eintrag.ch
 eintragen.ch
-eintragservice.ch
 eintragungskosten.ch
 eintragxl.ch
 eintraum.ch
@@ -4625,6 +4625,8 @@ einzikartig.ch
 einzimmer.ch
 einzimmerwohnung.ch
 einzix.ch
+einzly-schweiz.ch
+einzly-team.ch
 einzly.ch
 einzonungsmoratorium.ch
 einzs.ch

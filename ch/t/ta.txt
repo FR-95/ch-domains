@@ -105,6 +105,7 @@ taafricanfood.ch
 taafs.ch
 taag.ch
 taagg.ch
+taagroup.ch
 taahirajewels.ch
 taaholz.ch
 taakandart.ch
@@ -365,7 +366,6 @@ tabea.ch
 tabeaamacher.ch
 tabeaandres.ch
 tabeaapfel.ch
-tabeabangoret.ch
 tabeaduerr.ch
 tabeaeccher.ch
 tabeafeuz.ch
@@ -957,6 +957,7 @@ tacforce.ch
 tacforge.ch
 tacgear.ch
 tacgeneva.ch
+tacgroup.ch
 tach-swiss.ch
 tacha.ch
 tachance.ch
@@ -2237,7 +2238,6 @@ tagesfamilien-bodensee.ch
 tagesfamilien-emme-plus.ch
 tagesfamilien-ettingen.ch
 tagesfamilien-frauenfeld.ch
-tagesfamilien-gantrisch.ch
 tagesfamilien-glarnerland.ch
 tagesfamilien-glattfelden.ch
 tagesfamilien-gossau-und-umgebung.ch
@@ -2273,7 +2273,6 @@ tagesfamilien.ch
 tagesfamilienlenzburg.ch
 tagesfamilienlyss.ch
 tagesfamilienverein-aadorf.ch
-tagesfamilienverein-gantrisch.ch
 tagesfamilienwinterthur.ch
 tagesfamilieschwalbennest.ch
 tagesfamiliewolkenfreunde.ch
@@ -2773,6 +2772,7 @@ tagranita.ch
 tagrisso.ch
 tagrit.ch
 tagrja.ch
+tagroup.ch
 tags-against-crime.ch
 tags.ch
 tags4farm.ch
@@ -4615,6 +4615,7 @@ talentmarkt.ch
 talentmatch.ch
 talentmatcher.ch
 talentmatters.ch
+talentmirror.ch
 talentmixer.ch
 talentmore.ch
 talentnest.ch
@@ -5206,7 +5207,6 @@ tallowitz.ch
 tallowrheintal.ch
 tallows.ch
 tallrik.ch
-tallserenity.ch
 tallshipfriends.ch
 talltree.ch
 talltrees-gmbh.ch
@@ -6868,7 +6868,6 @@ taniahoerler.ch
 taniahoesli.ch
 taniahonla.ch
 tanialehmann.ch
-taniamesserli.ch
 taniamoretto.ch
 taniapraz.ch
 taniareiss.ch
@@ -7812,6 +7811,7 @@ tanneskis.ch
 tannespetz.ch
 tannetrachselwald.ch
 tanneurs.ch
+tannewaegzunft.ch
 tannezapfe.ch
 tannhaeusergate.ch
 tannhain.ch
@@ -8039,7 +8039,6 @@ tanti-diani.ch
 tanti.ch
 tantien.ch
 tantills.ch
-tantimeeh.ch
 tantine.ch
 tantinet.ch
 tantmassage.ch
@@ -8736,6 +8735,7 @@ tanzklar.ch
 tanzkleid.ch
 tanzkleider.ch
 tanzkleidung.ch
+tanzklub.ch
 tanzkollektiv.ch
 tanzkraft.ch
 tanzkrank.ch
@@ -11216,6 +11216,7 @@ tasklion.ch
 taskly-board.ch
 taskly.ch
 taskmanagement.ch
+taskmanager.ch
 taskmarket.ch
 taskmatch.ch
 taskmate.ch
@@ -12235,7 +12236,6 @@ tattoo-beratung.ch
 tattoo-bern.ch
 tattoo-bewertung.ch
 tattoo-boys.ch
-tattoo-brugg.ch
 tattoo-bucht.ch
 tattoo-convention.ch
 tattoo-conventions.ch
@@ -13292,7 +13292,6 @@ taus.ch
 tausaal.ch
 tausch-bar.ch
 tausch-bilder.ch
-tausch-dich-aus.ch
 tausch-dvd.ch
 tausch-ecke.ch
 tausch-es.ch
@@ -13444,6 +13443,7 @@ tautropfen.ch
 tautus.ch
 tautzenberger.ch
 tauweb.ch
+tauwerk.ch
 taux-de-change.ch
 taux-hypothecaire.ch
 taux-hypothecaires.ch
@@ -15678,6 +15678,7 @@ taxisympa.ch
 taxit.ch
 taxitag.ch
 taxitasin.ch
+taxitaxi.ch
 taxitbl.ch
 taxiteasy.ch
 taxitell.ch

@@ -744,7 +744,6 @@ blackcotton.ch
 blackcottonmanagement.ch
 blackcow.ch
 blackcreek.ch
-blackcross.ch
 blackcrow.ch
 blackcrows.ch
 blackcrystal.ch
@@ -2952,7 +2951,6 @@ blauburgunderland.ch
 blauburgunderlandclub.ch
 blaue-ente.ch
 blaue-flecken.ch
-blaue-flotte.ch
 blaue-l.ch
 blaue-landwirtschaft.ch
 blaue-oase.ch
@@ -3037,6 +3035,7 @@ blauerstern.ch
 blauertactical.ch
 blauerweihnachtsmann.ch
 blauerzilbaum.ch
+blaues-gold.ch
 blaues-haus.ch
 blaues-kreuz.ch
 blauesamichlaus.ch
@@ -4814,7 +4813,6 @@ blickroulette.ch
 blickrulete.ch
 blickschutz.ch
 blickshop.ch
-blicksilber.ch
 blickslots.ch
 blickslotz.ch
 blickspiel.ch
@@ -5016,7 +5014,6 @@ blindenwerkstatt.ch
 blinderfleck.ch
 blindfest.ch
 blindfis.ch
-blindfisch.ch
 blindfish.ch
 blindflug.ch
 blindfootball.ch
@@ -5705,6 +5702,7 @@ blmt.ch
 bln-zentralschweiz.ch
 bln.ch
 blnb.ch
+blncostruzioni.ch
 blnd.ch
 blndd.ch
 blndeiia.ch
@@ -9549,7 +9547,6 @@ bluestore.ch
 bluestories.ch
 bluestrategy.ch
 bluestray.ch
-bluestreak-shirt.ch
 bluestreaming.ch
 bluestreamlaser.ch
 bluestreet.ch

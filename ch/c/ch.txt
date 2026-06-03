@@ -2813,6 +2813,7 @@ chaletpalace.ch
 chaletpanorama.ch
 chaletpanoramagstaad.ch
 chaletpapillon.ch
+chaletpaprika.ch
 chaletparahyangan.ch
 chaletpark-edelweiss.ch
 chaletpark-rona.ch
@@ -3114,6 +3115,7 @@ challenge-ag.ch
 challenge-arena.ch
 challenge-automobile.ch
 challenge-baselland.ch
+challenge-broyard.ch
 challenge-camps-verein.ch
 challenge-cars.ch
 challenge-climat.ch
@@ -3390,7 +3392,6 @@ chambre-a-louer.ch
 chambre-d-hote.ch
 chambre-d-hotes.ch
 chambre-directe.ch
-chambre-douce.ch
 chambre-experts.ch
 chambre-fiduciaire.ch
 chambre-fiduciaires.ch
@@ -5487,6 +5488,7 @@ charge-up-your-day.ch
 charge-up.ch
 charge.ch
 charge2bike.ch
+charge2ride.ch
 charge365.ch
 chargeable.ch
 chargeandpay.ch
@@ -5744,6 +5746,7 @@ charitys.ch
 charityshop.ch
 charitysmash.ch
 charitywalk.ch
+charitywear.ch
 charityweltrekord.ch
 charityworks.ch
 charivari-shop.ch
@@ -7082,6 +7085,7 @@ chat4sex.ch
 chat4u.ch
 chat64.ch
 chat9.ch
+chata.ch
 chatabacus.ch
 chatabenteuer.ch
 chatadmin.ch
@@ -9412,6 +9416,7 @@ cheezyflow.ch
 cheezykebap.ch
 cheezzii.ch
 chef-11.ch
+chef-a-domicile.ch
 chef-academy.ch
 chef-alain.ch
 chef-alps.ch
@@ -11092,6 +11097,7 @@ chestonagimmo.ch
 chestoria.ch
 chestro.ch
 chestror.ch
+chestwall-workshop-basel.ch
 chestwoodcoons.ch
 chet.ch
 chetan-rani-calluna.ch
@@ -11193,7 +11199,6 @@ chevalier-duverneuil.ch
 chevalier-electricite.ch
 chevalier-events.ch
 chevalier-family.ch
-chevalier-gmbh.ch
 chevalier-gourmand.ch
 chevalier-management.ch
 chevalier-rh.ch
@@ -13161,6 +13166,7 @@ chiesadimogno.ch
 chiesaepartners.ch
 chiesaevangelicariformata.ch
 chiesainrete.ch
+chiesakabod.ch
 chiesalarocca.ch
 chiesalogos.ch
 chiesamogno.ch
@@ -13822,6 +13828,7 @@ chilli-chef.ch
 chilli-chocolate.ch
 chilli-express.ch
 chilli-handel.ch
+chilli-holding.ch
 chilli-hot.ch
 chilli-mind.ch
 chilli-planzen.ch
@@ -13936,7 +13943,6 @@ chillrausch.ch
 chillride.ch
 chills-mal.ch
 chills.ch
-chillsessel.ch
 chillsleep.ch
 chillsmal.ch
 chillsmau.ch
@@ -15022,7 +15028,6 @@ chirips-it-support.ch
 chiriqui.ch
 chirivi-michel.ch
 chirivi.ch
-chirlib.ch
 chirlrecords.ch
 chirly.ch
 chirmat.ch
@@ -15673,7 +15678,6 @@ chirurgieplus.ch
 chirurgiepraxis.ch
 chirurgiereconstructrice.ch
 chirurgierefractive.ch
-chirurgiereinach.ch
 chirurgierobotique.ch
 chirurgies.ch
 chirurgiesein.ch
@@ -15714,7 +15718,6 @@ chirurgo-plastico-lugano.ch
 chirurgo-plastico.ch
 chirurgo.ch
 chirurgoplasticolugano.ch
-chirurlib.ch
 chirutec.ch
 chirweb.ch
 chirwin.ch
@@ -15954,6 +15957,7 @@ chlapfgas.ch
 chlapfgassfaeger.ch
 chlapi01.ch
 chlarc.ch
+chlario.ch
 chlarsen.ch
 chlastat.ch
 chlatsche.ch
@@ -16916,7 +16920,6 @@ chocolate-kenzi.ch
 chocolate-land.ch
 chocolate-manufacture.ch
 chocolate-masters.ch
-chocolate-mit-herz.ch
 chocolate-outlet.ch
 chocolate-passion.ch
 chocolate-shop.ch
@@ -19682,7 +19685,6 @@ christeninderschweiz.ch
 christeninformatica.ch
 christeninhuttwil.ch
 christeninterior.ch
-christenjakob.ch
 christenkaelte.ch
 christenmetall.ch
 christenmichael.ch
@@ -22456,7 +22458,6 @@ chriszemp-hypnose.ch
 chriszeyer.ch
 chriszinsli.ch
 chriszockt.ch
-chritophkuehn.ch
 chritto.ch
 chritz.ch
 chrivero.ch
@@ -24007,7 +24008,6 @@ churchtrail.ch
 churchweek.ch
 churchworks.ch
 churer-advent.ch
-churer-brot.ch
 churer-fasnacht.ch
 churer-gas.ch
 churer-genussmission.ch
@@ -24030,7 +24030,6 @@ churer62er.ch
 chureradvent.ch
 chureraerzteverein.ch
 churerbier.ch
-churerbrot.ch
 churerdanceaward.ch
 churerdent.ch
 churerdeutsch.ch
@@ -24146,6 +24145,7 @@ churtourism.ch
 churtourismus.ch
 churunihockey.ch
 churunited.ch
+churwalden-app.ch
 churwalden-tourismus.ch
 churwalden-vereint.ch
 churwalden.ch
@@ -24350,6 +24350,7 @@ chzahnd.ch
 chzamb.ch
 chzh.ch
 chzi.ch
+chzrhom1.ch
 chzw.ch
 chzwicky.ch
 chzzk.ch

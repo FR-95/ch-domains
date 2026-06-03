@@ -1659,6 +1659,7 @@ phase3.ch
 phase4.ch
 phase41.ch
 phase44.ch
+phase4ward.ch
 phase5.ch
 phase52.ch
 phase5it.ch
@@ -5581,7 +5582,6 @@ photonenergy.ch
 photonenfalle.ch
 photonenheizung.ch
 photonenheizungen.ch
-photonerecords.ch
 photonet.ch
 photoneurostimulation.ch
 photonexa.ch
@@ -5615,7 +5615,6 @@ photonola.ch
 photonomade.ch
 photonotes.ch
 photonplatinum.ch
-photonrecords.ch
 photonsintriques.ch
 photonsolar.ch
 photonsproduction.ch
@@ -6462,6 +6461,7 @@ phygitalmarketing.ch
 phygitalsport.ch
 phygro.ch
 phyioduval.ch
+phyiso-health-reha.ch
 phyl.ch
 phyla.ch
 phylak.ch
@@ -8751,6 +8751,7 @@ physiogenius.ch
 physiogeraete.ch
 physiogereluder.ch
 physiogesund.ch
+physiogibloux.ch
 physiogibson.ch
 physiogivrins.ch
 physioglarus.ch
@@ -10435,7 +10436,6 @@ physiotherapieeichhof.ch
 physiotherapieeichhofwest.ch
 physiotherapieeinsiedeln.ch
 physiotherapieerpen.ch
-physiotherapiefalk.ch
 physiotherapiefalkenstein.ch
 physiotherapiefee.ch
 physiotherapiefeelgood.ch

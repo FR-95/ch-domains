@@ -1313,6 +1313,7 @@ klarfenetres.ch
 klarfenster.ch
 klarfilm.ch
 klarfin.ch
+klarfina.ch
 klarfinanz.ch
 klarfinestre.ch
 klarfit.ch
@@ -2406,7 +2407,6 @@ klavierunterricht.ch
 klavierunterrichtbasel.ch
 klavierunterrichtinbasel.ch
 klavierunterrichtluzern.ch
-klavierunterrichtplus.ch
 klavierunterrichtwinterthur.ch
 klavierunterrichtzuhause.ch
 klavierverkauf.ch
@@ -5121,7 +5121,6 @@ klimachaoten.ch
 klimacharta.ch
 klimachartazug.ch
 klimacheckup.ch
-klimachor.ch
 klimaclub.ch
 klimacluster.ch
 klimacoach.ch

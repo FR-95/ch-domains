@@ -253,7 +253,6 @@ dab-immo.ch
 dab-it.ch
 dab-mobile.ch
 dab-panel.ch
-dab-plus-autoradio.ch
 dab-plus-inside.ch
 dab-plus-radio.ch
 dab-plus.ch
@@ -501,7 +500,6 @@ dach-arch.ch
 dach-art.ch
 dach-atelier.ch
 dach-aufstockung.ch
-dach-auktionen.ch
 dach-ausbau.ch
 dach-bachmann.ch
 dach-baulogistik.ch
@@ -2103,6 +2101,7 @@ dafrappa.ch
 dafraud.ch
 dafreinigung.ch
 dafrey.ch
+dafservices-sa.ch
 daft-rider.ch
 daft.ch
 daftar.ch
@@ -2810,6 +2809,7 @@ dailypoker.ch
 dailyposition.ch
 dailypower.ch
 dailyprint.ch
+dailyprotein.ch
 dailypure.ch
 dailyrent.ch
 dailyrepeat.ch
@@ -3454,7 +3454,6 @@ dalinga.ch
 dalingua.ch
 dalini.ch
 dalino.ch
-dalinora.ch
 daliom.ch
 dalion.ch
 daliono.ch
@@ -3695,7 +3694,6 @@ dalreo.ch
 dals.ch
 dalsalentino.ch
 dalsantofussball.ch
-dalsar.ch
 dalsardo.ch
 dalsogno.ch
 dalson.ch
@@ -3707,7 +3705,6 @@ dalticines.ch
 daltix.ch
 dalto.ch
 daltoag.ch
-dalton-cosmetic.ch
 dalton.ch
 daltonico.ch
 daltonisme.ch
@@ -10985,7 +10982,6 @@ das-leben-besser-leben.ch
 das-leben-der-heiligen.ch
 das-leben-entspannt-sehen.ch
 das-leben-feiern-spiez.ch
-das-leben-ist-schoen.ch
 das-leben-ruft.ch
 das-lektorat.ch
 das-lernen-lernen.ch
@@ -11381,6 +11377,7 @@ dasbesteimnapf.ch
 dasbesteindir.ch
 dasbestekommtnoch.ch
 dasbestelebensmittelderwelt.ch
+dasbestellsystem.ch
 dasbestenetz.ch
 dasbesteodernichts.ch
 dasbestevongestern.ch
@@ -11754,6 +11751,7 @@ dashandzentrum.ch
 dashatgutgetan.ch
 dashauptquartier.ch
 dashaus.ch
+dashaus4.ch
 dashausamsee.ch
 dashausderkunst.ch
 dashausdermoeglichkeiten.ch
@@ -11782,6 +11780,7 @@ dashboard-suisse.ch
 dashboard-svizzera.ch
 dashboard-switzerland.ch
 dashboard-upgrraid.ch
+dashboard-vd.ch
 dashboard-wps.ch
 dashboard.ch
 dashboard24.ch
@@ -13132,6 +13131,7 @@ databreach.ch
 databreaches.ch
 databricks.ch
 databridge.ch
+databridgegroup.ch
 databroker.ch
 databs.ch
 databunker.ch
@@ -13264,7 +13264,6 @@ datacompliance.ch
 datacon.ch
 dataconcept.ch
 dataconference.ch
-dataconform.ch
 dataconnect.ch
 datacons.ch
 dataconsult.ch
@@ -15757,6 +15756,7 @@ davesoft.ch
 davespengeler.ch
 davesrecipes.ch
 davestevens.ch
+davesusi.ch
 davet-bauplanungen.ch
 davet.ch
 davetconsulting.ch
@@ -15928,6 +15928,7 @@ david-ncl.ch
 david-nguyen.ch
 david-norman.ch
 david-papaux.ch
+david-peters.ch
 david-pflugi.ch
 david-pires.ch
 david-portfolio.ch
@@ -16356,6 +16357,7 @@ davidherbertschiller.ch
 davidherm.ch
 davidherren.ch
 davidhersche.ch
+davidherve.ch
 davidherz.ch
 davidherzig.ch
 davidherzog.ch

@@ -284,7 +284,6 @@ ewg-graubuenden.ch
 ewg-jsf.ch
 ewg-opus-2.ch
 ewg-opus.ch
-ewg-ost.ch
 ewg-sa.ch
 ewg-winterthur.ch
 ewg-winti.ch
@@ -502,6 +501,7 @@ ewoftringen.ch
 ewohlwend.ch
 ewohnen.ch
 ewohnmobil.ch
+ewohnpass.ch
 ewok-factory.ch
 ewok.ch
 ewoki.ch

@@ -368,7 +368,6 @@ orange-blue.ch
 orange-box.ch
 orange-business.ch
 orange-button.ch
-orange-cleaning.ch
 orange-davos-pizzeria-kebab-davos-platz.ch
 orange-davos.ch
 orange-diamond.ch
@@ -688,6 +687,7 @@ orax.ch
 oray.ch
 oraya-coaching.ch
 oraya.ch
+orayaconsulting.ch
 orayen.ch
 orayki.ch
 oraylis.ch
@@ -4120,6 +4120,7 @@ orlando-homeopathe.ch
 orlando-homeopathie.ch
 orlando-ihrmalerhandwerk.ch
 orlando-industrial.ch
+orlando-karikaturen.ch
 orlando-maroquinier.ch
 orlando-parks.ch
 orlando-ravicini.ch
@@ -6628,6 +6629,8 @@ orvahealth.ch
 orval.ch
 orvalia.ch
 orvalis.ch
+orvalu-care.ch
+orvalu.ch
 orvan.ch
 orvantis.ch
 orvayo.ch

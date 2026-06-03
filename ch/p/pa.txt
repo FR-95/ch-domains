@@ -3024,7 +3024,6 @@ paillex.ch
 paillis.ch
 paillot.ch
 paillote-festival.ch
-paillote-geneva.ch
 paillote-geneve.ch
 paillote.ch
 pailly-1-2p.ch
@@ -3403,6 +3402,7 @@ pairity.ch
 pairly.ch
 pairme.ch
 pairo.ch
+pairquest.ch
 pairs-autistes.ch
 pairs.ch
 pairsevoir.ch
@@ -3734,7 +3734,6 @@ palace-luzern.ch
 palace-muerren.ch
 palace-murren.ch
 palace-pleasure.ch
-palace-services.ch
 palace-spa.ch
 palace.ch
 palacebar.ch
@@ -3935,7 +3934,6 @@ palas.ch
 palasa.ch
 palasio.ch
 palass.ch
-palasso.ch
 palast.ch
 palastblick.ch
 palastimmobilien.ch
@@ -4864,6 +4862,7 @@ palmlabs.ch
 palmmedia.ch
 palmnet.ch
 palmo.ch
+palmoel-nein.ch
 palmoel.ch
 palmoeldeklaration.ch
 palmoelfrei.ch
@@ -5979,7 +5978,6 @@ pandawok.ch
 pandawokasiantake-away.ch
 pandax.ch
 panday.ch
-pandayoga.ch
 pandaz.ch
 pandazino.ch
 pandb.ch
@@ -7897,6 +7895,7 @@ papa-power.ch
 papa-razzi.ch
 papa-sein.ch
 papa-shawarma.ch
+papa-solo.ch
 papa-tango.ch
 papa-thomas.ch
 papa-treff.ch
@@ -8744,6 +8743,7 @@ papierperfore.ch
 papierpilot.ch
 papierplus.ch
 papierpolster.ch
+papierpost.ch
 papierquelle.ch
 papierrauschen.ch
 papierrechner.ch
@@ -10147,6 +10147,7 @@ parameswaran.ch
 parameter-darstellung.ch
 parameter.ch
 parameterdarstellung.ch
+parameterpro.ch
 parametric-sds.ch
 parametric-solutions.ch
 parametric.ch
@@ -10955,6 +10956,7 @@ parenk.ch
 parens.ch
 parent-aise.ch
 parent-pedia.ch
+parent-solo.ch
 parent-these.ch
 parent.ch
 parenta.ch
@@ -10974,6 +10976,7 @@ parentatypique.ch
 parentbazaar.ch
 parentcare.ch
 parentcelib.ch
+parentcelibataire.ch
 parentclips.ch
 parentconcierge.ch
 parentdojo.ch
@@ -11071,7 +11074,6 @@ parentsdidactics.ch
 parentsendeuil.ch
 parentsetaddiction.ch
 parentsetaddictions.ch
-parentsformation.ch
 parentshift.ch
 parentship.ch
 parentsnight.ch
@@ -11365,7 +11367,6 @@ parfumotherapie.ch
 parfumoutlet.ch
 parfumparadies.ch
 parfumpersonnel.ch
-parfumprobe.ch
 parfumproben-bestellen.ch
 parfumproben.ch
 parfumprofi.ch
@@ -11441,6 +11442,7 @@ parhasard.ch
 parhelia.ch
 parhelion.ch
 parhelionaerospace.ch
+pari-architecture.ch
 pari-sportif-suisse.ch
 pari.ch
 paria.ch
@@ -13224,7 +13226,6 @@ parloca-geneve.ch
 parloca-vd.ch
 parlodel.ch
 parloirs.ch
-parloitaliano.ch
 parlometre.ch
 parlons-alcool.ch
 parlons-cannabis.ch
@@ -14785,9 +14786,11 @@ partrade.ch
 partridge.ch
 partrimoine-gruyeres.ch
 partronic.ch
+parts-24.ch
 parts-4cars.ch
 parts-center.ch
 parts-dealer.ch
+parts-doc.ch
 parts-for-you.ch
 parts-holding-europe.ch
 parts-maker.ch
@@ -14832,6 +14835,7 @@ partscout-24.ch
 partscout24.ch
 partsdata.ch
 partsdealer.ch
+partsdoc.ch
 partseurope.ch
 partsfinder.ch
 partsfinder24.ch
@@ -14860,6 +14864,7 @@ partsplus.ch
 partspluspro.ch
 partspool.ch
 partsshop.ch
+partsshop24.ch
 partsspa.ch
 partsspas.ch
 partsswiss.ch
@@ -15197,6 +15202,7 @@ partyfactory.ch
 partyfaeger.ch
 partyfan.ch
 partyfass.ch
+partyfavours.ch
 partyfee.ch
 partyferien.ch
 partyfeuerwerk.ch
@@ -16235,7 +16241,6 @@ pascalhaering.ch
 pascalhaeusermann.ch
 pascalhartmann.ch
 pascalhayozphotography.ch
-pascalhegner.ch
 pascalheimann.ch
 pascalheiniger.ch
 pascalheritier.ch
@@ -16290,7 +16295,6 @@ pascalkettner.ch
 pascalkiser.ch
 pascalknecht.ch
 pascalkobluk.ch
-pascalkoch.ch
 pascalkocher.ch
 pascalkocht.ch
 pascalkohler.ch
@@ -18150,7 +18154,6 @@ pasta-mobile.ch
 pasta-monica.ch
 pasta-more.ch
 pasta-natura-argovia.ch
-pasta-online-shop.ch
 pasta-online.ch
 pasta-passione.ch
 pasta-pasta.ch
@@ -23192,6 +23195,7 @@ pawarfinanzen.ch
 pawario.ch
 pawart.ch
 pawat.ch
+pawatelier.ch
 pawb.ch
 pawband.ch
 pawberry.ch
@@ -23359,6 +23363,7 @@ paws-hundesalon.ch
 paws-ion.ch
 paws-trails.ch
 paws.ch
+pawsai.ch
 pawsandbeans.ch
 pawsandclaws.ch
 pawsandco.ch

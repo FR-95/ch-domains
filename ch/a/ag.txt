@@ -306,6 +306,7 @@ agam-schweiz.ch
 agam.ch
 agama.ch
 agamah.ch
+agamanalytics.ch
 agamant.ch
 agamayoga.ch
 agame.ch
@@ -1275,7 +1276,6 @@ agencegreat.ch
 agencegrowth.ch
 agencehabefast.ch
 agenceharmonia.ch
-agencehaymoz.ch
 agenceia.ch
 agenceialausanne.ch
 agenceiasuisse.ch
@@ -1814,6 +1814,7 @@ agentbase.ch
 agentbeauty.ch
 agentben.ch
 agentboard.ch
+agentbooks.ch
 agentbot.ch
 agentbrain.ch
 agentbuilder.ch
@@ -1880,6 +1881,7 @@ agentia-automate.ch
 agentia.ch
 agentiai.ch
 agentiaplus.ch
+agentic-advertising.ch
 agentic-ai-consulting.ch
 agentic-ai-solutions.ch
 agentic-ai.ch
@@ -1896,11 +1898,14 @@ agentic-erp.ch
 agentic-jobs.ch
 agentic-kmu.ch
 agentic-lab.ch
+agentic-marketing.ch
 agentic-marketplace.ch
 agentic-media-products.ch
+agentic-media.ch
 agentic-mission.ch
 agentic-pulse.ch
 agentic-solutions.ch
+agentic-standards.ch
 agentic-swiss.ch
 agentic-systems.ch
 agentic-workbench.ch
@@ -1908,6 +1913,8 @@ agentic-workflow.ch
 agentic.ch
 agentica.ch
 agenticadvantage.ch
+agenticadvertising.ch
+agenticadvertisinghub.ch
 agenticai-a-a-s.ch
 agenticai.ch
 agenticanalytics.ch
@@ -1929,6 +1936,7 @@ agenticinsights.ch
 agenticit.ch
 agenticjob.ch
 agenticjobs.ch
+agenticlab.ch
 agenticlabs.ch
 agenticmanager.ch
 agenticmarketplace.ch
@@ -1946,6 +1954,7 @@ agentics.ch
 agenticsis.ch
 agenticsoftware.ch
 agenticsolutions.ch
+agenticstandards.ch
 agenticswitzerland.ch
 agenticsystems.ch
 agenticweb.ch
@@ -4233,6 +4242,8 @@ agrarmaschinenmiete.ch
 agrarmedien.ch
 agrarmo.ch
 agrarmodul.ch
+agrarmonitor-alternative-schweiz.ch
+agrarmonitor-alternative.ch
 agrarmonitor.ch
 agrarmonitoring.ch
 agrarmuseum.ch

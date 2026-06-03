@@ -2384,7 +2384,6 @@ budget-baer.ch
 budget-bau.ch
 budget-beratung-tg.ch
 budget-beratung.ch
-budget-beschriftungen.ch
 budget-bielbienne.ch
 budget-boden.ch
 budget-bodenbelaege.ch
@@ -3985,6 +3984,7 @@ buendner-gneis.ch
 buendner-golfverband.ch
 buendner-gueterbahn.ch
 buendner-hebammen.ch
+buendner-herrschaft.ch
 buendner-herz.ch
 buendner-honig.ch
 buendner-hotel.ch
@@ -6382,7 +6382,6 @@ bugatti-rimac.ch
 bugatti-segantini.ch
 bugatti-shoes.ch
 bugatti-smartwatches.ch
-bugatti-woman-shoes.ch
 bugatti-zuerich.ch
 bugatti-zurich.ch
 bugatti.ch
@@ -7002,6 +7001,7 @@ buildtelligent.ch
 buildtis.ch
 buildtrack.ch
 buildtrust.ch
+buildtrust360.ch
 buildup-magazin.ch
 buildup-witholi.ch
 buildup.ch
@@ -7074,6 +7074,7 @@ builtinquality.ch
 builtix.ch
 builtly.ch
 builtnotbought.ch
+builtonvaluemedia.ch
 builtronics.ch
 builttoperformstudio.ch
 builtvisible.ch
@@ -7484,7 +7485,6 @@ bullebaseballch.ch
 bullebasket.ch
 bullebox.ch
 bullebusinesscenter.ch
-bullecare.ch
 bullechess.ch
 bullecreative.ch
 bulleculture.ch
@@ -8271,7 +8271,6 @@ bundespersonalrecht.ch
 bundesplatz-luzern.ch
 bundesplatz-zug.ch
 bundesplatz.ch
-bundesplatz12zug.ch
 bundespolitik.ch
 bundespolizei.ch
 bundespostfa.ch
@@ -8750,6 +8749,7 @@ bunthalm.ch
 bunthund.ch
 bunti.ch
 buntiela.ch
+buntify.ch
 buntime.ch
 buntin.ch
 buntischundschwaerzlich.ch
@@ -8830,6 +8830,7 @@ buobag.ch
 buobenmatt.ch
 buobholzbau.ch
 buobmd.ch
+buobrohrleitungsbau.ch
 buobseehof.ch
 buobundschiess.ch
 buochmatt.ch
@@ -9329,6 +9330,7 @@ bureauruetter.ch
 bureausafrane.ch
 bureauschnauz.ch
 bureauschneider.ch
+bureausenn.ch
 bureauservice.ch
 bureausocial-bienne.ch
 bureauspitex.ch
@@ -9700,6 +9702,7 @@ burger-factory.ch
 burger-familie.ch
 burger-family.ch
 burger-ferienhaus.ch
+burger-festival.ch
 burger-freddy.ch
 burger-gartenbau.ch
 burger-group.ch
@@ -10122,7 +10125,6 @@ burghalde.ch
 burghaldebaden.ch
 burghaldelenzburg.ch
 burghalden.ch
-burghaldenpark-herznach.ch
 burghaldenweg.ch
 burghans.ch
 burghardt-anlagenbau.ch
@@ -13836,6 +13838,7 @@ bustamante.ch
 bustamove.ch
 bustan.ch
 bustapaga.ch
+bustarenna.ch
 bustaticino.ch
 bustaxi.ch
 bustconsulting.ch

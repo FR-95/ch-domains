@@ -62,7 +62,6 @@ du-fresne.ch
 du-fresnevh.ch
 du-fuer-alle.ch
 du-ga.ch
-du-geile-siech.ch
 du-hast-es-drauf.ch
 du-hode.ch
 du-hund.ch
@@ -886,10 +885,12 @@ ducata.ch
 ducatcapital.ch
 ducati-aargau.ch
 ducati-approved.ch
+ducati-archives.ch
 ducati-breganzona.ch
 ducati-club.ch
 ducati-frauenfeld.ch
 ducati-fribourg.ch
+ducati-labs.ch
 ducati-lugano.ch
 ducati-multistrada.ch
 ducati-occasion.ch
@@ -995,6 +996,7 @@ duchini.ch
 duchliranch.ch
 duchnusa.ch
 duchosal.ch
+duchoud.ch
 duchouds.ch
 duci-treuhand.ch
 duci.ch
@@ -3275,7 +3277,6 @@ duorainbow.ch
 duorealestate.ch
 duorelsig.ch
 duori.ch
-duorolandy.ch
 duoroll.ch
 duoromantica.ch
 duort.ch
@@ -4349,6 +4350,7 @@ dusky.ch
 duso-facility.ch
 duso-group.ch
 duso.ch
+dusoczky.ch
 dusoja.ch
 dusolaire.ch
 dusonchet-construction.ch

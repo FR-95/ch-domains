@@ -1151,7 +1151,6 @@ kochwunder.ch
 kochzeit.ch
 kochzeitschrift.ch
 kochzeitung.ch
-kochzentrum.ch
 kochzunft-tannzapfenland.ch
 kochzunft.ch
 kociani.ch
@@ -1491,7 +1490,6 @@ koelliker-ag.ch
 koelliker-consulting.ch
 koelliker-dms.ch
 koelliker-immobilien.ch
-koelliker-olimpio.ch
 koelliker-saibene.ch
 koelliker-schade.ch
 koelliker-service.ch
@@ -3890,6 +3888,7 @@ kollerit.ch
 kollerkaminbau.ch
 kollerkanal.ch
 kollerkendo.ch
+kollerkoller.ch
 kollerkosmetik.ch
 kollermail.ch
 kollermalerei.ch
@@ -7783,7 +7782,6 @@ konversational.ch
 konversionskraft.ch
 konversionsmassnahmen.ch
 konversionsoptimierung.ch
-konversum.ch
 konvert.ch
 konverter.ch
 konvertico.ch
@@ -7857,7 +7855,6 @@ konzept-greissler.ch
 konzept-immo.ch
 konzept-is-ag.ch
 konzept-is.ch
-konzept-kontrovers.ch
 konzept-kunst.ch
 konzept-mediation.ch
 konzept-nova.ch
@@ -10449,7 +10446,6 @@ kosmetikfachschule-online.ch
 kosmetikfachschule.ch
 kosmetikfachschulebeiderbasel.ch
 kosmetikfachschulen.ch
-kosmetikfachschulezurich.ch
 kosmetikfachtag.ch
 kosmetikfachverband.ch
 kosmetikfeeling.ch
@@ -11662,6 +11658,7 @@ kozan-geneve.ch
 kozan.ch
 kozangeneve.ch
 kozar-hr.ch
+kozar-immobilien.ch
 kozarac.ch
 kozarevic.ch
 kozb.ch

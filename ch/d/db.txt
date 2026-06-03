@@ -54,7 +54,6 @@ db-design.ch
 db-detailing.ch
 db-dev.ch
 db-diffusion.ch
-db-digital.ch
 db-dogbalance.ch
 db-domo.ch
 db-dosing.ch

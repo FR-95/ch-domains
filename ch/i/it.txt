@@ -890,6 +890,7 @@ it-sense.ch
 it-serv.ch
 it-server.ch
 it-service-abo.ch
+it-service-basel.ch
 it-service-desk.ch
 it-service-flatrate.ch
 it-service-gubler.ch
@@ -3050,7 +3051,6 @@ itlsw.ch
 itluke.ch
 itly.ch
 itm-alexandertechnik.ch
-itm-baensch.ch
 itm-bolligerreisen.ch
 itm-development.ch
 itm-group.ch
@@ -3968,7 +3968,6 @@ itsss.ch
 itssuisse.ch
 itssupport.ch
 itssvizzera.ch
-itsswissmade.ch
 itst-cloud.ch
 itst.ch
 itstaff.ch

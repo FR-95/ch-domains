@@ -633,6 +633,7 @@ bgs-management.ch
 bgs-nettoyage.ch
 bgs-service.ch
 bgs-so.ch
+bgs-stat.ch
 bgs-swissdemenagement.ch
 bgs-technic.ch
 bgs-tok.ch

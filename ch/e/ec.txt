@@ -965,7 +965,6 @@ echoesoffreedom.ch
 echoesofjapan.ch
 echoesoflife.ch
 echoesofreedom.ch
-echoesofroots.ch
 echoevent.ch
 echoevents.ch
 echoezine.ch
@@ -1044,6 +1043,7 @@ echopartner.ch
 echopartners.ch
 echoparts.ch
 echope.ch
+echopoint-radio.ch
 echopoint.ch
 echopolistirolo.ch
 echoposter.ch
@@ -1693,6 +1693,7 @@ eclatsdegrace.ch
 eclatsdemail.ch
 eclatsdevie.ch
 eclatsinterieurs.ch
+eclatsuisse.ch
 eclatswiss.ch
 eclatvalais.ch
 eclatvert.ch
@@ -2658,7 +2659,6 @@ ecocero.ch
 ecocert-imo.ch
 ecocert.ch
 ecocertas.ch
-ecocertify.ch
 ecocertiplan.ch
 ecocertis.ch
 ecocha.ch
@@ -2861,7 +2861,6 @@ ecodroit-conseils.ch
 ecodroit.ch
 ecodroitconseils.ch
 ecodrom.ch
-ecodrone.ch
 ecodrop.ch
 ecodrops.ch
 ecodrum.ch
@@ -4083,6 +4082,7 @@ ecolessuperieures.ch
 ecolesteiner-geneve.ch
 ecolesteiner-lausanne.ch
 ecolesteiner-yverdon.ch
+ecolesteinervevey.ch
 ecolesuisse.ch
 ecolesuisseallemand.ch
 ecolesuissedallemand.ch
@@ -4112,6 +4112,7 @@ ecoletheatre.ch
 ecoletheatremartigny.ch
 ecoletim.ch
 ecoletiopathie.ch
+ecoletoepfer.ch
 ecoletoepffer.ch
 ecoletremplin.ch
 ecoleuneviepluszen.ch
@@ -4576,6 +4577,7 @@ ecomoovesa.ch
 ecomotion.ch
 ecomoto-hochuli.ch
 ecomotrice.ch
+ecomoustique.ch
 ecomove.ch
 ecomovement.ch
 ecomover.ch
@@ -5695,6 +5697,7 @@ ecouterdieuensemble.ch
 ecoutesauvert.ch
 ecoutetesmains.ch
 ecoutetoi.ch
+ecouteur.ch
 ecouteurs.ch
 ecoutevoir.ch
 ecoutevoiraller.ch

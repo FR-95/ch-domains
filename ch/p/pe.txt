@@ -1733,7 +1733,6 @@ pedikuere.ch
 pedikure-ewaeugster.ch
 pedilab.ch
 pediland.ch
-pedilib.ch
 pedilounge.ch
 pedilux.ch
 pediman.ch
@@ -2466,7 +2465,6 @@ pegrolo.ch
 pegros.ch
 pegrowth.ch
 pegrum-jones.ch
-pegrus.ch
 pegsuisse.ch
 pegswitzerland.ch
 pegtechnology.ch
@@ -2494,6 +2492,7 @@ pehape.ch
 pehatec-ag.ch
 pehelpex.ch
 pehli.ch
+peho-web.ch
 peho.ch
 pehobe.ch
 pehost.ch
@@ -7004,7 +7003,6 @@ performancepro.ch
 performanceprocessbasel.ch
 performanceproject.ch
 performancepsychologie.ch
-performancepsychology.ch
 performancerecruiting.ch
 performancerent.ch
 performancerh.ch
@@ -7198,10 +7196,12 @@ pergola-espaceetlumiere.ch
 pergola-et-carport-solaire.ch
 pergola-et-carport.ch
 pergola-evolutive.ch
+pergola-fribourg.ch
 pergola-geneve.ch
 pergola-holz.ch
 pergola-line.ch
 pergola-nelya.ch
+pergola-neuchatel.ch
 pergola-ombrea.ch
 pergola-outdoor.ch
 pergola-panorama.ch
@@ -7222,6 +7222,7 @@ pergola-system.ch
 pergola-terrasse.ch
 pergola-thalhammer.ch
 pergola-valais.ch
+pergola-vaud.ch
 pergola-verkauf.ch
 pergola-x.ch
 pergola-xpert.ch
@@ -13052,7 +13053,6 @@ peters-reben.ch
 peters-schreibe.ch
 peters-schweiz.ch
 peters-shop.ch
-peters-soerenberg.ch
 peters-stories.ch
 peters-transporte.ch
 peters-travel.ch
@@ -13683,7 +13683,6 @@ petite-annonce.ch
 petite-arvine-de-fully.ch
 petite-arvine.ch
 petite-auberge.ch
-petite-box.ch
 petite-bulle.ch
 petite-camargue.ch
 petite-casba.ch
@@ -14831,6 +14830,7 @@ petrotech-broking.ch
 petrotrack.ch
 petrov-carrelage.ch
 petrov.ch
+petrova.ch
 petrovalaw.ch
 petrovi.ch
 petrovic-cloud.ch
@@ -14893,6 +14893,7 @@ pets-best.ch
 pets-harmony.ch
 pets-help.ch
 pets-in-balance.ch
+pets-island.ch
 pets-magazin.ch
 pets-natureline.ch
 pets-of-us.ch
@@ -15413,7 +15414,6 @@ pexi.ch
 pexidartinib.ch
 pexio.ch
 pexion.ch
-pexip.ch
 pexireklamen.ch
 pexito.ch
 pexl.ch

@@ -283,6 +283,7 @@ ldwy.ch
 ldx-graphics.ch
 ldx.ch
 ldxgraphics.ch
+ldxproduction.ch
 ldy.ch
 ldz-labo.ch
 ldz.ch

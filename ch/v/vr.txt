@@ -19,14 +19,12 @@ vr-brillen.ch
 vr-bscyb.ch
 vr-buddy.ch
 vr-bus.ch
-vr-business.ch
 vr-cas.ch
 vr-center-chur.ch
 vr-center.ch
 vr-centerbasel.ch
 vr-challenge-league.ch
 vr-chur.ch
-vr-city.ch
 vr-clinic.ch
 vr-coaching.ch
 vr-design.ch
@@ -39,8 +37,6 @@ vr-enbekon.ch
 vr-engineering.ch
 vr-equitypartner.ch
 vr-erleben.ch
-vr-escaperoom.ch
-vr-esport.ch
 vr-esports.ch
 vr-event.ch
 vr-experience.ch
@@ -51,7 +47,6 @@ vr-first.ch
 vr-forum.ch
 vr-gaming.ch
 vr-gewinnsparen.ch
-vr-golf.ch
 vr-gurten.ch
 vr-gym.ch
 vr-hackathon.ch
@@ -79,7 +74,6 @@ vr-marketing-sarl.ch
 vr-marketing-technology.ch
 vr-marketing.ch
 vr-mental.ch
-vr-minigolf.ch
 vr-motorsport.ch
 vr-movie.ch
 vr-nettoyage.ch
@@ -123,7 +117,6 @@ vr-sports.ch
 vr-store.ch
 vr-storenservice.ch
 vr-studio.ch
-vr-studios.ch
 vr-superleague.ch
 vr-support.ch
 vr-switzerland.ch
@@ -133,7 +126,6 @@ vr-tbglarus.ch
 vr-technics.ch
 vr-therapy.ch
 vr-touren.ch
-vr-tournament.ch
 vr-tours.ch
 vr-verwaltungsrat.ch
 vr-video.ch
@@ -250,7 +242,6 @@ vrboard.ch
 vrbrille.ch
 vrbrillen.ch
 vrbs.ch
-vrbusiness.ch
 vrc.ch
 vrcade.ch
 vrcafe.ch
@@ -543,7 +534,6 @@ vrmarketing.ch
 vrmbroker.ch
 vrmedia.ch
 vrmicroresinart.ch
-vrminigolf.ch
 vrml.ch
 vrmotion.ch
 vrmotorsport.ch
@@ -676,7 +666,6 @@ vrstar.ch
 vrstore.ch
 vrstream.ch
 vrstudio.ch
-vrstudios.ch
 vrswiss.ch
 vrsy.ch
 vrt-cours.ch

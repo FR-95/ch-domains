@@ -148,6 +148,7 @@ cdc-ge.ch
 cdc-global.ch
 cdc-lab.ch
 cdc-pelerinages.ch
+cdc-ra2025.ch
 cdc-sbb.ch
 cdc-spezialbau.ch
 cdc-tuning.ch

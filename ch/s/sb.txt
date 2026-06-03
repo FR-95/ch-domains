@@ -82,6 +82,7 @@ sb-itsupport.ch
 sb-joaillerie.ch
 sb-lab.ch
 sb-law.ch
+sb-legal.ch
 sb-lernplattform.ch
 sb-liebe.ch
 sb-limmatstrasse.ch
@@ -281,6 +282,7 @@ sbautohaus.ch
 sbautomobile.ch
 sbav.ch
 sbaw.ch
+sbawsh.ch
 sbaysag.ch
 sbaz.ch
 sbb-1mio.ch

@@ -1705,7 +1705,6 @@ diamondplus.ch
 diamondpoint.ch
 diamondpoker.ch
 diamondponys.ch
-diamondpooldisc.ch
 diamondprimer.ch
 diamondproof.ch
 diamondproperty.ch
@@ -2004,6 +2003,7 @@ dianarinderer.ch
 dianaromande.ch
 dianaruch.ch
 dianas-fahrschule.ch
+dianas-hairshop.ch
 dianas-kreativdesign.ch
 dianas-nagelservice.ch
 dianas-second-hand.ch
@@ -2847,6 +2847,7 @@ diction.ch
 dictionary.ch
 dictionaryofmusic.ch
 dictionnaire-du-jura.ch
+dictionnaire-immobilier.ch
 dictionnaire-politiquesociale.ch
 dictionnaire.ch
 dictionnairedelamusique.ch
@@ -4519,7 +4520,6 @@ die-montage-spezialisten.ch
 die-montage.ch
 die-monteure.ch
 die-montuere.ch
-die-monty-show.ch
 die-mormonen.ch
 die-motorraeder.ch
 die-muse.ch
@@ -4737,7 +4737,6 @@ die-rangerin.ch
 die-rasenberater.ch
 die-rationale.ch
 die-raumausstatter.ch
-die-raumbefreier.ch
 die-raumgestalterin.ch
 die-raumnutzer.ch
 die-raumplaner.ch
@@ -7589,6 +7588,7 @@ diemtigsolar.ch
 diemtigtal-tor.ch
 diemtigtal-tourismus.ch
 diemtigtal.ch
+diemtigtaler-raufliretour.ch
 diemtigtaler-schlitten.ch
 diemtigtaler.ch
 diemtigtalertrucktreff.ch
@@ -9156,6 +9156,7 @@ dietor.ch
 dietorbauer.ch
 dietotenhosen.ch
 dietouristiker.ch
+dietplunge.ch
 dietr.ch
 dietragtasche.ch
 dietrainingsgruppe.ch
@@ -9384,7 +9385,6 @@ dieuvousbenisse.ch
 dieva.ch
 dievase.ch
 dievasektomie.ch
-dieveganerie.ch
 dieveloschweiz.ch
 dieveranstaltung.ch
 dieveranstaltungstechnik.ch
@@ -9514,6 +9514,7 @@ dieweinbrater.ch
 dieweine.ch
 dieweinerei.ch
 dieweinerei1877.ch
+dieweinhalde.ch
 dieweinliste.ch
 dieweinpost.ch
 dieweinstube.ch
@@ -11513,6 +11514,7 @@ digital-kanal-tv.ch
 digital-kanzlei.ch
 digital-karma.ch
 digital-kassenbon.ch
+digital-klar.ch
 digital-kmu-meetup.ch
 digital-kmu.ch
 digital-knowledge-management.ch
@@ -11980,7 +11982,6 @@ digital-up.ch
 digital-uri.ch
 digital-user-adoption.ch
 digital-vc.ch
-digital-verbindet.ch
 digital-vergleich.ch
 digital-verlag.ch
 digital-vermaechtnis.ch
@@ -12671,7 +12672,6 @@ digitale-dekolonialisierung.ch
 digitale-demokratie.ch
 digitale-direkt-demokraten.ch
 digitale-eigentuemerversammlung.ch
-digitale-elite.ch
 digitale-energieberatung.ch
 digitale-engel.ch
 digitale-essensmarken.ch
@@ -12680,6 +12680,7 @@ digitale-events.ch
 digitale-exzellenz.ch
 digitale-fahrschule.ch
 digitale-feder.ch
+digitale-ferienplanung-software.ch
 digitale-feuerwehr.ch
 digitale-finanzberatung.ch
 digitale-fingerprint.ch
@@ -12828,6 +12829,7 @@ digitale-wirtschaft.ch
 digitale-wolke.ch
 digitale-zahnprothese.ch
 digitale-zahnprothesen.ch
+digitale-zeiterfassung.ch
 digitale-zeitung.ch
 digitale-zeitungen.ch
 digitale-zivilgesellschaft.ch
@@ -13068,13 +13070,13 @@ digitaler-schuelerausweis.ch
 digitaler-schulassistent.ch
 digitaler-schutz.ch
 digitaler-schweizer-franken.ch
-digitaler-schweizerpass.ch
 digitaler-selbstschutz.ch
 digitaler-sportverband.ch
 digitaler-staedtemonitor-schweiz.ch
 digitaler-staedtemonitor.ch
 digitaler-strafregisterauszug.ch
 digitaler-stress.ch
+digitaler-stundenzettel.ch
 digitaler-tacho.ch
 digitaler-tachograf.ch
 digitaler-telefonassistent.ch
@@ -13214,7 +13216,6 @@ digitales-tippspiel.ch
 digitales-treuhand.ch
 digitales-treuhandbuero.ch
 digitales-tuerschild.ch
-digitales-verbindet.ch
 digitales-verstaendnis.ch
 digitales-wirtschaftswunder.ch
 digitales.ch
@@ -13281,7 +13282,6 @@ digitalestherapeutikum.ch
 digitalestrategie.ch
 digitalestuerschild.ch
 digitalesuffizienz.ch
-digitalesverbindet.ch
 digitalesvermoegen.ch
 digitalesvorsorgezentrum.ch
 digitalesysteme.ch
@@ -14683,7 +14683,6 @@ digitalvc.ch
 digitalvents.ch
 digitalventures.ch
 digitalverband.ch
-digitalverbindet.ch
 digitalverbunden.ch
 digitalvererben.ch
 digitalvergleich.ch
@@ -15449,7 +15448,6 @@ dilanpolat.ch
 dilara.ch
 dilaraajeti.ch
 dilaraswiss.ch
-dilat.ch
 dilatation.ch
 dilate.ch
 dilator.ch
@@ -16257,7 +16255,6 @@ dina-untersee.ch
 dina-wohlwend.ch
 dina.ch
 dina4.ch
-dina4you.ch
 dinaa.ch
 dinabat.ch
 dinabianchi.ch
@@ -16897,7 +16894,6 @@ dinner4wau.ch
 dinner4you.ch
 dinneranddance.ch
 dinnerandsleep.ch
-dinnerathome.ch
 dinnerboje.ch
 dinnerbooking.ch
 dinnerbox.ch
@@ -16997,6 +16993,7 @@ dinoco.ch
 dinocoiffeur.ch
 dinodb.ch
 dinodemi.ch
+dinodish.ch
 dinodo.ch
 dinodoc.ch
 dinodog.ch
@@ -17579,7 +17576,6 @@ diplomatic-academy.ch
 diplomatic-care.ch
 diplomatic-documents.ch
 diplomatic-protection.ch
-diplomatic-radio.ch
 diplomatic-security-service.ch
 diplomatic-security.ch
 diplomatic-services.ch
@@ -18080,6 +18076,7 @@ directors-channel.ch
 directors-today.ch
 directors.ch
 directorsacademy.ch
+directorscollective.ch
 directorscut.ch
 directorsinstitute.ch
 directorstoday.ch
@@ -19268,7 +19265,6 @@ discover-goldenmoments.ch
 discover-h.ch
 discover-hp-mail.ch
 discover-innosuisse.ch
-discover-lucerne.ch
 discover-neuhausen.ch
 discover-pass.ch
 discover-rivercruises.ch
@@ -19410,7 +19406,6 @@ discoveryourvoice.ch
 discoveryplus.ch
 discoveryshop.ch
 discoveryswiss.ch
-discoverytour.ch
 discoverytours.ch
 discoveryvoyages.ch
 discoveryweb.ch
@@ -20063,6 +20058,7 @@ dispomedix.ch
 dispomedixs.ch
 dispomeister.ch
 dispomonitor.ch
+dispona.ch
 disponentagent.ch
 disponi.ch
 disponibelraum-mieten.ch
@@ -20500,7 +20496,6 @@ distrib.ch
 distribain.ch
 distribat.ch
 distribatec.ch
-distribeauty.ch
 distribel-design.ch
 distriboot.ch
 distribowl.ch

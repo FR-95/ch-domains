@@ -45,6 +45,7 @@ mm-companies.ch
 mm-compta.ch
 mm-comptadm.ch
 mm-computing.ch
+mm-connect.ch
 mm-consult.ch
 mm-consultancy.ch
 mm-consulting.ch
@@ -135,6 +136,7 @@ mm-mannhart.ch
 mm-marketing.ch
 mm-massagen.ch
 mm-massages-geneve.ch
+mm-match.ch
 mm-media.ch
 mm-mediaholding.ch
 mm-medizinischer-schreibservice.ch
@@ -510,6 +512,7 @@ mmedicale.ch
 mmedici.ch
 mmedics.ch
 mmedien.ch
+mmehr.ch
 mmeier.ch
 mmekeller.ch
 mmelaw.ch

@@ -1115,6 +1115,7 @@ thalmann-schreinerei.ch
 thalmann-services.ch
 thalmann-software.ch
 thalmann-spritzwerk.ch
+thalmann-tools.ch
 thalmann-treuhand.ch
 thalmann-weinbau.ch
 thalmann.ch
@@ -1135,7 +1136,9 @@ thalmannreinigung.ch
 thalmanns-schwarznasen-zucht.ch
 thalmannshaus.ch
 thalmannsteger.ch
+thalmanntools-alternative.ch
 thalmanntools.ch
+thalmanntoolsalternative.ch
 thalmannvroni-archiv.ch
 thalmannvroni.ch
 thalmannwebdesign.ch
@@ -2584,7 +2587,6 @@ the-modern-way-of-work.ch
 the-moment.ch
 the-momentum.ch
 the-monkey-crew.ch
-the-monty-show.ch
 the-moonwalk.ch
 the-moorings.ch
 the-moose.ch
@@ -3106,7 +3108,6 @@ the-vintage-garage.ch
 the-vintage-watch.ch
 the-virtual-family-office.ch
 the-visage.ch
-the-visibility-code.ch
 the-vision-within.ch
 the-vision.ch
 the-visitor.ch
@@ -3266,7 +3267,6 @@ the3rdchoice.ch
 the3rdmovie.ch
 the3undays.ch
 the40.ch
-the404store.ch
 the42.ch
 the4a-family.ch
 the4ce.ch
@@ -4613,7 +4613,6 @@ theatredumartolet.ch
 theatredupassage.ch
 theatredusaulerieur.ch
 theatredusentier.ch
-theatreduvidepoche.ch
 theatreencampagne.ch
 theatreenflammes.ch
 theatreentracte.ch
@@ -5549,6 +5548,7 @@ thecamperco.ch
 thecanadashop.ch
 thecanarylife.ch
 thecancercoach.ch
+thecandy-shop.ch
 thecandycarneval.ch
 thecandyman.ch
 thecandyshop.ch
@@ -6271,7 +6271,6 @@ thedaltons.ch
 thedammannfreres.ch
 thedamngood.ch
 thedan.ch
-thedance.ch
 thedanceacademy.ch
 thedancecamp.ch
 thedancelab.ch
@@ -6657,6 +6656,7 @@ theeramclinic.ch
 theeramclinicbotox.ch
 theerbs.ch
 theerotic.ch
+theeroticreview.ch
 thees.ch
 theesan-ai.ch
 theescape.ch
@@ -10061,7 +10061,6 @@ theopposite.ch
 theoptics.ch
 theoptimumprod.ch
 theor.ch
-theoracledoku.ch
 theorangeconcept.ch
 theorangeparty.ch
 theorangevision.ch
@@ -10567,6 +10566,7 @@ thepolo.ch
 thepolonation.ch
 thepomegranate.ch
 thepond.ch
+theponte.ch
 theponyexpress.ch
 thepoodlesocialclub.ch
 thepool.ch
@@ -12518,6 +12518,7 @@ thermalquellenbrigerbad.ch
 thermalquellenzunft.ch
 thermalquelleresort.ch
 thermalservices.ch
+thermaltrack.ch
 thermaltransformer.ch
 thermalux.ch
 thermanence.ch
@@ -13291,7 +13292,6 @@ thescarletbyrne.ch
 thescene.ch
 thescentarchive.ch
 thescentstation.ch
-theschaers.ch
 thescheffel.ch
 theschenks.ch
 theschindlers.ch
@@ -13515,7 +13515,6 @@ thesilentmoment.ch
 thesilentpower.ch
 thesili.ch
 thesilkpainter.ch
-thesilkroute.ch
 thesilktheory.ch
 thesilverbullion.ch
 thesilvercompany.ch
@@ -14132,7 +14131,6 @@ theswisslawcafe.ch
 theswisslawyer.ch
 theswisslemonade.ch
 theswisslimousine.ch
-theswissliving.ch
 theswisslofts.ch
 theswissmade.ch
 theswissmakers.ch
@@ -15145,6 +15143,7 @@ thewomen2025.ch
 thewomencircle.ch
 thewonderbox.ch
 thewonderlab.ch
+thewondersofalexya.ch
 thewonderway.ch
 thewoodbridge.ch
 thewoodbuilding-cabins.ch
@@ -15184,6 +15183,7 @@ theworklounge.ch
 theworknetzwerk.ch
 theworks.ch
 theworkshop.ch
+theworkthatreconnects.ch
 theworkwatch.ch
 theworld.ch
 theworldcafe.ch
@@ -16392,7 +16392,6 @@ thirdpartycompliance.ch
 thirdphase.ch
 thirdpillar.ch
 thirdplace.ch
-thirdplacemaking.ch
 thirdportfolio.ch
 thirdrei.ch
 thirdroom.ch
@@ -20167,6 +20166,7 @@ thurshrimp.ch
 thursitz.ch
 thursky.ch
 thursmart.ch
+thurspace.ch
 thursport.ch
 thursprung.ch
 thurston.ch

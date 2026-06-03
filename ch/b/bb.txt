@@ -162,7 +162,6 @@ bb-lugano.ch
 bb-luxreinigung.ch
 bb-m.ch
 bb-mail.ch
-bb-management.ch
 bb-marketing.ch
 bb-maschinen.ch
 bb-media.ch
@@ -194,6 +193,7 @@ bb-productions.ch
 bb-products.ch
 bb-projekt.ch
 bb-projektleitungen.ch
+bb-protection.ch
 bb-psychologische-beratung.ch
 bb-publishing.ch
 bb-qm.ch
@@ -868,7 +868,6 @@ bbmails.ch
 bbmalans.ch
 bbmaler.ch
 bbmanagement.ch
-bbmanagment.ch
 bbmandalas.ch
 bbmaschinen.ch
 bbmassage.ch
@@ -1358,6 +1357,7 @@ bbtech.ch
 bbtechnik.ch
 bbtenterprise.ch
 bbtessin.ch
+bbtest-ih-2026.ch
 bbtest.ch
 bbth.ch
 bbthing.ch

@@ -111,6 +111,7 @@ ca-pbmc.ch
 ca-pbs.ch
 ca-plan-hlk.ch
 ca-plus.ch
+ca-po.ch
 ca-privatebanking.ch
 ca-py.ch
 ca-raisonne.ch
@@ -3658,6 +3659,7 @@ cafedepeney.ch
 cafedeprelaz.ch
 cafedertrueffelschweine.ch
 cafederwunder.ch
+cafedesalpes-restaurant-gryon.ch
 cafedesalpesgryon.ch
 cafedesalpespully.ch
 cafedesamis.ch
@@ -3747,6 +3749,7 @@ cafedupont.ch
 cafeduport.ch
 cafeduraisin.ch
 cafedurawyl.ch
+cafedurelais.ch
 cafedusimplon.ch
 cafedusoleil.ch
 cafedusoleilblanc.ch
@@ -4136,7 +4139,6 @@ cafestella.ch
 cafesternmuri.ch
 cafestmichel.ch
 cafestoa.ch
-cafestreuli.ch
 cafestrottet.ch
 cafestudio.ch
 cafestuebli.ch
@@ -4863,10 +4865,8 @@ caipi.ch
 caipianer.ch
 caipianerin.ch
 caipianerli.ch
-caipibar-picnic.ch
 caipibar-wunderbar.ch
 caipibar.ch
-caipibarpicnic.ch
 caipibarwunderbar.ch
 caipibus.ch
 caipicocktail.ch
@@ -5704,6 +5704,7 @@ calculateurdeconomies.ch
 calculateurdeprimes.ch
 calculateurhypotheque.ch
 calculateurrecouvrement.ch
+calculateurs.ch
 calculateursolairesuisse.ch
 calculateursuisse.ch
 calculatix.ch
@@ -6018,7 +6019,6 @@ cali4-night.ch
 cali4nia.ch
 cali4night.ch
 cali4you.ch
-cali5.ch
 calia-consulting.ch
 calia-restaurant.ch
 calia-storen.ch
@@ -6507,6 +6507,7 @@ callanetics-online.ch
 callanetics.ch
 callaneticsbaden.ch
 callaneticsonline.ch
+callara-immobilier.ch
 callas.ch
 callasdasmusical.ch
 callaslave.ch
@@ -6590,7 +6591,6 @@ callcoa.ch
 callcom.ch
 callcompare.ch
 callcredit.ch
-callcut.ch
 calldoc.ch
 calldoll.ch
 calle-caliente.ch
@@ -10896,7 +10896,6 @@ campusscitech.ch
 campusseminar.ch
 campusservices.ch
 campusshare.ch
-campussim.ch
 campusslb.ch
 campussoftware.ch
 campusspark.ch
@@ -11368,7 +11367,6 @@ canavac.ch
 canavanconsulting.ch
 canavar.ch
 canavee.ch
-canaveral.ch
 canavese.ch
 canavesibags.ch
 canavis.ch
@@ -12396,6 +12394,7 @@ canna-queen.ch
 canna-sativa.ch
 canna-seed.ch
 canna-supply.ch
+canna-tech.ch
 canna-trade.ch
 canna-valley.ch
 canna-vitae.ch
@@ -12971,7 +12970,6 @@ cannasteril.ch
 cannastra.ch
 cannastreet.ch
 cannasun.ch
-cannasupply.ch
 cannaswiss-shop.ch
 cannaswiss.ch
 cannaswisscup.ch
@@ -13011,6 +13009,7 @@ cannaveritas.ch
 cannaversity.ch
 cannaverum.ch
 cannavet.ch
+cannaviewing.ch
 cannavigia.ch
 cannavigilance.ch
 cannavince.ch
@@ -14036,6 +14035,7 @@ cap-prevoyance.ch
 cap-pro.ch
 cap-pub.ch
 cap-rajad.ch
+cap-rando-nature.ch
 cap-rando.ch
 cap-reconnexion.ch
 cap-rh.ch
@@ -15147,6 +15147,7 @@ caporale.ch
 caporalesa.ch
 caporali.ch
 caporaso.ch
+capos-burger.ch
 capos.ch
 caposanmartino.ch
 capospin-casino.ch
@@ -15445,6 +15446,7 @@ capricorns-spieleshop.ch
 capricorns.ch
 capricornshipping.ch
 capricornsports.ch
+capricorntablesoccer.ch
 capricorntierarzt.ch
 capricorntierarztpraxis.ch
 capricorntrucks.ch
@@ -15785,6 +15787,7 @@ captains-choice.ch
 captains-club.ch
 captains-cove.ch
 captains-essentials.ch
+captains-table.ch
 captains.ch
 captainsandwich.ch
 captainsbar.ch
@@ -16284,6 +16287,7 @@ car-painting-schertenleib.ch
 car-parken.ch
 car-parking.ch
 car-parts.ch
+car-parts24.ch
 car-pawnshop.ch
 car-people.ch
 car-perform.ch
@@ -18291,6 +18295,7 @@ cardosostrategie.ch
 cardossier.ch
 cardosystems.ch
 cardot.ch
+cardovira.ch
 cardovo.ch
 cardox.ch
 cardozo.ch
@@ -18407,6 +18412,7 @@ care-catering.ch
 care-center.ch
 care-chat.ch
 care-clean.ch
+care-clinic.ch
 care-club.ch
 care-coaching-bern.ch
 care-coaching.ch
@@ -18691,6 +18697,7 @@ carechat.ch
 carecheck.ch
 carecircle.ch
 careclean.ch
+careclinic.ch
 careclinik.ch
 careclub.ch
 careco.ch
@@ -19368,6 +19375,7 @@ careto.ch
 caretobeauty.ch
 caretogether.ch
 caretomatch.ch
+caretools.ch
 caretoreturn.ch
 caretouch.ch
 caretoyou.ch
@@ -19442,6 +19450,7 @@ carevermittler.ch
 careverse.ch
 carevet.ch
 carevia.ch
+careviage.ch
 carevida.ch
 carevisible.ch
 carevision.ch
@@ -21089,7 +21098,6 @@ carmanagement.ch
 carmanager.ch
 carmanager24.ch
 carmanger.ch
-carmani.ch
 carmania.ch
 carmaniac.ch
 carmaniak.ch
@@ -23878,6 +23886,7 @@ carrosserie-soland.ch
 carrosserie-solutions.ch
 carrosserie-sommer.ch
 carrosserie-spiez.ch
+carrosserie-spreiti-west.ch
 carrosserie-spritzwerk-dickenmann.ch
 carrosserie-spritzwerk-marty.ch
 carrosserie-spritzwerk-wuffli.ch
@@ -25063,12 +25072,14 @@ cartepro.ch
 carteprofju.ch
 carteprogettazione.ch
 carter-benson.ch
+carter-informatik.ch
 carter.ch
 carterabais.ch
 carteret.ch
 carterfamilyfarm.ch
 carterhair.ch
 carterie.ch
+carterinformatik.ch
 carterisque.ch
 carterminal-bern.ch
 carteron.ch
@@ -26392,6 +26403,7 @@ casa-lio.ch
 casa-listrig.ch
 casa-living.ch
 casa-locarno.ch
+casa-lorella.ch
 casa-lounge.ch
 casa-lowenna.ch
 casa-luce.ch
@@ -26729,6 +26741,7 @@ casaacla.ch
 casaadriana.ch
 casaafuera.ch
 casaag.ch
+casaai.ch
 casaalbin.ch
 casaalbosco.ch
 casaalbrici.ch
@@ -27256,6 +27269,7 @@ casafaro.ch
 casafaustacapaul.ch
 casafederico.ch
 casafelice.ch
+casafelina.ch
 casafelis.ch
 casafeliz.ch
 casafemina.ch
@@ -27387,7 +27401,6 @@ casagronda.ch
 casagrossmann.ch
 casagroubla.ch
 casagroup.ch
-casagroupe.ch
 casagroupgmbh.ch
 casagrp.ch
 casagruobla.ch
@@ -30562,6 +30575,7 @@ caspienne.ch
 caspita.ch
 caspm.ch
 caspo.ch
+caspps.ch
 casprivatversicherungsrecht.ch
 casprode.ch
 casprotec.ch
@@ -31820,6 +31834,7 @@ catchimpro.ch
 catching-fire.ch
 catching-instants.ch
 catching.ch
+catchingsnkrs.ch
 catchingthemoments.ch
 catchit.ch
 catchken.ch
@@ -32402,7 +32417,6 @@ catherinegoy.ch
 catherinegruber.ch
 catherinehafa.ch
 catherinehenggeler.ch
-catherinejaunin.ch
 catherinejobin.ch
 catherinelauper.ch
 catherinelefort.ch

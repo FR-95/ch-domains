@@ -96,7 +96,6 @@ kman.ch
 kmann.ch
 kmantei.ch
 kmanufaktur.ch
-kmanutention.ch
 kmapp.ch
 kmapper.ch
 kmar.ch
@@ -141,6 +140,7 @@ kmc.ch
 kmcg.ch
 kmcgroup.ch
 kmclean.ch
+kmcloud.ch
 kmcnungesser.ch
 kmcoaching.ch
 kmcommodities.ch
@@ -283,7 +283,6 @@ kmluxury.ch
 kmlv-sg.ch
 kmm-duernten.ch
 kmm-immobilien.ch
-kmm-water.ch
 kmmetallbau.ch
 kmmk.ch
 kmmkaufmann.ch
@@ -1452,6 +1451,7 @@ kmupanel.ch
 kmupark-lyss.ch
 kmupartner.ch
 kmupartnergroup.ch
+kmupartnersgroup.ch
 kmupayroll.ch
 kmupedia.ch
 kmupediaweb.ch

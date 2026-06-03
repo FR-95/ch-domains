@@ -13,6 +13,7 @@ ai-adhd.ch
 ai-admin.ch
 ai-ads.ch
 ai-advertising-zuerich.ch
+ai-advertising.ch
 ai-advice.ch
 ai-adviser.ch
 ai-advisor.ch
@@ -119,7 +120,6 @@ ai-book-generator.ch
 ai-booster.ch
 ai-boot-camp.ch
 ai-bootcamp.ch
-ai-bos.ch
 ai-bot.ch
 ai-bots.ch
 ai-boutique.ch
@@ -319,6 +319,7 @@ ai-express.ch
 ai-fabrik.ch
 ai-fach.ch
 ai-factfulness.ch
+ai-factory-uptownbasel.ch
 ai-factory.ch
 ai-factroy.ch
 ai-faii.ch
@@ -576,6 +577,7 @@ ai-media-award.ch
 ai-media-awards.ch
 ai-media-production.ch
 ai-media-productions.ch
+ai-media.ch
 ai-medical.ch
 ai-mentor.ch
 ai-mentoring.ch
@@ -1357,6 +1359,7 @@ aichi.ch
 aichimp.ch
 aichinger-ladenbau.ch
 aichinger.ch
+aichner-ag.ch
 aichner.ch
 aicho.ch
 aichocolat.ch
@@ -1424,6 +1427,7 @@ aiconcierge.ch
 aicone.ch
 aiconfluence.ch
 aiconic-verve.ch
+aiconicstudio.ch
 aiconicworlds.ch
 aiconnect.ch
 aiconomy.ch
@@ -2508,6 +2512,7 @@ aiii.ch
 aiiki.ch
 aiilo.ch
 aiim.ch
+aiimpact.ch
 aiimpactsummit.ch
 aiimpactsummit2027.ch
 aiimpactsummitgenenva.ch
@@ -4070,7 +4075,6 @@ airafrique.ch
 airagent.ch
 airaghi.ch
 airahome.ch
-airain.ch
 airak.ch
 airaki.ch
 airalo.ch
@@ -4150,10 +4154,12 @@ airberth.ch
 airbett.ch
 airbi.ch
 airbie.ch
+airbienne.ch
 airbike.ch
 airbild.ch
 airbilder.ch
 airbilet.ch
+airbin.ch
 airbion.ch
 airbit.ch
 airblade-dyson.ch
@@ -4643,6 +4649,7 @@ airforceag.ch
 airforcecafe.ch
 airforcecenter.ch
 airforcecinema.ch
+airforceemail.ch
 airforcehelvetica.ch
 airforcehotel.ch
 airforcelounge.ch
@@ -5465,6 +5472,7 @@ airroyal.ch
 airroyallimosine.ch
 airrunner.ch
 airrush.ch
+airs.ch
 airsafe.ch
 airsaif.ch
 airsain.ch
@@ -5998,6 +6006,7 @@ aishiteru.ch
 aishooting.ch
 aishop.ch
 aishortcut.ch
+aishorts.ch
 aishow.ch
 aisi.ch
 aisibyreyna.ch
@@ -6406,7 +6415,6 @@ aivara.ch
 aivaris.ch
 aivaro.ch
 aivashot.ch
-aivault.ch
 aivazian-moreau.ch
 aivb.ch
 aivd-info.ch

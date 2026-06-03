@@ -1287,6 +1287,8 @@ zeiter-kuechen.ch
 zeiter-plaettli.ch
 zeiter.ch
 zeiterfassen.ch
+zeiterfassung-abrechnen.ch
+zeiterfassung-abrechnung.ch
 zeiterfassung-ae-wa.ch
 zeiterfassung-app.ch
 zeiterfassung-basel.ch
@@ -1294,9 +1296,12 @@ zeiterfassung-bau.ch
 zeiterfassung-bern.ch
 zeiterfassung-fuer-aerzte.ch
 zeiterfassung-gastronomie.ch
+zeiterfassung-handwerk.ch
+zeiterfassung-landwirtschaft.ch
 zeiterfassung-luzern.ch
 zeiterfassung-ostschweiz.ch
 zeiterfassung-pke.ch
+zeiterfassung-rechnung.ch
 zeiterfassung-rechnungsstellung.ch
 zeiterfassung-schweiz.ch
 zeiterfassung-steda.ch
@@ -1832,6 +1837,7 @@ zeitungspapier.ch
 zeitungspool.ch
 zeitungssammler.ch
 zeitungsschatz.ch
+zeitungsverbund.ch
 zeitungsverlag.ch
 zeitungsverlage.ch
 zeitungswesen.ch
@@ -2184,6 +2190,7 @@ zellcom.ch
 zelle.ch
 zellecoin.ch
 zellecoins.ch
+zellen.ch
 zellenenergie.ch
 zellenergie.ch
 zellenradschleuse.ch
@@ -2286,6 +2293,7 @@ zellgenerator.ch
 zellgesund.ch
 zellgesundheit.ch
 zellglanz.ch
+zellgut.ch
 zellgym.ch
 zellheilung.ch
 zellhoff.ch
@@ -2833,6 +2841,7 @@ zen-design.ch
 zen-do.ch
 zen-dojo.ch
 zen-dojos.ch
+zen-douceur.ch
 zen-energieservices.ch
 zen-entsorgung.ch
 zen-equin.ch
@@ -2863,6 +2872,7 @@ zen-kloster.ch
 zen-klosterbier.ch
 zen-kyudo.ch
 zen-l.ch
+zen-law.ch
 zen-leadership-academy.ch
 zen-leadership-akademie.ch
 zen-leadership.ch
@@ -3415,6 +3425,7 @@ zenitram.ch
 zenitrealestate.ch
 zenitsolutions.ch
 zenitsportcars-mieten.ch
+zenitsportcars.ch
 zenitsummercamps.ch
 zenitswiss.ch
 zenitude-attalens.ch
@@ -3477,7 +3488,9 @@ zenlab.ch
 zenlabs.ch
 zenlat.ch
 zenlausanne.ch
+zenlaw.ch
 zenleader.ch
+zenlex.ch
 zenlifestyle.ch
 zenline.ch
 zenliqueur.ch

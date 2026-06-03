@@ -1510,6 +1510,7 @@ toeic-test.ch
 toeic.ch
 toeicexam.ch
 toeictest.ch
+toeifgang.ch
 toel-recycling.ch
 toel-shop.ch
 toel.ch
@@ -1749,6 +1750,7 @@ toews.ch
 tof.ch
 tofa-discounter.ch
 tofa.ch
+tofaj-echafaudages.ch
 tofajconstruction.ch
 tofajechafaudages.ch
 tofalo.ch
@@ -2232,6 +2234,7 @@ toietmoi-lemagasin.ch
 toietmoi-soins.ch
 toietmoi-therapies.ch
 toietmoi.ch
+toifgang.ch
 toigo.ch
 toigva.ch
 toihenconsulting.ch
@@ -2471,7 +2474,6 @@ toka-bm.ch
 toka-gebaeudereinigung.ch
 toka-immo.ch
 toka.ch
-tokac.ch
 tokadom.ch
 tokaelire.ch
 tokai.ch
@@ -4192,6 +4194,7 @@ tomwiggli.ch
 tomwild.ch
 tomwilhelm.ch
 tomwittwer.ch
+tomwonderland.ch
 tomwong.ch
 tomwood.ch
 tomworker.ch
@@ -4277,6 +4280,7 @@ ton-intuition.ch
 ton-ja.ch
 ton-keramik.ch
 ton-kreationen.ch
+ton-kunmedthaimassage.ch
 ton-kunst.ch
 ton-licht-media.ch
 ton-logo.ch
@@ -4656,6 +4660,7 @@ tonfaktur-arbon.ch
 tonfaktur-sanktgallen.ch
 tonfall.ch
 tonfalle.ch
+tonfeld-basel.ch
 tonfeld-zuerich.ch
 tonfeld.ch
 tonfeldtherapie.ch
@@ -6500,7 +6505,6 @@ top-of-oetwil.ch
 top-of-rail.ch
 top-of-saas.ch
 top-of-schaffhausen.ch
-top-of-switzerland.ch
 top-of-symposien.ch
 top-of-symposium.ch
 top-of-taxi.ch
@@ -6715,6 +6719,7 @@ top-team.ch
 top-tec-pcb.ch
 top-tec.ch
 top-tech.ch
+top-teile.ch
 top-telcom-service.ch
 top-telematics.ch
 top-ten.ch
@@ -6804,6 +6809,7 @@ top-windows.ch
 top-wohnen.ch
 top-wohnungen.ch
 top-work.ch
+top-workwear.ch
 top-writing.ch
 top-x.ch
 top-zahnarzt.ch
@@ -6838,7 +6844,6 @@ top100gva.ch
 top100investordays.ch
 top100investorsummit.ch
 top100mining.ch
-top100reinigung.ch
 top100speakers.ch
 top100startup.ch
 top100startups.ch
@@ -7366,7 +7371,6 @@ topcon.ch
 topconcept.ch
 topconcepts.ch
 topconceptsa.ch
-topconcierge.ch
 topconduite.ch
 topconference.ch
 topconfort.ch
@@ -7389,7 +7393,6 @@ topcos.ch
 topcosmetic.ch
 topcoupon.ch
 topcoupons.ch
-topcourier.ch
 topcourt.ch
 topcrea.ch
 topcreators.ch
@@ -8119,6 +8122,7 @@ toplight-schweiz.ch
 toplight.ch
 toplimo.ch
 toplimousine.ch
+topline-connect.ch
 topline-digital.ch
 topline-electronic.ch
 topline-energy.ch
@@ -9361,6 +9365,7 @@ torbe.ch
 torbel.ch
 torbellino.ch
 torben-fotografie.ch
+torben-schlueter.ch
 torben.ch
 torbey.ch
 torbit.ch
@@ -10266,6 +10271,7 @@ toscasommerberatung-fuehrung-bildung.ch
 toscatiralosi.ch
 toscaton.ch
 toscatours.ch
+toscawalther.ch
 toscawinkler.ch
 toscazurich.ch
 toscha.ch
@@ -12730,7 +12736,6 @@ townhouseconcierge.ch
 townhousegravado.ch
 townhousere.ch
 townhouseth.ch
-townify.ch
 townio.ch
 townlex.ch
 townlodge.ch

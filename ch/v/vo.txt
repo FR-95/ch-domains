@@ -233,7 +233,6 @@ vocappella.ch
 vocarte.ch
 vocasa.ch
 vocaso.ch
-vocastar.ch
 vocat-o-graph.ch
 vocat.ch
 vocate.ch
@@ -339,6 +338,8 @@ voconsulting.ch
 vocoon.ch
 vocotruyen.ch
 vocovo.ch
+vocrestaurant.ch
+vocristorante.ch
 vocs.ch
 vocsbox.ch
 vocus.ch
@@ -802,7 +803,6 @@ vogelabwehr.ch
 vogelabwehrag.ch
 vogelabwehrexperte.ch
 vogelabwehrgmbh.ch
-vogelacker.ch
 vogelag.ch
 vogelarch.ch
 vogelarchitekt.ch
@@ -2563,6 +2563,7 @@ volkancoskun.ch
 volkanic.ch
 volkanique-compta.ch
 volkanique-office.ch
+volkanique.ch
 volkannaturstein.ch
 volkanoezdemir.ch
 volkart-accounting.ch
@@ -3189,7 +3190,6 @@ volley-stats.ch
 volley-step-up.ch
 volley-talents-chur.ch
 volley-team-wolhusen.ch
-volley-tennis.ch
 volley-troinex.ch
 volley-urdorf.ch
 volley-uri.ch
@@ -4346,7 +4346,6 @@ volvo.ch
 volvo122s.ch
 volvo123gt.ch
 volvo24.ch
-volvo240.ch
 volvoabo.ch
 volvoai.ch
 volvoamazon.ch
@@ -5940,6 +5939,7 @@ vonschulthess.ch
 vonschumacher.ch
 vonschutz.ch
 vonschwanau.ch
+vonschweiz.ch
 vonsec.ch
 vonseefried.ch
 vonseelezuseele.ch
@@ -6149,13 +6149,11 @@ vooce.ch
 vood.ch
 voodoo-design.ch
 voodoo-dimensions.ch
-voodoo-puppe.ch
 voodoo-schutz.ch
 voodoo-treff.ch
 voodoo-warriors.ch
 voodoo.ch
 voodoo4fun.ch
-voodoobeschwoerung.ch
 voodoocasino.ch
 voodoochile.ch
 voodooclub.ch
@@ -6167,16 +6165,13 @@ voodoomedia.ch
 voodoonoodles.ch
 voodoopeople.ch
 voodooprojects.ch
-voodoopuppe.ch
 voodooreyes.ch
 voodoorhythm.ch
-voodooritual.ch
 voodoovision.ch
 voodoovxen.ch
 voodoowarriors.ch
 voodooweb.ch
 voodooworxx.ch
-voodoozauber.ch
 voodx.ch
 voofasi.ch
 voogle.ch
@@ -6663,11 +6658,11 @@ vorhard.ch
 vorhautverengung.ch
 vorher-nachher-bilder.ch
 vorher.ch
-vorherdenken.ch
 vorhersaag.ch
 vorhersage.ch
 vorhersagen.ch
 vorhilfe-statt-nachhilfe.ch
+vorhilfe.ch
 vorhofflimmern.ch
 vorhofflimmernbehandeln.ch
 vorholz.ch
@@ -6735,6 +6730,7 @@ vorlagenbauer.ch
 vorlagenloesung.ch
 vorlagenschweiz.ch
 vorlagentante.ch
+vorlagenwerk.ch
 vorland.ch
 vorlauf.ch
 vorlauffaser.ch
@@ -6843,6 +6839,7 @@ vorreiter-ag.ch
 vorreiter.ch
 vorrichten-montieren-schweissen-weldex.ch
 vorrichtungsbau.ch
+vorrix.ch
 vorruhestand.ch
 vors.ch
 vorsa.ch
@@ -7002,6 +6999,7 @@ vorsorge1x1.ch
 vorsorge24.ch
 vorsorge360.ch
 vorsorge365.ch
+vorsorge3a-check.ch
 vorsorge3a-schweiz.ch
 vorsorge3a.ch
 vorsorge3a3b.ch
@@ -7468,6 +7466,8 @@ vorwerrk.ch
 vorwerthermomix.ch
 vorwerts.ch
 vorwind.ch
+vorya.ch
+voryaenergy.ch
 voryport.ch
 voryu.ch
 voryxayieldora.ch
@@ -8531,6 +8531,7 @@ voyagegourmand.ch
 voyageinitiatique.ch
 voyageinterieur.ch
 voyageiran.ch
+voyageitinerant.ch
 voyageleiva.ch
 voyagelinguistique.ch
 voyagemoinscher.ch

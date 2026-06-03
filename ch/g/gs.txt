@@ -360,7 +360,6 @@ gschaenkfabrik.ch
 gschaenkhuesli-bremgarten.ch
 gschaenkhuettli.ch
 gschaenkhus.ch
-gschaenklaedeli.ch
 gschaenkli-egge-haegendorf.ch
 gschaenkli-egge.ch
 gschaenkli-schraenkli.ch
@@ -695,7 +694,6 @@ gserm.ch
 gserve.ch
 gserver.ch
 gservice.ch
-gservices.ch
 gseschmi.ch
 gsesol.ch
 gsesolution.ch

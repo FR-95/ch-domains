@@ -43,6 +43,7 @@ ae-motion.ch
 ae-ms.ch
 ae-net.ch
 ae-openday.ch
+ae-p-vorsorgeberatung.ch
 ae-p.ch
 ae-patrick.ch
 ae-personal.ch
@@ -1344,7 +1345,6 @@ aemotion.ch
 aemp-benchmark.ch
 aemp.ch
 aempbenchmark.ch
-aems-baumaterial.ch
 aems.ch
 aemsa.ch
 aemschti.ch
@@ -1688,7 +1688,6 @@ aequis.ch
 aequita.ch
 aequitalis.ch
 aequitas-ag.ch
-aequitas-consulting.ch
 aequitas-fonds.ch
 aequitas-kontrollen.ch
 aequitas.ch
@@ -3426,6 +3425,7 @@ aestheticatelier.ch
 aestheticbedarf.ch
 aestheticbody.ch
 aestheticbreastreconstruction.ch
+aestheticcenter.ch
 aestheticcenterbasel.ch
 aestheticclinic.ch
 aestheticclinics.ch

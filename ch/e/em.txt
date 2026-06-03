@@ -950,6 +950,7 @@ embera.ch
 emberatung.ch
 emberbet.ch
 emberbotics.ch
+embercards.ch
 emberfolk.ch
 emberg.ch
 emberger-dc.ch
@@ -1873,7 +1874,6 @@ emfit.ch
 emfmotor.ch
 emfn.ch
 emfnet.ch
-emfoam.ch
 emform.ch
 emforst.ch
 emforum.ch
@@ -3995,7 +3995,6 @@ emobilityschweiz.ch
 emobilityshop.ch
 emobilitystore.ch
 emobilitytime.ch
-emobilityworld.ch
 emobilityzuerich.ch
 emobilityzug.ch
 emobiljournal.ch
@@ -4447,6 +4446,7 @@ emoto.ch
 emotobikes.ch
 emotocross.ch
 emotocup.ch
+emotolino.ch
 emoton.ch
 emotor.ch
 emotor4boat.ch
@@ -5704,6 +5704,7 @@ emsf2021.ch
 emsf2026.ch
 emsf2027.ch
 emsf2027wuerzbrunnen.ch
+emsf2028.ch
 emsfactory.ch
 emsfaverge.ch
 emsfcentraide.ch

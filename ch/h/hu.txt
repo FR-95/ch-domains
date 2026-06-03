@@ -2337,6 +2337,7 @@ hufschuh.ch
 hufschuhberatung.ch
 hufschuhberatungschweiz.ch
 hufschuhbesohlung.ch
+hufschuhboerse.ch
 hufschuhe-besohlen.ch
 hufschuhe-onlineshop.ch
 hufschuhe-testen.ch
@@ -2877,7 +2878,6 @@ hugokahn.ch
 hugokeiser-ag.ch
 hugokeiser.ch
 hugokeiserag.ch
-hugokeller.ch
 hugokoblet.ch
 hugolang.ch
 hugolangel.ch
@@ -3077,7 +3077,8 @@ huide.ch
 huidverjongen.ch
 huidverjonging.ch
 huifabrik.ch
-huihuang.ch
+huiga-werk.ch
+huigawerk.ch
 huii.ch
 huijgen.ch
 huijser.ch
@@ -3086,6 +3087,7 @@ huile-argan-bio.ch
 huile-argan-suisse.ch
 huile-argan.ch
 huile-de-noix-vaudoise-aop.ch
+huile-de-palme-non.ch
 huile-essentielle-bio.ch
 huile-minerale.ch
 huile-moteur.ch
@@ -3128,6 +3130,7 @@ huilesdolives.ch
 huilesessentielles.ch
 huilesminerales.ch
 huilethc.ch
+huilin.ch
 huimagai.ch
 huimat.ch
 huimodellbau.ch
@@ -3370,7 +3373,6 @@ humai.ch
 humaigo.ch
 humail.ch
 humain-art.ch
-humain-consulting.ch
 humain-et-sens.ch
 humain-ia.ch
 humain.ch
@@ -5201,7 +5203,6 @@ hundebetreuung-tanja.ch
 hundebetreuung-wallenried.ch
 hundebetreuung-wallis.ch
 hundebetreuung-zarxalis.ch
-hundebetreuung-zuerich.ch
 hundebetreuung-zurich.ch
 hundebetreuung.ch
 hundebetreuungbellevau.ch
@@ -5743,7 +5744,6 @@ hundepension-oberglatt.ch
 hundepension-pfotentreff.ch
 hundepension-sarnersee.ch
 hundepension-shila.ch
-hundepension-strupi.ch
 hundepension-uri.ch
 hundepension-zueri.ch
 hundepension-zuerich.ch
@@ -6658,6 +6658,7 @@ hundetherapie.ch
 hundetherapie4pfoten.ch
 hundetherapieamsee.ch
 hundetherapiedecken.ch
+hundetherapietanja.ch
 hundetherapiewoelfli.ch
 hundethron.ch
 hundetipps.ch
@@ -6772,6 +6773,8 @@ hundeverein-kvschwarzenburg.ch
 hundeverein.ch
 hundeverhalten-verstehen.ch
 hundeverhalten.ch
+hundeverhaltensberater.ch
+hundeverhaltensberaterin.ch
 hundeverhaltensberatung-biffiger.ch
 hundeverhaltensberatung.ch
 hundeverhaltensexperte.ch

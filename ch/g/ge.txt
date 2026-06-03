@@ -1751,6 +1751,7 @@ geca.ch
 gecad.ch
 gecal.ch
 gecam.ch
+gecap.ch
 gecapitalbank.ch
 gecaro.ch
 gecars.ch
@@ -1801,7 +1802,6 @@ gecko.ch
 gecko3d.ch
 geckoagency.ch
 geckoaventure.ch
-geckoazul.ch
 geckobag.ch
 geckobar.ch
 geckobau.ch
@@ -2589,6 +2589,7 @@ gefaesspraxisluzern.ch
 gefaesspraxiswinterthur.ch
 gefaessteam-bern.ch
 gefaessteam-biel.ch
+gefaesstherapie.ch
 gefaessverankerung.ch
 gefaesszentrum-ag.ch
 gefaesszentrum-bern.ch
@@ -4396,7 +4397,6 @@ gelateaux.ch
 gelatelli.ch
 gelateria-1900.ch
 gelateria-artigiana.ch
-gelateria-beim-kloster.ch
 gelateria-bellaciao.ch
 gelateria-bongusto.ch
 gelateria-bremgarten.ch
@@ -5292,6 +5292,7 @@ gelymanagement.ch
 gelz-air.ch
 gelzair.ch
 gelzenritter.ch
+gem-1.ch
 gem-arts.ch
 gem-bauten.ch
 gem-beauty.ch
@@ -11529,7 +11530,6 @@ geo-beratung.ch
 geo-beratungen.ch
 geo-berufe.ch
 geo-bil.ch
-geo-bility.ch
 geo-bio-logie.ch
 geo-bio-logisch.ch
 geo-bio.ch
@@ -11648,7 +11648,6 @@ geo-online-bs.ch
 geo-online.ch
 geo-optimiert.ch
 geo-optimierung-schweiz.ch
-geo-optimierung.ch
 geo-optimierungen.ch
 geo-optimization.ch
 geo-ost.ch
@@ -11698,6 +11697,7 @@ geo-solutions.ch
 geo-steinhauerei.ch
 geo-stieger.ch
 geo-strom.ch
+geo-suche.ch
 geo-suchoptimierung.ch
 geo-suisse.ch
 geo-summit.ch
@@ -11840,7 +11840,6 @@ geoberufe.ch
 geobieau.ch
 geobigdata.ch
 geobil.ch
-geobility.ch
 geobim.ch
 geobio-conseil.ch
 geobio-energie.ch
@@ -11948,6 +11947,7 @@ geochannel.ch
 geochannelhd.ch
 geochat.ch
 geochavez.ch
+geocheck.ch
 geochecker.ch
 geochemie.ch
 geocian.ch
@@ -12622,7 +12622,6 @@ geool.ch
 geoolsa.ch
 geoone.ch
 geoonline.ch
-geooptimierung.ch
 geop.ch
 geopage.ch
 geopal.ch
@@ -12814,6 +12813,7 @@ georgannaheim.ch
 georgbader.ch
 georgbechterlicht.ch
 georgberger.ch
+georgbesteckundraritaeten.ch
 georgbetschart.ch
 georgborer.ch
 georgbosshard.ch
@@ -13125,6 +13125,7 @@ geosciences.ch
 geosconsult.ch
 geoscoout.ch
 geoscore.ch
+geoscout.ch
 geosear.ch
 geosearch.ch
 geosec.ch
@@ -18146,7 +18147,6 @@ gesundes-abendessen.ch
 gesundes-abnehmen.ch
 gesundes-amriswil.ch
 gesundes-cholesterin.ch
-gesundes-emmental.ch
 gesundes-essen.ch
 gesundes-fleisch-kaufen.ch
 gesundes-freiamt.ch
@@ -18290,6 +18290,7 @@ gesundheit-bewahren.ch
 gesundheit-bewegung.ch
 gesundheit-blog.ch
 gesundheit-braucht-training.ch
+gesundheit-brugg.ch
 gesundheit-brunner.ch
 gesundheit-buempliz.ch
 gesundheit-central.ch
@@ -19226,10 +19227,10 @@ gesundheitsraum.ch
 gesundheitsraumlangenthal.ch
 gesundheitsrecht.ch
 gesundheitsredaktion.ch
-gesundheitsregion-emmental.ch
 gesundheitsregion-freiamt.ch
 gesundheitsregion-march.ch
 gesundheitsregion-zuerioberland.ch
+gesundheitsregionbrugg.ch
 gesundheitsregionfreiamt.ch
 gesundheitsregionmarch.ch
 gesundheitsregister.ch
@@ -20029,6 +20030,7 @@ getcardboard.ch
 getcards.ch
 getcare.ch
 getcars.ch
+getcasa.ch
 getcase.ch
 getcash.ch
 getcatchbox.ch
@@ -20327,6 +20329,7 @@ getitsolutions.ch
 getjob.ch
 getjobs.ch
 getjuice.ch
+getjuris.ch
 getjusit.ch
 getkairos.ch
 getkameo.ch
@@ -20532,6 +20535,7 @@ getpacscan.ch
 getpapilio.ch
 getparks.ch
 getparts.ch
+getpaws.ch
 getpay.ch
 getpayd.ch
 getpaymira.ch

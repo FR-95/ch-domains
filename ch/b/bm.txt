@@ -817,6 +817,7 @@ bms-pruefung.ch
 bms-sa.ch
 bms-school.ch
 bms-service.ch
+bms-services-sarl.ch
 bms-solutions.ch
 bms-strickhof.ch
 bms-system.ch

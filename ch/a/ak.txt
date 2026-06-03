@@ -267,7 +267,6 @@ akademie-der-naturheilkunde.ch
 akademie-der-rose.ch
 akademie-der-umdenker.ch
 akademie-der-wilden-werte.ch
-akademie-des-freien-willens.ch
 akademie-des-wissens.ch
 akademie-ee.ch
 akademie-executive.ch
@@ -458,6 +457,7 @@ akala-aina.ch
 akalab.ch
 akali.ch
 akalimousine.ch
+akalive.ch
 akalmille.ch
 akam.ch
 akama-int.ch
@@ -1610,7 +1610,6 @@ akosneuberger.ch
 akosnovotni.ch
 akosradvanyi.ch
 akossante.ch
-akostraps.ch
 akostyle.ch
 akotena.ch
 akotherm.ch
@@ -1913,6 +1912,7 @@ akswissinvestment.ch
 akswissmem.ch
 akswisstec.ch
 akswisstransport.ch
+aksymbo.ch
 aksz.ch
 aksz1954.ch
 aksznet.ch
@@ -2338,7 +2338,6 @@ aktiv-fit.ch
 aktiv-fitness.ch
 aktiv-freizeit.ch
 aktiv-futter.ch
-aktiv-gegen-gewalt.ch
 aktiv-gegen-rassismus.ch
 aktiv-geniessen.ch
 aktiv-geruestbau.ch
@@ -2505,7 +2504,6 @@ aktivfit.ch
 aktivfitness.ch
 aktivfreizeit.ch
 aktivfutter.ch
-aktivgegengewalt.ch
 aktivgenussreisen.ch
 aktivhaus.ch
 aktivhausbiocostruttori.ch

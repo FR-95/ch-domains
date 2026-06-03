@@ -93,6 +93,7 @@ rs-gipser.ch
 rs-global.ch
 rs-gmbh.ch
 rs-gold.ch
+rs-goldgmbh.ch
 rs-gym.ch
 rs-h.ch
 rs-haus.ch
@@ -752,6 +753,7 @@ rskravmaga.ch
 rskrsr.ch
 rsksounds.ch
 rsku.ch
+rskworks.ch
 rskws.ch
 rsl-gns.ch
 rsl-immobilien.ch

@@ -2264,7 +2264,6 @@ opernhauszurich.ch
 opernkarte.ch
 opernkarten.ch
 opernkollektiv.ch
-opernmagazin.ch
 opernreisefuehrer.ch
 opernreisen.ch
 opernsommer.ch
@@ -3267,7 +3266,6 @@ optextreuhand.ch
 optf.ch
 optfrkurs.ch
 optha-echallens.ch
-opthalib.ch
 opthapro.ch
 opthemis.ch
 opti-act.ch
@@ -3657,6 +3655,7 @@ optik-dill-noth.ch
 optik-dippner.ch
 optik-gallati.ch
 optik-gilli.ch
+optik-gossau.ch
 optik-grimm.ch
 optik-gstaad.ch
 optik-hartlauer.ch
@@ -3804,6 +3803,7 @@ optikerzug.ch
 optikerzwicker.ch
 optikflums.ch
 optikfreiburghaus.ch
+optikgossau.ch
 optikgstaad.ch
 optikhase.ch
 optikhirschengraben.ch
@@ -3992,8 +3992,6 @@ optimal-assurances.ch
 optimal-banking.ch
 optimal-clean.ch
 optimal-eft-gary-craig.ch
-optimal-eft-suisse.ch
-optimal-eftsuisse.ch
 optimal-facility.ch
 optimal-finance.ch
 optimal-fuettern.ch
@@ -4029,7 +4027,6 @@ optimalcontracts.ch
 optimaldesign.ch
 optimale-zahnbehandlung.ch
 optimale.ch
-optimaleft-suisse.ch
 optimalegal.ch
 optimalenergy.ch
 optimaler-teller.ch
@@ -4682,6 +4679,7 @@ optiquevideo.ch
 optira.ch
 optirat.ch
 optiresult.ch
+optireta.ch
 optiretraite.ch
 optirex.ch
 optirisk.ch

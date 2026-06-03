@@ -772,6 +772,7 @@ hrgbaukostenplanung.ch
 hrgehri.ch
 hrgenau.ch
 hrgestion.ch
+hrgiger.ch
 hrgigermuseum.ch
 hrgipfel-gr.ch
 hrgipfel-sg.ch
@@ -1148,7 +1149,6 @@ hrremote.ch
 hrri.ch
 hrrisk.ch
 hrriskmanagement.ch
-hrrn.ch
 hrroundtable.ch
 hrs-booking.ch
 hrs-dev.ch

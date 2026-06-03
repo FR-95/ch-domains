@@ -1158,6 +1158,7 @@ my-mortgage-broker.ch
 my-mortgage.ch
 my-moto-tour.ch
 my-moto.ch
+my-motomaps.ch
 my-motorino.ch
 my-mototour.ch
 my-mototours.ch
@@ -3247,6 +3248,7 @@ mybusiness360.ch
 mybusinessadvisor.ch
 mybusinessbooster.ch
 mybusinesscard.ch
+mybusinesscare.ch
 mybusinessclass.ch
 mybusinesscloud.ch
 mybusinesscoachs.ch
@@ -4520,6 +4522,7 @@ mydisneyredcarpet.ch
 mydispatch.ch
 mydisplay.ch
 mydisplays.ch
+mydita.ch
 mydive.ch
 mydiver.ch
 mydiverto.ch
@@ -4792,6 +4795,7 @@ myecover.ch
 myeddi.ch
 myeddie.ch
 myedelweiss.ch
+myedilbisuisse.ch
 myedirex.ch
 myedison.ch
 myedit.ch
@@ -6789,7 +6793,6 @@ mykilcher.ch
 mykim.ch
 mykimple.ch
 mykin.ch
-mykinderart.ch
 mykinderwuns.ch
 mykine.ch
 mykinema.ch
@@ -7063,7 +7066,6 @@ mylawyersworld.ch
 mylayenberger.ch
 mylayout.ch
 mylbb.ch
-mylbpiaccess.ch
 mylbudget.ch
 myld.ch
 myldntracker.ch
@@ -9629,6 +9631,7 @@ myriam-frehner.ch
 myriam-g.ch
 myriam-graf.ch
 myriam-gregor.ch
+myriam-gruetter-atemtherapie.ch
 myriam-gsell.ch
 myriam-h3-cool.ch
 myriam-h3.ch
@@ -10031,6 +10034,7 @@ myschola.ch
 myscholtes.ch
 myschool.ch
 myschoolcockpit.ch
+myschoolconnects.ch
 myschooldriving.ch
 myschoolpro.ch
 myschoolswiss.ch
@@ -10947,7 +10951,6 @@ mystique.ch
 mystiquehall.ch
 mystiquemix.ch
 mystiqueroom.ch
-mystisch.ch
 mystische-kunstschule.ch
 mystische-regio.ch
 mystische-welt.ch
@@ -12702,6 +12705,7 @@ mywoti.ch
 mywp.ch
 myws.ch
 mywshop.ch
+mywss.ch
 mywuest.ch
 mywunschbroetli.ch
 mywunschhotel.ch

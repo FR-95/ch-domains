@@ -162,7 +162,6 @@ riant-mont.ch
 rianta.ch
 riantacapital.ch
 riantbossoncentre.ch
-riantval.ch
 rianutrihome.ch
 riaparkett.ch
 riapos.ch
@@ -373,7 +372,6 @@ ribona.ch
 ribondo.ch
 ribonet.ch
 riboni.ch
-ribonucleicacid-rna.ch
 riboox.ch
 riboplatre.ch
 ribordy-devices.ch
@@ -576,7 +574,6 @@ ricatdo.ch
 ricaud.ch
 ricb.ch
 ricba.ch
-ricbamert.ch
 ricc-art.ch
 ricc.ch
 ricca.ch
@@ -697,16 +694,13 @@ riccspeed.ch
 riccucci.ch
 riccy.ch
 riccyrodrigues.ch
-rice-age.ch
 rice-and-roesti.ch
 rice-asian-kitchen-adligenswil.ch
 rice-basel.ch
-rice-era.ch
 rice-roesti.ch
 rice-straws.ch
 rice.ch
 rice4india.ch
-riceage.ch
 riceandcarry.ch
 riceandmore-stgallen.ch
 riceandmore.ch
@@ -715,7 +709,6 @@ riceandspice.ch
 riceasiankitchen.ch
 ricebowls.ch
 ricebox.ch
-riceera.ch
 ricefield.ch
 riceforce.ch
 riceforindia.ch
@@ -1110,7 +1103,6 @@ richest.ch
 richet.ch
 richfield.ch
 richfieldferts.ch
-richfit.ch
 richflex.ch
 richfood.ch
 richfox.ch
@@ -1184,6 +1176,7 @@ richivogt.ch
 richiwaehlen.ch
 richiwolff.ch
 richkart.ch
+richkidblue.ch
 richkids.ch
 richkidsof.ch
 richkidsofswiss.ch
@@ -1491,7 +1484,6 @@ richtigseite.ch
 richtigservice.ch
 richtigsicher.ch
 richtigsmart.ch
-richtigstellung.ch
 richtigstellungen.ch
 richtigtrainieren.ch
 richtigtuer.ch
@@ -1742,6 +1734,7 @@ rickysteinauer.ch
 rickyweb.ch
 riclients.ch
 riclima.ch
+ricloud.ch
 ricm.ch
 ricman.ch
 ricmann.ch
@@ -2233,6 +2226,7 @@ rideparty.ch
 rideplatz.ch
 ridepods.ch
 ridepoint.ch
+rideport.ch
 ridepride.ch
 rideprogression.ch
 rideprovide.ch
@@ -4012,6 +4006,7 @@ rigo.ch
 rigoalr.ch
 rigocare.ch
 rigochips.ch
+rigocosette.ch
 rigofix.ch
 rigoil-invoice.ch
 rigoil.ch
@@ -6099,6 +6094,7 @@ riseupcoaching.ch
 riseupcompany.ch
 riseupfitnessclub.ch
 riseupforchange.ch
+riseupsummit.ch
 riseurbiz.ch
 risevillage.ch
 riseworks.ch
@@ -7198,7 +7194,6 @@ ristorantesasscafe.ch
 ristorantescaletta.ch
 ristoranteschutzengarten.ch
 ristoranteshiva.ch
-ristorantesiciliafastfood.ch
 ristorantesinfonia.ch
 ristorantesociale.ch
 ristorantesoladino.ch
@@ -8930,6 +8925,7 @@ rivieradate.ch
 rivieradent.ch
 rivieradesalpes.ch
 rivieradesign-furnitures.ch
+rivieradevis.ch
 rivieradigital.ch
 rivieraespresso.ch
 rivierafinance.ch

@@ -1291,7 +1291,6 @@ beanmachine-shop.ch
 beanmachine.ch
 beanmusic.ch
 beanne.ch
-beanngone.ch
 beano.ch
 beanoffire.ch
 beanoser.ch
@@ -2397,6 +2396,7 @@ beatricepfister.ch
 beatricepistor.ch
 beatriceriand.ch
 beatriceribaux.ch
+beatriceriesen.ch
 beatricerossi.ch
 beatricerubli.ch
 beatriceruchti.ch
@@ -2925,6 +2925,7 @@ beaute-du-regard-geneve.ch
 beaute-energie.ch
 beaute-essentielle.ch
 beaute-eugenie.ch
+beaute-geneve.ch
 beaute-holistique.ch
 beaute-infinie.ch
 beaute-information.ch
@@ -2933,6 +2934,7 @@ beaute-ivoire.ch
 beaute-jafra.ch
 beaute-jessica-martigny.ch
 beaute-job.ch
+beaute-lausanne.ch
 beaute-libre.ch
 beaute-line.ch
 beaute-lys-gland.ch
@@ -2972,6 +2974,7 @@ beautedor.ch
 beautedulac.ch
 beauteetdecor.ch
 beauteetsoins.ch
+beautegeneve.ch
 beautehubgeneve.ch
 beauteinfinie.ch
 beauteinfo.ch
@@ -3349,6 +3352,7 @@ beauty-gen.ch
 beauty-genconcept.ch
 beauty-genetic.ch
 beauty-genetik.ch
+beauty-geneva.ch
 beauty-geneve.ch
 beauty-gesundheitspraxis-marmon.ch
 beauty-giger.ch
@@ -3424,7 +3428,6 @@ beauty-liner-geschenkideen.ch
 beauty-liner-shop.ch
 beauty-liner.ch
 beauty-locator.ch
-beauty-loft.ch
 beauty-longe.ch
 beauty-luxury.ch
 beauty-luzern.ch
@@ -3531,7 +3534,6 @@ beauty-salons.ch
 beauty-saloon.ch
 beauty-scene.ch
 beauty-schoenheit.ch
-beauty-school.ch
 beauty-schuerli.ch
 beauty-schwyz.ch
 beauty-search.ch
@@ -4331,6 +4333,7 @@ beautylounge-baden.ch
 beautylounge-bea.ch
 beautylounge-bern.ch
 beautylounge-bonaduz.ch
+beautylounge-bygiusy.ch
 beautylounge-cindy.ch
 beautylounge-ebikon.ch
 beautylounge-jeanine.ch
@@ -4629,6 +4632,7 @@ beautyscene.ch
 beautyschoenheit.ch
 beautyschool.ch
 beautyschwyz.ch
+beautyscout.ch
 beautysculpt.ch
 beautysearch.ch
 beautyseasons.ch
@@ -4802,6 +4806,7 @@ beautytravel2go.ch
 beautytreat.ch
 beautytreatments.ch
 beautytreats.ch
+beautytree.ch
 beautytreff.ch
 beautytrend.ch
 beautytrends.ch
@@ -7263,7 +7268,6 @@ beequip.ch
 beer-and-more.ch
 beer-automobile.ch
 beer-bar.ch
-beer-blog.ch
 beer-bubbles.ch
 beer-co.ch
 beer-coach.ch
@@ -7332,7 +7336,6 @@ beerbee.ch
 beerbeer.ch
 beerbigliel.ch
 beerbike.ch
-beerblog.ch
 beerboom.ch
 beerbox.ch
 beerboxx.ch
@@ -8531,6 +8534,7 @@ begruenungssysteme.ch
 begs.ch
 begsa-eg.ch
 begschnelledepa.ch
+begservices.ch
 begsio.ch
 begsolutions.ch
 begswiss.ch
@@ -9838,6 +9842,7 @@ belanumusic.ch
 belapadel.ch
 belapool.ch
 belapp.ch
+belaqua.ch
 belara-avenue.ch
 belara.ch
 belarabi.ch
@@ -13286,6 +13291,7 @@ benchetrit.ch
 benchfinder.ch
 benchflow.ch
 benchfluencer.ch
+benchhood.ch
 benchk.ch
 benchli.ch
 benchly.ch
@@ -15410,6 +15416,7 @@ benux.ch
 benuyer.ch
 benuz.ch
 benvado.ch
+benvajor-b2b.ch
 benvajor.ch
 benvatter.ch
 benvegnu.ch
@@ -15988,6 +15995,7 @@ beoservice.ch
 beoshop.ch
 beosi.ch
 beosigner.ch
+beosolar.ch
 beospa.ch
 beoss.ch
 beostaplerservice.ch
@@ -17843,7 +17851,6 @@ bergerdebeauce.ch
 bergerdepicardie.ch
 bergerdesign.ch
 bergerdigital.ch
-bergerelle.ch
 bergerengineering.ch
 bergeretevenole.ch
 bergerevents.ch
@@ -19974,7 +19981,6 @@ bern-nordquartier.ch
 bern-notar.ch
 bern-notariat.ch
 bern-notfallzahnarzt.ch
-bern-nothelfer.ch
 bern-office.ch
 bern-online.ch
 bern-open.ch
@@ -20073,12 +20079,10 @@ bern-university-hospital.ch
 bern-unverpackt.ch
 bern-upcycling-challenge.ch
 bern-vegan.ch
-bern-verkehrskunde.ch
 bern-versicherung.ch
 bern-viererfeld.ch
 bern-virtual.ch
 bern-vital.ch
-bern-vku.ch
 bern-von-oben.ch
 bern-vorkurs.ch
 bern-waehlt.ch
@@ -20242,7 +20246,6 @@ bernaly.ch
 bernalytics.ch
 bernamadridista.ch
 bernamaro.ch
-bernamball.ch
 bernamed.ch
 bernanaesth.ch
 bernando-bau.ch
@@ -22122,6 +22125,7 @@ bernix.ch
 bernixqelvorn.ch
 berniz.ch
 bernizaugg.ch
+bernjam.ch
 bernjazz.ch
 bernjobber.ch
 bernjobs.ch
@@ -25317,7 +25321,6 @@ best-taxi-service.ch
 best-taxi.ch
 best-tecnonet.ch
 best-test.ch
-best-thai-food.ch
 best-things.ch
 best-timer.ch
 best-tipp.ch
@@ -25865,6 +25868,7 @@ bestbuddysschweiz.ch
 bestbuds.ch
 bestburger.ch
 bestburgerintown.ch
+bestbushcontest.ch
 bestbusiness.ch
 bestbuy.ch
 bestbuycar.ch
@@ -27167,7 +27171,6 @@ bestsound-technology.ch
 bestsound.ch
 bestsource.ch
 bestspaguide.ch
-bestsparen.ch
 bestspee.ch
 bestspirit.ch
 bestsport.ch
@@ -31928,6 +31931,7 @@ bewo-nordstern.ch
 bewo-wetzikon.ch
 bewo-wohnen.ch
 bewo.ch
+bewod.ch
 bewoelgg.ch
 bewoelkt.ch
 bewoge.ch
@@ -32004,7 +32008,6 @@ bewusst-sein-cranio.ch
 bewusst-sein-felice.ch
 bewusst-sein-kk.ch
 bewusst-sein-schule.ch
-bewusst-sein-transformation.ch
 bewusst-sein-wandel.ch
 bewusst-sein.ch
 bewusst-seins-atelier.ch
@@ -32126,7 +32129,6 @@ bewusstsein-schafft-heilung.ch
 bewusstsein-seminar.ch
 bewusstsein-seminare.ch
 bewusstsein-training.ch
-bewusstsein-transformation.ch
 bewusstsein.ch
 bewusstsein7.ch
 bewusstseinbewegt.ch
@@ -32284,6 +32286,8 @@ bexio-microsoft365-connect.ch
 bexio-mobile.ch
 bexio-pos.ch
 bexio-programm.ch
+bexio-rapport.ch
+bexio-rapporte.ch
 bexio-shop.ch
 bexio-software.ch
 bexio-tools.ch
@@ -32293,6 +32297,9 @@ bexio-webshop.ch
 bexio-whmcs.ch
 bexio-woocommerce.ch
 bexio-wordpress.ch
+bexio-zeiterfassung-kmu.ch
+bexio-zeiterfassung.ch
+bexio-zeitrapportierung.ch
 bexio.ch
 bexioaargau.ch
 bexiobackup.ch

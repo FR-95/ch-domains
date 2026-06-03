@@ -46,7 +46,6 @@ ff-service.ch
 ff-services.ch
 ff-sicherheit.ch
 ff-sports.ch
-ff-stsh.ch
 ff-tec.ch
 ff-vermoegensverwaltung.ch
 ff-vv.ch
@@ -515,7 +514,6 @@ ffwpu-nw.ch
 ffwpu.ch
 ffwstaefa.ch
 ffx.ch
-ffy.ch
 ffyachtingservices.ch
 ffyb.ch
 ffz-group.ch

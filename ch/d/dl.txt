@@ -205,6 +205,7 @@ dlg-monitoring.ch
 dlg-treuimmo.ch
 dlg.ch
 dlgag.ch
+dlgcompany.ch
 dlgmbh.ch
 dlgrealestate.ch
 dlgroup.ch

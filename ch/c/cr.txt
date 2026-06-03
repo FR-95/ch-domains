@@ -984,6 +984,7 @@ cranio-vital.ch
 cranio-voneuw.ch
 cranio-wabern.ch
 cranio-waedenswil.ch
+cranio-waelty.ch
 cranio-walenstadt.ch
 cranio-wallis.ch
 cranio-waser.ch
@@ -1020,6 +1021,7 @@ cranio-zh-oberland.ch
 cranio-zh.ch
 cranio-zimmermann.ch
 cranio-zingg.ch
+cranio-zuerich.ch
 cranio-zuerichberg.ch
 cranio-zuerichsee.ch
 cranio-zug.ch
@@ -1665,7 +1667,6 @@ crasseltundpartner.ch
 crasseux.ch
 crassier.ch
 crassier24.ch
-crassiercoeurenfete.ch
 crassierenscene.ch
 crassierlacourse.ch
 crassulaceae.ch
@@ -3010,6 +3011,7 @@ creamarkt.ch
 creamarte.ch
 creamatieres.ch
 creamatix.ch
+creamax.ch
 creambasel.ch
 creambule.ch
 creamcakery.ch
@@ -5277,6 +5279,7 @@ credit-gate.ch
 credit-gate24.ch
 credit-general.ch
 credit-help.ch
+credit-immo.ch
 credit-immobilier.ch
 credit-independant.ch
 credit-information-analytics.ch
@@ -5440,6 +5443,7 @@ crediti-gialli.ch
 crediti.ch
 creditify.ch
 creditigialli.ch
+creditimmo.ch
 creditimmobilier.ch
 creditimmobiliers.ch
 crediting.ch
@@ -6079,10 +6083,12 @@ crepemobile.ch
 creperemos.ch
 creperie-an-arvor.ch
 creperie-bach-buck.ch
+creperie-boulevard.ch
 creperie-bretonne-fraslin.ch
 creperie-christine.ch
 creperie-en-voyage.ch
 creperie-etoilegourmande.ch
+creperie-grancy.ch
 creperie-haselnuss.ch
 creperie-le-cosy.ch
 creperie-lebreton.ch
@@ -6206,6 +6212,8 @@ crescenda.ch
 crescendi.ch
 crescendo-ag.ch
 crescendo-dance.ch
+crescendo-danse.ch
+crescendo-education.ch
 crescendo-formation-coaching.ch
 crescendo-formation.ch
 crescendo-jura.ch
@@ -6503,6 +6511,7 @@ creuzagency.ch
 creuzburg.ch
 crevalon.ch
 crevalor.ch
+crevalys.ch
 crevantix.ch
 crevasse.ch
 crevassegrave.ch
@@ -6596,6 +6605,7 @@ crewtraining.ch
 crewup.ch
 crewx.ch
 crewy.ch
+crewz.ch
 crewzone.ch
 crex.ch
 crexart.ch
@@ -6859,6 +6869,7 @@ criminologie-pedophile.ch
 criminologie.ch
 criminologies.ch
 criminology.ch
+criminomos.ch
 criminon.ch
 criminou.ch
 crimint.ch
@@ -7676,6 +7687,7 @@ crm-troubleshooter.ch
 crm-tv.ch
 crm-umzug-zuerich.ch
 crm-vergleich-schweiz.ch
+crm-vergleich.ch
 crm-vts.ch
 crm-weberumzuege.ch
 crm.ch
@@ -8573,6 +8585,7 @@ crossbootcamp.ch
 crossborder-banking.ch
 crossborder-returns.ch
 crossborder.ch
+crossborderadvisory.ch
 crossborderanalyst.ch
 crossborderbanking.ch
 crossbordercapitalpartners.ch

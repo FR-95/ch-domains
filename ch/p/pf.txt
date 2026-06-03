@@ -2282,7 +2282,6 @@ pferdepoesie.ch
 pferdepony.ch
 pferdeponys.ch
 pferdeportrait.ch
-pferdeportraits.ch
 pferdepower.ch
 pferdepraxis-equimedicus.ch
 pferdepraxis-equisano.ch
@@ -2599,6 +2598,7 @@ pferdfehraltorf.ch
 pferdheilt.ch
 pferdia.ch
 pferdimrecht.ch
+pferdimwind.ch
 pferdimzentrum.ch
 pferdinant.ch
 pferdinbalance.ch

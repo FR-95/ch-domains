@@ -74,6 +74,7 @@ az-eventservice.ch
 az-facilitymanagement.ch
 az-fahrschule.ch
 az-ferienwohnungen.ch
+az-fiduciaire.ch
 az-finance.ch
 az-fislisbach.ch
 az-force.ch
@@ -161,6 +162,7 @@ az-mediation.ch
 az-medien-digital.ch
 az-medien.ch
 az-mediendigital.ch
+az-medkurier.ch
 az-meisterteile.ch
 az-mercantile.ch
 az-metall.ch
@@ -896,6 +898,10 @@ azmuth.ch
 azmy.ch
 azn.ch
 azna.ch
+aznacapital.ch
+aznafinance.ch
+aznafunding.ch
+aznapay.ch
 aznar-cie.ch
 aznar-direct.ch
 aznar.ch

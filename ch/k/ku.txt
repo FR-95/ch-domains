@@ -1294,6 +1294,7 @@ kuehlmoebel247.ch
 kuehlmoebelbau.ch
 kuehlprodukt.ch
 kuehlprodukte.ch
+kuehlprojects.ch
 kuehlraum.ch
 kuehlraumbau.ch
 kuehlraumregal.ch
@@ -1680,6 +1681,9 @@ kuenglaw-sg.ch
 kuenglaw-zh.ch
 kuenglogistikcenter.ch
 kuengoldpark.ch
+kuengpartner-treuhand.ch
+kuengpartner.ch
+kuengpartnertreuhand.ch
 kuengpatrick.ch
 kuengplast.ch
 kuengraetsel.ch
@@ -5108,7 +5112,6 @@ kumquats.ch
 kumra.ch
 kumral.ch
 kumrijerexhepi.ch
-kumro.ch
 kumru.ch
 kumrucatering.ch
 kumschick.ch
@@ -5679,6 +5682,7 @@ kung-stores.ch
 kung.ch
 kunga.ch
 kungdo.ch
+kungfarmer.ch
 kungfoo.ch
 kungfu-4all.ch
 kungfu-basel.ch

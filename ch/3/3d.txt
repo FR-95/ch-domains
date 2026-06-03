@@ -55,6 +55,7 @@
 3d-bodyscan.ch
 3d-boeden.ch
 3d-bossi.ch
+3d-box.ch
 3d-brille.ch
 3d-brillen-shop.ch
 3d-brillen.ch
@@ -1117,6 +1118,7 @@
 3dradio.ch
 3draumtour.ch
 3dreams.ch
+3dreforge.ch
 3dreforged.ch
 3drelief.ch
 3drender.ch

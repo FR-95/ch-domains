@@ -344,7 +344,6 @@ isabelle-chevalley.ch
 isabelle-christen.ch
 isabelle-constantin.ch
 isabelle-contesse.ch
-isabelle-daccord-astrologie.ch
 isabelle-daccord.ch
 isabelle-darlipson.ch
 isabelle-daulte.ch
@@ -1895,6 +1894,7 @@ isileen-leenhof.ch
 isilimelatrust.ch
 isilk.ch
 isilog.ch
+isilverplay.ch
 isim.ch
 isimar.ch
 isimarktplatz.ch
@@ -2478,6 +2478,7 @@ isms.ch
 isms27001.ch
 ismsaas.ch
 ismsboutique.ch
+ismshield.ch
 ismsl.ch
 ismsmap.ch
 ismsmaps.ch
@@ -3585,6 +3586,8 @@ isrswitzerland.ch
 isrv.ch
 iss-academy.ch
 iss-ag.ch
+iss-allegaticontrattuali.ch
+iss-annexescontractuelles.ch
 iss-apple-star.ch
 iss-aviation.ch
 iss-baumit.ch

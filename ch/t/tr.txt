@@ -2820,6 +2820,7 @@ trainerscout.ch
 trainersexcellence.ch
 trainersondemand.ch
 trainersuchportal.ch
+trainerswiss.ch
 trainertage.ch
 trainertagung.ch
 trainertalk.ch
@@ -4829,6 +4830,7 @@ transfreight.ch
 transfrontalier.ch
 transfrontaliere.ch
 transfrontaliers.ch
+transfurmaziun.ch
 transfusion-crs.ch
 transfusion-fr.ch
 transfusion-suisse.ch
@@ -4970,7 +4972,6 @@ transition-realisations.ch
 transition-responsable.ch
 transition-schwarzenburgerland.ch
 transition-services.ch
-transition-success.ch
 transition-transformation.ch
 transition-tv.ch
 transition-uster.ch
@@ -6044,6 +6045,7 @@ transtext.ch
 transthal-garage.ch
 transtherm.ch
 transthermic.ch
+transtoken.ch
 transtokenlogistics.ch
 transtop.ch
 transtourne.ch
@@ -10747,6 +10749,7 @@ trendfolge.ch
 trendfolger.ch
 trendfolio.ch
 trendfollowingmanifesto.ch
+trendforge.ch
 trendform.ch
 trendforscher.ch
 trendforschung.ch
@@ -11515,6 +11518,7 @@ treppensanierung.ch
 treppensanierungen.ch
 treppenschutzgitter.ch
 treppenscout24.ch
+treppenshop.ch
 treppensicherheit.ch
 treppensitzlift.ch
 treppensitzlifte.ch
@@ -14194,6 +14198,7 @@ trifinance.ch
 trifinanz.ch
 trifiss.ch
 trifkovic.ch
+triflash.ch
 triflaz.ch
 triflect-consulting.ch
 triflect.ch
@@ -14593,6 +14598,7 @@ trimbach.ch
 trimbach24.ch
 trimbacher-dorfmaeret.ch
 trimbacher-kulturgut.ch
+trimbaldi.ch
 trimbau.ch
 trimbi.ch
 trimbim.ch
@@ -15240,6 +15246,7 @@ triologue.ch
 triom.ch
 trioma.ch
 triomagic.ch
+triomark.ch
 triomarkets.ch
 triomarkusliebi.ch
 triome-montagne.ch
@@ -15356,7 +15363,6 @@ triox.ch
 trioz-architectes.ch
 triozupfgeigen.ch
 triozwo.ch
-trip-advisor.ch
 trip-book.ch
 trip-it-up.ch
 trip-kos.ch
@@ -16576,7 +16582,6 @@ trockendampf-reinigung.ch
 trockendampf.ch
 trockendampfer.ch
 trockendampfreinigen.ch
-trockendampfreiniger.ch
 trockendampfreinigung.ch
 trockendock.ch
 trockene-amd.ch
@@ -19682,6 +19687,7 @@ trustcloud.ch
 trustcoaching.ch
 trustcom.ch
 trustcomp.ch
+trustcompanies.ch
 trustcompany.ch
 trustcompliance.ch
 trustcon.ch

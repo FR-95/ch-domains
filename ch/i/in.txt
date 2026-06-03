@@ -3282,8 +3282,8 @@ individuocoaching.ch
 individureal.ch
 individuum-pferd.ch
 individuum.ch
+individuus.ch
 individuval.ch
-individuwell.ch
 indivikar-ag.ch
 indivikar.ch
 indivina.ch
@@ -4133,7 +4133,6 @@ industrieller-siebdruck.ch
 industriellereinigung.ch
 industrielogistik.ch
 industrieluftfilter.ch
-industriemagazin.ch
 industriemaler.ch
 industriemarketing.ch
 industriemarkt.ch
@@ -7070,6 +7069,7 @@ infonetcom.ch
 infonetswiss.ch
 infonetweb.ch
 infonetwork.ch
+infonetz.ch
 infonetzwerk.ch
 infonews-vaudoise.ch
 infonews.ch
@@ -12054,6 +12054,7 @@ innercircle.ch
 innercirclegroup.ch
 innercity.ch
 innerclarity.ch
+innerclaritydesign.ch
 innercoach.ch
 innercoaching.ch
 innercoherence.ch
@@ -12126,6 +12127,7 @@ inneren-ausgleich.ch
 inneren-frieden-finden.ch
 innereordnung.ch
 innerequelle.ch
+innerer-freispruch.ch
 innerer-frieden.ch
 innerer-klang.ch
 innerer-kompass.ch
@@ -12543,7 +12545,6 @@ innobat.ch
 innobau-ag.ch
 innobau-service.ch
 innobau.ch
-innobaumat.ch
 innobe.ch
 innobeat.ch
 innobeck.ch
@@ -13495,6 +13496,8 @@ innovation-digitaltrust.ch
 innovation-enabler.ch
 innovation-events.ch
 innovation-exchange.ch
+innovation-factory-basel.ch
+innovation-factory-uptownbasel.ch
 innovation-factory.ch
 innovation-for-freedom.ch
 innovation-forces.ch
@@ -13652,6 +13655,8 @@ innovationexcellence.ch
 innovationexperts.ch
 innovationexplorer.ch
 innovationfactory.ch
+innovationfactorybasel.ch
+innovationfactoryuptownbasel.ch
 innovationfellowship.ch
 innovationfilmfestival.ch
 innovationforces.ch
@@ -14140,7 +14145,6 @@ innovo-ag.ch
 innovo-tech.ch
 innovo.ch
 innovobrain.ch
-innovoie.ch
 innovolt.ch
 innovolution.ch
 innovolve.ch
@@ -15849,7 +15853,6 @@ inserategenerator.ch
 inserategestaltung.ch
 inserategratis.ch
 inserateklick.ch
-inseratekombi.ch
 inseratenpower.ch
 inserateonline.ch
 inseratepirat.ch
@@ -16182,6 +16185,7 @@ insideoutpeopleconsulting.ch
 insideoutside-wohnen.ch
 insideoutside.ch
 insideoutsolutions.ch
+insideoutstudios.ch
 insideparadeplatz.ch
 insidepharmacy.ch
 insidepolitics.ch
@@ -16299,7 +16303,6 @@ insidetoerliplatz.ch
 insidetours.ch
 insideusa.ch
 insideverwaltung.ch
-insideview.ch
 insidewallis.ch
 insidework.ch
 insidex.ch
@@ -16578,6 +16581,7 @@ insipidus.ch
 insis.ch
 insist-consulting.ch
 insist.ch
+insista.ch
 insistierungsinitiative.ch
 insit-heig-vd.ch
 insit-heig.ch
@@ -16985,6 +16989,7 @@ inspire-solutions.ch
 inspire-t.ch
 inspire-tea.ch
 inspire-tool.ch
+inspire.ch
 inspire247.ch
 inspire529.ch
 inspire925.ch
@@ -21455,7 +21460,6 @@ interfoto.ch
 interfox.ch
 interfracht.ch
 interfrais.ch
-interfranchise.ch
 interfreight.ch
 interfriendship.ch
 interfrigo-transporte.ch
@@ -21584,7 +21588,6 @@ interieurdesigner.ch
 interieurdesignerin.ch
 interieurement-votre.ch
 interieurementvotre.ch
-interieurharmonieux.ch
 interieurmontagen.ch
 interieurplus.ch
 interieurs.ch
@@ -21611,8 +21614,6 @@ interim-leaders.ch
 interim-legaljob.ch
 interim-leitung-pflege.ch
 interim-loft.ch
-interim-logistic.ch
-interim-logistik.ch
 interim-management-experten.ch
 interim-management-forum.ch
 interim-management-gesundheitswesen.ch
@@ -22201,7 +22202,6 @@ intermec.ch
 intermeccanica.ch
 intermed-pm.ch
 intermed.ch
-intermede.ch
 intermedia-group.ch
 intermedia-services.ch
 intermedia.ch
@@ -22463,6 +22463,7 @@ internationalcircle.ch
 internationalcleaningguide.ch
 internationalclub.ch
 internationalcoaching.ch
+internationalcoachingfederation.ch
 internationalcoachingsolutions.ch
 internationalcomedy.ch
 internationalcomedyclub.ch
@@ -25081,6 +25082,7 @@ intuitioneers.ch
 intuitionenergies.ch
 intuitionleading.ch
 intuitionmassage.ch
+intuitionphoto.ch
 intuitions-coaching.ch
 intuitions-training.ch
 intuitions.ch
@@ -25751,7 +25753,6 @@ inveso.ch
 invesprit.ch
 invesq.ch
 invest-1.ch
-invest-22.ch
 invest-allianz.ch
 invest-anker.ch
 invest-art.ch
@@ -26363,7 +26364,6 @@ investorsclub.ch
 investorscout.ch
 investorscout24.ch
 investorsdaily.ch
-investorsdeal.ch
 investorsdialogue.ch
 investorservice.ch
 investorservices.ch
@@ -26875,7 +26875,6 @@ invotica.ch
 invouta.ch
 invox.ch
 invoxia.ch
-invoya.ch
 invprod.ch
 invrsm.ch
 invs.ch
@@ -27013,7 +27012,6 @@ inzero.ch
 inzest.ch
 inzetra.ch
 inzh.ch
-inzi.ch
 inziativa-internet.ch
 inzic.ch
 inzicarrelages.ch

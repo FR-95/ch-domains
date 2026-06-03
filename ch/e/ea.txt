@@ -1990,7 +1990,6 @@ easyanlass.ch
 easyanlegen.ch
 easyanleger.ch
 easyapi.ch
-easyapply.ch
 easyarchi.ch
 easyart.ch
 easyaservices.ch
@@ -3096,6 +3095,7 @@ easypac-pompe-chaleur.ch
 easypac.ch
 easypact.ch
 easypad.ch
+easypaddle.ch
 easypadel.ch
 easypage.ch
 easypagemachine.ch
@@ -3870,7 +3870,6 @@ eat-express-basel.ch
 eat-factory.ch
 eat-fair.ch
 eat-fine.ch
-eat-food.ch
 eat-go.ch
 eat-good.ch
 eat-home.ch

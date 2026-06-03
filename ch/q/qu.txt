@@ -475,7 +475,6 @@ quakenet.ch
 quaker.ch
 quakerstate.ch
 quakes.ch
-quakeworld.ch
 quaki.ch
 quakk.ch
 quakkids.ch
@@ -1947,8 +1946,6 @@ quantumnetwork.ch
 quantumnex.ch
 quantumnight.ch
 quantumonline.ch
-quantumpass.ch
-quantumpay.ch
 quantumpeak.ch
 quantumpr.ch
 quantumprevention.ch
@@ -2296,7 +2293,6 @@ quartierblock-riesbach.ch
 quartierbonson.ch
 quartierboveresses.ch
 quartierbreitfeld.ch
-quartierbuehni.ch
 quartierbuero.ch
 quartierbus-witikon.ch
 quartierchile.ch
@@ -3018,6 +3014,7 @@ queen-nails-buchs.ch
 queen-nails-roschach.ch
 queen-nails.ch
 queen-of-beauty.ch
+queen-of-curry.ch
 queen-of-drags.ch
 queen-of-golf.ch
 queen-t.ch
@@ -4267,6 +4264,7 @@ quickfirma.ch
 quickfist.ch
 quickfit.ch
 quickfix.ch
+quickfixit.ch
 quickflat.ch
 quickflex.ch
 quickflirt.ch

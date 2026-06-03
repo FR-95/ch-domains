@@ -1191,6 +1191,7 @@ edelweiss-fluelen.ch
 edelweiss-flug.ch
 edelweiss-fm.ch
 edelweiss-fotoatelier.ch
+edelweiss-foundation.ch
 edelweiss-fs.ch
 edelweiss-gaming.ch
 edelweiss-garden.ch
@@ -2307,6 +2308,7 @@ edilina.ch
 edilio-staging.ch
 edilio.ch
 edilizia-sa.ch
+edilizia365.ch
 ediliziacimiteriale.ch
 ediliziafioravante.ch
 ediliziafjoralbasagl.ch
@@ -3821,7 +3823,6 @@ edtechmat.ch
 edtechplus.ch
 edtechschweiz.ch
 edtechsolutions.ch
-edtechswiss.ch
 edtechswitzerland.ch
 edtek.ch
 edtherapeute.ch
@@ -4866,7 +4867,6 @@ edusek47.ch
 eduselect.ch
 eduservices.ch
 edush.ch
-edushift.ch
 edushnet.ch
 edushop.ch
 edusiem.ch
@@ -5037,6 +5037,7 @@ edv-handel.ch
 edv-hilfe.ch
 edv-installationen.ch
 edv-jobs.ch
+edv-kantiwil.ch
 edv-keller.ch
 edv-keys.ch
 edv-kg.ch

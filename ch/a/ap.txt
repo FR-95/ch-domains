@@ -806,6 +806,7 @@ ape-latene.ch
 ape-le-sapay.ch
 ape-libellules.ch
 ape-lucens.ch
+ape-luchepelet.ch
 ape-martigny.ch
 ape-mieten.ch
 ape-monthey.ch
@@ -1295,6 +1296,7 @@ apex-capital.ch
 apex-circuits.ch
 apex-consult.ch
 apex-consulting.ch
+apex-detailing.ch
 apex-drive.ch
 apex-eleven.ch
 apex-etancheite.ch
@@ -1323,6 +1325,7 @@ apex-partners.ch
 apex-perf.ch
 apex-performance.ch
 apex-property.ch
+apex-reinigung.ch
 apex-rentals.ch
 apex-rohrreinigung.ch
 apex-security.ch
@@ -1473,6 +1476,7 @@ apexvoyages.ch
 apexware.ch
 apexx-swiss.ch
 apexx.ch
+apexx01.ch
 apexxnar.ch
 apexxswiss.ch
 apexzonegrappling.ch
@@ -3994,7 +3998,6 @@ app-sbb.ch
 app-schweiz.ch
 app-sdplus.ch
 app-sec.ch
-app-security.ch
 app-seeland.ch
 app-server.ch
 app-service.ch
@@ -4682,7 +4685,6 @@ appenzeller-erholung.ch
 appenzeller-erlebnis.ch
 appenzeller-erlebnisbauernhof.ch
 appenzeller-events.ch
-appenzeller-fahrrad.ch
 appenzeller-farm.ch
 appenzeller-feinkost.ch
 appenzeller-ferien.ch
@@ -5003,7 +5005,6 @@ appenzellerobst.ch
 appenzellerpantli.ch
 appenzellerpark.ch
 appenzellerparty.ch
-appenzellerpellets.ch
 appenzellerpizza.ch
 appenzellerprint.ch
 appenzellerprodukte.ch
@@ -6010,6 +6011,7 @@ apps.ch
 apps1209.ch
 apps24.ch
 apps4energy.ch
+apps4eng.ch
 apps4gastro.ch
 apps4people.ch
 apps4u.ch
@@ -6447,7 +6449,6 @@ aprioridecor.ch
 aprioris-en.ch
 aprioris-fr.ch
 aprioris.ch
-aprioritech.ch
 apriority.ch
 apriresocietasvizzera.ch
 aprischkin.ch

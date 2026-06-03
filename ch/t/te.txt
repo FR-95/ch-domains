@@ -3389,6 +3389,7 @@ technet-alliance.ch
 technet-bussindustriepark.ch
 technet-lockstadt.ch
 technet-papieri-cham.ch
+technet-solutions.ch
 technet.ch
 technetium.ch
 technetmedia.ch
@@ -6262,6 +6263,7 @@ teildesganzen.ch
 teildrei.ch
 teile-24.ch
 teile-direkt.ch
+teile-doc.ch
 teile-job.ch
 teile-lager.ch
 teile-meister.ch
@@ -6302,6 +6304,7 @@ teilentladungsmessung.ch
 teilenwelt.ch
 teilepaket.ch
 teilepirat.ch
+teileprofi.ch
 teilepunkt.ch
 teiler.ch
 teilerei.ch
@@ -6311,6 +6314,7 @@ teilerrecords.ch
 teilescout.ch
 teilescout24.ch
 teileshop.ch
+teileshop24.ch
 teilespender.ch
 teilestore.ch
 teilesucher.ch
@@ -6340,6 +6344,7 @@ teilhaber.ch
 teilhaberin.ch
 teilhabethun.ch
 teilio.ch
+teilix.ch
 teilkasko-versicherung.ch
 teilkasko.ch
 teilkaskovergleich.ch
@@ -6628,6 +6633,7 @@ teknilight.ch
 teknim.ch
 tekniwiki.ch
 tekno-logy.ch
+tekno-solutions.ch
 tekno-trade.ch
 tekno.ch
 teknobat.ch
@@ -10045,6 +10051,7 @@ teneriferealty.ch
 teneriffa-golf.ch
 teneriffa-immobilien.ch
 teneriffa.ch
+tenerist.ch
 tenerity.ch
 tenerkey.ch
 tenero-contra.ch
@@ -11162,6 +11169,7 @@ teocao.ch
 teocosta.ch
 teocostavini.ch
 teodia.ch
+teodistribution.ch
 teodolci.ch
 teodor.ch
 teodora.ch
@@ -12347,6 +12355,7 @@ terra-form-system.ch
 terra-form.ch
 terra-fortuna.ch
 terra-fragrans.ch
+terra-futura.ch
 terra-gaia.ch
 terra-galos-weingueter.ch
 terra-gaming.ch
@@ -12913,7 +12922,6 @@ terranostra-gryon.ch
 terranostra-valposchiavo.ch
 terranostra.ch
 terranostrafood.ch
-terranostragryon.ch
 terranouva.ch
 terranova-aveda.ch
 terranova-corsier.ch
@@ -16122,7 +16130,6 @@ tetancheite.ch
 tetanol-pur.ch
 tetanol.ch
 tetanos.ch
-tetanosart.ch
 tetanus.ch
 tetard.ch
 tetardco.ch
@@ -17192,6 +17199,7 @@ textilbanner.ch
 textilbanner24.ch
 textilbar.ch
 textilbaumarkt.ch
+textilbedarf.ch
 textilbedruckung.ch
 textilberufe.ch
 textilbeschriftung.ch

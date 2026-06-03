@@ -116,6 +116,7 @@ ba28.ch
 ba3.ch
 ba360.ch
 ba5el.ch
+ba5ta.ch
 ba6.ch
 baa.ch
 baaa.ch
@@ -534,6 +535,7 @@ babatrend.ch
 babatt.ch
 babauba.ch
 babauprojekte.ch
+babauslender.ch
 babavegi.ch
 babavegifood.ch
 babayaga-candles.ch
@@ -2205,6 +2207,7 @@ bach-uebersetzungen.ch
 bach-wili.ch
 bach.ch
 bach16.ch
+bacha.ch
 bachab.ch
 bachachala.ch
 bachacher.ch
@@ -7067,6 +7070,7 @@ baertschi-mail.ch
 baertschi-management.ch
 baertschi-marketing.ch
 baertschi-mechanik.ch
+baertschi-media.ch
 baertschi-net.ch
 baertschi-onkologie.ch
 baertschi-partner.ch
@@ -7577,6 +7581,7 @@ bagger-plausch.ch
 bagger-pleisch.ch
 bagger-rent.ch
 bagger-schweiz.ch
+bagger-software.ch
 bagger-spass.ch
 bagger-stoll.ch
 bagger-stutz.ch
@@ -7600,6 +7605,7 @@ baggerarbeiten-schweiz.ch
 baggerarbeiten.ch
 baggerbesen.ch
 baggerbetrieb-hasenfratz.ch
+baggerbetrieb-software.ch
 baggerbetrieb.ch
 baggerbetriebe.ch
 baggerbetriebrogerhobi.ch
@@ -7768,6 +7774,7 @@ bagnes4.ch
 bagnes98.ch
 bagnesimmobilier.ch
 bagnesraclette.ch
+bagnessansfrontiere.ch
 bagneswagon.ch
 bagnet.ch
 bagni.ch
@@ -9114,7 +9121,6 @@ bajelbau.ch
 bajema.ch
 bajer.ch
 bajexpress.ch
-bajfab.ch
 bajfe.ch
 bajgroup.ch
 bajh.ch
@@ -9650,6 +9656,7 @@ balance-boards.ch
 balance-borse.ch
 balance-bounce.ch
 balance-buchsi.ch
+balance-buelach.ch
 balance-center.ch
 balance-challenge.ch
 balance-clinic.ch
@@ -10473,6 +10480,7 @@ baletite.ch
 baletpaysage.ch
 baletroux.ch
 balett-storen.ch
+balett.ch
 balette.ch
 baletus.ch
 balevedere.ch
@@ -11247,6 +11255,7 @@ ballettschule-schaffhausen.ch
 ballettschule-schmaeh.ch
 ballettschule-steinamrhein.ch
 ballettschule-tanzschule.ch
+ballettschule-uri.ch
 ballettschule-valeria.ch
 ballettschule-waedenswil.ch
 ballettschule-winterthur.ch
@@ -14466,6 +14475,7 @@ bankingcampus.ch
 bankingcareer.ch
 bankingcareers.ch
 bankingcheck.ch
+bankingcircle.ch
 bankingclub.ch
 bankingconcepts.ch
 bankingdays.ch
@@ -17125,6 +17135,7 @@ barchipartners.ch
 barchitekten.ch
 barchitektenag.ch
 barci.ch
+barcia.ch
 barciela.ch
 barcikowski-consulting.ch
 barcilaw.ch
@@ -17175,6 +17186,7 @@ barcode-shop.ch
 barcode.ch
 barcode24.ch
 barcodeborgo.ch
+barcodedata.ch
 barcodedatenbank.ch
 barcodedb.ch
 barcodedrucker-mobit.ch
@@ -18068,7 +18080,6 @@ barkeeper-union.ch
 barkeeper.ch
 barkeeperbasel.ch
 barkeeperkurs.ch
-barkeepermagazin.ch
 barkeeperoftheyear.ch
 barkeepers.ch
 barkeeperverein.ch
@@ -18265,6 +18276,7 @@ barmettlerelektroberatung.ch
 barmettlergarten.ch
 barmettlergartenbau.ch
 barmettlergmbh.ch
+barmettleronline.ch
 barmettlers.ch
 barmexico.ch
 barmezze.ch
@@ -20000,10 +20012,8 @@ basel-circular.ch
 basel-city-apartments.ch
 basel-city.ch
 basel-citycard-ja.ch
-basel-cityguide.ch
 basel-cityguides.ch
 basel-clean.ch
-basel-cleaning.ch
 basel-clearspace.ch
 basel-cloud.ch
 basel-coach.ch
@@ -20463,7 +20473,6 @@ baselcitytaxi.ch
 baselcitytour.ch
 baselcitytriathlon.ch
 baselclean.ch
-baselcleaning.ch
 baselcloud.ch
 baselclub.ch
 baselcoach.ch
@@ -22149,7 +22158,6 @@ baslerschulblatt.ch
 baslershof.ch
 baslershop.ch
 baslersommerspiele.ch
-baslersozialpreis.ch
 baslerspendenparlament.ch
 baslerspendenparlamentdernordwestschweiz.ch
 baslerspezialitaeten.ch
@@ -23320,6 +23328,7 @@ batiforce.ch
 batiform.ch
 batiforyou.ch
 batifri.ch
+batifutur.ch
 batige.ch
 batigenie-immobilier.ch
 batigenie.ch
@@ -24611,6 +24620,7 @@ bau-web.ch
 bau-weber.ch
 bau-weise.ch
 bau-welt.ch
+bau-welten.ch
 bau-werk.ch
 bau-wert.ch
 bau-wgo.ch
@@ -26835,6 +26845,7 @@ bauleasing.ch
 bauleben.ch
 baulehre.ch
 baulehrstelle.ch
+bauleicht.ch
 bauleistung.ch
 bauleistungen.ch
 bauleistungsversicherung.ch
@@ -27265,6 +27276,7 @@ baumann-trading.ch
 baumann-transport.ch
 baumann-umbauten.ch
 baumann-unterwegs.ch
+baumann-verwaltung.ch
 baumann-walcher.ch
 baumann-waser.ch
 baumann-wb.ch
@@ -28983,7 +28995,6 @@ baurhermann.ch
 baurichtig.ch
 baurimmobilien.ch
 baurimmofin.ch
-bauring-ag.ch
 bauring-plus-ag.ch
 bauring.ch
 bauringplusag.ch
@@ -29110,6 +29121,7 @@ bauschaenzli-oktoberfest-zueri.ch
 bauschaenzli.ch
 bauschan.ch
 bauschandlomb.ch
+bauschatz.ch
 bauschau.ch
 bauschaum.ch
 bauscheff.ch
@@ -29633,6 +29645,7 @@ bautaskforce.ch
 bautastudio.ch
 bautastudios.ch
 bautaucher.ch
+baute.ch
 bauteam-appenzellerland.ch
 bauteam-b.ch
 bauteam-bergmann.ch

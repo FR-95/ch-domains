@@ -100,6 +100,7 @@ pm-recruiting.ch
 pm-rentadress.ch
 pm-retour.ch
 pm-riffkeramik.ch
+pm-s.ch
 pm-sa.ch
 pm-schluessel.ch
 pm-schweiz.ch
@@ -383,7 +384,6 @@ pme-candidats-election.ch
 pme-capital.ch
 pme-check.ch
 pme-com.ch
-pme-communication.ch
 pme-compta.ch
 pme-conseil.ch
 pme-conseils.ch

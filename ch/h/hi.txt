@@ -2259,7 +2259,6 @@ hilfe-fuer-schwangere.ch
 hilfe-gr.ch
 hilfe-hilft.ch
 hilfe-ich-habe-angst-vorm-zahnarzt.ch
-hilfe-im-alltag-ag.ch
 hilfe-im-alter.ch
 hilfe-im-buero.ch
 hilfe-im-web.ch
@@ -2340,6 +2339,7 @@ hilfetelefon-rund-um-die-geburt.ch
 hilfetelefon.ch
 hilfetelefon24.ch
 hilfeuhr.ch
+hilfevorort.ch
 hilfezentrale.ch
 hilfezentrum.ch
 hilfezuhause.ch
@@ -5767,6 +5767,7 @@ hitman.ch
 hitmanagement.ch
 hitmanagent47.ch
 hitmanpro.ch
+hitmebaby.ch
 hitmill.ch
 hitmixx.ch
 hitmusicals.ch
@@ -5955,6 +5956,7 @@ hitzimmobilien.ch
 hitzjano.ch
 hitzkirch-immobilien.ch
 hitzkirch.ch
+hitzkirch2027.ch
 hitzkirch24.ch
 hitzkirche.ch
 hitzkirchertal.ch
@@ -6033,6 +6035,7 @@ hivedigital.ch
 hivedigital52.ch
 hivedx.ch
 hivefinder.ch
+hivefive.ch
 hiveguard.ch
 hiveheim.ch
 hivehome.ch
@@ -6040,6 +6043,7 @@ hivehotel.ch
 hivehub.ch
 hiveimmo.ch
 hiveinvest.ch
+hivekit.ch
 hivelab.ch
 hivelabs.ch
 hivelife.ch

@@ -67,7 +67,6 @@ foajb.ch
 foam-and-fang.ch
 foam-glas.ch
 foam-glass.ch
-foam-schaum-mousse.ch
 foam-spa-schweiz.ch
 foam-spa.ch
 foam-spas.ch
@@ -1800,7 +1799,6 @@ folettisportandcare.ch
 folever.ch
 folewi.ch
 folex.ch
-foley-horse.ch
 foley.ch
 foleyart.ch
 foleyoffice.ch
@@ -2545,6 +2543,7 @@ fondation-cerebral.ch
 fondation-chablais-nature.ch
 fondation-chalet-soldat.ch
 fondation-champittet.ch
+fondation-champoud.ch
 fondation-chante-bise.ch
 fondation-chat-botte.ch
 fondation-chercher-trouver.ch
@@ -2628,6 +2627,7 @@ fondation-fleuret.ch
 fondation-force.ch
 fondation-formaspo.ch
 fondation-forpro.ch
+fondation-francoise-champoud.ch
 fondation-fsb.ch
 fondation-fsfp.ch
 fondation-g.ch
@@ -3031,6 +3031,7 @@ fondationcerebral.ch
 fondationceres.ch
 fondationch.ch
 fondationchablaisnature.ch
+fondationchampoud.ch
 fondationcharitable.ch
 fondationcharlotteolivier.ch
 fondationchercherettrouver.ch
@@ -3138,6 +3139,7 @@ fondationflac.ch
 fondationflaviaabubakir.ch
 fondationfondsdusportvaudois.ch
 fondationfrancinedelacretaz.ch
+fondationfrancoisechampoud.ch
 fondationfrancoregli.ch
 fondationfrutiger.ch
 fondationgaydoul.ch
@@ -7307,6 +7309,7 @@ forelpreis.ch
 forelsket-hairdesign.ch
 forelsket.ch
 foremaag.ch
+foreman.ch
 foremanai.ch
 foreminds.ch
 foremost.ch
@@ -8480,6 +8483,7 @@ formation-coach-triathlon-endurance.ch
 formation-coach.ch
 formation-coaching-icf.ch
 formation-coaching.ch
+formation-coiffureholistique.ch
 formation-commerciale-initiale.ch
 formation-commerciale-suisse.ch
 formation-commerciale.ch
@@ -10114,6 +10118,7 @@ forstbetriebuerkental.ch
 forstboard.ch
 forstbrigglis.ch
 forstcoach.ch
+forstcontrol-alternative.ch
 forstcontrol.ch
 forstdb.ch
 forstdienst.ch
@@ -12027,6 +12032,7 @@ fosdyketransportation.ch
 fose.ch
 foseco.ch
 foselect.ch
+foselli.ch
 foserv.ch
 foseyecare.ch
 fosfor-swiss.ch
@@ -15680,7 +15686,6 @@ foxled.ch
 foxli.ch
 foxlima.ch
 foxlin.ch
-foxline.ch
 foxlink.ch
 foxlive.ch
 foxlogistics.ch

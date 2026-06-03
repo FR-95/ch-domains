@@ -877,6 +877,7 @@ office-givisiez.ch
 office-glattpark.ch
 office-gloria.ch
 office-goslow.ch
+office-guru.ch
 office-gym.ch
 office-hahnemann.ch
 office-hausheer.ch
@@ -1550,10 +1551,7 @@ officezurich.ch
 officia.ch
 official-bulletin.ch
 official-charts.ch
-official-eft-coaching.ch
 official-eft-gary-craig.ch
-official-eft-praticien.ch
-official-eft-praticiens.ch
 official-eft.ch
 official-gazettes-portal.ch
 official-kamart.ch
@@ -1571,9 +1569,6 @@ officialcharts.ch
 officialcityguide.ch
 officialeft.ch
 officialeftaman.ch
-officialeftcoaching.ch
-officialeftpraticien.ch
-officialeftpraticiens.ch
 officialempowher.ch
 officialfanshop.ch
 officiallyharder.ch
@@ -2375,6 +2370,7 @@ ofri-treuhand.ch
 ofri.ch
 ofrieda.ch
 ofritreuhand.ch
+ofriumzug.ch
 ofro.ch
 ofroidevaux.ch
 ofrou.ch

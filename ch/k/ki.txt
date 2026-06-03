@@ -48,10 +48,12 @@ ki-analyzer.ch
 ki-anbieter.ch
 ki-anfragesystem.ch
 ki-anrufbeantworter.ch
+ki-antwort.ch
 ki-anwaelte-schweiz.ch
 ki-anwaelte.ch
 ki-anwalt.ch
 ki-anwendungen.ch
+ki-anzeigen.ch
 ki-apero.ch
 ki-app.ch
 ki-apps.ch
@@ -250,6 +252,7 @@ ki-fabrik.ch
 ki-fachkraefte.ch
 ki-fachleute.ch
 ki-fachpersonal.ch
+ki-factory-uptownbasel.ch
 ki-factory.ch
 ki-fahrschule.ch
 ki-fakten.ch
@@ -281,6 +284,7 @@ ki-fotograf.ch
 ki-fotos.ch
 ki-fotoshooting.ch
 ki-fotostudio.ch
+ki-fragen.ch
 ki-frei.ch
 ki-freund.ch
 ki-freundin.ch
@@ -685,6 +689,8 @@ ki-reiseplan.ch
 ki-reiseplaner.ch
 ki-reiseplanung.ch
 ki-rekrutierung.ch
+ki-relevant.ch
+ki-relevanz.ch
 ki-report.ch
 ki-reservation.ch
 ki-restaurant.ch
@@ -744,6 +750,7 @@ ki-shiatsu.ch
 ki-shop.ch
 ki-shoppen.ch
 ki-shopping.ch
+ki-sichbarkeit.ch
 ki-sicherheit.ch
 ki-sichtbar.ch
 ki-sichtbarkeit-check.ch
@@ -1170,7 +1177,9 @@ kiano.ch
 kianour.ch
 kianpur.ch
 kians-abenteuerland.ch
+kiantwort.ch
 kianwalt.ch
+kianzeigen.ch
 kiaoptima.ch
 kiaora-manuka.ch
 kiaora-massage.ch
@@ -1430,6 +1439,7 @@ kibuchhaltung.ch
 kibue.ch
 kibuero.ch
 kibula.ch
+kibulo.ch
 kibun.ch
 kibungi.ch
 kibunker.ch
@@ -1620,7 +1630,6 @@ kicknrush.ch
 kickoff-event.ch
 kickoff-leadership.ch
 kickoff-media.ch
-kickoff-skills.ch
 kickoff.ch
 kickoff24.ch
 kickoffcdi.ch
@@ -1724,6 +1733,7 @@ kicrypto.ch
 kicsy.ch
 kicx.ch
 kid-app.ch
+kid-bike.ch
 kid-boy.ch
 kid-care.ch
 kid-cdi.ch
@@ -1751,6 +1761,7 @@ kidam.ch
 kidame.ch
 kidan.ch
 kidandkid.ch
+kidanima.ch
 kidanu.ch
 kidapp.ch
 kidata.ch
@@ -3437,6 +3448,7 @@ kifotostudio.ch
 kifour.ch
 kifparechoc.ch
 kifra.ch
+kifragen.ch
 kiframework.ch
 kifreelancer.ch
 kifrei.ch
@@ -4105,7 +4117,6 @@ kill-chain.ch
 kill-code.ch
 kill-grill.ch
 kill-plastic.ch
-kill-swit.ch
 kill-the-noise.ch
 kill.ch
 killa-pool.ch
@@ -4957,7 +4968,6 @@ kinder-4.ch
 kinder-aerzte.ch
 kinder-aerztin.ch
 kinder-aerztinnenpraxis.ch
-kinder-anwalt.ch
 kinder-apo.ch
 kinder-apotheke.ch
 kinder-apotheken.ch
@@ -5040,6 +5050,7 @@ kinder-foerdern.ch
 kinder-forschen.ch
 kinder-fotoshooting.ch
 kinder-frei-zeit.ch
+kinder-fun.ch
 kinder-funpark.ch
 kinder-fussball.ch
 kinder-galaxie.ch
@@ -5386,7 +5397,6 @@ kinderabenteuerhof.ch
 kinderabzug-bschiss.ch
 kinderabzug.ch
 kinderado.ch
-kinderadvokatur.ch
 kinderaerzte-am-rigiplatz.ch
 kinderaerzte-binningen.ch
 kinderaerzte-cham.ch
@@ -5451,7 +5461,6 @@ kinderanwaeltin-aargau.ch
 kinderanwaeltin.ch
 kinderanwaeltinnen.ch
 kinderanwalt-aargau.ch
-kinderanwalt-luzern.ch
 kinderanwalt.ch
 kinderanwaltschaft.ch
 kinderapotheke.ch
@@ -8895,7 +8904,6 @@ kinesiologie-lausen.ch
 kinesiologie-lebensfreude.ch
 kinesiologie-lehner.ch
 kinesiologie-lenzburg.ch
-kinesiologie-leopold.ch
 kinesiologie-lernberatung.ch
 kinesiologie-lerncoaching.ch
 kinesiologie-lichtquelle.ch
@@ -10655,6 +10663,7 @@ kinzenba.ch
 kinzeno.ch
 kinzframe.ch
 kinzi.ch
+kinzl.ch
 kinzo.ch
 kinzoku.ch
 kio.ch
@@ -10709,7 +10718,6 @@ kiosk-box.ch
 kiosk-buerki.ch
 kiosk-buerkli.ch
 kiosk-dukaan.ch
-kiosk-ecke.ch
 kiosk-express.ch
 kiosk-hotel.ch
 kiosk-io-rent.ch
@@ -12218,6 +12226,8 @@ kireform.ch
 kiregister.ch
 kireifegrad.ch
 kireina.ch
+kirelevant.ch
+kirelevanz.ch
 kirella.ch
 kirendo.ch
 kirenove.ch
@@ -12603,6 +12613,7 @@ kishop.ch
 kishopping.ch
 kisi.ch
 kisianalytics.ch
+kisichbarkeit.ch
 kisichtbarkeit.ch
 kisielewski.ch
 kisifrotsipik.ch
@@ -13493,6 +13504,7 @@ kita-mimi.ch
 kita-minimundo.ch
 kita-mitenand.ch
 kita-mobilas.ch
+kita-moebel-schweiz.ch
 kita-momoka.ch
 kita-mosaik.ch
 kita-muehleggli.ch

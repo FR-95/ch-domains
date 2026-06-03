@@ -130,7 +130,6 @@ ks-tech.ch
 ks-technik.ch
 ks-tools.ch
 ks-training.ch
-ks-transport.ch
 ks-treasure.ch
 ks-treuhand.ch
 ks-untere-emme.ch
@@ -538,7 +537,6 @@ ksm-informatik.ch
 ksm-jobs.ch
 ksm-kirchenberufe.ch
 ksm-pfarrberuf.ch
-ksm-photographie.ch
 ksm-rotothermservice.ch
 ksm-schweiz.ch
 ksm-services.ch
@@ -571,7 +569,6 @@ ksmomos.ch
 ksmos.ch
 ksmotorcycles.ch
 ksmp.ch
-ksmphotographie.ch
 ksmr.ch
 ksmreinigung.ch
 ksmsa.ch
@@ -806,7 +803,6 @@ ksug.ch
 ksuite-alias-test.ch
 ksuite-commande-suisse.ch
 ksuite-maxime.ch
-ksuite-schwerelos.ch
 ksuite-test1.ch
 ksuite-test11.ch
 ksuite-test12.ch
@@ -877,9 +873,9 @@ kswe.ch
 ksweb.ch
 ksweet-kdrive.ch
 kswenext.ch
-kswgo.ch
 kswh.ch
 kswiedikon.ch
+kswil.ch
 kswillisau.ch
 kswim.ch
 kswiss.ch

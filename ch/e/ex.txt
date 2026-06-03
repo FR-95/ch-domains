@@ -466,6 +466,7 @@ excel-crack.ch
 excel-danse.ch
 excel-entwickler.ch
 excel-ferienkalender.ch
+excel-ferienplan.ch
 excel-gestion.ch
 excel-go.ch
 excel-hilfe.ch
@@ -479,12 +480,16 @@ excel-passwort-vergessen.ch
 excel-pratique.ch
 excel-profi.ch
 excel-programmierer.ch
+excel-rapport.ch
+excel-regierapport.ch
 excel-revisionssicher.ch
 excel-service.ch
 excel-spezialist.ch
+excel-stundenzettel.ch
 excel-support.ch
 excel-to-fibu.ch
 excel-tools.ch
+excel-zeiterfassung.ch
 excel.ch
 excel2go.ch
 excel4you.ch
@@ -737,7 +742,6 @@ excelsior-locarno.ch
 excelsior-medicalbeauty.ch
 excelsior-park.ch
 excelsior-realestate.ch
-excelsior-reinigung.ch
 excelsior-zermatt.ch
 excelsior.casymir.ch
 excelsior.ch
@@ -1092,6 +1096,7 @@ exclusivetravel.ch
 exclusivetrips.ch
 exclusiveuhren.ch
 exclusivevillas-db.ch
+exclusivewebapps.ch
 exclusivewedding.ch
 exclusiveweddings.ch
 exclusiveweddingsandevents.ch

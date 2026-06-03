@@ -737,7 +737,6 @@ doclentikular.ch
 doclex.ch
 docli.ch
 doclia.ch
-doclib.ch
 doclife.ch
 doclift.ch
 doclist.ch
@@ -1099,7 +1098,6 @@ doctimer.ch
 doctimize.ch
 doctips.ch
 doctissimo.ch
-doctlib.ch
 docto24.ch
 doctodoc.ch
 doctoflow.ch
@@ -2914,7 +2912,6 @@ dogscan-schweiz.ch
 dogscan.ch
 dogscastle-terminbuchung.ch
 dogscastle.ch
-dogscatsandmore.ch
 dogschmid.ch
 dogschoice.ch
 dogschool.ch
@@ -4112,7 +4109,6 @@ dolci-bauleitung.ch
 dolci-e-torroni.ch
 dolci-ricordi.ch
 dolci.ch
-dolcia.ch
 dolciamo.ch
 dolciarchitectes.ch
 dolcicure.ch
@@ -5785,6 +5781,7 @@ domarchitectes.ch
 domarchitecture.ch
 domarena.ch
 domari.ch
+domaris.ch
 domaro.ch
 domart.ch
 domartist.ch
@@ -6093,6 +6090,7 @@ domgamma.ch
 domgen.ch
 domgjoni.ch
 domgroup.ch
+domh-crea.ch
 domhairstyling.ch
 domhardt.ch
 domhelbling.ch
@@ -7664,7 +7662,6 @@ domstack.ch
 domstix.ch
 domstudios.ch
 domstuebli.ch
-domsub.ch
 domsweden.ch
 domswerkstatt.ch
 domswiss.ch
@@ -8957,7 +8954,6 @@ doodling-crow.ch
 doodlle.ch
 doodly.ch
 doodran.ch
-doods.ch
 doodtag.ch
 dooeat.ch
 dooel.ch
@@ -10359,8 +10355,6 @@ dorfturnier-merlischachen.ch
 dorfturnier.ch
 dorfulme.ch
 dorfumfahrungbadragaz.ch
-dorfundbank.ch
-dorfundjobs.ch
 dorfundumwelt.ch
 dorfverein-aesch.ch
 dorfverein-aeschi.ch
@@ -10565,7 +10559,6 @@ doriot.ch
 doriplan.ch
 dorique.ch
 doris-aebi.ch
-doris-ayer.ch
 doris-baschnagel.ch
 doris-baumeler.ch
 doris-becker.ch
@@ -10639,7 +10632,6 @@ dorisaebi.ch
 dorisaepli.ch
 dorisaffentranger.ch
 dorisana.ch
-dorisanddave.ch
 dorisarchitektur.ch
 dorisarnold.ch
 dorisart.ch
@@ -11579,6 +11571,7 @@ dossodigital.ch
 dossprimoss.ch
 dosswiss.ch
 dossy.ch
+dossyva.ch
 dost-design.ch
 dost.ch
 dostag.ch

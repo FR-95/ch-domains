@@ -146,7 +146,6 @@ sp-ettingen.ch
 sp-eu-plattform.ch
 sp-facilityservice.ch
 sp-fehraltorf-russikon-weisslingen.ch
-sp-ferenbalm.ch
 sp-fiduciaire.ch
 sp-finance.ch
 sp-flawil.ch
@@ -320,7 +319,6 @@ sp-oberwallis.ch
 sp-oberwil.ch
 sp-obwalden.ch
 sp-oensingen.ch
-sp-olten-goesgen.ch
 sp-olten.ch
 sp-online.ch
 sp-oprv.ch
@@ -592,6 +590,7 @@ spa-founder.ch
 spa-fribourg.ch
 spa-frog.ch
 spa-garden.ch
+spa-geneva.ch
 spa-geneve.ch
 spa-gonten.ch
 spa-guide.ch
@@ -2535,7 +2534,6 @@ sparkett.ch
 sparkevents.ch
 sparkfab.ch
 sparkfabrik.ch
-sparkflavour.ch
 sparkflow.ch
 sparkflowstudio.ch
 sparkfoundry.ch
@@ -3533,6 +3531,7 @@ spcctv.ch
 spce.ch
 spcenter.ch
 spcertification.ch
+spcformation.ch
 spcg.ch
 spcgsa.ch
 spchampionship.ch
@@ -4898,6 +4897,7 @@ speedgarage.ch
 speedglidewax.ch
 speedgliding.ch
 speedgoat.ch
+speedgolf.ch
 speedheads.ch
 speedheatershop.ch
 speedhike.ch
@@ -5000,7 +5000,6 @@ speedoshop.ch
 speedostore.ch
 speedoswimming.ch
 speedox.ch
-speedpac.ch
 speedpage.ch
 speedpainting.ch
 speedpanels.ch
@@ -8538,7 +8537,6 @@ spielgruppespielparadiesli.ch
 spielgruppestammheim.ch
 spielgruppesteckholz.ch
 spielgruppestephanus.ch
-spielgruppestmargrethen.ch
 spielgruppesuenneli.ch
 spielgruppesuggiture.ch
 spielgruppesuhr.ch
@@ -9129,6 +9127,7 @@ spielzeug-aus-holz.ch
 spielzeug-austausch.ch
 spielzeug-figur.ch
 spielzeug-figuren.ch
+spielzeug-guru.ch
 spielzeug-heim.ch
 spielzeug-holz.ch
 spielzeug-idee.ch
@@ -9176,6 +9175,7 @@ spielzeugfiguren.ch
 spielzeugfinder.ch
 spielzeugfrei.ch
 spielzeuggeschaeft.ch
+spielzeugguru.ch
 spielzeugheim.ch
 spielzeugheld.ch
 spielzeughersteller.ch
@@ -14178,7 +14178,6 @@ spoiler.ch
 spoilife.ch
 spoina.ch
 spoint.ch
-spoiz.ch
 spok.ch
 spoka.ch
 spoke.ch
@@ -14496,6 +14495,7 @@ spoot-zuender.ch
 spootnik.ch
 spootzoender.ch
 spoowi.ch
+spop.ch
 spopescu.ch
 spopfikon.ch
 spopielcms.ch
@@ -14642,7 +14642,6 @@ sport-dinger.ch
 sport-direct.ch
 sport-discount.ch
 sport-discounter.ch
-sport-dog.ch
 sport-dreams.ch
 sport-echo.ch
 sport-ehrenpreise.ch
@@ -15615,7 +15614,6 @@ sportcoa.ch
 sportcoach-augustin.ch
 sportcoach.ch
 sportcoaching.ch
-sportcoachingzuerich.ch
 sportcoachonline.ch
 sportcom.ch
 sportcomeback.ch
@@ -16176,6 +16174,7 @@ sportivapaluposchiavo.ch
 sportivation.ch
 sportivaunihockeymendrisiotto.ch
 sportive-arabians.ch
+sportive-solutions.ch
 sportive.ch
 sportivement.ch
 sportives.ch
@@ -16849,7 +16848,6 @@ sportpsychologie-mm.ch
 sportpsychologie-schubert.ch
 sportpsychologie-testung.ch
 sportpsychologie.ch
-sportpsychologiezuerich.ch
 sportpsychologin.ch
 sportpsychologische-interventionen.ch
 sportpsychologisches-training.ch
@@ -18171,6 +18169,7 @@ spotaround.ch
 spotarthub.ch
 spotawheel.ch
 spotbase.ch
+spotbet.ch
 spotbillig.ch
 spotboom.ch
 spotbox.ch

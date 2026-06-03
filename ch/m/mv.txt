@@ -482,6 +482,7 @@ mvpcustom.ch
 mvperformance.ch
 mvpfiduciaire.ch
 mvpfungen.ch
+mvpgroup.ch
 mvphockey.ch
 mvphockeyshop.ch
 mvphoto.ch

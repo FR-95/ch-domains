@@ -432,7 +432,6 @@ healbit.ch
 healcare.ch
 healcenter.ch
 healconic.ch
-heale.ch
 healen.ch
 healer-geneva.ch
 healer.ch
@@ -2623,6 +2622,7 @@ hebamme-davos.ch
 hebamme-dcl.ch
 hebamme-delia.ch
 hebamme-dihei.ch
+hebamme-doris.ch
 hebamme-dorisschlegel.ch
 hebamme-engel.ch
 hebamme-erlenbach.ch
@@ -3735,6 +3735,7 @@ hedge-developpement.ch
 hedge-funds.ch
 hedge-job.ch
 hedge.ch
+hedgearena.ch
 hedgedata.ch
 hedgefond.ch
 hedgefonds.ch
@@ -6908,7 +6909,6 @@ heimweh-laden.ch
 heimweh-shop.ch
 heimweh.ch
 heimwehbasler.ch
-heimwehbox.ch
 heimwehdavoserin.ch
 heimwehfluh.ch
 heimwehladen.ch
@@ -7488,6 +7488,7 @@ heinzruetti.ch
 heinzryf.ch
 heinzryffel.ch
 heinzschaub.ch
+heinzschelbert-rollt.ch
 heinzschelbert.ch
 heinzscheller.ch
 heinzschenk.ch
@@ -7948,6 +7949,7 @@ heizcheck.ch
 heizcheschte.ch
 heizclous.ch
 heizdecke.ch
+heizdecken-schweiz.ch
 heizdecken.ch
 heize.ch
 heizeisen.ch
@@ -9407,7 +9409,6 @@ helferphysio.ch
 helferplan.ch
 helferplanen.ch
 helferplaner.ch
-helferplanung.ch
 helferplattform.ch
 helferportal.ch
 helfers-haeuser.ch
@@ -10069,6 +10070,7 @@ helisupport-stettler.ch
 heliswiss.ch
 heliswissinternational.ch
 helisystem.ch
+helit.ch
 helitamina.ch
 helitaxi.ch
 helite-aviation.ch
@@ -10881,6 +10883,7 @@ hellopurebeauty.ch
 helloq3.ch
 hellorayo.ch
 helloreist.ch
+helloresilia.ch
 helloresto.ch
 hellorider.ch
 hellorobin.ch
@@ -12027,7 +12030,6 @@ helv47.ch
 helva-meubles.ch
 helva-personal.ch
 helva-quotes.ch
-helva-stay.ch
 helva.ch
 helvaconcept.ch
 helvada.ch
@@ -12060,7 +12062,6 @@ helvartis.ch
 helvasat.ch
 helvascale.ch
 helvashop.ch
-helvastay.ch
 helvataydigital.ch
 helvate.ch
 helvatec.ch
@@ -13124,6 +13125,7 @@ helveticacovers.ch
 helveticad.ch
 helveticad3d.ch
 helveticadefense.ch
+helveticademia.ch
 helveticadrinks.ch
 helveticadvice.ch
 helveticadvisors.ch
@@ -13741,6 +13743,7 @@ helvetishine.ch
 helvetishop.ch
 helvetismen.ch
 helvetisol.ch
+helvetisound.ch
 helvetispace.ch
 helvetiss.ch
 helvetissimmo.ch
@@ -13913,6 +13916,7 @@ helvionai.ch
 helvionics.ch
 helvionpartners.ch
 helvionpharma.ch
+helvionsuisse.ch
 helvionsystem.ch
 helviontech.ch
 helvionyx.ch
@@ -15505,7 +15509,6 @@ heracles.ch
 heraclessecuritizationfunds.ch
 heraclesventures.ch
 heracoaching.ch
-heracosmetic.ch
 heracreations.ch
 heracura.ch
 heradesign.ch
@@ -15980,7 +15983,6 @@ herbort-cos.ch
 herbort.ch
 herbortuveitis.ch
 herbos.ch
-herbosore.ch
 herboteca.ch
 herbothek.ch
 herbots.ch
@@ -17193,6 +17195,7 @@ hero-society.ch
 hero-soft.ch
 hero-software.ch
 hero-spin.ch
+hero-suisse.ch
 hero-swiss.ch
 hero-to-zero.ch
 hero-town.ch
@@ -17384,6 +17387,7 @@ herpes-zoster.ch
 herpes.ch
 herpeswiss.ch
 herpeszoster.ch
+herpeto.ch
 herpetofauna.ch
 herpi.ch
 herpich.ch
@@ -19748,6 +19752,7 @@ herzschlaufe.ch
 herzschlaufen.ch
 herzschloss.ch
 herzschluessel.ch
+herzschmerz.ch
 herzschmerzen.ch
 herzschmerzundrotwein.ch
 herzschmiede.ch
@@ -20913,7 +20918,6 @@ heuristics.ch
 heuristicsyndicate.ch
 heuristik.ch
 heuristique.ch
-heurk.ch
 heurkone.ch
 heuro.ch
 heuroepfel.ch
@@ -21642,7 +21646,6 @@ hexavision.ch
 hexcard.ch
 hexcel.ch
 hexcellence.ch
-hexclad.ch
 hexcode.ch
 hexcore.ch
 hexcut-services.ch
@@ -22146,6 +22149,7 @@ heymeta.ch
 heymia-recruiting.ch
 heymia.ch
 heymigrolino.ch
+heymira.ch
 heymisu.ch
 heymit.ch
 heymo-holding.ch

@@ -2508,7 +2508,6 @@ psychokinesiologie.ch
 psycholabformation.ch
 psycholabtest.ch
 psycholegale.ch
-psycholib.ch
 psycholog-pl.ch
 psycholog.ch
 psychologe-aarau.ch
@@ -2726,7 +2725,6 @@ psychologieschweiz.ch
 psychologieschweizer.ch
 psychologiesolothurn.ch
 psychologiesport.ch
-psychologiestudierende.ch
 psychologiestudium.ch
 psychologiesuisse.ch
 psychologietogo.ch
@@ -2863,6 +2861,7 @@ psychologischeberatungmitherz.ch
 psychologischeberatungoertli.ch
 psychologischeberatungspraxis.ch
 psychologischeberatungundhypnosetherapie.ch
+psychologischeerstehilfe.ch
 psychologischegesundheitsberatung.ch
 psychologischehandanalyse.ch
 psychologischelaufbahnberatung.ch
@@ -2949,14 +2948,12 @@ psychologuelausanne.ch
 psychologuemartigny.ch
 psychologuemontreux.ch
 psychologueneuchatel.ch
-psychologueperformance.ch
 psychologueriviera.ch
 psychologues-lausanne.ch
 psychologues.ch
 psychologuesandragersbach.ch
 psychologuesdusport.ch
 psychologuesion.ch
-psychologuesport.ch
 psychologuetherapiecouple.ch
 psychologuevaud.ch
 psychologuevevey.ch
@@ -4416,7 +4413,6 @@ psylausanne.ch
 psylead.ch
 psyleaks.ch
 psylex.ch
-psylib.ch
 psylife.ch
 psylink.ch
 psylinkgmbh.ch

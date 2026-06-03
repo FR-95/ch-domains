@@ -46,7 +46,6 @@ by-larissa.ch
 by-law.ch
 by-lella.ch
 by-luar.ch
-by-m.ch
 by-maiken.ch
 by-mail.ch
 by-marc.ch
@@ -296,6 +295,7 @@ byd-neuchatel.ch
 byd-olten.ch
 byd-ostschweiz.ch
 byd-pratteln.ch
+byd-rapperswil-jona.ch
 byd-remetschwil.ch
 byd-rheintal.ch
 byd-schwaller.ch
@@ -316,6 +316,7 @@ byd-trucks.ch
 byd-valais.ch
 byd-vaud.ch
 byd-yverdon.ch
+byd-zuerichsee.ch
 byd.ch
 byd2go.ch
 byd4business.ch
@@ -1267,7 +1268,6 @@ byworkwear.ch
 bywuest.ch
 byx.ch
 byxemya.ch
-byxenja.ch
 byxyn.ch
 byy.ch
 byyb.ch

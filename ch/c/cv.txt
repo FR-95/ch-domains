@@ -367,6 +367,7 @@ cvp-be.ch
 cvp-bellach.ch
 cvp-bezirk-frauenfeld.ch
 cvp-bezirk-hinwil.ch
+cvp-bezirk-muenchwilen.ch
 cvp-bezirk-muri.ch
 cvp-bl.ch
 cvp-brugg.ch

@@ -1567,6 +1567,7 @@ drahtzaun.ch
 drahtziegelgewebe.ch
 drahtzug-ortho.ch
 drahtzug.ch
+drai.ch
 draiag.ch
 draiflessen.ch
 draigs.ch
@@ -1615,6 +1616,7 @@ drainguard.ch
 drainhook.ch
 drainjet.ch
 drainjetrobotics.ch
+draino.ch
 drainology.ch
 drainstar.ch
 drainstone.ch
@@ -1698,6 +1700,7 @@ drama-queen.ch
 drama.ch
 dramababy.ch
 dramababydrama.ch
+dramabolica.ch
 dramaclothes.ch
 dramacoaching.ch
 dramacool.ch
@@ -3472,7 +3475,6 @@ drehstecker.ch
 drehstrom-motoren.ch
 drehstrommotor.ch
 drehstrommotoren.ch
-drehstube.ch
 drehstuehle.ch
 drehstuhl.ch
 drehtag.ch
@@ -4153,7 +4155,6 @@ dresses.ch
 dressexpress.ch
 dressforfun.ch
 dressforless.ch
-dressforme.ch
 dressforschool.ch
 dressforyourdate.ch
 dresshouse.ch
@@ -5382,6 +5383,7 @@ drive-line.ch
 drive-luxury.ch
 drive-m.ch
 drive-marketing.ch
+drive-master-academy.ch
 drive-master.ch
 drive-me.ch
 drive-media.ch
@@ -6424,7 +6426,6 @@ dro.ch
 dro21.ch
 drob.ch
 droberhofer.ch
-drobfelden.ch
 drobjekt.ch
 drobot.ch
 drobotti.ch
@@ -7392,7 +7393,6 @@ drone-lapse.ch
 drone-league.ch
 drone-leman-project.ch
 drone-lions.ch
-drone-map.ch
 drone-maps.ch
 drone-noise.ch
 drone-ops360.ch
@@ -7833,7 +7833,6 @@ dropinshop.ch
 dropit.ch
 dropizol.ch
 dropkick.ch
-dropking.ch
 droplab.ch
 droplank.ch
 dropler.ch
@@ -8315,6 +8314,7 @@ drskills.ch
 drskin.ch
 drskinpro.ch
 drskins.ch
+drsleiter-dentalspecialist.ch
 drsleiter.ch
 drslider.ch
 drslym.ch
@@ -9897,7 +9897,6 @@ dryrecords.ch
 drys.ch
 drysafe.ch
 drysec.ch
-dryservices.ch
 drysheep.ch
 dryshield.ch
 dryshop.ch

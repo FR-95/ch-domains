@@ -552,7 +552,6 @@ cfoplus.ch
 cfor.ch
 cforc.ch
 cforclean.ch
-cforensik.ch
 cformica.ch
 cforpublic.ch
 cforster.ch

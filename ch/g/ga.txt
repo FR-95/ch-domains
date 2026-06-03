@@ -865,7 +865,6 @@ gabriele-danners.ch
 gabriele-dominelli.ch
 gabriele-frei.ch
 gabriele-gbt.ch
-gabriele-herzog.ch
 gabriele-hurter.ch
 gabriele-hypnose.ch
 gabriele-leibundgut.ch
@@ -2119,6 +2118,7 @@ gaeu-gin.ch
 gaeu-hypnose.ch
 gaeu-naehatelier.ch
 gaeu-tourismus.ch
+gaeu-tournee.ch
 gaeu-travel.ch
 gaeu.ch
 gaeuanzeiger.ch
@@ -2149,6 +2149,7 @@ gaeupark.ch
 gaeuschraenzer.ch
 gaeustra.ch
 gaeut.ch
+gaeutournee.ch
 gaeuzentrum.ch
 gaevis.ch
 gaewy.ch
@@ -2863,7 +2864,6 @@ gakomo.ch
 gakoupolissage.ch
 gaku-japanischlernen.ch
 gaku2026.ch
-gakuesnacht.ch
 gal-aerzte.ch
 gal-immobilien.ch
 gal-line.ch
@@ -5319,6 +5319,7 @@ gameflow.ch
 gamefog.ch
 gameforce.ch
 gameforge.ch
+gameforimpact.ch
 gameforum.ch
 gameforyou.ch
 gamefox.ch
@@ -5597,6 +5598,7 @@ gamesetmind.ch
 gamesfacts.ch
 gamesfire.ch
 gamesforfamilies.ch
+gamesforimpact.ch
 gameshare.ch
 gameshop.ch
 gameshop24.ch
@@ -12106,7 +12108,6 @@ gartenbau-ackermann.ch
 gartenbau-ag.ch
 gartenbau-akademie.ch
 gartenbau-alfa.ch
-gartenbau-aliti.ch
 gartenbau-alpha.ch
 gartenbau-angermann.ch
 gartenbau-appenzell.ch
@@ -13166,6 +13167,7 @@ gartenroboter.ch
 gartenroesterei.ch
 gartenroetel.ch
 gartenrogger.ch
+gartenromantik.ch
 gartenrose.ch
 gartensafari.ch
 gartensalat.ch
@@ -14801,7 +14803,6 @@ gasthof-vonarx.ch
 gasthof-waldhaeusern.ch
 gasthof-weinhof.ch
 gasthof-wellenberg.ch
-gasthof-wildmaa.ch
 gasthof-zimmermann.ch
 gasthof-zum-baeren-veltheim.ch
 gasthof-zum-kreuz.ch
@@ -16226,7 +16227,6 @@ gastroscout.ch
 gastroscout24.ch
 gastroscreen.ch
 gastrosearch.ch
-gastroseeland.ch
 gastroseelsorge-basel.ch
 gastroseite.ch
 gastrosektor.ch

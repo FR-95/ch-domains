@@ -689,6 +689,7 @@ biber-abo.ch
 biber-analytics.ch
 biber-associates.ch
 biber-baeckerei.ch
+biber-biberist.ch
 biber-boote.ch
 biber-butzekind.ch
 biber-coaching.ch
@@ -2920,10 +2921,7 @@ biennale-venedig.ch
 biennale-venezia.ch
 biennale.ch
 biennale2026.ch
-biennaledegeneve.ch
 biennaledellimmagine.ch
-biennaledesculpture.ch
-biennaledesculptures.ch
 biennaledugenre.ch
 biennaleimagemouvement.ch
 biennaleimmagine.ch
@@ -5859,6 +5857,7 @@ bike-lift.ch
 bike-live.ch
 bike-local.ch
 bike-locarno.ch
+bike-locker.ch
 bike-lodge.ch
 bike-loft.ch
 bike-log.ch
@@ -6817,7 +6816,6 @@ bikesbikesbikes.ch
 bikescapexperience.ch
 bikescars.ch
 bikescene.ch
-bikeschlappis.ch
 bikeschloss.ch
 bikeschmiede-motorcycles.ch
 bikeschmiede.ch
@@ -8291,6 +8289,7 @@ bildtonholz.ch
 bildtonmoebel.ch
 bildtorte.ch
 bildtorten.ch
+bildundbau.ch
 bildundbotschaft.ch
 bildundbu.ch
 bildundbuch.ch
@@ -9738,7 +9737,9 @@ bilsuisse.ch
 bilsvizzera.ch
 bilswiss.ch
 bilswitzerland.ch
+biltec-tooling.ch
 biltec.ch
+biltectooling.ch
 biltema.ch
 biltemafoundation.ch
 bilten.ch
@@ -9751,6 +9752,7 @@ biltong.ch
 biltongfactory.ch
 biltonghouse.ch
 biltrewards.ch
+bilu27.ch
 biluna-kjj.ch
 biluna.ch
 bilus-hundespazierdienst.ch
@@ -10214,6 +10216,7 @@ bimgebaeudetechnik.ch
 bimgen.ch
 bimgit.ch
 bimgpt.ch
+bimgrosi.ch
 bimgruppe.ch
 bimgwaffoer.ch
 bimheidi.ch
@@ -15186,6 +15189,7 @@ bioresonanz-hund.ch
 bioresonanz-hunde.ch
 bioresonanz-janospraxis.ch
 bioresonanz-luzern.ch
+bioresonanz-messmer.ch
 bioresonanz-mobil.ch
 bioresonanz-naturheilpraxis.ch
 bioresonanz-pferd.ch
@@ -15914,6 +15918,7 @@ bioventusglobal.ch
 biover.ch
 biovera.ch
 bioverde.ch
+bioverein.ch
 bioverfahrenstechnik.ch
 bioverger.ch
 bioverita.ch
@@ -16251,7 +16256,6 @@ biramel.ch
 biramunzur.ch
 birandabucher.ch
 birankai.ch
-biras-services.ch
 birato-group.ch
 birato.ch
 biratung.ch
@@ -17659,7 +17663,6 @@ bischoff-metallbau.ch
 bischoff-notariat.ch
 bischoff-office.ch
 bischoff-partner.ch
-bischoff-sonja.ch
 bischoff-textil.ch
 bischoff-transporte.ch
 bischoff-ventures.ch
@@ -17680,7 +17683,6 @@ bischoffrealestate.ch
 bischoffs.ch
 bischoffschweiz.ch
 bischoffsonia.ch
-bischoffsonja.ch
 bischoffstiftung-riehen.ch
 bischoffstiftung.ch
 bischofftransporteag.ch
@@ -19735,7 +19737,6 @@ bitofit.ch
 bitomium.ch
 biton.ch
 bitone.ch
-bitonic.ch
 bitonti-care.ch
 bitonti.ch
 bitopen.ch

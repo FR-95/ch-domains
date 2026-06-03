@@ -11,8 +11,10 @@ ip-assistance.ch
 ip-attorneys.ch
 ip-audit.ch
 ip-avenue.ch
+ip-b.ch
 ip-bauern.ch
 ip-beratung.ch
+ip-bern.ch
 ip-box.ch
 ip-brandschutz.ch
 ip-business.ch
@@ -427,6 +429,7 @@ ipbau.ch
 ipbdd.ch
 ipbeauty.ch
 ipbeautymoments.ch
+ipbern.ch
 ipbes.ch
 ipbi.ch
 ipbits.ch

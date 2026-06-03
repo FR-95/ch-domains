@@ -1014,7 +1014,6 @@ scandalousshoes.ch
 scandals.ch
 scandart.ch
 scandatex.ch
-scanday.ch
 scande.ch
 scandeal.ch
 scandela.ch
@@ -3452,7 +3451,6 @@ schaeufele.ch
 schaewi-pool.ch
 schaezumosterei.ch
 schaf-bolus.ch
-schaf-farm.ch
 schaf-roth.ch
 schaf-und-meh.ch
 schaf-und-mehr.ch
@@ -10041,7 +10039,6 @@ schlankundvital.ch
 schlankwasser.ch
 schlankwerden.ch
 schlans.ch
-schlanser-b2b.ch
 schlanser.ch
 schlapba.ch
 schlapbach-finanzen.ch
@@ -12263,6 +12260,7 @@ schluesseldienstdietikon.ch
 schluesseldienstduebendorf.ch
 schluesseldienste.ch
 schluesseldienste24.ch
+schluesseldienstebikon.ch
 schluesseldienstemmen.ch
 schluesseldienstettingen.ch
 schluesseldienstexpert.ch
@@ -12881,7 +12879,6 @@ schmerek.ch
 schmerikon-architektur.ch
 schmerikon-tourismus.ch
 schmerikon.ch
-schmerikon2025.ch
 schmerikon2026.ch
 schmerikon24.ch
 schmerknercamping.ch
@@ -14271,6 +14268,7 @@ schmiedetechnik.ch
 schmiedeteile.ch
 schmiedetrubschachen.ch
 schmiedeverein.ch
+schmiedevonkaenel.ch
 schmiedeweg.ch
 schmiedeweg6.ch
 schmiedewelt.ch
@@ -16776,7 +16774,6 @@ schnellerkeller.ch
 schnellerkredit.ch
 schnellerlesen.ch
 schnellermarketing.ch
-schnelleronlinemarketing.ch
 schnellerschreiben.ch
 schnellerschulen.ch
 schnellerschwimmen.ch
@@ -16817,6 +16814,7 @@ schnellimbiss.ch
 schnellimeierblum.ch
 schnellimmobilien.ch
 schnellindenurlaub.ch
+schnellis.ch
 schnellkochen.ch
 schnellkochtopf.ch
 schnellkomposter.ch
@@ -21751,6 +21749,7 @@ schreinergraeser.ch
 schreinergraf.ch
 schreinerhand.ch
 schreinerhandwerk-biller.ch
+schreinerhandwerk.ch
 schreinerhandwerkbiller.ch
 schreinerhaus.ch
 schreinerhelden.ch
@@ -23695,7 +23694,6 @@ schulassistent.ch
 schulassistenz-ausbildung.ch
 schulassistenz-schweiz.ch
 schulassistenz-weiterbildung.ch
-schulassistenz-winterthur.ch
 schulassistenz-zh.ch
 schulassistenz.ch
 schulassistenzen.ch
@@ -23877,7 +23875,6 @@ schuldenschnitt.ch
 schuldenscout24.ch
 schuldensoforthilfe.ch
 schuldenspitex.ch
-schuldensupport.ch
 schuldenzahlen.ch
 schuldenzentrale.ch
 schuldes.ch
@@ -26028,6 +26025,7 @@ schulnetzwerk-zh.ch
 schulnetzwerk.ch
 schulnote.ch
 schulnoten.ch
+schulorga.ch
 schulotter.ch
 schulpaedagogik.ch
 schulpage.ch
@@ -28887,6 +28885,7 @@ schweiz-am-meer.ch
 schweiz-am-sonntag.ch
 schweiz-angebot.ch
 schweiz-ansiedlung.ch
+schweiz-anwalt.ch
 schweiz-arbeitskleidung.ch
 schweiz-architektur.ch
 schweiz-archiv.ch
@@ -29228,7 +29227,6 @@ schweiz-steuern-sparen.ch
 schweiz-steuern.ch
 schweiz-steuerrecht.ch
 schweiz-stoff.ch
-schweiz-strom.ch
 schweiz-studium.ch
 schweiz-suisse-svizzera-switzerland.ch
 schweiz-suisse-switzerland.ch
@@ -29352,7 +29350,7 @@ schweizamsonntag.ch
 schweizamwochenende.ch
 schweizangebote.ch
 schweizanlage.ch
-schweizanzeigen.ch
+schweizanwalt.ch
 schweizathome.ch
 schweizatlas.ch
 schweizaufdemteller.ch
@@ -29967,6 +29965,7 @@ schweizer-illustrierte.ch
 schweizer-imkertag.ch
 schweizer-immo-team.ch
 schweizer-immo.ch
+schweizer-immobilie.ch
 schweizer-immobilienauktion.ch
 schweizer-immobilienbau.ch
 schweizer-immobilienberater.ch
@@ -31972,6 +31971,7 @@ schweizerstiftung-palliativecare.ch
 schweizerstiftung.ch
 schweizerstiftungen.ch
 schweizerstiftungstag.ch
+schweizerstiftungszentrum.ch
 schweizerstoryhaus.ch
 schweizerstrassen.ch
 schweizerstrohmuseum.ch
@@ -32430,7 +32430,6 @@ schweizsportwetten.ch
 schweizstarter.ch
 schweizstarter24.ch
 schweizstatistik.ch
-schweizstrom.ch
 schweizsuissesvizzerasvizra.ch
 schweiztaeglich.ch
 schweiztaglich.ch
@@ -33861,6 +33860,7 @@ schwizerlitreff.ch
 schwizerlunte.ch
 schwizermamis.ch
 schwizermarkt.ch
+schwizermovers.ch
 schwizernaescht.ch
 schwizeroergeli.ch
 schwizerreis.ch
@@ -36697,6 +36697,7 @@ scribigo.ch
 scribit.ch
 scribivo.ch
 scribix.ch
+scribo.ch
 scribos.ch
 scribox.ch
 scribs.ch
@@ -37392,7 +37393,6 @@ sculpture-it.ch
 sculpture-mobile.ch
 sculpture-texture.ch
 sculpture.ch
-sculpturebiennale.ch
 sculpturecenter.ch
 sculpturecentre.ch
 sculpturedeletre.ch
@@ -37672,6 +37672,7 @@ scustic.ch
 scusuisse.ch
 scusz.ch
 scut.ch
+scutaria.ch
 scutaricom.ch
 scutellawines.ch
 scuti.ch

@@ -400,6 +400,7 @@ gbo.ch
 gboarchitecture.ch
 gbobst.ch
 gboconseil.ch
+gbofficina.ch
 gbolio.ch
 gbom.ch
 gbondemand.ch
@@ -496,6 +497,7 @@ gbsinfo.ch
 gbsl.ch
 gbsm.ch
 gbsn.ch
+gbsnap.ch
 gbsolutions.ch
 gbssa.ch
 gbssfg.ch

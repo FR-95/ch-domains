@@ -1149,7 +1149,6 @@ doctor-pharm.ch
 doctor-phone.ch
 doctor-rizzo.ch
 doctor-shop.ch
-doctor-skin.ch
 doctor-swiss.ch
 doctor-thc.ch
 doctor-vita-min.ch
@@ -1290,7 +1289,6 @@ doctorshot.ch
 doctorsinternational.ch
 doctorsinthecity.ch
 doctorsite.ch
-doctorskin.ch
 doctorslikeme.ch
 doctorsmile.ch
 doctorsmoke.ch
@@ -1444,6 +1442,7 @@ documentmanagementsystem.ch
 documentmateriel.ch
 documento.ch
 documentone.ch
+documentor.ch
 documentoutsourcing.ch
 documentpartner.ch
 documentprocess.ch
@@ -2188,6 +2187,7 @@ dog-park-care.ch
 dog-park.ch
 dog-performance.ch
 dog-photo.ch
+dog-physio.ch
 dog-place.ch
 dog-point.ch
 dog-power.ch
@@ -2688,7 +2688,6 @@ dogkeeping.ch
 dogkids.ch
 dogland.ch
 dogle.ch
-dogleash.ch
 dogletics.ch
 dogli.ch
 dogliberty.ch
@@ -3582,7 +3581,6 @@ doktor-schneider-haus.ch
 doktor-schweizer.ch
 doktor-shop.ch
 doktor-sip.ch
-doktor-skin.ch
 doktor-strub.ch
 doktor-stutz.ch
 doktor-swiss.ch
@@ -3732,7 +3730,6 @@ doktorschraube.ch
 doktorschweizer.ch
 doktorsex.ch
 doktorshop.ch
-doktorskin.ch
 doktorspiel.ch
 doktorspiele.ch
 doktorstutz-shop.ch
@@ -7029,6 +7026,7 @@ dominiqueschmitz.ch
 dominiquespring.ch
 dominiquestalder.ch
 dominiquestarck.ch
+dominiquestaub.ch
 dominiqueteufen.ch
 dominiquetille.ch
 dominiqueuldry.ch
@@ -7445,6 +7443,7 @@ domoclinical.ch
 domocloud.ch
 domoconcept.ch
 domocontrol.ch
+domocos.ch
 domodeluxe.ch
 domodesign.ch
 domodesignsagl.ch
@@ -8310,6 +8309,7 @@ donfermin.ch
 donfernando.ch
 donfilippo.ch
 donfinizio.ch
+donfon.ch
 donfradiavolo.ch
 donfriso.ch
 donfritzzoni.ch
@@ -8469,6 +8469,7 @@ donleone-delivery.ch
 donleone-mercato.ch
 donleone-shop.ch
 donleone.ch
+donleonecatering.ch
 donleonegroup.ch
 donli.ch
 donlou.ch
@@ -12441,7 +12442,6 @@ doulakreis.ch
 doulalausanne.ch
 doulaliebe.ch
 doulalounge.ch
-doulalu.ch
 doulaluma.ch
 doulalynne.ch
 doulamalenka.ch

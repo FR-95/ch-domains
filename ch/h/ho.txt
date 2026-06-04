@@ -5437,6 +5437,7 @@ hofstetter-blachen.ch
 hofstetter-bluemeflueschter.ch
 hofstetter-bluemegflueschter.ch
 hofstetter-camperbau.ch
+hofstetter-carrosserie.ch
 hofstetter-caviezel.ch
 hofstetter-coaching.ch
 hofstetter-consulting.ch
@@ -10882,7 +10883,6 @@ home-all-in-one.ch
 home-alone.ch
 home-and-cook.ch
 home-and-living.ch
-home-and-table.ch
 home-apartments.ch
 home-art.ch
 home-arts.ch
@@ -11283,7 +11283,6 @@ home-swiss-home.ch
 home-swiss.ch
 home-switzerland.ch
 home-systems.ch
-home-table.ch
 home-te.ch
 home-tec.ch
 home-tech-24.ch
@@ -11297,7 +11296,6 @@ home-trainer.ch
 home-treat.ch
 home-treatment.ch
 home-trend.ch
-home-und-table.ch
 home-untersiggenthal.ch
 home-update.ch
 home-upgrade.ch
@@ -11432,7 +11430,6 @@ homeandoffice.ch
 homeandsmart.ch
 homeandstone.ch
 homeandstoneliving.ch
-homeandtable.ch
 homeandthecity.ch
 homeandtravel.ch
 homeandyacht.ch
@@ -11976,6 +11973,7 @@ homeharmony.ch
 homeharmonyhub.ch
 homeharmonyorganizing.ch
 homehartmann.ch
+homehate.ch
 homehealth.ch
 homehealthcoaching.ch
 homehealthproducts.ch
@@ -12193,6 +12191,7 @@ homemadeandmore.ch
 homemadebbq.ch
 homemadeby.ch
 homemadebybasi.ch
+homemadebyjustine.ch
 homemadecake.ch
 homemadedonuts.ch
 homemadedreams.ch
@@ -13051,7 +13050,6 @@ homesys.ch
 homesystem.ch
 homesystems.ch
 homeszenario.ch
-hometainment.ch
 hometaste.ch
 hometax.ch
 hometea.ch
@@ -13133,7 +13131,6 @@ hometys.ch
 homeundkreativ.ch
 homeundoffice.ch
 homeundstudio.ch
-homeundtable.ch
 homeuniverse.ch
 homeunix.ch
 homeup.ch
@@ -14617,6 +14614,7 @@ hoofgroove.ch
 hoofien.ch
 hooforia.ch
 hoofpit.ch
+hoofprintpictures.ch
 hoofsche-stiftung.ch
 hoofschestiftung.ch
 hoofsnack.ch
@@ -15566,7 +15564,6 @@ horak.ch
 horala.ch
 horalatina.ch
 horalek.ch
-horamode.ch
 horando.ch
 horann.ch
 horansounds.ch
@@ -17947,6 +17944,7 @@ hostcity.ch
 hostcitybasel.ch
 hostclick.ch
 hostcloud.ch
+hostclub.ch
 hostcms.ch
 hostcode.ch
 hostcom.ch
@@ -18191,6 +18189,7 @@ hostgreatly.ch
 hostgrid.ch
 hostgrove.ch
 hostguide.ch
+hosthaus.ch
 hosthelp.ch
 hosthis.ch
 hosthorizon.ch
@@ -18599,7 +18598,6 @@ hot-frog.ch
 hot-girl.ch
 hot-girls.ch
 hot-grill-lotzwil.ch
-hot-gym.ch
 hot-heel.ch
 hot-heels.ch
 hot-hit.ch
@@ -18678,7 +18676,6 @@ hot-world.ch
 hot-xxx.ch
 hot-yoga-heizung.ch
 hot-yoga-heizungen.ch
-hot-zuerich.ch
 hot.ch
 hot1856.ch
 hot24.ch

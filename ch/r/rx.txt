@@ -35,6 +35,7 @@ rxg.ch
 rxglobal.ch
 rxgroup.ch
 rxh.ch
+rxi.ch
 rxjimmo.ch
 rxk.ch
 rxl.ch

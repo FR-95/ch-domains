@@ -1194,6 +1194,7 @@ vibeora.ch
 vibeout.ch
 vibeparty.ch
 vibeproduct.ch
+vibeproof.ch
 viber.ch
 vibera.ch
 viberg.ch
@@ -5528,6 +5529,7 @@ villa4u.ch
 villa4you.ch
 villa69.ch
 villa7.ch
+villa77.ch
 villa93.ch
 villaadria.ch
 villaagatha.ch
@@ -5797,7 +5799,6 @@ villagiarvino.ch
 villaginia.ch
 villagirandola.ch
 villagiulia.ch
-villago-herrliberg.ch
 villago.ch
 villagoldach.ch
 villagrappa.ch
@@ -6049,7 +6050,6 @@ villarimboud2027.ch
 villarita.ch
 villariviera.ch
 villarlod-2024.ch
-villarmonie.ch
 villarocailles-mies.ch
 villarocailles.ch
 villarocca.ch
@@ -6789,7 +6789,6 @@ vilsons-feuerschutz.ch
 vilsschneiderei.ch
 vilstreuhand.ch
 vilt-group.ch
-vilt.ch
 viltalia.ch
 viltec.ch
 viltech.ch
@@ -7499,7 +7498,6 @@ vindobona.ch
 vindoc.ch
 vindoe-kaufen.ch
 vindoeuvre.ch
-vindoko.ch
 vindonissa-ag.ch
 vindonissa-apotheke.ch
 vindonissa-museum.ch
@@ -7545,6 +7543,7 @@ vinebration.ch
 vinecho.ch
 vinedo.ch
 vinee.ch
+vineffervescent.ch
 vinefinity.ch
 vinegar.ch
 vinegusto.ch
@@ -8058,7 +8057,6 @@ vinodelica.ch
 vinodellealpi.ch
 vinodelprincipe.ch
 vinoderm.ch
-vinodino.ch
 vinodintorni.ch
 vinodiverso.ch
 vinodor.ch
@@ -8375,6 +8373,7 @@ vinpark-weinankauf.ch
 vinpark-weinmarktplatz.ch
 vinpark.ch
 vinparts.ch
+vinpetillant.ch
 vinplus.ch
 vinpur.ch
 vinpura.ch
@@ -8770,6 +8769,7 @@ vintagebrands.ch
 vintagebrothers.ch
 vintagebytes.ch
 vintagecamera.ch
+vintagecapital.ch
 vintagecaps.ch
 vintagecar.ch
 vintagecarmagazine.ch
@@ -11833,7 +11833,6 @@ visage-beautystudio.ch
 visage-gastrobar.ch
 visage-geneve.ch
 visage-studio.ch
-visage-vera.ch
 visage.ch
 visagebeautystudio.ch
 visagecoiffure.ch
@@ -12406,6 +12405,7 @@ visibile-digitalone.ch
 visibilisagency.ch
 visibilite-locale.ch
 visibilite.ch
+visibilite360.ch
 visibilitiweb.ch
 visibility-4-you.ch
 visibility.ch
@@ -12814,7 +12814,6 @@ vision2021.ch
 vision2035.ch
 vision2050.ch
 vision2050albula.ch
-vision2050ka.ch
 vision22.ch
 vision24.ch
 vision27.ch
@@ -14435,6 +14434,7 @@ visual.ch
 visual1.ch
 visual360.ch
 visuala.ch
+visualab.ch
 visualacademy.ch
 visualactiv.ch
 visualambuhl.ch
@@ -14897,13 +14897,11 @@ visura.ch
 visurap.ch
 visure.ch
 visureinweb.ch
-visus-awareness.ch
 visus-dokupool.ch
 visus-erhalten.ch
 visus-one.ch
 visus-plus.ch
 visus-service.ch
-visus-webmail.ch
 visus.ch
 visusartis.ch
 visusaugenarztpraxis.ch

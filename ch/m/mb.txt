@@ -345,7 +345,6 @@ mba-investments.ch
 mba-krems.ch
 mba-kultur.ch
 mba-leadership.ch
-mba-maler.ch
 mba-management.ch
 mba-maschinen-karriere.ch
 mba-maschinen.ch
@@ -1547,6 +1546,7 @@ mbw116ch.ch
 mbwb.ch
 mbwcalibration.ch
 mbweb.ch
+mbwebdesign.ch
 mbwebdesin.ch
 mbwebsolutions.ch
 mbwedding.ch

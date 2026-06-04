@@ -600,7 +600,6 @@ cbdoil.ch
 cbdol.ch
 cbdonline.ch
 cbdonna.ch
-cbdoptima.ch
 cbdpaschere.ch
 cbdplace.ch
 cbdplug.ch
@@ -937,6 +936,7 @@ cbp-routing.ch
 cbp.ch
 cbpa.ch
 cbpaholding.ch
+cbpaltd.ch
 cbpartner.ch
 cbpartnershop.ch
 cbpartnershops.ch

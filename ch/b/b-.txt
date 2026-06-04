@@ -106,7 +106,6 @@ b-base.ch
 b-bati-services.ch
 b-batiservice.ch
 b-bau.ch
-b-bauconsulting.ch
 b-baumanagement.ch
 b-baumgartner.ch
 b-baumpflege.ch

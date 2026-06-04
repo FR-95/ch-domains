@@ -599,7 +599,6 @@ oncoplus.ch
 oncopoint.ch
 oncoportal.ch
 oncoprediction.ch
-oncopulse.ch
 oncore.ch
 oncoregolf.ch
 oncoreha-vs.ch
@@ -1030,6 +1029,7 @@ one-prod.ch
 one-properties.ch
 one-property.ch
 one-provide.ch
+one-pun.ch
 one-q.ch
 one-qi.ch
 one-real-estate.ch
@@ -1673,7 +1673,6 @@ oneimmobilier.ch
 oneimmocaution.ch
 oneimmokaution.ch
 onein.ch
-oneinberge.ch
 oneindustries.ch
 oneinsvest.ch
 oneinterim.ch
@@ -1829,6 +1828,7 @@ onemillionreasons.ch
 onemillionrun.ch
 onemillionsparks.ch
 onemind.ch
+onemindsoul.ch
 oneminute.ch
 onemobile.ch
 onemodiamond.ch
@@ -3698,6 +3698,7 @@ online-meisterschule.ch
 online-mental-coaching.ch
 online-mentalcoach.ch
 online-mentalcoaching.ch
+online-mentoring.ch
 online-menu.ch
 online-merchandise.ch
 online-messe.ch
@@ -4805,7 +4806,6 @@ onlinehaendlernews.ch
 onlinehandel-schweiz.ch
 onlinehandel.ch
 onlinehandel24.ch
-onlinehandelbott.ch
 onlinehandelschweiz.ch
 onlinehandelsmarkt.ch
 onlinehandelspezialist.ch
@@ -6199,7 +6199,6 @@ onlysweets.ch
 onlyswiss.ch
 onlyswissbrands.ch
 onlyswissfans.ch
-onlyswissgirls.ch
 onlyswissmade.ch
 onlytax.ch
 onlytea.ch

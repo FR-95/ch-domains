@@ -141,7 +141,6 @@ at-steuern.ch
 at-suisse.ch
 at-svizzera.ch
 at-systemberatung.ch
-at-tac.ch
 at-tammys.ch
 at-technik.ch
 at-technologietag.ch
@@ -176,7 +175,9 @@ at17.ch
 at1s.ch
 at2.ch
 at23.ch
+at24-shop.ch
 at24.ch
+at24shop.ch
 at25.ch
 at26.ch
 at28.ch
@@ -1196,7 +1197,6 @@ atelier-de-fanny.ch
 atelier-de-francais.ch
 atelier-de-gaia.ch
 atelier-de-l-hypnose.ch
-atelier-de-montaubion.ch
 atelier-de-nemaiah.ch
 atelier-de-pierre.ch
 atelier-de-soi.ch
@@ -1354,6 +1354,7 @@ atelier-ernaehrungundfitness.ch
 atelier-ernest.ch
 atelier-ernesto.ch
 atelier-es2.ch
+atelier-escapada.ch
 atelier-esperluette.ch
 atelier-esse-terra.ch
 atelier-esseterra.ch
@@ -2063,7 +2064,6 @@ atelier-pigment.ch
 atelier-pilates.ch
 atelier-pinocchio.ch
 atelier-pipes.ch
-atelier-pirouette.ch
 atelier-pisano.ch
 atelier-pitschi.ch
 atelier-piu.ch
@@ -2975,6 +2975,7 @@ atelierbiloba.ch
 atelierbimschloessli.ch
 atelierbinder.ch
 atelierbiolaz.ch
+atelierbis.ch
 atelierbischof.ch
 atelierbison.ch
 atelierbks.ch
@@ -4775,7 +4776,6 @@ ateliersw.ch
 atelierswantje.ch
 ateliersweb.ch
 atelierswiss.ch
-atelierswisscode.ch
 ateliersystemes.ch
 ateliert.ch
 ateliert19.ch

@@ -971,7 +971,6 @@ piazzanuova.ch
 piazzaparola.ch
 piazzapatriarca.ch
 piazzapavimenti.ch
-piazzaphone.ch
 piazzapizza.ch
 piazzaquintasvizzera.ch
 piazzarheinfelden.ch
@@ -1093,7 +1092,6 @@ picalciot.ch
 picaldi.ch
 picaloo.ch
 picalund.ch
-picamo.ch
 picamor.ch
 picamory.ch
 pican.ch
@@ -1749,6 +1747,7 @@ picknprice.ch
 picknroll.ch
 picko.ch
 pickobello.ch
+pickoff.ch
 pickout.ch
 pickpack.ch
 pickpacktrockner.ch
@@ -2779,6 +2778,7 @@ pieroth-romanet.ch
 pieroth.ch
 pierothromanet.ch
 pierotravaglini.ch
+pierotti.ch
 pierouge.ch
 pieroundmagdalena.ch
 pierozeni.ch
@@ -2838,6 +2838,7 @@ pierre-etienne.ch
 pierre-etoile.ch
 pierre-fabre-dermatologie.ch
 pierre-fabre.ch
+pierre-favre.ch
 pierre-francois.ch
 pierre-geronimi.ch
 pierre-gianni.ch
@@ -3033,6 +3034,7 @@ pierrehagmann.ch
 pierrehardy.ch
 pierrehaute.ch
 pierrehazan.ch
+pierreherme.ch
 pierrehofer.ch
 pierrehumbert.ch
 pierreimhasly.ch
@@ -4029,7 +4031,6 @@ pilates-portal.ch
 pilates-power.ch
 pilates-preisig.ch
 pilates-psychologie.ch
-pilates-raaflaub.ch
 pilates-rapperswil.ch
 pilates-raum.ch
 pilates-raumundzeit.ch
@@ -4054,6 +4055,7 @@ pilates-session.ch
 pilates-shop.ch
 pilates-simonagrob.ch
 pilates-sion.ch
+pilates-sol.ch
 pilates-solaire.ch
 pilates-solveig.ch
 pilates-spirit.ch
@@ -5816,6 +5818,7 @@ pinchbooks.ch
 pinchbreak.ch
 pinchcime.ch
 pinchofsalt.ch
+pinchsmall.ch
 pinchu.ch
 pinciro.ch
 pincities.ch
@@ -9217,11 +9220,9 @@ pivot-plex.ch
 pivot-tailoring.ch
 pivot-treuhand.ch
 pivot.ch
-pivotal-resear.ch
 pivotal.ch
 pivotalgroup.ch
 pivotallabs.ch
-pivotalresear.ch
 pivotaltracker.ch
 pivotbike.ch
 pivotcycles.ch
@@ -9680,6 +9681,7 @@ pixelkit.ch
 pixelklan.ch
 pixelklick.ch
 pixelklinik.ch
+pixelkmu.ch
 pixelkoenig.ch
 pixelkraft.ch
 pixelkrake.ch
@@ -12390,6 +12392,7 @@ pizzeriahggli.ch
 pizzeriaifiglidinapoli.ch
 pizzeriailcastello.ch
 pizzeriailcortile.ch
+pizzeriailpanzo.ch
 pizzeriailyana.ch
 pizzeriaindernaehe.ch
 pizzeriaitalia.ch

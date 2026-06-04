@@ -1274,6 +1274,7 @@ xn--amdriberg-s9a.ch
 xn--ameisen-bekmpfen-5nb.ch
 xn--ameisenbr-22a.ch
 xn--ameisiwg-6za.ch
+xn--ameliakchen-zhb.ch
 xn--ameplait-r0a.ch
 xn--amgnster-85a.ch
 xn--amibeaut-i1a.ch
@@ -6489,7 +6490,6 @@ xn--boisetlumire-6db.ch
 xn--boissons-rafrachissantes-8ic.ch
 xn--bolero-getrnkepulver-lzb.ch
 xn--bolerogetrnke-kfb.ch
-xn--bolerogetrnkepulver-pwb.ch
 xn--boll-epa.ch
 xn--boll-ooa.ch
 xn--boll-safety-ebb.ch
@@ -11044,6 +11044,8 @@ xn--crossfitzrich-4ob.ch
 xn--crossmediale-geschftsberichte-iqc.ch
 xn--crowdmillionr-mfb.ch
 xn--crp-u-cino-n7a.ch
+xn--crpe-hpa.ch
+xn--crperie-kya.ch
 xn--crperie-suisse-rkb.ch
 xn--crpes-corner-peb.ch
 xn--crpes-isa.ch
@@ -18152,7 +18154,6 @@ xn--frndvoll-75a.ch
 xn--frneli-xxa.ch
 xn--frnkel-cua.ch
 xn--frnkli-cua.ch
-xn--frnkliflow-r5a.ch
 xn--frnks-hra.ch
 xn--frnkthommen-m8a.ch
 xn--frntligahtau-elb.ch
@@ -22518,6 +22519,7 @@ xn--grnhaus-ag-beb.ch
 xn--grnhaus-o2a.ch
 xn--grnheit-o2a.ch
 xn--grnherz-o2a.ch
+xn--grnhlzli-q4a1d.ch
 xn--grnhof-4ya.ch
 xn--grnhof-areal-elb.ch
 xn--grnhofareal-uhb.ch
@@ -25885,7 +25887,6 @@ xn--hoslupf-7wa.ch
 xn--hoslupfbar-s5a.ch
 xn--hostpont-71a.ch
 xn--hostpont-h2a.ch
-xn--hot-zrich-u9a.ch
 xn--hotdogwgeli-r8a.ch
 xn--hote-8qa.ch
 xn--hotel-arvenbel-rsb.ch
@@ -26356,7 +26357,6 @@ xn--hrnlisalat-ecb.ch
 xn--hrntis-3ya.ch
 xn--hroase-wxa.ch
 xn--hroote-3ya.ch
-xn--hrosdelnergie-bhbg.ch
 xn--hrot-ooa4l.ch
 xn--hrote-kva.ch
 xn--hrparadies-ecb.ch
@@ -28490,7 +28490,6 @@ xn--jtrobo-bua.ch
 xn--jtservice-v2a.ch
 xn--jttferrari-q5a.ch
 xn--jtzenweid-q9a.ch
-xn--jtzigs-3yaa.ch
 xn--jubilum-9wa.ch
 xn--jubilumsbier-kcb.ch
 xn--jubilumsgaben-ffb.ch
@@ -31638,11 +31637,8 @@ xn--kransgespalter-9hb.ch
 xn--krantransporte-zrich-4ec.ch
 xn--krass-prvention-7kb.ch
 xn--kratzmbel-57a.ch
-xn--kraut-rben-geb.ch
 xn--kraut-und-rben-qsb.ch
 xn--krautundkche-llb.ch
-xn--krautundrben-llb.ch
-xn--krautundrbengmbh-rzb.ch
 xn--krav-maga-zrich-9vb.ch
 xn--kravmaga-mhlin-4pb.ch
 xn--kravmagamhlin-qmb.ch
@@ -34331,6 +34327,7 @@ xn--locdubois-15a.ch
 xn--locgilliron-ibb5e.ch
 xn--lochblech-gelnder-2qb.ch
 xn--lochers-ldeli-jfb.ch
+xn--lochgter-b6a.ch
 xn--lochmller-u9a.ch
 xn--lockerundkrnig-4pb.ch
 xn--lockerundschn-tmb.ch
@@ -34473,6 +34470,7 @@ xn--loquence-90a.ch
 xn--loral-dsa.ch
 xn--lordgnther-eeb.ch
 xn--lorenz-flckiger-7vb.ch
+xn--lorenzdvu-12a.ch
 xn--lorenzflckiger-nsb.ch
 xn--lorisknzletransporte-uec.ch
 xn--lorn-dpa.ch
@@ -37139,6 +37137,7 @@ xn--mesli2go-65a.ch
 xn--meslidrink-9db.ch
 xn--meslidrinks-thb.ch
 xn--mesliriegel-thb.ch
+xn--meslivote-q9a.ch
 xn--mesmer-gebudetechnik-kzb.ch
 xn--mesotherapie-mnner-ytb.ch
 xn--messe-mbel-kcb.ch
@@ -37601,6 +37600,7 @@ xn--migrosuntersttzungsfonds-7sc.ch
 xn--migrs-9rae.ch
 xn--mihr-sanitr-u8a.ch
 xn--miini-brefswahl-6vb.ch
+xn--miis-chttige-jlb.ch
 xn--miisfrnseh-u5a.ch
 xn--miisldeli-z2a.ch
 xn--miiszri-r2a.ch
@@ -42763,7 +42763,6 @@ xn--pflegeentschdigung-wtb.ch
 xn--pflegefachfrau-zrich-4ec.ch
 xn--pflegefachkrfte-clb.ch
 xn--pflegefhrer-zhb.ch
-xn--pflegefrangehrige-c0b1i.ch
 xn--pflegefrdich-jlb.ch
 xn--pflegefrmich-jlb.ch
 xn--pflegefrsorger-msb.ch
@@ -44202,7 +44201,6 @@ xn--programme-bnvolat-ltbb.ch
 xn--programmehlios-kkb.ch
 xn--progressives-bndnis-jbc.ch
 xn--progrs-7ua.ch
-xn--progymgerte-t8a.ch
 xn--proheubrg-12a.ch
 xn--prohrissons-ebb.ch
 xn--proideekchenhaus-qzb.ch
@@ -45166,6 +45164,7 @@ xn--rberfoto-0za.ch
 xn--rberimmo-0za.ch
 xn--rbertreuhand-gcb.ch
 xn--rbeschlcker-l8ag.ch
+xn--rbevter-5wad.ch
 xn--rbezahl-n2a.ch
 xn--rbgasslbt-v2ag.ch
 xn--rbhsli-bua8q.ch
@@ -46858,6 +46857,9 @@ xn--rr-vorhnge-w5a.ch
 xn--rre-sna.ch
 xn--rresch-4ya.ch
 xn--rrli-5qa.ch
+xn--rro-sna.ch
+xn--rro-traggerste-vpb0i.ch
+xn--rro-vorschubgerste-d3b8k.ch
 xn--rrswil-wxa.ch
 xn--rrvorhnge-02a.ch
 xn--rs-audit-m4a.ch
@@ -48244,7 +48246,6 @@ xn--sauberekche-0hb.ch
 xn--sauberes-bro-mlb.ch
 xn--sauberes-wasser-fr-alle-spc.ch
 xn--sauberesbro-1hb.ch
-xn--saubr-jra.ch
 xn--saucenknig-kcb.ch
 xn--sauerstoffgert-iib.ch
 xn--sauerstofftherapie-zrich-ftc.ch
@@ -58404,6 +58405,7 @@ xn--vermgensportal-ypb.ch
 xn--vermgensschutz-schweiz-xhc.ch
 xn--vermgenssicherung-2zb.ch
 xn--vermgensspeicher-pwb.ch
+xn--vermgenssteuer-ypb.ch
 xn--vermgensstrategie-2zb.ch
 xn--vermgensungleichheit-69b.ch
 xn--vermgensverwalter-2zb.ch
@@ -59007,6 +59009,7 @@ xn--vorortzahnrzte-fib.ch
 xn--vorratslsungen-2pb.ch
 xn--vorrte-eua.ch
 xn--vorschaltgerte-hib.ch
+xn--vorschubgerste-qsb.ch
 xn--vorsorge-grenzgnger-uwb.ch
 xn--vorsorgeauftrge-dlb.ch
 xn--vorsorgebnzli-4ob.ch
@@ -64220,6 +64223,7 @@ xn--zytfrmi-q2a.ch
 xn--zytlos-schn-0fb.ch
 xn--zytlosschn-mcb.ch
 xn--zytrseli-q4a.ch
+xn--zytrseli-studen-ctb.ch
 xn--zytwrch-8wa.ch
 xn--zziwil-bua.ch
 xn--zziwil24-0za.ch

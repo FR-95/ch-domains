@@ -11,6 +11,7 @@ fg-ast.ch
 fg-automobile.ch
 fg-baar.ch
 fg-ballwil.ch
+fg-bank.ch
 fg-basel.ch
 fg-bau.ch
 fg-baukeramik.ch

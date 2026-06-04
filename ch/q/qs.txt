@@ -41,6 +41,7 @@ qs-temperature.ch
 qs-todo.ch
 qs-tutorials.ch
 qs-vet.ch
+qs-wbf-admin.ch
 qs1.ch
 qs2.ch
 qs24.ch

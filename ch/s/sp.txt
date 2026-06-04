@@ -572,7 +572,6 @@ spa-de-nage.ch
 spa-design.ch
 spa-dienstleistungen.ch
 spa-dog.ch
-spa-eden.ch
 spa-et-holidays.ch
 spa-et-plus.ch
 spa-et-sante.ch
@@ -2531,7 +2530,6 @@ sparkens.ch
 sparker.ch
 sparkes.ch
 sparkett.ch
-sparkevents.ch
 sparkfab.ch
 sparkfabrik.ch
 sparkflow.ch
@@ -2978,7 +2976,6 @@ sparwasser.ch
 sparwat.ch
 sparwelt.ch
 sparwerkstatt.ch
-sparwise.ch
 sparwissen.ch
 sparwitz.ch
 sparwohl.ch
@@ -4157,6 +4154,7 @@ speciatech.ch
 specibois.ch
 species-specific-nutrition.ch
 species.ch
+species8472.ch
 specific-art.ch
 specific-diets.ch
 specific-drink.ch
@@ -6762,6 +6760,7 @@ sphenopraxe.ch
 sphenopraxie.ch
 spheos.ch
 sphera-avocates.ch
+sphera-research.ch
 sphera.ch
 spheragroup.ch
 spheraskin.ch
@@ -12146,6 +12145,7 @@ spitex-liliead.ch
 spitex-limmat.ch
 spitex-limmatsterne.ch
 spitex-limmattal.ch
+spitex-lindenhof.ch
 spitex-lindenpark.ch
 spitex-lineavita.ch
 spitex-lini.ch
@@ -17995,6 +17995,7 @@ sportwettenhelvetica.ch
 sportwettenmeister.ch
 sportwettenonline.ch
 sportwettenportal.ch
+sportwettenpro.ch
 sportwettenprofi.ch
 sportwettenschweiz.ch
 sportwettenschweizlegal.ch
@@ -18169,7 +18170,6 @@ spotaround.ch
 spotarthub.ch
 spotawheel.ch
 spotbase.ch
-spotbet.ch
 spotbillig.ch
 spotboom.ch
 spotbox.ch
@@ -18754,6 +18754,7 @@ sprachkurseonline.ch
 sprachkursepanorama.ch
 sprachkursonline.ch
 sprachkursvermittlung.ch
+sprachlab.ch
 sprachlabor.ch
 sprachlaborlokstadt.ch
 sprachland.ch
@@ -19831,6 +19832,7 @@ sprite.ch
 spritech.ch
 sprites.ch
 spritexpress.ch
+spritheld.ch
 spritkostenrechner.ch
 spritmonitor.ch
 spritnmore-winterthur.ch
@@ -20836,6 +20838,7 @@ spycherz.ch
 spychiger.ch
 spychoanalysis.ch
 spychweid.ch
+spycialist.ch
 spycodelic.ch
 spydeals.ch
 spyder-rs-tour.ch

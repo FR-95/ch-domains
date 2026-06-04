@@ -428,7 +428,6 @@ focused-ai.ch
 focused-development.ch
 focused-vintage.ch
 focused.ch
-focusedkids.ch
 focusedmind.ch
 focusedmindset.ch
 focusedreporting.ch
@@ -701,6 +700,7 @@ foege.ch
 foeger.ch
 foeglab.ch
 foegldengiadinaarchive.ch
+foehn-art.ch
 foehn-brunnen.ch
 foehn-consulting.ch
 foehn-gmbh.ch
@@ -714,6 +714,7 @@ foehn-x.ch
 foehn-zwingli-immobilien.ch
 foehn-zwingli.ch
 foehn.ch
+foehnart.ch
 foehnbar.ch
 foehnbrunnen.ch
 foehnenberg.ch
@@ -1274,6 +1275,8 @@ foilpilot.ch
 foilpilots.ch
 foilpumping.ch
 foilr.ch
+foilride.ch
+foilrider.ch
 foils.ch
 foilschool.ch
 foilschule.ch
@@ -1776,6 +1779,7 @@ foldpaper.ch
 foldpod.ch
 folds.ch
 foldspace.ch
+foldt.ch
 foldtable.ch
 foldtani-svizzera.ch
 foldvari.ch
@@ -2282,6 +2286,7 @@ folondo.ch
 foloris.ch
 folosses.ch
 folowerz.ch
+folowi.ch
 folpa.ch
 folpe.ch
 folpotart.ch
@@ -2293,7 +2298,6 @@ folsaeure-tabletten.ch
 folsaeure.ch
 folsaeuremangel.ch
 folsaeuremed.ch
-folshqip.ch
 folshqipshow.ch
 folsom-glenn.ch
 foltan.ch
@@ -4434,6 +4438,7 @@ fontana-fontana-ag.ch
 fontana-fontana.ch
 fontana-foundation.ch
 fontana-gutachten.ch
+fontana-haustechnik.ch
 fontana-hotel.ch
 fontana-imbiss.ch
 fontana-immobilien.ch
@@ -5117,6 +5122,7 @@ foodcoop-triemli.ch
 foodcoop-trift.ch
 foodcoop-witikon.ch
 foodcoop-zhoberland.ch
+foodcoop-zurgertrud.ch
 foodcoop.ch
 foodcoops.ch
 foodcoopshop.ch
@@ -5601,7 +5607,6 @@ foodqmconsulting.ch
 foodracers.ch
 foodrealismus.ch
 foodrebels.ch
-foodrec.ch
 foodrecycling-luescher.ch
 foodrecycling-wyss.ch
 foodrecycling.ch
@@ -7568,7 +7573,6 @@ forestryandpeople.ch
 forestservice-gmbh.ch
 forestservice.ch
 forestsforfriends.ch
-forestsupplements.ch
 foresttherapy.ch
 foresttherapyhub.ch
 foresttherapyswitzerland.ch
@@ -8868,6 +8872,7 @@ formations-pnl.ch
 formations-positives.ch
 formations-powerbi.ch
 formations-premiers-secours-bls-aed.ch
+formations-premiers-secours.ch
 formations-ricochet.ch
 formations-salaire.ch
 formations-salaires.ch
@@ -9050,6 +9055,7 @@ formbauer.ch
 formbaur.ch
 formberg.ch
 formbeton.ch
+formbild.ch
 formble-dakaj.ch
 formblech.ch
 formbo.ch
@@ -10751,8 +10757,6 @@ fortisinvest.ch
 fortisinvestag.ch
 fortisjj.ch
 fortiskredit.ch
-fortislex-avocats.ch
-fortislex.ch
 fortisline.ch
 fortismagnesium.ch
 fortismed.ch
@@ -11466,6 +11470,7 @@ forum5430.ch
 forum60-test.ch
 forum60plus-muehleberg.ch
 forum60plus-regionwil.ch
+forum60plus-wil.ch
 forum60plus.ch
 forum7.ch
 forum98.ch
@@ -12209,7 +12214,6 @@ fotichischtli.ch
 fotichiste.ch
 fotichreis.ch
 foticlub.ch
-foticos.ch
 fotiegge.ch
 fotifabrik.ch
 fotifactory.ch
@@ -13093,6 +13097,7 @@ fotobusbern.ch
 fotobusiness.ch
 fotobusmieten.ch
 fotobutler.ch
+fotobutsch.ch
 fotobuzz.ch
 fotobuzzer.ch
 fotobydesi.ch
@@ -13366,6 +13371,7 @@ fotofusion.ch
 fotogabriela.ch
 fotogabymueller.ch
 fotogafie-lenzburg.ch
+fotogafieundvidiografied.ch
 fotogala.ch
 fotogaleri-jf.ch
 fotogalerie-claudia.ch
@@ -15686,6 +15692,7 @@ foxled.ch
 foxli.ch
 foxlima.ch
 foxlin.ch
+foxline.ch
 foxlink.ch
 foxlive.ch
 foxlogistics.ch
@@ -15936,6 +15943,7 @@ foyersrivesdurhone.ch
 foyerst-joseph.ch
 foyerstgermain.ch
 foyerstmartin.ch
+foyertech.ch
 foyerthiele.ch
 foyervallon.ch
 foyerwetzikon.ch

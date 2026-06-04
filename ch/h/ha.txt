@@ -1351,6 +1351,7 @@ habegger-constructions.ch
 habegger-consulting.ch
 habegger-cs.ch
 habegger-cyber-security.ch
+habegger-design.ch
 habegger-engineering.ch
 habegger-eventtechnology.ch
 habegger-ewigewerte.ch
@@ -1426,6 +1427,8 @@ haberfarm.ch
 haberhaus.ch
 haberhuus.ch
 haberkorn.ch
+haberl-electronic.ch
+haberl-schweiz.ch
 haberl.ch
 haberla.ch
 haberlah.ch
@@ -2377,6 +2380,7 @@ hadleyrose.ch
 hadleyso.ch
 hadlikon.ch
 hadmin.ch
+hadnutrition.ch
 hado-esport.ch
 hado-schweiz.ch
 hado-swiss.ch
@@ -2704,6 +2708,7 @@ haefliger-bodenbelaege.ch
 haefliger-businesspark.ch
 haefliger-carparts.ch
 haefliger-cloud.ch
+haefliger-fusspflege.ch
 haefliger-gartenbau-aarau.ch
 haefliger-gartenbau.ch
 haefliger-gleisbau.ch
@@ -3159,6 +3164,7 @@ haengup.ch
 haenguru.ch
 haeni-architektur.ch
 haeni-bau.ch
+haeni-bauplanung.ch
 haeni-bedachungen.ch
 haeni-dachdecker.ch
 haeni-electricite.ch
@@ -3382,7 +3388,6 @@ haerri.ch
 haerrimail.ch
 haerrimedia.ch
 haerrimoserag.ch
-haerringer.ch
 haerrir.ch
 haerrlichkeiten.ch
 haerry-straub.ch
@@ -4177,14 +4182,18 @@ hagel-alarm.ch
 hagel-center.ch
 hagel-dellentechnik-harth.ch
 hagel-drive-in.ch
+hagel-drive.ch
 hagel-info.ch
 hagel-park-service.ch
 hagel-partner.ch
 hagel-reparatur.ch
 hagel-reparaturen.ch
+hagel-scan.ch
+hagel-service.ch
 hagel-shop.ch
 hagel-team.ch
 hagel-warnung.ch
+hagel-werk.ch
 hagel.ch
 hagelabwehr-ostschweiz.ch
 hagelalarm.ch
@@ -4192,6 +4201,7 @@ hagelcenter-nidwalden.ch
 hagelcenter-schweiz.ch
 hagelcenter-thurgau.ch
 hagelcenter.ch
+hageldrive.ch
 hageldrucktechnik.ch
 hagelforschung.ch
 hagelgrelegrandine.ch
@@ -4209,6 +4219,7 @@ hagelregister.ch
 hagelreparatur.ch
 hagelreparaturen.ch
 hagelrisiko.ch
+hagelscan.ch
 hagelschade.ch
 hagelschaden-bern.ch
 hagelschaden-centrum-douteil.ch
@@ -4236,6 +4247,7 @@ hagelschuer.ch
 hagelschutz-einfach-automatisch.ch
 hagelschutz.ch
 hagelschutzregister.ch
+hagelservice.ch
 hagelservicehesse.ch
 hagelshop.ch
 hagelspezialist.ch
@@ -4247,6 +4259,7 @@ hageltechnik.ch
 hageltest.ch
 hagelversicherung.ch
 hagelwarnung.ch
+hagelwerk.ch
 hagelxpert.ch
 hagelzentrum.ch
 hagema.ch
@@ -4313,7 +4326,6 @@ hagenfeldt.ch
 hagenfirst.ch
 hagenflorian.ch
 hagengrote.ch
-hagengroteversand.ch
 hagenhaus.ch
 hagenhenrich-genannt-hagemann.ch
 hagenhls.ch
@@ -6830,7 +6842,6 @@ halle-rohrbach.ch
 halle-sieben.ch
 halle.ch
 halle05.ch
-halle11.ch
 halle11a.ch
 halle12.ch
 halle15.ch
@@ -7162,7 +7173,6 @@ hallmann.ch
 hallmar.ch
 hallmark.ch
 hallmarkcards.ch
-hallmarkpartners.ch
 hallmarlis.ch
 hallmarque.ch
 hallmen-architektur.ch
@@ -7431,6 +7441,7 @@ hallospatz.ch
 hallosrf.ch
 hallostudio.ch
 hallosupport.ch
+halloswiss.ch
 hallotablet.ch
 hallotaxi-pfaeffikon.ch
 hallotaxi-rapperswil-jona.ch
@@ -8884,6 +8895,7 @@ hanami.ch
 hanamichi.ch
 hanamichifinger.ch
 hanamifiorideco.ch
+hanamiq.ch
 hanamisushi.ch
 hanamisushibar.ch
 hanamisushipizzeria.ch
@@ -10747,6 +10759,7 @@ handwerker-bern.ch
 handwerker-berneroberland.ch
 handwerker-bertschi.ch
 handwerker-buero.ch
+handwerker-bund.ch
 handwerker-center-shop.ch
 handwerker-center.ch
 handwerker-ch.ch
@@ -10785,6 +10798,7 @@ handwerker-lausanne.ch
 handwerker-liste.ch
 handwerker-luzern.ch
 handwerker-magazin.ch
+handwerker-magnet.ch
 handwerker-marketing.ch
 handwerker-marktplatz.ch
 handwerker-naef.ch
@@ -11529,6 +11543,7 @@ handyrechnungbezahlencasino.ch
 handyrechnungcasinos.ch
 handyrepair.ch
 handyrepaircenter.ch
+handyreparatur-baselland.ch
 handyreparatur-sc.ch
 handyreparatur-sursee.ch
 handyreparatur-tbrickl.ch
@@ -12246,6 +12261,7 @@ hanna-treuhand.ch
 hanna-zuercher.ch
 hanna.ch
 hanna5.ch
+hannaalysia.ch
 hannaalyssia.ch
 hannabay.ch
 hannabewegt.ch
@@ -13439,6 +13455,7 @@ hantwerk.ch
 hantz.ch
 hanu.ch
 hanuka.ch
+hanuki.ch
 hanuliak.ch
 hanulik.ch
 hanuma-naturals.ch
@@ -14061,7 +14078,6 @@ happy-thai-massage.ch
 happy-therapy.ch
 happy-time-coaching.ch
 happy-to-help.ch
-happy-to-serve-you.ch
 happy-toller.ch
 happy-tonis-pizzeria.ch
 happy-too.ch
@@ -14116,7 +14132,6 @@ happyadmin.ch
 happyads.ch
 happyadvice.ch
 happyageing.ch
-happyagentur.ch
 happyaging.ch
 happyagua.ch
 happyai.ch
@@ -14751,6 +14766,7 @@ happymetime.ch
 happymielz.ch
 happymillionaer.ch
 happymind.ch
+happymindful.ch
 happymindhappysoul.ch
 happymindsetmom.ch
 happymindsupply.ch
@@ -15439,6 +15455,7 @@ harchitektur.ch
 harchoucheconsulting.ch
 harco.ch
 harcon.ch
+harcourt.ch
 harcu-holding.ch
 harcuba.ch
 hard-2-buff.ch
@@ -16573,6 +16590,7 @@ harmoniepferd.ch
 harmonieplante.ch
 harmoniepraxis.ch
 harmoniepur.ch
+harmoniequine.ch
 harmonieraum.ch
 harmoniereiten.ch
 harmonierohrdorf.ch
@@ -19950,7 +19968,6 @@ hausappenzell.ch
 hausarbeit-korrektur.ch
 hausarbeit.ch
 hausarbeiten.ch
-hausarbeiten24.ch
 hausarbeitsethik.ch
 hausarlis.ch
 hausart-neftenbach.ch
@@ -20808,6 +20825,7 @@ hauser-anwalt.ch
 hauser-astro.ch
 hauser-authentique.ch
 hauser-auto-ecole.ch
+hauser-autodesign.ch
 hauser-baumanagement.ch
 hauser-bauspenglerei.ch
 hauser-be.ch
@@ -23248,7 +23266,9 @@ hautklar.ch
 hautklaressen.ch
 hautklinik-bodensee.ch
 hautklinik-uster.ch
+hautklinik-zuerich.ch
 hautklinik.ch
+hautklinikzuerich.ch
 hautkontakt.ch
 hautkonzept-hess.ch
 hautkonzept.ch
@@ -24139,7 +24159,6 @@ hazeberry.ch
 hazebrothers.ch
 hazecrew.ch
 hazedaze.ch
-hazedoc.ch
 hazedrop.ch
 hazeen.ch
 hazeevolution.ch

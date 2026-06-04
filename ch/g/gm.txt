@@ -128,7 +128,6 @@ gmabaweb.ch
 gmabc.ch
 gmac.ch
 gmacademy.ch
-gmacfs.ch
 gmacg.ch
 gmachd.ch
 gmachje.ch
@@ -227,6 +226,7 @@ gmbau-gutknecht.ch
 gmbau.ch
 gmbauart.ch
 gmbautocenter.ch
+gmbautomobile.ch
 gmbb.ch
 gmbc.ch
 gmbcorp.ch

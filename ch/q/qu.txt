@@ -2071,7 +2071,6 @@ quarantini.ch
 quarcit.ch
 quarck.ch
 quarcom.ch
-quare.ch
 quaregia.ch
 quarelia.ch
 quarella-beratungen.ch
@@ -3521,6 +3520,7 @@ quellsteinbrunnen.ch
 quelltal.ch
 quelltext.ch
 quellwasser.ch
+quellweg.ch
 quellweich.ch
 quellwell.ch
 quellwelten.ch
@@ -5168,7 +5168,6 @@ quitter-la-suisse.ch
 quitters.ch
 quittig.ch
 quittli.ch
-quittly.ch
 quitto.ch
 quittpad.ch
 quittung.ch

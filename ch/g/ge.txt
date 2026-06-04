@@ -3026,7 +3026,6 @@ gegenwartauktionen.ch
 gegenwarte.ch
 gegenwarten.ch
 gegenwartkunst.ch
-gegenwartsbeschleuniger.ch
 gegenwartskasse.ch
 gegenwartskunst.ch
 gegenwehr-bringt-erfolg.ch
@@ -4159,7 +4158,6 @@ geistigewelt.ch
 geistiich.ch
 geistkraft.ch
 geistkreis.ch
-geistlehre.ch
 geistli.ch
 geistlich-colles.ch
 geistlich-immobilia.ch
@@ -4397,6 +4395,7 @@ gelateaux.ch
 gelatelli.ch
 gelateria-1900.ch
 gelateria-artigiana.ch
+gelateria-beim-kloster.ch
 gelateria-bellaciao.ch
 gelateria-bongusto.ch
 gelateria-bremgarten.ch
@@ -4518,7 +4517,6 @@ gelatobianco.ch
 gelatocremoso.ch
 gelatodavoti.ch
 gelatodinaturalausanne.ch
-gelatogo.ch
 gelatogranja.ch
 gelatoitaliano.ch
 gelatolepore.ch
@@ -6530,7 +6528,6 @@ gemmatarantino.ch
 gemme-mediation.ch
 gemme.ch
 gemmecotti.ch
-gemmerli.ch
 gemmes-tech-group.ch
 gemmes-tech.ch
 gemmes.ch
@@ -6801,6 +6798,7 @@ gemuesehandel.ch
 gemuesehaus.ch
 gemuesehobel-boerner.ch
 gemuesehobel.ch
+gemuesehof-honau.ch
 gemuesehof-oberkirch.ch
 gemueseimport.ch
 gemuesekapseln.ch
@@ -7715,7 +7713,6 @@ generationenstrom.ch
 generationentandem.ch
 generationentheater.ch
 generationentreffen.ch
-generationentrepreneur.ch
 generationentrepreneurs.ch
 generationenverbindend.ch
 generationenvertrag.ch
@@ -7815,6 +7812,7 @@ generationwakeup.ch
 generationwealth.ch
 generationwhy.ch
 generationx-events.ch
+generationx.ch
 generationxconsulting.ch
 generationxyz.ch
 generativ-aerospace.ch
@@ -9318,7 +9316,6 @@ geneve-tourisme.ch
 geneve-tours.ch
 geneve-tpp.ch
 geneve-traiteur.ch
-geneve-tranchants.ch
 geneve-urologie.ch
 geneve-vacances.ch
 geneve-veterinaire.ch
@@ -13767,6 +13764,7 @@ gerance-suisse.ch
 gerance-swiss.ch
 gerance.ch
 gerance2000.ch
+gerance360.ch
 gerancebg.ch
 gerancebroye.ch
 gerancec.ch
@@ -13867,6 +13865,7 @@ gerbehof.ch
 gerbelacker.ch
 gerbema.ch
 gerbematte.ch
+gerbendezdari.ch
 gerbepraxis-oberuzwil.ch
 gerber---consulting.ch
 gerber-a.ch
@@ -20202,7 +20201,6 @@ getforme.ch
 getfound.ch
 getfree.ch
 getfresh.ch
-getfriday.ch
 getfriends.ch
 getfruits.ch
 getftp.ch
@@ -20863,6 +20861,7 @@ getronics.ch
 getrookie.ch
 getroot.ch
 getrow.ch
+getrox.ch
 gets-formation.ch
 gets-int.ch
 gets-support.ch
@@ -21138,6 +21137,7 @@ getwet.ch
 getwildfit.ch
 getwing.ch
 getwings.ch
+getwirt.ch
 getwork.ch
 getworkdone.ch
 getxentral.ch
@@ -21972,7 +21972,6 @@ gewerbeindex.ch
 gewerbeindustrie.ch
 gewerbeinfo.ch
 gewerbeinfodatenbank.ch
-gewerbeinformationsverzeichnis.ch
 gewerbeinfoverzeichnis.ch
 gewerbeins.ch
 gewerbejob.ch
@@ -22730,6 +22729,7 @@ geyer-spenglerei.ch
 geyer.ch
 geyeraesthetic.ch
 geyeraesthetics.ch
+geyerfam.ch
 geyerofenbau.ch
 geyers.ch
 geyisried.ch

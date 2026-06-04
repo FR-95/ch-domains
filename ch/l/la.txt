@@ -730,7 +730,6 @@ la-graine-enchantee.ch
 la-graine.ch
 la-graminee.ch
 la-grande-beroche24.ch
-la-grande-bouffe.ch
 la-grande-enquete.ch
 la-grande-maison.ch
 la-grande-ourse.ch
@@ -3458,6 +3457,7 @@ laboratoiredentairefribourg.ch
 laboratoiredentairemuller.ch
 laboratoiredeprecision.ch
 laboratoiredermatologiquebenemedio.ch
+laboratoiredetransformation.ch
 laboratoiredti.ch
 laboratoiredubois.ch
 laboratoiredunous.ch
@@ -4765,7 +4765,6 @@ lacatrinagourmet.ch
 lacatus.ch
 lacauma.ch
 lacaura.ch
-lacausa.ch
 lacausette.ch
 lacava.ch
 lacavacarona.ch
@@ -4925,6 +4924,7 @@ lacetmontagne.ch
 lacetra.ch
 lacets-roses.ch
 lacets-shop.ch
+lacetsroses.ch
 laceup.ch
 lacevicheria.ch
 lacevicheriadeluz.ch
@@ -9135,7 +9135,6 @@ laggersa.ch
 laggeryson.ch
 laggner.ch
 laggnerag.ch
-laggs2020.ch
 laggsbier.ch
 laggstrail.ch
 laggwhisky.ch
@@ -9560,6 +9559,7 @@ lagrange.ch
 lagrange1972.ch
 lagrangeadede.ch
 lagrangeamanu.ch
+lagrangeaphil.ch
 lagrangeauxcourges.ch
 lagrangeauxlivres.ch
 lagrangecapital.ch
@@ -11413,6 +11413,7 @@ lalupa.ch
 lalupasiankitchen.ch
 lalus-bakery.ch
 lalutrive.ch
+lalutryve.ch
 laluxe.ch
 laluz.ch
 laluzdelaluna.ch
@@ -12482,6 +12483,7 @@ lamethodesilva.ch
 lametrac.ch
 lamett.ch
 lametta.ch
+lamettastudio.ch
 lamettayoga.ch
 lameubleriedesalpes.ch
 lameufduweb.ch
@@ -16193,6 +16195,7 @@ langobear.ch
 langoel.ch
 langohren.ch
 langolerta.ch
+langolf.ch
 langolino-lichtensteig.ch
 langolino.ch
 langolinodeilibri.ch
@@ -19589,6 +19592,7 @@ larsphotography.ch
 larspopp.ch
 larsposch.ch
 larspreising.ch
+larsreimann.ch
 larsreinmann.ch
 larsritter.ch
 larsroesti.ch
@@ -19835,6 +19839,8 @@ larzep-hydraulik.ch
 larzep-onlineshop.ch
 larzep-shop.ch
 larzep.ch
+larzon.ch
+larzonpartners.ch
 las-art.ch
 las-bonitas.ch
 las-burg.ch
@@ -21920,6 +21926,7 @@ lastradashoes.ch
 lastragale.ch
 lastraordinaria.ch
 lastrassbanda.ch
+lastratege.ch
 lastrategieducitron.ch
 lastrategiste.ch
 lastravaganza.ch
@@ -22682,6 +22689,7 @@ laterrasse-gryon.ch
 laterrasse-restaurant.ch
 laterrasse.ch
 laterrasseblonde.ch
+laterrassededelemont.ch
 laterrassedesbains.ch
 laterrasseduport.ch
 laterrassethonex.ch
@@ -23725,6 +23733,7 @@ laufbahn-portfolio.ch
 laufbahn.ch
 laufbahnaarau.ch
 laufbahnagentur.ch
+laufbahnanalyse.ch
 laufbahnatelier.ch
 laufbahnb.ch
 laufbahnberater.ch
@@ -23789,6 +23798,7 @@ laufbahnpolizei.ch
 laufbahnpraxis-rj.ch
 laufbahnpraxis.ch
 laufbahnprofi.ch
+laufbahnprofil.ch
 laufbahnressourcen.ch
 laufbahnseminare.ch
 laufbahnswiss.ch
@@ -25109,6 +25119,7 @@ laurentgraff.ch
 laurentgrangier.ch
 laurentgudel.ch
 laurentguenat.ch
+laurentguitarlab.ch
 laurenthug.ch
 laurenti-immobilier.ch
 laurenti.ch
@@ -25799,6 +25810,7 @@ lausound.ch
 lausoundmusic.ch
 lausplenafoundation.ch
 lausstop.ch
+laustante.ch
 laustela.ch
 lauster.ch
 laustine.ch
@@ -26041,7 +26053,6 @@ lavaenoir.ch
 lavaeprofuma.ch
 lavaero.ch
 lavagabonde.ch
-lavagabox.ch
 lavage-auto.ch
 lavage-automobile.ch
 lavage-colibri.ch
@@ -27308,6 +27319,7 @@ lawdoo.ch
 lawdox.ch
 lawdrive.ch
 lawdvice.ch
+lawea.ch
 laweasy.ch
 laweb.ch
 lawedu.ch
@@ -27837,7 +27849,6 @@ laylight.ch
 laylinh.ch
 laylow-hamacs.ch
 laylow.ch
-layluna.ch
 laymounlabs.ch
 layn.ch
 layne.ch

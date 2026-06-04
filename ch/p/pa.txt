@@ -81,7 +81,6 @@ pa55wort.ch
 pa5calecastella.ch
 pa5ino.ch
 paa.ch
-paaaff.ch
 paaates.ch
 paabier.ch
 paac.ch
@@ -1643,7 +1642,6 @@ padel-field.ch
 padel-flirt.ch
 padel-for-kids.ch
 padel-fribourg.ch
-padel-friends.ch
 padel-gear.ch
 padel-geneve.ch
 padel-glarus.ch
@@ -1697,7 +1695,6 @@ padel-spezialist.ch
 padel-sport.ch
 padel-sportup.ch
 padel-stgallen.ch
-padel-store.ch
 padel-suisse.ch
 padel-swiss.ch
 padel-tennis-shop.ch
@@ -3799,6 +3796,7 @@ paladino-insurtech.ch
 paladino-webconsulting.ch
 paladino.ch
 paladinoinsurtech.ch
+paladinotreuhand.ch
 paladinproductions.ch
 paladinsafe.ch
 paladinsec.ch
@@ -4301,7 +4299,6 @@ paligo.ch
 paligoapp.ch
 paliindicatori.ch
 palik.ch
-palila.ch
 palillo.ch
 palim.ch
 palima.ch
@@ -6079,7 +6076,6 @@ pandoraalarm.ch
 pandoracommunity.ch
 pandoraflow.ch
 pandorah.ch
-pandorai.ch
 pandorakiss.ch
 pandoramaweb.ch
 pandoramotors.ch
@@ -7378,7 +7374,6 @@ pantera-tango.ch
 pantera.ch
 panteracosmetics.ch
 panteranera.ch
-panteraresear.ch
 panterasolution.ch
 panterasolutions.ch
 pantercon.ch
@@ -12271,6 +12266,7 @@ parkex.ch
 parkexplorer.ch
 parkexpress.ch
 parkfair.ch
+parkfalcon.ch
 parkfeld.ch
 parkfest.ch
 parkfind.ch
@@ -12952,6 +12948,7 @@ parks.ch
 parksafe.ch
 parksafekerim.ch
 parksamix.ch
+parkscan.ch
 parkschaden-center.ch
 parkschaden-schweiz.ch
 parkschaden24.ch
@@ -18147,7 +18144,6 @@ pasta-love.ch
 pasta-lucia.ch
 pasta-manufaktur.ch
 pasta-master.ch
-pasta-mathod.ch
 pasta-mia.ch
 pasta-mista.ch
 pasta-mobile.ch

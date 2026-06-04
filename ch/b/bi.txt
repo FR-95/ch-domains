@@ -1767,7 +1767,6 @@ bicont.ch
 bicontcasa.ch
 bicontsun.ch
 bicooboo.ch
-bicor.ch
 bicorn.ch
 bicorne.ch
 bicosmetic.ch
@@ -1822,7 +1821,6 @@ bicycles-outlet.ch
 bicycles.ch
 bicycleshow.ch
 bicyclespielkarten.ch
-bicyclesshop.ch
 bicyclestore.ch
 bicycletrips.ch
 bicyclette-gourmande.ch
@@ -2219,6 +2217,7 @@ bielerkammerchor.ch
 bielerkmu.ch
 bielerkonzept.ch
 bielerkuverts.ch
+bielerlauftage.ch
 bielermedical.ch
 bielermeer.ch
 bielermetallbau.ch
@@ -2360,6 +2359,8 @@ bien-air.ch
 bien-assure.ch
 bien-ch.ch
 bien-chez-soi.ch
+bien-chez-soin.ch
+bien-chez-soins.ch
 bien-communiquer.ch
 bien-construire.ch
 bien-dans-mon-corps.ch
@@ -2458,6 +2459,8 @@ bienchen.ch
 bienchenhaus.ch
 bienchezmoi.ch
 bienchezsoi.ch
+bienchezsoin.ch
+bienchezsoins.ch
 bienchezvous.ch
 biencommun.ch
 bienconduire.ch
@@ -3572,6 +3575,7 @@ bieri-landmaschinen.ch
 bieri-landtechnik.ch
 bieri-led.ch
 bieri-leitungsbau.ch
+bieri-liegenschaftsservice.ch
 bieri-lifecoaching.ch
 bieri-maeder.ch
 bieri-mail.ch
@@ -5636,6 +5640,7 @@ bijoux-io.ch
 bijoux-lausanne.ch
 bijoux-loco.ch
 bijoux-locos.ch
+bijoux-magnetiques.ch
 bijoux-meeg.ch
 bijoux-nagelkosmetik.ch
 bijoux-naturkosmetik.ch
@@ -9199,6 +9204,7 @@ billeraapp.ch
 billerbeck-invest.ch
 billerbeck-proguest.ch
 billerbeck.ch
+billerbecks.ch
 billerberatung.ch
 billeris.ch
 billero.ch
@@ -12963,6 +12969,7 @@ bioenergie-contracting.ch
 bioenergie-diessbach.ch
 bioenergie-duedingen.ch
 bioenergie-frauenfeld.ch
+bioenergie-kosmetik.ch
 bioenergie-kunsttherapie.ch
 bioenergie-park.ch
 bioenergie-parks.ch
@@ -13148,6 +13155,7 @@ biofleisch-praden.ch
 biofleisch-tschiertschen.ch
 biofleisch-vom-hof.ch
 biofleisch-zinsli.ch
+biofleisch-zuzwil.ch
 biofleisch.ch
 bioflex-software.ch
 bioflex.ch
@@ -16084,6 +16092,7 @@ bioxpharma.ch
 bioxsine.ch
 bioxtra.ch
 bioxvie.ch
+bioxwert.ch
 bioxx.ch
 bioz.ch
 biozahn.ch
@@ -19603,6 +19612,7 @@ bitify.ch
 bitigo.ch
 bitihag.ch
 bitil.ch
+bitimes.ch
 bitimmo.ch
 bitinfo.ch
 bitingcolors.ch
@@ -20347,6 +20357,7 @@ biwix.ch
 biwiz.ch
 biwo.ch
 biwog.ch
+biwork.ch
 biwu.ch
 biwusst-sii.ch
 bix.ch
@@ -20623,6 +20634,7 @@ bizplus.ch
 bizportal.ch
 bizpro.ch
 bizquery.ch
+bizquiz.ch
 bizr.ch
 bizramp.ch
 bizrate.ch

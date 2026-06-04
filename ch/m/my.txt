@@ -18,6 +18,7 @@ my-address.ch
 my-adecco.ch
 my-adlershop.ch
 my-admin.ch
+my-aduana.ch
 my-advent.ch
 my-adventure.ch
 my-advokat.ch
@@ -1096,6 +1097,7 @@ my-meat.ch
 my-med-escape.ch
 my-med-escapes.ch
 my-med.ch
+my-media.ch
 my-mediation.ch
 my-mediations.ch
 my-medibook.ch
@@ -3504,6 +3506,7 @@ mycasinojoa.ch
 mycasinoo.ch
 mycasinoonline.ch
 mycasinopoker.ch
+mycasinoswitzerland.ch
 mycask.ch
 mycaspar.ch
 mycassino.ch
@@ -4399,7 +4402,6 @@ mydentist.ch
 mydentist24.ch
 mydentitycolor.ch
 mydeo.ch
-mydeparture.ch
 mydepartures.ch
 mydeposit.ch
 mydeposito.ch
@@ -4790,6 +4792,7 @@ myecology.ch
 myecom.ch
 myecommerce.ch
 myeconomy.ch
+myecoparts.ch
 myecosun.ch
 myecover.ch
 myeddi.ch
@@ -4826,6 +4829,7 @@ myeibe.ch
 myeid.ch
 myeidgenossen.ch
 myeier.ch
+myeinordnung.ch
 myeisbaer.ch
 myeishockey.ch
 myeits.ch
@@ -9930,7 +9934,6 @@ mysalario.ch
 mysalary.ch
 mysale.ch
 mysales.ch
-mysalights.ch
 mysallegra.ch
 mysalon.ch
 mysalpers.ch
@@ -10246,6 +10249,7 @@ myshophair.ch
 myshophouse.ch
 myshopkuesne.ch
 myshoponline.ch
+myshopper.ch
 myshoppi.ch
 myshopping.ch
 myshoppingbag.ch
@@ -10920,7 +10924,6 @@ mysticstones.ch
 mysticstudio.ch
 mysticswan.ch
 mystictan.ch
-mysticte.ch
 mystictrail.ch
 mysticum.ch
 mysticus.ch

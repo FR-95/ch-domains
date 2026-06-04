@@ -1405,6 +1405,7 @@ location-camping-car.ch
 location-camping-cars.ch
 location-campingcar.ch
 location-capdagde.ch
+location-carouge.ch
 location-carousel.ch
 location-carrousel.ch
 location-casque-silent.ch
@@ -1528,7 +1529,6 @@ location-sierre.ch
 location-simulateur-vr.ch
 location-ski.ch
 location-son.ch
-location-sono.ch
 location-sonorisation-eclairage.ch
 location-sonorisation.ch
 location-tentes.ch
@@ -1909,6 +1909,7 @@ locherweine.ch
 locherwork.ch
 lochfenster.ch
 lochfolie.ch
+lochgueter.ch
 lochhof.ch
 lochhuette.ch
 lochi.ch
@@ -4741,7 +4742,6 @@ logo-thun.ch
 logo-timbre.ch
 logo-to-go.ch
 logo-uk-toggenburg.ch
-logo-vista.ch
 logo-vocalis.ch
 logo-webdesign.ch
 logo-zentrum.ch
@@ -5193,7 +5193,6 @@ logoutne.ch
 logovernier.ch
 logovi.ch
 logovino.ch
-logovista.ch
 logowand.ch
 logowatch.ch
 logowear.ch
@@ -9186,6 +9185,7 @@ lorenzboegli.ch
 lorenzbohler.ch
 lorenzcars.ch
 lorenzcugini.ch
+lorenzdavu.ch
 lorenzelli.ch
 lorenzen.ch
 lorenzer.ch
@@ -10523,6 +10523,7 @@ lottenba.ch
 lottenbach-beratungen.ch
 lottenbach-mediationen.ch
 lottenbach-metallbau.ch
+lottenbach.ch
 lottenhof.ch
 lottenschluessel.ch
 lottenweg5.ch
@@ -11476,7 +11477,6 @@ loulette.ch
 louli.ch
 loulia.ch
 loulimacher.ch
-loulje.ch
 loully-candy.ch
 loulo.ch
 loulou-restaurant.ch
@@ -12554,6 +12554,7 @@ loven.ch
 lovena.ch
 lovenacreations.ch
 lovenation.ch
+lovendi.ch
 loveneat.ch
 lovenelingerie.ch
 lovenest.ch

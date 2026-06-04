@@ -233,7 +233,6 @@ usarac.ch
 usarahshighschoolyear.ch
 usarailpass.ch
 usareise.ch
-usareisemithuggler.ch
 usareisemobile.ch
 usareisen.ch
 usarmy-store.ch
@@ -345,6 +344,7 @@ usbstick.ch
 usbsticks.ch
 usbstore.ch
 usbt.ch
+usbuext.ch
 usbv.ch
 usbvisitenkarten.ch
 usbwerbeartikel.ch
@@ -586,6 +586,7 @@ useh.ch
 usehealth-yourself.ch
 usehelp.ch
 useiger.ch
+usein.ch
 useini.ch
 useit-party.ch
 useit-webagentur.ch

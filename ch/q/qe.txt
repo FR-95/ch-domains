@@ -94,6 +94,7 @@ qeridoo-schweiz.ch
 qeridoo.ch
 qerim.ch
 qerimaj-echafaudages.ch
+qerimaj.ch
 qerimi-generalunternehmen.ch
 qerimi-incendie.ch
 qerimi.ch
@@ -108,7 +109,6 @@ qero.ch
 qeroe.ch
 qerolixai.ch
 qeropersonal.ch
-qeros.ch
 qerotech.ch
 qerre.ch
 qerreti.ch
@@ -142,4 +142,5 @@ qexo.ch
 qexodelphai.ch
 qexpert.ch
 qexpo.ch
+qeywords.ch
 qez.ch

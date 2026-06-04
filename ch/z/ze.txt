@@ -55,7 +55,6 @@ zeam.ch
 zeamedia.ch
 zeami.ch
 zeamoss.ch
-zean.ch
 zeapon.ch
 zear.ch
 zeaschaad.ch
@@ -433,6 +432,7 @@ zedx-solutions.ch
 zedx.ch
 zedyco.ch
 zedzebra.ch
+zee-wee.ch
 zee.ch
 zeeb.ch
 zeebra.ch
@@ -2090,6 +2090,7 @@ zelgli-eberg.ch
 zelgli-garage.ch
 zelgli-praxiszentrum.ch
 zelgli-seewen.ch
+zelgli-sky.ch
 zelgli-staufen.ch
 zelgli-work.ch
 zelgli-zofingen.ch
@@ -3758,6 +3759,7 @@ zentangle.ch
 zentao.ch
 zentar.ch
 zentara.ch
+zentaracore.ch
 zentareal.ch
 zentari.ch
 zentarix.ch
@@ -4386,6 +4388,7 @@ zentrum-schlossmatt.ch
 zentrum-schmid.ch
 zentrum-schulentwicklung.ch
 zentrum-schwarzsee.ch
+zentrum-schweiz.ch
 zentrum-schwyz.ch
 zentrum-seelische-gesundheit.ch
 zentrum-seetalplatz.ch
@@ -4852,8 +4855,6 @@ zep-industries.ch
 zep-paysagiste.ch
 zep-sa.ch
 zep-sanitaire.ch
-zep-solution.ch
-zep-solutions.ch
 zep.ch
 zepa-facility.ch
 zepad.ch
@@ -4947,8 +4948,6 @@ zepra.ch
 zepressing.ch
 zepro.ch
 zepsec.ch
-zepsolution.ch
-zepsolutions.ch
 zept.ch
 zeptair.ch
 zepter-consulting.ch
@@ -5515,6 +5514,7 @@ zero-toxic-system.ch
 zero-trust.ch
 zero-uno.ch
 zero-unverpackt.ch
+zero-zero-one.ch
 zero-zero.ch
 zero-zins.ch
 zero.ch
@@ -5830,6 +5830,7 @@ zerotrust.ch
 zerotrustaccesscloud.ch
 zerotrustbackup.ch
 zerotrustnetwork.ch
+zerotrustprivatevault.ch
 zerotub.ch
 zeroual.ch
 zerouno6.ch

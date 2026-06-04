@@ -686,6 +686,7 @@ mtmedical.ch
 mtmengineering.ch
 mtmh.ch
 mtmmassagen.ch
+mtmodules.ch
 mtmotoclassic.ch
 mtmp.ch
 mtmpartners.ch
@@ -786,6 +787,7 @@ mtpu.ch
 mtpulse.ch
 mtpv.ch
 mtq.ch
+mtq5.ch
 mtr-ag-news.ch
 mtr-ag.ch
 mtr-lakeview.ch
@@ -947,7 +949,6 @@ mtt-group.ch
 mtt-leemann.ch
 mtt-siebnen.ch
 mtt-time.ch
-mtt-trading.ch
 mtt-weinfelden.ch
 mtt.ch
 mtta.ch

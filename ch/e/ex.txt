@@ -1822,7 +1822,6 @@ exitadventureroom.ch
 exitas.ch
 exitbail.ch
 exitbuddy.ch
-exitcheck.ch
 exitcoa.ch
 exitescape.ch
 exitfix.ch
@@ -2120,6 +2119,7 @@ exo-tica.ch
 exo-time.ch
 exo1.qos.ch
 exoagency.ch
+exoant.ch
 exobase-hepia.ch
 exobase.ch
 exobau.ch
@@ -2494,6 +2494,7 @@ expat-experts.ch
 expat-fair.ch
 expat-family.ch
 expat-furniture.ch
+expat-homes.ch
 expat-insurance.ch
 expat-jobs.ch
 expat-law.ch

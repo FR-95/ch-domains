@@ -428,6 +428,7 @@ federation-suisse-art-therapeutes.ch
 federation-suisse-des-entreprises.ch
 federation-suisse-des-notaires.ch
 federation-swisswrestling.ch
+federation-taxis-ge.ch
 federation.ch
 federation3d.ch
 federationbars.ch
@@ -2079,6 +2080,7 @@ fein-kost.ch
 fein-logistik.ch
 fein-malerei.ch
 fein-massage.ch
+fein-sandra.ch
 fein-schliff.ch
 fein-schweiz.ch
 fein-sinn.ch
@@ -2548,6 +2550,7 @@ feitoemcristo.ch
 feiv.ch
 feixen.ch
 feiyr.ch
+feiyue.ch
 fej-atelier.ch
 fej-suit.ch
 fej-suits.ch
@@ -2938,6 +2941,7 @@ feldentertainment.ch
 felder-ag.ch
 felder-art.ch
 felder-astro.ch
+felder-capital.ch
 felder-consulting.ch
 felder-delphin.ch
 felder-design.ch
@@ -2975,6 +2979,7 @@ felderbau.ch
 felderbottenwil.ch
 felderbu.ch
 felderc.ch
+feldercapital.ch
 felderclan.ch
 felderconsulting.ch
 felderer-enterprises.ch
@@ -3603,6 +3608,7 @@ felinemate.ch
 felineporta.ch
 felineporta21.ch
 felines.ch
+felinescubicle.ch
 felinesse.ch
 felinharmonie.ch
 felinis-toilettage.ch
@@ -4153,6 +4159,7 @@ fellay-bruchez-peinture.ch
 fellay-bruchez.ch
 fellay-carrelage-valais.ch
 fellay-manenti.ch
+fellay-verbier.ch
 fellay.ch
 fellayconstruction.ch
 fellaycoursmusique.ch
@@ -4426,7 +4433,6 @@ felo.ch
 felog.ch
 felomoto.ch
 felony.ch
-feloon.ch
 felora.ch
 felorit.ch
 felox.ch
@@ -6182,6 +6188,7 @@ fenstermonteur-winterthur.ch
 fenstermonteur.ch
 fenstermonteure.ch
 fenstern.ch
+fensternauer-karriere.ch
 fensternauer.ch
 fensternorm.ch
 fensternormen.ch
@@ -6218,6 +6225,7 @@ fensterputz.ch
 fensterputzen-luzern.ch
 fensterputzer-andreas.ch
 fensterputzer.ch
+fensterputzroboter-zubehoer.ch
 fensterputzroboter.ch
 fensterputzservice.ch
 fensterraehmen.ch
@@ -6709,6 +6717,7 @@ ferblanterie-sanitaire.ch
 ferblanterie-schorderet.ch
 ferblanterie-shop.ch
 ferblanterie-toiture.ch
+ferblanterie-valais.ch
 ferblanterie.ch
 ferblanterie2000.ch
 ferblanteriedart.ch
@@ -6729,7 +6738,6 @@ ferblantiercouvreurvalais.ch
 ferblantiercouvreurvaud.ch
 ferblantiers.ch
 ferblantoit.ch
-ferblattu.ch
 ferbo.ch
 ferc.ch
 fercasa.ch
@@ -9132,7 +9140,6 @@ fermedelongequeue.ch
 fermedemachefer.ch
 fermedemarsillon.ch
 fermedemontelly.ch
-fermedeprazconstant.ch
 fermederauven.ch
 fermedes2ruz.ch
 fermedes4saisons.ch
@@ -10026,6 +10033,8 @@ ferrarigeneva.ch
 ferrarigeneve.ch
 ferrarihc25.ch
 ferrarihome.ch
+ferrariimmo.ch
+ferrariimmobilien.ch
 ferrarikaffee.ch
 ferrarileasing.ch
 ferrarilocation.ch
@@ -10994,7 +11003,6 @@ festi-kids.ch
 festi-live.ch
 festi-loc.ch
 festi-location.ch
-festi-pattes.ch
 festi-plus.ch
 festi-valderuz.ch
 festi.ch
@@ -11087,7 +11095,6 @@ festisub.ch
 festiterroir.ch
 festitools.ch
 festitourb.ch
-festiva-basel.ch
 festiva.ch
 festivabasel.ch
 festival-ai.ch
@@ -11772,6 +11779,7 @@ fetch.ch
 fetchcafe.ch
 fetchd.ch
 fetchef.ch
+fetcher.ch
 fetchinvest.ch
 fetchrobotics.ch
 fetcom.ch

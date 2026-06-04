@@ -2878,6 +2878,7 @@ hugokahn.ch
 hugokeiser-ag.ch
 hugokeiser.ch
 hugokeiserag.ch
+hugokeller.ch
 hugokoblet.ch
 hugolang.ch
 hugolangel.ch
@@ -5003,6 +5004,7 @@ hunde-physiotherapie-bern.ch
 hunde-physiotherapie-guemligen.ch
 hunde-plausch-uni.ch
 hunde-portal.ch
+hunde-praxisbasel.ch
 hunde-profis.ch
 hunde-psychologin.ch
 hunde-psychotherapie.ch
@@ -5774,7 +5776,9 @@ hundephotos.ch
 hundephysio-ahoi.ch
 hundephysio-allemann.ch
 hundephysio-baerguf.ch
+hundephysio-basel.ch
 hundephysio-baselland.ch
+hundephysio-beiderbasel.ch
 hundephysio-bern.ch
 hundephysio-budmiger.ch
 hundephysio-engadin.ch
@@ -5819,6 +5823,8 @@ hundephysio.ch
 hundephysio4pfoten.ch
 hundephysioaarau.ch
 hundephysioaargau.ch
+hundephysiobasel.ch
+hundephysiobeiderbasel.ch
 hundephysiobern.ch
 hundephysioheld.ch
 hundephysiolarissa.ch
@@ -5865,6 +5871,7 @@ hundepower-flueck.ch
 hundepower.ch
 hundepraxis-menalda.ch
 hundepraxis.ch
+hundepraxisbasel.ch
 hundeprinz.ch
 hundepsychiatrie.ch
 hundepsychologe.ch
@@ -6644,6 +6651,7 @@ hundetherapeutin.ch
 hundetherapie-active-pro.ch
 hundetherapie-attiswil.ch
 hundetherapie-baerguf.ch
+hundetherapie-basel.ch
 hundetherapie-bewegbar.ch
 hundetherapie-davos.ch
 hundetherapie-gesundepfoten.ch
@@ -7071,7 +7079,6 @@ hunga24.ch
 hungacher.ch
 hungarian-health.ch
 hungarianhealth.ch
-hungariansociety.ch
 hungarichur.ch
 hungaricum.ch
 hungaricus.ch
@@ -8493,6 +8500,7 @@ huulufoods.ch
 huum-sauna.ch
 huum.ch
 huumyk.ch
+huun.ch
 huup.ch
 huur.ch
 huuray.ch

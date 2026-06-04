@@ -1265,6 +1265,7 @@ sicherbetreut.ch
 sicherbewegen.ch
 sicherclaw.ch
 sichercoaching.ch
+sicherdaheim.ch
 sicherdigital.ch
 sicherdings.ch
 sicherdrohnenfliegen.ch
@@ -2152,7 +2153,6 @@ sici.ch
 sicile.ch
 sicilejura.ch
 sicili.ch
-sicilia-bella.ch
 sicilia-bike.ch
 sicilia.ch
 siciliaavocado.ch
@@ -3448,7 +3448,6 @@ siegfriedag.ch
 siegfriedbern.ch
 siegfriedceballos.ch
 siegfriedfein.ch
-siegfriedgasser.ch
 siegfriedgin.ch
 siegfriedhoenle.ch
 siegfriedimmo.ch
@@ -6797,6 +6796,7 @@ silent-places.ch
 silent-platten.ch
 silent-portraits.ch
 silent-power.ch
+silent-revolution.ch
 silent-ribs.ch
 silent-ride.ch
 silent-rider.ch
@@ -8264,7 +8264,6 @@ silvercross.ch
 silvercruises.ch
 silvercube-lounge.ch
 silvercube.ch
-silvercut.ch
 silverdat.ch
 silverdat3.ch
 silverdata.ch
@@ -8384,7 +8383,6 @@ silveroak.ch
 silverox.ch
 silverpassion.ch
 silverpay.ch
-silverpea.ch
 silverpeak.ch
 silverpearl.ch
 silverpeas.ch
@@ -8837,6 +8835,7 @@ silviamichel.ch
 silviamonti.ch
 silviamoser.ch
 silviamueller.ch
+silviamueri.ch
 silviamuggli.ch
 silviamutter.ch
 silvianowak-kinesiologie.ch
@@ -9815,7 +9814,6 @@ simmensps.ch
 simmenstat.ch
 simmenstyle.ch
 simmental-360.ch
-simmental-aktiv.ch
 simmental-foto.ch
 simmental-kleintierpraxis.ch
 simmental-saanenland.ch
@@ -9825,7 +9823,6 @@ simmental-switzerland.ch
 simmental.ch
 simmental24.ch
 simmental360.ch
-simmentalaktiv.ch
 simmentalapotheke.ch
 simmentalarena.ch
 simmentalcard.ch
@@ -16640,6 +16637,7 @@ sisterfields.ch
 sisterfusion.ch
 sisterhood-day.ch
 sisterhood-deluxe.ch
+sisterhood-events.ch
 sisterhood-maison.ch
 sisterhood-passion.ch
 sisterhood.ch
@@ -16713,6 +16711,7 @@ sisu-immobilien.ch
 sisu-partizipation.ch
 sisu-stories.ch
 sisu.ch
+sisuadvisory.ch
 sisucentroterapeutico.ch
 sisucollection.ch
 sisuconsulting.ch
@@ -16807,7 +16806,6 @@ sitagshop.ch
 sitagstore.ch
 sitagstuhlshop.ch
 sitak.ch
-sital-gestion.ch
 sitam.ch
 sitama-zentrum.ch
 sitama.ch

@@ -640,6 +640,7 @@ cpousaz.ch
 cpowatchgeneva.ch
 cpower.ch
 cpp-advisors.ch
+cpp-iot-etc.ch
 cpp-jb.ch
 cpp-pbk-vs.ch
 cpp-pv.ch

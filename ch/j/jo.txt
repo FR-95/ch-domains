@@ -2066,7 +2066,6 @@ jobs-svztg.ch
 jobs-swiss.ch
 jobs-swissfineline.ch
 jobs-switzerland.ch
-jobs-tanner-gartenbau.ch
 jobs-temporaer.ch
 jobs-tessin.ch
 jobs-textilien.ch
@@ -2363,6 +2362,7 @@ jobslocator.ch
 jobslook.ch
 jobslots.ch
 jobsluzern.ch
+jobsmap.ch
 jobsmarket.ch
 jobsmarkt.ch
 jobsmart.ch
@@ -2512,6 +2512,7 @@ jobsui.ch
 jobsuisse.ch
 jobsuiza.ch
 jobsummit.ch
+jobsunbundled.ch
 jobsundjobs.ch
 jobsundkarriere.ch
 jobsunited.ch
@@ -3861,6 +3862,7 @@ joelwyss.ch
 joelyn.ch
 joelynnes-delicias.ch
 joelz.ch
+joelzahner.ch
 joelzanin.ch
 joelzbinden.ch
 joelzellweger.ch
@@ -6043,6 +6045,7 @@ jomatech.ch
 jomathys.ch
 jomaworld.ch
 jomax.ch
+jomaxgroup.ch
 jomaxime.ch
 jomb.ch
 jombala.ch
@@ -6499,7 +6502,6 @@ jonasstreule.ch
 jonasstuder.ch
 jonassulzer.ch
 jonassuter.ch
-jonasthomi.ch
 jonastogni.ch
 jonastone.ch
 jonasty.ch
@@ -9260,6 +9262,7 @@ joy99.ch
 joya-immobilier.ch
 joya-letreessentiel.ch
 joya-location.ch
+joya-mobility.ch
 joya-rennt.ch
 joya-tierphysio.ch
 joya.ch

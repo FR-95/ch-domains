@@ -250,7 +250,6 @@ diabetes-parodontitis.ch
 diabetes-pflege.ch
 diabetes-produkte.ch
 diabetes-ratgeber.ch
-diabetes-reset.ch
 diabetes-rh.ch
 diabetes-schuhe.ch
 diabetes-sh.ch
@@ -321,7 +320,6 @@ diabetespraxis.ch
 diabetesprodukte.ch
 diabetesratgeber.ch
 diabetesregime.ch
-diabetesreset.ch
 diabetesriskassessment.ch
 diabetesschaffhausen.ch
 diabetesschuhe.ch
@@ -967,6 +965,7 @@ dialogarchitektur.ch
 dialogare.ch
 dialogart.ch
 dialogbaar.ch
+dialogbak.ch
 dialogbar.ch
 dialogbild.ch
 dialogbilder.ch
@@ -1076,6 +1075,7 @@ dialogpraxis.ch
 dialogpreis.ch
 dialogprofi.ch
 dialogprofis.ch
+dialogprozess.ch
 dialogpunkt.ch
 dialograum.ch
 dialograumschwegler.ch
@@ -9901,6 +9901,7 @@ diffulivre.ch
 diffupro.ch
 diffus.ch
 diffuse.ch
+diffuseagency.ch
 diffuser-haarausfall.ch
 diffuser.ch
 diffuser4u.ch
@@ -11114,7 +11115,6 @@ digital-basel.ch
 digital-battery-passport.ch
 digital-bauen-schweiz.ch
 digital-bauen.ch
-digital-baumann.ch
 digital-beer-hour.ch
 digital-begleitet.ch
 digital-beirat.ch
@@ -12373,7 +12373,6 @@ digitalcd.ch
 digitalcenter.ch
 digitalcfo.ch
 digitalch.ch
-digitalchamber.ch
 digitalchampion.ch
 digitalchampions.ch
 digitalchange.ch
@@ -13432,7 +13431,6 @@ digitalfun.ch
 digitalfund.ch
 digitalfundraising.ch
 digitalfunk-daferner.ch
-digitalfunk.ch
 digitalfusion.ch
 digitalfutures.ch
 digitalgain.ch
@@ -14811,6 +14809,8 @@ digitalzug.ch
 digitalzuhause.ch
 digitalzylinder-shop.ch
 digitalzylinder.ch
+digitam-swiss.ch
+digitam-web.ch
 digitam.ch
 digitan.ch
 digitanalog.ch
@@ -15610,6 +15610,7 @@ diller-gmbh.ch
 diller.ch
 dillidog.ch
 dilliengutknecht.ch
+dillier-beschriftung.ch
 dillier-consulting.ch
 dillier-gartenbau.ch
 dillier-immobilien.ch
@@ -15617,6 +15618,7 @@ dillier-kunz.ch
 dillier-services.ch
 dillier-technik.ch
 dillier-treuhand.ch
+dillier-werbetechnik.ch
 dillier-wyrsch.ch
 dillier.ch
 dillierag.ch
@@ -16137,6 +16139,7 @@ dimodica.ch
 dimoe.ch
 dimofoods.ch
 dimogonzales.ch
+dimoi.ch
 dimole.ch
 dimomusic.ch
 dimon.ch
@@ -18496,7 +18499,6 @@ dirkarnold.ch
 dirkbadura.ch
 dirkdollar.ch
 dirkfischer.ch
-dirkfotografiert.ch
 dirkfranssens.ch
 dirkhebel.ch
 dirkko.ch
@@ -21649,6 +21651,7 @@ divino-bern.ch
 divino-hair.ch
 divino-treuhand.ch
 divino.ch
+divinocigars.ch
 divinocosmetics.ch
 divinodisara.ch
 divinoklub.ch
@@ -22059,6 +22062,7 @@ diycamper.ch
 diycamperguide.ch
 diycampervan.ch
 diycosmetiques.ch
+diycouples.ch
 diycrypto.ch
 diydiamant.ch
 diyduftkerze.ch

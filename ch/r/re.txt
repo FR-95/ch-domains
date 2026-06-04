@@ -536,7 +536,6 @@ reaconcept.ch
 reaconize.ch
 reaconnect.ch
 reacora.ch
-reacorps.ch
 reacro.ch
 reacsoft.ch
 react-agentur.ch
@@ -766,6 +765,7 @@ ready2wear.ch
 ready2work.ch
 ready4.ch
 ready4afterwork.ch
+ready4ai.ch
 ready4boards.ch
 ready4business.ch
 ready4challenge.ch
@@ -2037,6 +2037,7 @@ realplus.ch
 realpoint.ch
 realportico.ch
 realprisma.ch
+realprivatevault.ch
 realpro.ch
 realprogram.ch
 realprogramme.ch
@@ -4138,6 +4139,7 @@ rechnungspapier.ch
 rechnungspilot.ch
 rechnungsportal.ch
 rechnungsprogramm-handwerker.ch
+rechnungsprogramm-lohnunternehmen.ch
 rechnungsprogramm-schweiz.ch
 rechnungsprogramm-zeiterfassung.ch
 rechnungsprogramm.ch
@@ -6607,6 +6609,7 @@ redalps.ch
 redalux.ch
 redamericanfootball.ch
 redance.ch
+redandblack.ch
 redandblue.ch
 redandpartners.ch
 redandred.ch
@@ -7068,7 +7071,6 @@ redensart.ch
 redenschreiber.ch
 redenservice.ch
 redensyl.ch
-redent.ch
 redentistry.ch
 redentutgut.ch
 redenuebermedien.ch
@@ -7567,7 +7569,6 @@ redmooncoiffure.ch
 redmoonmedia.ch
 redmoonpictures.ch
 redmoonsound.ch
-redmotion.ch
 redmoto-swiss.ch
 redmoto.ch
 redmotoswiss.ch
@@ -7703,6 +7704,7 @@ redpark.ch
 redparrucchieri.ch
 redparts.ch
 redparty.ch
+redpass.ch
 redpassion.ch
 redpatronus.ch
 redpay.ch
@@ -13290,6 +13292,7 @@ regulafisch.ch
 regulafischer.ch
 regulafischerherren.ch
 regulafit.ch
+regulafiva.ch
 regulaflubacher.ch
 regulaforrer.ch
 regulafreiburghaus.ch
@@ -15840,7 +15843,6 @@ reinigungmartins.ch
 reinigungmascarenhas.ch
 reinigungmett.ch
 reinigungmitherz.ch
-reinigungneder.ch
 reinigungofferte.ch
 reinigungofferten.ch
 reinigungoffertenbern.ch
@@ -18338,6 +18340,7 @@ reka.ch
 rekaaidevacances.ch
 rekaaiutovacanze.ch
 rekaaktuell.ch
+rekaautomobile.ch
 rekabau.ch
 rekacard.ch
 rekacards.ch
@@ -19004,6 +19007,7 @@ relaxeur.ch
 relaxfashion.ch
 relaxfilter.ch
 relaxfirst.ch
+relaxflow.ch
 relaxflowart.ch
 relaxfood.ch
 relaxforbody.ch
@@ -19854,6 +19858,7 @@ rem-portal.ch
 rem-privat.ch
 rem-schaeppi.ch
 rem-shop.ch
+rem-society.ch
 rem-software.ch
 rem-tec.ch
 rem-und-film.ch
@@ -20393,6 +20398,7 @@ remington-products.ch
 remington.ch
 remini.ch
 reminiscence.ch
+reminiscences.ch
 reminyl.ch
 remio.ch
 remion-immo.ch
@@ -21244,7 +21250,6 @@ renac.ch
 renaca.ch
 renacars.ch
 renace.ch
-renacer.ch
 renaco.ch
 renacrea.ch
 renact.ch
@@ -21337,6 +21342,7 @@ renanetwork.ch
 renansechauffe.ch
 renaperle.ch
 renapharma.ch
+renar.ch
 renard-heilig.ch
 renard-watches.ch
 renard.ch
@@ -26716,6 +26722,7 @@ repond-services.ch
 repond.ch
 repondeur-ia.ch
 repondnyckees.ch
+repondo.ch
 reponds.ch
 repone.ch
 reponio.ch
@@ -26856,6 +26863,7 @@ reppischtaler-eisenbahn-amateure.ch
 reppischtallauf.ch
 repplinger.ch
 repplus.ch
+reppo.ch
 reppoint.ch
 reppointpro.ch
 reppointsain.ch
@@ -30525,6 +30533,7 @@ restaurant-asia.ch
 restaurant-asiatique-jade.ch
 restaurant-asiatique-lotus.ch
 restaurant-asiatique.ch
+restaurant-asire.ch
 restaurant-aspendos.ch
 restaurant-astoria.ch
 restaurant-atavola.ch
@@ -32331,7 +32340,6 @@ restaurant-vieux-bourg.ch
 restaurant-vieux-lausanne-bar-giraf.ch
 restaurant-vista.ch
 restaurant-vogel-gryff.ch
-restaurant-vogelgryff.ch
 restaurant-vogelsang.ch
 restaurant-vonrotz.ch
 restaurant-vue.ch
@@ -33127,7 +33135,6 @@ restaurantlechasseur.ch
 restaurantlechef.ch
 restaurantlechevalblanc.ch
 restaurantlecosy.ch
-restaurantlecsarda.ch
 restaurantlecygne.ch
 restaurantledahu.ch
 restaurantledelta.ch
@@ -35599,6 +35606,7 @@ retreathotel.ch
 retreathouse.ch
 retreatindernatur.ch
 retreatlife.ch
+retreatnavigator.ch
 retreatonline.ch
 retreatpartner.ch
 retreatpass.ch
@@ -35964,7 +35972,6 @@ retrostyles.ch
 retrosummer.ch
 retrosunshine.ch
 retroswiss.ch
-retrotaxi.ch
 retrotec.ch
 retrotech.ch
 retrotechnica.ch
@@ -37731,6 +37738,7 @@ revival-sport.ch
 revival-treasures.ch
 revival.ch
 revival4switzerland.ch
+revivalacademy.ch
 revivalakademie.ch
 revivalband.ch
 revivalbrickz.ch
@@ -38808,6 +38816,7 @@ rez-ag-fr.ch
 rez-ag.ch
 rez-beluga.ch
 rez-gaeu.ch
+rez-ore.ch
 rez-otg.ch
 rez-service.ch
 rez-usine.ch
@@ -39005,6 +39014,7 @@ rezonance.ch
 rezonet.ch
 rezor.ch
 rezorapp.ch
+rezore.ch
 rezoscience.ch
 rezosuisse.ch
 rezotec.ch

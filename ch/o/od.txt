@@ -75,6 +75,7 @@ oda-suites.ch
 oda-wald-zh-sh.ch
 oda-wald.ch
 oda.ch
+odaaia.ch
 odaam.ch
 odaas.ch
 odaban.ch
@@ -917,7 +918,6 @@ odura.ch
 oduretta.ch
 odus-classic.ch
 odus.ch
-oduvanel.ch
 oduxia.ch
 odv-dev.ch
 odv-follow.ch

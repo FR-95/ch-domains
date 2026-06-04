@@ -85,6 +85,7 @@ sv-humlikon-adlikon.ch
 sv-humpl.ch
 sv-immo.ch
 sv-ing.ch
+sv-ingenieurs.ch
 sv-it.ch
 sv-jobs.ch
 sv-kappel.ch
@@ -2763,6 +2764,7 @@ svs-tg.ch
 svs-zentralschweiz.ch
 svs.ch
 svsa.ch
+svsafnern.ch
 svsagrarservice.ch
 svsarganserland.ch
 svsb.ch

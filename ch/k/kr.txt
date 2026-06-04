@@ -637,6 +637,7 @@ kraftjungs.ch
 kraftkammer.ch
 kraftkarte.ch
 kraftkarten.ch
+kraftkauf.ch
 kraftkeller-langnau.ch
 kraftkeller.ch
 kraftkinz.ch
@@ -994,6 +995,7 @@ kraiburg-relastec.ch
 kraiburg.ch
 kraid.ch
 kraillingoils.ch
+kraimod.ch
 krainer-druck.ch
 krainer-steinschaf.ch
 krainer.ch
@@ -1783,7 +1785,6 @@ krankenversicherungvergleich.ch
 krankenwagen.ch
 krankenzusatzversicherung.ch
 krankenzusatzversicherungen.ch
-krankgolf.ch
 krankheit-als-chance.ch
 krankheit-zweitmeinung.ch
 krankheit.ch
@@ -1933,7 +1934,6 @@ krasnykitstudio.ch
 krass-bau.ch
 krass-gewaltpraevention.ch
 krass-gmbh.ch
-krass-lufttechnik.ch
 krass-optik.ch
 krass-praevention.ch
 krass-theaterpaedagogik.ch
@@ -1955,7 +1955,6 @@ krassimo.ch
 krassisach.ch
 krassmannintelligence.ch
 krassperger.ch
-krasssauber.ch
 krassteam-facility.ch
 krassteam.ch
 krasstech.ch
@@ -2084,6 +2083,7 @@ krauer-partner.ch
 krauer-pugliese.ch
 krauer-rossweid.ch
 krauer-sommer.ch
+krauer-support.ch
 krauer.ch
 krauerhus.ch
 krauerhusegg.ch
@@ -2196,7 +2196,6 @@ krautol.ch
 krautplausch.ch
 krautproduktion.ch
 krautraum.ch
-krautrueben.ch
 krauts.ch
 krautsache.ch
 krautscheid.ch
@@ -2222,7 +2221,6 @@ krautundnadel.ch
 krautundquer.ch
 krautundrauch.ch
 krautundrosen.ch
-krautundrueben-gmbh.ch
 krautundrueben.ch
 krautundso.ch
 krautundstil.ch
@@ -4695,6 +4693,7 @@ kretiundpleti.ch
 kretoliva.ch
 kretonic.ch
 kretov.ch
+krets.ch
 kretschi.ch
 kretschmann.ch
 kretschmar.ch
@@ -5621,6 +5620,7 @@ krimitrail.ch
 krimitrails.ch
 krimiweekend.ch
 krimiweg.ch
+krimiwerkstatt.ch
 krimiwoche.ch
 krimiwochenende.ch
 krimizimmer.ch
@@ -7327,6 +7327,7 @@ kruettlip.ch
 kruewan-thai-massage.ch
 kruezli.ch
 krug-associates.ch
+krug-bau.ch
 krug-champagne.ch
 krug-darters.ch
 krug-iseli.ch
@@ -7711,6 +7712,7 @@ krypto-schweiz.ch
 krypto-shop.ch
 krypto-space.ch
 krypto-sparen.ch
+krypto-station.ch
 krypto-steuerberater.ch
 krypto-steuern-schweiz.ch
 krypto-steuern.ch

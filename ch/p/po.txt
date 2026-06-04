@@ -4713,6 +4713,7 @@ poll-tec.ch
 poll.ch
 poll24.ch
 poll2go.ch
+poll2meet.ch
 polla-sisters.ch
 polla.ch
 pollach.ch
@@ -5983,7 +5984,6 @@ polyplex.ch
 polyplus.ch
 polypluslab.ch
 polypode.ch
-polypoint-support.ch
 polypoint.ch
 polypointservices.ch
 polypole.ch
@@ -6440,7 +6440,6 @@ pomona-park.ch
 pomona-ratgeber.ch
 pomona-spirit.ch
 pomona-suisse.ch
-pomona-unnerwaegs.ch
 pomona.ch
 pomonaagentur.ch
 pomonainnovation.ch
@@ -7310,6 +7309,7 @@ ponyundpferdehof.ch
 ponyuszyt.ch
 ponywagen.ch
 ponyweidag.ch
+ponywelten.ch
 ponyzauber.ch
 ponyzeit.ch
 ponz.ch
@@ -7395,6 +7395,7 @@ pool-ethique-clinique.ch
 pool-ewcs.ch
 pool-feminin.ch
 pool-folie.ch
+pool-folien.ch
 pool-folierengelterkinden.ch
 pool-for-nature.ch
 pool-garten.ch
@@ -10439,7 +10440,6 @@ portraitki.ch
 portraitkunst.ch
 portraitmaler.ch
 portraitmalerei.ch
-portraitnow.ch
 portraitomat.ch
 portraitpainting.ch
 portraitpassion.ch
@@ -12261,7 +12261,6 @@ pot-control.ch
 pot-de-fleurs.ch
 pot-de-vin.ch
 pot-green.ch
-pot-head.ch
 pot-market.ch
 pot-mum.ch
 pot-power.ch
@@ -12534,6 +12533,7 @@ potions.ch
 potionsandco.ch
 potionsetelixirs.ch
 potionsetsortileges.ch
+potiron.ch
 potis.ch
 potissimus.ch
 potito.ch
@@ -13748,6 +13748,7 @@ powerdrink.ch
 powerdrive-gmbh.ch
 powerdrive.ch
 powerdruck-schweiz.ch
+powerduck-app.ch
 powerduck.ch
 powerduenger.ch
 powerduo.ch

@@ -173,9 +173,7 @@ axa-winthertur.ch
 axa-wintrthur.ch
 axa-women-cup.ch
 axa-womencup.ch
-axa-womens-cup-final.ch
 axa-womens-cup.ch
-axa-womens-super-league.ch
 axa-womenscup.ch
 axa-world.ch
 axa-xl.ch
@@ -384,9 +382,6 @@ axawomen-cup.ch
 axawomencup.ch
 axawomens-cup.ch
 axawomenscup.ch
-axawomenscupfinal.ch
-axawomenssuperleague.ch
-axawomensuperleague.ch
 axaworld.ch
 axawsl.ch
 axax.ch
@@ -906,6 +901,7 @@ axioconseils.ch
 axioconsulting.ch
 axiohm.ch
 axiol.ch
+axiolex.ch
 axiologic.ch
 axiom-ag.ch
 axiom-ai.ch

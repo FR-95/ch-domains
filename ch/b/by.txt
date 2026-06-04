@@ -292,6 +292,8 @@ byd-la-chaux-de-fonds.ch
 byd-lausanne.ch
 byd-motors.ch
 byd-neuchatel.ch
+byd-obererzuerichsee.ch
+byd-obersee.ch
 byd-olten.ch
 byd-ostschweiz.ch
 byd-pratteln.ch
@@ -348,6 +350,7 @@ bydfribourg.ch
 bydgaragekeigel.ch
 bydh.ch
 bydiannedesigns.ch
+bydiffuse.ch
 bydistinction.ch
 bydlausanne.ch
 bydmotors.ch
@@ -1073,6 +1076,7 @@ bytehub.ch
 bytehype.ch
 byteid.ch
 byteinto.ch
+byteinvader.ch
 byteit.ch
 bytekrake.ch
 bytekultur.ch

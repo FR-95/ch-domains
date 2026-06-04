@@ -650,7 +650,6 @@ open-qms.ch
 open-range.ch
 open-research-data-portal.ch
 open-riviera.ch
-open-road-design.ch
 open-s.ch
 open-sailing.ch
 open-salary.ch
@@ -1264,6 +1263,7 @@ openeye.ch
 openeyes.ch
 openeyescoaching.ch
 openfactory.ch
+openfacts.ch
 openfang.ch
 openfarminghackdays.ch
 openfarms.ch
@@ -1644,6 +1644,7 @@ openpr.ch
 openpress.ch
 openprices.ch
 openprivatebanking.ch
+openproductivity.ch
 openproject.ch
 openprojects.ch
 openpromo.ch
@@ -2223,6 +2224,7 @@ operioapp.ch
 operion.ch
 operionpartners.ch
 operiq.ch
+operiqsolutions.ch
 operis.ch
 operislogistique.ch
 operissima.ch
@@ -4021,6 +4023,7 @@ optimalassurances.ch
 optimalbrain.ch
 optimalchange.ch
 optimalcoachingknutti.ch
+optimalcompute.ch
 optimalconseil.ch
 optimalcontract.ch
 optimalcontracts.ch
@@ -4975,6 +4978,7 @@ optout.ch
 optovis.ch
 optovision.ch
 optoware.ch
+optowave.ch
 optra.ch
 optraken.ch
 optravis.ch
@@ -5109,6 +5113,7 @@ opus-singularis.ch
 opus-solar.ch
 opus-terra.ch
 opus-training.ch
+opus-unique.ch
 opus-vals.ch
 opus-x-coaching.ch
 opus-x-pro.ch

@@ -829,7 +829,6 @@ igelihoeck.ch
 igelihuus.ch
 igelkarte.ch
 igelkontrolle.ch
-igelkreis.ch
 igelmaps.ch
 igelmels.ch
 igelnest-oberbaselbiet.ch
@@ -1302,6 +1301,7 @@ igmofa.ch
 igmoso.ch
 igmost.ch
 igmotorrad.ch
+igmowag.ch
 igmp-intranet.ch
 igmp.ch
 igmr.ch
@@ -1852,6 +1852,7 @@ igujaeggi.ch
 igum.ch
 igumbi.ch
 igur.ch
+igura.ch
 igus.ch
 igusa.ch
 iguv.ch

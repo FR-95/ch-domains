@@ -2349,6 +2349,8 @@ pumppark-sins.ch
 pumpqueen.ch
 pumps-valves.ch
 pumps.ch
+pumpscoot.ch
+pumpscooter.ch
 pumpselector.ch
 pumpservice.ch
 pumpsking.ch
@@ -3211,6 +3213,7 @@ pur-kommunikation.ch
 pur-kosmetik.ch
 pur-kuechenbau.ch
 pur-led.ch
+pur-liquidheim.ch
 pur-luftservice.ch
 pur-nachhaltig.ch
 pur-natur.ch
@@ -3563,7 +3566,6 @@ pure-etincelle.ch
 pure-europe.ch
 pure-events.ch
 pure-experts.ch
-pure-farmers.ch
 pure-fashion.ch
 pure-feet.ch
 pure-filters.ch

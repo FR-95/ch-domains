@@ -114,7 +114,6 @@ ph87.ch
 ph9.ch
 pha-gen.ch
 pha.ch
-phaam.ch
 phaas.ch
 phabe.ch
 phabi.ch
@@ -4225,6 +4224,7 @@ phonarco.ch
 phonart-gmbh.ch
 phonart.ch
 phonartis.ch
+phonaxis.ch
 phone-and-surf.ch
 phone-base.ch
 phone-basic.ch
@@ -4345,6 +4345,7 @@ phonem.ch
 phonemaker.ch
 phonemakers.ch
 phonemarkt.ch
+phonemate.ch
 phonememo.ch
 phonemfestival.ch
 phonemia.ch
@@ -6269,6 +6270,7 @@ phronex.ch
 phronos.ch
 phrontisterion.ch
 phroth.ch
+phrozen.ch
 phrserrurerie.ch
 phruende.ch
 phrufli.ch
@@ -7040,6 +7042,7 @@ physio-fiden.ch
 physio-fiechthag.ch
 physio-filic.ch
 physio-finder.ch
+physio-fischingen.ch
 physio-fit-bl.ch
 physio-fit-schweiz.ch
 physio-fit-visp.ch

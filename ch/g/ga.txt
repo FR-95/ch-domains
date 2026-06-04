@@ -10,6 +10,7 @@ ga-buchsi.ch
 ga-buehlerscherler.ch
 ga-chapes-isolations.ch
 ga-chapes.ch
+ga-check.ch
 ga-chor.ch
 ga-cloud.ch
 ga-conseils.ch
@@ -72,7 +73,6 @@ ga22.ch
 ga3.ch
 ga36.ch
 ga4.ch
-ga6789.ch
 ga7.ch
 ga76-construction.ch
 ga88.ch
@@ -1440,6 +1440,7 @@ gadgetbusters.ch
 gadgetcreativi.ch
 gadgetdeal.ch
 gadgetdream.ch
+gadgetech24.ch
 gadgeteer.ch
 gadgeter.ch
 gadgeteria.ch
@@ -1799,6 +1800,7 @@ gaerbi-ebnatkappel.ch
 gaerbi.ch
 gaerbihof.ch
 gaerbizyt.ch
+gaerdet.ch
 gaerditz.ch
 gaerli.ch
 gaern.ch
@@ -2979,7 +2981,6 @@ galagut.ch
 galahad.ch
 galahads-guardian.ch
 galahads.ch
-galaimmo.ch
 galaise24.ch
 galajafinance.ch
 galak-groupe.ch
@@ -5627,6 +5628,7 @@ gamesoflight.ch
 gamesofstark.ch
 gamesolution.ch
 gamesondemand.ch
+gamesongaia.ch
 gamesonline.ch
 gamesonly.ch
 gamesoul.ch
@@ -6116,6 +6118,7 @@ gamr1st.ch
 gamre.ch
 gamreport.ch
 gamrfirst-affiliates.ch
+gamrfirst-casino-ch.ch
 gamrfirst-casino.ch
 gamrfirst-ch.ch
 gamrfirst-spielen.ch
@@ -14803,6 +14806,7 @@ gasthof-vonarx.ch
 gasthof-waldhaeusern.ch
 gasthof-weinhof.ch
 gasthof-wellenberg.ch
+gasthof-wildmaa.ch
 gasthof-zimmermann.ch
 gasthof-zum-baeren-veltheim.ch
 gasthof-zum-kreuz.ch
@@ -17509,6 +17513,7 @@ gawo-rent.ch
 gawo.ch
 gawoheda.ch
 gawomobil.ch
+gawonii.ch
 gawor.ch
 gawron.ch
 gawry.ch

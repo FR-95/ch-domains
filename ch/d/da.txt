@@ -450,6 +450,7 @@ dacake.ch
 dacam.ch
 dacamarchitettura.ch
 dacamedia.ch
+dacamera.ch
 dacandida.ch
 dacani.ch
 dacante.ch
@@ -2835,6 +2836,7 @@ dailytags.ch
 dailytalk.ch
 dailytec.ch
 dailytech.ch
+dailytechsnack.ch
 dailytelegramengine.ch
 dailytonic.ch
 dailytrust.ch
@@ -3086,7 +3088,6 @@ dakini-art.ch
 dakini-dance.ch
 dakini-lingammassage.ch
 dakini-massagen.ch
-dakini-shop.ch
 dakini-zuerich.ch
 dakini.ch
 dakinimassagen.ch
@@ -3334,6 +3335,7 @@ dalesco-holding.ch
 dalesco-immobilien.ch
 dalesco.ch
 dalespony.ch
+daless.ch
 dalessandri.ch
 dalessandro-consulting.ch
 dalessandro-engineering.ch
@@ -3358,7 +3360,6 @@ dalferth.ch
 dalfilo.ch
 dalfloor.ch
 dalfratello.ch
-dalfuss.ch
 dalg.ch
 dalgaard.ch
 dalgali.ch
@@ -5197,6 +5198,7 @@ danceday.ch
 dancedays.ch
 dancedesign.ch
 dancedesk.ch
+dancedispat.ch
 dancedistrict.ch
 dancedrive.ch
 dancedrivezurich.ch
@@ -5573,6 +5575,7 @@ daneko.ch
 danel-production.ch
 danel.ch
 danela.ch
+daneli-vom-trueb.ch
 daneli.ch
 danelli.ch
 danelutti-architecture.ch
@@ -7608,7 +7611,6 @@ danielroelli.ch
 danielroesch.ch
 danielroethlisberger.ch
 danielroettele.ch
-danielrogg.ch
 danielroh.ch
 danielrohner.ch
 danielrohrer.ch
@@ -8984,7 +8986,6 @@ danyunddenise.ch
 danywaldner.ch
 danyzone.ch
 danz-architektur.ch
-danz-arte.ch
 danz-autofinish.ch
 danz-bau.ch
 danz.ch
@@ -9258,7 +9259,6 @@ dapperdan.ch
 dapperdanbrand.ch
 dapperdoings.ch
 dapperlabs.ch
-dapperlady.ch
 dapperridersclub.ch
 dappgroup.ch
 dapples.ch
@@ -9855,7 +9855,6 @@ daris.ch
 darisi.ch
 darista.ch
 darisweb.ch
-darito.ch
 darius-degel.ch
 darius-lehmann.ch
 darius.ch
@@ -10039,7 +10038,6 @@ darkmail.ch
 darkmanue.ch
 darkmarc.ch
 darkmarj.ch
-darkmatter.ch
 darkmattercomposites.ch
 darkmedia.ch
 darkmeit.ch
@@ -10784,6 +10782,7 @@ das-clubschiff.ch
 das-coaching-atelier.ch
 das-coachinghaus.ch
 das-coco-prinzip.ch
+das-construction.ch
 das-consulting.ch
 das-cordonbleu.ch
 das-corona-narrativ.ch
@@ -11472,6 +11471,7 @@ dascon.ch
 dascoolhorn.ch
 dascrazy.ch
 dascrypto.ch
+dascurhaus.ch
 dasda.ch
 dasdach-stiftung.ch
 dasdach.ch
@@ -12954,6 +12954,7 @@ data-stewards.ch
 data-storage.ch
 data-studio.ch
 data-swiss.ch
+data-sync.ch
 data-talents.ch
 data-test-vbe-monitoring.ch
 data-thinking.ch
@@ -15618,6 +15619,7 @@ davanu.ch
 davanzo.ch
 davanzobijoutier.ch
 davao.ch
+davapi.ch
 davascaadoccia.ch
 davaso-group.ch
 davaso-gruppe.ch
@@ -16884,6 +16886,7 @@ davinci-invest.ch
 davinci-kmu.ch
 davinci-nierentumor.ch
 davinci-pinsel.ch
+davinci-pizzeria.ch
 davinci-prostatektomie.ch
 davinci-re.ch
 davinci-resolve-kurse.ch
@@ -17034,6 +17037,7 @@ davos-dialogues.ch
 davos-digital.ch
 davos-dorf.ch
 davos-enduro-team.ch
+davos-event-lounge.ch
 davos-events.ch
 davos-express.ch
 davos-famos.ch
@@ -17155,7 +17159,6 @@ davosconnect.ch
 davosconsulting.ch
 davosconvention.ch
 davoscourse.ch
-davoscrew.ch
 davoscxoforum.ch
 davosd.ch
 davosdeclaration2018.ch
@@ -17830,7 +17833,6 @@ daytraderon.ch
 daytraders.ch
 daytrades.ch
 daytrading-dienst.ch
-daytrading-live.ch
 daytrading-service.ch
 daytrading.ch
 daytrading24.ch

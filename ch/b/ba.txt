@@ -10391,6 +10391,7 @@ baleamen.ch
 baleardi.ch
 balearen.ch
 baleares.ch
+balearesfashion.ch
 balearhouse.ch
 balearic.ch
 balearicseaside.ch
@@ -13542,6 +13543,8 @@ band-genossenschaft.ch
 band-hochzeit.ch
 band-ict.ch
 band-it.ch
+band-klc.ch
+band-kreislauflogistikcenter.ch
 band-kreislaufwirtschaft.ch
 band-logistikservices.ch
 band-makeover.ch
@@ -14454,7 +14457,6 @@ banking-as-a-service.ch
 banking-ausbildung.ch
 banking-contaplus.ch
 banking-front-office.ch
-banking-global.ch
 banking-hub.ch
 banking-in-a-box.ch
 banking-jobs.ch
@@ -15799,6 +15801,7 @@ baraplage.ch
 barapo.ch
 baraqueafees.ch
 bararaclette.ch
+bararmures.ch
 baras.ch
 barasex.ch
 barashots.ch
@@ -15847,6 +15850,8 @@ barautoverkauf.ch
 barautoverkaufen.ch
 baravalle.ch
 baravin.ch
+baravinarmures.ch
+baravingeneve.ch
 baravino.ch
 baravins.ch
 baravinslagrange.ch
@@ -16304,6 +16309,7 @@ barbarajaccard.ch
 barbarajaeger.ch
 barbarajaegle.ch
 barbarajakob.ch
+barbarajaninefrey.ch
 barbarajentner.ch
 barbarajoehren.ch
 barbarajoos.ch
@@ -16867,6 +16873,7 @@ barbershopbrig.ch
 barbershopedi.ch
 barbershopfinder.ch
 barbershopgate14.ch
+barbershopgimii.ch
 barbershopharmony.ch
 barbershopkamo.ch
 barbershoplabi.ch
@@ -19036,7 +19043,6 @@ barryapp.ch
 barrybush.ch
 barrycallebaut-switzerland.ch
 barrycallebaut.ch
-barrycar.ch
 barrycioccocreative.ch
 barrycoaching.ch
 barrycook.ch
@@ -22243,7 +22249,10 @@ basodino.ch
 basodino34.ch
 basodinomountainrun.ch
 basodinosancarlo.ch
+basodinoskyrace.ch
+basofinance.ch
 basoft.ch
+basoholding.ch
 basol.ch
 basolar.ch
 basole.ch
@@ -22877,6 +22886,7 @@ basweb.ch
 basworld.ch
 basx.ch
 basycon.ch
+basycs.ch
 basyk.ch
 basyl.ch
 basys.ch
@@ -23100,6 +23110,7 @@ bateco-eg.ch
 bateco-net.ch
 bateco-renovation.ch
 bateco-sarl.ch
+bateco.ch
 batecon.ch
 bateen.ch
 batek.ch
@@ -23817,6 +23828,7 @@ batterielieferant.ch
 batterielog.ch
 batteriemacher.ch
 batteriemetalle.ch
+batteriemonitor.ch
 batteriemoto.ch
 batterien-direkt.ch
 batterien-discount.ch
@@ -26524,6 +26536,7 @@ bauingenieurwesen.ch
 bauinio.ch
 bauinklusiv.ch
 bauinnova.ch
+bauinnovation-mcdonalds-wattwil.ch
 bauinnovation.ch
 bauinnovationen.ch
 bauinput.ch
@@ -26732,6 +26745,7 @@ baukultur-ag.ch
 baukultur-beratung-schweiz.ch
 baukultur-beratung.ch
 baukultur-energie.ch
+baukultur-entdecken.ch
 baukultur-laerm.ch
 baukultur-ruswil.ch
 baukultur-schweiz.ch
@@ -30364,6 +30378,7 @@ baxter-hotels.ch
 baxter-serigraphie.ch
 baxter.ch
 baxterapartments.ch
+baxterbet-casino.ch
 baxterbet.ch
 baxterbetcasino.ch
 baxterbets.ch
@@ -30389,6 +30404,7 @@ bay-soft.ch
 bay-tec.ch
 bay-technologies.ch
 bay.ch
+bay19.ch
 baya-mgmt.ch
 baya.ch
 bayada.ch

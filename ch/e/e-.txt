@@ -781,6 +781,8 @@ e-convergences.ch
 e-cook.ch
 e-cool.ch
 e-cooline.ch
+e-cooperative.ch
+e-cooperatives.ch
 e-cop.ch
 e-copro.ch
 e-core.ch
@@ -1478,6 +1480,7 @@ e-inclusion.ch
 e-index.ch
 e-infinity.ch
 e-infinitycamper.ch
+e-influence.ch
 e-info.ch
 e-infochip.ch
 e-infochips.ch

@@ -1228,8 +1228,10 @@ kodasa.ch
 kodasema.ch
 kodasolutions.ch
 kodata.ch
+kodaw.ch
 kodawarchi.ch
 kodawari-archi.ch
+kodawari-architecture.ch
 kodawari-co.ch
 kodawari.ch
 kodawariarchi.ch
@@ -2462,6 +2464,7 @@ kogitai.ch
 koglatech.ch
 kogler-informatik.ch
 kogler.ch
+koglerconsulting.ch
 koglin.ch
 koglu.ch
 kogna.ch
@@ -3194,7 +3197,6 @@ kokov.ch
 kokovibez.ch
 kokovonknebel.ch
 kokowasser.ch
-kokowei.ch
 kokpit.ch
 kokprod.ch
 kokrea.ch
@@ -4562,6 +4564,7 @@ komiza.ch
 komkaa.ch
 komkam.ch
 komkar.ch
+komkom.ch
 komku.ch
 komkuat.ch
 komlab.ch
@@ -4829,7 +4832,6 @@ kommunikationkultur.ch
 kommunikationmachtschule.ch
 kommunikationoberaargau.ch
 kommunikationplus.ch
-kommunikations-agentur.ch
 kommunikations-art.ch
 kommunikations-beratung.ch
 kommunikations-booster.ch
@@ -6615,6 +6617,7 @@ konkrua.ch
 konkubinat-netnotar.ch
 konkubinat.ch
 konkubinator.ch
+konkubinatsfeier.ch
 konkubinatspaar.ch
 konkubinatspartner.ch
 konkubinatsparty.ch
@@ -6818,6 +6821,7 @@ konraddigital.ch
 konraddziedzic.ch
 konradelsener.ch
 konraderhard.ch
+konradfritze.ch
 konradgraf.ch
 konradgruber.ch
 konradhof.ch
@@ -8960,6 +8964,7 @@ koram.ch
 korama.ch
 koramas.ch
 korame.ch
+koramethode.ch
 koramic.ch
 koramis.ch
 koran-bestellen.ch

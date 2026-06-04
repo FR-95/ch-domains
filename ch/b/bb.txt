@@ -357,7 +357,6 @@ bbatelier.ch
 bbatplay.ch
 bbats.ch
 bbau.ch
-bbauconsulting.ch
 bbaumann.ch
 bbaumgaertner.ch
 bbaumgarten.ch
@@ -449,6 +448,7 @@ bbc-avocats.ch
 bbc-bern.ch
 bbc-bircher.ch
 bbc-cellpack.ch
+bbc-club.ch
 bbc-coffee.ch
 bbc-distribution.ch
 bbc-group.ch
@@ -715,6 +715,7 @@ bbhandwerk.ch
 bbharchitectes.ch
 bbhaustechnik.ch
 bbhb.ch
+bbhclinic.ch
 bbhco.ch
 bbheimberg.ch
 bbheli.ch

@@ -134,6 +134,7 @@ ks-treasure.ch
 ks-treuhand.ch
 ks-untere-emme.ch
 ks-unternehmer.ch
+ks-urdorf.ch
 ks-vertrieb.ch
 ks-webmail.ch
 ks-wiedikon.ch
@@ -545,7 +546,6 @@ ksm-somnet.ch
 ksm-swiss.ch
 ksm-versicherung.ch
 ksm-versicherungen.ch
-ksm-wynental.ch
 ksm-zg.ch
 ksm.ch
 ksma.ch

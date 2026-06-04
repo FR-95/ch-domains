@@ -560,7 +560,6 @@ fudlab.ch
 fudli.ch
 fudliblatt.ch
 fudligagg.ch
-fudn.ch
 fudo.ch
 fudochikan.ch
 fudokan-dietikon.ch
@@ -981,10 +980,8 @@ fuenfgeld.ch
 fuenfgmbh.ch
 fuenfgruenfit.ch
 fuenfliber-cup.ch
-fuenfliber-markt.ch
 fuenfliber-werkstatt.ch
 fuenfliber.ch
-fuenflibermarkt.ch
 fuenflibertal-tourismus.ch
 fuenflibertal.ch
 fuenfliberwerkstatt.ch
@@ -1963,7 +1960,6 @@ fulcrumsec.ch
 fulcrumte.ch
 fuld.ch
 fulda.ch
-fuldanis73.ch
 fulde.ch
 fuldera.ch
 fuldry.ch
@@ -3675,7 +3671,6 @@ funkelglueck.ch
 funkeln.ch
 funkelnagelneu.ch
 funkelperlenregen.ch
-funkelraum.ch
 funkelreinigung.ch
 funkelstei.ch
 funkelstein.ch
@@ -7636,6 +7631,7 @@ futurenavigator.ch
 futurendemence.ch
 futurenergetique.ch
 futurenergie.ch
+futurenergy-am.ch
 futurenergy.ch
 futurenergysolutions.ch
 futurenet.ch
@@ -7743,6 +7739,7 @@ futureskills-training.ch
 futureskills-werkstatt.ch
 futureskills-zentrum.ch
 futureskills.ch
+futureskillsacademy.ch
 futureskillsbarometer.ch
 futureskillscamp.ch
 futureskillscoach.ch

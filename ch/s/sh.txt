@@ -1954,7 +1954,6 @@ sharktank.ch
 sharkteam2000.ch
 sharktooth.ch
 sharkwheel.ch
-sharkys.ch
 sharkz.ch
 sharlando.ch
 sharleen.ch
@@ -2199,7 +2198,6 @@ shaws.ch
 shawsofdarwen.ch
 shawsprachen.ch
 shawssinks.ch
-shawtys.ch
 shawul.ch
 shaya-white.ch
 shaya.ch
@@ -3034,7 +3032,6 @@ sheroes.ch
 sherohandwerk.ch
 sheromagazin.ch
 sherose.ch
-sherox.ch
 sherp-alps.ch
 sherpa-amc.ch
 sherpa-development.ch
@@ -3269,7 +3266,6 @@ shiatsu-achermann.ch
 shiatsu-ackermann.ch
 shiatsu-ai.ch
 shiatsu-als-begleitung.ch
-shiatsu-alsweg.ch
 shiatsu-am-tier.ch
 shiatsu-an-ki.ch
 shiatsu-and-more.ch
@@ -4042,6 +4038,7 @@ shiftcoach.ch
 shiftcode.ch
 shiftconnect.ch
 shiftconnector.ch
+shiftcraft.ch
 shiftcrypto.ch
 shiftcryptosecurity.ch
 shiftdelete.ch
@@ -5274,7 +5271,6 @@ shmontage.ch
 shmoo.ch
 shmoof.ch
 shmove.ch
-shmrgl.ch
 shms-mail.ch
 shms.ch
 shmu.ch
@@ -6821,6 +6817,7 @@ shoplokal.ch
 shopltk.ch
 shoplueur.ch
 shopluna.ch
+shoplungern.ch
 shopluwasa.ch
 shoply.ch
 shopma.ch
@@ -7354,7 +7351,6 @@ shopsmart.ch
 shopsmarter.ch
 shopsmer.ch
 shopsmile.ch
-shopsnack.ch
 shopsnickers.ch
 shopsniper.ch
 shopsnow.ch
@@ -7394,6 +7390,7 @@ shopswiss1.ch
 shopswiss24.ch
 shopswitzerland.ch
 shopsy.ch
+shopsync.ch
 shopsystem.ch
 shopsysteme.ch
 shopsystems.ch

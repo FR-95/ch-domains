@@ -249,7 +249,6 @@ we-rent.ch
 we-repair.ch
 we-rise.ch
 we-ro-cut.ch
-we-rock-brands.ch
 we-rock-it.ch
 we-run.ch
 we-safe-life.ch
@@ -3438,6 +3437,7 @@ weber-partyservice.ch
 weber-pelze.ch
 weber-performance.ch
 weber-peter.ch
+weber-peyer.ch
 weber-pferde.ch
 weber-philip.ch
 weber-photography.ch
@@ -4358,6 +4358,7 @@ webindex.ch
 webindex24.ch
 webindra.ch
 webindustry.ch
+webinex.ch
 webinfinity.ch
 webinfo-dev.ch
 webinfo.ch
@@ -4399,7 +4400,6 @@ webintouch.ch
 webinvestor.ch
 webinvo.ch
 webio.ch
-webion.ch
 webipark-aarburg.ch
 webiplus.ch
 webiq.ch
@@ -5780,7 +5780,6 @@ webshopzweiplus.ch
 webshot.ch
 webshow.ch
 webshub.ch
-webshuttle.ch
 websi.ch
 websicherheit.ch
 websicherung.ch
@@ -7852,7 +7851,6 @@ weed-basel.ch
 weed-buddy.ch
 weed-cannabis.ch
 weed-care.ch
-weed-ch.ch
 weed-des-monats.ch
 weed-dna.ch
 weed-edibles.ch
@@ -7902,7 +7900,6 @@ weedbros.ch
 weedbuddy.ch
 weedbus.ch
 weedcafe.ch
-weedcaffe.ch
 weedcake.ch
 weedcare-basel.ch
 weedcare.ch
@@ -7943,7 +7940,6 @@ weedhub.ch
 weedible.ch
 weedical.ch
 weedies.ch
-weedingmotion.ch
 weedingtech.ch
 weediothek.ch
 weedislife.ch
@@ -8019,6 +8015,7 @@ weedworks.ch
 weedworld.ch
 weedx.ch
 weedxpress.ch
+weedy.ch
 weedybeer.ch
 weedycello.ch
 weedygsoundforce.ch
@@ -8320,7 +8317,6 @@ wefaswiss.ch
 wefaswissag.ch
 wefatours.ch
 wefburgenstock.ch
-wefcrew.ch
 wefdavos.ch
 wefeedraw.ch
 wefeel.ch
@@ -9034,7 +9030,6 @@ wehntalapotheke.ch
 wehntalcare.ch
 wehntaldruck.ch
 wehntaler-autoservice.ch
-wehntaler-brocki.ch
 wehntaler-dieselnacht.ch
 wehntaler-kanalreinigung.ch
 wehntaler-pizza.ch
@@ -11239,7 +11234,6 @@ weinguteli.ch
 weingutfb.ch
 weingutfinder.ch
 weingutflorin.ch
-weingutfuhrer.ch
 weingutgasser.ch
 weingutherzog.ch
 weingutjauslin.ch
@@ -11742,6 +11736,7 @@ weinraumklima.ch
 weinrausch.ch
 weinreb-stiftung.ch
 weinrebe.ch
+weinrebellen.ch
 weinreben-park.ch
 weinreben.ch
 weinrebenkapelle.ch
@@ -12103,6 +12098,7 @@ weise.ch
 weiseai.ch
 weisefuehrung.ch
 weisegroup.ch
+weisegruppe.ch
 weisenbach.ch
 weisenburger.ch
 weisenhorn.ch
@@ -15644,11 +15640,13 @@ weltkindertag.ch
 weltkiosk.ch
 weltklasse-als-standard.ch
 weltklasse-am-see.ch
+weltklasse-bewegt.ch
 weltklasse-standard.ch
 weltklasse-turnen.ch
 weltklasse-zuerich.ch
 weltklasse-zurich.ch
 weltklasse.ch
+weltklassebewegt.ch
 weltklassejungs.ch
 weltklasseturnen.ch
 weltklassezuerich.ch
@@ -16920,6 +16918,7 @@ wepz.ch
 weq-train.ch
 weq.ch
 weqag.ch
+weqs.ch
 wequake.ch
 wequalify.ch
 wequalm.ch
@@ -17710,9 +17709,11 @@ werbetechnik-basel.ch
 werbetechnik-baselland.ch
 werbetechnik-bern-schweiz.ch
 werbetechnik-bern.ch
+werbetechnik-beschriftung.ch
 werbetechnik-bickel.ch
 werbetechnik-biel.ch
 werbetechnik-chur.ch
+werbetechnik-dillier.ch
 werbetechnik-displays.ch
 werbetechnik-druck.ch
 werbetechnik-kathriner.ch
@@ -19694,7 +19695,6 @@ weroad.ch
 weroam.ch
 werobot.ch
 werock.ch
-werockbrands.ch
 werocket.ch
 werockforkids.ch
 werockit.ch
@@ -22109,7 +22109,6 @@ wewillrockyou.ch
 wewillsee.ch
 wewin.ch
 wewine.ch
-wewirks.ch
 wewise.ch
 wewit.ch
 wewo.ch

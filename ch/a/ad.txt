@@ -62,7 +62,6 @@ ad-elektro.ch
 ad-elite.ch
 ad-engineering.ch
 ad-equa.ch
-ad-essentials.ch
 ad-extremum.ch
 ad-factory.ch
 ad-fensterbau.ch
@@ -131,7 +130,6 @@ ad-manager.ch
 ad-managment.ch
 ad-max.ch
 ad-me.ch
-ad-media.ch
 ad-mediation.ch
 ad-medilink.ch
 ad-meliora.ch
@@ -716,7 +714,6 @@ adamspolishes.ch
 adamstable.ch
 adamswatches.ch
 adamswedding.ch
-adamt.ch
 adamthompson.ch
 adamtouring.ch
 adamtrain.ch
@@ -1971,6 +1968,7 @@ ademi-hs.ch
 ademi-ingenieure.ch
 ademi-it.ch
 ademi-liegenschaften.ch
+ademi-parkett.ch
 ademi.ch
 ademi24.ch
 ademia.ch
@@ -1998,6 +1996,7 @@ ademzinzino.ch
 aden.ch
 aden4.ch
 adena.ch
+adenadesign.ch
 adenasoft.ch
 adenatec.ch
 adenauer.ch
@@ -2558,6 +2557,7 @@ adhs-coaches.ch
 adhs-coaching-aargau.ch
 adhs-coaching-arlesheim.ch
 adhs-coaching-basel.ch
+adhs-coaching-bern.ch
 adhs-coaching-erwachsene.ch
 adhs-coaching-ferraro.ch
 adhs-coaching-frauen.ch
@@ -3083,6 +3083,7 @@ adion.ch
 adione.ch
 adionline.ch
 adiontour.ch
+adioolo.ch
 adios-gmbh.ch
 adios.ch
 adip.ch
@@ -4019,6 +4020,7 @@ admin-nova-metrics.ch
 admin-online-support.ch
 admin-online.ch
 admin-perceval.ch
+admin-platform.ch
 admin-plus.ch
 admin-poker.ch
 admin-portal.ch
@@ -5139,6 +5141,7 @@ adpost.ch
 adpp.ch
 adppeopleflow.ch
 adpr.ch
+adprestigebeauty.ch
 adpreview.ch
 adpright.ch
 adprima-treuhand.ch
@@ -6452,7 +6455,6 @@ adsresonances.ch
 adsrgeneva.ch
 adsrv.ch
 adss.ch
-adssa.ch
 adsschweiz.ch
 adssecurite.ch
 adsservices.ch

@@ -8268,7 +8268,6 @@ bundesordner.ch
 bundespatentgericht.ch
 bundespersonal.ch
 bundespersonalrecht.ch
-bundesplatz-luzern.ch
 bundesplatz-zug.ch
 bundesplatz.ch
 bundespolitik.ch
@@ -9248,6 +9247,7 @@ bureaubureaux.ch
 bureauc.ch
 bureaucash.ch
 bureauchangegeneve.ch
+bureauclean360.ch
 bureauclio.ch
 bureauco.ch
 bureaucollective.ch
@@ -10755,6 +10755,7 @@ burn-on.ch
 burn-orthopedie.ch
 burn-out-coaching.ch
 burn-out-design.ch
+burn-out-praevention.ch
 burn-out-syndrom.ch
 burn-out-therapie.ch
 burn-out.ch
@@ -11569,6 +11570,7 @@ buschiundanni.ch
 buschjaeger.ch
 buschjost.ch
 buschkamp.ch
+buschkauz.ch
 buschkrokodil.ch
 buschkrokodile.ch
 buschkrokodilschweiz.ch

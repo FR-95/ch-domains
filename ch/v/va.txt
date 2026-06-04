@@ -1342,6 +1342,8 @@ val-muestair24.ch
 val-mulin.ch
 val-net.ch
 val-nettoyage.ch
+val-nuisible.ch
+val-nuisibles.ch
 val-orthocenter.ch
 val-osteo.ch
 val-poschiavo.ch
@@ -3858,7 +3860,6 @@ vallons-choppers.ch
 vallons-humberts.ch
 vallonscar.ch
 vallonventures.ch
-vallorbe-sans-poisson.ch
 vallorbe-tourisme.ch
 vallorbe-transition.ch
 vallorbe.ch
@@ -3907,6 +3908,7 @@ valmante.ch
 valmara.ch
 valmarana.ch
 valmarket.ch
+valmatis.ch
 valmaurex.ch
 valmawater.ch
 valmax.ch
@@ -3989,6 +3991,8 @@ valnoet-hus.ch
 valnoma.ch
 valnoria.ch
 valnova.ch
+valnuisible.ch
+valnuisibles.ch
 valo-connect.ch
 valo-furniture.ch
 valo-intranet.ch
@@ -4458,6 +4462,7 @@ valsynthese.ch
 valsys-temp1.ch
 valsys-temp2.ch
 valsys.ch
+valt-revia.ch
 valt.ch
 valta.ch
 valtabaco.ch
@@ -4519,6 +4524,7 @@ valtransfer.ch
 valtraversabsinthe.ch
 valtrevia-ai.ch
 valtrevia.ch
+valtreviaai.ch
 valtrex.ch
 valtria.ch
 valtriqueut.ch
@@ -6566,6 +6572,7 @@ vantage-services.ch
 vantage-solutions.ch
 vantage-starterkit.ch
 vantage-suisse.ch
+vantage-swiss.ch
 vantage-tradings.ch
 vantage-vermittlung.ch
 vantage.ch
@@ -6745,6 +6752,7 @@ vanyavpn.ch
 vanyexecutiveassistant.ch
 vanyimmo.ch
 vanyourlife.ch
+vanyr.ch
 vanyssa.ch
 vanytrade.ch
 vanyushin.ch
@@ -8967,6 +8975,7 @@ vault11.ch
 vault32.ch
 vault501.ch
 vault60.ch
+vault7.ch
 vault9.ch
 vaultaarau.ch
 vaultage.ch
@@ -9058,7 +9067,6 @@ vauthier.ch
 vautid.ch
 vautier-carouge.ch
 vautier-notaire.ch
-vautier.ch
 vauto.ch
 vautours.ch
 vautravers.ch
@@ -9227,6 +9235,7 @@ vaynie.ch
 vaynor.ch
 vaynore.ch
 vayo.ch
+vayocapital.ch
 vayola.ch
 vayopet.ch
 vayora.ch

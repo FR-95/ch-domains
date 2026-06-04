@@ -146,6 +146,7 @@ mm-metzgerei.ch
 mm-mm.ch
 mm-mobile.ch
 mm-mode.ch
+mm-mueller.ch
 mm-murtensee.ch
 mm-net.ch
 mm-nutrition.ch
@@ -154,6 +155,7 @@ mm-one.ch
 mm-onglerie.ch
 mm-orthosoft.ch
 mm-p.ch
+mm-partner.ch
 mm-partyservice.ch
 mm-patrimoniale.ch
 mm-peintres.ch
@@ -167,6 +169,7 @@ mm-plus.ch
 mm-portfolio.ch
 mm-productions.ch
 mm-properties.ch
+mm-props.ch
 mm-publications.ch
 mm-real-estate.ch
 mm-realestate.ch
@@ -226,6 +229,7 @@ mm-winemaker.ch
 mm-wstechnik.ch
 mm-zucker.ch
 mm-zug.ch
+mm-zurich.ch
 mm1-consulting.ch
 mm1.ch
 mm2.ch
@@ -851,6 +855,7 @@ mmpro.ch
 mmprod.ch
 mmproduction.ch
 mmpromotion.ch
+mmprops.ch
 mmpservices.ch
 mmpsolutions.ch
 mmpsy.ch

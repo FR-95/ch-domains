@@ -1,4 +1,5 @@
 ns-01.grabmalkunst-honauer.ch
+ns-01.lmbda.ch
 ns-01.nachmittag.ch
 ns-01.ocrcl-staging.ch
 ns-01.pleb.ch
@@ -7,6 +8,7 @@ ns-01.stoney-cloud.ch
 ns-01.stoneycloud.ch
 ns-01.vormittag.ch
 ns-02.grabmalkunst-honauer.ch
+ns-02.lmbda.ch
 ns-02.nachmittag.ch
 ns-02.ocrcl-staging.ch
 ns-02.pleb.ch
@@ -368,7 +370,6 @@ ns.paeschefaessler.ch
 ns.paphosting.ch
 ns.pentoo.ch
 ns.peter-unterwegs.ch
-ns.peter-wagner.ch
 ns.petergfeller.ch
 ns.philippequeloz.ch
 ns.planet-erne.ch
@@ -1240,7 +1241,6 @@ ns1.cityhost.ch
 ns1.citylake.ch
 ns1.ck-server.ch
 ns1.clancats.ch
-ns1.claud-art.ch
 ns1.claudia-und-simon.ch
 ns1.claudiareinert.ch
 ns1.clauser.ch
@@ -2475,7 +2475,6 @@ ns1.maexweb.ch
 ns1.magahugu.ch
 ns1.magicline.ch
 ns1.magno.ch
-ns1.maharshi.ch
 ns1.mai1.ch
 ns1.maia.ch
 ns1.mail.fahrschule-valentin.ch
@@ -2950,6 +2949,7 @@ ns1.pibit.ch
 ns1.picfilm.ch
 ns1.pihosting.ch
 ns1.pimp-your-web-ag.ch
+ns1.pimp-your-web-hosting.ch
 ns1.pimpernet.ch
 ns1.pincopalloncino.ch
 ns1.pinkbox.ch
@@ -3533,6 +3533,7 @@ ns1.swissdyndns.ch
 ns1.swissfarming.ch
 ns1.swissfile.ch
 ns1.swissfintechinnovationlab.ch
+ns1.swisshipec.ch
 ns1.swisshostserver.ch
 ns1.swissirc.ch
 ns1.swissitcare.ch
@@ -4598,7 +4599,6 @@ ns2.cityhost.ch
 ns2.citylake.ch
 ns2.ck-server.ch
 ns2.clancats.ch
-ns2.claud-art.ch
 ns2.claudiareinert.ch
 ns2.claudineetpierre.ch
 ns2.clauser.ch
@@ -5792,7 +5792,6 @@ ns2.maexweb.ch
 ns2.magahugu.ch
 ns2.magicline.ch
 ns2.magno.ch
-ns2.maharshi.ch
 ns2.mail.fahrschule-valentin.ch
 ns2.mail.huppertz.ch
 ns2.mail.lakecoop.ch
@@ -6226,6 +6225,7 @@ ns2.pianeti.ch
 ns2.picfilm.ch
 ns2.pihosting.ch
 ns2.pimp-your-web-ag.ch
+ns2.pimp-your-web-hosting.ch
 ns2.pimpernet.ch
 ns2.pincopalloncino.ch
 ns2.pinkbox.ch
@@ -6797,6 +6797,7 @@ ns2.swissdyndns.ch
 ns2.swisselectricity.ch
 ns2.swissfarming.ch
 ns2.swissfintechinnovationlab.ch
+ns2.swisshipec.ch
 ns2.swisshostserver.ch
 ns2.swissinform.ch
 ns2.swissirc.ch
@@ -7704,7 +7705,6 @@ ns3.ma-secretere.ch
 ns3.macchinista.ch
 ns3.made-easy.ch
 ns3.maebi.ch
-ns3.maharshi.ch
 ns3.mainbase.ch
 ns3.makats.ch
 ns3.malermolinari.ch

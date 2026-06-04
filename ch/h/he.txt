@@ -438,6 +438,7 @@ healer.ch
 healerassistant.ch
 healerpeacock.ch
 healerz.ch
+healeysportscars.ch
 healf.ch
 healfit.ch
 healflow.ch
@@ -635,7 +636,6 @@ healsmarter.ch
 healsolution.ch
 healstone.ch
 healstream.ch
-healt.ch
 health-2030.ch
 health-4you.ch
 health-account.ch
@@ -3984,6 +3984,7 @@ heeb-project.ch
 heeb-pulfer.ch
 heeb-schranz.ch
 heeb-schweiz.ch
+heeb-solution.ch
 heeb-suisse.ch
 heeb.ch
 heebag.ch
@@ -4266,6 +4267,7 @@ hegel.ch
 hegelba.ch
 hegelbach.ch
 hegele.ch
+hegelogik.ch
 hegelreynolds.ch
 hegemann.ch
 hegemer-chlauslauf.ch
@@ -8157,6 +8159,7 @@ heizpatronenshop.ch
 heizpellet.ch
 heizpellets.ch
 heizpellets24.ch
+heizpilot.ch
 heizplan.ch
 heizplatten.ch
 heizpolster.ch
@@ -12740,6 +12743,7 @@ helvetiapatria.ch
 helvetiapay.ch
 helvetiaperformance.ch
 helvetiaperformancepcs.ch
+helvetiapet.ch
 helvetiapharma.ch
 helvetiaplatform.ch
 helvetiaplatz.ch
@@ -13949,6 +13953,7 @@ helvitron.ch
 helvium.ch
 helviva.ch
 helviva24.ch
+helvivert.ch
 helvivo.ch
 helvix.ch
 helvixa.ch
@@ -14789,7 +14794,6 @@ henner.ch
 hennerapex.ch
 henneri.ch
 hennerkes.ch
-hennertalent.ch
 hennes.ch
 henneseckel.ch
 hennesen.ch
@@ -16759,6 +16763,7 @@ herma.ch
 hermaetiketten.ch
 hermag.ch
 hermaion-sport.ch
+hermaion.ch
 hermaison.ch
 hermal.ch
 hermalini.ch
@@ -17339,7 +17344,6 @@ herosan.ch
 herosbuilder.ch
 heroschweiz.ch
 heroscout.ch
-herosdelenergie.ch
 herosderecette.ch
 herosdeselements.ch
 herosdesrecettes.ch
@@ -18202,6 +18206,7 @@ herve-schluchter.ch
 herve-studio.ch
 herve.ch
 hervealbertjobin.ch
+herveannen.ch
 hervebarrilliet.ch
 hervebenz.ch
 hervebridy.ch
@@ -19367,6 +19372,7 @@ herzmosaik.ch
 herzmri.ch
 herzmueller.ch
 herzmusig.ch
+herzmusik.ch
 herzmuskelentzuendung.ch
 herzmut.ch
 herzna.ch
@@ -21776,6 +21782,7 @@ hexonq.ch
 hexontc.ch
 hexopus.ch
 hexora.ch
+hexos.ch
 hexoskin.ch
 hexoswiss.ch
 hexotec.ch
@@ -22037,7 +22044,6 @@ heyfolks.ch
 heyfollows.ch
 heyfreelancer.ch
 heyfriendies.ch
-heygears.ch
 heygel.ch
 heygianluca.ch
 heygirl.ch
@@ -22209,6 +22215,8 @@ heyouthere.ch
 heyoxodin.ch
 heypal.ch
 heypantry.ch
+heypapaia.ch
+heypapaya-consulting.ch
 heypapaya.ch
 heyparking.ch
 heypatient.ch

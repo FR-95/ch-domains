@@ -2693,7 +2693,6 @@ syons.ch
 syontos.ch
 syoss.ch
 syost.ch
-syote.ch
 syotics.ch
 syott.ch
 syou.ch
@@ -3644,6 +3643,7 @@ systemmodul-waermepumpen.ch
 systemmodul-wp.ch
 systemmoebel.ch
 systemmoertel.ch
+systemn.ch
 systemo.ch
 systemofpain.ch
 systemone.ch

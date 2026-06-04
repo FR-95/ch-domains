@@ -1076,7 +1076,6 @@ socialbureau.ch
 socialbusiness.ch
 socialbusinessclub.ch
 socialbusinessmodels.ch
-socialbusinessnavigator.ch
 socialbusinessplan.ch
 socialbusinessplatform.ch
 socialbutler.ch
@@ -2220,7 +2219,6 @@ sodab.ch
 sodabaden.ch
 sodabaer.ch
 sodabags.ch
-sodablasting-schweiz.ch
 sodablasting.ch
 sodaboy-suisse.ch
 sodaboy.ch
@@ -5054,6 +5052,7 @@ sokfv.ch
 sokg.ch
 sokhna.ch
 soki.ch
+sokiaia.ch
 sokies.ch
 sokillah.ch
 sokin.ch
@@ -8346,7 +8345,6 @@ soledor.ch
 soledtec.ch
 soledum.ch
 soledurn.ch
-soledurner-wiehnachtsmaeret.ch
 soledurner.ch
 soledurnerwiehnachtsmaeret.ch
 soleegusto.ch
@@ -9330,9 +9328,7 @@ solindo.ch
 soline.ch
 solinea.ch
 solineo.ch
-solinetz-bischofszell.ch
 solinetz-oberthurgau.ch
-solinetz-romanshorn.ch
 solinetz-winterthur.ch
 solinetz-zh.ch
 solinetz.ch
@@ -10848,6 +10844,7 @@ solutionscrew.ch
 solutionscuisine.ch
 solutionscustom.ch
 solutionsdacces.ch
+solutionsdaccesetdesecurite.ch
 solutionsdigitales.ch
 solutionsearch.ch
 solutionsecologiques.ch
@@ -10996,7 +10993,6 @@ solvabilite.ch
 solvable.ch
 solvadis.ch
 solvair.ch
-solvaire.ch
 solvakem.ch
 solvalais-bodenwallis.ch
 solvalais.ch
@@ -11037,7 +11033,6 @@ solve-complaints.ch
 solve-consulting.ch
 solve-engineering.ch
 solve-ext.ch
-solve-healing.ch
 solve-it.ch
 solve-now.ch
 solve-products.ch
@@ -11668,6 +11663,7 @@ some1.ch
 somea-coaching.ch
 somea.ch
 someads.ch
+someagency.ch
 somebody.ch
 somebody2love.ch
 somebodyelse.ch
@@ -15020,6 +15016,7 @@ sonnwendlig-mca.ch
 sonnwendlig.ch
 sonnwerk.ch
 sonny-fotoart.ch
+sonny.ch
 sonnyangel.ch
 sonnyangelswiss.ch
 sonnyboy.ch
@@ -17982,7 +17979,6 @@ sosmedivac.ch
 sosmenage.ch
 sosmenuiserie.ch
 sosmobile.ch
-sosmontage.ch
 sosmooth.ch
 sosmorges.ch
 sosmutter.ch
@@ -18314,6 +18310,7 @@ sotra-agency.ch
 sotrabat.ch
 sotracons.ch
 sotrag.ch
+sotrai.ch
 sotrall.ch
 sotramelan.ch
 sotrasma.ch
@@ -18485,7 +18482,6 @@ souiss.ch
 souk.ch
 soukaina.ch
 soukal.ch
-soukeina.ch
 soukey.ch
 soukh.ch
 soukipierce.ch
@@ -18850,6 +18846,7 @@ soulflow-murten.ch
 soulflow.ch
 soulflow8.ch
 soulflowartwear.ch
+soulflowdance.ch
 soulflower-schenker-verein.ch
 soulflowers.ch
 soulflowerschenker.ch
@@ -18890,6 +18887,7 @@ soulfulacademy.ch
 soulfulart-mandala.ch
 soulfulbeing.ch
 soulfulbirth.ch
+soulfulbliss.ch
 soulfulbros.ch
 soulfulconnection.ch
 soulfuldesert.ch
@@ -20866,6 +20864,7 @@ sovereignmind.ch
 sovereignproductivitysuite.ch
 sovereignreserve.ch
 sovereignsafe.ch
+sovereignself.ch
 sovereignte.ch
 sovereigntechfund.ch
 sovereignthesis.ch
@@ -21349,6 +21348,7 @@ sozialdienst-madiswil.ch
 sozialdienst-mb.ch
 sozialdienst-oberes-langetental.ch
 sozialdienst-obersimmental.ch
+sozialdienst-online.ch
 sozialdienst-roggwil-umgebung.ch
 sozialdienst-rt.ch
 sozialdienst-support.ch
@@ -21738,6 +21738,7 @@ soziokulturschweiz.ch
 soziolender.ch
 soziologie-raum.ch
 soziologie.ch
+soziologieundraum.ch
 sozionomik.ch
 sozionova.ch
 soziorama.ch

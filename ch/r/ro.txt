@@ -2324,7 +2324,6 @@ robotoccasion.ch
 roboton.ch
 robotondeuse.ch
 robotone.ch
-robotonte.ch
 robotopia.ch
 robotos.ch
 robototrader.ch
@@ -4805,6 +4804,9 @@ roer.ch
 roeraeheizaer.ch
 roere.ch
 roerly.ch
+roero-traggerueste.ch
+roero-vorschubgerueste.ch
+roero.ch
 roeros.ch
 roerswil.ch
 roes.ch
@@ -7532,6 +7534,7 @@ rokr.ch
 rokra.ch
 roks.ch
 roksa-kidsconceptstore.ch
+roksa-swiss.ch
 roksa.ch
 roksajovic.ch
 roksana-lehre.ch
@@ -7775,6 +7778,7 @@ rolandfischer.ch
 rolandfrank.ch
 rolandfrehner.ch
 rolandfritschi.ch
+rolandfritze.ch
 rolandfroehlich.ch
 rolandfroescher.ch
 rolandfrutiger.ch
@@ -10109,6 +10113,7 @@ roman-schaub.ch
 roman-schefer.ch
 roman-scherrer.ch
 roman-schmid.ch
+roman-schneider.ch
 roman-schnyder.ch
 roman-schubert.ch
 roman-schwarb.ch
@@ -10352,6 +10357,7 @@ romandiecentrale.ch
 romandieclimat.ch
 romandiecoiffure.ch
 romandiecombi.ch
+romandieconnect.ch
 romandieconsulting.ch
 romandiecontact.ch
 romandiecourtage.ch
@@ -10436,6 +10442,7 @@ romaneeconti.ch
 romanehenry.ch
 romanehrbar.ch
 romanek.ch
+romanel-centre.ch
 romanel-libre.ch
 romanel-sur-lausanne.ch
 romanel-sur-lausanne24.ch
@@ -11846,6 +11853,7 @@ ronkies.ch
 ronkisshop.ch
 ronly.ch
 ronlysuisse.ch
+ronlyswiss.ch
 ronmatte.ch
 ronmineralplus.ch
 ronmuehle.ch
@@ -17278,7 +17286,9 @@ roulettino.ch
 roulettinoo.ch
 roulettinos.ch
 roulez-jeunesse.ch
+roulez-sur.ch
 roulez.ch
+roulezsur.ch
 roulin-architecture.ch
 roulin-easy-services.ch
 roulin-jaquet.ch
@@ -17758,6 +17768,7 @@ rovr.ch
 rovray.ch
 rovray24.ch
 rovs2026.ch
+rovs2027.ch
 rovsing.ch
 rovtec.ch
 rovurt.ch
@@ -17798,6 +17809,7 @@ rowblock.ch
 rowbook.ch
 rowbot.ch
 rowcat.ch
+rowcoachcat.ch
 rowd.ch
 rowdapp.ch
 rowdy.ch
@@ -17860,6 +17872,7 @@ rowing.ch
 rowing8.ch
 rowingacademy.ch
 rowingclub.ch
+rowingcoachcat.ch
 rowingindoors.ch
 rowingmonument.ch
 rowingparts.ch

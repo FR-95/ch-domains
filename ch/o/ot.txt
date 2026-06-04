@@ -282,7 +282,6 @@ othmar.ch
 othmaraeschi.ch
 othmardrive.ch
 othmareder.ch
-othmarfelber.ch
 othmarjaeggi.ch
 othmarmetzler.ch
 othmaronline.ch
@@ -980,6 +979,7 @@ ottobus.ch
 ottocar.ch
 ottocarlin.ch
 ottocars.ch
+ottocast.ch
 ottochauffage.ch
 ottochonegger.ch
 ottocloud.ch

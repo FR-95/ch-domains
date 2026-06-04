@@ -2474,6 +2474,8 @@ toka-bm.ch
 toka-gebaeudereinigung.ch
 toka-immo.ch
 toka.ch
+tokac.ch
+tokado.ch
 tokadom.ch
 tokaelire.ch
 tokai.ch
@@ -2487,6 +2489,7 @@ tokala.ch
 tokalak.ch
 tokalakis.ch
 tokalaporte.ch
+tokalo.ch
 tokalu.ch
 tokamak.ch
 tokamakenergy.ch
@@ -3628,6 +3631,7 @@ tomicag.ch
 tomicapital.ch
 tomicbaar.ch
 tomicconsulting.ch
+tomicdigital.ch
 tomicpneu.ch
 tomicron.ch
 tomicswisstech.ch
@@ -3720,6 +3724,7 @@ tomlogistic.ch
 tomlou.ch
 tomlouis.ch
 tomlu.ch
+tomluckycat.ch
 tomluescher.ch
 tomluethi.ch
 tomluis.ch
@@ -5480,7 +5485,6 @@ tonyincarcare.ch
 tonyinschweiz.ch
 tonyjohnston.ch
 tonykart.ch
-tonykunz.ch
 tonyl.ch
 tonylatt.ch
 tonyleung.ch
@@ -6556,6 +6560,7 @@ top-pneus.ch
 top-point.ch
 top-ponys.ch
 top-pool.ch
+top-position.ch
 top-powerclean.ch
 top-powerservice.ch
 top-preis.ch
@@ -7260,6 +7265,7 @@ topcars-occasions.ch
 topcars-ti.ch
 topcars.ch
 topcarsp.ch
+topcarswiss.ch
 topcart.ch
 topcartsa.ch
 topcarwash.ch
@@ -8179,6 +8185,7 @@ topluxurytours.ch
 topm.ch
 topmagnet.ch
 topmail-client.ch
+topmail.ch
 topmakler.ch
 topmaler-gmbh.ch
 topmaler.ch
@@ -8453,7 +8460,6 @@ topomaps.ch
 topomat.ch
 topomole.ch
 topomontblanc.ch
-topon.ch
 topone.ch
 toponline.ch
 toponlinecasino.ch
@@ -8587,8 +8593,6 @@ toppot.ch
 toppowerclean.ch
 toppowerservices.ch
 topppreis.ch
-toppraemie.ch
-toppraemie24.ch
 toppreie.ch
 toppreis-schweiz.ch
 toppreis.ch
@@ -9096,7 +9100,6 @@ toptrail-tannzapfenland.ch
 toptrail.ch
 toptrainer-international.ch
 toptrainer.ch
-toptraining-solutions.ch
 toptraining.ch
 toptrans-kusian.ch
 toptransfer.ch
@@ -12702,6 +12705,7 @@ towgroup.ch
 towi.ch
 towin-marketing.ch
 towin.ch
+towinex.ch
 towing-swiss.ch
 towing.ch
 towingdoc.ch

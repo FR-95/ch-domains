@@ -1629,6 +1629,7 @@ klarys.ch
 klarzahlen.ch
 klarzeit.ch
 klarzins.ch
+klarzinvold.ch
 klarzurwende.ch
 klas-autotech.ch
 klas-seetal.ch
@@ -2822,7 +2823,6 @@ kleider-service.ch
 kleider-shop.ch
 kleider-shop24.ch
 kleider-sondergroessen.ch
-kleider-story.ch
 kleider-tausch.ch
 kleider-tauschen.ch
 kleider-uebergroessen.ch
@@ -3887,6 +3887,9 @@ kleintiernotfalla6.ch
 kleintiernotfalldienst.ch
 kleintiernotfallklinik.ch
 kleintierpflegestelleemma.ch
+kleintierphysio-basel.ch
+kleintierphysio.ch
+kleintierphysiobasel.ch
 kleintierpraxis-4pfoten.ch
 kleintierpraxis-aabach.ch
 kleintierpraxis-aarau.ch
@@ -4192,6 +4195,7 @@ klemenspasoldt.ch
 klemensrehmann.ch
 klement.ch
 klementin.ch
+klementinatattoo.ch
 klementine.ch
 klemenz-erdbau.ch
 klemenz-keramik.ch
@@ -6233,6 +6237,7 @@ kliqrpoint.ch
 kliqrstation.ch
 kliqrworld.ch
 kliqs.ch
+klique.ch
 kliquidationen.ch
 klir.ch
 klira.ch
@@ -6987,7 +6992,6 @@ klub-schulen.ch
 klub-urlaub.ch
 klub.ch
 klub19.ch
-klub20.ch
 klub4u.ch
 klub4you.ch
 klub77.ch

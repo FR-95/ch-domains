@@ -821,6 +821,7 @@ thaisushi.ch
 thaiswiss.ch
 thaiswisscannabis.ch
 thaiswisscenter.ch
+thaiswissconsulting.ch
 thaiswisscourier.ch
 thaiswisscycling.ch
 thaiswissevent.ch
@@ -2021,7 +2022,6 @@ the-creatif-pub.ch
 the-creatif.ch
 the-creative-attic.ch
 the-creative-lab.ch
-the-creative-route.ch
 the-crisis-guys.ch
 the-cru.ch
 the-cube.ch
@@ -2218,6 +2218,7 @@ the-founder.ch
 the-founders.ch
 the-foundry.ch
 the-foxes.ch
+the-frame.ch
 the-freedom-preneur.ch
 the-freis.ch
 the-french-bullion.ch
@@ -2550,6 +2551,7 @@ the-master-planner.ch
 the-master.ch
 the-mastercolorist.ch
 the-match.ch
+the-matcha-house.ch
 the-matrix-days.ch
 the-matrix-project.ch
 the-matter.ch
@@ -6048,7 +6050,6 @@ theconversation.ch
 thecoo.ch
 thecoockers.ch
 thecook.ch
-thecookie.ch
 thecookieclub.ch
 thecooking-helper.ch
 thecookinghacks.ch
@@ -6157,7 +6158,6 @@ thecreativeedit.ch
 thecreativeflow.ch
 thecreativeliaison.ch
 thecreativemind.ch
-thecreativeroute.ch
 thecreativestudio.ch
 thecreativetimeclock.ch
 thecreativetimecompany.ch
@@ -6488,6 +6488,7 @@ thedonkey.ch
 thedonlucashow.ch
 thedonorsfund.ch
 thedoobs.ch
+thedoodleedit.ch
 thedoor.ch
 thedoorgame.ch
 thedoorknobs.ch
@@ -6592,7 +6593,6 @@ theedgyclub.ch
 theedit.ch
 theeducation.ch
 theedx.ch
-theeffect.ch
 theeggadvisors.ch
 theeggswisswatchcompany.ch
 theeggwatch.ch
@@ -8366,7 +8366,6 @@ thejosefs.ch
 thejosts.ch
 thejournalist.ch
 thejournals.ch
-thejourney.ch
 thejourneyproject.ch
 thejourneysuisse.ch
 thejoyfulsingers.ch
@@ -8433,6 +8432,7 @@ thekhan.ch
 thekhatrimaza.ch
 theki-niesen.ch
 theki-schweiz.ch
+theki-zentralschweiz.ch
 theki.ch
 thekicks.ch
 thekid.ch
@@ -8481,6 +8481,7 @@ thekitchenwitches.ch
 thekitchenyard.ch
 thekitchin.ch
 thekiteshop.ch
+thekizentralschweiz.ch
 thekizukiway.ch
 thekla-loeb.ch
 theklaeys.ch
@@ -9391,6 +9392,7 @@ themolerats.ch
 themolls.ch
 themolt.ch
 themom.ch
+themomclub.ch
 themoment.ch
 themoments.ch
 themomentum.ch
@@ -10292,7 +10294,6 @@ thepadelone.ch
 thepadelpartner.ch
 thepadelsociety.ch
 thepage.ch
-thepaincoach.ch
 thepainter55.ch
 thepainters.ch
 thepalebluedot.ch
@@ -11808,7 +11809,6 @@ therapies-naturelles-et-complementaires.ch
 therapies-naturelles-information-gratuite.ch
 therapies-naturelles-sgaisch.ch
 therapies-naturelles.ch
-therapies-neurolinguistiques.ch
 therapies-rife.ch
 therapies-scalaire.ch
 therapies-sion.ch
@@ -12697,7 +12697,6 @@ thermoboard.ch
 thermoboden.ch
 thermobohr.ch
 thermobois.ch
-thermobouton.ch
 thermobox.ch
 thermoboxen.ch
 thermoboxheizung.ch
@@ -13666,6 +13665,7 @@ thesmurfs.ch
 thesnack.ch
 thesnackexpress.ch
 thesnackshack.ch
+thesnailhouse.ch
 thesneakerstore.ch
 thesnifferdog.ch
 thesniperschoice.ch
@@ -14986,6 +14986,7 @@ thewellbeingkollective.ch
 thewellchur.ch
 thewellcode.ch
 thewellness.ch
+thewellnessclub.ch
 thewellnesscompany.ch
 thewellnessedit.ch
 thewellnest.ch
@@ -17157,6 +17158,7 @@ thomas-joos.ch
 thomas-jutzi.ch
 thomas-k-keller.ch
 thomas-kaelin.ch
+thomas-karl.ch
 thomas-karrer.ch
 thomas-kast.ch
 thomas-kaufmann-text.ch
@@ -18169,6 +18171,7 @@ thomaste.ch
 thomastelley.ch
 thomasteske.ch
 thomasthalmann.ch
+thomastheler.ch
 thomasthenomad.ch
 thomasthyrann.ch
 thomastik-infeld.ch
@@ -19213,7 +19216,6 @@ thtest.ch
 thtg.ch
 thth.ch
 thtit.ch
-thtr-test.ch
 thtr.ch
 thtreuhand.ch
 thtrsr.ch
@@ -19760,6 +19762,8 @@ thur3.ch
 thur6.ch
 thur61.ch
 thura.ch
+thuracher.ch
+thuracker.ch
 thuradventure.ch
 thurair.ch
 thurairajah.ch

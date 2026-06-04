@@ -1184,6 +1184,7 @@ dnsfirewall.ch
 dnsfr.logicnetwork.ch
 dnsgateway.ch
 dnsgleis.ch
+dnsguardian.ch
 dnshome.ch
 dnshop.ch
 dnshost.ch

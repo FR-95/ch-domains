@@ -11,6 +11,7 @@ fs-ar.ch
 fs-arnold.ch
 fs-art.ch
 fs-attiswil.ch
+fs-ausbau.ch
 fs-baeriswil.ch
 fs-bau.ch
 fs-bedachungen.ch
@@ -334,6 +335,7 @@ fsbz.ch
 fsc-avconsulting.ch
 fsc-cham.ch
 fsc-consulting.ch
+fsc-engineering.ch
 fsc-fahrschulcenter.ch
 fsc-ge.ch
 fsc-holzboden.ch
@@ -1043,7 +1045,6 @@ fssd.ch
 fssens.ch
 fsserver.ch
 fsservice.ch
-fsservices.ch
 fssf.ch
 fssfeusisberg.ch
 fssg-ag.ch

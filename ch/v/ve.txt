@@ -1737,7 +1737,6 @@ veilidnode.ch
 veillance.ch
 veillard-diffusion.ch
 veillard.ch
-veillard1.ch
 veillard2.ch
 veillardgroupe.ch
 veillardsolutions.ch
@@ -2646,6 +2645,7 @@ veloacocktails.ch
 veloafrica.ch
 veloafrika.ch
 veloag.ch
+veloagenda.ch
 veloakademie.ch
 veloakku.ch
 veloalf.ch
@@ -3593,6 +3593,7 @@ veloservice.ch
 veloservice24.ch
 veloservice48.ch
 veloservicekust.ch
+veloserviceplus.ch
 veloservicestation.ch
 veloserviceuster.ch
 veloservicewerkstatt.ch
@@ -3934,6 +3935,7 @@ velsipity.ch
 velso.ch
 velson.ch
 velsora.ch
+velstra.ch
 velsy.ch
 velt-architektur.ch
 velt-studios.ch
@@ -4533,6 +4535,7 @@ vendora.ch
 vendorchain.ch
 vendorlaces.ch
 vendoro.ch
+vendorocars.ch
 vendorolux.ch
 vendorplus.ch
 vendors.ch
@@ -5392,6 +5395,7 @@ venticinquegroup.ch
 venticlean.ch
 venticlim.ch
 ventidue.ch
+ventidueinvestments.ch
 ventiera.ch
 ventifive.ch
 ventify.ch
@@ -5993,7 +5997,6 @@ vepar.ch
 vepartners.ch
 vepass.ch
 vepe.ch
-vepee.ch
 vepmanagement.ch
 vepo.ch
 vepochemie.ch
@@ -7738,6 +7741,7 @@ verein-dana.ch
 verein-dartfabrik.ch
 verein-dct.ch
 verein-dejure.ch
+verein-denkanstoss.ch
 verein-der-trinkwasserinitiative.ch
 verein-der-zwei-herzen.ch
 verein-die-woche.ch
@@ -9491,7 +9495,6 @@ veriforte.ch
 verifox.ch
 veriftools.ch
 verify-id.ch
-verify-swissroyalcapital.ch
 verify.ch
 verifyer.ch
 verifyfirst.ch
@@ -12530,7 +12533,6 @@ versicherungsdienste.ch
 versicherungsdienstleistung.ch
 versicherungsdiscount.ch
 versicherungseid.ch
-versicherungselbstaendige.ch
 versicherungsexpert.ch
 versicherungsexperte.ch
 versicherungsexperte24.ch
@@ -13917,9 +13919,7 @@ verturesorts.ch
 verturis.ch
 verturo.ch
 vertus.ch
-vertusequity.ch
 vertuss.ch
-vertuswealth.ch
 vertuus.ch
 vertx-iq.ch
 vertx.ch
@@ -16348,6 +16348,7 @@ vey.ch
 veya-immobilier.ch
 veya.ch
 veyalasante.ch
+veyara.ch
 veyep.ch
 veyla.ch
 veylen.ch

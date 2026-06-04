@@ -757,6 +757,7 @@ bmpt.ch
 bmptrans.ch
 bmpublicite.ch
 bmpwerbung.ch
+bmpz.ch
 bmq-cars.ch
 bmq-fashion.ch
 bmq-magazine.ch
@@ -939,7 +940,6 @@ bmtreuhandgmbh.ch
 bmtrident.ch
 bmtruessel.ch
 bmttrading.ch
-bmtuning.ch
 bmu-access.ch
 bmu-foundation.ch
 bmu-group.ch

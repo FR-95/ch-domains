@@ -398,7 +398,6 @@ zaeme-sicher.ch
 zaeme-sii.ch
 zaeme-simer-stercher.ch
 zaeme-singe.ch
-zaeme-singed-mir-1.ch
 zaeme-unterwaegs.ch
 zaeme-wachse.ch
 zaeme-wohne.ch
@@ -2787,6 +2786,7 @@ zahnarztpraxenvermitttlung.ch
 zahnarztpraxis-aarau.ch
 zahnarztpraxis-aarwangen.ch
 zahnarztpraxis-abb.ch
+zahnarztpraxis-adliswil.ch
 zahnarztpraxis-aegerisee.ch
 zahnarztpraxis-aemme.ch
 zahnarztpraxis-aeschbacher.ch
@@ -4416,7 +4416,6 @@ zahnspangen-bern.ch
 zahnspangen-mellingen.ch
 zahnspangen-nidwalden.ch
 zahnspangen-spezialist.ch
-zahnspangen-versicherung.ch
 zahnspangen-welt.ch
 zahnspangen-welten.ch
 zahnspangen-winterthur.ch
@@ -6649,6 +6648,7 @@ zaunanlagen.ch
 zaunanlagenbau.ch
 zaunapp.ch
 zaunbau-bedarf.ch
+zaunbau-bern.ch
 zaunbau-gartenbau.ch
 zaunbau-mittelland.ch
 zaunbau-shop.ch

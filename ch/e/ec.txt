@@ -768,7 +768,6 @@ echlosion.ch
 echnatiel.ch
 echo-agentur.ch
 echo-animal.ch
-echo-app.ch
 echo-artsdivinatoires.ch
 echo-audio.ch
 echo-bueromoebel.ch
@@ -972,6 +971,7 @@ echofemme.ch
 echoffmann.ch
 echofilm.ch
 echoflow.ch
+echofon.ch
 echoforteams.ch
 echoframes.ch
 echofromthefuture.ch
@@ -6086,6 +6086,7 @@ ecstaticdancegeneve.ch
 ecstaticdanceluzern.ch
 ecstaticdancewinterthur.ch
 ecstaticdancezentralschweiz.ch
+ecstaticdancezug.ch
 ecstaticdancezurich.ch
 ecstaticself.ch
 ecstatictribe.ch

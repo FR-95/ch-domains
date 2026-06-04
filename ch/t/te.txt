@@ -528,6 +528,7 @@ team-fribourg-cycling-development.ch
 team-fs.ch
 team-fsm.ch
 team-future.ch
+team-game.ch
 team-games.ch
 team-garage.ch
 team-gc.ch
@@ -1086,7 +1087,6 @@ teambuilding-zuerich.ch
 teambuilding.ch
 teambuildingdorf.ch
 teambuildingfactory.ch
-teambuildinggeneva.ch
 teambuildingidee.ch
 teambuildingimpro.ch
 teambuildingmethode.ch
@@ -1902,7 +1902,6 @@ teamsteiner.ch
 teamstelefon.ch
 teamstep.ch
 teamster.ch
-teamstgallen-wetzikon.ch
 teamsticker.ch
 teamstierli.ch
 teamstmoritz.ch
@@ -3135,7 +3134,6 @@ techfood.ch
 techforall.ch
 techforbiz.ch
 techforce.ch
-techforfuture.ch
 techforgood.ch
 techforhope.ch
 techform.ch
@@ -3658,7 +3656,6 @@ technikheld.ch
 technikhelfer.ch
 technikhilfe-winterthur.ch
 technikhilfe.ch
-technikhuette.ch
 technikhuus.ch
 technikinteresse.ch
 technikjobs.ch
@@ -3930,6 +3927,7 @@ techno-classica.ch
 techno-climbing.ch
 techno-concept.ch
 techno-connect.ch
+techno-essentials.ch
 techno-film.ch
 techno-finish.ch
 techno-house.ch
@@ -5786,6 +5784,7 @@ teenstyle.ch
 teenstyleshop.ch
 teensweb.ch
 teentalk.ch
+teenthreads.ch
 teentime.ch
 teenunderware.ch
 teenvogue.ch
@@ -7211,7 +7210,6 @@ teleconsulenza.ch
 teleconsult.ch
 teleconsultation.ch
 teleconsulting.ch
-telecontact-enr.ch
 telecontact.ch
 teleconthey.ch
 telecontrol.ch
@@ -10148,6 +10146,7 @@ tenka-solar.ch
 tenka.ch
 tenkai-thang.ch
 tenkai.ch
+tenkan.ch
 tenkapower.ch
 tenkara-fliegenfischen.ch
 tenkara.ch
@@ -12415,6 +12414,7 @@ terra-nex.ch
 terra-nigma.ch
 terra-nivis.ch
 terra-nobilis.ch
+terra-noble.ch
 terra-nostra.ch
 terra-nova-feldmeilen.ch
 terra-nova.ch
@@ -13807,7 +13807,6 @@ territoiresierre.ch
 territoiressauvages.ch
 territoiressensibles.ch
 territoiresuisse.ch
-territoirevivant.ch
 territori-da-protecziun-svizzer.ch
 territori.ch
 territoridaprotecziunsvizzer.ch
@@ -14391,7 +14390,6 @@ teslas.ch
 teslasharing.ch
 teslashop.ch
 teslashuttle.ch
-teslasignal.ch
 teslasljivo.ch
 teslasociety.ch
 teslasolar.ch
@@ -14454,6 +14452,7 @@ tesori.ch
 tesoridelgeneroso.ch
 tesoridelsalento.ch
 tesoridelticino.ch
+tesoridicasa.ch
 tesorii.ch
 tesorino.ch
 tesorion.ch
@@ -15390,6 +15389,7 @@ testdomain23.ch
 testdomain4.ch
 testdomaine.ch
 testdomainfproject.ch
+testdomainmetanet.ch
 testdomainregular.ch
 testdomainrestore1.ch
 testdomainsilenccio.ch
@@ -15693,7 +15693,6 @@ testmanufaktur.ch
 testmate.ch
 testmax.ch
 testmaxbaumberger.ch
-testme.ch
 testmedishift.ch
 testmeister.ch
 testmeme.ch
@@ -17113,6 +17112,7 @@ texthandwerk.ch
 textheld.ch
 texthouse.ch
 texti.ch
+texti1color.ch
 texticiel.ch
 textierisch.ch
 textigo.ch

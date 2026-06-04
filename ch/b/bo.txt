@@ -1837,7 +1837,6 @@ bodenleger-aarau.ch
 bodenleger-aesch-bl.ch
 bodenleger-arlesheim.ch
 bodenleger-baselland.ch
-bodenleger-bern.ch
 bodenleger-breitenbach.ch
 bodenleger-bs.ch
 bodenleger-einsiedeln.ch
@@ -2902,6 +2901,7 @@ bodybeautylux.ch
 bodybebepersonnalise.ch
 bodyberatung.ch
 bodybest.ch
+bodybetter.ch
 bodybilder.ch
 bodybio.ch
 bodybliss-sofia.ch
@@ -3174,6 +3174,7 @@ bodyhelper.ch
 bodyheroes.ch
 bodyhit.ch
 bodyhit1.ch
+bodyhlth.ch
 bodyhoch3.ch
 bodyhoop.ch
 bodyhour.ch
@@ -5038,6 +5039,7 @@ bohntennisacademy.ch
 bohnus.ch
 bohny-automobile.ch
 bohny-consulting.ch
+bohny-immobilien.ch
 bohny-natalie-cosmetic.ch
 bohny.ch
 bohnyboeden.ch
@@ -5976,7 +5978,6 @@ bolero-drink.ch
 bolero-drinks.ch
 bolero-ensemble.ch
 bolero-getraenke.ch
-bolero-getraenkepulver.ch
 bolero-group.ch
 bolero-hairstudio.ch
 bolero-kosmetikstudio.ch
@@ -5984,9 +5985,7 @@ bolero-lifestyle.ch
 bolero-luzern.ch
 bolero-magazin.ch
 bolero-men.ch
-bolero-pulver.ch
 bolero-reisen.ch
-bolero-sticks.ch
 bolero-versoix.ch
 bolero-zermatt.ch
 bolero.ch
@@ -5995,20 +5994,17 @@ bolerobistro.ch
 bolerodrink.ch
 bolerodrinks.ch
 bolerogetraenke.ch
-bolerogetraenkepulver.ch
 bolerogroup.ch
 bolerolifestyle.ch
 boleroluzern.ch
 boleromagazin.ch
 boleromagazine.ch
 boleromen.ch
-boleropulver.ch
 boleroreisen.ch
 boleros.ch
 boleroserramenti.ch
 boleroshop.ch
 bolerostation.ch
-bolerosticks.ch
 boleroweb.ch
 boleroxstyle.ch
 boles.ch
@@ -8976,6 +8972,7 @@ boogiewoogie-club.ch
 boogiewoogie.ch
 boogiewoogiebern.ch
 boogiewoogieclub.ch
+boogiewoogiepiano.ch
 boogklavierbau.ch
 boogman.ch
 boognet.ch
@@ -9749,6 +9746,7 @@ boom-summit.ch
 boom-tg.ch
 boom-trikes.ch
 boom-vs.ch
+boom-zino.ch
 boom.ch
 boomart.ch
 boomba-bamboo.ch
@@ -10120,6 +10118,7 @@ boostit-partys.ch
 boostit.ch
 boostitcircular.ch
 boostjobs.ch
+boostkitchen.ch
 boostlab-online.ch
 boostlab.ch
 boostlabs.ch
@@ -13214,6 +13213,7 @@ bosswit.ch
 bossworks.ch
 bossy-wettstein.ch
 bossy.ch
+bossybat.ch
 bossycasino.ch
 bossyferblanterie.ch
 bossyredstar.ch
@@ -13594,6 +13594,7 @@ botlibier.ch
 botlr.ch
 botly.ch
 botmachine.ch
+botman.ch
 botme.ch
 botmiete.ch
 botmod-gaming.ch
@@ -15414,6 +15415,7 @@ boussole.ch
 boussole2040.ch
 boussole2050.ch
 boussole21.ch
+boussole3s.ch
 boussolecrm.ch
 boussoleculturelle.ch
 boussoledecrise.ch

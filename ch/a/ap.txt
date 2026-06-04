@@ -441,6 +441,7 @@ apartment-interlaken.ch
 apartment-juliana-zermatt.ch
 apartment-king.ch
 apartment-klosters-davos.ch
+apartment-laax.ch
 apartment-lucerne.ch
 apartment-luzern.ch
 apartment-miran-hvar.ch
@@ -2092,6 +2093,7 @@ apilean.ch
 apilegacynetwork.ch
 apilex.ch
 apiline.ch
+apill.ch
 apilla.ch
 apilocali.ch
 apilugano.ch
@@ -2696,6 +2698,7 @@ apo-lilie.ch
 apo-lyss.ch
 apo-maennedorf.ch
 apo-mat.ch
+apo-mix.ch
 apo-net.ch
 apo-netcom.ch
 apo-oberdorf.ch
@@ -2960,7 +2963,6 @@ apollo.ch
 apollo11.ch
 apollo20.ch
 apollo51.ch
-apollo7.ch
 apollo8.ch
 apolloa.ch
 apolloarchitecture.ch
@@ -3089,6 +3091,7 @@ apomed.ch
 apomedica.ch
 apomeds.ch
 apomio.ch
+apomix.ch
 apomobil.ch
 apomobile.ch
 apomoehlin.ch
@@ -5514,6 +5517,7 @@ applicasa-maler.ch
 applicasa.ch
 applicat-prazan.ch
 applicat.ch
+applicate.ch
 application-cct.ch
 application-development.ch
 application-geneve.ch

@@ -198,6 +198,7 @@ cyber-natdoc.ch
 cyber-navi.ch
 cyber-negotiation.ch
 cyber-net.ch
+cyber-notar.ch
 cyber-notfall.ch
 cyber-notruf.ch
 cyber-november.ch
@@ -387,7 +388,6 @@ cyberbar.ch
 cyberbase.ch
 cyberbay.ch
 cyberberatung.ch
-cyberbike.ch
 cyberbionics.ch
 cyberbiosecurity.ch
 cyberbit.ch
@@ -906,6 +906,7 @@ cyberninja.ch
 cybernist.ch
 cybernium.ch
 cybernosco.ch
+cybernotar.ch
 cybernous.ch
 cybernovember.ch
 cybernow.ch
@@ -943,7 +944,6 @@ cyberpatriot.ch
 cyberpatrollers.ch
 cyberpatrouilleur.ch
 cyberpatrouilleurs.ch
-cyberpeace.ch
 cyberpeacebuilder.ch
 cyberpeacebuilders.ch
 cyberpeacebuilding.ch
@@ -1081,7 +1081,6 @@ cybersec-ng.ch
 cybersec.ch
 cybersecaudit.ch
 cybersecaudits.ch
-cybersecawareness.ch
 cybersecdefender.ch
 cyberseclausanne.ch
 cybersecnews.ch
@@ -2026,6 +2025,7 @@ cygnustaxibern.ch
 cygo.ch
 cygogn.ch
 cygro.ch
+cyguard.ch
 cyh.ch
 cyha.ch
 cyhe.ch
@@ -2114,6 +2114,7 @@ cyme.ch
 cymedical.ch
 cymes.ch
 cymetric.ch
+cymett.ch
 cyminds.ch
 cymlongevity.ch
 cymly.ch
@@ -2758,7 +2759,6 @@ cyworld.ch
 cyx.ch
 cyxts.ch
 cyy.ch
-cyym.ch
 cyz-schmid.ch
 cyz.ch
 cyza.ch

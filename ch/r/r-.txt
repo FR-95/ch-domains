@@ -472,7 +472,6 @@ r-toolbox.ch
 r-track.ch
 r-trade.ch
 r-training.ch
-r-trans.ch
 r-transport.ch
 r-transporte.ch
 r-trenkwalder.ch
@@ -513,7 +512,6 @@ r-w.ch
 r-watch.ch
 r-webdesign.ch
 r-weh.ch
-r-weidmann.ch
 r-werner.ch
 r-wheels.ch
 r-wicki.ch

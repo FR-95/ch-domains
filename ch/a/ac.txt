@@ -2105,6 +2105,7 @@ accountonline.ch
 accountplan.ch
 accountr.ch
 accountreset.ch
+accounts-google.ch
 accounts-login-finma.ch
 accounts.ch
 accountservice.ch
@@ -3556,7 +3557,6 @@ achtsamkeit-praxis.ch
 achtsamkeit-psychotherapie.ch
 achtsamkeit-qigong.ch
 achtsamkeit-schweiz.ch
-achtsamkeit-sg.ch
 achtsamkeit-stgallen.ch
 achtsamkeit-therapie.ch
 achtsamkeit-und-hingabe.ch
@@ -5604,7 +5604,6 @@ act-ag.ch
 act-areal.ch
 act-art.ch
 act-asset.ch
-act-back.ch
 act-baden.ch
 act-blonay.ch
 act-canvas.ch

@@ -1643,6 +1643,7 @@ openpowerdata.ch
 openpr.ch
 openpress.ch
 openprices.ch
+openprivacy.ch
 openprivatebanking.ch
 openproductivity.ch
 openproject.ch
@@ -1870,7 +1871,6 @@ opentickets.ch
 opento.ch
 opentoact.ch
 opentonetwork.ch
-opentools.ch
 opentour.ch
 opentourism.ch
 opentowork.ch
@@ -2447,6 +2447,7 @@ ophtacare-hub.ch
 ophtacare.ch
 ophtacenter.ch
 ophtadoc.ch
+ophtagrangettes.ch
 ophtakids.ch
 ophtal.ch
 ophtalancy.ch
@@ -5111,6 +5112,7 @@ opus-s.ch
 opus-services.ch
 opus-singularis.ch
 opus-solar.ch
+opus-studio.ch
 opus-terra.ch
 opus-training.ch
 opus-unique.ch

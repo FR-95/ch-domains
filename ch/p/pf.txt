@@ -512,7 +512,6 @@ pfadinewa.ch
 pfadinussbaumen.ch
 pfadioensingen.ch
 pfadiolten.ch
-pfadiorion.ch
 pfadiorionbiel.ch
 pfadiostschweiz.ch
 pfadipaprika.ch
@@ -3651,6 +3650,7 @@ pflege-bedarf.ch
 pflege-begleiter.ch
 pflege-begleitung.ch
 pflege-beratung.ch
+pflege-bern.ch
 pflege-berufe.ch
 pflege-betreuung.ch
 pflege-bewegt.ch

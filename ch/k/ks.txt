@@ -735,6 +735,7 @@ kssursee.ch
 kssv.ch
 kssw.ch
 kst-ag.ch
+kst-fdu.ch
 kst-physio.ch
 kst-servos.ch
 kst.ch
@@ -804,7 +805,6 @@ ksuite-alias-test.ch
 ksuite-commande-suisse.ch
 ksuite-maxime.ch
 ksuite-test1.ch
-ksuite-test11.ch
 ksuite-test12.ch
 ksuite-test13.ch
 ksuite-test14.ch

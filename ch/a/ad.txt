@@ -209,6 +209,7 @@ ad-verwaltung.ch
 ad-vintage.ch
 ad-vinum.ch
 ad-vision.ch
+ad-visions.ch
 ad-vita.ch
 ad-vitam-aeternam.ch
 ad-voca.ch
@@ -865,7 +866,6 @@ adaptgraphics.ch
 adaptha.ch
 adaptia.ch
 adaptic.ch
-adaptik.ch
 adaptil.ch
 adaptings.ch
 adaption.ch
@@ -2699,6 +2699,7 @@ adhsgruppen.ch
 adhsheldenreise.ch
 adhshilfe.ch
 adhsimpuls.ch
+adhsiq.ch
 adhsjobs.ch
 adhskind.ch
 adhskompass.ch
@@ -2775,6 +2776,7 @@ adi-s-lederwerk.ch
 adi-solution.ch
 adi-sport.ch
 adi-t.ch
+adi-tati.ch
 adi-taxi.ch
 adi-tech.ch
 adi-und-flo.ch
@@ -3089,7 +3091,6 @@ adios.ch
 adip.ch
 adipar.ch
 adipe-jura-bernois.ch
-adipe.ch
 adiphi.ch
 adipocera.ch
 adipogen.ch
@@ -4593,7 +4594,6 @@ adninterventions.ch
 adnis.ch
 adnjob.ch
 adnkon7.ch
-adnleman.ch
 adnlufttechnik.ch
 adnmecanique.ch
 adnmediaprint.ch
@@ -4648,6 +4648,7 @@ ado-ok.ch
 ado-reinigung.ch
 ado-swiss.ch
 ado-tech.ch
+ado-treuhand.ch
 ado.ch
 adoan.ch
 adob.ch
@@ -6123,6 +6124,7 @@ adrificialjohn.ch
 adrifishing.ch
 adrifit-evolution.ch
 adrifitevolution.ch
+adrilin.ch
 adrim.ch
 adrimassage.ch
 adriml.ch

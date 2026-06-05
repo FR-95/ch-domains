@@ -3336,6 +3336,7 @@ circulareconomydata.ch
 circulareconomynavigator.ch
 circulareconomyreport.ch
 circulareconomyswitzerland.ch
+circularelectronics.ch
 circularelements.ch
 circularfabricstandard.ch
 circularflow.ch
@@ -4146,6 +4147,7 @@ citizensofhumanity.ch
 citizensoftheworld.ch
 citizensourcing.ch
 citizenspace.ch
+citizenvision.ch
 citizenwatch.ch
 citizn.ch
 citlak.ch
@@ -5239,7 +5241,6 @@ cityharvest.ch
 cityhaus-weinfelden.ch
 cityhaus.ch
 cityheart.ch
-cityheaven.ch
 cityhelp.ch
 cityhirsch.ch
 cityhit.ch
@@ -5526,7 +5527,6 @@ cityphysiowil.ch
 citypicnic.ch
 citypilates.ch
 citypilot.ch
-citypilz.ch
 citypizza.ch
 cityplace.ch
 cityplanag.ch
@@ -5836,6 +5836,7 @@ ciue.ch
 ciuffenna.ch
 ciuffetta.ch
 ciuffipcdelight.ch
+ciugu.ch
 ciulla-import.ch
 ciulla.ch
 ciullosa.ch

@@ -1164,6 +1164,7 @@ klar-werk.ch
 klar-wir-helfen.ch
 klar-wirhelfen.ch
 klar-wirkungsvoll.ch
+klar-zinvold.ch
 klar-zu.ch
 klar-zueri-unterland.ch
 klar.ch
@@ -1508,6 +1509,7 @@ klarschiff-ergo.ch
 klarschiff.ch
 klarschreiben.ch
 klarschrift.ch
+klarseele.ch
 klarsehen.ch
 klarseifen.ch
 klarsein.ch
@@ -1599,7 +1601,6 @@ klarvant.ch
 klarver.ch
 klarvermowald.ch
 klarversichert.ch
-klarvia.ch
 klarvie.ch
 klarvio.ch
 klarvis.ch
@@ -3423,7 +3424,6 @@ kleines-patent.ch
 kleines-schmuckstueck.ch
 kleines-sprachenatelier.ch
 kleines-weidetier.ch
-kleines-wunder.ch
 kleinesarschlo.ch
 kleinesarschloch.ch
 kleinesatelierjelena.ch
@@ -3745,6 +3745,7 @@ kleinstadt.ch
 kleinstadtagentur.ch
 kleinstadtantifa.ch
 kleinstadtbrise.ch
+kleinstadtfreund-innen.ch
 kleinstadtgarten.ch
 kleinstadthelden.ch
 kleinstaub.ch
@@ -5111,7 +5112,6 @@ klimabuendnis-basel.ch
 klimabuendnis.ch
 klimabuur.ch
 klimabuure.ch
-klimacafe.ch
 klimacamp-bundesplatz-prozess.ch
 klimacamp.ch
 klimacampus.ch
@@ -5930,6 +5930,7 @@ klinik-impuls.ch
 klinik-job-dress.ch
 klinik-jobs.ch
 klinik-lengg.ch
+klinik-lichtblick.ch
 klinik-lindberg.ch
 klinik-linde.ch
 klinik-lindenegg.ch
@@ -6912,6 +6913,7 @@ klotztext.ch
 klotzware.ch
 kloud.ch
 kloudease.ch
+kloudi.ch
 kloudless.ch
 kloudshift.ch
 kloudtools.ch
@@ -6938,6 +6940,7 @@ klr.ch
 klrarchitects.ch
 klraro-renochek.ch
 klreinhold.ch
+klreinigung.ch
 klrs.ch
 kls-ag.ch
 kls-ecz.ch

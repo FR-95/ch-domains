@@ -1309,6 +1309,7 @@ cabinetlatitude.ch
 cabinetlauraly.ch
 cabinetlelotus.ch
 cabinetlemagnolia.ch
+cabinetleman.ch
 cabinetlemiroir.ch
 cabinetlenid.ch
 cabinetlenvol.ch
@@ -3033,7 +3034,6 @@ cafe-avusy.ch
 cafe-azizam.ch
 cafe-b.ch
 cafe-badilatti.ch
-cafe-baeumlihof.ch
 cafe-balthasar.ch
 cafe-balthazar.ch
 cafe-bar-boulevard.ch
@@ -3224,6 +3224,7 @@ cafe-kairo.ch
 cafe-karma.ch
 cafe-kebap-bonaduz.ch
 cafe-kilian.ch
+cafe-kitchen.ch
 cafe-kogi.ch
 cafe-koller.ch
 cafe-konditorei-damaskus.ch
@@ -3392,6 +3393,7 @@ cafe-tobler.ch
 cafe-tour.ch
 cafe-tramways.ch
 cafe-trio.ch
+cafe-trotzdem.ch
 cafe-tschannen.ch
 cafe-tuerlihof.ch
 cafe-union.ch
@@ -7348,6 +7350,7 @@ calypso-versand.ch
 calypso.ch
 calypso2-eroticclub.ch
 calypsochilbi.ch
+calypsodream.ch
 calypsofilm.ch
 calypsogirls.ch
 calypsohatai-rickenbach.ch
@@ -8787,6 +8790,7 @@ campcoins.ch
 campcompass.ch
 campconcept.ch
 campconsulting.ch
+campcore.ch
 campcrvenazvezda.ch
 campcycle.ch
 campdavid-soccx.ch
@@ -10312,6 +10316,7 @@ camplus.ch
 camply.ch
 campmanager.ch
 campmap.ch
+campmarkt.ch
 campmeister.ch
 campmetiers.ch
 campmontana.ch
@@ -13954,7 +13959,6 @@ caotec.ch
 caotina.ch
 caoutchouc.ch
 caova.ch
-cap-8.ch
 cap-a-cite.ch
 cap-able.ch
 cap-ailleurs.ch
@@ -15187,6 +15191,7 @@ cappa.ch
 cappadoce.ch
 cappallo.ch
 cappani.ch
+capparelli.ch
 capparis.ch
 capparotto.ch
 cappe.ch
@@ -15523,7 +15528,6 @@ capro-kantenschutz.ch
 capro.ch
 caprock-partners.ch
 caprod.ch
-caprofestival.ch
 caprofm.ch
 caprol.ch
 caproll.ch
@@ -15592,6 +15596,7 @@ capsmala.ch
 capsme.ch
 capso.ch
 capsocial.ch
+capsoins.ch
 capsolpartners.ch
 capsolute.ch
 capsolutions.ch
@@ -18869,6 +18874,7 @@ careercoach.ch
 careercoaching-hsg.ch
 careercoaching.ch
 careercollective.ch
+careercompanion.ch
 careercompass.ch
 careerconcierge.ch
 careerconsulting.ch
@@ -19500,6 +19506,7 @@ carework.ch
 careworkunite.ch
 carex-group.ch
 carex.ch
+carexchange.ch
 carexdom.ch
 carexfriends.ch
 carexpd.ch
@@ -20611,7 +20618,6 @@ carlbrander.ch
 carlbucherer.ch
 carlconsulting.ch
 carldanielwerner.ch
-carldench.ch
 carle-consulting.ch
 carle-energy-consulting.ch
 carle-von-hohenbalken.ch
@@ -20908,6 +20914,7 @@ carloscastillo.ch
 carloschmid.ch
 carloschmidt.ch
 carloschmied.ch
+carloscoach-switzerland.ch
 carloscorreia.ch
 carloscraveiro.ch
 carloscs-grill.ch
@@ -22504,8 +22511,10 @@ caroptiion.ch
 caroption.ch
 caropunkt.ch
 carora.ch
+caros-agility.ch
 caros-eulenfuesschen-tagesmutter.ch
 caros-hundeschule.ch
+caros-hundeservice.ch
 caros-tortenzauber.ch
 caros-wood-and-resinart.ch
 caros.ch
@@ -24774,6 +24783,7 @@ carspotting.ch
 carspotz.ch
 carspotzh.ch
 carspring.ch
+carsquare.ch
 carsrental.ch
 carsruincities.ch
 carsshopservice.ch
@@ -25083,7 +25093,6 @@ cartepokemon.ch
 cartepostale.ch
 cartepostalegyrebysabrina.ch
 cartepostales.ch
-cartepourtous.ch
 carteprepagate.ch
 cartepro.ch
 carteprofju.ch
@@ -25643,6 +25652,7 @@ carvenchy.ch
 carvendi.ch
 carvendo.ch
 carvensys.ch
+carventures.ch
 carveo.ch
 carvepoint.ch
 carver.ch
@@ -29150,6 +29160,7 @@ cashflowmagazin.ch
 cashflowoptimizer.ch
 cashflows.ch
 cashflowsa.ch
+cashflowsolutions.ch
 cashflowspiel.ch
 cashflowtag.ch
 cashflowtreuhand.ch
@@ -30603,6 +30614,7 @@ casprivatversicherungsrecht.ch
 casprode.ch
 casprotec.ch
 casq.ch
+casque-antivol.ch
 casque-audio.ch
 casque-silent-disco.ch
 casque.ch
@@ -30727,6 +30739,7 @@ cassedalle.ch
 cassedisapone.ch
 casselechic.ch
 casselin.ch
+cassely.ch
 cassemalati.ch
 cassemalatisvizzera.ch
 cassemoto.ch
@@ -30799,6 +30812,7 @@ cassiopee-ergo.ch
 cassiopee-ergotherapie.ch
 cassiopee-services.ch
 cassiopee-test.ch
+cassiopee-test2.ch
 cassiopee-yverdon.ch
 cassiopee.ch
 cassiopeia-msa.ch

@@ -1058,7 +1058,6 @@ mbo-productions.ch
 mbo-shop.ch
 mbo.ch
 mbo22auto.ch
-mboaplay.ch
 mbody.ch
 mbodypt.ch
 mboegli.ch

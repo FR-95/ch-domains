@@ -164,7 +164,6 @@ dmake-up.ch
 dmakeup.ch
 dmalert.ch
 dmall.ch
-dman.ch
 dmanager.ch
 dmand.ch
 dmanisi.ch

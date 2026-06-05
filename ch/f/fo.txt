@@ -293,7 +293,6 @@ focus-immobilier.ch
 focus-importations.ch
 focus-in.ch
 focus-inside.ch
-focus-internet.ch
 focus-it.ch
 focus-jugend.ch
 focus-kontaktlinsen.ch
@@ -2056,6 +2055,7 @@ folix.ch
 folixa.ch
 folk-family.ch
 folk-fashion.ch
+folk-links.ch
 folk-music.ch
 folk-net.ch
 folk-tanz.ch
@@ -2086,6 +2086,7 @@ folkinheaven.ch
 folkisch.ch
 folkish.ch
 folklabor-bern.ch
+folklinks.ch
 folklor.ch
 folklor75.ch
 folklore-experte.ch
@@ -2397,6 +2398,7 @@ foncierehorizon.ch
 fonciereimmo.ch
 fonciereimmobilier.ch
 foncierplus.ch
+foncify.ch
 foncimo.ch
 foncind.ch
 foncouverte.ch
@@ -4811,7 +4813,6 @@ food-movement.ch
 food-ninja.ch
 food-ninjas.ch
 food-nomad.ch
-food-now.ch
 food-on-fire.ch
 food-on-wheels.ch
 food-one.ch
@@ -5053,6 +5054,7 @@ foodboxragaz.ch
 foodboxswiss.ch
 foodboxx.ch
 foodboy.ch
+foodbranding.ch
 foodbrewer.ch
 foodbridge.ch
 foodbridgetest.ch
@@ -5494,6 +5496,7 @@ foodnation.ch
 foodnauten.ch
 foodness-cecchetto.ch
 foodness.ch
+foodnet.ch
 foodnetwork.ch
 foodnetworks.ch
 foodnew.ch
@@ -6293,7 +6296,6 @@ footpro.ch
 footprt.ch
 footquiz.ch
 footrebel.ch
-footreffenwir.ch
 footregionmorges.ch
 footromand.ch
 footsc.ch
@@ -7295,7 +7297,6 @@ forellen-quelle.ch
 forellen.ch
 forellenfest.ch
 forellenfilet.ch
-forellenfischen.ch
 forellenfutter.ch
 forellenparadies.ch
 forellensee-garage.ch
@@ -8120,7 +8121,6 @@ form-art.ch
 form-arte.ch
 form-atelier.ch
 form-attitude.ch
-form-azione.ch
 form-basel.ch
 form-box.ch
 form-collection.ch
@@ -8438,7 +8438,6 @@ formation-acupression.ch
 formation-adulte.ch
 formation-afa.ch
 formation-ags.ch
-formation-ai.ch
 formation-aid.ch
 formation-altius.ch
 formation-anthropocene.ch
@@ -8564,7 +8563,6 @@ formation-hypnose.ch
 formation-ia-entreprise.ch
 formation-ia-entreprises.ch
 formation-ia-suisse.ch
-formation-ia.ch
 formation-iaso.ch
 formation-icare.ch
 formation-id.ch
@@ -8576,8 +8574,6 @@ formation-incluse.ch
 formation-informatique-geneve.ch
 formation-informatique-lausanne.ch
 formation-informatique.ch
-formation-intelligence-artificielle.ch
-formation-intelligenceartificielle.ch
 formation-intendance.ch
 formation-internet.ch
 formation-it-geneve.ch
@@ -8694,7 +8690,6 @@ formation360.ch
 formation65plus.ch
 formationadistance.ch
 formationaeai.ch
-formationai.ch
 formationanthroposophique.ch
 formationantichute.ch
 formationarc.ch
@@ -8774,7 +8769,6 @@ formationgenai.ch
 formationgeomatique.ch
 formationheadspa.ch
 formationhug.ch
-formationia.ch
 formationiaentreprise.ch
 formationiaentreprises.ch
 formationict.ch
@@ -8784,8 +8778,6 @@ formationictsuisse.ch
 formationikigai.ch
 formationimpro.ch
 formationincendie.ch
-formationintelligence-artificielle.ch
-formationintelligenceartificielle.ch
 formationinterimsecurite.ch
 formationinternet.ch
 formationjeunesse.ch
@@ -8829,7 +8821,6 @@ formationrhino.ch
 formationrhinoceros.ch
 formations-360.ch
 formations-afa.ch
-formations-ai.ch
 formations-antichute.ch
 formations-aroma.ch
 formations-bim.ch
@@ -8850,7 +8841,6 @@ formations-feux.ch
 formations-humana.ch
 formations-hypnose.ch
 formations-ia-lausanne.ch
-formations-ia.ch
 formations-immobilier-geneve.ch
 formations-immobilieres-geneve.ch
 formations-incendie.ch
@@ -8859,8 +8849,6 @@ formations-informatique-lausanne.ch
 formations-informatique-suisse.ch
 formations-informatique.ch
 formations-informatiques.ch
-formations-intelligences-artificielles.ch
-formations-intelligencesartificielles.ch
 formations-it-geneve.ch
 formations-it-lausanne.ch
 formations-massages-tantriques-geneve.ch
@@ -8880,7 +8868,6 @@ formations-sante-mentale.ch
 formations-secouristes-entreprise.ch
 formations.ch
 formations360.ch
-formationsai.ch
 formationsalaire.ch
 formationsalaires.ch
 formationsantementale.ch
@@ -8899,11 +8886,8 @@ formationseolausanne.ch
 formationsertissage.ch
 formationsfitness.ch
 formationsgroup.ch
-formationsia.ch
 formationsialausanne.ch
 formationsimple.ch
-formationsintelligences-artificielles.ch
-formationsintelligencesartificielles.ch
 formationsonglerie.ch
 formationsonotherapie.ch
 formationsoudage.ch
@@ -9561,7 +9545,6 @@ formulejeunes.ch
 formulekids.ch
 formulenature.ch
 formuler.ch
-formulerstb.ch
 formulerswiss.ch
 formulery.ch
 formulesport.ch
@@ -12007,6 +11990,7 @@ fosbury.ch
 fosc-scanner.ch
 fosc.ch
 foscaldi-consulting.ch
+foscaldi-treuhand.ch
 foscaldi.ch
 foscaldiconsulting.ch
 foscam-swiss.ch
@@ -13753,7 +13737,6 @@ fotohandwerker.ch
 fotohans.ch
 fotohappening.ch
 fotohappenings.ch
-fotohard.ch
 fotoharmonie.ch
 fotohauenstein.ch
 fotohaus-luchsinger.ch
@@ -15125,6 +15108,7 @@ founds.ch
 foundship.ch
 foundstudio.ch
 foundsy.ch
+foundthegames.ch
 foundy.ch
 foundyou.ch
 founex-loisirs.ch
@@ -15417,6 +15401,7 @@ fourthirtyseven.ch
 fourthline.ch
 fourthousand.ch
 fourthportfolio.ch
+fourthquarterinvestments.ch
 fourthunicorn.ch
 fourthvisuals.ch
 fourtonsleepyghost.ch

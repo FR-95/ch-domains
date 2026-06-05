@@ -717,7 +717,6 @@ wearelate.ch
 wearelawa.ch
 weareleonard.ch
 wearelhi.ch
-wearelions.ch
 wearelistening.ch
 wearelocarno.ch
 wearelse.ch
@@ -903,7 +902,6 @@ weasy-management.ch
 weasy.ch
 weasyfix.ch
 weat.ch
-weatclub.ch
 weather-alarm.ch
 weather-alert.ch
 weather-forecast.ch
@@ -5148,6 +5146,7 @@ webphone.ch
 webphysio.ch
 webpics.ch
 webpier.ch
+webpilot.ch
 webpin.ch
 webpinnwand.ch
 webpioneer.ch
@@ -7075,6 +7074,7 @@ weckediekriegerinindir.ch
 weckemann.ch
 wecken.ch
 weckeninvest.ch
+wecker-stellen.ch
 wecker.ch
 weckerle-shop.ch
 weckerle.ch
@@ -7187,6 +7187,7 @@ wecreatefans.ch
 wecreatemovement.ch
 wecreatesolutions.ch
 wecreatestories.ch
+wecreatestudio.ch
 wecrowd.ch
 wecrystal.ch
 wecs.ch
@@ -14743,7 +14744,6 @@ wellnesstrend.ch
 wellnesstrends.ch
 wellnesstrip.ch
 wellnessundbeauty.ch
-wellnessunderthesky-offerte.ch
 wellnessunderthesky.ch
 wellnessundfitness.ch
 wellnessundfitnessinsel.ch
@@ -16531,6 +16531,7 @@ weniger-alkohol-zuerich.ch
 weniger-alkohol.ch
 weniger-ammoniak.ch
 weniger-ausgeben.ch
+weniger-buerokratie.ch
 weniger-einsam.ch
 weniger-fleisch.ch
 weniger-gebuehren.ch
@@ -18244,7 +18245,6 @@ werginz.ch
 wergles.ch
 werhahn.ch
 werhat.ch
-werhatwasichsuche.ch
 werhbany.ch
 werheiratetmich.ch
 werhilft.ch
@@ -19980,6 +19980,8 @@ werthmuller.ch
 werthof.ch
 wertholz.ch
 werthstein.ch
+wertia.ch
+wertiafinanz.ch
 werticalsanromerio.ch
 wertify.ch
 wertig.ch
@@ -20094,6 +20096,7 @@ wertschutzhuelle.ch
 wertschutzraum.ch
 wertschutzraumtuer.ch
 wertsein.ch
+wertsicherung.ch
 wertsicherungsexperten.ch
 wertsicherungswaechter.ch
 wertsicht.ch

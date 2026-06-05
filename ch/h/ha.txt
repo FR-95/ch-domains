@@ -1782,6 +1782,7 @@ habitsdameoccasionlausanne.ch
 habitsofpeace.ch
 habitspro.ch
 habitstracker.ch
+habittracker.ch
 habitualai.ch
 habitude.ch
 habitum.ch
@@ -3775,6 +3776,7 @@ hafen-buochs.ch
 hafen-coaching.ch
 hafen-enge-beiz.ch
 hafen-enge-wiehnacht.ch
+hafen-fan.ch
 hafen-faoug.ch
 hafen-fest.ch
 hafen-innovation.ch
@@ -3812,6 +3814,7 @@ hafenchurch.ch
 hafencity.ch
 hafenclan.ch
 hafenconsulting.ch
+hafenfan.ch
 hafenfest-steckborn.ch
 hafenfest.ch
 hafenfestmacher.ch
@@ -4694,6 +4697,7 @@ haijk.ch
 haik.ch
 haikaluebcke.ch
 haikebohn.ch
+haiket.ch
 haikiste.ch
 haiko.ch
 haikogym.ch
@@ -8590,6 +8594,7 @@ hammertools.ch
 hammertrans.ch
 hammerumzug.ch
 hammerumzugreinigung.ch
+hammerundkelle.ch
 hammerundnadel.ch
 hammerundpinsel.ch
 hammerwald.ch
@@ -10411,6 +10416,7 @@ handschuh.ch
 handschuhabo.ch
 handschuhe-online.ch
 handschuhe.ch
+handschuhefueralle.ch
 handschuhmacher.ch
 handschuhportal.ch
 handschuhprofi.ch
@@ -10739,7 +10745,6 @@ handwerkdasbegeistert.ch
 handwerkdenkmalpflege.ch
 handwerkdienst.ch
 handwerkdigital.ch
-handwerkdoktor.ch
 handwerke.ch
 handwerken.ch
 handwerkende.ch
@@ -11113,7 +11118,6 @@ handwerkschau.ch
 handwerkschweiz.ch
 handwerkscloud.ch
 handwerksdienstleistungen.ch
-handwerksdoktor.ch
 handwerksein.ch
 handwerksevolution.ch
 handwerksfotografie.ch
@@ -11195,7 +11199,6 @@ handy-center.ch
 handy-check.ch
 handy-coach.ch
 handy-covers.ch
-handy-crane.ch
 handy-dampfwelt.ch
 handy-date.ch
 handy-daten.ch
@@ -12327,6 +12330,7 @@ hannahklarer.ch
 hannahlips.ch
 hannahmalin.ch
 hannahmontana.ch
+hannahnaegeli.ch
 hannahpfurtscheller.ch
 hannahs-best.ch
 hannahs.ch
@@ -12514,6 +12518,7 @@ hanniel.ch
 hannielstrebel.ch
 hannifischerbluewin.ch
 hannifischerhochbauplaene.ch
+hannig-menumatch.ch
 hannig-saas-fee.ch
 hannig.ch
 hannigalp.ch
@@ -12651,6 +12656,7 @@ hans-joerg-heusser.ch
 hans-jon-ries.ch
 hans-jossi.ch
 hans-juerg.ch
+hans-kaeser.ch
 hans-karrer.ch
 hans-kaufmann.ch
 hans-kehrli-landmaschinen.ch
@@ -14238,6 +14244,7 @@ happybowllachauxdefonds.ch
 happybowllaneuveville.ch
 happybowllausanne.ch
 happybowllelanderon.ch
+happybowlmarin.ch
 happybowlneuchatel.ch
 happybowlnyon.ch
 happybowlpayerne.ch
@@ -17745,6 +17752,7 @@ hasehoeren.ch
 hasejagd.ch
 hasekic.ch
 hasel-hombrechtikon.ch
+hasel-matt.ch
 hasel-nuss.ch
 hasel-ufer.ch
 hasel.ch
@@ -22123,6 +22131,7 @@ haustechnik-oeschger.ch
 haustechnik-parisotto.ch
 haustechnik-partner.ch
 haustechnik-planb.ch
+haustechnik-ratgeber.ch
 haustechnik-rechner.ch
 haustechnik-reinach.ch
 haustechnik-rueger.ch
@@ -22672,7 +22681,6 @@ hauswartungen-aargau.ch
 hauswartungen-barragan.ch
 hauswartungen-basel.ch
 hauswartungen-baselland.ch
-hauswartungen-bern.ch
 hauswartungen-ch.ch
 hauswartungen-cham.ch
 hauswartungen-gmbh.ch
@@ -23475,6 +23483,7 @@ hauzaree.ch
 hauzenberger.ch
 hauzer.ch
 hauzn.ch
+hauzo.ch
 hav-baumanagement.ch
 hav-gersag.ch
 hav-linth.ch

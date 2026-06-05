@@ -803,7 +803,6 @@ sven-schmid.ch
 sven-schumacher.ch
 sven-seewald.ch
 sven-service.ch
-sven-sewald.ch
 sven-und-chantal.ch
 sven-unold.ch
 sven-waser.ch
@@ -1219,6 +1218,7 @@ svgommiswald.ch
 svgossau-zh.ch
 svgp.ch
 svgproduktekatalog.ch
+svgr.ch
 svgrenzwache.ch
 svgroup.ch
 svgroupcert.ch

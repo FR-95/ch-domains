@@ -1274,7 +1274,6 @@ beandyou.ch
 beaneff.ch
 beanfactory.ch
 beangoose.ch
-beangoosecoffee.ch
 beanic.ch
 beanie-bear.ch
 beanie-shop.ch
@@ -2939,6 +2938,7 @@ beaute-libre.ch
 beaute-line.ch
 beaute-lys-gland.ch
 beaute-maricha.ch
+beaute-minceur.ch
 beaute-morges.ch
 beaute-pier.ch
 beaute-plus.ch
@@ -9148,6 +9148,7 @@ beinpresse.ch
 beinprothese.ch
 beinprothesen.ch
 beinschinken.ch
+beinsembel.ch
 beinside.ch
 beinspired-fotoschule.ch
 beinspired-fotostudio.ch
@@ -10049,6 +10050,7 @@ belegarchiv.ch
 belegarzt.ch
 belegarztakademie.ch
 belegavivo.ch
+belegberg.ch
 belegbox.ch
 belegbuddy.ch
 belegbutler.ch
@@ -11182,6 +11184,7 @@ bellechasse.ch
 bellechezsoi.ch
 bellechose.ch
 bellecinq.ch
+belleclaire.ch
 bellecombe.ch
 bellecosmetic.ch
 bellecote.ch
@@ -12337,6 +12340,7 @@ belovedbeloved.ch
 belovedbooks.ch
 belovedknits.ch
 belovedpaint.ch
+belovedpalestine.ch
 belovedtemple.ch
 belovings.ch
 below-the-line-agentur.ch
@@ -13280,6 +13284,7 @@ bencha.ch
 benchain.ch
 benchalist.ch
 benchamakh.ch
+benchandhood.ch
 benchbros.ch
 benchbuddy.ch
 benchcoa.ch
@@ -13290,7 +13295,6 @@ benchetrit.ch
 benchfinder.ch
 benchflow.ch
 benchfluencer.ch
-benchhood.ch
 benchk.ch
 benchli.ch
 benchly.ch
@@ -13392,6 +13396,7 @@ bender-handel.ch
 bender-hoerberatung.ch
 bender-ing.ch
 bender-nussbaumen.ch
+bender-services.ch
 bender-stiftung.ch
 bender.ch
 bendercigars.ch
@@ -13772,6 +13777,7 @@ benekassen.ch
 benekcorn.ch
 beneke.ch
 benekids.ch
+beneko.ch
 benela.ch
 benelas.ch
 beneletti.ch
@@ -14601,7 +14607,6 @@ benjaminphilippe.ch
 benjaminpluess.ch
 benjaminpohl.ch
 benjaminpoole.ch
-benjaminporchet.ch
 benjaminrapp.ch
 benjaminreusser.ch
 benjaminrichle.ch
@@ -15060,6 +15065,7 @@ benoitmeylan.ch
 benoitmichellod.ch
 benoitmuller.ch
 benoitmusic.ch
+benoitnichols.ch
 benoitperret.ch
 benoitperrier.ch
 benoitperritaz.ch
@@ -16403,6 +16409,7 @@ beratrice.ch
 beratrushiti.ch
 beratundtat.ch
 beratung-aargau.ch
+beratung-abz.ch
 beratung-adhs.ch
 beratung-adler.ch
 beratung-administration-rorschach.ch
@@ -16416,6 +16423,7 @@ beratung-arbeitsrecht.ch
 beratung-architekturpsychologie.ch
 beratung-assistive-technologien.ch
 beratung-auf-augenhoehe.ch
+beratung-ausserhalbderbauzonen.ch
 beratung-autismus.ch
 beratung-basel.ch
 beratung-baukultur-schweiz.ch
@@ -21768,6 +21776,7 @@ bernhypotheken.ch
 bernhyrox.ch
 berni-bus.ch
 berni-meier.ch
+berni-realestate.ch
 berni.ch
 bernia.ch
 bernibee.ch
@@ -23738,6 +23747,7 @@ berufsverband-influencer-content-creator.ch
 berufsverband-kampfkunst.ch
 berufsverband-medizin.ch
 berufsverband-modistinnen.ch
+berufsverband-pflege.ch
 berufsverband-pi.ch
 berufsverband-restauration.ch
 berufsverband-schweiz-tierkommunikation.ch
@@ -25139,6 +25149,7 @@ best-konto.ch
 best-laptop.ch
 best-lawyer.ch
 best-leads.ch
+best-leasing.ch
 best-led.ch
 best-legal.ch
 best-life.ch
@@ -27049,6 +27060,7 @@ bestrates.ch
 bestreactiven.ch
 bestread.ch
 bestrealestate.ch
+bestrec.ch
 bestrecruiter.ch
 bestrecruiters.ch
 bestregards.ch
@@ -27442,7 +27454,6 @@ beswimming.ch
 beswiss.ch
 besync-service.ch
 besync.ch
-besyncag.ch
 besyo.ch
 bet-22.ch
 bet-24.ch
@@ -27459,6 +27470,7 @@ bet-and-win.ch
 bet-at-home.ch
 bet-athome.ch
 bet-att-home.ch
+bet-buffoon.ch
 bet-dynamo.ch
 bet-energietechnik.ch
 bet-hall.ch
@@ -27766,6 +27778,7 @@ betasphere.ch
 betasreinigung.ch
 betastagefestival.ch
 betasulin.ch
+betasulinofficial.ch
 betaswiss.ch
 betaswissracingteam.ch
 betasystem.ch
@@ -30841,7 +30854,6 @@ beviro.ch
 bevis.ch
 bevisa.ch
 bevisbytheo.ch
-bevisco.ch
 bevisible.ch
 bevision.ch
 bevisionai.ch

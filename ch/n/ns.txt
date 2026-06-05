@@ -63,6 +63,7 @@ ns-keramik.ch
 ns-kosmetik.ch
 ns-kreativdesign.ch
 ns-lab.ch
+ns-lavanderia.ch
 ns-logistic.ch
 ns-maler-reinigung.ch
 ns-media.ch
@@ -351,7 +352,6 @@ ns.newsbit.ch
 ns.nhz.ch
 ns.nigano.ch
 ns.nnt.ch
-ns.nogadata.ch
 ns.nonancoraincinta.ch
 ns.nooshin.ch
 ns.nope.ch
@@ -684,12 +684,10 @@ ns03.sonderformat.ch
 ns03.ticinohosting.ch
 ns03.tyle.ch
 ns04.gva.ch
-ns04.hight.ch
 ns04.ns.kaempf-engineering.ch
 ns04.puska.ch
 ns04.siw.ch
 ns04.tyle.ch
-ns05.hight.ch
 ns05.pyle.ch
 ns05.siw.ch
 ns06.ns.kaempf-engineering.ch
@@ -785,6 +783,7 @@ ns1.afat.ch
 ns1.affentanz.ch
 ns1.afnet.ch
 ns1.aga-express-reinigung.ch
+ns1.agentbase.ch
 ns1.agov.ch
 ns1.agraph.ch
 ns1.agri-foto.ch
@@ -1790,7 +1789,6 @@ ns1.fritigsclub.ch
 ns1.fromthefarm.ch
 ns1.frox.ch
 ns1.fs-dev.ch
-ns1.fspwerbetech.ch
 ns1.fthg.ch
 ns1.ftl-cdr.ch
 ns1.ftls.ch
@@ -2768,6 +2766,7 @@ ns1.noraliqueurs.ch
 ns1.nordlandweb.ch
 ns1.nordmedia.ch
 ns1.notfalltraining.ch
+ns1.notfy.ch
 ns1.novaci-conseil.ch
 ns1.novamanaged.ch
 ns1.novaweb.ch
@@ -4157,6 +4156,7 @@ ns2.afcnet.ch
 ns2.affentanz.ch
 ns2.afnet.ch
 ns2.aga-express-reinigung.ch
+ns2.agentbase.ch
 ns2.agov.ch
 ns2.agraph.ch
 ns2.agri-foto.ch
@@ -5124,7 +5124,6 @@ ns2.fritigsclub.ch
 ns2.fromthefarm.ch
 ns2.frox.ch
 ns2.fs-dev.ch
-ns2.fspwerbetech.ch
 ns2.fthg.ch
 ns2.ftl-cdr.ch
 ns2.ftls.ch
@@ -6048,13 +6047,13 @@ ns2.nnet.ch
 ns2.nnv.ch
 ns2.nnx.ch
 ns2.nodom.ch
-ns2.nogadata.ch
 ns2.noise.ch
 ns2.nolink.ch
 ns2.nopixel.ch
 ns2.noraliqueurs.ch
 ns2.nordlandweb.ch
 ns2.nordmedia.ch
+ns2.notfy.ch
 ns2.novaci-conseil.ch
 ns2.novahosting.ch
 ns2.novamanaged.ch

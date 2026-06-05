@@ -643,6 +643,7 @@ local49.ch
 local4all.ch
 local53.ch
 local8.ch
+locala.ch
 localaccountant.ch
 localactivities.ch
 localad.ch
@@ -1628,7 +1629,6 @@ locationexpress.ch
 locationferrari.ch
 locationfinder.ch
 locationgarage83.ch
-locationgeneve.ch
 locationgrues.ch
 locationguide.ch
 locationguide24.ch
@@ -2360,6 +2360,7 @@ lodf.ch
 lodge-79.ch
 lodge-ascona.ch
 lodge-blinne.ch
+lodge-finder.ch
 lodge-flumserberg.ch
 lodge-leben.ch
 lodge-zug.ch
@@ -5015,7 +5016,6 @@ logopaedische-praxis.ch
 logopage.ch
 logopak.ch
 logopaletti.ch
-logopard.ch
 logoparoli.ch
 logoparts.ch
 logoped.ch
@@ -5614,6 +5614,7 @@ lohre.ch
 lohren.ch
 lohrengaessli.ch
 lohrer.ch
+lohrgroup.ch
 lohrhaushaltshilfe.ch
 lohri-musik.ch
 lohri-office.ch
@@ -6846,6 +6847,7 @@ lombricus.ch
 lombriser.ch
 lombritek.ch
 lombritonus.ch
+lomdev.ch
 lomdim.ch
 lome.ch
 lomea.ch
@@ -8968,7 +8970,6 @@ loreecrissier.ch
 loreedejouxtens.ch
 loreedesbois.ch
 loreedesmondes.ch
-loreeduleman.ch
 loreedumoleson.ch
 loreedutarot.ch
 loreen.ch
@@ -10262,7 +10263,6 @@ lostorfer-gruppe.ch
 lostorfer.ch
 lostorferpizzastube.ch
 lostp.ch
-lostpath.ch
 lostpineapple.ch
 lostplace.ch
 lostplacekino.ch
@@ -11789,6 +11789,7 @@ louvet.ch
 louveteaux.ch
 louvia.ch
 louviadesign.ch
+louviarts.ch
 louvie.ch
 louviere.ch
 louvin.ch

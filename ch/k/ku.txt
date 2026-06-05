@@ -1083,7 +1083,6 @@ kuechensparadies.ch
 kuechenspass.ch
 kuechenspezialist.ch
 kuechenspezialisten.ch
-kuechenspiel.ch
 kuechenstore.ch
 kuechenstories.ch
 kuechenstudio.ch
@@ -6209,6 +6208,7 @@ kunstbautbruecken.ch
 kunstbauten.ch
 kunstbedarf.ch
 kunstbeleihung.ch
+kunstbemer.ch
 kunstberater.ch
 kunstberatung-beatrixkorber.ch
 kunstberatung-luzern.ch
@@ -9122,7 +9122,6 @@ kurt-buholzer.ch
 kurt-consulting.ch
 kurt-egger.ch
 kurt-eichenberger.ch
-kurt-elektronik.ch
 kurt-fahrner.ch
 kurt-fluri.ch
 kurt-forster.ch

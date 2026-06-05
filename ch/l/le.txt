@@ -213,7 +213,6 @@ le-chemin-du-troupeau.ch
 le-chemin-du-yoga.ch
 le-chemin-suisse.ch
 le-chemin-vers-soi.ch
-le-chemin-vert.ch
 le-chene.ch
 le-chenit24.ch
 le-cheval-blanc.ch
@@ -2061,7 +2060,6 @@ leadingtalk.ch
 leadingwithimpact.ch
 leadingwithloa.ch
 leadingx.ch
-leadio.ch
 leadiq-systems.ch
 leadique.ch
 leadit.ch
@@ -2774,6 +2772,7 @@ leandrazehnder.ch
 leandre-carrera.ch
 leandre.ch
 leandrea.ch
+leandrelack.ch
 leandrems9.ch
 leandrinks.ch
 leandro-amsler.ch
@@ -3154,7 +3153,6 @@ learnanywhere.ch
 learnapp.ch
 learnathletics.ch
 learnbase.ch
-learnbasics.ch
 learnbasketball.ch
 learnbeat.ch
 learnbetter.ch
@@ -5692,6 +5690,7 @@ lebenswelt-wald.ch
 lebenswelt.ch
 lebenswelten.ch
 lebensweltwald.ch
+lebenswende.ch
 lebenswerk-anfrage.ch
 lebenswerk-home.ch
 lebenswerk-physiotherapie.ch
@@ -9566,7 +9565,6 @@ legal-professionals.ch
 legal-prompting.ch
 legal-protection-insurance-comparison.ch
 legal-protection.ch
-legal-romandie.ch
 legal-schweiz.ch
 legal-service.ch
 legal-services.ch
@@ -9597,6 +9595,7 @@ legal1896.ch
 legal24.ch
 legal2go.ch
 legal300.ch
+legal360.ch
 legal4ict.ch
 legal7.ch
 legalacademy.ch
@@ -12201,6 +12200,7 @@ leichtimfluss.ch
 leichtkochen.ch
 leichtkraft.ch
 leichtkran.ch
+leichtkrane.ch
 leichtkransystem.ch
 leichtkuechen.ch
 leichtle.ch
@@ -13207,6 +13207,8 @@ lejazzdepapa.ch
 lejdastaz.ch
 lejdj.ch
 lejds.ch
+leje-immobilie.ch
+leje-immobilien.ch
 leje.ch
 lejetdeaudegeneve.ch
 lejetdeaugeneve.ch
@@ -15921,6 +15923,7 @@ lenny-leibundgut.ch
 lenny-paquot.ch
 lenny.ch
 lennyboss.ch
+lennyhaynes.ch
 lennyhoerdt.ch
 lennyhofer.ch
 lennyholding.ch
@@ -16906,6 +16909,7 @@ leokunststoffe.ch
 leola-kids.ch
 leola.ch
 leolab.ch
+leolack.ch
 leolaesser.ch
 leolafasel.ch
 leoland.ch
@@ -19035,6 +19039,7 @@ lern-flow.ch
 lern-fokus.ch
 lern-forum.ch
 lern-freude.ch
+lern-funke.ch
 lern-garten.ch
 lern-gern.ch
 lern-gestaltung.ch
@@ -19736,6 +19741,7 @@ lernfuchstraining.ch
 lernfundament.ch
 lernfunke.ch
 lernfunken.ch
+lernfunkenraum.ch
 lernfutter.ch
 lernfux-training.ch
 lernfux.ch
@@ -19768,6 +19774,7 @@ lernguru.ch
 lerngut.ch
 lernhack.ch
 lernhacks.ch
+lernhafen.ch
 lernhaltestelle.ch
 lernhart.ch
 lernhaus-sole.ch
@@ -20186,6 +20193,7 @@ lernsinn.ch
 lernsinnflow.ch
 lernsmart.ch
 lernsoftware.ch
+lernspace.ch
 lernspass-andreavetsch.ch
 lernspass-waedenswil.ch
 lernspass-waedi.ch
@@ -21220,6 +21228,7 @@ les-jardins-de-chantemerle.ch
 les-jardins-de-cocagne.ch
 les-jardins-de-crans.ch
 les-jardins-de-julie.ch
+les-jardins-de-l-ame.ch
 les-jardins-de-lully.ch
 les-jardins-de-mona.ch
 les-jardins-de-plan-conthey.ch
@@ -24374,7 +24383,6 @@ lesnuitsblanches.ch
 lesnuitsdousses.ch
 lesnuitsdusolstice.ch
 lesnus.ch
-leso.ch
 lesoal-luzern.ch
 lesoart.ch
 lesobasseires.ch
@@ -24651,7 +24659,6 @@ lespetitscarres.ch
 lespetitschampions.ch
 lespetitschanteursalagueuledebois.ch
 lespetitschronos.ch
-lespetitscoeurs.ch
 lespetitsculottes.ch
 lespetitsdeclics.ch
 lespetitsdejeuners.ch
@@ -25936,6 +25943,7 @@ letigrevanille.ch
 letikett.ch
 letilleul-matran.ch
 letilleul.ch
+letilleulenchanteur.ch
 letima.ch
 letimatou.ch
 letimbre-classique.ch
@@ -27742,6 +27750,7 @@ leuzgis.ch
 leuzi.ch
 leuzigen.ch
 leuzigen24.ch
+leuzinger-advisory.ch
 leuzinger-architektur.ch
 leuzinger-bass.ch
 leuzinger-benz.ch

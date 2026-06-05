@@ -1229,6 +1229,7 @@ clasen.ch
 clasesdecanto.ch
 clash-a-thon.ch
 clash-event.ch
+clash-gg.ch
 clash-lausanne.ch
 clash-of-civilizations.ch
 clash-zuerich.ch
@@ -1262,6 +1263,7 @@ clasimmo.ch
 clasine.ch
 clasineah.ch
 clasio.ch
+clasmus.ch
 claso.ch
 clasoffice.ch
 clasohlson.ch
@@ -2593,7 +2595,6 @@ claudiaimfeld.ch
 claudiainglin.ch
 claudiajahn.ch
 claudiajann.ch
-claudiajenni.ch
 claudiajennikommunikation.ch
 claudiajeuch.ch
 claudiajoehr.ch
@@ -3762,7 +3763,6 @@ clean-patrol.ch
 clean-place.ch
 clean-planet.ch
 clean-point.ch
-clean-pool.ch
 clean-power-exchange.ch
 clean-pro.ch
 clean-produkte.ch
@@ -3802,6 +3802,7 @@ clean-stgallen.ch
 clean-stop.ch
 clean-street.ch
 clean-studio.ch
+clean-sweat.ch
 clean-swift.ch
 clean-swiss.ch
 clean-system.ch
@@ -3870,6 +3871,7 @@ clean4youag.ch
 clean9-gesundgeniessen.ch
 clean9.ch
 clean99.ch
+cleana-nettoyage.ch
 cleana.ch
 cleanabo.ch
 cleanacademy.ch
@@ -4277,6 +4279,7 @@ cleaningfairys.ch
 cleaningfee.ch
 cleaningforce.ch
 cleaningforyou.ch
+cleaningguru.ch
 cleaninghelp.ch
 cleaninghero.ch
 cleaningheroes.ch
@@ -4674,6 +4677,7 @@ cleantiger.ch
 cleantime.ch
 cleanto.ch
 cleantogether.ch
+cleantogo.ch
 cleantomb.ch
 cleantop-nettoyage.ch
 cleantopazemi.ch
@@ -4753,6 +4757,7 @@ cleanwood.ch
 cleanwoodcapital.ch
 cleanwoodfirst.ch
 cleanwork.ch
+cleanworks.ch
 cleanworld.ch
 cleanworldsystems.ch
 cleanx-hauswartungen.ch
@@ -5104,6 +5109,8 @@ clearwealth.ch
 clearwebsites.ch
 clearwell.ch
 clearwhey.ch
+clearwork.ch
+clearworks.ch
 cleary.ch
 clearyl.ch
 clearyourparcel.ch
@@ -5247,6 +5254,7 @@ clemencecordey.ch
 clemencefriedli.ch
 clemenceseydoux.ch
 clemencon-rieser.ch
+clemendine.ch
 clemens-bussinger.ch
 clemens-clementine.ch
 clemens-en-august.ch
@@ -5427,6 +5435,7 @@ cleo-betra.ch
 cleo-bucher.ch
 cleo-chocolate.ch
 cleo-consultingag.ch
+cleo-magie.ch
 cleo-yan.ch
 cleo.ch
 cleoag.ch
@@ -5557,6 +5566,7 @@ clerverimmo.ch
 clerwi.ch
 clerzak.ch
 cles-allschwil.ch
+cles-auto-geneve.ch
 cles-ces.ch
 cles-de-guerison.ch
 cles-dom.ch
@@ -5588,6 +5598,7 @@ clesonline.ch
 clespourapprendre.ch
 clessidra-kosmetik.ch
 clessidra.ch
+clessticino.ch
 clesswiss.ch
 clesta-architektur.ch
 clestington.ch
@@ -6746,6 +6757,7 @@ clickspin.ch
 clickspot.ch
 clickstar-fashion.ch
 clickstar.ch
+clickstories.ch
 clickswiss.ch
 clicktax.ch
 clicktest.ch
@@ -7142,6 +7154,7 @@ climanosco.ch
 climanova.ch
 climanow.ch
 climapart.ch
+climaplan.ch
 climaplus.ch
 climapoint.ch
 climaporta.ch
@@ -9854,6 +9867,7 @@ cloudilix.ch
 cloudindustry.ch
 cloudine.ch
 cloudinfo.ch
+cloudinfoc.ch
 cloudinfoniqa.ch
 cloudinfra.ch
 cloudingo.ch
@@ -10746,7 +10760,6 @@ club-brands.ch
 club-bso.ch
 club-bszz.ch
 club-buehnenbern.ch
-club-c.ch
 club-cabo-verde.ch
 club-caboverde.ch
 club-california.ch
@@ -11310,7 +11323,6 @@ clubbso.ch
 clubbuehnenbern.ch
 clubbus.ch
 clubby.ch
-clubc.ch
 clubcaballopasoperuano.ch
 clubcafe-kerzers.ch
 clubcalao.ch

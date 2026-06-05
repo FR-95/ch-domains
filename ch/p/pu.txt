@@ -340,6 +340,7 @@ publicationsfederales.ch
 publicationsneo.ch
 publicationsromandes.ch
 publicator.ch
+publicaudit.ch
 publicbank.ch
 publicbar.ch
 publicbathroom.ch
@@ -505,7 +506,6 @@ publicover.ch
 publicparadise.ch
 publicpartner.ch
 publicpass.ch
-publicpath.ch
 publicperform.ch
 publicpingpong.ch
 publicplan.ch
@@ -3421,7 +3421,6 @@ puravida-stiftung.ch
 puravida-wohnen.ch
 puravida-zh.ch
 puravidacarolina.ch
-puravidacoaching.ch
 puravidacomm.ch
 puravidacostarica.ch
 puravidaheadspa.ch
@@ -4494,6 +4493,7 @@ purewaterholding.ch
 purewatermusic.ch
 purewaterpot.ch
 purewatertech.ch
+purewavespa.ch
 pureway.ch
 purewealth.ch
 purewealthmanagement.ch

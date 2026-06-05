@@ -1198,6 +1198,7 @@ eigenheimbegleitung.ch
 eigenheimbern.ch
 eigenheimboerse.ch
 eigenheimbuenzen.ch
+eigenheimcheck.ch
 eigenheimcoach.ch
 eigenheimcockpit.ch
 eigenheime.ch
@@ -2328,6 +2329,7 @@ einfach-einfach.ch
 einfach-einfacher-lernen.ch
 einfach-einkaufen.ch
 einfach-eltern.ch
+einfach-empathisch.ch
 einfach-energiesparen.ch
 einfach-erfahrungsberichte.ch
 einfach-erfolgreich-lernen.ch
@@ -2684,6 +2686,7 @@ einfacheingemacht.ch
 einfacheinkaufen.ch
 einfacheloesung.ch
 einfachelosung.ch
+einfachempathisch.ch
 einfachenergie.ch
 einfachentsorgen.ch
 einfachentspannt.ch

@@ -139,10 +139,8 @@ aaa-fahrschule.ch
 aaa-finanz.ch
 aaa-fricktal.ch
 aaa-group.ch
-aaa-gruppe.ch
 aaa-ha.ch
 aaa-hin.ch
-aaa-holding.ch
 aaa-holzdesign.ch
 aaa-homepage.ch
 aaa-hypnocoach.ch
@@ -842,7 +840,6 @@ aao.ch
 aaoc.ch
 aaoccc.ch
 aaocl.ch
-aaofxb.ch
 aaoi.ch
 aaooh.ch
 aaoptik.ch
@@ -1013,7 +1010,9 @@ aarau2.ch
 aarau2010.ch
 aarau2015.ch
 aarau2019.ch
+aarau2030.ch
 aarau24.ch
+aarau30.ch
 aarau360.ch
 aarauabz.ch
 aarauanwalt.ch
@@ -1105,6 +1104,7 @@ aarauonline.ch
 aarauost.ch
 aarauregio.ch
 aaraurohr.ch
+aarausal.ch
 aaraushiatsu.ch
 aaraushop.ch
 aaraushopping.ch
@@ -2204,6 +2204,7 @@ aarlantispark.ch
 aarli.ch
 aarlux.ch
 aarmail.ch
+aarmattweg55.ch
 aarmedia.ch
 aarmedtechsolutions.ch
 aarmobil.ch
@@ -2502,7 +2503,6 @@ aato.ch
 aatos.ch
 aatrad.ch
 aatransport.ch
-aatransporte.ch
 aatransportprive.ch
 aatreuhand.ch
 aatronic.ch

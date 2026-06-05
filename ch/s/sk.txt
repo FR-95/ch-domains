@@ -2677,6 +2677,7 @@ skin-clear.ch
 skin-clinic-dermonde.ch
 skin-clinic.ch
 skin-clinique.ch
+skin-club.ch
 skin-concept.ch
 skin-cos.ch
 skin-cosmetic.ch
@@ -2898,6 +2899,7 @@ skindeepart.ch
 skindeluxe.ch
 skindentity.ch
 skinderella.ch
+skinderm.ch
 skinderma.ch
 skindermacare.ch
 skindesicion.ch
@@ -2987,6 +2989,7 @@ skinheads.ch
 skinhealth.ch
 skinheaven.ch
 skinhelp.ch
+skinhouse.ch
 skinhub.ch
 skini.ch
 skinic.ch
@@ -4618,7 +4621,6 @@ sksolothurn.ch
 sksolutions.ch
 sksolutionscourtage.ch
 sksr.ch
-sksracing.ch
 sksroltec.ch
 skss.ch
 sksteiner.ch

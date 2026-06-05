@@ -6,6 +6,7 @@ pd-bs.ch
 pd-consulting.ch
 pd-dental.ch
 pd-design.ch
+pd-egt.ch
 pd-energieplanung.ch
 pd-factory.ch
 pd-gartenbau.ch
@@ -339,6 +340,7 @@ pdpcareerhub.ch
 pdpeurope.ch
 pdpfister.ch
 pdpro.ch
+pdptsa.ch
 pdqcompany.ch
 pdr-quality.ch
 pdr-ribo.ch

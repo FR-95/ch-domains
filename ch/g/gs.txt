@@ -37,6 +37,7 @@ gs-check.ch
 gs-cloud.ch
 gs-coaching.ch
 gs-coachingstudio.ch
+gs-com.ch
 gs-consult.ch
 gs-consultants.ch
 gs-courchapoix.ch
@@ -78,6 +79,7 @@ gs-haustechnik.ch
 gs-hauswartung.ch
 gs-hodel.ch
 gs-holding.ch
+gs-hospitality.ch
 gs-hygiene.ch
 gs-immobilien.ch
 gs-immobilier.ch
@@ -92,6 +94,7 @@ gs-keramik.ch
 gs-kleider.ch
 gs-konstruktion.ch
 gs-kultur-netzwerk.ch
+gs-landtechnik.ch
 gs-laser.ch
 gs-limousine.ch
 gs-livetest.ch
@@ -190,6 +193,7 @@ gs4.ch
 gs4wsd.ch
 gs4y.ch
 gs7.ch
+gs83.ch
 gs911.ch
 gs99.ch
 gsa-aargau.ch
@@ -897,6 +901,7 @@ gsl-shop.ch
 gsl.ch
 gsla.ch
 gslag.ch
+gslandtechnik.ch
 gslaser.ch
 gslaw.ch
 gslaxus.ch
@@ -1255,6 +1260,7 @@ gstaad59.ch
 gstaadacademy.ch
 gstaadadventure.ch
 gstaadairport.ch
+gstaadalpine.ch
 gstaadam.ch
 gstaadart.ch
 gstaadarts.ch
@@ -1316,6 +1322,7 @@ gstaadglobalfamilyoffice.ch
 gstaadgourmet.ch
 gstaadgpt.ch
 gstaadguide.ch
+gstaadheritage.ch
 gstaadhome.ch
 gstaadhomeag.ch
 gstaadhotels.ch
@@ -1332,6 +1339,7 @@ gstaadlauenen.ch
 gstaadlaw.ch
 gstaadlife.ch
 gstaadlimo.ch
+gstaadlove.ch
 gstaadlover.ch
 gstaadlovers.ch
 gstaadmail.ch
@@ -1668,7 +1676,6 @@ gsvs-penthalaz.ch
 gsvz.ch
 gsw-basel.ch
 gsw-consulting.ch
-gsw-global-consult.ch
 gsw-luzern.ch
 gsw-partner.ch
 gsw-tools.ch

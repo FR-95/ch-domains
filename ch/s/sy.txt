@@ -374,7 +374,6 @@ sygnate.ch
 sygnature.ch
 sygnif.ch
 sygnifikant.ch
-sygnius.ch
 sygns.ch
 sygnum.ch
 sygnumintra.ch
@@ -682,6 +681,7 @@ sylviabuehler.ch
 sylviafelix.ch
 sylviagabriel.ch
 sylviagoeschke.ch
+sylviagreif.ch
 sylviahartmann.ch
 sylviaheckendorn.ch
 sylviahostettler.ch
@@ -1393,6 +1393,7 @@ synacon.ch
 synact.ch
 synacthen.ch
 synacts.ch
+synadesk.ch
 synadiet.ch
 synadoc.ch
 synadvice.ch
@@ -2144,7 +2145,6 @@ synetis.ch
 synetix-lab.ch
 synetix.ch
 synetos.ch
-synetronics.ch
 synetude.ch
 syneval.ch
 synevita.ch
@@ -2161,6 +2161,7 @@ synexin.ch
 synexio.ch
 synexis-holding.ch
 synexis-platform.ch
+synexis-sa.ch
 synexis.ch
 synexisgroupe.ch
 synexity.ch
@@ -3222,11 +3223,15 @@ system2.ch
 system23.ch
 system360.ch
 system3r.ch
+system4-light.ch
+system4-lite.ch
 system4-welt.ch
 system4.ch
 system404.ch
 system42.ch
 system4bodyreset.ch
+system4light.ch
+system4lite.ch
 system51.ch
 system64.ch
 system81.ch

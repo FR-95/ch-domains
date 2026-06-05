@@ -684,6 +684,7 @@ la-galerie.ch
 la-gambade.ch
 la-gamelle.ch
 la-garde.ch
+la-gardienne.ch
 la-gare.ch
 la-garenne.ch
 la-gauche-vsr.ch
@@ -857,7 +858,6 @@ la-lorelei.ch
 la-lorettaz-villorsonnens.ch
 la-lorraine.ch
 la-louche.ch
-la-loutre-inkception.ch
 la-louve-lsn.ch
 la-louve.ch
 la-louviere.ch
@@ -2238,6 +2238,7 @@ labarsch.ch
 labarte.ch
 labas-vouvry.ch
 labas.ch
+labase-shop.ch
 labase-vd8surfcenter.ch
 labase.ch
 labasedulieu.ch
@@ -3084,6 +3085,7 @@ labo-svr.ch
 labo-t-suisse.ch
 labo-tech.ch
 labo-vertliberal.ch
+labo-wellnops.ch
 labo.ch
 labo109.ch
 labo19.ch
@@ -4226,7 +4228,6 @@ labubu-popmart.ch
 labubu-shop.ch
 labubu.ch
 labububox.ch
-labubufriends.ch
 labubuhoney.ch
 labubuland.ch
 labubulux.ch
@@ -6393,6 +6394,7 @@ lademacher.ch
 lademanagement.ch
 lademann.ch
 lademarche.ch
+lademeister.ch
 lademeure.ch
 lademittel-boerse.ch
 lademittelboerse.ch
@@ -8078,7 +8080,6 @@ lafemme-cosmetic.ch
 lafemme-lashes.ch
 lafemme.ch
 lafemmeaucentre.ch
-lafemmecosmetic.ch
 lafemmedemenage.ch
 lafemmefleur.ch
 lafemmelumiere.ch
@@ -8848,6 +8849,7 @@ lagerabteil.ch
 lagerabverkauf-zurich.ch
 lageraesch.ch
 lagerance.ch
+lagerance360.ch
 lagerarbeit.ch
 lagerartikel.ch
 lagerausverkauf.ch
@@ -10896,6 +10898,7 @@ lakka.ch
 lakki.ch
 lakkritz.ch
 laklandestine.ch
+laklaw.ch
 laklick.ch
 laklinik.ch
 lakmarketing.ch
@@ -12424,7 +12427,6 @@ lamenestrelle.ch
 lamenoire.ch
 lamenopausefaitsoncinema.ch
 lamensaeilgregge.ch
-lamenu.ch
 lamenude.ch
 lamenuiserie-lutry.ch
 lamenuiserie-vandoeuvres.ch
@@ -13511,6 +13513,7 @@ lancycentre.ch
 lancyclopede.ch
 lancyenete.ch
 lancyfc.ch
+lancylingo.ch
 lancypilates.ch
 lancyplobasket.ch
 lancyplohand.ch
@@ -23735,6 +23738,7 @@ laufbahnaarau.ch
 laufbahnagentur.ch
 laufbahnanalyse.ch
 laufbahnatelier.ch
+laufbahnazimut.ch
 laufbahnb.ch
 laufbahnberater.ch
 laufbahnberaterin.ch
@@ -24335,7 +24339,6 @@ lauperswil-klasse87-88.ch
 lauperswil.ch
 lauperswil24.ch
 lauperzemp.ch
-lauplin.ch
 laupper.ch
 laupperclassics.ch
 lauquin.ch
@@ -25315,6 +25318,7 @@ laurinluepold.ch
 laurinmannhart.ch
 laurinmomo.ch
 laurinmurer.ch
+laurinnagel.ch
 laurinneff.ch
 laurinschaub.ch
 laurinschmid.ch
@@ -25502,6 +25506,7 @@ lausanne-ouchy.ch
 lausanne-ouest.ch
 lausanne-palace.ch
 lausanne-participe.ch
+lausanne-pass.ch
 lausanne-pedopsychiatrie.ch
 lausanne-peintre.ch
 lausanne-peinture.ch
@@ -25728,7 +25733,6 @@ lausannerockets.ch
 lausanneroule.ch
 lausannerugby.ch
 lausannerunclub.ch
-lausannerunners.ch
 lausannesalonmariage.ch
 lausanneshoulder.ch
 lausanneskateboardclub.ch
@@ -26127,6 +26131,7 @@ lavalleedejoux.ch
 lavalleedeleau.ch
 lavalleedesruzes.ch
 lavalleedilliezracontee.ch
+lavalleeoutdoor.ch
 lavalleepaysage.ch
 lavalleeservice.ch
 lavalleespa.ch
@@ -26479,7 +26484,6 @@ lavendelpark.ch
 lavendelpunkt.ch
 lavendelreinigung.ch
 lavendelreinigungen.ch
-lavendelshop.ch
 lavendeltraum.ch
 lavendeltussi.ch
 lavendelwerk.ch
@@ -26634,7 +26638,6 @@ laviavocat.ch
 laviavocats.ch
 lavibe.ch
 lavibella.ch
-lavicare.ch
 lavicenne.ch
 lavicennes.ch
 lavicommerce.ch

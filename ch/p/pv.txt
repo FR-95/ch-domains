@@ -19,6 +19,7 @@ pv-bench.ch
 pv-berater-finden.ch
 pv-beratung-schweiz.ch
 pv-beratung.ch
+pv-bern.ch
 pv-besitzer.ch
 pv-best.ch
 pv-blechziegel.ch
@@ -374,7 +375,9 @@ pvfl-hin.ch
 pvflex.ch
 pvfr.ch
 pvfuchs.ch
+pvg-engineering.ch
 pvg-solutions.ch
+pvg-verkehr.ch
 pvg.ch
 pvgk.ch
 pvgmbh.ch

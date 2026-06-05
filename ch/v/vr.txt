@@ -3,6 +3,7 @@ vr-a.ch
 vr-academy.ch
 vr-advisory.ch
 vr-ag.ch
+vr-ai.ch
 vr-akademie.ch
 vr-app.ch
 vr-apps.ch
@@ -243,7 +244,6 @@ vrbrille.ch
 vrbrillen.ch
 vrbs.ch
 vrc.ch
-vrcade.ch
 vrcafe.ch
 vrcardboard.ch
 vrcas.ch

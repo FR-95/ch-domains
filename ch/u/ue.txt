@@ -62,6 +62,7 @@ ueberall.ch
 ueberalldahei.ch
 ueberalleberge.ch
 ueberallfernsehen.ch
+ueberallservices.ch
 ueberallumzug.ch
 ueberarbeitig.ch
 ueberarztung.ch
@@ -194,7 +195,6 @@ ueberraschungsreisen.ch
 ueberreiche.ch
 ueberrschungs-brief.ch
 uebersaeuerung.ch
-uebersauber.ch
 uebersax-ag.ch
 uebersax-ht.ch
 uebersax-widmer.ch
@@ -752,6 +752,7 @@ uepdashboard.ch
 ueppick.ch
 ueps.ch
 uer.ch
+uera.ch
 ueranuez.ch
 uerba.ch
 uere.ch

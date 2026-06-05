@@ -609,6 +609,7 @@ tcg24.ch
 tcg3dprints-shop.ch
 tcgaehwil.ch
 tcgalena.ch
+tcgalerts.ch
 tcgames.ch
 tcgams.ch
 tcgart.ch
@@ -754,6 +755,7 @@ tcherkassov.ch
 tchero.ch
 tcherrliberg.ch
 tchette.ch
+tcheu.ch
 tcheucestbeau.ch
 tcheucestbon.ch
 tcheuctequipe.ch

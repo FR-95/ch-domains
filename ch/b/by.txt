@@ -300,6 +300,7 @@ byd-pratteln.ch
 byd-rapperswil-jona.ch
 byd-remetschwil.ch
 byd-rheintal.ch
+byd-schlieren.ch
 byd-schwaller.ch
 byd-schweiz.ch
 byd-schwyz.ch
@@ -318,6 +319,7 @@ byd-trucks.ch
 byd-valais.ch
 byd-vaud.ch
 byd-yverdon.ch
+byd-zuerich.ch
 byd-zuerichsee.ch
 byd.ch
 byd2go.ch
@@ -510,6 +512,7 @@ bygilyana.ch
 bygiorgio.ch
 bygiovanoli.ch
 bygodi.ch
+bygoetschi.ch
 bygoldig.ch
 bygoodiebox.ch
 bygostay.ch
@@ -1074,7 +1077,6 @@ bytehire.ch
 bytehouse.ch
 bytehub.ch
 bytehype.ch
-byteid.ch
 byteinto.ch
 byteinvader.ch
 byteit.ch
@@ -1212,6 +1214,7 @@ bytiril.ch
 bytit.ch
 bytix.ch
 bytixlab.ch
+bytler.ch
 bytnex.ch
 bytobias.ch
 bytom-capital.ch

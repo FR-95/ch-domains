@@ -18,6 +18,7 @@ ki-agenten-service.ch
 ki-agenten.ch
 ki-agents.ch
 ki-agentur-schweiz.ch
+ki-agentur-zuerich.ch
 ki-agentur.ch
 ki-agenturen.ch
 ki-ahnig.ch
@@ -104,6 +105,7 @@ ki-berater.ch
 ki-beraterportal.ch
 ki-beratung-fuer-unternehmen.ch
 ki-beratung-schweiz.ch
+ki-beratung-zuerich.ch
 ki-beratung.ch
 ki-beratungsagentur.ch
 ki-bergfuehrer.ch
@@ -720,6 +722,8 @@ ki-schmiede.ch
 ki-schule.ch
 ki-schule24.ch
 ki-schulkompass.ch
+ki-schulung-schweiz.ch
+ki-schulung-zuerich.ch
 ki-schulung.ch
 ki-schulungen.ch
 ki-schweiz.ch
@@ -831,6 +835,7 @@ ki-telefonassistent.ch
 ki-telefonassistenten.ch
 ki-telefondienst.ch
 ki-telefonzentrale.ch
+ki-ten.ch
 ki-test.ch
 ki-testing.ch
 ki-text-humanizer.ch
@@ -1230,6 +1235,7 @@ kiastinger.ch
 kiastonic.ch
 kiastories.ch
 kiastorys.ch
+kiata.ch
 kiatelier.ch
 kiatlas.ch
 kiatoria-sushi.ch
@@ -2624,6 +2630,7 @@ kidszone.ch
 kidszurich.ch
 kidte.ch
 kidtini.ch
+kidtoonia.ch
 kidtrauma.ch
 kidtube.ch
 kidu.ch
@@ -3536,6 +3543,7 @@ kihausarzt.ch
 kihe.ch
 kihelfer.ch
 kihelferli.ch
+kihelp.ch
 kihelpers.ch
 kiheroes.ch
 kiherrin.ch
@@ -3721,6 +3729,7 @@ kikialfajorcitos.ch
 kikibo.ch
 kikiboe.ch
 kikicandyk.ch
+kikiclub.ch
 kikicooksfit.ch
 kikident.ch
 kikidis.ch
@@ -3772,6 +3781,7 @@ kikmu.ch
 kiknet-flughafenzuerich.ch
 kiknet-herz.ch
 kiknet-reismuehle-nutrex.ch
+kiknet-schulreiseland.ch
 kiknet-swisstopo.ch
 kiknet-victorinox.ch
 kiknet.ch
@@ -3968,6 +3978,7 @@ kilchoermetallbau.ch
 kilchoman.ch
 kilchsperger-baeckerei.ch
 kilchsperger.ch
+kilcon.ch
 kilde.ch
 kildeq.ch
 kilea.ch
@@ -7331,6 +7342,7 @@ kinderschachschule.ch
 kinderschachschulen.ch
 kinderschall.ch
 kinderschatz.ch
+kinderschatzsuche.ch
 kinderschatzsuchen.ch
 kinderschaukel.ch
 kinderschaukeln.ch
@@ -7936,6 +7948,7 @@ kinderwunschzentrumbaden.ch
 kinderwunschzentrumostschweiz.ch
 kinderyoga-aarau.ch
 kinderyoga-anna.ch
+kinderyoga-ausbildung-winterthur.ch
 kinderyoga-ausbildung.ch
 kinderyoga-kreuzlingen.ch
 kinderyoga-pippilotta.ch
@@ -8637,7 +8650,6 @@ kinesio-basel.ch
 kinesio-care.ch
 kinesio-coach.ch
 kinesio-elise.ch
-kinesio-energetique.ch
 kinesio-energie-yverdon.ch
 kinesio-forum.ch
 kinesio-grandson.ch
@@ -10552,6 +10564,7 @@ kinozurich.ch
 kinplus.ch
 kinpro.ch
 kinra-therapie.ch
+kinra.ch
 kinred.ch
 kinrestaurant.ch
 kins.ch
@@ -12677,7 +12690,6 @@ kispi-anaesthesie.ch
 kispi-chirurgie.ch
 kispi-clowns.ch
 kispi-ips.ch
-kispi-jobs.ch
 kispi-luzern.ch
 kispi-neubau.ch
 kispi-ost.ch
@@ -12691,7 +12703,6 @@ kispi-zs.ch
 kispi.ch
 kispiball.ch
 kispiclowns.ch
-kispijobs.ch
 kispiluzern.ch
 kispiost.ch
 kispisg.ch

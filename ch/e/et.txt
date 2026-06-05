@@ -1,6 +1,7 @@
 et-18.ch
 et-3000.ch
 et-ag.ch
+et-al.ch
 et-art.ch
 et-b.ch
 et-caetera.ch
@@ -2254,7 +2255,6 @@ etreunpeu.ch
 etrevaillant.ch
 etrevu.ch
 etrevumarcom.ch
-etrevus.ch
 etrex-creative.ch
 etrex-design.ch
 etrex-helpdesk.ch
@@ -2755,6 +2755,7 @@ etude-nvb.ch
 etude-nvle.ch
 etude-oberson.ch
 etude-oswald.ch
+etude-ott.ch
 etude-owp.ch
 etude-page.ch
 etude-pannatier.ch

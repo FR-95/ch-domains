@@ -68,7 +68,6 @@ hb-life.ch
 hb-lures.ch
 hb-lzz.ch
 hb-malerarbeiten.ch
-hb-marketplace.ch
 hb-massagen.ch
 hb-media.ch
 hb-mediaworks.ch
@@ -859,7 +858,6 @@ hbmail.ch
 hbmalerei.ch
 hbmanagement.ch
 hbmarketing.ch
-hbmarketplace.ch
 hbmau.ch
 hbmbiocapital.ch
 hbmc-immo.ch

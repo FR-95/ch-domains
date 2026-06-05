@@ -20,6 +20,7 @@ gw24.ch
 gw5012.ch
 gw65.ch
 gw8.ch
+gw9.ch
 gwa-basel.ch
 gwa-energie.ch
 gwa-netz.ch
@@ -54,6 +55,7 @@ gwaerb2023.ch
 gwaerb26.ch
 gwaerb27.ch
 gwaerb29.ch
+gwaerbepark.ch
 gwaerbeschenbach.ch
 gwaerbhochdorf.ch
 gwaerbi-gz.ch

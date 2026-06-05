@@ -136,6 +136,7 @@ zebra7.ch
 zebraag.ch
 zebraapps.ch
 zebraart.ch
+zebrabar.ch
 zebrabird.ch
 zebrabox.ch
 zebrabrid.ch
@@ -1041,6 +1042,7 @@ zeilentaucher.ch
 zeilenweise.ch
 zeilenwelt.ch
 zeilenwerk.ch
+zeiler.ch
 zeilerag.ch
 zeilhoferlab.ch
 zeilinger.ch
@@ -2324,7 +2326,6 @@ zellobank.ch
 zellozelle.ch
 zellpharma.ch
 zellpower.ch
-zellradschleuse.ch
 zellreaktivtraining.ch
 zellreva.ch
 zellschutz.ch
@@ -3296,7 +3297,6 @@ zenia.ch
 zenial.ch
 zenicor.ch
 zenidune.ch
-zeniedil.ch
 zenify.ch
 zenik.ch
 zenika.ch
@@ -3811,7 +3811,6 @@ zentimeter.ch
 zentino.ch
 zentior.ch
 zentipe.ch
-zentiq.ch
 zentiro.ch
 zentis.ch
 zentit.ch
@@ -5838,6 +5837,7 @@ zerounosolution.ch
 zerouptime.ch
 zerovatech.ch
 zerovation.ch
+zerovault.ch
 zeroverbier.ch
 zerovia.ch
 zerovirgule.ch
@@ -6294,6 +6294,7 @@ zeughaus-jazz.ch
 zeughaus-schwyz.ch
 zeughaus-sg.ch
 zeughaus-uster.ch
+zeughaus-zurich.ch
 zeughaus.ch
 zeughaus1.ch
 zeughausareal-rapperswil-jona.ch

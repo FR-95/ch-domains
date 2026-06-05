@@ -465,7 +465,6 @@ black-transfer.ch
 black-ueli.ch
 black-unicorn.ch
 black-velvet.ch
-black-vest.ch
 black-village.ch
 black-virus.ch
 black-water.ch
@@ -1604,7 +1603,6 @@ blackvault.ch
 blackvelvet.ch
 blackvelvetlimo.ch
 blackvelvetsound.ch
-blackvest.ch
 blackview.ch
 blackviper.ch
 blackvirgin.ch
@@ -2448,7 +2446,6 @@ blaser-troesch.ch
 blaser-ur.ch
 blaser-verkauft.ch
 blaser-vermarktet.ch
-blaser-verwaltet.ch
 blaser-zimmerei-forstarbeiten.ch
 blaser.ch
 blaser6064.ch
@@ -2699,7 +2696,6 @@ blattbau.ch
 blatten-belalp.ch
 blatten-elektrisiert.ch
 blatten-forever.ch
-blatten-hilfe.ch
 blatten-panthers.ch
 blatten-vs.ch
 blatten-zermatt.ch
@@ -7136,7 +7132,6 @@ blossomcompany.ch
 blossomconsulting.ch
 blossomcroft-labradors.ch
 blossomdivine.ch
-blossome.ch
 blossomevent.ch
 blossomfriends.ch
 blossomglow.ch
@@ -7231,7 +7226,6 @@ blowmolding-dipn.ch
 blown.ch
 blowndesign.ch
 blowoff.ch
-blowout.ch
 blowoutyourmind.ch
 blowsafe.ch
 blowtherm.ch
@@ -9416,6 +9410,7 @@ blueskydive.ch
 blueskyeleven.ch
 blueskyenergy.ch
 blueskyfinance.ch
+blueskygroup.ch
 blueskyholding.ch
 blueskyholdings.ch
 blueskyinternational.ch
@@ -9429,6 +9424,7 @@ blueskypiper.ch
 blueskysa.ch
 blueskysat.ch
 blueskysear.ch
+blueskywealth.ch
 blueskyweb.ch
 blueskyy.ch
 blueslee.ch
@@ -9981,6 +9977,7 @@ bluhat.ch
 bluhbirne-coaching.ch
 bluhm.ch
 bluhmsysteme.ch
+bluhorn.ch
 bluhouse.ch
 bluhuus.ch
 bluimmo.ch
@@ -11142,6 +11139,7 @@ blummart.ch
 blummelanie.ch
 blumnutrition.ch
 blumo.ch
+blumonti.ch
 blumoon.ch
 blumotion.ch
 blumpat.ch
@@ -11614,12 +11612,12 @@ blv-tierschutzbericht.ch
 blv.ch
 blvalsa.ch
 blvb.ch
-blvck-vest.ch
 blvck.ch
 blvckalphv.ch
+blvckart-tatoo.ch
+blvckart-tattoo.ch
 blvckart.ch
 blvcknoir.ch
-blvckvest.ch
 blvd-club.ch
 blvd-group.ch
 blvd.ch

@@ -2589,6 +2589,7 @@ poket.ch
 poketcg.ch
 poketia.ch
 poketicino.ch
+poketlibrary.ch
 poketreasure.ch
 pokett.ch
 poketto.ch
@@ -6927,6 +6928,7 @@ pontams.ch
 pontara.ch
 pontaris.ch
 pontarisswiss.ch
+pontaro-advisor.ch
 pontaro.ch
 pontarolo.ch
 pontarose.ch
@@ -7173,7 +7175,6 @@ pony-zeit.ch
 pony.ch
 pony1x1.ch
 ponyab.ch
-ponyabenteuer-merenschwand.ch
 ponyabenteuer.ch
 ponyakademie.ch
 ponyausbildung.ch
@@ -7968,7 +7969,6 @@ pop-up-cards.ch
 pop-up-concept.ch
 pop-up-diner.ch
 pop-up-event.ch
-pop-up-exhibition.ch
 pop-up-galerie.ch
 pop-up-gallery.ch
 pop-up-glamping.ch
@@ -8548,7 +8548,6 @@ popup-diner.ch
 popup-dinner.ch
 popup-escape.ch
 popup-event.ch
-popup-exhibition.ch
 popup-factory.ch
 popup-food.ch
 popup-gallery.ch
@@ -12203,6 +12202,7 @@ posturepals.ch
 postureparfaite.ch
 posturepilates.ch
 postureshirt.ch
+posturia.ch
 posturo.ch
 posturologia.ch
 posturologie.ch
@@ -14412,7 +14412,6 @@ powersoft.ch
 powersol.ch
 powersolar.ch
 powersolar24.ch
-powersolarsystems.ch
 powersolution.ch
 powersolutions.ch
 powersoulyoga.ch
@@ -14651,6 +14650,7 @@ poxy.ch
 poy-sian.ch
 poy.ch
 poya-2028.ch
+poya-association.ch
 poya-bruecke.ch
 poya-centre-shopping.ch
 poya-centre.ch

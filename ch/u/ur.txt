@@ -570,6 +570,7 @@ urbancity.ch
 urbanclass.ch
 urbanclassic.ch
 urbanclassics.ch
+urbancleaning.ch
 urbanclimate.ch
 urbanclimb.ch
 urbanclimber.ch
@@ -1388,6 +1389,7 @@ urdorferstrasse28.ch
 urdorfnord-haustechnik.ch
 urdorfnord.ch
 urdrive.ch
+urdrof.ch
 urdrogerie.ch
 urdu-uebersetzer.ch
 urdu.ch
@@ -2216,6 +2218,7 @@ urlaubsideen.ch
 urlaubsimmobilien.ch
 urlaubskalender.ch
 urlaubskassa.ch
+urlaubsknopf.ch
 urlaubsland.ch
 urlaubsmesse.ch
 urlaubsmietwagen.ch
@@ -2430,7 +2433,6 @@ urner-baecker.ch
 urner-baeuerinnen-wochenmarkt.ch
 urner-bagger.ch
 urner-bergkaese.ch
-urner-bierpfad.ch
 urner-bildkalender.ch
 urner-bueromaterial-express.ch
 urner-fahnenkarte.ch

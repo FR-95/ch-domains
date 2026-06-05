@@ -3241,7 +3241,6 @@ backer.ch
 backerei-hug-zurich.ch
 backerei-jung-altstetten.ch
 backereiberlingen.ch
-backereihoyer.ch
 backereihug-zurich.ch
 backereisoftware.ch
 backerelc.ch
@@ -9563,6 +9562,7 @@ baladedenoel.ch
 baladedescapites.ch
 baladedesvins-salgesch.ch
 baladedevernier.ch
+baladefamille.ch
 baladegourmande-courtion.ch
 baladegourmande-fcsemsales.ch
 baladegourmande-lecret.ch
@@ -10713,6 +10713,7 @@ balkan-events.ch
 balkan-expres.ch
 balkan-express.ch
 balkan-festival.ch
+balkan-folk.ch
 balkan-food.ch
 balkan-history.ch
 balkan-holidays.ch
@@ -10721,6 +10722,7 @@ balkan-market.ch
 balkan-metzgerei.ch
 balkan-news.ch
 balkan-raser.ch
+balkan-roots.ch
 balkan-shop.ch
 balkan-street-food-festival.ch
 balkan-streetfood.ch
@@ -10749,6 +10751,7 @@ balkanfestival.ch
 balkanfit.ch
 balkanflavours.ch
 balkanflow.ch
+balkanfolk.ch
 balkanfolkart.ch
 balkanfood.ch
 balkanfoods.ch
@@ -10779,6 +10782,7 @@ balkanpharmaceuticals.ch
 balkanraser.ch
 balkanreise.ch
 balkanreisen.ch
+balkanroots.ch
 balkans-best.ch
 balkans.ch
 balkansbest.ch
@@ -16843,6 +16847,7 @@ barberscout.ch
 barbershop-aarau.ch
 barbershop-aslan.ch
 barbershop-avdi.ch
+barbershop-azad.ch
 barbershop-basel.ch
 barbershop-brienz.ch
 barbershop-brig.ch
@@ -18681,6 +18686,7 @@ barpiano.ch
 barpicchio.ch
 barpinard.ch
 barpini.ch
+barpizzeriacortile.ch
 barplay.ch
 barpnet.ch
 barpoestli.ch
@@ -20229,7 +20235,6 @@ basel-schluesseldienst.ch
 basel-schneiderei.ch
 basel-schnitzelbangg.ch
 basel-schreinerei.ch
-basel-scooter.ch
 basel-selfstorage.ch
 basel-seminarhotels.ch
 basel-sexualtherapie.ch
@@ -20538,6 +20543,7 @@ baselerstaugust.ch
 baselescape.ch
 baselevent.ch
 baseleventlocations.ch
+baselex.ch
 baselexpress.ch
 baselfahrdienst.ch
 baselfamilyconcierge.ch
@@ -20773,6 +20779,7 @@ basellink.ch
 basellive.ch
 basellodge79.ch
 basellodging.ch
+basellokal.ch
 baselmagazin.ch
 baselmagic.ch
 baselmail.ch
@@ -23363,6 +23370,7 @@ batilab.ch
 batilac.ch
 batiland.ch
 batilavaux-construction.ch
+batilavaux.ch
 batilead.ch
 batileads.ch
 batilec.ch
@@ -25172,6 +25180,7 @@ bauchueberkopf.ch
 bauchundbaby.ch
 bauchundbabyfotos.ch
 bauchundherz.ch
+bauchverglei.ch
 bauchverstand.ch
 bauchvital.ch
 bauchwand.ch
@@ -25454,6 +25463,7 @@ baueinsprachen.ch
 bauelement.ch
 bauelemente-shop.ch
 bauelemente.ch
+bauen-abz.ch
 bauen-aktuell.ch
 bauen-an-der-aa.ch
 bauen-auf-alu.ch
@@ -27214,7 +27224,6 @@ baumann-informatik.ch
 baumann-innenausbau.ch
 baumann-international.ch
 baumann-investment.ch
-baumann-isoliert.ch
 baumann-it.ch
 baumann-jetishi.ch
 baumann-jona.ch

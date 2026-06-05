@@ -692,6 +692,7 @@ ai-prompt-academy.ch
 ai-prompt-award.ch
 ai-prompt.ch
 ai-prompta.ch
+ai-protect.ch
 ai-prototypes.ch
 ai-pulse.ch
 ai-q-suisse.ch
@@ -1051,6 +1052,7 @@ aiacta.ch
 aiactagroup.ch
 aiactmanager.ch
 aiadamassages.ch
+aiadmin.ch
 aiads.ch
 aiadvisor.ch
 aiadvisors.ch
@@ -1267,6 +1269,7 @@ aibs.ch
 aibssa.ch
 aibuddy.ch
 aibuero.ch
+aibuilder.ch
 aibuilt.ch
 aibusiness.ch
 aibusinessclub.ch
@@ -1626,7 +1629,6 @@ aidaily.ch
 aidaimaging.ch
 aidakidane.ch
 aidakundencenter.ch
-aidaleman.ch
 aidalibra.ch
 aidaloca.ch
 aidaluna.ch
@@ -1990,6 +1992,7 @@ aidreo.ch
 aidrive.ch
 aidriven.ch
 aidrivencompany.ch
+aidriveswiss.ch
 aidrizi.ch
 aidruck.ch
 aids-ag.ch
@@ -2050,6 +2053,7 @@ aiebijou.ch
 aiec.ch
 aieco.ch
 aied.ch
+aiedge.ch
 aiedu.ch
 aieduai.ch
 aieducation.ch
@@ -2358,6 +2362,7 @@ aiglecoach.ch
 aigleculture.ch
 aigledepoche.ch
 aiglelesmurailles.ch
+aigleleysin.ch
 aigleleysinlesmosses.ch
 aiglenoir-leman.ch
 aiglenoir.ch
@@ -2403,6 +2408,7 @@ aignite.ch
 aignostic.ch
 aigo.ch
 aigolf.ch
+aigon.ch
 aigonline.ch
 aigoo.ch
 aigoool.ch
@@ -3606,6 +3612,7 @@ aios-swiss.ch
 aios.ch
 aiosale.ch
 aioservices.ch
+aiosmarket.ch
 aioss.ch
 aiot-vision.ch
 aiot.ch
@@ -4560,6 +4567,7 @@ airen.ch
 airenergie.ch
 airenovaclean.ch
 airental.ch
+aireon.ch
 airepair.ch
 aireprotegeesuisse.ch
 airepublic.ch
@@ -4746,6 +4754,7 @@ airhome.ch
 airhorn.ch
 airhosp.ch
 airhost.ch
+airhosted-homes.ch
 airhosted.ch
 airhosts.ch
 airhr.ch

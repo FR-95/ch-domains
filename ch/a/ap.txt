@@ -2590,7 +2590,6 @@ apmusic.ch
 apmvalais.ch
 apmyn.ch
 apmz.ch
-apmzentrum-buchs.ch
 apn-ch.ch
 apn-raumundboden.ch
 apn.ch
@@ -3356,6 +3355,7 @@ apotheke-im-spital-aarau.ch
 apotheke-im-stadtspital.ch
 apotheke-im-unispital.ch
 apotheke-imfreihof.ch
+apotheke-imsand.ch
 apotheke-in-chur.ch
 apotheke-in-deiner-naehe.ch
 apotheke-in-der-naehe.ch
@@ -6859,6 +6859,7 @@ aptiogroup.ch
 aptiq.ch
 aptis.ch
 aptissen.ch
+aptist.ch
 aptitheque.ch
 aptitool.ch
 aptitude-solutions.ch

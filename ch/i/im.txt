@@ -335,6 +335,7 @@ im-translate.ch
 im-trauerfall.ch
 im-treuhand.ch
 im-tuell.ch
+im-unterdorf.ch
 im-unterstein.ch
 im-verkauf.ch
 im-vertrauen.ch
@@ -1197,7 +1198,6 @@ imatigmbh.ch
 imatik.ch
 imatinib.ch
 imation.ch
-imatjet.ch
 imatom.ch
 imators.ch
 imatrix-solutions.ch
@@ -2939,6 +2939,7 @@ immerfein.ch
 immerferien.ch
 immerfit.ch
 immerfreitag.ch
+immerfunktionieren.ch
 immergarten.ch
 immerge.ch
 immergenugsolarstrom.ch
@@ -4592,9 +4593,11 @@ immoallroundcare.ch
 immoalmanach.ch
 immoalp.ch
 immoalpes.ch
+immoalpha24.ch
 immoalpin.ch
 immoalpine.ch
 immoamann.ch
+immoamrhy.ch
 immoamsee.ch
 immoan.ch
 immoanalyse.ch
@@ -4730,6 +4733,7 @@ immobaur.ch
 immobauservice.ch
 immobaustei.ch
 immobauteam.ch
+immobax.ch
 immobay.ch
 immobaz.ch
 immobazaar.ch
@@ -5032,6 +5036,7 @@ immobilien-berufe.ch
 immobilien-besitz.ch
 immobilien-besteuerung.ch
 immobilien-beteiligungen.ch
+immobilien-bewerten-ag.ch
 immobilien-bewerten-bern.ch
 immobilien-bewerten-gstaad.ch
 immobilien-bewerten.ch
@@ -5677,8 +5682,10 @@ immobilienadinterim.ch
 immobilienadvisor.ch
 immobilienag.ch
 immobilienagent.ch
+immobilienagentur-bern.ch
 immobilienagentur-wyss.ch
 immobilienagentur.ch
+immobilienagenturbern.ch
 immobilienagenturen.ch
 immobilienagenturprofi.ch
 immobilienakte.ch
@@ -5747,6 +5754,7 @@ immobilienbeteiligung.ch
 immobilienbewerten-bern.ch
 immobilienbewerten-online.ch
 immobilienbewerten.ch
+immobilienbewertenag.ch
 immobilienbewertenbern.ch
 immobilienbewertenkantonbern.ch
 immobilienbewertenkantonsolothurn.ch
@@ -6677,7 +6685,6 @@ immobilier-payerne.ch
 immobilier-petit-saconnex.ch
 immobilier-plan-les-ouates.ch
 immobilier-ponzo.ch
-immobilier-portugal.ch
 immobilier-ppe.ch
 immobilier-pregny-chambesy.ch
 immobilier-prestige.ch
@@ -6996,6 +7003,7 @@ immocal.ch
 immocalag.ch
 immocalc.ch
 immocall.ch
+immocalvin.ch
 immocam.ch
 immocampus.ch
 immocanal.ch
@@ -7586,7 +7594,6 @@ immofute.ch
 immofutur.ch
 immofutura.ch
 immofuture.ch
-immofux.ch
 immofx.ch
 immofy.ch
 immog.ch
@@ -8132,6 +8139,7 @@ immolugano.ch
 immoluni-ag.ch
 immoluni.ch
 immoluniag.ch
+immolus.ch
 immolusitania.ch
 immolution-haslital.ch
 immolution.ch
@@ -10802,7 +10810,6 @@ imperia-treuhand.ch
 imperia.ch
 imperiabau.ch
 imperiacapitalpartners.ch
-imperiacars.ch
 imperiaholding.ch
 imperial-54.ch
 imperial-collection.ch
@@ -11494,6 +11501,7 @@ importcanada.ch
 importcar.ch
 importcarrelagejungen.ch
 importcarrelages.ch
+importcheck.ch
 importchina.ch
 importdepot.ch
 importdoo.ch

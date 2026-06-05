@@ -1092,6 +1092,7 @@ bibliophile.ch
 bibliophilen-gesellschaft.ch
 bibliophilie.ch
 biblioplay.ch
+biblioplayer.ch
 bibliopolis.ch
 bibliopolium.ch
 bibliopoliumag.ch
@@ -1821,6 +1822,7 @@ bicycles-outlet.ch
 bicycles.ch
 bicycleshow.ch
 bicyclespielkarten.ch
+bicyclesshop.ch
 bicyclestore.ch
 bicycletrips.ch
 bicyclette-gourmande.ch
@@ -6241,6 +6243,7 @@ bikeclub-riki.ch
 bikeclub-steinen.ch
 bikeclub.ch
 bikeclubarbon.ch
+bikeclubboesingen.ch
 bikeclubsolothurn.ch
 bikeclubspiez.ch
 bikeclubthal.ch
@@ -7050,7 +7053,6 @@ bikethatbeatbern.ch
 bikethealps.ch
 bikethebest.ch
 biketheboom.ch
-biketheworld.ch
 bikethrills.ch
 biketicino.ch
 biketime.ch
@@ -8912,6 +8914,7 @@ bileman.ch
 bilen.ch
 bilena.ch
 bilendi-discuss.ch
+bilendi-ux.ch
 bilendi.ch
 bilenia-ag.ch
 bilenkebabimbisstakeaway-frick.ch
@@ -9879,7 +9882,6 @@ bim-industry-days.ch
 bim-infra.ch
 bim-infrastructure.ch
 bim-infrastructures.ch
-bim-infrastrukturbau.ch
 bim-infrastrukturen.ch
 bim-ingenieure.ch
 bim-it.ch
@@ -10942,7 +10944,6 @@ bingee.ch
 bingel.ch
 bingelbuerodienstleistung.ch
 bingemann.ch
-bingen.ch
 bingenieurs.ch
 bingenius.ch
 binger-consulting.ch
@@ -13819,6 +13820,7 @@ biohofcamping.ch
 biohofdangern.ch
 biohofdittlige.ch
 biohofdusch.ch
+biohofeidberg.ch
 biohofenderlin.ch
 biohofer-schuepfen.ch
 biohofer.ch
@@ -16208,6 +16210,7 @@ bipperhof.ch
 bipperlisi-nein.ch
 bipperlisi-raetsel.ch
 bipperlisi.ch
+bipprofi.ch
 bippusbarn.ch
 bippusfamilie.ch
 bippy.ch
@@ -18624,6 +18627,7 @@ bit-tween.ch
 bit-vault.ch
 bit-wallet.ch
 bit-werk.ch
+bit-wunschkonzert.ch
 bit.ch
 bit1.ch
 bit1000lexipro.ch
@@ -18788,6 +18792,7 @@ bitcoin-4-u.ch
 bitcoin-4-us.ch
 bitcoin-4-you.ch
 bitcoin-aargau.ch
+bitcoin-abo.ch
 bitcoin-academy.ch
 bitcoin-aktion.ch
 bitcoin-akzeptanzstellen.ch
@@ -19001,6 +19006,7 @@ bitcoin4cash.ch
 bitcoin4u.ch
 bitcoin4us.ch
 bitcoinabgabe.ch
+bitcoinabo.ch
 bitcoinacademy.ch
 bitcoinadvertising.ch
 bitcoinadvertisingsite.ch
@@ -19312,6 +19318,7 @@ bitcoinsocietyswitzerland.ch
 bitcoinsocks.ch
 bitcoinsolution.ch
 bitcoinsolutions.ch
+bitcoinsparabo.ch
 bitcoinsparen.ch
 bitcoinsparplan.ch
 bitcoinspeicher.ch
@@ -19607,7 +19614,6 @@ bithy.ch
 biti.ch
 bitiba.ch
 bitibox.ch
-bitid.ch
 bitify.ch
 bitigo.ch
 bitihag.ch
@@ -20214,7 +20220,6 @@ bitzbakery.ch
 bitzel.ch
 bitzeli-meh.ch
 bitzeli.ch
-bitzentrum.ch
 bitzeps.ch
 bitzer-ag.ch
 bitzer-femo.ch

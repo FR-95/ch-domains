@@ -103,7 +103,6 @@ b2b-kontakte.ch
 b2b-kreuzfahrten-skandinavien.ch
 b2b-kunden.ch
 b2b-kundenportal.ch
-b2b-kurier.ch
 b2b-leadconnect.ch
 b2b-leadgenerierung.ch
 b2b-leadmagnet.ch
@@ -150,7 +149,6 @@ b2b-telemarketing.ch
 b2b-tool.ch
 b2b-trade-in.ch
 b2b-tradition.ch
-b2b-trans.ch
 b2b-unisupps.ch
 b2b-upc.ch
 b2b-valais.ch
@@ -170,6 +168,7 @@ b2b24.ch
 b2b4u.ch
 b2b4you.ch
 b2badressen.ch
+b2bai.ch
 b2basel.ch
 b2bau.ch
 b2bauction.ch

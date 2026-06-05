@@ -1240,6 +1240,7 @@ dnssecurity.ch
 dnssek.ch
 dnssentinel.ch
 dnsserver.ch
+dnsserverdetails.ch
 dnsservice.ch
 dnssex.ch
 dnssitting.ch

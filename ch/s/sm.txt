@@ -3391,6 +3391,7 @@ smartmotion.ch
 smartmotionbikes.ch
 smartmove-app.ch
 smartmove.ch
+smartmovemedia.ch
 smartmovement.ch
 smartmoves.ch
 smartmoving.ch
@@ -4399,7 +4400,6 @@ smartworkplacesolutions.ch
 smartworks.ch
 smartworksg.ch
 smartworld.ch
-smartwow.ch
 smartwrap.ch
 smartwrite.ch
 smartx.ch
@@ -5417,7 +5417,6 @@ smile-reinigung.ch
 smile-rent.ch
 smile-sabaidee.ch
 smile-sana.ch
-smile-schweiz.ch
 smile-services.ch
 smile-sg.ch
 smile-shop.ch
@@ -5698,7 +5697,6 @@ smileon.ch
 smileone.ch
 smileonline.ch
 smilepack.ch
-smilepacker.ch
 smilepaint.ch
 smilepartner.ch
 smilepass.ch
@@ -5740,7 +5738,6 @@ smilesana.ch
 smilesandmore.ch
 smileschaffhausen.ch
 smileschild.ch
-smileschweiz.ch
 smileservice.ch
 smileservices.ch
 smilesfood-sirnach.ch
@@ -5797,7 +5794,6 @@ smileumzug-365.ch
 smileumzug-express.ch
 smileumzug.ch
 smileumzugsfirma.ch
-smileumzugsofferte.ch
 smileumzugsservice.ch
 smileundstyle.ch
 smileunion.ch
@@ -6746,6 +6742,7 @@ smp-solutions.ch
 smp-suisse.ch
 smp-zertifikat.ch
 smp.ch
+smp3.ch
 smpa.ch
 smpag.ch
 smpartner.ch
@@ -6766,7 +6763,6 @@ smph.ch
 smph25.ch
 smphotography.ch
 smpi.ch
-smpilot.ch
 smpip.ch
 smpire.ch
 smpiscine.ch
@@ -7148,6 +7144,7 @@ smtec-int.ch
 smtec.ch
 smtecag.ch
 smteccloud.ch
+smtech-digital.ch
 smtech.ch
 smtechnik.ch
 smtechswiss.ch
@@ -7264,6 +7261,7 @@ smurfitkappagroup.ch
 smurfitwestrock.ch
 smurfnet.ch
 smurfspray.ch
+smurfwat.ch
 smurfy.ch
 smurfys.ch
 smurl.ch

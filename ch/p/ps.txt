@@ -1111,7 +1111,6 @@ psiweb.ch
 psizentrumbaden.ch
 psizentrumbasel.ch
 psj.ch
-psjazz.ch
 psju.ch
 psk-bern.ch
 psk-cpa.ch
@@ -4448,6 +4447,7 @@ psymotion.ch
 psynap6.ch
 psynapse.ch
 psynature.ch
+psynav.ch
 psync.ch
 psynco.ch
 psynd.ch
@@ -4481,6 +4481,7 @@ psyp.ch
 psyparty.ch
 psypepinet.ch
 psypetrovdm.ch
+psypfad.ch
 psyphone.ch
 psyphonetix.ch
 psyphonie.ch

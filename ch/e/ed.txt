@@ -57,6 +57,7 @@ ed-work.ch
 ed-x.ch
 ed10.ch
 ed2k.ch
+ed3.ch
 ed888.ch
 ed95.ch
 eda-admin.ch
@@ -81,7 +82,6 @@ edadvisors.ch
 edaenzer.ch
 edaeon.ch
 edaerkek.ch
-edaevent.ch
 edag-cloud.ch
 edag-group.ch
 edag.ch

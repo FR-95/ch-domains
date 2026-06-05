@@ -1502,7 +1502,6 @@ tradingstore.ch
 tradingsystem.ch
 tradingtagebu.ch
 tradingteam.ch
-tradingtech.ch
 tradingtechnologies.ch
 tradingtools.ch
 tradingtoppers.ch
@@ -2371,7 +2370,6 @@ trailblazer.ch
 trailblazers.ch
 trailblazing.ch
 trailbox.ch
-trailbuddies.ch
 trailbuilders.ch
 trailbuilding.ch
 trailcafe.ch
@@ -3977,6 +3975,7 @@ trans-bulle.ch
 trans-capiart.ch
 trans-creation.ch
 trans-cycle.ch
+trans-debarras.ch
 trans-delemont.ch
 trans-direkt.ch
 trans-en-danse.ch
@@ -6514,6 +6513,7 @@ trattoriagiardino.ch
 trattoriagudese.ch
 trattoriailpeperoncino.ch
 trattorialafontana.ch
+trattoriamarina.ch
 trattorianendaz.ch
 trattorianonnamia.ch
 trattoriaroteshaus.ch
@@ -10910,7 +10910,6 @@ trendpack.ch
 trendparadies.ch
 trendparkett.ch
 trendpart.ch
-trendpartner.ch
 trendpilot.ch
 trendplattform.ch
 trendplaza.ch
@@ -14647,7 +14646,6 @@ trimetric.ch
 trimetrik.ch
 trimex.ch
 trimexplus.ch
-trimfit-coach.ch
 trimhub.ch
 trimi-lieferwagen.ch
 trimify.ch
@@ -14808,7 +14806,6 @@ trinitee.ch
 triniti.ch
 trinity-bodywork.ch
 trinity-capital.ch
-trinity-concept.ch
 trinity-edu.ch
 trinity-event.ch
 trinity-fit4family.ch
@@ -16205,6 +16202,7 @@ trivec.ch
 trivecogroup.ch
 trivectis.ch
 trivectra.ch
+trivela.ch
 trivelia.ch
 trivella.ch
 trivellaconsulting.ch
@@ -16594,8 +16592,6 @@ trockene-rissige-haut.ch
 trockeneamd.ch
 trockeneaugen.ch
 trockeneaugenpraxis.ch
-trockeneis-brandsanierung.ch
-trockeneis-dienstleistungen.ch
 trockeneis-direkt.ch
 trockeneis-mooser.ch
 trockeneis-online.ch
@@ -16981,6 +16977,7 @@ troisieme.ch
 troisiemechambre.ch
 troisiemelieu.ch
 troisiememitempsbuvette.ch
+troisiemeoeil.ch
 troisiemepilier.ch
 troisiemepiliera.ch
 troisiemepilierb.ch
@@ -17635,6 +17632,7 @@ tropifruit.ch
 tropika.ch
 tropikal.ch
 tropikornio.ch
+tropikoswiss.ch
 tropilex.ch
 tropimed.ch
 tropinest.ch
@@ -18702,6 +18700,7 @@ trueact.ch
 trueactive.ch
 trueadvice.ch
 trueagent.ch
+trueai.ch
 trueaim.ch
 trueaimacademy.ch
 truealpineexperiences.ch
@@ -18912,6 +18911,7 @@ truehealthdesign.ch
 truehealthsolutions.ch
 truehelp.ch
 truehint.ch
+truehlk.ch
 truehockey.ch
 truehockeyschweiz.ch
 trueholidays.ch
@@ -18922,7 +18922,6 @@ truehouse.ch
 truehuman.ch
 truehumanatwork.ch
 trueict.ch
-trueid.ch
 trueidea.ch
 trueideas.ch
 trueidentity.ch

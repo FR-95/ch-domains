@@ -294,6 +294,7 @@ bracken.ch
 brackenridge.ch
 brackenwood-labradors.ch
 bracker.ch
+bracket.ch
 bracketleft.ch
 bracketright.ch
 brackets.ch
@@ -527,6 +528,7 @@ braendli-metallbau.ch
 braendli-oberboezberg.ch
 braendli-projekt.ch
 braendli-psychologie.ch
+braendli-recht.ch
 braendli-rechtsanwalt.ch
 braendli-stiftung.ch
 braendli-treuhand.ch
@@ -820,6 +822,7 @@ brain-smart.ch
 brain-snacks.ch
 brain-soft.ch
 brain-spot.ch
+brain-sprinter.ch
 brain-store.ch
 brain-t.ch
 brain-tea.ch
@@ -853,7 +856,6 @@ brain2brain.ch
 brain2business.ch
 brain2buy.ch
 brain2cloud.ch
-brain2create.ch
 brain2go.ch
 brain2win.ch
 brain365.ch
@@ -982,6 +984,7 @@ braincube.ch
 braincut.ch
 braincutdesign.ch
 brainda.ch
+braindaamage.ch
 braindance.ch
 braindancer.ch
 braindate.ch
@@ -1301,6 +1304,7 @@ brainspirit.ch
 brainsport.ch
 brainspotting-swiss.ch
 brainspottingsolution.ch
+brainsprinter.ch
 brainsroom.ch
 brainstaff.ch
 brainstargroup.ch
@@ -2910,6 +2914,7 @@ brandshield.ch
 brandship.ch
 brandshipping.ch
 brandshit.ch
+brandshop.ch
 brandsicher-architekten.ch
 brandsicher.ch
 brandsicherarchitekten.ch
@@ -4292,7 +4297,6 @@ brauncom.ch
 braunconsult.ch
 braunconsulting.ch
 braunconsultinggroup.ch
-brauncreativeconsulting.ch
 braundergaertner.ch
 braundominik.ch
 braune-digital.ch
@@ -5386,7 +5390,6 @@ breathwork-healing.ch
 breathwork-jd.ch
 breathwork-journey.ch
 breathwork-lyss.ch
-breathwork-ostschweiz.ch
 breathwork-schweiz.ch
 breathwork-session.ch
 breathwork-sessions.ch
@@ -7402,7 +7405,6 @@ brickhaufen.ch
 brickheadz.ch
 brickhelden.ch
 brickhomes.ch
-brickhouse.ch
 brickhub.ch
 brickies.ch
 bricking.ch
@@ -8030,6 +8032,7 @@ briefkaste.ch
 briefkasten-anlagen.ch
 briefkasten-basel.ch
 briefkasten-direkt.ch
+briefkasten-gravur.ch
 briefkasten-klingel-schild.ch
 briefkasten-klingel-schilder.ch
 briefkasten-klingelschild.ch
@@ -9309,7 +9312,6 @@ brillenkompass.ch
 brillenkontakt.ch
 brillenkreis.ch
 brillenkult.ch
-brillenlabor.ch
 brillenladen.ch
 brillenladen24.ch
 brillenland.ch
@@ -10532,7 +10534,6 @@ brocante-la-vie.ch
 brocante-la-vitrine.ch
 brocante-lausanne.ch
 brocante-lutry.ch
-brocante-matzendorf.ch
 brocante-mon-precieux.ch
 brocante-nyon.ch
 brocante-philippegasser.ch
@@ -12075,7 +12076,6 @@ brot-freunde.ch
 brot-fuer-alle.ch
 brot-fuers-leben.ch
 brot-haustechnik.ch
-brot-kunst.ch
 brot-kurier.ch
 brot-mann.ch
 brot-manufaktur.ch
@@ -12429,7 +12429,6 @@ brown-skin.ch
 brown-swiss.ch
 brown.ch
 brown1.ch
-brownbag.ch
 brownbagmed.ch
 brownbags.ch
 brownbeer.ch
@@ -14548,6 +14547,7 @@ brunnerweb.ch
 brunnerweibel.ch
 brunnerwein.ch
 brunnerweine.ch
+brunnerwellnessdrogerie.ch
 brunnerwerkzeugbau.ch
 brunnerz.ch
 brunnerzimmerei.ch

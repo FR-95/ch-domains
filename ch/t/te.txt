@@ -5578,6 +5578,7 @@ teee.ch
 teeei.ch
 teefabrik.ch
 teefactory.ch
+teefanie.ch
 teefarben.ch
 teefarm.ch
 teefaszination.ch
@@ -5863,7 +5864,6 @@ teesinp.ch
 teesommelier.ch
 teesommeliere.ch
 teesorten.ch
-teespace.ch
 teespresso.ch
 teest.ch
 teestube-zuerich.ch
@@ -7339,6 +7339,7 @@ telefonberatung24.ch
 telefonberatungen.ch
 telefonbetrug.ch
 telefonbot.ch
+telefonbox.ch
 telefonboxen.ch
 telefonbu.ch
 telefonbuch-online.ch
@@ -7791,6 +7792,7 @@ telemedicina.ch
 telemedicine.ch
 telemedicineclinic.ch
 telemedien.ch
+telemedizin-schweiz.ch
 telemedizin.ch
 telemedizin24.ch
 telemedizinbern.ch
@@ -7968,6 +7970,7 @@ telequiz.ch
 telerad-expert.ch
 telerad-net.ch
 teleradio.ch
+teleradiologie-schweiz.ch
 teleradiologie.ch
 teleraetia.ch
 telerafz.ch
@@ -8906,6 +8909,7 @@ telya.ch
 telyot.ch
 telyvia.ch
 telzio.ch
+tem-beampilot.ch
 tem-consulting.ch
 tem-fachverband.ch
 tem-institut.ch
@@ -13698,6 +13702,7 @@ terresa.ch
 terresacree.ch
 terresainte-rugby.ch
 terresainte.ch
+terresaintecity.ch
 terresaintenatation.ch
 terresassoleeshumides.ch
 terresauvage.ch
@@ -14546,6 +14551,7 @@ tesseract-holding.ch
 tesseract.ch
 tesseractconsulting.ch
 tesseradassicurato.ch
+tesserae.ch
 tesseraict.ch
 tesserakt.ch
 tesserastampa.ch
@@ -14755,7 +14761,6 @@ test-bruehwiler.ch
 test-business-universe-system-ws.ch
 test-c.ch
 test-cardcenter.ch
-test-cardis.ch
 test-carplus.ch
 test-carservice.ch
 test-cci-ws.ch
@@ -15044,6 +15049,7 @@ test-yl-preprod-2.ch
 test-yohann-dev-cross.ch
 test-yoursbc.ch
 test-yourself.ch
+test-zahlsysteme.ch
 test-zentrum.ch
 test-zimmo.ch
 test.ch
@@ -17415,6 +17421,7 @@ textilpflege27.ch
 textilpflegebern.ch
 textilpflegemarkt.ch
 textilpflegemittel.ch
+textilpflegeprosic.ch
 textilpfleger.ch
 textilpflegeshop.ch
 textilpflegesolothurn.ch
@@ -17778,7 +17785,6 @@ textundmehr.ch
 textundpunkt.ch
 textundstil.ch
 textundstruktur.ch
-textundteam.ch
 textundton.ch
 textundwerk.ch
 textundwort.ch

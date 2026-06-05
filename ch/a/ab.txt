@@ -559,7 +559,6 @@ abacus-ai.ch
 abacus-berater-jobs.ch
 abacus-beratung.ch
 abacus-cloud.ch
-abacus-commerce.ch
 abacus-consulting.ch
 abacus-crypto.ch
 abacus-dev.ch
@@ -585,8 +584,6 @@ abacus-schulung.ch
 abacus-service.ch
 abacus-services.ch
 abacus-shipping.ch
-abacus-shop.ch
-abacus-shopsystem.ch
 abacus-software.ch
 abacus-solution.ch
 abacus-solutions.ch
@@ -618,6 +615,7 @@ abacushosting.ch
 abacushotline.ch
 abacushr.ch
 abacushrservices.ch
+abacuslaw.ch
 abacuslight.ch
 abacuslink.ch
 abacusmedicine.ch
@@ -4013,6 +4011,7 @@ ablaufservice-profi.ch
 ablaufservice.ch
 ablaufserviceprofi.ch
 ablauftech.ch
+ablaufverstopft.ch
 ablaugen.ch
 ablaugerei-meier.ch
 ablaugerei.ch
@@ -4275,6 +4274,7 @@ abnehmenimliegenschweiz.ch
 abnehmenimschlaf.ch
 abnehmeninaffoltern.ch
 abnehmeninbasel.ch
+abnehmenleich.ch
 abnehmenmiterfolg.ch
 abnehmenmitfreude.ch
 abnehmenmithypnose.ch
@@ -5653,6 +5653,7 @@ abseil.ch
 abseilersunited.ch
 abseiling.ch
 abseits-luzern.ch
+abseits-productions.ch
 abseits.ch
 abseitsmitabsicht.ch
 abseitsweinfelden.ch

@@ -251,6 +251,7 @@ it-days.ch
 it-db.ch
 it-dc.ch
 it-deal.ch
+it-debug.ch
 it-decision.ch
 it-defense.ch
 it-demo.ch
@@ -1800,6 +1801,7 @@ itamcar.ch
 itamesca.ch
 itamgroup.ch
 itami.ch
+itamo.ch
 itamrhy.ch
 itamsi.ch
 itan-sarl.ch
@@ -3548,6 +3550,7 @@ its-develop.ch
 its-done.ch
 its-dp.ch
 its-easy.ch
+its-energy.ch
 its-espas.ch
 its-facile.ch
 its-first.ch

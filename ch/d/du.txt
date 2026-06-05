@@ -147,7 +147,6 @@ dual-hst.ch
 dual-learning.ch
 dual-link.ch
 dual-ofen.ch
-dual-on.ch
 dual-platten.ch
 dual-provider.ch
 dual-sim.ch
@@ -2573,10 +2572,8 @@ dummebueb.ch
 dummeidee.ch
 dummeideen.ch
 dummenorange.ch
-dummermuth-eggermann-collection.ch
 dummermuth-garage.ch
 dummermuth.ch
-dummermutheggermanncollection.ch
 dummeseich.ch
 dummesie.ch
 dummesiech.ch
@@ -3458,7 +3455,6 @@ dupont-architectes.ch
 dupont-byrne.ch
 dupont-dupont.ch
 dupont-office.ch
-dupont-restaurant.ch
 dupont-restaurants.ch
 dupont-sa.ch
 dupont-zermatt.ch
@@ -4218,6 +4214,7 @@ duschenwelten.ch
 duschenwohlen.ch
 duscherde.ch
 duscherlebnis.ch
+duscheverstopft.ch
 duschfilter.ch
 duschfit.ch
 duschfixx-pfiffner.ch

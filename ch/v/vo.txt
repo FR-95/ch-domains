@@ -164,6 +164,7 @@ vocalcoachme.ch
 vocalcoachteresa.ch
 vocalcord.ch
 vocale.ch
+vocaleclipse.ch
 vocalemotions.ch
 vocalensemble-concino.ch
 vocalensemble-hottingen.ch
@@ -4521,6 +4522,7 @@ vom-achterhof.ch
 vom-albispass.ch
 vom-allmen.ch
 vom-baerg.ch
+vom-baselbiet.ch
 vom-bauernhof.ch
 vom-baufrust-zur-baulust.ch
 vom-besten-lernen.ch
@@ -4622,6 +4624,7 @@ vombaecker.ch
 vombaerenstutz.ch
 vombaerg.ch
 vombarf.ch
+vombaselbiet.ch
 vombasiliskenbrunnen.ch
 vombauer.ch
 vombauern.ch
@@ -5287,7 +5290,6 @@ vonchristensen-b2b.ch
 vonchristensen.ch
 voncom.ch
 voncontzen.ch
-voncooper.ch
 voncrayen.ch
 vond.ch
 vonda.ch
@@ -7068,7 +7070,6 @@ vorsorgecockpit.ch
 vorsorgedashboard.ch
 vorsorgedeal.ch
 vorsorgedigital.ch
-vorsorgedoktor.ch
 vorsorgedokument.ch
 vorsorgedossier.ch
 vorsorgeeinrichtung-industrie.ch
@@ -7469,6 +7470,7 @@ vorwerkthermomixfriend.ch
 vorwerrk.ch
 vorwerthermomix.ch
 vorwerts.ch
+vorwies.ch
 vorwind.ch
 vorya.ch
 voryaenergy.ch
@@ -7821,6 +7823,7 @@ votographie.ch
 voton-arbon.ch
 voton.ch
 votons-oui.ch
+votons-plr.ch
 votons-ps.ch
 votopertutte-tutti.ch
 votorantim.ch
@@ -8281,7 +8284,6 @@ vox-inside.ch
 vox-institute.ch
 vox-legal.ch
 vox-mea.ch
-vox-mortis.ch
 vox-now.ch
 vox-planet-blue.ch
 vox-planetblue.ch
@@ -8394,7 +8396,6 @@ voxmail.ch
 voxmaris.ch
 voxme.ch
 voxmind.ch
-voxmortis.ch
 voxnatio.ch
 voxnation.ch
 voxnet.ch

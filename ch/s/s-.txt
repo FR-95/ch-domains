@@ -65,6 +65,7 @@ s-aubonney-photo.ch
 s-auckenthaler.ch
 s-auto.ch
 s-automobiles.ch
+s-automotive.ch
 s-avocats.ch
 s-ay.ch
 s-b-a.ch
@@ -394,7 +395,6 @@ s-ibau.ch
 s-icd.ch
 s-ict.ch
 s-id.ch
-s-ilence.ch
 s-imm.ch
 s-immobilien.ch
 s-immobilier.ch

@@ -57,7 +57,6 @@ de-clic.ch
 de-click.ch
 de-co.ch
 de-code.ch
-de-collection.ch
 de-con.ch
 de-constructed.ch
 de-constructet.ch
@@ -1017,6 +1016,7 @@ debardage.ch
 debardo.ch
 debarny.ch
 debarrapide.ch
+debarras-autos.ch
 debarras-bern.ch
 debarras-brocante.ch
 debarras-bulle.ch
@@ -3660,7 +3660,6 @@ deepavali.ch
 deepb.ch
 deepband.ch
 deepbar.ch
-deepbarista.ch
 deepbase.ch
 deepbeats.ch
 deepbird.ch
@@ -5264,6 +5263,7 @@ deifnet.ch
 deigenvektor.ch
 deight.ch
 deigner-immobilien.ch
+deikestaikov.ch
 deil.ch
 deilenaarklub.ch
 deillon-bruegger.ch
@@ -5446,7 +5446,6 @@ dein-flyer.ch
 dein-fondue.ch
 dein-foto.ch
 dein-fotobuch.ch
-dein-frei-raum.ch
 dein-freiraum.ch
 dein-freund.ch
 dein-gaertner.ch
@@ -6240,6 +6239,7 @@ deine-heilkraft.ch
 deine-heilung.ch
 deine-heldenreise.ch
 deine-herzenskraft.ch
+deine-hilfe.ch
 deine-hochzeit.ch
 deine-hochzeitsfee.ch
 deine-hochzeitskarten.ch
@@ -7609,6 +7609,7 @@ deinwohneigentum.ch
 deinwohnmobil24.ch
 deinwohnprojekt.ch
 deinwohnstil.ch
+deinworkflow.ch
 deinwunsch.ch
 deinwunschauto.ch
 deinwunschbild.ch
@@ -7754,6 +7755,7 @@ dejeso.ch
 dejify.ch
 dejimo.ch
 dejo-press.ch
+dejo-vella.ch
 dejo.ch
 dejolieschoses.ch
 dejona.ch
@@ -10037,6 +10039,7 @@ delphintreuhand.ch
 delphinus.ch
 delphinzone.ch
 delphireisen.ch
+delphiresear.ch
 delphis-design-development.ch
 delphis-design.ch
 delphis-development.ch
@@ -10830,11 +10833,9 @@ deluxehome.ch
 deluxehomeartshop.ch
 deluxehotel.ch
 deluxehotels.ch
-deluxeimmo.ch
 deluxeimmobilien.ch
 deluxeinfo.ch
 deluxeit.ch
-deluxejet.ch
 deluxekaffee.ch
 deluxekebabhaus.ch
 deluxekebabpizza.ch
@@ -11353,6 +11354,7 @@ demenagements.ch
 demenagementsberger.ch
 demenagementservice.ch
 demenagementservices.ch
+demenagementsion.ch
 demenagementurgent.ch
 demenagementvaud.ch
 demenagens.ch
@@ -12875,8 +12877,6 @@ denispopoff-re.ch
 denispopoff-wed.ch
 denispopoff.ch
 denispretre.ch
-denispythoud-graphic.ch
-denispythoud.ch
 denisriche.ch
 denisricheepinutrition.ch
 denisrollet.ch
@@ -13218,6 +13218,7 @@ denksportag.ch
 denkstatt-sarl.ch
 denkstatt.ch
 denkstau.ch
+denkstelle.ch
 denkstil.ch
 denkstilanalyse.ch
 denkstobe.ch
@@ -14978,6 +14979,7 @@ dentocloud.ch
 dentoconsult.ch
 dentocontrol.ch
 dentocorner.ch
+dentoctin.ch
 dentoffice.ch
 dentofit.ch
 dentogo.ch
@@ -15164,6 +15166,7 @@ denza-rheinthal.ch
 denza-sg.ch
 denza-stgallen.ch
 denza-thurgau.ch
+denza-zuerich.ch
 denza.ch
 denzali.ch
 denzauktionen.ch
@@ -15461,6 +15464,7 @@ depannage-spas.ch
 depannage-store.ch
 depannage-stores.ch
 depannage-suisse.ch
+depannage-urgence.ch
 depannage-vd.ch
 depannage-vevey.ch
 depannage-vs.ch
@@ -17539,6 +17543,7 @@ derfleischwolf.ch
 derflexitisch.ch
 derfli.ch
 derflibach.ch
+derflibachog.ch
 derfliegendebuchhalter.ch
 derfliegendekoch.ch
 derfliegendemoment.ch
@@ -25727,6 +25732,7 @@ devworkplace.ch
 devworkplaces.ch
 devworks.ch
 devworkspaces.ch
+devx-jijou.ch
 devx.ch
 devxcommerce.ch
 devxpert.ch

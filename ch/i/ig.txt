@@ -1202,6 +1202,7 @@ igloi.ch
 igloo-diagnostics.ch
 igloo-geneva.ch
 igloo-immo.ch
+igloo-location.ch
 igloo-suisse.ch
 igloo-switzerland.ch
 igloo.ch

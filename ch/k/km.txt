@@ -4,6 +4,7 @@ km-architecture.ch
 km-auto.ch
 km-avocat.ch
 km-beauty.ch
+km-boulangerie.ch
 km-c.ch
 km-construction.ch
 km-consult.ch
@@ -562,6 +563,7 @@ kmu-co-pilot.ch
 kmu-coach.ch
 kmu-coaching.ch
 kmu-community.ch
+kmu-compliance.ch
 kmu-connect.ch
 kmu-consult.ch
 kmu-consultant.ch
@@ -863,7 +865,6 @@ kmu-onlinemarketing.ch
 kmu-opendays.ch
 kmu-optimierung.ch
 kmu-oss.ch
-kmu-outfit.ch
 kmu-package.ch
 kmu-paket.ch
 kmu-panel.ch
@@ -1543,6 +1544,7 @@ kmusmartinvest.ch
 kmusms.ch
 kmusoft-erp.ch
 kmusoft-in-the-cloud.ch
+kmusoftware.ch
 kmusoftwarefabrik.ch
 kmusolar.ch
 kmusos.ch

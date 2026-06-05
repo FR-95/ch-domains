@@ -699,6 +699,7 @@ ready-for-change.ch
 ready-for-delivery.ch
 ready-for-departure.ch
 ready-for-now.ch
+ready-for-pitstop.ch
 ready-for-red.ch
 ready-for-take-off.ch
 ready-group.ch
@@ -1508,6 +1509,7 @@ realestateleague.ch
 realestatelife.ch
 realestatemagazine.ch
 realestatemanagement.ch
+realestatemanagement360.ch
 realestatemarket.ch
 realestatemarketing.ch
 realestatemarketing360.ch
@@ -10660,6 +10662,7 @@ regelwerk.ch
 regemo.ch
 regen-auf-himbeerrot.ch
 regen-bogen-bruecke.ch
+regen-center.ch
 regen-core.ch
 regen-engel.ch
 regen-jacke.ch
@@ -10762,6 +10765,7 @@ regence-production.ch
 regence.ch
 regencellaesthetics.ch
 regencellhealth.ch
+regencenter.ch
 regency.ch
 regencyconsult.ch
 regencygroup.ch
@@ -12084,7 +12088,6 @@ region-toggenburg.ch
 region-viamala.ch
 region-vision.ch
 region-vully.ch
-region-wallis.ch
 region-wasserfallen-juraparadies.ch
 region-wasserfallen.ch
 region-willisau.ch
@@ -15327,6 +15330,7 @@ reinauer.ch
 reinax.ch
 reinba.ch
 reinbach.ch
+reinbad.ch
 reinbau.ch
 reinbeissen.ch
 reinberg.ch
@@ -15772,6 +15776,7 @@ reinigunganbieter.ch
 reinigungarroyo.ch
 reinigungauto.ch
 reinigungbasel.ch
+reinigungbasel24.ch
 reinigungbedra.ch
 reinigungberisha.ch
 reinigungbern.ch
@@ -20446,6 +20451,7 @@ remishueb-sg.ch
 remiso.ch
 remistar.ch
 remiswiss.ch
+remit-reporting.ch
 remit.ch
 remitaiko.ch
 remitan.ch
@@ -21334,6 +21340,7 @@ renamed.ch
 renameht.ch
 renamel.ch
 renami.ch
+renamusic.ch
 renan.ch
 renan24.ch
 renance.ch
@@ -25238,7 +25245,6 @@ rentinorio-kaufen.ch
 rentinorio.ch
 rentinorio24.ch
 rentinvesto.ch
-rentio.ch
 rentiq.ch
 rentir.ch
 rentira.ch
@@ -26820,7 +26826,6 @@ reporto.ch
 reportonlineracism.ch
 reportr.ch
 reports.ch
-reportsustainability.ch
 repos.ch
 reposify.ch
 reposit.ch
@@ -26887,7 +26892,6 @@ reprep.ch
 represent.ch
 representa.ch
 representant-fiscal.ch
-representant-immeuble.ch
 representantfiscal.ch
 representation-fiscale.ch
 representation-suisse.ch
@@ -28500,7 +28504,6 @@ residences-etudiantes.ch
 residences-fahpa.ch
 residences-flore-et-sens.ch
 residences-hju.ch
-residences-immobilier.ch
 residences-la-pala.ch
 residences-lacustres.ch
 residences-lesabricotiers.ch
@@ -28532,7 +28535,6 @@ residenceserena.ch
 residencesetudiantes.ch
 residencesetudiants.ch
 residencesgrangette.ch
-residencesimmobilier.ch
 residenceslaplanchetta.ch
 residenceslesboisdesautaux.ch
 residencesmontana.ch
@@ -29765,7 +29767,6 @@ respect4us.ch
 respect8-3.ch
 respect83.ch
 respecta.ch
-respectable.ch
 respectanimals.ch
 respectatdfa.ch
 respectcamp.ch
@@ -31371,6 +31372,7 @@ restaurant-lacuna.ch
 restaurant-lacustre.ch
 restaurant-lafontana.ch
 restaurant-lafromageriegourmande.ch
+restaurant-lafrontiere.ch
 restaurant-lagerhaus.ch
 restaurant-lago.ch
 restaurant-lagrotta.ch
@@ -34814,6 +34816,7 @@ rethinkyoursleep.ch
 rethmann.ch
 rethon.ch
 rethy.ch
+reti-co.ch
 reti-termiche-svizzera.ch
 reti-termiche.ch
 reti.ch
@@ -35035,7 +35038,6 @@ reto-schneider.ch
 reto-schumacher.ch
 reto-sennhauser.ch
 reto-siegenthaler.ch
-reto-stadler.ch
 reto-stalder.ch
 reto-stampfli.ch
 reto-steiner.ch
@@ -35416,6 +35418,7 @@ retoundmirellaunterwegs.ch
 retoundsalo.ch
 retour-a-soi.ch
 retour-affectif-dubois.ch
+retour-affectif-marabout-medium.ch
 retour-affectif-melvin-suisse.ch
 retour-affectif.ch
 retour-amoureux-immediat.ch
@@ -35603,7 +35606,6 @@ retreatberatung.ch
 retreatfinder.ch
 retreathaus.ch
 retreathotel.ch
-retreathouse.ch
 retreatindernatur.ch
 retreatlife.ch
 retreatnavigator.ch
@@ -38362,7 +38364,6 @@ rework-tg.ch
 rework.ch
 reworked.ch
 reworkly.ch
-reworks.ch
 reworkspiess.ch
 reworldsoftest.ch
 rewotec-systems.ch
@@ -38496,6 +38497,7 @@ rexkurier.ch
 rexlaun.ch
 rexlegis.ch
 rexlex.ch
+rexline.ch
 rexmax.ch
 rexme.ch
 rexmer.ch

@@ -1005,7 +1005,6 @@ coaching-advanced.ch
 coaching-adventure.ch
 coaching-affaires.ch
 coaching-ag.ch
-coaching-ai.ch
 coaching-aigner.ch
 coaching-akademie-berlin.ch
 coaching-akademie.ch
@@ -1265,7 +1264,6 @@ coaching-huber.ch
 coaching-hund-mensch.ch
 coaching-hypnose-gesundheit.ch
 coaching-hypnosetherapie.ch
-coaching-ia.ch
 coaching-ibp.ch
 coaching-icf.ch
 coaching-id.ch
@@ -2045,11 +2043,8 @@ coachingroelli.ch
 coachingromandie.ch
 coachingroom.ch
 coachingrudolf.ch
-coachings-ai.ch
-coachings-ia.ch
 coachings-justintime.ch
 coachings.ch
-coachingsai.ch
 coachingsails.ch
 coachingsandmore.ch
 coachingsarah.ch
@@ -2066,13 +2061,13 @@ coachingsenior.ch
 coachingseo.ch
 coachingseries.ch
 coachingsession.ch
-coachingsia.ch
 coachingsignature.ch
 coachingskills.ch
 coachingsnacks.ch
 coachingsolothurn.ch
 coachingsolution.ch
 coachingsolutions.ch
+coachingsomatique.ch
 coachingspace.ch
 coachingspeech.ch
 coachingspichtig.ch
@@ -2630,6 +2625,7 @@ cobcapital.ch
 cobe-coiffeurbedarf.ch
 cobe-gastro.ch
 cobe-syndicat.ch
+cobe-tech.ch
 cobe.ch
 cobea-creation.ch
 cobea.ch
@@ -5225,6 +5221,7 @@ coffinclub.ch
 coffintattoo.ch
 coffinus.ch
 coffio.ch
+coffit.ch
 coffix.ch
 coffkick.ch
 coffola.ch
@@ -5564,6 +5561,16 @@ cogniforte.ch
 cogniful.ch
 cognify.ch
 cognigoals.ch
+cognigy-channels.ch
+cognigy-conversation.ch
+cognigy-conversational.ch
+cognigy-dialog.ch
+cognigy-dialogue.ch
+cognigy-engagement.ch
+cognigy-knowledge.ch
+cognigy-omnichannel.ch
+cognigy-orchestration.ch
+cognigy-voice.ch
 cognio.ch
 cognipax.ch
 cognipret.ch
@@ -13033,6 +13040,7 @@ commanderiedebordeaux.ch
 commanderleague.ch
 commanders.ch
 commandes.ch
+commandeseb.ch
 commandeur.ch
 commandia.ch
 commandline.ch
@@ -15588,6 +15596,7 @@ compliant365.ch
 compliantconcept.ch
 compliantit.ch
 complias.ch
+compliate.ch
 complicated.ch
 complication.ch
 complications.ch
@@ -16372,6 +16381,7 @@ computer-hilfe-kreuzlingen.ch
 computer-hilfe-winterthur.ch
 computer-hilfe-zuerichsee-und-oberland.ch
 computer-hilfe-zuerichsee.ch
+computer-hilfe.ch
 computer-hilfen.ch
 computer-home-service.ch
 computer-horgen.ch
@@ -16455,7 +16465,6 @@ computer-schulen.ch
 computer-schulung.ch
 computer-schutz.ch
 computer-schwarzenburg.ch
-computer-schweiz.ch
 computer-schwyz.ch
 computer-science.ch
 computer-security.ch
@@ -16864,7 +16873,6 @@ computersammler.ch
 computersayno.ch
 computersaysno.ch
 computersaysyes.ch
-computerschnellhilfe.ch
 computerschool.ch
 computerschrott-entsorgen.ch
 computerschrott.ch
@@ -18593,6 +18601,7 @@ condizionati.ch
 condizionatore.ch
 condizionidilavoro.ch
 condo.ch
+condo360.ch
 condocon.ch
 condoglianze-ticino.ch
 condoglianze.ch
@@ -21147,6 +21156,8 @@ conseillernational.ch
 conseillerneutre.ch
 conseillernumerique.ch
 conseillernutritionnel.ch
+conseillerprive.ch
+conseillerpriveweb.ch
 conseillers-accompagnants.ch
 conseillers-des-medecins.ch
 conseillers-medecins.ch
@@ -21544,7 +21555,6 @@ consis.ch
 consist.ch
 consista.ch
 consistence.ch
-consistencept.ch
 consistent.ch
 consistenz.ch
 consit.ch
@@ -22020,7 +22030,6 @@ constructionblondie.ch
 constructionbois-investissement.ch
 constructionbymartin.ch
 constructioncosts.ch
-constructiondasilvabrito.ch
 constructiondurable.ch
 constructionetbatiment.ch
 constructionetrenovation.ch
@@ -25754,8 +25763,6 @@ coolcatsmontreux.ch
 coolchange.ch
 coolchefs.ch
 coolcity.ch
-coolclassic.ch
-coolclassiccars.ch
 coolclassics.ch
 coolcleaning.ch
 coolclic.ch
@@ -28115,6 +28122,7 @@ core-bau.ch
 core-breeders.ch
 core-business.ch
 core-capital.ch
+core-career.ch
 core-club.ch
 core-coaching-empowerment.ch
 core-coaching.ch
@@ -29182,6 +29190,7 @@ corinnesonko.ch
 corinnespaeni.ch
 corinnespahr.ch
 corinnesporrer.ch
+corinnesprecher.ch
 corinnesraum.ch
 corinnestauffer.ch
 corinnestebler.ch
@@ -34476,6 +34485,7 @@ couplecoa.ch
 couplecompass.ch
 coupled.ch
 coupleetfamille.ch
+couplegoals.ch
 coupleheroes.ch
 couplelab.ch
 couplelibertin.ch
@@ -35514,7 +35524,6 @@ couture-vs.ch
 couture-watch.ch
 couture-zh.ch
 couture.ch
-coutureag.ch
 coutureanita.ch
 coutureattitude.ch
 couturecloset.ch

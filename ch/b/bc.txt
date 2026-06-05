@@ -314,7 +314,6 @@ bcbinformatik.ch
 bcbinningen.ch
 bcbirr.ch
 bcbj.ch
-bcbk.ch
 bcbl.ch
 bcblux.ch
 bcbo.ch
@@ -432,7 +431,6 @@ bce-euronumeriqque.ch
 bce.ch
 bceag.ch
 bceb.ch
-bcecublens.ch
 bced.ch
 bceeurodigitale.ch
 bceeuronumeriqque.ch
@@ -1081,7 +1079,6 @@ bcvevey.ch
 bcvextra.ch
 bcvf.ch
 bcvformation.ch
-bcvfunquiz.ch
 bcvg.ch
 bcvgroup.ch
 bcvillars.ch

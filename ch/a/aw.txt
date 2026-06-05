@@ -809,6 +809,7 @@ aws-archfoto.ch
 aws-beratung.ch
 aws-birsfelden.ch
 aws-community-day.ch
+aws-communityday.ch
 aws-examples.ch
 aws-gmbh.ch
 aws-immobilien.ch

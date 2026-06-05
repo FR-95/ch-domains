@@ -19,7 +19,6 @@
 3a-cb.ch
 3a-check.ch
 3a-composites.ch
-3a-eingangsmatten.ch
 3a-einkauf.ch
 3a-electro.ch
 3a-elektro.ch
@@ -92,7 +91,6 @@
 3acon.ch
 3acorematerials.ch
 3acreative.ch
-3aeingangsmatten.ch
 3aeinkauf.ch
 3aep.ch
 3aetf.ch

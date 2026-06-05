@@ -541,6 +541,7 @@ go2win.ch
 go2zh.ch
 go2zrce.ch
 go2zug.ch
+go3.ch
 go321.ch
 go36.ch
 go360.ch
@@ -826,6 +827,7 @@ goalpost.ch
 goalpower.ch
 goalrappen.ch
 goalrilla.ch
+goalrush.ch
 goals.ch
 goalserviceconsulting.ch
 goalsetting.ch
@@ -3063,6 +3065,7 @@ goldbachplakat.ch
 goldbachpublishing.ch
 goldbachradio.ch
 goldbachstraus.ch
+goldbacht.ch
 goldbachventures.ch
 goldbachvideonetwork.ch
 goldbachweg-signalstrasse.ch
@@ -3666,6 +3669,7 @@ goldendrive.ch
 goldendsl.ch
 goldendubai.ch
 goldenduck.ch
+goldene-ananas.ch
 goldene-aussicht.ch
 goldene-blumenstube.ch
 goldene-feder.ch
@@ -4029,7 +4033,6 @@ goldenplayy.ch
 goldenpointgmbh.ch
 goldenponies.ch
 goldenprecision.ch
-goldenpreschweiz.ch
 goldenproportion.ch
 goldenproportions.ch
 goldenprotection.ch
@@ -6958,7 +6961,6 @@ gomo-group.ch
 gomo-mobile.ch
 gomo-telecom.ch
 gomo.ch
-gomobil.ch
 gomobile.ch
 gomobility.ch
 gomodern.ch

@@ -261,7 +261,6 @@ phantasee-linsen.ch
 phantaseelinsen.ch
 phantasia.ch
 phantasialand.ch
-phantasiasecondhand.ch
 phantasie.ch
 phantasiecards.ch
 phantasiekiste.ch
@@ -6339,6 +6338,7 @@ phtgmbh.ch
 phth.ch
 phthurgau.ch
 phtls.ch
+phtm.ch
 phtreuhand-ag.ch
 phtrust.ch
 phtx.ch
@@ -6601,6 +6601,7 @@ physiker.ch
 physikidz.ch
 physikinstrumente.ch
 physiklaborant.ch
+physikladen.ch
 physikmentor.ch
 physikmuseumbasel.ch
 physikon.ch
@@ -6821,7 +6822,6 @@ physio-bruegglipark.ch
 physio-bruehlmann.ch
 physio-brugg.ch
 physio-bruggen.ch
-physio-bruggmann.ch
 physio-bruijn.ch
 physio-bubendorf.ch
 physio-bucher.ch

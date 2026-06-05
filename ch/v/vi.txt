@@ -187,7 +187,6 @@ via.ch
 via1.ch
 via2.ch
 via404.ch
-via50.ch
 via50i.ch
 viaaccount.ch
 viaag.ch
@@ -922,6 +921,8 @@ viastreet.ch
 viasud.ch
 viasuisse.ch
 viasummit.ch
+viasun.ch
+viasup.ch
 viasurprise.ch
 viasus.ch
 viasuworow.ch
@@ -1110,7 +1111,6 @@ vibe-hearing.ch
 vibe-marketing.ch
 vibe-media.ch
 vibe-studio.ch
-vibe-tec.ch
 vibe.ch
 vibe4school.ch
 vibea.ch
@@ -1436,6 +1436,7 @@ vibrocil.ch
 vibrodata.ch
 vibrodynamik.ch
 vibroflex.ch
+vibroflip.ch
 vibroflotation.ch
 vibromasseur.ch
 vibromasseursuisse.ch
@@ -2056,7 +2057,6 @@ victory-garagen.ch
 victory-group.ch
 victory-gym.ch
 victory-management.ch
-victory-ostermundigen.ch
 victory-riders-switzerland.ch
 victory-shop.ch
 victory-styles.ch
@@ -3941,6 +3941,7 @@ vierte-gewalt.ch
 vierte-saeule.ch
 vierte-welt.ch
 vierte.ch
+viertedimension.ch
 viertekanzlei.ch
 viertel-ab.ch
 viertel-kreis.ch
@@ -4417,6 +4418,7 @@ vigiervidur.ch
 vigierviflex.ch
 vigiervifort.ch
 vigierviva.ch
+vigifrelon.ch
 vigihair.ch
 vigihairextension.ch
 vigil-ia.ch
@@ -6249,7 +6251,6 @@ villas-passion.ch
 villas-pleiades.ch
 villas-prez.ch
 villas-rannaux.ch
-villas-reposoir.ch
 villas-rives49.ch
 villas-rolle.ch
 villas-rossin.ch
@@ -6306,6 +6307,7 @@ villaschoenwil.ch
 villaschweizerhof.ch
 villascoloresspain.ch
 villascona.ch
+villascorbillettes.ch
 villasdesfalaises.ch
 villaseahorse.ch
 villaseefeld.ch
@@ -7725,6 +7727,7 @@ vinhoporto.ch
 vinhosdeportugal.ch
 vinhosdouro.ch
 vinhoverde.ch
+vinhus.ch
 vini-amann.ch
 vini-bau.ch
 vini-bettoni.ch
@@ -9150,6 +9153,7 @@ vinvino.ch
 vinvoi.ch
 vinvoixvalais.ch
 vinwatchexpert.ch
+vinwater.ch
 vinwin.ch
 vinx-portal.ch
 vinx.ch
@@ -10454,6 +10458,7 @@ virellahealth.ch
 virelli.ch
 virellicorti.ch
 virello.ch
+virellodigit.ch
 virelune.ch
 virements.ch
 viremo-immobilien.ch
@@ -11945,6 +11950,7 @@ visar-halilaj.ch
 visar.ch
 visara.ch
 visarative.ch
+visarch.ch
 visard.ch
 visaretfilsetancheite.ch
 visari.ch
@@ -13087,7 +13093,6 @@ visionfinsa.ch
 visionfitness.ch
 visionfix.ch
 visionflow.ch
-visionflyx.ch
 visionfm.ch
 visionfmservices.ch
 visionfocus.ch
@@ -13354,6 +13359,7 @@ visionsoft.ch
 visionsolidaire.ch
 visionsolutions.ch
 visionsound.ch
+visionspeak.ch
 visionspirit.ch
 visionspool.ch
 visionsprojects.ch
@@ -14752,6 +14758,7 @@ visualworld.ch
 visualytics.ch
 visualyze.ch
 visuamedia.ch
+visuanova.ch
 visuar.ch
 visuara.ch
 visuare.ch
@@ -17872,6 +17879,7 @@ viva-chur.ch
 viva-church.ch
 viva-churros.ch
 viva-cite-villeneuve.ch
+viva-cite.ch
 viva-colore.ch
 viva-congress.ch
 viva-consulting.ch

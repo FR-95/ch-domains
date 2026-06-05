@@ -166,7 +166,6 @@ ewb-sima.ch
 ewb-solarrechner.ch
 ewb-umfrage.ch
 ewb.ch
-ewba.ch
 ewbb.ch
 ewbdata.ch
 ewbinn.ch
@@ -284,6 +283,7 @@ ewg-graubuenden.ch
 ewg-jsf.ch
 ewg-opus-2.ch
 ewg-opus.ch
+ewg-ost.ch
 ewg-sa.ch
 ewg-winterthur.ch
 ewg-winti.ch
@@ -494,6 +494,8 @@ ewoberglatt.ch
 ewobergoms.ch
 ewocar-schweiz.ch
 ewocar.ch
+ewocarschweiz.ch
+ewocarshop.ch
 ewocloud.ch
 ewoewo.ch
 ewoffice.ch

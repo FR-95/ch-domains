@@ -115,7 +115,6 @@ usa-center.ch
 usa-ferien.ch
 usa-flugtickets.ch
 usa-getriebe.ch
-usa-hotels.ch
 usa-import-shop.ch
 usa-import.ch
 usa-imports.ch
@@ -196,7 +195,6 @@ usagi.ch
 usagreencard.ch
 usahacks.ch
 usahotdog.ch
-usahotels.ch
 usai.ch
 usaiconsulting.ch
 usaimo.ch
@@ -1329,6 +1327,7 @@ uster-stadt-am-abgrund.ch
 uster-suanlong.ch
 uster-surft-gratis.ch
 uster-taekwondo.ch
+uster-umzugsfirma.ch
 uster-west.ch
 uster-yoga.ch
 uster-zahnarzt.ch

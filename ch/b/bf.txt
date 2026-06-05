@@ -145,7 +145,6 @@ bfb.ch
 bfbag-zh.ch
 bfbag.ch
 bfbassicurazioni.ch
-bfbau.ch
 bfbauad.ch
 bfbaugmbh.ch
 bfbauwerk.ch
@@ -360,6 +359,7 @@ bfk-edv-consulting.ch
 bfk-gl.ch
 bfk-glarnerland.ch
 bfk-invest.ch
+bfk-kulm.ch
 bfk-law.ch
 bfk-partner-ag.ch
 bfk-partner.ch
@@ -455,6 +455,7 @@ bform.ch
 bfoundation.ch
 bfox.ch
 bfp-betonfrais.ch
+bfp-bonalumiferraripartner-sa.ch
 bfp-immo.ch
 bfp-partner.ch
 bfp-sa.ch

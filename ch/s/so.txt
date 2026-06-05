@@ -1071,6 +1071,7 @@ socialboost.ch
 socialbot.ch
 socialbox.ch
 socialbrand.ch
+socialbrands.ch
 socialbridge.ch
 socialbureau.ch
 socialbusiness.ch
@@ -1125,6 +1126,7 @@ socialcompetence.ch
 socialconcierge.ch
 socialconnect.ch
 socialconnection.ch
+socialconnections.ch
 socialconsulting.ch
 socialcontent.ch
 socialcontract21.ch
@@ -1498,7 +1500,6 @@ socialmesse.ch
 socialmetrics.ch
 socialmind.ch
 socialmob.ch
-socialmonde.ch
 socialmoney.ch
 socialmonitoring.ch
 socialmood.ch
@@ -1827,7 +1828,6 @@ societedeshorlogers.ch
 societedespharmaciens.ch
 societedetirdurhone.ch
 societedetoiture.ch
-societedeveloppementlacgruyere.ch
 societedeveloppementpayerne.ch
 societedigitale.ch
 societeduleman.ch
@@ -2553,7 +2553,6 @@ soerenmeier.ch
 soerensangkuhl.ch
 soerensen-fenster.ch
 soerensen.ch
-soerenuhrba.ch
 soerf.ch
 soerfbraett.ch
 soerfer.ch
@@ -4742,7 +4741,6 @@ soins-dentaires-jeunesse.ch
 soins-dentaires-suisse.ch
 soins-dentaires-suisses.ch
 soins-dentaires.ch
-soins-des-arbres.ch
 soins-dhetre.ch
 soins-domicile-broye.ch
 soins-domicile-est-vaudois.ch
@@ -5283,6 +5281,7 @@ solacapital.ch
 solacasa.ch
 solace.ch
 solacebynathalie.ch
+solacecollective.ch
 solacecreative.ch
 solacem.ch
 solaclean.ch
@@ -5866,7 +5865,6 @@ solar-one.ch
 solar-online.ch
 solar-optimizer.ch
 solar-origami.ch
-solar-ostschweiz.ch
 solar-pac.ch
 solar-pan.ch
 solar-panel-12v.ch
@@ -5999,7 +5997,6 @@ solar-starswiss.ch
 solar-starten.ch
 solar-steuerbonus.ch
 solar-storen.ch
-solar-strassenbeleuchtung.ch
 solar-stratos.ch
 solar-strom.ch
 solar-strompreis-check.ch
@@ -6059,17 +6056,14 @@ solar-water-system.ch
 solar-water-systems.ch
 solar-webcam.ch
 solar-weg.ch
-solar-weinfelden.ch
 solar-weiss.ch
 solar-welt.ch
 solar-wende.ch
 solar-werkstatt.ch
 solar-wettbewerb.ch
 solar-wetzikon.ch
-solar-wil.ch
 solar-wind.ch
 solar-window.ch
-solar-winterthur.ch
 solar-wohnhaus-check.ch
 solar-wohnmobil.ch
 solar-x.ch
@@ -6690,7 +6684,6 @@ solarforme.ch
 solarfox.ch
 solarfrachtschiff.ch
 solarframe.ch
-solarfrauenfeld.ch
 solarfree.ch
 solarfreeze.ch
 solarfreiamt.ch
@@ -7297,7 +7290,6 @@ solaroptimizer.ch
 solarorigami.ch
 solaros.ch
 solarost.ch
-solarostschweiz.ch
 solarosuites.ch
 solarova.ch
 solarox.ch
@@ -7891,7 +7883,6 @@ solarwebcam.ch
 solarwebservices.ch
 solarweg.ch
 solarwehntal.ch
-solarweinfelden.ch
 solarweiterbildung.ch
 solarwelle.ch
 solarwelt.ch
@@ -7904,7 +7895,6 @@ solarwettbewerb.ch
 solarwheel.ch
 solarwhite.ch
 solarwiki.ch
-solarwil.ch
 solarwind.ch
 solarwindenergie.ch
 solarwindow.ch
@@ -7914,7 +7904,6 @@ solarwindscloud.ch
 solarwindssoftware.ch
 solarwing.ch
 solarwingert.ch
-solarwinterthur.ch
 solarwinterthur24.ch
 solarwirtschaft.ch
 solarwise.ch
@@ -9398,6 +9387,7 @@ solisallroundservice.ch
 solisan.ch
 solisardu.ch
 solisart.ch
+solisatelier.ch
 solisbruecke.ch
 solisburger.ch
 solisclean.ch
@@ -9694,6 +9684,7 @@ solo-kinderlich.ch
 solo-med.ch
 solo-ny.ch
 solo-partnership.ch
+solo-pizza.ch
 solo-products.ch
 solo-romandie.ch
 solo-se-si.ch
@@ -9898,6 +9889,7 @@ solotango.ch
 soloteam.ch
 solotec.ch
 solotech.ch
+solotechsolutions.ch
 solothorn.ch
 solothurn-althuesli.ch
 solothurn-bern.ch
@@ -13893,6 +13885,7 @@ sonne-energie-fassaden.ch
 sonne-energie.ch
 sonne-entdecken.ch
 sonne-erde.ch
+sonne-ferien-rigi.ch
 sonne-freienbach.ch
 sonne-fuer-alle.ch
 sonne-goldingen.ch
@@ -15588,6 +15581,7 @@ sopaj-bodenleger.ch
 sopaj-gartenunterhalt.ch
 sopajbodenleger.ch
 sopajfs.ch
+sopal.ch
 sopaproair.ch
 sopar.ch
 soparch.ch
@@ -16394,6 +16388,7 @@ soraia-adhu.ch
 soraia-coiffure-beauty.ch
 soraiasimao.ch
 soraijabaumgartner.ch
+soraimassage.ch
 soraix.ch
 soraiya.ch
 soraja.ch
@@ -17179,6 +17174,7 @@ sorvea.ch
 sorveaclo.ch
 sorveglianza-della-revisione.ch
 sorveglianza.ch
+sorvelutik.ch
 sorvilier.ch
 sorvilier24.ch
 sorxam.ch

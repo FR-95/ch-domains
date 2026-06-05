@@ -381,7 +381,6 @@ ihr-beck.ch
 ihr-berater.ch
 ihr-bergerlebnis.ch
 ihr-bestatter.ch
-ihr-biorhythmus.ch
 ihr-bodenleger.ch
 ihr-brustzentrum-nordwest.ch
 ihr-brustzentrum-nw.ch
@@ -449,7 +448,6 @@ ihr-held.ch
 ihr-helfer.ch
 ihr-hemd.ch
 ihr-hochzeits-foto.ch
-ihr-hochzeitsfotograf.ch
 ihr-hochzeitsplaner.ch
 ihr-holzbauer.ch
 ihr-holzkaeufer.ch
@@ -1150,6 +1148,7 @@ ihrsmartcenter.ch
 ihrsmartweb.ch
 ihrsolarstrom.ch
 ihrsondereinsatzkommando.ch
+ihrsorglospaket.ch
 ihrspengler.ch
 ihrspitex.ch
 ihrsprecher.ch

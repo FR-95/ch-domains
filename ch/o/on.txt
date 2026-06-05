@@ -536,7 +536,6 @@ oncoguide.ch
 oncogyn.ch
 oncoin.ch
 oncoinformer.ch
-oncokairos.ch
 oncol.ch
 oncoleman.ch
 oncoletter.ch
@@ -2617,6 +2616,7 @@ onglober.ch
 onglons.ch
 onglonssains.ch
 onglyza.ch
+ongnamo.ch
 ongo-praxisguide.ch
 ongo.ch
 ongoing.ch
@@ -3897,6 +3897,7 @@ online-sanierungen.ch
 online-sanitaer.ch
 online-schadenersatz.ch
 online-schalter-plus.ch
+online-schalter.ch
 online-schatzkammer.ch
 online-scheiden.ch
 online-scheidung.ch
@@ -5917,6 +5918,7 @@ onlyaesthetics.ch
 onlyai.ch
 onlyandsons.ch
 onlyapis.ch
+onlyarrows.ch
 onlybabes.ch
 onlybaby.ch
 onlybadminton.ch

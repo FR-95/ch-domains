@@ -1356,6 +1356,7 @@ med-lachen.ch
 med-laserzentrum.ch
 med-law.ch
 med-learn.ch
+med-lex.ch
 med-line.ch
 med-link.ch
 med-location.ch
@@ -1697,10 +1698,7 @@ medalis.ch
 medallia.ch
 medalliance.ch
 medallien.ch
-medallion-capital.ch
 medallion.ch
-medallioncapital.ch
-medalliongroup.ch
 medalme.ch
 medalp.ch
 medalparco.ch
@@ -3669,7 +3667,6 @@ median.ch
 mediana.ch
 medianadi.ch
 medianauten.ch
-mediance.ch
 medianconsulting.ch
 mediando.ch
 mediane-coiffure-visagisme.ch
@@ -6838,6 +6835,7 @@ medintel.ch
 medinter.ch
 medinterclinic.ch
 medinterna.ch
+medinthecity.ch
 medintim.ch
 medinvention.ch
 medinvest.ch
@@ -12302,7 +12300,6 @@ meierhansfotografie.ch
 meierhansmuehle.ch
 meierhansmuehlen.ch
 meierhaustechnik.ch
-meierhealthcare.ch
 meierhegner.ch
 meierhitz.ch
 meierhoefer.ch
@@ -13359,6 +13356,7 @@ mein-foto-album.ch
 mein-foto-profi.ch
 mein-fotoalbum.ch
 mein-fotobuch.ch
+mein-fotograf.ch
 mein-fotoshooting.ch
 mein-frauenarzt-winterthur.ch
 mein-freelancer.ch
@@ -13490,6 +13488,7 @@ mein-hochwasserschutz.ch
 mein-hochzeits-fotograf.ch
 mein-hochzeitsalbum.ch
 mein-hochzeitsfoto.ch
+mein-hochzeitsfotograf.ch
 mein-hoergeraet.ch
 mein-hoersystem.ch
 mein-hof.ch
@@ -16976,6 +16975,7 @@ meinradiokanal.ch
 meinradkofmel.ch
 meinradpeter.ch
 meinradpittet.ch
+meinradsberg-einsiedeln.ch
 meinradsberg.ch
 meinradschade.ch
 meinradstoecklin.ch
@@ -18916,6 +18916,7 @@ melbourneit.ch
 melbye.ch
 melc.ch
 melcakes.ch
+melcap.ch
 melcapcoaching.ch
 melcar.ch
 melcarne-peinture.ch
@@ -19287,6 +19288,7 @@ melinda-dance-center.ch
 melinda-niggli.ch
 melinda-photography.ch
 melinda-vogt.ch
+melinda-wildmann.ch
 melinda-wirth.ch
 melinda.ch
 melindablomma.ch
@@ -19301,6 +19303,7 @@ melindas-handmade.ch
 melindasbeauty.ch
 melindasoekoreinigungsservice.ch
 melindatex.ch
+melindawildmann.ch
 melindawirth.ch
 melindayoga.ch
 melindiareisen.ch
@@ -20600,6 +20603,7 @@ memo-takeaway-wettingen.ch
 memo.ch
 memo2immo.ch
 memo3.ch
+memoa.ch
 memoair.ch
 memoapp.ch
 memoba.ch
@@ -20902,6 +20906,7 @@ memoryclinic-freiamt.ch
 memoryclinic.ch
 memorycloud.ch
 memorycode.ch
+memorycorner.ch
 memorycraft.ch
 memorycrystal.ch
 memoryday.ch
@@ -26920,7 +26925,6 @@ messe-job.ch
 messe-jobs.ch
 messe-kalender.ch
 messe-kleider.ch
-messe-kontakt.ch
 messe-leipzig.ch
 messe-luzern.ch
 messe-macher.ch
@@ -29937,6 +29941,7 @@ meteo-wohlen.ch
 meteo.ch
 meteo1.ch
 meteo24.ch
+meteo2fou.ch
 meteo360.ch
 meteoactuelle.ch
 meteoaktuell.ch
@@ -30039,6 +30044,7 @@ meteor.ch
 meteor7.ch
 meteora-case.ch
 meteora-cases.ch
+meteora-reinigung.ch
 meteora.ch
 meteoracase.ch
 meteoracases.ch
@@ -32459,6 +32465,7 @@ meyer-sion.ch
 meyer-sklenar.ch
 meyer-soehne.ch
 meyer-soltys-coaching.ch
+meyer-solutions.ch
 meyer-sourire.ch
 meyer-spenglerei.ch
 meyer-spinnler.ch
@@ -32669,6 +32676,7 @@ meyershofladen.ch
 meyersimon.ch
 meyersimone.ch
 meyersmarketing.ch
+meyersolutions.ch
 meyersontour.ch
 meyersound.ch
 meyerspargel.ch

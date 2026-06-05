@@ -5903,6 +5903,7 @@ buess-vins.ch
 buess.ch
 buessag.ch
 buessconsulting.ch
+buessehoeckeler.ch
 buesser-benz.ch
 buesser-gartenbau.ch
 buesser-gastro.ch
@@ -6635,6 +6636,7 @@ buhn.ch
 buhnstrasse24.ch
 buho-ag.ch
 buho-rooftop.ch
+buho-saas.ch
 buho-zurich.ch
 buho.ch
 buhoelzli.ch
@@ -7383,6 +7385,8 @@ bull-rent.ch
 bull-riding.ch
 bull-services.ch
 bull-shot.ch
+bull-taxi.ch
+bull-taxis.ch
 bull-terrier.ch
 bull-treuhand.ch
 bull.ch
@@ -7481,7 +7485,6 @@ bulle2018.ch
 bulle24.ch
 bulleasso.ch
 bullebaseball.ch
-bullebaseballch.ch
 bullebasket.ch
 bullebox.ch
 bullebusinesscenter.ch
@@ -7846,6 +7849,8 @@ bullstaff-hilfe.ch
 bullstage.ch
 bullstit.ch
 bullstride.ch
+bulltaxi.ch
+bulltaxis.ch
 bullte.ch
 bulltech.ch
 bullterrier-in-not.ch
@@ -8205,7 +8210,6 @@ bundesbahn.ch
 bundesbahnen.ch
 bundesbattle.ch
 bundesbauten.ch
-bundesbern-aktuell.ch
 bundesbern.ch
 bundesbeschlussvelo-ja.ch
 bundesblatt.ch
@@ -8303,6 +8307,7 @@ bundestagswahl.ch
 bundestrainer.ch
 bundesuebung.ch
 bundesverband-mittelstand.ch
+bundesverband-tierenergetische-berufe.ch
 bundesverband-tierkommunikation.ch
 bundesverband-wirtschaft.ch
 bundesvereinigung-franchisewirtschaft.ch
@@ -8316,6 +8321,7 @@ bundesverwaltung.ch
 bundesverwaltungsgericht.ch
 bundeswahlen.ch
 bundeswehr.ch
+bundeverband-tierenergetik.ch
 bundfinvest.ch
 bundg.ch
 bundgaard.ch
@@ -8364,6 +8370,7 @@ bundlerteufl.ch
 bundles.ch
 bundm.ch
 bundmbpk.ch
+bundnerbauwerk.ch
 bundnerfleisch.ch
 bundnerhof.ch
 bundnerladali.ch
@@ -9215,6 +9222,7 @@ bureau2prod.ch
 bureau3.ch
 bureau31.ch
 bureau314.ch
+bureau360.ch
 bureau51.ch
 bureau54.ch
 bureau8.ch
@@ -9332,6 +9340,7 @@ bureauschnauz.ch
 bureauschneider.ch
 bureausenn.ch
 bureauservice.ch
+bureausls.ch
 bureausocial-bienne.ch
 bureauspitex.ch
 bureauspring.ch
@@ -13951,6 +13960,7 @@ busylizzie.ch
 busymail.ch
 busymouse.ch
 busymouse365.ch
+busyness.ch
 buszeit.ch
 buszelt.ch
 buszelte.ch
@@ -14092,6 +14102,7 @@ butiq-ict.ch
 butiq.ch
 butke.ch
 butkevi.ch
+butkovi.ch
 butl.ch
 butler-24h.ch
 butler-conduct-manager.ch
@@ -14429,7 +14440,6 @@ butty-fiduciaire.ch
 butty-sa.ch
 butty-vins.ch
 butty.ch
-buttyfleursetjardins.ch
 buttyfoodservice.ch
 buttyjardins.ch
 buttypaysages.ch

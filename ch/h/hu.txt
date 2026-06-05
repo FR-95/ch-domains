@@ -887,7 +887,6 @@ hubgets.ch
 hubgrade.ch
 hubhansen.ch
 hubhaus.ch
-hubheld.ch
 hubhof.ch
 hubhouse.ch
 hubhub.ch
@@ -4026,6 +4025,7 @@ humanoid-rent.ch
 humanoid-roboter.ch
 humanoid-switzerland.ch
 humanoid.ch
+humanoide-roboter.ch
 humanoide.ch
 humanoideai.ch
 humanoideki.ch
@@ -5456,7 +5456,6 @@ hundegitter24.ch
 hundegitterhoehener.ch
 hundeglueckbydesiree.ch
 hundegluecklich.ch
-hundeglueckluzern.ch
 hundeglueckthun.ch
 hundegold.ch
 hundegoodies.ch
@@ -6630,6 +6629,7 @@ hundestudioarlette.ch
 hundestudiobellevue.ch
 hundestudiodoris.ch
 hundestudiomarion.ch
+hundestuebli.ch
 hundestunde-karin-dziri.ch
 hundestunde.ch
 hundestyling.ch

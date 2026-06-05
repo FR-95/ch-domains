@@ -1031,7 +1031,6 @@ msfl.ch
 msflash.ch
 msflausanne.ch
 msflightsim.ch
-msfm.ch
 msfons.ch
 msforum.ch
 msfoto.ch
@@ -1407,6 +1406,7 @@ msmgroup.ch
 msmguide.ch
 msmi.ch
 msmiam.ch
+msmiarn.ch
 msmichelsamt-surental.ch
 msmichelsamt.ch
 msmm.ch

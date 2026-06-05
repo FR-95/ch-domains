@@ -308,6 +308,7 @@ sfcns.ch
 sfco.ch
 sfcoaching.ch
 sfcoin.ch
+sfcoll.ch
 sfcom.ch
 sfcompany.ch
 sfconline.ch
@@ -885,7 +886,6 @@ sfsunimarket-dev.ch
 sfsunimarket.ch
 sfsversoix.ch
 sfsw.ch
-sfsz.ch
 sfszug.ch
 sft-ag.ch
 sft-dtb.ch

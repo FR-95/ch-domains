@@ -941,8 +941,6 @@ tobymerkli.ch
 tobymueller.ch
 tobyond.ch
 tobyroyal.ch
-tobys-garage.ch
-tobys-hotrods.ch
 tobys-mac-tipps.ch
 tobystuder.ch
 tobyvienna.ch
@@ -1044,6 +1042,7 @@ tocs.ch
 tocsin-sierre.ch
 tocsin.ch
 tocspasserelles.ch
+tocstv.ch
 toctino.ch
 toctoc-shop.ch
 toctoc.ch
@@ -2740,6 +2739,7 @@ tol.ch
 tola-fugentechnik.ch
 tola-saasfee.ch
 tola.ch
+toladu.ch
 tolag.ch
 tolaj-immobilien.ch
 tolaj.ch
@@ -3028,7 +3028,6 @@ tom-consulting.ch
 tom-d-arby.ch
 tom-d.ch
 tom-dev.ch
-tom-eckt-an.ch
 tom-erhart.ch
 tom-events.ch
 tom-facility-management.ch
@@ -3483,7 +3482,6 @@ tomcat-hosting.ch
 tomcat.ch
 tomcc.ch
 tomcecchetto.ch
-tomcept.ch
 tomchan.ch
 tomcicic.ch
 tomclancyrainbowsix.ch
@@ -3520,7 +3518,6 @@ tome.ch
 tomea.ch
 tomec.ch
 tomecek.ch
-tomecktan.ch
 tomeco.ch
 tomed.ch
 tomedia.ch
@@ -6504,7 +6501,6 @@ top-of-kids.ch
 top-of-learning.ch
 top-of-lugano.ch
 top-of-mastrils.ch
-top-of-nails.ch
 top-of-oetwil.ch
 top-of-rail.ch
 top-of-saas.ch
@@ -6540,6 +6536,7 @@ top-parts.ch
 top-partyband.ch
 top-partybands.ch
 top-payers.ch
+top-pellet.ch
 top-performance.ch
 top-performer.ch
 top-personal.ch
@@ -7645,6 +7642,7 @@ topfinance.ch
 topfinanzierung.ch
 topfinanzkombi.ch
 topfind.ch
+topfinish.ch
 topfinition.ch
 topfiori.ch
 topfiorista.ch
@@ -9979,6 +9977,7 @@ tortekonfigurieren.ch
 tortella.ch
 tortelli.ch
 tortellini.ch
+tortellino.ch
 tortello.ch
 tortelloni.ch
 tortelly.ch
@@ -10473,7 +10472,6 @@ total-compensation.ch
 total-dental.ch
 total-ecall.ch
 total-energies.ch
-total-entspannt-zum-zahnarzt.ch
 total-experience.ch
 total-fit.ch
 total-gut.ch
@@ -12256,6 +12254,7 @@ tousfestivalsbd.ch
 tousfootdafflelou.ch
 tousguerisseurs.ch
 touslesannuaires.ch
+touslesconcours.ch
 touslesjoursdubruit.ch
 touslesprojets.ch
 touslessols.ch

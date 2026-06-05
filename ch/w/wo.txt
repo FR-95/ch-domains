@@ -2497,7 +2497,6 @@ wohnparkalp.ch
 wohnparkambachtel.ch
 wohnparkbachtel.ch
 wohnparkbluemlisalp.ch
-wohnparkchampagne.ch
 wohnparkeschenz.ch
 wohnparkherz.ch
 wohnparkhoefen.ch
@@ -3182,6 +3181,7 @@ wohnungslosigkeit.ch
 wohnungslueftung.ch
 wohnungsluft.ch
 wohnungsmacher.ch
+wohnungsmarkt-aktuell.ch
 wohnungsmarkt.ch
 wohnungsmarktmonitor.ch
 wohnungsmiet-auktion.ch
@@ -5240,6 +5240,7 @@ womenshope.ch
 womenshub.ch
 womenshumanrights.ch
 womenslike.ch
+womenslongevitycircle.ch
 womensmar.ch
 womensmarch.ch
 womensmasters.ch
@@ -7231,6 +7232,7 @@ work-smart-initiative.ch
 work-smart.ch
 work-smarter.ch
 work-solution.ch
+work-solutions.ch
 work-space-gossau.ch
 work-space.ch
 work-station.ch
@@ -8145,7 +8147,6 @@ workspaceandmore.ch
 workspaceclub.ch
 workspacedavos.ch
 workspacefor1.ch
-workspaceforone.ch
 workspacegossau.ch
 workspaces.ch
 workspaceseidenweg.ch
@@ -9094,7 +9095,6 @@ worldtimes-gmbh.ch
 worldtoken.ch
 worldtoplay.ch
 worldtotalk.ch
-worldtou.ch
 worldtour-2020.ch
 worldtour.ch
 worldtour2020.ch
@@ -9189,7 +9189,6 @@ worldwideparking.ch
 worldwideseating.ch
 worldwideshine.ch
 worldwidespirits.ch
-worldwidespita.ch
 worldwidestones.ch
 worldwideswisscommunity.ch
 worldwidetrade.ch
@@ -9869,6 +9868,7 @@ woundcenter.ch
 woundcheck.ch
 woundclot.ch
 woundconsulting.ch
+wounddesk.ch
 woundgate.ch
 woundglass.ch
 woundleague.ch
@@ -10075,6 +10075,7 @@ wowewo.ch
 wowexperiences.ch
 wowfestival.ch
 wowfi.ch
+wowfind.ch
 wowfisch.ch
 wowfit.ch
 wowfitness.ch

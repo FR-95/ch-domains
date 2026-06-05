@@ -1160,7 +1160,6 @@ my-mortgage-broker.ch
 my-mortgage.ch
 my-moto-tour.ch
 my-moto.ch
-my-motomaps.ch
 my-motorino.ch
 my-mototour.ch
 my-mototours.ch
@@ -5257,7 +5256,6 @@ myfingerprint.ch
 myfinishing.ch
 myfinlife.ch
 myfinoba.ch
-myfinsight.ch
 myfio.ch
 myfirazyr.ch
 myfire.ch
@@ -8108,7 +8106,6 @@ mynergy.ch
 mynerva.ch
 myness.ch
 mynest.ch
-mynesthome.ch
 mynet.ch
 mynet2cloud.ch
 mynet2design.ch
@@ -8216,6 +8213,7 @@ mynona.ch
 mynook.ch
 mynorcan.ch
 mynordicvan.ch
+mynorthpath.ch
 mynot.ch
 mynota.ch
 mynotar.ch
@@ -10039,6 +10037,7 @@ myschool.ch
 myschoolcockpit.ch
 myschoolconnects.ch
 myschooldriving.ch
+myschoolnurse.ch
 myschoolpro.ch
 myschoolswiss.ch
 myschoolticino.ch
@@ -10924,6 +10923,7 @@ mysticstones.ch
 mysticstudio.ch
 mysticswan.ch
 mystictan.ch
+mysticte.ch
 mystictrail.ch
 mysticum.ch
 mysticus.ch

@@ -2528,6 +2528,7 @@ krea-gruppe.ch
 krea-in.ch
 krea-keramik.ch
 krea-kin.ch
+krea-kitchen.ch
 krea-ns.ch
 krea-rina.ch
 krea-schmiede.ch
@@ -3901,6 +3902,7 @@ kreditboerse.ch
 kreditboro.ch
 kreditbox.ch
 kreditbroker.ch
+kreditbrucke-kb24.ch
 kreditburo.ch
 kreditcheck.ch
 kreditco.ch
@@ -5501,7 +5503,6 @@ kriftner.ch
 kriga.ch
 krigare.ch
 krigers-fm.ch
-krigla.ch
 krigler.ch
 krigou.ch
 krigu.ch
@@ -6311,6 +6312,7 @@ kritiq.ch
 kritis-450.ch
 kritis-consult.ch
 kritis-defender.ch
+kritis-schweiz.ch
 kritis.ch
 kritis450.ch
 kritisch-denken.ch
@@ -6580,6 +6582,7 @@ krokero.ch
 kroket.ch
 krokette.ch
 kroketten.ch
+kroketteria.ch
 krokettli.ch
 kroki.ch
 krokigang.ch
@@ -7102,6 +7105,8 @@ kroppconsulting.ch
 kroptik.ch
 kropyva.ch
 kroq.ch
+kroqa.ch
+kroqas.ch
 kroqueo.ch
 kros-bodenbelaege.ch
 kros.ch

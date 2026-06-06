@@ -471,10 +471,12 @@ onchainformation.ch
 onchainformations.ch
 onchainfund.ch
 onchainfundmarket.ch
+onchaingold.ch
 onchainization.ch
 onchainized.ch
 onchainlabs.ch
 onchainmarkets.ch
+onchainphysicalgold.ch
 onchainrisk.ch
 onchainswissfund.ch
 onchaintreasuries.ch
@@ -1766,6 +1768,7 @@ onelittlestep.ch
 onelive.ch
 oneliving.ch
 oneloc.ch
+onelocal.ch
 onelog.ch
 onelogic.ch
 onelogin.ch
@@ -2041,6 +2044,7 @@ onerecruiter.ch
 onerecruiting.ch
 oneredact.ch
 onerelation.ch
+onerelocation.ch
 oneremember.ch
 oneremote.ch
 onerenovationsuisse.ch
@@ -5489,7 +5493,6 @@ onlineshops-schweiz.ch
 onlineshops.ch
 onlineshopschild.ch
 onlineshopschweiz.ch
-onlineshopschwiiz.ch
 onlineshopteam.ch
 onlineshopvegan.ch
 onlineshopverkaufen.ch
@@ -5724,6 +5727,8 @@ onlinevermarktung.ch
 onlineverpackung.ch
 onlineversand.ch
 onlineversandhaus.ch
+onlineversicherig.ch
+onlineversicherige.ch
 onlineversicherung.ch
 onlineversicherungen.ch
 onlineversicherungsordner.ch
@@ -7108,8 +7113,6 @@ onyxcombat.ch
 onyxcommodities.ch
 onyxcommunication.ch
 onyxcookware.ch
-onyxcreative.ch
-onyxcreativestudio.ch
 onyxdepartment.ch
 onyxdesign.ch
 onyxdm.ch

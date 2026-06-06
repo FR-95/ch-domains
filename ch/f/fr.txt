@@ -442,7 +442,6 @@ fraeulein-knopf.ch
 fraeulein-luise.ch
 fraeulein-m.ch
 fraeulein-meier.ch
-fraeulein-schmid.ch
 fraeulein-smilla.ch
 fraeulein-wunder.ch
 fraeulein-wunderfitz.ch
@@ -1992,7 +1991,6 @@ francsuissenumerique.ch
 francsvizzer.ch
 franctone.ch
 francu.ch
-francvila.ch
 francy-on-tour.ch
 francy.ch
 francyestore.ch
@@ -2668,6 +2666,7 @@ franz-gysi.ch
 franz-hanna.ch
 franz-heinzer.ch
 franz-hengartner.ch
+franz-hohler.ch
 franz-hugener.ch
 franz-in-motion.ch
 franz-k-opitz.ch
@@ -2706,6 +2705,7 @@ franz-ulrich.ch
 franz-umzuege.ch
 franz-und-coco.ch
 franz-vb.ch
+franz-von-assisi.ch
 franz-von-sales.ch
 franz-wespe.ch
 franz-wielgoss.ch
@@ -3411,7 +3411,6 @@ frasses2024.ch
 frassini.ch
 frasso.ch
 frasson.ch
-frasspackli.ch
 frassy.ch
 frast-verlag.ch
 fraste.ch
@@ -6590,6 +6589,7 @@ freebeach.ch
 freebeat.ch
 freebeautyday.ch
 freebee.ch
+freebeer.ch
 freebellinzonawalkingtours.ch
 freebells.ch
 freebelly.ch
@@ -7807,6 +7807,7 @@ freetimeswitzerland.ch
 freetimeteam.ch
 freetimex.ch
 freetipp.ch
+freetix.ch
 freetobe.ch
 freetobegreen.ch
 freetochoose.ch
@@ -8271,7 +8272,6 @@ frei-stil.ch
 frei-stirnimann.ch
 frei-strassenreinigung.ch
 frei-stucki.ch
-frei-style.ch
 frei-support.ch
 frei-swiss.ch
 frei-systeme.ch
@@ -9100,6 +9100,7 @@ freihandelszone.ch
 freihandlabor.ch
 freihandundfuss.ch
 freihandverkauf-praxis.ch
+freihandyg.ch
 freihans.ch
 freihart.ch
 freihaus.ch
@@ -10791,6 +10792,7 @@ frescolino.ch
 frescolo.ch
 frescolori.ch
 frescomakersmarket.ch
+frescoo.ch
 frescopizza.ch
 frescopizzabasel.ch
 frescopizzakurierbasel.ch
@@ -12029,6 +12031,7 @@ freyabrenn.ch
 freyacare.ch
 freyadmin.ch
 freyadoublage.ch
+freyafinden.ch
 freyag-stans.ch
 freyaheilpflanzenschule.ch
 freyakademie.ch
@@ -12108,6 +12111,7 @@ freyciemail.ch
 freycienidwalden.ch
 freyciestans.ch
 freyclean.ch
+freycloud.ch
 freycoaching.ch
 freycomestibles.ch
 freycomestiblesshop.ch
@@ -14323,6 +14327,7 @@ frimaint.ch
 frimake.ch
 friman.ch
 frimanager.ch
+frimancave.ch
 frimanga.ch
 frimann-group.ch
 frimann-innoswiss.ch
@@ -16172,7 +16177,6 @@ fromarte.ch
 fromase.ch
 fromashestoearth.ch
 fromashop.ch
-fromasnack.ch
 fromatheque.ch
 fromatoz.ch
 fromatozandmore.ch
@@ -16357,6 +16361,7 @@ frontalien.ch
 frontalier-avocat.ch
 frontalier-conseil.ch
 frontalier-finance.ch
+frontalier-suisse.ch
 frontalier.ch
 frontaliercomply.ch
 frontalierconseil.ch
@@ -17788,6 +17793,7 @@ fruttiextra.ch
 fruttiger.ch
 fruttini.ch
 fruttipertutti.ch
+fruttiritrovati.ch
 fruttisima.ch
 fruttissima.ch
 fruttitutti.ch

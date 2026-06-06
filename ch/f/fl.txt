@@ -1582,7 +1582,6 @@ flaum.ch
 flaumundfeder.ch
 flaun.ch
 flaura2025.ch
-flaus.ch
 flausch.ch
 flauschfarm.ch
 flauschig.ch
@@ -2183,6 +2182,7 @@ fleet.ch
 fleet1.ch
 fleet360.ch
 fleeta.ch
+fleetai.ch
 fleetakademie.ch
 fleetautosense.ch
 fleetbase-online.ch
@@ -2847,6 +2847,7 @@ fleuristesvalais.ch
 fleuristevalais.ch
 fleuristik.ch
 fleuristnet.ch
+fleuristonbalcon.ch
 fleurlicious.ch
 fleurlune.ch
 fleurmann.ch
@@ -2866,6 +2867,7 @@ fleurop-home.ch
 fleurop-info.ch
 fleurop-interflora.ch
 fleurop-intranet.ch
+fleurop-kids.ch
 fleurop-marketing-factory.ch
 fleurop-mf.ch
 fleurop-shop.ch
@@ -4655,6 +4657,7 @@ flinders.ch
 fling.ch
 flingeverx.ch
 flingeverxai.ch
+flingeverxki.ch
 flingio.ch
 flingo.ch
 flink-dekoration.ch
@@ -5914,6 +5917,7 @@ floorconcept.ch
 floorcontrol.ch
 floordecor.ch
 floordesign.ch
+floorestate.ch
 floorex.ch
 floorexo.ch
 floorexpert.ch
@@ -6355,6 +6359,7 @@ florathek.ch
 floratherapie.ch
 floraticinensis.ch
 floraticino.ch
+floratium.ch
 floratreat.ch
 florauna.ch
 floraundfauna.ch
@@ -7089,7 +7094,6 @@ florida-vacation.ch
 florida-villa.ch
 florida.ch
 florida24.ch
-floridabestvillas.ch
 floridaboy.ch
 floridaburger-dietlikon.ch
 floridaburger.ch
@@ -7480,7 +7484,6 @@ flosstools.ch
 flossy.ch
 flosteiner.ch
 flostyle.ch
-flosuisse.ch
 flosun.ch
 flot-geneve.ch
 flot.ch
@@ -8115,7 +8118,6 @@ flowform.ch
 flowforms.ch
 flowformzh.ch
 flowfox.ch
-flowfpv.ch
 flowfrage.ch
 flowframe.ch
 flowframework.ch
@@ -8286,6 +8288,7 @@ flowmo.ch
 flowmobility.ch
 flowmocean.ch
 flowmoment.ch
+flowmonkey.ch
 flowmont.ch
 flowmotion-kinesiologie.ch
 flowmotion-massage.ch
@@ -10077,6 +10080,7 @@ flurimmobilien.ch
 flurimo.ch
 flurin-burkard.ch
 flurin-denoth.ch
+flurin-erath.ch
 flurin-fischer.ch
 flurin-jacomet.ch
 flurin-pestalozzi-ba.ch
@@ -10728,6 +10732,7 @@ fly-jungfrau.ch
 fly-keynet.ch
 fly-klosters.ch
 fly-lakeland.ch
+fly-limo.ch
 fly-loco.ch
 fly-marketing.ch
 fly-matterhorn.ch

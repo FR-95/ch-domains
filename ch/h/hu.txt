@@ -3577,6 +3577,7 @@ humanagenda.ch
 humanaging.ch
 humanai.ch
 humanaiinnovations.ch
+humanaitransformation.ch
 humanaity.ch
 humanaiworkforce.ch
 humanalgo.ch
@@ -4566,7 +4567,6 @@ hummerschwumm-arbon.ch
 hummersculinarium.ch
 hummerzueri.ch
 hummerzuerich.ch
-hummijeanmaire.ch
 humminbird.ch
 humming.ch
 hummingbeard.ch
@@ -8460,6 +8460,8 @@ huttlerimmobilien.ch
 huttlerpark.ch
 huttner.ch
 hutton.ch
+huttongroup.ch
+huttongruppe.ch
 huttopia.ch
 huttson42.ch
 huttu-baumarkt.ch

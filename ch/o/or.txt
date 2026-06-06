@@ -682,7 +682,6 @@ oravita.ch
 oravitavr.ch
 oravius.ch
 oravox.ch
-orawella.ch
 oraworld.ch
 orax.ch
 oray.ch
@@ -1926,6 +1925,7 @@ orelie.ch
 oreliefuchs.ch
 oreliefuchschen.ch
 orelion.ch
+orelis.ch
 orell-appenzeller.ch
 orell-endres.ch
 orell-enki.ch
@@ -2845,6 +2845,7 @@ orgngl.ch
 orgnicer.ch
 orgnotes.ch
 orgoglioticinese.ch
+orgolden.ch
 orgolink.ch
 orgon-ag.ch
 orgon-verlag.ch
@@ -6643,6 +6644,8 @@ orvegetal.ch
 orvelin.ch
 orvella.ch
 orvena.ch
+orveniqa-app.ch
+orveniqaki.ch
 orvero.ch
 orvert.ch
 orvet.ch

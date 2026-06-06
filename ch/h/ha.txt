@@ -10226,6 +10226,7 @@ handpan-laden.ch
 handpan-leihe.ch
 handpan-leihen.ch
 handpan-lernen.ch
+handpan-liebe.ch
 handpan-live.ch
 handpan-meditation.ch
 handpan-miete-kauf.ch
@@ -10244,6 +10245,7 @@ handpan-schweiz.ch
 handpan-shop.ch
 handpan-studio.ch
 handpan-swiss.ch
+handpan-team.ch
 handpan-ticino.ch
 handpan-unterricht.ch
 handpan-verleih.ch
@@ -10272,6 +10274,7 @@ handpanlausanne.ch
 handpanleihe.ch
 handpanleihen.ch
 handpanlernen.ch
+handpanliebe.ch
 handpanmiete.ch
 handpanmieten.ch
 handpanmusic.ch
@@ -10537,6 +10540,7 @@ handtherapie-seefeld.ch
 handtherapie-sg.ch
 handtherapie-solothurn.ch
 handtherapie-st-gallen.ch
+handtherapie-stans.ch
 handtherapie-sursee.ch
 handtherapie-uri.ch
 handtherapie-wetzikon.ch
@@ -12946,6 +12950,7 @@ hansevision.ch
 hanseyachts.ch
 hansfalk.ch
 hansfeigenwinter.ch
+hansfgeyer.ch
 hansfischer.ch
 hansfischli.ch
 hansfitze.ch
@@ -13032,7 +13037,6 @@ hansinyfeler.ch
 hansis.ch
 hansisler.ch
 hansistricker.ch
-hansiverse.ch
 hansjacked.ch
 hansjakob-bollinger.ch
 hansjakob.ch
@@ -17648,7 +17652,6 @@ has-cmo.ch
 has-co.ch
 has-construction.ch
 has-gastro.ch
-has-gmbh.ch
 has-manufacturing.ch
 has-market.ch
 has-mfg.ch
@@ -24095,6 +24098,7 @@ hays.ch
 haysave.ch
 hayscareer.ch
 hayscodeco.ch
+hayseed.ch
 haysen.ch
 haysexpert4expert.ch
 haysexpert4experts.ch

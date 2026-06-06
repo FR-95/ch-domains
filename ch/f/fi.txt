@@ -1675,7 +1675,6 @@ fidschicolors.ch
 fidschiinseln.ch
 fidschiperlen.ch
 fidserve.ch
-fidservices.ch
 fidsmart-solutions.ch
 fidsmart.ch
 fidsmeylan.ch
@@ -2220,6 +2219,7 @@ fiducialis.ch
 fiducialjade.ch
 fiduciam.ch
 fiduciana.ch
+fiduciaos.ch
 fiduciaplus.ch
 fiduciar.ch
 fiduciardo.ch
@@ -2231,6 +2231,7 @@ fiduciari.ch
 fiduciaria-bullani.ch
 fiduciaria-capriasca.ch
 fiduciaria-cathieni.ch
+fiduciaria-crivelli.ch
 fiduciaria-digitale.ch
 fiduciaria-ferrazzini.ch
 fiduciaria-godenzi.ch
@@ -3781,6 +3782,7 @@ filaos.ch
 filap.ch
 filapi.ch
 filaprem.ch
+filar.ch
 filar3aszwajcaria.ch
 filarmonica-arogno.ch
 filarmonica-avvenire-brusio.ch
@@ -5721,7 +5723,6 @@ fin-fluencer.ch
 fin-force.ch
 fin-gears.ch
 fin-gourmet.ch
-fin-immo.ch
 fin-it.ch
 fin-jur-consult.ch
 fin-jur-services.ch
@@ -8255,6 +8256,7 @@ findmytraveler.ch
 findmytutor.ch
 findmyvenue.ch
 findneralp.ch
+findnet.ch
 findo-car.ch
 findo-event.ch
 findo-immo.ch
@@ -8919,6 +8921,7 @@ finestessence.ch
 finestevent.ch
 finestfinance.ch
 finestfinds.ch
+finestfog.ch
 finestfood.ch
 finestforged.ch
 finestfotos.ch
@@ -10741,7 +10744,6 @@ fiorire.ch
 fioriselvatici.ch
 fiorissima-blumen.ch
 fiorissima.ch
-fiorista-blumen.ch
 fiorista-comparazione.ch
 fiorista.ch
 fioristadellasanta.ch
@@ -11793,6 +11795,7 @@ firmenbuch.ch
 firmenbuchauszug.ch
 firmenbuchgrundbuch.ch
 firmencatering.ch
+firmencensus.ch
 firmencheckup.ch
 firmenchef.ch
 firmenchor.ch
@@ -12870,6 +12873,7 @@ firstlineofdefense.ch
 firstlinesportswear.ch
 firstlinestudio.ch
 firstlink.ch
+firstlist.ch
 firstlite.ch
 firstliving.ch
 firstlodge.ch
@@ -13064,7 +13068,6 @@ firstswisscoin.ch
 firstswissequity.ch
 firstswissinvest.ch
 firstswissinvestmentag.ch
-firstswisspay.ch
 firstswissrockstar.ch
 firstswisssecurities.ch
 firstsync.ch
@@ -13241,6 +13244,7 @@ fiscamed.ch
 fiscantons.ch
 fiscaplan.ch
 fiscaplus.ch
+fiscara.ch
 fiscard.ch
 fiscaseminare.ch
 fiscaservices.ch
@@ -13588,6 +13592,8 @@ fischer-shop.ch
 fischer-ski.ch
 fischer-sozialbegleitung.ch
 fischer-spielevents.ch
+fischer-spindle-repair.ch
+fischer-spindle-service.ch
 fischer-spindle.ch
 fischer-sports.ch
 fischer-stalden.ch
@@ -14027,6 +14033,7 @@ fischersohn.ch
 fischersolar.ch
 fischerspielevents.ch
 fischerspindle.ch
+fischerspindleservice.ch
 fischersports.ch
 fischerstebler.ch
 fischerstiefel-shop.ch
@@ -15715,6 +15722,7 @@ fiterhund.ch
 fiteria.ch
 fitess.ch
 fitesy.ch
+fitex.ch
 fitexpert.ch
 fitexpo.ch
 fitexpress.ch

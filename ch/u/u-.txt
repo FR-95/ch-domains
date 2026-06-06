@@ -106,6 +106,7 @@ u-la.ch
 u-lab.ch
 u-labs.ch
 u-lap.ch
+u-leuenberger.ch
 u-lift-b.ch
 u-link.ch
 u-lk.ch
@@ -247,3 +248,4 @@ u-y-m.ch
 u-z.ch
 u-zehn.ch
 u-zh.ch
+u-zhen.ch

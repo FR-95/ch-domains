@@ -104,6 +104,7 @@ ps-einsiedeln.ch
 ps-embra.ch
 ps-embrach.ch
 ps-emotions.ch
+ps-eng.ch
 ps-engineering.ch
 ps-ennetbaden.ch
 ps-epalinges.ch
@@ -180,6 +181,7 @@ ps-kontor.ch
 ps-lancy.ch
 ps-landeron.ch
 ps-laneuveville.ch
+ps-langenthal.ch
 ps-laser.ch
 ps-latena.ch
 ps-latene.ch
@@ -316,6 +318,7 @@ ps-sigriswil.ch
 ps-sion.ch
 ps-sissach.ch
 ps-so.ch
+ps-solothurn.ch
 ps-solutions.ch
 ps-sonic.ch
 ps-soundmachine.ch
@@ -2876,6 +2879,7 @@ psychologisches-coaching-bosshard.ch
 psychologisches-coaching-schwyz.ch
 psychologisches-coaching.ch
 psychologisches-gutachten.ch
+psychologisches-kinderwunschcoaching.ch
 psychologischescoaching.ch
 psychologischesicherheit.ch
 psychologischeszentrum.ch
@@ -3163,6 +3167,7 @@ psychotherapeute-assef-vaziri.ch
 psychotherapeute-bernardini.ch
 psychotherapeute-comparatif.ch
 psychotherapeute-emdr.ch
+psychotherapeute-montreux.ch
 psychotherapeute-neuchatel.ch
 psychotherapeute-systemique.ch
 psychotherapeute.ch

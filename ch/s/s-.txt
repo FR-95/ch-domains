@@ -19,6 +19,7 @@ s-a-a-s.ch
 s-a-a-t.ch
 s-a-advisors.ch
 s-a-b.ch
+s-a-c.ch
 s-a-f-e.ch
 s-a-g.ch
 s-a-honegger.ch
@@ -612,7 +613,6 @@ s-p-v.ch
 s-p.ch
 s-pa.ch
 s-pagano.ch
-s-pamela.ch
 s-paradiesli.ch
 s-park.ch
 s-partner.ch

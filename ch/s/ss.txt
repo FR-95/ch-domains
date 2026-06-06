@@ -221,6 +221,7 @@ ssc-sisikon.ch
 ssc-switzerland.ch
 ssc-test.ch
 ssc-triengen.ch
+ssc-turbenthal.ch
 ssc-vlb.ch
 ssc-weber.ch
 ssc-weissenstein.ch
@@ -525,7 +526,6 @@ sshslu.ch
 ssht.ch
 sshub.ch
 sshv.ch
-sshvaud.ch
 sshwil.ch
 ssi-ag.ch
 ssi-baumanagement.ch

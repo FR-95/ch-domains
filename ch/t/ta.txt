@@ -1413,7 +1413,6 @@ tadej.ch
 tadel.ch
 tadelakt.ch
 tadelaktplus.ch
-tadelaktschweiz.ch
 tadellos.ch
 tademo.ch
 tadentiste.ch
@@ -1862,6 +1861,7 @@ tafra.ch
 tafrali.ch
 tafreshi.ch
 tafs.ch
+tafseel.ch
 tafsir.ch
 taft.ch
 tafta.ch
@@ -3261,6 +3261,7 @@ tailor.ch
 tailor2taste.ch
 tailor4less.ch
 tailora.ch
+tailorandtrade.ch
 tailorapp.ch
 tailorautomation.ch
 tailorbrands.ch
@@ -3938,6 +3939,7 @@ takeyourway.ch
 takfam.ch
 takgo.ch
 takhygge.ch
+taki-gmbh.ch
 taki.ch
 takibeo.ch
 takida.ch
@@ -6421,7 +6423,6 @@ tandem-neuchatel.ch
 tandem-ostschweiz.ch
 tandem-paragliding-ticino.ch
 tandem-paragliding.ch
-tandem-restaurant.ch
 tandem-sad.ch
 tandem-schweiz.ch
 tandem-sg.ch
@@ -11738,12 +11739,14 @@ tastybites-bern.ch
 tastybites.ch
 tastybiteslugano.ch
 tastybits.ch
+tastybox.ch
 tastyburger.ch
 tastycakes.ch
 tastychef.ch
 tastychickenspot.ch
 tastycrispy.ch
 tastycrousty.ch
+tastycroustybox.ch
 tastycroustydu67.ch
 tastydelightsarl.ch
 tastydonuts-winterthur.ch
@@ -12023,6 +12026,7 @@ tatjanakovacevic.ch
 tatjanalarissa.ch
 tatjanamatijevic.ch
 tatjanameier.ch
+tatjanamueller.ch
 tatjanapeine.ch
 tatjanapesce.ch
 tatjanarosenast.ch
@@ -12579,7 +12583,6 @@ tattoosantana.ch
 tattoosbuilttolast.ch
 tattoosbyjuan.ch
 tattoosbystuart.ch
-tattooschmiede.ch
 tattooschool.ch
 tattooschule.ch
 tattooschuleluzern.ch
@@ -12604,7 +12607,6 @@ tattoostudio-in-der-naehe.ch
 tattoostudio-muenchenstein.ch
 tattoostudio-petrichor.ch
 tattoostudio-riehen.ch
-tattoostudio-solothurn.ch
 tattoostudio-tatart.ch
 tattoostudio.ch
 tattoostudiobasel.ch
@@ -15596,7 +15598,6 @@ taxiscoot.ch
 taxiscout.ch
 taxiscout24.ch
 taxisearch.ch
-taxiseewind.ch
 taxisektion-zh.ch
 taxisektion.ch
 taxiselect.ch

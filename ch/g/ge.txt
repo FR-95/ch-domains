@@ -1681,7 +1681,6 @@ geburtstrauma.ch
 geburtstuch.ch
 geburtsurkunde.ch
 geburtsverarbeitung.ch
-geburtsverarbeitungzug.ch
 geburtsvertrauen.ch
 geburtsvision.ch
 geburtsvorbereitung-basel.ch
@@ -1716,7 +1715,6 @@ geburtsvorbereitungskurs-schweiz.ch
 geburtsvorbereitungskurs.ch
 geburtsvorbereitungskursbasel.ch
 geburtsvorbereitungskurse.ch
-geburtsvorbereitungzug.ch
 geburtsvorfreude.ch
 geburtsvorfreudeimwasser.ch
 geburtsweg.ch
@@ -4338,6 +4336,7 @@ gelaenderbau.ch
 gelaenderbauteile.ch
 gelaenderexpress.ch
 gelaenderfabrik.ch
+gelaenderi.ch
 gelaenderladen.ch
 gelaendermacher.ch
 gelaendermacherag.ch
@@ -6110,6 +6109,7 @@ gemeinsam-schweizmacher.ch
 gemeinsam-sehen.ch
 gemeinsam-sind-wir-stark.ch
 gemeinsam-spf.ch
+gemeinsam-stark-coaching.ch
 gemeinsam-stark.ch
 gemeinsam-statt-einsam.ch
 gemeinsam-strahlen.ch
@@ -6291,6 +6291,7 @@ gemeinschaftspraxis-mutschellen.ch
 gemeinschaftspraxis-nord.ch
 gemeinschaftspraxis-psychiatrie-psychotherapie-kreuzlingen.ch
 gemeinschaftspraxis-rigiplatz.ch
+gemeinschaftspraxis-rotachstrasse.ch
 gemeinschaftspraxis-ruemlang.ch
 gemeinschaftspraxis-schlossblick.ch
 gemeinschaftspraxis-selzach.ch
@@ -11761,6 +11762,8 @@ geoadm.ch
 geoadmin.ch
 geoaero.ch
 geoag.ch
+geoagent.ch
+geoagenten.ch
 geoagentur.ch
 geoagenturbasel.ch
 geoai.ch
@@ -12077,6 +12080,7 @@ geoevents.ch
 geoexpedition.ch
 geoexpert.ch
 geoexperten.ch
+geoexplorer.ch
 geofarm.ch
 geofence.ch
 geofetcher.ch
@@ -12641,6 +12645,7 @@ geopathologieschweiz.ch
 geopatrimoine.ch
 geopbyte.ch
 geopeptides.ch
+geoperformance.ch
 geopfad.ch
 geophil.ch
 geophon.ch
@@ -17290,6 +17295,8 @@ gestaltungsrat.ch
 gestaltungsraum.ch
 gestaltungsraum42.ch
 gestaltungsraumfischer.ch
+gestaltungsreif.ch
+gestaltungsreife.ch
 gestaltungsschule.ch
 gestaltungsseminare.ch
 gestaltungsservice.ch
@@ -17622,6 +17629,7 @@ gestionimmobiliere.ch
 gestionistabili.ch
 gestionjuridique.ch
 gestionlatina.ch
+gestionmedicaleduleman.ch
 gestionmobilite.ch
 gestionnaire-de-service.ch
 gestionnaire-rh.ch
@@ -19869,6 +19877,7 @@ get2trade.ch
 get2zurich.ch
 get31.ch
 get360.ch
+get3rd.ch
 get4free.ch
 get4keys.ch
 get4me.ch
@@ -19951,6 +19960,7 @@ getaround.ch
 getarticle.ch
 getasugar.ch
 getatelierservices.ch
+getatlensia.ch
 getatruck.ch
 getattached.ch
 getatutor.ch
@@ -20791,6 +20801,7 @@ getresults.ch
 getreuhand.ch
 getrevenge.ch
 getreviews.ch
+getrevio.ch
 getrevol.ch
 getri.ch
 getrich.ch
@@ -21309,6 +21320,8 @@ gevii.ch
 gevimieux.ch
 gevimmo.ch
 gevini.ch
+gevion-akademie.ch
+gevion-immobilien.ch
 gevion.ch
 gevisia.ch
 gevisier.ch
@@ -21318,6 +21331,7 @@ gevma.ch
 gevo.ch
 gevolution.ch
 gevor.ch
+gevorgyan.ch
 gevos.ch
 gevote.ch
 gevousaide.ch
@@ -21968,6 +21982,7 @@ gewerbeindex.ch
 gewerbeindustrie.ch
 gewerbeinfo.ch
 gewerbeinfodatenbank.ch
+gewerbeinformationsverzeichnis.ch
 gewerbeinfoverzeichnis.ch
 gewerbeins.ch
 gewerbejob.ch

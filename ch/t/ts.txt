@@ -244,6 +244,7 @@ tsatsiki.ch
 tsatzikis.ch
 tsautomobile.ch
 tsavorit.ch
+tsawa.ch
 tsax.ch
 tsayetta.ch
 tsaz.ch
@@ -1140,7 +1141,6 @@ tscsb.ch
 tscsolothurn.ch
 tscsprachschule.ch
 tsct.ch
-tscums.ch
 tscz.ch
 tsd.ch
 tsda.ch
@@ -1571,6 +1571,7 @@ tsquare.ch
 tsquared.ch
 tsquareran.ch
 tsr-ag.ch
+tsr-custom.ch
 tsr-engineering.ch
 tsr-group.ch
 tsr-handel.ch

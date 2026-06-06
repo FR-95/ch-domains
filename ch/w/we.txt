@@ -960,6 +960,7 @@ weavers.ch
 weavestudio.ch
 weavewise.ch
 weaveyourdestiny.ch
+weaving-conversations.ch
 weavings.ch
 weavingsocialfabric.ch
 weavise.ch
@@ -1037,7 +1038,6 @@ web-applikation.ch
 web-applikationen.ch
 web-apps.ch
 web-ar.ch
-web-arben.ch
 web-architekten.ch
 web-archiv.ch
 web-art.ch
@@ -3188,6 +3188,7 @@ webdrinks.ch
 webdrive.ch
 webdrivein.ch
 webdrogerie.ch
+webdrop.ch
 webdruck.ch
 webdruckerei.ch
 webdsign.ch
@@ -5466,6 +5467,7 @@ websec.ch
 websecaudit.ch
 websecaudits.ch
 websectests.ch
+websection.ch
 websecurity.ch
 websecurityscan.ch
 webseek.ch
@@ -5676,7 +5678,6 @@ webservers.ch
 webservice-fuer-agenturen.ch
 webservice-luzern.ch
 webservice-stulz.ch
-webservice-world.ch
 webservice.ch
 webservice24.ch
 webservice4u.ch
@@ -6716,6 +6717,7 @@ webwartung.ch
 webwat.ch
 webwatch.ch
 webwatcher.ch
+webwave-studio.ch
 webwave.ch
 webwavecreations.ch
 webwavers.ch
@@ -13621,6 +13623,7 @@ welfhamer.ch
 welgas.ch
 welge.ch
 welgelegen.ch
+welgemda.ch
 welger.ch
 welholding.ch
 welhome-immo.ch
@@ -15527,6 +15530,7 @@ welterbeschweiz.ch
 welterbetage.ch
 welterbetour.ch
 welterconsulting.ch
+welterfahrung.ch
 welterkundung.ch
 welternaehrungstag.ch
 welterneuern.ch
@@ -18525,6 +18529,7 @@ werkgenossenschaft.ch
 werkgespraech.ch
 werkgespraeche.ch
 werkgraphie.ch
+werkgrund.ch
 werkgruppe.ch
 werkgut.ch
 werkhai.ch
@@ -19904,6 +19909,7 @@ werteschweiz.ch
 wertespektrum.ch
 wertetableau.ch
 werteundeigenschaften.ch
+werteundwelten.ch
 werteverlag.ch
 wertevermittlung.ch
 wertewachstum.ch
@@ -19913,6 +19919,7 @@ wertewanderung.ch
 wertewandler.ch
 wertewechsel.ch
 wertewelt.ch
+wertewelten.ch
 wertewerkstatt.ch
 wertexag.ch
 wertexpert-zuerich.ch

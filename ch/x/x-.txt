@@ -203,7 +203,6 @@ x-graphics.ch
 x-grip.ch
 x-group.ch
 x-guard.ch
-x-hamster.ch
 x-handwerk.ch
 x-harvest.ch
 x-harvester.ch

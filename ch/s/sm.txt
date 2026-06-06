@@ -76,6 +76,7 @@ sm-master.ch
 sm-mechanik.ch
 sm-mediagroup.ch
 sm-medmassagen.ch
+sm-mentalcoaching.ch
 sm-messebau.ch
 sm-messebaudesign.ch
 sm-mg.ch
@@ -409,6 +410,7 @@ smallcheese.ch
 smallchur.ch
 smallcity.ch
 smallcityinnovation-fr.ch
+smallclaim.ch
 smallclaims.ch
 smallcraft-design.ch
 smalldarling.ch
@@ -1143,6 +1145,7 @@ smart-life-manufaktur.ch
 smart-life.ch
 smart-life24.ch
 smart-light.ch
+smart-lighting.ch
 smart-line.ch
 smart-live.ch
 smart-living-care.ch
@@ -1644,6 +1647,7 @@ smartamriswil.ch
 smartana.ch
 smartanalytics.ch
 smartanalyticsag.ch
+smartandclever.ch
 smartandcleverclub.ch
 smartandcom.ch
 smartandcosy.ch
@@ -3437,6 +3441,7 @@ smartnurse.ch
 smartnutrition.ch
 smartobject.ch
 smartobjects.ch
+smartobjekt.ch
 smartoccasion.ch
 smartoccasionen.ch
 smartodont.ch
@@ -5355,7 +5360,6 @@ smile-e.ch
 smile-elephant-altstaetten.ch
 smile-elephant.ch
 smile-engineering.ch
-smile-expert.ch
 smile-expertises.ch
 smile-experts.ch
 smile-express.ch

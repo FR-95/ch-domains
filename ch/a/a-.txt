@@ -8,6 +8,7 @@ a-0.ch
 a-00.ch
 a-01.ch
 a-02.ch
+a-023.ch
 a-03.ch
 a-04.ch
 a-1-taxi.ch
@@ -1100,7 +1101,6 @@ a-thomas.ch
 a-ti.ch
 a-tic.ch
 a-tilia.ch
-a-to-mic.ch
 a-to-z.ch
 a-to.ch
 a-toi-de-jouer.ch

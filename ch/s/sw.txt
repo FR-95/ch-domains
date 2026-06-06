@@ -533,7 +533,6 @@ swatchxomega.ch
 swatec.ch
 swater.ch
 swath.ch
-swati-ag.ch
 swati.ch
 swatkacity.ch
 swatmontaggi.ch
@@ -1684,7 +1683,6 @@ swident.ch
 swideo.ch
 swider.ch
 swiderm.ch
-swidev.ch
 swidex.ch
 swidex24.ch
 swidias.ch
@@ -5423,6 +5421,7 @@ swiss-gdp.ch
 swiss-gears.ch
 swiss-geax.ch
 swiss-geeks.ch
+swiss-gelaender.ch
 swiss-gem-academy.ch
 swiss-gemini.ch
 swiss-gemmological-data-foundation.ch
@@ -5544,7 +5543,6 @@ swiss-grattage.ch
 swiss-gravel.ch
 swiss-gravity.ch
 swiss-gravur.ch
-swiss-gravuren.ch
 swiss-grc.ch
 swiss-grd.ch
 swiss-green-economy-symposium.ch
@@ -6417,6 +6415,7 @@ swiss-led.ch
 swiss-lederdoktor.ch
 swiss-ledger.ch
 swiss-legal-advisors.ch
+swiss-legal-ai.ch
 swiss-legal-design.ch
 swiss-legal-hub.ch
 swiss-legal.ch
@@ -9166,6 +9165,7 @@ swiss-tkd-open.ch
 swiss-tm.ch
 swiss-tms.ch
 swiss-tobacco.ch
+swiss-today.ch
 swiss-togo.ch
 swiss-toilet.ch
 swiss-toit-express.ch
@@ -9818,7 +9818,6 @@ swiss1surgery.ch
 swiss2-practeo.ch
 swiss2.ch
 swiss2021.ch
-swiss2030.ch
 swiss2038.ch
 swiss21-coach.ch
 swiss21-support.ch
@@ -11433,6 +11432,7 @@ swissbbb.ch
 swissbbq.ch
 swissbbw.ch
 swissbc.ch
+swissbcinsights.ch
 swissbck.ch
 swissbdb.ch
 swissbe.ch
@@ -11890,6 +11890,7 @@ swissbluezone.ch
 swissbluroom.ch
 swissblut.ch
 swissblutegel.ch
+swissbmxarena.ch
 swissbn-sa.ch
 swissbn.ch
 swissbnb.ch
@@ -13180,6 +13181,7 @@ swisschina-solutions.ch
 swisschina.ch
 swisschinaauto.ch
 swisschinabridge.ch
+swisschinacars.ch
 swisschinatour.ch
 swisschinesebridge.ch
 swisschineseschool.ch
@@ -14133,7 +14135,6 @@ swisscreditexchange.ch
 swisscreditpartners.ch
 swisscreditpro.ch
 swisscreditum.ch
-swisscrediva.ch
 swisscredoc.ch
 swisscreem.ch
 swisscreo.ch
@@ -14596,6 +14597,7 @@ swissdeepdiving.ch
 swissdeer.ch
 swissdeers.ch
 swissdefence.ch
+swissdefender.ch
 swissdefense.ch
 swissdefensesolutions.ch
 swissdefi.ch
@@ -15234,6 +15236,7 @@ swissdox.ch
 swissdp.ch
 swissdpa.ch
 swissdpi.ch
+swissdpo.ch
 swissdr.ch
 swissdr1ver.ch
 swissdraft.ch
@@ -18825,7 +18828,6 @@ swissino.ch
 swissinomed.ch
 swissinotechno.ch
 swissinounion.ch
-swissinox-forming.ch
 swissinox.ch
 swissinput.ch
 swissinsect.ch
@@ -20130,6 +20132,7 @@ swissllms.ch
 swisslloyds.ch
 swisslm.ch
 swisslma.ch
+swisslms.ch
 swissln.ch
 swisslo.ch
 swissloan.ch
@@ -20267,6 +20270,8 @@ swisslounges.ch
 swissloupe.ch
 swissloupes.ch
 swisslove.ch
+swisslovebrand.ch
+swisslovebrands.ch
 swisslover.ch
 swisslovestories.ch
 swisslowline.ch
@@ -21427,6 +21432,7 @@ swissmoneymap.ch
 swissmoneyparfum.ch
 swissmoneypenny.ch
 swissmoneyservices.ch
+swissmoneythings.ch
 swissmoneytransfer.ch
 swissmoneyweek.ch
 swissmongolia.ch
@@ -21556,6 +21562,7 @@ swissmountainguide.ch
 swissmountainguides.ch
 swissmountainguiding.ch
 swissmountainhikes.ch
+swissmountainholding.ch
 swissmountainholiday.ch
 swissmountainholidayradio.ch
 swissmountainhoney.ch
@@ -25742,7 +25749,6 @@ swissssnowboardspeed.ch
 swisssss.ch
 swissstable.ch
 swissstablecoin.ch
-swissstablecrypto.ch
 swissstack.ch
 swissstaff.ch
 swissstaffgroup.ch

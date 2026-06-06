@@ -2683,7 +2683,6 @@ ns1.namemaster.ch
 ns1.namesrv.ch
 ns1.nano-lash.ch
 ns1.nanolash.ch
-ns1.nardiellos.ch
 ns1.nasser.ch
 ns1.nast.ch
 ns1.nativenet.ch
@@ -3498,7 +3497,6 @@ ns1.sunsite.ch
 ns1.sunyata.ch
 ns1.superserver.ch
 ns1.suphattrathaimassage.ch
-ns1.surwave.ch
 ns1.sushisan.ch
 ns1.susoft.ch
 ns1.suva.ch
@@ -3996,7 +3994,6 @@ ns1.zen-rollers.ch
 ns1.zenis.ch
 ns1.zenvoo.ch
 ns1.zerspanungspartner.ch
-ns1.zetadev.ch
 ns1.zh.hostbin.ch
 ns1.zhaw.ch
 ns1.zhbsd.ch
@@ -5982,7 +5979,6 @@ ns2.naissances.ch
 ns2.namesrv.ch
 ns2.nano-lash.ch
 ns2.nanolash.ch
-ns2.nardiellos.ch
 ns2.nativenet.ch
 ns2.navacoaching.ch
 ns2.nawotop.ch
@@ -7246,7 +7242,6 @@ ns2.zen-rollers.ch
 ns2.zenis.ch
 ns2.zenvoo.ch
 ns2.zerspanungspartner.ch
-ns2.zetadev.ch
 ns2.zh.hostbin.ch
 ns2.zhaw.ch
 ns2.zhdk.ch
@@ -8905,6 +8900,7 @@ nsvolley.ch
 nsvr.ch
 nsvw.ch
 nsvwbach.ch
+nsvz.ch
 nsw-e.ch
 nsw-rse.ch
 nsw.ch

@@ -2333,9 +2333,7 @@ zink.ch
 zinkand.ch
 zinkbad.ch
 zinkbiomed.ch
-zinkblechdach.ch
 zinkcreme.ch
-zinkdach.ch
 zinkdruckguss.ch
 zinkevi.ch
 zinkhagel.ch
@@ -2464,7 +2462,6 @@ zinshausmentor.ch
 zinshaussammler.ch
 zinshouse.ch
 zinsight-tech.ch
-zinsigt-tech.ch
 zinsimmo.ch
 zinsinfo-hev-hypothek.ch
 zinsinfo-hypothekenzentrum.ch
@@ -2910,6 +2907,7 @@ zirkularfabrik.ch
 zirkularitaet.ch
 zirkularitaetsindikator-bau-schweiz.ch
 zirkularitat.ch
+zirkulation.ch
 zirkulationswaermepumpe.ch
 zirkuleau.ch
 zirkuled.ch
@@ -2919,6 +2917,7 @@ zirkulitbeton.ch
 zirkum.ch
 zirkumflex.ch
 zirkumzision.ch
+zirkus-bingo.ch
 zirkus-camps.ch
 zirkus-gallissimo.ch
 zirkus-grissini.ch

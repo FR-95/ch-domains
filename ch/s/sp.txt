@@ -829,7 +829,6 @@ space-symposium.ch
 space-t.ch
 space-taxi.ch
 space-tec.ch
-space-time.ch
 space-tourer.ch
 space-travel.ch
 space-valley.ch
@@ -913,6 +912,7 @@ spacecamper-shop.ch
 spacecamper.ch
 spacecampershop.ch
 spacecapsule.ch
+spacecar.ch
 spacecast.ch
 spacecdf.ch
 spacecenter.ch
@@ -982,6 +982,7 @@ spaceforpeople.ch
 spaceforplants.ch
 spacefortrees.ch
 spaceforyou.ch
+spaceful.ch
 spacefun.ch
 spacefunk.ch
 spacegarden.ch
@@ -1032,7 +1033,6 @@ spacekuh.ch
 spacelab-ar.ch
 spacelab.ch
 spacelabs.ch
-spacelaun.ch
 spacelavater75.ch
 spacelaw.ch
 spacelesszuerich.ch
@@ -3254,6 +3254,7 @@ spatzmagenballon.ch
 spatzuhues.ch
 spatzundbiene.ch
 spatzundmuus.ch
+spau.ch
 spaudit.ch
 spaura.ch
 spautohandel.ch
@@ -5662,7 +5663,6 @@ spenden-aktion.ch
 spenden-aus-leidenschaft.ch
 spenden-boutique.ch
 spenden-grunliberale.ch
-spenden-hrc.ch
 spenden-info.ch
 spenden-kompass.ch
 spenden-konten.ch
@@ -8664,7 +8664,6 @@ spielkultur.ch
 spielkunst.ch
 spiellabor.ch
 spiellada.ch
-spielladen-detterbeck.ch
 spielladen.ch
 spielland.ch
 spielleicht.ch
@@ -9769,6 +9768,7 @@ spindex.ch
 spindie.ch
 spindle-musikband.ch
 spindle.ch
+spindledoctor.ch
 spindler.ch
 spindlerparkett.ch
 spindlers.ch
@@ -10172,6 +10172,7 @@ spinoggelfritz.ch
 spinogrino.ch
 spinogrinocasino.ch
 spinola.ch
+spinolicasino.ch
 spinoloco.ch
 spinomed.ch
 spinon.ch
@@ -12183,6 +12184,7 @@ spitex-medisana.ch
 spitex-megaherz.ch
 spitex-meggen.ch
 spitex-mehrheim.ch
+spitex-meier.ch
 spitex-meilen.ch
 spitex-menziken-burg.ch
 spitex-menzingen.ch
@@ -13043,6 +13045,7 @@ spitexmedius.ch
 spitexmednest24.ch
 spitexmedpoint.ch
 spitexmegaherz.ch
+spitexmeier.ch
 spitexmeilenuetikon.ch
 spitexmenzingen.ch
 spitexmettmenstetten.ch
@@ -16529,6 +16532,7 @@ sportmenue.ch
 sportmerch.ch
 sportmesse.ch
 sportmgt.ch
+sportmiam.ch
 sportmiete.ch
 sportmilch.ch
 sportmind.ch
@@ -17483,6 +17487,7 @@ sportslawconference.ch
 sportslawfirm.ch
 sportslawyer.ch
 sportsleaders.ch
+sportslet.ch
 sportslicensing.ch
 sportsline.ch
 sportslink.ch
@@ -19693,7 +19698,6 @@ springstories.ch
 springsweb.ch
 springswitzerland.ch
 springtale.ch
-springtech.ch
 springtest.ch
 springtide.ch
 springtidecapital.ch

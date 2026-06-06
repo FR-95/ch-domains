@@ -539,7 +539,6 @@ dach-kuehne.ch
 dach-lab.ch
 dach-leckortung.ch
 dach-legal.ch
-dach-lukarnen.ch
 dach-maxx.ch
 dach-medical-group.ch
 dach-messe.ch
@@ -568,7 +567,6 @@ dach-reparatur.ch
 dach-sanieren.ch
 dach-sanierung.ch
 dach-sanierungen.ch
-dach-schiebefenster.ch
 dach-service.ch
 dach-shop.ch
 dach-solar-check.ch
@@ -721,6 +719,7 @@ dachdecker-goldach.ch
 dachdecker-in-der-naehe.ch
 dachdecker-jobs.ch
 dachdecker-klaentschi.ch
+dachdecker-langheinrich.ch
 dachdecker-liestal.ch
 dachdecker-luzern.ch
 dachdecker-muenchenstein-bl.ch
@@ -1526,6 +1525,7 @@ dadaray.ch
 dadarch.ch
 dadarchitekten.ch
 dadas-reinigung.ch
+dadas-tiershop.ch
 dadas.ch
 dadaserve.ch
 dadaserves.ch
@@ -3096,7 +3096,6 @@ dakini-zuerich.ch
 dakini.ch
 dakinimassagen.ch
 dakinis.ch
-dakiniweb.ch
 dakira.ch
 dakisson.ch
 dakkar.ch
@@ -3311,7 +3310,9 @@ dalecloud.ch
 daleduro.ch
 daleflow.ch
 daleforbesmolina.ch
+dalegal.ch
 dalegna.ch
+dalegs.ch
 dalek.ch
 dalekolb.ch
 daleks-clean.ch
@@ -5489,6 +5490,7 @@ dancit.ch
 dancker.ch
 dancler.ch
 dancli-bijoux.ch
+dancli.ch
 danco-sa.ch
 danco.ch
 dancomotti.ch
@@ -8550,6 +8552,7 @@ dans-mon-tiroir.ch
 dans-monquartier.ch
 dans-tous-les-sens.ch
 dans-votre-element.ch
+dans.ch
 dansa-amriswil.ch
 dansa-frauenfeld.ch
 dansa-kreuzlingen.ch
@@ -8614,7 +8617,6 @@ danse-transition.ch
 danse-troistorrents.ch
 danse-univers.ch
 danse.ch
-danse21.ch
 dansea.ch
 dansea2.ch
 danseatout.ch
@@ -8638,6 +8640,7 @@ danselaplanche.ch
 danselatine.ch
 danselausanne.ch
 danselavie.ch
+danselib.ch
 danselibre.ch
 danselibregeneve.ch
 danselibreperly.ch
@@ -10459,6 +10462,7 @@ darshan-mit-gott.ch
 darshana-yoga.ch
 darshana.ch
 darshanam.ch
+darsi-investment.ch
 darsi-marc.ch
 darsilamano.ch
 darss.ch
@@ -10517,7 +10521,6 @@ dartek.ch
 darten.ch
 dartenio.ch
 darter.ch
-dartera-ware.ch
 dartera.ch
 darters.ch
 dartfabrik.ch
@@ -10894,6 +10897,7 @@ das-gutscheinbuch.ch
 das-gynaekologische-tumorzentrum.ch
 das-haar.ch
 das-haaratelier.ch
+das-habitat.ch
 das-haflingerforum.ch
 das-handwerk.ch
 das-handwerkerbuero.ch
@@ -11742,6 +11746,7 @@ dasha.ch
 dashaar.ch
 dashaarlokal.ch
 dashaarwerk.ch
+dashabitat.ch
 dashadesign.ch
 dashalbeleben.ch
 dashalfter.ch
@@ -12747,7 +12752,6 @@ data-companion.ch
 data-company.ch
 data-compass.ch
 data-competence-service.ch
-data-compliance.ch
 data-computer.ch
 data-computing.ch
 data-conference.ch
@@ -13434,7 +13438,6 @@ datafixer.ch
 datafleet.ch
 dataflex.ch
 dataflexys.ch
-dataflow-ai.ch
 dataflow-distributor.ch
 dataflow-software.ch
 dataflow.ch
@@ -13546,6 +13549,7 @@ datahowlab.ch
 datahub-srgssr.ch
 datahub.ch
 datahunter.ch
+datai.ch
 dataia.ch
 dataid.ch
 dataiku.ch
@@ -14850,7 +14854,6 @@ datenschutzforum.ch
 datenschutzfreunde.ch
 datenschutzgenerator-schweiz.ch
 datenschutzgenerator.ch
-datenschutzgesetz-einfach.ch
 datenschutzgesetz-schweiz.ch
 datenschutzgesetz.ch
 datenschutzgesetze.ch

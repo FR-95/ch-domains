@@ -679,7 +679,6 @@ apcapitalpartners.ch
 apcarcollection.ch
 apcarrelages.ch
 apcarrent.ch
-apcatc-apcatc.ch
 apcatc.ch
 apcatec.ch
 apcav.ch
@@ -1111,6 +1110,7 @@ aperofee.ch
 aperofilm.ch
 aperofolklorique.ch
 aperogang.ch
+aperogarden.ch
 aperogebaeck.ch
 aperogeopolitique.ch
 aperogeschenk.ch
@@ -2504,6 +2504,7 @@ apm-naturarzt.ch
 apm-olten.ch
 apm-oppliger.ch
 apm-penzel.ch
+apm-praxis.ch
 apm-praxishg.ch
 apm-radloff-zug.ch
 apm-radloff.ch
@@ -3030,7 +3031,6 @@ apollonic.ch
 apolloninternational.ch
 apollonio.ch
 apollonius-de-tyane.ch
-apollonov.ch
 apollonreisen.ch
 apollonsbooks.ch
 apollonsbookstore.ch
@@ -6933,6 +6933,7 @@ apulia-jegenstorf.ch
 apulia.ch
 apuliabs.ch
 apuliami.ch
+apuliaristorante.ch
 apulien.ch
 apulienreisen.ch
 apulima.ch
@@ -7003,6 +7004,7 @@ apvfiez.ch
 apvflamberg.ch
 apvgeneve.ch
 apvhelveter.ch
+apvidy.ch
 apvisuals.ch
 apvl.ch
 apvlemont.ch

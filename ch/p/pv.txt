@@ -85,7 +85,6 @@ pv-interlaken.ch
 pv-invest.ch
 pv-kampagne.ch
 pv-kapo-bs.ch
-pv-kloten.ch
 pv-komplettloesung.ch
 pv-komponenten.ch
 pv-kontrolle.ch
@@ -419,7 +418,6 @@ pvkanal.ch
 pvkapotg.ch
 pvkbern.ch
 pvkg.ch
-pvkloten.ch
 pvkongress.ch
 pvkontrolle.ch
 pvkpz.ch

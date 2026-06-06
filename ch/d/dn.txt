@@ -30,6 +30,7 @@ dna-engineering.ch
 dna-food.ch
 dna-football.ch
 dna-immobilier.ch
+dna-key-system.ch
 dna-key.ch
 dna-me.ch
 dna-of-automation.ch
@@ -637,6 +638,7 @@ dns1.medisupport.ch
 dns1.meteoswiss.ch
 dns1.mgdbox.ch
 dns1.minderos.ch
+dns1.miniprog.ch
 dns1.minthemmer.ch
 dns1.modernhosting.ch
 dns1.molotof.ch
@@ -918,6 +920,7 @@ dns2.meteoswiss.ch
 dns2.mgdbox.ch
 dns2.mi-design.ch
 dns2.minderos.ch
+dns2.miniprog.ch
 dns2.minthemmer.ch
 dns2.mobilesolutions.ch
 dns2.modernhosting.ch

@@ -583,6 +583,7 @@ tcg-co.ch
 tcg-company-schweiz.ch
 tcg-events.ch
 tcg-galaxy.ch
+tcg-gamer.ch
 tcg-geneve.ch
 tcg-gmbh.ch
 tcg-hero.ch
@@ -1022,7 +1023,6 @@ tcm-becchio.ch
 tcm-bechinger.ch
 tcm-becker.ch
 tcm-behandlung.ch
-tcm-belp.ch
 tcm-bern.ch
 tcm-berni.ch
 tcm-bertozzi.ch

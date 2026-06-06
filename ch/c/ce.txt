@@ -5521,6 +5521,7 @@ ceq.ch
 ceqatre.ch
 ceqf.ch
 cequelainocup.ch
+cequelesenfantstaisent.ch
 cequenousfaisons.ch
 cequevalentlesfemmes.ch
 cequilibre.ch
@@ -6187,6 +6188,7 @@ cerevisia.ch
 cerevita.ch
 cerevo.ch
 cerewall.ch
+cereweb.ch
 cerex.ch
 cerez.ch
 cereza-sour.ch
@@ -6613,7 +6615,6 @@ certified-family-law-lawyer.ch
 certified-first.ch
 certified-labour-law-lawyer.ch
 certified-organic-hotels.ch
-certified-profiler-kompetenzzentrum.ch
 certified-profiler-netzwerk.ch
 certified-profiler.ch
 certified-re.ch

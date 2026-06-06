@@ -645,6 +645,7 @@ user-first.ch
 user-generated-content.ch
 user-generated-radio.ch
 user-generation.ch
+user-group.ch
 user-guide.ch
 user-id.ch
 user-interface.ch
@@ -653,6 +654,7 @@ user-manual.ch
 user-research-vorwerk.ch
 user-research.ch
 user-service.ch
+user-six.ch
 user-testing.ch
 user-tests.ch
 user-training.ch

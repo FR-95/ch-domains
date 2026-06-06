@@ -7,6 +7,7 @@ ez-express.ch
 ez-fischen.ch
 ez-golf.ch
 ez-golfsim.ch
+ez-group.ch
 ez-hauswartungen.ch
 ez-isolationen.ch
 ez-landmaschinen.ch
@@ -149,6 +150,7 @@ ezgicinar.ch
 ezgietromain.ch
 ezgino.ch
 ezgolf.ch
+ezgroup.ch
 ezh-ag.ch
 ezh-haustechnik.ch
 ezh.ch
@@ -216,6 +218,7 @@ ezmicrob.ch
 ezmn.ch
 ezmo.ch
 ezn.ch
+eznet.ch
 eznetz.ch
 ezno.ch
 ezns.ch
@@ -244,6 +247,7 @@ ezpada.ch
 ezpage.ch
 ezpay.ch
 ezpc.ch
+ezpcarts.ch
 ezphone.ch
 ezpop.ch
 ezpowersteering.ch

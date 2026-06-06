@@ -97,7 +97,6 @@ ki-basel.ch
 ki-basics.ch
 ki-basiskurs.ch
 ki-bau.ch
-ki-baudienstleistungen.ch
 ki-beauftragte.ch
 ki-beauftragter.ch
 ki-benchmark.ch
@@ -296,6 +295,7 @@ ki-fuer-anwaelte.ch
 ki-fuer-dich.ch
 ki-fuer-firmen.ch
 ki-fuer-juristen.ch
+ki-fuer-kmu.ch
 ki-fuer-unternehmen.ch
 ki-game.ch
 ki-ganzeinfach.ch
@@ -320,7 +320,6 @@ ki-grundkurs.ch
 ki-guard.ch
 ki-guide.ch
 ki-guru.ch
-ki-gurus.ch
 ki-haftung.ch
 ki-hamann.ch
 ki-health.ch
@@ -3402,7 +3401,6 @@ kifband.ch
 kife.ch
 kifekoi.ch
 kiff-aarau.ch
-kiff-kopf.ch
 kiff-nein.ch
 kiff.ch
 kiff2026.ch
@@ -3422,7 +3420,6 @@ kiffeunde.ch
 kifffunys.ch
 kiffkiff.ch
 kiffkiffburrito.ch
-kiffkopf.ch
 kiffmc.ch
 kiffmeister.ch
 kiffomax.ch
@@ -6062,6 +6059,7 @@ kinderergo-amriswil.ch
 kinderergo-praxis.ch
 kinderergo-schlieren.ch
 kinderergo-waedenswil.ch
+kinderergo-weber.ch
 kinderergo.ch
 kinderergoarbon.ch
 kinderergobasel.ch
@@ -10905,6 +10903,7 @@ kipec.ch
 kipedia.ch
 kipekee.ch
 kiper.ch
+kiperformance.ch
 kiperium.ch
 kipermanent.ch
 kipersonal.ch
@@ -12690,6 +12689,7 @@ kispi-anaesthesie.ch
 kispi-chirurgie.ch
 kispi-clowns.ch
 kispi-ips.ch
+kispi-jobs.ch
 kispi-luzern.ch
 kispi-neubau.ch
 kispi-ost.ch
@@ -14747,6 +14747,7 @@ kitrevag.ch
 kitri.ch
 kitris.ch
 kitro.ch
+kitron.ch
 kitronix.ch
 kitrox.ch
 kitrra.ch

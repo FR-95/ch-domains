@@ -189,6 +189,7 @@ kaba-clever.ch
 kaba-drive.ch
 kaba-elolegic.ch
 kaba-exivo.ch
+kaba-gebaeudeservice.ch
 kaba-gilgen.ch
 kaba-gmbh.ch
 kaba-holding.ch
@@ -983,7 +984,6 @@ kaech-law.ch
 kaech-paysagiste.ch
 kaech-recht.ch
 kaech-seetal.ch
-kaech-test.ch
 kaech-zt.ch
 kaech.ch
 kaechag.ch
@@ -3318,6 +3318,7 @@ kairex.ch
 kairi.ch
 kairin.ch
 kairio.ch
+kairn-board.ch
 kairn-capital.ch
 kairn-stone.ch
 kairn.ch
@@ -7727,6 +7728,7 @@ kanton-basel.ch
 kanton-baselland.ch
 kanton-baselstadt.ch
 kanton-bern-spielgruppen.ch
+kanton-deutschland.ch
 kanton-finanzen.ch
 kanton-friburg.ch
 kanton-fricktal.ch
@@ -8408,6 +8410,7 @@ kanzleiwinterthur.ch
 kanzleizenklusen.ch
 kanzleizuerich.ch
 kanzleizuerichsee.ch
+kanzler-bauabdichtung.ch
 kanzler-frauenfeld.ch
 kanzler.ch
 kanzlerin.ch
@@ -10405,6 +10408,7 @@ karin-foell.ch
 karin-foto.ch
 karin-frei.ch
 karin-fricker.ch
+karin-gaebler-floristik.ch
 karin-gal.ch
 karin-gasche.ch
 karin-geisselhardt-psychotherapie.ch
@@ -11894,7 +11898,6 @@ karrer.ch
 karrerag.ch
 karrerbau.ch
 karrerbieli.ch
-karrerdesign.ch
 karrerdreier.ch
 karrerei.ch
 karrerfamily.ch
@@ -12230,6 +12233,7 @@ kartbahnlyss.ch
 kartbahnruemlang.ch
 kartbahnwohlen.ch
 kartbasel.ch
+kartbau.ch
 kartbox.ch
 kartboxclub.ch
 kartcenter.ch
@@ -13097,6 +13101,7 @@ kashtanjeva.ch
 kashyap.ch
 kashyyyk.ch
 kashyyykpastabar.ch
+kasi-immo.ch
 kasi-pnishi.ch
 kasi.ch
 kasia-adamczyk.ch
@@ -13480,7 +13485,6 @@ kassenkompass.ch
 kassenkurier.ch
 kassenkurs.ch
 kassenlassen.ch
-kassenlos.ch
 kassenluzern.ch
 kassenmanager.ch
 kassenmarketing.ch
@@ -15486,6 +15490,7 @@ katrinkaden.ch
 katrinkaufmann.ch
 katrinkeller.ch
 katrinkohler.ch
+katrinkoller.ch
 katrinkoyro.ch
 katrinkuhn.ch
 katrinlanger.ch
@@ -17379,6 +17384,7 @@ kayed.ch
 kayegger.ch
 kayejay.ch
 kayenne.ch
+kayeta.ch
 kayfabe.ch
 kayfly.ch
 kayga.ch
@@ -17395,6 +17401,7 @@ kayhertenstein.ch
 kayi.ch
 kayisoglu.ch
 kayitmaz.ch
+kayjaycosmetics.ch
 kaykay.ch
 kayki.ch
 kayklein.ch

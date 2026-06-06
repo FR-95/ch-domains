@@ -1334,6 +1334,7 @@ bmx24.ch
 bmx4u.ch
 bmxben.ch
 bmxberoche.ch
+bmxberochearena.ch
 bmxchauxdefonds.ch
 bmxclub-chablais.ch
 bmxclub.ch
@@ -1356,6 +1357,7 @@ bmxtracks.ch
 bmxvolketswil.ch
 bmxwinterthur.ch
 bmxworlds2031.ch
+bmxworlds2035.ch
 bmxzetzwil.ch
 bmxzh.ch
 bmy.ch

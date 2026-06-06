@@ -813,7 +813,6 @@ e-crew.ch
 e-crf.ch
 e-crime.ch
 e-criminalrecordextract.ch
-e-cross-fun.ch
 e-crowd.ch
 e-cruise.ch
 e-cruiser.ch
@@ -2075,7 +2074,6 @@ e-motionsmile.ch
 e-motionsport.ch
 e-motivecommunication.ch
 e-motocross-schweiz.ch
-e-motocross.ch
 e-motor.ch
 e-motor24.ch
 e-motor4boat.ch
@@ -2126,7 +2124,6 @@ e-music.ch
 e-musica.ch
 e-musika.ch
 e-mwst.ch
-e-mx.ch
 e-my-ster.ch
 e-myauto.ch
 e-mybike.ch

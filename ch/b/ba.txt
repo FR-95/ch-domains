@@ -614,7 +614,6 @@ babelkultur.ch
 babellingua.ch
 babelonia.ch
 babelquartier.ch
-babelreplay.ch
 babelspee.ch
 babelstrings.ch
 babeltrans.ch
@@ -6806,7 +6805,6 @@ baeripost.ch
 baeris.ch
 baerisbest.ch
 baerisbiohof.ch
-baerisflohmi.ch
 baeristonestyle.ch
 baeriswil.ch
 baeriswil24.ch
@@ -13131,6 +13129,8 @@ bamixshop.ch
 bamjob.ch
 bamk-of-switzerland.ch
 baml.ch
+bamlab.ch
+bamlook.ch
 bamm.ch
 bammatta.ch
 bammatte.ch
@@ -14522,6 +14522,7 @@ bankkarriere.ch
 bankkarten.ch
 bankkauffrau.ch
 bankkaufmann.ch
+bankkey.ch
 bankkikompass.ch
 bankkonditionen.ch
 bankkonten.ch
@@ -15265,6 +15266,7 @@ baog.ch
 baogeneve.ch
 baogmbh.ch
 baohaus.ch
+baohiemthuysi.ch
 baojian.ch
 baojun.ch
 baokay.ch
@@ -16793,6 +16795,7 @@ barberfreedom.ch
 barberfreedomcygnes.ch
 barberfurniture.ch
 barbergiannis.ch
+barbergo.ch
 barberhollywood.ch
 barberhouse-tivoli.ch
 barberhouse.ch
@@ -19659,7 +19662,6 @@ basaltpharmaceuticals.ch
 basalttheater.ch
 basan.ch
 basana.ch
-basanee.ch
 basani.ch
 basanovic.ch
 basap.ch
@@ -19917,7 +19919,6 @@ basedinbasel.ch
 basedmovement.ch
 basedonatruestory.ch
 basedow.ch
-basedragon.ch
 basedresear.ch
 basedup.ch
 basefin.ch
@@ -22829,7 +22830,6 @@ bastion-properties.ch
 bastion.ch
 bastionai.ch
 bastiondigital.ch
-bastionduluxe.ch
 bastionimmobilier.ch
 bastions-egalite.ch
 bastions.ch
@@ -26185,6 +26185,7 @@ baufux.ch
 baufuzzi.ch
 baug.ch
 baugango.ch
+baugarant.ch
 baugarantie.ch
 baugarantien.ch
 baugarantieversicherung.ch

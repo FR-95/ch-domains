@@ -702,7 +702,6 @@ eidoo.ch
 eidora.ch
 eidorado.ch
 eidos-praxisnetzwerk.ch
-eidos-web.ch
 eidos.ch
 eidoscope.ch
 eidosformation.ch
@@ -895,6 +894,7 @@ eifachfein.ch
 eifachfinde.ch
 eifachfit.ch
 eifachfreud.ch
+eifachfroge.ch
 eifachgmacht.ch
 eifachgseit.ch
 eifachgsond.ch
@@ -1351,6 +1351,7 @@ eigentraum.ch
 eigentuembaer.ch
 eigentuemer-app.ch
 eigentuemer.ch
+eigentuemerberatung.ch
 eigentuemerkreis.ch
 eigentuemerversammlung.ch
 eigentum-auf-zeit.ch

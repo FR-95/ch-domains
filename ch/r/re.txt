@@ -3421,6 +3421,7 @@ reborn-classic-radio.ch
 reborn-community.ch
 reborn-fitness.ch
 reborn-get-more.ch
+reborn-ip.ch
 reborn-mobile.ch
 reborn-shop.ch
 reborn-strategy.ch
@@ -5149,7 +5150,6 @@ reclaimer.ch
 reclaimfocus.ch
 reclaimingcocoa.ch
 reclaimly.ch
-reclaimyourbody.ch
 reclaimyourface.ch
 reclaimyourfreedom.ch
 reclaimyourpower.ch
@@ -5588,7 +5588,6 @@ recoveryspa.ch
 recoveryspace.ch
 recoverytiger.ch
 recoveryzone.ch
-recovet.ch
 recovex.ch
 recovhery.ch
 recovia.ch
@@ -7203,6 +7202,7 @@ redfoxzug.ch
 redframe.ch
 redfridge.ch
 redfrost.ch
+redfury-labs.ch
 redfussball.ch
 redfutsal.ch
 redgamepass.ch
@@ -7373,6 +7373,7 @@ rediv.ch
 redivital.ch
 rediviva.ch
 rediw.ch
+rediwa.ch
 redix.ch
 redixa.ch
 redixs.ch
@@ -8386,8 +8387,6 @@ reelgeneve.ch
 reelglove.ch
 reelgoats.ch
 reelgood.ch
-reelhaus.ch
-reelhouse.ch
 reelique.ch
 reelit.ch
 reelko.ch
@@ -10617,7 +10616,6 @@ regbl.ch
 regbox.ch
 regcan.ch
 regcell.ch
-regchat.ch
 regchdcapr24.ch
 regcheck.ch
 regco.ch
@@ -12710,7 +12708,6 @@ regiplus.ch
 regiprint.ch
 regipro.ch
 regiprom.ch
-regips.ch
 regipsrecica.ch
 regis-burehof.ch
 regis-fiduciaire.ch
@@ -13589,6 +13586,7 @@ reha-ergotherapie.ch
 reha-event.ch
 reha-fahrzeuge.ch
 reha-fina.ch
+reha-fit-wear.ch
 reha-fit.ch
 reha-frauenfeld.ch
 reha-golf.ch
@@ -13770,6 +13768,7 @@ rehafahrzeug.ch
 rehafina.ch
 rehafirst.ch
 rehafit.ch
+rehafitwear.ch
 rehaflow.ch
 rehafocus.ch
 rehag-glas.ch
@@ -19620,6 +19619,7 @@ reloader-ticino.ch
 reloader.ch
 reloading.ch
 reloadkarte.ch
+reloadrecovery.ch
 reloadthefuture.ch
 reloc-immogestion.ch
 reloc.ch
@@ -24118,7 +24118,6 @@ renovplus.ch
 renovplussolutions.ch
 renovpro.ch
 renovprojet.ch
-renovr.ch
 renovs.ch
 renovsalledebain.ch
 renovshop.ch
@@ -27192,7 +27191,6 @@ repute.ch
 reputec.ch
 reputech.ch
 reputeo.ch
-reputify.ch
 reputime.ch
 reputlocale.ch
 reputronic.ch
@@ -27728,7 +27726,6 @@ reseau-initiativefrance.ch
 reseau-intendance.ch
 reseau-laboratoires-suisses.ch
 reseau-laboratoires.ch
-reseau-lac.ch
 reseau-latour.ch
 reseau-lausanne-sein.ch
 reseau-leman-express.ch
@@ -27834,7 +27831,6 @@ reseaujeunesse.ch
 reseaujob.ch
 reseaujobs.ch
 reseaulaboratoires.ch
-reseaulac.ch
 reseaulacdebienne.ch
 reseaulatour.ch
 reseaulemanique.ch
@@ -28648,6 +28644,7 @@ residenz-verlag.ch
 residenz-victoria.ch
 residenz-vivo.ch
 residenz-wangenmatt.ch
+residenz-wehntal.ch
 residenz-zentaur.ch
 residenz-zielacher.ch
 residenz-zuerich.ch
@@ -29713,6 +29710,7 @@ resourceplaner.ch
 resources-and-art.ch
 resources-game.ch
 resources-hr-talents.ch
+resources-hr.ch
 resources-switzerland.ch
 resources-work-as-they-should.ch
 resources.ch
@@ -31406,6 +31404,7 @@ restaurant-larix.ch
 restaurant-larotonda.ch
 restaurant-lasarraz.ch
 restaurant-lasemplicita.ch
+restaurant-lasosta.ch
 restaurant-laspirale.ch
 restaurant-lastazione.ch
 restaurant-laterne.ch
@@ -34219,6 +34218,7 @@ restouvert.ch
 restoverso.ch
 restoview.ch
 restowner.ch
+restphone.ch
 restpics.ch
 restplace.ch
 restplaetze.ch
@@ -36999,7 +36999,6 @@ revelc.ch
 revele-visagiste.ch
 revele.ch
 revelec.ch
-revelence.ch
 reveles.ch
 revelessencedefemmes.ch
 reveletoi.ch

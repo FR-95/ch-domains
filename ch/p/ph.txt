@@ -1068,6 +1068,7 @@ pharmacompany.ch
 pharmacompliance.ch
 pharmacomplianceservices.ch
 pharmacon-ag.ch
+pharmaconcept.ch
 pharmaconfort.ch
 pharmaconmatters.ch
 pharmaconn.ch
@@ -1157,6 +1158,7 @@ pharmaexcipients.ch
 pharmaexpert.ch
 pharmaexpress-chiasso.ch
 pharmaexpress.ch
+pharmaexpresschiasso.ch
 pharmafahrzeug.ch
 pharmafahrzeuge.ch
 pharmafilm.ch
@@ -1946,6 +1948,7 @@ phertec.ch
 phertrade.ch
 pherun.ch
 phessmarketing.ch
+phet.ch
 pheti-thaimassagen.ch
 phetra.ch
 pheur.ch
@@ -2852,6 +2855,7 @@ philippelewis.ch
 philippeligron.ch
 philippelmer.ch
 philippeloosli.ch
+philippelugassy.ch
 philippemaeder.ch
 philippemahler.ch
 philippemaillard.ch
@@ -3596,6 +3600,7 @@ phinom.ch
 phinoma.ch
 phinos.ch
 phinovate.ch
+phinpeak.ch
 phintage.ch
 phinvest.ch
 phion-ag.ch
@@ -5686,6 +5691,7 @@ photoprofessionals.ch
 photoprofi.ch
 photoproject.ch
 photoprojects.ch
+photoprojekt.ch
 photoprops.ch
 photopros.ch
 photopsm.ch
@@ -6439,6 +6445,7 @@ phy-hin.ch
 phy-sis.ch
 phy-therapies.ch
 phy.ch
+phyag.ch
 phycare.ch
 phychslin.ch
 phyco.ch
@@ -6863,6 +6870,8 @@ physio-catalinamueller.ch
 physio-cc.ch
 physio-cedaro.ch
 physio-celinezuber.ch
+physio-central-malley.ch
+physio-centralmalley.ch
 physio-centre-lac.ch
 physio-centre-lausanne.ch
 physio-centre-meyrin.ch
@@ -7615,6 +7624,7 @@ physio-praxis-winterthur.ch
 physio-praxis-zollikon.ch
 physio-praxis.ch
 physio-prilly-centre.ch
+physio-prilly.ch
 physio-prime.ch
 physio-pro-move.ch
 physio-pro.ch
@@ -7921,6 +7931,7 @@ physio-thurgau.ch
 physio-thurnherr.ch
 physio-thusis.ch
 physio-tieracker.ch
+physio-tiliatower.ch
 physio-time.ch
 physio-tittl.ch
 physio-tkaczyk.ch
@@ -7973,6 +7984,7 @@ physio-van-den-nobelen.ch
 physio-vandijk.ch
 physio-vanwelden.ch
 physio-vargas.ch
+physio-vaudoise-arena.ch
 physio-vd.ch
 physio-veil.ch
 physio-veltheim.ch
@@ -9094,6 +9106,7 @@ physiomain.ch
 physiomaingeneve.ch
 physiomainsnuages.ch
 physiomalagnou.ch
+physiomalley.ch
 physiomampasi.ch
 physiomana.ch
 physiomanagement.ch
@@ -9390,6 +9403,7 @@ physiopraxislausen.ch
 physiopraxiswagi.ch
 physiopraxiswitikon.ch
 physiopremium.ch
+physioprilly.ch
 physioprime.ch
 physiopro.ch
 physioproalp.ch
@@ -9832,6 +9846,7 @@ physiotherapie-carel-willisau.ch
 physiotherapie-carouge.ch
 physiotherapie-cello.ch
 physiotherapie-central.ch
+physiotherapie-centralmalley.ch
 physiotherapie-champel.ch
 physiotherapie-chevalley.ch
 physiotherapie-christel.ch
@@ -10159,6 +10174,7 @@ physiotherapie-polak.ch
 physiotherapie-portal.ch
 physiotherapie-post.ch
 physiotherapie-praxis.ch
+physiotherapie-prilly.ch
 physiotherapie-pro.ch
 physiotherapie-proaktiv.ch
 physiotherapie-prusskel.ch
@@ -10282,6 +10298,7 @@ physiotherapie-thalwil.ch
 physiotherapie-therwil.ch
 physiotherapie-thoma.ch
 physiotherapie-thun.ch
+physiotherapie-tiliatower.ch
 physiotherapie-trainierbar.ch
 physiotherapie-training-leinfeld.ch
 physiotherapie-trautmann.ch

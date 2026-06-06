@@ -782,7 +782,6 @@ pachamama-energie.ch
 pachamama-festival.ch
 pachamama-foodtruck.ch
 pachamama-retreat.ch
-pachamama-schweiz.ch
 pachamama-yoga.ch
 pachamama.ch
 pachamamafestival.ch
@@ -1650,6 +1649,7 @@ padel-go.ch
 padel-graubuenden.ch
 padel-graubunden.ch
 padel-house.ch
+padel-in-der-naehe.ch
 padel-interlaken.ch
 padel-jura.ch
 padel-lifestyle.ch
@@ -2332,6 +2332,7 @@ paediatrie-examen.ch
 paediatrie-symposium.ch
 paediatrie.ch
 paediatrieinfo.ch
+paediatrieplus.ch
 paediatriepraxis.ch
 paediatrieschweiz.ch
 paediatriezentrumlocarno.ch
@@ -3676,7 +3677,6 @@ paktett.ch
 paktravel.ch
 paktum.ch
 paku-ag.ch
-paku.ch
 pakua.ch
 pakuaschweiz.ch
 pakung.ch
@@ -4284,6 +4284,7 @@ palfries.ch
 palfriesbahn.ch
 palfy.ch
 palgem.ch
+palgena.ch
 palgeo.ch
 palgmbh.ch
 palha.ch
@@ -5085,6 +5086,7 @@ palumboinvestag.ch
 palummo.ch
 palumotos.ch
 paluotta.ch
+palupalu.ch
 palupartner.ch
 paluselli.ch
 palushi.ch
@@ -8482,7 +8484,6 @@ papeterie.ch
 papeterie24.ch
 papeterieartikel.ch
 papeteriebedarf.ch
-papeteriebourquin.ch
 papeteriebrodmann.ch
 papeteriebrunner.ch
 papeteriedelacote.ch
@@ -11531,6 +11532,7 @@ paris-chic.ch
 paris-city.ch
 paris-comtesse.ch
 paris-elysees.ch
+paris-geneve.ch
 paris-linthal.ch
 paris-match.ch
 paris-ready.ch
@@ -12721,6 +12723,7 @@ parklift-schweiz.ch
 parklift.ch
 parklifte.ch
 parklifts.ch
+parklink.ch
 parklngzuerich.ch
 parklocal.ch
 parklokal.ch
@@ -13011,7 +13014,6 @@ parksmart.ch
 parksolution.ch
 parkspace.ch
 parkspaceshare.ch
-parksparer.ch
 parkspatz.ch
 parkspot.ch
 parkstadt.ch
@@ -23297,7 +23299,6 @@ pawlara.ch
 pawlicek.ch
 pawlick.ch
 pawliday.ch
-pawlie.ch
 pawlife-companion.ch
 pawlii.ch
 pawlik-esg-consulting.ch
@@ -23855,7 +23856,6 @@ paygeld.ch
 payglide.ch
 paygo.ch
 paygood.ch
-paygreen.ch
 paygru.ch
 payham.ch
 payhawk.ch

@@ -2974,7 +2974,6 @@ editions-etzel.ch
 editions-fet.ch
 editions-florezoa.ch
 editions-florilege.ch
-editions-forestier.ch
 editions-francis-lefebvre.ch
 editions-friture.ch
 editions-furor.ch
@@ -4168,8 +4167,10 @@ educa.ch
 educabay.ch
 educaboard.ch
 educaccess.ch
+educachien.ch
 educacion.ch
 educaconsulting.ch
+educactif.ch
 educademy.ch
 educado.ch
 educadogs.ch

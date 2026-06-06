@@ -989,6 +989,7 @@ ai4hcai.ch
 ai4health.ch
 ai4healthcare.ch
 ai4human.ch
+ai4innovation.ch
 ai4iv.ch
 ai4job.ch
 ai4kids.ch
@@ -1325,7 +1326,6 @@ aiccount.ch
 aiccountant.ch
 aiccounting.ch
 aiccounts.ch
-aicdat.ch
 aicdm.ch
 aice.ch
 aiceberg.ch
@@ -3442,7 +3442,6 @@ ainspruch.ch
 ainstein.ch
 ainsteintechnology.ch
 ainsurance.ch
-aint.ch
 aintagsfliege.ch
 aintal.ch
 aintegrator.ch
@@ -3491,7 +3490,6 @@ aio-treuhand.ch
 aio.ch
 aio24.ch
 aio365.ch
-aioa-test.ch
 aioa.ch
 aioag.ch
 aiobalance.ch
@@ -3589,6 +3587,7 @@ aionmoto.ch
 aiononline.ch
 aionova.ch
 aionperformance.ch
+aionsynapse.ch
 aiontech.ch
 aiontrace.ch
 aionutri.ch
@@ -4086,6 +4085,7 @@ airaghi.ch
 airahome.ch
 airak.ch
 airaki.ch
+airalo-esim.ch
 airalo.ch
 airalpina.ch
 airalps.ch
@@ -6507,6 +6507,7 @@ aivp.ch
 aivpzh.ch
 aivrim.ch
 aivs.ch
+aivu.ch
 aivv.ch
 aivy.ch
 aiw-manufaktur.ch

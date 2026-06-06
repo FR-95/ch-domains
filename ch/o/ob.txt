@@ -355,7 +355,6 @@ oberdorf-apotheke.ch
 oberdorf-beck.ch
 oberdorf-bl24.ch
 oberdorf-city.ch
-oberdorf-garage.ch
 oberdorf-horgen.ch
 oberdorf-kirche.ch
 oberdorf-kuessnacht.ch
@@ -1293,7 +1292,6 @@ obesunne.ch
 obeswiss.ch
 obet.ch
 obetech.ch
-obeuse.ch
 obexco.ch
 obey.ch
 obeya.ch
@@ -1690,6 +1688,7 @@ objektkonzept.ch
 objektkuechen.ch
 objektleitung.ch
 objektlift.ch
+objektlog.ch
 objektm.ch
 objektm24.ch
 objektmanagement.ch

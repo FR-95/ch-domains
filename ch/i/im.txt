@@ -2637,6 +2637,7 @@ imlabor.ch
 imlach.ch
 imladris-treuhand.ch
 imladris.ch
+imlaluna.ch
 imlan.ch
 imlangacher.ch
 imlangenloh.ch
@@ -7147,7 +7148,6 @@ immoconcept-pitta.ch
 immoconcept.ch
 immoconex.ch
 immoconn.ch
-immoconnect.ch
 immocons-gmbh.ch
 immocons.ch
 immoconseil.ch
@@ -7774,6 +7774,8 @@ immohirtzug.ch
 immohirtzugag.ch
 immohit.ch
 immohitz.ch
+immohoch2.ch
+immohochzwei.ch
 immohof.ch
 immohofer.ch
 immohohler.ch
@@ -8240,6 +8242,7 @@ immomedien.ch
 immomeet.ch
 immomehrwert.ch
 immomeier.ch
+immomeilen.ch
 immomeili.ch
 immomelo.ch
 immomember.ch
@@ -11977,6 +11980,7 @@ imprimerie-ros.ch
 imprimerie-saint-paul.ch
 imprimerie-schmid.ch
 imprimerie-sekar.ch
+imprimerie-suisse.ch
 imprimerie-vaud.ch
 imprimerie-vb.ch
 imprimerie-villiere.ch
@@ -12020,6 +12024,7 @@ imprimeries-lausanne.ch
 imprimeries.ch
 imprimeriesierre.ch
 imprimeriesion.ch
+imprimeriesuisse.ch
 imprimerietrajets.ch
 imprimerievallorbe.ch
 imprimerievaudoise.ch
@@ -12819,6 +12824,7 @@ ims-switzerland.ch
 ims-t.ch
 ims-trade.ch
 ims-treuhand.ch
+ims-vaud.ch
 ims-vermietung.ch
 ims-w.ch
 ims-west.ch
@@ -12957,6 +12963,7 @@ imsuisse-sa.ch
 imsuisse.ch
 imsuk.ch
 imsunnefang.ch
+imsvaud.ch
 imsware.ch
 imswiss.ch
 imsynex.ch

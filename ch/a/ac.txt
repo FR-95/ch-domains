@@ -2527,6 +2527,7 @@ acech.ch
 aceclaim.ch
 acecloud.ch
 aceco.ch
+acecollective.ch
 acecolorandcuts.ch
 acecom.ch
 acecommodity.ch
@@ -3635,6 +3636,7 @@ achtsamkeitundkuenstlicheintelligenz.ch
 achtsamkommunizieren.ch
 achtsamkreativ.ch
 achtsamleben.ch
+achtsammitpferden.ch
 achtsamnackt.ch
 achtsamplus.ch
 achtsamschreiben.ch
@@ -4245,6 +4247,7 @@ acme-asset.ch
 acme-challenge.ch
 acme-corp.ch
 acme-corporation.ch
+acme-dc.ch
 acme-dns.ch
 acme-fashion.ch
 acme-helper-swiss-cloud.ch
@@ -7372,7 +7375,6 @@ acupuncture-carouge.ch
 acupuncture-comparatif.ch
 acupuncture-echallens.ch
 acupuncture-et-naturopathie.ch
-acupuncture-formation.ch
 acupuncture-ge.ch
 acupuncture-geneva.ch
 acupuncture-geneve-centre.ch
@@ -7504,6 +7506,7 @@ acute.ch
 acutecaresurgery.ch
 acutedenim.ch
 acutemyeloidleukemia.ch
+acuthera.ch
 acutherapy.ch
 acuto.ch
 acutop.ch

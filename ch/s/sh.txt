@@ -333,7 +333,6 @@ shack.ch
 shackassociation.ch
 shackdata.ch
 shacksear.ch
-shacman.ch
 shaconcept.ch
 shad.ch
 shadait.ch
@@ -469,7 +468,6 @@ shadowwizardmoneygang.ch
 shadowwork.ch
 shadox.ch
 shadra.ch
-shadse.ch
 shadura.ch
 shadwell.ch
 shady-past.ch
@@ -5418,7 +5416,6 @@ shoecareacademy.ch
 shoechou.ch
 shoecleaner.ch
 shoecompare.ch
-shoecorner.ch
 shoedazzle.ch
 shoedeal.ch
 shoedoc.ch
@@ -5479,7 +5476,6 @@ shoesforactives.ch
 shoesforcrews.ch
 shoesforcrewseurope.ch
 shoeshine-boy.ch
-shoeshine.ch
 shoeshiner.ch
 shoeshineservice.ch
 shoeshop.ch
@@ -7441,6 +7437,7 @@ shoptv.ch
 shoptwo.ch
 shopty.ch
 shoptycoon.ch
+shopugi.ch
 shopunderstatement.ch
 shopundwine.ch
 shopunibe.ch
@@ -7505,7 +7502,6 @@ shopweezle.ch
 shopwein.ch
 shopwelcomestranger.ch
 shopwelt.ch
-shopwelt81.ch
 shopwerk.ch
 shopwiki.ch
 shopwindow.ch
@@ -8740,7 +8736,6 @@ shv-services.ch
 shv-surbtal.ch
 shv-zh.ch
 shv.ch
-shvaud.ch
 shventures.ch
 shverbindet.ch
 shverwalter.ch

@@ -2086,6 +2086,7 @@ poivron.ch
 poiz.ch
 poizen.ch
 poja.ch
+pojata.ch
 pojazdy.ch
 poje.ch
 pojektraum.ch
@@ -3840,7 +3841,6 @@ politik-digital.ch
 politik-finanzierung.ch
 politik-freiheit-verantwortung.ch
 politik-fuer-alle.ch
-politik-gl.ch
 politik-kampagne.ch
 politik-kampagnen.ch
 politik-kommunikation.ch
@@ -3890,7 +3890,6 @@ politikfinanzierung.ch
 politikforum.ch
 politikfrauenhorw.ch
 politikfueralli.ch
-politikgl.ch
 politikinfo.ch
 politikkampagnen.ch
 politikkarma.ch
@@ -4756,6 +4755,7 @@ pollenfestival.ch
 pollenfilter.ch
 pollenfilterdirekt.ch
 pollenflug.ch
+pollenflugheute.ch
 pollenflugkalender.ch
 pollenfrei.ch
 polleng-h.ch
@@ -4763,6 +4763,7 @@ pollengewebe.ch
 pollengitter.ch
 pollenhoeschen.ch
 pollenizer.ch
+pollenkarte.ch
 pollenn.ch
 pollennetz.ch
 pollenradar.ch
@@ -7040,6 +7041,8 @@ pontinova-invest.ch
 pontinova-law.ch
 pontinova-legal.ch
 pontinova.ch
+pontis-care.ch
+pontis-health.ch
 pontis.ch
 pontisella-stampa.ch
 pontisella.ch
@@ -11235,6 +11238,7 @@ post-advertising.ch
 post-and-beam.ch
 post-ankauf.ch
 post-areal.ch
+post-auto.ch
 post-banking.ch
 post-biberbrugg.ch
 post-blumenshop.ch
@@ -12222,6 +12226,7 @@ postversandtasche.ch
 postversandtaschen.ch
 postverteiler.ch
 postverzollung.ch
+postvip.ch
 postvollmacht.ch
 postwaagen.ch
 postwachstum-schweiz.ch

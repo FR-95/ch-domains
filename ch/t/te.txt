@@ -2081,6 +2081,7 @@ teamworkakademie.ch
 teamworkbau.ch
 teamworkcheck.ch
 teamworkcommerce.ch
+teamworkgraph.ch
 teamworkinternational.ch
 teamworklive.ch
 teamworkoffice.ch
@@ -2771,6 +2772,7 @@ tech-select.ch
 tech-selection.ch
 tech-shop.ch
 tech-site.ch
+tech-soft.ch
 tech-solution.ch
 tech-solutions.ch
 tech-sos.ch
@@ -5864,7 +5866,6 @@ teesinp.ch
 teesommelier.ch
 teesommeliere.ch
 teesorten.ch
-teespresso.ch
 teest.ch
 teestube-zuerich.ch
 teestube.ch
@@ -11205,6 +11206,7 @@ teoleonie.ch
 teolin.ch
 teologia.ch
 teologialugano.ch
+teomaks-cnc.ch
 teomaks.ch
 teomed.ch
 teomen.ch
@@ -13454,6 +13456,7 @@ terrbohr.ch
 terrcal.ch
 terrdesign.ch
 terre-avenir.ch
+terre-battue.ch
 terre-bonne.ch
 terre-cuite.ch
 terre-cyme.ch
@@ -14866,6 +14869,7 @@ test-ib2.ch
 test-ict-tfbern.ch
 test-igflf.ch
 test-ik-rw-prod.ch
+test-immo.ch
 test-imp.ch
 test-in.ch
 test-infected.ch

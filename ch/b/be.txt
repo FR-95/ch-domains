@@ -1352,7 +1352,6 @@ beararchery.ch
 bearast.ch
 bearator.ch
 bearattachments.ch
-bearbakery.ch
 bearbeat.ch
 bearbeiten.ch
 bearbeitung.ch
@@ -1607,6 +1606,7 @@ beastly-management.ch
 beastly.ch
 beastlycocktails.ch
 beastlydrinks.ch
+beastmaster.ch
 beastmode.ch
 beastmodebaern.ch
 beastoecklin.ch
@@ -3605,7 +3605,6 @@ beauty-technologies.ch
 beauty-test.ch
 beauty-thai-massage.ch
 beauty-therapy.ch
-beauty-time-esthetique-geneve.ch
 beauty-time-esthetique.ch
 beauty-time-kosmetik.ch
 beauty-time.ch
@@ -3765,6 +3764,7 @@ beautyartsstudio.ch
 beautyartvidy.ch
 beautyatelier-gerber.ch
 beautyatelier-j.ch
+beautyatelier-lena.ch
 beautyatelier.ch
 beautyatelierangelika.ch
 beautyatelierbybianca.ch
@@ -4424,6 +4424,7 @@ beautyn.ch
 beautyna.ch
 beautynails-basel.ch
 beautynails-bern.ch
+beautynails-letzipark.ch
 beautynails-murten.ch
 beautynails-studio.ch
 beautynails-volkiland.ch
@@ -10237,6 +10238,7 @@ belflorsuisse.ch
 belfodil.ch
 belfone.ch
 belfont.ch
+belfoodservice.ch
 belfor-jobs.ch
 belfor-prevention.ch
 belfor-technology.ch
@@ -13040,6 +13042,7 @@ bemusico.ch
 bemusterung.ch
 bemusterungen.ch
 bemutec.ch
+bemuvo.ch
 bemvindo.ch
 bemvindos.ch
 bemvindoservices.ch
@@ -14115,6 +14118,7 @@ bengundbartholin.ch
 bengwerder.ch
 bengy.ch
 benha.ch
+benhaeberle.ch
 benhaida.ch
 benhaim.ch
 benhamida.ch
@@ -16073,6 +16077,7 @@ bepa-torfabrik.ch
 bepa.ch
 bepabio.ch
 bepado.ch
+bepag.ch
 bepaid.ch
 bepal.ch
 bepal24.ch
@@ -18202,6 +18207,7 @@ berggiganten.ch
 berggipfel.ch
 berggitschenen.ch
 bergglow.ch
+bergglueck.ch
 berggnuss.ch
 berggo2.ch
 berggold.ch
@@ -19686,6 +19692,7 @@ berlebach-shop.ch
 berlebach-store.ch
 berlebachshop.ch
 berlebachstore.ch
+berlenbach.ch
 berlepsch.ch
 berli-ammeter.ch
 berli-meier.ch
@@ -19989,6 +19996,7 @@ bern-nordquartier.ch
 bern-notar.ch
 bern-notariat.ch
 bern-notfallzahnarzt.ch
+bern-nothelfer.ch
 bern-office.ch
 bern-online.ch
 bern-open.ch
@@ -20087,10 +20095,12 @@ bern-university-hospital.ch
 bern-unverpackt.ch
 bern-upcycling-challenge.ch
 bern-vegan.ch
+bern-verkehrskunde.ch
 bern-versicherung.ch
 bern-viererfeld.ch
 bern-virtual.ch
 bern-vital.ch
+bern-vku.ch
 bern-von-oben.ch
 bern-vorkurs.ch
 bern-waehlt.ch
@@ -21571,7 +21581,6 @@ bernhard-lang.ch
 bernhard-lederer.ch
 bernhard-lochmatter.ch
 bernhard-mach.ch
-bernhard-muller.ch
 bernhard-oberholzer.ch
 bernhard-objekte.ch
 bernhard-ortho.ch
@@ -27089,6 +27098,7 @@ bestrong-coaching.ch
 bestrong-switzerland.ch
 bestrong.ch
 bestrongbern.ch
+bestrongmovefree.ch
 bestroom.ch
 bestroomnumber.ch
 bests.ch
@@ -32847,7 +32857,6 @@ beyondpbfm.ch
 beyondpersonalfinance.ch
 beyondperthproperties.ch
 beyondphysio.ch
-beyondpilates.ch
 beyondpilatescinzia.ch
 beyondpilots.ch
 beyondplaces.ch

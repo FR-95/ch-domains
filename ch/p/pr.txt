@@ -2438,7 +2438,6 @@ praxis-einzigartig.ch
 praxis-eira.ch
 praxis-elementa.ch
 praxis-elementar.ch
-praxis-elena.ch
 praxis-eleonora.ch
 praxis-eleonore-naef.ch
 praxis-elevation.ch
@@ -4470,7 +4469,6 @@ praxis-tuina.ch
 praxis-turbenthal.ch
 praxis-tusculum.ch
 praxis-u20.ch
-praxis-uebergabe.ch
 praxis-uehlinger.ch
 praxis-uesziit.ch
 praxis-uetendorf.ch
@@ -5400,7 +5398,6 @@ praxisdrschaub.ch
 praxisdrschneider.ch
 praxisdrschwoebel.ch
 praxisdrsepold.ch
-praxisdrsergiodani.ch
 praxisdrszasz.ch
 praxisdruckpunkt.ch
 praxisdrwagener.ch
@@ -5441,7 +5438,6 @@ praxisenergy.ch
 praxisenge.ch
 praxisengelgasse.ch
 praxisenzian.ch
-praxiserden.ch
 praxiserfolg.ch
 praxiserfolge.ch
 praxisergovia.ch
@@ -8281,6 +8277,7 @@ prelle.ch
 preller.ch
 prello.ch
 prelm.ch
+prelo.ch
 preload.ch
 prelocation.ch
 prelocations.ch
@@ -9941,6 +9938,7 @@ presence-web.ch
 presence.ch
 presenceassist.ch
 presenceaudio.ch
+presencebasedleadership.ch
 presencecontinue.ch
 presencedelinstant.ch
 presencedigitale.ch
@@ -11232,6 +11230,7 @@ prevaux.ch
 prevch.ch
 prevcheck.ch
 prevdent.ch
+preve.ch
 prevea.ch
 preveacare.ch
 preveag.ch
@@ -14238,6 +14237,7 @@ print-kork.ch
 print-lab.ch
 print-labels.ch
 print-line.ch
+print-lounge.ch
 print-mat.ch
 print-match.ch
 print-mate.ch
@@ -14889,7 +14889,6 @@ printshopbern.ch
 printshopkmu.ch
 printshopplus.ch
 printshops.ch
-printshopz.ch
 printshopzug.ch
 printshot.ch
 printsimply.ch
@@ -15187,7 +15186,6 @@ priorite-bien-etre-animal.ch
 priorite-liberte.ch
 priorite-prudence.ch
 priorite.ch
-prioritedurable.ch
 prioriteenfants.ch
 prioriteliberte.ch
 priorites.ch
@@ -17503,6 +17501,7 @@ privatupgrades.ch
 privaturologie.ch
 privatus.ch
 privatverkauf.ch
+privatverkauf24.ch
 privatvermieter.ch
 privatversicherung.ch
 privatversicherungen.ch
@@ -19140,7 +19139,6 @@ pro-und-contra.ch
 pro-unterfeld.ch
 pro-urba.ch
 pro-uro.ch
-pro-ursins.ch
 pro-ursus.ch
 pro-uster.ch
 pro-usterwest.ch
@@ -21276,6 +21274,7 @@ productionvegetale.ch
 productionvideo.ch
 productip.ch
 productisking.ch
+productiv.ch
 productive-data.ch
 productive-journal.ch
 productive.ch
@@ -22096,7 +22095,6 @@ professional-performance.ch
 professional-personal-branding.ch
 professional-photography.ch
 professional-physiotherapy.ch
-professional-pr.ch
 professional-raum-organizer.ch
 professional-sports.ch
 professional-therapy.ch
@@ -24546,6 +24544,7 @@ projected-capacitive-touch.ch
 projected-capacitive-touches.ch
 projectedcapacitivetouch.ch
 projectedcapacitivetouches.ch
+projectekho.ch
 projectequilibrium.ch
 projectestate.ch
 projecteur-led.ch
@@ -24981,7 +24980,6 @@ projekt8006.ch
 projekt9.ch
 projekt934.ch
 projekt98.ch
-projekta-sa.ch
 projekta.ch
 projektadmin.ch
 projektag.ch
@@ -25856,6 +25854,7 @@ prokunde.ch
 prokunstrasen.ch
 prokura.ch
 prokuras.ch
+prokurier.ch
 prokurist.ch
 prokurs.ch
 prokversum.ch
@@ -30392,8 +30391,6 @@ protestimonio.ch
 protestinfo.ch
 protestinter.ch
 protestrock.ch
-protestshop.ch
-protestwear.ch
 protetto.ch
 proteus-cloud.ch
 proteus-lift.ch
@@ -31723,7 +31720,6 @@ proxima-technology.ch
 proxima.ch
 proxima4u.ch
 proximabad.ch
-proximacentauri.ch
 proximaconcept.ch
 proximaconsulting.ch
 proximad.ch
@@ -31794,6 +31790,7 @@ proxitaxi.ch
 proxitool.ch
 proxity.ch
 proxivera.ch
+proxivita.ch
 proxiweb.ch
 proxiz.ch
 proxlee.ch
@@ -32262,6 +32259,7 @@ prudence.ch
 prudencia.ch
 prudens.ch
 prudent.ch
+prudente.ch
 prudentfresh.ch
 prudentgroup.ch
 prudenti.ch

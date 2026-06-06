@@ -137,6 +137,7 @@ rb-vontobel.ch
 rb-walser.ch
 rb-wasserschloss-2025.ch
 rb-web.ch
+rb-wintergaerten.ch
 rb1.ch
 rb10.ch
 rb12.ch
@@ -621,6 +622,7 @@ rbwdigital.ch
 rbweb.ch
 rbwil.ch
 rbwine.ch
+rbwintergaerten.ch
 rbws.ch
 rbx.ch
 rbxsystems.ch

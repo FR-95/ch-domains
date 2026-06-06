@@ -287,7 +287,6 @@ ueberstroemventile.ch
 ueberstunden.ch
 uebersuchtreden.ch
 ueberswucheend.ch
-uebertribemitstiu.ch
 uebertritt.ch
 uebertrittswerkstatt.ch
 ueberuf.ch
@@ -723,6 +722,7 @@ uen-work.ch
 uen.ch
 uenahoh.ch
 uenala.ch
+uenalan.ch
 uenderfull.ch
 uenderli.ch
 ueneek.ch

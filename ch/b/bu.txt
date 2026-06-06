@@ -704,7 +704,6 @@ buchbindermanufaktur.ch
 buchbinders.ch
 buchbinderschweiz.ch
 buchbindung.ch
-buchboerse.ch
 buchbon.ch
 buchbox.ch
 buchbrauerei.ch
@@ -4299,6 +4298,7 @@ buerenzumhof.ch
 buerer.ch
 buererbau.ch
 buererzahntechnik.ch
+buereverein.ch
 buerevette.ch
 buerg-west-leist-spiez.ch
 buerg.ch
@@ -6449,7 +6449,6 @@ buggy.ch
 buggyfit.ch
 buggygames.ch
 buggymess.ch
-buggymex.ch
 buggyoffroad.ch
 buggypark.ch
 buggypod.ch
@@ -6878,6 +6877,9 @@ buildingcybernetics.ch
 buildingdata.ch
 buildingdatastandard.ch
 buildingdna.ch
+buildingdoc.ch
+buildingdoctor.ch
+buildingdr.ch
 buildingdreamteams.ch
 buildingenduringvalue.ch
 buildingenergymanagement.ch
@@ -9077,7 +9079,6 @@ burchs-life.ch
 burchs.ch
 burchtransporte.ch
 burchwaffen.ch
-burckhardpartner.ch
 burckhardt-ag.ch
 burckhardt-architects.ch
 burckhardt-architekten.ch
@@ -11290,7 +11291,6 @@ burstasi.ch
 burstel.ch
 burstelpark-frauenfeld.ch
 burster.ch
-bursting.ch
 burstner.ch
 burstpipe.ch
 bursttraining.ch
@@ -14440,6 +14440,7 @@ butty-fiduciaire.ch
 butty-sa.ch
 butty-vins.ch
 butty.ch
+buttyfleursetjardins.ch
 buttyfoodservice.ch
 buttyjardins.ch
 buttypaysages.ch

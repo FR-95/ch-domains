@@ -4,6 +4,7 @@ vr-academy.ch
 vr-advisory.ch
 vr-ag.ch
 vr-ai.ch
+vr-aigovernance.ch
 vr-akademie.ch
 vr-app.ch
 vr-apps.ch
@@ -48,6 +49,7 @@ vr-first.ch
 vr-forum.ch
 vr-gaming.ch
 vr-gewinnsparen.ch
+vr-governance.ch
 vr-gurten.ch
 vr-gym.ch
 vr-hackathon.ch
@@ -69,6 +71,7 @@ vr-lounge.ch
 vr-magazin.ch
 vr-management.ch
 vr-mandat.ch
+vr-mandate-regeln.ch
 vr-mandate.ch
 vr-marketing-agence.ch
 vr-marketing-sarl.ch

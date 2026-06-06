@@ -481,7 +481,6 @@ thaifoodcorner.ch
 thaifoodculturefestival.ch
 thaifooddelivery.ch
 thaifoodfestival.ch
-thaifoodies.ch
 thaifoodkurier.ch
 thaifoodrestaurant.ch
 thaifoods.ch
@@ -550,6 +549,7 @@ thailand-urlaub.ch
 thailand-visa.ch
 thailand.ch
 thailandais.ch
+thailanddesk.ch
 thailande.ch
 thailandferien.ch
 thailandhaus.ch
@@ -1974,6 +1974,7 @@ the-cloudfactory.ch
 the-cloudline.ch
 the-clover.ch
 the-club.ch
+the-clubhouse.ch
 the-cly.ch
 the-co.ch
 the-coa.ch
@@ -2820,6 +2821,7 @@ the-rock.ch
 the-rocklettes.ch
 the-rocks.ch
 the-roger.ch
+the-rogers.ch
 the-rolex-film-company.ch
 the-rolling-coach.ch
 the-rolling-stocks.ch
@@ -3532,7 +3534,6 @@ theappreciation.ch
 theapproa.ch
 thear.ch
 theararatchallenge.ch
-thearcher.ch
 thearchetype.ch
 thearchiopus.ch
 thearchitect.ch
@@ -3755,7 +3756,6 @@ theater-grueningen.ch
 theater-gruppe.ch
 theater-gutschein.ch
 theater-gutscheine.ch
-theater-haarscharf.ch
 theater-haldenstein.ch
 theater-hallau.ch
 theater-hier-und-jetzt.ch
@@ -4758,6 +4758,7 @@ thebakedbear.ch
 thebakewatchers.ch
 thebalance.ch
 thebalancedbite.ch
+thebalancedhome.ch
 thebalco.ch
 thebaldaufs.ch
 thebalgrist.ch
@@ -6553,7 +6554,6 @@ theds.ch
 thedsgn.ch
 thedsgnagency.ch
 thedu.ch
-thedub.ch
 thedubaibridge.ch
 thedubaiwindow.ch
 thedude.ch
@@ -6757,7 +6757,6 @@ thefamilyoffices.ch
 thefamilyofficezurich.ch
 thefamilyshop.ch
 thefamilytree.ch
-thefamilyvan.ch
 thefancybakery.ch
 thefantasticfourmovie.ch
 thefarinet.ch
@@ -6784,7 +6783,6 @@ thefavoriteone.ch
 thefavouritederfilm.ch
 thefavouritelefilm.ch
 thefayprogram.ch
-thefbcompany.ch
 thefeastybeast.ch
 thefeedbackgroup.ch
 thefeelgoodsystem.ch
@@ -7714,7 +7712,6 @@ thehappyheartcoach.ch
 thehappylab.ch
 thehappylife.ch
 thehappylifeproject.ch
-thehappymind.ch
 thehappynest.ch
 thehappypicnic.ch
 thehappyplace.ch
@@ -10804,6 +10801,7 @@ thera-production.ch
 thera-psy.ch
 thera-py.ch
 thera-sport.ch
+thera-swiss-castle.ch
 thera-torso.ch
 thera-trainer.ch
 thera-vita.ch
@@ -12410,6 +12408,7 @@ therightperson.ch
 therightplace.ch
 therightsideofthebrain.ch
 therightthing.ch
+therigo.ch
 therimmo.ch
 therimrose.ch
 thering.ch
@@ -13360,6 +13359,7 @@ thesearch.ch
 theseasonshop.ch
 theseasonsproject.ch
 thesecondbestexoticmarigoldhotel.ch
+thesecondbloom.ch
 thesecondhand.ch
 thesecondhandlady.ch
 thesecondhour.ch
@@ -13390,7 +13390,6 @@ theseedstore.ch
 theseiconsulting.ch
 theselected.ch
 theselection.ch
-theselfedit.ch
 theselfiebox.ch
 theselfloveclub.ch
 theselfmadecoach.ch
@@ -14298,6 +14297,7 @@ thetareading-mirijaminauen.ch
 thetareading-weitsicht.ch
 thetareading.ch
 thetareadingschweiz.ch
+thetartarfactory.ch
 thetasch.ch
 thetaschweiz.ch
 thetaschwyz.ch
@@ -14391,6 +14391,7 @@ thetfordkocher.ch
 thetfordserviceklappe.ch
 thetfordtoilette.ch
 thethai.ch
+thethailanddesk.ch
 thethaipark.ch
 thethalium.ch
 thethe.ch
@@ -14437,6 +14438,7 @@ thetinguelywedding.ch
 thetinklebelle.ch
 thetintguy.ch
 thetinyfactory.ch
+thetinyhuman.ch
 thetinytravelers.ch
 thetipi.ch
 thetippingpoint.ch
@@ -14622,6 +14624,7 @@ theunutri.ch
 theupcycler.ch
 theupgrade.ch
 theuplift.ch
+theupliftproject.ch
 theupperclub.ch
 theupperfloor.ch
 theupscaler.ch
@@ -16575,6 +16578,7 @@ thisisweb.ch
 thisiswebdesign.ch
 thisiswhatnonbinarylookslike.ch
 thisiswhereileaveyou.ch
+thisisyoga.ch
 thisisyourheart.ch
 thisiszug.ch
 thisit.ch

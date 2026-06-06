@@ -147,6 +147,7 @@ dual-hst.ch
 dual-learning.ch
 dual-link.ch
 dual-ofen.ch
+dual-on.ch
 dual-platten.ch
 dual-provider.ch
 dual-sim.ch

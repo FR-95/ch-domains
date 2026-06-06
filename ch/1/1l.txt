@@ -18,9 +18,11 @@
 1line.ch
 1lineshop.ch
 1link.ch
+1list.ch
 1lite.ch
 1live.ch
 1llogistics.ch
+1local.ch
 1log.ch
 1login.ch
 1logo.ch

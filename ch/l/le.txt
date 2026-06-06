@@ -2391,6 +2391,7 @@ league-pass.ch
 league-strategy.ch
 league.ch
 leagueforhope.ch
+leagueoflegends.ch
 leagueofraclette.ch
 leaguepass.ch
 leagues.ch
@@ -3428,6 +3429,7 @@ learnops.ch
 learnos.ch
 learnova.ch
 learnovation.ch
+learnowl.ch
 learnpace.ch
 learnpathai.ch
 learnphotonics.ch
@@ -10530,6 +10532,7 @@ legitfx.ch
 legitim.ch
 legitima-cie.ch
 legitima.ch
+legitime-valais.ch
 legitimi.ch
 legitiname.ch
 legitjersey.ch
@@ -10835,7 +10838,6 @@ legrillon.ch
 legrime.ch
 legrimm.ch
 legrimoiredenosvies.ch
-legrimoiredesfetes.ch
 legrimoirevert.ch
 legrinch-lefilm.ch
 legrini.ch
@@ -14490,7 +14492,6 @@ lembergerland.ch
 lembke.ch
 lembo.ch
 lembouchure.ch
-lembourbeuse.ch
 lembranza.ch
 lembu.ch
 lembus.ch
@@ -16982,7 +16983,6 @@ leomind.ch
 leomitte.ch
 leomo-sarl.ch
 leomobil.ch
-leomonnet.ch
 leomonnier.ch
 leomotion.ch
 leomotiondrives.ch
@@ -18042,7 +18042,6 @@ lepeine.ch
 lepeintre.ch
 lepekin.ch
 lepelerin.ch
-lepelletier.ch
 lependule-animal.ch
 lependulier.ch
 lepenseur.ch
@@ -21551,6 +21550,7 @@ les-restaurants.ch
 les-resto.ch
 les-restos.ch
 les-retraites.ch
+les-reves-de-marie.ch
 les-rideaux.ch
 les-riesen.ch
 les-rives-anieres.ch
@@ -21832,6 +21832,7 @@ les4w.ch
 les4x4repond.ch
 les50.ch
 les500plusriches.ch
+les50airs.ch
 les5c.ch
 les5castella.ch
 les5elements.ch
@@ -23722,6 +23723,7 @@ lesgriottes.ch
 lesgroscons.ch
 lesguazz.ch
 lesgueux.ch
+lesguides.ch
 lesguidesapattes.ch
 lesguidesdeverbier.ch
 lesguigui.ch
@@ -24986,6 +24988,7 @@ lesretraitespopulaires.ch
 lesrevents.ch
 lesreveries.ch
 lesrevesbleus.ch
+lesrevesdemarie.ch
 lesrevues.ch
 lesrey.ch
 lesrhabilleurs.ch
@@ -25154,6 +25157,7 @@ lessensdelarose.ch
 lessensdelavie.ch
 lessensdemarrakech.ch
 lessensdudesert.ch
+lessensdugout.ch
 lessensduvalais.ch
 lessensduvin.ch
 lessensiel-ge.ch
@@ -26223,6 +26227,7 @@ lets-imagine.ch
 lets-innovate.ch
 lets-kite.ch
 lets-lens.ch
+lets-lucky.ch
 lets-make-it.ch
 lets-make-payment-happen.ch
 lets-meat.ch

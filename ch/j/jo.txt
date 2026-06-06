@@ -1915,6 +1915,7 @@ jobs-glarus.ch
 jobs-gpt.ch
 jobs-graubuenden.ch
 jobs-haupt-studer.ch
+jobs-hauri.ch
 jobs-hauserstiftung.ch
 jobs-healthcare.ch
 jobs-heizung-lueftung-sanitaer.ch
@@ -1974,6 +1975,7 @@ jobs-lehrer.ch
 jobs-liechtiag.ch
 jobs-liestal.ch
 jobs-lifestyle.ch
+jobs-linker.ch
 jobs-locarno.ch
 jobs-logistik.ch
 jobs-lugano.ch
@@ -2896,6 +2898,7 @@ jodametal.ch
 jodano.ch
 jodar.ch
 jodari.ch
+jodavision.ch
 jodbe.ch
 jodby.ch
 jode-treuhand.ch
@@ -7766,7 +7769,6 @@ josefmeyer.ch
 josefmeyercontrail.ch
 josefmeyerstahl.ch
 josefmontagen.ch
-josefmontanari.ch
 josefmuen.ch
 josefmunzinger.ch
 josefonseca.ch

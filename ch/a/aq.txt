@@ -365,7 +365,6 @@ aqua-sports.ch
 aqua-star.ch
 aqua-stop.ch
 aqua-store.ch
-aqua-sub.ch
 aqua-suisse-zuerich.ch
 aqua-suisse-zurich.ch
 aqua-suisse.ch
@@ -1412,6 +1411,7 @@ aquasphere.ch
 aquasphereled.ch
 aquaspin.ch
 aquaspins.ch
+aquaspinscasino.ch
 aquasplash.ch
 aquasport-suisse.ch
 aquasport.ch
@@ -1793,6 +1793,7 @@ aquiles.ch
 aquilex.ch
 aquilia.ch
 aquilie.ch
+aquilina.ch
 aquilini.ch
 aquilinostefania.ch
 aquilinus.ch

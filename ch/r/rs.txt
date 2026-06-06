@@ -288,6 +288,8 @@ rs3-r.ch
 rs3-rr.ch
 rs3-rs.ch
 rs3.ch
+rs3r.ch
+rs3rr.ch
 rs4-rolfstalder4.ch
 rs4.ch
 rs42.ch

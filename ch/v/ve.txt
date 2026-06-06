@@ -1653,6 +1653,7 @@ vehiclecontrol.ch
 vehicledata.ch
 vehicledoc.ch
 vehicleflasher.ch
+vehiclehealth.ch
 vehiclemultimediasystems.ch
 vehicleparts.ch
 vehicles.ch
@@ -2264,7 +2265,6 @@ vellum-advisory.ch
 vellum.ch
 vellume.ch
 velluna.ch
-vellunaskin.ch
 vellura.ch
 vellutata.ch
 vellutier.ch
@@ -2674,6 +2674,7 @@ veloateliertobler.ch
 veloathome.ch
 veloausbildung.ch
 veloausruestung.ch
+veloautomat.ch
 velobaden.ch
 velobahn.ch
 velobalade.ch
@@ -3606,9 +3607,11 @@ velosg.ch
 velosgeneve.ch
 veloshare.ch
 veloshine.ch
+veloshop-autobahngarage.ch
 veloshop-kerzers.ch
 veloshop-lussi.ch
 veloshop-luzern.ch
+veloshop-lyss.ch
 veloshop-vergleich.ch
 veloshop.ch
 veloshopelgg.ch
@@ -3644,6 +3647,7 @@ velosophe.ch
 velosophie.ch
 velosophy.ch
 velosoutlet.ch
+velosovisuals.ch
 velospass.ch
 velosped.ch
 velospeed.ch
@@ -7689,6 +7693,7 @@ verein-aarauer-verbindungen.ch
 verein-abri.ch
 verein-abw.ch
 verein-accanto.ch
+verein-adlerhorst.ch
 verein-allenmoos.ch
 verein-alles-was-recht-ist.ch
 verein-alpha-horse.ch
@@ -8201,7 +8206,6 @@ vereinclownvisite.ch
 vereindaheim.ch
 vereindalia.ch
 vereindaten.ch
-vereindenkmal.ch
 vereinderflaneure.ch
 vereindergriechen.ch
 vereindertechnischenschulen.ch
@@ -10280,6 +10284,7 @@ verkehrskundeaarau.ch
 verkehrskundeambahnhof.ch
 verkehrskundebaden.ch
 verkehrskundebern-west.ch
+verkehrskundebern.ch
 verkehrskundekurs-gossau.ch
 verkehrskundekurs-schaffhausen.ch
 verkehrskundekurs-sg.ch
@@ -11424,6 +11429,7 @@ vero-kallen.ch
 vero-media.ch
 vero-shiatsu.ch
 vero-soins.ch
+vero-sportreisen.ch
 vero-taxi.ch
 vero-treuhand.ch
 vero-umzug.ch
@@ -11679,6 +11685,7 @@ verosexpaed.ch
 veroshop.ch
 verosoft.ch
 verosoins.ch
+verosportreisen.ch
 verossaz.ch
 verossaz24.ch
 verossazmeteo.ch
@@ -11735,6 +11742,7 @@ verpackung365.ch
 verpackungaufmass.ch
 verpackungdirekt.ch
 verpackungen-365.ch
+verpackungen-drucken.ch
 verpackungen-gabriel.ch
 verpackungen-mit-logo.ch
 verpackungen-online.ch
@@ -11743,6 +11751,7 @@ verpackungen.ch
 verpackungen24.ch
 verpackungen365.ch
 verpackungenbestellen.ch
+verpackungendrucken.ch
 verpackungmitzukunft.ch
 verpackungplus.ch
 verpackungs-alarm.ch
@@ -12377,6 +12386,7 @@ versicherungen-sanja.ch
 versicherungen-schweiz.ch
 versicherungen-sear.ch
 versicherungen-search.ch
+versicherungen-sinani.ch
 versicherungen-solothurn.ch
 versicherungen-sparen.ch
 versicherungen-sumic.ch
@@ -13192,6 +13202,7 @@ vertex-kapital.ch
 vertex-metalle.ch
 vertex-partners.ch
 vertex-services.ch
+vertex-solutions.ch
 vertex-technology.ch
 vertex-ventures.ch
 vertex-visuals.ch
@@ -13971,7 +13982,6 @@ verus.ch
 verushka.ch
 verusholding.ch
 verusimmobilien.ch
-verusliving.ch
 verusmotus.ch
 veruss-vereint.ch
 veruss.ch
@@ -15650,6 +15660,7 @@ vetmeal.ch
 vetmealhealth.ch
 vetmed.ch
 vetmedcare.ch
+vetmedd.ch
 vetmedic.ch
 vetmedica.ch
 vetmedics.ch

@@ -260,7 +260,6 @@
 3d-konfigurator.ch
 3d-konstruktion.ch
 3d-kopfdiagnostik.ch
-3d-kreation.ch
 3d-kunst.ch
 3d-kunststoffteile.ch
 3d-lab-schweiz.ch
@@ -432,7 +431,6 @@
 3d-sls.ch
 3d-smily.ch
 3d-software.ch
-3d-solar.ch
 3d-solidmake.ch
 3d-solution.ch
 3d-solutions.ch

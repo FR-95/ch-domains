@@ -1213,6 +1213,7 @@ hochvolt.ch
 hochvoltbatterie.ch
 hochvoltbatterie24.ch
 hochvoltcenter.ch
+hochvoltkabel.ch
 hochvoltprofi.ch
 hochvoltspezialist.ch
 hochvolttechnik.ch
@@ -1444,6 +1445,7 @@ hochzeit-pascale-andreas.ch
 hochzeit-piemont.ch
 hochzeit-planen.ch
 hochzeit-portal.ch
+hochzeit-ramona-raphael.ch
 hochzeit-rebecca-dominic.ch
 hochzeit-reber.ch
 hochzeit-reisen.ch
@@ -6848,6 +6850,7 @@ holidayrentals.ch
 holidayreporter.ch
 holidayresort.ch
 holidayresorts.ch
+holidayroom.ch
 holidays-grindelwald.ch
 holidays-in-saas-fee.ch
 holidays-istra.ch
@@ -9034,7 +9037,6 @@ holzbetten.ch
 holzbettmanufaktur.ch
 holzbewegt.ch
 holzbiegen.ch
-holzbienenhotel.ch
 holzbike.ch
 holzbikes.ch
 holzbild.ch
@@ -10416,7 +10418,6 @@ holztische.ch
 holztischenachmass.ch
 holztischmassiv.ch
 holztischnachmass.ch
-holztoilette.ch
 holzton.ch
 holztore.ch
 holztour.ch
@@ -10662,7 +10663,6 @@ holzwespi.ch
 holzwichtel.ch
 holzwiese.ch
 holzwieshof.ch
-holzwildbienenhotel.ch
 holzwilli.ch
 holzwirkstatt.ch
 holzwirtschaft.ch
@@ -15349,7 +15349,6 @@ hoppeler.ch
 hoppelhase.ch
 hoppelihopp.ch
 hoppen.ch
-hoppensack-ar.ch
 hoppensack.ch
 hoppenstedt-credit-check.ch
 hoppenstedt-creditcheck.ch
@@ -17180,7 +17179,6 @@ hortcoating.ch
 horte.ch
 hortech.ch
 hortechnica.ch
-horten-construction.ch
 horten-health-foundation.ch
 horten.ch
 hortenhealthfoundation.ch
@@ -18613,6 +18611,7 @@ hot-ladies.ch
 hot-lady.ch
 hot-laundry.ch
 hot-led.ch
+hot-loot.ch
 hot-med.ch
 hot-miles.ch
 hot-n-spice.ch
@@ -22617,6 +22616,7 @@ hotesses-ktnm.ch
 hotesses.ch
 hotessespro.ch
 hotevent.ch
+hotevoo.ch
 hotex-recycling.ch
 hotezz.ch
 hotfashionshopping.ch
@@ -24195,6 +24195,7 @@ housygroovy.ch
 hout.ch
 houtdeco.ch
 houtekier.ch
+houtmesser.ch
 houttuin.ch
 houweling-orthopaedie.ch
 houweling.ch
@@ -24508,6 +24509,7 @@ howtosocialmedia.ch
 howtospitz.ch
 howtospotasheepdog.ch
 howtosurvive.ch
+howtoswissmedical.ch
 howtotalk.ch
 howtotrade.ch
 howtotrainyourdragon.ch

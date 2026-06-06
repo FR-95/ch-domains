@@ -392,6 +392,7 @@ my-crowd.ch
 my-cruise.ch
 my-cruises.ch
 my-cs.ch
+my-cs2.ch
 my-cto.ch
 my-cubes.ch
 my-culinary.ch
@@ -3854,7 +3855,6 @@ mycoachingpartners.ch
 mycoachings.ch
 mycoachplus.ch
 mycoachtime.ch
-mycoachypnose.ch
 mycoancestral.ch
 mycoaster.ch
 mycobalt.ch
@@ -4127,7 +4127,6 @@ mycranio.ch
 mycraniobasel.ch
 mycraniosacral.ch
 mycre8.ch
-mycreatine.ch
 mycreation.ch
 mycreations.ch
 mycreativecase.ch
@@ -8480,6 +8479,7 @@ myopendoor.ch
 myopenfactory.ch
 myopengym.ch
 myopenit.ch
+myopensky.ch
 myophysio.ch
 myopia-arbitrage.ch
 myopia.ch
@@ -8975,6 +8975,7 @@ mypircher.ch
 mypistor.ch
 mypita.ch
 mypitch.ch
+mypitstop.ch
 mypix.ch
 mypixel.ch
 mypixid.ch
@@ -9691,6 +9692,7 @@ myriamnutrition.ch
 myriamperrottet.ch
 myriamphotography.ch
 myriampichard.ch
+myriamraemy.ch
 myriamramel.ch
 myriams-geschenkboutique.ch
 myriamsaladin.ch
@@ -11205,7 +11207,6 @@ myswissbrokers.ch
 myswissbudget.ch
 myswissburger.ch
 myswissbusiness.ch
-myswissbuy.ch
 myswisscar.ch
 myswisscard.ch
 myswisscare.ch
@@ -11393,6 +11394,7 @@ myswissvet.ch
 myswissveto.ch
 myswisswallet24.ch
 myswisswatch.ch
+myswissway.ch
 myswissweb.ch
 myswisswedding.ch
 myswissweddingguide.ch
@@ -11486,6 +11488,7 @@ mytanne.ch
 mytap-it.ch
 mytap.ch
 mytapit.ch
+mytaply.ch
 mytas.ch
 mytasty.ch
 mytatil.ch
@@ -11904,6 +11907,7 @@ mytoolsmyrules.ch
 mytoolstore.ch
 mytoolswiss.ch
 mytooth.ch
+mytoothwell.ch
 mytop.ch
 mytopia.ch
 mytopic.ch

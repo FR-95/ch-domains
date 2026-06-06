@@ -1920,7 +1920,6 @@ bidets.ch
 bidetwash.ch
 bidex.ch
 bidf.ch
-bidfit.ch
 bidflow.ch
 bidfood.ch
 bidforfree.ch
@@ -4138,6 +4137,7 @@ biffighof.ch
 biffle.ch
 biffsa.ch
 bifi.ch
+bifico.ch
 bifidozoom.ch
 bifidus-drink.ch
 bifidus.ch
@@ -7632,6 +7632,7 @@ bildbett.ch
 bildbewegt.ch
 bildbewegung.ch
 bildbild.ch
+bildblick.ch
 bildblog.ch
 bildboost.ch
 bildbox.ch
@@ -9053,6 +9054,7 @@ bill-board.ch
 bill-body.ch
 bill-goldschmied.ch
 bill-haustechnik.ch
+bill-iq.ch
 bill-law.ch
 bill-management.ch
 bill-me.ch
@@ -9586,6 +9588,7 @@ billionsto1.ch
 billionstoone.ch
 billionto1.ch
 billiontoone.ch
+billiq.ch
 billis.ch
 billit.ch
 billitz.ch
@@ -12696,6 +12699,7 @@ biodenta.ch
 biodental--baar.ch
 biodental.ch
 biodentalcare.ch
+biodentalhygiene.ch
 biodentalzurich.ch
 biodentculture.ch
 biodentinexp.ch
@@ -12721,6 +12725,7 @@ biodex.ch
 biodexsuisse.ch
 biodexswiss.ch
 biodexterbeef.ch
+biodh.ch
 biodi-vers-city.ch
 biodiesel-ch.ch
 biodiesel-fardin.ch
@@ -13894,8 +13899,6 @@ biohofwyden.ch
 biohofzaugg.ch
 biohofzug.ch
 bioholz.ch
-bioholztoilette.ch
-bioholzwc.ch
 biohome.ch
 biohonest.ch
 biohonig.ch
@@ -15391,7 +15394,6 @@ bioserenity.ch
 biosero.ch
 bioseroeurope.ch
 bioserver.ch
-bioservices.ch
 bioservietten.ch
 biosesam.ch
 bioset.ch
@@ -16009,7 +16011,6 @@ biowater.ch
 biowatt.ch
 biowattgroup.ch
 biowaves.ch
-biowc.ch
 bioweather.ch
 bioweb.ch
 bioweber.ch
@@ -16711,12 +16712,10 @@ birdwatching.ch
 birdway.ch
 birdwing.ch
 birdwoman.ch
-birdy-bar.ch
 birdy-consulting.ch
 birdy-it.ch
 birdy-pix.ch
 birdy.ch
-birdybar.ch
 birdybees.ch
 birdychannel.ch
 birdyfish.ch
@@ -18356,6 +18355,7 @@ bistroalisea.ch
 bistroaltefabrik.ch
 bistroambach.ch
 bistroambad.ch
+bistroampere.ch
 bistroamsee.ch
 bistroamsuedplatz.ch
 bistroamtych.ch
@@ -18450,7 +18450,9 @@ bistromoerigen.ch
 bistromonza.ch
 bistronaefels.ch
 bistroneuland.ch
+bistroni-burkwil.ch
 bistroni.ch
+bistroniburkwil.ch
 bistronihat.ch
 bistronomie.ch
 bistronomique.ch
@@ -20087,7 +20089,6 @@ bittertropfen.ch
 bitterzart.ch
 bitteschoen.ch
 bittesehr.ch
-bittetrinkwasser.ch
 bitteunddanke.ch
 bittewenden.ch
 bittext.ch

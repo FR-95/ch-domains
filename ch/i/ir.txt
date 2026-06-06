@@ -863,7 +863,6 @@ iris-foto-light.ch
 iris-foto-luzern.ch
 iris-foto-nidwalden.ch
 iris-foto-obwalden.ch
-iris-foto-print.ch
 iris-foto-romandie.ch
 iris-foto-schweiz.ch
 iris-foto-schwyz.ch
@@ -876,8 +875,6 @@ iris-foto-zug.ch
 iris-foto.ch
 iris-fotobus.ch
 iris-fotograf.ch
-iris-fotografie-print.ch
-iris-fotografie-und-print.ch
 iris-fotografie.ch
 iris-frischknecht.ch
 iris-glas.ch

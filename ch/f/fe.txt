@@ -5591,6 +5591,7 @@ fenicemsa.ch
 fenicerosa.ch
 feniceviaggi.ch
 fenics.ch
+fenics2.ch
 feniello-architektur.ch
 fenik.ch
 feniks.ch
@@ -9305,6 +9306,7 @@ fermeto.ch
 fermeture.ch
 fermetureduleman.ch
 fermetures.ch
+fermevaleurect.ch
 fermevaney.ch
 fermeverticale.ch
 fermevuissoz.ch
@@ -9848,7 +9850,6 @@ feroks.ch
 feromon.ch
 feron.ch
 feronde.ch
-feroniaquartett.ch
 feroozi.ch
 feroplan.ch
 ferorocky.ch
@@ -10950,6 +10951,8 @@ festessen.ch
 festesvizzera.ch
 festevent.ch
 festex.ch
+festezaehne-luzern.ch
+festezaehne.ch
 festezaehneaneinemtag.ch
 festfabrik.ch
 festfeiern.ch

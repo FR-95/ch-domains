@@ -321,6 +321,7 @@ csb86.ch
 csba.ch
 csbancari.ch
 csbart.ch
+csbattle.ch
 csbau.ch
 csbaurenova.ch
 csbb.ch
@@ -414,6 +415,7 @@ csca.ch
 cscaarau.ch
 cscarsolutions.ch
 cscarstyle.ch
+cscase.ch
 cscb.ch
 cscbase.ch
 cscbb.ch
@@ -697,15 +699,19 @@ csgoempire.ch
 csgoempires.ch
 csgofast.ch
 csgogem.ch
+csgohowl.ch
+csgojackpot.ch
 csgold.ch
 csgolounge.ch
 csgoluck.ch
 csgonet.ch
+csgopolygon.ch
 csgoroll.ch
 csgorolls.ch
 csgoskins.ch
 csgostuff.ch
 csgourmet.ch
+csgowin.ch
 csgp.ch
 csgraf.ch
 csgroup.ch

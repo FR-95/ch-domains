@@ -178,7 +178,6 @@ cyber-kill-chain.ch
 cyber-kiwi.ch
 cyber-kmu.ch
 cyber-knife.ch
-cyber-knud.ch
 cyber-lab.ch
 cyber-labs.ch
 cyber-lagebild.ch
@@ -757,8 +756,6 @@ cyberklar.ch
 cyberklats.ch
 cyberkmu.ch
 cyberknight.ch
-cyberknud.ch
-cyberknut.ch
 cyberkoch.ch
 cyberkom.ch
 cyberkomm.ch
@@ -903,6 +900,7 @@ cybernews.ch
 cybernext-security.ch
 cybernext.ch
 cybernextsecurity.ch
+cybernexus.ch
 cyberninja.ch
 cybernist.ch
 cybernium.ch
@@ -1837,7 +1835,6 @@ cyclomedia.ch
 cyclomessager.ch
 cyclometer.ch
 cyclometry.ch
-cyclomoov.ch
 cyclomoteurs.ch
 cyclomouv.ch
 cyclon.ch

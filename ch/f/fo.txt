@@ -200,6 +200,7 @@ fochs.ch
 fochsner.ch
 fochtmann.ch
 foci.ch
+focitipp.ch
 fock.ch
 fockus.ch
 focl.ch
@@ -2058,6 +2059,8 @@ folk-fashion.ch
 folk-links.ch
 folk-music.ch
 folk-net.ch
+folk-radio.ch
+folk-radios.ch
 folk-tanz.ch
 folk.ch
 folka.ch
@@ -2113,6 +2116,8 @@ folkoteca.ch
 folkotecagalega.ch
 folkowl.ch
 folkparis.ch
+folkradio.ch
+folkradios.ch
 folkraft.ch
 folkrm.ch
 folks.ch
@@ -4942,6 +4947,7 @@ foodafrika.ch
 foodagency.ch
 foodagenda.ch
 foodagent.ch
+foodagent007.ch
 foodagentur-news.ch
 foodagentur.ch
 foodager.ch
@@ -6640,6 +6646,7 @@ forcedelage.ch
 forcedevie.ch
 forcedimension.ch
 forcedmarriage.ch
+forcedrop.ch
 forcedshadow.ch
 forcedubois.ch
 forcefit.ch
@@ -8056,7 +8063,6 @@ forjuno.ch
 fork.ch
 forkandbottle.ch
 forkandknife.ch
-forkandplate.ch
 forkandspoonmedia.ch
 forkast.ch
 forkbomb9.ch
@@ -8304,6 +8310,7 @@ formamed-shop.ch
 formamed.ch
 formamentis.ch
 forman.ch
+formanatura.ch
 formance.ch
 formandfunction.ch
 formandpaint.ch
@@ -10316,7 +10323,6 @@ forstrevier-am-untersee.ch
 forstrevier-hohwacht.ch
 forstrevier-homburg.ch
 forstrevier-kreuzlingen.ch
-forstrevier-kyburg.ch
 forstrevier-mittelthurgau.ch
 forstrevier-niederamt.ch
 forstrevier-pfannenstiel-sued.ch
@@ -10426,6 +10432,7 @@ fortan.ch
 fortani.ch
 fortanis.ch
 fortaplus.ch
+fortarium.ch
 fortas.ch
 fortasonline.ch
 fortate.ch
@@ -15757,6 +15764,7 @@ foxsportsmanagement.ch
 foxsportwear.ch
 foxstickerei.ch
 foxstone.ch
+foxstonecreation.ch
 foxstorage.ch
 foxstore.ch
 foxstreet.ch

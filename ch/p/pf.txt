@@ -220,6 +220,7 @@ pfadi-solothurn.ch
 pfadi-speuz.ch
 pfadi-spiez.ch
 pfadi-st-alban.ch
+pfadi-st-anton.ch
 pfadi-st-nikolaus.ch
 pfadi-st-urs.ch
 pfadi-stadtsh.ch
@@ -4041,6 +4042,7 @@ pflegefamiliewerden.ch
 pflegefee.ch
 pflegeferien.ch
 pflegefinanzierung-zh.ch
+pflegefinanzierungsberater.ch
 pflegefinden.ch
 pflegefinder.ch
 pflegefinesse.ch
@@ -4158,6 +4160,7 @@ pflegehilfevermittlung.ch
 pflegehilfskraefte.ch
 pflegehilfskraft.ch
 pflegehilfsmittel.ch
+pflegehilfsmittelbox.ch
 pflegehinweiser.ch
 pflegehoch.ch
 pflegehome-gmbh.ch
@@ -4268,6 +4271,7 @@ pflegemitherz.ch
 pflegemitherz24.ch
 pflegemitherzz.ch
 pflegemittel.ch
+pflegemittelbox.ch
 pflegemittelland.ch
 pflegemobil.ch
 pflegemonitoring.ch
@@ -4967,7 +4971,6 @@ pfotenkrippe.ch
 pfotenladen.ch
 pfotenland.ch
 pfotenleckereien.ch
-pfotenleicht.ch
 pfotenleser.ch
 pfotenliebe-boutique.ch
 pfotenliebe.ch

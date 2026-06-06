@@ -207,6 +207,7 @@ urbadental.ch
 urbaern.ch
 urbafamily.ch
 urbafit.ch
+urbaflow.ch
 urbafriends.ch
 urbag.ch
 urbagaz.ch
@@ -1027,7 +1028,6 @@ urbanrealty.ch
 urbanrefuge.ch
 urbanrefugee.ch
 urbanregional.ch
-urbanreinigung.ch
 urbanresidences.ch
 urbanrestoration.ch
 urbanrevivo.ch
@@ -1247,6 +1247,7 @@ urbeef.ch
 urbees.ch
 urbel.ch
 urbem.ch
+urben-bar.ch
 urben-bikes.ch
 urben-engineering.ch
 urben-holzbau.ch
@@ -3856,7 +3857,6 @@ ursprung-engineering.ch
 ursprung-floristik.ch
 ursprung-likoer.ch
 ursprung-mtec-engineering.ch
-ursprung-raumgestaltung.ch
 ursprung-roth.ch
 ursprung-swiss.ch
 ursprung.ch

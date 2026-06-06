@@ -292,7 +292,6 @@ public-transit-solutions.ch
 public-trust.ch
 public-value-management.ch
 public-video.ch
-public-viewing-kloten.ch
 public-viewing-led.ch
 public-viewing-sg.ch
 public-viewing-thun.ch
@@ -3599,7 +3598,6 @@ pure-home.ch
 pure-homeliving.ch
 pure-homes.ch
 pure-hoops.ch
-pure-hospitality.ch
 pure-human.ch
 pure-ice.ch
 pure-icelandic.ch
@@ -5098,6 +5096,7 @@ purson.ch
 pursonaudio.ch
 pursonic.ch
 purstorage.ch
+purstream.ch
 purstreetfood.ch
 pursucre.ch
 pursuedtirol.ch

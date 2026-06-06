@@ -974,6 +974,7 @@ vogelpraeparation.ch
 vogelproductions.ch
 vogelprojektmanagement.ch
 vogelpumpen.ch
+vogelquartierfest.ch
 vogelradar.ch
 vogelrealestate.ch
 vogelreinigung.ch
@@ -1188,6 +1189,7 @@ vogt-druck.ch
 vogt-ec.ch
 vogt-elektro.ch
 vogt-family.ch
+vogt-familyoffice.ch
 vogt-fm.ch
 vogt-garage.ch
 vogt-gartenbau.ch
@@ -1795,6 +1797,7 @@ voilazug.ch
 voile-bienne.ch
 voile-d-ombrage-sur-mesure.ch
 voile-d-ombrage.ch
+voile-en-vue.ch
 voile-evasion.ch
 voile-evasions.ch
 voile-geneve.ch
@@ -1812,6 +1815,7 @@ voilence.ch
 voilenoir.ch
 voileombrage.ch
 voilerie.ch
+voiles-en-vue.ch
 voiles-latines-morges.ch
 voiles-ombrage.ch
 voiles-ombrages.ch
@@ -2469,7 +2473,6 @@ voletto.ch
 volevamote.ch
 volevio.ch
 volewa.ch
-volexo.ch
 volf.ch
 volferda.ch
 volg-app.ch
@@ -2812,6 +2815,7 @@ volksmedien.ch
 volksmobil.ch
 volksmoebel.ch
 volksmotion.ch
+volksmund.ch
 volksmusig-im-volkshuus.ch
 volksmusighus.ch
 volksmusik-charts.ch
@@ -3147,6 +3151,7 @@ volleshaus.ch
 vollesherz.ch
 volletaschen.ch
 volletgis.ch
+volletische.ch
 volletonerentsorgen.ch
 vollewindel.ch
 vollextrakt.ch
@@ -3872,7 +3877,6 @@ voltaikenergie.ch
 voltaikparking.ch
 voltaikshop.ch
 voltaikum.ch
-voltaim.ch
 voltainer.ch
 voltainput.ch
 voltaique.ch
@@ -7515,7 +7519,6 @@ vorzugswagen.ch
 vos-architectes.ch
 vos-assurances.ch
 vos-avis-comptent.ch
-vos-avis.ch
 vos-avocates.ch
 vos-avocats-geneve.ch
 vos-avocats.ch
@@ -7552,7 +7555,6 @@ vosam.ch
 vosamia.ch
 vosang.ch
 vosart.ch
-vosavis.ch
 vosavocates.ch
 vosavocats.ch
 vosbeek.ch

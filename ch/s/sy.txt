@@ -2418,6 +2418,7 @@ synpulse.ch
 synpulse8.ch
 synpulsemc.ch
 synq-audio.ch
+synq.ch
 synq2.ch
 synqaudio.ch
 synqly.ch
@@ -2844,7 +2845,6 @@ sys-tech.ch
 sys-trophy.ch
 sys-vsse.ch
 sys.ch
-sys21.ch
 sys32.ch
 sys4.ch
 sys42562.ch

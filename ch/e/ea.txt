@@ -25,7 +25,6 @@ ea-immowelt.ch
 ea-kriemler.ch
 ea-langenthal.ch
 ea-massagen.ch
-ea-net.ch
 ea-o.ch
 ea-online.ch
 ea-partner.ch
@@ -2422,6 +2421,7 @@ easydriving-jona.ch
 easydriving-rapperswil.ch
 easydriving.ch
 easydrop.ch
+easydrops.ch
 easydruck.ch
 easydry.ch
 easydsg.ch
@@ -2758,6 +2758,7 @@ easyinstitut.ch
 easyinsurd.ch
 easyinsure.ch
 easyinsured.ch
+easyintelligence.ch
 easyinternetcafe.ch
 easyinvent.ch
 easyinvest.ch
@@ -4092,7 +4093,6 @@ eatmovesleep.ch
 eatmyadress.ch
 eatmyprint.ch
 eatmyscheisse.ch
-eatmyshirt.ch
 eatmyshorts-records.ch
 eatmyshorts.ch
 eatnakd.ch

@@ -1314,6 +1314,7 @@ healthnet.ch
 healthnetwork.ch
 healthnexus.ch
 healthnode.ch
+healthnova.ch
 healthnutriscience.ch
 healthobs.ch
 healthomatics.ch
@@ -1509,6 +1510,7 @@ healthwealth.ch
 healthwealthhappiness.ch
 healthwell.ch
 healthwerk.ch
+healthwire.ch
 healthwirkstatt.ch
 healthwise.ch
 healthwithsimon.ch
@@ -1562,7 +1564,6 @@ healthy-massage.ch
 healthy-me.ch
 healthy-meal.ch
 healthy-meals.ch
-healthy-mentis.ch
 healthy-options.ch
 healthy-plus.ch
 healthy-power.ch
@@ -1888,7 +1889,6 @@ heart-identity.ch
 heart-impulse.ch
 heart-in-diamond.ch
 heart-it.ch
-heart-language.ch
 heart-light.ch
 heart-longevity.ch
 heart-made.ch
@@ -3308,7 +3308,6 @@ hebergementprive.ch
 hebergements.ch
 hebergementweb.ch
 heberger-ne.ch
-heberger.ch
 hebergerne.ch
 hebergeur-discount.ch
 hebergeur.ch
@@ -3638,6 +3637,7 @@ hecpythonacademy.ch
 hecs.ch
 hectar.ch
 hectare.ch
+hectarimmobilier.ch
 hecteamsport.ch
 hectelabs.ch
 hecten.ch
@@ -8655,6 +8655,7 @@ hekmattannous.ch
 hekmek.ch
 hekn.ch
 hekna.ch
+heko-seniorenbetreuung.ch
 heko.ch
 hekoart.ch
 hekocafe.ch
@@ -11635,6 +11636,7 @@ helpcorner.ch
 helpdata.ch
 helpdemenz.ch
 helpdesign.ch
+helpdesk-bitbox.ch
 helpdesk-csd.ch
 helpdesk-git.ch
 helpdesk-gubelin.ch
@@ -11757,7 +11759,6 @@ helpjobs.ch
 helpkids.ch
 helpkit.ch
 helpklick.ch
-helpkpt.ch
 helpletters.ch
 helpli.ch
 helplife.ch
@@ -11894,6 +11895,7 @@ helpsychologie.ch
 helpsyria.ch
 helptaxi.ch
 helpteam.ch
+helptec.ch
 helptech.ch
 helptechnology.ch
 helptek.ch
@@ -12154,6 +12156,7 @@ helveit.ch
 helvejob.ch
 helvekits.ch
 helvektis.ch
+helvelab-switzerland.ch
 helvelab.ch
 helvelex.ch
 helvelexis.ch
@@ -13026,7 +13029,6 @@ helvetic-schaedlinge.ch
 helvetic-schluesseldienst.ch
 helvetic-sealing.ch
 helvetic-secura.ch
-helvetic-security-company.ch
 helvetic-services.ch
 helvetic-shine.ch
 helvetic-shooting.ch
@@ -13653,6 +13655,7 @@ helvetiktours.ch
 helvetikum.ch
 helvetikus.ch
 helvetikuss.ch
+helvetilex.ch
 helvetilink.ch
 helvetiloc.ch
 helvetily.ch
@@ -13667,6 +13670,7 @@ helvetino.ch
 helvetinova.ch
 helvetins.ch
 helvetinvest.ch
+helvetinvestai.ch
 helvetio.ch
 helvetioes.ch
 helvetion.ch
@@ -14449,7 +14453,6 @@ hempster.ch
 hempsterlife.ch
 hempstore.ch
 hempsuisse.ch
-hempsure.ch
 hemptape.ch
 hempte.ch
 hemptex.ch
@@ -15421,7 +15424,6 @@ heppo.ch
 hepps.ch
 heppt.ch
 heppy.ch
-heprive.ch
 hepro-engineering.ch
 hepro-hti.ch
 hepro-it.ch
@@ -18918,6 +18920,7 @@ herzensvisionen.ch
 herzensvorsorge.ch
 herzenswaerme.ch
 herzenswagen.ch
+herzenswahrheit.ch
 herzenswarm.ch
 herzensweg-begleitung.ch
 herzensweg-hashimoto.ch
@@ -19945,6 +19948,7 @@ herzwaerts-begleiten.ch
 herzwaerts-begleitung.ch
 herzwaerts-bern.ch
 herzwaerts-handlesen.ch
+herzwaerts-massage.ch
 herzwaerts-sein.ch
 herzwaerts-unterwegs.ch
 herzwaerts-yoga.ch

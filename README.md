@@ -22,7 +22,18 @@ node scripts/build-stats.mjs --all   # backfill entire history (full clone)
 node scripts/build-stats.mjs         # incremental: only the newest day
 ```
 
-The daily GitHub Action runs the incremental build after each update.
+The dashboard stats workflow runs the incremental build after snapshot updates.
+
+### GitHub Actions
+
+- `daily.yml`: updates `ch/` and `ch-summary.txt` from the daily query.
+- `dashboard-stats.yml`: builds `site/data/*` from git history via `scripts/build-stats.mjs`.
+- `pages.yml`: deploys the static dashboard from `site/` to GitHub Pages.
+
+### GitHub Pages
+
+After enabling Pages in repository settings (source: GitHub Actions), each push
+to `main` that changes `site/**` triggers deployment.
 
 Serve locally:
 

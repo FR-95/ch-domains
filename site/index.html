@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>.ch domains · registrations &amp; deregistrations</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <header class="topbar">
+      <h1><span class="dot">.ch</span> domains</h1>
+      <p class="sub">Daily registrations &amp; deregistrations of the Swiss zone</p>
+    </header>
+
+    <main>
+      <section class="cards" id="cards"><!-- stat cards injected --></section>
+
+      <section class="panel">
+        <h2>Trend</h2>
+        <div class="chart-wrap">
+          <svg id="trend" class="chart" preserveAspectRatio="none"></svg>
+          <div class="legend">
+            <span class="key reg">Registrations</span>
+            <span class="key dereg">Deregistrations</span>
+            <span class="key total">Total domains</span>
+          </div>
+        </div>
+      </section>
+
+      <section class="panel">
+        <h2>Timeline <small>— drag left / right, or use ← → keys</small></h2>
+        <div
+          id="timeline"
+          class="timeline"
+          tabindex="0"
+          role="slider"
+          aria-label="Select date"
+        >
+          <svg id="timeline-svg" class="timeline-svg" preserveAspectRatio="none"></svg>
+          <div id="cursor" class="cursor"><div class="cursor-handle"></div></div>
+        </div>
+      </section>
+
+      <section class="panel day" id="day-panel">
+        <div class="day-head">
+          <h2 id="day-date">—</h2>
+          <div class="day-totals">
+            <span class="badge reg">+<b id="day-reg">0</b> registered</span>
+            <span class="badge dereg">−<b id="day-dereg">0</b> deregistered</span>
+          </div>
+        </div>
+        <div class="lists">
+          <div class="list-col">
+            <input type="search" id="filter-reg" placeholder="Filter registered…" />
+            <ul id="list-reg" class="domain-list reg"></ul>
+          </div>
+          <div class="list-col">
+            <input type="search" id="filter-dereg" placeholder="Filter deregistered…" />
+            <ul id="list-dereg" class="domain-list dereg"></ul>
+          </div>
+        </div>
+      </section>
+    </main>
+
+    <footer>
+      Source data: this repository's git history ·
+      <a href="https://www.switch.ch/" rel="noopener">SWITCH</a> zone transfer
+    </footer>
+
+    <script src="app.js" type="module"></script>
+  </body>
+</html>

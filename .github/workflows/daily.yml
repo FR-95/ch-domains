@@ -14,6 +14,8 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v6
+        with:
+          fetch-depth: 2 # need the previous snapshot to diff against
 
       - name: Run daily update script
         run: |
@@ -29,4 +31,11 @@ jobs:
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
           git add ./ch ./ch-summary.txt
           git commit -m 'Daily update of latest .ch domains' || echo "No changes to commit"
+          git push origin HEAD:main
+
+      - name: Build dashboard stats
+        run: |
+          node scripts/build-stats.mjs
+          git add ./site/data
+          git commit -m 'Update dashboard stats' || echo "No stats changes to commit"
           git push origin HEAD:main

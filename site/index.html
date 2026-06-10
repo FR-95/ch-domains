@@ -1,0 +1,292 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>.ch Domain Activity</title>
+    <meta
+      name="description"
+      content="Daily changes in the Swiss .ch zone, derived from public snapshot diffs."
+    />
+    <link rel="stylesheet" href="style.css" />
+    <script>
+      // Resolve the theme before first paint to avoid a flash of the wrong one.
+      (function () {
+        try {
+          var stored = localStorage.getItem("theme");
+          var theme =
+            stored ||
+            (window.matchMedia("(prefers-color-scheme: light)").matches ? "light" : "dark");
+          document.documentElement.dataset.theme = theme;
+        } catch (e) {
+          document.documentElement.dataset.theme = "dark";
+        }
+      })();
+    </script>
+  </head>
+  <body>
+    <header class="site-header">
+      <div class="header-row">
+        <h1><span class="accent">.ch</span> Domain Activity</h1>
+        <button type="button" id="theme-toggle" class="theme-toggle" aria-pressed="false">
+          <span class="theme-icon" aria-hidden="true"></span>
+          <span class="theme-text"></span>
+        </button>
+      </div>
+      <p class="subtitle">
+        Daily changes in the Swiss .ch zone, derived from public snapshot diffs.
+      </p>
+      <p class="meta">Updated daily · Static dashboard</p>
+    </header>
+
+    <main id="main">
+      <!-- Primary KPIs -->
+      <section class="kpis" id="kpis" aria-label="Key metrics">
+        <p class="state-msg">Loading…</p>
+      </section>
+      <p class="secondary-stats" id="secondary-stats" aria-label="Cumulative statistics"></p>
+
+      <!-- Chart A: daily activity -->
+      <section class="panel" aria-labelledby="h-activity">
+        <div class="panel-head">
+          <h2 id="h-activity">Daily activity</h2>
+          <div class="legend">
+            <span class="key key--reg">Registered</span>
+            <span class="key key--dereg">Deregistered</span>
+            <span class="key key--net">Net</span>
+          </div>
+        </div>
+        <p class="panel-note">
+          Registrations rise above the centre line, deregistrations fall below it.
+          The thin line tracks net change.
+        </p>
+        <div class="chart-wrap">
+          <svg id="chart-activity" class="chart chart--activity" role="img"
+               aria-label="Daily registrations and deregistrations over time"></svg>
+          <div class="tooltip" id="tip-activity" role="status" aria-live="polite" hidden></div>
+        </div>
+      </section>
+
+      <!-- Chart B: total tracked domains -->
+      <section class="panel" aria-labelledby="h-total">
+        <div class="panel-head">
+          <h2 id="h-total">Total tracked domains</h2>
+          <span class="key key--total">Total .ch domains</span>
+        </div>
+        <p class="panel-note">
+          Cumulative size of the tracked zone. The vertical axis is zoomed to the
+          observed range to make day-to-day movement visible.
+        </p>
+        <div class="chart-wrap">
+          <svg id="chart-total" class="chart chart--total" role="img"
+               aria-label="Total tracked .ch domains over time"></svg>
+          <div class="tooltip" id="tip-total" role="status" aria-live="polite" hidden></div>
+        </div>
+      </section>
+
+      <!-- Records -->
+      <section class="panel" aria-labelledby="h-records">
+        <h2 id="h-records">Records</h2>
+        <p class="panel-note">Single-day extremes since tracking began (the initial-import day is excluded).</p>
+        <div class="records" id="records"></div>
+      </section>
+
+      <!-- Activity patterns -->
+      <section class="panel" aria-labelledby="h-patterns">
+        <h2 id="h-patterns">Activity patterns</h2>
+        <p class="panel-note">
+          Average daily volume per observed weekday and day of month (initial import excluded).
+        </p>
+        <div class="metrics-strip" id="metrics-strip"></div>
+        <div class="pattern-grid">
+          <div class="pattern-col">
+            <div class="panel-head">
+              <h3>By weekday</h3>
+              <div class="legend">
+                <span class="key key--reg">Registered</span>
+                <span class="key key--dereg">Deregistered</span>
+              </div>
+            </div>
+            <div class="chart-wrap">
+              <svg id="chart-weekday" class="chart chart--weekday" role="img"
+                   aria-label="Average registrations and deregistrations by weekday"></svg>
+              <div class="tooltip" id="tip-weekday" role="status" hidden></div>
+            </div>
+          </div>
+          <div class="pattern-col">
+            <div class="panel-head"><h3>By day of month</h3></div>
+            <div class="chart-wrap">
+              <svg id="chart-dom" class="chart chart--dom" role="img"
+                   aria-label="Average registrations and deregistrations by day of month"></svg>
+              <div class="tooltip" id="tip-dom" role="status" hidden></div>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <!-- Observations -->
+      <section class="panel" aria-labelledby="h-obs">
+        <h2 id="h-obs">Observations</h2>
+        <ul class="observations" id="observations"></ul>
+      </section>
+
+      <!-- Date navigation + per-day exploration -->
+      <section class="panel" aria-labelledby="h-explore">
+        <h2 id="h-explore">Explore a day</h2>
+
+        <div class="day-nav">
+          <button type="button" id="prev-day" class="nav-btn" aria-label="Previous day">
+            <span aria-hidden="true">◀</span> Prev
+          </button>
+          <div class="day-current">
+            <strong id="nav-date">—</strong>
+            <span id="nav-weekday" class="muted"></span>
+          </div>
+          <button type="button" id="next-day" class="nav-btn" aria-label="Next day">
+            Next <span aria-hidden="true">▶</span>
+          </button>
+        </div>
+
+        <div class="strip-wrap">
+          <svg id="strip" class="strip" tabindex="0" role="slider"
+               aria-label="Activity timeline — use left and right arrow keys to change day"
+               aria-valuemin="0" aria-valuemax="0" aria-valuenow="0"></svg>
+          <div class="tooltip" id="tip-strip" role="status" aria-live="polite" hidden></div>
+        </div>
+        <p class="strip-caption muted">
+          One bar per tracked day · height = total activity (registered + deregistered).
+          Click or use arrow keys to select.
+        </p>
+
+        <div class="day-summary" id="day-summary"></div>
+
+        <ul class="observations day-insights" id="day-insights"></ul>
+
+        <div class="subsection">
+          <h3>Composition of this day</h3>
+          <div class="composition-grid">
+            <div class="comp-table-wrap">
+              <table class="comp-table" id="comp-table">
+                <thead>
+                  <tr>
+                    <th scope="col">Metric</th>
+                    <th scope="col"><span class="ind ind--reg" aria-hidden="true">+</span> Registered</th>
+                    <th scope="col"><span class="ind ind--dereg" aria-hidden="true">−</span> Deregistered</th>
+                  </tr>
+                </thead>
+                <tbody></tbody>
+              </table>
+            </div>
+            <div class="comp-charts">
+              <div class="comp-chart">
+                <span class="comp-chart-title">Name length distribution</span>
+                <div class="legend">
+                  <span class="key key--reg">Registered</span>
+                  <span class="key key--dereg">Deregistered</span>
+                </div>
+                <div class="chart-wrap">
+                  <svg id="chart-length" class="chart chart--bars" role="img"
+                       aria-label="Domain name length distribution for the selected day"></svg>
+                  <div class="tooltip" id="tip-length" role="status" hidden></div>
+                </div>
+              </div>
+              <div class="comp-chart">
+                <span class="comp-chart-title">First character (registered)</span>
+                <div class="chart-wrap">
+                  <svg id="chart-firstchar" class="chart chart--bars" role="img"
+                       aria-label="First-character distribution of newly registered domains"></svg>
+                  <div class="tooltip" id="tip-firstchar" role="status" hidden></div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="subsection">
+          <h3>Interesting domains</h3>
+          <div class="interesting" id="interesting"></div>
+        </div>
+
+        <div class="lists">
+          <div class="list-col">
+            <div class="list-head">
+              <span class="list-title">
+                <span class="ind ind--reg" aria-hidden="true">+</span> Newly registered
+              </span>
+              <span class="count" id="count-reg">0</span>
+            </div>
+            <label class="visually-hidden" for="filter-reg">Filter registered domains</label>
+            <input type="search" id="filter-reg" class="filter"
+                   placeholder="Filter registered…" autocomplete="off" spellcheck="false" />
+            <ul class="domain-list" id="list-reg" aria-label="Newly registered domains"></ul>
+          </div>
+          <div class="list-col">
+            <div class="list-head">
+              <span class="list-title">
+                <span class="ind ind--dereg" aria-hidden="true">−</span> Deregistered
+              </span>
+              <span class="count" id="count-dereg">0</span>
+            </div>
+            <label class="visually-hidden" for="filter-dereg">Filter deregistered domains</label>
+            <input type="search" id="filter-dereg" class="filter"
+                   placeholder="Filter deregistered…" autocomplete="off" spellcheck="false" />
+            <ul class="domain-list" id="list-dereg" aria-label="Deregistered domains"></ul>
+          </div>
+        </div>
+      </section>
+
+      <!-- Zone composition (precomputed corpus baseline) -->
+      <section class="panel" id="zone-panel" aria-labelledby="h-zone" hidden>
+        <h2 id="h-zone">Zone composition</h2>
+        <p class="panel-note">
+          Structure of all <span id="zone-count">—</span> currently tracked .ch domains — a baseline
+          to compare each day's registrations and deregistrations against.
+        </p>
+        <div class="zone-grid">
+          <div class="zone-stats" id="zone-stats"></div>
+          <div class="comp-chart">
+            <span class="comp-chart-title">Name length distribution (whole zone)</span>
+            <div class="chart-wrap">
+              <svg id="chart-zone-length" class="chart chart--bars" role="img"
+                   aria-label="Name length distribution of all tracked .ch domains"></svg>
+              <div class="tooltip" id="tip-zone-length" role="status" hidden></div>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <!-- Methodology -->
+      <section class="panel methodology" aria-labelledby="h-method">
+        <h2 id="h-method">Methodology</h2>
+        <ul>
+          <li>The .ch zone snapshot is refreshed daily by a GitHub Action.</li>
+          <li>
+            Per-day changes are computed from git diffs of consecutive sorted snapshots.
+          </li>
+          <li><strong>Added</strong> lines correspond to <strong>registrations</strong>.</li>
+          <li><strong>Removed</strong> lines correspond to <strong>deregistrations</strong>.</li>
+          <li>
+            Patterns, records, churn and 7-day averages are derived from this daily series;
+            the initial backfill day is excluded so it cannot distort averages or peaks.
+          </li>
+          <li>
+            Composition stats analyse the label before <code>.ch</code>. IDN domains are stored as
+            punycode (<code>xn--…</code>) and decoded for display. Whole-zone figures are precomputed
+            at build time; per-day figures are computed in the browser.
+          </li>
+          <li>
+            The dashboard is fully static and reads only precomputed JSON files —
+            there is no backend.
+          </li>
+        </ul>
+      </section>
+    </main>
+
+    <footer class="site-footer">
+      Source data: this repository's git history ·
+      <a href="https://www.switch.ch/" rel="noopener">SWITCH</a> .ch zone
+    </footer>
+
+    <script src="js/app.js" type="module"></script>
+  </body>
+</html>

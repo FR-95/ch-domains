@@ -1,12 +1,12 @@
-name: Daily Update .ch Domains
+name: Daily Zone Snapshot
 
 on:
   workflow_dispatch:
   schedule:
     - cron: '0 0 * * *'  # Runs daily at midnight UTC
 jobs:
-  run-daily-task:
-    name: update
+  snapshot:
+    name: update-zone
     runs-on: ubuntu-latest
     permissions:
       contents: write
@@ -14,6 +14,8 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v6
+        with:
+          fetch-depth: 2 # need the previous snapshot to diff against
 
       - name: Run daily update script
         run: |
@@ -23,7 +25,7 @@ jobs:
         run: |
           find ./ch -name '*.txt' | xargs wc -l > ./ch-summary.txt
 
-      - name: Commit and push changes
+      - name: Commit and push snapshot
         run: |
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'

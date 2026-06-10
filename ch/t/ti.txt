@@ -3691,7 +3691,6 @@ tierheim-chur.ch
 tierheim-easy.ch
 tierheim-emmental.ch
 tierheim-gals.ch
-tierheim-helden.ch
 tierheim-linth.ch
 tierheim-luzern.ch
 tierheim-nesslau.ch
@@ -4486,6 +4485,7 @@ tierra-incognita.ch
 tierra-products.ch
 tierra-sol.ch
 tierra-verde.ch
+tierra.ch
 tierraautentica.ch
 tierraazul.ch
 tierraberna.ch
@@ -4634,6 +4634,7 @@ tierschutz-steckborn.ch
 tierschutz-thurgau.ch
 tierschutz-uster.ch
 tierschutz-vergleich.ch
+tierschutz-wendepunkt.ch
 tierschutz-zuerich.ch
 tierschutz.ch
 tierschutzaargau.ch
@@ -5644,6 +5645,7 @@ tiimmobili.ch
 tiimo.ch
 tiimpact.ch
 tiimpiego.ch
+tiimy.ch
 tiina-and-flavio.ch
 tiina-suomela.ch
 tiinajaegerphotography.ch
@@ -7433,7 +7435,6 @@ timesource.ch
 timespace-motel.ch
 timespacemotel.ch
 timesplinter.ch
-timesqr.ch
 timesquare.ch
 timesquareputt.ch
 timesrechtsanwaelte.ch
@@ -10205,7 +10206,6 @@ tirapples.ch
 tirarc-corcelles.ch
 tiras.ch
 tirasol.ch
-tiraspol.iim.ch
 tirassa.ch
 tiraswelt.ch
 tirathaimassage.ch
@@ -10223,6 +10223,7 @@ tiratorivmcevio.ch
 tiratrasporti.ch
 tirattalens.ch
 tiraucanon.ch
+tiraupigeonmorgins.ch
 tiraupistolet.ch
 tirauvol.ch
 tiravo.ch
@@ -11263,8 +11264,6 @@ titanphysio.ch
 titanpiercing.ch
 titanplus.ch
 titanpoker.ch
-titanpro.ch
-titanproapp.ch
 titanreparaturen.ch
 titanring.ch
 titanrush.ch

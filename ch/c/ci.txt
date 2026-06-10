@@ -1369,7 +1369,6 @@ cili-gentili.ch
 cili-life.ch
 cili-mw.ch
 cili-produkte.ch
-cili-shop.ch
 cili.ch
 cilia.ch
 ciliachrist.ch
@@ -2375,6 +2374,7 @@ cinerex.ch
 cinergie-shop.ch
 cinergie.ch
 cinergy.ch
+cineris.ch
 cinerismemoria.ch
 cinerius.ch
 cinerive.ch
@@ -3736,6 +3736,7 @@ cis-geneve.ch
 cis-gis.ch
 cis-gland.ch
 cis-heimberg.ch
+cis-it.ch
 cis-lds.ch
 cis-marin.ch
 cis-module.ch
@@ -5216,7 +5217,6 @@ cityguide-luzern.ch
 cityguide-medien.ch
 cityguide-schweiz.ch
 cityguide-swiss.ch
-cityguide-switzerland.ch
 cityguide-thun.ch
 cityguide-zuerich.ch
 cityguide.ch
@@ -5229,7 +5229,6 @@ cityguidelucerne.ch
 cityguideluzern.ch
 cityguidemedien.ch
 cityguides.ch
-cityguideswitzerland.ch
 cityguidethun.ch
 cityguidetv.ch
 cityguidezofingen.ch
@@ -5940,6 +5939,7 @@ civil-society.ch
 civil-voices.ch
 civil.ch
 civilagent.ch
+civilengineer.ch
 civiletto.ch
 civilian.ch
 civilib.ch

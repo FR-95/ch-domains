@@ -58,6 +58,7 @@ sb-group-ag.ch
 sb-handwerk.ch
 sb-hauswartungen.ch
 sb-helicopter.ch
+sb-hinterland.ch
 sb-holzbau.ch
 sb-holzwaerch.ch
 sb-home.ch
@@ -209,7 +210,6 @@ sbadoosh.ch
 sbadvice.ch
 sbadvisory.ch
 sbaehler.ch
-sbaerli-kinderkleiderboerse.ch
 sbaerli.ch
 sbaerlo.ch
 sbaerlocher.ch

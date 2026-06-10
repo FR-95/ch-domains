@@ -1219,6 +1219,7 @@ blackout-vorsorge.ch
 blackout-zertifikat.ch
 blackout-zuerich-airport.ch
 blackout.ch
+blackout72.ch
 blackoutclub.ch
 blackoutconcept.ch
 blackoutdinner.ch
@@ -2400,6 +2401,7 @@ blaser-cafe.ch
 blaser-consulting.ch
 blaser-dachfenster.ch
 blaser-design-bern.ch
+blaser-dietrich.ch
 blaser-dt.ch
 blaser-einbruchschutz.ch
 blaser-elektronik.ch
@@ -3870,6 +3872,7 @@ blee.ch
 bleeching.ch
 bleecker.ch
 bleed-purple.ch
+bleed.ch
 bleedingedge.ch
 bleedingedgesoftware.ch
 bleedkit.ch
@@ -4508,7 +4511,7 @@ blewe.ch
 blewin.ch
 blex.ch
 blexat.ch
-blexdosen.ch
+blexdose.ch
 blexon.ch
 bley.ch
 bleyaert-minger.ch
@@ -6300,7 +6303,6 @@ bloeq.ch
 bloerredfilms.ch
 bloerry.ch
 bloesch-banks.ch
-bloesch-impuls.ch
 bloesch-rolf.ch
 bloesch.ch
 bloeschcoating.ch
@@ -8453,7 +8455,6 @@ bluegate.ch
 bluegaz.ch
 bluege.ch
 bluegecko.ch
-bluegeko.ch
 bluegem.ch
 bluegen.ch
 bluegene.ch

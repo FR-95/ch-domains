@@ -143,6 +143,7 @@ mk-plattenleger.ch
 mk-podologie.ch
 mk-precision.ch
 mk-premiumfashion.ch
+mk-produkte.ch
 mk-property.ch
 mk-publishing.ch
 mk-quadrat.ch
@@ -559,6 +560,7 @@ mkplan.ch
 mkpnet.ch
 mkpower.ch
 mkprod.ch
+mkprodukte.ch
 mkproject-manager.ch
 mkprojekte.ch
 mkps.ch

@@ -6,7 +6,6 @@ td-citybus.ch
 td-classictrophy.ch
 td-cloud.ch
 td-data.ch
-td-express.ch
 td-facilityservices.ch
 td-fassadenbau.ch
 td-global.ch
@@ -315,7 +314,6 @@ tdtaxi.ch
 tdtc.ch
 tdtg.ch
 tdtoys.ch
-tdtrust.ch
 tdu-architecture.ch
 tdu.ch
 tduba.ch

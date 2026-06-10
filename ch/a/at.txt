@@ -3823,7 +3823,6 @@ atelierjj.ch
 atelierjl.ch
 atelierjoko.ch
 atelierjolie.ch
-atelierjoly.ch
 atelierjonhatan-delemont.ch
 atelierjorge.ch
 atelierjoss.ch
@@ -4682,7 +4681,6 @@ ateliersinnbild.ch
 ateliersinopie.ch
 ateliersiplic.ch
 ateliersjaune.ch
-ateliersjoly.ch
 ateliersk7.ch
 atelierskmt.ch
 atelierslachouette.ch
@@ -6525,6 +6523,7 @@ atkbindings.ch
 atkearney.ch
 atkeller.ch
 atkfluids.ch
+atkgear.ch
 atkgroup.ch
 atkhloe.ch
 atkins.ch
@@ -7204,6 +7203,7 @@ atleta.ch
 atletas-gyn.ch
 atletic.ch
 atletica-helvetica.ch
+atletica.ch
 atleticaceresio.ch
 atleticafitness.ch
 atleticagear.ch
@@ -8592,6 +8592,7 @@ atticaart.ch
 atticacollection.ch
 atticacumherbis.ch
 atticafinance.ch
+atticafrauenfeld.ch
 atticahouse.ch
 atticaimmobilier.ch
 atticalab.ch

@@ -1551,6 +1551,7 @@ idem-eau.ch
 idem-fotoart.ch
 idem-i.ch
 idem-sh.ch
+idem.ch
 idema.ch
 idemartin.ch
 idembau.ch
@@ -1563,6 +1564,7 @@ idemo-swiss.ch
 idemo.ch
 idemosa.ch
 idempiere.ch
+idempotent.ch
 idems.ch
 idemuse.ch
 iden.ch
@@ -1753,6 +1755,7 @@ ideothek.ch
 ideovate.ch
 ideoweb.ch
 idepi.ch
+idepics-pizzuti.ch
 ideplan.ch
 ideplanrusch.ch
 idera.ch

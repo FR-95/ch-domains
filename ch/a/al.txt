@@ -110,6 +110,7 @@ al-jouini.ch
 al-juhara.ch
 al-ka.ch
 al-kaffee.ch
+al-ke-mi.ch
 al-kemi.ch
 al-keramik.ch
 al-khaima.ch
@@ -1533,6 +1534,7 @@ alba-trucks.ch
 alba-vd.ch
 alba-vision.ch
 alba-vista.ch
+alba-vita.ch
 alba-volksfest.ch
 alba-weiss.ch
 alba.ch
@@ -1872,6 +1874,7 @@ albauvision.ch
 albavaisselle.ch
 albavision.ch
 albavista.ch
+albavita.ch
 albavolksfest.ch
 albawebdesign.ch
 albawine.ch
@@ -2533,6 +2536,7 @@ albis-photonics.ch
 albis-radio.ch
 albis-region.ch
 albis-reinigung.ch
+albis-rise.ch
 albis-services.ch
 albis-shop.ch
 albis-sicherheit.ch
@@ -3330,7 +3334,6 @@ alconetmed.ch
 alconfida.ch
 alconi.ch
 alconjobs.ch
-alconlabs.ch
 alconsa.ch
 alconsaudio.ch
 alconseils.ch
@@ -3417,7 +3420,6 @@ alcudia.ch
 alcum.ch
 alcuma.ch
 alcuntraband.ch
-alcura.ch
 alcurchod.ch
 alcuris.ch
 alcuro.ch
@@ -4410,6 +4412,7 @@ alera-immo.ch
 alera.ch
 aleramica.ch
 alerce.ch
+alere.ch
 alerefo.ch
 aleregmbh.ch
 alergiz.ch
@@ -6387,6 +6390,7 @@ alexotique.ch
 alexou.ch
 alexovo.ch
 alexp.ch
+alexpatocchi.ch
 alexpeinture.ch
 alexperakis.ch
 alexperez.ch
@@ -7054,6 +7058,7 @@ alflorex.ch
 alfm.ch
 alfmanagement.ch
 alfo-countrynight.ch
+alfo.ch
 alfobet-casino.ch
 alfobet.ch
 alfobetcasino.ch
@@ -7268,6 +7273,7 @@ alfus.ch
 alfuscasino.ch
 alfx.ch
 alfy.ch
+alfyadmin.ch
 alfyo.ch
 alfzone.ch
 alg-bau.ch
@@ -13196,6 +13202,7 @@ allocation-familiale.ch
 allocation.ch
 allocationfamiliale.ch
 allocationpartners.ch
+allocations-familiales-oui.ch
 allocations-familiales.ch
 allocationsfamiliales.ch
 allocationuniverselle.ch
@@ -13567,6 +13574,7 @@ allrealgu.ch
 allrealholding.ch
 allrealinformatik.ch
 allrealoffice.ch
+allrealofficeltd.ch
 allrealromandie.ch
 allrec.ch
 allreco.ch
@@ -13666,6 +13674,7 @@ allrounder-basel.ch
 allrounder-bau.ch
 allrounder-dienstleistungen.ch
 allrounder-fachmaa.ch
+allrounder-fritz.ch
 allrounder-gmbh.ch
 allrounder-gmvl.ch
 allrounder-liechti.ch
@@ -13817,6 +13826,7 @@ allsear.ch
 allsearch.ch
 allseas-shipping-properties.ch
 allseas.ch
+allseasgroup.ch
 allseason-service.ch
 allseason.ch
 allseasons-hotel.ch
@@ -14120,6 +14130,7 @@ alltagsretter.ch
 alltagsrounder.ch
 alltagsschmuck.ch
 alltagsschrott.ch
+alltagsservice.ch
 alltagsshop.ch
 alltagssprache.ch
 alltagsspuren.ch
@@ -14127,6 +14138,7 @@ alltagsstark.ch
 alltagsstress.ch
 alltagstipps.ch
 alltagstraining.ch
+alltagsvorteile.ch
 alltagswege.ch
 alltagsweise.ch
 alltagswelt.ch
@@ -14552,6 +14564,7 @@ alm-hotel.ch
 alm-hotels.ch
 alm-management.ch
 alm-resi.ch
+alm-schweiz.ch
 alm-service.ch
 alm-services.ch
 alm-traum.ch
@@ -14672,6 +14685,7 @@ almactech.ch
 almacubana.ch
 almacucine.ch
 almacura-team.ch
+almacura.ch
 almada-capital-intelligence.ch
 almada.ch
 almadacap.ch
@@ -15220,6 +15234,7 @@ alnovis.ch
 alnovo.ch
 alnovy.ch
 alntl.ch
+alnus.ch
 alnvc.ch
 alnylam.ch
 alnylamact.ch
@@ -17076,6 +17091,7 @@ alpenbreeze.ch
 alpenbrenner.ch
 alpenbrevet.ch
 alpenbri.ch
+alpenbriefe.ch
 alpenbrise.ch
 alpenbroker.ch
 alpenbrunch.ch
@@ -17253,7 +17269,6 @@ alpenfreund.ch
 alpenfreunde.ch
 alpenfreundepilatus.ch
 alpenfuchs.ch
-alpenfuhrer.ch
 alpenfurie.ch
 alpenfussball.ch
 alpenfussball365.ch
@@ -17284,6 +17299,7 @@ alpenglanz-reinigung.ch
 alpenglanz-shop.ch
 alpenglanzclean.ch
 alpenglanzmalerbetrieb.ch
+alpenglanzthungmbh.ch
 alpenglas.ch
 alpenglory.ch
 alpenglow-uri.ch
@@ -17432,6 +17448,7 @@ alpenkiosk.ch
 alpenkirsche.ch
 alpenkissen.ch
 alpenklar.ch
+alpenklee.ch
 alpenklick.ch
 alpenklima.ch
 alpenklimagipfel.ch
@@ -17459,6 +17476,7 @@ alpenkreuzer.ch
 alpenkrimi.ch
 alpenkuche.ch
 alpenkulisse.ch
+alpenkult-shop.ch
 alpenkult.ch
 alpenkurier.ch
 alpenlab.ch
@@ -17497,6 +17515,7 @@ alpenloge.ch
 alpenlogistik.ch
 alpenluce.ch
 alpenluft.ch
+alpenlust.ch
 alpenly.ch
 alpenmail.ch
 alpenmaler.ch
@@ -17544,7 +17563,6 @@ alpennews.ch
 alpennordhang.ch
 alpennordseite.ch
 alpennova.ch
-alpennoventra.ch
 alpeno.ch
 alpenoase.ch
 alpenode.ch
@@ -17709,7 +17727,6 @@ alpenrose-umbrail.ch
 alpenrose-unterbaech.ch
 alpenrose-vals.ch
 alpenrose-wealth.ch
-alpenrose-zermatt.ch
 alpenrose.ch
 alpenroseadvisors.ch
 alpenroseballenberg.ch
@@ -18257,8 +18274,6 @@ alpexreal.ch
 alpexund.ch
 alpexx.ch
 alpf.ch
-alpfaciliityservices.ch
-alpfacility.ch
 alpfactor.ch
 alpfaescht.ch
 alpfamily.ch
@@ -18790,6 +18805,7 @@ alphabet-am.ch
 alphabet-con.ch
 alphabet-fleetservices.ch
 alphabet-registration.ch
+alphabet-restaurant.ch
 alphabet-used-cars.ch
 alphabet.ch
 alphabeta-bautechnik.ch
@@ -19917,6 +19933,7 @@ alpiloc.ch
 alpim.ch
 alpimages.ch
 alpimail.ch
+alpimark.ch
 alpimation.ch
 alpimex.ch
 alpimind.ch
@@ -21722,9 +21739,7 @@ alpinuts.ch
 alpinvagabunden.ch
 alpinvan.ch
 alpinveda.ch
-alpinvest-financial.ch
 alpinvest.ch
-alpinvestfinancial.ch
 alpinvestimmo.ch
 alpinvet.ch
 alpinvoice.ch
@@ -22048,6 +22063,7 @@ alpnachplus.ch
 alpnachs.ch
 alpnachschraenke.ch
 alpnachstad.ch
+alpnart.ch
 alpnature.ch
 alpneaza.ch
 alpneed.ch
@@ -22100,6 +22116,7 @@ alporainnovationeuropa.ch
 alporama.ch
 alporia.ch
 alporit.ch
+alporium.ch
 alportico-novaggio.ch
 alportico.ch
 alporticopizzeria.ch
@@ -26242,6 +26259,7 @@ altunstudio.ch
 altuoritmo.ch
 altur.ch
 altura-buetschwil.ch
+altura-clean.ch
 altura-concept.ch
 altura-gebenstorf.ch
 altura-haustechnik.ch
@@ -27331,6 +27349,7 @@ alveiracapital.ch
 alveiraluxe.ch
 alveiraluxerealestate.ch
 alveirarealestate.ch
+alven-concierge.ch
 alven.ch
 alvena.ch
 alvenair.ch
@@ -27371,6 +27390,7 @@ alveon.ch
 alveosimulator.ch
 alvepra.ch
 alver-zuerich.ch
+alver.ch
 alvera.ch
 alveran.ch
 alverde.ch
@@ -27833,6 +27853,7 @@ alzascaceramics.ch
 alzascaware.ch
 alzashop.ch
 alzata.ch
+alzatargroup.ch
 alzati-svizzera.ch
 alzati.ch
 alzatidallapoltrona.ch

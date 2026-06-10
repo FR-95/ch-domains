@@ -2381,6 +2381,7 @@ piecemat.ch
 pieceofcake-clothing.ch
 pieceofcake.ch
 pieceofherart.ch
+pieceofpeace.ch
 pieceofswitzerland.ch
 pieceoplastic.ch
 pieceparpiece.ch
@@ -2412,6 +2413,7 @@ piecesoriginales.ch
 piecesoriginalesford.ch
 piecesorsuisses.ch
 piecesplomberie.ch
+piecesporscheoccasions.ch
 piecestopeace.ch
 piecesvoitures.ch
 pieceuniquedesign.ch
@@ -2919,7 +2921,6 @@ pierreacatillon.ch
 pierreacrylique.ch
 pierreacupules.ch
 pierreakerib.ch
-pierrealain.ch
 pierrealaingirardin.ch
 pierreambrosetti.ch
 pierreancey.ch
@@ -4568,6 +4569,7 @@ pilau.ch
 pilav.ch
 pilavita.ch
 pilawa.ch
+pilaxis.ch
 pilayo.ch
 pilayoga.ch
 pilbara-building.ch
@@ -6442,7 +6444,6 @@ pinklime.ch
 pinklimo.ch
 pinklimos.ch
 pinklimousine.ch
-pinkline.ch
 pinklink.ch
 pinklotus.ch
 pinkmail.ch
@@ -6918,7 +6919,6 @@ pinta-shop.ch
 pinta-unverpackt.ch
 pinta.ch
 pintaclean.ch
-pintada.ch
 pintado.ch
 pintadoart.ch
 pintadoli.ch
@@ -7374,6 +7374,7 @@ piperspin-ch.ch
 piperspin.ch
 piperspincasino.ch
 piperspins.ch
+piperspinscasino.ch
 piperush.ch
 pipes-online.ch
 pipes.ch
@@ -8550,6 +8551,7 @@ pistoletvully.ch
 pistolier.ch
 pistoliers.ch
 pistolo.ch
+pistolocasino.ch
 pistolreinigung.ch
 pistolsolar.ch
 pistolvaud.ch
@@ -9198,6 +9200,7 @@ pivi-pudja.ch
 pivi-utm.ch
 pivi.ch
 pivia.ch
+pivio.ch
 pivips.ch
 pivko.ch
 pivlaz.ch
@@ -10864,7 +10867,6 @@ pizza-shop.ch
 pizza-slice.ch
 pizza-software.ch
 pizza-solduno.ch
-pizza-sommerau.ch
 pizza-spicy-express.ch
 pizza-spicy-fine-food.ch
 pizza-spicy.ch
@@ -10934,7 +10936,6 @@ pizza15.ch
 pizza24.ch
 pizza24stunden.ch
 pizza2create.ch
-pizza2go.ch
 pizza3min.ch
 pizza3rive.ch
 pizza4paws.ch
@@ -10947,7 +10948,6 @@ pizzaacademy-sursee.ch
 pizzaacademy.ch
 pizzaadler.ch
 pizzaadomicile.ch
-pizzaalmetroandmore.ch
 pizzaaltaglio.ch
 pizzaalvolo.ch
 pizzaamano.ch
@@ -11923,6 +11923,7 @@ pizzeria-cinquecento.ch
 pizzeria-ciro-geneve.ch
 pizzeria-cocco.ch
 pizzeria-corona.ch
+pizzeria-cortile.ch
 pizzeria-cosanostra.ch
 pizzeria-cosi.ch
 pizzeria-cosimo-anna.ch
@@ -12207,7 +12208,6 @@ pizzeria-speed-food.ch
 pizzeria-speedy-gonzales-giubiasco.ch
 pizzeria-star-busswil.ch
 pizzeria-star.ch
-pizzeria-steinach.ch
 pizzeria-steinbock.ch
 pizzeria-steinbruch.ch
 pizzeria-steinrad.ch

@@ -898,7 +898,6 @@ la-maison-des-bosquets.ch
 la-maison-des-energies.ch
 la-maison-des-idees.ch
 la-maison-des-lucioles.ch
-la-maison-des-piments.ch
 la-maison-du-bijou.ch
 la-maison-du-bonheur.ch
 la-maison-du-cafe.ch
@@ -927,6 +926,7 @@ la-malcote.ch
 la-maleta.ch
 la-malicieuse.ch
 la-malle-a-malices.ch
+la-malle-au-tresor.ch
 la-maman-dentiste.ch
 la-mana.ch
 la-manufacture-basel.ch
@@ -2089,6 +2089,7 @@ lab30pizzapastamore.ch
 lab32.ch
 lab33.ch
 lab336.ch
+lab36.ch
 lab360.ch
 lab3communication.ch
 lab3d.ch
@@ -5154,11 +5155,9 @@ lachirurgie.ch
 lachispa.ch
 lachito.ch
 lachj.ch
-lachkiki.ch
 lachkurse.ch
 lachlan.ch
 lachlauter.ch
-lachloevibe.ch
 lachlos.ch
 lachma.ch
 lachman.ch
@@ -7775,6 +7774,7 @@ laesterzungen.ch
 laesthetic.ch
 laestrada.ch
 laeta.ch
+laetare.ch
 laete.ch
 laeti-art-painting.ch
 laeti.ch
@@ -7990,7 +7990,6 @@ lafammy.ch
 lafammy2.ch
 lafaneuse.ch
 lafanfare.ch
-lafanta.ch
 lafantaisiedesbijoux.ch
 lafaougueuse.ch
 lafarandole-corseaux.ch
@@ -8335,7 +8334,6 @@ laflechebleue.ch
 laflecheturquoise.ch
 lafler.ch
 lafleur-rosmarie.ch
-lafleur.ch
 lafleurblumenboutique.ch
 lafleurdelame.ch
 lafleurdeschamps.ch
@@ -8376,6 +8374,7 @@ lafoirfouille.ch
 lafolia-zuerich.ch
 lafolia.ch
 lafolie-dieboutique.ch
+lafolie.ch
 lafoliedes-saveurs.ch
 lafoliedesdouceurs.ch
 lafoliedesgrandeurs.ch
@@ -9419,7 +9418,6 @@ lagooon-event.ch
 lagooon.ch
 lagopaide.ch
 lagope.ch
-lagoped.ch
 lagopede-alpin.ch
 lagopede.ch
 lagopedes.ch
@@ -9444,6 +9442,7 @@ lagostudio.ch
 lagota.ch
 lagotaxi.ch
 lagoterra.ch
+lagotina.ch
 lagotropicale.ch
 lagotta-belfaux.ch
 lagotta-location.ch
@@ -10400,6 +10399,7 @@ lakecon.ch
 lakeconstance.ch
 lakeconstanceengineering.ch
 lakecoop.ch
+lakecrew.ch
 lakecruise-zug.ch
 lakecruise.ch
 lakecruiseszurich.ch
@@ -11234,7 +11234,6 @@ lalilalu.ch
 lalilapopeto.ch
 lalili.ch
 lalilo.ch
-lalimousine.ch
 lalina.ch
 lalinafina.ch
 lalindas.ch
@@ -11286,7 +11285,6 @@ lallegrogiardiniere.ch
 lallemand.ch
 laller-design.ch
 lallerdesign.ch
-lalliance-des-possibles.ch
 lalliance.ch
 lalliefermetures.ch
 lallo.ch
@@ -11454,7 +11452,6 @@ lama-bewegen.ch
 lama-bleu.ch
 lama-camping.ch
 lama-crafting.ch
-lama-ebikon.ch
 lama-eccp.ch
 lama-entlebuch.ch
 lama-erlebnis.ch
@@ -11876,6 +11873,7 @@ lamaproductions.ch
 lamaquettedeanthony.ch
 lamar-kaffeepads.ch
 lamar-sa.ch
+lamar.ch
 lamara.ch
 lamaranch.ch
 lamarante.ch
@@ -12039,6 +12037,7 @@ lambaswiss.ch
 lambauer.ch
 lambayeque.ch
 lambda-communications.ch
+lambda-education.ch
 lambda-engineering.ch
 lambda-hp.ch
 lambda-invest.ch
@@ -13353,7 +13352,6 @@ lanap.ch
 lanapersonal.ch
 lanapiano.ch
 lanapiu.ch
-lanapoletana-huttwil.ch
 lanapoletana.ch
 lanapremio.ch
 lanara.ch
@@ -14146,6 +14144,7 @@ landhaushurnen.ch
 landhauskueche.ch
 landhauskuechen-schweiz.ch
 landhauskuechen.ch
+landhauslive.ch
 landhausmode-klauser.ch
 landhausmode-shop.ch
 landhausmode.ch
@@ -15451,6 +15450,7 @@ lanforce.ch
 lanfran.ch
 lanfranchi-poschiavo.ch
 lanfranchi.ch
+lanfranchimail.ch
 lanfranconi-bau.ch
 lanfranconi.ch
 lanfranconiag.ch
@@ -16435,7 +16435,6 @@ langundcie-industrial.ch
 langundlockig.ch
 langundo.ch
 langundpartner.ch
-langundsachs.ch
 langundzingg.ch
 langusta.ch
 languste.ch
@@ -17415,6 +17414,7 @@ lapepitesuisse.ch
 lapeppina.ch
 lapercee.ch
 laperceneige.ch
+lapercheduvully.ch
 lapercheloe.ch
 laperchette-omnia.ch
 laperchette.ch
@@ -18100,6 +18100,7 @@ laprima.ch
 laprimabeauty.ch
 laprimabewertungen.ch
 laprimabusiness.ch
+laprimapizzeria.ch
 laprimascelta.ch
 laprimavera.ch
 laprimevere.ch
@@ -18470,7 +18471,6 @@ laralei.ch
 laralel.ch
 laralemmelet.ch
 laraliechti.ch
-laralissabon.ch
 laralocatelli.ch
 laralocation.ch
 laralone.ch
@@ -22631,7 +22631,6 @@ latenightzurich.ch
 latenium.ch
 latens.ch
 latensandforma.ch
-latensor.ch
 latent.ch
 latentanalytics.ch
 latentcode.ch
@@ -23993,7 +23992,6 @@ laufleicht.ch
 laufler.ch
 lauflernhilfe.ch
 lauflernschuhe.ch
-lauflos.ch
 lauflust.ch
 laufluzern.ch
 laufmamalauf.ch
@@ -24483,6 +24481,7 @@ lauraautolitano.ch
 laurab.ch
 laurababuschka.ch
 laurabachmann.ch
+laurabaderphoto.ch
 laurabaggenstos.ch
 laurabakker.ch
 laurabaldi.ch
@@ -24951,6 +24950,7 @@ laurelbio.ch
 laurelfinancial.ch
 laurelhill.ch
 laurelin.ch
+laureline-david.ch
 laureline.ch
 laurelinescherler.ch
 laurell.ch
@@ -25166,6 +25166,7 @@ laurentkeller.ch
 laurentko.ch
 laurentkobi.ch
 laurentkoch.ch
+laurentlacour.ch
 laurentleutenegger.ch
 laurentmartin.ch
 laurentmatson.ch
@@ -26698,7 +26699,6 @@ lavie46.ch
 lavieabondante.ch
 lavieavecsoi.ch
 laviebeautyclinic.ch
-laviebelle.ch
 laviebern.ch
 lavieboheme.ch
 laviecal.ch

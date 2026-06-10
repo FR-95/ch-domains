@@ -93,6 +93,7 @@ ps-design.ch
 ps-devis.ch
 ps-dhofen.ch
 ps-dienstleistung.ch
+ps-dienstleistungen.ch
 ps-dietikon.ch
 ps-digital.ch
 ps-district-aigle.ch
@@ -2774,6 +2775,7 @@ psychologische-astro.ch
 psychologische-begleitung.ch
 psychologische-begutachtung.ch
 psychologische-beraterin.ch
+psychologische-beratung-aarau.ch
 psychologische-beratung-atemtherapie.ch
 psychologische-beratung-basel.ch
 psychologische-beratung-bern.ch

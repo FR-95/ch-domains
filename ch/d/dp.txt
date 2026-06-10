@@ -86,6 +86,7 @@ dp7.ch
 dp8942.ch
 dp9.ch
 dpa-business.ch
+dpa-connect.ch
 dpa-digitalservices.ch
 dpa-ds.ch
 dpa-help.ch
@@ -93,6 +94,7 @@ dpa-leder.ch
 dpa.ch
 dpac.ch
 dpacheck.ch
+dpaconnect.ch
 dpag.ch
 dpagencement.ch
 dpagencements.ch
@@ -373,6 +375,7 @@ dpmc.ch
 dpmecanique.ch
 dpmeister-beerdigung.ch
 dpmeister.ch
+dpmemories.ch
 dpmerz.ch
 dpmetal.ch
 dpmg.ch

@@ -3382,7 +3382,6 @@ hindus.ch
 hindutempel.ch
 hindutemple-sg-swiss.ch
 hindutemple.ch
-hinduwelt.ch
 hindy-trans.ch
 hine.ch
 hineadon.ch
@@ -3601,7 +3600,6 @@ hinterland-leatherworks.ch
 hinterland.ch
 hinterlandshop.ch
 hinterlauben12.ch
-hinterlegen.ch
 hinterlegt.ch
 hinterlegungsstelle.ch
 hinterlehner.ch
@@ -4185,7 +4183,6 @@ hireguys.ch
 hirehub.ch
 hireindonesia.ch
 hireix.ch
-hirejobs.ch
 hirekind.ch
 hirekindly.ch
 hirelifescience.ch
@@ -4209,7 +4206,6 @@ hirepac.ch
 hirepersonal.ch
 hirepilot.ch
 hireplus.ch
-hirepool.ch
 hires.ch
 hirescam.ch
 hirespace.ch
@@ -6136,6 +6132,7 @@ hiwipost.ch
 hiwitec.ch
 hiwobodenleger.ch
 hiwogmbh.ch
+hiwogroup.ch
 hiwoz.ch
 hiwpppp.ch
 hiws.ch

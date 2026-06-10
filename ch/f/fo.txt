@@ -51,6 +51,7 @@ fo-zurisee.ch
 fo1.ch
 fo2.ch
 fo20sa.ch
+fo3780.ch
 foa-academy.ch
 foa-institut.ch
 foa.ch
@@ -716,6 +717,7 @@ foehn-zwingli-immobilien.ch
 foehn-zwingli.ch
 foehn.ch
 foehnart.ch
+foehnartflats.ch
 foehnbar.ch
 foehnbrunnen.ch
 foehnenberg.ch
@@ -5091,6 +5093,7 @@ foodcenterpratteln.ch
 foodcentral.ch
 foodchain-solutions.ch
 foodchain.ch
+foodchain4pet.ch
 foodchat.ch
 foodchef.ch
 foodchem.ch
@@ -6669,7 +6672,6 @@ forcemotrice.ch
 forcenature.ch
 forcenaturelle.ch
 forcentis.ch
-forcento.ch
 forceofmusic.ch
 forceone.ch
 forceplus.ch
@@ -7382,6 +7384,7 @@ forensik-wermuth.ch
 forensik.ch
 forensiker.ch
 forensiklab.ch
+forensikpraxis-olten.ch
 forensiksargans.ch
 forensikschweiz.ch
 forensiktagung.ch

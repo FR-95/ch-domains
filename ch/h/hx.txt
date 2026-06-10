@@ -5,8 +5,6 @@ hx4.ch
 hx42.ch
 hx7.ch
 hxa.ch
-hxadventure.ch
-hxadventures.ch
 hxadventuretravel.ch
 hxb.ch
 hxc.ch
@@ -14,10 +12,6 @@ hxch.ch
 hxcoaching.ch
 hxd.ch
 hxdr.ch
-hxexpedition.ch
-hxexpeditions.ch
-hxexplorer.ch
-hxexplorers.ch
 hxg.ch
 hxgn.ch
 hxgnliveglobal.ch
@@ -29,8 +23,6 @@ hxi.ch
 hxj.ch
 hxk.ch
 hxl.ch
-hxlegend.ch
-hxlegends.ch
 hxm-advice.ch
 hxm-competence.ch
 hxm-group.ch

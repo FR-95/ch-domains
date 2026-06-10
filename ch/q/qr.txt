@@ -9,6 +9,7 @@ qr-beleg.ch
 qr-belege.ch
 qr-bell.ch
 qr-berneck.ch
+qr-bill-plus.ch
 qr-bill-software.ch
 qr-bill-switzerland.ch
 qr-bill.ch
@@ -161,9 +162,11 @@ qrbcv.ch
 qrbeleg.ch
 qrbestellung.ch
 qrbill-generator.ch
+qrbill-plus.ch
 qrbill-qrmodule.ch
 qrbill.ch
 qrbillpay.ch
+qrbillplus.ch
 qrbillswiss.ch
 qrbon.ch
 qrbox.ch

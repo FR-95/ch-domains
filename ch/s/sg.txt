@@ -239,6 +239,7 @@ sg-ninpo.ch
 sg-nuglar.ch
 sg-oberboezberg.ch
 sg-oberburg.ch
+sg-obergerlafingen.ch
 sg-oberiberg.ch
 sg-oberkirch.ch
 sg-oberland-nachrichten.ch
@@ -738,6 +739,7 @@ sgf-zentralschweiz.ch
 sgf.ch
 sgf08.ch
 sgf22.ch
+sgfa.ch
 sgfanclub.ch
 sgfarnern.ch
 sgfb.ch
@@ -787,6 +789,7 @@ sgga-assa.ch
 sggama.ch
 sggastro.ch
 sggefagmbh.ch
+sggelterfingen.ch
 sggelterkinden.ch
 sggestionimmobiliere.ch
 sggf.ch
@@ -1593,6 +1596,7 @@ sgwp.ch
 sgws.ch
 sgwuerenlos.ch
 sgwwohlen.ch
+sgx.ch
 sgxsensortech.ch
 sgy.ch
 sgy3d.ch

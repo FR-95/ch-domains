@@ -5,6 +5,7 @@ ly-food.ch
 ly-immomed.ch
 ly-ma.ch
 ly-nea.ch
+ly-swiss.ch
 ly24.ch
 ly5.ch
 lya-etudes.ch
@@ -1014,6 +1015,7 @@ lyss-ihht.ch
 lyss-muldenservice.ch
 lyss-plus.ch
 lyss.ch
+lyss2030.ch
 lyss24.ch
 lyss2go.ch
 lyssa.ch

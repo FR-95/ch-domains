@@ -161,6 +161,7 @@ bb-lucerne.ch
 bb-lugano.ch
 bb-luxreinigung.ch
 bb-m.ch
+bb-magden.ch
 bb-mail.ch
 bb-marketing.ch
 bb-maschinen.ch
@@ -309,6 +310,7 @@ bbachmann.ch
 bback.ch
 bbacksoon.ch
 bbacktolife.ch
+bbackup.ch
 bbacu.ch
 bbaden.ch
 bbadwolf.ch
@@ -320,7 +322,6 @@ bbagels.ch
 bbagro.ch
 bbagw.ch
 bbahigo.ch
-bbaktuell.ch
 bbalance.ch
 bball.ch
 bballcamp4champs.ch
@@ -905,7 +906,6 @@ bbmoto.ch
 bbmotorgeraete.ch
 bbmotors.ch
 bbmotos.ch
-bbmotta.ch
 bbmplanung.ch
 bbmproduction.ch
 bbmproductions.ch
@@ -1468,6 +1468,7 @@ bbw-auctions.ch
 bbw-auktionen.ch
 bbw-escort.ch
 bbw-gaertner.ch
+bbw-hko.ch
 bbw-it.ch
 bbw-law.ch
 bbw-online.ch

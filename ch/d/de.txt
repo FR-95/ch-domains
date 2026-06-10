@@ -1027,6 +1027,7 @@ debarras-chantier.ch
 debarras-cuisine.ch
 debarras-david.ch
 debarras-diogene.ch
+debarras-express-geneve-vaud.ch
 debarras-express-lausanne.ch
 debarras-express.ch
 debarras-fribourg.ch
@@ -2399,6 +2400,7 @@ declaree.ch
 declareit.ch
 declarer.ch
 declaresimple.ch
+declaria.ch
 declarino.ch
 declario.ch
 declaris.ch
@@ -4026,6 +4028,7 @@ deepte.ch
 deeptea.ch
 deeptec.ch
 deeptech-capital.ch
+deeptech.ch
 deeptech2value.ch
 deeptechadvisors.ch
 deeptechcapital.ch
@@ -4179,6 +4182,7 @@ deevee.ch
 deevision.ch
 deew.ch
 deewa-massage.ch
+deewave.ch
 deeworks.ch
 deex.ch
 deexitus.ch
@@ -4334,6 +4338,7 @@ defendhelvetia.ch
 defendica.ch
 defendit.ch
 defendo.ch
+defendre-service-civil.ch
 defendre.ch
 defends-toi.ch
 defendx.ch
@@ -6396,7 +6401,6 @@ deine-webdesignerin.ch
 deine-webentwickler.ch
 deine-webmasterin.ch
 deine-webseite.ch
-deine-website.ch
 deine-welt.ch
 deine-werbung.ch
 deine-werft.ch
@@ -8201,6 +8205,7 @@ dekoschilder.ch
 dekoschmiede.ch
 dekoschmiede24.ch
 dekoschnee.ch
+dekoschrift.ch
 dekoschweiz.ch
 dekoservice.ch
 dekoshape.ch
@@ -9014,6 +9019,7 @@ delica.ch
 delicacy.ch
 delicadeaux.ch
 delicainvest.ch
+delicana.ch
 delicando.ch
 delicanto.ch
 delicare.ch
@@ -9360,6 +9366,7 @@ deliry.ch
 delisa.ch
 deliscent.ch
 delise.ch
+delisen.ch
 delisens.ch
 deliservice.ch
 delish-zuerich.ch
@@ -10219,6 +10226,7 @@ delta-huus.ch
 delta-immo.ch
 delta-immobilien.ch
 delta-ing.ch
+delta-ingenieure.ch
 delta-inkasso.ch
 delta-iq-wa.ch
 delta-iq.ch
@@ -11562,6 +11570,7 @@ demenzhacks.ch
 demenzhelden.ch
 demenzhike.ch
 demenzhikes.ch
+demenzhilfe.ch
 demenzhomecare.ch
 demenzinfo.ch
 demenzinitiative.ch
@@ -13027,6 +13036,7 @@ denkdichneu.ch
 denkdichstark.ch
 denkdigital.ch
 denkdra.ch
+denkduett.ch
 denke-an-balance.ch
 denke-kreativ.ch
 denke-quer.ch
@@ -16979,6 +16989,7 @@ derahandel.ch
 derahm-immobilier.ch
 derahm.ch
 derahnencode.ch
+derailed.ch
 derailleur.ch
 derailleurs.ch
 deraisin.ch
@@ -17315,6 +17326,7 @@ derchorluzern.ch
 derchrist.ch
 derchronist.ch
 derci.ch
+dercidigital.ch
 dercio.ch
 dercitiguide.ch
 derck.ch
@@ -17850,6 +17862,7 @@ derhype.ch
 derhypnomanifestator.ch
 derhypnosetherapeut.ch
 deri-engineering.ch
+deri.ch
 deria.ch
 derian.ch
 deriaz-consulting.ch
@@ -18482,6 +18495,7 @@ dermakonsil.ch
 dermakos.ch
 dermakosmetik.ch
 dermaku-reinigungen.ch
+dermakuesnacht.ch
 dermal-anchor.ch
 dermal.ch
 dermalac.ch
@@ -19788,6 +19802,7 @@ derverhandler.ch
 derverkaufsexperte.ch
 derverkehr.ch
 dervermarkter.ch
+dervermieter.ch
 dervermittler.ch
 derversager.ch
 derversand.ch
@@ -20096,6 +20111,7 @@ desarkcontract.ch
 desarmement-police-non.ch
 desarrollo.ch
 desartech.ch
+desarts-basel.ch
 desarts-schmuck.ch
 desarts.ch
 desarzens-arch.ch
@@ -22164,6 +22180,7 @@ desire-dreams.ch
 desire-escorts.ch
 desire-shop.ch
 desire.ch
+desireanddelight.ch
 desirebeauty.ch
 desirecosmetics.ch
 desirecruise.ch
@@ -22987,12 +23004,8 @@ desto-besser.ch
 desto-gmbh.ch
 desto.ch
 destock-it.ch
-destock-parquet.ch
-destock-parquets.ch
 destock-position.ch
 destock.ch
-destockage-parquet.ch
-destockage-parquets.ch
 destockage.ch
 destockageaudio-concept.ch
 destockages.ch
@@ -25637,7 +25650,6 @@ devriesitconsulting.ch
 devrieslegaltax.ch
 devrmsoft.ch
 devromandie.ch
-devroot.ch
 devrow.ch
 devrun.ch
 devrwb.ch

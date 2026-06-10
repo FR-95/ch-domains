@@ -1800,6 +1800,7 @@ huerlimann-transport-ag.ch
 huerlimann-transport.ch
 huerlimann-transporte.ch
 huerlimann-treuhand.ch
+huerlimann-umzug.ch
 huerlimann-webdesign.ch
 huerlimann-wetzikon.ch
 huerlimann-zuerich.ch
@@ -6303,7 +6304,6 @@ hundeschule-nalan.ch
 hundeschule-nase.ch
 hundeschule-nemo.ch
 hundeschule-nidwalden.ch
-hundeschule-niklaus.ch
 hundeschule-ninken.ch
 hundeschule-oberthaler.ch
 hundeschule-obwalden.ch
@@ -8350,7 +8350,6 @@ hutongdimsum.ch
 hutongstreet.ch
 hutoni.ch
 hutra.ch
-huts.ch
 hutschienen.ch
 hutschienenadapter.ch
 hutschienenclip.ch

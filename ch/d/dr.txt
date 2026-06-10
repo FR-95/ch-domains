@@ -1447,6 +1447,7 @@ dragonsfire-tattoo.ch
 dragonsgiswil.ch
 dragonsharks.ch
 dragonshield.ch
+dragonslaircomic.ch
 dragonslot.ch
 dragonslots-casino.ch
 dragonslots-ch.ch
@@ -1480,6 +1481,7 @@ dragonweb.ch
 dragonx.ch
 dragony.ch
 dragoo.ch
+dragoon.ch
 dragooncomet.ch
 dragosek.ch
 dragosmd-maschinen.ch
@@ -4837,6 +4839,7 @@ drinitea.ch
 drinitec.ch
 drinjaallemann.ch
 drink-5pm.ch
+drink-7dates.ch
 drink-academy.ch
 drink-akademie.ch
 drink-and-donate.ch
@@ -4898,6 +4901,7 @@ drink4fun.ch
 drink4trees.ch
 drink4you.ch
 drink5m.ch
+drink7-dates.ch
 drink7dates.ch
 drinkables.ch
 drinkacademy.ch
@@ -4942,6 +4946,7 @@ drinkboutique.ch
 drinkcc.ch
 drinkchicha.ch
 drinkchronicice.ch
+drinkcinot.ch
 drinkcity.ch
 drinkcoa.ch
 drinkcold.ch
@@ -5136,7 +5141,6 @@ drinkwestpeak.ch
 drinkwithme.ch
 drinkworld.ch
 drinkwow.ch
-drinkwybe.ch
 drinkx.ch
 drinkxpress.ch
 drinky-gastro.ch
@@ -5807,6 +5811,10 @@ drivesphere.ch
 drivesport.ch
 drivesportclub.ch
 drivesportclubzug.ch
+drivesports.ch
+drivesportsclub.ch
+drivesportsclubzug.ch
+drivesportszug.ch
 drivesportzug.ch
 drivespot.ch
 drivestars.ch
@@ -5854,6 +5862,7 @@ driveup.ch
 driveup360.ch
 driveusa.ch
 drivevast.ch
+drivevault.ch
 drivevintage.ch
 drivevolution.ch
 drivewise.ch
@@ -6225,7 +6234,6 @@ drlommiswil.ch
 drlook.ch
 drlorenzet.ch
 drlouisblanc.ch
-drlove-shop.ch
 drlove.ch
 drlow.ch
 drlu.ch
@@ -6496,6 +6504,7 @@ drogenforumzug.ch
 drogenhaendler.ch
 drogeninfo-luzern.ch
 drogeninfo.ch
+drogeninfobasel.ch
 drogeninformation-luzern.ch
 drogeninformationluzern.ch
 drogenklinik.ch
@@ -7394,6 +7403,8 @@ drone-league.ch
 drone-leman-project.ch
 drone-lions.ch
 drone-maps.ch
+drone-motion.ch
+drone-motions.ch
 drone-noise.ch
 drone-ops360.ch
 drone-park-ticino.ch
@@ -7550,6 +7561,8 @@ dronemate.ch
 dronemedia.ch
 dronemediasolution.ch
 dronemission.ch
+dronemotion.ch
+dronemotions.ch
 dronen-lieferservice.ch
 dronenationals.ch
 dronenerds.ch
@@ -8476,7 +8489,6 @@ drtylla.ch
 dru.ch
 drual.ch
 druantia.ch
-drubi-shop.ch
 drubi.ch
 druck-3d.ch
 druck-art.ch
@@ -9392,6 +9404,7 @@ drummers.ch
 drummershoe.ch
 drummershoes.ch
 drummershop.ch
+drummerwanted.ch
 drumming.ch
 drummle.ch
 drumnbasel.ch
@@ -9570,6 +9583,14 @@ drveggie.ch
 drvemplois.ch
 drverse.ch
 drverzasconi.ch
+drvesport.ch
+drvesportclub.ch
+drvesportclubzug.ch
+drvesports.ch
+drvesportsclub.ch
+drvesportsclubzug.ch
+drvesportszug.ch
+drvesportzug.ch
 drvet.ch
 drvictoria.ch
 drvidal.ch
@@ -9660,7 +9681,6 @@ drwunder.ch
 drwurlod.ch
 drwyss.ch
 drx-racingteam.ch
-drx.ch
 drxpack.ch
 drxr.ch
 drxtom.ch

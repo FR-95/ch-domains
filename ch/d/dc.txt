@@ -550,7 +550,6 @@ dcs-examen.ch
 dcs-immobilien.ch
 dcs-informatique.ch
 dcs-lu.ch
-dcs-reinigung.ch
 dcs-sanitaire.ch
 dcs-world.ch
 dcs.ch

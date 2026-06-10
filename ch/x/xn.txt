@@ -662,16 +662,12 @@ xn--ain-es-dva.ch
 xn--aines-dsa.ch
 xn--ains-dpa.ch
 xn--air-dmmtechnik-9hb.ch
-xn--air-indemnit-meb.ch
-xn--air-indemnits-mhb.ch
 xn--air-zrich-u9a.ch
 xn--airbg-jra.ch
 xn--airbnbreinigungzrich-4ec.ch
 xn--airc-epa.ch
 xn--aircarabes-d9a.ch
 xn--airdmmung-y2a.ch
-xn--airindemnit-lbb.ch
-xn--airindemnits-leb.ch
 xn--airport-city-zrich-z6b.ch
 xn--airport-dbendorf-rzb.ch
 xn--airport-taxi-zrich-z6b.ch
@@ -2120,6 +2116,7 @@ xn--ash-lftungstechnik-q6b.ch
 xn--ashaluisoni-ddb.ch
 xn--asia-spa-zrich-psb.ch
 xn--asia-zrich-feb.ch
+xn--asiankche-v9a.ch
 xn--asiaspa-zrich-4ob.ch
 xn--asiatische-kche-bwb.ch
 xn--asiatischekche-qsb.ch
@@ -2166,6 +2163,7 @@ xn--assurancesbb-lebb.ch
 xn--assurancesbbs-lhbb.ch
 xn--assurfut-i1a.ch
 xn--assurs-suisses-fkb.ch
+xn--ast-brckenkran-lsb.ch
 xn--astell-gua.ch
 xn--astfller-95a.ch
 xn--astor-kchen-zhb.ch
@@ -8367,6 +8365,7 @@ xn--bruchinme-w9a.ch
 xn--bruchsch-a-hnger-6nb.ch
 xn--bruchstcke-geb.ch
 xn--bruderschaftlarsa-e0b.ch
+xn--brugg-kra.ch
 xn--brugger-lthi-llb.ch
 xn--brugger-lthi-partner-xec.ch
 xn--brugger-lthi-partnerinnen-nwc.ch
@@ -14399,6 +14398,7 @@ xn--englnder-3za.ch
 xn--engstligenflle-gib.ch
 xn--engud-fsa.ch
 xn--enikversichert-ypb.ch
+xn--enjeuxmdiation-hkb.ch
 xn--enkelfhigkeit-gfb.ch
 xn--enkeltrickbetrger-g3b.ch
 xn--enlibert-i1a.ch
@@ -16840,6 +16840,7 @@ xn--flgger-4ya.ch
 xn--flgger-shop-uhb.ch
 xn--flggershop-beb.ch
 xn--flgpilz-7wa8sa.ch
+xn--flgs-1ra.ch
 xn--flhbach-o2a.ch
 xn--flhberg-o2a.ch
 xn--flhe-6qa.ch
@@ -16965,6 +16966,7 @@ xn--floristik-zrich-9vb.ch
 xn--floritne-60a.ch
 xn--flosshler-v9aa.ch
 xn--flotestwithaccent-ltb.ch
+xn--flowwrts-4za.ch
 xn--flp-essenzen-5ib6f.ch
 xn--flr-coaching-9jb.ch
 xn--flrli-kua.ch
@@ -23592,7 +23594,6 @@ xn--handwrker-z2a.ch
 xn--handwrkerziimer-4kb.ch
 xn--handwrkr-4zac.ch
 xn--handwrmer-z2a.ch
-xn--handy-fhrerschein-82b.ch
 xn--handy-hlle-geb.ch
 xn--handy-hllen-zhb.ch
 xn--handy-vertrge-lfb.ch
@@ -25142,7 +25143,6 @@ xn--hndeimspiel-l8a.ch
 xn--hndel-chor-q5a.ch
 xn--hndelchor-v2a.ch
 xn--hndetrockner-gcb.ch
-xn--hndewegvonmeinerrente-51b.ch
 xn--hndi-loa.ch
 xn--hndigkeit-v2a.ch
 xn--hndin-kva.ch
@@ -26734,6 +26734,7 @@ xn--huminsure-02a.ch
 xn--huminsuren-v5a.ch
 xn--hund-im-glck-mlb.ch
 xn--hundagipsergeschft-0tb.ch
+xn--hunde-egg-32a.ch
 xn--hunde-ernhrungsberatung-37b.ch
 xn--hunde-fhrer-zhb.ch
 xn--hunde-flsterin-nsb.ch
@@ -30261,6 +30262,7 @@ xn--klappgerste-0hb.ch
 xn--klappmbel-57a.ch
 xn--klapprder-02a.ch
 xn--klappsthle-geb.ch
+xn--klarbro-r2a.ch
 xn--klarinettenbltter-2qb.ch
 xn--klartext-unter-mnnern-l2b.ch
 xn--klarverstndlich-8kb.ch
@@ -35792,6 +35794,7 @@ xn--martin-rtter-hundeschule-2sc.ch
 xn--martin-rtter-hundeschulen-mwc.ch
 xn--martin-stiftung-fr-alle-spc.ch
 xn--martina-hmmerli-8kb.ch
+xn--martina-mrchy-jfb.ch
 xn--martina-zger-llb.ch
 xn--martinalscher-3ob.ch
 xn--martinamller-klb.ch
@@ -40237,6 +40240,7 @@ xn--netzwrker-z2a.ch
 xn--netzwrkstatt-kcb.ch
 xn--neu-in-zrich-klb.ch
 xn--neubau-briswil-dib.ch
+xn--neubau-gstckt-5ob.ch
 xn--neubau-heizlsung-xwb.ch
 xn--neubauheizlsung-jtb.ch
 xn--neuchtel-assurances-fvb.ch
@@ -42317,6 +42321,7 @@ xn--peninsula-wdenswil-vtb.ch
 xn--penisvergrsserung-8zb.ch
 xn--penisverlngerung-3nb.ch
 xn--pense-btes-s7a.ch
+xn--pense-esa.ch
 xn--pensersoi-v1a.ch
 xn--pension-zum-gmes-schrli-ppcga.ch
 xn--penza-antiquits-onb.ch
@@ -44794,6 +44799,7 @@ xn--rabenbhne-v9a.ch
 xn--rac-htte-b6a.ch
 xn--racestbli-v9a.ch
 xn--racheldiv-y1a.ch
+xn--racin-fsa.ch
 xn--racine-de-beaut-pnb.ch
 xn--racinesetvibrationssacres-xic.ch
 xn--raclette-chs-qcb.ch
@@ -45942,7 +45948,6 @@ xn--reparaturen-kniz-ywb.ch
 xn--reparaturfhrer-psb.ch
 xn--reparaturservice-haushaltgerte-ntc.ch
 xn--reparaturwerksttte-ztb.ch
-xn--reproduction-cl-voiture-pcc.ch
 xn--reprsentiere-winti-otb.ch
 xn--reprsentieren-efb.ch
 xn--reptilienbrse-rmb.ch
@@ -53594,7 +53599,6 @@ xn--steibisunn-z5a.ch
 xn--steibrchli-feb.ch
 xn--steigbgel-v9a.ch
 xn--steiger-sanitr-iib.ch
-xn--steigmhlepark-1ob.ch
 xn--steigzonendmmung-5nb.ch
 xn--steildcher-v5a.ch
 xn--steildeli-laufen-znb.ch
@@ -57527,7 +57531,6 @@ xn--umzgemller-cebd.ch
 xn--umzgeoffertenschweiz-rec.ch
 xn--umzgereinigung-isb.ch
 xn--umzgeschweiz-flb.ch
-xn--umzgesserviceeasy-42b.ch
 xn--umzgethun-s9a.ch
 xn--umzgetiptop-vhb.ch
 xn--umzgetransporte-1vb.ch
@@ -58754,7 +58757,6 @@ xn--vitus-areal-tss-ltb.ch
 xn--vitus-tss-67a.ch
 xn--vitusareal-tss-6pb.ch
 xn--viva-cit-i1a.ch
-xn--viva-gebudetechnik-stb.ch
 xn--vivafrfrauen-hlb.ch
 xn--vivakirche-pfffikon-swb.ch
 xn--vivakirche-zrich-uzb.ch
@@ -59037,7 +59039,6 @@ xn--vrolet-bva.ch
 xn--vron-bpa.ch
 xn--vronique-b1a.ch
 xn--vrs-snab.ch
-xn--vrst-0ra.ch
 xn--vs-altsttten-ncb.ch
 xn--vsana-zsa.ch
 xn--vsenaz-bva.ch
@@ -60283,6 +60284,7 @@ xn--winzerkse-12a.ch
 xn--wipa-parkhuser-fib.ch
 xn--wiprchtiger-o8a.ch
 xn--wir-die-gebudetechniker-57b.ch
+xn--wir-die-gebudetechnikerinnen-gnc.ch
 xn--wir-gehen-ihnen-an-die-wsche-tnc.ch
 xn--wir-hren-zu-vfb.ch
 xn--wir-kaufen-grundstcke-qic.ch
@@ -60353,6 +60355,7 @@ xn--wirbelsulenzentrumzentralschweiz-ryc.ch
 xn--wirbelzhler-r8a.ch
 xn--wirbernehmen-flb.ch
 xn--wirdiegebudetechniker-e2b.ch
+xn--wirdiegebudetechnikerinnen-ohc.ch
 xn--wirffnentren-6ib4g.ch
 xn--wirfllenbume-jcbf.ch
 xn--wirfreuch-t9a.ch
@@ -61412,6 +61415,7 @@ xn--wurstspezialitten-3qb.ch
 xn--wurzelbehandlung-gnstig-tpc.ch
 xn--wurzelgesprche-gib.ch
 xn--wurzelglck-heb.ch
+xn--wurzelpdagogik-cib.ch
 xn--wurzelrm-d6aa.ch
 xn--wurzelrume-w5a.ch
 xn--wurzelstock-frsen-3qb.ch
@@ -64131,7 +64135,6 @@ xn--zwg-underwgs-hcbi.ch
 xn--zwgabo-cua.ch
 xn--zwgbier-6wa.ch
 xn--zwgschtz-1za8p.ch
-xn--zwgufemweg-r5a.ch
 xn--zwi-rla.ch
 xn--zwi-tna.ch
 xn--zwibier-b1a.ch

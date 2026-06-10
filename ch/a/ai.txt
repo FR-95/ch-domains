@@ -1216,7 +1216,6 @@ aibit-lernen.ch
 aibit.ch
 aibiz.ch
 aibl.ch
-aible.ch
 aiblick.ch
 aiblock.ch
 aiblog.ch
@@ -1461,6 +1460,7 @@ aicorp.ch
 aicorporate.ch
 aicos.ch
 aicoshop.ch
+aicosm.ch
 aicosolutions.ch
 aicotps.ch
 aicotpsvip.ch
@@ -1822,6 +1822,7 @@ aidefi.ch
 aidefinance.ch
 aidefrancaiseauxaines.ch
 aidefrontaliersuisse.ch
+aidegeneve.ch
 aidehumanitaire.ch
 aideiaction.ch
 aideinfo.ch
@@ -3378,6 +3379,7 @@ ainexservices.ch
 ainext.ch
 ainexus.ch
 ainfa.ch
+ainfach.ch
 ainfluence.ch
 ainfluencer.ch
 ainfo.ch
@@ -3921,7 +3923,6 @@ air-hub.ch
 air-hygiene.ch
 air-impact.ch
 air-indemnite.ch
-air-indemnites.ch
 air-insurance.ch
 air-ion.ch
 air-it.ch
@@ -4779,7 +4780,6 @@ airimage.ch
 airimpact.ch
 airin.ch
 airindemnite.ch
-airindemnites.ch
 airindia.ch
 airindiaexpress.ch
 airinfo.ch
@@ -6142,7 +6142,10 @@ aisupervision.ch
 aisupport.ch
 aisupremeuniversity.ch
 aisure.ch
+aisuru.ch
 aisurvey.ch
+aiswd.ch
+aiswds.ch
 aiswiss.ch
 aiswiss24.ch
 aiswissgarage.ch

@@ -1212,6 +1212,7 @@ umweltfachleute.ch
 umweltfachmann.ch
 umweltfachpersonen.ch
 umweltfachstelle.ch
+umweltfarben.ch
 umweltfinanz.ch
 umweltforschung.ch
 umweltforum-koelliken.ch
@@ -2432,7 +2433,6 @@ umzugsservice-basel.ch
 umzugsservice-bern.ch
 umzugsservice-ch.ch
 umzugsservice-comparis.ch
-umzugsservice-easy.ch
 umzugsservice-helvetia.ch
 umzugsservice-helvtia.ch
 umzugsservice-kabasi.ch
@@ -2454,7 +2454,6 @@ umzugsservice365.ch
 umzugsservicebern.ch
 umzugsservicech.ch
 umzugsservicecomparis.ch
-umzugsserviceeasy.ch
 umzugsservicezh.ch
 umzugsservicezuerich.ch
 umzugsservicezurich.ch

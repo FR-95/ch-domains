@@ -1910,6 +1910,7 @@ haca.ch
 hacademy.ch
 hacamat.ch
 hacamatcenter.ch
+hacan.ch
 hacapartners.ch
 hacastro.ch
 hacata.ch
@@ -2131,7 +2132,6 @@ hackingcorp.ch
 hackingen.ch
 hackingforfuture.ch
 hackinglab.ch
-hackingnight.ch
 hackingresear.ch
 hackingtools.ch
 hackintegration.ch
@@ -3917,6 +3917,7 @@ haffa-maschinenbetrieb.ch
 haffa-tiefbau.ch
 haffa-velo.ch
 haffa-velos.ch
+haffa.ch
 haffamaschinenbetrieb.ch
 haffer-immobilien.ch
 haffin.ch
@@ -4144,6 +4145,7 @@ hagazussa.ch
 hagazussas.ch
 hagbard-server.ch
 hagbard.ch
+hagbardresearch.ch
 hagbart.ch
 hagbeizli.ch
 hagberg.ch
@@ -4815,7 +4817,6 @@ hair-balance.ch
 hair-balancing.ch
 hair-beauty-4-you.ch
 hair-beauty-club.ch
-hair-beauty-daniela.ch
 hair-beauty-oasis.ch
 hair-beauty-pura.ch
 hair-beauty.ch
@@ -4940,7 +4941,6 @@ hair-shop24.ch
 hair-shop44.ch
 hair-signature.ch
 hair-skin-expert.ch
-hair-skin.ch
 hair-sky.ch
 hair-soleil.ch
 hair-solution.ch
@@ -5681,7 +5681,6 @@ hairstudiosandra-rueti.ch
 hairstudiosandra.ch
 hairstuff-shop.ch
 hairstuff.ch
-hairstuido74.ch
 hairstyle-ambiance.ch
 hairstyle-andermatt.ch
 hairstyle-anice.ch
@@ -7403,6 +7402,7 @@ hallomail.ch
 hallomania.ch
 hallomartin.ch
 hallomat.ch
+hallomcompany.ch
 hallome.ch
 hallomeinung.ch
 hallomensch.ch
@@ -7788,6 +7788,7 @@ haltbareblumen.ch
 haltbarmacherei.ch
 haltbrac-defense.ch
 haltcoffee.ch
+haltcoffeeroasters.ch
 haltdelade.ch
 haltdichfit.ch
 haltdiefresse.ch
@@ -8212,6 +8213,7 @@ hamdiconstructions.ch
 hamdigmbh.ch
 hamdion.ch
 hameau-des-bains.ch
+hameau-des-corbelets.ch
 hameau-des-vaux.ch
 hameau-fenalet.ch
 hameau-grimisuat.ch
@@ -8383,7 +8385,6 @@ hammams.ch
 hammann-consulting.ch
 hammann.ch
 hammar-feddersen.ch
-hammar.ch
 hammauwt.ch
 hammdo.ch
 hammel-consulting.ch
@@ -9540,7 +9541,9 @@ handelskammer-d-ch.ch
 handelskammer-fin.ch
 handelskammer-kosova.ch
 handelskammer-kosovo.ch
+handelskammer-norge-sveits.ch
 handelskammer-schweiz.ch
+handelskammer-sveits-norge.ch
 handelskammer.ch
 handelskammerdeutschland.ch
 handelskammerjournal.ch
@@ -10799,6 +10802,7 @@ handwerker-gilde.ch
 handwerker-guide.ch
 handwerker-haus.ch
 handwerker-heim-service.ch
+handwerker-hilfe.ch
 handwerker-hub.ch
 handwerker-index.ch
 handwerker-job.ch
@@ -10961,6 +10965,7 @@ handwerkerkataloge.ch
 handwerkerki.ch
 handwerkerknigge.ch
 handwerkerkongress.ch
+handwerkerkosten.ch
 handwerkerladen.ch
 handwerkerlausanne.ch
 handwerkerleiter.ch
@@ -13458,6 +13463,7 @@ hantelmann.ch
 hanteln-scheiben.ch
 hanteln.ch
 hantelshop.ch
+hanteltraining.ch
 hanteppichreinigung.ch
 hantermann.ch
 hantgemachet.ch
@@ -15419,6 +15425,7 @@ harbilt.ch
 harbin-sa.ch
 harbin.ch
 harbinconsulting.ch
+harbinger.ch
 harbiniseni.ch
 harbo.ch
 harboe.ch
@@ -15440,7 +15447,6 @@ harbour-group.ch
 harbour-robotics.ch
 harbour.ch
 harbour2nd.ch
-harbourassist.ch
 harbourclub.ch
 harbourenergyplc.ch
 harbourhouse.ch
@@ -16291,7 +16297,6 @@ harmankardon.ch
 harmann.ch
 harmanrestaurant.ch
 harmath.ch
-harmathkaffee.ch
 harmattan.ch
 harmeaunie.ch
 harmen.ch
@@ -17910,6 +17915,7 @@ hasenwerkstatt.ch
 hasenzaehn.ch
 haseo.ch
 haseoptik.ch
+haser-media.ch
 haser.ch
 hasesprung-steffisburg.ch
 hasestall.ch
@@ -21376,6 +21382,7 @@ haushaltshilfe-versicherung.ch
 haushaltshilfe-zuerich-oberland.ch
 haushaltshilfe.ch
 haushaltshilfe24.ch
+haushaltshilfe360.ch
 haushaltshilfee.ch
 haushaltshilfen-haushaltshilfen.ch
 haushaltshilfen-hauspersonal.ch
@@ -23645,6 +23652,8 @@ havel-healthcare.ch
 havel.ch
 haveless.ch
 havelessdomorebemore.ch
+havelink.ch
+havelinks.ch
 havelka.ch
 havelkaverlag.ch
 haveltec.ch

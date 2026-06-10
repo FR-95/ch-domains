@@ -1088,7 +1088,6 @@ kochstall.ch
 kochstation.ch
 kochstefan.ch
 kochstrasse.ch
-kochstube.ch
 kochstudio-aareblick.ch
 kochstudio.ch
 kochstudio29.ch
@@ -1952,6 +1951,7 @@ koerperanalysen.ch
 koerperarbeit-basel.ch
 koerperarbeit-im-wasser.ch
 koerperarbeit-michel.ch
+koerperarbeit.ch
 koerperarbeitbern.ch
 koerperarbeiten.ch
 koerperatelier.ch
@@ -4657,6 +4657,7 @@ komminoth-weinbau.ch
 komminoth-weine.ch
 komminoth.ch
 kommint.ch
+kommissar-panowski.ch
 kommissarbitterli.ch
 kommissarblau.ch
 kommission.ch
@@ -4854,7 +4855,6 @@ kommunikationsagenturen.ch
 kommunikationsagenturenvergleich.ch
 kommunikationsanlagen.ch
 kommunikationsanstalt.ch
-kommunikationsarchitektin.ch
 kommunikationsart.ch
 kommunikationsassistent.ch
 kommunikationsatelier.ch
@@ -5100,7 +5100,6 @@ kompaktlader-manitou.ch
 kompaktlader.ch
 kompaktlehrgang.ch
 kompaktliner.ch
-kompakto.ch
 kompaktradlader-bobcat.ch
 kompaktradlader-manitou.ch
 kompaktradlader.ch
@@ -7535,6 +7534,7 @@ kontiki-travel.ch
 kontiki-zueribar.ch
 kontiki.ch
 kontikibar.ch
+kontiko.ch
 kontin.ch
 kontina.ch
 kontinent.ch
@@ -7901,7 +7901,6 @@ konzeptcheck.ch
 konzeptdach.ch
 konzeptdesign.ch
 konzepte-projekte.ch
-konzepte.ch
 konzepteam.ch
 konzepten-gestalten.ch
 konzepten-und-gestalten.ch
@@ -8149,7 +8148,6 @@ konzertundtheatersg.ch
 konzertveranstalter.ch
 konzertveranstaltung.ch
 konzertveranstaltungen.ch
-konzertverein-bern.ch
 konzertverein-chur.ch
 konzertverein-langnau.ch
 konzertverein.ch
@@ -8292,7 +8290,6 @@ koomswitzerland.ch
 kooni.ch
 koonst.ch
 koony.ch
-koooi.ch
 kooon.ch
 koop-kinetics.ch
 koop-teiggi.ch
@@ -9932,6 +9929,7 @@ koslos.ch
 kosm.ch
 kosma-wil.ch
 kosma.ch
+kosmaik.ch
 kosmart.ch
 kosmas.ch
 kosmass.ch

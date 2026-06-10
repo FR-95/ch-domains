@@ -254,6 +254,7 @@ ms-move.ch
 ms-mueller.ch
 ms-multi-services.ch
 ms-multiservices.ch
+ms-multisports.ch
 ms-musicstore.ch
 ms-musik.ch
 ms-mutschellen.ch
@@ -1746,6 +1747,7 @@ msstrategies.ch
 msstudio.ch
 msstutz.ch
 msstyletuning.ch
+mssv.ch
 mssvbe.ch
 mssw.ch
 msswisscosmetics.ch

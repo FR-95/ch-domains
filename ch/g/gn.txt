@@ -25,7 +25,6 @@ gn1885-waterpolo.ch
 gn1885.ch
 gn1885ecole.ch
 gn2025.ch
-gn2025zh.ch
 gn3.ch
 gn360.ch
 gn8.ch
@@ -552,11 +551,11 @@ gnwa.ch
 gnwerbetechnik.ch
 gnwesternriding.ch
 gnwp.ch
+gnx.ch
 gnxlab.ch
 gnxsolutions.ch
 gnxt.ch
 gny.ch
 gnz-wattwil.ch
 gnz.ch
-gnzh.ch
 gnzwattwil.ch

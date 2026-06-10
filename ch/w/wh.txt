@@ -201,7 +201,6 @@ whatismyipaddress.ch
 whatisnormal.ch
 whatispillar3.ch
 whatispillar3a.ch
-whatisswiss.ch
 whatisthequestion.ch
 whatistwit.ch
 whatiswhat.ch
@@ -451,6 +450,7 @@ wheel.ch
 wheel24.ch
 wheel9.ch
 wheelabratorgroup.ch
+wheelandeat.ch
 wheelando.ch
 wheelart.ch
 wheelaway.ch
@@ -504,6 +504,7 @@ wheellist.ch
 wheelmaster.ch
 wheelmasters.ch
 wheelmate.ch
+wheelmeet.ch
 wheelmobil.ch
 wheelnews.ch
 wheelnuts.ch
@@ -513,6 +514,7 @@ wheeloflun.ch
 wheeloftime.ch
 wheelofwealth.ch
 wheelofwisdom.ch
+wheelove.ch
 wheelpark.ch
 wheelplace.ch
 wheelpower.ch

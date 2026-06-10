@@ -1427,6 +1427,7 @@ synap-surfer.ch
 synap-sys.ch
 synap.ch
 synapa.ch
+synapago.ch
 synapai.ch
 synapheia.ch
 synaphse.ch
@@ -3037,6 +3038,7 @@ sysout.ch
 syspart.ch
 syspay.ch
 syspeople.ch
+syspera.ch
 sysphone.ch
 syspilot.ch
 sysploy.ch
@@ -3375,7 +3377,6 @@ systemdynamics.ch
 systeme-ag.ch
 systeme-alarme.ch
 systeme-ancrage.ch
-systeme-aufstellen.ch
 systeme-b.ch
 systeme-d-studio-coaching-personnel.ch
 systeme-de-milice.ch
@@ -3696,7 +3697,6 @@ systemschrift.ch
 systemschulhaus.ch
 systemscouts.ch
 systemsdesign.ch
-systemsecure.ch
 systemsengineering.ch
 systemsitgroup.ch
 systemsmarter.ch

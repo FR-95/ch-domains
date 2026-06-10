@@ -834,7 +834,6 @@ gabrielbalmer.ch
 gabrielbaltensweiler.ch
 gabrielbarta.ch
 gabrielbarun.ch
-gabrielbaschung.ch
 gabrielbaudoin.ch
 gabrielbeer.ch
 gabrielbenedek.ch
@@ -1393,6 +1392,8 @@ gadelodge.ch
 gaden-grindelwald.ch
 gaden-sauna.ch
 gaden.ch
+gadenlandschaften.ch
+gadenlanschaften.ch
 gadensauna.ch
 gadenstatt.ch
 gadenz.ch
@@ -3727,7 +3728,6 @@ galeriekivimaeki.ch
 galerieknoell.ch
 galeriekoch.ch
 galeriekoenigbuero.ch
-galeriekohler.ch
 galeriekohlergeneve.ch
 galeriekoller.ch
 galeriekonrad.ch
@@ -9012,7 +9012,6 @@ garagebettosini.ch
 garagebianco.ch
 garagebichsel.ch
 garagebid.ch
-garagebieffe.ch
 garagebielmann.ch
 garagebienz.ch
 garagebieri.ch
@@ -11002,6 +11001,7 @@ gardenfestival.ch
 gardenfocus.ch
 gardenfood.ch
 gardenforyou.ch
+gardenfurniture.ch
 gardengate.ch
 gardengenius.ch
 gardenghi.ch
@@ -15095,7 +15095,6 @@ gastro-impark.ch
 gastro-impuls.ch
 gastro-ingross.ch
 gastro-innovativ.ch
-gastro-inserate.ch
 gastro-intestinal.ch
 gastro-inventar.ch
 gastro-investment.ch
@@ -15126,6 +15125,7 @@ gastro-langenthal.ch
 gastro-laterne.ch
 gastro-lausanne.ch
 gastro-lavaux-oron.ch
+gastro-leaders.ch
 gastro-legal.ch
 gastro-liebling.ch
 gastro-lieferant.ch
@@ -15461,6 +15461,7 @@ gastrocatering.ch
 gastrocenter-biel.ch
 gastrocentro.ch
 gastrocentrolugano.ch
+gastrocentroplus.ch
 gastrocentrum-impark.ch
 gastrocgb.ch
 gastrochablais.ch
@@ -15492,6 +15493,7 @@ gastroconsalting.ch
 gastroconsult.ch
 gastroconsultant.ch
 gastroconsulter.ch
+gastroconsulting.ch
 gastrocontentstudio.ch
 gastrocontrol.ch
 gastrocopilot.ch

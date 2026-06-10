@@ -1634,7 +1634,6 @@ ns1.enovo.ch
 ns1.ensi.ch
 ns1.epc.ch
 ns1.epfltest.ch
-ns1.epicte.ch
 ns1.erdbeerpflanzen.ch
 ns1.erdgeist.ch
 ns1.ergia.ch
@@ -1990,6 +1989,7 @@ ns1.hisweb.ch
 ns1.hitbit.ch
 ns1.hitline.ch
 ns1.hivahosting.ch
+ns1.hive.epicte.ch
 ns1.hjbodmer.ch
 ns1.hl-it.ch
 ns1.hli.ch
@@ -2512,7 +2512,6 @@ ns1.masterhomepage.ch
 ns1.mastnik.ch
 ns1.masuyo.ch
 ns1.mater.ch
-ns1.mathew.ch
 ns1.mathieu-renovation.ch
 ns1.maths-partner.ch
 ns1.matrixserver.ch
@@ -3212,6 +3211,7 @@ ns1.s3lph.ch
 ns1.saalsporthalle.ch
 ns1.saco2web.ch
 ns1.sadns.ch
+ns1.safe-login.ch
 ns1.sagar.ch
 ns1.sagitservices.ch
 ns1.sagservices.ch
@@ -4969,7 +4969,6 @@ ns2.ensim.ch
 ns2.eol.ch
 ns2.epc.ch
 ns2.epfltest.ch
-ns2.epicte.ch
 ns2.erdbeerpflanzen.ch
 ns2.erdgeist.ch
 ns2.ergia.ch
@@ -5311,6 +5310,7 @@ ns2.hisweb.ch
 ns2.hitbit.ch
 ns2.hitline.ch
 ns2.hivahosting.ch
+ns2.hive.epicte.ch
 ns2.hjbodmer.ch
 ns2.hl-it.ch
 ns2.hli.ch
@@ -5817,7 +5817,6 @@ ns2.masterhomepage.ch
 ns2.mastnik.ch
 ns2.masuyo.ch
 ns2.mater.ch
-ns2.mathew.ch
 ns2.mathieu-renovation.ch
 ns2.maths-partner.ch
 ns2.matrixserver.ch
@@ -6471,6 +6470,7 @@ ns2.s3lph.ch
 ns2.saalsporthalle.ch
 ns2.saco2web.ch
 ns2.sadns.ch
+ns2.safe-login.ch
 ns2.sagar.ch
 ns2.sagitservices.ch
 ns2.sagservices.ch
@@ -7580,6 +7580,7 @@ ns3.hefel.ch
 ns3.helpvetica.ch
 ns3.hess-treuhand.ch
 ns3.hgw-it.ch
+ns3.hiddenprimary.ch
 ns3.hildidns.ch
 ns3.holiness.ch
 ns3.hostgalaxy.ch
@@ -7645,7 +7646,6 @@ ns3.jpu.eraw.ch
 ns3.jt-services.ch
 ns3.jthosting.ch
 ns3.jumedia.ch
-ns3.jura.ch
 ns3.jvweb.ch
 ns3.kamber-hosting.ch
 ns3.kaminbau-oswald.ch
@@ -8191,7 +8191,6 @@ ns4.jabr.ch
 ns4.jakobsbrunnen.ch
 ns4.jdns.ch
 ns4.jpu.eraw.ch
-ns4.jura.ch
 ns4.kamber-hosting.ch
 ns4.kappes.ch
 ns4.kinet.ch
@@ -8663,6 +8662,7 @@ nshine-cosmetics.ch
 nshine.ch
 nshineart.ch
 nshinecosmetics.ch
+nshk.ch
 nshmetal.ch
 nsholding.ch
 nshome.ch

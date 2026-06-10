@@ -143,6 +143,7 @@ mfanshop.ch
 mfaparty.ch
 mfar.ch
 mfarchitektur.ch
+mfarmer.ch
 mfashion.ch
 mfast.ch
 mfastaub.ch
@@ -223,7 +224,6 @@ mfdistribution.ch
 mfdn.ch
 mfdoc.ch
 mfdrail.ch
-mfdraill.ch
 mfds.ch
 mfdtec.ch
 mfdw.ch

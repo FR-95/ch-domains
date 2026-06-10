@@ -12,6 +12,7 @@
 7-core.ch
 7-d.ch
 7-data.ch
+7-dates.ch
 7-days.ch
 7-druck.ch
 7-education.ch

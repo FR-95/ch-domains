@@ -46,6 +46,7 @@ vo2training.ch
 vo7.ch
 voa-nova.ch
 voa.ch
+voacleanservices.ch
 voafanga.ch
 voafoppa.ch
 voag.ch
@@ -271,6 +272,7 @@ voce-viva.ch
 voce.ch
 vocea.ch
 vocearomanilor.ch
+vocebasel.ch
 vocedeicolori.ch
 vocedelbrenno.ch
 vocedellanatura.ch
@@ -1435,7 +1437,6 @@ voice-senior.ch
 voice-shop.ch
 voice-studio.ch
 voice-teams.ch
-voice-ticket.ch
 voice-trading.ch
 voice-up.ch
 voice-your-vision.ch
@@ -6431,6 +6432,7 @@ vordimensionierung.ch
 vordorf.ch
 voregg-treuhand.ch
 vorel.ch
+voren.ch
 vorena.ch
 vorentwicklung.ch
 vorerfolgreich.ch
@@ -8404,7 +8406,6 @@ voxjssimo.ch
 voxl.ch
 voxlab.ch
 voxlegal.ch
-voxlex.ch
 voxloud.ch
 voxluxurycar.ch
 voxluxurycarrental.ch

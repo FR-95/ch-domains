@@ -3217,7 +3217,6 @@ zufikerfaescht.ch
 zufikerpneuhuus.ch
 zufikon-bellavista.ch
 zufikon-online.ch
-zufikon-webmail.ch
 zufikon.ch
 zufikon24.ch
 zufinfo.ch
@@ -7354,6 +7353,7 @@ zurichpopcon.ch
 zurichpopup.ch
 zurichportal.ch
 zurichpost.ch
+zurichpremium.ch
 zurichpres.ch
 zurichpride.ch
 zurichpridefestival.ch
@@ -8024,6 +8024,7 @@ zusammenschluss-eigen-verbrauch.ch
 zusammenschluss-eigenverbrauch.ch
 zusammenschluss.ch
 zusammenschlusseigenverbrauch.ch
+zusammenschweiz.ch
 zusammensindwirgross.ch
 zusammensindwirstark.ch
 zusammenspiel.ch

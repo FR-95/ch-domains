@@ -1470,6 +1470,7 @@ fokus-informatik.ch
 fokus-jerusalem.ch
 fokus-kaposg.ch
 fokus-ki.ch
+fokus-kindheit.ch
 fokus-kirche.ch
 fokus-klar.ch
 fokus-klasse.ch
@@ -2620,6 +2621,7 @@ fondation-espoir.ch
 fondation-esprit-francophonie.ch
 fondation-esprit.ch
 fondation-essor.ch
+fondation-etvj.ch
 fondation-evaluanda.ch
 fondation-faber.ch
 fondation-famille.ch
@@ -4373,7 +4375,6 @@ fonseca-romero.ch
 fonseca-servicebosch.ch
 fonsecadesign.ch
 fonsecaelectricite.ch
-fonsecagartenbau.ch
 fonsecagartenservice.ch
 fonsecalocation.ch
 fonsegrive.ch
@@ -5705,6 +5706,7 @@ foodspace.ch
 foodspecialist.ch
 foodspecs.ch
 foodspot.ch
+foodspots.ch
 foodspotters.ch
 foodspring.ch
 foodstaende-bleiben.ch
@@ -6618,6 +6620,7 @@ forcdiamond.ch
 force-7.ch
 force-academy.ch
 force-de-vie.ch
+force-drop.ch
 force-e.ch
 force-fondation.ch
 force-it.ch
@@ -8157,6 +8160,7 @@ form-innenarchitektur.ch
 form-it.ch
 form-manufaktur.ch
 form-on.ch
+form-sache.ch
 form-sc.ch
 form-schnitt.ch
 form-studio.ch
@@ -8429,6 +8433,7 @@ formateur.ch
 formateurseo.ch
 formatf4.ch
 formatflow.ch
+formatfoundry.ch
 formatfrei.ch
 formatguggenbuehl.ch
 formatha.ch

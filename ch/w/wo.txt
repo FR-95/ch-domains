@@ -1284,6 +1284,7 @@ wohnboutique.ch
 wohnboutique24.ch
 wohnbox.ch
 wohnboxag.ch
+wohnboxen.ch
 wohnboxx.ch
 wohnbuero.ch
 wohnbund.ch
@@ -1837,6 +1838,7 @@ wohnfabrik-azmoos.ch
 wohnfachberatung.ch
 wohnfachleute.ch
 wohnfarbplan.ch
+wohnfarm.ch
 wohnfee.ch
 wohnfeeling.ch
 wohnfein.ch
@@ -2014,6 +2016,7 @@ wohnhof.ch
 wohnholz.ch
 wohnhoroskop.ch
 wohnhotel.ch
+wohnhuette.ch
 wohnhuus-rheinfelden.ch
 wohnhuus-sonnsyte.ch
 wohni.ch
@@ -2750,6 +2753,7 @@ wohntex-frauenfeld.ch
 wohntex.ch
 wohntexag.ch
 wohntextil.ch
+wohntextilien.ch
 wohntheater.ch
 wohntip.ch
 wohntipp-basel.ch
@@ -5529,7 +5533,6 @@ wonderfold.ch
 wonderfood.ch
 wonderfoods.ch
 wonderfoodswiss.ch
-wonderfu.ch
 wonderfuel.ch
 wonderful-dive.ch
 wonderful-escort.ch
@@ -5786,6 +5789,7 @@ woocommerce-support.ch
 woocommerce-svizzera.ch
 woocommerce-switzerland.ch
 woocommerce-wordpress.ch
+woocommerce.ch
 woocommerce24.ch
 woocommerceagentur.ch
 woocommerceschweiz.ch
@@ -7188,7 +7192,6 @@ work-life-balanced.ch
 work-life-ballads.ch
 work-life-basel.ch
 work-life-center.ch
-work-life-challenge.ch
 work-life-competence.ch
 work-life-design.ch
 work-life-family.ch

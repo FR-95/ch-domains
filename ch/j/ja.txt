@@ -387,12 +387,14 @@ jabutiberry.ch
 jabuticapital.ch
 jabxburn.ch
 jabxburnboxing.ch
+jac-autocenter.ch
 jac-baar.ch
 jac-center.ch
 jac-elektro.ch
 jac-geneve.ch
 jac-informatique.ch
 jac-kraehenbuehl.ch
+jac-luzern.ch
 jac-mittelland.ch
 jac-motors.ch
 jac-schweiz.ch
@@ -402,6 +404,7 @@ jac-sursee.ch
 jac-traductions.ch
 jac-trucks.ch
 jac-valais.ch
+jac-zentralschweiz.ch
 jac-zuerich.ch
 jac-zug.ch
 jac.ch
@@ -518,7 +521,6 @@ jack-young.ch
 jack.ch
 jack10.ch
 jacka.ch
-jackal.ch
 jackan.ch
 jackanapes.ch
 jackandco.ch
@@ -1854,6 +1856,7 @@ jaelmilla.ch
 jaelmuehlemann.ch
 jaelmusic.ch
 jaelschuetz.ch
+jaelschwarz.ch
 jaelschwerzmann.ch
 jaelsigner.ch
 jaelsulger.ch
@@ -2157,6 +2160,7 @@ jagdkapelle.ch
 jagdkarten.ch
 jagdkino.ch
 jagdkleidung.ch
+jagdkommunikation.ch
 jagdkritik.ch
 jagdkurs.ch
 jagdladen.ch
@@ -4002,7 +4006,6 @@ jan-photography.ch
 jan-pit.ch
 jan-reintjes.ch
 jan-s.ch
-jan-sablonier.ch
 jan-schiess.ch
 jan-schneider.ch
 jan-schoch.ch
@@ -6721,6 +6724,7 @@ jasinski.ch
 jasiqi.ch
 jasiqireinigungen.ch
 jasiqirenovation.ch
+jasiridog.ch
 jasis.ch
 jasisonee.ch
 jasisshop.ch

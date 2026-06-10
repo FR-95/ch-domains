@@ -395,6 +395,7 @@ am-verladeplatz.ch
 am-versicherungen.ch
 am-visual.ch
 am-visuals.ch
+am-waagplatz.ch
 am-wasser.ch
 am-web.ch
 am-webdesign.ch
@@ -4170,7 +4171,6 @@ americanairlinescargo.ch
 americanapparel.ch
 americanbar-blue.ch
 americanbarberbeauty.ch
-americanbarbiedoll.ch
 americanbeauty.ch
 americanbeautycosmetics.ch
 americanbike.ch
@@ -8293,6 +8293,7 @@ amw-stiftung.ch
 amw-treuhand.ch
 amw.ch
 amwa.ch
+amwaagplatz.ch
 amwag.ch
 amwalab.ch
 amwald.ch

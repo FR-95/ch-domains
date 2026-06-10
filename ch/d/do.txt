@@ -3947,7 +3947,6 @@ dolce-mani.ch
 dolce-mara.ch
 dolce-max.ch
 dolce-nera.ch
-dolce-pasticcio.ch
 dolce-restaurant.ch
 dolce-riviera.ch
 dolce-salato-renens.ch
@@ -4020,7 +4019,6 @@ dolceosalato.ch
 dolcepack.ch
 dolceparco.ch
 dolcepasta.ch
-dolcepasticcio.ch
 dolceperla.ch
 dolcepiu.ch
 dolceresio.ch
@@ -5794,6 +5792,7 @@ domartist.ch
 domartx.ch
 domasa.ch
 domase.ch
+domasmak.ch
 domasolar.ch
 domasolartechnik.ch
 domast.ch
@@ -7851,6 +7850,7 @@ domymakeupacademy.ch
 domyn.ch
 domyo.ch
 domyos.ch
+domyra.ch
 domyshirt.ch
 domystuff.ch
 domytech.ch

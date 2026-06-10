@@ -1762,7 +1762,6 @@ diamondstack.ch
 diamondstar.ch
 diamondstick.ch
 diamondstoilettage.ch
-diamondstream.ch
 diamondtechnology.ch
 diamondthai.ch
 diamondthaimassage.ch
@@ -8676,9 +8675,7 @@ diesportschule.ch
 diesprachbuchhandlung.ch
 diesprachedertiere.ch
 diesprachedeskoerpers.ch
-diesprachenschule.ch
 diesprachkunst.ch
-diesprachschule.ch
 diesprachstarken.ch
 diesprachstarken1-6.ch
 diesprachstarken2-6.ch
@@ -11528,7 +11525,6 @@ digital-kassenbon.ch
 digital-klar.ch
 digital-kmu-meetup.ch
 digital-kmu.ch
-digital-knowledge-management.ch
 digital-kommunal.ch
 digital-kompetenz.ch
 digital-kraftwerk.ch
@@ -12867,7 +12863,6 @@ digitaleasy.ch
 digitaleavenue.ch
 digitalebalance.ch
 digitalebaueingabe.ch
-digitalebauinitiative.ch
 digitalebaustelle.ch
 digitalebaustelleninformation.ch
 digitaleberatung.ch
@@ -14584,6 +14579,7 @@ digitaltalentadvisory.ch
 digitaltalentprogram.ch
 digitaltalentrecruiting.ch
 digitaltalents.ch
+digitaltalentsacademy.ch
 digitaltalentsolution.ch
 digitaltalentsprogram.ch
 digitaltalk.ch
@@ -15706,6 +15702,7 @@ dilorenzo.ch
 diloreto.ch
 diloro.ch
 diloslugano.ch
+dilovanbarbershop.ch
 dilreinigung.ch
 dils.ch
 dilschneider.ch
@@ -18922,6 +18919,7 @@ discgolfengiadina.ch
 discgolfkurs.ch
 discgolflacote.ch
 discgolfluzern.ch
+discgolfnews.ch
 discgolfpark.ch
 discgolfpoint.ch
 discgolfstans.ch
@@ -21596,6 +21594,7 @@ divine-light.ch
 divine-love.ch
 divine-nb.ch
 divine-purpose.ch
+divine-spa.ch
 divine-sunkiss.ch
 divine-tou.ch
 divine.ch

@@ -2826,6 +2826,7 @@ gefuba.ch
 gefuehl-fuer-menschen.ch
 gefuehle-im-fenster.ch
 gefuehle-leben.ch
+gefuehle.ch
 gefuehlehoch2.ch
 gefuehlelebenlernen.ch
 gefuehlfuermenschen.ch
@@ -7334,7 +7335,6 @@ general-logistik.ch
 general-management-group.ch
 general-media.ch
 general-metals.ch
-general-office.ch
 general-overnight.ch
 general-oxo.ch
 general-planer.ch
@@ -7458,7 +7458,6 @@ generalit.ch
 generaliversicherung.ch
 generaliversicherungen.ch
 generalivitality.ch
-generalkeys.ch
 generalkonsent.ch
 generallee.ch
 generallogistik.ch
@@ -10226,12 +10225,10 @@ gennwai.ch
 gennxt.ch
 genny-company.ch
 genny-nabil.ch
-genny-sarl.ch
 genny.ch
 gennyangels.ch
 gennyfactory.ch
 gennymobility.ch
-gennysbar.ch
 gennyzero.ch
 geno-beratung.ch
 geno-coach.ch
@@ -10490,6 +10487,7 @@ genovas-shop.ch
 genovas.ch
 genovastore.ch
 genovation.ch
+genovax.ch
 genovese-forpeople.ch
 genovese.ch
 genoveses.ch
@@ -19141,6 +19139,7 @@ gesundheitspraxis-tentlingen.ch
 gesundheitspraxis-teohrinda.ch
 gesundheitspraxis-tg.ch
 gesundheitspraxis-thun.ch
+gesundheitspraxis-toffen.ch
 gesundheitspraxis-truffer.ch
 gesundheitspraxis-uitikon.ch
 gesundheitspraxis-unterdorf.ch
@@ -20493,7 +20492,6 @@ getnoir.ch
 getnori.ch
 getnorman.ch
 getnot.ch
-getnotnice.ch
 getnow.ch
 getnowpaylater.ch
 getnutri.ch
@@ -20571,6 +20569,7 @@ getpro.ch
 getprocess.ch
 getprofi.ch
 getprogex.ch
+getprojecto.ch
 getprompt.ch
 getproud.ch
 getpublic.ch
@@ -20932,6 +20931,7 @@ getsoft.ch
 getsolar.ch
 getsolenne.ch
 getsolo.ch
+getsolodesk.ch
 getsolutions.ch
 getsorted.ch
 getsosh.ch

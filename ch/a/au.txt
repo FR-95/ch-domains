@@ -4986,7 +4986,6 @@ augenschneider.ch
 augenschule.ch
 augenschutz.ch
 augenscreening-experte.ch
-augenscreening.ch
 augenscreeningexperte.ch
 augenscreeningtest.ch
 augensehtest.ch
@@ -6154,6 +6153,7 @@ aura-atelier.ch
 aura-audit.ch
 aura-autovermietung.ch
 aura-avocats.ch
+aura-awakening-app.ch
 aura-ball.ch
 aura-beauty.ch
 aura-bern.ch
@@ -6366,6 +6366,7 @@ auraclothing-shop.ch
 auraclothing.ch
 auracoach.ch
 auracoaching.ch
+auracode.ch
 auracoffee.ch
 auracollective.ch
 auracomfort.ch
@@ -6577,6 +6578,7 @@ aurapraxis-xarisz.ch
 aurapraxis.ch
 auraproject.ch
 aurapura.ch
+auraqode.ch
 auraraum.ch
 aurareading.ch
 aurarealestate.ch
@@ -6924,7 +6926,6 @@ aureliehottinger.ch
 aureliejewels.ch
 aureliejunodphotographie.ch
 aurelielecoqphotographie.ch
-aurelielhemery.ch
 aureliemarchand.ch
 aureliemassotherapie.ch
 aureliemellioret.ch
@@ -9930,6 +9931,7 @@ authguard.ch
 authhics.ch
 authic.ch
 authid.ch
+authier.ch
 authkey.ch
 authkeys.ch
 authme.ch
@@ -10399,7 +10401,6 @@ auto-check.ch
 auto-checkpoint-garage.ch
 auto-chemie.ch
 auto-chic.ch
-auto-china.ch
 auto-chur.ch
 auto-churia.ch
 auto-cipriano.ch
@@ -15059,6 +15060,7 @@ automobilfreunde.ch
 automobilgarage-steiger.ch
 automobilgarage.ch
 automobilgeschichte.ch
+automobilhandel.ch
 automobilhaus.ch
 automobilhistorik.ch
 automobilhorgen.ch
@@ -17357,6 +17359,7 @@ autovoltaic-ne.ch
 autovoltaic-vs.ch
 autovoltaic.ch
 autovoltis.ch
+autovoltronic.ch
 autovolution.ch
 autovonah.ch
 autovonallmen.ch
@@ -17390,16 +17393,9 @@ autowaschcenter-kreuzlingen.ch
 autowaschchemie.ch
 autowasche-koldus.ch
 autowasche.ch
-autowaschen-basel.ch
-autowaschen-bern.ch
 autowaschen-gianforte.ch
-autowaschen-luzern.ch
-autowaschen-zug.ch
 autowaschen.ch
-autowaschenbasel.ch
-autowaschenbern.ch
 autowaschenluzern.ch
-autowaschenzug.ch
 autowaschhelden.ch
 autowaschpark.ch
 autowaschstrasse-goldach.ch

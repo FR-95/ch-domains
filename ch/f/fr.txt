@@ -2639,6 +2639,7 @@ franxx.ch
 frany.ch
 franz-a-la-carte.ch
 franz-arbon.ch
+franz-areal.ch
 franz-arnold.ch
 franz-baumaschinen.ch
 franz-beckenbauer.ch
@@ -2728,6 +2729,7 @@ franzamato.ch
 franzanatolwyss.ch
 franzandfriendsdogspa.ch
 franzandrene.ch
+franzareal.ch
 franzarnet.ch
 franzastisch.ch
 franzauto.ch
@@ -3800,6 +3802,7 @@ frauen-hasle.ch
 frauen-herznach-ueken.ch
 frauen-horw.ch
 frauen-hypnose.ch
+frauen-im-business.ch
 frauen-inspiration.ch
 frauen-jass.ch
 frauen-job.ch
@@ -9766,6 +9769,7 @@ freispielschweiz.ch
 freisplaetzli.ch
 freisports.ch
 freisprechanlage.ch
+freisprechanlagen.ch
 freisprecheinrichtung.ch
 freisprecheinrichtungen.ch
 freisprechen.ch
@@ -10538,7 +10542,6 @@ frenchytouch.ch
 frenckenberger.ch
 frenco.ch
 frendix.ch
-frendle.ch
 frendli.ch
 frendlibuks.ch
 frendos.ch
@@ -10621,7 +10624,6 @@ frenzis.ch
 frenzisgroup.ch
 frenzmail.ch
 frenzundfrenz.ch
-frenzy.ch
 frenzzi.ch
 freo.ch
 freogroup.ch

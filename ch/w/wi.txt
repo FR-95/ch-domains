@@ -1835,8 +1835,6 @@ wieseneggen.ch
 wiesenei.ch
 wiesenfee.ch
 wiesenfest.ch
-wiesengarage-brenneisen.ch
-wiesengarage.ch
 wiesengarten.ch
 wiesengartenmusetti.ch
 wiesenglueck.ch
@@ -2659,6 +2657,7 @@ wikipediakompass.ch
 wikipedian.ch
 wikipedians.ch
 wikipediatag.ch
+wikipedo.ch
 wikiperience.ch
 wikiphysia.ch
 wikipick.ch
@@ -7549,7 +7548,6 @@ winesupport.ch
 winet.ch
 winetables.ch
 winetag.ch
-winetalk.ch
 winetalker.ch
 winetalks.ch
 winetaste.ch
@@ -7737,6 +7735,7 @@ wingagaa.ch
 wingagacasino.ch
 wingagach.ch
 wingagas.ch
+wingagascasino.ch
 wingammswiss.ch
 wingarden.ch
 wingardium.ch

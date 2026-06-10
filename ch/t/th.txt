@@ -2670,7 +2670,6 @@ the-other-ones.ch
 the-other-world.ch
 the-ottiger-clan.ch
 the-outcast-cosplay.ch
-the-outdoors.ch
 the-outpost.ch
 the-pacemaker.ch
 the-pachamama.ch
@@ -4811,6 +4810,7 @@ thebarbersyndicate.ch
 thebareden.ch
 thebarefootgardener.ch
 thebareminimum.ch
+thebarewhole.ch
 thebaristalab.ch
 thebaristaroman.ch
 thebark.ch
@@ -5708,6 +5708,7 @@ thecharmbar.ch
 thecharmingtools.ch
 thechase.ch
 thechatbotagency.ch
+thechatterbox.ch
 thechatteria.ch
 thecheck.ch
 thechedi-residences.ch
@@ -5844,6 +5845,7 @@ thecleaningcompany.ch
 thecleaningfairy.ch
 thecleaningladies.ch
 thecleanpharmacy.ch
+theclearinghouse.ch
 theclerici.ch
 thecleverbaggers.ch
 thecleverdesk.ch
@@ -15413,7 +15415,6 @@ thiace.ch
 thiago.ch
 thiagostrub.ch
 thial.ch
-thiam.ch
 thiam360.ch
 thiamak.ch
 thiamin.ch
@@ -18741,6 +18742,7 @@ thorsty.ch
 thortax.ch
 thortec.ch
 thortechnologies.ch
+thortue.ch
 thoruba.ch
 thorus.ch
 thorusline.ch

@@ -1948,7 +1948,6 @@ scenedanse.ch
 scenefuzzi.ch
 scenegate.ch
 sceneit.ch
-scenelights.ch
 sceneme.ch
 scenemobile.ch
 sceneproject.ch
@@ -5672,6 +5671,7 @@ scheidegger-eng.ch
 scheidegger-engineering.ch
 scheidegger-family.ch
 scheidegger-garage.ch
+scheidegger-gerueste.ch
 scheidegger-gestion.ch
 scheidegger-gewinnen.ch
 scheidegger-gmbh.ch
@@ -5965,6 +5965,7 @@ scheisseleben.ch
 scheissen.ch
 scheissewasmachichheute.ch
 scheissfirma.ch
+scheissgibb.ch
 scheisshaus.ch
 scheisshausexperten.ch
 scheissidee.ch
@@ -6777,6 +6778,7 @@ scherpas-woodcraft.ch
 scherr-advisory.ch
 scherr-hair.ch
 scherr.ch
+scherrelan.ch
 scherrer-am.ch
 scherrer-arch.ch
 scherrer-architekten.ch
@@ -9432,6 +9434,7 @@ schlafpartner.ch
 schlafperle.ch
 schlafphasenwecker.ch
 schlafplanet.ch
+schlafplatz.ch
 schlafplatzuntersuchung.ch
 schlafplus.ch
 schlafpraxis.ch
@@ -13266,7 +13269,6 @@ schmetterlingskinder.ch
 schmetterlingsklang.ch
 schmetterlingsmassage.ch
 schmetterlingsoase.ch
-schmetterlingspatenschaften.ch
 schmetterlingsschutz.ch
 schmetterlingsseelen.ch
 schmetterlingsspass.ch
@@ -20781,7 +20783,6 @@ schreiner-plus.ch
 schreiner-produktionsleiter.ch
 schreiner-profi.ch
 schreiner-projektleiter.ch
-schreiner-protech.ch
 schreiner-pua.ch
 schreiner-q.ch
 schreiner-reichmuth.ch
@@ -22640,6 +22641,7 @@ schueler-pc.ch
 schueler-presse.ch
 schueler-sprachkurs.ch
 schueler-sprachkurse.ch
+schueler-transport.ch
 schueler.ch
 schueleraustausch-international.ch
 schueleraustausch.ch
@@ -33351,6 +33353,7 @@ schwimmschule-emmen.ch
 schwimmschule-feuerthalen.ch
 schwimmschule-gossau.ch
 schwimmschule-graf.ch
+schwimmschule-herose.ch
 schwimmschule-hitz.ch
 schwimmschule-inaqua.ch
 schwimmschule-kloten.ch
@@ -36035,7 +36038,6 @@ scout-24.ch
 scout-69.ch
 scout-adventures.ch
 scout-baslac.ch
-scout-camp.ch
 scout-cars.ch
 scout-echallens.ch
 scout-fish.ch

@@ -837,7 +837,6 @@ pearl-outlet.ch
 pearl-pedergnana.ch
 pearl-permanent-beauty.ch
 pearl-schweiz.ch
-pearl-shopping.ch
 pearl-shuttle.ch
 pearl-sports.ch
 pearl-te.ch
@@ -878,6 +877,7 @@ pearldogs.ch
 pearldrops.ch
 pearleena.ch
 pearleffect.ch
+pearlenergy.ch
 pearlestates.ch
 pearlevent.ch
 pearley.ch
@@ -955,7 +955,6 @@ pearlte.ch
 pearltec.ch
 pearltech.ch
 pearltrees.ch
-pearltv.ch
 pearlwater.ch
 pearlwatergroup.ch
 pearlwax.ch
@@ -2960,6 +2959,7 @@ pelerinagesnews.ch
 pelerineholding.ch
 pelerinen.ch
 pelerins.ch
+peleskey.ch
 pelesp.ch
 pelet-roy.ch
 pelet.ch
@@ -3939,6 +3939,7 @@ pengout.ch
 pengpalast.ch
 pengpeng.ch
 pengpengburger.ch
+pengpengcola.ch
 pengs.ch
 pengstudio.ch
 pengstudios.ch
@@ -7340,7 +7341,6 @@ perifas.ch
 perifee.ch
 periferia.ch
 perifi.ch
-perigee.ch
 perigeros.ch
 periglance.ch
 perignon.ch
@@ -8109,7 +8109,6 @@ permadvice.ch
 permadynamischer-garten.ch
 permaenergy.ch
 permafile.ch
-permafinanz.ch
 permafix.ch
 permaforum.ch
 permafr.ch
@@ -8264,6 +8263,7 @@ permanence-osteo.ch
 permanence-osteopathe-geneve.ch
 permanence-osteopathie-geneve.ch
 permanence-osteopathie.ch
+permanence-osteopathique-bern.ch
 permanence-osteopathique-de-geneve-gare.ch
 permanence-osteopathique-fribourg.ch
 permanence-osteopathique-geneve-gare.ch
@@ -10562,7 +10562,6 @@ personaltrainingkristinagabel.ch
 personaltraininglausanne.ch
 personaltraininglugano.ch
 personaltrainingluzern.ch
-personaltrainingmarco.ch
 personaltrainingmitbaby.ch
 personaltrainingneerach.ch
 personaltrainingonline.ch
@@ -11746,6 +11745,7 @@ petal-health.ch
 petal-sante.ch
 petal.ch
 petalane.ch
+petalar.ch
 petale-de-rose.ch
 petaledecouleur.ch
 petaledor.ch
@@ -14010,6 +14010,7 @@ petits-jobs.ch
 petits-litiges.ch
 petits-maitres.ch
 petits-messages.ch
+petits-meubles.ch
 petits-pas.ch
 petits-plaisirs.ch
 petits-points.ch

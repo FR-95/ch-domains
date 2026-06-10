@@ -355,7 +355,6 @@ sygama.ch
 sygan.ch
 sygeco.ch
 sygeme.ch
-sygentix.ch
 syggroup.ch
 syght.ch
 sygi.ch
@@ -952,6 +951,7 @@ symbiosoil.ch
 symbioswiss.ch
 symbiosys.ch
 symbiot.ch
+symbiote.ch
 symbiotic-bildung.ch
 symbiotic-health.ch
 symbiotic-network.ch
@@ -2661,6 +2661,7 @@ synus.ch
 synvalis.ch
 synvara.ch
 synventis.ch
+synveo.ch
 synvera.ch
 synvero.ch
 synverra.ch

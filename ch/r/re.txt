@@ -1290,7 +1290,6 @@ realchangeoffice.ch
 realcheck.ch
 realchemistry.ch
 realchoice.ch
-realchristmas.ch
 realcircle.ch
 realclean.ch
 realcloture.ch
@@ -3410,6 +3409,7 @@ rebootmgt.ch
 rebootmylife.ch
 rebootplus.ch
 reboots.ch
+rebootsys.ch
 rebootyourlife.ch
 rebootyourlove.ch
 rebootyourself.ch
@@ -5654,6 +5654,7 @@ recrotzon.ch
 recrudo.ch
 recruit-me.ch
 recruit-talents.ch
+recruit.ch
 recruit4u.ch
 recruitable.ch
 recruitai.ch
@@ -15767,7 +15768,6 @@ reinigung-zueri.ch
 reinigung-zuerich.ch
 reinigung-zuerichsee.ch
 reinigung-zug.ch
-reinigung-zuri.ch
 reinigung-zurich.ch
 reinigung.ch
 reinigung1.ch
@@ -19045,7 +19045,6 @@ relaxin.ch
 relaxinc-studio.ch
 relaxinc.ch
 relaxinfo.ch
-relaxing-massage-therapie.ch
 relaxing-music.ch
 relaxing-video.ch
 relaxing-videos.ch
@@ -21341,6 +21340,7 @@ renala.ch
 renalange.ch
 renalco.ch
 renaldee.ch
+renalmap.ch
 renaltwo.ch
 rename.ch
 renamed.ch
@@ -26080,6 +26080,7 @@ reparation-fenetres.ch
 reparation-haut-parleur.ch
 reparation-industrielle.ch
 reparation-injecteurs.ch
+reparation-iphone-lausanne.ch
 reparation-jacuzzi.ch
 reparation-lampes.ch
 reparation-mac-imac.ch
@@ -26157,6 +26158,7 @@ reparationfenetre.ch
 reparationfenetres.ch
 reparationinjecteurs.ch
 reparationiphone.ch
+reparationiphonegeneve.ch
 reparationiphonelausanne.ch
 reparationlausanne.ch
 reparationmac.ch
@@ -26177,9 +26179,12 @@ reparations.ch
 reparationsamsunglausanne.ch
 reparationsmartphone.ch
 reparationsmartphonegarelausanne.ch
+reparationsmartphonegeneve.ch
 reparationsmartphonelausanne.ch
 reparationspa-jacuzzi.ch
+reparationtelephone.ch
 reparationtelephonegeneve.ch
+reparationtelephonelausanne.ch
 reparationtoitures.ch
 reparationtoituresberne.ch
 reparationtoituresechandens.ch
@@ -31046,7 +31051,6 @@ restaurant-freibad-ostermundigen.ch
 restaurant-freihof-lufingen.ch
 restaurant-freilager.ch
 restaurant-freischuetz.ch
-restaurant-freskia-grill.ch
 restaurant-freudenberg.ch
 restaurant-frickberg.ch
 restaurant-fricktal.ch
@@ -32244,7 +32248,6 @@ restaurant-thai-family-basel.ch
 restaurant-thai-le-poivrier.ch
 restaurant-thai-orchidee.ch
 restaurant-thai-sion.ch
-restaurant-thai.ch
 restaurant-thaimania-bettlach.ch
 restaurant-thalheim.ch
 restaurant-theatre-monthey.ch
@@ -33726,7 +33729,6 @@ restaurantwase.ch
 restaurantwave.ch
 restaurantwebsite.ch
 restaurantweek.ch
-restaurantweggismatt.ch
 restaurantweinberg.ch
 restaurantweinrebesteakhaus-wangen.ch
 restaurantweissenstein.ch
@@ -37093,7 +37095,6 @@ revenu.ch
 revenucontributif.ch
 revenudebase.ch
 revenue-management.ch
-revenue-manager.ch
 revenue.ch
 revenuearchitect.ch
 revenueboost.ch
@@ -38335,7 +38336,6 @@ rewinch.ch
 rewind-band.ch
 rewind-carpet.ch
 rewind-festival.ch
-rewind-outdoor.ch
 rewind.ch
 rewindarwish.ch
 rewindcarpet.ch
@@ -38453,7 +38453,6 @@ rexbern.ch
 rexbet.ch
 rexbier.ch
 rexbionics.ch
-rexbno.ch
 rexbo.ch
 rexboden.ch
 rexchange.ch

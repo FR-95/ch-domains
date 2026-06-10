@@ -5090,6 +5090,7 @@ assetbird.ch
 assetbox.ch
 assetbuilder.ch
 assetcare.ch
+assetcensus.ch
 assetcenter.ch
 assetcloud.ch
 assetco.ch
@@ -8275,7 +8276,6 @@ astro-sport-coach.ch
 astro-sportcoach.ch
 astro-staefa.ch
 astro-store.ch
-astro-suisse.ch
 astro-swiss.ch
 astro-systemix.ch
 astro-tarot.ch

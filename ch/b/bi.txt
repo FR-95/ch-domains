@@ -2157,6 +2157,7 @@ biel24.ch
 biel2go.ch
 biel4you.ch
 biela-renovation.ch
+biela.ch
 bielab.ch
 bielab3d.ch
 bielanderhaus.ch
@@ -5345,6 +5346,7 @@ bigurs.ch
 bigusa.ch
 biguso.ch
 bigv.ch
+bigvaletpark.ch
 bigvalley.ch
 bigvaluedepot.ch
 bigvault.ch
@@ -5567,6 +5569,7 @@ bijouterie-des-anges.ch
 bijouterie-duvoisin.ch
 bijouterie-eres.ch
 bijouterie-ermoli.ch
+bijouterie-fannymasson.ch
 bijouterie-fournier.ch
 bijouterie-geneve.ch
 bijouterie-hansen.ch
@@ -9437,7 +9440,6 @@ billiger-monteurzimmer.ch
 billiger-rauchen.ch
 billiger-reisen.ch
 billiger-strom.ch
-billiger-tanken.ch
 billiger-telefonieren.ch
 billiger-umzug.ch
 billiger-urlaub.ch
@@ -9460,7 +9462,6 @@ billigermietwagen.ch
 billigermonteurzimmer.ch
 billigerreisen.ch
 billigerstrom.ch
-billigertanken.ch
 billigertelefonieren.ch
 billigerurlaub.ch
 billigerweg.ch
@@ -10772,7 +10773,6 @@ bindertrucks.ch
 binderweine-metamorphosis.ch
 binderworld.ch
 bindery.ch
-bindesysteme.ch
 bindetechnologe.ch
 bindewald.ch
 bindex.ch
@@ -14224,6 +14224,7 @@ biolino.ch
 biolio.ch
 bioliquid.ch
 bioliquids.ch
+biolis.ch
 biolisme.ch
 biolistique.ch
 biolit-natur.ch
@@ -20389,7 +20390,6 @@ bixon.ch
 bixpe.ch
 bixpro.ch
 bixs-far-out.ch
-bixs.ch
 bixtro.ch
 bixx.ch
 bixxy.ch
@@ -20534,7 +20534,6 @@ bizeb.ch
 bizebag.ch
 bizebi.ch
 bizenberger.ch
-bizeps.ch
 bizer.ch
 bizerba.ch
 bizerbabusch.ch

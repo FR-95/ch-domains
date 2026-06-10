@@ -11063,6 +11063,7 @@ gov-gpt.ch
 gov-ix.ch
 gov-md.ch
 gov-ortho.ch
+gov-portal.ch
 gov-post.ch
 gov-safe.ch
 gov-vallemaggia.ch
@@ -11251,6 +11252,7 @@ govoyages.ch
 govoyagesprime.ch
 govpet.ch
 govplanet.ch
+govportal.ch
 govpost.ch
 govr.ch
 govradar.ch

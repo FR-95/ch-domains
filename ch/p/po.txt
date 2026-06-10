@@ -1285,7 +1285,6 @@ poemai.ch
 poeme-graphique.ch
 poeme.ch
 poemegraphique.ch
-poemes-sms.ch
 poemesdecharly.ch
 poemesdelumiere.ch
 poemofbeauty.ch
@@ -5207,7 +5206,6 @@ polsterecken.ch
 polsterei-alphaomega.ch
 polsterei-amberger.ch
 polsterei-ferre.ch
-polsterei-fuhrer.ch
 polsterei-gaetzi.ch
 polsterei-hb-zuerich.ch
 polsterei-hoher.ch
@@ -5868,6 +5866,7 @@ polymer.ch
 polymer24.ch
 polymerbeschichtung.ch
 polymerbeton.ch
+polymerbetonrinnen.ch
 polymerclay.ch
 polymerclayschmuck.ch
 polymercoa.ch
@@ -6874,6 +6873,7 @@ ponl.ch
 ponline.ch
 ponlyfan.ch
 ponlyfans.ch
+ponmai.ch
 ponnan.ch
 ponnanmedia.ch
 ponnaz.ch
@@ -8321,6 +8321,7 @@ popopstore.ch
 poporalbeauty.ch
 poporama.ch
 poporchestra.ch
+poposwiss.ch
 popotam.ch
 popotons.ch
 popotte.ch
@@ -9341,6 +9342,7 @@ porta-comp.ch
 porta-engadin.ch
 porta-engiadina.ch
 porta-fresca.ch
+porta-gayola.ch
 porta-gottardo.ch
 porta-grazer.ch
 porta-group.ch
@@ -14222,7 +14224,6 @@ powerphos.ch
 powerpics.ch
 powerpilates.ch
 powerpilz.ch
-powerpit.ch
 powerpitch.ch
 powerpixel.ch
 powerplan-c.ch

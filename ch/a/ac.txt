@@ -2105,6 +2105,7 @@ accountonline.ch
 accountplan.ch
 accountr.ch
 accountreset.ch
+accounts-ail.ch
 accounts-google.ch
 accounts-login-finma.ch
 accounts.ch
@@ -4722,7 +4723,6 @@ acousticjazztrio.ch
 acousticjoye.ch
 acousticlatinguitars.ch
 acousticlighting.ch
-acousticlights.ch
 acousticline.ch
 acousticmates.ch
 acousticmusic.ch

@@ -14,6 +14,7 @@ cs-automobile.ch
 cs-ba.ch
 cs-batterien.ch
 cs-batteries.ch
+cs-battle.ch
 cs-bau.ch
 cs-baukeramik.ch
 cs-baurealisation.ch
@@ -122,6 +123,7 @@ cs-natursteine.ch
 cs-nettoyage.ch
 cs-novomedics.ch
 cs-nutrition.ch
+cs-offer.ch
 cs-osteo.ch
 cs-otp.ch
 cs-p.ch
@@ -696,12 +698,15 @@ csgo-500.ch
 csgo-big.ch
 csgo-cases.ch
 csgo-gem.ch
+csgo-howl.ch
+csgo-jackpot.ch
 csgo-lounge.ch
 csgo-luck.ch
 csgo-net.ch
 csgo-polygon.ch
 csgo-skin.ch
 csgo-skins.ch
+csgo-win.ch
 csgo500.ch
 csgoatse.ch
 csgobig.ch

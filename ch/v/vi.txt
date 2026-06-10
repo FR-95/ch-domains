@@ -4209,6 +4209,7 @@ viewfinderfilms.ch
 viewgroup.ch
 viewgroupit.ch
 viewhome.ch
+viewhouse.ch
 viewin.ch
 viewing.ch
 viewingrooms.ch
@@ -8925,6 +8926,7 @@ vintageschmuck.ch
 vintageshipping.ch
 vintageshop.ch
 vintageshops.ch
+vintageside.ch
 vintagesilver.ch
 vintagesmoke.ch
 vintagesnowmobile.ch
@@ -14003,7 +14005,6 @@ visorando.ch
 visore.ch
 visorec.ch
 visors.ch
-visortech.ch
 visorway.ch
 visory.ch
 visorypartner.ch
@@ -14356,7 +14357,6 @@ visu-l-medical.ch
 visu-l.ch
 visu-mat.ch
 visu-partner.ch
-visu.ch
 visu3ld.ch
 visua.ch
 visuacontrol.ch
@@ -17601,6 +17601,7 @@ vitrier-ecclat.ch
 vitrier-expert.ch
 vitrier-fribourg.ch
 vitrier-geneve.ch
+vitrier-genthod.ch
 vitrier-lausanne.ch
 vitrier-morges.ch
 vitrier-nyon.ch

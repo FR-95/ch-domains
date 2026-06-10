@@ -59,6 +59,7 @@ ns-infra.ch
 ns-ing.ch
 ns-insurance.ch
 ns-international.ch
+ns-it.ch
 ns-keramik.ch
 ns-kosmetik.ch
 ns-kreativdesign.ch
@@ -1212,7 +1213,6 @@ ns1.chabbeypiller.ch
 ns1.chalet-schuetzenacker.ch
 ns1.chaoswit.ch
 ns1.chdns.ch
-ns1.cherpines-autrement.ch
 ns1.chevalnaturel.ch
 ns1.chewbacca.ch
 ns1.chicobana.ch
@@ -1968,7 +1968,6 @@ ns1.help144.ch
 ns1.helsana.ch
 ns1.helvetiprint3d.ch
 ns1.helvitiprint3d.ch
-ns1.helvpost.ch
 ns1.henryw.ch
 ns1.herisau-internet.ch
 ns1.herzogdemeuron.ch
@@ -4567,7 +4566,6 @@ ns2.chalet-bettmeralp.ch
 ns2.chalet-schuetzenacker.ch
 ns2.chaoswit.ch
 ns2.chdns.ch
-ns2.cherpines-autrement.ch
 ns2.chevalnaturel.ch
 ns2.chewbacca.ch
 ns2.chicobana.ch
@@ -5292,7 +5290,6 @@ ns2.help144.ch
 ns2.helsana.ch
 ns2.helvetiprint3d.ch
 ns2.helvitiprint3d.ch
-ns2.helvpost.ch
 ns2.henryw.ch
 ns2.herisau-internet.ch
 ns2.hess-treuhand.ch

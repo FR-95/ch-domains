@@ -5365,7 +5365,6 @@ wall-it.ch
 wall-london.ch
 wall-mover.ch
 wall-o.ch
-wall-of-fame.ch
 wall-pen.ch
 wall-poster.ch
 wall-print.ch
@@ -5623,6 +5622,7 @@ wallis-golfmore.ch
 wallis-guide.ch
 wallis-holz.ch
 wallis-homes.ch
+wallis-hotelcheck.ch
 wallis-im-hosensack.ch
 wallis-immo.ch
 wallis-immobilien.ch
@@ -5765,6 +5765,7 @@ walliser-schwarznasen-liebe.ch
 walliser-seema.ch
 walliser-shops.ch
 walliser-softeis.ch
+walliser-softice.ch
 walliser-solutions.ch
 walliser-sommer-weinfestival.ch
 walliser-sommer.ch
@@ -7279,6 +7280,7 @@ wanddesign-schweiz.ch
 wanddesign.ch
 wanddisplay.ch
 wanddisplays.ch
+wanddruck-flury.ch
 wanddruck-ostschweiz.ch
 wanddruck-schader-ch.ch
 wanddruck-schader.ch
@@ -9911,6 +9913,7 @@ wasgibts-heute.ch
 wasgibtsheute.ch
 wasgibtswo.ch
 wasgits.ch
+wasgitz.ch
 wasgiwo.ch
 wasgiz.ch
 wasglaubschdenndu.ch

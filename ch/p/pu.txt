@@ -150,7 +150,6 @@ pubky.ch
 publ.ch
 publec.ch
 publeq.ch
-publesoleil.ch
 publestate.ch
 publex.ch
 publexfiduciaire.ch
@@ -576,6 +575,7 @@ publicviewing-sursee.ch
 publicviewing-uster.ch
 publicviewing.ch
 publicviewingbasel.ch
+publicviewingbullingerhof.ch
 publicviewingdietikon.ch
 publicviewingkloten.ch
 publicviewingsteffisburg.ch

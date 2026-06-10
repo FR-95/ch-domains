@@ -261,6 +261,7 @@ ai-designcheck.ch
 ai-designer.ch
 ai-designlab.ch
 ai-detector.ch
+ai-dev-app.ch
 ai-dev.ch
 ai-developer.ch
 ai-devgroup.ch
@@ -407,6 +408,7 @@ ai-homepage.ch
 ai-horizons.ch
 ai-hoster.ch
 ai-hosting.ch
+ai-hotel-check.ch
 ai-hotel.ch
 ai-hotline.ch
 ai-hpc.ch
@@ -619,6 +621,7 @@ ai-now.ch
 ai-observatory.ch
 ai-observer.ch
 ai-offerte.ch
+ai-offerten.ch
 ai-office-agent.ch
 ai-office.ch
 ai-officer.ch
@@ -1610,9 +1613,11 @@ aidablu.ch
 aidablue.ch
 aidabuchen.ch
 aidacara.ch
+aidacasemanagement.ch
 aidaclub.ch
 aidaclubschiff.ch
 aidaclubschiffe.ch
+aidacm.ch
 aidacoaching.ch
 aidacrew.ch
 aidacruises.ch

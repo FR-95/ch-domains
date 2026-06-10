@@ -5518,7 +5518,6 @@ blitzrechnung.ch
 blitzrecruiting.ch
 blitzrein.ch
 blitzreinigung-winterthur.ch
-blitzreinigung.ch
 blitzreinigungen.ch
 blitzrepair.ch
 blitzsauber.ch
@@ -5565,7 +5564,6 @@ blitztransport.ch
 blitztransporte-umzug.ch
 blitztreff.ch
 blitzublank.ch
-blitzumzug.ch
 blitzundblank.ch
 blitzunddonner.ch
 blitzundfix.ch
@@ -6055,6 +6053,7 @@ blockchainzentrum.ch
 blockchainzh.ch
 blockchainzug.ch
 blockchamp.ch
+blockchene.ch
 blockcitymc.ch
 blockclock.ch
 blockconsulting.ch
@@ -6746,6 +6745,7 @@ bloodstemcells.ch
 bloodstory.ch
 bloodsweattears.ch
 bloodtest.ch
+bloody-case.ch
 bloody-machine.ch
 bloody-mary.ch
 bloody.ch
@@ -10498,6 +10498,7 @@ blumenbutik.ch
 blumencaesario.ch
 blumencafe-miss-saigon.ch
 blumencafe-yvonne.ch
+blumencafe.ch
 blumencaffeverde.ch
 blumencarol-preview.ch
 blumencarol.ch

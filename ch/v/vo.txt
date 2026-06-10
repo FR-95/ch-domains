@@ -686,6 +686,7 @@ vog-coiffure.ch
 vog-developpement.ch
 vog.ch
 voga-volketswil.ch
+voga.ch
 vogart.ch
 vogasjewelry.ch
 vogasport-shop.ch
@@ -3515,6 +3516,7 @@ vollmeiers.ch
 vollmer-goldschmied.ch
 vollmer-it.ch
 vollmer-itsec.ch
+vollmer-labs.ch
 vollmer-michel.ch
 vollmer-neuendorf.ch
 vollmer-reinigung.ch
@@ -3986,8 +3988,11 @@ voltek.ch
 voltekelectricite.ch
 voltelec-controle.ch
 voltelectronics.ch
+voltelektro.ch
 voltelia.ch
+voltenergy.ch
 volteng.ch
+voltengineering.ch
 voltenic.ch
 volteos.ch
 volter.ch
@@ -4008,6 +4013,7 @@ voltfast.ch
 voltfish.ch
 voltgarage.ch
 voltgrade.ch
+voltgroup.ch
 voltguard.ch
 volthaus.ch
 voltheads.ch
@@ -4071,6 +4077,7 @@ voltiq-ag.ch
 voltique.ch
 voltis-energies.ch
 voltis.ch
+voltit.ch
 voltium.ch
 voltiva.ch
 voltix.ch
@@ -4132,6 +4139,9 @@ voltsart.ch
 voltscout24.ch
 voltsetvallees.ch
 voltsetvalleesbikeshop.ch
+voltshop.ch
+voltsmart.ch
+voltsolar.ch
 voltsphere.ch
 volttap.ch
 voltte.ch
@@ -4249,6 +4259,7 @@ voluptia.ch
 voluptuous.ch
 voluspa.ch
 volute.ch
+volutex.ch
 volutio.ch
 volux.ch
 voluxe.ch
@@ -5372,7 +5383,6 @@ vonderschwarzenrasselbande.ch
 vonderseelereden.ch
 vonderseeletanzen.ch
 vonderstrass.ch
-vondervogelweide.ch
 vonderweid-consulting.ch
 vonderweid.ch
 vonderweide.ch
@@ -6959,6 +6969,7 @@ vorsorge-impuls.ch
 vorsorge-index.ch
 vorsorge-info.ch
 vorsorge-it.ch
+vorsorge-ja-aber-fair.ch
 vorsorge-jetzt.ch
 vorsorge-journal.ch
 vorsorge-kennzahlen.ch
@@ -7356,6 +7367,7 @@ vorteilnormteil.ch
 vorteilscard.ch
 vorteilsclub.ch
 vorteilscode.ch
+vorteilsfinder.ch
 vorteilshop.ch
 vorteilskarte.ch
 vorteilspost.ch
@@ -8902,7 +8914,6 @@ voys.ch
 voz-peinture.ch
 voz.ch
 vozab.ch
-vozdelmar.ch
 vozeh.ch
 vozella.ch
 vozfinanz.ch

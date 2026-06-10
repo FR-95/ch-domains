@@ -1811,6 +1811,7 @@ eim-immo.ch
 eim-praxis.ch
 eim-swiss.ch
 eim-switzerland.ch
+eim-tag.ch
 eim.ch
 eima-trasporti.ch
 eima.ch
@@ -1849,6 +1850,7 @@ eimsuisse.ch
 eimsvizzera.ch
 eimswitzerland.ch
 eimt.ch
+eimtag.ch
 eimue.ch
 eimvv.ch
 ein--stein.ch

@@ -206,7 +206,6 @@ nic-direkt.ch
 nic-hahne.ch
 nic-keller.ch
 nic-ki.ch
-nic-luginbuehl.ch
 nic-media.ch
 nic-net.ch
 nic-o-secours.ch
@@ -6413,6 +6412,7 @@ nine9.ch
 nine9yards.ch
 nineability.ch
 nineapis.ch
+nineapp.ch
 nineavenue.ch
 ninebar.ch
 ninebot.ch
@@ -6516,7 +6516,6 @@ ninety4carrosserie.ch
 ninety5.ch
 ninety9.ch
 ninetyeight.ch
-ninetyfive.ch
 ninetyfivepilates.ch
 ninetyfour.ch
 ninetyfun.ch

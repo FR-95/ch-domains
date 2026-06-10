@@ -1260,6 +1260,7 @@ plane-spotter-notebook.ch
 plane.ch
 planea.ch
 planeat.ch
+planeatry.ch
 planeblades.ch
 planeco.ch
 planecto.ch
@@ -1615,6 +1616,7 @@ planetearth.ch
 planeteater-mma.ch
 planeteau.ch
 planeteb.ch
+planetebasket.ch
 planetebay.ch
 planetebio.ch
 planetebiosuisse.ch
@@ -1627,6 +1629,7 @@ planeteechafaudages.ch
 planeteexpress.ch
 planetefitness.ch
 planetefood.ch
+planetefootball.ch
 planetefusion.ch
 planetegolf.ch
 planetehockey.ch
@@ -1636,6 +1639,7 @@ planeteindigo.ch
 planeteliege.ch
 planeteloisirs.ch
 planeteloto.ch
+planeteluxe.ch
 planetemail.ch
 planetemploi.ch
 planetemusique.ch
@@ -1671,6 +1675,7 @@ planeteros.ch
 planetesandwichs.ch
 planetesante.ch
 planetescort.ch
+planetesport.ch
 planetesports.ch
 planeteurovision.ch
 planetevagabonde.ch
@@ -5282,7 +5287,6 @@ playswissinfo.ch
 playswit.ch
 playtanacasino.ch
 playtape.ch
-playtastic.ch
 playtec.ch
 playtech.ch
 playtennis.ch
@@ -5293,6 +5297,7 @@ playtex.ch
 playthefuture.ch
 playthegame.ch
 playthek.ch
+playthepower.ch
 playtighter.ch
 playtiles.ch
 playtime-events.ch

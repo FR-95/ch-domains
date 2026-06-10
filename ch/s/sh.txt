@@ -448,6 +448,7 @@ shadowpath.ch
 shadowping.ch
 shadowprompt.ch
 shadowprotect.ch
+shadowritual.ch
 shadowrp.ch
 shadowrun-webcomic.ch
 shadowrun.ch
@@ -797,6 +798,7 @@ shalaindustries.ch
 shalainkasso.ch
 shalainterim.ch
 shalajallround.ch
+shalakonstruktion.ch
 shalala.ch
 shalaliegenschaften.ch
 shalamauerwerk.ch
@@ -1831,7 +1833,6 @@ sharing-community.ch
 sharing-company.ch
 sharing-hands.ch
 sharing-is-caring.ch
-sharing-jobs.ch
 sharing-knowledge.ch
 sharing-matters.ch
 sharing-memories.ch
@@ -2209,6 +2210,7 @@ shayan.ch
 shayara.ch
 shayawaya.ch
 shayawhite.ch
+shaye-next.ch
 shaye.ch
 shayecloud.ch
 shayenext.ch
@@ -5220,6 +5222,7 @@ shl-installationen.ch
 shl-retraite.ch
 shl-waermetechnik.ch
 shl.ch
+shlabs.ch
 shlalumni.ch
 shlalumnicommunity.ch
 shlau.ch

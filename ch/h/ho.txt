@@ -3895,6 +3895,7 @@ hof-griesbrunnen.ch
 hof-grossegg.ch
 hof-grosstannen.ch
 hof-gruenau.ch
+hof-gruober.ch
 hof-gstein.ch
 hof-guggenbuehl.ch
 hof-guggete.ch
@@ -9629,6 +9630,7 @@ holzhuesli-chalet.ch
 holzhuesli.ch
 holzhuette.ch
 holzhuettegaudi.ch
+holzhuettle.ch
 holzhuettli-pizza.ch
 holzhuser.ch
 holzhybrid.ch
@@ -9978,6 +9980,8 @@ holzmitfunktion.ch
 holzmitherz.ch
 holzmitschwung.ch
 holzmitstolz.ch
+holzmobil.ch
+holzmobile.ch
 holzmock.ch
 holzmodelle.ch
 holzmodul.ch
@@ -17015,6 +17019,7 @@ horsephysio.ch
 horsepilot.ch
 horseplanet.ch
 horseplus.ch
+horsepoint.ch
 horsepool.ch
 horsepower-cars.ch
 horsepower.ch
@@ -18370,7 +18375,6 @@ hostingspeicher.ch
 hostingstarterkit.ch
 hostingsuche.ch
 hostingsvizzera.ch
-hostingswiss.ch
 hostingswitch.ch
 hostingtech.ch
 hostingtestdomain.ch
@@ -18875,6 +18879,7 @@ hotel-agarta.ch
 hotel-agent.ch
 hotel-ahorni.ch
 hotel-ai-assistant.ch
+hotel-ai-check.ch
 hotel-ai.ch
 hotel-aigle.ch
 hotel-air.ch
@@ -19225,6 +19230,7 @@ hotel-delondres.ch
 hotel-delphin.ch
 hotel-derby-interlaken.ch
 hotel-derby-zermatt.ch
+hotel-derby.ch
 hotel-des-arts-neuchatel.ch
 hotel-des-arts.ch
 hotel-des-associations.ch
@@ -19562,6 +19568,7 @@ hotel-kaufen.ch
 hotel-kernen.ch
 hotel-kerzers.ch
 hotel-kettenbruecke.ch
+hotel-ki-check.ch
 hotel-ki-rezeption.ch
 hotel-ki-tool.ch
 hotel-ki.ch
@@ -20085,6 +20092,7 @@ hotel-seraina.ch
 hotel-service.ch
 hotel-services.ch
 hotel-sicherheit.ch
+hotel-sichtbarkeit.ch
 hotel-sierre.ch
 hotel-siesta.ch
 hotel-sillot.ch

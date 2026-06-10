@@ -1632,6 +1632,7 @@ urgences-sante.ch
 urgences-vaud.ch
 urgences-veterinaire-fribourg.ch
 urgences-veterinaire.ch
+urgences-veterinaires-geneve.ch
 urgences-vevey.ch
 urgencesbienne.ch
 urgencesdentaires.ch
@@ -1670,6 +1671,7 @@ urgentvet.ch
 urgenvet.ch
 urgenz.ch
 urgenzeginecologiche.ch
+urgeoff.ch
 urgeschichte-zug.ch
 urgeschichte.ch
 urgese.ch
@@ -1803,6 +1805,7 @@ uribu.ch
 uribus.ch
 urice.ch
 urich-ff.ch
+urich.ch
 uricher.ch
 uriclean.ch
 uricotech.ch

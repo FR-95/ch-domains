@@ -1234,7 +1234,6 @@ executiononly.ch
 executionworks.ch
 executiv-manager.ch
 executiv.ch
-executive-advisory.ch
 executive-ai.ch
 executive-assessment.ch
 executive-assistant.ch
@@ -1630,7 +1629,6 @@ exhausto.ch
 exheat.ch
 exhi-stand.ch
 exhi-stant.ch
-exhibit.ch
 exhibitandmore.ch
 exhibiter.ch
 exhibitingfilm.ch

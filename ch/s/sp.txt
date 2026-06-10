@@ -2827,7 +2827,6 @@ sparrowbyte.ch
 sparrowcig.ch
 sparrowcigs.ch
 sparrowlandcapital.ch
-sparrowm.ch
 sparrowpet.ch
 sparrows.ch
 sparrowte.ch
@@ -4360,7 +4359,6 @@ spectiva.ch
 spective.ch
 spectivo.ch
 specto.ch
-spector.ch
 spectr-a.ch
 spectr.ch
 spectra-automation.ch
@@ -5279,7 +5277,6 @@ speerhof.ch
 speerimmo.ch
 speerli-partners.ch
 speerli.ch
-speeron.ch
 speerpark.ch
 speerschule.ch
 speersicht.ch
@@ -19427,7 +19424,6 @@ spricar.ch
 sprice.ch
 sprich-dich-aus.ch
 sprich-gitterroste.ch
-sprich-hund.ch
 sprich-ichhoerezu.ch
 sprich-richtig.ch
 sprich-sie-an.ch
@@ -19441,7 +19437,6 @@ sprichdesign.ch
 sprichdeuts.ch
 sprichdichaus.ch
 sprichdichfrei.ch
-sprichhund.ch
 sprichleo.ch
 sprichmal.ch
 sprichmitmir.ch
@@ -19828,7 +19823,6 @@ sprintsuisse.ch
 sprintus-schweiz.ch
 sprintus.ch
 sprintverse.ch
-sprintvision.ch
 sprintwilson.ch
 sprinxx.ch
 sprinz-swiss.ch

@@ -782,6 +782,7 @@ orbis-group.ch
 orbis-living.ch
 orbis-nautic.ch
 orbis-partner.ch
+orbis-proservices.ch
 orbis-reisen.ch
 orbis-schachenmann.ch
 orbis-schweiz.ch
@@ -2530,7 +2531,6 @@ organixfood.ch
 organiz.ch
 organizaa.ch
 organizable.ch
-organizactionsconseil.ch
 organizasyon.ch
 organization-therapy.ch
 organization.ch
@@ -3167,6 +3167,7 @@ orientierungslauf.ch
 orientierungspunkt.ch
 orientierungsrahmen.ch
 orientierungsraum.ch
+orientierungsstark.ch
 orientierungsstudium.ch
 orientierungstafel.ch
 orientierungstag.ch
@@ -3742,6 +3743,7 @@ orion-erotic.ch
 orion-erotik.ch
 orion-financial.ch
 orion-groupe.ch
+orion-ia.ch
 orion-immo.ch
 orion-immobilien.ch
 orion-informatique.ch
@@ -3934,6 +3936,7 @@ orivelle.ch
 orivellejewelryco.ch
 orivene.ch
 orivest.ch
+orivexstudio.ch
 orivida.ch
 orivis.ch
 orivva.ch
@@ -4450,7 +4453,6 @@ ornya.ch
 ornycapital.ch
 ornyholding.ch
 oro-advertising.ch
-oro-automobile.ch
 oro-bs.ch
 oro-de-cafe.ch
 oro-de-maca.ch

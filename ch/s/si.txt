@@ -2287,8 +2287,6 @@ sicotronic.ch
 sicovend.ch
 sicpa.ch
 sicpa100.ch
-sicpagroup.ch
-sicpaholding.ch
 sicpfa.ch
 sicrall.ch
 sicrea.ch
@@ -3032,6 +3030,7 @@ siebentuermen.ch
 siebenunddreissig.ch
 siebenundsechzig.ch
 siebenundsieben.ch
+siebenundvierzig.ch
 siebenwerte.ch
 siebenzahn-gartenbau.ch
 siebenzwei.ch
@@ -3522,6 +3521,7 @@ siegrist-elektro.ch
 siegrist-engineering.ch
 siegrist-enstorgung.ch
 siegrist-entsorgung.ch
+siegrist-faemeli.ch
 siegrist-fahnen.ch
 siegrist-family.ch
 siegrist-fms.ch
@@ -3635,6 +3635,7 @@ siehtgutaus.ch
 siehtscheisseaus.ch
 siejkom.ch
 sieker.ch
+siekeramik.ch
 siekmann.ch
 siel-lea.ch
 siel.ch
@@ -4323,6 +4324,7 @@ sightmap.ch
 sightmark.ch
 sightpaddling.ch
 sightpre.ch
+sightpulse.ch
 sightrun.ch
 sightrunner.ch
 sightrunning.ch
@@ -4774,6 +4776,7 @@ signalfree.ch
 signalfumee.ch
 signalfundament.ch
 signalgeber.ch
+signalhill.ch
 signalhorn.ch
 signalhub.ch
 signalhund.ch
@@ -5034,6 +5037,7 @@ signe-productions.ch
 signe-valais.ch
 signe-vaud.ch
 signe.ch
+signe2transformation.ch
 signeavecrachel.ch
 signeco.ch
 signed-agence.ch
@@ -7721,7 +7725,6 @@ silton-instruments.ch
 silton.ch
 siltra.ch
 siltree.ch
-siltronic.ch
 siltronich.ch
 silts.ch
 siltuximab.ch
@@ -8205,6 +8208,7 @@ silverage.ch
 silveragecoaching.ch
 silverager.ch
 silveraging.ch
+silverai.ch
 silveraid.ch
 silveraim.ch
 silverair.ch
@@ -8251,6 +8255,7 @@ silverbush.ch
 silverbuttonbox.ch
 silvercafe.ch
 silvercat.ch
+silverchrome.ch
 silverclay.ch
 silverclick.ch
 silvercloud.ch
@@ -11032,7 +11037,6 @@ simoninniger.ch
 simoninporret.ch
 simoninstitute.ch
 simoninterior.ch
-simonis.ch
 simoniservice.ch
 simonisler.ch
 simonius.ch
@@ -12416,7 +12420,6 @@ simply-test.ch
 simply-thai-restaurant.ch
 simply-thai.ch
 simply-the-best.ch
-simply-tool.ch
 simply-trade.ch
 simply-trading.ch
 simply-two.ch
@@ -12696,6 +12699,7 @@ simplysommerstudio.ch
 simplysoup.ch
 simplysoups.ch
 simplysport.ch
+simplystay.ch
 simplysteuer.ch
 simplystrong.ch
 simplystupid.ch

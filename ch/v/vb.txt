@@ -49,6 +49,7 @@ vb-psy.ch
 vb-ptb.ch
 vb-reflect.ch
 vb-reinigung.ch
+vb-reporting.ch
 vb-riesch.ch
 vb-sanitaerplaner.ch
 vb-secreation.ch

@@ -2137,7 +2137,6 @@ kaffee-center.ch
 kaffee-club.ch
 kaffee-coach.ch
 kaffee-coffepads.ch
-kaffee-corner.ch
 kaffee-ecke.ch
 kaffee-emilio.ch
 kaffee-erlebnis.ch
@@ -2926,6 +2925,7 @@ kagari.ch
 kagb.ch
 kage-backformen.ch
 kage-design.ch
+kageb.ch
 kagel.ch
 kagelmacher.ch
 kagelofotos.ch
@@ -3418,6 +3418,7 @@ kairosss.ch
 kairossystems.ch
 kairosworks.ch
 kairosyoga.ch
+kairox.ch
 kairuth.ch
 kairyo.ch
 kais.ch
@@ -3541,7 +3542,6 @@ kaiserfranz.ch
 kaiserfs.ch
 kaiserfuchs.ch
 kaisergarten-arbon.ch
-kaisergarten-oberglatt.ch
 kaisergarten-weine.ch
 kaisergarten.ch
 kaisergartenbau.ch
@@ -8435,6 +8435,7 @@ kaokoland.ch
 kaoli.ch
 kaolin.ch
 kaology.ch
+kaomafi.ch
 kaomakids.ch
 kaomi.ch
 kaon.ch
@@ -8988,6 +8989,7 @@ kappeler-events.ch
 kappeler-fenster.ch
 kappeler-gartengestaltung.ch
 kappeler-gartenwelt.ch
+kappeler-haustechnik.ch
 kappeler-holzbau.ch
 kappeler-innenausbau.ch
 kappeler-jud.ch
@@ -9511,6 +9513,7 @@ karate-hoeri.ch
 karate-hombrechtikon.ch
 karate-ilanz.ch
 karate-illgau.ch
+karate-japan.ch
 karate-jutsu.ch
 karate-kai-bern.ch
 karate-kai-lenzburg.ch
@@ -10632,7 +10635,6 @@ karindobmann.ch
 karindornbusch.ch
 karindubi.ch
 karindurst.ch
-karindziri.ch
 karine-b.ch
 karine-bernardo.ch
 karine-creations.ch
@@ -11351,6 +11353,7 @@ karlots.ch
 karlottapink.ch
 karlowsky.ch
 karlpollet.ch
+karlrebsamen.ch
 karlroelli.ch
 karlrutz.ch
 karls-club.ch
@@ -11530,6 +11533,7 @@ karmaniolas.ch
 karmann-ghia.ch
 karmann-mobil.ch
 karmann.ch
+karmannghia.ch
 karmanoctua.ch
 karmanotes.ch
 karmaori.ch
@@ -11597,7 +11601,6 @@ karmod.ch
 karmon.ch
 karmonfren.ch
 karmswiss.ch
-karn.ch
 karnak.ch
 karnasch-tools.ch
 karnasch.ch
@@ -11637,7 +11640,6 @@ karnivore.ch
 karnivoren.ch
 karnoeffelzunft.ch
 karnonos.ch
-karnorganics.ch
 karnotz.ch
 karnowski.ch
 karnsiree.ch
@@ -11726,6 +11728,7 @@ karolinaiwanicka.ch
 karolinaiwanickaphotography.ch
 karolinakantorska.ch
 karolinakot.ch
+karolinarebsamen.ch
 karolinaschmid.ch
 karolinastephan.ch
 karoline-arn.ch
@@ -12765,6 +12768,7 @@ kartonverpackung.ch
 kartonverpackungen.ch
 kartonwabe.ch
 kartonzuschnitte.ch
+kartoonatelier.ch
 kartoplus.ch
 kartost.ch
 kartoswiss.ch
@@ -17230,7 +17234,6 @@ kaweb.ch
 kaweda.ch
 kawede.ch
 kawedebeizli.ch
-kawedebistro.ch
 kaweel.ch
 kaweha.ch
 kaweit.ch

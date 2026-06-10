@@ -84,6 +84,7 @@ jk-lyssach.ch
 jk-maennertreu.ch
 jk-marketing.ch
 jk-massage.ch
+jk-mediagroup.ch
 jk-meierisli-arch.ch
 jk-modellschiffe.ch
 jk-moetschwil.ch
@@ -280,6 +281,7 @@ jkmanzambi.ch
 jkmassage.ch
 jkmb.ch
 jkmc.ch
+jkmediagroup.ch
 jkmedv.ch
 jkminder.ch
 jkmusic.ch
@@ -310,6 +312,7 @@ jkp60.ch
 jkpeinture.ch
 jkphoto.ch
 jkphotography.ch
+jkpictures.ch
 jkprod.ch
 jkproteam.ch
 jkr-info.ch

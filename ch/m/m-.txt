@@ -141,7 +141,6 @@ m-baumanagement.ch
 m-baumann.ch
 m-baumgartner.ch
 m-baupartner.ch
-m-bauplanung.ch
 m-bauservice.ch
 m-bb.ch
 m-bd.ch
@@ -370,6 +369,7 @@ m-facture.ch
 m-family.ch
 m-fanshop.ch
 m-farm.ch
+m-farmer.ch
 m-fashion.ch
 m-fattura.ch
 m-fb.ch

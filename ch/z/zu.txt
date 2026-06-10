@@ -879,6 +879,7 @@ zuelch-tools.ch
 zuelle-leder.ch
 zuelle-nadler.ch
 zuelle-shop.ch
+zuelle.ch
 zuellecoiffure.ch
 zuellepartner.ch
 zuelleshop.ch
@@ -1622,7 +1623,6 @@ zueri.ch
 zueri1.ch
 zueri11.ch
 zueri2.ch
-zueri2050.ch
 zueri24.ch
 zueri24h.ch
 zueri4.ch
@@ -1980,8 +1980,6 @@ zuerich-percorsovita.ch
 zuerich-personalberatung.ch
 zuerich-pet.ch
 zuerich-pflege.ch
-zuerich-physio.ch
-zuerich-physiotherapie.ch
 zuerich-piercing.ch
 zuerich-pilates.ch
 zuerich-plus.ch
@@ -2250,6 +2248,7 @@ zuerichderma.ch
 zuerichdesign.ch
 zuerichdesigners.ch
 zuerichdeutsch-kurse.ch
+zuerichdeutsch.ch
 zuerichdigital.ch
 zuerichdragonboatfestival.ch
 zuerichdutyfree.ch
@@ -5854,6 +5853,7 @@ zun-anime.ch
 zun-bern.ch
 zun-biel.ch
 zun-schweiz.ch
+zun.ch
 zuna.ch
 zunacher-immobilien.ch
 zunacher.ch

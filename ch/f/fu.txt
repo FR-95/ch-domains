@@ -282,7 +282,6 @@ fuchsfell.ch
 fuchsfest.ch
 fuchsfinanz.ch
 fuchsfinanzconsulting.ch
-fuchsfotografie.ch
 fuchsfotos.ch
 fuchsfriends.ch
 fuchsfuchs.ch
@@ -354,7 +353,6 @@ fuchsnetwork.ch
 fuchsnora.ch
 fuchspartner.ch
 fuchsparty.ch
-fuchsphotography.ch
 fuchsplan.ch
 fuchsplatz.ch
 fuchsplosiv.ch
@@ -937,6 +935,7 @@ fueltechnology.ch
 fueltogo.ch
 fueltrading.ch
 fuelup.ch
+fuelyard.ch
 fuemm-marco-transporte.ch
 fuemm.ch
 fuendig.ch
@@ -1799,6 +1798,8 @@ fuhrparkberatung.ch
 fuhrparkdirekt.ch
 fuhrparkkontrolle.ch
 fuhrparkmanagement.ch
+fuhrparkmanager.ch
+fuhrparkmanagment.ch
 fuhrparkprotokolle.ch
 fuhrparksofortankauf.ch
 fuhrparksoftware.ch
@@ -3183,6 +3184,7 @@ fundraising-journal.ch
 fundraising-management.ch
 fundraising-massaro.ch
 fundraising-notizen.ch
+fundraising-post.ch
 fundraising-services.ch
 fundraising-tag.ch
 fundraising-thinktank.ch
@@ -3323,6 +3325,7 @@ fundwise.ch
 fundwizard.ch
 fundworldview.ch
 fundwriting.ch
+fundxi.ch
 fundy.ch
 fundyou.ch
 fundzentrale.ch
@@ -3417,7 +3420,6 @@ funforbiz.ch
 funforest.ch
 funforhope.ch
 funforlife.ch
-funforyou.ch
 funfoto.ch
 funfotobox.ch
 funfotos.ch
@@ -4297,7 +4299,6 @@ funsource.ch
 funspa.ch
 funsparks.ch
 funspeech.ch
-funspiele.ch
 funspirit.ch
 funsplash.ch
 funsport-center.ch
@@ -5159,6 +5160,7 @@ fusalp.ch
 fusam.ch
 fusaprog.ch
 fusaro-centrone.ch
+fusaro.ch
 fusaybois.ch
 fusb.ch
 fusballcamplukajovic.ch
@@ -7187,6 +7189,7 @@ future-change.ch
 future-children.ch
 future-classics.ch
 future-cloud.ch
+future-competence.ch
 future-compliance.ch
 future-consult.ch
 future-convention.ch
@@ -7443,6 +7446,7 @@ futurecoders.ch
 futurecole.ch
 futurecom.ch
 futurecomm.ch
+futurecompetence.ch
 futureconcept.ch
 futureconnection.ch
 futureconsult.ch

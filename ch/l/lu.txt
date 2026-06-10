@@ -252,7 +252,6 @@ luar52.ch
 luarasi.ch
 luarocky.ch
 luart.ch
-luarte.ch
 luartx-infra.ch
 luartx.ch
 luartxit.ch
@@ -554,6 +553,7 @@ lucabalzli.ch
 lucabarbiere.ch
 lucabarmettler.ch
 lucabau.ch
+lucabauch.ch
 lucabaumgartner.ch
 lucabeba.ch
 lucaben.ch
@@ -767,6 +767,7 @@ lucamarsiglia.ch
 lucamarti.ch
 lucamartin.ch
 lucamassage.ch
+lucamattei.ch
 lucamaurizio.ch
 lucamayer.ch
 lucamazza.ch
@@ -2865,6 +2866,7 @@ ludo-muensingen.ch
 ludo-murten.ch
 ludo-neyruz.ch
 ludo-oberuzwil.ch
+ludo-paquis-secheron.ch
 ludo-pinocchio.ch
 ludo-plomberie.ch
 ludo-prez.ch
@@ -8396,7 +8398,6 @@ lunettesmoinscheres.ch
 lunettespascheres.ch
 lunettespourtous.ch
 lunettesprotectrices.ch
-lunettesroom.ch
 lunettessoleil.ch
 lunettessuisse.ch
 lunettesvr.ch
@@ -8796,6 +8797,7 @@ lunor-schutzraumtechnik.ch
 lunor.ch
 lunora-ag.ch
 lunora-crochet.ch
+lunora-wolle.ch
 lunora.ch
 lunoraag.ch
 lunoraplay.ch
@@ -9273,6 +9275,7 @@ lusea.ch
 lusee-cloud.ch
 lusee.ch
 luseed.ch
+luselismultiface.ch
 luselva.ch
 lusenti-coninco.ch
 lusenti-partners.ch
@@ -9848,6 +9851,7 @@ luthertal.ch
 luthertaler-sagenweg.ch
 luthertconseil.ch
 luthi-e.ch
+luthi-engineering.ch
 luthi-pneus.ch
 luthi-schmied.ch
 luthi-vins.ch
@@ -10493,6 +10497,7 @@ luxanone-immobiliare.ch
 luxanone-immobilien.ch
 luxanone.ch
 luxanova.ch
+luxanprestige.ch
 luxar-liquide.ch
 luxar.ch
 luxara-goods.ch
@@ -10759,7 +10764,6 @@ luxflow.ch
 luxflux.ch
 luxfly.ch
 luxfol.ch
-luxfone.ch
 luxfood.ch
 luxfordogs.ch
 luxform.ch
@@ -10929,6 +10933,7 @@ luxnomade.ch
 luxnomads.ch
 luxnote.ch
 luxnova.ch
+luxnovabeauty.ch
 luxo-geneve.ch
 luxo-suisse.ch
 luxo.ch
@@ -11023,6 +11028,7 @@ luxottica.ch
 luxourclean.ch
 luxoutlet.ch
 luxova.ch
+luxovaris.ch
 luxovia.ch
 luxoya.ch
 luxoyaparis.ch
@@ -11240,6 +11246,7 @@ luxury-for-you.ch
 luxury-garage.ch
 luxury-garden.ch
 luxury-goods.ch
+luxury-group.ch
 luxury-habitat.ch
 luxury-hair.ch
 luxury-holiday-check.ch
@@ -11397,6 +11404,7 @@ luxuryclothing.ch
 luxurycoaching.ch
 luxurycollection.ch
 luxurycollectionbylou.ch
+luxurycommerce.ch
 luxurycommunication.ch
 luxurycompanion.ch
 luxuryconcierge.ch
@@ -12155,7 +12163,6 @@ luzern-erneuert.ch
 luzern-escort.ch
 luzern-event.ch
 luzern-events.ch
-luzern-express.ch
 luzern-fahrschule.ch
 luzern-familienpraxis.ch
 luzern-fensterreinigung.ch
@@ -12652,7 +12659,6 @@ luzernetrocknung.ch
 luzernevent.ch
 luzernevents.ch
 luzernexpo.ch
-luzernexpress.ch
 luzernfahrschule.ch
 luzernfenster.ch
 luzernfestival.ch

@@ -1656,7 +1656,6 @@ abc-waren.ch
 abc-warentaxi.ch
 abc-web.ch
 abc-wespennestentfernen.ch
-abc-win.ch
 abc-worldwide.ch
 abc-xyz.ch
 abc-yoga.ch
@@ -1797,7 +1796,6 @@ abceurope.ch
 abcfahrwerk.ch
 abcfamily.ch
 abcfassaden.ch
-abcfitness.ch
 abcfitnesstrainer.ch
 abcfleet.ch
 abcfloral.ch
@@ -4229,7 +4227,6 @@ abnehmen-im-liegen-goldkueste.ch
 abnehmen-im-liegen-joanne.ch
 abnehmen-im-liegen-schweiz.ch
 abnehmen-im-liegen.ch
-abnehmen-im-schlaf.ch
 abnehmen-in-zofingen.ch
 abnehmen-mit-erfolg.ch
 abnehmen-mit-genuss.ch
@@ -5162,7 +5159,6 @@ abreise.ch
 abreisen.ch
 abreiseshop.ch
 abrell.ch
-abrella.ch
 abrema.ch
 abremer.ch
 abreo.ch
@@ -5816,7 +5812,6 @@ absoluflirt.ch
 absolument.ch
 absolumentbelle.ch
 absolumentchocolat.ch
-absolusolutions.ch
 absolut-academy.ch
 absolut-agentur.ch
 absolut-art.ch
@@ -6003,6 +5998,7 @@ absolutx.ch
 absolutyou.ch
 absolutzero.ch
 absolux.ch
+absolva.ch
 absolvent-hf.ch
 absolvent.ch
 absolventa.ch

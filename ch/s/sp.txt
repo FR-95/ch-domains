@@ -216,6 +216,7 @@ sp-immobilien.ch
 sp-immobilier.ch
 sp-immoinvest.ch
 sp-immomarketing.ch
+sp-info.ch
 sp-informatik.ch
 sp-informatique.ch
 sp-ingenieure.ch
@@ -1205,7 +1206,6 @@ spacevacinternational.ch
 spacevalley.ch
 spaceventure.ch
 spaceventures.ch
-spaceview.ch
 spacevision.ch
 spacewalk.ch
 spacewars.ch
@@ -2049,6 +2049,7 @@ spannmuttern.ch
 spannort-engelberg.ch
 spannort-erstfeld.ch
 spannort.ch
+spannortblick.ch
 spannorthuette.ch
 spannortinn.ch
 spannrahmen.ch
@@ -4879,7 +4880,6 @@ speedflatmating.ch
 speedflex.ch
 speedflirt.ch
 speedflirting.ch
-speedfloor.ch
 speedflyer.ch
 speedflying-interlaken.ch
 speedflying-switzerland.ch
@@ -5640,6 +5640,7 @@ spencertoern.ch
 spencerumzuege.ch
 spencerumzug.ch
 spend-less.ch
+spend.ch
 spendadvent.ch
 spendcloud.ch
 spende-deine-idee.ch
@@ -11456,6 +11457,7 @@ spitalaarberg.ch
 spitalacker.ch
 spitalackerinfo.ch
 spitalaffoltern.ch
+spitalaffolternag.ch
 spitalaltstaetten.ch
 spitalanlagengesellschaft-kssg.ch
 spitalapotheke.ch
@@ -13172,6 +13174,7 @@ spitexprivee.ch
 spitexpriveehilfsmittelshop.ch
 spitexpriveesuisse.ch
 spitexpriveewebshop.ch
+spitexpro.ch
 spitexpro24.ch
 spitexprofi.ch
 spitexprofis.ch
@@ -16793,7 +16796,6 @@ sportplatzplaner.ch
 sportplatzplanung.ch
 sportplatzpruefer.ch
 sportplatzpruefung.ch
-sportplatzreinigung.ch
 sportplatzseminar.ch
 sportplatzsicherheit.ch
 sportplatzwelt.ch
@@ -18280,6 +18282,7 @@ spotmeal.ch
 spotmedia.ch
 spotminders.ch
 spotmix.ch
+spotmyai.ch
 spotmycar.ch
 spotnext.ch
 spoto.ch
@@ -20902,6 +20905,7 @@ spymag.ch
 spymosa.ch
 spymovie.ch
 spymuseum.ch
+spyn.ch
 spynet.ch
 spynews.ch
 spyone.ch

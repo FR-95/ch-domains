@@ -903,7 +903,6 @@ my-ipc.ch
 my-ipstore.ch
 my-iptv-suisse.ch
 my-iptvplus.ch
-my-iqos.ch
 my-iris.ch
 my-island.ch
 my-israel.ch
@@ -4825,7 +4824,6 @@ myegz.ch
 myehealth.ch
 myehering.ch
 myehl.ch
-myeibe.ch
 myeid.ch
 myeidgenossen.ch
 myeier.ch
@@ -6270,7 +6268,6 @@ myhomies.ch
 myhommy.ch
 myhomsrv.ch
 myhon.ch
-myhondamiimo.ch
 myhoney.ch
 myhoneymoon.ch
 myhoneys.ch
@@ -6637,6 +6634,7 @@ myjaba.ch
 myjabber.ch
 myjacaranda.ch
 myjackpot.ch
+myjackpotch.ch
 myjacquet.ch
 myjaguar.ch
 myjakob.ch
@@ -7214,7 +7212,6 @@ mylifedirect.ch
 mylifegestion.ch
 mylifeincars.ch
 mylifematters.ch
-mylifemybreath.ch
 mylifemyrules.ch
 mylifemysmile.ch
 mylifephotos.ch
@@ -9709,6 +9706,7 @@ myriamtong.ch
 myriamuzor.ch
 myriamvaucher.ch
 myriamvoltz.ch
+myriamwagner.ch
 myriamwahli.ch
 myriamwalter.ch
 myriamwerner.ch
@@ -9728,7 +9726,6 @@ myrickenbach.ch
 myricoh.ch
 myride-community.ch
 myride.ch
-myrideradar.ch
 myriel.ch
 myrielleboillat.ch
 myrielrusch.ch
@@ -10799,6 +10796,7 @@ mysterybox-schweiz.ch
 mysterybox.ch
 mysterybox24.ch
 mysteryboxschweiz.ch
+mysterycheck.ch
 mysteryclient.ch
 mysteryclub.ch
 mysterycode.ch
@@ -11009,7 +11007,6 @@ mystreams.ch
 mystreet.ch
 mystreetart.ch
 mystreetone.ch
-mystress.ch
 mystresslab.ch
 mystride.ch
 mystripper.ch
@@ -11433,6 +11430,7 @@ mysyncs.ch
 mysynergie.ch
 mysynergiecare.ch
 mysynergistics.ch
+mysynlab.ch
 mysyrupbox.ch
 mysys.ch
 mysysbo.ch
@@ -11675,6 +11673,7 @@ mythenalpaka.ch
 mythenand.ch
 mythenbau.ch
 mythenbikeacademy.ch
+mythenblick-leg.ch
 mythenblick.ch
 mythencars.ch
 mythencenter.ch

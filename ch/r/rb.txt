@@ -30,6 +30,7 @@ rb-coaching.ch
 rb-cobot.ch
 rb-comm.ch
 rb-company.ch
+rb-conseils.ch
 rb-constructions.ch
 rb-consult.ch
 rb-consulting.ch
@@ -319,6 +320,7 @@ rbfa.ch
 rbfacility.ch
 rbfamily.ch
 rbfamilymanagement.ch
+rbfassadenbau.ch
 rbfautoglas.ch
 rbfg.ch
 rbfgruppe.ch
@@ -590,7 +592,6 @@ rbtreuhand.ch
 rbtx.ch
 rbu.ch
 rbuchli.ch
-rbucinternational.ch
 rbue.ch
 rbuechli.ch
 rbuehler.ch

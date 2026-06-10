@@ -271,7 +271,6 @@ phantasieundwahrheit.ch
 phantasilea.ch
 phantasium.ch
 phantasma.ch
-phantasmagoria.ch
 phantastik-journal.ch
 phantastik.ch
 phantastikautoren.ch
@@ -580,6 +579,7 @@ pharmaceuticalservices.ch
 pharmaceutics.ch
 pharmaceuticum.ch
 pharmaceuticus.ch
+pharmachablais.ch
 pharmachain.ch
 pharmachannel.ch
 pharmacia.ch
@@ -629,7 +629,6 @@ pharmacie-de-port-valais.ch
 pharmacie-de-puidoux.ch
 pharmacie-de-sembrancher.ch
 pharmacie-des-alpes.ch
-pharmacie-des-arcades.ch
 pharmacie-des-banques.ch
 pharmacie-diabete.ch
 pharmacie-discount.ch
@@ -856,6 +855,7 @@ pharmaciedubourgmorelato.ch
 pharmacieducanal.ch
 pharmacieducasino.ch
 pharmacieducentre.ch
+pharmacieduchablais.ch
 pharmacieduchenevert.ch
 pharmacieducret.ch
 pharmaciedugalicien.ch
@@ -1551,6 +1551,7 @@ pharmell.ch
 pharmelp.ch
 pharmem.ch
 pharmemploi.ch
+pharmenex.ch
 pharmeq.ch
 pharmergency.ch
 pharmessence.ch
@@ -1607,6 +1608,7 @@ pharmsuisse-insurance.ch
 pharmswiss.ch
 pharmtastic.ch
 pharmtaxe.ch
+pharmte.ch
 pharmu.ch
 pharmweb.ch
 pharmxperts.ch
@@ -1911,6 +1913,7 @@ phenomenenaturel.ch
 phenomenes.ch
 phenomenex.ch
 phenomenon-prod.ch
+phenomenon.ch
 phenomenonorchestra.ch
 phenomgencards.ch
 phenomic.ch
@@ -2514,6 +2517,7 @@ philipp-koeppel.ch
 philipp-kraft.ch
 philipp-kuederli.ch
 philipp-langlotz.ch
+philipp-largiader.ch
 philipp-leibundgut.ch
 philipp-lenz.ch
 philipp-luchsinger.ch
@@ -6486,6 +6490,7 @@ phyllon.ch
 phylo.ch
 phyloanimalia.ch
 phylogen.ch
+phylon.ch
 phyloptic.ch
 phyloria.ch
 phymaths.ch
@@ -8323,6 +8328,7 @@ physiobedarf.ch
 physiobeekman.ch
 physiobeidir.ch
 physiobeimbahnhof.ch
+physiobel.ch
 physiobelair.ch
 physiobellisario.ch
 physiobelp.ch
@@ -8381,7 +8387,6 @@ physiobrig.ch
 physiobrosch.ch
 physiobroye.ch
 physiobruderholz.ch
-physiobruehl.ch
 physiobruengger.ch
 physiobrugg.ch
 physiobruhin.ch
@@ -10331,7 +10336,6 @@ physiotherapie-weerts.ch
 physiotherapie-weilenmann.ch
 physiotherapie-weiterbildung.ch
 physiotherapie-wenger.ch
-physiotherapie-wetzikon.ch
 physiotherapie-weutow.ch
 physiotherapie-wick.ch
 physiotherapie-wiedikon.ch

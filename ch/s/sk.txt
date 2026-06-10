@@ -2703,7 +2703,6 @@ skin-food.ch
 skin-gallery.ch
 skin-glow.ch
 skin-hair-expert.ch
-skin-hair.ch
 skin-health.ch
 skin-help.ch
 skin-hotline.ch
@@ -2782,7 +2781,6 @@ skinandcare.ch
 skinandcell.ch
 skinandcolor.ch
 skinandglow.ch
-skinandhair.ch
 skinandhealth.ch
 skinandlaser.ch
 skinandlaseratelier.ch
@@ -2816,6 +2814,7 @@ skinbar-ma.ch
 skinbar.ch
 skinbase.ch
 skinbasics.ch
+skinbattle.ch
 skinbay-kosmetik.ch
 skinbay.ch
 skinbeauty.ch
@@ -4695,6 +4694,7 @@ skull.ch
 skull13.ch
 skull77.ch
 skulland.ch
+skullandsmoke.ch
 skullandthegang.ch
 skullbase-surgery.ch
 skullbase.ch
@@ -6221,7 +6221,6 @@ skyx.ch
 skyxin.ch
 skyxinnovation.ch
 skyxinvestment.ch
-skyxmode.ch
 skyy.ch
 skyynetwork.ch
 skyyy.ch

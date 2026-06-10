@@ -1689,7 +1689,6 @@ zahnarzt-hoefe.ch
 zahnarzt-hoeschgasse.ch
 zahnarzt-hofer.ch
 zahnarzt-hofstetter.ch
-zahnarzt-hombrechtikon.ch
 zahnarzt-homecare.ch
 zahnarzt-horgen.ch
 zahnarzt-horw.ch
@@ -5055,6 +5054,7 @@ zammataro.ch
 zammessn.ch
 zammit.ch
 zamnaai.ch
+zamo-tools.ch
 zamo.ch
 zamofing-holzenergie.ch
 zamofing.ch
@@ -5399,6 +5399,7 @@ zanonis-fahrschule.ch
 zanonitext.ch
 zanonymes.ch
 zanora.ch
+zanoranails.ch
 zanoretti.ch
 zanot.ch
 zanotelli-evo.ch

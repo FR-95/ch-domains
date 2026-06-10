@@ -3,6 +3,7 @@ va-alissablaser.ch
 va-antichute.ch
 va-architectes.ch
 va-architecture.ch
+va-ball.ch
 va-bau-immobilien.ch
 va-bene.ch
 va-bien.ch
@@ -1369,7 +1370,6 @@ val-terbi24.ch
 val-tertri.ch
 val-therm.ch
 val-transports.ch
-val-tuors.ch
 val.ch
 val0.ch
 val3d.ch
@@ -1475,6 +1475,7 @@ valais-impro.ch
 valais-info.ch
 valais-innovant.ch
 valais-invest.ch
+valais-investia.ch
 valais-isolation.ch
 valais-it.ch
 valais-jobs.ch
@@ -1912,6 +1913,7 @@ valbregaglia.ch
 valbret.ch
 valbridge-truffle.ch
 valbroarchitecture.ch
+valbrodt.ch
 valbroimmobilier.ch
 valbrok.ch
 valbroye-food.ch
@@ -2289,7 +2291,6 @@ valenteswiss.ch
 valenthier.ch
 valenti.ch
 valentia-energy.ch
-valentia.ch
 valentierstag.ch
 valentigiuseppe.ch
 valentim.ch
@@ -4118,6 +4119,7 @@ valori-digitali.ch
 valori-group.ch
 valori-sens.ch
 valori.ch
+valoria-jp.ch
 valoria.ch
 valorian-realesate.ch
 valorian-realestate.ch
@@ -7040,6 +7042,7 @@ vapestop.ch
 vapestore-kreuzlingen.ch
 vapestore.ch
 vapestreams.ch
+vapestreet.ch
 vapestube.ch
 vapesuisse.ch
 vapesuissee.ch
@@ -8993,6 +8996,7 @@ vaultek.ch
 vaulteksafe.ch
 vaulter.ch
 vaultero.ch
+vaulterra-vision.ch
 vaultfx.ch
 vaultgmbh.ch
 vaultgym.ch
@@ -9243,6 +9247,7 @@ vayola.ch
 vayopet.ch
 vayora.ch
 vayran.ch
+vayron-ag.ch
 vayron.ch
 vayu-ayurveda.ch
 vayu.ch

@@ -896,7 +896,6 @@ agence-detective.ch
 agence-dgh.ch
 agence-digital-marketing.ch
 agence-digitale-jura.ch
-agence-digitale-lausanne.ch
 agence-digitale-romandie.ch
 agence-digitale-suisse.ch
 agence-digitale.ch
@@ -1182,7 +1181,6 @@ agenceamelie.ch
 agenceapplicationmobilelausanne.ch
 agenceasa.ch
 agenceaudace.ch
-agenceaudelab.ch
 agenceaura.ch
 agenceauto.ch
 agenceautomationia.ch
@@ -2555,6 +2553,7 @@ agetana-reinigung.ch
 agetana.ch
 agetbellinzona.ch
 agetech.ch
+agetechnavigator.ch
 agethen.ch
 agetlocarno.ch
 agetlugano.ch
@@ -3201,7 +3200,6 @@ agilityfaeger-ch.ch
 agilityfotos.ch
 agilityhalle.ch
 agilitymind.ch
-agilitynow.ch
 agilityplatz-goms.ch
 agilityprofis.ch
 agilityraceteam.ch
@@ -4216,7 +4214,6 @@ agrarheute.ch
 agrarier.ch
 agrarimmobilien.ch
 agrarindustrie.ch
-agrarinfo.ch
 agrarinitiativen-ja.ch
 agrarinitiativen-nein.ch
 agrarinitiativen.ch
@@ -4532,6 +4529,7 @@ agrico-ctf.ch
 agrico-gas.ch
 agrico-ja-schlachthof-nein.ch
 agrico-oui-abattoir-non.ch
+agrico.ch
 agricochallenge.ch
 agricoin.ch
 agricol.ch

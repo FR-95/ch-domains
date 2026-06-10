@@ -163,7 +163,6 @@ on-sitemarketing.ch
 on-situ.ch
 on-skin.ch
 on-snow.ch
-on-solar.ch
 on-solution.ch
 on-sort.ch
 on-spiele.ch
@@ -206,6 +205,7 @@ on-treuhand.ch
 on-twit.ch
 on-universalbau.ch
 on-unterhaltung.ch
+on-va.ch
 on-valide.ch
 on-video.ch
 on-vogue.ch
@@ -720,7 +720,6 @@ ondecommune.ch
 ondecorte.ch
 ondedechoc.ch
 ondedeforme.ch
-ondedivine.ch
 ondee.ch
 ondeemusicale.ch
 ondela.ch
@@ -1487,6 +1486,7 @@ onedollarglasses.ch
 onedoor.ch
 onedoppl.ch
 onedose.ch
+onedoss.ch
 onedot.ch
 onedriive.ch
 onedrink.ch
@@ -5923,6 +5923,7 @@ only-swiss.ch
 only-the-best.ch
 only-vans.ch
 only-water.ch
+only-woman.ch
 only-women.ch
 only-you-silver.ch
 only1.ch
@@ -6956,7 +6957,9 @@ onus-curae.ch
 onuscurae.ch
 onuu.ch
 onv.ch
+onva-ag.ch
 onva.ch
+onvaag.ch
 onvadanser.ch
 onvagabonde.ch
 onvalide.ch
@@ -7032,6 +7035,7 @@ onwukapromotions.ch
 onx.ch
 onxno.ch
 onxs.ch
+ony-labs.ch
 ony-services.ch
 ony.ch
 onya.ch

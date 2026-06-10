@@ -595,6 +595,7 @@ ear2ear.ch
 ear2hear.ch
 eara-sa.ch
 eara.ch
+earabege.ch
 earaid.ch
 earalux.ch
 earasa.ch
@@ -2956,7 +2957,6 @@ easymediach.ch
 easymedical.ch
 easymediscribe.ch
 easymedoffice.ch
-easymedtech.ch
 easymeet24.ch
 easymeeting.ch
 easymem.ch
@@ -3320,6 +3320,7 @@ easyreisencruises.ch
 easyreisenkreuzfahrt.ch
 easyreisenkreuzfahrten.ch
 easyrelax.ch
+easyrelo.ch
 easyrelocate.ch
 easyrelocation.ch
 easyrent-schweiz.ch

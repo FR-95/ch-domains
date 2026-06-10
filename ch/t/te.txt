@@ -944,6 +944,7 @@ teamag-ag.ch
 teamag.ch
 teamagresvouvry.ch
 teamagri.ch
+teamai.ch
 teamail.ch
 teamakademie.ch
 teamaker.ch
@@ -981,7 +982,6 @@ teamatelier.ch
 teamatic.ch
 teamative.ch
 teamatlet.ch
-teamaudio.ch
 teamausflug-bern.ch
 teamausruestung.ch
 teamavanti.ch
@@ -1401,6 +1401,9 @@ teamhome.ch
 teamhouse.ch
 teamhub.ch
 teamhuber.ch
+teamhumain.ch
+teamhuman.ch
+teamhumanai.ch
 teamhumm.ch
 teamhumor.ch
 teamhundmensch.ch
@@ -1779,6 +1782,7 @@ teamsalsa.ch
 teamsamariternottwil.ch
 teamsante.ch
 teamsantesuisse.ch
+teamsapiens.ch
 teamsapphire.ch
 teamsatwork.ch
 teamsauber.ch
@@ -2003,6 +2007,7 @@ teamup.ch
 teamupcoaching.ch
 teamupfr.ch
 teamuunet.ch
+teamvalais.ch
 teamvallon.ch
 teamvaud.ch
 teamvaudfoot.ch
@@ -2704,6 +2709,7 @@ tech-investments.ch
 tech-isb.ch
 tech-it-easy.ch
 tech-it.ch
+tech-job.ch
 tech-jobs.ch
 tech-karting.ch
 tech-ki.ch
@@ -2931,6 +2937,7 @@ techbat-ge.ch
 techbat.ch
 techbati.ch
 techbatsuisse.ch
+techbau.ch
 techbausa.ch
 techbb.ch
 techbear.ch
@@ -5180,6 +5187,7 @@ tectil.ch
 tectiq.ch
 tectiqom.ch
 tectis.ch
+tectisnw.ch
 tecto.ch
 tectoday.ch
 tectogoo.ch
@@ -6188,7 +6196,6 @@ teichteam.ch
 teichtechnik.ch
 teichwelt.ch
 teichwelten.ch
-teichwoche.ch
 teichzeitung.ch
 teichzenter.ch
 teichzentrum.ch
@@ -6455,6 +6462,7 @@ teiwazagroup.ch
 teiwi.ch
 teix.ch
 teixeira-consulting.ch
+teixeira.ch
 teixeirahartbodengmbh.ch
 teixos.ch
 teixpartners.ch
@@ -6818,6 +6826,7 @@ teladochealth.ch
 teladvice.ch
 telae.ch
 telafee.ch
+telag-vionex.ch
 telag.ch
 telagcompany.ch
 telai.ch
@@ -9125,6 +9134,7 @@ tempelnacht.ch
 tempelnight.ch
 tempelnights.ch
 tempelraum.ch
+tempelritter.ch
 tempels.ch
 tempelschlaf.ch
 tempeltage.ch
@@ -9390,6 +9400,7 @@ tempoaargau.ch
 tempoag.ch
 tempoanimale.ch
 tempoart.ch
+tempobat.ch
 tempobet.ch
 tempobom.ch
 tempobrain.ch
@@ -11322,6 +11333,7 @@ teppich-gleitschutz.ch
 teppich-guenstiger.ch
 teppich-gutachter.ch
 teppich-haus.ch
+teppich-hilfe.ch
 teppich-hoffmann.ch
 teppich-huber.ch
 teppich-huus-breiti.ch
@@ -11763,6 +11775,7 @@ teratools.ch
 teraurum.ch
 teraveratimes.ch
 teravis.ch
+teravita.ch
 teraviv.ch
 teraviva.ch
 teravyn.ch
@@ -13996,6 +14009,7 @@ terumo.ch
 teruzzi.ch
 terva.ch
 terval.ch
+terve.ch
 tervene.ch
 terveo.ch
 tervica.ch
@@ -14431,6 +14445,7 @@ teslax.ch
 teslify.ch
 teslof.ch
 teslon.ch
+teslord.ch
 teslx.ch
 tesly.ch
 tesmag.ch
@@ -15896,7 +15911,6 @@ testserv.ch
 testserver-my-graphic.ch
 testserver.ch
 testserver1.ch
-testserveroderbern.ch
 testservicemailclassic.ch
 testsgroupe-t2i.ch
 testshop.ch
@@ -16690,6 +16704,7 @@ texep.ch
 texera.ch
 texercises.ch
 texere.ch
+texerio.ch
 texeshop.ch
 texet.ch
 texetera.ch
@@ -17819,6 +17834,7 @@ textweide.ch
 textwelt.ch
 textwelten.ch
 textwerk-langenthal.ch
+textwerk.ch
 textwerke.ch
 textwerken.ch
 textwerkerei.ch

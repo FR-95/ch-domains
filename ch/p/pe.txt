@@ -660,6 +660,7 @@ peaksandpillows.ch
 peaksandwaves.ch
 peaksauber.ch
 peakscale.ch
+peakscore.ch
 peakseminar.ch
 peaksense.ch
 peakservices.ch
@@ -1492,6 +1493,7 @@ pediando.ch
 pediaphysio.ch
 pediart.ch
 pediasphera.ch
+pediater.ch
 pediatherapie.ch
 pediatra-comparazione.ch
 pediatra.ch
@@ -1573,6 +1575,7 @@ pediatric.ch
 pediatriccardiology.ch
 pediatriccenterlocarno.ch
 pediatriccentertessin.ch
+pediatrician.ch
 pediatricians.ch
 pediatricnetworklocarno.ch
 pediatricorthopedics.ch
@@ -2420,7 +2423,6 @@ peggroup.ch
 peggs.ch
 peggy-energy-sa.ch
 peggy-energy.ch
-peggy-pleines.ch
 peggy-sue.ch
 peggy.ch
 peggyjault.ch
@@ -2430,7 +2432,6 @@ peggykuhne.ch
 peggyline.ch
 peggyllaume.ch
 peggypeg.ch
-peggypleines.ch
 peggyporschen.ch
 peggys-leinwandbilder.ch
 peggys.ch
@@ -3471,6 +3472,8 @@ pelvicathletics.ch
 pelvicbubble.ch
 pelviccongestion.ch
 pelviceducation.ch
+pelvicenter-schweiz.ch
+pelvicenter-zentrum.ch
 pelvicenter.ch
 pelvicenterticino.ch
 pelvicentro.ch
@@ -4284,6 +4287,7 @@ pension-klosters.ch
 pension-life.ch
 pension-marina.ch
 pension-market.ch
+pension-mit-plan.ch
 pension-muntanella.ch
 pension-nina.ch
 pension-nouvel-horizon.ch
@@ -6140,7 +6144,6 @@ pereiragomes.ch
 pereiraluis.ch
 pereiramaler.ch
 pereiramevstore.ch
-pereiraoliveira.ch
 pereirapeinture.ch
 pereiras-creations.ch
 pereiras-schwyzerhuesli.ch
@@ -7155,6 +7158,7 @@ perfun.ch
 perfunc.ch
 perfure.ch
 perfusion-fer.ch
+perfusion.ch
 perfusionx.ch
 perfuturo.ch
 perfwave.ch
@@ -7195,7 +7199,6 @@ pergola-bioclimatique-vaud.ch
 pergola-bioclimatique.ch
 pergola-bioclimatiques.ch
 pergola-bioklimatische.ch
-pergola-concept.ch
 pergola-couvert.ch
 pergola-design.ch
 pergola-espaceetlumiere-fribourg.ch
@@ -7264,6 +7267,7 @@ pergolashop.ch
 pergolasolaire.ch
 pergolastar.ch
 pergolastoren.ch
+pergolasuisse.ch
 pergolasvegetales.ch
 pergolaswiss.ch
 pergolathalhammer.ch
@@ -7686,6 +7690,7 @@ perlasca.ch
 perlasdelcaribe.ch
 perlaska.ch
 perlaskafc.ch
+perlasolutions.ch
 perlastone.ch
 perlasuisse.ch
 perlasvizzera.ch
@@ -7720,6 +7725,7 @@ perle-en-chemin.ch
 perle-huesli.ch
 perle-im-holz.ch
 perle-internet.ch
+perle-melide.ch
 perle-noire.ch
 perle-openair.ch
 perle-rhone.ch
@@ -8776,7 +8782,6 @@ permis-ne.ch
 permis-pph.ch
 permis-remorque-nyon.ch
 permis-remorque.ch
-permis-s.ch
 permis-scooter.ch
 permis-scooters.ch
 permis-sejour.ch
@@ -9252,7 +9257,6 @@ perrincomputers.ch
 perrinconsulting.ch
 perrine.ch
 perrinformatique.ch
-perrinfpv.ch
 perring.ch
 perrini.ch
 perrinjaquet-gartenbau.ch
@@ -9844,6 +9848,7 @@ personal-match.ch
 personal-messe.ch
 personal-monday.ch
 personal-music-tools.ch
+personal-muth.ch
 personal-nutrition.ch
 personal-offerte.ch
 personal-offerten.ch
@@ -9870,6 +9875,7 @@ personal-power.ch
 personal-profi.ch
 personal-profil.ch
 personal-progress.ch
+personal-protect.ch
 personal-protection.ch
 personal-psychologie.ch
 personal-purpose.ch
@@ -13647,6 +13653,7 @@ petitbubbles.ch
 petitbudapest.ch
 petitbudget.ch
 petitcadeau.ch
+petitcalibre-moutier.ch
 petitcalin.ch
 petitcanada.ch
 petitcanard.ch
@@ -13670,7 +13677,6 @@ petitcoco.ch
 petitcoeur.ch
 petitcomite.ch
 petitconcert.ch
-petitconcerto.ch
 petitconseil.ch
 petitcorneille.ch
 petitcostaud.ch
@@ -14106,7 +14112,6 @@ petknu.ch
 petkoag.ch
 petkoglou.ch
 petkov.ch
-petkovic-consulting.ch
 petkovic-immo.ch
 petkovic.ch
 petkovicconsulting.ch
@@ -14983,6 +14988,7 @@ petshipping.ch
 petshop-bieri.ch
 petshop.ch
 petshop24.ch
+petshopargos.ch
 petshopboys.ch
 petshopi.ch
 petshopping.ch

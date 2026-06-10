@@ -633,7 +633,6 @@ kraftimalltag.ch
 kraftindir.ch
 kraftinsel.ch
 kraftis.ch
-kraftjungs.ch
 kraftkammer.ch
 kraftkarte.ch
 kraftkarten.ch
@@ -1798,7 +1797,6 @@ krankontrolle.ch
 krankschreibung.ch
 krankundgesund.ch
 krankurs.ch
-kranky.ch
 kranliker.ch
 kranlog.ch
 kranmech.ch
@@ -2471,7 +2469,6 @@ krayons.ch
 krayss.ch
 krayvik.ch
 krayz.ch
-kraze.ch
 krazo.ch
 krazoa.ch
 krazy-classic.ch
@@ -4040,6 +4037,7 @@ kreditorenbuchhaltung.ch
 kreditorenmanagement.ch
 kreditorenprozess.ch
 kreditorenverband.ch
+kreditozer.ch
 kreditpartner-selvalingam.ch
 kreditpartner.ch
 kreditpartner360.ch
@@ -4100,6 +4098,7 @@ kreditvergleiche.ch
 kreditvergleichen.ch
 kreditvergleicher.ch
 kreditvergleichonline.ch
+kreditvergleichsboerse.ch
 kreditvergleichschweiz.ch
 kreditvermittler.ch
 kreditvermittlung.ch
@@ -4336,7 +4335,6 @@ kreisflohmi.ch
 kreisform.ch
 kreisforme.ch
 kreisforst.ch
-kreisgastro.ch
 kreisgenuss.ch
 kreisgeometer-freiamt.ch
 kreisgerichtswahlen.ch
@@ -5258,6 +5256,7 @@ krev.ch
 kreva.ch
 krevette.ch
 krevo.ch
+krevosport.ch
 krew.ch
 krewa.ch
 krewin.ch
@@ -6533,6 +6532,7 @@ kroener-aviation.ch
 kroener-kosmetik.ch
 kroener-starke.ch
 kroener.ch
+kroenerdesign.ch
 kroeni.ch
 kroening-beschichtungen.ch
 kroenlein.ch
@@ -7246,6 +7246,7 @@ krudolf.ch
 krueck.ch
 krueckemeyer.ch
 kruecken-butler.ch
+kruecken.ch
 krueckenstaender.ch
 kruedener.ch
 kruedewagen.ch

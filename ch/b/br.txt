@@ -500,6 +500,7 @@ braendle-zivilschutz.ch
 braendle.ch
 braendleag.ch
 braendlearchitektur.ch
+braendlebau.ch
 braendlebrandschutz.ch
 braendledruck.ch
 braendleenergie.ch
@@ -1072,10 +1073,7 @@ braingroup.ch
 brainguard.ch
 brainguards.ch
 braingym.ch
-braingymschweiz.ch
 braingymsuisse.ch
-braingymsvizzera.ch
-braingymswitzerland.ch
 brainhack.ch
 brainhall.ch
 brainhance.ch
@@ -1713,6 +1711,7 @@ branchezvous.ch
 branchi.ch
 branchimateriali.ch
 branching.ch
+branchingtales.ch
 branchini.ch
 branchli.ch
 branchlight.ch
@@ -1765,6 +1764,7 @@ brand-conception.ch
 brand-consultant.ch
 brand-consultants.ch
 brand-crimes.ch
+brand-culture.ch
 brand-designer.ch
 brand-ding.ch
 brand-eins.ch
@@ -1851,6 +1851,8 @@ brand-some.ch
 brand-space.ch
 brand-sprint.ch
 brand-squad.ch
+brand-stories.ch
+brand-story.ch
 brand-strategie.ch
 brand-strategy.ch
 brand-street.ch
@@ -2035,6 +2037,7 @@ branddevelopment.ch
 brandding.ch
 branddiscounter.ch
 branddna.ch
+branddomain.ch
 branddriven.ch
 branddrvn.ch
 brandeau.ch
@@ -2613,6 +2616,7 @@ brandscale.ch
 brandscape.ch
 brandscapes.ch
 brandschaden-gutachter.ch
+brandschaden-hilfe.ch
 brandschaden-online.ch
 brandschaden.ch
 brandschaden247.ch
@@ -3757,7 +3761,6 @@ brassquintet.ch
 brassquintett.ch
 brassquintettstilbruch.ch
 brassring.ch
-brassriver.ch
 brasstwist.ch
 brassufdrgass.ch
 brassus.ch
@@ -5013,7 +5016,6 @@ bread.ch
 breadandbloody.ch
 breadandbutter.ch
 breadandcakes.ch
-breadandgoods.ch
 breadandmore.ch
 breadandsalt.ch
 breadangel.ch
@@ -5606,6 +5608,7 @@ breezemax.ch
 breezeofbeauty.ch
 breezeofink.ch
 breezeoh.ch
+breezeportable.ch
 breezer.ch
 breezerestaurant.ch
 breezetec.ch
@@ -6680,7 +6683,6 @@ bretonnieres24.ch
 brets.ch
 bretscher-ag.ch
 bretscher-engineering.ch
-bretscher-gartenbau.ch
 bretscher-gruppe.ch
 bretscher-holding.ch
 bretscher-ls.ch
@@ -7591,7 +7593,6 @@ bricolab.ch
 bricolage-bible.ch
 bricolage-bible7.ch
 bricolage-domicile-geneve.ch
-bricolage-habitat.ch
 bricolageneve.ch
 bricolagepertutti.ch
 bricolages.ch
@@ -12193,6 +12194,7 @@ brotherhoodofsteel.ch
 brotherkaelin.ch
 brotherlabs.ch
 brotherli.ch
+brothern.ch
 brothernaehmaschine.ch
 brothernaehmaschinen.ch
 brotherofcause.ch
@@ -12467,6 +12469,7 @@ brownify.ch
 browning-suisse.ch
 browninnovations.ch
 brownkeller.ch
+brownmanagement.ch
 brownpanther.ch
 brownsbrocki.ch
 brownseapub.ch
@@ -12722,6 +12725,7 @@ brucebet.ch
 brucebetcasino.ch
 brucedarnell.ch
 brucedental.ch
+brucelabs.ch
 brucemerkofer.ch
 brucemi.ch
 brucepollock.ch
@@ -12729,6 +12733,7 @@ bruceprinting.ch
 bruceroberts.ch
 brucespringsteen.ch
 bruceturner.ch
+bruceventures.ch
 brucewayne.ch
 bruceyim.ch
 bruch-consulting.ch
@@ -13866,6 +13871,7 @@ brunberatungen.ch
 brunbetrieb.ch
 brunbyte.ch
 brunch-a-domicile.ch
+brunch-bag.ch
 brunch-basel.ch
 brunch-brothers.ch
 brunch-buffet.ch
@@ -13909,6 +13915,7 @@ brunchandcake.ch
 brunchandco.ch
 brunchandhomes.ch
 brunchathome.ch
+brunchbag.ch
 brunchbit.ch
 brunchblog.ch
 brunchbox.ch
@@ -15639,7 +15646,6 @@ bruttin.ch
 bruttinarchitectes.ch
 bruttinchauffage.ch
 brutto-netto-grenzgaenger.ch
-brutto-netto-rechner-schweiz.ch
 brutto-netto-rechner.ch
 brutto-netto.ch
 brutto.ch

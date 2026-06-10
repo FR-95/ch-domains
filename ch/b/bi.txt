@@ -104,6 +104,7 @@ bi-xp.ch
 bi-zh.ch
 bi-zu.ch
 bi1dung.ch
+bi2app.ch
 bi2b.ch
 bi2i.ch
 bi2run.ch
@@ -1039,6 +1040,7 @@ biblioconnect.ch
 biblioconsult.ch
 bibliocoss.ch
 bibliodalpe.ch
+bibliodeck.ch
 bibliodrama.ch
 bibliodramaundseelsorge.ch
 bibliofilisur.ch
@@ -3900,6 +3902,7 @@ biertram.ch
 biertreber.ch
 biertrend.ch
 biertrinken.ch
+biertrinkerei.ch
 biertrip.ch
 biertruck.ch
 bierufood-zollbrueck.ch
@@ -5373,7 +5376,6 @@ bigyellow.ch
 bigyeti.ch
 bigyourlife.ch
 bigzack.ch
-bigzell.ch
 bigzh.ch
 bigzis.ch
 bigzueri.ch
@@ -6059,6 +6061,7 @@ bike2car.ch
 bike2carry.ch
 bike2drive.ch
 bike2ebike.ch
+bike2fest.ch
 bike2fold.ch
 bike2go.ch
 bike2help.ch
@@ -6336,6 +6339,7 @@ bikeflip.ch
 bikeflow.ch
 bikefolder.ch
 bikeforafrica.ch
+bikeforcause.ch
 bikeforever.ch
 bikefoundation.ch
 bikefox.ch
@@ -6506,6 +6510,8 @@ bikemycity.ch
 biken-tessin.ch
 biken.ch
 bikenation.ch
+bikenb.ch
+bikenbud.ch
 bikenendaz.ch
 bikeness.ch
 bikenet.ch
@@ -7057,7 +7063,9 @@ biketicino.ch
 biketime.ch
 biketipps.ch
 biketires.ch
+biketobrunch.ch
 biketoclimb.ch
+biketodeliver.ch
 biketofold.ch
 biketogo.ch
 biketoload.ch
@@ -7750,7 +7758,6 @@ bilderboerse-zuerich.ch
 bilderboerse.ch
 bilderbogen.ch
 bilderboot.ch
-bilderbox.ch
 bilderboxen.ch
 bilderbu.ch
 bilderbub.ch
@@ -9999,7 +10006,6 @@ bim2field.ch
 bim2fm.ch
 bim2geo.ch
 bim2gis.ch
-bim2kalk.ch
 bim2lim.ch
 bim2log.ch
 bim2npk.ch
@@ -10493,6 +10499,7 @@ bin.ch
 bina-music.ch
 bina-photo.ch
 bina.ch
+binaarinen.ch
 binaartstudio.ch
 binabeauty.ch
 binabi.ch
@@ -11377,7 +11384,6 @@ bio-analytica.ch
 bio-analytika.ch
 bio-anbau.ch
 bio-and-bio.ch
-bio-andes.ch
 bio-andreas.ch
 bio-angus.ch
 bio-antik.ch
@@ -12671,7 +12677,6 @@ biodata.ch
 biodataforum.ch
 biodatascience.ch
 biodavos.ch
-bioday.ch
 biodays.ch
 biodeal.ch
 biodeals.ch
@@ -14114,6 +14119,7 @@ biolade.ch
 bioladebade.ch
 bioladen-brienz.ch
 bioladen-calendula.ch
+bioladen-gossau.ch
 bioladen-lindengarten.ch
 bioladen-pudelwohl.ch
 bioladen-raegawurm.ch
@@ -14522,6 +14528,7 @@ biomedics.ch
 biomedicus.ch
 biomedikamente.ch
 biomedimmun.ch
+biomedinvest.ch
 biomedis.ch
 biomedit.ch
 biomedix.ch
@@ -14724,6 +14731,7 @@ biondo.ch
 biondoautomobile.ch
 biondonero.ch
 biondos-pizza.ch
+biondoscut.ch
 bionds.ch
 bionear.ch
 bionebula.ch
@@ -15177,6 +15185,7 @@ bioresonance-romandie.ch
 bioresonance-sante.ch
 bioresonance-therapie.ch
 bioresonance-therapies.ch
+bioresonance-vitale.ch
 bioresonance-vitalite.ch
 bioresonance.ch
 bioresonancegeneve.ch
@@ -18576,6 +18585,7 @@ bit-bank.ch
 bit-bauer.ch
 bit-bit.ch
 bit-box.ch
+bit-broom.ch
 bit-butler.ch
 bit-cap.ch
 bit-capital.ch
@@ -19356,7 +19366,6 @@ bitcointoys.ch
 bitcointrade.ch
 bitcointrader.ch
 bitcointraders.ch
-bitcointrading.ch
 bitcointrainer.ch
 bitcointraining.ch
 bitcointransaktion.ch
@@ -19662,7 +19671,6 @@ bitlantis.ch
 bitlaun.ch
 bitlearn.ch
 bitled.ch
-bitles.ch
 bitletter.ch
 bitlex.ch
 bitli.ch
@@ -20011,7 +20019,6 @@ bittec.ch
 bittech.ch
 bittedanke.ch
 bitteeinsteigen.ch
-bitteglueck.ch
 bittel-ag.ch
 bittel-hess.ch
 bittel-zermatt.ch
@@ -20023,6 +20030,7 @@ bittemelden.ch
 bittencourt.ch
 bittengo.ch
 bittensor.ch
+bittensorsuisse.ch
 bitter-boost.ch
 bitter-sweet.ch
 bitter-transport.ch

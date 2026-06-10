@@ -2452,7 +2452,6 @@ zelt-center.ch
 zelt-erlebnis.ch
 zelt-event-bern.ch
 zelt-event.ch
-zelt-events.ch
 zelt-expert.ch
 zelt-fondue.ch
 zelt-handel.ch
@@ -6262,6 +6261,7 @@ zetvisions.ch
 zetweb.ch
 zety.ch
 zetz.ch
+zetzbu-rockt.ch
 zetzsche.ch
 zetzwil.ch
 zetzwil24.ch

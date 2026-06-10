@@ -396,7 +396,6 @@ rdv-des-amis.ch
 rdv-des-parents.ch
 rdv-facile.ch
 rdv-fix.ch
-rdv-horns.ch
 rdv-immo.ch
 rdv-institut-hestia.ch
 rdv-institutedelweiss.ch

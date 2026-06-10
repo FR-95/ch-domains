@@ -76,7 +76,6 @@ sz-thermotech.ch
 sz-tiere.ch
 sz-training.ch
 sz-uzwil.ch
-sz-vorsorgeordner.ch
 sz-wahlen.ch
 sz-wier.ch
 sz-wiesengrund.ch
@@ -490,7 +489,6 @@ szvermessung.ch
 szvm.ch
 szvnw.ch
 szvoboda.ch
-szvorsorgeordner.ch
 szvs.ch
 szw-online.ch
 szw-tagung.ch

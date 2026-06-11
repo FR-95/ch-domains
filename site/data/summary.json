@@ -1,1 +1,824 @@
-[{"date":"2025-10-03","registered":725,"deregistered":539,"total":null},{"date":"2026-01-26","registered":98351,"deregistered":84581,"total":2560098},{"date":"2026-01-27","registered":332,"deregistered":329,"total":2560101},{"date":"2026-01-28","registered":1325,"deregistered":680,"total":2560746},{"date":"2026-01-29","registered":1232,"deregistered":849,"total":2561129},{"date":"2026-01-30","registered":1179,"deregistered":1189,"total":2561119},{"date":"2026-01-31","registered":1135,"deregistered":1673,"total":2560581},{"date":"2026-02-01","registered":829,"deregistered":1560,"total":2559850},{"date":"2026-02-02","registered":597,"deregistered":3128,"total":2557319},{"date":"2026-02-03","registered":2826,"deregistered":1337,"total":2558808},{"date":"2026-02-04","registered":1357,"deregistered":1051,"total":2559114},{"date":"2026-02-05","registered":1269,"deregistered":902,"total":2559481},{"date":"2026-02-06","registered":1113,"deregistered":899,"total":2559695},{"date":"2026-02-07","registered":1155,"deregistered":782,"total":2560068},{"date":"2026-02-08","registered":670,"deregistered":726,"total":2560012},{"date":"2026-02-09","registered":896,"deregistered":1567,"total":2559341},{"date":"2026-02-10","registered":1312,"deregistered":1287,"total":2559366},{"date":"2026-02-11","registered":1391,"deregistered":788,"total":2559969},{"date":"2026-02-12","registered":1369,"deregistered":666,"total":2560672},{"date":"2026-02-13","registered":1104,"deregistered":1150,"total":2560626},{"date":"2026-02-14","registered":1191,"deregistered":680,"total":2561137},{"date":"2026-02-15","registered":755,"deregistered":542,"total":2561350},{"date":"2026-02-16","registered":754,"deregistered":844,"total":2561260},{"date":"2026-02-17","registered":1226,"deregistered":773,"total":2561713},{"date":"2026-02-18","registered":1222,"deregistered":722,"total":2562213},{"date":"2026-02-19","registered":1399,"deregistered":667,"total":2562945},{"date":"2026-02-20","registered":1365,"deregistered":784,"total":2563526},{"date":"2026-02-21","registered":1177,"deregistered":815,"total":2563888},{"date":"2026-02-22","registered":777,"deregistered":503,"total":2564162},{"date":"2026-02-23","registered":849,"deregistered":568,"total":2564443},{"date":"2026-02-24","registered":1157,"deregistered":727,"total":2564873},{"date":"2026-02-25","registered":1351,"deregistered":764,"total":2565460},{"date":"2026-02-26","registered":1215,"deregistered":971,"total":2565704},{"date":"2026-02-27","registered":1186,"deregistered":994,"total":2565896},{"date":"2026-02-28","registered":1107,"deregistered":1505,"total":2565498},{"date":"2026-03-01","registered":601,"deregistered":1671,"total":2564428},{"date":"2026-03-02","registered":866,"deregistered":2220,"total":2563074},{"date":"2026-03-03","registered":1411,"deregistered":923,"total":2563562},{"date":"2026-03-04","registered":1256,"deregistered":860,"total":2563958},{"date":"2026-03-05","registered":1193,"deregistered":698,"total":2564453},{"date":"2026-03-06","registered":1404,"deregistered":731,"total":2565126},{"date":"2026-03-07","registered":1125,"deregistered":717,"total":2565534},{"date":"2026-03-08","registered":723,"deregistered":565,"total":2565692},{"date":"2026-03-09","registered":820,"deregistered":1358,"total":2565154},{"date":"2026-03-10","registered":1392,"deregistered":1004,"total":2565542},{"date":"2026-03-11","registered":1310,"deregistered":828,"total":2566024},{"date":"2026-03-12","registered":1287,"deregistered":826,"total":2566485},{"date":"2026-03-13","registered":1365,"deregistered":760,"total":2567090},{"date":"2026-03-14","registered":1323,"deregistered":685,"total":2567728},{"date":"2026-03-15","registered":1314,"deregistered":591,"total":2568451},{"date":"2026-03-16","registered":991,"deregistered":710,"total":2568732},{"date":"2026-03-17","registered":1516,"deregistered":675,"total":2569573},{"date":"2026-03-18","registered":1345,"deregistered":849,"total":2570069},{"date":"2026-03-19","registered":1374,"deregistered":779,"total":2570664},{"date":"2026-03-20","registered":1213,"deregistered":694,"total":2571183},{"date":"2026-03-21","registered":1317,"deregistered":616,"total":2571884},{"date":"2026-03-22","registered":792,"deregistered":608,"total":2572068},{"date":"2026-03-23","registered":917,"deregistered":713,"total":2572272},{"date":"2026-03-24","registered":1363,"deregistered":725,"total":2572910},{"date":"2026-03-25","registered":1342,"deregistered":643,"total":2573609},{"date":"2026-03-26","registered":1326,"deregistered":704,"total":2574231},{"date":"2026-03-27","registered":1277,"deregistered":659,"total":2574849},{"date":"2026-03-28","registered":1104,"deregistered":642,"total":2575311},{"date":"2026-03-29","registered":876,"deregistered":663,"total":2575524},{"date":"2026-03-30","registered":855,"deregistered":1175,"total":2575204},{"date":"2026-03-31","registered":1393,"deregistered":1290,"total":2575307},{"date":"2026-04-01","registered":1243,"deregistered":2108,"total":2574442},{"date":"2026-04-02","registered":1320,"deregistered":1526,"total":2574236},{"date":"2026-04-03","registered":1211,"deregistered":1005,"total":2574442},{"date":"2026-04-04","registered":762,"deregistered":554,"total":2574650},{"date":"2026-04-05","registered":800,"deregistered":499,"total":2574951},{"date":"2026-04-06","registered":588,"deregistered":541,"total":2574998},{"date":"2026-04-07","registered":854,"deregistered":607,"total":2575245},{"date":"2026-04-08","registered":1262,"deregistered":833,"total":2575674},{"date":"2026-04-09","registered":1316,"deregistered":1464,"total":2575526},{"date":"2026-04-10","registered":1189,"deregistered":889,"total":2575826},{"date":"2026-04-11","registered":1393,"deregistered":674,"total":2576545},{"date":"2026-04-12","registered":817,"deregistered":597,"total":2576765},{"date":"2026-04-13","registered":789,"deregistered":571,"total":2576983},{"date":"2026-04-14","registered":1431,"deregistered":756,"total":2577658},{"date":"2026-04-15","registered":1295,"deregistered":789,"total":2578164},{"date":"2026-04-16","registered":1280,"deregistered":786,"total":2578658},{"date":"2026-04-17","registered":1313,"deregistered":934,"total":2579037},{"date":"2026-04-18","registered":1197,"deregistered":736,"total":2579498},{"date":"2026-04-19","registered":638,"deregistered":479,"total":2579657},{"date":"2026-04-20","registered":892,"deregistered":588,"total":2579961},{"date":"2026-04-21","registered":1367,"deregistered":723,"total":2580605},{"date":"2026-04-22","registered":1320,"deregistered":641,"total":2581284},{"date":"2026-04-23","registered":1156,"deregistered":721,"total":2581719},{"date":"2026-04-24","registered":1157,"deregistered":657,"total":2582219},{"date":"2026-04-25","registered":1064,"deregistered":659,"total":2582624},{"date":"2026-04-26","registered":796,"deregistered":482,"total":2582938},{"date":"2026-04-27","registered":633,"deregistered":620,"total":2582951},{"date":"2026-04-28","registered":1357,"deregistered":759,"total":2583549},{"date":"2026-04-29","registered":1357,"deregistered":1377,"total":2583529},{"date":"2026-04-30","registered":1264,"deregistered":1128,"total":2583665},{"date":"2026-05-01","registered":1291,"deregistered":2948,"total":2582008},{"date":"2026-05-02","registered":1025,"deregistered":825,"total":2582208},{"date":"2026-05-03","registered":708,"deregistered":509,"total":2582407},{"date":"2026-05-04","registered":792,"deregistered":606,"total":2582593},{"date":"2026-05-05","registered":1330,"deregistered":840,"total":2583083},{"date":"2026-05-06","registered":1409,"deregistered":748,"total":2583744},{"date":"2026-05-07","registered":1322,"deregistered":796,"total":2584270},{"date":"2026-05-08","registered":1399,"deregistered":744,"total":2584925},{"date":"2026-05-09","registered":1241,"deregistered":1200,"total":2584966},{"date":"2026-05-10","registered":937,"deregistered":631,"total":2585272},{"date":"2026-05-11","registered":826,"deregistered":590,"total":2585508},{"date":"2026-05-12","registered":1571,"deregistered":727,"total":2586352},{"date":"2026-05-13","registered":1348,"deregistered":783,"total":2586917},{"date":"2026-05-14","registered":1266,"deregistered":765,"total":2587418},{"date":"2026-05-15","registered":1054,"deregistered":588,"total":2587884},{"date":"2026-05-16","registered":1279,"deregistered":563,"total":2588600},{"date":"2026-05-17","registered":832,"deregistered":473,"total":2588959},{"date":"2026-05-18","registered":838,"deregistered":619,"total":2589178},{"date":"2026-05-19","registered":1292,"deregistered":891,"total":2589579},{"date":"2026-05-20","registered":1359,"deregistered":678,"total":2590260},{"date":"2026-05-21","registered":1251,"deregistered":670,"total":2590841},{"date":"2026-05-22","registered":1061,"deregistered":795,"total":2591107},{"date":"2026-05-23","registered":1205,"deregistered":761,"total":2591551},{"date":"2026-05-24","registered":606,"deregistered":511,"total":2591646},{"date":"2026-05-25","registered":647,"deregistered":512,"total":2591781},{"date":"2026-05-26","registered":873,"deregistered":514,"total":2592140},{"date":"2026-05-27","registered":1326,"deregistered":719,"total":2592747},{"date":"2026-05-28","registered":1143,"deregistered":586,"total":2593304},{"date":"2026-05-29","registered":1152,"deregistered":748,"total":2593708},{"date":"2026-05-30","registered":964,"deregistered":880,"total":2593792},{"date":"2026-05-31","registered":584,"deregistered":878,"total":2593498},{"date":"2026-06-01","registered":721,"deregistered":1860,"total":2592359},{"date":"2026-06-02","registered":1429,"deregistered":876,"total":2592912},{"date":"2026-06-03","registered":1497,"deregistered":898,"total":2593511},{"date":"2026-06-04","registered":1336,"deregistered":698,"total":2594149},{"date":"2026-06-05","registered":1295,"deregistered":712,"total":2594732},{"date":"2026-06-06","registered":1176,"deregistered":587,"total":2595321},{"date":"2026-06-07","registered":739,"deregistered":582,"total":2595478},{"date":"2026-06-08","registered":773,"deregistered":645,"total":2595606},{"date":"2026-06-09","registered":1549,"deregistered":1522,"total":2595633}]
+[
+  {
+    "date": "2025-10-03",
+    "registered": 725,
+    "deregistered": 539,
+    "total": null
+  },
+  {
+    "date": "2026-01-26",
+    "registered": 98351,
+    "deregistered": 84581,
+    "total": 2560098
+  },
+  {
+    "date": "2026-01-27",
+    "registered": 332,
+    "deregistered": 329,
+    "total": 2560101
+  },
+  {
+    "date": "2026-01-28",
+    "registered": 1325,
+    "deregistered": 680,
+    "total": 2560746
+  },
+  {
+    "date": "2026-01-29",
+    "registered": 1232,
+    "deregistered": 849,
+    "total": 2561129
+  },
+  {
+    "date": "2026-01-30",
+    "registered": 1179,
+    "deregistered": 1189,
+    "total": 2561119
+  },
+  {
+    "date": "2026-01-31",
+    "registered": 1135,
+    "deregistered": 1673,
+    "total": 2560581
+  },
+  {
+    "date": "2026-02-01",
+    "registered": 829,
+    "deregistered": 1560,
+    "total": 2559850
+  },
+  {
+    "date": "2026-02-02",
+    "registered": 597,
+    "deregistered": 3128,
+    "total": 2557319
+  },
+  {
+    "date": "2026-02-03",
+    "registered": 2826,
+    "deregistered": 1337,
+    "total": 2558808
+  },
+  {
+    "date": "2026-02-04",
+    "registered": 1357,
+    "deregistered": 1051,
+    "total": 2559114
+  },
+  {
+    "date": "2026-02-05",
+    "registered": 1269,
+    "deregistered": 902,
+    "total": 2559481
+  },
+  {
+    "date": "2026-02-06",
+    "registered": 1113,
+    "deregistered": 899,
+    "total": 2559695
+  },
+  {
+    "date": "2026-02-07",
+    "registered": 1155,
+    "deregistered": 782,
+    "total": 2560068
+  },
+  {
+    "date": "2026-02-08",
+    "registered": 670,
+    "deregistered": 726,
+    "total": 2560012
+  },
+  {
+    "date": "2026-02-09",
+    "registered": 896,
+    "deregistered": 1567,
+    "total": 2559341
+  },
+  {
+    "date": "2026-02-10",
+    "registered": 1312,
+    "deregistered": 1287,
+    "total": 2559366
+  },
+  {
+    "date": "2026-02-11",
+    "registered": 1391,
+    "deregistered": 788,
+    "total": 2559969
+  },
+  {
+    "date": "2026-02-12",
+    "registered": 1369,
+    "deregistered": 666,
+    "total": 2560672
+  },
+  {
+    "date": "2026-02-13",
+    "registered": 1104,
+    "deregistered": 1150,
+    "total": 2560626
+  },
+  {
+    "date": "2026-02-14",
+    "registered": 1191,
+    "deregistered": 680,
+    "total": 2561137
+  },
+  {
+    "date": "2026-02-15",
+    "registered": 755,
+    "deregistered": 542,
+    "total": 2561350
+  },
+  {
+    "date": "2026-02-16",
+    "registered": 754,
+    "deregistered": 844,
+    "total": 2561260
+  },
+  {
+    "date": "2026-02-17",
+    "registered": 1226,
+    "deregistered": 773,
+    "total": 2561713
+  },
+  {
+    "date": "2026-02-18",
+    "registered": 1222,
+    "deregistered": 722,
+    "total": 2562213
+  },
+  {
+    "date": "2026-02-19",
+    "registered": 1399,
+    "deregistered": 667,
+    "total": 2562945
+  },
+  {
+    "date": "2026-02-20",
+    "registered": 1365,
+    "deregistered": 784,
+    "total": 2563526
+  },
+  {
+    "date": "2026-02-21",
+    "registered": 1177,
+    "deregistered": 815,
+    "total": 2563888
+  },
+  {
+    "date": "2026-02-22",
+    "registered": 777,
+    "deregistered": 503,
+    "total": 2564162
+  },
+  {
+    "date": "2026-02-23",
+    "registered": 849,
+    "deregistered": 568,
+    "total": 2564443
+  },
+  {
+    "date": "2026-02-24",
+    "registered": 1157,
+    "deregistered": 727,
+    "total": 2564873
+  },
+  {
+    "date": "2026-02-25",
+    "registered": 1351,
+    "deregistered": 764,
+    "total": 2565460
+  },
+  {
+    "date": "2026-02-26",
+    "registered": 1215,
+    "deregistered": 971,
+    "total": 2565704
+  },
+  {
+    "date": "2026-02-27",
+    "registered": 1186,
+    "deregistered": 994,
+    "total": 2565896
+  },
+  {
+    "date": "2026-02-28",
+    "registered": 1107,
+    "deregistered": 1505,
+    "total": 2565498
+  },
+  {
+    "date": "2026-03-01",
+    "registered": 601,
+    "deregistered": 1671,
+    "total": 2564428
+  },
+  {
+    "date": "2026-03-02",
+    "registered": 866,
+    "deregistered": 2220,
+    "total": 2563074
+  },
+  {
+    "date": "2026-03-03",
+    "registered": 1411,
+    "deregistered": 923,
+    "total": 2563562
+  },
+  {
+    "date": "2026-03-04",
+    "registered": 1256,
+    "deregistered": 860,
+    "total": 2563958
+  },
+  {
+    "date": "2026-03-05",
+    "registered": 1193,
+    "deregistered": 698,
+    "total": 2564453
+  },
+  {
+    "date": "2026-03-06",
+    "registered": 1404,
+    "deregistered": 731,
+    "total": 2565126
+  },
+  {
+    "date": "2026-03-07",
+    "registered": 1125,
+    "deregistered": 717,
+    "total": 2565534
+  },
+  {
+    "date": "2026-03-08",
+    "registered": 723,
+    "deregistered": 565,
+    "total": 2565692
+  },
+  {
+    "date": "2026-03-09",
+    "registered": 820,
+    "deregistered": 1358,
+    "total": 2565154
+  },
+  {
+    "date": "2026-03-10",
+    "registered": 1392,
+    "deregistered": 1004,
+    "total": 2565542
+  },
+  {
+    "date": "2026-03-11",
+    "registered": 1310,
+    "deregistered": 828,
+    "total": 2566024
+  },
+  {
+    "date": "2026-03-12",
+    "registered": 1287,
+    "deregistered": 826,
+    "total": 2566485
+  },
+  {
+    "date": "2026-03-13",
+    "registered": 1365,
+    "deregistered": 760,
+    "total": 2567090
+  },
+  {
+    "date": "2026-03-14",
+    "registered": 1323,
+    "deregistered": 685,
+    "total": 2567728
+  },
+  {
+    "date": "2026-03-15",
+    "registered": 1314,
+    "deregistered": 591,
+    "total": 2568451
+  },
+  {
+    "date": "2026-03-16",
+    "registered": 991,
+    "deregistered": 710,
+    "total": 2568732
+  },
+  {
+    "date": "2026-03-17",
+    "registered": 1516,
+    "deregistered": 675,
+    "total": 2569573
+  },
+  {
+    "date": "2026-03-18",
+    "registered": 1345,
+    "deregistered": 849,
+    "total": 2570069
+  },
+  {
+    "date": "2026-03-19",
+    "registered": 1374,
+    "deregistered": 779,
+    "total": 2570664
+  },
+  {
+    "date": "2026-03-20",
+    "registered": 1213,
+    "deregistered": 694,
+    "total": 2571183
+  },
+  {
+    "date": "2026-03-21",
+    "registered": 1317,
+    "deregistered": 616,
+    "total": 2571884
+  },
+  {
+    "date": "2026-03-22",
+    "registered": 792,
+    "deregistered": 608,
+    "total": 2572068
+  },
+  {
+    "date": "2026-03-23",
+    "registered": 917,
+    "deregistered": 713,
+    "total": 2572272
+  },
+  {
+    "date": "2026-03-24",
+    "registered": 1363,
+    "deregistered": 725,
+    "total": 2572910
+  },
+  {
+    "date": "2026-03-25",
+    "registered": 1342,
+    "deregistered": 643,
+    "total": 2573609
+  },
+  {
+    "date": "2026-03-26",
+    "registered": 1326,
+    "deregistered": 704,
+    "total": 2574231
+  },
+  {
+    "date": "2026-03-27",
+    "registered": 1277,
+    "deregistered": 659,
+    "total": 2574849
+  },
+  {
+    "date": "2026-03-28",
+    "registered": 1104,
+    "deregistered": 642,
+    "total": 2575311
+  },
+  {
+    "date": "2026-03-29",
+    "registered": 876,
+    "deregistered": 663,
+    "total": 2575524
+  },
+  {
+    "date": "2026-03-30",
+    "registered": 855,
+    "deregistered": 1175,
+    "total": 2575204
+  },
+  {
+    "date": "2026-03-31",
+    "registered": 1393,
+    "deregistered": 1290,
+    "total": 2575307
+  },
+  {
+    "date": "2026-04-01",
+    "registered": 1243,
+    "deregistered": 2108,
+    "total": 2574442
+  },
+  {
+    "date": "2026-04-02",
+    "registered": 1320,
+    "deregistered": 1526,
+    "total": 2574236
+  },
+  {
+    "date": "2026-04-03",
+    "registered": 1211,
+    "deregistered": 1005,
+    "total": 2574442
+  },
+  {
+    "date": "2026-04-04",
+    "registered": 762,
+    "deregistered": 554,
+    "total": 2574650
+  },
+  {
+    "date": "2026-04-05",
+    "registered": 800,
+    "deregistered": 499,
+    "total": 2574951
+  },
+  {
+    "date": "2026-04-06",
+    "registered": 588,
+    "deregistered": 541,
+    "total": 2574998
+  },
+  {
+    "date": "2026-04-07",
+    "registered": 854,
+    "deregistered": 607,
+    "total": 2575245
+  },
+  {
+    "date": "2026-04-08",
+    "registered": 1262,
+    "deregistered": 833,
+    "total": 2575674
+  },
+  {
+    "date": "2026-04-09",
+    "registered": 1316,
+    "deregistered": 1464,
+    "total": 2575526
+  },
+  {
+    "date": "2026-04-10",
+    "registered": 1189,
+    "deregistered": 889,
+    "total": 2575826
+  },
+  {
+    "date": "2026-04-11",
+    "registered": 1393,
+    "deregistered": 674,
+    "total": 2576545
+  },
+  {
+    "date": "2026-04-12",
+    "registered": 817,
+    "deregistered": 597,
+    "total": 2576765
+  },
+  {
+    "date": "2026-04-13",
+    "registered": 789,
+    "deregistered": 571,
+    "total": 2576983
+  },
+  {
+    "date": "2026-04-14",
+    "registered": 1431,
+    "deregistered": 756,
+    "total": 2577658
+  },
+  {
+    "date": "2026-04-15",
+    "registered": 1295,
+    "deregistered": 789,
+    "total": 2578164
+  },
+  {
+    "date": "2026-04-16",
+    "registered": 1280,
+    "deregistered": 786,
+    "total": 2578658
+  },
+  {
+    "date": "2026-04-17",
+    "registered": 1313,
+    "deregistered": 934,
+    "total": 2579037
+  },
+  {
+    "date": "2026-04-18",
+    "registered": 1197,
+    "deregistered": 736,
+    "total": 2579498
+  },
+  {
+    "date": "2026-04-19",
+    "registered": 638,
+    "deregistered": 479,
+    "total": 2579657
+  },
+  {
+    "date": "2026-04-20",
+    "registered": 892,
+    "deregistered": 588,
+    "total": 2579961
+  },
+  {
+    "date": "2026-04-21",
+    "registered": 1367,
+    "deregistered": 723,
+    "total": 2580605
+  },
+  {
+    "date": "2026-04-22",
+    "registered": 1320,
+    "deregistered": 641,
+    "total": 2581284
+  },
+  {
+    "date": "2026-04-23",
+    "registered": 1156,
+    "deregistered": 721,
+    "total": 2581719
+  },
+  {
+    "date": "2026-04-24",
+    "registered": 1157,
+    "deregistered": 657,
+    "total": 2582219
+  },
+  {
+    "date": "2026-04-25",
+    "registered": 1064,
+    "deregistered": 659,
+    "total": 2582624
+  },
+  {
+    "date": "2026-04-26",
+    "registered": 796,
+    "deregistered": 482,
+    "total": 2582938
+  },
+  {
+    "date": "2026-04-27",
+    "registered": 633,
+    "deregistered": 620,
+    "total": 2582951
+  },
+  {
+    "date": "2026-04-28",
+    "registered": 1357,
+    "deregistered": 759,
+    "total": 2583549
+  },
+  {
+    "date": "2026-04-29",
+    "registered": 1357,
+    "deregistered": 1377,
+    "total": 2583529
+  },
+  {
+    "date": "2026-04-30",
+    "registered": 1264,
+    "deregistered": 1128,
+    "total": 2583665
+  },
+  {
+    "date": "2026-05-01",
+    "registered": 1291,
+    "deregistered": 2948,
+    "total": 2582008
+  },
+  {
+    "date": "2026-05-02",
+    "registered": 1025,
+    "deregistered": 825,
+    "total": 2582208
+  },
+  {
+    "date": "2026-05-03",
+    "registered": 708,
+    "deregistered": 509,
+    "total": 2582407
+  },
+  {
+    "date": "2026-05-04",
+    "registered": 792,
+    "deregistered": 606,
+    "total": 2582593
+  },
+  {
+    "date": "2026-05-05",
+    "registered": 1330,
+    "deregistered": 840,
+    "total": 2583083
+  },
+  {
+    "date": "2026-05-06",
+    "registered": 1409,
+    "deregistered": 748,
+    "total": 2583744
+  },
+  {
+    "date": "2026-05-07",
+    "registered": 1322,
+    "deregistered": 796,
+    "total": 2584270
+  },
+  {
+    "date": "2026-05-08",
+    "registered": 1399,
+    "deregistered": 744,
+    "total": 2584925
+  },
+  {
+    "date": "2026-05-09",
+    "registered": 1241,
+    "deregistered": 1200,
+    "total": 2584966
+  },
+  {
+    "date": "2026-05-10",
+    "registered": 937,
+    "deregistered": 631,
+    "total": 2585272
+  },
+  {
+    "date": "2026-05-11",
+    "registered": 826,
+    "deregistered": 590,
+    "total": 2585508
+  },
+  {
+    "date": "2026-05-12",
+    "registered": 1571,
+    "deregistered": 727,
+    "total": 2586352
+  },
+  {
+    "date": "2026-05-13",
+    "registered": 1348,
+    "deregistered": 783,
+    "total": 2586917
+  },
+  {
+    "date": "2026-05-14",
+    "registered": 1266,
+    "deregistered": 765,
+    "total": 2587418
+  },
+  {
+    "date": "2026-05-15",
+    "registered": 1054,
+    "deregistered": 588,
+    "total": 2587884
+  },
+  {
+    "date": "2026-05-16",
+    "registered": 1279,
+    "deregistered": 563,
+    "total": 2588600
+  },
+  {
+    "date": "2026-05-17",
+    "registered": 832,
+    "deregistered": 473,
+    "total": 2588959
+  },
+  {
+    "date": "2026-05-18",
+    "registered": 838,
+    "deregistered": 619,
+    "total": 2589178
+  },
+  {
+    "date": "2026-05-19",
+    "registered": 1292,
+    "deregistered": 891,
+    "total": 2589579
+  },
+  {
+    "date": "2026-05-20",
+    "registered": 1359,
+    "deregistered": 678,
+    "total": 2590260
+  },
+  {
+    "date": "2026-05-21",
+    "registered": 1251,
+    "deregistered": 670,
+    "total": 2590841
+  },
+  {
+    "date": "2026-05-22",
+    "registered": 1061,
+    "deregistered": 795,
+    "total": 2591107
+  },
+  {
+    "date": "2026-05-23",
+    "registered": 1205,
+    "deregistered": 761,
+    "total": 2591551
+  },
+  {
+    "date": "2026-05-24",
+    "registered": 606,
+    "deregistered": 511,
+    "total": 2591646
+  },
+  {
+    "date": "2026-05-25",
+    "registered": 647,
+    "deregistered": 512,
+    "total": 2591781
+  },
+  {
+    "date": "2026-05-26",
+    "registered": 873,
+    "deregistered": 514,
+    "total": 2592140
+  },
+  {
+    "date": "2026-05-27",
+    "registered": 1326,
+    "deregistered": 719,
+    "total": 2592747
+  },
+  {
+    "date": "2026-05-28",
+    "registered": 1143,
+    "deregistered": 586,
+    "total": 2593304
+  },
+  {
+    "date": "2026-05-29",
+    "registered": 1152,
+    "deregistered": 748,
+    "total": 2593708
+  },
+  {
+    "date": "2026-05-30",
+    "registered": 964,
+    "deregistered": 880,
+    "total": 2593792
+  },
+  {
+    "date": "2026-05-31",
+    "registered": 584,
+    "deregistered": 878,
+    "total": 2593498
+  },
+  {
+    "date": "2026-06-01",
+    "registered": 721,
+    "deregistered": 1860,
+    "total": 2592359
+  },
+  {
+    "date": "2026-06-02",
+    "registered": 1429,
+    "deregistered": 876,
+    "total": 2592912
+  },
+  {
+    "date": "2026-06-03",
+    "registered": 1497,
+    "deregistered": 898,
+    "total": 2593511
+  },
+  {
+    "date": "2026-06-04",
+    "registered": 1336,
+    "deregistered": 698,
+    "total": 2594149
+  },
+  {
+    "date": "2026-06-05",
+    "registered": 1295,
+    "deregistered": 712,
+    "total": 2594732
+  },
+  {
+    "date": "2026-06-06",
+    "registered": 1176,
+    "deregistered": 587,
+    "total": 2595321
+  },
+  {
+    "date": "2026-06-07",
+    "registered": 739,
+    "deregistered": 582,
+    "total": 2595478
+  },
+  {
+    "date": "2026-06-08",
+    "registered": 773,
+    "deregistered": 645,
+    "total": 2595606
+  },
+  {
+    "date": "2026-06-09",
+    "registered": 1549,
+    "deregistered": 1522,
+    "total": 2595633
+  },
+  {
+    "date": "2026-06-11",
+    "registered": 828,
+    "deregistered": 295,
+    "total": 2597328
+  }
+]

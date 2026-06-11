@@ -1052,6 +1052,7 @@ successionsuisse.ch
 successisabit.ch
 successit.ch
 successiun.ch
+successlab.ch
 successlife.ch
 successlogic.ch
 successlyness.ch
@@ -2870,6 +2871,7 @@ suisse-3d.ch
 suisse-a-pied.ch
 suisse-a-velo.ch
 suisse-a-vtt.ch
+suisse-accompagnement.ch
 suisse-acoustique.ch
 suisse-active.ch
 suisse-acupuncture.ch
@@ -3504,6 +3506,7 @@ suisse4win.ch
 suisse7.ch
 suisseabo.ch
 suisseacademy.ch
+suisseaccompagnement.ch
 suisseaccounting.ch
 suisseacoustique.ch
 suisseactivites.ch

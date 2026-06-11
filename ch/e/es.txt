@@ -3881,6 +3881,7 @@ espacetoutourelax.ch
 espacetrace.ch
 espacetroc.ch
 espacetroinex.ch
+espacetypo.ch
 espaceval.ch
 espacevalderuz.ch
 espacevelos.ch
@@ -7137,6 +7138,7 @@ estrategia.ch
 estrategy.ch
 estratto-del-casellario-giudiziale.ch
 estratto-delle-esecuzioni.ch
+estratto-esecuzioni.ch
 estratto-rc.ch
 estratto-specifico.ch
 estratto-uef.ch

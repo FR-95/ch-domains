@@ -1526,7 +1526,6 @@ openmedclub.ch
 openmedhub.ch
 openmedia.ch
 openmedical.ch
-openmedicalhealthinstitutions.ch
 openmedicine.ch
 openmedico.ch
 openmediq.ch
@@ -4431,6 +4430,7 @@ optimune.ch
 optimup.ch
 optimus-amicus.ch
 optimus-automation.ch
+optimus-bot.ch
 optimus-consulting.ch
 optimus-finance.ch
 optimus-finanz.ch
@@ -4443,6 +4443,7 @@ optimus-solutions.ch
 optimus-stoves.ch
 optimus-treuhand.ch
 optimusag.ch
+optimusbot.ch
 optimuscasa.ch
 optimusclean.ch
 optimuse.ch

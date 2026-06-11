@@ -630,6 +630,7 @@ shake-my-day.ch
 shake-off.ch
 shake-over.ch
 shake-produktionen.ch
+shake-reisen.ch
 shake-shack.ch
 shake-shop.ch
 shake-theater.ch
@@ -711,6 +712,7 @@ shakhtarin.ch
 shakikha45.ch
 shakila.ch
 shakin-piranhas.ch
+shakin.ch
 shakinah.ch
 shakingideas.ch
 shakingshoes.ch
@@ -2231,6 +2233,7 @@ shazam.ch
 shazamderfilm.ch
 shazamlefilm.ch
 shazammovie.ch
+shazan.ch
 shazay.ch
 shaznailham.ch
 shazral.ch
@@ -3026,6 +3029,7 @@ sherlockhomes.ch
 sherlocklounge.ch
 sherlockmuseum.ch
 sherlockroom.ch
+sherlogolms.ch
 shermaine-patrick.ch
 sherman-engineering.ch
 sherman.ch
@@ -4165,6 +4169,7 @@ shikatsu-tiershiatsu.ch
 shikatsu.ch
 shikayaphantom.ch
 shiki-academy.ch
+shiki.ch
 shikifuton.ch
 shikimori.ch
 shikira.ch
@@ -6076,6 +6081,7 @@ shop-parkresort.ch
 shop-patrouillesuisse.ch
 shop-pay.ch
 shop-peppersonic.ch
+shop-perfect.ch
 shop-pfotenshop.ch
 shop-pharmacie.ch
 shop-picture-point.ch
@@ -6938,6 +6944,7 @@ shopperbag.ch
 shopperdiscountsandrewards.ch
 shopperei.ch
 shopperello.ch
+shopperfect.ch
 shopperia.ch
 shoppermetrics.ch
 shoppers.ch
@@ -7035,7 +7042,6 @@ shopping-universe.ch
 shopping-uster-galerie.ch
 shopping-versicherung.ch
 shopping-verzeichnis.ch
-shopping-walke.ch
 shopping-walkestrasse.ch
 shopping-world.ch
 shopping-zuerich.ch
@@ -7234,7 +7240,6 @@ shoppingvergleiche.ch
 shoppingversicherung.ch
 shoppingverzeichnis.ch
 shoppingville.ch
-shoppingwalke.ch
 shoppingwalkestrasse.ch
 shoppingwithgeraldinestyle.ch
 shoppingxl.ch

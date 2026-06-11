@@ -143,6 +143,7 @@ la-bottega.ch
 la-bouche-rit.ch
 la-boucherie.ch
 la-boucle-traiteur.ch
+la-bougie-enchantee.ch
 la-bouillotte.ch
 la-boulange.ch
 la-boulangerie-brevine.ch
@@ -5742,6 +5743,7 @@ lacompagnieurbaine.ch
 lacompana.ch
 lacompany.ch
 lacompetencerie.ch
+lacomplice-traiteur.ch
 lacomplice.ch
 lacompostela.ch
 lacompostiere.ch
@@ -6025,7 +6027,6 @@ lacrisalide.ch
 lacrise.ch
 lacriseal.ch
 lacroc.ch
-lacroccantezza.ch
 lacroche-choeur.ch
 lacrochechoeur.ch
 lacroisee-sport.ch
@@ -9654,7 +9655,6 @@ lagru.ch
 lagrue-mlc.ch
 lagrue.ch
 lagruebaroque.ch
-lagrume.ch
 lagruvia.ch
 lagruyere.ch
 lagruyerearchives.ch
@@ -10519,6 +10519,7 @@ lakelucerne-apartments.ch
 lakelucerne-storage.ch
 lakelucerne.ch
 lakelucerneregion.ch
+lakelucerneresidence.ch
 lakelucernesothebysrealty.ch
 lakelugano.ch
 lakeluganogroup.ch
@@ -11154,6 +11155,7 @@ laleonardine.ch
 laleonessa-waedi.ch
 laleonessa.ch
 lalepay.ch
+lalephotography.ch
 lalepiote.ch
 lalere.ch
 lales.ch
@@ -11824,7 +11826,6 @@ lamaluckys.ch
 lamalux.ch
 lamaluxkompara.ch
 lamamandesdoudous.ch
-lamammapizza.ch
 lamammarestaurant.ch
 lamana-kraft.ch
 lamana.ch
@@ -14742,6 +14743,8 @@ landofpure.ch
 landogar.ch
 landoldies.ch
 landoletta.ch
+landolf-invest.ch
+landolf-studios.ch
 landolf.ch
 landolfhuber.ch
 landolfhuberjuweliere.ch
@@ -15483,6 +15486,7 @@ lang-fristig.ch
 lang-garten-tiefbau.ch
 lang-garten.ch
 lang-gartengestaltung.ch
+lang-growth-advisory.ch
 lang-holz.ch
 lang-holzbau.ch
 lang-industriespenglerei.ch
@@ -15843,6 +15847,8 @@ langgasse-baar.ch
 langgasse.ch
 langgasse41-43.ch
 langgasse71.ch
+langgrowth.ch
+langgrowthadvisory.ch
 langgruet99.ch
 langgutlager.ch
 langgutlagertechnik.ch
@@ -17522,7 +17528,6 @@ lapetite-design.ch
 lapetite-enroute.ch
 lapetite-prairie.ch
 lapetite.ch
-lapetiteacademie.ch
 lapetiteadresse.ch
 lapetiteagence.ch
 lapetiteagencedetraduction.ch
@@ -21178,6 +21183,7 @@ lashcorner.ch
 lashcouture.ch
 lashdefine.ch
 lashdeluxe.ch
+lashdii.ch
 lashe.ch
 lashedappear.ch
 lashelle.ch
@@ -21253,7 +21259,6 @@ lashop.ch
 lashpavao.ch
 lashperfect.ch
 lashperfection.ch
-lashrebel.ch
 lashroom.ch
 lashsociety.ch
 lashstyle.ch
@@ -26582,6 +26587,7 @@ laveritesurlepoids.ch
 lavermuteria.ch
 laverna.ch
 laverneyre.ch
+lavero.ch
 laverony.ch
 laverrerie.ch
 laverrerie24.ch
@@ -28104,6 +28110,7 @@ lazyadmin.ch
 lazybag.ch
 lazybags.ch
 lazybar.ch
+lazybarcasinoonline.ch
 lazybeany.ch
 lazybearlodge.ch
 lazybird.ch

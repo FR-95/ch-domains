@@ -1969,6 +1969,7 @@ my-women.ch
 my-wood-shop.ch
 my-wood.ch
 my-work-time.ch
+my-workespace.ch
 my-workout.ch
 my-workplace.ch
 my-works.ch
@@ -3945,7 +3946,6 @@ mycommerce.ch
 mycommerzbank.ch
 mycommune.ch
 mycommunity.ch
-mycommunityfood.ch
 mycomonthey.ch
 mycomp.ch
 mycompanio.ch
@@ -6891,6 +6891,7 @@ mykonosdeluxe.ch
 mykonosevents.ch
 mykonosparty.ch
 mykonosrestaurantfaulensee-spiez.ch
+mykonosroyale.ch
 mykonoszuerich.ch
 mykonoszuri.ch
 mykonoszurich.ch
@@ -6993,6 +6994,7 @@ mylaeus.ch
 mylagom.ch
 mylagoon.ch
 mylaguna.ch
+mylah.ch
 mylakemotors.ch
 mylam.ch
 mylamarr.ch
@@ -12328,7 +12330,6 @@ myvino.ch
 myvinodeal.ch
 myvinoteca.ch
 myvinothek.ch
-myvintagedeko.ch
 myvintagewedding.ch
 myvinum.ch
 myvinyl.ch

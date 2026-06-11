@@ -3951,6 +3951,7 @@ softwarebilliger.ch
 softwareblog.ch
 softwarebox.ch
 softwarebrauerei.ch
+softwarebuddy.ch
 softwarebude.ch
 softwarebysage.ch
 softwarecarpentry.ch
@@ -13144,6 +13145,7 @@ songpan.ch
 songpinong.ch
 songprise.ch
 songre-nooma.ch
+songreiter.ch
 songria.ch
 songroup.ch
 songs-from-sixtyone.ch
@@ -17162,7 +17164,10 @@ sortir-vaud.ch
 sortir.ch
 sortirdelatimide.ch
 sortirdelombre.ch
+sortirdepcsoft.ch
 sortirdestraces.ch
+sortirdewebdev.ch
+sortirdewindev.ch
 sortirdiner.ch
 sortirduburnoutparental.ch
 sortirducadre.ch
@@ -17940,6 +17945,7 @@ sosio.ch
 sosipedia.ch
 sosis.ch
 sosisg.ch
+sosisu.ch
 sosit.ch
 sosito.ch
 sosjack.ch
@@ -20384,6 +20390,7 @@ sous.ch
 sousa-peinture.ch
 sousa-poza.ch
 sousa-reinigung.ch
+sousa-sa.ch
 sousa-shop.ch
 sousa.ch
 sousabones.ch

@@ -46,6 +46,7 @@ wo-sich-hund-und-hase.ch
 wo-sonst.ch
 wo-tanken.ch
 wo-unrecht-zu-recht-wird.ch
+wo-wandern.ch
 wo-wann-was.ch
 wo-was-wann.ch
 wo-win.ch
@@ -2934,6 +2935,7 @@ wohnung-schweiz.ch
 wohnung-scuol.ch
 wohnung-sh.ch
 wohnung-solothurn.ch
+wohnung-streichen-zuerich.ch
 wohnung-streichen.ch
 wohnung-suche.ch
 wohnung-suchen.ch
@@ -3324,6 +3326,7 @@ wohnungsvertrag.ch
 wohnungsverwalter.ch
 wohnungsverwaltung.ch
 wohnungsvorlage.ch
+wohnungswechsel-schweiz.ch
 wohnungswechsel-winterthur.ch
 wohnungswechsel.ch
 wohnungswerk.ch

@@ -2407,7 +2407,6 @@ dibadu.ch
 dibag.ch
 dibagmbh.ch
 dibahome.ch
-dibal.ch
 dibari.ch
 dibartolo.ch
 dibass-services.ch
@@ -8498,7 +8497,6 @@ diesel-service.ch
 diesel-services.ch
 diesel-sonderkraftstoff.ch
 diesel-tech.ch
-diesel-welt.ch
 diesel-werkstatt.ch
 diesel.ch
 diesel300.ch
@@ -14107,6 +14105,7 @@ digitalofficeservices.ch
 digitalog.ch
 digitalok.ch
 digitalokal.ch
+digitalolymp.ch
 digitalon.ch
 digitalonboarding.ch
 digitalondemand.ch
@@ -17522,6 +17521,7 @@ dipl-grafik-designer.ch
 dipl-ing-schwarz.ch
 dipl-jobs.ch
 dipl-jobs24.ch
+dipl-jur-paul-tihor.ch
 dipl-ki-automation-manager.ch
 dipl-ki-manager.ch
 dipl-kommunikationstrainer.ch
@@ -18063,7 +18063,6 @@ directleasing.ch
 directline.ch
 directlink-server.ch
 directmac.ch
-directmaiihouse.ch
 directmail.ch
 directmailer.ch
 directmailhouse.ch

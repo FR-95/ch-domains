@@ -1849,7 +1849,6 @@ lichtblick7.ch
 lichtblickalter.ch
 lichtblickbasel.ch
 lichtblickbelp.ch
-lichtblickcoachingsv.ch
 lichtblicke-beratung.ch
 lichtblicke-bestattungen.ch
 lichtblicke-coaching.ch
@@ -9603,6 +9602,7 @@ limitiert.ch
 limitika.ch
 limitless-accounting.ch
 limitless-athletes.ch
+limitless-beauty.ch
 limitless-digital.ch
 limitless-group.ch
 limitless-it.ch
@@ -14463,6 +14463,7 @@ liora-tests.ch
 liora-worben.ch
 liora-yes.ch
 liora.ch
+lioraai.ch
 lioraatelier.ch
 liorabern.ch
 lioradesign.ch
@@ -15563,6 +15564,7 @@ lisaedels.ch
 lisaeheatelier.ch
 lisaelmer.ch
 lisaenderli.ch
+lisaengi.ch
 lisaenligne.ch
 lisaetyler.ch
 lisaevents.ch

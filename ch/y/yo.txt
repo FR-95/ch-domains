@@ -451,7 +451,6 @@ yoga-gueli.ch
 yoga-guide.ch
 yoga-guttmann.ch
 yoga-gym.ch
-yoga-hatha.ch
 yoga-haus.ch
 yoga-healing.ch
 yoga-health.ch
@@ -1710,6 +1709,7 @@ yogamitlinda.ch
 yogamitmanali.ch
 yogamitmarco.ch
 yogamitmaya.ch
+yogamitpia.ch
 yogamitsou.ch
 yogamitte.ch
 yogamitthorsten.ch
@@ -3422,6 +3422,7 @@ youcansolvethecube.ch
 youcanwin.ch
 youcar.ch
 youcare.ch
+youcareapp.ch
 youcargo.ch
 youcars.ch
 youcash.ch

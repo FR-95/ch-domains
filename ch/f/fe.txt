@@ -1263,6 +1263,7 @@ feelgoods.ch
 feelgoodschlossmatte.ch
 feelgoodshop.ch
 feelgoodsinfo.ch
+feelgoodstore.ch
 feelgoodsystem.ch
 feelgoodtherapy.ch
 feelgoodtrading.ch
@@ -7407,7 +7408,6 @@ ferienfuerkatzen.ch
 feriengenuss-schweiz.ch
 feriengestaltung.ch
 feriengewinnspiel.ch
-feriengluck.ch
 ferienglueck.ch
 feriengoms.ch
 feriengott.ch
@@ -7969,14 +7969,12 @@ ferienlocarno.ch
 ferienlugano.ch
 ferienlumnezia.ch
 ferienlust.ch
-ferienmaerchen.ch
 ferienmagazin.ch
 ferienmaggiatal.ch
 ferienmalaga.ch
 ferienmallorca.ch
 ferienmanager.ch
 ferienmanduria.ch
-ferienmarchen.ch
 ferienmarkt-basel.ch
 ferienmesse-basel.ch
 ferienmesse.ch
@@ -9894,6 +9892,7 @@ ferradas-werning.ch
 ferradat.ch
 ferradino.ch
 ferradix.ch
+ferradura.ch
 ferragamo-hairbeauty.ch
 ferragamo.ch
 ferragamotimepeices.ch

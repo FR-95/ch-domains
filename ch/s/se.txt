@@ -2197,6 +2197,7 @@ seconde-fondation.ch
 seconde-main.ch
 seconde-nature.ch
 seconde.ch
+secondechance.ch
 secondemain.ch
 secondemains.ch
 secondenature.ch
@@ -3068,6 +3069,7 @@ secu-train.ch
 secu-vie.ch
 secu.ch
 secu24.ch
+secu360.ch
 secuacademy.ch
 secuaccess.ch
 secuadvance.ch
@@ -3198,6 +3200,7 @@ securahelvetica.ch
 securai.ch
 securail.ch
 securails.ch
+securalex.ch
 securalis.ch
 securama.ch
 securamen.ch
@@ -4393,6 +4396,7 @@ securitytoday.ch
 securitytoken.ch
 securitytokens.ch
 securitytools.ch
+securitytraining.ch
 securitytrainings.ch
 securityunity.ch
 securityvault.ch
@@ -6507,6 +6511,7 @@ seelenbotschaft.ch
 seelenbotschaften.ch
 seelenbotschafterin.ch
 seelenboudoir.ch
+seelenbriefe.ch
 seelenbrise.ch
 seelenbruecke.ch
 seelenbu.ch
@@ -12298,7 +12303,6 @@ selfpizzeria.ch
 selfplacement.ch
 selfplacing.ch
 selfport.ch
-selfportrait.ch
 selfprinted.ch
 selfprotect-academy.ch
 selfprotect.ch
@@ -12912,7 +12916,6 @@ sellrealestate.ch
 sells-schweiz.ch
 sells.ch
 sellsangels.ch
-sellscout.ch
 sellsepp.ch
 sellshark.ch
 sellside.ch
@@ -13437,6 +13440,7 @@ semantic-communication.ch
 semantic-group.ch
 semantic-interoperability.ch
 semantic-labs.ch
+semantic-search-poc.ch
 semantic-web.ch
 semantic.ch
 semantica.ch
@@ -16267,6 +16271,7 @@ senologie-update.ch
 senologie.ch
 senology.ch
 senolyse.ch
+senolytics.ch
 senomed.ch
 senon.ch
 senonails.ch
@@ -18612,6 +18617,7 @@ sept.ch
 septacore.ch
 septagon.ch
 septagramm.ch
+septaine.ch
 septante-quatre.ch
 septante-sept.ch
 septante.ch
@@ -21007,6 +21013,7 @@ servexa.ch
 servez-vous.ch
 servezvous.ch
 servfaces.ch
+servfail.ch
 servform.ch
 servge.ch
 servi-24.ch
@@ -25262,6 +25269,7 @@ sexstreams.ch
 sexstreet.ch
 sexstudio.ch
 sexstudios.ch
+sexsuche.ch
 sexsucheonline.ch
 sexsucher.ch
 sexsucht.ch

@@ -1418,6 +1418,7 @@ unfound.ch
 unframe.ch
 unframed-editions.ch
 unframed.ch
+unframedmind.ch
 unframedswiss.ch
 unfranc.ch
 unfrancsuisse.ch
@@ -1846,6 +1847,7 @@ unibern.ch
 unibet-casino.ch
 unibet-ch.ch
 unibet-live.ch
+unibet-suisse.ch
 unibet-swiss.ch
 unibet.ch
 unibetaffiliates.ch
@@ -4357,6 +4359,7 @@ united-hearts.ch
 united-homecare-partners.ch
 united-imaging.ch
 united-in-sports.ch
+united-information.ch
 united-interactive-media.ch
 united-internet-dialog.ch
 united-internet-media.ch

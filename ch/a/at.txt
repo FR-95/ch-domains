@@ -203,6 +203,7 @@ ata-concept.ch
 ata-consulting.ch
 ata-data.ch
 ata-haish.ch
+ata-immobilien.ch
 ata-it.ch
 ata-mendrisiotto.ch
 ata-sa.ch
@@ -4502,6 +4503,7 @@ ateliers-colibri.ch
 ateliers-constellations.ch
 ateliers-crea-peutiques.ch
 ateliers-creactif.ch
+ateliers-creatifs.ch
 ateliers-daetwyler.ch
 ateliers-de-solange.ch
 ateliers-des-chefs.ch
@@ -4608,7 +4610,6 @@ atelierschmiede.ch
 atelierschneider.ch
 atelierschnittpunkt.ch
 atelierschuessler.ch
-atelierschule-sol.ch
 atelierschule.ch
 atelierschwaller.ch
 atelierschwarz.ch
@@ -7311,6 +7312,7 @@ atmansa.ch
 atmanta.ch
 atmanyoga.ch
 atmaonline.ch
+atmaraya.ch
 atmarthas.ch
 atmas.ch
 atmaschweiz.ch

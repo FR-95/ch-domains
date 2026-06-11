@@ -28,6 +28,7 @@ cs-buildmanagement.ch
 cs-business.ch
 cs-c.ch
 cs-cables.ch
+cs-case.ch
 cs-clinic.ch
 cs-coaching.ch
 cs-cointrin.ch
@@ -910,6 +911,7 @@ csj-sjc.ch
 csj.ch
 csj2026-gaf.ch
 csja.ch
+csjabka.ch
 csjb.ch
 csjm.ch
 csjobs.ch

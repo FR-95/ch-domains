@@ -772,7 +772,6 @@ ns1.adwork.ch
 ns1.aeb-net.ch
 ns1.aelligs.ch
 ns1.aemmerli.ch
-ns1.aerige.ch
 ns1.aero-nav.ch
 ns1.aerosens.ch
 ns1.aet.ch
@@ -1213,6 +1212,7 @@ ns1.chabbeypiller.ch
 ns1.chalet-schuetzenacker.ch
 ns1.chaoswit.ch
 ns1.chdns.ch
+ns1.cherpines-autrement.ch
 ns1.chevalnaturel.ch
 ns1.chewbacca.ch
 ns1.chicobana.ch
@@ -1634,6 +1634,7 @@ ns1.enovo.ch
 ns1.ensi.ch
 ns1.epc.ch
 ns1.epfltest.ch
+ns1.epicte.ch
 ns1.erdbeerpflanzen.ch
 ns1.erdgeist.ch
 ns1.ergia.ch
@@ -1921,6 +1922,7 @@ ns1.guyswithcams.ch
 ns1.gvs.ch
 ns1.gymer.ch
 ns1.h-cockpit.ch
+ns1.h-ops.ch
 ns1.h-web.ch
 ns1.h2it.ch
 ns1.h4cker.ch
@@ -1988,7 +1990,6 @@ ns1.hisweb.ch
 ns1.hitbit.ch
 ns1.hitline.ch
 ns1.hivahosting.ch
-ns1.hive.epicte.ch
 ns1.hjbodmer.ch
 ns1.hl-it.ch
 ns1.hli.ch
@@ -4138,7 +4139,6 @@ ns2.adwork.ch
 ns2.aeb-net.ch
 ns2.aelligs.ch
 ns2.aemmerli.ch
-ns2.aerige.ch
 ns2.aero-nav.ch
 ns2.aerosens.ch
 ns2.aet.ch
@@ -4566,6 +4566,7 @@ ns2.chalet-bettmeralp.ch
 ns2.chalet-schuetzenacker.ch
 ns2.chaoswit.ch
 ns2.chdns.ch
+ns2.cherpines-autrement.ch
 ns2.chevalnaturel.ch
 ns2.chewbacca.ch
 ns2.chicobana.ch
@@ -4967,6 +4968,7 @@ ns2.ensim.ch
 ns2.eol.ch
 ns2.epc.ch
 ns2.epfltest.ch
+ns2.epicte.ch
 ns2.erdbeerpflanzen.ch
 ns2.erdgeist.ch
 ns2.ergia.ch
@@ -5246,6 +5248,7 @@ ns2.guyswithcams.ch
 ns2.gvs.ch
 ns2.gymer.ch
 ns2.h-cockpit.ch
+ns2.h-ops.ch
 ns2.h-web.ch
 ns2.h2it.ch
 ns2.h4cker.ch
@@ -5307,7 +5310,6 @@ ns2.hisweb.ch
 ns2.hitbit.ch
 ns2.hitline.ch
 ns2.hivahosting.ch
-ns2.hive.epicte.ch
 ns2.hjbodmer.ch
 ns2.hl-it.ch
 ns2.hli.ch
@@ -7622,7 +7624,6 @@ ns3.invoca.ch
 ns3.ipress.ch
 ns3.is-alpina.ch
 ns3.iserve.ch
-ns3.islandking.ch
 ns3.istor.ch
 ns3.isx.ch
 ns3.it-interim.ch
@@ -8824,6 +8825,7 @@ nssecure.ch
 nssen.ch
 nsservice.ch
 nssg.ch
+nssnr.ch
 nsss.ch
 nssteuern.ch
 nssui.comlaude.ch

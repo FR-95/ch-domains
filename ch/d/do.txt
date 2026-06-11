@@ -2022,7 +2022,6 @@ doerwaldt.ch
 doerzapf.ch
 does-it.ch
 does.ch
-doescher-immobilien.ch
 doescher.ch
 doeschi.ch
 doeschwo-garage.ch
@@ -4929,6 +4928,7 @@ domainaudit.ch
 domainbackorder.ch
 domainbeamer.ch
 domainberater.ch
+domainberatung.ch
 domainbestellsystem.ch
 domainbewerbung.ch
 domainbewertung.ch
@@ -4978,6 +4978,7 @@ domaindupeu.ch
 domainduty.ch
 domaine-afforets.ch
 domaine-aguet.ch
+domaine-aimat.ch
 domaine-angelus.ch
 domaine-antoine-bovard.ch
 domaine-arc-en-terre.ch
@@ -5123,7 +5124,6 @@ domaine-sevenier.ch
 domaine-simone.ch
 domaine-st-raphael.ch
 domaine-st-vincentsa.ch
-domaine-tropez.ch
 domaine-vaugues.ch
 domaine-venora.ch
 domaine-ville-de-morges.ch
@@ -9809,6 +9809,7 @@ dorfchlaus.ch
 dorfchnurri.ch
 dorfchronik-langnau.ch
 dorfchuebler.ch
+dorfcoiffeur.ch
 dorfconnect.ch
 dorfdachdecker.ch
 dorfdeshandwerks.ch

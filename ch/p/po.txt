@@ -2176,6 +2176,7 @@ pokecapsule.ch
 pokecard.ch
 pokecenter.ch
 pokecentershop.ch
+pokecheck.ch
 pokecity.ch
 pokecoins.ch
 pokecollecting.ch
@@ -3515,6 +3516,7 @@ polierschwaemme.ch
 polierschwamm.ch
 polierstrahlen.ch
 polierstrahlmittel.ch
+polierstudio.ch
 poliertechnik.ch
 poliertuch.ch
 polierwerkdetailing.ch
@@ -4266,6 +4268,7 @@ polizeibe.ch
 polizeibedarf.ch
 polizeibegleit.ch
 polizeibegleitung.ch
+polizeibericht.ch
 polizeiberichte.ch
 polizeibern.ch
 polizeiberuf.ch
@@ -5206,6 +5209,7 @@ polsterecken.ch
 polsterei-alphaomega.ch
 polsterei-amberger.ch
 polsterei-ferre.ch
+polsterei-fuhrer.ch
 polsterei-gaetzi.ch
 polsterei-hb-zuerich.ch
 polsterei-hoher.ch
@@ -12182,7 +12186,6 @@ posttorten.ch
 posttranslate.ch
 postula.ch
 postulatio.ch
-postuler-sans-cv.ch
 postuler.ch
 postum.ch
 postumgraphics.ch
@@ -12432,6 +12435,7 @@ potenzial-raum.ch
 potenzial.ch
 potenzial24.ch
 potenzial3.ch
+potenzialagentur.ch
 potenzialakademie.ch
 potenzialanalyse.ch
 potenzialanalysen.ch

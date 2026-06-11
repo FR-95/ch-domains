@@ -402,6 +402,7 @@ glaernischgarten.ch
 glaernischhof.ch
 glaernischliegenschaften.ch
 glaernischpraxis.ch
+glaernischtextil.ch
 glaeser-consulting.ch
 glaeser-geschirrspueler.ch
 glaeser-immo.ch
@@ -5464,7 +5465,6 @@ globeair.ch
 globeall.ch
 globeart.ch
 globeauty.ch
-globeballs.ch
 globebiker.ch
 globebit.ch
 globeblogger.ch
@@ -5496,6 +5496,7 @@ globeli.ch
 globelife.ch
 globelimo.ch
 globelimousines.ch
+globelimovd.ch
 globelink.ch
 globelinklogistics.ch
 globelisk.ch

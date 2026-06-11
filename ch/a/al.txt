@@ -5119,6 +5119,7 @@ alex-hoesli.ch
 alex-huber.ch
 alex-huerzeler.ch
 alex-hug-ag.ch
+alex-ia.ch
 alex-inderbitzin.ch
 alex-informatik.ch
 alex-jeker.ch
@@ -10330,6 +10331,7 @@ allblack.ch
 allblackeverything.ch
 allblacklook.ch
 allblacks.ch
+allblacksfc.ch
 allblackstick.ch
 allblackthings.ch
 allbliss.ch
@@ -10548,6 +10550,7 @@ alle-tun-es.ch
 alle-uebelhart.ch
 alle-vereine.ch
 alle-verkehrskunde.ch
+alle-verlosungen.ch
 alle-versicherungen.ch
 alle-vku.ch
 alle-vorlagen.ch
@@ -16572,6 +16575,7 @@ alpcircle.ch
 alpclair.ch
 alpclean-services.ch
 alpclean.ch
+alpclick.ch
 alpcloud.ch
 alpcode.ch
 alpcoder.ch
@@ -19163,6 +19167,7 @@ alphaluder.ch
 alphalux.ch
 alphaluxx.ch
 alphalyncis.ch
+alphalytics.ch
 alphama.ch
 alphamaax.ch
 alphamagnum.ch
@@ -19889,6 +19894,7 @@ alpident.ch
 alpiderma.ch
 alpidex.ch
 alpidyll.ch
+alpie.ch
 alpiempanadas.ch
 alpienne.ch
 alpienzo.ch
@@ -19996,7 +20002,6 @@ alpin-services.ch
 alpin-snowsportschule.ch
 alpin-solar.ch
 alpin-space.ch
-alpin-spirit.ch
 alpin-sport.ch
 alpin-suisse.ch
 alpin-swiss.ch
@@ -20332,6 +20337,7 @@ alpine-automation.ch
 alpine-automotive-society.ch
 alpine-avantgarde.ch
 alpine-aviation.ch
+alpine-avionics.ch
 alpine-azure.ch
 alpine-bank.ch
 alpine-baumanagement.ch
@@ -20377,6 +20383,7 @@ alpine-classic-pullman-express.ch
 alpine-claw.ch
 alpine-clean-services.ch
 alpine-clean.ch
+alpine-clear.ch
 alpine-comfort.ch
 alpine-concept.ch
 alpine-concerts.ch
@@ -22145,6 +22152,7 @@ alpplus.ch
 alppoli.ch
 alppouch.ch
 alpprincess.ch
+alpprint.ch
 alpprintstudio.ch
 alppro.ch
 alpprodukte-kaufen.ch
@@ -22706,6 +22714,7 @@ alptechflow.ch
 alptek.ch
 alptel.ch
 alpteq.ch
+alptest.ch
 alptex.ch
 alpthal.ch
 alpthal24.ch
@@ -24043,7 +24052,6 @@ alter-gesundheit-oberengadin.ch
 alter-gesundheit.ch
 alter-glanz.ch
 alter-hab.ch
-alter-hase.ch
 alter-hat-potenzial.ch
 alter-homburg.ch
 alter-k-igo.ch
@@ -24148,7 +24156,6 @@ altergov.ch
 altergroup.ch
 altergy-consult.ch
 altergy.ch
-alterhase.ch
 alterhatpotenzial.ch
 alterhausverwalter.ch
 alterhubs.ch

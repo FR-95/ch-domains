@@ -653,6 +653,7 @@ xn--ahrlimann-r9a.ch
 xn--ahs-alto-zrich-psb.ch
 xn--ahv-bb-theater-8hb.ch
 xn--ai-zrich-95a.ch
+xn--aideauxmigrantsbnvolat-q8bb.ch
 xn--aider-les-rfugis-lqbe.ch
 xn--aifachpis-57a.ch
 xn--aifachschn-mcb.ch
@@ -2541,7 +2542,6 @@ xn--aurlie-clara-deb.ch
 xn--aurlie-zurich-dhb.ch
 xn--aurlieboillat-dhb.ch
 xn--aurora-mnnedorf-7kb.ch
-xn--aurveil-alchimique-dwb.ch
 xn--aurza-dsa.ch
 xn--aus-der-region-fr-die-region-h7c.ch
 xn--ausbaustze-kastenwagen-64b.ch
@@ -2745,6 +2745,7 @@ xn--autohndler-schweiz-ptb.ch
 xn--autohndler-shop-4kb.ch
 xn--autohndler-u5a.ch
 xn--autohndlershop-9hb.ch
+xn--autohs-7ya.ch
 xn--autohuser-z2a.ch
 xn--autojger-4za.ch
 xn--autokch-9wa.ch
@@ -2784,6 +2785,7 @@ xn--autoprfung-schweiz-r6b.ch
 xn--autoprfung-winterthur-eic.ch
 xn--autoprfung24-ilb.ch
 xn--autoprfungen-ilb.ch
+xn--autoprfungschweiz-72b.ch
 xn--autorder-4za.ch
 xn--autorduc-f1a.ch
 xn--autoreinigungzrich-z6b.ch
@@ -3211,6 +3213,7 @@ xn--bankettlffel-cjb.ch
 xn--bankettrume-s8a.ch
 xn--bankgeprft-heb.ch
 xn--bankgeschft-t8a.ch
+xn--bankgesprch-t8a.ch
 xn--bankjuliusbr-qcb.ch
 xn--bankruber-z2a.ch
 xn--bankschliessfach-zrich-9lc.ch
@@ -9162,7 +9165,6 @@ xn--camping-ltschental-u6b.ch
 xn--camping-mbel-djb.ch
 xn--camping-module-fr-kastenwagen-0bd.ch
 xn--camping-natrlich-tzb.ch
-xn--camping-schlssli-xwb.ch
 xn--camping-sple-mlb.ch
 xn--camping-sthle-5ob.ch
 xn--camping-zubehr-kaufen-tec.ch
@@ -14168,7 +14170,6 @@ xn--elettromobilit-tgb.ch
 xn--elfenbeinkste-5ob.ch
 xn--elfenglck-w9a.ch
 xn--elfenhsli-v9a.ch
-xn--elfenknigin-wfb.ch
 xn--elfentrume-w5a.ch
 xn--elfetpfli-47a.ch
 xn--elfiadir-i1a.ch
@@ -14374,6 +14375,8 @@ xn--enfances-voles-mkb.ch
 xn--engadin-kruter-fib.ch
 xn--engadiner-hhenweg-9zb.ch
 xn--engadner-r4a.ch
+xn--engagement-fr-biel-x6b.ch
+xn--engagementfrbiel-tzb.ch
 xn--enge-kieferorthopdie-rzb.ch
 xn--engelberger-anwlte-ztb.ch
 xn--engelbergn-ieb.ch
@@ -15972,11 +15975,9 @@ xn--fentrier-m1a.ch
 xn--fer-fr-kmu-eeb.ch
 xn--feri-lnk-3zac.ch
 xn--feri-lnk-dnk-jcbce.ch
-xn--ferien-glck-1hb.ch
 xn--ferien-graubnden-uzb.ch
 xn--ferien-grchen-jfb.ch
 xn--ferien-huser-ncb.ch
-xn--ferien-mrchen-ifb.ch
 xn--ferien-schnried-itb.ch
 xn--ferien-sdtirol-nsb.ch
 xn--ferien-sterreich-swb.ch
@@ -16029,7 +16030,6 @@ xn--ferienhusertessin-wqb.ch
 xn--ferienhuserwallis-wqb.ch
 xn--ferieningrchen-fib.ch
 xn--ferienjobbrse-rmb.ch
-xn--ferienmrchen-mcb.ch
 xn--ferienschnppchen-4nb.ch
 xn--ferientrns-kcb.ch
 xn--ferienunterknfte-uzb.ch
@@ -16810,6 +16810,7 @@ xn--flgel-shot-beb.ch
 xn--flgel-weit-beb.ch
 xn--flgel-werkstatt-0vb.ch
 xn--flgel11-o2a.ch
+xn--flgelfestival-xob.ch
 xn--flgelhorn-r9a.ch
 xn--flgelkraft-beb.ch
 xn--flgelrad-75a.ch
@@ -17106,6 +17107,7 @@ xn--fminisme-b1a.ch
 xn--fmller-4ya.ch
 xn--fmtren-5ya.ch
 xn--fn-fka.ch
+xn--fn-tja.ch
 xn--fn-via.ch
 xn--fn-viaa.ch
 xn--fn-x-5qa.ch
@@ -33553,6 +33555,7 @@ xn--lergan-dva.ch
 xn--lerhnearchives-3ob.ch
 xn--leri-schreinerei-zrich-9lc.ch
 xn--lernatelier-zri-unterland-rwc.ch
+xn--lernbchse-u9a.ch
 xn--lernbssli-u9a.ch
 xn--lerncoaching-kssnacht-mic.ch
 xn--lerncoaching-zrich-z6b.ch
@@ -33978,7 +33981,6 @@ xn--lifefitwdi-x5a.ch
 xn--lifefitwdi24-ncb.ch
 xn--lifestyle-zrich-9vb.ch
 xn--lift-knig-57a.ch
-xn--liftberatung-brtschi-ozb.ch
 xn--liftknig-r4a.ch
 xn--liftrettungsplne-8nb.ch
 xn--liftschachtgerst-wzb.ch
@@ -45868,8 +45870,6 @@ xn--reitzubehr-mcb.ch
 xn--reizstoffgert-mfb.ch
 xn--reizstoffgerte-hib.ch
 xn--reizwsche-z2a.ch
-xn--reka-ferien-mrchen-xtb.ch
-xn--reka-ferienmrchen-1qb.ch
 xn--rekkebrgler-r8a.ch
 xn--reklamier-32a.ch
 xn--reko-gebudetechnik-stb.ch
@@ -47922,6 +47922,7 @@ xn--sandys-nh-welt-dib.ch
 xn--sandysnhistbli-cib20b.ch
 xn--saner-natrlich-osb.ch
 xn--sanernatrlich-3ob.ch
+xn--sanfte-totalitt-elb.ch
 xn--sangall-cxa.ch
 xn--sani-tter-02a.ch
 xn--sanichssis-84a.ch
@@ -50276,6 +50277,7 @@ xn--schtzenwiese-flb.ch
 xn--schtzenwurst-flb.ch
 xn--schtzenzahnarzt-1vb.ch
 xn--schtzenzeiger-yob.ch
+xn--schtzenzentrale-1vb.ch
 xn--schtzer-7wa.ch
 xn--schtzer-immobilien-ntb.ch
 xn--schtzerhandbuch-2kb.ch
@@ -50645,7 +50647,6 @@ xn--schwerhrigenverein-nordwestschweiz-hnd.ch
 xn--schwerhrigkeit-1pb.ch
 xn--schwertarbeit-vterundshne-zec70c.ch
 xn--schwertransporte-zrich-9lc.ch
-xn--schweschterhrz-hib.ch
 xn--schwesterngeflster-z6b.ch
 xn--schwgalp-3za.ch
 xn--schwgalp-schwein-ynb.ch

@@ -445,7 +445,6 @@ deal-desk.ch
 deal-doc.ch
 deal-engine.ch
 deal-estate.ch
-deal-finder.ch
 deal-flow-partner.ch
 deal-flow.ch
 deal-fox.ch
@@ -879,6 +878,7 @@ dearclothing.ch
 dearco.ch
 dearcreative.ch
 deardata.ch
+deardumplings.ch
 deare.ch
 deareinigungen.ch
 dearemployee.ch
@@ -2151,6 +2151,7 @@ decisionx.ch
 decisium.ch
 decisiunamedicala.ch
 decisive-insights.ch
+decisive.ch
 decisiveconsulting.ch
 decisiveleadership.ch
 decisivemoment.ch
@@ -10750,6 +10751,7 @@ deluluvibe.ch
 delumani.ch
 delumine.ch
 deluna.ch
+delunaluxury.ch
 delunas.ch
 delunatoprak.ch
 delupay.ch
@@ -13052,7 +13054,6 @@ denken.ch
 denkenan.ch
 denkende-portale.ch
 denkengestaltenwirken.ch
-denkenhilft.ch
 denkeninbegriffen.ch
 denkenlernen.ch
 denkens-wert.ch
@@ -13206,6 +13207,7 @@ denkproducts.ch
 denkpunkt.ch
 denkraeume.ch
 denkraum-coaching.ch
+denkraum-eigenart.ch
 denkraum-gymnasium.ch
 denkraum-ow.ch
 denkraum-pflege.ch
@@ -24289,7 +24291,6 @@ deuxdoodles.ch
 deuxfemmes.ch
 deuxff.ch
 deuxfillesenaiguilles.ch
-deuxfilsenaiguilles.ch
 deuxfoiscinq.ch
 deuxfoisrien.ch
 deuxfreres.ch

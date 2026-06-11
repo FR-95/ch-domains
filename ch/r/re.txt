@@ -1786,6 +1786,7 @@ realit-transaktionsportal.ch
 realit.ch
 realit2015.ch
 realita.ch
+realitaet.ch
 realitaeten.ch
 realitaliantaste.ch
 realite-artificielle.ch
@@ -1827,6 +1828,7 @@ realitycreation.ch
 realitydesign.ch
 realityescape.ch
 realityfabrik.ch
+realityfactory.ch
 realityfirst.ch
 realityfree.ch
 realitygaming.ch
@@ -3880,6 +3882,7 @@ recharge-days.ch
 recharge-events.ch
 recharge-menopause.ch
 recharge-my-car.ch
+recharge-pro.ch
 recharge-ta-batterie.ch
 recharge-toner.ch
 recharge.ch
@@ -18318,12 +18321,10 @@ reka-challenge.ch
 reka-check.ch
 reka-checks.ch
 reka-familienferien.ch
-reka-ferien-glueck.ch
 reka-ferien.ch
 reka-feriendorf-thurgau-bodensee.ch
 reka-ferienglueck.ch
 reka-ferienhilfe.ch
-reka-ferienmaerchen.ch
 reka-fuehrer.ch
 reka-garten.ch
 reka-geld.ch
@@ -18389,7 +18390,6 @@ rekaservicesag.ch
 rekasi.ch
 rekastiftungferienhilfe.ch
 rekatreuhand.ch
-rekaway.ch
 rekaweinundmehr.ch
 rekenber.ch
 rekening.ch
@@ -22064,6 +22064,7 @@ rendanalytix.ch
 rendarch.ch
 rendcloud.ch
 rendcom.ch
+rendehaus.ch
 rendeiro.ch
 rendel-art.ch
 rendel.ch
@@ -23403,6 +23404,7 @@ renogy.ch
 renohabitat.ch
 renohaus.ch
 renohaustechnik.ch
+renohome.ch
 renohuus.ch
 renoimmob.ch
 renoinn.ch
@@ -28242,6 +28244,7 @@ residence-argile.ch
 residence-atmos.ch
 residence-au-lac.ch
 residence-au-pre.ch
+residence-aurealago.ch
 residence-avenir.ch
 residence-baden.ch
 residence-beaulieu.ch
@@ -28571,6 +28574,7 @@ residencetroiscouronnes.ch
 residencetuiliere.ch
 residencevuachere.ch
 residencevully.ch
+residenceweggis.ch
 residencia-neubau.ch
 residencia.ch
 residenciainteriors.ch
@@ -33796,7 +33800,6 @@ restauration-hotellerie.ch
 restauration-jura-suisse.ch
 restauration-lavage-tapis.ch
 restauration-meubles.ch
-restauration-patrimoine.ch
 restauration-responsable.ch
 restauration-tableaux.ch
 restauration-tapis.ch
@@ -34048,6 +34051,7 @@ resto-sicilia.ch
 resto-tec.ch
 resto-tennisdevidy.ch
 resto-treuhand.ch
+resto-union.ch
 resto-vs.ch
 resto-web.ch
 resto.ch

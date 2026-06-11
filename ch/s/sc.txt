@@ -830,6 +830,7 @@ scamp-detailing.ch
 scamp-studio.ch
 scamp.ch
 scampa.ch
+scampause.ch
 scamper.ch
 scampi-caviar.ch
 scampi.ch
@@ -20887,7 +20888,6 @@ schreinerbildung.ch
 schreinerbl.ch
 schreinerbueschlen.ch
 schreinercad.ch
-schreinercheck.ch
 schreinerconnect.ch
 schreinercorner.ch
 schreinerdata.ch
@@ -23126,6 +23126,7 @@ schuetzen-walterswil.ch
 schuetzen-wangen.ch
 schuetzen-weggis.ch
 schuetzen-wichtrach.ch
+schuetzen-zentrale.ch
 schuetzen.ch
 schuetzen4.ch
 schuetzenaarau.ch
@@ -23245,6 +23246,7 @@ schuetzenwiese.ch
 schuetzenwilenrickenbach.ch
 schuetzenzahnarzt.ch
 schuetzenzeiger.ch
+schuetzenzentrale.ch
 schuetzes.ch
 schuetzgebaeudetechnikag.ch
 schuetzheizungsbau.ch
@@ -25382,6 +25384,7 @@ schuler-arosa.ch
 schuler-baar.ch
 schuler-baupartner.ch
 schuler-beratung.ch
+schuler-brunner.ch
 schuler-elektro.ch
 schuler-engineering.ch
 schuler-fahrzeugtechnik.ch
@@ -26133,7 +26136,6 @@ schulrat.ch
 schulratgeber.ch
 schulrating.ch
 schulraum-buelach.ch
-schulraum-entfelden.ch
 schulraum-fluntern.ch
 schulraum-garten.ch
 schulraum-jetzt.ch
@@ -26145,7 +26147,6 @@ schulraum-muri.ch
 schulraum-ostermundigen.ch
 schulraum-planung.ch
 schulraum-riehen.ch
-schulraum360.ch
 schulraumentwicklung.ch
 schulraumgelterkinden.ch
 schulraumlabor.ch
@@ -35816,6 +35817,7 @@ scores-smgmt.ch
 scores.ch
 scoreseating.ch
 scoresinhepatology.ch
+scoreslive.ch
 scoreslive24.ch
 scoresocial-non.ch
 scoresocial.ch
@@ -36422,6 +36424,7 @@ scratches.ch
 scratchfutur.ch
 scratchgolf.ch
 scratching.ch
+scratchiq.ch
 scratchit.ch
 scratchless.ch
 scratchmag.ch

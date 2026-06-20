@@ -3366,6 +3366,7 @@ kepstronic.ch
 kept.ch
 keptdream.ch
 kepue.ch
+kepundmail.ch
 kepware.ch
 keq.ch
 keqo.ch
@@ -4696,6 +4697,7 @@ kesb-sissach.ch
 kesb-skandal-berikon-ag.ch
 kesb-sl.ch
 kesb-thurgau.ch
+kesb-transparent.ch
 kesb-umfrage.ch
 kesb-wa.ch
 kesb-watch.ch

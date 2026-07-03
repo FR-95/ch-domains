@@ -2031,6 +2031,7 @@ glasmarte.ch
 glasmass.ch
 glasmaster.ch
 glasmax.ch
+glasmechanik.ch
 glasmeer.ch
 glasmenagerie.ch
 glasmetall-zanolari.ch
@@ -2575,7 +2576,6 @@ glattbrugg-rosenstrasse.ch
 glattbrugg.ch
 glattbruggzahnarzt.ch
 glattburg.ch
-glattcafe.ch
 glattcheese.ch
 glattchuchi.ch
 glattcom.ch
@@ -4657,7 +4657,6 @@ globalcommoditiestrading.ch
 globalcommons.ch
 globalcomms.ch
 globalcommunication.ch
-globalcommunity.ch
 globalcompact.ch
 globalcompass.ch
 globalcompensation.ch
@@ -4924,7 +4923,6 @@ globalinsulation.ch
 globalinsuranceservices.ch
 globalintel.ch
 globalintelligence.ch
-globalinternational.ch
 globalintext.ch
 globalinvest.ch
 globalinvestment.ch

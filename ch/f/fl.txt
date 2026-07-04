@@ -4637,6 +4637,7 @@ flims-transporte.ch
 flims-trin-energie.ch
 flims-waldhaus.ch
 flims.ch
+flims150.ch
 flims24.ch
 flimsalabim.ch
 flimscollection.ch
@@ -5208,7 +5209,6 @@ flixino.ch
 flixjet.ch
 flixjob.ch
 flixlab.ch
-flixlimo.ch
 flixmail.ch
 flixmitfahrzentrale.ch
 flixmobility.ch
@@ -7631,6 +7631,7 @@ flourishpilatesstudio.ch
 flourister.ch
 flournoy.ch
 flours.ch
+flous.ch
 flouts.ch
 flouw.ch
 flouze.ch
@@ -7673,6 +7674,7 @@ flow-companion.ch
 flow-competence.ch
 flow-consult.ch
 flow-consulting.ch
+flow-core.ch
 flow-creatif.ch
 flow-dance.ch
 flow-demy.ch
@@ -9159,9 +9161,9 @@ fluff-minipancakes.ch
 fluff.ch
 fluffbus.ch
 fluffderg.ch
-fluffer.ch
 fluffette.ch
 fluffie.ch
+fluffies.ch
 fluffig.ch
 fluffikon.ch
 fluffster.ch
@@ -10432,6 +10434,7 @@ flussodaria.ch
 flussodivita.ch
 flusspark-olten.ch
 flusspark.ch
+flusspegel.ch
 flusspferd.ch
 flusspirat.ch
 flusspool.ch

@@ -3340,7 +3340,6 @@ circulare.ch
 circulareconomicsystem.ch
 circulareconomy-ag.ch
 circulareconomy.ch
-circulareconomydata.ch
 circulareconomynavigator.ch
 circulareconomyreport.ch
 circulareconomyswitzerland.ch
@@ -3452,6 +3451,7 @@ circus-restaurant.ch
 circus-rouge.ch
 circus-schule.ch
 circus-star.ch
+circus-starlight.ch
 circus-stey.ch
 circus-tag.ch
 circus.ch
@@ -4421,7 +4421,6 @@ citrone.ch
 citronella.ch
 citronenbaum.ch
 citronenstein.ch
-citronetromarin.ch
 citronfoto.ch
 citrongrenadine.ch
 citronlabs.ch

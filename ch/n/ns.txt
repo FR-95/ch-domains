@@ -1041,7 +1041,6 @@ ns1.bioterroir.ch
 ns1.biselconsulting.ch
 ns1.bislin.ch
 ns1.bitcode.ch
-ns1.bitmoney.ch
 ns1.bitpoint-hosting.ch
 ns1.bitwork.ch
 ns1.bizbase.ch
@@ -4385,7 +4384,6 @@ ns2.bioterroir.ch
 ns2.biselconsulting.ch
 ns2.bislin.ch
 ns2.bitcode.ch
-ns2.bitmoney.ch
 ns2.bitpoint-hosting.ch
 ns2.bitwork.ch
 ns2.bizbase.ch
@@ -8600,7 +8598,6 @@ nsfacadecolors-sarl.ch
 nsfamilyaffairs.ch
 nsfgroup.ch
 nsfk.ch
-nsfl.ch
 nsfl2021.ch
 nsflswitzerland.ch
 nsfolierung.ch

@@ -5429,7 +5429,9 @@ fenetresconcept.ch
 fenetresdelavent.ch
 fenetresenvers.ch
 fenetresg.ch
+fenetresgeneve.ch
 fenetrespvc.ch
+fenetresurcadre.ch
 fenetresurjardin.ch
 fenetrier.ch
 fenex.ch
@@ -6103,6 +6105,7 @@ fensterfreund.ch
 fensterfuchs.ch
 fensterfuerdieschweiz.ch
 fensterfundgrube.ch
+fensterfurdich.ch
 fensterfutter.ch
 fenstergarten.ch
 fenstergautschi.ch
@@ -10239,6 +10242,7 @@ ferrieredistabio.ch
 ferrierepiu.ch
 ferriergigon.ch
 ferrierguedel.ch
+ferrierlullin-sa.ch
 ferrierlullin.ch
 ferrierlullinchallenge.ch
 ferries-elba.ch
@@ -10942,6 +10946,7 @@ festderfeste.ch
 festderkulturen.ch
 festderliebe.ch
 festdernatur.ch
+feste-2029.ch
 feste-dritte-zaehne.ch
 feste-feiern.ch
 feste-freunde.ch
@@ -11880,6 +11885,7 @@ fetedelatulipe.ch
 fetedelavendange.ch
 fetedelavieillecatherine.ch
 fetedelavigne.ch
+fetedelerable.ch
 fetedelion.ch
 fetedeloignon.ch
 fetedelolivier.ch

@@ -110,7 +110,6 @@ bi2b.ch
 bi2i.ch
 bi2run.ch
 bi4abacus.ch
-bi4all.ch
 bi4bc.ch
 bi4erp.ch
 bi4hr.ch
@@ -1057,7 +1056,6 @@ bibliogossau.ch
 bibliografie.ch
 bibliografien.ch
 bibliograph.ch
-bibliographie.ch
 bibliographien.ch
 bibliographies.ch
 bibliogruesch.ch
@@ -17197,6 +17195,7 @@ birrerialiestal.ch
 birreriasangottardo.ch
 birrerimmo.ch
 birrermanagement.ch
+birrermetalwork.ch
 birrermgmt.ch
 birrernet.ch
 birrernetwork.ch
@@ -18704,6 +18703,7 @@ bitara.ch
 bitaranto.ch
 bitarbyter.ch
 bitart.ch
+bitasp.ch
 bitasset.ch
 bitastic.ch
 bitaudit.ch
@@ -18789,7 +18789,6 @@ bitch.ch
 bitchadvisor.ch
 bitchain.ch
 bitchassniggi.ch
-bitchat.ch
 bitchband.ch
 bitchcraft.ch
 bitches.ch
@@ -19447,7 +19446,6 @@ bitcoms.ch
 bitcon.ch
 bitconnect.ch
 bitconnect24.ch
-bitconomist.ch
 bitconomy.ch
 bitconstruct.ch
 bitconsult.ch
@@ -19986,6 +19984,7 @@ bitsolution.ch
 bitsolutions.ch
 bitsonbricks.ch
 bitsonic.ch
+bitsource.ch
 bitspace.ch
 bitspark.ch
 bitspartners.ch
@@ -20014,7 +20013,6 @@ bitstore.ch
 bitstream.ch
 bitstrikecasino-ch.ch
 bitstudio.ch
-bitstudy.ch
 bitstyle.ch
 bitsurance.ch
 bitsvation.ch

@@ -865,7 +865,6 @@ ns1.appstart.ch
 ns1.aptkn.ch
 ns1.arc-thomytest.ch
 ns1.arcade.ch
-ns1.archenoah-brocki.ch
 ns1.archenoah-umzug.ch
 ns1.archenoahservice.ch
 ns1.architoo.ch
@@ -3141,7 +3140,6 @@ ns1.richdesign.ch
 ns1.richkart.ch
 ns1.rieker-cloud.ch
 ns1.riesenservices.ch
-ns1.rightpun.ch
 ns1.rigidata.ch
 ns1.rillsoft.ch
 ns1.ringreal.ch
@@ -4211,7 +4209,6 @@ ns2.aps-it.ch
 ns2.apsit.ch
 ns2.aptkn.ch
 ns2.arcade.ch
-ns2.archenoah-brocki.ch
 ns2.archenoah-umzug.ch
 ns2.archenoahservice.ch
 ns2.architoo.ch
@@ -6390,7 +6387,6 @@ ns2.richdesign.ch
 ns2.richkart.ch
 ns2.rieker-cloud.ch
 ns2.riesenservices.ch
-ns2.rightpun.ch
 ns2.riniu.ch
 ns2.riono.ch
 ns2.ripe-domains.ch

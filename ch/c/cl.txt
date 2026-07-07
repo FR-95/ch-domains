@@ -162,7 +162,6 @@ clahab.ch
 clahent.ch
 clai.ch
 claid.ch
-claila.ch
 claim-cloud.ch
 claim-management.ch
 claim-schweiz.ch
@@ -1275,6 +1274,7 @@ clashgg.ch
 clashheroes.ch
 clashofclan.ch
 clashofclans.ch
+clashofgods.ch
 clashpong.ch
 clashroyale.ch
 clashstudio.ch
@@ -1508,7 +1508,6 @@ classic-motors-gmbh.ch
 classic-motorsport.ch
 classic-oil.ch
 classic-oldtimer.ch
-classic-only.ch
 classic-openair.ch
 classic-parts-finder.ch
 classic-parts.ch
@@ -1766,7 +1765,6 @@ classico-steakhouse.ch
 classico.ch
 classicon.ch
 classicone.ch
-classiconly.ch
 classicopenair.ch
 classicopenairwil.ch
 classicorama.ch
@@ -1803,7 +1801,6 @@ classicrockradio.ch
 classicrockstation.ch
 classicroom.ch
 classics-gallery.ch
-classics-only.ch
 classics-scooters.ch
 classics-store.ch
 classics.ch
@@ -1826,7 +1823,6 @@ classicships.ch
 classicshooting.ch
 classicsinthedark.ch
 classicsnet.ch
-classicsonly.ch
 classicsound.ch
 classicspareparts.ch
 classicspark.ch
@@ -3490,6 +3486,7 @@ claymate-batts.ch
 claymbewerbung.ch
 claymcareers.ch
 claymfachkraft.ch
+claymixologist.ch
 claymkarriere.ch
 claymore.ch
 claymorelight.ch
@@ -4476,6 +4473,7 @@ cleano.ch
 cleanoa.ch
 cleanofant.ch
 cleanoffers.ch
+cleanoffice.ch
 cleanoir.ch
 cleanolia.ch
 cleanolino.ch
@@ -4791,6 +4789,7 @@ cleanwerkgmbh.ch
 cleanwerkzueri.ch
 cleanwhale.ch
 cleanwhite.ch
+cleanwil.ch
 cleanwin.ch
 cleanwnd.ch
 cleanwood.ch
@@ -6434,7 +6433,6 @@ cliccatutor.ch
 cliccaverde.ch
 clicclac.ch
 clicclacphoto.ch
-clicclub.ch
 clicdeal.ch
 clicdesign-lab.ch
 clicdesign.ch
@@ -6618,6 +6616,7 @@ clickaway.ch
 clickbait.ch
 clickbank.ch
 clickbar.ch
+clickbase-marketing.ch
 clickbase.ch
 clickbazar.ch
 clickbird.ch
@@ -7664,6 +7663,7 @@ climora.ch
 climowool.ch
 climp.ch
 climpact.ch
+climportable.ch
 climpro.ch
 clims.ch
 climservice.ch
@@ -8764,6 +8764,7 @@ clockstar.ch
 clockstock.ch
 clocksxl.ch
 clockte.ch
+clockticks.ch
 clocktower.ch
 clocktowerstation.ch
 clocktrades.ch
@@ -12076,7 +12077,6 @@ clubtee.ch
 clubtender.ch
 clubtennis-comparatif.ch
 clubterra.ch
-clubtextil.ch
 clubthesharks.ch
 clubtool.ch
 clubtools.ch

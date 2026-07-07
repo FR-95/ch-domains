@@ -1553,7 +1553,6 @@ umzug-clever.ch
 umzug-easy.ch
 umzug-ebikon.ch
 umzug-effretikon.ch
-umzug-experten.ch
 umzug-extragent.ch
 umzug-firma.ch
 umzug-firme.ch
@@ -2211,6 +2210,7 @@ umzugshilfe-schweiz.ch
 umzugshilfe-zueri.ch
 umzugshilfe-zuerich.ch
 umzugshilfe.ch
+umzugshilfen.ch
 umzugshop.ch
 umzugsinfo.ch
 umzugskalkulator.ch

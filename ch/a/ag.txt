@@ -211,6 +211,7 @@ ag8.ch
 ag8965.ch
 ag8966.ch
 ag925.ch
+aga-architectes.ch
 aga-beauty-solution.ch
 aga-beauty.ch
 aga-consulting.ch
@@ -3637,7 +3638,6 @@ agnesbuechel.ch
 agnescecilia.ch
 agnescollaud.ch
 agnesd.ch
-agnese.ch
 agnesecaffe.ch
 agnesezgraggen.ch
 agnesfeefeuille.ch
@@ -4843,6 +4843,7 @@ agrisano-prevos.ch
 agrisano-shop.ch
 agrisano-ti.ch
 agrisano.ch
+agrisanokrankenkasse.ch
 agrisard.ch
 agrisarda.ch
 agrisarl.ch

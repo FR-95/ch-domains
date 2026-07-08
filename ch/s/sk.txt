@@ -2590,6 +2590,7 @@ skillvonmorgen.ch
 skillware.ch
 skillwatches.ch
 skillwave.ch
+skillway.ch
 skillwerk.ch
 skillwise.ch
 skillworks.ch
@@ -5869,7 +5870,6 @@ skypack.ch
 skypacker.ch
 skypad.ch
 skypanel.ch
-skypano.ch
 skypanorama.ch
 skypara.ch
 skypark.ch
@@ -6032,7 +6032,6 @@ skyshare.ch
 skyshark.ch
 skyshell.ch
 skyshepherd.ch
-skyshield.ch
 skyship.ch
 skyshock.ch
 skyshop.ch

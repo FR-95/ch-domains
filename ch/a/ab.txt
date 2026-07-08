@@ -1433,7 +1433,6 @@ abbysmap.ch
 abbywinters.ch
 abc-4you.ch
 abc-aarberg.ch
-abc-advisory.ch
 abc-ag.ch
 abc-architectes.ch
 abc-architecture.ch
@@ -1727,6 +1726,7 @@ abcd-monty.ch
 abcd-patrimonia.ch
 abcd-seiler.ch
 abcd.ch
+abcda.ch
 abcdaeniken.ch
 abcdam.ch
 abcdan.ch
@@ -1954,6 +1954,7 @@ abcresto.ch
 abcronegmbh.ch
 abcross-cultural.ch
 abcrowd.ch
+abcrows.ch
 abcrun.ch
 abcs-ag.ch
 abcs-business.ch
@@ -6714,6 +6715,7 @@ abwerk-band.ch
 abwerk.ch
 abwerner.ch
 abwesend.ch
+abwesenheits-planer.ch
 abwesenheitsplaner.ch
 abwickeln.ch
 abwickle.ch

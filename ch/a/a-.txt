@@ -290,7 +290,6 @@ a-druck.ch
 a-ds.ch
 a-dsb.ch
 a-duc.ch
-a-e-a.ch
 a-e-b.ch
 a-e-c.ch
 a-e-m-a.ch
@@ -487,7 +486,6 @@ a-intelligence.ch
 a-intelligences.ch
 a-interieur.ch
 a-interiordesign.ch
-a-iot.ch
 a-ip.ch
 a-ir.ch
 a-iso.ch
@@ -749,7 +747,6 @@ a-nw.ch
 a-nyfeler.ch
 a-o-buero.ch
 a-o-c.ch
-a-o-concepts.ch
 a-o-consulting-und-services.ch
 a-o-consulting.ch
 a-o-e.ch

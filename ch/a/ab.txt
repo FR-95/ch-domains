@@ -57,7 +57,6 @@ ab-c.ch
 ab-cd.ch
 ab-ceram.ch
 ab-chauxdefonds.ch
-ab-coaching.ch
 ab-communications.ch
 ab-concept.ch
 ab-conception-design.ch
@@ -946,8 +945,6 @@ abaspitex.ch
 abaspour.ch
 abasquare.ch
 abasscarpets.ch
-abassia-rahmani.ch
-abassiarahmani.ch
 abastack.ch
 abastatus.ch
 abasto.ch
@@ -2364,7 +2361,6 @@ abeillesjura.ch
 abeilleurs.ch
 abeilleverte.ch
 abeites.ch
-abeitgeberrating.ch
 abeja.ch
 abel-gartenunterhalt.ch
 abel-h.ch
@@ -2454,6 +2450,7 @@ abendapp.ch
 abendbegleitung.ch
 abendbier-klavier.ch
 abendblick.ch
+abendbrot.ch
 abendessen-dinner.ch
 abendessen.ch
 abendfrieden.ch
@@ -4674,7 +4671,6 @@ aboservicebureau.ch
 abosgratis.ch
 aboshop.ch
 abositeweb.ch
-abosky.ch
 abosmart.ch
 abosoft.ch
 aboss.ch
@@ -5063,7 +5059,6 @@ abraham.ch
 abrahamartgallery.ch
 abrahamberatung.ch
 abrahamcars.ch
-abrahamcollection.ch
 abrahamhagos.ch
 abrahamklein.ch
 abrahamlincoln.ch

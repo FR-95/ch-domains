@@ -110,7 +110,6 @@ ag-light.ch
 ag-liquidieren.ch
 ag-magnin.ch
 ag-management.ch
-ag-mantel-kaufen.ch
 ag-mantel.ch
 ag-metallbau.ch
 ag-mietwagen.ch
@@ -559,6 +558,7 @@ agbreganzona.ch
 agbs.ch
 agbsoft.ch
 agbsonics.ch
+agbstudio.ch
 agbuero70.ch
 agc-ag.ch
 agc-bern.ch
@@ -1831,6 +1831,7 @@ agentco.ch
 agentcoffee.ch
 agentcommerce.ch
 agentcraft.ch
+agentctl.ch
 agentdejoueurs.ch
 agentdoctor.ch
 agentdraw.ch
@@ -1916,6 +1917,7 @@ agentic-systems.ch
 agentic-workbench.ch
 agentic-workflow.ch
 agentic.ch
+agentic1291.ch
 agentica.ch
 agenticadvantage.ch
 agenticadvertising.ch
@@ -3466,7 +3468,6 @@ aglat.ch
 aglausanne.ch
 aglaya-gasser.ch
 aglaya-rotkreuz.ch
-aglaya.ch
 aglcb.ch
 aglconsulting.ch
 aglde.ch
@@ -5545,7 +5546,6 @@ agrus-sa.ch
 agrusan.ch
 agrusanfruit.ch
 ags-aura.ch
-ags-automobiles.ch
 ags-basel.ch
 ags-compta.ch
 ags-consulting.ch
@@ -5626,7 +5626,6 @@ agsv.ch
 agsw.ch
 agswiss.ch
 agswissevents.ch
-agswissrecrutement.ch
 agsx.ch
 agsys.ch
 agsystemesecurite.ch

@@ -1061,7 +1061,6 @@ gibufix.ch
 gibundnimm.ch
 gibus.ch
 gibuscycles.ch
-gibusvalais.ch
 gibutnogi.ch
 gibwintra.ch
 gibz-app.ch
@@ -1116,7 +1115,6 @@ gics.ch
 gict.ch
 gicubo.ch
 gicyo.ch
-gid-solutions.ch
 gid.ch
 gida.ch
 gidaboll.ch
@@ -2111,6 +2109,7 @@ gil-ruiz.ch
 gil-sertissage.ch
 gil-stauffer.ch
 gil.ch
+gila-solutions.ch
 gila.ch
 gilab.ch
 gilabertrenovation.ch
@@ -6295,6 +6294,7 @@ giusto.ch
 giustochef.ch
 giustolisi.ch
 giustordine.ch
+giustoreviews.ch
 giustotools.ch
 giustyle.ch
 giusu.ch
@@ -6367,16 +6367,11 @@ givebat.ch
 giveblood.ch
 givebox-turbenthal.ch
 givebyclick.ch
-giveclean.ch
 givedirectly.ch
 givedrop.ch
 giveety.ch
 givefabriceajob.ch
-givefair-foundation.ch
 givefair.ch
-givefairclub.ch
-givefairfoundation.ch
-givefairverein.ch
 givefoundation.ch
 giveget.ch
 givehope.ch

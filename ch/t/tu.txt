@@ -465,7 +465,6 @@ tueftellabor-chur.ch
 tueftellabor-einstein.ch
 tueftellabor.ch
 tueftellaborzug.ch
-tuefteln.ch
 tueftelpark-alpstein.ch
 tueftelpark-appenzell.ch
 tueftelpark-bristen.ch
@@ -3420,6 +3419,7 @@ tutorba.ch
 tutorcloud.ch
 tutorcv.ch
 tutordoctor.ch
+tutordsa.ch
 tutorella.ch
 tutoren.ch
 tutorfinder.ch
@@ -3550,6 +3550,7 @@ tuttifix-it.ch
 tuttifix-service.ch
 tuttifix.ch
 tuttifree.ch
+tuttifritti.ch
 tuttifruti.ch
 tuttifrutt.ch
 tuttifrutti-bern.ch

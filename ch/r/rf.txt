@@ -80,6 +80,7 @@ rfa-stores.ch
 rfa.ch
 rfaag.ch
 rfactory.ch
+rfacture.ch
 rfaebi.ch
 rfaes.ch
 rfag.ch
@@ -311,6 +312,7 @@ rfpmathis.ch
 rfprocure.ch
 rfproject.ch
 rfpwald.ch
+rfq.ch
 rfq24.ch
 rfr.ch
 rfragniere.ch

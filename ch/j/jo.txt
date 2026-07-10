@@ -577,7 +577,6 @@ job-robot.ch
 job-rocks.ch
 job-room.ch
 job-routing.ch
-job-rrom.ch
 job-schaffhausen.ch
 job-schweiz.ch
 job-schwyz.ch
@@ -1334,6 +1333,7 @@ jobi-jardins.ch
 jobi-klima.ch
 jobi.ch
 jobia.ch
+jobic.ch
 jobich.ch
 jobida.ch
 jobidee.ch
@@ -4181,7 +4181,6 @@ jofoto.ch
 jofovi.ch
 jofstrings.ch
 jofur.ch
-jofxa.ch
 jog.ch
 jog2024.ch
 joga-transport.ch
@@ -5255,6 +5254,7 @@ joins.ch
 joinsawa.ch
 joinsbn.ch
 joinsharegrow.ch
+joinsimpl.ch
 joinsolarify.ch
 joinsolodesk.ch
 joinson.ch
@@ -8251,6 +8251,7 @@ jossip.ch
 jossis.ch
 jossistrategy.ch
 jossisystems.ch
+jossit.ch
 jossitaxi.ch
 jossma.ch
 jossmassage.ch
@@ -9619,6 +9620,8 @@ joyroom.ch
 joys-art.ch
 joys-basel.ch
 joys-food.ch
+joys-immo.ch
+joys-it.ch
 joys-kleine-racker.ch
 joys-kombuchabar.ch
 joys-schnueffelblog.ch

@@ -3207,7 +3207,6 @@ sheyalino-express.ch
 sheyalino-markt.ch
 sheyalino.ch
 sheyc.ch
-sheycha.ch
 sheyen.ch
 sheygomez.ch
 sheyla.ch
@@ -4448,6 +4447,7 @@ shineyourway.ch
 shinfo.ch
 shing.ch
 shingaar.ch
+shingen.ch
 shingitai.ch
 shingrix.ch
 shinguz.ch
@@ -5790,6 +5790,7 @@ shop-afsag.ch
 shop-agentur.ch
 shop-agrotechnikzulliger.ch
 shop-ahb.ch
+shop-ai.ch
 shop-albanesigroup.ch
 shop-alex.ch
 shop-alexotique.ch
@@ -5872,6 +5873,7 @@ shop-circuit.ch
 shop-classicus.ch
 shop-clean.ch
 shop-clesana.ch
+shop-cloud.ch
 shop-coaching.ch
 shop-coconaut.ch
 shop-connect.ch
@@ -6370,6 +6372,7 @@ shopaguy.ch
 shopahoi.ch
 shopaholic.ch
 shopaholicsworld.ch
+shopai.ch
 shopairhealth.ch
 shopaja.ch
 shopalike.ch
@@ -6490,6 +6493,7 @@ shopcleanmycar.ch
 shopclima.ch
 shopclips.ch
 shopclosduchateau.ch
+shopcloud.ch
 shopcnc.ch
 shopco.ch
 shopcoaching.ch
@@ -6850,6 +6854,7 @@ shopluna.ch
 shoplungern.ch
 shopluwasa.ch
 shoply.ch
+shoplytics.ch
 shopma.ch
 shopmacher.ch
 shopmaharani.ch
@@ -7426,7 +7431,9 @@ shopteam.ch
 shoptec.ch
 shopten.ch
 shoptest.ch
+shoptet-neo.ch
 shoptet.ch
+shoptetneo.ch
 shopthai.ch
 shopthehomeshop.ch
 shopthelabel.ch

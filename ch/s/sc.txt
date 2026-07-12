@@ -2743,6 +2743,7 @@ schadex.ch
 schadgi.ch
 schadholz.ch
 schadi.ch
+schadia-hirschi.ch
 schadify.ch
 schadindustries.ch
 schadiplatz.ch
@@ -6127,7 +6128,6 @@ schellenberg-gartenbau.ch
 schellenberg-gmbh.ch
 schellenberg-immobilien.ch
 schellenberg-ostschweiz.ch
-schellenberg-riehen.ch
 schellenberg-romandie.ch
 schellenberg-stiftung.ch
 schellenberg-textiles.ch
@@ -19211,7 +19211,6 @@ schola-sion.ch
 schola-swiss.ch
 schola.ch
 scholaanimanova.ch
-scholablog.ch
 scholae-fanjeaux.ch
 scholae.ch
 scholaefanjeaux.ch
@@ -21529,7 +21528,6 @@ schreinerei-windisch.ch
 schreinerei-winkler.ch
 schreinerei-winterthur.ch
 schreinerei-wismer.ch
-schreinerei-wohnladen.ch
 schreinerei-wood.ch
 schreinerei-wuerzer.ch
 schreinerei-wuethrich.ch
@@ -26307,6 +26305,7 @@ schulsportplus.ch
 schulsportpro.ch
 schulsportpruefung.ch
 schulsportshop.ch
+schulsportsirnach.ch
 schulsporttag.ch
 schulsporttagobwalden.ch
 schulsportwyland.ch
@@ -30018,7 +30017,6 @@ schweizer-huehner.ch
 schweizer-huetten.ch
 schweizer-hummel.ch
 schweizer-hund.ch
-schweizer-hunde-engel.ch
 schweizer-hunde-magazin.ch
 schweizer-hunde-sachkundenachweis.ch
 schweizer-hunde.ch
@@ -32161,6 +32159,7 @@ schweizerunternehmer.ch
 schweizerurologie.ch
 schweizerventures.ch
 schweizervereine.ch
+schweizervergleich.ch
 schweizerverguetungstag.ch
 schweizerverlag.ch
 schweizerverlage.ch
@@ -35560,6 +35559,7 @@ scooppiercing.ch
 scoops.ch
 scoopshot.ch
 scoopstudios.ch
+scoore.ch
 scoosee.ch
 scoot-and-ride.ch
 scoot.ch
@@ -37058,7 +37058,6 @@ scrut.ch
 scrutare.ch
 scrutarius.ch
 scrutin.ch
-scrutina.ch
 scrutineer.ch
 scrutiny-partners.ch
 scrutiny.ch

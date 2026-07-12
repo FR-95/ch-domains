@@ -1213,7 +1213,6 @@ ski-rental-zermatt.ch
 ski-rental-zueri.ch
 ski-rental.ch
 ski-resort.ch
-ski-resorts.ch
 ski-rinaldo.ch
 ski-romand.ch
 ski-room.ch
@@ -5851,6 +5850,7 @@ skyniceland.ch
 skynight-limesurvey.ch
 skynight.ch
 skynn.ch
+skynomad.ch
 skynote.ch
 skynovation.ch
 skynox.ch

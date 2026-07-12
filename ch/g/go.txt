@@ -3032,7 +3032,6 @@ goldau-automobile.ch
 goldau-escape.ch
 goldau-living.ch
 goldau-summt.ch
-goldau-thai-massage.ch
 goldau-thaimassage.ch
 goldau.ch
 goldaubahnhoftaxi.ch
@@ -6156,6 +6155,7 @@ golfhotels.ch
 golfhotelzermatt.ch
 golfhotmelt.ch
 golfhouse.ch
+golfhub.ch
 golfhuus.ch
 golfhypnose.ch
 golfhypnosis.ch
@@ -9409,7 +9409,6 @@ goser.ch
 goserelin.ch
 goserver.ch
 goservi.ch
-goset.ch
 gosetti.ch
 gosev.ch
 gosev1.ch

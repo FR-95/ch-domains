@@ -82,7 +82,6 @@ ib-tuning.ch
 ib-tutor.ch
 ib-vision.ch
 ib-webdesign.ch
-ib-wsh.ch
 ib00.ch
 ib1805.ch
 ib2.ch
@@ -520,6 +519,7 @@ ibex-gruppe.ch
 ibex-holding.ch
 ibex-immo.ch
 ibex-immobilier.ch
+ibex-massotherapie.ch
 ibex-noiraigue.ch
 ibex-photo.ch
 ibex-pro.ch

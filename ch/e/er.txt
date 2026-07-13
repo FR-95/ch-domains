@@ -1658,7 +1658,6 @@ erfolgreichalscoach.ch
 erfolgreichatmen.ch
 erfolgreichbewerben.ch
 erfolgreichdigital.ch
-erfolgreichdigitalisieren.ch
 erfolgreiche-bewerbung.ch
 erfolgreiche-bewerbungen.ch
 erfolgreiche-schweiz.ch
@@ -3814,6 +3813,7 @@ eriksdigital.ch
 eriksen.ch
 eriksens.ch
 erikson.ch
+eriksson-advisory.ch
 eriksson.ch
 erikssoncoaching.ch
 erikstieger.ch
@@ -3865,7 +3865,6 @@ eringer-art-design.ch
 eringer-art.ch
 eringer-design.ch
 eringer-druck.ch
-eringer-faescht.ch
 eringer-hotel.ch
 eringer-nikolai.ch
 eringer-shop.ch
@@ -3875,7 +3874,6 @@ eringerart.ch
 eringerartdesign.ch
 eringerdesign.ch
 eringerdruck.ch
-eringerfaescht.ch
 eringerfest.ch
 eringerfleisch.ch
 eringerfreunde.ch
@@ -6006,6 +6004,7 @@ ero-media.ch
 ero-mediahub.ch
 ero-page.ch
 ero-scout.ch
+ero-selection.ch
 ero-shop.ch
 ero-talk.ch
 ero-tr.ch
@@ -7473,6 +7472,7 @@ erstvermietung-stueckelberg.ch
 erstvermietung.ch
 erstvermietungen.ch
 erstwerch.ch
+erstwohnen.ch
 erstwohnungen.ch
 ersuchtihn.ch
 ersuchtpaar.ch

@@ -198,6 +198,7 @@ cnc-trade.ch
 cnc-training.ch
 cnc-werkstatt.ch
 cnc-werkzeuge.ch
+cnc-werkzeugmaschinen.ch
 cnc-werkzeugshop.ch
 cnc-woodcraft.ch
 cnc-woodwork.ch

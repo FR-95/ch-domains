@@ -602,7 +602,6 @@ bnsz.ch
 bnt-batiment.ch
 bnt-circle.ch
 bnt-medical.ch
-bnt-photography.ch
 bnt.ch
 bnta.ch
 bntest.ch
@@ -630,7 +629,6 @@ bnwsg-ict.ch
 bnwsg-it.ch
 bnwsg.ch
 bnwzh.ch
-bnx.ch
 bny.ch
 bnymellon.ch
 bnymellonim.ch

@@ -110,7 +110,6 @@ cc-moutier.ch
 cc-muri.ch
 cc-mv.ch
 cc-nails.ch
-cc-naturecare-organization.ch
 cc-news.ch
 cc-nfz.ch
 cc-nova.ch
@@ -826,6 +825,7 @@ ccmorges.ch
 ccmoutier.ch
 ccmove.ch
 ccmoving-demenagement.ch
+ccmp.ch
 ccmpa.ch
 ccms-solutions.ch
 ccms.ch
@@ -944,7 +944,6 @@ ccprod.ch
 ccproduction.ch
 ccproductions.ch
 ccprojects.ch
-ccprotein.ch
 ccpsoft.ch
 ccpt.ch
 ccpulm.ch

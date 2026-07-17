@@ -1794,6 +1794,7 @@ slotsvader1.ch
 slotsvaderbonus.ch
 slotsvadercas.ch
 slotsvadercasino.ch
+slotsvadercasinoch.ch
 slotsvaderkasino.ch
 slotsvadero.ch
 slotsvaderonline.ch

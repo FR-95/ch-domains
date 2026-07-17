@@ -752,7 +752,6 @@ icerocketstudio.ch
 iceroll-delice.ch
 iceroll-lausanne.ch
 iceroll-suisse.ch
-icerolllab.ch
 icertias.ch
 icertificate.ch
 icertificates.ch
@@ -2807,7 +2806,6 @@ ictb24.ch
 ictbasel.ch
 ictbaselland.ch
 ictbb.ch
-ictbbag.ch
 ictbbch.ch
 ictbbost.ch
 ictbbtg.ch
@@ -2830,7 +2828,6 @@ ictclass.ch
 ictcloud.ch
 ictcollege.ch
 ictcom.ch
-ictcommunity.ch
 ictcon.ch
 ictconnect.ch
 ictconsulting.ch

@@ -333,6 +333,7 @@ shackassociation.ch
 shackdata.ch
 shacksear.ch
 shacman.ch
+shacmoto.ch
 shaconcept.ch
 shad.ch
 shadait.ch
@@ -3262,7 +3263,6 @@ shgrenchen.ch
 shgroup.ch
 shgs.ch
 shgsolutions.ch
-shgt.ch
 shgz.ch
 shh.ch
 shhaustechnik.ch
@@ -3746,7 +3746,6 @@ shiatsu12.ch
 shiatsu1a.ch
 shiatsu2go.ch
 shiatsu3.ch
-shiatsu4horse.ch
 shiatsu4horses.ch
 shiatsu4life.ch
 shiatsu4me.ch
@@ -5547,6 +5546,7 @@ shoga.ch
 shogai-film.ch
 shogai.ch
 shogaku.ch
+shoganails.ch
 shogazi.ch
 shogen-dojo.ch
 shogen-zendo.ch
@@ -5764,7 +5764,6 @@ shootit.ch
 shootlab.ch
 shootlm.ch
 shootmap.ch
-shootmyride.ch
 shootmyski.ch
 shooto.ch
 shootorama.ch
@@ -6516,6 +6515,7 @@ shopcontrol.ch
 shopcordesalpes.ch
 shopcorner.ch
 shopcreator.ch
+shopcro.ch
 shopcrudo.ch
 shopctrl.ch
 shopcurate.ch

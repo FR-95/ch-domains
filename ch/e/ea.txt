@@ -58,13 +58,11 @@ eaa-la-chaux-de-fonds.ch
 eaa-reinigungen.ch
 eaa-switzerland.ch
 eaa150.ch
-eaacert.ch
 eaag.ch
 eaap.ch
 eaargau.ch
 eaas.ch
 eaasify.ch
-eaaswiss.ch
 eaasy.ch
 eab-holding.ch
 eab-sicherheitsdienst.ch
@@ -403,6 +401,7 @@ eagz.ch
 eagzh.ch
 eah.ch
 eaha.ch
+eahaustechnik.ch
 eaheliski.ch
 eaheliskiing.ch
 eahpb.ch
@@ -1664,6 +1663,7 @@ easy-portal.ch
 easy-pos.ch
 easy-poursuite.ch
 easy-poursuites.ch
+easy-ppe.ch
 easy-prep.ch
 easy-print.ch
 easy-printing.ch
@@ -2085,7 +2085,6 @@ easybilan.ch
 easybill.ch
 easybilling.ch
 easybim.ch
-easybird.ch
 easybirth.ch
 easybit.ch
 easybitcoin.ch
@@ -2960,6 +2959,7 @@ easymarkets.ch
 easymarkise.ch
 easymarkt.ch
 easymart.ch
+easymastercup.ch
 easymat.ch
 easymatch.ch
 easymath.ch
@@ -3820,6 +3820,7 @@ easywayservices.ch
 easywaytomath.ch
 easywealth.ch
 easywear.ch
+easyweb-ai.ch
 easyweb-solutions.ch
 easyweb.ch
 easywebcom.ch
@@ -4068,6 +4069,7 @@ eatforhope.ch
 eatforpower.ch
 eatfreda.ch
 eatfresh.ch
+eatfrood.ch
 eatg.ch
 eatgo.ch
 eatgood.ch

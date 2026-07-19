@@ -499,6 +499,7 @@ cmdetang.ch
 cmdev.ch
 cmdflash.ch
 cmdg.ch
+cmdht.ch
 cmdi.ch
 cmdigitalservices.ch
 cmdl.ch
@@ -609,6 +610,7 @@ cmf.ut4.ch
 cmfa.ch
 cmfarvagny.ch
 cmfashion.ch
+cmfbd.ch
 cmfconstruction.ch
 cmfconsulting.ch
 cmfd.ch
@@ -670,8 +672,10 @@ cmhaas.ch
 cmhandelsag.ch
 cmhar.ch
 cmharnisch.ch
+cmhdb.ch
 cmheinzer.ch
 cmhimmo.ch
+cmhjt.ch
 cmhk.ch
 cmholding.ch
 cmholdingsa.ch
@@ -841,6 +845,7 @@ cmn.ch
 cmnc.ch
 cmnca.ch
 cmnd.ch
+cmndj.ch
 cmne.ch
 cmnendaz.ch
 cmnet.ch
@@ -850,11 +855,13 @@ cmng.ch
 cmnh.ch
 cmnova.ch
 cmnp.ch
+cmnpd.ch
 cmnspace.ch
 cmnty.ch
 cmnutrition.ch
 cmnv.ch
 cmnv2.ch
+cmnzz.ch
 cmo-advisory.ch
 cmo-circle.ch
 cmo-concept.ch
@@ -1165,6 +1172,7 @@ cmtalent.ch
 cmtax.ch
 cmtaxi.ch
 cmtb.ch
+cmtdp.ch
 cmte.ch
 cmtec.ch
 cmtech.ch
@@ -1265,6 +1273,7 @@ cmxproduction.ch
 cmxs.ch
 cmy.ch
 cmyerly.ch
+cmyeu.ch
 cmyk-consulting.ch
 cmyk-druckshop.ch
 cmyk-gmbh.ch
@@ -1282,4 +1291,6 @@ cmz-bauplus.ch
 cmz.ch
 cmzblu.ch
 cmzh.ch
+cmzpn.ch
+cmzrt.ch
 cmzwei.ch

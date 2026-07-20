@@ -598,6 +598,7 @@ kmu-dienstleistungen.ch
 kmu-dietikon.ch
 kmu-digiscan.ch
 kmu-digisoft.ch
+kmu-digital-roadmap.ch
 kmu-digital.ch
 kmu-digitaldesign.ch
 kmu-digitalisieren.ch
@@ -1224,7 +1225,6 @@ kmudata.ch
 kmudatacenter.ch
 kmudate.ch
 kmudeal.ch
-kmudemo.ch
 kmudenkfabrik.ch
 kmudesign.ch
 kmudesignsprint.ch

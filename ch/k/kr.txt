@@ -2150,7 +2150,6 @@ kraut-architekten.ch
 kraut-bluete.ch
 kraut-hexe.ch
 kraut-mineral.ch
-kraut-raum.ch
 kraut-rosen.ch
 kraut-rueben.ch
 kraut-und-magie.ch
@@ -3098,7 +3097,6 @@ kreativekulinarik.ch
 kreativekurse.ch
 kreativelabs.ch
 kreativelebenskunst.ch
-kreativeleckereien.ch
 kreativelernwerkstatt.ch
 kreativeli.ch
 kreativeloesungswege.ch
@@ -4241,6 +4239,7 @@ kreis-innenarchitektur.ch
 kreis-kobus.ch
 kreis-kuechen.ch
 kreis-lauf.ch
+kreis-medical.ch
 kreis-null.ch
 kreis-partner.ch
 kreis-peinture.ch
@@ -4692,6 +4691,7 @@ kretaoliven.ch
 kretaolivenoel.ch
 kretareisen.ch
 kretaurlaub.ch
+krete.ch
 kretec.ch
 kreter-foundation.ch
 kreter.ch
@@ -5252,6 +5252,7 @@ kreuzwegacker-muensingen.ch
 kreuzweger-baumanagement.ch
 kreuzwegzentrum.ch
 kreuzweh.ch
+kreuzweise.ch
 kreuzweiss.ch
 kreuzwerk.ch
 kreuzwerker-switzerland.ch
@@ -5316,6 +5317,7 @@ kribeiro.ch
 kribi.ch
 kribis.ch
 kribix.ch
+kribo.ch
 kriburg.ch
 krichel.ch
 krick-ai.ch
@@ -6274,6 +6276,7 @@ kristinaschmid.ch
 kristinaslernstudio.ch
 kristinastuder.ch
 kristinaundluca.ch
+kristinaundpatrick.ch
 kristinavogt.ch
 kristinavucurovic.ch
 kristinbrueggemann.ch
@@ -7249,6 +7252,7 @@ krucher.ch
 krucican.ch
 kruck-stiftung.ch
 kruck.ch
+kruckenberg-industries.ch
 kruckenberg.ch
 krucker-cyber-security.ch
 krucker-mechanik.ch

@@ -1985,7 +1985,9 @@ clau.ch
 clauart.ch
 clauartcafe.ch
 claubscher.ch
+claud-agent.ch
 claud-info.ch
+claud-scout.ch
 clauda.ch
 claudaition.ch
 claudanova-health.ch
@@ -2010,6 +2012,7 @@ claude-cowork.ch
 claude-eckel.ch
 claude-ecritures.ch
 claude-eichenberger.ch
+claude-engineering.ch
 claude-fallet.ch
 claude-fankhauser.ch
 claude-favre.ch
@@ -6418,7 +6421,6 @@ clic-and-cash.ch
 clic-clac-photo.ch
 clic-clic.ch
 clic-club.ch
-clic-concept.ch
 clic-design.ch
 clic-ensemble.ch
 clic-finger.ch
@@ -6644,6 +6646,7 @@ clickbrickpure.ch
 clickbuchung.ch
 clickbuy.ch
 clickbyte.ch
+clickcare.ch
 clickcash.ch
 clickcasino.ch
 clickcease.ch
@@ -12280,6 +12283,7 @@ cluvent.ch
 cluvo.ch
 cluyo.ch
 cluyoga.ch
+cluz.ch
 clv-ag.ch
 clv-gmbh.ch
 clv-magazine.ch

@@ -295,6 +295,7 @@ hibyte.ch
 hic-basel.ch
 hic-consulting.ch
 hic-et-nunc.ch
+hic-immobilien.ch
 hic-sunt-dracones.ch
 hic-swiss.ch
 hic.ch
@@ -2382,7 +2383,6 @@ hilfinger.ch
 hilfio.ch
 hilfis.ch
 hilfisatw.ch
-hilfl.ch
 hilfli.ch
 hilfmal.ch
 hilfmi.ch

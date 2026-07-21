@@ -132,7 +132,6 @@ cyber-day.ch
 cyber-defence-lab.ch
 cyber-defense-intelligence-s.ch
 cyber-defense.ch
-cyber-design.ch
 cyber-digital.ch
 cyber-doctor.ch
 cyber-dome.ch
@@ -292,6 +291,7 @@ cyber-tron.ch
 cyber-typer.ch
 cyber-und-andere-dramen.ch
 cyber-unlimited.ch
+cyber-update.ch
 cyber-vd.ch
 cyber-versicherung-vergleich.ch
 cyber-versicherung.ch
@@ -804,7 +804,6 @@ cyberlion.ch
 cyberlionsclub.ch
 cyberlock-tga.ch
 cyberlock.ch
-cyberlocker.ch
 cyberlogic.ch
 cyberloop.ch
 cyberlords.ch
@@ -1069,6 +1068,7 @@ cyberschool.ch
 cyberschutz-amacher.ch
 cyberschutz-vergleich.ch
 cyberschutz.ch
+cyberschutzschweiz.ch
 cyberschweiz.ch
 cyberscience.ch
 cyberscore.ch

@@ -821,6 +821,7 @@ my-holzland.ch
 my-home-automation.ch
 my-home-bar.ch
 my-home-is-my-castle.ch
+my-home-lab.ch
 my-home-leasing.ch
 my-home-my-castel.ch
 my-home-styling.ch
@@ -908,7 +909,6 @@ my-io.ch
 my-ip.ch
 my-ipc.ch
 my-ipstore.ch
-my-iptv-suisse.ch
 my-iptvplus.ch
 my-iris.ch
 my-island.ch
@@ -942,7 +942,6 @@ my-kaleidoscope.ch
 my-kaleidoskop.ch
 my-kalender.ch
 my-kando.ch
-my-kantonalbank.ch
 my-kard.ch
 my-kards.ch
 my-kasino.ch
@@ -1594,6 +1593,7 @@ my-skinlab.ch
 my-skoda.ch
 my-sky.ch
 my-sleep.ch
+my-slmt.ch
 my-smart-home.ch
 my-smart-tax.ch
 my-smart.ch
@@ -3292,6 +3292,7 @@ mybussen.ch
 mybussi.ch
 mybuttler.ch
 mybutton.ch
+mybutty.ch
 mybuus.ch
 mybux.ch
 mybuxi-market.ch
@@ -5362,7 +5363,6 @@ myflexion.ch
 myflexipark.ch
 myflexitec-online.ch
 myflexitec.ch
-myflia.ch
 myflight.ch
 myflightconnect.ch
 myflightlog.ch
@@ -5686,6 +5686,7 @@ mygenie.ch
 mygenion.ch
 mygenius.ch
 mygenmabstory.ch
+mygenny.ch
 mygeno.ch
 mygenomepass.ch
 mygentleborn.ch
@@ -7422,7 +7423,6 @@ mylocalservices.ch
 mylocalshopping.ch
 mylocalstore.ch
 mylocarno.ch
-mylocation-victor.ch
 mylocation.ch
 mylocator.ch
 mylocker.ch
@@ -8664,7 +8664,6 @@ myownnet.ch
 myownorganic.ch
 myownplatform.ch
 myownprof.ch
-myownschneider.ch
 myownself.ch
 myowntime.ch
 myows.ch
@@ -10977,7 +10976,6 @@ mystim.ch
 mystimix.ch
 mystio.ch
 mystipendium.ch
-mystique-dummy.ch
 mystique-mix.ch
 mystique-peinture.ch
 mystique-pole-dance.ch
@@ -11289,6 +11287,7 @@ myswissevents.ch
 myswissexperience.ch
 myswissfarm.ch
 myswissfarmfood.ch
+myswissfiduciary.ch
 myswissfinance.ch
 myswissfind.ch
 myswissfinds.ch

@@ -1242,6 +1242,7 @@ cabinetequilibre.ch
 cabinetequinoxs.ch
 cabinetergo.ch
 cabinetespaceequilibre.ch
+cabinetetiopathegeneve.ch
 cabinetetoilepolaire.ch
 cabinetevident.ch
 cabinetf90.ch
@@ -3380,7 +3381,6 @@ cafe-saint-germain.ch
 cafe-sam.ch
 cafe-sante.ch
 cafe-schluep.ch
-cafe-schneider.ch
 cafe-schnipp-schnapp.ch
 cafe-schnippschnapp.ch
 cafe-select.ch
@@ -3716,6 +3716,7 @@ cafedesreines.ch
 cafedesreves.ch
 cafedessignes.ch
 cafedessources.ch
+cafedesvergers.ch
 cafedesvernets.ch
 cafedesvoyageurs.ch
 cafedethiopie.ch
@@ -4008,6 +4009,7 @@ cafeoli.ch
 cafeonline.ch
 cafeorfeu.ch
 cafeoscar.ch
+cafeouchy.ch
 cafeouest.ch
 cafepad.ch
 cafepads.ch
@@ -4960,7 +4962,6 @@ cairscape.ch
 cairsystems.ch
 cairus.ch
 cais-finanziaria.ch
-cais.ch
 caiscan.ch
 caiscio.ch
 caise01.ch
@@ -10568,7 +10569,6 @@ campstar.ch
 campstay.ch
 campstead.ch
 campster.ch
-campsters.ch
 campsuisse.ch
 campsursee.ch
 camptastic.ch
@@ -11049,7 +11049,6 @@ camtocam-sexchat.ch
 camtrack.ch
 camts.ch
 camtv.ch
-camu.ch
 camucamu-schweiz.ch
 camucamu.ch
 camueller.ch
@@ -12230,6 +12229,7 @@ canima.ch
 canimalice.ch
 canimalin.ch
 canimaltesiticino.ch
+canimap.ch
 canimaster.ch
 canimed.ch
 canimfilm.ch
@@ -12326,7 +12326,6 @@ canisco.ch
 canisconcept.ch
 caniscout.ch
 caniscowork.ch
-caniscura.ch
 canisdetection.ch
 canisens.ch
 caniseo.ch
@@ -12375,6 +12374,7 @@ canivo.ch
 caniwalking.ch
 caniway.ch
 caniweb.ch
+caniwildcamp.ch
 canix.ch
 canizares.ch
 canjason.ch
@@ -13181,6 +13181,7 @@ canopee-conseil.ch
 canopee-consult.ch
 canopee-education.ch
 canopee-formation.ch
+canopee-valais.ch
 canopee.ch
 canopeeadvisory.ch
 canopeefrance.ch
@@ -18450,6 +18451,7 @@ care-academy-switzerland.ch
 care-academy.ch
 care-ado.ch
 care-ai.ch
+care-akademie.ch
 care-and-comfort.ch
 care-and-grow.ch
 care-and-maid.ch
@@ -18863,6 +18865,7 @@ career-group.ch
 career-helpdesk.ch
 career-helpline.ch
 career-hotline.ch
+career-hub.ch
 career-id.ch
 career-io.ch
 career-jump.ch
@@ -19187,6 +19190,7 @@ careline.ch
 careliner-schweiz.ch
 careliner.ch
 carelink-academy.ch
+carelink-akademie.ch
 carelink.ch
 carelinkmed.ch
 carelist.ch
@@ -20365,6 +20369,7 @@ carioca-geneva.ch
 carioca.ch
 cariocas.ch
 carion.ch
+carioverse.ch
 caripul.ch
 caris.ch
 carisapp.ch
@@ -22100,7 +22105,6 @@ carolefleischmann.ch
 caroleflury.ch
 carolefrossard.ch
 caroleg.ch
-carolegauthier.ch
 carolegenoud.ch
 carolegrangier.ch
 carolegroeflin.ch
@@ -22959,7 +22963,6 @@ carpio.ch
 carpiopartners.ch
 carpis.ch
 carpisago.ch
-carpit.ch
 carpix4you.ch
 carpixel.ch
 carpixx.ch
@@ -23938,7 +23941,6 @@ carrosserie-porriciello.ch
 carrosserie-pozzi.ch
 carrosserie-pratteln.ch
 carrosserie-prestige.ch
-carrosserie-pro-dynamique.ch
 carrosserie-promartin.ch
 carrosserie-putallaz.ch
 carrosserie-raynal.ch
@@ -28206,6 +28208,7 @@ casareale.ch
 casareccio.ch
 casareco.ch
 casarefill.ch
+casareform.ch
 casaregina.ch
 casareginavella.ch
 casareiner.ch
@@ -29385,7 +29388,6 @@ cashion-et-weast.ch
 cashion.ch
 caship.ch
 cashisfreedom.ch
-cashiswine.ch
 cashit.ch
 cashja.ch
 cashkarte.ch
@@ -29892,6 +29894,7 @@ casino-rent.ch
 casino-resort-egerkingen.ch
 casino-resort-hotel-egerkingen.ch
 casino-review.ch
+casino-revolut.ch
 casino-ringospin.ch
 casino-riva.ch
 casino-rocket-ch.ch
@@ -31643,6 +31646,7 @@ casual-games.ch
 casual-gaming.ch
 casual-it.ch
 casual-kontakte.ch
+casual-labs.ch
 casual-lounge.ch
 casual-luxury-workspaces.ch
 casual-marketing.ch
@@ -31691,6 +31695,7 @@ casualia.ch
 casualit.ch
 casualkontakt.ch
 casualkontakte.ch
+casuallabs.ch
 casualliving.ch
 casuallounge.ch
 casualmatt.ch
@@ -33256,7 +33261,6 @@ cattapan.ch
 cattara.ch
 cattaro.ch
 cattaruzza.ch
-cattattoo.ch
 cattelan-store.ch
 cattelan.ch
 cattelani.ch

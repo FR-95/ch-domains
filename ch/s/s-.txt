@@ -229,7 +229,6 @@ s-digital.ch
 s-dimension.ch
 s-dimopoulos.ch
 s-dl.ch
-s-do.ch
 s-dog.ch
 s-dots.ch
 s-drive.ch
@@ -645,6 +644,7 @@ s-portmann.ch
 s-postfa.ch
 s-pot.ch
 s-praxis.ch
+s-prestige.ch
 s-prime.ch
 s-print.ch
 s-prit.ch

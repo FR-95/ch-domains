@@ -18,7 +18,9 @@
 0-5.ch
 0-6.ch
 0-7.ch
+0-8-15.ch
 0-8.ch
+0-9.ch
 0-99.ch
 0-day.ch
 0-franken-hoergeraete.ch
@@ -28,6 +30,7 @@
 0-key.ch
 0-km.ch
 0-promille.ch
+0-swagz.ch
 0-tou.ch
 0-waste.ch
 0-z.ch

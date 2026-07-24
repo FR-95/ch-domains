@@ -1028,7 +1028,6 @@ vogelscheuche.ch
 vogelschiss.ch
 vogelschmid.ch
 vogelschreck.ch
-vogelschutz-badragaz.ch
 vogelschutz-bucheggberg.ch
 vogelschutz-chur.ch
 vogelschutz-domleschg.ch
@@ -1484,6 +1483,7 @@ voiceassist.ch
 voiceassistant.ch
 voiceauratelecom.ch
 voiceback.ch
+voiceban.ch
 voicebank.ch
 voicebankingproject.ch
 voicebasel.ch
@@ -1564,7 +1564,6 @@ voicemeetup.ch
 voicemelody.ch
 voicemotion.ch
 voicemusic.ch
-voicenbeats.ch
 voicenet.ch
 voicenguitar.ch
 voicenjoy.ch
@@ -1776,6 +1775,7 @@ voila-ma-suisse.ch
 voila-masuisse.ch
 voila-murten.ch
 voila-ost.ch
+voila-region-basel.ch
 voila-socialclub.ch
 voila-studio.ch
 voila-travel.ch
@@ -2408,7 +2408,6 @@ volcancito.ch
 volcanic-drinks.ch
 volcanique-compta.ch
 volcanique-school.ch
-volcano-gin.ch
 volcano-heli.ch
 volcano-spa.ch
 volcano.ch
@@ -3383,7 +3382,6 @@ volleys9.ch
 volleyschlatt.ch
 volleyschoenenwerd.ch
 volleyscore.ch
-volleyseefeldthun.ch
 volleyseetal.ch
 volleysense.ch
 volleysfgstabio.ch
@@ -4261,6 +4259,7 @@ volumina-medical.ch
 volumis.ch
 volumista.ch
 volumondo.ch
+volumyx.ch
 voluno.ch
 voluntari.ch
 voluntaria.ch
@@ -7057,6 +7056,7 @@ vorsorge-kennzahlen.ch
 vorsorge-kmu.ch
 vorsorge-konto.ch
 vorsorge-konto3a.ch
+vorsorge-konzept.ch
 vorsorge-kultur.ch
 vorsorge-laufental.ch
 vorsorge-lebensversicherung.ch
@@ -7070,6 +7070,7 @@ vorsorge-notar.ch
 vorsorge-obwalden.ch
 vorsorge-olten.ch
 vorsorge-one4all.ch
+vorsorge-optimierung.ch
 vorsorge-ow.ch
 vorsorge-partner.ch
 vorsorge-plan.ch
@@ -7090,6 +7091,7 @@ vorsorge-services.ch
 vorsorge-spezialist.ch
 vorsorge-steffi.ch
 vorsorge-stgallen.ch
+vorsorge-strategie.ch
 vorsorge-tage.ch
 vorsorge-team.ch
 vorsorge-tool.ch
@@ -7215,6 +7217,7 @@ vorsorgeimmobilie.ch
 vorsorgeimmobilien.ch
 vorsorgeimpuls.ch
 vorsorgeindex.ch
+vorsorgeinfo-schweiz.ch
 vorsorgeinfo.ch
 vorsorgeinvest.ch
 vorsorgekalkulator.ch
@@ -7232,6 +7235,7 @@ vorsorgekonto-3a.ch
 vorsorgekonto-plus.ch
 vorsorgekonto.ch
 vorsorgekonto3a.ch
+vorsorgekonzept.ch
 vorsorgekurs.ch
 vorsorgekurse.ch
 vorsorgelebensversicherung.ch

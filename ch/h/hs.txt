@@ -727,7 +727,6 @@ hsp-pas.ch
 hsp-personal.ch
 hsp-plan.ch
 hsp-schweiz.ch
-hsp-schwyz.ch
 hsp-selbsthilfegruppe.ch
 hsp-test.ch
 hsp.ch
@@ -840,6 +839,7 @@ hst.ch
 hst2012.ch
 hsta.ch
 hstag.ch
+hstc-mt.ch
 hstc.ch
 hsteamwerk.ch
 hstech.ch

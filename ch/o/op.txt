@@ -2323,7 +2323,6 @@ opesem.ch
 opesgroup.ch
 opeswiss.ch
 opetf.ch
-opetini.ch
 opetitbonheur.ch
 opetitesbulles.ch
 opetits-soleils.ch
@@ -3076,6 +3075,7 @@ oprina.ch
 oprint.ch
 oprisk.ch
 oprisko.ch
+oprisync.ch
 oprivia.ch
 oprix.ch
 oprjas.ch

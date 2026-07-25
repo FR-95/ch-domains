@@ -98,6 +98,7 @@ dtcars.ch
 dtcd.ch
 dtcgutachten.ch
 dtcleaning.ch
+dtclj.ch
 dtcloud.ch
 dtco.ch
 dtcoaching.ch
@@ -193,7 +194,6 @@ dtf-transfers.ch
 dtf-transfers24.ch
 dtf-transfert.ch
 dtf-uv.ch
-dtf-world.ch
 dtf.ch
 dtf24.ch
 dtf4u.ch
@@ -206,6 +206,7 @@ dtfdruck.ch
 dtfdruckerei.ch
 dtfexpress.ch
 dtfexpress24.ch
+dtfez.ch
 dtffolien.ch
 dtfguru.ch
 dtfking.ch

@@ -280,6 +280,7 @@ soacampus.ch
 soaccess.ch
 soacho.ch
 soad.ch
+soafl.ch
 soag.ch
 soagencement.ch
 soagesmat.ch
@@ -480,7 +481,6 @@ sobemailbox.ch
 sober-circle.ch
 sober-labs.ch
 sober-lover.ch
-sober.ch
 soberano.ch
 soberbuddies.ch
 soberdance.ch
@@ -1858,7 +1858,6 @@ societesuissedesantedigitale.ch
 societesuissedetelemedecine.ch
 societetirsauthaux.ch
 society-cars.ch
-society-immobilier.ch
 society-sport.ch
 society.ch
 society5.ch
@@ -2043,8 +2042,10 @@ socklady.ch
 socklette.ch
 sockletten.ch
 sockli.ch
+socknorris.ch
 socknroll.ch
 socko.ch
+sockrates.ch
 socks-me.ch
 socks-shop.ch
 socks-store.ch
@@ -8116,7 +8117,6 @@ solbonus.ch
 solbovine.ch
 solbra.ch
 solbracisst.ch
-solbro.ch
 solbus.ch
 solbys.ch
 solc.ch
@@ -8319,7 +8319,6 @@ solea10-corsier.ch
 soleaa.ch
 soleaarnold.ch
 soleabautrocknen.ch
-soleacommunity.ch
 soleadesign.ch
 soleaferrari.ch
 soleahauskonzept.ch
@@ -12056,7 +12055,6 @@ sommer-performance.ch
 sommer-pool.ch
 sommer-redholstein.ch
 sommer-reisen.ch
-sommer-rent.ch
 sommer-rental.ch
 sommer-rtv.ch
 sommer-sabatini.ch
@@ -13303,7 +13301,6 @@ soniaa.ch
 soniaagrebi.ch
 soniaarnold.ch
 soniabellisario.ch
-soniabeltre.ch
 soniabenchaabane.ch
 soniabijoux.ch
 soniabogner.ch
@@ -15380,7 +15377,6 @@ sonreis.ch
 sonrisa.ch
 sonrisadelcorazon.ch
 sonrisaglobal.ch
-sonrisas-salvajes.ch
 sonrisaschweiz.ch
 sonrise.ch
 sonriso.ch
@@ -16113,7 +16109,6 @@ sophiethegiraffe.ch
 sophietherapies.ch
 sophietritten.ch
 sophieullmann.ch
-sophieundlukas.ch
 sophieundnick.ch
 sophieundpaul.ch
 sophieundwanda.ch
@@ -17405,6 +17400,7 @@ sos-cashvalue.ch
 sos-cbd.ch
 sos-cd.ch
 sos-ch.ch
+sos-chatons-glane.ch
 sos-chats.ch
 sos-chauffage.ch
 sos-cle.ch
@@ -17702,6 +17698,7 @@ sos-seaturtles.ch
 sos-secretaires.ch
 sos-securite.ch
 sos-security.ch
+sos-serrure.ch
 sos-serrures.ch
 sos-serrures24.ch
 sos-serrurier-24.ch
@@ -17711,7 +17708,6 @@ sos-serrurier-suisse.ch
 sos-serrurier-urgence.ch
 sos-serrurier.ch
 sos-serrurier24.ch
-sos-serrurierdeurgence.ch
 sos-service-impots.ch
 sos-service.ch
 sos-shop.ch
@@ -17950,6 +17946,7 @@ sosdoudou.ch
 sosdoudous.ch
 sosdr.ch
 sosdrinks.ch
+sosdrogue.ch
 sosdroitsdespatients.ch
 sose-arts.ch
 sose.ch
@@ -19306,6 +19303,7 @@ soulpringclinic.ch
 soulprint.ch
 soulprints.ch
 soulproject.ch
+soulprojects.ch
 soulpromises.ch
 soulpun.ch
 soulqueen.ch
@@ -20079,6 +20077,7 @@ soundsofheaven.ch
 soundsoflifepublishing.ch
 soundsofliferecords.ch
 soundsofpalestine.ch
+soundsofqueen.ch
 soundsofschinzel.ch
 soundsofsilence.ch
 soundsofspirit-now.ch
@@ -20595,6 +20594,7 @@ souso.ch
 sousol.ch
 sousou.ch
 sousoul.ch
+sousous.ch
 souspy.ch
 souss.ch
 sousse.ch
@@ -20948,6 +20948,7 @@ sova-advisory.ch
 sova.ch
 sova360.ch
 sovabad.ch
+sovabot.ch
 sovadis-jobs.ch
 sovadis.ch
 sovafin.ch

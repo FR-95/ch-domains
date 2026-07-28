@@ -1167,6 +1167,7 @@ jacquelinehausamann.ch
 jacquelinehefti.ch
 jacquelineheller.ch
 jacquelineheutschi.ch
+jacquelinehoehn.ch
 jacquelinejaeckle.ch
 jacquelinejaeger.ch
 jacquelinejenny.ch
@@ -1235,7 +1236,6 @@ jacques-chevre.ch
 jacques-erlanger.ch
 jacques-geneve.ch
 jacques-lemaitre.ch
-jacques-lemans.ch
 jacques-lusseyran-verein.ch
 jacques-masson.ch
 jacques-oulevay.ch
@@ -1603,6 +1603,7 @@ jaeger-langnau.ch
 jaeger-lecoultre.ch
 jaeger-legal.ch
 jaeger-lienhard.ch
+jaeger-ott.ch
 jaeger-partner.ch
 jaeger-rathgeb.ch
 jaeger-results.ch
@@ -7615,7 +7616,6 @@ javalab.ch
 javali.ch
 javalin.ch
 javalink.ch
-javallat.ch
 javalon.ch
 javaloyes.ch
 javamarkt.ch

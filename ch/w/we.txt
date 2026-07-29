@@ -2945,7 +2945,6 @@ webdesign-website-erstellen.ch
 webdesign-wegner.ch
 webdesign-weinfelden.ch
 webdesign-werbeagentur.ch
-webdesign-werkstatt.ch
 webdesign-wetzikon.ch
 webdesign-wil.ch
 webdesign-winterthur.ch
@@ -5132,6 +5131,7 @@ webpagebuilder.ch
 webpagecreator.ch
 webpagedesign.ch
 webpagepflege.ch
+webpager.ch
 webpages.ch
 webpaginas.ch
 webpaiement.ch
@@ -9303,7 +9303,6 @@ weibel-mammern.ch
 weibel-meilen.ch
 weibel-montagen.ch
 weibel-mueller.ch
-weibel-neuhaus.ch
 weibel-online.ch
 weibel-privatereinigungen.ch
 weibel-schreinerei.ch
@@ -11461,6 +11460,7 @@ weinkeller-hoeri.ch
 weinkeller-mieten.ch
 weinkeller-nauer.ch
 weinkeller-oensingen.ch
+weinkeller-profis.ch
 weinkeller-raritaeten.ch
 weinkeller-rauch.ch
 weinkeller-strada.ch
@@ -11499,6 +11499,7 @@ weinkellermarkusnauer.ch
 weinkellermieten.ch
 weinkellernauer.ch
 weinkellerplanung.ch
+weinkellerprofis.ch
 weinkellerraeumung.ch
 weinkellerrauch.ch
 weinkellerschweiz.ch
@@ -11615,7 +11616,6 @@ weinland-anlaesse.ch
 weinland-autobahn.ch
 weinland-basketball.ch
 weinland-christbaum.ch
-weinland-docs.ch
 weinland-fitness.ch
 weinland-gesundheitszentrum.ch
 weinland-holztisch.ch
@@ -11792,8 +11792,6 @@ weinpreis.ch
 weinpreise.ch
 weinpresse.ch
 weinpro.ch
-weinprobe.ch
-weinproben.ch
 weinprobier.ch
 weinproduzent.ch
 weinproduzenten.ch
@@ -13603,6 +13601,7 @@ welcometothegarage.ch
 welcometothejungle.ch
 welcometozurich.ch
 welcometravel.ch
+welcomevalmara.ch
 welcomevevey.ch
 welcomevideo.ch
 welcomezug.ch
@@ -13869,6 +13868,7 @@ wellana.ch
 wellanalyse.ch
 wellance.ch
 welland.ch
+wellandfarms.ch
 wellandgroup.ch
 wellanding.ch
 wellandless.ch
@@ -14884,7 +14884,6 @@ wellnesszuerich.ch
 wellnesszuhause.ch
 wellnest-retreat.ch
 wellnest-retreats.ch
-wellnest.ch
 wellnestconnect.ch
 wellnestliving.ch
 wellnestretreat.ch
@@ -16915,6 +16914,7 @@ wepc.ch
 wepcom.ch
 wepcon-partners.ch
 wepdarc.ch
+wepec.ch
 wepegmbh.ch
 wepemabo.ch
 weperform.ch
@@ -17585,6 +17585,7 @@ werbelabor.ch
 werbelaube.ch
 werbelaune.ch
 werbeleistungsvertrag.ch
+werbeleuchten.ch
 werbeleute-websites.ch
 werbeleute.ch
 werbelift.ch
@@ -17960,7 +17961,6 @@ werbums.ch
 werbung-360.ch
 werbung-4all.ch
 werbung-anzeigerberneroberland.ch
-werbung-auf-tassen.ch
 werbung-aus-einer-hand.ch
 werbung-basel.ch
 werbung-bern.ch
@@ -18449,6 +18449,7 @@ werk14.ch
 werk15.ch
 werk17.ch
 werk2-garage.ch
+werk2-sehnsucht-mythos.ch
 werk2.ch
 werk20.ch
 werk21.ch
@@ -18749,6 +18750,7 @@ werkmanager.ch
 werkmangel.ch
 werkmann.ch
 werkmass.ch
+werkmatch.ch
 werkmaterial.ch
 werkmatik.ch
 werkmatt-uri.ch
@@ -18780,6 +18782,7 @@ werkort.ch
 werkort9.ch
 werkout.ch
 werkpark.ch
+werkpartner.ch
 werkpass.ch
 werkpilot.ch
 werkplan.ch
@@ -19562,7 +19565,6 @@ wernerbleuler.ch
 wernerbolter.ch
 wernerbommer.ch
 wernerbosshardt.ch
-wernerbraun.ch
 wernerbrechbuehl.ch
 wernerbucher.ch
 wernercatrina.ch
@@ -19753,7 +19755,6 @@ wernis.ch
 wernisegg.ch
 wernishop.ch
 wernismoba.ch
-wernisound.ch
 wernisphotography.ch
 wernisteam.ch
 wernix.ch
@@ -19773,7 +19774,6 @@ wernli-gipser.ch
 wernli-handwerk.ch
 wernli-immo.ch
 wernli-immobilien.ch
-wernli-kules.ch
 wernli-laden.ch
 wernli-landtechnik.ch
 wernli-liegenschaften.ch
@@ -20874,7 +20874,6 @@ westbergip.ch
 westbikecup-dev.ch
 westblick.ch
 westblog.ch
-westbound.ch
 westbox.ch
 westboys.ch
 westbrass.ch

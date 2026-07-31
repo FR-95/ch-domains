@@ -45,7 +45,6 @@ pobmanagement.ch
 pobo.ch
 pobos.ch
 pobox.ch
-poboxguru.ch
 pobre.ch
 pobudka.ch
 poby.ch
@@ -1571,6 +1570,7 @@ pogopouch.ch
 pogorzelski.ch
 pogoso.ch
 pogoya.ch
+pogozentralschweiz.ch
 pogrebne-leovac.ch
 pogs.ch
 pogson.ch
@@ -1856,6 +1856,7 @@ pointfinalrevalorisation.ch
 pointfinance.ch
 pointfinder.ch
 pointfive.ch
+pointfixe.ch
 pointfixephoto.ch
 pointfocal.ch
 pointfou.ch
@@ -4894,7 +4895,6 @@ pollinternational.ch
 pollipur.ch
 pollireinigung.ch
 pollireinigungen.ch
-pollis-wunderwelt.ch
 pollish.ch
 pollisisters.ch
 pollitt.ch
@@ -4937,6 +4937,7 @@ pollu-laboratoir.ch
 pollu-test.ch
 pollu.ch
 polluanalyse.ch
+polluant.ch
 polluantdubatiment.ch
 polluants.ch
 polluantsdubatiment.ch
@@ -5466,7 +5467,6 @@ poly-pools.ch
 poly-prime.ch
 poly-projekt.ch
 poly-props.ch
-poly-rapid.ch
 poly-research.ch
 poly-ring.ch
 poly-romy.ch
@@ -6552,7 +6552,6 @@ pompeachaleurchablais.ch
 pompeachaleurfribourg.ch
 pompeachaleurgeneve.ch
 pompeachaleurneuchatel.ch
-pompeachaleursuisse.ch
 pompeachaleurvalais.ch
 pompeachaleurvaud.ch
 pompechaleur-geneve.ch
@@ -7332,7 +7331,6 @@ ponysachs.ch
 ponyschoepfli.ch
 ponyschule-busswil.ch
 ponyschule-daellikon.ch
-ponyschule.ch
 ponyschulebusswil.ch
 ponyschuleobbuergen.ch
 ponyschuleuntervaz.ch
@@ -10266,6 +10264,7 @@ portiq.ch
 portis.ch
 portiunkula.ch
 portius.ch
+portiva.ch
 portivo.ch
 portjengrat.ch
 portkey.ch
@@ -10282,7 +10281,6 @@ portleute.ch
 portlin.ch
 portline.ch
 portlogistics.ch
-portm.ch
 portmail.ch
 portman-schwery.ch
 portmani.ch
@@ -11055,7 +11053,6 @@ positive-gold.ch
 positive-hairstyle.ch
 positive-health-innovation.ch
 positive-impact-collaboration.ch
-positive-impact.ch
 positive-inspirationen.ch
 positive-lead.ch
 positive-leader.ch
@@ -11387,7 +11384,6 @@ post-oensingen.ch
 post-office.ch
 post-oldie.ch
 post-online.ch
-post-op.ch
 post-paket.ch
 post-parcels.ch
 post-pay.ch
@@ -13654,6 +13650,7 @@ powerbears.ch
 powerbeat-aed.ch
 powerbeatsfit.ch
 powerbeef.ch
+powerben.ch
 powerbet-casino.ch
 powerbet.ch
 powerbetcasino.ch

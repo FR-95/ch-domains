@@ -4126,7 +4126,6 @@ emology.ch
 emolon.ch
 emom.ch
 emomaentfuerme.ch
-emomental.ch
 emoments.ch
 emomentum.ch
 emomind.ch
@@ -5657,7 +5656,6 @@ ems-suit.ch
 ems-swiss.ch
 ems-swissquality.ch
 ems-switzerland.ch
-ems-test.ch
 ems-thd-tht-smd-smt.ch
 ems-thurgau.ch
 ems-trainer-ausbildung.ch
@@ -5826,6 +5824,7 @@ emsp.ch
 emsparcdebeausobre.ch
 emsparcdevalency.ch
 emspartner.ch
+emsph.ch
 emsphysio.ch
 emspraxis.ch
 emspraxisbasel.ch

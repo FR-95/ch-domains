@@ -29,7 +29,6 @@ eu-datenschutz-vertreter.ch
 eu-desk.ch
 eu-digitaler-euro.ch
 eu-digitalereuro.ch
-eu-diktat-nein.ch
 eu-diktat.ch
 eu-doula-ausbildung.ch
 eu-dpo.ch
@@ -62,6 +61,7 @@ eu-maschinenverordnung.ch
 eu-meldungen.ch
 eu-mercosur.ch
 eu-motors.ch
+eu-nein-danke.ch
 eu-netz.ch
 eu-neuvertrag.ch
 eu-no-lu.ch
@@ -1181,7 +1181,6 @@ euro-portal.ch
 euro-praesenta.ch
 euro-preise.ch
 euro-rabatt.ch
-euro-radiaesthesie.ch
 euro-range.ch
 euro-reisen.ch
 euro-risk.ch
@@ -2100,6 +2099,7 @@ europawasserfilter.ch
 europaweg.ch
 europaweghuette.ch
 europawetter.ch
+europawissen.ch
 europawunderland.ch
 europay.ch
 europaysage.ch

@@ -2257,6 +2257,7 @@ labasse.ch
 labassistant.ch
 labastet.ch
 labastide.ch
+labastideneuve.ch
 labastrou.ch
 labasys.ch
 labat.ch
@@ -7621,6 +7622,7 @@ laengholz.ch
 laengin.ch
 laengineering.ch
 laengle.ch
+laengledigital.ch
 laenglehmann.ch
 laenglestaub.ch
 laengline.ch
@@ -8819,6 +8821,7 @@ lager-kugel.ch
 lager-lager.ch
 lager-logistik.ch
 lager-lokal.ch
+lager-luzern.ch
 lager-mieten-aarau.ch
 lager-mieten-aargau.ch
 lager-mieten.ch
@@ -13689,6 +13692,7 @@ landauktion.ch
 landaumedia.ch
 landausfluege.ch
 landausflug.ch
+landauszeit.ch
 landbank.ch
 landbanking.ch
 landbau.ch
@@ -14985,7 +14989,6 @@ landroverferien.ch
 landroverswiss.ch
 landruhe.ch
 landrush.ch
-landry-bijouterie.ch
 landry-reeb.ch
 lands.ch
 landsandbuildings.ch
@@ -18117,6 +18120,7 @@ laprax.ch
 laprayeenergiesa.ch
 lapraz.ch
 lapraz24.ch
+laprecieuse.ch
 laprecision.ch
 laprefecture.ch
 laprelaz.ch
@@ -20338,7 +20342,6 @@ laser-haarentfernungen.ch
 laser-haarfrei.ch
 laser-haarlos.ch
 laser-hair-removal.ch
-laser-hasrentfernung-zurich.ch
 laser-haus.ch
 laser-hautzentrum.ch
 laser-holz.ch
@@ -24587,7 +24590,6 @@ lauracosmetics.ch
 lauracosta.ch
 lauracrealife.ch
 lauracree.ch
-lauracruz.ch
 lauracurau.ch
 lauradamour.ch
 lauradanna.ch
@@ -25587,10 +25589,6 @@ lausanne-physio.ch
 lausanne-pilates.ch
 lausanne-plomberie.ch
 lausanne-plombier.ch
-lausanne-psychiatre.ch
-lausanne-psychiatres.ch
-lausanne-psychologue.ch
-lausanne-psychologues.ch
 lausanne-recycle.ch
 lausanne-reflexologie.ch
 lausanne-region.ch

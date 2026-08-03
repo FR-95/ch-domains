@@ -22,7 +22,6 @@ bi-ber.ch
 bi-bindella.ch
 bi-bo.ch
 bi-box-energy.ch
-bi-box.ch
 bi-boys.ch
 bi-cards.ch
 bi-champion.ch
@@ -3353,7 +3352,6 @@ bierdegustation-gfeller.ch
 bierdegustation.ch
 bierdegustationen.ch
 bierdepot.ch
-bierdiscount.ch
 bierdorf.ch
 bierdose.ch
 bierdosen.ch
@@ -5282,7 +5280,6 @@ bigsky.ch
 bigskycapital.ch
 bigskyranch.ch
 bigsleep.ch
-bigsmallfish.ch
 bigsmile.ch
 bigsmiledental.ch
 bigsmiles.ch
@@ -9490,7 +9487,6 @@ billigerurlaub.ch
 billigerweg.ch
 billiges-fleisch.ch
 billigesfleisch.ch
-billigestrompreise.ch
 billigfenster.ch
 billigferien.ch
 billigfliegen.ch
@@ -9549,7 +9545,6 @@ billigstempel.ch
 billigstesnus.ch
 billigstesvitamind3.ch
 billigstesvitd3.ch
-billigstrompreise.ch
 billigstweg.ch
 billigsuche.ch
 billigsuchen.ch
@@ -11486,7 +11481,6 @@ bio-betriebs-check.ch
 bio-betschla.ch
 bio-beutel.ch
 bio-biene.ch
-bio-bienenhonig.ch
 bio-bier.ch
 bio-bike.ch
 bio-bil.ch
@@ -16109,7 +16103,6 @@ biozahnbegleiter.ch
 biozahnersatz.ch
 biozahnkrone.ch
 biozala.ch
-biozapper.ch
 biozeen.ch
 biozehnder.ch
 biozen.ch
@@ -17071,7 +17064,6 @@ biro-treuhand.ch
 biro.ch
 birocaminada.ch
 birocultura.ch
-birolgalerie-art.ch
 birolini-bilten.ch
 birolini-sa.ch
 birolini.ch
@@ -17468,7 +17460,6 @@ biryaniking-geneve.ch
 birzax.ch
 bis-ans-ende-der-traeume.ch
 bis-bald-im-wald.ch
-bis-bald.ch
 bis-consulting.ch
 bis-das-licht-ausgeht.ch
 bis-encore-zugabe.ch
@@ -20090,6 +20081,7 @@ bitternectar.ch
 bitters.ch
 bittersalz.ch
 bitterschokolade.ch
+bittersignal.ch
 bitterspiel.ch
 bitterstern.ch
 bitterstoff.ch

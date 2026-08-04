@@ -78,7 +78,6 @@ zebatech.ch
 zebawatan.ch
 zebazug.ch
 zebb.ch
-zebbi.ch
 zebbra.ch
 zebco.ch
 zebe-eb.ch
@@ -365,6 +364,7 @@ zede.ch
 zedeag.ch
 zedeal.ch
 zedeel.ch
+zedekollektiv.ch
 zedel-photonics.ch
 zedel.ch
 zedemtop.ch
@@ -2037,7 +2037,6 @@ zekovski-hauswartung.ch
 zekprod.ch
 zekra-group.ch
 zekria-sormasor.ch
-zekro.ch
 zekry.ch
 zekrya-jota.ch
 zekscore.ch
@@ -2114,6 +2113,7 @@ zelgenstrasse-horgen.ch
 zelger-scheuber.ch
 zelger.ch
 zelgg.ch
+zelghof-frauenfeld.ch
 zelghof.ch
 zelgli-aarau.ch
 zelgli-bruetten.ch
@@ -2360,6 +2360,7 @@ zellnera.ch
 zello.ch
 zellobank.ch
 zellozelle.ch
+zellpate.ch
 zellpharma.ch
 zellpower.ch
 zellreaktivtraining.ch
@@ -2862,7 +2863,6 @@ zen-athome.ch
 zen-aura-nails.ch
 zen-balance.ch
 zen-basel.ch
-zen-beauty.ch
 zen-beer.ch
 zen-bel.ch
 zen-biel.ch
@@ -3997,6 +3997,7 @@ zentralgaragebiel.ch
 zentralgarten-affoltern.ch
 zentralgarten.ch
 zentralgelegen.ch
+zentralgroup.ch
 zentralgut.ch
 zentralgynaekologie.ch
 zentralhack.ch
@@ -4523,12 +4524,14 @@ zentrumambach.ch
 zentrumambulantegeriatrie.ch
 zentrumambulantegeriatriezuerich.ch
 zentrumamgubel.ch
+zentrumamriswil.ch
 zentrumanarchieaarau.ch
 zentrumapothekeseon.ch
 zentrumass.ch
 zentrumaugenblick.ch
 zentrumb.ch
 zentrumbaeregg.ch
+zentrumbahnhofamriswil.ch
 zentrumbeck.ch
 zentrumbewusstesleben.ch
 zentrumbewusstsein.ch
@@ -4964,6 +4967,7 @@ zepindustries.ch
 zepiq.ch
 zepiqrx.ch
 zepistolaire.ch
+zeplabs.ch
 zeplaner.ch
 zeplatforms.ch
 zepli.ch
@@ -5008,6 +5012,7 @@ zeppn.ch
 zeppo.ch
 zepppa.ch
 zepra.ch
+zepressing.ch
 zepro.ch
 zepsec.ch
 zept.ch
@@ -5256,7 +5261,6 @@ zermatt-ferien.ch
 zermatt-ferienwohnung.ch
 zermatt-ferienwohnungen.ch
 zermatt-fewo.ch
-zermatt-finedining.ch
 zermatt-fondue.ch
 zermatt-for2.ch
 zermatt-fotograf.ch
@@ -5703,7 +5707,6 @@ zeroemissionrental.ch
 zeroemissions.ch
 zeroemissionsford.ch
 zeroemissionsteel.ch
-zeroemissionventures.ch
 zeroengineering.ch
 zeroes.ch
 zeroeuro.ch
@@ -5911,6 +5914,7 @@ zerovation.ch
 zerovault.ch
 zeroverbier.ch
 zerovia.ch
+zerovino.ch
 zerovirgule.ch
 zerovpn.ch
 zerow.ch
@@ -6206,7 +6210,6 @@ zetamedical.ch
 zetamode.ch
 zetamoebel.ch
 zetamontage.ch
-zetaorbit.ch
 zetaphone.ch
 zetapiesse-apc.ch
 zetaplex.ch
@@ -6421,7 +6424,6 @@ zeugins.ch
 zeugio.ch
 zeugma.ch
 zeugnio.ch
-zeugnis-check.ch
 zeugnis-generator.ch
 zeugnis-manager.ch
 zeugnis-pro.ch

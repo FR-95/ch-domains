@@ -5463,6 +5463,7 @@ poly-pools.ch
 poly-prime.ch
 poly-projekt.ch
 poly-props.ch
+poly-rapid.ch
 poly-research.ch
 poly-ring.ch
 poly-romy.ch
@@ -12755,6 +12756,7 @@ pouchking.ch
 pouchpartners.ch
 pouchshop.ch
 pouchtex.ch
+pouchvape.ch
 poudre-densifiante.ch
 poudre.ch
 poudredecachou.ch
@@ -12894,6 +12896,7 @@ poupahonk.ch
 pouparent.ch
 poupee.ch
 poupees.ch
+poupette.ch
 poupin.ch
 poupis.ch
 poupon.ch
@@ -14067,7 +14070,6 @@ powerland.ch
 powerlaser.ch
 powerlasers.ch
 powerlaunch.ch
-powerlead.ch
 powerleads.ch
 powerleaf.ch
 powerleap.ch

@@ -581,6 +581,7 @@ academiefs.ch
 academiefsa.ch
 academiehautevitalite.ch
 academiehorlogere.ch
+academieia.ch
 academiejoaliedelouan.ch
 academiemauricebejartlausanne.ch
 academiemdc.ch
@@ -592,6 +593,7 @@ academiephe.ch
 academiepilepoil.ch
 academiepourlinnovationadministrative.ch
 academierh.ch
+academierhetorique.ch
 academierolex.ch
 academieromande.ch
 academies-suisses.ch
@@ -1220,6 +1222,7 @@ accedo.ch
 accedogmbh.ch
 accedon.ch
 accel-lab.ch
+accel-performance.ch
 accel.ch
 accelability.ch
 acceler-8.ch
@@ -1716,6 +1719,7 @@ accomodia.ch
 accompa-angehrn.ch
 accompa-soins.ch
 accompagna-trasloco.ch
+accompagnami.ch
 accompagnartiste.ch
 accompagnateur-en-montagne.ch
 accompagnateur-spirituel.ch
@@ -2606,6 +2610,9 @@ aceirv.ch
 aceit.ch
 acek.ch
 acel.ch
+acelab-tennisacademy.ch
+acelab.ch
+acelabtennisacademy.ch
 acelco.ch
 acelectricite.ch
 aceled.ch
@@ -3177,6 +3184,7 @@ achess.ch
 achete-moi.ch
 achete.ch
 achetensuisse.ch
+acheteplus.ch
 acheter-anniviers.ch
 acheter-chien.ch
 acheter-des-leads-qualifie.ch
@@ -3893,7 +3901,6 @@ acisi.ch
 aciso.ch
 acisolierungen.ch
 acisuisse.ch
-acisvizzera.ch
 acit.ch
 acitec.ch
 aciten.ch
@@ -4077,9 +4084,6 @@ ackermannwork.ch
 ackermans.ch
 ackermatthof.ch
 ackermovie.ch
-ackern-pauker.ch
-ackernpauker.ch
-ackernundpauker.ch
 ackerpay.ch
 ackerpflege.ch
 ackerplus.ch
@@ -4772,6 +4776,7 @@ acousticpro.ch
 acousticrock.ch
 acousticrockradio.ch
 acoustics-design.ch
+acoustics-donatiello.ch
 acoustics-switzerland.ch
 acoustics.ch
 acoustics360.ch

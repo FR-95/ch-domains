@@ -394,7 +394,6 @@ zedev.ch
 zedexperience.ch
 zedgroupe.ch
 zedhia.ch
-zedi-design.ch
 zedi-kundenschreinerei.ch
 zedi-photo.ch
 zedi.ch
@@ -472,6 +471,7 @@ zeekr-8x.ch
 zeekr-9x.ch
 zeekr-baar.ch
 zeekr-board.ch
+zeekr-ersatzteile.ch
 zeekr-schweiz.ch
 zeekr-x.ch
 zeekr-zug.ch
@@ -505,6 +505,7 @@ zeenmail.ch
 zeenoubia.ch
 zeeonlinesolutions.ch
 zeep.ch
+zeepokjo.ch
 zeeq.ch
 zeeqwell.ch
 zeer-vertical.ch
@@ -661,7 +662,6 @@ zehennaegel.ch
 zehennagelentzuendung.ch
 zehennageloperation.ch
 zehenpolster.ch
-zehenprothese.ch
 zehenschuhe.ch
 zehensocken-schweiz.ch
 zehensocken.ch
@@ -1714,7 +1714,6 @@ zeitraumwaedenswil.ch
 zeitrausch.ch
 zeitre.ch
 zeitrechner.ch
-zeitreich-coworking.ch
 zeitreich.ch
 zeitreicher.ch
 zeitreif.ch
@@ -1842,7 +1841,6 @@ zeitungidee.ch
 zeitunginderschule.ch
 zeitungs-archiv.ch
 zeitungs-wesen.ch
-zeitungs.ch
 zeitungsabo.ch
 zeitungsabonnement.ch
 zeitungsabonnemente.ch
@@ -2143,6 +2141,7 @@ zelglinet.ch
 zelglischulhaus.ch
 zelgliweg.ch
 zelgliweg4.ch
+zelgliwies.ch
 zelguster.ch
 zelgweg-daettwil.ch
 zelgweg-langnauamalbis.ch
@@ -2829,7 +2828,6 @@ zempline.ch
 zempmanagement.ch
 zempnet.ch
 zempp.ch
-zemps-atelier.ch
 zempsanitaer.ch
 zempstone.ch
 zemptechnik.ch
@@ -3678,6 +3676,7 @@ zenowatchbasel.ch
 zenox.ch
 zenozeiter.ch
 zenozeuggin.ch
+zenpad.ch
 zenpadawan.ch
 zenpark.ch
 zenpath.ch
@@ -4835,6 +4834,7 @@ zenway.ch
 zenwebcreation.ch
 zenwich.ch
 zenwis.ch
+zenwork.ch
 zenworks.ch
 zenx.ch
 zeny.ch
@@ -6545,6 +6545,7 @@ zeviva.ch
 zevix.ch
 zevly.ch
 zevolia.ch
+zevon.ch
 zevplus.ch
 zevpotential.ch
 zevpotenzial.ch
@@ -6571,7 +6572,6 @@ zewiundbebe-jou.ch
 zewix.ch
 zewo.ch
 zewoops.ch
-zeworld.ch
 zewqk.ch
 zewy.ch
 zex.ch

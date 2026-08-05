@@ -213,6 +213,7 @@ ai-collab.ch
 ai-collective.ch
 ai-college.ch
 ai-com.ch
+ai-commerce-intelligence.ch
 ai-communications.ch
 ai-community.ch
 ai-compact.ch
@@ -680,6 +681,7 @@ ai-overviews.ch
 ai-partner.ch
 ai-partners.ch
 ai-pedia.ch
+ai-perspective.ch
 ai-philanthropy.ch
 ai-phone-answering.ch
 ai-phone.ch
@@ -789,6 +791,7 @@ ai-schule.ch
 ai-schulung.ch
 ai-schulungen.ch
 ai-schweiz.ch
+ai-score.ch
 ai-scout.ch
 ai-scout24.ch
 ai-scribe.ch
@@ -917,6 +920,7 @@ ai-trends.ch
 ai-treuhand.ch
 ai-triangle.ch
 ai-trust-audit.ch
+ai-trust-switzerland.ch
 ai-trust.ch
 ai-trusted.ch
 ai-trustpartner.ch
@@ -1482,6 +1486,7 @@ aicollective.ch
 aicollider.ch
 aicom.ch
 aicommerce.ch
+aicommerceintelligence.ch
 aicommsfactory.ch
 aicommunity.ch
 aicomp.ch
@@ -1496,6 +1501,7 @@ aicompetencecenter.ch
 aicompetencecentre.ch
 aicompliance.ch
 aicomplianceofficer.ch
+aicompliant.ch
 aicomputer.ch
 aicon.ch
 aicon3d.ch
@@ -2489,6 +2495,7 @@ aiglonconnect.ch
 aiglongraduate.ch
 aiglonlanguages.ch
 aiglonlife.ch
+aiglonmed.ch
 aiglons.ch
 aiglonspirit.ch
 aigmobileguard.ch
@@ -2634,6 +2641,7 @@ aiinnovationcenter.ch
 aiinnovations.ch
 aiinsales.ch
 aiinsight.ch
+aiinsights.ch
 aiinsociety.ch
 aiinstitut-swiss.ch
 aiinstitute.ch
@@ -2890,6 +2898,7 @@ aikogesundheitsmassage.ch
 aikogroup.ch
 aikol.ch
 aikolino.ch
+aikompass.ch
 aikon.ch
 aikona.ch
 aikondistribution.ch
@@ -6687,6 +6696,7 @@ aiwat.ch
 aiwatch.ch
 aiwave.ch
 aiway.ch
+aiways-ersatzteile.ch
 aiways-switzerland.ch
 aiways.ch
 aiwaysswitzerland.ch

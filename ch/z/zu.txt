@@ -1561,6 +1561,7 @@ zueri-raennt.ch
 zueri-ranger.ch
 zueri-reinigung.ch
 zueri-riders.ch
+zueri-rohr-sanitaer.ch
 zueri-rundschau.ch
 zueri-salon.ch
 zueri-santas.ch
@@ -4309,7 +4310,6 @@ zuhausepflege.ch
 zuhauseplus.ch
 zuhausesein.ch
 zuhauseservice.ch
-zuhausetechnik.ch
 zuhauseumsorgt.ch
 zuhausezauber.ch
 zuhausies.ch

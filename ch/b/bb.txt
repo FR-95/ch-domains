@@ -69,7 +69,6 @@ bb-bybetty.ch
 bb-c.ch
 bb-care.ch
 bb-catering.ch
-bb-clean.ch
 bb-coach.ch
 bb-coaching-einmalanders.ch
 bb-coaching.ch
@@ -82,6 +81,7 @@ bb-consult.ch
 bb-consulting.ch
 bb-corporatefinance.ch
 bb-cosmetics.ch
+bb-cranio.ch
 bb-creme.ch
 bb-design.ch
 bb-designe.ch
@@ -937,6 +937,7 @@ bbnsa.ch
 bbnspindle.ch
 bbnspindles.ch
 bbnw.ch
+bbnwh.ch
 bbo-ag.ch
 bbo-brienz.ch
 bbo-trockenbau.ch
@@ -944,7 +945,6 @@ bbo-week.ch
 bbo.ch
 bboard.ch
 bboats.ch
-bbob.ch
 bbobank.ch
 bboberdiessbach.ch
 bbobjektag.ch

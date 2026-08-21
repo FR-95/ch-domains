@@ -1444,6 +1444,7 @@ italia-a-casa-tua.ch
 italia-amriswil.ch
 italia-bar.ch
 italia-catering.ch
+italia-chez-vous.ch
 italia-food.ch
 italia-in-svizzera.ch
 italia-keramik.ch
@@ -2385,7 +2386,6 @@ itempire.ch
 items.ch
 itemsear.ch
 itemsinterior.ch
-itemsnest.ch
 itemtool.ch
 itemz.ch
 iten-aegeri.ch
@@ -3051,7 +3051,6 @@ itligent.ch
 itlimoos.ch
 itlink.ch
 itlinkag.ch
-itlist.ch
 itln.ch
 itloesungen.ch
 itlog.ch
@@ -3711,7 +3710,6 @@ itsdev.ch
 itsdidi.ch
 itsdone-ag.ch
 itsdry.ch
-itsds.ch
 itse.ch
 itsearch.ch
 itseasy.ch
@@ -3727,6 +3725,7 @@ itsec4ri.ch
 itsec4sme.ch
 itsecnets.ch
 itsecnews.ch
+itsecops.ch
 itsecportofino.ch
 itsecure.ch
 itsecurity-academy.ch

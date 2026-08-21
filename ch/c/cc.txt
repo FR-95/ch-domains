@@ -36,7 +36,6 @@ cc-consulting.ch
 cc-contemporary.ch
 cc-copeland.ch
 cc-creation.ch
-cc-creations.ch
 cc-crissier.ch
 cc-croy.ch
 cc-cure.ch
@@ -608,6 +607,7 @@ cchs.ch
 cchtn-lau.ch
 cchuard.ch
 cchub.ch
+cchvs.ch
 cci-berne.ch
 cci-cotting.ch
 cci-gk.ch

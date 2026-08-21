@@ -1,6 +1,7 @@
 rw-1.ch
 rw-24.ch
 rw-automatic.ch
+rw-basel.ch
 rw-bau.ch
 rw-bc.ch
 rw-beratungen.ch
@@ -219,7 +220,6 @@ rwkd.ch
 rwkeramik.ch
 rwkickz.ch
 rwkickzoutlet.ch
-rwkl.ch
 rwko.ch
 rwl-beratungen.ch
 rwl-holding.ch

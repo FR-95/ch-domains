@@ -481,7 +481,6 @@ cnsd.ch
 cnsdesign.ch
 cnservice.ch
 cnsforum.ch
-cnsg.ch
 cnsierre.ch
 cnsion.ch
 cnslt.ch
@@ -527,6 +526,7 @@ cnvj.ch
 cnvm.ch
 cnvmediation.ch
 cnvo.ch
+cnvrt.ch
 cnvski.ch
 cnvskype.ch
 cnvsolutions.ch

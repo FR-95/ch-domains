@@ -666,6 +666,7 @@ osi-eco.ch
 osi-inglin.ch
 osi.ch
 osiam.ch
+osian.ch
 osiart.ch
 osibau.ch
 osicki.ch
@@ -803,7 +804,6 @@ oskar-store.ch
 oskar-the-best.ch
 oskar-vacances.ch
 oskar-vacanze.ch
-oskar-von-miller.ch
 oskar.ch
 oskara.ch
 oskaraschwanden.ch
@@ -2407,7 +2407,6 @@ osteopathienidwalden.ch
 osteopathienovabrunnen.ch
 osteopathieobermatt.ch
 osteopathieoberwil.ch
-osteopathieoerlikon.ch
 osteopathieorbe.ch
 osteopathieostschweiz.ch
 osteopathiepauwels.ch
@@ -2479,7 +2478,6 @@ osteopathvevey.ch
 osteopathy-switzerland.ch
 osteopathy.ch
 osteopathyfoundation.ch
-osteopathyseebach.ch
 osteopathyswitzerland.ch
 osteopathyzurich.ch
 osteopathzurich.ch

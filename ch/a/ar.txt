@@ -4329,7 +4329,6 @@ architekt-solothurn.ch
 architekt-stettler.ch
 architekt-stgallen.ch
 architekt-suter.ch
-architekt-thal.ch
 architekt-thomas-frei.ch
 architekt-thun.ch
 architekt-thurgau.ch
@@ -6992,6 +6991,7 @@ arenagelati.ch
 arenaglattbrugg.ch
 arenagraechen.ch
 arenagreenedil.ch
+arenagrill.ch
 arenagroup.ch
 arenahomeservice.ch
 arenahostel.ch
@@ -9129,7 +9129,6 @@ arkanai.ch
 arkanaia-consulting.ch
 arkane-bibliothek.ch
 arkane.ch
-arkanebricks.ch
 arkanet.ch
 arkange-nettoyage.ch
 arkangraal.ch
@@ -10326,7 +10325,6 @@ armonie.ch
 armoniedesign.ch
 armonieitaliane.ch
 armoniia.ch
-armoniibeauty.ch
 armonikos.ch
 armonima.ch
 armonioso.ch
@@ -11712,7 +11710,6 @@ arommeuh-arommoi.ch
 aromo.ch
 aromora.ch
 aromos.ch
-aroms.ch
 aromuli-schweiz.ch
 aromuli.ch
 aromwave.ch
@@ -13681,7 +13678,6 @@ art-in-the-park.ch
 art-in-your-heart.ch
 art-in.ch
 art-inclusive.ch
-art-incognito.ch
 art-injo.ch
 art-inno.ch
 art-innoc.ch
@@ -13902,6 +13898,7 @@ art-of-kata.ch
 art-of-kr.ch
 art-of-law.ch
 art-of-leadership.ch
+art-of-life-space.ch
 art-of-life.ch
 art-of-light.ch
 art-of-limerenz.ch
@@ -15005,6 +15002,7 @@ artdansestudio.ch
 artdaoudi.ch
 artdarktattoo.ch
 artdarts.ch
+artdata.ch
 artdate.ch
 artdaten.ch
 artdates.ch
@@ -15604,6 +15602,7 @@ artelac.ch
 artelana.ch
 artelavica.ch
 artelec.ch
+artelectricite.ch
 artelegis.ch
 artelegiseditions.ch
 artelektro.ch
@@ -16125,6 +16124,7 @@ artetpassion.ch
 artetresilience.ch
 artetreuhand.ch
 artetrucco.ch
+artettoiture.ch
 artettore.ch
 artetude.ch
 artetvin.ch
@@ -18337,6 +18337,7 @@ artnoser.ch
 artnotary.ch
 artnouveau.ch
 artnovum.ch
+artnow-byfredo.ch
 artnow.ch
 artnsoul-gsm.ch
 artnstone.ch
@@ -20716,6 +20717,7 @@ arztpraxis-aegerisee.ch
 arztpraxis-alameri.ch
 arztpraxis-am-bahnhof.ch
 arztpraxis-am-bodensee.ch
+arztpraxis-am-dorfplatz.ch
 arztpraxis-am-gleis.ch
 arztpraxis-am-heiligberg.ch
 arztpraxis-am-muehlebach.ch

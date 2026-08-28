@@ -1723,6 +1723,7 @@ habitatseniors.ch
 habitatsense.ch
 habitattoit.ch
 habitatus.ch
+habitatvertetcompagnons.ch
 habitavenir.ch
 habitaview.ch
 habitaziun.ch
@@ -5997,6 +5998,7 @@ haiticulture.ch
 haitikinderhilfe.ch
 haitirehab.ch
 haitjema.ch
+haito.ch
 haits.ch
 haitsu.ch
 haitz.ch
@@ -8661,7 +8663,6 @@ hammertool.ch
 hammertools.ch
 hammertrans.ch
 hammerumzug.ch
-hammerumzugreinigung.ch
 hammerundkelle.ch
 hammerundnadel.ch
 hammerundpinsel.ch
@@ -8787,6 +8788,7 @@ hampshireconsulting.ch
 hampshiregroup.ch
 hampton.ch
 hamptonbyhilton.ch
+hamptonfinance.ch
 hamptoninn.ch
 hamptoninnbyhilton.ch
 hamptoninnhi.ch
@@ -8825,8 +8827,6 @@ hamster-ostschweiz.ch
 hamster-run.ch
 hamster-schweiz.ch
 hamster-thurgau.ch
-hamster-ticket.ch
-hamster-tickets.ch
 hamster.ch
 hamsterauto.ch
 hamsterbau.ch
@@ -8856,8 +8856,6 @@ hamsterrad-stoppen.ch
 hamsterrad.ch
 hamsterradstoppen.ch
 hamsterrungame.ch
-hamsterticket.ch
-hamstertickets.ch
 hamsterzucht.ch
 hamsterzuchtaargau.ch
 hamstra.ch
@@ -9146,7 +9144,6 @@ hand-u-fuss.ch
 hand-und-ergotherapie.ch
 hand-und-fuess.ch
 hand-und-fusspflege.ch
-hand-und-fusspraxis.ch
 hand-und-haerz.ch
 hand-und-herz.ch
 hand-und-seelenwerkstatt.ch
@@ -10506,9 +10503,7 @@ handseifen.ch
 handseilerei.ch
 handseilwinden.ch
 handseilzug.ch
-handsender-shop.ch
 handsender.ch
-handsendershop.ch
 handsetzerei.ch
 handsfordogs.ch
 handsfree.ch
@@ -10682,6 +10677,7 @@ handvenenbiometrie.ch
 handverksgruppen.ch
 handverlesen.ch
 handverlesene-partnervermittlung.ch
+handverleser.ch
 handvoll.ch
 handvollenergie.ch
 handvollherz.ch
@@ -13100,6 +13096,7 @@ hanshirsbrunner.ch
 hanshirsch.ch
 hanshirschiag.ch
 hanshofer.ch
+hanshofmann.ch
 hansholdings.ch
 hanshollenstein.ch
 hansholz.ch
@@ -16423,7 +16420,6 @@ harmlos.ch
 harmo-energie.ch
 harmo-mana.ch
 harmo-nie.ch
-harmo.ch
 harmo5.ch
 harmobel.ch
 harmoblues.ch
@@ -22787,7 +22783,6 @@ hauswartungamriswil.ch
 hauswartungarbon.ch
 hauswartungbasel.ch
 hauswartungbucher.ch
-hauswartungderbergen.ch
 hauswartungdeutsch.ch
 hauswartungen-a-z.ch
 hauswartungen-aargau.ch
@@ -23562,6 +23557,7 @@ hautundherz.ch
 hautundkraut.ch
 hautundlaserzentrum.ch
 hautundmehr.ch
+hautundseele.ch
 hautvaldebagnes.ch
 hautvallon.ch
 hautveraenderung.ch
@@ -23774,6 +23770,7 @@ havet.ch
 havetaime.ch
 havetime.ch
 haveyouseenmyshoes.ch
+haveyouseenmyshoes1.ch
 haveyoutriedturningitoffandonagain.ch
 havgate.ch
 havi-brugg.ch

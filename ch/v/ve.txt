@@ -1662,7 +1662,6 @@ vehi-mercatus.ch
 vehi.ch
 vehicle-control.ch
 vehicle-solutions.ch
-vehicle-trade.ch
 vehicle.ch
 vehicle2building.ch
 vehicle2home.ch
@@ -2353,6 +2352,7 @@ velninaaesthetics.ch
 velnit.ch
 velnor.ch
 velnora.ch
+velnoryx.ch
 velo-aarau.ch
 velo-academy.ch
 velo-adliswil.ch
@@ -3575,7 +3575,6 @@ velori.ch
 veloria.ch
 veloriagroupe.ch
 velorian.ch
-veloriawell.ch
 veloricardo.ch
 velorio.ch
 veloris.ch
@@ -4150,6 +4149,7 @@ velutina-netzwerk.ch
 velutina-service.ch
 velutina-trap.ch
 velutina.ch
+velutinahunter.ch
 velutinamonitor.ch
 velutinaportal.ch
 veluto.ch
@@ -6540,6 +6540,7 @@ veranlagung.ch
 veranlagungen.ch
 verano-promotion.ch
 verano-rattan.ch
+verano-sg.ch
 verano-wohnen.ch
 verano.ch
 veranoart.ch
@@ -7699,6 +7700,7 @@ verdedisera.ch
 verdedorato.ch
 verdee.ch
 verdefattobene.ch
+verdeflow.ch
 verdegruen.ch
 verdeil.ch
 verdeimport.ch
@@ -8284,7 +8286,6 @@ verein-torfeldsued.ch
 verein-tortuga.ch
 verein-tradere.ch
 verein-tragwerk.ch
-verein-trauerbegleitung.ch
 verein-treffpunkt.ch
 verein-triebwerk.ch
 verein-trinkwasserinitiative.ch
@@ -9563,6 +9564,7 @@ verhandeln-buch.ch
 verhandeln-fuer-frauen.ch
 verhandeln-seminar.ch
 verhandeln.ch
+verhandle.ch
 verhandler.ch
 verhandlerin.ch
 verhandlung.ch
@@ -10983,6 +10985,7 @@ verlassene-orte.ch
 verlassenehaeuser.ch
 verlassenschaft.ch
 verlasspferd.ch
+verlasta.ch
 verlastiftung.ch
 verlati.ch
 verlavia-health.ch
@@ -11889,7 +11892,6 @@ veronique-reflexologie.ch
 veronique-richard-oggier.ch
 veronique-rosset.ch
 veronique-timmermans.ch
-veronique.ch
 veroniqueannesandoz.ch
 veroniquebouille.ch
 veroniquebuclin.ch
@@ -13014,6 +13016,7 @@ versicherungsvergleichen.ch
 versicherungsvergleicheschweiz.ch
 versicherungsvergleichschweiz.ch
 versicherungsverkauf.ch
+versicherungsvermittler-ausbildung.ch
 versicherungsvermittler-iffp.ch
 versicherungsvermittler-vbv.ch
 versicherungsvermittler.ch
@@ -13145,6 +13148,7 @@ versoixroule.ch
 versol.ch
 versolaguarigione.ch
 versolalto.ch
+versolivre.ch
 versolog.ch
 versolution-estate.ch
 versolution.ch
@@ -14046,6 +14050,7 @@ vertraulich.ch
 vertrauliche-schreibarbeiten.ch
 vertraumirbruder.ch
 vertraut-getraut.ch
+vertraut-mit-werten.ch
 vertraut-unterwegs.ch
 vertraut.ch
 vertrauter-weg.ch
@@ -14054,6 +14059,7 @@ vertrauterlebensraum.ch
 vertrauterweg.ch
 vertrautes-wochenbett.ch
 vertrautmitenergie.ch
+vertrautmitwerten.ch
 vertrautsein.ch
 vertretbar.ch
 vertrete-dich-selbst.ch
@@ -15742,6 +15748,7 @@ veterinaeranaesthesie.ch
 veterinaerdienst.ch
 veterinaere-schweiz.ch
 veterinaerhomoeopathie.ch
+veterinaerjobs.ch
 veterinaerkardiologie.ch
 veterinaermedizin.ch
 veterinaerpharmazie.ch

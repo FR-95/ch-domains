@@ -3926,6 +3926,7 @@ hof-im-moos.ch
 hof-imhof.ch
 hof-inauen.ch
 hof-ischlag.ch
+hof-iten.ch
 hof-jaeissberg.ch
 hof-jenni.ch
 hof-jost.ch
@@ -4070,6 +4071,7 @@ hof-tanno.ch
 hof-technik.ch
 hof-tee.ch
 hof-theater.ch
+hof-thomann.ch
 hof-tiergarten.ch
 hof-tools.ch
 hof-triftblick.ch
@@ -10875,7 +10877,6 @@ hombergblick-seengen.ch
 homberger-ag.ch
 homberger-akademie.ch
 homberger-dynamics.ch
-homberger-ebling.ch
 homberger-financial-solutions.ch
 homberger-gartenbau.ch
 homberger-immobilien.ch
@@ -12343,7 +12344,6 @@ homenetworking.ch
 homenetz.ch
 homenhancement.ch
 homenia.ch
-homenium.ch
 homenizer.ch
 homenobi.ch
 homenow.ch
@@ -13104,6 +13104,7 @@ homestylist.ch
 homestylr.ch
 homesuche.ch
 homesuisse.ch
+homesuissehome.ch
 homesuite.ch
 homesupply.ch
 homesupport.ch
@@ -13381,7 +13382,6 @@ hominox.ch
 hominum-by-mstcosmetics.ch
 hominum-diodenlaser.ch
 hominum.ch
-homio.ch
 homiq.ch
 homira.ch
 homis.ch
@@ -15089,6 +15089,7 @@ hope-zug.ch
 hope.ch
 hope1000.ch
 hope21.ch
+hope24.ch
 hope2go.ch
 hope4all.ch
 hope4animals.ch
@@ -16659,6 +16660,7 @@ hornissenentfernen.ch
 hornissenexperte.ch
 hornissenexperten.ch
 hornissenfalle.ch
+hornissennest-entfernen-schweiz.ch
 hornissennest-entfernen.ch
 hornissennest-schweiz.ch
 hornissennest-zuerich.ch
@@ -21315,6 +21317,7 @@ hotelfelixzurich.ch
 hotelferien.ch
 hotelfernsehen.ch
 hotelfernseher.ch
+hotelferpecle.ch
 hotelfex.ch
 hotelfifty.ch
 hotelfiles.ch
@@ -22353,7 +22356,6 @@ hotelsalvi.ch
 hotelsamerika.ch
 hotelsamnaun.ch
 hotelsancarlolugano.ch
-hotelsandbusiness.ch
 hotelsandmore.ch
 hotelsanetsch.ch
 hotelsangiobbe.ch
@@ -23159,6 +23161,7 @@ hotsolutions.ch
 hotsoups.ch
 hotsox.ch
 hotspa.ch
+hotspin.ch
 hotsplots.ch
 hotspoint.ch
 hotspointshop.ch
@@ -24373,6 +24376,7 @@ houseworks.ch
 housezuverkaufen.ch
 houshmand.ch
 houshmands.ch
+houshou.ch
 housi-knecht.ch
 housi.ch
 housibrot.ch
@@ -24402,7 +24406,6 @@ housiwittlin.ch
 houska.ch
 housley.ch
 housmen.ch
-houspiration.ch
 housr.ch
 houssa.ch
 housse-de-coussin.ch

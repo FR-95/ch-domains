@@ -1029,6 +1029,7 @@ fofo.ch
 fofobecher.ch
 fofocup.ch
 fofos.ch
+fofoup.ch
 fofu.ch
 fofvl.ch
 fog-cdm.ch
@@ -1713,6 +1714,7 @@ fokusreich.ch
 fokusreise.ch
 fokuss-gmbh.ch
 fokuss.ch
+fokusschmerz.ch
 fokusschule.ch
 fokusschweiz.ch
 fokussein.ch
@@ -3547,6 +3549,7 @@ fondationvillars.ch
 fondationvisson.ch
 fondationvita.ch
 fondationvitarosa.ch
+fondationvivet.ch
 fondationwiggli.ch
 fondationwisha.ch
 fondationworldline.ch
@@ -4280,6 +4283,7 @@ fonduepartyservice.ch
 fondueplausch-rotkreuz.ch
 fondueplausch.ch
 fondueplus.ch
+fondueraclette.ch
 fondueradar.ch
 fonduerebellen.ch
 fonduerechaud.ch
@@ -6248,7 +6252,6 @@ footdiamondpodologie.ch
 footdna.ch
 footdoc.ch
 footdoctor.ch
-footeco-football.ch
 footek.ch
 footers.ch
 footerx.ch
@@ -7447,6 +7450,8 @@ forensische-psychotherapie-bern.ch
 forensische-therapie-bern.ch
 forensischelinguistik.ch
 forensischepsychologie.ch
+forensischer-peer.ch
+forensischerpeer.ch
 forensisches-institut.ch
 forensity.ch
 forenswiss.ch
@@ -9591,6 +9596,7 @@ formulababy.ch
 formulaberaterin.ch
 formulaberatung.ch
 formulaboat-club-leman.ch
+formulaeprescott.ch
 formulafirst.ch
 formulafit.ch
 formulafortuna.ch
@@ -11228,7 +11234,6 @@ forum-autos.ch
 forum-b.ch
 forum-bahndozierende.ch
 forum-baukultur-tg.ch
-forum-bauwerkserhaltung.ch
 forum-bb-rw.ch
 forum-berufsbildung.ch
 forum-berufsbildungzo.ch
@@ -11470,7 +11475,6 @@ forum-rifferswil.ch
 forum-rkm.ch
 forum-rms.ch
 forum-romand-energie.ch
-forum-romand-pour-decideurs.ch
 forum-romanum.ch
 forum-rosal.ch
 forum-rotflue.ch
@@ -11502,6 +11506,7 @@ forum-sme.ch
 forum-sonnmatt.ch
 forum-soziokratie.ch
 forum-speicher.ch
+forum-speki.ch
 forum-sro.ch
 forum-staefa-uerikon.ch
 forum-staefa.ch
@@ -13778,7 +13783,6 @@ fotografikwerk.ch
 fotografikwerkstatt.ch
 fotografin-aarau.ch
 fotografin-aargau.ch
-fotografin-bern.ch
 fotografin-duo.ch
 fotografin-hochzeit.ch
 fotografin-schaffhausen.ch
@@ -15907,6 +15911,7 @@ foxstudy.ch
 foxtag.ch
 foxtail.ch
 foxtaxi.ch
+foxtcg.ch
 foxte.ch
 foxtec-automation.ch
 foxtec-engineering.ch

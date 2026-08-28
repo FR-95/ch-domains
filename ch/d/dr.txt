@@ -1484,6 +1484,7 @@ dragonsandmore.ch
 dragonscat.ch
 dragonscave.ch
 dragonschatz.ch
+dragonschatzrotkreuz.ch
 dragonscity.ch
 dragonsclub.ch
 dragonsden.ch
@@ -3418,7 +3419,6 @@ drehherd.ch
 drehimpuls.ch
 drehkarte.ch
 drehkarten.ch
-drehkissen.ch
 drehkletterbaum.ch
 drehkonsole.ch
 drehkonsolen.ch
@@ -4513,6 +4513,7 @@ drggroup.ch
 drgietz.ch
 drgigandet.ch
 drgillmann.ch
+drginger.ch
 drginvestment.ch
 drginvestmentag.ch
 drginvestments.ch
@@ -4808,7 +4809,6 @@ drigatti.ch
 drigleit.ch
 drihs.ch
 driidee.ch
-driiegg.ch
 driiftkiing.ch
 driigleit.ch
 driink.ch
@@ -4901,6 +4901,7 @@ drini.ch
 driniautomobile.ch
 drinibrand.ch
 driniconstruction.ch
+drinidrink.ch
 drinidy.ch
 drinienjoy.ch
 drinique.ch
@@ -5862,7 +5863,6 @@ driverskool.ch
 driverslicense.ch
 driversloft.ch
 driversnote.ch
-driverstest.ch
 driverstime.ch
 driverstyle.ch
 driversupport.ch
@@ -6200,7 +6200,6 @@ drkassem.ch
 drkasten.ch
 drkatelindley.ch
 drkatharinaroten.ch
-drkatharinascherrer.ch
 drkatja.ch
 drkavitajain.ch
 drkbuzzer.ch
@@ -6988,6 +6987,8 @@ drohnefliegen.ch
 drohneflugschule.ch
 drohnefoti.ch
 drohnekaufen.ch
+drohnen-3d-vermessung.ch
+drohnen-3dvermessung.ch
 drohnen-abc.ch
 drohnen-arbeit.ch
 drohnen-arbeiten.ch

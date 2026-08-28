@@ -2656,6 +2656,7 @@ ns1.myalpineshop.ch
 ns1.mybluesun.ch
 ns1.mychameleon.ch
 ns1.mychoice.ch
+ns1.mycovidvac.ch
 ns1.mycreperie.ch
 ns1.mydelta.ch
 ns1.mydiabet.ch
@@ -5945,6 +5946,7 @@ ns2.myalpineshop.ch
 ns2.mybluesun.ch
 ns2.mychameleon.ch
 ns2.mychoice.ch
+ns2.mycovidvac.ch
 ns2.mycreperie.ch
 ns2.mydelta.ch
 ns2.mydiabet.ch
@@ -7935,7 +7937,6 @@ ns3.sum.ch
 ns3.sumasoft.ch
 ns3.sunrise.ch
 ns3.swiss-dt.ch
-ns3.swiss-server.ch
 ns3.swisscloudhosting.ch
 ns3.swissdigicert.ch
 ns3.swissfintechinnovationlab.ch

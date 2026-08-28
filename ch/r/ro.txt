@@ -61,6 +61,7 @@ roabasel.ch
 roac.ch
 roacc.ch
 roach.ch
+road-academy.ch
 road-adventures.ch
 road-and-motor.ch
 road-art.ch
@@ -177,7 +178,6 @@ roadelux.ch
 roadeluxe.ch
 roadexperts.ch
 roadeye.ch
-roadeyes.ch
 roadfans.ch
 roadfever-shop.ch
 roadfever.ch
@@ -1898,6 +1898,7 @@ robodocs.ch
 robodog.ch
 robodoll.ch
 robodolls.ch
+robodome.ch
 robodrive.ch
 robody.ch
 roboersatzteile.ch
@@ -2061,6 +2062,9 @@ robot-gazon.ch
 robot-geneve.ch
 robot-humanoide.ch
 robot-jardin.ch
+robot-nettoyage-professionnel.ch
+robot-nettoyage.ch
+robot-nettoyeur.ch
 robot-news.ch
 robot-occasion.ch
 robot-one.ch
@@ -2128,10 +2132,12 @@ robotbullsofficiel.ch
 robotbuy.ch
 robotc.ch
 robotcamera.ch
+robotcleaning.ch
 robotcollaborativi.ch
 robotcoupe.ch
 robotdagiardino.ch
 robotday.ch
+robotdenettoyage.ch
 robotdesoin.ch
 robotdesoins.ch
 robotdetraite-delaval.ch
@@ -2150,6 +2156,7 @@ robotechmauro.ch
 robotechnik.ch
 robotecschweiz.ch
 robotecsmarthome.ch
+roboted.ch
 roboteens.ch
 robotek-sarl.ch
 robotek.ch
@@ -2359,6 +2366,8 @@ robotiq.ch
 robotiqs.ch
 robotique.ch
 robotis.ch
+robotisable.ch
+robotisation-nettoyage.ch
 robotistgroup.ch
 robotix.ch
 robotixlab.ch
@@ -2377,6 +2386,7 @@ robotme.ch
 robotmech.ch
 robotmower.ch
 robotmowers.ch
+robotnet.ch
 robotneuch.ch
 robotnews.ch
 robotnik.ch
@@ -2404,6 +2414,7 @@ robotronic.ch
 robots-alive.ch
 robots-as-a-service.ch
 robots-ju.ch
+robots-nettoyage.ch
 robots-tondeuses.ch
 robots.ch
 robots10.ch
@@ -2413,6 +2424,7 @@ robotsandfriend.ch
 robotsandfriends.ch
 robotscout.ch
 robotscout24.ch
+robotsdenettoyage.ch
 robotsdistribution.ch
 robotsecure.ch
 robotsenclasse.ch
@@ -3805,6 +3817,7 @@ rockstations.ch
 rockstats.ch
 rocksteady.ch
 rocksteam.ch
+rockstein.ch
 rockster.ch
 rocksthaar.ch
 rockstone.ch
@@ -3857,6 +3870,7 @@ rocktherock.ch
 rocktherooms.ch
 rocktheroutes.ch
 rocktheteens.ch
+rockthetower.ch
 rockthetrails.ch
 rockthetruckfestival.ch
 rockthevineyard.ch
@@ -8097,6 +8111,7 @@ rolandtanner.ch
 rolandthomann.ch
 rolandthomke.ch
 rolandtobler.ch
+rolandtojzan.ch
 rolandtours.ch
 rolandtrachsel.ch
 rolandtremp.ch
@@ -8649,6 +8664,7 @@ rolfluthi.ch
 rolflutz.ch
 rolfmaeder.ch
 rolfmaederphotography.ch
+rolfmariaschenk.ch
 rolfmartens.ch
 rolfmarti.ch
 rolfmartigmbh.ch
@@ -9327,7 +9343,6 @@ rolli-travel.ch
 rolli-treuhand.ch
 rolli.ch
 rolliag.ch
-rolliarchitekten.ch
 rolliausflug.ch
 rollibock.ch
 rollibocktrophy-timing.ch
@@ -11147,6 +11162,7 @@ romeier.ch
 romeight.ch
 romeijn.ch
 romeira.ch
+romek-reinigung.ch
 romelec.ch
 romeljaneski.ch
 romelli-assicurazioni.ch
@@ -12183,10 +12199,12 @@ roobetcasino-online.ch
 roobetcasino.ch
 roobetcasinos.ch
 roobetcazino.ch
+roobetch.ch
 roobetkasino.ch
 roobetofficial.ch
 roobetofficials.ch
 roobetonline.ch
+roobetplay.ch
 roobetr.ch
 roobets.ch
 roobetschweiz.ch
@@ -14527,6 +14545,7 @@ rosental-organics.ch
 rosental.ch
 rosentalareal.ch
 rosentalbasel.ch
+rosentaler.ch
 rosentalfinance.ch
 rosentalmitte-bs.ch
 rosentalmitte.ch
@@ -14617,7 +14636,6 @@ roses4u.ch
 rosesandmore.ch
 rosesandsparkles.ch
 rosesbeauty.ch
-rosesbox.ch
 rosescout.ch
 rosescout24.ch
 rosesdeluxe.ch
@@ -16190,7 +16208,6 @@ roth-kontaktlinsen.ch
 roth-konzepthaus.ch
 roth-lu.ch
 roth-management.ch
-roth-marketing.ch
 roth-marti.ch
 roth-martin.ch
 roth-massagen.ch
@@ -16930,6 +16947,7 @@ rotpunkt-flyerbox.ch
 rotpunkt-kuechen.ch
 rotpunkt-labs.ch
 rotpunkt-pharma.ch
+rotpunkt-rapperswil.ch
 rotpunkt.ch
 rotpunktapotheke.ch
 rotpunktapotheken.ch
@@ -16950,7 +16968,6 @@ rotring-data-news.ch
 rotring-data.ch
 rotring.ch
 rotro.ch
-rotroecklein.ch
 rotron.ch
 rotronib.ch
 rotronic-humidity.ch
@@ -17592,7 +17609,6 @@ rouslan-partyka.ch
 rouslan.ch
 roussakov.ch
 rousseau-home.ch
-rousseau-modehaus.ch
 rousseau.ch
 rousseau300.ch
 rousseau5.ch
@@ -17941,6 +17957,7 @@ rovident.ch
 rovien.ch
 rovifinanz.ch
 rovifoto.ch
+rovika.ch
 rovilab.ch
 rovim.ch
 rovimo.ch

@@ -554,6 +554,7 @@ vedobistro.ch
 vedoblu.ch
 vedoblutreuhand.ch
 vedodovedevo.ch
+vedointerior.ch
 vedolizumab.ch
 vedomed.ch
 vedor.ch
@@ -2358,6 +2359,7 @@ velo-academy.ch
 velo-adliswil.ch
 velo-airbag.ch
 velo-akademie.ch
+velo-akku.ch
 velo-akkus.ch
 velo-ammann.ch
 velo-analyse.ch
@@ -3552,6 +3554,7 @@ velordo.ch
 velore.ch
 veloready.ch
 veloreber.ch
+velorechauffeur.ch
 velorecht.ch
 velorecollective.ch
 veloregister.ch
@@ -7247,7 +7250,6 @@ verbierinternationalschool.ch
 verbierinternationalschools.ch
 verbierintlschool.ch
 verbierio.ch
-verbieris.ch
 verbierlawyers.ch
 verbierlive.ch
 verbierlocation.ch
@@ -8560,6 +8562,7 @@ vereinindustrie.ch
 vereininfrei.ch
 vereininsan.ch
 vereinjoshi.ch
+vereinjsl.ch
 vereinjtb.ch
 vereinjugendprojekte.ch
 vereinjungfilm.ch
@@ -12763,6 +12766,7 @@ versicherungs-rechner.ch
 versicherungs-scout.ch
 versicherungs-toolbox.ch
 versicherungs-treuhand.ch
+versicherungs-vali.ch
 versicherungs-vergleich-schweiz.ch
 versicherungs-vergleich.ch
 versicherungs-vergleiche.ch
@@ -13164,6 +13168,7 @@ versorger-plus.ch
 versorger.ch
 versorgerplus.ch
 versorgerschaden.ch
+versorgt.ch
 versorgu.ch
 versorgung-mit-lebensmittel.ch
 versorgung-oberaargau.ch

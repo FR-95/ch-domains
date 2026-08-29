@@ -211,6 +211,7 @@ tv-rheinau.ch
 tv-rheintal.ch
 tv-richterswil.ch
 tv-roemerswil.ch
+tv-romandie.ch
 tv-romanshorn.ch
 tv-rueschlikon.ch
 tv-ruettenen.ch
@@ -1004,6 +1005,7 @@ tvrn.ch
 tvroethenbach.ch
 tvroggwil.ch
 tvromande.ch
+tvromandie.ch
 tvrorschacherberg.ch
 tvrothenfluh.ch
 tvrothrist.ch

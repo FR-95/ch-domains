@@ -2436,7 +2436,6 @@ easydorm.ch
 easydose.ch
 easydossier.ch
 easydrain.ch
-easydreaming.ch
 easydrift.ch
 easydrink.ch
 easydrinks.ch
@@ -3853,6 +3852,8 @@ easywebseite.ch
 easywebseiten.ch
 easywebshop.ch
 easywebsite.ch
+easywebsolution.ch
+easywebsolutions.ch
 easywebswiss.ch
 easywedding.ch
 easyweddings.ch
@@ -4045,6 +4046,7 @@ eatcantin.ch
 eatcarelove.ch
 eatcaviar.ch
 eatchef.ch
+eatchickenone.ch
 eatcity.ch
 eatclean.ch
 eatclever.ch

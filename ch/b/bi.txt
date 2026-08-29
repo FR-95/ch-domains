@@ -2970,6 +2970,7 @@ bienne-beauty.ch
 bienne-biel-info.ch
 bienne-bon.ch
 bienne-byd.ch
+bienne-commun.ch
 bienne-dentiste.ch
 bienne-en-mouvement.ch
 bienne-est.ch
@@ -3633,7 +3634,6 @@ bieribodenbelag.ch
 bieribruno.ch
 bieribuebe.ch
 biericoaching.ch
-biericons.ch
 biericonsulting.ch
 bieridach.ch
 bieridaniel.ch
@@ -4527,6 +4527,7 @@ bigbank.ch
 bigbanzai.ch
 bigbao.ch
 bigbasket.ch
+bigbass-splash.ch
 bigbassbonanza.ch
 bigbassbonanza1000.ch
 bigbassbonanzagame.ch
@@ -4833,6 +4834,7 @@ bigger4you.ch
 biggeradvisory.ch
 biggerandbrighter.ch
 biggerbang.ch
+biggerbassbonanza.ch
 biggerbaumanagement.ch
 biggerclub.ch
 biggerera.ch
@@ -7696,7 +7698,6 @@ bildcart.ch
 bildcheck.ch
 bilddaten.ch
 bilddatenbank.ch
-bilddeco.ch
 bilddesign.ch
 bilddestages.ch
 bilddiagnostic.ch
@@ -9647,6 +9648,7 @@ billmondcapital.ch
 billmore.ch
 billmusic.ch
 billnet.ch
+billnotaire.ch
 billo.ch
 billodes.ch
 billogram.ch
@@ -13577,7 +13579,6 @@ bioh.ch
 bioha.ch
 biohaas.ch
 biohack-attack.ch
-biohack-oase.ch
 biohack-solution.ch
 biohack-solutions.ch
 biohack.ch
@@ -14524,7 +14525,6 @@ biomechanicrecalibration.ch
 biomechanics.ch
 biomechanik-labor.ch
 biomechanik-training.ch
-biomechanik.ch
 biomechanikbasics.ch
 biomechaniker.ch
 biomechanischkorrektreiten.ch
@@ -14921,6 +14921,7 @@ biopac.ch
 biopack.ch
 biopackagingsolutions.ch
 biopad.ch
+biopailles.ch
 biopak.ch
 biopanetteria.ch
 biopap.ch
@@ -16917,6 +16918,7 @@ birkenfeld-openair.ch
 birkenfeld.ch
 birkengold.ch
 birkenhain.ch
+birkenhaus.ch
 birkenhoelzli.ch
 birkenhof-balgach.ch
 birkenhof-beef.ch
@@ -19403,6 +19405,7 @@ bitcoinsvizzera.ch
 bitcoinswiss.ch
 bitcoinswitzerland.ch
 bitcointalk.ch
+bitcointe.ch
 bitcointestament.ch
 bitcointhun.ch
 bitcointime.ch
@@ -20431,6 +20434,7 @@ bixi.ch
 bixiflower.ch
 bixin.ch
 bixio-ag.ch
+bixio.ch
 bixis.ch
 bixlenvo.ch
 bixler.ch
@@ -20620,6 +20624,7 @@ bizinbalance.ch
 bizinfo.ch
 bizingue.ch
 bizint.ch
+bizio.ch
 bizirianis.ch
 bizis.ch
 bizjak.ch

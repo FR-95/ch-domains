@@ -884,6 +884,7 @@ goat-art.ch
 goat-film.ch
 goat-lefilm.ch
 goat-radio.ch
+goat-slime.ch
 goat-yoga.ch
 goat.ch
 goata.ch
@@ -2956,7 +2957,6 @@ goldage.ch
 goldai.ch
 goldair-aas.ch
 goldairaas.ch
-goldakracks.ch
 goldaktien.ch
 goldale.ch
 goldalliance.ch
@@ -3343,6 +3343,7 @@ golddiamonds.ch
 golddig.ch
 golddiggers.ch
 golddiggershop.ch
+golddiggerslot.ch
 golddigital.ch
 golddirekt.ch
 golddragon.ch
@@ -3517,6 +3518,7 @@ golden-salon-leonora.ch
 golden-schenken.ch
 golden-schlosser.ch
 golden-scissors.ch
+golden-sevens.ch
 golden-shadow.ch
 golden-sheep.ch
 golden-shit.ch
@@ -5876,6 +5878,7 @@ golfascona.ch
 golfast.ch
 golfatelier.ch
 golfatfairplay.ch
+golfathleticperformance.ch
 golfaugwil.ch
 golfausflug.ch
 golfausruestung.ch
@@ -8839,6 +8842,7 @@ goosenenterprises.ch
 gooseperience.ch
 goosetec.ch
 goosgastro.ch
+gooshe.ch
 goosnik.ch
 goosp.ch
 goospery-case.ch
@@ -9466,6 +9470,7 @@ goser.ch
 goserelin.ch
 goserver.ch
 goservi.ch
+goservice.ch
 gosetti.ch
 gosev.ch
 gosevenseas.ch
@@ -11358,6 +11363,7 @@ govops.ch
 govori.ch
 govos.ch
 govote.ch
+govowt.ch
 govoyages.ch
 govoyagesprime.ch
 govpet.ch

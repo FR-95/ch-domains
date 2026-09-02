@@ -13,6 +13,7 @@ yo-pp.ch
 yo-que.ch
 yo-schmuck.ch
 yo-soups.ch
+yo-thaifood.ch
 yo-thaimassage.ch
 yo-yo.ch
 yo88.ch
@@ -3214,7 +3215,6 @@ you-are-special.ch
 you-are-the-captain.ch
 you-are-your-place.ch
 you-are.ch
-you-around-the-world.ch
 you-beauty.ch
 you-bet.ch
 you-boat.ch
@@ -5179,6 +5179,7 @@ yourmother.ch
 yourmotion.ch
 yourmotorskill.ch
 yourmotorskills.ch
+yourmouthguard.ch
 yourmove.ch
 yourmovin.ch
 yourmtf.ch
@@ -5953,6 +5954,7 @@ youtx.ch
 youtype.ch
 youu.ch
 youus.ch
+youvaam.ch
 youvalyou.ch
 youvaris.ch
 youvc.ch

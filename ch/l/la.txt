@@ -326,6 +326,7 @@ la-chacra.ch
 la-chaine-jeu.ch
 la-chaine-jeux.ch
 la-chaise-rouge.ch
+la-chamaca.ch
 la-chambre-noire.ch
 la-chambre.ch
 la-chanee.ch
@@ -526,6 +527,7 @@ la-difference.ch
 la-differenza.ch
 la-diligence-de-kemba.ch
 la-diligence.ch
+la-dinguerie.ch
 la-dispensa.ch
 la-distillerie.ch
 la-diva.ch
@@ -1299,7 +1301,6 @@ la-primavera-wil.ch
 la-principessa.ch
 la-prochaine-lune.ch
 la-professione-piu-importante.ch
-la-profumeria.ch
 la-promenade.ch
 la-promesa.ch
 la-properties.ch
@@ -8208,6 +8209,7 @@ lafermedusolvat.ch
 lafermedusommetdepouillerel.ch
 lafermedusonneur.ch
 lafermedutorry.ch
+lafermeduvivant.ch
 lafermeenchantee.ch
 lafermeencroix.ch
 lafermeforestier.ch
@@ -10045,6 +10047,7 @@ lainarmonie.ch
 lainatec.ch
 lainatura.ch
 lainchantar.ch
+lainda.ch
 laindesign.ch
 laine-bio.ch
 laine-de-verre.ch
@@ -12195,6 +12198,7 @@ lambeauty.ch
 lambeautysalon.ch
 lambelet-bugnon.ch
 lambelet-compta.ch
+lambelet-kaisari.ch
 lambelet-sa.ch
 lambelet-services.ch
 lambelet-so.ch
@@ -12406,6 +12410,7 @@ lambskin.ch
 lambulatoire.ch
 lambulsens.ch
 lambweston.ch
+lambyieldai.ch
 lamca.ch
 lamclean.ch
 lamconcept.ch
@@ -13653,7 +13658,6 @@ lancyplobasket.ch
 lancyplohand.ch
 lancysitters.ch
 lancytennisclub.ch
-lancytv.ch
 lancyvbc.ch
 land-ahoi.ch
 land-apotheke.ch
@@ -14346,6 +14350,7 @@ landi-bodenseeag.ch
 landi-buchs.ch
 landi-dietikon.ch
 landi-embrach.ch
+landi-esports.ch
 landi-flawil.ch
 landi-gossau.ch
 landi-grindelwald.ch
@@ -17330,6 +17335,7 @@ lapaire-consulting.ch
 lapaire.ch
 lapaireconsulting.ch
 lapaisee.ch
+lapaisible.ch
 lapaix-cabinettherapeutique.ch
 lapaix-lagrange.ch
 lapaix.ch
@@ -17426,6 +17432,7 @@ lapartdieu.ch
 lapartdudiable.ch
 laparte-admin.ch
 laparte.ch
+laparteleman.ch
 laparterestaurant.ch
 laparticuliere.ch
 lapartner.ch
@@ -20862,6 +20869,7 @@ laserhuesi.ch
 laseria.ch
 laseriea.ch
 laserigrafica.ch
+laserimb.ch
 laserina.ch
 laserine.ch
 laserinfusion.ch
@@ -21685,7 +21693,6 @@ lassdampfab.ch
 lassdampfapp.ch
 lassdichbewegen.ch
 lassdichtesten.ch
-lassdiepuppentanzen.ch
 lassdieschulenimdorf.ch
 lasse.ch
 lassecziesla.ch
@@ -22808,6 +22815,7 @@ latente.ch
 latentedetoit.ch
 latentspace-labs.ch
 latentspace.ch
+latentworlds.ch
 latenuta.ch
 latenutaimmobiliare.ch
 latenutamontello.ch
@@ -23777,7 +23785,6 @@ lauclair.ch
 lauco.ch
 laucom-networks.ch
 laucrea.ch
-laucreations.ch
 laud.ch
 lauda.ch
 laudace.ch
@@ -27638,6 +27645,7 @@ lawgpt.ch
 lawgraf.ch
 lawgroup.ch
 lawguide.ch
+lawhalinesalpjha.ch
 lawheroes.ch
 lawhiteparty.ch
 lawhive.ch

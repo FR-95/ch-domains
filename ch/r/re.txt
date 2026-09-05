@@ -1925,7 +1925,6 @@ realklima.ch
 realkontor.ch
 realkonzept.ch
 realkonzepte.ch
-realkosten.ch
 realkostenindex.ch
 realkreditag.ch
 reall.ch
@@ -2049,6 +2048,7 @@ realor.ch
 realovesophy.ch
 realp.ch
 realp24.ch
+realpachocruz.ch
 realpackaging.ch
 realpartner.ch
 realpartners.ch
@@ -4977,6 +4977,7 @@ rechtsreport.ch
 rechtsschenkelblock.ch
 rechtsschmid.ch
 rechtsschrift.ch
+rechtsschriften.ch
 rechtsschule.ch
 rechtsschutz-angebot.ch
 rechtsschutz-blog.ch
@@ -5338,7 +5339,6 @@ recommend.ch
 recommendable.ch
 recommendation.ch
 recommendations.ch
-recommended.ch
 recommender-system.ch
 recommender-systems.ch
 recommender.ch
@@ -6491,6 +6491,7 @@ red-holiday.ch
 red-holstein.ch
 red-holsteins.ch
 red-home.ch
+red-hornet.ch
 red-horse.ch
 red-hot.ch
 red-icon.ch
@@ -9051,6 +9052,7 @@ refarmed.ch
 refas.ch
 refashion.ch
 refate.ch
+refazeit.ch
 refbah.ch
 refbalgach.ch
 refbb.ch
@@ -9159,6 +9161,7 @@ referencement-siteweb.ch
 referencement-suisse.ch
 referencement.ch
 referencement365.ch
+referencementfacile.ch
 referencementgoogle.ch
 referencementnaturel.ch
 referencementpme.ch
@@ -15858,6 +15861,7 @@ reinigung-luzern.ch
 reinigung-lyss.ch
 reinigung-malters.ch
 reinigung-menziken.ch
+reinigung-mit-abgabe.ch
 reinigung-mit-drohne.ch
 reinigung-mit-garantie.ch
 reinigung-mit-herz.ch
@@ -16277,7 +16281,6 @@ reinigungsgeraete.ch
 reinigungsgranulat.ch
 reinigungsgrosshandel.ch
 reinigungsgutachten.ch
-reinigungsgutschein.ch
 reinigungshelden.ch
 reinigungshelfer.ch
 reinigungshero.ch
@@ -17049,7 +17052,6 @@ reisefreunde.ch
 reisefreundin.ch
 reisefriedli.ch
 reisefritzli.ch
-reisefroh.ch
 reisefuchs.ch
 reisefuddi.ch
 reisefudi.ch
@@ -23610,6 +23612,7 @@ renoexpress.ch
 renofab.ch
 renofferte.ch
 renofim.ch
+renofin-gmbh.ch
 renofin.ch
 renofit.ch
 renofix-petkovic.ch
@@ -26520,6 +26523,7 @@ reparaturbonus.ch
 reparaturbuero.ch
 reparaturcafe.ch
 reparaturcenter.ch
+reparaturcheck.ch
 reparaturdienst-24.ch
 reparaturdienst.ch
 reparaturen-am-haus.ch
@@ -27777,6 +27781,7 @@ resatec.ch
 resavareisen.ch
 resavita.ch
 resawants.ch
+resawo.ch
 resawoli.ch
 resax.ch
 resbellikon.ch
@@ -28012,6 +28017,7 @@ researchpartners.ch
 researchportal.ch
 researchproject.ch
 researchprojects.ch
+researchreach.ch
 researchte.ch
 researchwalkers.ch
 researchz.ch
@@ -28713,6 +28719,7 @@ residence-odara.ch
 residence-onesia-3d.ch
 residence-oraya.ch
 residence-orea.ch
+residence-oria.ch
 residence-panorama.ch
 residence-panoramis.ch
 residence-papillon.ch
@@ -29355,7 +29362,6 @@ resiliencenet.ch
 resilienceone.ch
 resiliencepaysanne.ch
 resiliencephd.ch
-resiliencepower.ch
 resiliences-coaching.ch
 resiliences.ch
 resiliencescore.ch
@@ -34609,6 +34615,7 @@ restoreit.ch
 restorekneemotion.ch
 restorent.ch
 restorer.ch
+restorescartherapy.ch
 restoreweight.ch
 restorex-lapeyronie.ch
 restorex.ch
@@ -37075,6 +37082,7 @@ reusspartnersgroup.ch
 reussperle-buchrain.ch
 reussperle.ch
 reussperlebuchrain.ch
+reussport-nein.ch
 reusspraxis.ch
 reussprivatbank.ch
 reussprivate-access.ch
@@ -38698,6 +38706,7 @@ revuevalaisanne.ch
 revuevaudoise.ch
 revuevitiarbohorti.ch
 revugia.ch
+revuje.ch
 revulta.ch
 revuni.ch
 revup.ch

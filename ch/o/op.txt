@@ -1557,10 +1557,10 @@ openmedicine.ch
 openmedico.ch
 openmediq.ch
 openmeditation.ch
+openmeets.ch
 openmessage.ch
 openmeteo.ch
 openmetrics.ch
-openmetrix.ch
 openmf.ch
 openmic-ziegelhof.ch
 openmic.ch
@@ -3080,6 +3080,7 @@ opps.ch
 oppsolutions.ch
 oppstor.ch
 oppt.ch
+opptec.ch
 opptii.ch
 oppu.ch
 oppy.ch
@@ -3916,6 +3917,7 @@ optikthoma.ch
 optiktop.ch
 optiktschudi.ch
 optikum.ch
+optikundakustik.ch
 optikunduhren.ch
 optikur.ch
 optikvomfischmaert.ch
@@ -3928,6 +3930,7 @@ optikzentrumvisp.ch
 optikzeugin.ch
 optikzone.ch
 optikzug.ch
+optikzukunft.ch
 optikzumstraussen.ch
 optikzurbrille.ch
 optilace.ch
@@ -4705,7 +4708,6 @@ optipress.ch
 optiprime.ch
 optiprint.ch
 optiproc.ch
-optiprocure.ch
 optipropre.ch
 optiproulrich.ch
 optipsy.ch

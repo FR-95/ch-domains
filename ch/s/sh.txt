@@ -5620,6 +5620,7 @@ shonenparadise.ch
 shongololo.ch
 shoninki.ch
 shonishin-vd.ch
+shonishin.ch
 shonithe.ch
 shonline.ch
 shontshang.ch
@@ -6194,6 +6195,7 @@ shop-startgate.ch
 shop-station.ch
 shop-ste-collection.ch
 shop-stickkreation.ch
+shop-stiftungheimstaetten.ch
 shop-stiftungheimstaettenwil.ch
 shop-storenmaterial.ch
 shop-stores.ch
@@ -6382,6 +6384,7 @@ shopaholicsworld.ch
 shopai.ch
 shopairhealth.ch
 shopaja.ch
+shopalert.ch
 shopalike.ch
 shopaloevera.ch
 shopalyn.ch
@@ -6486,6 +6489,7 @@ shopcbd.ch
 shopcbd24.ch
 shopcella.ch
 shopcellier.ch
+shopcenter.ch
 shopcert.ch
 shopch.ch
 shopchasse.ch
@@ -6841,6 +6845,7 @@ shoplink.ch
 shoplinkpos.ch
 shoplino.ch
 shoplist.ch
+shoplittlemoments.ch
 shoplive.ch
 shopliveo.ch
 shoplix.ch
@@ -7377,7 +7382,6 @@ shopsmer.ch
 shopsmile.ch
 shopsnickers.ch
 shopsniper.ch
-shopsnow.ch
 shopsoftware.ch
 shopsolarfeld.ch
 shopsolute.ch
@@ -7419,6 +7423,7 @@ shopsystems.ch
 shoptapaire.ch
 shoptasape.ch
 shoptcs.ch
+shopte.ch
 shopteam.ch
 shoptec.ch
 shopten.ch
@@ -7642,7 +7647,6 @@ shortcatt.ch
 shortcircuit.ch
 shortclip.ch
 shortclips.ch
-shortcode.ch
 shortcourse.ch
 shortcut.ch
 shortcut2infinity.ch

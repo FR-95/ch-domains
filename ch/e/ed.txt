@@ -3912,6 +3912,7 @@ edu-emmental.ch
 edu-espas.ch
 edu-faces.ch
 edu-family.ch
+edu-financiere.ch
 edu-foot.ch
 edu-fr.ch
 edu-g.ch
@@ -4760,6 +4761,7 @@ edumero.ch
 edumeroh.ch
 edumind.ch
 edumint.ch
+edumio.ch
 edumira.ch
 edumobil.ch
 edumod.ch

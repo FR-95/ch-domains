@@ -2402,7 +2402,6 @@ she-estate.ch
 she-finance.ch
 she-go.ch
 she-keramik.ch
-she-lajit.ch
 she-lifts-cup.ch
 she-loxone.ch
 she-meetings.ch
@@ -3966,6 +3965,7 @@ shickesteve.ch
 shid.ch
 shida.ch
 shidairyu.ch
+shidao.ch
 shidi.ch
 shido.ch
 shidoge.ch
@@ -4000,6 +4000,7 @@ shieldmaster.ch
 shieldone.ch
 shieldscan.ch
 shieldum.ch
+shieldx.ch
 shieldy.ch
 shieldyou.ch
 shif.ch
@@ -5775,6 +5776,7 @@ shootlm.ch
 shootmap.ch
 shooto.ch
 shootorama.ch
+shootplanner.ch
 shootr.ch
 shootsome.ch
 shootspot.ch
@@ -8286,6 +8288,7 @@ shqipe.ch
 shqipefashion.ch
 shqiperia.ch
 shqipet.ch
+shqipetart.ch
 shqipetyre.ch
 shqiphop.ch
 shqiplex.ch
@@ -8443,6 +8446,7 @@ shroomz.ch
 shroomzh.ch
 shropshire-schafe.ch
 shropshire.ch
+shroro.ch
 shroud.ch
 shrs.ch
 shrsd.ch

@@ -444,7 +444,6 @@ sobaco.ch
 sobacoservices.ch
 sobag.ch
 sobagy.ch
-sobai.ch
 sobaj.ch
 sobal.ch
 sobala.ch
@@ -579,6 +578,7 @@ sobrement.ch
 sobremesa.ch
 sobremesafit.ch
 sobretodo.ch
+sobretvin.ch
 sobrietesuisse.ch
 sobrimo.ch
 sobrino.ch
@@ -1588,7 +1588,6 @@ socialsalesmasterclass.ch
 socialsalestraining.ch
 socialsalsa.ch
 socialschools.ch
-socialschweiz.ch
 socialscience.ch
 socialscore-nein.ch
 socialscore-no.ch
@@ -4238,7 +4237,6 @@ sogaribe.ch
 sogart.ch
 sogas.ch
 sogaval.ch
-sogbelp.ch
 sogbwbguweg.ch
 sogc-scanner.ch
 sogc.ch
@@ -11856,7 +11854,6 @@ somea.ch
 someads.ch
 someagency.ch
 someasoulstones.ch
-somebody.ch
 somebodyelse.ch
 somebodylovesyou.ch
 somebox.ch
@@ -12535,6 +12532,7 @@ sommersprossen.ch
 sommerstein.ch
 sommerstiefel.ch
 sommerstiftung.ch
+sommerstueck.ch
 sommerstyle.ch
 sommersweid.ch
 sommertag.ch
@@ -12767,6 +12765,7 @@ somtrans.ch
 somtransport.ch
 somu-alle.ch
 somu.ch
+somuchfun.ch
 somuchlove.ch
 somuchuniqueness.ch
 somuchwhisky.ch
@@ -14012,6 +14011,7 @@ sonjuvera.ch
 sonk.ch
 sonka.ch
 sonkal.ch
+sonkeb-kebab.ch
 sonkebsoncebozsonceboz.ch
 sonko.ch
 sonkol.ch
@@ -19716,6 +19716,7 @@ soumission-non.ch
 soumission.ch
 soumissionnon.ch
 soumissionpro.ch
+soumissionrenoplus.ch
 soumissions.ch
 soumith.ch
 sound-am-see.ch

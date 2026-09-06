@@ -923,7 +923,6 @@ bible-art.ch
 bible-commentaire.ch
 bible-echange.ch
 bible-engagement.ch
-bible-et-foi.ch
 bible-exhibition.ch
 bible-institute-switzerland.ch
 bible-institute.ch
@@ -3545,6 +3544,7 @@ bierhaus.ch
 bierheilige.ch
 bierhier.ch
 bierhimmel.ch
+bierhof.ch
 bierhotel.ch
 bierhub.ch
 bierhuebeli-preproduction.ch
@@ -3854,7 +3854,6 @@ biersafari.ch
 bierschaenzli-oktoberfest.ch
 bierschaenzli.ch
 bierschenken.ch
-bierschiff.ch
 bierschlacht.ch
 bierschloss.ch
 bierschmid.ch
@@ -4054,6 +4053,7 @@ biestmilch.ch
 biet-duell.ch
 biet-portal.ch
 biet.ch
+bietaro.ch
 bietduell.ch
 biete-hilfe-im-alter.ch
 biete-und-suche.ch
@@ -4563,6 +4563,7 @@ bigben-interactive.ch
 bigben-westside.ch
 bigben.ch
 bigbenbistrot.ch
+bigbengeneva.ch
 bigbeninteractive.ch
 bigbenmusic.ch
 bigbenpoetry.ch
@@ -6229,7 +6230,6 @@ bikebench.ch
 bikebengel.ch
 bikeberatung.ch
 bikebern.ch
-bikebike.ch
 bikebirrer.ch
 bikeblackweek.ch
 bikeblog.ch
@@ -7296,6 +7296,7 @@ bikini24.ch
 bikinibeach.ch
 bikinichallenge.ch
 bikinifigur.ch
+bikinifit.ch
 bikinigirl.ch
 bikiniracing.ch
 bikinis.ch
@@ -7483,6 +7484,7 @@ bilanzfabrik.ch
 bilanzfluencer.ch
 bilanzgruppe.ch
 bilanzhomes.ch
+bilanzi.ch
 bilanzia.ch
 bilanzieren-inspirieren.ch
 bilanziert.ch
@@ -7844,6 +7846,7 @@ bildereinfangwerkstatt.ch
 bildereinrahmen.ch
 bilderfinder.ch
 bilderfink.ch
+bilderflut.ch
 bilderfrancois.ch
 bilderfrau.ch
 bilderfreistellen.ch
@@ -10313,6 +10316,7 @@ bimleman.ch
 bimlibrary.ch
 bimlindeplatz.ch
 bimlover.ch
+bimly.ch
 bimm-institute.ch
 bimm.ch
 bimmable.ch
@@ -11273,6 +11277,7 @@ binomone.ch
 binora.ch
 binorion.ch
 binos-futtershop.ch
+binospizzeria.ch
 binotech.ch
 binotto-baufuehrung.ch
 binotto.ch
@@ -16007,6 +16012,7 @@ biovorhang.ch
 biovorort.ch
 biovrac.ch
 biovt.ch
+biovyra.ch
 biow.ch
 biowa.ch
 biowaerme.ch
@@ -18325,6 +18331,7 @@ bistro-saanenmoeser.ch
 bistro-salmen.ch
 bistro-scherz.ch
 bistro-schinznach.ch
+bistro-schnaeggli.ch
 bistro-schuppe.ch
 bistro-sg.ch
 bistro-sharing.ch
@@ -18486,7 +18493,6 @@ bistroniburkwil.ch
 bistronihat.ch
 bistronomie.ch
 bistronomique.ch
-bistronomisch.ch
 bistronomy.ch
 bistroo.ch
 bistrooriental.ch
@@ -18958,7 +18964,6 @@ bitcoin-metaverse.ch
 bitcoin-miner.ch
 bitcoin-mining.ch
 bitcoin-mit-twint.ch
-bitcoin-morality.ch
 bitcoin-nettoshop.ch
 bitcoin-news.ch
 bitcoin-only.ch
@@ -19502,6 +19507,7 @@ bite-pro.ch
 bite2u.ch
 bite47.ch
 biteandfly.ch
+biteapp.ch
 biteaway.ch
 bitebook.ch
 bitebox.ch
@@ -19657,6 +19663,7 @@ bitiq-gartenbau.ch
 bitis-shop.ch
 bitis.ch
 bitit.ch
+bitite.ch
 bitits.ch
 bitixmedia.ch
 bitja-care.ch
@@ -19911,7 +19918,6 @@ bits-technik.ch
 bits-to-energy-lab.ch
 bits-to-energy.ch
 bits-volts.ch
-bits-wittenbach.ch
 bits.ch
 bits2bws.ch
 bits2insights.ch
@@ -20111,6 +20117,7 @@ bitterstern.ch
 bitterstoff.ch
 bitterstoffe.ch
 bittersuess.ch
+bittersun.ch
 bittersweet.ch
 bittersweetco.ch
 bittersweetmusic.ch
@@ -20322,6 +20329,7 @@ biv.ch
 biva.ch
 bivac.ch
 bivag.ch
+bivandgo.ch
 bivani.ch
 bivantis.ch
 bivario.ch

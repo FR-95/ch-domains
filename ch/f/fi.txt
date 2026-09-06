@@ -6454,7 +6454,6 @@ financial-accounting.ch
 financial-advisor.ch
 financial-advisors.ch
 financial-advisory-services.ch
-financial-advisory.ch
 financial-analytica.ch
 financial-architects.ch
 financial-architectures.ch
@@ -6501,7 +6500,6 @@ financial-shop.ch
 financial-solutions.ch
 financial-talents.ch
 financial-video.ch
-financial-wellbeing.ch
 financial-x-press.ch
 financial.ch
 financialab.ch
@@ -8205,9 +8203,7 @@ findeva.ch
 findevie-info.ch
 findevie.ch
 findewas.ch
-findex-ag.ch
 findex.ch
-findexag.ch
 findextras.ch
 findezudir.ch
 findezugott.ch
@@ -8417,6 +8413,7 @@ findservice.ch
 findset.ch
 findsex.ch
 findshops.ch
+findsmart.ch
 findsolutions-holding.ch
 findsolutions-swiss.ch
 findsolutions.ch
@@ -10519,6 +10516,7 @@ finvestigations.ch
 finvestigator.ch
 finvestis.ch
 finvestment.ch
+finvestments.ch
 finvesto.ch
 finvestor.ch
 finvetia.ch
@@ -18223,7 +18221,6 @@ fixtor.ch
 fixtout.ch
 fixtrade.ch
 fixtraeger.ch
-fixtreff.ch
 fixtreuhand.ch
 fixtronic.ch
 fixtuch.ch

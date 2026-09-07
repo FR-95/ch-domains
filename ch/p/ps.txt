@@ -176,6 +176,7 @@ ps-investment.ch
 ps-ip.ch
 ps-jnv.ch
 ps-juranordvaudois.ch
+ps-k.ch
 ps-kerzers.ch
 ps-kirchberg.ch
 ps-koelliken.ch
@@ -3499,7 +3500,6 @@ psychotherapie-geering.ch
 psychotherapie-gemeinschaft.ch
 psychotherapie-geneve.ch
 psychotherapie-genf.ch
-psychotherapie-gerber.ch
 psychotherapie-gerl.ch
 psychotherapie-gestalt.ch
 psychotherapie-ghelli.ch
@@ -4508,6 +4508,7 @@ psyneurofeedback-geneve.ch
 psynez.ch
 psynnovation.ch
 psynoos.ch
+psynopsis.ch
 psynova.ch
 psynow.ch
 psyntera.ch

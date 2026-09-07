@@ -2335,7 +2335,6 @@ ruegg-studio-schwarzenburg.ch
 ruegg-studio-servion.ch
 ruegg-studio-steckborn.ch
 ruegg-studio-stmoritz.ch
-ruegg-studio-visp.ch
 ruegg-studio.ch
 ruegg-yamaha.ch
 ruegg-zindel.ch
@@ -4025,7 +4024,6 @@ run.ch
 run0.ch
 run10k.ch
 run10km.ch
-run24.ch
 run247.ch
 run24dorigny.ch
 run2aid.ch

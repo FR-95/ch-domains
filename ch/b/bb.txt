@@ -128,7 +128,6 @@ bb-holding.ch
 bb-horses.ch
 bb-hub.ch
 bb-i.ch
-bb-iconic.ch
 bb-immogroup.ch
 bb-impact.ch
 bb-infoboard.ch
@@ -946,6 +945,7 @@ bbo-week.ch
 bbo.ch
 bboard.ch
 bboats.ch
+bbobahk.ch
 bbobank.ch
 bboberdiessbach.ch
 bbobjektag.ch

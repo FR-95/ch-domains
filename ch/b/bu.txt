@@ -485,7 +485,6 @@ buccimoto.ch
 buccini.ch
 bucciol.ch
 bucco-tantum.ch
-buccola-ag.ch
 buccola-bau-ag.ch
 buccola.ch
 buccolabau.ch
@@ -953,7 +952,6 @@ bucher-transportag.ch
 bucher-travel.ch
 bucher-trockner.ch
 bucher-und-bucher.ch
-bucher-unternehmungen.ch
 bucher-verwaltungen.ch
 bucher-visualisierung.ch
 bucher-vtech.ch
@@ -1151,6 +1149,7 @@ buchfink-design.ch
 buchfink.ch
 buchfinkdesign.ch
 buchfix.ch
+buchflickerei.ch
 buchflink.ch
 buchflohmarkt.ch
 buchflow.ch
@@ -3410,7 +3409,6 @@ bueggi.ch
 buegidruck.ch
 buegla2023.ch
 buegla2024.ch
-buegla25.ch
 buegla26.ch
 buegla27.ch
 buegla28.ch
@@ -5466,6 +5464,7 @@ buerohelden.ch
 buerohelden24.ch
 buerohelferin.ch
 buerohilf.ch
+buerohilfe-surselva.ch
 buerohilfe.ch
 buerohirschburger.ch
 buerohochform.ch
@@ -7031,6 +7030,7 @@ buildlead.ch
 buildli.ch
 buildlink.ch
 buildlinkpitch.ch
+buildlinks.ch
 buildlog-app.ch
 buildlog.ch
 buildlogic.ch
@@ -7147,7 +7147,6 @@ builtease.ch
 builtec.ch
 builtech.ch
 builtfor.ch
-builtforbetter.ch
 builtfordproud.ch
 builtforflow.ch
 builtforskills.ch
@@ -7610,7 +7609,6 @@ bulledesante.ch
 bulledesavon.ch
 bulledeserenite.ch
 bulledesoins.ch
-bulledessentiel.ch
 bulledevie.ch
 bulledhypnose.ch
 bulledirigeable.ch
@@ -8529,7 +8527,6 @@ bungee-titlis.ch
 bungee-training.ch
 bungee-trampolin.ch
 bungee-trampoline.ch
-bungee-workout.ch
 bungee-yoga.ch
 bungee.ch
 bungee007.ch
@@ -12146,7 +12143,6 @@ business-edition.ch
 business-education.ch
 business-elephant.ch
 business-elibrary.ch
-business-emailing.ch
 business-emmen.ch
 business-empowerment.ch
 business-energethik.ch
@@ -15219,6 +15215,7 @@ buzzano-maroquinerie.ch
 buzzano.ch
 buzzapp.ch
 buzzar.ch
+buzzard-ai.ch
 buzzard.ch
 buzzardbats.ch
 buzzards.ch
@@ -15276,6 +15273,7 @@ buzzme.ch
 buzzmedia.ch
 buzzmyvideo.ch
 buzznet.ch
+buzznews.ch
 buzzobianco.ch
 buzzoni-digital.ch
 buzzoni.ch

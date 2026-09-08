@@ -370,6 +370,7 @@ bsb-infopartner.ch
 bsb-informatik.ch
 bsb-it-ch.ch
 bsb-metallhandel.ch
+bsb-motors.ch
 bsb-parkett.ch
 bsb-partner.ch
 bsb-schumacher.ch
@@ -412,6 +413,7 @@ bsbluzern.ch
 bsbm.ch
 bsbmanagement.ch
 bsbmedien.ch
+bsbmotors.ch
 bsbmserver.ch
 bsbox.ch
 bsbr.ch

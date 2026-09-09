@@ -323,6 +323,7 @@ bkimpex.ch
 bkind.ch
 bking.ch
 bkinnerschweiz.ch
+bkint.ch
 bkinvest.ch
 bkipfer.ch
 bkit.ch
@@ -566,7 +567,6 @@ bkt-produkte.ch
 bkt-reifen.ch
 bkt-transport.ch
 bkt.ch
-bktboard.ch
 bktcoaching.ch
 bkteam.ch
 bktec.ch
@@ -681,6 +681,7 @@ bkwtodo.ch
 bkwvalais.ch
 bkwwallis.ch
 bkx.ch
+bkyprestige.ch
 bkyxn.ch
 bkz-gs.ch
 bkz.ch

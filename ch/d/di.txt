@@ -1623,6 +1623,7 @@ diamondestate.ch
 diamondevenz.ch
 diamondex.ch
 diamondexperience.ch
+diamondexplosion7s.ch
 diamondeyes.ch
 diamondfactory.ch
 diamondfashion.ch
@@ -1746,6 +1747,7 @@ diamondskin.ch
 diamondsmile.ch
 diamondsolutions.ch
 diamondsound.ch
+diamondspowerholdandwin.ch
 diamondstack.ch
 diamondstar.ch
 diamondstick.ch
@@ -2221,6 +2223,7 @@ diart.ch
 diarta.ch
 diarte.ch
 diartis.ch
+diartisservices.ch
 diary.ch
 diaryerfolg.ch
 diarylab.ch
@@ -3371,6 +3374,7 @@ die-bar.ch
 die-bardewycks.ch
 die-barracudas.ch
 die-bars.ch
+die-batterie.ch
 die-bauberater.ch
 die-baubiologen.ch
 die-baubiologin.ch
@@ -5587,6 +5591,7 @@ diebasismassage.ch
 diebaslerklinik.ch
 diebastelbar.ch
 diebastelbox.ch
+diebatterie.ch
 diebau-profis.ch
 diebauarbeiter.ch
 diebaubegleiter.ch
@@ -6604,7 +6609,6 @@ diegrosseeinheit.ch
 diegrossepause.ch
 diegrosseschlagerueberraschung.ch
 diegrosseumordnung.ch
-diegrossewohninitiative.ch
 diegrubers.ch
 diegruender.ch
 diegruene.ch
@@ -7020,6 +7024,7 @@ dieklimamacherjobs.ch
 dieklimawelt.ch
 dieklinik.ch
 dieklinikimmobilie.ch
+dieklirnamacher.ch
 dieklub.ch
 dieklubbb3party.ch
 diekmuprofis.ch
@@ -7197,6 +7202,7 @@ dielernwelt.ch
 dielernwerkstatt.ch
 dieleseanimatorin.ch
 dieleserei.ch
+dielettantinnen.ch
 dieletztechance.ch
 dieletztefahrtderdemeter-film.ch
 dieletztefeier.ch
@@ -8801,7 +8807,6 @@ diet.ch
 diet4vip.ch
 diet5.ch
 dieta-metabolica.ch
-dieta-natura.ch
 dieta-nutrizione.ch
 dieta.ch
 dietadigitale.ch
@@ -10385,6 +10390,7 @@ digico.ch
 digicoach.ch
 digicod.ch
 digicode.ch
+digicoin.ch
 digicoins.ch
 digicolab.ch
 digicollect.ch
@@ -12133,7 +12139,6 @@ digitalacademylausanne.ch
 digitalaccountant.ch
 digitalaccounting.ch
 digitalachtsam.ch
-digitalact.ch
 digitalaction.ch
 digitaladmin.ch
 digitaladoption.ch
@@ -12315,6 +12320,7 @@ digitalbiology.ch
 digitalbit.ch
 digitalblech.ch
 digitalblend.ch
+digitalblick.ch
 digitalbliss.ch
 digitalblog.ch
 digitalbloom.ch
@@ -14488,7 +14494,6 @@ digitalshowroom.ch
 digitalsicher.ch
 digitalsicht.ch
 digitalsichtbar.ch
-digitalsidebusiness.ch
 digitalsidepreneur.ch
 digitalsign.ch
 digitalsignage-solutions.ch
@@ -15595,6 +15600,7 @@ dilello.ch
 dilelloag.ch
 dilem.ch
 dilematica.ch
+dilemma-magazin.ch
 dilemma-zug.ch
 dilemma.ch
 dilemmatica.ch
@@ -18539,7 +18545,6 @@ diretly.ch
 direto-textil-schweiz.ch
 direto-textil.ch
 direto.ch
-diretoversand.ch
 diretta-mente.ch
 direttamente.ch
 direttapiuclienticonyoutube.ch
@@ -18795,6 +18800,7 @@ dirtybeaux.ch
 dirtybit.ch
 dirtyboxing.ch
 dirtyboy.ch
+dirtybutler.ch
 dirtybutlers.ch
 dirtycams.ch
 dirtycash.ch
@@ -19005,7 +19011,6 @@ discerner.ch
 discerningmedia.ch
 discernment.ch
 discerno.ch
-discgear.ch
 discgolf-denhaut.ch
 discgolf-events.ch
 discgolf-geneve.ch
@@ -19304,6 +19309,7 @@ discountdiamond.ch
 discountdiamonds.ch
 discountdirect.ch
 discountdrogerie.ch
+discountea.ch
 discounted.ch
 discounteo.ch
 discounter.ch
@@ -21443,7 +21449,6 @@ diversitacognitiva.ch
 diversitaculturale.ch
 diversitad.ch
 diversitadculturala.ch
-diversitaet.ch
 diversitanz.ch
 diversitas-coaching.ch
 diversite-au-travail.ch
@@ -21746,6 +21751,7 @@ divinecup.ch
 divineetsens.ch
 divineevents.ch
 divinefeminine.ch
+divinefortune.ch
 divinefunhouse.ch
 divinegarden.ch
 divineglow.ch

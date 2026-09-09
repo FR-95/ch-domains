@@ -709,7 +709,6 @@ abaggerueste.ch
 abagon.ch
 abagov.ch
 abagtoi.ch
-abagtreuhand.ch
 abahomecare.ch
 abahost-infra.ch
 abahost-int-infra.ch
@@ -1411,6 +1410,7 @@ abbuehl-plattenbelaege.ch
 abbuehl-sport.ch
 abbuehl-treuhand.ch
 abbuehl.ch
+abbuehlhaustechnik.ch
 abbuehlsport.ch
 abbuilding.ch
 abbund-ag.ch
@@ -6866,6 +6866,7 @@ abyssinia.ch
 abyssiniasocialclub.ch
 abyssint-edition-bijoux.ch
 abyssint.ch
+abysso.ch
 abyssworld.ch
 abyte.ch
 abytreuhand.ch

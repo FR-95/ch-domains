@@ -3443,6 +3443,7 @@ backoffice-manager.ch
 backoffice-medscribe.ch
 backoffice-point.ch
 backoffice-service-box.ch
+backoffice-solution.ch
 backoffice-support.ch
 backoffice.ch
 backoffice24.ch
@@ -3459,6 +3460,7 @@ backofficerestaurant.ch
 backoffices.ch
 backofficeschmidig.ch
 backofficeservicebox.ch
+backofficesolution.ch
 backofficeteam.ch
 backofficetime.ch
 backoholics.ch
@@ -5281,6 +5283,7 @@ badmintonclubgeneve.ch
 badmintonclubgstaad.ch
 badmintonclubmarly.ch
 badmintonclubsolothurn.ch
+badmintonconnect.ch
 badmintondirect.ch
 badmintonetoy.ch
 badmintonhalle.ch
@@ -5326,6 +5329,7 @@ badmom.ch
 badmon.ch
 badmoonkiller.ch
 badmurtensee.ch
+badnailz.ch
 badnaiy.ch
 badnas.ch
 badnavi.ch
@@ -6427,7 +6431,6 @@ baeren-birrwil.ch
 baeren-blumenstein.ch
 baeren-boenigen.ch
 baeren-boezberg.ch
-baeren-boezen.ch
 baeren-bottighofen.ch
 baeren-brienz.ch
 baeren-bueren.ch
@@ -8671,7 +8674,6 @@ bahnwanderweg.ch
 bahnweb.ch
 bahnweg-lausen.ch
 bahnweg.ch
-bahnweg10.ch
 bahnweid-deitingen.ch
 bahnwelt.ch
 bahnwolf.ch
@@ -8870,6 +8872,7 @@ bailaviva.ch
 bailavocat.ch
 bailazon.ch
 bailbail.ch
+bailbye.ch
 bailcheck.ch
 bailclair.ch
 bailconcept.ch
@@ -9114,7 +9117,10 @@ baisse-des-rentes.ch
 baisse-des-salaires.ch
 baisse-impot.ch
 baisse-impots.ch
+baisse-loyer.ch
 baissedeloyer.ch
+baisseloyer.ch
+baissemonloyer.ch
 baisserlesprimes.ch
 baissetonloyer.ch
 baissonslesgaz.ch
@@ -9518,10 +9524,8 @@ bakkushan.ch
 baklaci.ch
 baklalove.ch
 baklanoff.ch
-baklava.ch
 baklavashop.ch
 baklavateur.ch
-baklawa.ch
 baklawella.ch
 bakmeier-locher.ch
 bakmotors.ch
@@ -13848,7 +13852,6 @@ bandi-elektronik.ch
 bandi-gerber.ch
 bandi-handwerk.ch
 bandi-interior.ch
-bandi-ladenbau.ch
 bandi-sa.ch
 bandi-ulmann.ch
 bandi.ch
@@ -14730,7 +14733,6 @@ bankofdata.ch
 bankofengland.ch
 bankofgaju.ch
 bankofgajus.ch
-bankofgeorgia.ch
 bankofnewyorkmellon.ch
 bankofspirits.ch
 bankofvalue.ch
@@ -18900,7 +18902,6 @@ barracuda-wheels.ch
 barracuda.ch
 barracudacafe.ch
 barracudaclub.ch
-barracudadesign.ch
 barracudalenzburg.ch
 barracudamail.ch
 barracudamoto.ch
@@ -19113,6 +19114,7 @@ barrieren-finder.ch
 barrieren.ch
 barrierenbingo.ch
 barrierenfrei.ch
+barrierepartner.ch
 barrierepiscinedemontable.ch
 barriereplay.ch
 barrierepoker.ch
@@ -24035,6 +24037,8 @@ batteri.ch
 batteria.ch
 batteriasolare.ch
 batterie-agm.ch
+batterie-basel.ch
+batterie-bruderholz.ch
 batterie-check.ch
 batterie-datenbank.ch
 batterie-de-moto.ch
@@ -24063,6 +24067,7 @@ batterie-velo-electrique.ch
 batterie-velo.ch
 batterie.ch
 batterie13.ch
+batterie1815.ch
 batterie24.ch
 batterieanalyse.ch
 batteriebewertung.ch
@@ -24783,7 +24788,6 @@ bau-projekte.ch
 bau-projektleiter.ch
 bau-projektleitung.ch
 bau-protect.ch
-bau-qu.ch
 bau-quadrat.ch
 bau-radar.ch
 bau-rail.ch
@@ -25133,7 +25137,6 @@ baubegleitung.ch
 baubegleitungen.ch
 baubegriffe.ch
 baubeheizung.ch
-baubeistand.ch
 baubekleidung.ch
 baubeni.ch
 baubenz.ch
@@ -26508,6 +26511,7 @@ baugenossenschaft-fridolin.ch
 baugenossenschaft-froehlisberg.ch
 baugenossenschaft-maiengasse.ch
 baugenossenschaft-mythen.ch
+baugenossenschaft-oberbrugg.ch
 baugenossenschaft-pilatus.ch
 baugenossenschaft-rj.ch
 baugenossenschaft-rothenburg.ch
@@ -27304,7 +27308,6 @@ baulueftung.ch
 baulueftungsservice.ch
 bauluet.ch
 baulueuet.ch
-bauluft.ch
 baulutz.ch
 bauly.ch
 baum-anna.ch
@@ -27529,7 +27532,6 @@ baumann-goldschmied.ch
 baumann-graf.ch
 baumann-gravuren.ch
 baumann-group.ch
-baumann-handel.ch
 baumann-haushalt.ch
 baumann-haustechnik.ch
 baumann-helbling.ch
@@ -27863,7 +27865,6 @@ baumatch24.ch
 baumatech.ch
 baumatem.ch
 baumateria.ch
-baumaterial-experte.ch
 baumaterial-handel.ch
 baumaterial-hutter.ch
 baumaterial-import.ch
@@ -27872,7 +27873,6 @@ baumaterial.ch
 baumaterial24.ch
 baumaterial365.ch
 baumaterialanalyse.ch
-baumaterialexperte.ch
 baumaterialforum.ch
 baumaterialien-shop.ch
 baumaterialien.ch
@@ -29566,7 +29566,6 @@ bauservicenagel.ch
 bauservicepartner.ch
 bauservicepoint.ch
 bauservicermus.ch
-bauservices.ch
 bauserviceturgi.ch
 bausevo.ch
 baushala.ch
@@ -29972,6 +29971,7 @@ bausymposium.ch
 bausync.ch
 bausyndikat.ch
 bausys.ch
+bausystem.ch
 bausysteme-shop.ch
 bausysteme.ch
 bauszene.ch
@@ -30181,8 +30181,11 @@ bautrockner1.ch
 bautrockner24.ch
 bautrockner247.ch
 bautrocknung-24.ch
+bautrocknung-aargau.ch
 bautrocknung-basel.ch
 bautrocknung-bern.ch
+bautrocknung-luzern.ch
+bautrocknung-schweiz.ch
 bautrocknung-service.ch
 bautrocknung-tg.ch
 bautrocknung-zigerlig.ch
@@ -30820,7 +30823,6 @@ bayarea.ch
 bayart47.ch
 bayasgalant.ch
 bayashop.ch
-bayasun.ch
 bayati.ch
 bayaube.ch
 bayazicars.ch
@@ -31023,7 +31025,6 @@ baytuna.ch
 baytur.ch
 bayu.ch
 bayuk.ch
-bayuli.ch
 bayur.ch
 bayurveda.ch
 bayut.ch

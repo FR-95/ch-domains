@@ -602,7 +602,6 @@ hochalp.ch
 hochalpin.ch
 hochalpinland.ch
 hochamwind.ch
-hochar.ch
 hochartz.ch
 hochatelier.ch
 hochautomobile.ch
@@ -834,7 +833,6 @@ hochhuus.ch
 hochi.ch
 hochibau.ch
 hochiki.ch
-hochimgnuss.ch
 hochinformatik.ch
 hochis.ch
 hochitrans.ch
@@ -1298,6 +1296,7 @@ hochweber.ch
 hochweid.ch
 hochwerk.ch
 hochwert.ch
+hochwertig.ch
 hochwertige-automobile.ch
 hochwertige-backlinks-schweiz.ch
 hochwertige-musikanlage.ch
@@ -1403,6 +1402,7 @@ hochzeit-kerze.ch
 hochzeit-kutschen.ch
 hochzeit-laser-show.ch
 hochzeit-laura-und-adrian.ch
+hochzeit-laurine-und-quirin.ch
 hochzeit-lea-fabian.ch
 hochzeit-lenzburg.ch
 hochzeit-leonie-daniel.ch
@@ -3993,6 +3993,7 @@ hof-nuegger.ch
 hof-oberdorf.ch
 hof-obergruet.ch
 hof-oberkirch.ch
+hof-obermatt.ch
 hof-oberschwanden.ch
 hof-office.ch
 hof-ohne-nachfolge.ch
@@ -4333,6 +4334,7 @@ hofer-gartenbau.ch
 hofer-gebaeudetechnik.ch
 hofer-gmbh.ch
 hofer-goods.ch
+hofer-gravuren.ch
 hofer-group.ch
 hofer-groupe.ch
 hofer-guitars.ch
@@ -4518,7 +4520,6 @@ hoffaver.ch
 hoffe.ch
 hoffelner.ch
 hoffenbleibterlaubt.ch
-hoffentli.ch
 hoffer-metall.ch
 hoffer-products.ch
 hoffer.ch
@@ -4609,6 +4610,7 @@ hoffmannneopac.ch
 hoffmannpannendienst.ch
 hoffmannpauline.ch
 hoffmannreed.ch
+hoffmannrenovation.ch
 hoffmanns.ch
 hoffmannsbilder.ch
 hoffmannsolutions.ch
@@ -5901,7 +5903,6 @@ hohlboeden.ch
 hohlchirazi.ch
 hohlding.ch
 hohldruck.ch
-hohle-erde.ch
 hohle-gasse.ch
 hohlegasse.ch
 hohlegasse37.ch
@@ -7460,6 +7461,7 @@ hollenstein-coaching.ch
 hollenstein-consulting.ch
 hollenstein-fashion.ch
 hollenstein-holzbau.ch
+hollenstein-immigration.ch
 hollenstein-keramik.ch
 hollenstein-kinder-und-jugendbuecher.ch
 hollenstein-lachen.ch
@@ -8254,7 +8256,6 @@ holz-erleben.ch
 holz-erlebnis.ch
 holz-erlebt.ch
 holz-esstisch.ch
-holz-experte.ch
 holz-fachwerk.ch
 holz-factory.ch
 holz-fahrrad.ch
@@ -10576,7 +10577,6 @@ holzunikat.ch
 holzunikate-cgs.ch
 holzunikate.ch
 holzunikum.ch
-holzunterhalt.ch
 holzunternehmung.ch
 holzuntersander.ch
 holzuntersetzer.ch
@@ -10726,6 +10726,7 @@ holzwerkzeug-museum.ch
 holzwerkzeugfabrik.ch
 holzwerni.ch
 holzwert.ch
+holzwertig.ch
 holzwespi.ch
 holzwichtel.ch
 holzwiese.ch
@@ -10875,6 +10876,7 @@ hombergblick-seengen.ch
 homberger-ag.ch
 homberger-akademie.ch
 homberger-dynamics.ch
+homberger-ebling.ch
 homberger-financial-solutions.ch
 homberger-gartenbau.ch
 homberger-immobilien.ch
@@ -11032,7 +11034,6 @@ home-defense.ch
 home-deko.ch
 home-design-agencement.ch
 home-design-eckstein.ch
-home-design-input.ch
 home-development.ch
 home-dining.ch
 home-dog-training-naef.ch
@@ -11847,7 +11848,6 @@ homedesign.ch
 homedesign1.ch
 homedesignandstyle.ch
 homedesigner.ch
-homedesigninput.ch
 homedesignproject.ch
 homedesing.ch
 homedesk.ch
@@ -11891,7 +11891,6 @@ homeecoleactive.ch
 homeeducation.ch
 homeelectric.ch
 homeelectronics.ch
-homeelegancekm-klg.ch
 homeelements.ch
 homeemotions.ch
 homeenergy.ch
@@ -12963,6 +12962,8 @@ homeshopbeimtempel.ch
 homeshopping.ch
 homeshorter.ch
 homeshotswiss.ch
+homeshunter.ch
+homeshunters.ch
 homesi.ch
 homesickness.ch
 homesides.ch
@@ -18380,6 +18381,7 @@ hostfact.ch
 hostfactory-redirect-test.ch
 hostfactory-redirects.ch
 hostfactory-sitebuilder.ch
+hostfactory-web.ch
 hostfactory.ch
 hostfarm.ch
 hostfire.ch
@@ -19215,7 +19217,6 @@ hotel-barrierefreiheit.ch
 hotel-basecamp.ch
 hotel-basel.ch
 hotel-basilea.ch
-hotel-basilisk.ch
 hotel-baslertor-basel.ch
 hotel-baslertor-muttenz.ch
 hotel-bb-stossplatz.ch
@@ -20168,7 +20169,6 @@ hotel-rheinfall.ch
 hotel-rheinfelspark.ch
 hotel-rheinquelle.ch
 hotel-rhyhof.ch
-hotel-rietbad.ch
 hotel-rigi.ch
 hotel-rigiblick.ch
 hotel-rimini.ch
@@ -20691,7 +20691,6 @@ hotelarbostora.ch
 hotelarcada.ch
 hotelarche.ch
 hotelarchiv.ch
-hotelarchives.ch
 hotelardeve.ch
 hotelarethun.ch
 hotelarkanum.ch
@@ -21546,6 +21545,7 @@ hoteliere.ch
 hotelieregastronomin.ch
 hoteliergastronom.ch
 hotelierjobs.ch
+hoteliers.ch
 hoteliersolutions.ch
 hotelierverein-klosters.ch
 hotelierverein-thunersee.ch
@@ -22264,7 +22264,6 @@ hotels-geneva.ch
 hotels-geneve.ch
 hotels-genf.ch
 hotels-glutenfrei.ch
-hotels-grindelwald.ch
 hotels-gstaad.ch
 hotels-guenstiger.ch
 hotels-heidiland.ch
@@ -22413,7 +22412,6 @@ hotelschlossrued.ch
 hotelschmid.ch
 hotelschoenegg.ch
 hotelschoenried.ch
-hotelschools.ch
 hotelschuetzen.ch
 hotelschule.ch
 hotelschwamendingen.ch

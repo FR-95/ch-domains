@@ -1595,7 +1595,6 @@ wieinformieren.ch
 wieinnen-soaussen.ch
 wieinnensoaussen.ch
 wieinvest.ch
-wieinvestieren.ch
 wieistmeineip.ch
 wiejak.ch
 wieki.ch
@@ -2015,7 +2014,6 @@ wiesnexpress.ch
 wiesnfest.ch
 wiesnhirsch.ch
 wiesnkoenig.ch
-wiesnparty.ch
 wiesnquartett.ch
 wiesnrichy.ch
 wiesnschnaps.ch
@@ -2832,8 +2830,6 @@ wilber.ch
 wilberding.ch
 wilbergstrasse.ch
 wilberrys.ch
-wilbers-shop.ch
-wilbers-suspension.ch
 wilbers.ch
 wilbertgillpanband.ch
 wilbru.ch
@@ -3398,6 +3394,7 @@ wildeisen-magazin.ch
 wildeisen-manz.ch
 wildeisens.ch
 wildekarde.ch
+wildekerle.ch
 wildekinderherzen.ch
 wildekirsche.ch
 wildekraeuter.ch
@@ -3911,6 +3908,7 @@ wildlifeprotectionnamibia.ch
 wildlifesafari.ch
 wildlifeshop.ch
 wildlifestyle.ch
+wildlifetelemetry.ch
 wildlifetravelafrica.ch
 wildlifevets.ch
 wildlifewave.ch
@@ -3927,6 +3925,7 @@ wildlovers.ch
 wildluchs.ch
 wildlust.ch
 wildlyhappy.ch
+wildlyon.ch
 wildma.ch
 wildmaa-chaes.ch
 wildmaa-kaese.ch
@@ -4293,6 +4292,7 @@ wildsultanschweiz.ch
 wildswild.ch
 wildswimming.ch
 wildswiss.ch
+wildtalk.ch
 wildtaste-rocks.ch
 wildtaste.ch
 wildtcg.ch
@@ -7235,7 +7235,6 @@ wineandco.ch
 wineandcrime.ch
 wineanddesign.ch
 wineanddine.ch
-wineandemotions.ch
 wineandfine.ch
 wineandfire.ch
 wineandfriends.ch
@@ -7942,6 +7941,7 @@ wings-fernstudium.ch
 wings-for-people.ch
 wings-golf.ch
 wings-lounge.ch
+wings-of-lugano.ch
 wings-of-magic.ch
 wings-of-taste.ch
 wings-restaurant.ch
@@ -7978,10 +7978,12 @@ wingsinstitute.ch
 wingsinternational.ch
 wingslaw.ch
 wingslevel.ch
+wingslugano.ch
 wingsmo.ch
 wingsofchange.ch
 wingsofcreativity.ch
 wingsofhelp.ch
+wingsoflugano.ch
 wingsofspeed.ch
 wingsofswitzerland.ch
 wingsoftaste.ch
@@ -8222,7 +8224,6 @@ winkel24.ch
 winkel60plus.ch
 winkelaar.ch
 winkeladvokat.ch
-winkeladvokatur.ch
 winkelbadi.ch
 winkelbauer.ch
 winkelbauplan.ch
@@ -8660,6 +8661,7 @@ winprofil.ch
 winprofit.ch
 winproimmo.ch
 winpromo.ch
+winpronostic.ch
 winprotect.ch
 winprotectors.ch
 winpu.ch
@@ -8710,6 +8712,7 @@ winsend.ch
 winservice.ch
 winservices.ch
 winset.ch
+winsgroupinternational.ch
 winshape.ch
 winshark-casino1.ch
 winshark-casinoo.ch
@@ -11086,6 +11089,7 @@ wir-wetten.ch
 wir-winzer.ch
 wir-wir.ch
 wir-wirtschaftsring.ch
+wir-wohnen.ch
 wir-wollen-di.ch
 wir-wollen-weitergehen.ch
 wir-wollen-wilwest.ch
@@ -11795,10 +11799,8 @@ wirkraum.ch
 wirkraumkirche.ch
 wirkredit.ch
 wirkredite.ch
-wirkreieren.ch
 wirksam-bewegen.ch
 wirksam-fuehren.ch
-wirksam-in-walenstadt.ch
 wirksam-in-zuerich.ch
 wirksam-in.ch
 wirksam-leiten.ch
@@ -13105,6 +13107,7 @@ wirzpartner.ch
 wirzpartnerag.ch
 wirzpromotion.ch
 wirzprotection.ch
+wirzpulse.ch
 wirzrepublic.ch
 wirzrestauratoren.ch
 wirzroland.ch
@@ -13482,6 +13485,7 @@ wishstar.ch
 wishte.ch
 wishtobethere.ch
 wishwash.ch
+wishwell.ch
 wishwin.ch
 wishwincas.ch
 wishx.ch
@@ -13911,7 +13915,6 @@ wissenwiki.ch
 wissenwillweiter.ch
 wissenwireswirklich.ch
 wissenwirkt.ch
-wissenwissen.ch
 wissenzukrebs.ch
 wisser-fm.ch
 wisser-gb.ch
@@ -14477,7 +14480,6 @@ wittwer-handel.ch
 wittwer-haustechnik-schlieren.ch
 wittwer-haustechnik-turgi.ch
 wittwer-haustechnik.ch
-wittwer-holz.ch
 wittwer-immo.ch
 wittwer-immobilien.ch
 wittwer-informatik.ch
@@ -14641,6 +14643,7 @@ wivision.ch
 wivisions.ch
 wivo.ch
 wivodaim.ch
+wivre.ch
 wiw.ch
 wiwa-beef.ch
 wiwa-dl.ch

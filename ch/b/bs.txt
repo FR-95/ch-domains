@@ -134,6 +134,7 @@ bs-konzept.ch
 bs-korsonek.ch
 bs-kosmetik.ch
 bs-kreuzlingen.ch
+bs-l.ch
 bs-lab.ch
 bs-lasertech.ch
 bs-law.ch
@@ -406,7 +407,6 @@ bsbios.ch
 bsbip.ch
 bsbirs.ch
 bsbit.ch
-bsblehrlinge.ch
 bsblogistic.ch
 bsblogistics.ch
 bsbluzern.ch
@@ -1047,7 +1047,6 @@ bspl.ch
 bsplus.ch
 bspn.ch
 bspo.ch
-bspoke.ch
 bsponteggi.ch
 bsport.ch
 bspr.ch
@@ -1284,7 +1283,6 @@ bsu-schnidrig.ch
 bsu.ch
 bsub.ch
 bsue.ch
-bsuech.ch
 bsuechbar.ch
 bsugmbh.ch
 bsuiretest.ch

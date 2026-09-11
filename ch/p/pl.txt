@@ -2284,6 +2284,7 @@ planningpme.ch
 planningpoker.ch
 planningproject.ch
 planningroom.ch
+planningrumine.ch
 planningsd-val.ch
 planningsd.ch
 planningshop.ch
@@ -2666,6 +2667,7 @@ plante-exotique-rustique.ch
 plante-exotique.ch
 plante-ose-depetitesgrainesetdillimite.ch
 plante-partner.ch
+plante-sauvage.ch
 plante.ch
 planteaconsult.ch
 planteadistribution.ch
@@ -2713,6 +2715,7 @@ plantes-exotiques.ch
 plantes-heijnen.ch
 plantes-indicatrices.ch
 plantes-medicinales.ch
+plantes-sauvages.ch
 plantes-suisse.ch
 plantes-vivaces.ch
 plantes.ch
@@ -5444,6 +5447,7 @@ playsmart.ch
 playsmartersports.ch
 playsnowboards.ch
 playsound.ch
+playspace.ch
 playsquash.ch
 playsquish.ch
 playsqula.ch

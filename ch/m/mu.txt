@@ -1138,7 +1138,6 @@ mueller-mueller.ch
 mueller-naturstein.ch
 mueller-net.ch
 mueller-network.ch
-mueller-nottwil.ch
 mueller-nutzfahrzeuge-ag.ch
 mueller-obfelden.ch
 mueller-openair.ch
@@ -7718,6 +7717,7 @@ musica-edipiu.ch
 musica-ftan.ch
 musica-libra.ch
 musica-piacere.ch
+musica-poetica.ch
 musica-ramosch.ch
 musica-raurica.ch
 musica-sacra.ch
@@ -8267,7 +8267,6 @@ musicteamevents.ch
 musictech.ch
 musictelevision.ch
 musictheatre.ch
-musictherapy-zurich.ch
 musictherapy.ch
 musicthingzh.ch
 musictime.ch
@@ -8327,6 +8326,7 @@ musig-kiosk.ch
 musig-lenggenwil.ch
 musig-moeriken.ch
 musig-ott.ch
+musig-placet.ch
 musig-poscht.ch
 musig-post.ch
 musig-pur.ch
@@ -8484,7 +8484,6 @@ musik-ferien.ch
 musik-fislisbach.ch
 musik-flohmarkt.ch
 musik-flussfahrten.ch
-musik-foto-video.ch
 musik-freunde.ch
 musik-frick.ch
 musik-fritz.ch
@@ -9566,7 +9565,6 @@ musiktherapie-thun.ch
 musiktherapie-voegtli.ch
 musiktherapie-vogel.ch
 musiktherapie-werkstatt.ch
-musiktherapie-widmer.ch
 musiktherapie-winterthur.ch
 musiktherapie-zuerich.ch
 musiktherapie.ch

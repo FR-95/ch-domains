@@ -3425,6 +3425,7 @@ bodyrhythmus.ch
 bodyrise.ch
 bodyrock.ch
 bodyrockperformance.ch
+bodyroots.ch
 bodyrush.ch
 bodys.ch
 bodysan.ch
@@ -5363,6 +5364,7 @@ bois-dore.ch
 bois-du-lan-5.ch
 bois-durable.ch
 bois-energie-jura.ch
+bois-energie-suisse.ch
 bois-energie.ch
 bois-et-beton.ch
 bois-et-design.ch
@@ -9252,6 +9254,7 @@ bookedup.ch
 bookee.ch
 bookeli.ch
 bookelis.ch
+bookelva.ch
 bookem.ch
 bookens.ch
 bookeo.ch
@@ -16154,6 +16157,7 @@ boutonbijou.ch
 boutondepause.ch
 boutons-de-manchette.ch
 boutonsdemanchette.ch
+boutonviolet.ch
 boutrois.ch
 boutrous.ch
 boutry.ch
@@ -17209,7 +17213,6 @@ boxplay.ch
 boxplaysa.ch
 boxplot.ch
 boxplus.ch
-boxpost.ch
 boxprint.ch
 boxpro.ch
 boxproductions.ch

@@ -768,7 +768,6 @@ my-guide.ch
 my-gum.ch
 my-gustav.ch
 my-gvb.ch
-my-gym-fitness.ch
 my-gym.ch
 my-gyros.ch
 my-h-och.ch
@@ -3397,7 +3396,6 @@ mycanino.ch
 mycannabis24-7.ch
 mycannabis24.ch
 mycannaswiss.ch
-mycannergy.ch
 mycantina.ch
 mycap.ch
 mycapbs.ch
@@ -4569,6 +4567,7 @@ mydita.ch
 mydive.ch
 mydiver.ch
 mydiverto.ch
+mydividend.ch
 mydivina.ch
 mydivorce.ch
 mydivy.ch
@@ -5157,7 +5156,6 @@ myfaith.ch
 myfajourney.ch
 myfaktura.ch
 myfam.ch
-myfamily-australiancobberdog.ch
 myfamily-card.ch
 myfamily.ch
 myfamily24.ch
@@ -7260,6 +7258,7 @@ mylibery.ch
 mylibites.ch
 mylibrario.ch
 mylibrary.ch
+mylic.ch
 mylicence.ch
 mylieblingsplatz.ch
 myliennguyen.ch
@@ -7441,6 +7440,7 @@ myllaeri.ch
 mylle.ch
 myllenia.ch
 myller.ch
+myllow.ch
 myllua.ch
 mylnk.ch
 mylo-office.ch
@@ -11352,6 +11352,7 @@ myswissfarmfood.ch
 myswissfiduciary.ch
 myswissfind.ch
 myswissfinds.ch
+myswissfishingbox.ch
 myswissflex.ch
 myswissflexofficial.ch
 myswissfoodpyramid.ch

@@ -1157,7 +1157,6 @@ zeit-fuer-gesundheit.ch
 zeit-fuer-kirchhofer.ch
 zeit-fuer-leichtigkeit.ch
 zeit-fuer-meditation.ch
-zeit-fuer-mich.ch
 zeit-fuer-raiffeisen.ch
 zeit-fuer-raum.ch
 zeit-fuer-schoenes.ch
@@ -1942,6 +1941,7 @@ zeitwirkt.ch
 zeitwirtschaft.ch
 zeitwohnen.ch
 zeitwohnportal.ch
+zeitwohnungen.ch
 zeitworks.ch
 zeity-finanzen.ch
 zeity-immo.ch
@@ -3539,7 +3539,6 @@ zenix-space.ch
 zenix.ch
 zenixag.ch
 zenixdesign.ch
-zenixgroup.ch
 zenixspace.ch
 zenizer.ch
 zenja.ch
@@ -3726,6 +3725,7 @@ zenovi.ch
 zenovia.ch
 zenowatch.ch
 zenowatchbasel.ch
+zenoweb.ch
 zenox.ch
 zenoxosphere.ch
 zenozeiter.ch
@@ -5676,6 +5676,7 @@ zero42.ch
 zero5.ch
 zero500.ch
 zero81.ch
+zero81bar.ch
 zero8fifteen.ch
 zero91.ch
 zero99.ch
@@ -6157,7 +6158,6 @@ zesigers.ch
 zesigerschreinerei.ch
 zesis.ch
 zesix.ch
-zeskoa.ch
 zesl.ch
 zesnowschool.ch
 zeso.ch
@@ -6595,6 +6595,7 @@ zeva.ch
 zevac.ch
 zevacag.ch
 zevada.ch
+zeval.ch
 zevano.ch
 zeven.ch
 zevenlab.ch

@@ -10,7 +10,6 @@ cl-consult.ch
 cl-consulting.ch
 cl-cottens.ch
 cl-design.ch
-cl-dev.ch
 cl-dogtraining.ch
 cl-electronics.ch
 cl-events.ch
@@ -4664,6 +4663,7 @@ cleansheet.ch
 cleanshelter.ch
 cleanshine.ch
 cleanshiny.ch
+cleanshirt.ch
 cleanshoe.ch
 cleanshop-machines.ch
 cleanshop.ch
@@ -5175,6 +5175,7 @@ clearsky.ch
 clearslice.ch
 clearsmile.ch
 clearsolutions-labs.ch
+clearsolutions.ch
 clearsound.ch
 clearsource.ch
 clearspace-today.ch
@@ -8991,6 +8992,7 @@ cloom.ch
 clooney.ch
 cloood.ch
 cloooud.ch
+cloop-checked.ch
 cloop.ch
 cloos-electronic.ch
 cloos.ch
@@ -10124,7 +10126,6 @@ cloudlotsen.ch
 cloudlotsenag.ch
 cloudlvr.ch
 cloudly.ch
-cloudlynx.ch
 cloudmadeingermany.ch
 cloudmail.ch
 cloudmailfilter.ch
@@ -11570,7 +11571,6 @@ clubcosta.ch
 clubcourts.ch
 clubcraft.ch
 clubcreatif.ch
-clubcristaldaglatsch.ch
 clubcs.ch
 clubculinair.ch
 clubculinaire.ch

@@ -4,6 +4,7 @@ or-adn.ch
 or-arch.ch
 or-argent.ch
 or-avocats.ch
+or-bi.ch
 or-bit.ch
 or-capital.ch
 or-ch-idees.ch
@@ -1820,7 +1821,6 @@ ordonanzwaffen.ch
 ordonashop.ch
 ordonet.ch
 ordonez.ch
-ordonita.ch
 ordonn.ch
 ordonnance-cannabis.ch
 ordonnance-electronique.ch
@@ -3369,6 +3369,7 @@ origamidance.ch
 origamihr.ch
 origamii.ch
 origamimotion.ch
+origaming.ch
 origamistudio.ch
 origammi.ch
 origamo.ch
@@ -4053,7 +4054,6 @@ orival.ch
 orivalin.ch
 orive.ch
 oriveda.ch
-orivelle.ch
 orivellejewelryco.ch
 oriven.ch
 orivene.ch
@@ -6132,6 +6132,7 @@ orthopfote.ch
 orthophinance.ch
 orthophon-ia.ch
 orthophonie.ch
+orthophoniste.ch
 orthophonistes.ch
 orthophoto.ch
 orthophysio.ch

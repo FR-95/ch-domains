@@ -1671,6 +1671,7 @@ smartarchiv.ch
 smartarchive.ch
 smartarea.ch
 smartaris.ch
+smartarrosage.ch
 smartart-cosmetics.ch
 smartart.ch
 smartartist.ch
@@ -2321,6 +2322,7 @@ smartedge.ch
 smartedit.ch
 smarteditions.ch
 smartedu.ch
+smarteducation.ch
 smarteen.ch
 smarteenergie.ch
 smartefficient.ch
@@ -5152,6 +5154,7 @@ smgag.ch
 smgame.ch
 smgautoricambi.ch
 smgcoaching.ch
+smgconsulting.ch
 smge.ch
 smgengineering.ch
 smgestion.ch
@@ -5263,7 +5266,6 @@ smiaimmo.ch
 smiandyou.ch
 smiausbildung.ch
 smiawi.ch
-smib.ch
 smibag.ch
 smibec.ch
 smibildung.ch
@@ -6123,6 +6125,7 @@ smlh.ch
 smlholding.ch
 smlhsuisse.ch
 smlight.ch
+smlimousine.ch
 smlmed.ch
 smlogistique.ch
 smlt.ch
@@ -7187,7 +7190,6 @@ smtps.ch
 smtpsend.ch
 smtpservice.ch
 smtrampolin2025.ch
-smtrampoline.ch
 smtransporte.ch
 smtravel.ch
 smtravelsuisse.ch

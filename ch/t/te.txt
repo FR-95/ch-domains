@@ -2976,7 +2976,6 @@ techboxx.ch
 techbrain.ch
 techbridge.ch
 techbro.ch
-techbruder.ch
 techbrun.ch
 techbucket.ch
 techbuddy.ch
@@ -5129,6 +5128,7 @@ tecotel.ch
 tecotrade.ch
 tecout.ch
 tecovape.ch
+tecovas.ch
 tecovia.ch
 tecpacking.ch
 tecpackingsystems.ch
@@ -10798,6 +10798,7 @@ tennisplatzverwaltung.ch
 tennisplatzwart.ch
 tennisplayer.ch
 tennisplus.ch
+tennispoint-grandprix.ch
 tennispoint.ch
 tennispointlausanne.ch
 tennispro.ch
@@ -12153,7 +12154,6 @@ termika.ch
 termin-akquise.ch
 termin-ator.ch
 termin-brombacher.ch
-termin-buchen.ch
 termin-buchung.ch
 termin-buchungen.ch
 termin-checker.ch
@@ -12796,6 +12796,7 @@ terradyn.ch
 terradz.ch
 terrae.ch
 terraedes.ch
+terraelegno.ch
 terraelements.ch
 terraemare.ch
 terraenergie.ch
@@ -13066,6 +13067,7 @@ terranea.ch
 terraneo.ch
 terraner.ch
 terranera.ch
+terranes.ch
 terranet.ch
 terranex.ch
 terrang.ch
@@ -14062,6 +14064,7 @@ terroirist.ch
 terroiristwein.ch
 terroiristweine.ch
 terroiristwine.ch
+terroirium.ch
 terroirkaffee.ch
 terroirpartner.ch
 terroirpartners.ch
@@ -14582,7 +14585,6 @@ teslary.ch
 teslas.ch
 teslasharing.ch
 teslashop.ch
-teslashuttle.ch
 teslasljivo.ch
 teslasociety.ch
 teslasolar.ch
@@ -14811,11 +14813,14 @@ tessiner-alpenkaese.ch
 tessiner-alpkaese.ch
 tessiner-fondue.ch
 tessiner-granit-tisch.ch
+tessiner-granit-tische.ch
+tessiner-granittisch.ch
 tessiner-handwerk.ch
 tessiner-immobilien.ch
 tessiner-kantonspolizei.ch
 tessiner-klanghaus.ch
 tessiner-paeckli.ch
+tessiner-pergola-kaufen.ch
 tessiner-pergola.ch
 tessiner-rustico.ch
 tessiner-spezialitaeten.ch
@@ -14835,6 +14840,7 @@ tessinerkeller.ch
 tessinerkuchen.ch
 tessinerkuenstler-ineuropa.ch
 tessinerpalme.ch
+tessinerpergola.ch
 tessinerplatz.ch
 tessinerplatz7.ch
 tessinerrustico.ch
@@ -16505,7 +16511,6 @@ tetraplegia.ch
 tetraplegie-spitex.ch
 tetraplegie.ch
 tetraplegiker.ch
-tetrapol.ch
 tetraprisma.ch
 tetrar.ch
 tetrarex.ch

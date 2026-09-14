@@ -564,6 +564,7 @@ vialiegenschaften.ch
 vialife.ch
 vialinf.ch
 vialinfo.ch
+vialink.ch
 vialino.ch
 vialis.ch
 vialisa.ch
@@ -787,7 +788,6 @@ vianima.ch
 vianin.ch
 vianis.ch
 vianne-haefeli.ch
-vianne-valerie.ch
 vianne.ch
 vianney-halter.ch
 vianney-voyance.ch
@@ -2181,7 +2181,6 @@ victualia.ch
 victualo.ch
 victur.ch
 victura-marketing.ch
-victura-media.ch
 victura.ch
 victus-femto.ch
 victus-home.ch
@@ -9277,7 +9276,6 @@ vintysuisse.ch
 vintz.ch
 vinu.ch
 vinuance.ch
-vinucom.ch
 vinuelacastelan.ch
 vinum-arca.ch
 vinum-dominus.ch
@@ -10503,6 +10501,7 @@ vipvillars.ch
 vipvip.ch
 vipvoyage.ch
 vipvoyages.ch
+vipwatches.ch
 vipway.ch
 vipwebdesign.ch
 vipwebsite.ch
@@ -16344,6 +16343,7 @@ vitalitaet-tcm.ch
 vitalitaet.ch
 vitalitaets-coaching.ch
 vitalitaetscoaching.ch
+vitalitaetsjournal.ch
 vitalitaetundenergie.ch
 vitalitas.ch
 vitalite-auditive.ch
@@ -16825,6 +16825,7 @@ vitamia.ch
 vitamic.ch
 vitamica.ch
 vitamim.ch
+vitamin-2.ch
 vitamin-a.ch
 vitamin-abo.ch
 vitamin-apotheke.ch
@@ -18552,7 +18553,6 @@ vivakirche-beringen.ch
 vivakirche-brugg.ch
 vivakirche-brunnen.ch
 vivakirche-dottikon.ch
-vivakirche-duebendorf.ch
 vivakirche-ebnat-kappel.ch
 vivakirche-erlebnis.ch
 vivakirche-frauenfeld.ch
@@ -20037,7 +20037,6 @@ vivue.ch
 vivum-group.ch
 vivum-vital.ch
 vivum.ch
-vivuminterior.ch
 vivumvital.ch
 vivun.ch
 vivupstage.ch

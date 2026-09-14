@@ -606,6 +606,7 @@ scaled.ch
 scaledagile.ch
 scaledagileframework.ch
 scaledagileprofessionals.ch
+scaledeck.ch
 scaledmicroagile.ch
 scaleflag.ch
 scaleflow.ch
@@ -2364,6 +2365,7 @@ schabert.ch
 schabetransport.ch
 schabetransporte.ch
 schabi.ch
+schabiapps.ch
 schabidesigns.ch
 schablauer.ch
 schablonarts.ch
@@ -2691,7 +2693,6 @@ schadenersatz-online.ch
 schadenersatz.ch
 schadenersatzklage.ch
 schadenexpert.ch
-schadenexpert24.ch
 schadenexperte-flachdach.ch
 schadenexperte.ch
 schadenexperten.ch
@@ -2711,7 +2712,6 @@ schadenmanagement-experten.ch
 schadenmanagement-schweiz.ch
 schadenmanagement.ch
 schadenmelden.ch
-schadenmelden24.ch
 schadenmeldung-leichtgemacht.ch
 schadenmeldung.ch
 schadenmeldungen.ch
@@ -8866,7 +8866,6 @@ schinken.ch
 schinkenheu.ch
 schinkenkoenig.ch
 schinkenland.ch
-schinkenliebhaber.ch
 schinkingerconsulting.ch
 schinko-gehaeusetechnik.ch
 schinko-geraeteverkleidung.ch
@@ -15480,7 +15479,6 @@ schnappda.ch
 schnappdeckung.ch
 schnappdestages.ch
 schnappdirs.ch
-schnappe.ch
 schnapper.ch
 schnapperelle.ch
 schnappfix.ch
@@ -19383,6 +19381,7 @@ scholer-holz-mobil.ch
 scholer-jenni.ch
 scholer.ch
 scholerareal.ch
+scholfa.ch
 scholi.ch
 scholie.ch
 scholio.ch
@@ -29629,6 +29628,7 @@ schweizcoin.ch
 schweizcontrol.ch
 schweizdachdecker.ch
 schweizdaily.ch
+schweizdamals.ch
 schweizdates.ch
 schweizdating.ch
 schweizdeals.ch
@@ -31699,7 +31699,6 @@ schweizerkaese.ch
 schweizerkaeseag.ch
 schweizerkaffee.ch
 schweizerkaffeesommelier.ch
-schweizerkalender.ch
 schweizerkameramuseum.ch
 schweizerkammerensemble.ch
 schweizerkammerjaeger.ch

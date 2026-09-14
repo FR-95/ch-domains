@@ -6802,7 +6802,6 @@ bombay-darbar-winterthur.ch
 bombay-delice-downtown-neuchatel.ch
 bombay-delice-gampelen.ch
 bombay-express.ch
-bombay-lounge.ch
 bombay-palace-restaurant.ch
 bombay-palace.ch
 bombay-restaurant.ch
@@ -10267,6 +10266,7 @@ boostrack.ch
 boostransporte.ch
 boostrpm.ch
 boostseo.ch
+boostsociety.ch
 boostsurf.ch
 boostsurfing.ch
 boosttoncabinet.ch
@@ -10467,6 +10467,8 @@ boothandel.ch
 boothaus.ch
 boothify.ch
 boothleg.ch
+boothphoto.ch
+boothphotos.ch
 boothpilot.ch
 boothsmile.ch
 boothub.ch
@@ -13819,6 +13821,7 @@ botoxguru.ch
 botoxhair.ch
 botoxinthecity.ch
 botoxkosten.ch
+botoxkurs.ch
 botoxkursexperten.ch
 botoxlausanne.ch
 botoxlugano.ch
@@ -16615,6 +16618,7 @@ bowsers-castle.ch
 bowspirit.ch
 bowspritbio.ch
 bowt.ch
+bowtag.ch
 bowtech-academy.ch
 bowtech-akademie.ch
 bowtech-das-original.ch
@@ -17416,6 +17420,7 @@ boyle.ch
 boylepoker.ch
 boylesports.ch
 boylondon.ch
+boylove.ch
 boylu.ch
 boyman.ch
 boymond.ch

@@ -2087,7 +2087,6 @@ robot-tagliaerba-shop.ch
 robot-tagliaerba.ch
 robot-tondeuse-shop.ch
 robot-tondeuse.ch
-robot-town.ch
 robot-trading.ch
 robot-watch.ch
 robot15.ch
@@ -2390,6 +2389,7 @@ robotmarket.ch
 robotmarkt.ch
 robotme.ch
 robotmech.ch
+robotmieten.ch
 robotmower.ch
 robotmowers.ch
 robotnet.ch
@@ -2412,6 +2412,7 @@ robotraining.ch
 robotrebelsoftware.ch
 robotrends.ch
 robotrent.ch
+robotrental.ch
 robotrepair.ch
 robotron-saas.ch
 robotron-schweiz.ch
@@ -2439,6 +2440,7 @@ robotsinlove.ch
 robotskills.ch
 robotsmarkt.ch
 robotsolaire.ch
+robotsrental.ch
 robotssuisse.ch
 robotstech.ch
 robotstore.ch
@@ -5527,6 +5529,7 @@ rofltschirky.ch
 rofo.ch
 rofoag.ch
 roforit.ch
+roforma.ch
 rofos.ch
 rofox.ch
 rofra-wittenbach.ch
@@ -8354,7 +8357,6 @@ rolf-fehlmann.ch
 rolf-fenner.ch
 rolf-frei.ch
 rolf-fritschi.ch
-rolf-fuellemann-art.ch
 rolf-gasser-photography.ch
 rolf-gerber.ch
 rolf-graf.ch
@@ -10210,7 +10212,6 @@ roman-plessl.ch
 roman-pont.ch
 roman-portmann.ch
 roman-quinter.ch
-roman-reinigung.ch
 roman-reparaturen.ch
 roman-rutishauser.ch
 roman-sa.ch
@@ -10235,7 +10236,6 @@ roman-thomaskamp.ch
 roman-treichler.ch
 roman-tri.ch
 roman-ulrich.ch
-roman-umzug.ch
 roman-vital.ch
 roman-weber.ch
 roman-wegmueller-bern.ch
@@ -12280,7 +12280,6 @@ roofgarden.ch
 roofgroove-bigband.ch
 roofguards.ch
 roofing-factory.ch
-roofing-int.ch
 roofing.ch
 roofingreen.ch
 roofinox.ch
@@ -15401,7 +15400,6 @@ rossphysio.ch
 rossplatz.ch
 rossrueti.ch
 rossschwanz.ch
-rossstall-dinhard.ch
 rossstall-ufalpe.ch
 rossstall1331.ch
 rossstarch.ch
@@ -16706,6 +16704,7 @@ rothuspark.ch
 rothuswies.ch
 rothvailer.ch
 rothvermoegen.ch
+rothvisory.ch
 rothwaffen.ch
 rothwald-race.ch
 rothwald.ch

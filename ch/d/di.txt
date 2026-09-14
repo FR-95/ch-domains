@@ -800,7 +800,6 @@ diakonos.ch
 diakonzept.ch
 diakos-shop.ch
 diakur.ch
-dial-a-smart.ch
 dial-ag.ch
 dial-eng.ch
 dial-europe.ch
@@ -2991,6 +2990,7 @@ didas.ch
 didascalie.ch
 didascalies.ch
 didaserv.ch
+didaskalia.ch
 didata.ch
 didatticaekv.ch
 didavis.ch
@@ -3890,6 +3890,7 @@ die-gemeinde-druckerei.ch
 die-gemeindebrief-druckerei.ch
 die-gemeindefahne.ch
 die-gemeinden.ch
+die-gemuese.ch
 die-generalplaner.ch
 die-generalplanung.ch
 die-generalunternehmen.ch
@@ -4527,7 +4528,6 @@ die-mitte-waedenswil.ch
 die-mitte-wahlen.ch
 die-mitte-wahlkreis-thun.ch
 die-mitte-wangen.ch
-die-mitte-wauwil.ch
 die-mitte-weinfelden.ch
 die-mitte-wettingen.ch
 die-mitte-windisch.ch
@@ -11156,7 +11156,6 @@ digital-assistenz.ch
 digital-assistive-technology.ch
 digital-at.ch
 digital-atelier.ch
-digital-attorney.ch
 digital-audioplayer.ch
 digital-audit.ch
 digital-auditor.ch
@@ -13078,7 +13077,6 @@ digitalequipment.ch
 digitalequity.ch
 digitaler-abu.ch
 digitaler-adventskalender.ch
-digitaler-anwalt.ch
 digitaler-assistent.ch
 digitaler-augenstress.ch
 digitaler-aussendienst-mitarbeiter.ch
@@ -13169,7 +13167,6 @@ digitaler.ch
 digitalera.ch
 digitalerabu.ch
 digitalerakete.ch
-digitaleranwalt.ch
 digitalerarzt.ch
 digitalerassistent.ch
 digitaleratgeber.ch
@@ -14052,7 +14049,6 @@ digitalmarks.ch
 digitalmarktplatz.ch
 digitalmasks.ch
 digitalmast.ch
-digitalmaster.ch
 digitalmasterpieces.ch
 digitalmasters.ch
 digitalmasterworks.ch
@@ -17871,6 +17867,7 @@ diqualis.ch
 diqualisacademy.ch
 diqub.ch
 diqura.ch
+dir-ant.ch
 dir-gutes-tun.ch
 dir-marketing.ch
 dir-schweiz.ch
@@ -21666,7 +21663,6 @@ divid.ch
 dividalo.ch
 dividat.ch
 dividata.ch
-dividatum.ch
 divide-et-impera.ch
 divide.ch
 dividebythree.ch

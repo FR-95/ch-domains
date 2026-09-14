@@ -752,7 +752,6 @@ plan-b3.ch
 plan-bad.ch
 plan-bar.ch
 plan-be.ch
-plan-bee-hive.ch
 plan-bee.ch
 plan-bet.ch
 plan-beta.ch
@@ -2085,6 +2084,7 @@ planifique-bale.ch
 planifique.ch
 planiflex.ch
 planifoxy.ch
+planifsanscraie.ch
 planify-conseils.ch
 planify.ch
 planifyit.ch
@@ -7362,6 +7362,7 @@ pls-luzern.ch
 pls-murten.ch
 pls-nyffeler.ch
 pls-olten.ch
+pls-schweiz.ch
 pls-sg.ch
 pls-thurmed.ch
 pls-zg.ch

@@ -1587,7 +1587,6 @@ chakilicious.ch
 chakipka.ch
 chakira.ch
 chakka-manufacture.ch
-chakka.ch
 chakki-bar.ch
 chaklaperrin.ch
 chakma.ch
@@ -4553,8 +4552,12 @@ channdas.ch
 channel-6.ch
 channel-english.ch
 channel-handwerk.ch
+channel-meditation.ch
+channel-meditations.ch
 channel-ooh.ch
 channel-sex.ch
+channel-transmission.ch
+channel-transmissions.ch
 channel.ch
 channel12.ch
 channel16.ch
@@ -4582,6 +4585,8 @@ channelling.ch
 channelmanagement.ch
 channelmanager.ch
 channelmedia.ch
+channelmeditation.ch
+channelmeditations.ch
 channeln.ch
 channelone.ch
 channelooh.ch
@@ -4592,6 +4597,8 @@ channelr.ch
 channels.ch
 channelsex.ch
 channelsix.ch
+channeltransmission.ch
+channeltransmissions.ch
 channelwood.ch
 channer.ch
 channerpharmaconsulting.ch
@@ -5467,7 +5474,6 @@ charakterologie.ch
 charakterpfote.ch
 charakterportrait.ch
 charakterraum.ch
-charakterspieler.ch
 charakterstaerken.ch
 charakterstimme.ch
 charakterstuck.ch
@@ -6292,7 +6298,6 @@ charlyhofstetter.ch
 charlyiten.ch
 charlyjanser.ch
 charlyjolliet.ch
-charlyjunod-psm.ch
 charlylaser.ch
 charlymancel.ch
 charlymarket.ch
@@ -7258,7 +7263,6 @@ chatbotai.ch
 chatbotarmee.ch
 chatbotgpt.ch
 chatbotia.ch
-chatbotki.ch
 chatbots.ch
 chatbotschweiz.ch
 chatbotstrap.ch
@@ -7771,7 +7775,6 @@ chatjob24.ch
 chatka.ch
 chatki.ch
 chatkonzept.ch
-chatlab.ch
 chatlamal.ch
 chatlani.ch
 chatlaw.ch
@@ -7901,7 +7904,6 @@ chatstream.ch
 chatsuisse.ch
 chatsuissex.ch
 chatsuite.ch
-chatsupport.ch
 chatsurance.ch
 chatswiss.ch
 chatsy.ch
@@ -10182,6 +10184,7 @@ chemin-fer.ch
 chemin-histoires.ch
 chemin-hypnose.ch
 chemin-interieur.ch
+chemin-metamorphose.ch
 chemin-mettlen.ch
 chemin-nature.ch
 chemin-neuf.ch
@@ -11500,7 +11503,6 @@ chevreoptique.ch
 chevrerie-grattavache.ch
 chevrerie-leysin.ch
 chevrerie.ch
-chevres.ch
 chevressy.ch
 chevressyland.ch
 chevretrekking.ch
@@ -11634,6 +11636,7 @@ chez-alex.ch
 chez-alice-coiffure.ch
 chez-ana-onglerie.ch
 chez-andre.ch
+chez-andrea.ch
 chez-annetta.ch
 chez-antoine.ch
 chez-armoise.ch
@@ -12947,6 +12950,7 @@ chichi.ch
 chichiclownine.ch
 chichilan.ch
 chichili.ch
+chichis.ch
 chicho.ch
 chichobanana.ch
 chici.ch
@@ -13930,7 +13934,6 @@ chilimarketing.ch
 chilime.ch
 chilimedia.ch
 chilimeetsice.ch
-chilimex-sg.ch
 chilimex.ch
 chilimint.ch
 chilindo.ch
@@ -13956,7 +13959,6 @@ chilirosa.ch
 chilirose.ch
 chilirunner.ch
 chilis.ch
-chilisalz.ch
 chilisauce.ch
 chilisaucen.ch
 chilischarf.ch
@@ -15383,6 +15385,7 @@ chiroklinik.ch
 chiroknonaueramt.ch
 chirokosmos.ch
 chirolausanne.ch
+chirolausannegare.ch
 chiroleray.ch
 chirologe.ch
 chirologiamoderna.ch
@@ -15886,7 +15889,6 @@ chirurgiedusport.ch
 chirurgieendocrine.ch
 chirurgieesthetique.ch
 chirurgieesthetiquegeneve.ch
-chirurgieesthetiquevisage.ch
 chirurgiefrauenfeld.ch
 chirurgiegenerale.ch
 chirurgiegenolier.ch
@@ -16286,6 +16288,7 @@ chlausegruppe.ch
 chlausemaeret.ch
 chlausencup.ch
 chlausenfliegen.ch
+chlausengesellschaft-ennetbuergen.ch
 chlausengesellschaft-inwil.ch
 chlausengesellschaft-kreuzlingen.ch
 chlausengesellschaftmenzingen.ch
@@ -20134,7 +20137,6 @@ christian-girard.ch
 christian-gmuer.ch
 christian-goldhahn.ch
 christian-goldschmied.ch
-christian-gonzalez.ch
 christian-govetosa.ch
 christian-graf.ch
 christian-groeber.ch
@@ -20649,6 +20651,7 @@ christianhofer.ch
 christianhoferhandwerk.ch
 christianhofmann.ch
 christianholz.ch
+christianholzer.ch
 christianhoppe.ch
 christianhostettler.ch
 christianhuber.ch

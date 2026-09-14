@@ -352,6 +352,7 @@ fabelart.ch
 fabelauw.ch
 fabelbier.ch
 fabelbund.ch
+fabelchind.ch
 fabelec.ch
 fabelei.ch
 fabelfabrik.ch
@@ -1469,7 +1470,6 @@ fabiolandert.ch
 fabiolandoni.ch
 fabiolanfranchi.ch
 fabiolarizzutidesign.ch
-fabiolatino.ch
 fabioleimer.ch
 fabioleoni.ch
 fabiolichtler.ch
@@ -2799,7 +2799,6 @@ fach-vertrauensstelle.ch
 fach-werk.ch
 fach-zahnarzt-zug.ch
 fach.ch
-fach266.ch
 fachabitur.ch
 fachaerzte-beaumont.ch
 fachaerzte-glatt.ch
@@ -4005,7 +4004,6 @@ factoryconcept.ch
 factorydb.ch
 factorydent.ch
 factoryems.ch
-factoryfood.ch
 factorygames.ch
 factoryglass-stone.ch
 factorygroupe.ch
@@ -5855,6 +5853,7 @@ fahrschule-auto-zuerich.ch
 fahrschule-autofun.ch
 fahrschule-automatik.ch
 fahrschule-avesani.ch
+fahrschule-aviano.ch
 fahrschule-avn.ch
 fahrschule-baar.ch
 fahrschule-bachmann.ch
@@ -7421,7 +7420,6 @@ fahrzeug-kaufen.ch
 fahrzeug-kontrolle.ch
 fahrzeug-kosmetik.ch
 fahrzeug-kredit.ch
-fahrzeug-kunz.ch
 fahrzeug-leasing.ch
 fahrzeug-miete.ch
 fahrzeug-mieten.ch
@@ -8534,6 +8532,7 @@ fairjob.ch
 fairjobz.ch
 fairjourney.ch
 fairkaffee.ch
+fairkauf.ch
 fairkaufen.ch
 fairkaufsladen.ch
 fairkauft.ch
@@ -10544,7 +10543,6 @@ faluvapen.ch
 faluzure.ch
 falvo.ch
 falx-ai.ch
-falx-solutions.ch
 falx-systems.ch
 falx.ch
 falz.ch
@@ -12474,7 +12472,6 @@ familienbasierte-behandlung.ch
 familienbasierte-pflege.ch
 familienbasierte-therapie.ch
 familienbegleiter.ch
-familienbegleiterin.ch
 familienbegleitung-basel.ch
 familienbegleitung-baselland.ch
 familienbegleitung-luzern.ch
@@ -14732,6 +14729,7 @@ familyservice.ch
 familysfood.ch
 familyship.ch
 familyshooting.ch
+familyshop.ch
 familysie.ch
 familysiegrist.ch
 familysigner.ch
@@ -18449,6 +18447,7 @@ farva-farvagny.ch
 farva.ch
 farvagny.ch
 farvagny2014.ch
+farvagny2030.ch
 farvamed.ch
 farvaphys.ch
 farvel.ch

@@ -242,7 +242,6 @@ dcdesign3d.ch
 dcdispat.ch
 dcdisplay.ch
 dcdm.ch
-dcdproject.ch
 dcdresscode.ch
 dcds.ch
 dcdt.ch

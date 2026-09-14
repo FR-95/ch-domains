@@ -1564,7 +1564,6 @@ celine-andermatt.ch
 celine-anthonioz.ch
 celine-arn.ch
 celine-artwork.ch
-celine-atelier-floral.ch
 celine-balsiger.ch
 celine-claud.ch
 celine-cools.ch
@@ -1651,6 +1650,7 @@ celinedamian.ch
 celinedegonda.ch
 celinedegrenus.ch
 celinedelatine.ch
+celinedeletraz.ch
 celinedelune.ch
 celinederungs.ch
 celinedesign.ch
@@ -3475,6 +3475,7 @@ centrale-achats.ch
 centrale-achatubaldi.ch
 centrale-acquisti.ch
 centrale-appareillage-acoustique.ch
+centrale-balerna.ch
 centrale-d-achat-ubaldi.ch
 centrale-d-achatubaldi.ch
 centrale-d-emission-ccl.ch
@@ -7715,7 +7716,6 @@ ceviregionbern.ch
 ceviregionzuerich.ch
 cevirueti.ch
 cevisa.ch
-cevisage.ch
 cevisax.ch
 cevischwilen.ch
 ceviseki.ch

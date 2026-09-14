@@ -1698,7 +1698,6 @@ my-superbrands.ch
 my-superfoods.ch
 my-support.ch
 my-supps.ch
-my-sups.ch
 my-surprisebox.ch
 my-survival.ch
 my-sushi.ch
@@ -1863,7 +1862,6 @@ my-upstairs.ch
 my-usa-shop.ch
 my-usm.ch
 my-usziit.ch
-my-vacation.ch
 my-valais.ch
 my-valentine.ch
 my-valetparking.ch
@@ -3917,6 +3915,7 @@ mycodoc.ch
 mycoffee.ch
 mycoffee24.ch
 mycoffeecup.ch
+mycoffeeplan.ch
 mycoffeeshop.ch
 mycoffeeworld.ch
 mycoflex.ch
@@ -4567,7 +4566,6 @@ mydita.ch
 mydive.ch
 mydiver.ch
 mydiverto.ch
-mydividend.ch
 mydivina.ch
 mydivorce.ch
 mydivy.ch
@@ -6921,6 +6919,7 @@ myko-concept.ch
 myko-therapie.ch
 myko.ch
 mykoa.ch
+mykoach.ch
 mykoblet.ch
 mykoc.ch
 mykocampus.ch
@@ -7580,6 +7579,7 @@ mylumara.ch
 mylumora.ch
 myluna.ch
 mylunaitsens.ch
+mylunava.ch
 mylunch.ch
 mylunchbox.ch
 mylunchcard.ch
@@ -8391,6 +8391,8 @@ myobedience.ch
 myobee.ch
 myoberaargau.ch
 myobrace.ch
+myobraces.ch
+myobraceswitzerland.ch
 myobsessions.ch
 myobt.ch
 myobubbletea.ch
@@ -8420,6 +8422,7 @@ myofascial-release.ch
 myofascial.ch
 myofascialrelease.ch
 myofascialtaping.ch
+myofascix.ch
 myofasziales-system.ch
 myoffer.ch
 myoffers.ch
@@ -8445,6 +8448,7 @@ myofloral.ch
 myoflow.ch
 myofonctionnel.ch
 myofuan.ch
+myofunctional.ch
 myofunktionelle-therapie.ch
 myog.ch
 myoga.ch
@@ -8482,6 +8486,8 @@ myolivetree.ch
 myolnir.ch
 myom-basel.ch
 myom.ch
+myomatrix.ch
+myomatryx.ch
 myomax.ch
 myome-behandeln.ch
 myome-therapie.ch
@@ -8671,6 +8677,7 @@ myosuisse.ch
 myosuit.ch
 myosure.ch
 myoswald.ch
+myoswiss.ch
 myot.ch
 myotaku.ch
 myotape.ch
@@ -8686,7 +8693,6 @@ myotin.ch
 myotis.ch
 myotto.ch
 myottos.ch
-myottoscars.ch
 myounity.ch
 myourhome.ch
 myourm.ch

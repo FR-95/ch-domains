@@ -313,6 +313,7 @@ swanzenried.ch
 swaoco.ch
 swap-bazar.ch
 swap-culture.ch
+swap-events.ch
 swap-hypothek.ch
 swap-international.ch
 swap-it-me.ch
@@ -1269,6 +1270,7 @@ sweetsanddrinks.ch
 sweetsandmore.ch
 sweetsandtreats.ch
 sweetsbonanza1000.ch
+sweetsbynora.ch
 sweetschaffhausen.ch
 sweetsdelair.ch
 sweetsecret.ch
@@ -2072,7 +2074,6 @@ swimmingcoaches.ch
 swimmingcourse.ch
 swimmingcoursezurich.ch
 swimmingdogs.ch
-swimmingfrauenfeld.ch
 swimminglobster.ch
 swimmingmasterclass.ch
 swimmingpool-basel.ch
@@ -4574,6 +4575,7 @@ swiss-design-circle.ch
 swiss-design-hotel.ch
 swiss-design-hotels.ch
 swiss-design-system.ch
+swiss-design-vorhaenge.ch
 swiss-design.ch
 swiss-designed-developed.ch
 swiss-designer.ch
@@ -5295,6 +5297,7 @@ swiss-fix.ch
 swiss-fixit.ch
 swiss-fkk.ch
 swiss-flag-crew.ch
+swiss-flag.ch
 swiss-flame.ch
 swiss-flash.ch
 swiss-flatcoat.ch
@@ -7414,7 +7417,6 @@ swiss-outdoors.ch
 swiss-outdoorschool.ch
 swiss-outdoorsport.ch
 swiss-outdoorweek.ch
-swiss-outfit.ch
 swiss-outlet-shop.ch
 swiss-outlet.ch
 swiss-outplacement.ch
@@ -11137,6 +11139,7 @@ swissattention.ch
 swissattentioncenter.ch
 swissattest.ch
 swissatti.ch
+swissattic.ch
 swissattitude.ch
 swissattorney.ch
 swissattorneys.ch
@@ -11340,6 +11343,7 @@ swissbabykitchen.ch
 swissbabys.ch
 swissbabysbest.ch
 swissbabyservice.ch
+swissbabyspa.ch
 swissbaccalaureate.ch
 swissbach.ch
 swissbachelors.ch
@@ -12128,7 +12132,6 @@ swissbonbon.ch
 swissbond.ch
 swissbondcommission.ch
 swissbondcongress.ch
-swissbonding.ch
 swissbondingsolutions.ch
 swissbonds.ch
 swissbondtoken.ch
@@ -12919,6 +12922,7 @@ swisscardiovascularimaging.ch
 swisscardiovascularinstitute.ch
 swisscardmarket.ch
 swisscardpura.ch
+swisscards-shop.ch
 swisscards.ch
 swisscardshop.ch
 swisscardstore.ch
@@ -18137,7 +18141,6 @@ swisshealth.ch
 swisshealth24.ch
 swisshealthacademy.ch
 swisshealthadmin.ch
-swisshealthadvisory.ch
 swisshealthai.ch
 swisshealthalliance.ch
 swisshealthawareness.ch
@@ -24002,7 +24005,6 @@ swisspremiumdriver.ch
 swisspremiumdrivers.ch
 swisspremiumeducation.ch
 swisspremiumevents.ch
-swisspremiumextract.ch
 swisspremiumflower.ch
 swisspremiumfood.ch
 swisspremiumfranchise.ch
@@ -24107,7 +24109,6 @@ swissprimegroup.ch
 swissprimehome.ch
 swissprimeinternational.ch
 swissprimelab.ch
-swissprimelane.ch
 swissprimelife.ch
 swissprimeliving.ch
 swissprimemedical.ch
@@ -24422,7 +24423,6 @@ swissprotectseal.ch
 swissprotein.ch
 swissproteinassociation.ch
 swissproteins.ch
-swissprotek.ch
 swissprotekt.ch
 swissprotex.ch
 swissproto.ch
@@ -24672,6 +24672,7 @@ swissqueya.ch
 swissqueyaacademy.ch
 swissquickfood.ch
 swissquilt.ch
+swissquiz.ch
 swissquizz.ch
 swissquizzes.ch
 swissquoe.ch
@@ -25690,7 +25691,6 @@ swissset.ch
 swisssetl.ch
 swisssetup.ch
 swisssevensleague.ch
-swisssex.ch
 swisssexportal.ch
 swisssexualtherapie.ch
 swisssg.ch
@@ -27612,6 +27612,7 @@ swissumzuegegmbh.ch
 swissumzug-reinigung.ch
 swissumzug.ch
 swissumzug24.ch
+swissumzug360.ch
 swissumzuge-basel.ch
 swissumzuge.ch
 swissumzuger.ch
@@ -27755,7 +27756,6 @@ swissvanlifefestival.ch
 swissvanmarket.ch
 swissvanrental.ch
 swissvans.ch
-swissvanta.ch
 swissvanteam.ch
 swissvantour-limo.ch
 swissvap.ch

@@ -42,7 +42,6 @@ lo-presti-parquets.ch
 lo-presti.ch
 lo-psychotherapie.ch
 lo-s.ch
-lo-sanitaires.ch
 lo-solution.ch
 lo-spaccio.ch
 lo-speed.ch
@@ -1102,6 +1101,7 @@ localstack.ch
 localstaple.ch
 localstar.ch
 localstars.ch
+localstay-consulting.ch
 localstories.ch
 localstrategy.ch
 localstudios-web.ch
@@ -1718,6 +1718,7 @@ locationrecording.ch
 locationremorque.ch
 locationremorques.ch
 locationrobot.ch
+locationrobots.ch
 locationrs3.ch
 locationrs6.ch
 locations-anniviers.ch
@@ -4193,7 +4194,6 @@ loginnetwork.ch
 logino.ch
 loginonline.ch
 loginpass.ch
-loginpersonal.ch
 loginplus.ch
 loginpost.ch
 loginposta.ch
@@ -5146,6 +5146,7 @@ logopralines.ch
 logopraxis-belp.ch
 logopraxis-taegertschi.ch
 logopraxis-waedenswil.ch
+logopraxis.ch
 logopraxisdietiker.ch
 logopraxisittigen.ch
 logopriint.ch
@@ -5278,6 +5279,7 @@ logoupdate.ch
 logout-live.ch
 logout.ch
 logoutne.ch
+logoutreflex.ch
 logovernier.ch
 logovi.ch
 logovino.ch
@@ -9162,6 +9164,7 @@ lorelis.ch
 lorella-amerini.ch
 lorella.ch
 lorellabertani.ch
+lorellabolumetti.ch
 lorellaleonard.ch
 lorelya.ch
 lorem-appsum.ch
@@ -9183,7 +9186,6 @@ loren-allee.ch
 loren-immobilien.ch
 loren-praxis-uster.ch
 loren.ch
-lorena-ale.ch
 lorena-andre.ch
 lorena-brunner.ch
 lorena-buechler.ch
@@ -9612,7 +9614,6 @@ loriart.ch
 loriatech.ch
 loribarb.ch
 loribellperfume.ch
-loric-frossard.ch
 loric.ch
 lorica-ag.ch
 lorica-labo.ch

@@ -857,6 +857,7 @@ ai-specialists.ch
 ai-spezialist.ch
 ai-square.ch
 ai-stack.ch
+ai-start.ch
 ai-startup-marketing.ch
 ai-statistik.ch
 ai-stellenportal.ch
@@ -5643,6 +5644,7 @@ airpureadvice.ch
 airpurheaven.ch
 airpurification.ch
 airpurifier.ch
+airpurlabs.ch
 airqigong.ch
 airquake.ch
 airqualite.ch
@@ -5823,10 +5825,8 @@ airstars.ch
 airstays.ch
 airstella.ch
 airstep-shop.ch
-airstep-walker.ch
 airstep.ch
 airsteps.ch
-airstepwalker.ch
 airsterix.ch
 airstick.ch
 airstmoritz.ch
@@ -6049,6 +6049,7 @@ airwayandaligners.ch
 airwaymanagement.ch
 airwayorthodontics.ch
 airways.ch
+airwaysandaligners.ch
 airwaysorthodontics.ch
 airwaystravel.ch
 airwayupdate.ch
@@ -6304,6 +6305,7 @@ aist-saint-triphon.ch
 aist.ch
 aistack.ch
 aistaland.ch
+aistart.ch
 aistatus.ch
 aistbv.ch
 aiste.ch

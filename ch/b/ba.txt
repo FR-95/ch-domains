@@ -3438,6 +3438,7 @@ backoffice-assistance.ch
 backoffice-buero.ch
 backoffice-bueromoebel.ch
 backoffice-cardoso.ch
+backoffice-co.ch
 backoffice-eggenberger.ch
 backoffice-fiduciaire.ch
 backoffice-for-you.ch
@@ -3535,8 +3536,10 @@ backroad.ch
 backroadmiles.ch
 backroads.ch
 backroll.ch
+backroom-battlefield.ch
 backroom.ch
 backroomandbackfield.ch
+backroomandbattlefield.ch
 backroomstudio.ch
 backs.ch
 backsaaten.ch
@@ -8478,6 +8481,7 @@ bahnhofmtaxi.ch
 bahnhofnostalgie.ch
 bahnhofnotfall.ch
 bahnhofnotfallbern.ch
+bahnhofnudeln.ch
 bahnhofpark-sargans.ch
 bahnhofparkhaus-winterthur.ch
 bahnhofparking.ch
@@ -15557,6 +15561,7 @@ baptistecochard.ch
 baptistegodart.ch
 baptistegold.ch
 baptistehusi.ch
+baptistemedia.ch
 baptisten-basel.ch
 baptisten-zuerich.ch
 baptisten.ch
@@ -15926,6 +15931,7 @@ baraku.ch
 barakuba.ch
 barakudahome.ch
 baralb.ch
+baralcentrale.ch
 baralde-et-soelie.ch
 baraldi.ch
 baraldini.ch
@@ -17410,7 +17416,6 @@ barcodemanager.ch
 barcoderegister.ch
 barcoderegistry.ch
 barcodes.ch
-barcodescan.ch
 barcodescanner-mobit.ch
 barcodescanner.ch
 barcodeschweiz.ch
@@ -23074,7 +23079,6 @@ bastienjaccoud.ch
 bastienjeanguenat-osteopathe.ch
 bastienlauber.ch
 bastienmasset.ch
-bastienmercaytherapeute.ch
 bastienmolk.ch
 bastienmonney.ch
 bastienmurith.ch
@@ -24082,6 +24086,7 @@ batterie-direkt.ch
 batterie-discount.ch
 batterie-entsorgung.ch
 batterie-geneve.ch
+batterie-hybride.ch
 batterie-ladegeraet.ch
 batterie-laden.ch
 batterie-lieferant.ch
@@ -24129,6 +24134,7 @@ batteriehalter.ch
 batteriehalterung.ch
 batteriehaus.ch
 batteriehof.ch
+batteriehybride.ch
 batteriekongress.ch
 batterieladegeraet.ch
 batterieladegeraete.ch
@@ -26160,7 +26166,6 @@ bauernhof-wallis.ch
 bauernhof-warthausen.ch
 bauernhof-werffeli.ch
 bauernhof-wohlenschwil.ch
-bauernhof-wyssrueti.ch
 bauernhof-zeit.ch
 bauernhof-ziegler.ch
 bauernhof.ch
@@ -31105,6 +31110,7 @@ bazaarvoice.ch
 bazaarzermatt.ch
 bazaastic.ch
 bazadi.ch
+bazaler.ch
 bazali.ch
 bazar-hersche.ch
 bazar-hospitality.ch
@@ -31233,6 +31239,7 @@ bazuba.ch
 bazuerich5.ch
 bazumo.ch
 bazunetz.ch
+bazuru.ch
 bazus.ch
 bazveranstaltungen.ch
 bazylea-group.ch
@@ -31255,6 +31262,7 @@ bazzigarzoli.ch
 bazzigher.ch
 bazzile.ch
 bazzilsmannli.ch
+bazzio.ch
 bazzocco.ch
 bazzon.ch
 bazzotti.ch

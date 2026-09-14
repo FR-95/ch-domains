@@ -112,6 +112,7 @@ em-paw.ch
 em-pe.ch
 em-peinture.ch
 em-pflege.ch
+em-photography.ch
 em-photos.ch
 em-placoplatre.ch
 em-plafond.ch
@@ -169,6 +170,7 @@ em-tuerenpartner.ch
 em-value.ch
 em-verein.ch
 em-verlag.ch
+em-visuals.ch
 em-vully.ch
 em-wein.ch
 em-wette.ch
@@ -5162,7 +5164,6 @@ employer-communications.ch
 employer-culture-hub.ch
 employer-development.ch
 employer-identity.ch
-employer-marketing.ch
 employer-page.ch
 employer-portal.ch
 employer-site.ch
@@ -5183,7 +5184,6 @@ employerbrandingfilme.ch
 employerbrandingkompass.ch
 employerbrandingschweiz.ch
 employeridentity.ch
-employermarketing.ch
 employerofrecord.ch
 employerpage.ch
 employers-in-banking.ch

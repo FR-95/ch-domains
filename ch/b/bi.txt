@@ -699,7 +699,6 @@ bibendum.ch
 bibenlos.ch
 bibepal.ch
 biber-abo.ch
-biber-analytics.ch
 biber-associates.ch
 biber-baeckerei.ch
 biber-biberist.ch
@@ -724,7 +723,6 @@ biber.ch
 bibera-freiburg.ch
 bibera-fribourg.ch
 bibera.ch
-biberanalytics.ch
 biberarena.ch
 biberbach.ch
 biberbaeckerei.ch
@@ -1650,6 +1648,7 @@ bichip.ch
 bichler-bauservice.ch
 bichler.ch
 bichmann.ch
+bicho-agencement.ch
 bichon-bolognese.ch
 bichon-havanais.ch
 bichon-maltais.ch
@@ -2538,7 +2537,6 @@ bienen-ag.ch
 bienen-am-werk.ch
 bienen-bande.ch
 bienen-bemi.ch
-bienen-ben.ch
 bienen-bern.ch
 bienen-biotop.ch
 bienen-blumen.ch
@@ -11429,8 +11427,6 @@ bio-apo-service.ch
 bio-apo.ch
 bio-app.ch
 bio-architekt.ch
-bio-architekten.ch
-bio-architektur.ch
 bio-aromaspray.ch
 bio-aromatherapie.ch
 bio-aronia.ch
@@ -14992,7 +14988,6 @@ biopilze.ch
 biopionier.ch
 biopix.ch
 bioplace.ch
-bioplaces.ch
 bioplan.ch
 bioplancton.ch
 bioplanta.ch
@@ -19225,7 +19220,6 @@ bitcoinintellekt.ch
 bitcoininvest.ch
 bitcoininvesting.ch
 bitcoininvestment.ch
-bitcoininvestments.ch
 bitcoinist.ch
 bitcoinkanton.ch
 bitcoinkauf.ch
@@ -20667,7 +20661,6 @@ bizonline.ch
 bizonsticker.ch
 bizoon.ch
 bizops.ch
-bizoratrade.ch
 bizowizo.ch
 bizozzero.ch
 bizpark.ch

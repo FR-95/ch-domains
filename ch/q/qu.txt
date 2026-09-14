@@ -1275,7 +1275,6 @@ qualitypartner.ch
 qualitypartners.ch
 qualitypartnership.ch
 qualitypellet.ch
-qualitypharm.ch
 qualityplus.ch
 qualitypluscoaching.ch
 qualitypool.ch
@@ -1582,6 +1581,7 @@ quantenquark.ch
 quantenraum.ch
 quantenschritt.ch
 quantenschritte.ch
+quantenserver.ch
 quantensicher.ch
 quantensoft.ch
 quantenspruenge.ch
@@ -1942,7 +1942,6 @@ quantumiq.ch
 quantumize.ch
 quantumjavascript.ch
 quantumjobs.ch
-quantumjocelyne.ch
 quantumjump.ch
 quantumkey.ch
 quantumkeys.ch
@@ -2020,7 +2019,6 @@ quantumvalue.ch
 quantumvault.ch
 quantumventures.ch
 quantumverlag.ch
-quantumverse.ch
 quantumvest.ch
 quantumvibe.ch
 quantumvibrations.ch
@@ -4548,7 +4546,6 @@ quicksand.ch
 quickscan.ch
 quickschild.ch
 quickschluessel.ch
-quickschool.ch
 quickscop.ch
 quickscope.ch
 quicksearch.ch
@@ -4585,7 +4582,6 @@ quicksoftware.ch
 quicksol.ch
 quicksolekey.ch
 quicksolution.ch
-quicksolutions.ch
 quicksolve.ch
 quicksoup.ch
 quickspace.ch
@@ -5165,6 +5161,7 @@ quirin-bank.ch
 quirin-oeschger.ch
 quirin-schnyder.ch
 quirin.ch
+quirina.ch
 quirinale-geneve.ch
 quirinale.ch
 quirinfitzi.ch
@@ -5211,7 +5208,6 @@ quisim.ch
 quisine.ch
 quisisana-ag.ch
 quisisana-heiden.ch
-quisisana.ch
 quisisana1.ch
 quisite.ch
 quisma.ch

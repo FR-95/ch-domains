@@ -1533,6 +1533,7 @@ beas-arte.ch
 beas-artline.ch
 beas-backwelt.ch
 beas-beauty-studio.ch
+beas-bibliothek.ch
 beas-bnb.ch
 beas-bunter-warenladen.ch
 beas-hundeleinen.ch
@@ -3715,7 +3716,6 @@ beautyandfashion.ch
 beautyandfit.ch
 beautyandfun.ch
 beautyandfunction.ch
-beautyandgin.ch
 beautyandgrace.ch
 beautyandhair-design.ch
 beautyandhairshop.ch
@@ -5905,6 +5905,7 @@ becknet.ch
 becknoxtua.ch
 becko.ch
 beckonline.ch
+beckons.ch
 beckoptik.ch
 beckpartner.ch
 beckpc.ch
@@ -9840,7 +9841,6 @@ belair-immobilien.ch
 belair-lausanne.ch
 belair-leysin.ch
 belair-living.ch
-belair-mastering.ch
 belair-residences.ch
 belair-swiss.ch
 belair-treuhand.ch
@@ -14687,6 +14687,7 @@ benjaminkroeni.ch
 benjaminkrummenacher.ch
 benjaminkunz.ch
 benjaminkurz.ch
+benjaminlange.ch
 benjaminlazzarotto.ch
 benjaminleeway.ch
 benjaminleu.ch
@@ -20305,7 +20306,6 @@ bern-zuegelfirma.ch
 bern-zuegelunternehmen.ch
 bern.ch
 bern031.ch
-bern1-media.ch
 bern1.ch
 bern100.ch
 bern1191.ch
@@ -23245,6 +23245,7 @@ bertrand-morisod.ch
 bertrand-onglerie.ch
 bertrand-vauthey.ch
 bertrand.ch
+bertrand722.ch
 bertrandcs.ch
 bertranddemestral.ch
 bertrandemestral.ch
@@ -23272,6 +23273,7 @@ bertrandpellet.ch
 bertrandpetit.ch
 bertrandpiccard.ch
 bertrandpot.ch
+bertrandprudent.ch
 bertrandriat.ch
 bertrandroulet.ch
 bertrands.ch
@@ -24539,7 +24541,6 @@ besenbeiz-eichhof.ch
 besenbeiz-erlenbach.ch
 besenbeiz-fegnest.ch
 besenbeiz-flaach.ch
-besenbeiz-hannes.ch
 besenbeiz-holzschopf.ch
 besenbeiz-huettwilersee.ch
 besenbeiz-huserenberg.ch
@@ -26736,6 +26737,7 @@ bestfirst.ch
 bestfisch.ch
 bestfish.ch
 bestfit.ch
+bestfitall.ch
 bestfitness.ch
 bestflat.ch
 bestfleet.ch
@@ -27411,6 +27413,7 @@ bestseller-verlag.ch
 bestseller.ch
 bestseller2020.ch
 bestsellerabstracts.ch
+bestsellerakademie.ch
 bestsellerbuch.ch
 bestsellerliste.ch
 bestsellers.ch
@@ -31711,6 +31714,7 @@ bewegungsdrang.ch
 bewegungsentwickler.ch
 bewegungsentwicklung.ch
 bewegungserlebnis.ch
+bewegungsfabrik.ch
 bewegungsfachleute.ch
 bewegungsfluss.ch
 bewegungsfoerderung.ch

@@ -3460,6 +3460,7 @@ itreliability.ch
 itrema.ch
 itremarketing.ch
 itrena.ch
+itrend-consulting.ch
 itrend.ch
 itrepair.ch
 itrepublic.ch
@@ -3753,7 +3754,6 @@ itseeland.ch
 itseetal.ch
 itseiten.ch
 itsektor.ch
-itselectric.ch
 itselfassessment.ch
 itsense.ch
 itserv.ch
@@ -4288,6 +4288,7 @@ itweber.ch
 itweet.ch
 itweetdev.ch
 itwerk.ch
+itwerke.ch
 itwerkstatt-bern.ch
 itwerkstatt.ch
 itwgse.ch

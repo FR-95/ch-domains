@@ -1119,7 +1119,6 @@ xn--altefhre-r4a.ch
 xn--altegrtnerei-kcb.ch
 xn--altembel-r4a.ch
 xn--altemhle-b6a.ch
-xn--altemhle-ottenbach-q6b.ch
 xn--altemhledrnten-ksbe.ch
 xn--altemhlelangenthal-q6b.ch
 xn--alter-kniz-kcb.ch
@@ -1868,6 +1867,7 @@ xn--apro-stir-22ab.ch
 xn--apro-trs-riche-ckbf.ch
 xn--aproband-c1a.ch
 xn--aprobus-cya.ch
+xn--aproexpats-c7a.ch
 xn--aprofilm-c1a.ch
 xn--aproglace-c4a.ch
 xn--aproknig-c1a7k.ch
@@ -4918,7 +4918,6 @@ xn--bewusstnatrlich-8vb.ch
 xn--bexio-treuhnder-blb.ch
 xn--bexiotreuhnder-fib.ch
 xn--beyonc-gva.ch
-xn--bezahlbare-wohnungen-dbi-htc.ch
 xn--bezahlbarer-v-tmb.ch
 xn--beze-0ra.ch
 xn--bezer-bistro-dlb.ch
@@ -5976,7 +5975,6 @@ xn--bltenblatt-im-milchhsli-dpcs.ch
 xn--bltenbox-75a.ch
 xn--bltenessenzen-xob.ch
 xn--bltenessenzzentrumschweiz-gwc.ch
-xn--bltenfabrik-uhb.ch
 xn--bltengarten-uhb.ch
 xn--bltenglck-r9af.ch
 xn--bltengold-r9a.ch
@@ -11176,7 +11174,6 @@ xn--cuve-dpa.ch
 xn--cuve-niederrohrdorf-dzb.ch
 xn--cuvedupatron-deb.ch
 xn--cuveniederrohrdorf-dwb.ch
-xn--cvp-rschlikon-0ob.ch
 xn--cvtmcanique-ebb.ch
 xn--cyber-hygine-6db.ch
 xn--cyberadmin-genve-6pb.ch
@@ -13968,6 +13965,7 @@ xn--einstecktcher-4ob.ch
 xn--einstellhallenpltze-vwb.ch
 xn--einstellpltze-kfb.ch
 xn--einstellrume-ocb.ch
+xn--eintracht-flcke-clb.ch
 xn--eintracht-stfa-hib.ch
 xn--eintrittsarmbnder-2qb.ch
 xn--eintrittsbersicht-b3b.ch
@@ -29129,6 +29127,7 @@ xn--kchen-montagen-gsb.ch
 xn--kchen-moser-thb.ch
 xn--kchen-neuheiten-zvb.ch
 xn--kchen-nidwalden-zvb.ch
+xn--kchen-offerte-wob.ch
 xn--kchen-offerten-gsb.ch
 xn--kchen-online-dlb.ch
 xn--kchen-partner-wob.ch
@@ -29347,6 +29346,7 @@ xn--kchennavi-q9a.ch
 xn--kchennavigator-gsb.ch
 xn--kchenneuheiten-gsb.ch
 xn--kchenofferte-dlb.ch
+xn--kchenofferten-wob.ch
 xn--kchenonline-thb.ch
 xn--kchenoutlet-thb.ch
 xn--kchenparadies-wob.ch
@@ -34240,6 +34240,7 @@ xn--livingmuseumzrich-f3b.ch
 xn--livio-stnzi-0hb.ch
 xn--lizenzvertrge-lfb.ch
 xn--lk-fka.ch
+xn--lk-sanitr-22a.ch
 xn--lk-xka.ch
 xn--lkenois-5wa.ch
 xn--lkerol-bua.ch
@@ -35024,6 +35025,7 @@ xn--lucykgi-9wa.ch
 xn--luderhtte-v9a.ch
 xn--ludmillaraffaelladrring-tpc.ch
 xn--ludothek-zrich-nord-fbc.ch
+xn--luegistbli-geb.ch
 xn--luethis-anhnger-blb.ch
 xn--luethisanhger-kfb.ch
 xn--luethisanhnger-fib.ch
@@ -36693,6 +36695,7 @@ xn--mdchenoberstufe-kathi-51b.ch
 xn--mdchenrume-q5ag.ch
 xn--mdchenspiele-gcb.ch
 xn--mdchenspielzeug-0kb.ch
+xn--mdde-und-zo-l8a9e.ch
 xn--mde-beine-q9a.ch
 xn--mde-hoa.ch
 xn--mde-qla.ch
@@ -40200,7 +40203,6 @@ xn--navigationsgert-elb.ch
 xn--navigationsgerte-8nb.ch
 xn--navigerte-12a.ch
 xn--navimobilit-lbb.ch
-xn--navit-fsa.ch
 xn--nawaro-gehuse-kfb.ch
 xn--nawarogehuse-ocb.ch
 xn--nbedra-bua.ch
@@ -45150,7 +45152,6 @@ xn--raumbegrnung-klb.ch
 xn--raumbegrnungen-nsb.ch
 xn--raumberhrt-geb.ch
 xn--raumbro-r2a.ch
-xn--raumdfte-b6a.ch
 xn--raumen-24-w2a.ch
 xn--raumffner-37a.ch
 xn--raumflsterer-ilb.ch
@@ -46636,6 +46637,7 @@ xn--rnova-mood-b7a.ch
 xn--rnovation-b4a.ch
 xn--rnovation-chablais-bwb.ch
 xn--rnovation-cuisine-btb.ch
+xn--rnovation-de-cuisine-b2b.ch
 xn--rnovation-durable-btb.ch
 xn--rnovation-ferme-bnb.ch
 xn--rnovation-grange-bqb.ch
@@ -46644,6 +46646,7 @@ xn--rnovation-maison-bqb.ch
 xn--rnovation-nergetique-b2bj.ch
 xn--rnovation-peinture-bwb.ch
 xn--rnovation-salle-de-bain-lausanne-b3c.ch
+xn--rnovation-salle-de-bains-bfc.ch
 xn--rnovation-terrasse-bwb.ch
 xn--rnovationcuisine-bqb.ch
 xn--rnovationmaison-bnb.ch
@@ -48026,6 +48029,7 @@ xn--sanddornl-77a.ch
 xn--sanddornlikr-fjb.ch
 xn--sandgtsch-u9a.ch
 xn--sandhbel-b6a.ch
+xn--sandkrnchen-vfb.ch
 xn--sandksten-z2a.ch
 xn--sandmndli-z2a.ch
 xn--sandmttli-z2a.ch
@@ -49300,7 +49304,6 @@ xn--schlsselnotdienst-martin-zaugg-7ed.ch
 xn--schlsselnotdienst-zaugg-fpc.ch
 xn--schlsselnotdienst-zentralschweiz-bmd.ch
 xn--schlsselnotdienst-zug-cic.ch
-xn--schlsselnotdienst24-89b.ch
 xn--schlsselnotdienst24h-sec.ch
 xn--schlsselnotdienste-p6b.ch
 xn--schlsselnotfall-2vb.ch
@@ -59356,7 +59359,6 @@ xn--waldfhrungen-hlb.ch
 xn--waldfscht-z2a.ch
 xn--waldgeflster-klb.ch
 xn--waldglck-c6a.ch
-xn--waldglck-s4a.ch
 xn--waldgrn-s2a.ch
 xn--waldgrtner-u5a.ch
 xn--waldhckler-icb.ch
@@ -62509,7 +62511,6 @@ xn--zhntrale-0za.ch
 xn--zhntrum-5wa.ch
 xn--zhringen-0za.ch
 xn--zhringer-0za.ch
-xn--zhringerli-q5a.ch
 xn--zhringerplatz-bfb.ch
 xn--zhringia-0za.ch
 xn--zhringia-bernensis-ltb.ch
@@ -64093,6 +64094,7 @@ xn--zumglckzurck-hlbf.ch
 xn--zumgldenenei-glb.ch
 xn--zumgmesrad-eeb.ch
 xn--zumgoldenenschfli-3qb.ch
+xn--zumgoldigeschngg-8nb.ch
 xn--zumgrnenhof-xhb.ch
 xn--zumgrnenmartin-ksb.ch
 xn--zumgutenglck-mlb.ch

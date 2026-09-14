@@ -3367,6 +3367,7 @@ brasir.ch
 brask-thomsen.ch
 brask.ch
 braskfoundation.ch
+braskl.ch
 braslet-stmoritz.ch
 braslet.ch
 brasnet.ch
@@ -3575,7 +3576,6 @@ brasserie-sued.ch
 brasserie-suisse.ch
 brasserie-terrasse.ch
 brasserie-verkehrshaus.ch
-brasserie-verseau.ch
 brasserie-vico.ch
 brasserie-vue.ch
 brasserie-walhalla.ch
@@ -8393,6 +8393,7 @@ brigantino.ch
 brigantinus.ch
 brigare.ch
 brigartig.ch
+brigata.ch
 brigatamsgiorgio.ch
 brigatti.ch
 brigbarock.ch
@@ -15217,7 +15218,6 @@ brunonimartinag.ch
 brunoo.ch
 brunooberle.ch
 brunoochsner.ch
-brunooehrli.ch
 brunopalermo.ch
 brunopasquier.ch
 brunopeki.ch

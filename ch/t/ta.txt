@@ -663,6 +663,7 @@ tablesaine.ch
 tablesdemassage.ch
 tablesdemultiplication.ch
 tablesdepingpong.ch
+tablesdor.ch
 tablesdurhone.ch
 tablesenbois.ch
 tableset.ch
@@ -1583,6 +1584,7 @@ taegroup.ch
 taegtechnologies.ch
 taegtechnology.ch
 taehwalee.ch
+taehwankim.ch
 taekima.ch
 taekit.ch
 taeko.ch
@@ -1660,6 +1662,7 @@ taem.ch
 taembrig.ch
 taemi-und-joni-huerate.ch
 taemi.ch
+taemis-atelier.ch
 taemper.ch
 taempu.ch
 taena.ch
@@ -2461,7 +2464,6 @@ tagesmutter-koalabaer.ch
 tagesmutter-marina.ch
 tagesmutter-mels.ch
 tagesmutter-neuenhof.ch
-tagesmutter-sabine.ch
 tagesmutter-schoenbuehl.ch
 tagesmutter-solothurn.ch
 tagesmutter-urdorf.ch
@@ -5417,7 +5419,6 @@ talschreinerei.ch
 talschuetzen.ch
 talsee-holding.ch
 talsee.ch
-talsicht-liestal.ch
 talsicht.ch
 talsiegel.ch
 talsom.ch
@@ -5483,6 +5484,7 @@ talvo.ch
 talvogne.ch
 talvolta-quartett.ch
 talvora.ch
+talvuniq.ch
 talvurieks.ch
 talvurieksai.ch
 talweg-beratung.ch

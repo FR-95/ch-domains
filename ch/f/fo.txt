@@ -5130,6 +5130,7 @@ foodbuero.ch
 foodbunker.ch
 foodbus.ch
 foodbusiness.ch
+foodbusinesssociety.ch
 foodbutik.ch
 foodbutler.ch
 foodbyberi.ch
@@ -5274,7 +5275,6 @@ foodexpress.ch
 foodextra.ch
 foodfabrick.ch
 foodfabrik.ch
-foodfac.ch
 foodfact.ch
 foodfactory-ifwil.ch
 foodfactory.ch
@@ -5710,6 +5710,7 @@ foodsavemarket.ch
 foodsavemarkt.ch
 foodsaver.ch
 foodsaving.ch
+foodscan.ch
 foodscanner.ch
 foodscape.ch
 foodscaping.ch
@@ -7769,6 +7770,7 @@ forever-switzerland.ch
 forever-t.ch
 forever-together.ch
 forever-trauringe.ch
+forever-weddings.ch
 forever-weekend.ch
 forever-wow.ch
 forever-young-zahnmedizin.ch
@@ -8361,6 +8363,7 @@ formaggi.ch
 formaggio-alpe-ticino.ch
 formaggio.ch
 formaggiodalpe.ch
+formaggiodasina.ch
 formaggiosvizzero.ch
 formaggiusto.ch
 formagipsbau.ch
@@ -15788,7 +15791,6 @@ foxesontour.ch
 foxetcompany.ch
 foxette.ch
 foxfahrschule.ch
-foxfatal.ch
 foxfinance.ch
 foxfinger.ch
 foxflow.ch
@@ -15925,6 +15927,7 @@ foxstonecreation.ch
 foxstorage.ch
 foxstore.ch
 foxstreet.ch
+foxstreet34.ch
 foxstudio.ch
 foxstudy.ch
 foxtag.ch

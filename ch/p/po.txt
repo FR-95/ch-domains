@@ -1520,6 +1520,7 @@ pog.ch
 poga.ch
 pogabarberhouse.ch
 pogalux.ch
+pogana.ch
 pogar.ch
 poge.ch
 poged.ch
@@ -2170,15 +2171,12 @@ pokar.ch
 pokarhome.ch
 pokawa.ch
 poke-bar.ch
-poke-bellinzona.ch
 poke-bowl-bar.ch
 poke-bowl.ch
 poke-corner.ch
 poke-express.ch
 poke-king.ch
 poke-lab.ch
-poke-locarno.ch
-poke-lugano.ch
 poke-mama.ch
 poke-me.ch
 poke-mo-st-gallen.ch
@@ -2198,7 +2196,6 @@ pokeball.ch
 pokeballs.ch
 pokebar.ch
 pokebazar.ch
-pokebellinzona.ch
 pokeboka.ch
 pokeboost.ch
 pokebowl.ch
@@ -2252,7 +2249,6 @@ pokeland.ch
 pokelight.ch
 pokelisse.ch
 pokelocal.ch
-pokelocarno.ch
 pokelu.ch
 pokemagic.ch
 pokemama.ch
@@ -2638,7 +2634,6 @@ pokeswiss.ch
 poket.ch
 poketcg.ch
 poketia.ch
-poketicino.ch
 poketlibrary.ch
 poketrainershop.ch
 poketreasure.ch
@@ -2652,6 +2647,7 @@ pokevestment-tcg.ch
 pokevibes.ch
 pokewants.ch
 pokeworld.ch
+pokexpertise.ch
 pokexpo.ch
 pokezaar.ch
 pokezap.ch
@@ -2896,6 +2892,7 @@ polarismalegrooming.ch
 polarismedia.ch
 polarismobilis.ch
 polarisnews.ch
+polarispartners.ch
 polarispr.ch
 polarispsy.ch
 polarisreputation.ch
@@ -4076,6 +4073,7 @@ politnerd.ch
 politnerds.ch
 politnet.ch
 politnetz.ch
+politnews.ch
 politnow.ch
 polito.ch
 politograf.ch
@@ -5695,7 +5693,6 @@ polydor.ch
 polydrain.ch
 polydrives.ch
 polydron.ch
-polydrone.ch
 polydrones.ch
 polydrop.ch
 polydual.ch
@@ -9737,6 +9734,7 @@ portailserrure.ch
 portailsoinsdomicile.ch
 portailsuisse.ch
 portair.ch
+portairtransfer.ch
 portaitalia.ch
 portaitist.ch
 portal-aargau.ch
@@ -10413,7 +10411,6 @@ portmann-immobilier.ch
 portmann-informatik.ch
 portmann-instruments.ch
 portmann-legal.ch
-portmann-marketing.ch
 portmann-meier.ch
 portmann-metallwerkstatt.ch
 portmann-online.ch
@@ -11185,7 +11182,6 @@ positive-leadership.ch
 positive-leading-institut.ch
 positive-leading.ch
 positive-life-festival.ch
-positive-life.ch
 positive-mind.ch
 positive-minds.ch
 positive-mindset.ch
@@ -11839,6 +11835,7 @@ posterbazar.ch
 posterbestellen.ch
 posterboard.ch
 posterbox.ch
+posterby.ch
 posterdesigns.ch
 posterdirect.ch
 posterdirekt.ch
@@ -14612,6 +14609,7 @@ powershorts.ch
 powershot.ch
 powersicherheitsschuhe.ch
 powerside.ch
+powersight.ch
 powersite.ch
 powersites.ch
 powerskate.ch

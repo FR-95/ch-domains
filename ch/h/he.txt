@@ -18,6 +18,7 @@ he-con.ch
 he-decor.ch
 he-deliu.ch
 he-design.ch
+he-development.ch
 he-elektro.ch
 he-energie.ch
 he-energy.ch
@@ -2755,7 +2756,6 @@ hebamme-pepe.ch
 hebamme-pia.ch
 hebamme-prisca.ch
 hebamme-rahel.ch
-hebamme-rebecca.ch
 hebamme-rebekka.ch
 hebamme-regine.ch
 hebamme-region-bern.ch
@@ -5478,6 +5478,7 @@ heilendes-zeichnen.ch
 heilendesherz.ch
 heilendestao.ch
 heilendewege.ch
+heilendhelfen.ch
 heilendorf.ch
 heilenergie-jac.ch
 heilenergien.ch
@@ -6617,7 +6618,6 @@ heimers.ch
 heimesteitschumpler.ch
 heimet-emmental.ch
 heimet.ch
-heimet207.ch
 heimetblick.ch
 heimetbudeli.ch
 heimetchoerlihemberg.ch
@@ -8650,6 +8650,7 @@ hekate.ch
 hekate.relsoft.ch
 hekatebeautybar.ch
 hekatherapies.ch
+hekeani.ch
 hekel.ch
 hekela.ch
 heket.ch
@@ -9475,6 +9476,7 @@ helfie.ch
 helfin.ch
 helfina.ch
 helfinet.ch
+helfio.ch
 helfis.ch
 helfix.ch
 helfli.ch
@@ -12738,7 +12740,6 @@ helvetiabaloiseberater.ch
 helvetiabaloiseholding.ch
 helvetiabaloiseversicherung.ch
 helvetiabar.ch
-helvetiabau.ch
 helvetiabc.ch
 helvetiabennes.ch
 helvetiaberater.ch
@@ -14722,6 +14723,7 @@ hems.ch
 hems24.ch
 hemsa.ch
 hemsba.ch
+hemse.ch
 hemsley.ch
 hemsleyfraser.ch
 hemson.ch
@@ -14846,7 +14848,6 @@ hendschiken.ch
 hendschiken24.ch
 hendy.ch
 hendyscout.ch
-hene-bume-troubleshooting.ch
 hene.ch
 henelit.ch
 henemo.ch
@@ -17477,7 +17478,6 @@ hero.ch
 hero21.ch
 hero2410.ch
 hero9.ch
-heroacademy.ch
 heroagency.ch
 heroal.ch
 heroandfriends.ch
@@ -20281,7 +20281,6 @@ herzwerkdesign.ch
 herzwerke.ch
 herzwerker.ch
 herzwerkli.ch
-herzwerkliebe.ch
 herzwerks.ch
 herzwerkundholzdesign.ch
 herzwert-seniorenhilfe.ch
@@ -21778,12 +21777,9 @@ hevzh.ch
 hevzuerich.ch
 hevzuerichtv.ch
 hevzurich.ch
-hew-bc.ch
 hew-c.ch
-hew-fc.ch
 hew-fm.ch
 hew-immobilien.ch
-hew-itc.ch
 hew.ch
 hewa-int.ch
 hewa.ch

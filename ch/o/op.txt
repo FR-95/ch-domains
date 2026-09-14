@@ -2374,7 +2374,6 @@ opexar.ch
 opexfit.ch
 opexgroup-ag.ch
 opexgyms.ch
-opexpartners.ch
 opf.ch
 opfeel.ch
 opfenauweg.ch
@@ -5265,7 +5264,6 @@ opuseden.ch
 opusenergy.ch
 opusens.ch
 opusest.ch
-opusestates.ch
 opuseximium.ch
 opusfit.ch
 opusflow.ch

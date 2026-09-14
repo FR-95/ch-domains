@@ -1831,7 +1831,6 @@ umzugkarton.ch
 umzugkartons.ch
 umzugkartons24.ch
 umzugki.ch
-umzugkiste.ch
 umzugklass.ch
 umzugkosten.ch
 umzugkraft.ch
@@ -2101,6 +2100,7 @@ umzugsfirma-niederbipp.ch
 umzugsfirma-nw.ch
 umzugsfirma-oberrieden.ch
 umzugsfirma-oensingen.ch
+umzugsfirma-offerte.ch
 umzugsfirma-oftringen.ch
 umzugsfirma-olten.ch
 umzugsfirma-pfaeffikon.ch

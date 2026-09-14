@@ -791,6 +791,7 @@ clarelys.ch
 claremont.ch
 claren-gravuren.ch
 claren.ch
+clarena-reinigung.ch
 clarena.ch
 clarenanalytics.ch
 clarenba.ch
@@ -3597,6 +3598,7 @@ clb-re.ch
 clb-solutions.ch
 clb-spiez.ch
 clb.ch
+clbarberstudio.ch
 clbc.ch
 clbeauty.ch
 clbequs.ch
@@ -3990,7 +3992,6 @@ cleanall.ch
 cleanalp.ch
 cleanalpes.ch
 cleanalpin.ch
-cleanalpine.ch
 cleanalytics.ch
 cleananalytics.ch
 cleanandb.ch
@@ -4502,7 +4503,6 @@ cleanmate.ch
 cleanmatic.ch
 cleanmaxpro.ch
 cleanmaxx.ch
-cleanme.ch
 cleanmeat.ch
 cleanmechanic.ch
 cleanmed.ch
@@ -4576,7 +4576,6 @@ cleanpass.ch
 cleanpatrol.ch
 cleanperfect.ch
 cleanphia.ch
-cleanphone.ch
 cleanpilot.ch
 cleanpitch.ch
 cleanplace.ch
@@ -6312,7 +6311,6 @@ cleversolution.ch
 cleverson.ch
 cleversonic.ch
 cleverspace.ch
-cleverspecs.ch
 cleversport.ch
 cleverstart.ch
 cleverstarten.ch
@@ -7966,6 +7964,7 @@ clinicaveterinaria.ch
 clinicaviarnetto.ch
 clinicbeaurivage.ch
 clinicbrandlab.ch
+clinicbrandlabs.ch
 cliniccalda.ch
 cliniccare.ch
 cliniccars.ch
@@ -7983,7 +7982,6 @@ clinicflow-ai.ch
 clinicflow.ch
 clinicforface.ch
 clinicglobalesthetic.ch
-clinicglobalestheticgeneva.ch
 clinicgrowth.ch
 clinicguide.ch
 cliniche-integrative.ch
@@ -9996,6 +9994,7 @@ cloudgenossen.ch
 cloudgerber.ch
 cloudgermany.ch
 cloudgo.ch
+cloudgovernance.ch
 cloudgratuit.ch
 cloudgroup.ch
 cloudgruppe.ch
@@ -10135,6 +10134,7 @@ cloudmanagement.ch
 cloudmania.ch
 cloudmaniac.ch
 cloudmanufaktur.ch
+cloudmap.ch
 cloudmarkt.ch
 cloudmarktplatz.ch
 cloudmaster.ch
@@ -10545,7 +10545,6 @@ cloudwide.ch
 cloudwifi.ch
 cloudwindows.ch
 cloudwise.ch
-cloudwish.ch
 cloudwit.ch
 cloudwiz.ch
 cloudwlan.ch

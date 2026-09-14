@@ -2330,7 +2330,6 @@ hufschmidag.ch
 hufschmidt-consulting.ch
 hufschmied-androschin.ch
 hufschmied-bergmann.ch
-hufschmied-bewerten.ch
 hufschmied-graber.ch
 hufschmied-hohl.ch
 hufschmied-huwiler.ch
@@ -3295,6 +3294,7 @@ hulagathering.ch
 hulahawaii.ch
 hulahoop.ch
 hulahopp.ch
+hulaj.ch
 hulajechafaudages.ch
 huland.ch
 hulatech.ch
@@ -4111,6 +4111,7 @@ humanonly.ch
 humanonstage.ch
 humanoo.ch
 humanoptima.ch
+humanora.ch
 humanoriginals.ch
 humanos.ch
 humanosearch.ch
@@ -6317,7 +6318,6 @@ hundeschule-hatik.ch
 hundeschule-haus-und-hof.ch
 hundeschule-helene.ch
 hundeschule-hereinspaziert.ch
-hundeschule-herkules.ch
 hundeschule-hermann.ch
 hundeschule-herzpfote.ch
 hundeschule-hmt.ch

@@ -1124,6 +1124,7 @@ gebraucht-geruest.ch
 gebraucht-maschinen.ch
 gebraucht-pc.ch
 gebraucht-ski-kaufen.ch
+gebraucht-ski.ch
 gebraucht-stapler.ch
 gebraucht-waffen.ch
 gebraucht-yachten.ch
@@ -1222,6 +1223,7 @@ gebrauchtrad.ch
 gebrauchtrad24.ch
 gebrauchtreifen.ch
 gebrauchtsattel.ch
+gebrauchtski.ch
 gebrauchtstapler.ch
 gebrauchtteile.ch
 gebrauchtturbine.ch
@@ -7058,7 +7060,6 @@ genar.ch
 genara.ch
 genarag.ch
 genarakkord.ch
-genarate.ch
 genard.ch
 genardis.ch
 genaris.ch
@@ -9456,7 +9457,6 @@ geneveacupuncture.ch
 geneveaeroclub.ch
 geneveaeroport.ch
 genevealzheimer.ch
-geneveannuaire.ch
 geneveapa.ch
 geneveapnee.ch
 genevearchitecte.ch
@@ -9540,6 +9540,7 @@ geneveenseigne.ch
 geneveentransition.ch
 geneveentrepreneurs.ch
 geneveergo.ch
+geneveesthetique.ch
 geneveetmoi.ch
 geneveetvousmagazine.ch
 geneveexpertise.ch
@@ -9856,6 +9857,7 @@ genferei.ch
 genferin.ch
 genferkantonspolizei.ch
 genferock-festival.ch
+genferock.ch
 genfersee.ch
 genferseegebiet.ch
 genferstrasse24.ch
@@ -12403,7 +12405,6 @@ geoinformationsgesetz.ch
 geoinformationsrecht.ch
 geoinformationssystem.ch
 geoinformatique.ch
-geoinformazione.ch
 geoinfos.ch
 geoinfotest.ch
 geoinfra-gruppe.ch
@@ -17688,7 +17689,6 @@ gestion-maison-geneve.ch
 gestion-med.ch
 gestion-ne.ch
 gestion-patrimoine.ch
-gestion-patrimoneyuh.ch
 gestion-pixup.ch
 gestion-pme.ch
 gestion-privee.ch
@@ -18034,6 +18034,7 @@ gesund-gestalten.ch
 gesund-gewicht-verlieren.ch
 gesund-gluecklich.ch
 gesund-heilt.ch
+gesund-hive.ch
 gesund-hoeren.ch
 gesund-homoeopathie.ch
 gesund-hug.ch
@@ -19709,6 +19710,7 @@ gesundheitwinterthur.ch
 gesundheitzeitundgeld.ch
 gesundheitzentralschweiz.ch
 gesundheitzollikerberg.ch
+gesundhive.ch
 gesundhoeren.ch
 gesundhub-manegg.ch
 gesundhubmanegg.ch
@@ -19884,9 +19886,6 @@ get-coached.ch
 get-code.ch
 get-concrete.ch
 get-control.ch
-get-cover-usa.ch
-get-cover.ch
-get-coverusa.ch
 get-crm.ch
 get-dent.ch
 get-design.ch
@@ -20272,10 +20271,7 @@ getcoorpix.ch
 getcora.ch
 getcou.ch
 getcoupons.ch
-getcover-usa.ch
-getcover.ch
 getcoverly.ch
-getcoverusa.ch
 getcozy.ch
 getcrafted.ch
 getcrafts.ch
@@ -20424,6 +20420,7 @@ getgeniuscount.ch
 getgig.ch
 getgini.ch
 getgiving.ch
+getglimpse.ch
 getglit.ch
 getglowup.ch
 getgo.ch

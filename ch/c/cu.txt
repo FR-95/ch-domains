@@ -695,7 +695,6 @@ cue5.ch
 cue7.ch
 cueblaster.ch
 cuecafe.ch
-cuecafe1.ch
 cuegmbh.ch
 cueille-ton-iphone.ch
 cueilletoniphone.ch
@@ -2133,6 +2132,7 @@ cuoredellemontagne.ch
 cuoredelmondo.ch
 cuoredelvino.ch
 cuoredibellezza.ch
+cuoredicera.ch
 cuoredilimone.ch
 cuorediloto.ch
 cuoredinapoli.ch

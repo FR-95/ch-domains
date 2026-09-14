@@ -1540,6 +1540,7 @@ feet-reading.ch
 feet.ch
 feet49.ch
 feetality.ch
+feetandbody.ch
 feetandbodyflow.ch
 feetandmore.ch
 feetandnails.ch
@@ -1765,6 +1766,7 @@ feha-gmbh.ch
 feha-malergeschaeft.ch
 feha.ch
 fehab.ch
+fehablabs.ch
 fehba.ch
 feher.ch
 fehermaler.ch
@@ -3751,6 +3753,7 @@ felix-egli.ch
 felix-ernst.ch
 felix-faber.ch
 felix-family.ch
+felix-fashion.ch
 felix-feuerwerk.ch
 felix-fischer.ch
 felix-frohofer.ch
@@ -6963,6 +6966,7 @@ ferenczi.ch
 ferenczicoaching.ch
 ferendum.ch
 fereshta.ch
+fereshte.ch
 fereshteh.ch
 feresta-ag.ch
 feresta-mail.ch
@@ -7476,6 +7480,7 @@ ferienchecker.ch
 ferienclub.ch
 feriencorippo.ch
 feriencortina.ch
+feriendaheimthorbach.ch
 feriendavos.ch
 feriendeal.ch
 feriendeals.ch
@@ -8303,7 +8308,6 @@ ferienschweden.ch
 ferienschweiz.ch
 ferienschwellbrunn.ch
 ferienschwimmkurs-schweiz.ch
-ferienschwimmkurs.ch
 ferienschwimmkurse-schweiz.ch
 ferienscuol.ch
 ferienserie.ch
@@ -13941,7 +13945,6 @@ fewo-bernina.ch
 fewo-betreuung-rheintal.ch
 fewo-bird.ch
 fewo-bodensee.ch
-fewo-bodenseewest.ch
 fewo-box.ch
 fewo-brissago.ch
 fewo-crameri.ch
@@ -14119,7 +14122,6 @@ feximmobilien.ch
 fexo.ch
 fexobox.ch
 fexor.ch
-fextal.ch
 fexx.ch
 fexy.ch
 fey-ac.ch

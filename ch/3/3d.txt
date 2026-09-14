@@ -359,7 +359,6 @@
 3d-printing.ch
 3d-prints.ch
 3d-printservice.ch
-3d-printshop.ch
 3d-printstore.ch
 3d-printstudio.ch
 3d-printtec.ch
@@ -375,7 +374,6 @@
 3d-protech.ch
 3d-prototyp.ch
 3d-prototyper.ch
-3d-pub.ch
 3d-punktwolken.ch
 3d-puzzle.ch
 3d-puzzles.ch
@@ -908,7 +906,6 @@
 3dlogo-schweiz.ch
 3dlogo.ch
 3dlogos.ch
-3dlogosschweiz.ch
 3dlp.ch
 3dlsr.ch
 3dluetolf.ch

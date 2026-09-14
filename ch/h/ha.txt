@@ -57,6 +57,7 @@ ha-raticino.ch
 ha-recht.ch
 ha-res.ch
 ha-ri.ch
+ha-richard.ch
 ha-s.ch
 ha-schweiz.ch
 ha-se.ch
@@ -2852,6 +2853,7 @@ haekelshop.ch
 haekeltante.ch
 haekeltiere.ch
 haekeltierli.ch
+haekeltwist.ch
 haekelwerke.ch
 haekelwerkstatt.ch
 haekelwunsch.ch
@@ -3835,7 +3837,6 @@ hafencenter.ch
 hafencham.ch
 hafenchor.ch
 hafenchurch.ch
-hafencity.ch
 hafenclan.ch
 hafenconsulting.ch
 hafenfan.ch
@@ -5912,7 +5913,6 @@ hairundflair.ch
 hairundmakeup.ch
 hairvibe.ch
 hairvibes.ch
-hairvibez.ch
 hairvision-uster.ch
 hairvision.ch
 hairvisionuster.ch
@@ -8374,6 +8374,7 @@ hamid-rezakhoyi.ch
 hamid.ch
 hamidah.ch
 hamidfani.ch
+hamidi.ch
 hamidiag.ch
 hamidkhadiri.ch
 hamidkhatib.ch
@@ -11734,7 +11735,6 @@ handystyle.ch
 handysucht.ch
 handysuechtig.ch
 handysystem.ch
-handytainer.ch
 handytalk.ch
 handytanken.ch
 handytape.ch
@@ -13942,7 +13942,6 @@ happy-face.ch
 happy-faces.ch
 happy-famaly-radio.ch
 happy-families.ch
-happy-family-radio.ch
 happy-family.ch
 happy-farm.ch
 happy-farmer.ch
@@ -18820,6 +18819,7 @@ hatreba.ch
 hatred.ch
 hatredbit.ch
 hats.ch
+hatschekes.ch
 hatschi-bratschi.ch
 hatschi-shop.ch
 hatschi.ch
@@ -20276,7 +20276,6 @@ hausarzt-tagelswangen.ch
 hausarzt-tg.ch
 hausarzt-thalwil.ch
 hausarzt-thun.ch
-hausarzt-tiefenbrunnen.ch
 hausarzt-turtschi.ch
 hausarzt-uetikon.ch
 hausarzt-uster.ch
@@ -20375,6 +20374,7 @@ hausarztpraxis-burgzentrum.ch
 hausarztpraxis-daellikon.ch
 hausarztpraxis-daeniken.ch
 hausarztpraxis-dielsdorf.ch
+hausarztpraxis-dietikon.ch
 hausarztpraxis-dietrich.ch
 hausarztpraxis-dinhard.ch
 hausarztpraxis-dorfplatz.ch

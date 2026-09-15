@@ -679,7 +679,6 @@ my-foil.ch
 my-folio.ch
 my-fon.ch
 my-fondue.ch
-my-food-plan.ch
 my-foodcoach.ch
 my-foodfactory.ch
 my-footprint.ch
@@ -855,7 +854,6 @@ my-houz.ch
 my-hp.ch
 my-hr.ch
 my-hrm.ch
-my-hrs.ch
 my-hub.ch
 my-hublot.ch
 my-hwz.ch
@@ -2264,6 +2262,7 @@ myalfa.ch
 myalfagroup.ch
 myalfaromeo.ch
 myalias.ch
+myalim.ch
 myalimony.ch
 myaliron.ch
 myall-lake.ch
@@ -3022,6 +3021,7 @@ myblvk.ch
 mybly.ch
 mybm.ch
 mybma.ch
+mybmapp.ch
 mybmd.ch
 mybmw.ch
 mybn.ch
@@ -6892,6 +6892,7 @@ mykitty.ch
 mykittycare.ch
 mykiwanis.ch
 mykk.ch
+myklang.ch
 myklara.ch
 myklawly.ch
 myklemi.ch
@@ -7347,6 +7348,7 @@ mylink.ch
 mylinkhub.ch
 mylinks.ch
 mylinterieur.ch
+mylio.ch
 mylion.ch
 mylipo.ch
 myliposuction.ch
@@ -9272,6 +9274,7 @@ myprevention.ch
 mypreventivecare.ch
 myprevider.ch
 myprevoyance.ch
+myprice.ch
 mypricer.ch
 myprices.ch
 mypride.ch
@@ -10945,7 +10948,6 @@ mysteryshisha.ch
 mysteryshop.ch
 mysteryshopper.ch
 mysteryshoppers.ch
-mysteryshopping-schweiz.ch
 mysteryshopping.ch
 mysteryshoppinginfo.ch
 mysterysugarbox.ch
@@ -11386,7 +11388,6 @@ myswissie.ch
 myswissimages.ch
 myswissimmo.ch
 myswissimmo24.ch
-myswissinsurance.ch
 myswissinvoice.ch
 myswissip.ch
 myswissipo.ch

@@ -36,7 +36,6 @@ sw-gossau.ch
 sw-haustechnik.ch
 sw-hebamme.ch
 sw-holding.ch
-sw-horizon.ch
 sw-horseandridertraining.ch
 sw-ic.ch
 sw-ict.ch
@@ -272,7 +271,6 @@ swanguroo.ch
 swanhellenic.ch
 swaninstruments.ch
 swanisotopen.ch
-swankbankers.ch
 swankcapital.ch
 swanlake.ch
 swanlakebern.ch
@@ -1550,7 +1548,6 @@ swhl.ch
 swhmail.ch
 swholz.ch
 swhopify.ch
-swhorizons.ch
 swhost.ch
 swhw.ch
 swi-broker.ch
@@ -1781,6 +1778,7 @@ swifs.ch
 swift-com.ch
 swift-cv.ch
 swift-direct.ch
+swift-health-consulting.ch
 swift-jobs.ch
 swift-link.ch
 swift-service.ch
@@ -2492,6 +2490,7 @@ swipecasino.ch
 swipechat.ch
 swipecor.ch
 swipedon.ch
+swipedy.ch
 swipefilms.ch
 swipeflat.ch
 swipegames.ch
@@ -2653,6 +2652,7 @@ swisha.ch
 swishandclick.ch
 swishgmbh.ch
 swishi.ch
+swisholz.ch
 swishop.ch
 swishosting.ch
 swishwasser.ch
@@ -5516,7 +5516,6 @@ swiss-gestion.ch
 swiss-get.ch
 swiss-gewerbebau.ch
 swiss-giclage.ch
-swiss-gid.ch
 swiss-gift.ch
 swiss-gifts-gmbh.ch
 swiss-gifts.ch
@@ -5981,7 +5980,6 @@ swiss-igf.ch
 swiss-iho.ch
 swiss-ikebana.ch
 swiss-ikt.ch
-swiss-ilca.ch
 swiss-im.ch
 swiss-image.ch
 swiss-imagineering.ch
@@ -6901,6 +6899,7 @@ swiss-medtechhub.ch
 swiss-medtel.ch
 swiss-meet.ch
 swiss-meets.ch
+swiss-meetup.ch
 swiss-mega-store.ch
 swiss-megapark.ch
 swiss-megastore.ch
@@ -7157,7 +7156,6 @@ swiss-nature-photo.ch
 swiss-nature.ch
 swiss-naturepig.ch
 swiss-naturhaus.ch
-swiss-nautic-drive.ch
 swiss-nautic-school.ch
 swiss-nautic.ch
 swiss-nautica.ch
@@ -8417,6 +8415,7 @@ swiss-scooter-shop.ch
 swiss-scootershop.ch
 swiss-scoots.ch
 swiss-scope.ch
+swiss-scoreboard.ch
 swiss-scot.ch
 swiss-scoutchalet.ch
 swiss-screening.ch
@@ -9000,6 +8999,7 @@ swiss-storeconcept.ch
 swiss-storedesign.ch
 swiss-storen.ch
 swiss-storenbau.ch
+swiss-stores-ge.ch
 swiss-stores.ch
 swiss-storesrenov.ch
 swiss-stories.ch
@@ -9019,6 +9019,7 @@ swiss-string.ch
 swiss-strips.ch
 swiss-strongman.ch
 swiss-structures.ch
+swiss-students-abroad.ch
 swiss-studies.ch
 swiss-studio.ch
 swiss-studios.ch
@@ -10472,6 +10473,7 @@ swissairporttaxi.ch
 swissairporttaxis.ch
 swissairporttransfer.ch
 swissairporttransfers.ch
+swissairporttransport.ch
 swissairracingteam.ch
 swissairrescue.ch
 swissairroller.ch
@@ -13625,6 +13627,7 @@ swissclingen.ch
 swissclinic.ch
 swissclinic4revitalization.ch
 swissclinicalmovement.ch
+swissclinicalstandardsboard.ch
 swissclinicalthermography.ch
 swissclinicalthermology.ch
 swissclinicfinder.ch
@@ -16342,6 +16345,7 @@ swissfacades.ch
 swissface.ch
 swissfacebody.ch
 swissfaceclinic.ch
+swissfacelift.ch
 swissfaces.ch
 swissfachanwalt.ch
 swissfachhandel.ch
@@ -17272,6 +17276,8 @@ swissgala.ch
 swissgalabau.ch
 swissgalactic.ch
 swissgalacticfederation.ch
+swissgalacticoutpost.ch
+swissgalaticoutpost.ch
 swissgalaxy.ch
 swissgalenix.ch
 swissgallery.ch
@@ -19059,7 +19065,6 @@ swissinfopoint.ch
 swissinform.ch
 swissinformatics.ch
 swissinformatik.ch
-swissinforms.ch
 swissinfos.ch
 swissinfosec.ch
 swissinfotech.ch
@@ -20163,7 +20168,6 @@ swisslemanicweed.ch
 swisslemanrenov.ch
 swisslemon.ch
 swisslend.ch
-swisslenders.ch
 swisslending.ch
 swisslens.ch
 swisslenses.ch
@@ -21483,6 +21487,7 @@ swissmesser.ch
 swissmeta.ch
 swissmetabolomics.ch
 swissmetal.ch
+swissmetalfestival.ch
 swissmetalheads.ch
 swissmetall-huber.ch
 swissmetall-kabelrecycling.ch
@@ -21662,6 +21667,7 @@ swissmla.ch
 swissmllm.ch
 swissmlm.ch
 swissmls.ch
+swissmm.ch
 swissmms.ch
 swissmnt.ch
 swissmntnetwork.ch
@@ -21985,6 +21991,7 @@ swissmtp.ch
 swissmu.ch
 swissmuletcup.ch
 swissmulletcup.ch
+swissmultifamilyoffice.ch
 swissmultigroupe.ch
 swissmultihub.ch
 swissmultimedia.ch
@@ -22151,7 +22158,6 @@ swissnaturelab.ch
 swissnaturhouse.ch
 swissnaturicum.ch
 swissnaturpower.ch
-swissnautic-drive.ch
 swissnautic-school.ch
 swissnautic.ch
 swissnauticacademy.ch
@@ -22637,6 +22643,7 @@ swissolitrade.ch
 swissolive.ch
 swissoliveirastables.ch
 swissoliveoilaward.ch
+swissolives.ch
 swissological.ch
 swissologie.ch
 swissology.ch
@@ -25285,7 +25292,6 @@ swissroad-safety.ch
 swissroadcaptain.ch
 swissroadcargo.ch
 swissroadmap.ch
-swissroadmobil.ch
 swissroadrider.ch
 swissroadrules.ch
 swissroads.ch
@@ -26577,7 +26583,6 @@ swisstaxplan.ch
 swisstaxpractice.ch
 swisstaxpro.ch
 swisstaxpros.ch
-swisstaxreturn.ch
 swisstaxreturns.ch
 swisstaxservice.ch
 swisstaxservices.ch
@@ -27088,6 +27093,7 @@ swisstopsport-eventforum.ch
 swisstopsport.ch
 swisstopspots.ch
 swisstoptours.ch
+swisstopvending.ch
 swisstopwalk.ch
 swisstopwein.ch
 swisstopzz.ch
@@ -27964,7 +27970,6 @@ swissvisa.ch
 swissvisainfo.ch
 swissvisasolutions.ch
 swissvisceralsurgeons.ch
-swissviscoflex.ch
 swissvisibility.ch
 swissvisio.ch
 swissvision-int.ch

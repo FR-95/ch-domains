@@ -340,7 +340,6 @@ c-intemporel.ch
 c-interpreting.ch
 c-it.ch
 c-itproductions.ch
-c-itrone.ch
 c-its.ch
 c-j.ch
 c-jaeger.ch

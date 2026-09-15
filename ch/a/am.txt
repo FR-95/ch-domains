@@ -267,6 +267,7 @@ am-p.ch
 am-parfums.ch
 am-park-gmbh.ch
 am-park.ch
+am-partners-consulting-group.ch
 am-partners.ch
 am-photo.ch
 am-pictures.ch
@@ -379,7 +380,6 @@ am-tor-du-bourg.ch
 am-tpv.ch
 am-trading.ch
 am-training.ch
-am-transferhilfen.ch
 am-transporte.ch
 am-trottenweiher-zofingen.ch
 am-ttc.ch
@@ -1510,7 +1510,6 @@ amargana.ch
 amarge.ch
 amargocita.ch
 amargot.ch
-amarhorizon.ch
 amari-amaline.ch
 amari-boutique.ch
 amari-hochwasser.ch
@@ -2392,7 +2391,6 @@ ambassadeur-du-vin.ch
 ambassadeur-du-vins.ch
 ambassadeur-just.ch
 ambassadeur-terroir.ch
-ambassadeur.ch
 ambassadeurdelabiere.ch
 ambassadeurdesspiritueux.ch
 ambassadeurduvin.ch
@@ -4027,7 +4025,6 @@ amematherapie.ch
 amembrez.ch
 amemetisse.ch
 amemorysaved.ch
-amen-holding.ch
 amen-magazin.ch
 amena-estate.ch
 amena-forch.ch
@@ -8635,4 +8632,3 @@ amzuerich.ch
 amzventure.ch
 amzyachting.ch
 amzz.ch
-amzzzi.ch

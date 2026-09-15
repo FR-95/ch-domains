@@ -193,7 +193,6 @@ sybosystemes.ch
 sybotics.ch
 sybox.ch
 sybrina.ch
-sybuddy.ch
 sybus.ch
 syc.ch
 sycadcom.ch
@@ -754,6 +753,7 @@ sylvie-orthobionomy.ch
 sylvie-perrinjaquet.ch
 sylvie-podio.ch
 sylvie-progin.ch
+sylvie-ramu.ch
 sylvie-rapillard.ch
 sylvie-reiki.ch
 sylvie-ruethemann.ch
@@ -2338,6 +2338,7 @@ synnet.ch
 synnex.ch
 synnexus.ch
 synniva.ch
+synnote.ch
 synnovia.ch
 syno-gtg.ch
 syno-praxis.ch
@@ -2786,6 +2787,7 @@ syoma.ch
 syonix.ch
 syons.ch
 syontos.ch
+syor.ch
 syoss.ch
 syost.ch
 syotics.ch

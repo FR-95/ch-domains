@@ -2157,6 +2157,7 @@ rueegg-repairs.ch
 rueegg-s.ch
 rueegg-schreinerei.ch
 rueegg-sieger-architekten.ch
+rueegg-software.ch
 rueegg-transporte.ch
 rueegg-treuhand.ch
 rueegg-zindel.ch
@@ -5038,6 +5039,7 @@ runplus.ch
 runpotec.ch
 runr.ch
 runrave.ch
+runreel.ch
 runrise.ch
 runrun.ch
 runrunrun.ch

@@ -7,7 +7,6 @@ ap-ag.ch
 ap-ahead.ch
 ap-air.ch
 ap-ar.ch
-ap-arch.ch
 ap-architecte.ch
 ap-architectes.ch
 ap-architektur.ch
@@ -1283,6 +1282,7 @@ apesec.ch
 apeserver.ch
 apesgroup.ch
 apesierre.ch
+apesion.ch
 apesn.ch
 apesoftwares-gmbh.ch
 apesoftwares.ch
@@ -3939,6 +3939,7 @@ apoumschau-kompakt.ch
 apoumschaukompakt.ch
 apova.ch
 apovault.ch
+apovea.ch
 apoveda.ch
 apoverglei.ch
 apovertreter.ch
@@ -3995,6 +3996,7 @@ app-dinego.ch
 app-echo.ch
 app-ecolelaguidee.ch
 app-efz.ch
+app-electrolux.ch
 app-emmental.ch
 app-engineering.ch
 app-entwickeln-lassen-schweiz.ch
@@ -5982,7 +5984,6 @@ apprentice-netcetera.ch
 apprentice.ch
 apprenticecoach.ch
 apprenticeship.ch
-apprenticeships.ch
 apprentie.ch
 apprenties.ch
 apprentigo.ch
@@ -6121,6 +6122,7 @@ appsagentur.ch
 appsanywhere.ch
 appsbit.ch
 appsbude.ch
+appsbyju.ch
 appscale.ch
 appscan.ch
 appschalten.ch
@@ -6971,7 +6973,6 @@ aptitudephysio.ch
 aptiv.ch
 aptiva.ch
 aptiview.ch
-aptivisia.ch
 aptix.ch
 aptkn.ch
 aptlt.ch

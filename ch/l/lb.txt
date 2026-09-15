@@ -1,3 +1,4 @@
+lb-26.ch
 lb-advisory.ch
 lb-ag.ch
 lb-airpark.ch
@@ -98,6 +99,7 @@ lb-webdesign.ch
 lb10.ch
 lb12.ch
 lb24.ch
+lb26.ch
 lb4.ch
 lb44.ch
 lb4creative.ch

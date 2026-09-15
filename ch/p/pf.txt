@@ -1330,7 +1330,6 @@ pfcroset.ch
 pfcs.ch
 pfcswiss.ch
 pfct.ch
-pfd-stiftung.ch
 pfd.ch
 pfdafflon.ch
 pfdelareuse.ch
@@ -2432,7 +2431,6 @@ pferdetaxi-eigenthal.ch
 pferdetaxi-fricktal.ch
 pferdetaxi.ch
 pferdetherapeuten.ch
-pferdetherapeutin.ch
 pferdetherapie-bienz.ch
 pferdetherapie-esb.ch
 pferdetherapie-frank.ch
@@ -3393,7 +3391,6 @@ pflanzenkulturen.ch
 pflanzenkupfer.ch
 pflanzenlabor.ch
 pflanzenladen.ch
-pflanzenlampe.ch
 pflanzenlampen.ch
 pflanzenlernen.ch
 pflanzenlerngarten.ch
@@ -3565,6 +3562,7 @@ pflanzmich.ch
 pflanzpapier.ch
 pflanzplaetz.ch
 pflanzplan.ch
+pflanzplaner.ch
 pflanzplanerin.ch
 pflanzplanung.ch
 pflanzplanungen.ch

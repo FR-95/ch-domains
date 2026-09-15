@@ -1164,7 +1164,6 @@ real-secure.ch
 real-security.ch
 real-senn-immo.ch
 real-service.ch
-real-shit.ch
 real-sim-pro.ch
 real-site.ch
 real-smart-home.ch
@@ -2303,6 +2302,7 @@ realty.ch
 realty1.ch
 realtyapp.ch
 realtydecor.ch
+realtyglobal.ch
 realtylab.ch
 realtyone.ch
 realtys.ch
@@ -2310,6 +2310,7 @@ realtystars.ch
 realtysuisse.ch
 realu.ch
 realue.ch
+realune.ch
 realunit.ch
 realunitriskmanagement.ch
 realunreal.ch
@@ -4161,6 +4162,7 @@ rechnerli.ch
 rechnerlotsen.ch
 rechnerschweiz.ch
 rechnex.ch
+rechnext.ch
 rechnify.ch
 rechnig.ch
 rechnig24.ch
@@ -4550,6 +4552,7 @@ rechtsanwalt-baden.ch
 rechtsanwalt-bankrecht.ch
 rechtsanwalt-basel.ch
 rechtsanwalt-baurecht.ch
+rechtsanwalt-berger.ch
 rechtsanwalt-berlin.ch
 rechtsanwalt-bern.ch
 rechtsanwalt-buegler.ch
@@ -5336,7 +5339,6 @@ recommandation-vaccination.ch
 recommandation.ch
 recommandations-vaccination.ch
 recommandations.ch
-recommande-en-ligne.ch
 recommend.ch
 recommendable.ch
 recommendation.ch
@@ -6487,6 +6489,7 @@ red-fix.ch
 red-flag.ch
 red-fox-wittenbach.ch
 red-fox.ch
+red-game.ch
 red-gym.ch
 red-handling.ch
 red-head.ch
@@ -7293,6 +7296,7 @@ redfrost.ch
 redfury-labs.ch
 redfussball.ch
 redfutsal.ch
+redgame.ch
 redgamepass.ch
 redgarter.ch
 redgate.ch
@@ -7505,6 +7509,7 @@ redknightsswitzerland.ch
 redl.ch
 redlab.ch
 redlabel.ch
+redlabmusic.ch
 redlakefilms.ch
 redlan.ch
 redland-resources.ch
@@ -7885,6 +7890,7 @@ redring.ch
 redrink.ch
 redrive.ch
 redriver.ch
+redroadrebels.ch
 redroc.ch
 redrock-bar.ch
 redrock-booking.ch
@@ -8826,6 +8832,7 @@ ref-kirchearlesheim.ch
 ref-kirchen-ag.ch
 ref-kirchenberufe.ch
 ref-kircheneintritt.ch
+ref-kirchenkreisglarusnord.ch
 ref-kirchetrimmis.ch
 ref-klingnau.ch
 ref-kloten.ch
@@ -9106,6 +9113,7 @@ refdue.ch
 refduernten.ch
 refdwk.ch
 refe.ch
+refeal.ch
 refect.ch
 refectio.ch
 refective.ch
@@ -9645,6 +9653,7 @@ reflex-wellness.ch
 reflex-zone.ch
 reflex-zora-messerli.ch
 reflex.ch
+reflexa-massage-terapie.ch
 reflexa.ch
 reflexag.ch
 reflexamassage-therapie.ch
@@ -11199,6 +11208,7 @@ regeratio.ch
 regermine.ch
 regersneffe.ch
 regese.ch
+regeste.ch
 reget.ch
 regets.ch
 regevent.ch
@@ -13947,6 +13957,7 @@ rehacom.ch
 rehacompass.ch
 rehaconcept.ch
 rehactif.ch
+rehactive.ch
 rehacura.ch
 rehadaheim.ch
 rehadirect.ch
@@ -18042,7 +18053,6 @@ reitnau.ch
 reitnau24.ch
 reitnauer.ch
 reitoase.ch
-reitpad-shop.ch
 reitpaedagogik-pegasus.ch
 reitpaedagogik-winterthur.ch
 reitpaedagogik.ch
@@ -19260,6 +19270,7 @@ relaxing-music.ch
 relaxing-video.ch
 relaxing-videos.ch
 relaxing.ch
+relaxinghome.ch
 relaxinghouse.ch
 relaxingmusic.ch
 relaxingsound.ch
@@ -19348,7 +19359,6 @@ relaxtax.ch
 relaxtech.ch
 relaxtempel.ch
 relaxtex.ch
-relaxthai.ch
 relaxthaimassage.ch
 relaxtheback.ch
 relaxthun.ch
@@ -20860,6 +20870,7 @@ remoeyer-fineart.ch
 remoeyer.ch
 remofasano.ch
 remofischer.ch
+remofitness.ch
 remoflury.ch
 remofoam.ch
 remoforrer.ch
@@ -21629,6 +21640,7 @@ renardrouge.ch
 renardsurlalune.ch
 renare.ch
 renaregna.ch
+renargastro.ch
 renaris.ch
 renaro.ch
 renart.ch
@@ -24304,6 +24316,7 @@ renoveconcept.ch
 renovecuisine.ch
 renovecuisines.ch
 renoveda.ch
+renovedesign.ch
 renoveetconstruis.ch
 renoveko.ch
 renovel.ch
@@ -25866,6 +25879,7 @@ rentsch-web.ch
 rentsch.ch
 rentschag.ch
 rentschberger.ch
+rentschelektrokontrolle.ch
 rentschhandwerk.ch
 rentschlegal.ch
 rentschler-stiftung.ch
@@ -26891,7 +26905,6 @@ repfinder.ch
 repfish-terrarien.ch
 repfix.ch
 repfl.ch
-repflix.ch
 repflow.ch
 repforge.ch
 repform.ch
@@ -27819,7 +27832,6 @@ resalio-therapie.ch
 resalog.ch
 resalpe.ch
 resalpina.ch
-resalt.ch
 resaltas.ch
 resam.ch
 resami.ch
@@ -28535,7 +28547,6 @@ reseta.ch
 resetandflow.ch
 resetandrise-coaching.ch
 resetandrise.ch
-resetbar.ch
 resetbuilding.ch
 resetbuildings.ch
 resetcenter.ch
@@ -30083,7 +30094,6 @@ resonne-et-sens.ch
 resonnecoursdechant.ch
 resono.ch
 resonor.ch
-resonus-finance.ch
 resonus-finanzen.ch
 resonus-immobilien.ch
 resonus-realestate.ch
@@ -31867,7 +31877,6 @@ restaurant-laclef.ch
 restaurant-lacolonne.ch
 restaurant-lacote.ch
 restaurant-lacoudre.ch
-restaurant-lacouronne-lesdiablerets.ch
 restaurant-lacroixdor.ch
 restaurant-lacroixfederale.ch
 restaurant-lacroixverte.ch
@@ -32198,6 +32207,7 @@ restaurant-opfikon.ch
 restaurant-opus.ch
 restaurant-orchid.ch
 restaurant-orient.ch
+restaurant-orientpalace.ch
 restaurant-origine.ch
 restaurant-orion.ch
 restaurant-orologio.ch
@@ -33051,6 +33061,7 @@ restaurantbaerenwinterthur.ch
 restaurantbaettwil.ch
 restaurantbahnhoefli-duebendorf.ch
 restaurantbahnhoeflidinhard.ch
+restaurantbahnhof-gelterkinden.ch
 restaurantbahnhof.ch
 restaurantbahnhofau.ch
 restaurantbahnhofdurnten.ch
@@ -35704,7 +35715,6 @@ retogehring.ch
 retogerber.ch
 retogermann.ch
 retogertsch.ch
-retogfeller.ch
 retogiannini.ch
 retogilly.ch
 retogmuer.ch
@@ -36493,6 +36503,7 @@ retrospect.ch
 retrospective-winterthur.ch
 retrospective.ch
 retrospectyves.ch
+retrospeed.ch
 retrospekt.ch
 retrospektive.ch
 retrospiele.ch

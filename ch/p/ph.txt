@@ -1453,6 +1453,7 @@ pharmatechnik.ch
 pharmatechnologe.ch
 pharmatechnologie.ch
 pharmatel.ch
+pharmatests.ch
 pharmatext.ch
 pharmatexte.ch
 pharmathek.ch
@@ -2445,7 +2446,6 @@ philipkaiser.ch
 philipkeller.ch
 philipkerschbaum.ch
 philipkiefer.ch
-philipkloeti.ch
 philipkobelt.ch
 philipkuebler.ch
 philipkurmann.ch
@@ -2967,6 +2967,7 @@ philippetripodi.ch
 philippetrombert.ch
 philippetschumi.ch
 philippevarone.ch
+philippeverhaeghe.ch
 philippevilloz.ch
 philippevogt.ch
 philippevuillemin.ch
@@ -3450,6 +3451,8 @@ philosophai.ch
 philosophe.ch
 philosophenweg.ch
 philosopher.ch
+philosopherie.ch
+philosopheries.ch
 philosophers-oerlikon.ch
 philosophes-secundus.ch
 philosophes.ch
@@ -3793,7 +3796,6 @@ phlogistone.ch
 phlogistonesa.ch
 phlov.ch
 phlow.ch
-phlowadvisory.ch
 phlox.ch
 phloxtreuhand.ch
 phlp.ch
@@ -4081,7 +4083,6 @@ phoenixacademy.ch
 phoenixadvisory.ch
 phoenixagency.ch
 phoenixakademie.ch
-phoenixakupunktur.ch
 phoenixamh.ch
 phoenixancientart.ch
 phoenixarchitekten.ch
@@ -6690,6 +6691,7 @@ physio-aaheim.ch
 physio-aarau.ch
 physio-aathal.ch
 physio-abbenhaus.ch
+physio-abplanalp.ch
 physio-abroad.ch
 physio-academy.ch
 physio-achilleion.ch
@@ -8423,6 +8425,7 @@ physiobiel.ch
 physiobienne.ch
 physiobike.ch
 physiobikeswiss.ch
+physiobill.ch
 physiobimbahnhof.ch
 physiobio.ch
 physiobioux.ch
@@ -9662,6 +9665,7 @@ physiosoins-lausanne.ch
 physiosoins-rolle.ch
 physiosoins.ch
 physiosoinsadomicile.ch
+physiosol.ch
 physiosolothurn.ch
 physiosolution.ch
 physiosolutions.ch

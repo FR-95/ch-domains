@@ -268,6 +268,7 @@ baarerbier.ch
 baarerdomu.ch
 baarerhaus.ch
 baarerhof.ch
+baarerhonig.ch
 baarerkammerorchester.ch
 baarerknoblauch.ch
 baarermatte.ch
@@ -1690,6 +1691,7 @@ babypack.ch
 babypalace-spa.ch
 babypalacespa.ch
 babypalast.ch
+babypanda.ch
 babyparadies-schweiz.ch
 babyparadies.ch
 babypark.ch
@@ -3095,6 +3097,7 @@ back2life-switzerland.ch
 back2life.ch
 back2ma.ch
 back2nature-hundetraining.ch
+back2nature-schweiz.ch
 back2nature-yoga.ch
 back2nature.ch
 back2noise.ch
@@ -6526,6 +6529,7 @@ baeren-veltheim.ch
 baeren-verlag.ch
 baeren-villnachern.ch
 baeren-vorderthal.ch
+baeren-wabern.ch
 baeren-walkringen.ch
 baeren-wangen.ch
 baeren-wengen.ch
@@ -8404,6 +8408,7 @@ bahnhof-taxi.ch
 bahnhof-treff-adliswil.ch
 bahnhof-treff.ch
 bahnhof-west.ch
+bahnhof-wil.ch
 bahnhof-zahnarzt.ch
 bahnhof-zuerich.ch
 bahnhof-zuerichhb.ch
@@ -9118,7 +9123,6 @@ baisegay.ch
 baisejuste.ch
 baisemoi.ch
 baisenville.ch
-baisepartelephone.ch
 baiser-gratuitement.ch
 baiser.ch
 baiserenville.ch
@@ -9489,7 +9493,6 @@ bakibo.ch
 bakic.ch
 bakicavdar.ch
 bakickulstrunk.ch
-bakigmbh.ch
 bakiko.ch
 bakikur.ch
 bakikurholz.ch
@@ -10336,7 +10339,6 @@ balconyjungle.ch
 balconypeppers.ch
 balconysmash.ch
 balconysolar.ch
-balcosol.ch
 balcowatch.ch
 balcun-at.ch
 balczarczyk.ch
@@ -10742,6 +10744,7 @@ balik-kitchen.ch
 balik.ch
 balikatan.ch
 balikbayan.ch
+balikfarm.ch
 balikkitchen.ch
 balikowski.ch
 balikstudio.ch
@@ -11089,7 +11092,6 @@ balkonversand.ch
 balkonvorhaenge.ch
 balkony.ch
 balkonzauber.ch
-balkosol.ch
 balkotec.ch
 balkow.ch
 ball-advisory.ch
@@ -11913,6 +11915,7 @@ ballstad.ch
 ballstars.ch
 ballstretcher.ch
 balltastic-kurse.ch
+balltastic.ch
 balltreffpunkt.ch
 balltrix.ch
 ballucci.ch
@@ -12297,6 +12300,7 @@ balor.ch
 balora.ch
 balota-exclusive.ch
 balotes.ch
+baloti.ch
 balotia.ch
 balotravel.ch
 balott.ch
@@ -14204,7 +14208,6 @@ banhmibike.ch
 banhmibros-stgallen.ch
 banhmicao.ch
 banhmilimmatladen.ch
-banhmimaily.ch
 banhmipholuzern.ch
 banhmisaigon.ch
 banhmivietnam.ch
@@ -14761,6 +14764,7 @@ bankofdata.ch
 bankofengland.ch
 bankofgaju.ch
 bankofgajus.ch
+bankofgeorgia.ch
 bankofnewyorkmellon.ch
 bankofspirits.ch
 bankofvalue.ch
@@ -15521,6 +15525,7 @@ bapoly.ch
 bapot.ch
 bapp.ch
 bappsvr.ch
+bappy.ch
 bapr-e.ch
 baprico.ch
 bapro.ch
@@ -20143,6 +20148,7 @@ baseforflow.ch
 baseforjobs.ch
 baseforpeople.ch
 baseforte.ch
+basefoxi.ch
 basefp.ch
 baseful.ch
 basegeneva.ch
@@ -20565,6 +20571,7 @@ baselacoustic.ch
 baselacoustics.ch
 baselactionforaid.ch
 baseladora.ch
+baselaifestival.ch
 baselairport.ch
 baselaktuell.ch
 baselanwaelte.ch
@@ -24006,6 +24013,7 @@ battaglia-events.ch
 battaglia-gips.ch
 battaglia-granit.ch
 battaglia-gruppe.ch
+battaglia-immobilien.ch
 battaglia-italy.ch
 battaglia-kieswerk.ch
 battaglia-landmaschinen.ch
@@ -25767,6 +25775,7 @@ bauduccio.ch
 baududas.ch
 baududis.ch
 bauduin.ch
+bauduo.ch
 baudvision.ch
 baudy.ch
 baudyn-award.ch
@@ -27046,6 +27055,7 @@ baukongresse.ch
 baukonkurs.ch
 baukonsortium.ch
 baukonstrukt.ch
+baukonsulat.ch
 baukontakt.ch
 baukontext.ch
 baukontor.ch
@@ -27806,6 +27816,7 @@ baumarbeit.ch
 baumarbeiten.ch
 baumard.ch
 baumarep.ch
+baumarket.ch
 baumarketing.ch
 baumarkt-bender.ch
 baumarkt-hobby.ch
@@ -29170,6 +29181,7 @@ bauquartier.ch
 bauquelle-gmbh.ch
 bauquip.ch
 bauquis.ch
+bauquote.ch
 baur-ag.ch
 baur-agrar-garten.ch
 baur-agrar.ch
@@ -31269,3 +31281,4 @@ bazzotti.ch
 bazzta.ch
 bazzu.ch
 bazzurricostruzioni.ch
+bazzuru.ch

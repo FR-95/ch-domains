@@ -1907,7 +1907,6 @@ padelfitlugano.ch
 padelflex.ch
 padelflow.ch
 padelforever.ch
-padelforge.ch
 padelfour.ch
 padelfrenkendorf.ch
 padelfreunde.ch
@@ -3643,6 +3642,7 @@ paket-schweiz-eu.ch
 paket-sendung.ch
 paket-sendungen.ch
 paket-station.ch
+paket-status.ch
 paket-versand.ch
 paket.ch
 paketanlage.ch
@@ -5725,6 +5725,7 @@ panamasuizo.ch
 panamatravel.ch
 panamavan.ch
 panamby.ch
+panamedia.ch
 panameradays.ch
 panamerica.ch
 panamericana.ch
@@ -9116,7 +9117,6 @@ papilu.ch
 papilunea.ch
 papimachtfrisur.ch
 papimami.ch
-papimarkt.ch
 papimi.ch
 papimoustache.ch
 papin.ch
@@ -10167,7 +10167,6 @@ paraibatourmaline.ch
 paraibatourmalines.ch
 paraibaturmalin.ch
 paraibaturmaline.ch
-paraibaworldswiss.ch
 parailes.ch
 parainesis.ch
 parainfo.ch
@@ -13404,6 +13403,7 @@ parlareitaliano.ch
 parlarepuosalvare.ch
 parlarimmobilien.ch
 parlaroo.ch
+parlatealconducente.ch
 parlatedesco.ch
 parlateviconnoi.ch
 parlatorium.ch
@@ -13443,7 +13443,6 @@ parlerei.ch
 parlerenpublic.ch
 parlerfranc.ch
 parlerfrancs.ch
-parleria.ch
 parlerlabouchepleine.ch
 parlerparent.ch
 parlerparents.ch
@@ -14124,6 +14123,7 @@ parslogistics.ch
 parsly.ch
 parsmarket.ch
 parsnet.ch
+parso.ch
 parsol.ch
 parson-jack-russell.ch
 parson.ch
@@ -14211,6 +14211,7 @@ partasio.ch
 partattack.ch
 partcat.ch
 partcatalog.ch
+partcircle.ch
 partdesign.ch
 partdesoi.ch
 partdieu.ch
@@ -16648,6 +16649,7 @@ pascalpiller.ch
 pascalprince.ch
 pascalprobst.ch
 pascalpulli.ch
+pascalquaiser.ch
 pascalraemy.ch
 pascalralo.ch
 pascalrebsamen.ch
@@ -17437,6 +17439,7 @@ passemusique.ch
 passemusiques.ch
 passen-partner.ch
 passend-lernen.ch
+passend-rekrutieren.ch
 passend.ch
 passend27e.ch
 passende-patienten.ch
@@ -19640,6 +19643,7 @@ pathwise.ch
 pathword.ch
 pathwork-staefa.ch
 pathwork.ch
+pathworkleadership.ch
 pathworks.ch
 pathworkstech.ch
 pathya.ch
@@ -23769,6 +23773,7 @@ pawsandyou.ch
 pawsaventure.ch
 pawsbeans.ch
 pawsconcierge.ch
+pawsec.ch
 pawservices.ch
 pawsforcause.ch
 pawsgarden.ch
@@ -24030,7 +24035,6 @@ pay-novate.ch
 pay-online.ch
 pay-out.ch
 pay-over.ch
-pay-pal.ch
 pay-pass.ch
 pay-pay.ch
 pay-per-call.ch

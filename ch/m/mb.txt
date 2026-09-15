@@ -1583,8 +1583,6 @@ mbx.ch
 mbxdc.ch
 mbxgruppe.ch
 mbxsa.ch
-mbxw.ch
-mbxwhispers.ch
 mby.ch
 mbym.ch
 mbymascot.ch

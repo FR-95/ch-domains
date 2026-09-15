@@ -7553,7 +7553,6 @@ vortexdrill.ch
 vortexgroup.ch
 vortexhaus.ch
 vortexhealing.ch
-vortexhub.ch
 vortexia.ch
 vortexinvestmentgroup.ch
 vortexis.ch
@@ -8042,7 +8041,6 @@ votre-appartement.ch
 votre-argent.ch
 votre-assistante.ch
 votre-assurance-auto.ch
-votre-avis.ch
 votre-avocat.ch
 votre-avocate.ch
 votre-banque.ch
@@ -9050,7 +9048,6 @@ voyant-medium-adama.ch
 voyant-medium-africain.ch
 voyant-medium-david.ch
 voyant-medium-erwin.ch
-voyant-medium-kara.ch
 voyant-medium-michel.ch
 voyant-medium-nathanael.ch
 voyant-medium-richard.ch

@@ -272,7 +272,6 @@ ciaorobi.ch
 ciaosandra.ch
 ciaosepp.ch
 ciaostau.ch
-ciaosvizzera.ch
 ciaotaxi-service.ch
 ciaotaxi.ch
 ciaotu.ch
@@ -284,7 +283,6 @@ ciapparelli.ch
 ciapponi.ch
 ciapps.ch
 ciaps.ch
-ciar-lausanne.ch
 ciar.ch
 ciara.ch
 ciarabaudet.ch
@@ -723,7 +721,6 @@ cidre-suisse.ch
 cidre.ch
 cidrealpine.ch
 cidrederaisin.ch
-cidreduvalais.ch
 cidregeneve.ch
 cidrelevulcain.ch
 cidrepok.ch
@@ -1720,6 +1717,7 @@ cinapps.ch
 cinar-reinigungen.ch
 cinar.ch
 cinarcrm.ch
+cinarholistic.ch
 cinaroll4u.ch
 cinas-media.ch
 cinas.ch
@@ -3269,6 +3267,7 @@ circuit-breaker.ch
 circuit-court.ch
 circuit-de-courses.ch
 circuit-de-lignieres.ch
+circuit-friction.ch
 circuit-parts.ch
 circuit-secret.ch
 circuit.ch
@@ -3948,6 +3947,7 @@ cisterna.ch
 cisti.ch
 cisto-maristella.ch
 cisto.ch
+cistrans.ch
 cistus-kretzschko.ch
 cistus.ch
 cisv.ch

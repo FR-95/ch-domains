@@ -102,7 +102,6 @@ foamster.ch
 foamy.ch
 foas.ch
 foava.ch
-foavasoap.ch
 fob-engineering.ch
 fob-mgt.ch
 fob-swiss-expert.ch
@@ -359,7 +358,6 @@ focus-treuhand.ch
 focus-tva.ch
 focus-verlag.ch
 focus-vs.ch
-focus-watch.ch
 focus-water.ch
 focus-winterthur.ch
 focus-you.ch
@@ -631,7 +629,6 @@ focusvitaminwasser.ch
 focusvitaminwater.ch
 focuswandel.ch
 focuswanner.ch
-focuswatch.ch
 focuswater-care.ch
 focuswater-immunity.ch
 focuswater-kick.ch
@@ -1569,6 +1566,7 @@ fokus-wechsel.ch
 fokus-weiterbildung.ch
 fokus-wirtschaftsberatung.ch
 fokus-wohlbefinden.ch
+fokus-workshop.ch
 fokus-zusammenleben.ch
 fokus.ch
 fokus24.ch
@@ -1858,7 +1856,6 @@ folgedeinemherzen.ch
 folgedemgold.ch
 folgedemsilber.ch
 folgederfreude.ch
-folgen.ch
 folgeo.ch
 folger-dental.ch
 folger-gmbh.ch
@@ -2268,7 +2265,6 @@ followhub.ch
 followimmobilien.ch
 following-jesus.ch
 following-john.ch
-following-life.ch
 following.ch
 followingjesus.ch
 followingnature.ch
@@ -3817,6 +3813,7 @@ fondazionevallemorobbia.ch
 fondazionevanoni.ch
 fondazionevcl1895.ch
 fondazioneverzasca.ch
+fondazionevicari.ch
 fondazionevita.ch
 fondazionevolkart.ch
 fondazionewidar.ch
@@ -3840,6 +3837,7 @@ fondepi.ch
 fonder-construire-habiter.ch
 fonder.ch
 fondera-immobilier.ch
+fondera.ch
 fonderchef.ch
 fonderiawasser.ch
 fonderie-art.ch
@@ -15419,6 +15417,7 @@ fourmi-vaud.ch
 fourmi.ch
 fourmidesbrumes.ch
 fourmidor.ch
+fourmigmbh.ch
 fourmilab.ch
 fourmiliere-lonay.ch
 fourmirouge.ch

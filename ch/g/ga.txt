@@ -2744,6 +2744,10 @@ gainers.ch
 gaines-thermoretractables.ch
 gainfactory.ch
 gainimmobilier.ch
+gainimmobilierfribourg.ch
+gainimmobiliergeneve.ch
+gainimmobiliervalais.ch
+gainimmobiliervaud.ch
 gainin.ch
 gainmocostablanca.ch
 gainmoretime.ch
@@ -2757,6 +2761,9 @@ gainsbourg.ch
 gainsfortrains.ch
 gainsimmo.ch
 gainsimmobiliers.ch
+gainsimmobiliersfribourg.ch
+gainsimmobiliersgeneve.ch
+gainsimmobiliersvaud.ch
 gainsville.ch
 gaint.ch
 gaintec.ch
@@ -3103,6 +3110,7 @@ galarino.ch
 galarte.ch
 galartery.ch
 galartis.ch
+galary.ch
 galas.ch
 galasersolutions.ch
 galashop.ch
@@ -3742,6 +3750,7 @@ galeriefahidtaghavi.ch
 galeriefermate.ch
 galeriefischer.ch
 galeriefleurie.ch
+galerieforesto.ch
 galeriefovea.ch
 galeriefrancoisfontaine.ch
 galeriefretesarts.ch
@@ -3882,6 +3891,7 @@ galerieseven.ch
 galerieskopia.ch
 galerieslafayette.ch
 galeriesmarchandes.ch
+galeriesmarchandeslephenix.ch
 galerieso.ch
 galeriesockel.ch
 galeriesolca.ch
@@ -5266,7 +5276,6 @@ game-rocker.ch
 game-room.ch
 game-rootserver.ch
 game-scout24.ch
-game-searcher.ch
 game-server.ch
 game-servers.ch
 game-set-match.ch
@@ -6820,6 +6829,7 @@ gantrisch-fotos.ch
 gantrisch-fruechte.ch
 gantrisch-garage.ch
 gantrisch-gastro.ch
+gantrisch-gewuerze.ch
 gantrisch-glace.ch
 gantrisch-gruppenhaeuser.ch
 gantrisch-hebamme.ch
@@ -7375,6 +7385,7 @@ gaosrestaurant.ch
 gaote.ch
 gaou.ch
 gaourivoyage.ch
+gaourivoyages.ch
 gaoweb.ch
 gaoweisseskreuz.ch
 gap-any.ch
@@ -7382,7 +7393,6 @@ gap-art.ch
 gap-caisses.ch
 gap-construction.ch
 gap-engineering.ch
-gap-finder.ch
 gap-gerechtigkeit.ch
 gap-handel.ch
 gap-immobilier.ch
@@ -9055,6 +9065,7 @@ garagealfter.ch
 garagealiu.ch
 garageallenspach.ch
 garageallrounder.ch
+garagealmeida.ch
 garagealpauto.ch
 garagealzetta.ch
 garageamaillard.ch
@@ -10259,6 +10270,7 @@ garagerallye.ch
 garagerallyecornol.ch
 garagercm.ch
 garagereber.ch
+garagereding.ch
 garagereichen.ch
 garagereichenbach.ch
 garagereichlin.ch
@@ -14720,6 +14732,7 @@ gastefany.ch
 gastehausbrig.ch
 gasteiger.ch
 gastein.ch
+gastelio.ch
 gasteltern.ch
 gasteo.ch
 gaster.ch
@@ -15019,6 +15032,7 @@ gasthof-sternen-seon.ch
 gasthof-sternen.ch
 gasthof-stniklaus.ch
 gasthof-stockhorn.ch
+gasthof-stoeckli.ch
 gasthof-tell.ch
 gasthof-teufelsschlucht.ch
 gasthof-tiefenau.ch
@@ -15028,6 +15042,7 @@ gasthof-waldhaeusern.ch
 gasthof-weinhof.ch
 gasthof-wellenberg.ch
 gasthof-wildmaa.ch
+gasthof-zimmermann.ch
 gasthof-zum-baeren-veltheim.ch
 gasthof-zum-kreuz.ch
 gasthof-zur-alten-post-bueren-an-der-aare.ch
@@ -16048,7 +16063,6 @@ gastroliner.ch
 gastrolines.ch
 gastrolingo.ch
 gastrolingua.ch
-gastrolink.ch
 gastrolino.ch
 gastroliving.ch
 gastroloc.ch
@@ -16081,7 +16095,6 @@ gastromanagerent.ch
 gastromance.ch
 gastromarina.ch
 gastromarket.ch
-gastromarketing.ch
 gastromarkt.ch
 gastromart.ch
 gastromaschinen.ch
@@ -16288,7 +16301,6 @@ gastronomy-and-control.ch
 gastronomy.ch
 gastronomydirect.ch
 gastronorm.ch
-gastronostra.ch
 gastronoteandco.ch
 gastronotruf.ch
 gastronov.ch
@@ -17059,6 +17071,7 @@ gatherfoundation.ch
 gathering.ch
 gatheringro.ch
 gatherings.ch
+gatheringtable.ch
 gatherlist.ch
 gatherly.ch
 gathernews.ch
@@ -17207,7 +17220,6 @@ gatze.ch
 gatzka.ch
 gatzsch.ch
 gau.ch
-gaub.ch
 gaube-kosmetik.ch
 gaube.ch
 gaubert.ch
@@ -17274,6 +17286,7 @@ gaudenz-electric.ch
 gaudenz-transport.ch
 gaudenz-transports.ch
 gaudenz-tscharner.ch
+gaudenz-zegg.ch
 gaudenz-zemp.ch
 gaudenz.ch
 gaudenzag.ch

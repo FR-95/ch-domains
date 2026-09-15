@@ -795,7 +795,6 @@ kehlkopfkrebs.ch
 kehlkopfoperiert.ch
 kehlkopfoperierte.ch
 kehlox.ch
-kehlphoto.ch
 kehls.ch
 kehlunternehmungenag.ch
 kehlvin.ch
@@ -979,7 +978,6 @@ kein-agentur.ch
 kein-ausstieg.ch
 kein-ausverkauf.ch
 kein-ausweg.ch
-kein-baby.ch
 kein-beifall-fuer-scheisse.ch
 kein-bier-vor-vier.ch
 kein-billigfleisch.ch
@@ -2765,6 +2763,7 @@ kemtec.ch
 kemtrade.ch
 kemtron.ch
 kemut.ch
+kemvly.ch
 kemwe.ch
 kemy.ch
 kemyflow.ch
@@ -3111,7 +3110,6 @@ keno.ch
 kenoa-mail.ch
 kenoa-sport.ch
 kenoa.ch
-kenobi.ch
 kenogarten.ch
 kenoma.ch
 kenon-caffe.ch
@@ -4398,6 +4396,7 @@ kernunnus.ch
 kernupdate.ch
 kernuster.ch
 kernux.ch
+kernvisier.ch
 kernvital.ch
 kernwaage.ch
 kernwaagen.ch
@@ -4768,6 +4767,7 @@ kesb-wiki.ch
 kesb-willisau-wiggertal.ch
 kesb-willisau.ch
 kesb-zh.ch
+kesb.ch
 kesbaffoltern.ch
 kesbagent.ch
 kesbanwaeltin.ch
@@ -6166,6 +6166,7 @@ keykeg.ch
 keykode.ch
 keykonsult.ch
 keyla-dancestudio.ch
+keyla.ch
 keylab.ch
 keylam.ch
 keyland.ch

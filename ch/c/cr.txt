@@ -710,7 +710,6 @@ cranio-cham.ch
 cranio-cina.ch
 cranio-claire-traber.ch
 cranio-claudia.ch
-cranio-cocoon.ch
 cranio-colaci.ch
 cranio-corina.ch
 cranio-cornelia-carlen.ch
@@ -2369,6 +2368,7 @@ cre-aktiv.ch
 cre-architecture.ch
 cre-arte.ch
 cre-arts.ch
+cre-ate.ch
 cre-azione.ch
 cre-cea.ch
 cre-do.ch
@@ -2721,7 +2721,6 @@ creacuore.ch
 creacuriozo.ch
 creacut.ch
 cread.ch
-creadamour.ch
 creadance.ch
 creadd.ch
 creade.ch
@@ -3102,6 +3101,7 @@ creamracer.ch
 creams.ch
 creamtop.ch
 creamtorte.ch
+creamtv.ch
 creamunt.ch
 creamus.ch
 creamusigogica.ch
@@ -5043,6 +5043,7 @@ creazauber.ch
 creazen.ch
 creazi.ch
 creazione-a-z.ch
+creazione-arcobaleno.ch
 creazione-carusone.ch
 creazione-gmbh.ch
 creazione-nails.ch
@@ -5808,7 +5809,6 @@ creevisonarybuilding.ch
 creewn.ch
 creewnindustry.ch
 creeycrea.ch
-creez-medical.ch
 creez.ch
 creffield.ch
 crefida.ch
@@ -9328,7 +9328,6 @@ crowd-direct.ch
 crowd-estate.ch
 crowd-evidence.ch
 crowd-farming.ch
-crowd-fox.ch
 crowd-funding.ch
 crowd-funds.ch
 crowd-gis.ch
@@ -9406,7 +9405,6 @@ crowdfounding.ch
 crowdfox-business.ch
 crowdfox.ch
 crowdfund.ch
-crowdfunder.ch
 crowdfunders.ch
 crowdfundim.ch
 crowdfunding-campus.ch
@@ -10527,7 +10525,6 @@ cryp-gmbh.ch
 cryp.ch
 crypberg.ch
 crypbot.ch
-crypcapinvest.ch
 crypdex.ch
 crypdonate.ch
 crype.ch

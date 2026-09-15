@@ -691,7 +691,6 @@ kada-hairandstyle.ch
 kada-reinigung.ch
 kada.ch
 kadaa.ch
-kadabain.ch
 kadabra.ch
 kadacare.ch
 kadachi.ch
@@ -4244,7 +4243,6 @@ kalander.ch
 kalandra.ch
 kalangosfoundation.ch
 kalani.ch
-kalanihealing.ch
 kalanis-jewellery.ch
 kalaniwake.ch
 kalanobleas.ch
@@ -5731,6 +5729,7 @@ kamer-consulting.ch
 kamer-kuechen.ch
 kamer-montagen.ch
 kamer-schuerwies.ch
+kamer-transport.ch
 kamer.ch
 kamera-atex.ch
 kamera-blick.ch
@@ -6229,7 +6228,6 @@ kamiya.ch
 kamkai.ch
 kamke.ch
 kamkoum.ch
-kaml.ch
 kamla.ch
 kamlab.ch
 kamlae.ch
@@ -6337,6 +6335,7 @@ kammerjaeger-zuerichsee.ch
 kammerjaeger-zug.ch
 kammerjaeger-zurich.ch
 kammerjaeger.ch
+kammerjaeger24-zuerich.ch
 kammerjaeger24.ch
 kammerjaeger24h.ch
 kammerjaeger365.ch
@@ -10140,6 +10139,7 @@ kardiologie-brandt.ch
 kardiologie-breitenbach.ch
 kardiologie-brunnen.ch
 kardiologie-buchs.ch
+kardiologie-engadin.ch
 kardiologie-eriksson.ch
 kardiologie-frauenfeld.ch
 kardiologie-gmuer.ch
@@ -10381,6 +10381,7 @@ karfigestsa.ch
 karfiol.ch
 karfioli.ch
 karfoils.ch
+karfona.ch
 karfreitag.ch
 karftidee.ch
 karfunkel.ch
@@ -11483,7 +11484,6 @@ karli-holding.ch
 karli-isolation.ch
 karli-obst.ch
 karli.ch
-karli3.ch
 karli41.ch
 karlibau.ch
 karlidrive.ch
@@ -11618,7 +11618,6 @@ karm.ch
 karma-akademie.ch
 karma-arch.ch
 karma-b.ch
-karma-baden.ch
 karma-biografie.ch
 karma-biographie.ch
 karma-car.ch
@@ -12615,7 +12614,6 @@ kartenking.ch
 kartenkiosk.ch
 kartenklub.ch
 kartenkoenig.ch
-kartenkompass.ch
 kartenkonstrukt.ch
 kartenkult.ch
 kartenkumpel.ch
@@ -14184,6 +14182,7 @@ katamed-conference.ch
 katamed.ch
 katami.ch
 katamotz.ch
+katan-agency.ch
 katana-antik.ch
 katana-coaching.ch
 katana-group.ch

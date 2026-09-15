@@ -2069,7 +2069,6 @@ tids.ch
 tidswell-book-peridot.ch
 tidtell.ch
 tidy-app.ch
-tidy-spaces.ch
 tidy-team.ch
 tidy.ch
 tidyandclean.ch
@@ -2086,7 +2085,6 @@ tidylife.ch
 tidymess.ch
 tidys.ch
 tidyspace.ch
-tidyspaces.ch
 tidyte.ch
 tidythings.ch
 tidytime.ch
@@ -3899,6 +3897,7 @@ tierischharmonisch.ch
 tierischinform.ch
 tierischkommunikativ.ch
 tierischmenschlich.ch
+tierischmitki.ch
 tierischnachhaltig.ch
 tierischnaturlich.ch
 tierischplaudern.ch
@@ -5595,7 +5594,6 @@ tigramnelle.ch
 tigran.ch
 tigranepetrossian.ch
 tigrasa.ch
-tigrastyle.ch
 tigre-bianca.ch
 tigre.ch
 tigreasso.ch
@@ -5944,7 +5942,6 @@ tilemann.ch
 tilemaxx.ch
 tileo.ch
 tileplanner.ch
-tiler-storenbau.ch
 tiler.ch
 tileran.ch
 tilertedmac.ch
@@ -6455,7 +6452,6 @@ timberframe.ch
 timbergerag.ch
 timbergold.ch
 timbergrizzlys.ch
-timberhaus-schweiz.ch
 timberhaus.ch
 timberhill.ch
 timberhome.ch
@@ -6620,6 +6616,7 @@ timcon.ch
 timcontrade.ch
 timcora.ch
 timcreative.ch
+timdanielruf.ch
 timdavid.ch
 timdavoli.ch
 timdertrainer.ch
@@ -7721,6 +7718,7 @@ timhauser.ch
 timheeb.ch
 timherren.ch
 timherrmann.ch
+timhertweck.ch
 timherzig.ch
 timhirs.ch
 timhoch.ch
@@ -8278,6 +8276,7 @@ timtik.ch
 timtim.ch
 timtimber.ch
 timtime.ch
+timtimgastro.ch
 timtipps.ch
 timtom.ch
 timtrance.ch
@@ -8777,7 +8776,6 @@ tinhuberfotografie.ch
 tini-jardin.ch
 tini-toiture.ch
 tini.ch
-tinibaumi.ch
 tinibini.ch
 tinibrush.ch
 tinicompany.ch
@@ -9646,6 +9644,7 @@ tipai.ch
 tipak.ch
 tipalo.ch
 tipalti.ch
+tipandgloss.ch
 tipandwin.ch
 tipar.ch
 tiparade.ch

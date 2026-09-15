@@ -1374,6 +1374,7 @@ klarheim.ch
 klarheit-die-verbindet.ch
 klarheit-finden.ch
 klarheit-fundex.ch
+klarheit-gewinnen.ch
 klarheit-haben.ch
 klarheit-hoch-3.ch
 klarheit-im-gespraech.ch
@@ -1408,7 +1409,6 @@ klarheitsmethode.ch
 klarheitsraum.ch
 klarheitssession.ch
 klarheitstante.ch
-klarheitswelt.ch
 klarheitundfokus.ch
 klarheitundkraft.ch
 klarheitundverbindung.ch
@@ -2786,7 +2786,6 @@ kleeblatt-cup.ch
 kleeblatt-laufcup.ch
 kleeblatt-limeco.ch
 kleeblatt.ch
-kleeblatt1420.ch
 kleeblattrouten.ch
 kleeblattwerk.ch
 kleeblattzunft.ch
@@ -3210,6 +3209,7 @@ kleinbitch.ch
 kleinboesingen.ch
 kleinboesingen24.ch
 kleinbonum.ch
+kleinboothafen.ch
 kleinbrauerei.ch
 kleinbrod.ch
 kleinbruggen-chur.ch
@@ -3791,7 +3791,6 @@ kleinraffl.ch
 kleinrath-ag.ch
 kleinrath.ch
 kleinraum.ch
-kleinreparatur.ch
 kleinreparaturen-bern.ch
 kleinreparaturen.ch
 kleinreport.ch
@@ -4339,6 +4338,7 @@ klempner.ch
 klempner24.ch
 klempnerarbeiten.ch
 klempnerdienst24h.ch
+klempnerei-basel.ch
 klempnerei-boedeli.ch
 klempnerei.ch
 klena.ch
@@ -4776,6 +4776,7 @@ klickblick.ch
 klickboard.ch
 klickboden.ch
 klickbooster.ch
+klickbote.ch
 klickbox.ch
 klickbricks.ch
 klickbruecke.ch
@@ -7272,7 +7273,6 @@ klug.ch
 kluge-akademie.ch
 kluge-bauweise.ch
 kluge.ch
-klugeapotheke.ch
 klugefelle.ch
 klugefinanzen.ch
 klugegretel.ch

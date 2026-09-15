@@ -83,7 +83,6 @@ ja-oder-nein.ch
 ja-ohne-wenn-und-aber.ch
 ja-oui-si.ch
 ja-partei.ch
-ja-plakat.ch
 ja-plattenbelaege.ch
 ja-praxis.ch
 ja-punt.ch
@@ -144,6 +143,7 @@ ja-zu-kultur.ch
 ja-zu-miteinander.ch
 ja-zu-olten.ch
 ja-zu-tierversuchen.ch
+ja-zu-wil.ch
 ja-zu-wohnschutz.ch
 ja-zum-abbruchschutz.ch
 ja-zum-basler-wohnschutz.ch
@@ -173,6 +173,7 @@ ja-zum-leben-oberwallis.ch
 ja-zum-leben-zentral.ch
 ja-zum-leben.ch
 ja-zum-lebensraum-metalli.ch
+ja-zum-lindenplatz.ch
 ja-zum-mantelerlass.ch
 ja-zum-motorsport.ch
 ja-zum-pistenbauverbot.ch
@@ -3807,7 +3808,6 @@ jamie-jean-claude.ch
 jamie-lee-studio.ch
 jamie-p.ch
 jamie.ch
-jamieballmer.ch
 jamiechannel.ch
 jamieclark.ch
 jamiedas.ch
@@ -4232,6 +4232,7 @@ jananaumann.ch
 jananayoga.ch
 janandrin.ch
 janandrist.ch
+janani.ch
 jananifactory.ch
 jananowak.ch
 janaoliva-art.ch
@@ -5446,6 +5447,7 @@ jansfashion.ch
 jansgalerie.ch
 janshon.ch
 janshop.ch
+jansiclair.ch
 jansiegwart.ch
 jansigrist.ch
 jansimon.ch
@@ -6854,7 +6856,6 @@ jasiqirenovation.ch
 jasiridog.ch
 jasis.ch
 jasisonee.ch
-jasisshop.ch
 jasiste.ch
 jasiwerk.ch
 jasjuju.ch
@@ -6890,6 +6891,7 @@ jasmin-einschulung-sv.ch
 jasmin-engeli.ch
 jasmin-erguel.ch
 jasmin-estevez.ch
+jasmin-fabian.ch
 jasmin-faessler.ch
 jasmin-frei.ch
 jasmin-fuchs.ch
@@ -7945,6 +7947,7 @@ jayimmobilienfoto.ch
 jayit.ch
 jayjay-studio.ch
 jayjay.ch
+jayjayclub.ch
 jayjewellers.ch
 jaykai.ch
 jaykay.ch

@@ -2140,7 +2140,6 @@ duftring.ch
 duftringe.ch
 duftroom.ch
 duftsache.ch
-duftsack.ch
 duftsaeckli.ch
 duftsaeulen.ch
 duftsam.ch
@@ -2297,6 +2296,7 @@ dujourdil.ch
 duk.ch
 duk3rs.ch
 duka-gartenbau.ch
+duka-sa.ch
 duka-sarl.ch
 duka.ch
 dukaan-shop.ch
@@ -3247,6 +3247,7 @@ duodubas.ch
 duoduo.ch
 duoerin.ch
 duoesperanto.ch
+duoeupharmonique.ch
 duofatale.ch
 duofer.ch
 duoferfol.ch

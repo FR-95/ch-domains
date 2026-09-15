@@ -1122,6 +1122,7 @@ evawunderer.ch
 evax-moebel.ch
 evax-shop.ch
 evax.ch
+evax24.ch
 evay.ch
 evayo.ch
 evaytrade.ch
@@ -1909,7 +1910,6 @@ event-day-baselland.ch
 event-days.ch
 event-deejay.ch
 event-deko.ch
-event-dekoration.ch
 event-dekorationen.ch
 event-dekorationsmaterial.ch
 event-depot.ch
@@ -3405,7 +3405,6 @@ events-agency.ch
 events-alegria.ch
 events-artofliving.ch
 events-atioz.ch
-events-attisholz.ch
 events-az.ch
 events-balkan-swiss.ch
 events-basel.ch

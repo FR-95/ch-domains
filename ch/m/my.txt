@@ -77,7 +77,6 @@ my-appart-hotel.ch
 my-application.ch
 my-apps.ch
 my-aqm.ch
-my-aquarylic.ch
 my-ar.ch
 my-arc-en-flex.ch
 my-arc.ch
@@ -2379,7 +2378,6 @@ myappworld.ch
 myaptn.ch
 myaquaculturefarm.ch
 myaquarium.ch
-myaquarylic.ch
 myaquila.ch
 myaquilana.ch
 myar-gmbh.ch
@@ -7989,6 +7987,7 @@ mymoped.ch
 mymoria.ch
 mymorinagroup.ch
 mymorningafter.ch
+mymorosoli.ch
 mymortgage.ch
 mymory.ch
 mymosa.ch
@@ -8703,7 +8702,6 @@ myottos.ch
 myottoscars.ch
 myounity.ch
 myourhome.ch
-myourm.ch
 myousic.ch
 myoutdoor.ch
 myoutfit.ch
@@ -9430,7 +9428,6 @@ mypurebalance.ch
 mypurenature.ch
 mypureskin.ch
 mypurest.ch
-mypurr.ch
 myputter.ch
 mypuzzle.ch
 mypuzzles.ch
@@ -10233,6 +10230,7 @@ myseeds.ch
 myseestern.ch
 mysef.ch
 mysegway.ch
+myseitenklick.ch
 myselba.ch
 myselectdeals.ch
 myselection-ag.ch
@@ -11351,7 +11349,6 @@ myswissdocuments.ch
 myswissdoll.ch
 myswissdoor.ch
 myswissdoors.ch
-myswissdream.ch
 myswissdrive.ch
 myswissdriver.ch
 myswissenergy.ch
@@ -12785,7 +12782,6 @@ mywomen.ch
 mywomens.ch
 mywomo.ch
 mywonderland.ch
-mywoocommerce.ch
 mywood.ch
 mywoodin.ch
 mywoods.ch

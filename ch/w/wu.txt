@@ -1750,6 +1750,7 @@ wurfdesk.ch
 wurfelmenu.ch
 wurfelzuecker.ch
 wurfgleiter.ch
+wurfis.ch
 wurfmaschine.ch
 wurfmaterial-karneval.ch
 wurfmaterial.ch
@@ -2072,6 +2073,7 @@ wurzelstuebler.ch
 wurzelstufe.ch
 wurzeltod.ch
 wurzelundwolle.ch
+wurzelursprung.ch
 wurzelvier.ch
 wurzelvorhang.ch
 wurzelwaerch.ch

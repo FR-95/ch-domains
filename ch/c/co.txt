@@ -1454,6 +1454,7 @@ coaching-pferde.ch
 coaching-pg.ch
 coaching-place.ch
 coaching-planet.ch
+coaching-point.ch
 coaching-points.ch
 coaching-pony.ch
 coaching-portal.ch
@@ -1611,7 +1612,6 @@ coaching-und-meditation.ch
 coaching-und-mentoring.ch
 coaching-unitas.ch
 coaching-unlimited.ch
-coaching-unterwegs.ch
 coaching-ursi-marton.ch
 coaching-uster.ch
 coaching-varisco.ch
@@ -5170,7 +5170,6 @@ coffeeroastery.ch
 coffeeroom.ch
 coffeeruanda.ch
 coffeerun.ch
-coffeerunclubzug.ch
 coffees.ch
 coffeesamurai.ch
 coffeescout.ch
@@ -5929,7 +5928,6 @@ coiffeur-angelo-nolan.ch
 coiffeur-angelo.ch
 coiffeur-angi.ch
 coiffeur-anita-laufen.ch
-coiffeur-anna.ch
 coiffeur-annaabt.ch
 coiffeur-annajud.ch
 coiffeur-annarita.ch
@@ -7906,6 +7904,7 @@ coiffureallegra.ch
 coiffurealtstadt.ch
 coiffureamchileplatz.ch
 coiffureamgleis.ch
+coiffureandco.ch
 coiffureandre.ch
 coiffureandrea.ch
 coiffureanna.ch
@@ -8089,7 +8088,6 @@ coiffurekatrin.ch
 coiffurekauer.ch
 coiffurekaufmann.ch
 coiffureken.ch
-coiffurekueng.ch
 coiffurelabamba.ch
 coiffurelaloggia.ch
 coiffurelanita.ch
@@ -8231,6 +8229,7 @@ coiffuresuisseticino.ch
 coiffuresuissevs.ch
 coiffuresuissezh.ch
 coiffuresula.ch
+coiffuresunshine.ch
 coiffuresylvie.ch
 coiffuresz.ch
 coiffuretabea.ch
@@ -12357,6 +12356,7 @@ comedyduo.ch
 comedyexpress.ch
 comedyfestivalebikon.ch
 comedyfit.ch
+comedyforlife.ch
 comedyfrauen.ch
 comedygala.ch
 comedyguide.ch
@@ -13097,7 +13097,6 @@ comm-it.ch
 comm-neuf.ch
 comm-on.ch
 comm-online.ch
-comm-pme.ch
 comm-power.ch
 comm-tec-ag.ch
 comm-tec.ch
@@ -13667,7 +13666,6 @@ commpas.ch
 commpass.ch
 commpatible.ch
 commplus.ch
-commpme.ch
 commpower.ch
 commputer-college.ch
 commquat.ch
@@ -15244,6 +15242,7 @@ compensio.ch
 compenswiss.ch
 compenswlss.ch
 compentenc.ch
+compentencecorner.ch
 compentency.ch
 compeo.ch
 compeon.ch
@@ -15282,6 +15281,7 @@ competence-center-industry.ch
 competence-center.ch
 competence-coaching.ch
 competence-consulting.ch
+competence-corner.ch
 competence-demence.ch
 competence-hospitalforum.ch
 competence-it.ch
@@ -15842,6 +15842,7 @@ componeer.ch
 component.ch
 componenta.ch
 componentlanguage.ch
+componentory.ch
 components.ch
 componentsource.ch
 componentware.ch
@@ -18140,7 +18141,6 @@ conceptwine.ch
 conceptwise.ch
 conceptwohnen.ch
 conceptwork.ch
-conceptx.ch
 conceptyou.ch
 concere.ch
 concergia.ch
@@ -18440,6 +18440,7 @@ conclusion.ch
 conclusiondesign.ch
 conclusiondevente.ch
 conclusionexperience.ch
+conclusionintelligence.ch
 concluso.ch
 concoast.ch
 concoct.ch
@@ -22867,6 +22868,7 @@ consulting-si-gasser.ch
 consulting-solutions.ch
 consulting-suisse.ch
 consulting-swiss.ch
+consulting-tl.ch
 consulting-uebersax.ch
 consulting-vergleich.ch
 consulting-waser.ch
@@ -25602,7 +25604,6 @@ cookclub.ch
 cookcoin.ch
 cookcoins.ch
 cookcook.ch
-cookcouture.ch
 cookdefencesystems.ch
 cookdigital.ch
 cookdine.ch
@@ -27028,6 +27029,7 @@ coosti-songs.ch
 coosti.ch
 coosto.ch
 coot.ch
+cootalk.ch
 cooteg.ch
 cootlette.ch
 cooto.ch
@@ -27914,7 +27916,6 @@ coral-sky.ch
 coral-space.ch
 coral.ch
 corala.ch
-coralagro.ch
 coralalliance.ch
 coralanalytics.ch
 coralbay.ch
@@ -28384,6 +28385,7 @@ cordonbleu-roi.ch
 cordonbleu-winti.ch
 cordonbleu.ch
 cordonbleubeizli.ch
+cordonbleufestival.ch
 cordonbleuguide.ch
 cordonbleuhaus-zuerich.ch
 cordonbleuhauswatt.ch
@@ -28478,6 +28480,7 @@ cordy-maxime.ch
 cordy.ch
 cordyceps.ch
 cordys.ch
+cordyundlee.ch
 core-aesthetics.ch
 core-agency.ch
 core-ai.ch
@@ -29756,6 +29759,7 @@ cormatic.ch
 cormax.ch
 cormed-app.ch
 cormed.ch
+cormediq.ch
 cormega.ch
 cormelior.ch
 cormen.ch
@@ -32391,7 +32395,6 @@ cosilifeimmo.ch
 cosilux.ch
 cosily.ch
 cosima-naturopathe.ch
-cosima.ch
 cosimaballesteros.ch
 cosimacindy.ch
 cosimacleaning.ch
@@ -32896,15 +32899,14 @@ cosmicengineer.ch
 cosmicfactory.ch
 cosmicfashion.ch
 cosmicfield.ch
-cosmicflow.ch
 cosmicgarage.ch
-cosmicgarden.ch
 cosmicgirls.ch
 cosmicglit.ch
 cosmicgrind.ch
 cosmicgroupe.ch
 cosmichangover.ch
 cosmichealing-schweiz.ch
+cosmichealing.ch
 cosmichealingschweiz.ch
 cosmichuman.ch
 cosmicintent.ch
@@ -36849,7 +36851,6 @@ coworking-luzern.ch
 coworking-lyss.ch
 coworking-madeleine.ch
 coworking-morges.ch
-coworking-muensingen.ch
 coworking-mundaun.ch
 coworking-neuchatel.ch
 coworking-nyon.ch
@@ -36873,7 +36874,6 @@ coworking-savognin.ch
 coworking-schweiz.ch
 coworking-seefeld.ch
 coworking-sg.ch
-coworking-space-olten.ch
 coworking-space-schaffhausen.ch
 coworking-space-switzerland.ch
 coworking-space-zug.ch
@@ -36882,7 +36882,6 @@ coworking-spaces-zug.ch
 coworking-spaces.ch
 coworking-stans.ch
 coworking-steckborn.ch
-coworking-steffisburg.ch
 coworking-stekckborn.ch
 coworking-stgallen.ch
 coworking-suhr.ch
@@ -36975,7 +36974,6 @@ coworkingspaceplus.ch
 coworkingspacewengen.ch
 coworkingspacezurich.ch
 coworkingstabio.ch
-coworkingsteffisburg.ch
 coworkingsvizzera.ch
 coworkingt19bis.ch
 coworkingthun.ch

@@ -1159,7 +1159,6 @@ debbiefaessler.ch
 debbiefood.ch
 debbiefrank.ch
 debbielicious.ch
-debbiemarti.ch
 debbiepluchino.ch
 debbieramseier.ch
 debbies-dorfbeiz.ch
@@ -3177,6 +3176,7 @@ decouvrir-art.ch
 decouvrir-le-patrimoine.ch
 decouvrir-le-soleil.ch
 decouvrir-leconomie.ch
+decouvrir-ora.ch
 decouvrir-partager.ch
 decouvrir-un-stage.ch
 decouvrir.ch
@@ -11250,7 +11250,6 @@ demapharma.ch
 demar-ag.ch
 demar.ch
 demara.ch
-demarat-studio.ch
 demarcazione-mordasini.ch
 demarcazione.ch
 demarcazionemordasini.ch
@@ -15778,6 +15777,7 @@ depannages.ch
 depannages24.ch
 depannagesanitaire.ch
 depannageserrurier.ch
+depannageserrurier24.ch
 depannagesinformatiques.ch
 depannagessansfrontieres.ch
 depannageventilation.ch
@@ -16910,6 +16910,7 @@ der-packshop.ch
 der-pannenhelfer.ch
 der-parkettpfleger.ch
 der-partnertest.ch
+der-partykoch.ch
 der-partyraum.ch
 der-pate.ch
 der-patrick.ch
@@ -18026,7 +18027,6 @@ derhandel.ch
 derhandelslehrer.ch
 derhandschlag.ch
 derhandwerker.ch
-derhandyboss.ch
 derhansderkanns.ch
 derhardstyle.ch
 derhauptsitz.ch
@@ -19650,6 +19650,7 @@ derqueerealltag.ch
 derquereinstieg.ch
 derquerfloetenbauer.ch
 derr.ch
+derra-vending.ch
 derra.ch
 derrabe.ch
 derrahmen.ch
@@ -25294,7 +25295,6 @@ deviation.ch
 devibe.ch
 devibox.ch
 devicapluess.ch
-device-captcha.ch
 device-marketing.ch
 device-mode.ch
 device-now.ch

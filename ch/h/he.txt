@@ -2207,7 +2207,6 @@ heartstompers.ch
 heartstream.ch
 heartstrings.ch
 heartsurgery.ch
-heartsy.ch
 heartsync.ch
 hearttoart.ch
 hearttoheart.ch
@@ -2909,6 +2908,7 @@ hebammemutschellen.ch
 hebammen-aarau.ch
 hebammen-aargau-solothurn.ch
 hebammen-aargau.ch
+hebammen-aegerital.ch
 hebammen-ag.ch
 hebammen-am-werk.ch
 hebammen-basel.ch
@@ -3015,6 +3015,8 @@ hebammenmomente.ch
 hebammennetz.ch
 hebammenplattform.ch
 hebammenpraxis-aarekind.ch
+hebammenpraxis-aegeri.ch
+hebammenpraxis-aegerital.ch
 hebammenpraxis-appenzell.ch
 hebammenpraxis-baar.ch
 hebammenpraxis-basel.ch
@@ -3125,7 +3127,6 @@ hebammenzeitschrift-swiss.ch
 hebammenzeitschrift.ch
 hebammenzentrale.ch
 hebammenzimmer-laenggasse.ch
-hebammenzimmer.ch
 hebammenzuerich.ch
 hebammenzuerisee.ch
 hebammeoberwallis.ch
@@ -4490,7 +4491,6 @@ hegnor.ch
 hegnova.ch
 hego-baudienst.ch
 hego.ch
-hegoa.ch
 hegor.ch
 hegoshop.ch
 hegow.ch
@@ -6716,6 +6716,7 @@ heimiswiler.ch
 heimiswilerherz.ch
 heimito.ch
 heimitonolle.ch
+heimiur.ch
 heimjohnson.ch
 heimk.ch
 heimkaelte.ch
@@ -6947,7 +6948,6 @@ heimweh-shop.ch
 heimweh.ch
 heimwehbasler.ch
 heimwehdavoserin.ch
-heimwehfluh.ch
 heimwehladen.ch
 heimwehmusig.ch
 heimwehmusik.ch
@@ -13549,6 +13549,7 @@ helvetichelp.ch
 helvetichemp.ch
 helveticheritage.ch
 helvetichighlights.ch
+helvetichip.ch
 helvetichome.ch
 helvetichomes.ch
 helvetichord.ch
@@ -13873,7 +13874,6 @@ helvetimmosa.ch
 helvetims.ch
 helvetina.ch
 helveting.ch
-helvetino.ch
 helvetinova.ch
 helvetins.ch
 helvetinvest.ch
@@ -14233,6 +14233,7 @@ helvoise.ch
 helvolt.ch
 helvon.ch
 helvone.ch
+helvonick.ch
 helvonyx.ch
 helvoo.ch
 helvops.ch
@@ -14295,6 +14296,7 @@ hely-sommier.ch
 hely.ch
 helya.ch
 helyn.ch
+helyos.ch
 helys.ch
 helyum.ch
 helyumguides.ch
@@ -16216,7 +16218,6 @@ herbis.ch
 herbital.ch
 herbitrans.ch
 herbivore.ch
-herbix.ch
 herbizidfrei.ch
 herbligen.ch
 herbligen24.ch
@@ -17648,7 +17649,6 @@ heroslides.ch
 heroslocal.ch
 heroslocaux.ch
 herosordinaires.ch
-herospin.ch
 herospincas.ch
 herospinch.ch
 herosreseau.ch
@@ -18728,6 +18728,7 @@ herz-tanz.ch
 herz-team.ch
 herz-tiefe.ch
 herz-tier-mensch.ch
+herz-tiere.ch
 herz-tiershiatsu.ch
 herz-toene.ch
 herz-traum.ch
@@ -18795,6 +18796,7 @@ herzanherz-shop.ch
 herzanherz-verbunden.ch
 herzanherz.ch
 herzanker.ch
+herzankerlicht.ch
 herzanstri.ch
 herzanstrich.ch
 herzapfelhof.ch
@@ -19613,6 +19615,7 @@ herzlicht-bestattungsdienst.ch
 herzlicht-lichtherz.ch
 herzlicht-praxis.ch
 herzlicht.ch
+herzlichtaufgeraeumt.ch
 herzlichtbymonika.ch
 herzlichtcafe.ch
 herzlichter.ch
@@ -19981,7 +19984,6 @@ herzpraxisamsee.ch
 herzpraxisarlesheim.ch
 herzpraxisbaden.ch
 herzpraxisbasel.ch
-herzpraxisbirseck-anmeldeformular.ch
 herzpraxisbirseck.ch
 herzpraxisbrugg.ch
 herzpraxiscentral.ch
@@ -22027,7 +22029,6 @@ hexenbar-zermatt.ch
 hexenbar.ch
 hexenbarzermatt.ch
 hexenbesen.ch
-hexenbuch.ch
 hexenbulletin.ch
 hexenburg.ch
 hexencoachings.ch

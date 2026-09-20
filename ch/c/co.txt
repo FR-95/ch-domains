@@ -474,7 +474,6 @@ co2rhein.ch
 co2ribassato.ch
 co2rives.ch
 co2sanktion.ch
-co2schweiz.ch
 co2senker.ch
 co2sensor.ch
 co2shop.ch
@@ -1619,7 +1618,6 @@ coaching-vente.ch
 coaching-venture.ch
 coaching-vergleich.ch
 coaching-verkauf.ch
-coaching-verzeichnis.ch
 coaching-via.ch
 coaching-vie-energies.ch
 coaching-virtuelles-magenband.ch
@@ -2129,7 +2127,6 @@ coachingvan.ch
 coachingvaud.ch
 coachingvente.ch
 coachingventure.ch
-coachingverzeichnis.ch
 coachingview.ch
 coachingvirginie.ch
 coachingvisite.ch
@@ -3890,7 +3887,6 @@ codeck-basel.ch
 codeck.ch
 codecleaner.ch
 codeclic.ch
-codecloude.ch
 codeclub.ch
 codeclut.ch
 codeco-infrastructure.ch
@@ -4485,7 +4481,6 @@ codoz.ch
 codr.ch
 codraft.ch
 codrex.ch
-codrin.ch
 codrive.ch
 codriver.ch
 codriving.ch
@@ -5888,6 +5883,7 @@ coiffandco.ch
 coiffe-a-domicile.ch
 coiffe.ch
 coiffechezvous.ch
+coiffela.ch
 coiffemoi.ch
 coiffer-maison.ch
 coifferie.ch
@@ -8328,7 +8324,6 @@ coin2cash.ch
 coin360.ch
 coin4trade.ch
 coin4you.ch
-coinabo.ch
 coinagent.ch
 coinalp.ch
 coinasset.ch
@@ -10016,6 +10011,7 @@ collectorswat.ch
 collectorsworld.ch
 collectory.ch
 collectorzone.ch
+collectperfect.ch
 collectpro.ch
 collectr.ch
 collectshop.ch
@@ -10116,6 +10112,7 @@ collegiopapio.ch
 collegiosvizzero.ch
 collegium-cantorum.ch
 collegium-klangkunst.ch
+collegium-medicum.ch
 collegium-musicum.ch
 collegium-vocale-solothurn.ch
 collegium.ch
@@ -11124,7 +11121,6 @@ colors4umind.ch
 colorsberingen.ch
 colorschnyder.ch
 colorscustom.ch
-colorseasons.ch
 colorsec.ch
 colorserv.ch
 colorservice-rudin.ch
@@ -13387,9 +13383,7 @@ commercialagents.ch
 commercialarbitration.ch
 commercialbreak.ch
 commercialcleaning.ch
-commerciale-ibrido.ch
 commerciale.ch
-commercialeibrido.ch
 commercialexperts.ch
 commercialgate.ch
 commercialinnovation.ch
@@ -17755,6 +17749,7 @@ concento.ch
 concentoimmobilien.ch
 concentra.ch
 concentral.ch
+concentrate.ch
 concentration.ch
 concentrator.ch
 concentredid.ch
@@ -19053,6 +19048,7 @@ confederearchives.ch
 confederia.ch
 confedero.ch
 confedes.ch
+confedex.ch
 confedia.ch
 confedrix.ch
 confeedo.ch
@@ -19988,7 +19984,6 @@ coninx-museum.ch
 coninx.ch
 conio.ch
 conipur.ch
-coniq.ch
 coniqo.ch
 conira.ch
 conis-consulting.ch
@@ -22344,6 +22339,7 @@ constructives.ch
 constructmall.ch
 constructmusic.ch
 constructnow.ch
+constructo.ch
 constructo24.ch
 constructobot-admin.ch
 constructobot.ch
@@ -23927,6 +23923,7 @@ contentkosmos.ch
 contentlab-basel.ch
 contentlab.ch
 contentlabbasel.ch
+contentlarry.ch
 contentlingua.ch
 contentlions.ch
 contentlm.ch
@@ -24221,7 +24218,6 @@ continental-corporation.ch
 continental-dynamics.ch
 continental-fleetpartner.ch
 continental-handels-ag.ch
-continental-industry.ch
 continental-parkhotel.ch
 continental-pneus.ch
 continental-reifen.ch
@@ -24741,7 +24737,6 @@ control-home.ch
 control-it.ch
 control-ki.ch
 control-net.ch
-control-otrs.ch
 control-panel.ch
 control-power.ch
 control-products.ch
@@ -36851,6 +36846,7 @@ coworking-luzern.ch
 coworking-lyss.ch
 coworking-madeleine.ch
 coworking-morges.ch
+coworking-muensingen.ch
 coworking-mundaun.ch
 coworking-neuchatel.ch
 coworking-nyon.ch
@@ -36971,6 +36967,7 @@ coworkingspace-weggis.ch
 coworkingspace-zug.ch
 coworkingspace.ch
 coworkingspaceplus.ch
+coworkingspaces.ch
 coworkingspacewengen.ch
 coworkingspacezurich.ch
 coworkingstabio.ch

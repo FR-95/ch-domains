@@ -482,6 +482,7 @@ kud-abrasevic.ch
 kud-macedoine-echallens.ch
 kud-ras.ch
 kud-sloga.ch
+kud-svnaum.ch
 kud-zavicaj.ch
 kud.ch
 kuda.ch
@@ -3117,7 +3118,6 @@ kult-autopflege.ch
 kult-bier.ch
 kult-buch.ch
 kult-camper.ch
-kult-chuchi.ch
 kult-cycles.ch
 kult-design.ch
 kult-fahrzeuge.ch
@@ -10546,6 +10546,7 @@ kuwe.ch
 kuwey.ch
 kuwi.ch
 kuwin.ch
+kuwine.ch
 kuwinfo.ch
 kuwu.ch
 kux.ch

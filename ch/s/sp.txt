@@ -2892,6 +2892,8 @@ sparsharkmarc.ch
 sparshop.ch
 sparshops.ch
 sparsinn.ch
+sparsity.ch
+sparsitylabs.ch
 sparsmart.ch
 sparspass.ch
 sparstar.ch
@@ -6086,6 +6088,7 @@ sperandiopartner.ch
 speranza-21.ch
 speranza-boost.ch
 speranza-natura.ch
+speranza.ch
 speranza2000.ch
 speranza21.ch
 speranzamore.ch
@@ -11313,7 +11316,6 @@ spirituelle-alchemie.ch
 spirituelle-astrologie.ch
 spirituelle-ausbildungsakademie.ch
 spirituelle-auszeit.ch
-spirituelle-balance.ch
 spirituelle-begleitung.ch
 spirituelle-behandlung.ch
 spirituelle-beratung.ch
@@ -14141,8 +14143,6 @@ split-wp.ch
 split.ch
 split8.ch
 splitboard-adventures.ch
-splitboard-grindelwald.ch
-splitboard-rent-grindelwald.ch
 splitboard-shop.ch
 splitboard-testcenter.ch
 splitboard-testival.ch
@@ -18033,7 +18033,6 @@ sportteam24.ch
 sporttec.ch
 sporttech.ch
 sporttermine.ch
-sporttest.ch
 sporttests.ch
 sportthebridge.ch
 sporttheorie.ch
@@ -20660,7 +20659,6 @@ spservices.ch
 spsesame.ch
 spseuzachohringen.ch
 spsf.ch
-spsg-waehlen.ch
 spsg.ch
 spsgais.ch
 spsgarage.ch

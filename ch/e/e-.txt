@@ -478,7 +478,6 @@ e-brush.ch
 e-buchhalter.ch
 e-buchhaltung.ch
 e-buchs.ch
-e-budget.ch
 e-buechelag.ch
 e-buero.ch
 e-buetler.ch
@@ -2232,6 +2231,8 @@ e-ocean.ch
 e-odyssey.ch
 e-oe.ch
 e-ofcom.ch
+e-oferte.ch
+e-offerte.ch
 e-office.ch
 e-oil.ch
 e-okah.ch
@@ -2433,6 +2434,7 @@ e-prepa.ch
 e-prescription.ch
 e-prescrizione.ch
 e-presentation.ch
+e-preventivo.ch
 e-prica.ch
 e-print.ch
 e-printer.ch
@@ -2516,6 +2518,7 @@ e-quilibrium.ch
 e-quitable.ch
 e-quittung.ch
 e-quittungen.ch
+e-quote.ch
 e-qv.ch
 e-r-a.ch
 e-r-creativstudio.ch

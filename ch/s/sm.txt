@@ -607,7 +607,6 @@ smarede.ch
 smarendaz.ch
 smarendo.ch
 smarfac.ch
-smarfin.ch
 smargento-media.ch
 smargento.ch
 smarger.ch
@@ -3511,6 +3510,7 @@ smartpacks.ch
 smartpad.ch
 smartpadlock.ch
 smartpage.ch
+smartpager.ch
 smartpages.ch
 smartpan.ch
 smartpanel.ch

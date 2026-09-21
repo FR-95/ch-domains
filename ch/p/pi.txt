@@ -1720,7 +1720,6 @@ picklefloor.ch
 picklehall.ch
 picklepadelshop.ch
 picklepoint.ch
-pickler.ch
 pickles-academy.ch
 pickles-daddy.ch
 pickles.ch
@@ -2457,9 +2456,7 @@ pieddebiche.ch
 pieddemouche.ch
 pieddiabetique.ch
 pieddouloureux.ch
-piede-caviglia.ch
 piedecaviglia-ticino.ch
-piedecaviglia.ch
 piedediabetico.ch
 piedelion.ch
 pieder.ch
@@ -5190,7 +5187,6 @@ pilsenerbier.ch
 pilsner.ch
 pilsnerurquell.ch
 piltan.ch
-piltesetreiki.ch
 piltoning-by-moni.ch
 piltoverprints.ch
 pilu-land.ch
@@ -8453,7 +8449,6 @@ pisourd.ch
 pisp.ch
 pispashair.ch
 pispecs.ch
-pispicopasta.ch
 pispo.ch
 pisqual.ch
 piss.ch
@@ -8870,6 +8865,7 @@ pitchperfect.ch
 pitchpine.ch
 pitchpoint.ch
 pitchpower.ch
+pitchprogressfootball.ch
 pitchpulse.ch
 pitchr.ch
 pitchride.ch
@@ -12048,7 +12044,6 @@ pizzeria-aare.ch
 pizzeria-acquaefarina.ch
 pizzeria-adelboden.ch
 pizzeria-adler-sarmenstorf.ch
-pizzeria-al-lago.ch
 pizzeria-aldente.ch
 pizzeria-alforno.ch
 pizzeria-alpenblick.ch
@@ -12630,6 +12625,7 @@ pizzerialetzi.ch
 pizzerialiberty.ch
 pizzerialibertysteinhausen.ch
 pizzerialievitomadre.ch
+pizzerialina.ch
 pizzerialindalyss.ch
 pizzerialoewen-hauptwil.ch
 pizzerialoewen.ch

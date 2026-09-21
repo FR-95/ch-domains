@@ -4207,7 +4207,6 @@ loginsafe.ch
 loginsecure.ch
 loginserver.ch
 loginservice.ch
-loginspinmama.ch
 loginswiss.ch
 logintas.ch
 loginternetdomain.ch
@@ -11548,7 +11547,6 @@ louisebonsack.ch
 louisebretz.ch
 louisechappuis-architecture.ch
 louisecommunication.ch
-louisedconsulting.ch
 louiseelite.ch
 louisegrosjean.ch
 louisegrosjeanarchitektur.ch

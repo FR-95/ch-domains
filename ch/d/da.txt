@@ -549,6 +549,7 @@ dach-lab.ch
 dach-leckortung.ch
 dach-legal.ch
 dach-luzern.ch
+dach-management.ch
 dach-maxx.ch
 dach-medical-group.ch
 dach-messe.ch
@@ -885,6 +886,7 @@ dachfensteraustausch.ch
 dachfensterbern.ch
 dachfensterblick.ch
 dachfensterch.ch
+dachfenstereinbau.ch
 dachfenstereinbauten.ch
 dachfensterexpert.ch
 dachfensterexperte.ch
@@ -995,6 +997,7 @@ dachluken.ch
 dachlukewohnmobil.ch
 dachlux.ch
 dachma.ch
+dachmanagement.ch
 dachmann.ch
 dachmarke.ch
 dachmarketentry.ch
@@ -2051,7 +2054,6 @@ dafaevents.ch
 dafag.ch
 dafagmbh.ch
 dafalgan-dolo.ch
-dafalgan-extra.ch
 dafalgan-odis.ch
 dafalgan-otc.ch
 dafalgan.ch
@@ -3563,7 +3565,6 @@ dalispeakers.ch
 dalistria.ch
 dalisuisse.ch
 dalita.ch
-dalitatherapeutics.ch
 dalitbloch.ch
 dalite.ch
 dalitfreedom.ch
@@ -4945,7 +4946,6 @@ dan-immobilier.ch
 dan-io.ch
 dan-kuechen.ch
 dan-mar.ch
-dan-martin.ch
 dan-mobile.ch
 dan-nails.ch
 dan-photographie.ch
@@ -6334,6 +6334,7 @@ daniela-andri.ch
 daniela-arnold.ch
 daniela-art.ch
 daniela-atelier.ch
+daniela-awengen.ch
 daniela-b.ch
 daniela-backstube.ch
 daniela-balancing.ch
@@ -6509,6 +6510,7 @@ daniela4kids.ch
 danielaaberli.ch
 danielaaddeo.ch
 danielaalder.ch
+danielaalmeidabeauty.ch
 danielaamrein.ch
 danielaarno.ch
 danielaarnold.ch
@@ -6892,6 +6894,7 @@ danielatrovanelli.ch
 danielauderset.ch
 danielaullmann.ch
 danielaulmi.ch
+danielaundlukas.ch
 danielaundmartin.ch
 danielaundpierre.ch
 danielaundroman.ch
@@ -9671,6 +9674,7 @@ darenatocarouge.ch
 darenatosa.ch
 darence.ch
 darenov.ch
+darenovation.ch
 darentec.ch
 dareone.ch
 dareparagliding.ch
@@ -10891,7 +10895,6 @@ daryakisil.ch
 daryakoblik.ch
 daryana.ch
 daryanani.ch
-daryas.ch
 darybeauty.ch
 daryl.ch
 darylconsulting.ch
@@ -13255,6 +13258,7 @@ dataanalytics.ch
 dataanalyticsday.ch
 dataanalyticum.ch
 dataand.ch
+dataandhumanity.ch
 dataandinformation.ch
 dataarchiv.ch
 dataarchive.ch
@@ -14073,7 +14077,6 @@ dataprotect.ch
 dataprotection-advice.ch
 dataprotection-attorney.ch
 dataprotection.ch
-dataprotection4kmu.ch
 dataprotectionadvisor.ch
 dataprotectionguide.ch
 dataprotectionrepresentative.ch
@@ -15026,7 +15029,6 @@ datenschutz.ch
 datenschutz24.ch
 datenschutz34.ch
 datenschutz365.ch
-datenschutz4kmu.ch
 datenschutzag.ch
 datenschutzagentur.ch
 datenschutzanwalt.ch
@@ -15818,6 +15820,7 @@ dav-track.ch
 dav-vm.ch
 dav.ch
 dav1.ch
+dav1t.ch
 dav8.ch
 dava-enterprise.ch
 dava-trans.ch
@@ -17000,7 +17003,6 @@ davidstauffacher.ch
 davidstauffer.ch
 davidsteck.ch
 davidstegmann.ch
-davidstein.ch
 davidsteinegger.ch
 davidstephan.ch
 davidstettler.ch
@@ -18182,6 +18184,7 @@ dazard.ch
 dazardbet.ch
 dazardbetcasino.ch
 dazardcasino-ch.ch
+dazardcasino.ch
 dazardcasino1.ch
 dazardcasinoo.ch
 dazardcasinos.ch

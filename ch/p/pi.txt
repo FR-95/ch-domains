@@ -1196,6 +1196,7 @@ picbe.ch
 picbois.ch
 picbox.ch
 picboxi.ch
+picbuilds.ch
 picc-line.ch
 picc-solution.ch
 picca.ch
@@ -3462,7 +3463,6 @@ pigalle-orgel.ch
 pigalle.ch
 pigandpork.ch
 pigant.ch
-pigbank.ch
 pigdog.ch
 pigdreams.ch
 pigeebak.ch
@@ -4106,7 +4106,6 @@ pilates-sempach-station.ch
 pilates-session.ch
 pilates-shop.ch
 pilates-simonagrob.ch
-pilates-sion.ch
 pilates-sol.ch
 pilates-solaire.ch
 pilates-solveig.ch
@@ -4553,6 +4552,7 @@ pilatusgeister.ch
 pilatusgroup.ch
 pilatushalle.ch
 pilatushandels.ch
+pilatushike.ch
 pilatushof-finance.ch
 pilatushof.ch
 pilatushoffinance.ch
@@ -6917,6 +6917,7 @@ pinsarella.ch
 pinsariosa.ch
 pinsaromana.ch
 pinsaromanaschweiz.ch
+pinsas.ch
 pinsaschweiz.ch
 pinsastore.ch
 pinsasuisse.ch
@@ -8057,6 +8058,7 @@ pirminmueller.ch
 pirminmurer.ch
 pirmino1982reserch.ch
 pirminreichmuth.ch
+pirminroesli.ch
 pirminsetz.ch
 pirminstadler.ch
 pirminvogel.ch
@@ -9906,6 +9908,7 @@ pixelmuffin.ch
 pixeln.ch
 pixelnation.ch
 pixelnet.ch
+pixelnews.ch
 pixelnova.ch
 pixelo.ch
 pixeloakgames.ch
@@ -11824,7 +11827,6 @@ pizzapopolo.ch
 pizzaporter.ch
 pizzapos.ch
 pizzapost.ch
-pizzapoya.ch
 pizzapp.ch
 pizzapradelal.ch
 pizzapresto.ch
@@ -12057,7 +12059,6 @@ pizzeria-aroma.ch
 pizzeria-arrabbiata.ch
 pizzeria-aspendos.ch
 pizzeria-atrio.ch
-pizzeria-au.ch
 pizzeria-ausonia.ch
 pizzeria-bahnhof-lotzwil.ch
 pizzeria-bako.ch

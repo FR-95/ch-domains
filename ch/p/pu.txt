@@ -4286,7 +4286,6 @@ purenatureshop.ch
 purenergy.ch
 pureness.ch
 purenest.ch
-purenestconcept.ch
 purenet.ch
 purenetservices.ch
 pureneve.ch
@@ -4856,6 +4855,7 @@ purofort.ch
 purogelato.ch
 purogusto.ch
 puroil.ch
+puroindex.ch
 puroitalia.ch
 purolatino.ch
 purolex.ch
@@ -4873,6 +4873,7 @@ puropiemonte.ch
 purora.ch
 puros.ch
 puros24.ch
+purosaboramexico.ch
 purosan.ch
 purosangue.ch
 purosanguearabo.ch

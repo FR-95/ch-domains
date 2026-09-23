@@ -823,6 +823,7 @@ ape-gland.ch
 ape-haut-talent.ch
 ape-immo.ch
 ape-jorat.ch
+ape-lab.ch
 ape-latene.ch
 ape-le-sapay.ch
 ape-libellules.ch
@@ -1788,7 +1789,6 @@ aph-binningen.ch
 aph-brienz.ch
 aph-christophorus.ch
 aph-debora.ch
-aph-derendingen.ch
 aph-egelsee.ch
 aph-egnach.ch
 aph-eppishausen.ch
@@ -3236,7 +3236,6 @@ aporie.ch
 aporo.ch
 aporos.ch
 aporose.ch
-aporot.ch
 aporothrist.ch
 apors.ch
 aport.ch
@@ -3955,6 +3954,7 @@ apoverglei.ch
 apovertreter.ch
 apovertretung.ch
 apovet.ch
+apovia.ch
 apovictoria.ch
 apovita.ch
 apoviva.ch
@@ -3976,7 +3976,6 @@ apozm.ch
 app-1-trouversuncours.ch
 app-agency.ch
 app-agent.ch
-app-agentur.ch
 app-aquila.ch
 app-art.ch
 app-atelier.ch
@@ -4307,6 +4306,7 @@ appartement-bulle.ch
 appartement-champery.ch
 appartement-chandolin.ch
 appartement-chaux-de-fonds.ch
+appartement-chesieres.ch
 appartement-collioure.ch
 appartement-cologny.ch
 appartement-cransmontana.ch
@@ -5754,6 +5754,7 @@ applipass.ch
 applipassnew.ch
 applipassnews.ch
 appliqfood.ch
+appliquemurale.ch
 applisan.ch
 applistone.ch
 applisty.ch
@@ -6568,6 +6569,7 @@ aprioris-en.ch
 aprioris-fr.ch
 aprioris.ch
 apriority.ch
+aprireinsvizzera.ch
 apriresocietasvizzera.ch
 aprischkin.ch
 aprisma.ch

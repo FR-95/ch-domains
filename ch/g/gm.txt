@@ -93,7 +93,6 @@ gm-sablage.ch
 gm-services.ch
 gm-solutions.ch
 gm-speed-garage.ch
-gm-ss.ch
 gm-staehli.ch
 gm-storen.ch
 gm-studio.ch
@@ -157,6 +156,7 @@ gmailify.ch
 gmaill.ch
 gmails.ch
 gmailtours.ch
+gmaiwisli-hof.ch
 gmake-it.ch
 gmakeup.ch
 gmalarmseen.ch
@@ -380,6 +380,7 @@ gmdc.ch
 gmde.ch
 gmdellentechnik.ch
 gmdesignonline.ch
+gmdesk.ch
 gmdev.ch
 gmdevotion.ch
 gmdf.ch

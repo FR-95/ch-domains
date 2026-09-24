@@ -516,7 +516,6 @@ akaprint.ch
 akapulko.ch
 akar-dance.ch
 akar-instructions.ch
-akar-internationalag.ch
 akar-swiss.ch
 akar.ch
 akara-rituale.ch
@@ -541,7 +540,6 @@ akaria.ch
 akaricollect.ch
 akarien.ch
 akarinstructions-llc.ch
-akarinstructions.ch
 akarion.ch
 akaritaste.ch
 akarma.ch
@@ -2768,6 +2766,7 @@ aktuelle-aktionen.ch
 aktuelle-buerger-infomedien.ch
 aktuelle-deals.ch
 aktuelle-dealz.ch
+aktuelle-gesellschaft.ch
 aktuelle-info.ch
 aktuelle-jobs.ch
 aktuelle-kalenderwoche.ch

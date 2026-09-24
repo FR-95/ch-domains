@@ -42,6 +42,7 @@ xlashes.ch
 xlat.ch
 xlateral.ch
 xlator.ch
+xlaun.ch
 xlavoro.ch
 xlb.ch
 xlbet.ch
@@ -108,7 +109,6 @@ xlinger.ch
 xlingua.ch
 xlink.ch
 xliq.ch
-xlist.ch
 xliv.ch
 xlive-group.ch
 xlive.ch

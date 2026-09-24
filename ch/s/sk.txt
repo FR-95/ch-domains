@@ -3942,7 +3942,6 @@ skitransfer.ch
 skitransfers.ch
 skitraverse.ch
 skitrax.ch
-skitribe.ch
 skitrip.ch
 skitrolli.ch
 skitruck.ch
@@ -5676,6 +5675,7 @@ skylark.ch
 skylarsec.ch
 skylas.ch
 skylashes.ch
+skylaun.ch
 skylaw.ch
 skyld.ch
 skylead.ch

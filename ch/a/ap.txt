@@ -1087,6 +1087,7 @@ apero-basel.ch
 apero-box.ch
 apero-bus.ch
 apero-clock.ch
+apero-club.ch
 apero-dinatoire.ch
 apero-escape.ch
 apero-express.ch
@@ -1238,6 +1239,7 @@ aperta.ch
 apertasovrana.ch
 apertastudio.ch
 aperti.ch
+apertigen.ch
 apertio.ch
 apertis-consulting.ch
 apertis.ch
@@ -1425,7 +1427,6 @@ apexconsulting.ch
 apexcore.ch
 apexcraft.ch
 apexcreations.ch
-apexcult.ch
 apexcybersecurity.ch
 apexcybersolutions.ch
 apexdental.ch
@@ -4070,6 +4071,7 @@ app-museen-bern.ch
 app-my-box.ch
 app-n-web.ch
 app-nerds.ch
+app-notentool.ch
 app-o-theke.ch
 app-operly.ch
 app-opposite.ch
@@ -4344,6 +4346,7 @@ appartement.ch
 appartement1223.ch
 appartement17.ch
 appartement24.ch
+appartementalouer.ch
 appartementavendre.ch
 appartementavendrevaud.ch
 appartementbaeri.ch
@@ -7164,7 +7167,6 @@ apx-next-ai.ch
 apx-ps.ch
 apx.ch
 apx1.ch
-apx26.ch
 apxn.ch
 apxo.ch
 apxora.ch

@@ -239,7 +239,6 @@ cecconi-collection.ch
 cecconi-dental.ch
 cecconi-dentalag.ch
 cecconi.ch
-cecconsiesarl.ch
 cecconsult.ch
 ceccosystem.ch
 ceccotorenas.ch
@@ -3394,6 +3393,7 @@ central-lausanne.ch
 central-law.ch
 central-malley.ch
 central-massagen.ch
+central-net.ch
 central-nocente.ch
 central-obersaxen.ch
 central-pack.ch
@@ -4198,6 +4198,7 @@ centre-toi.ch
 centre-tomatis-geneve.ch
 centre-tomatis-lausanne.ch
 centre-tomatis.ch
+centre-transparence.ch
 centre-traumatologie.ch
 centre-urologie-beaulieu.ch
 centre-urologie-la-cote-nyon.ch
@@ -4815,6 +4816,7 @@ centretheroof.ch
 centretholos.ch
 centretomatis.ch
 centretopaze.ch
+centretransparence.ch
 centretribeca.ch
 centretumeurs.ch
 centrevasculaire.ch
@@ -6025,6 +6027,7 @@ cercle-vivaldi.ch
 cercle.ch
 cercle1621.ch
 cercle27.ch
+cercleaikido.ch
 cercleargente.ch
 cercleau.ch
 cercleaucarre.ch
@@ -7207,6 +7210,7 @@ cescon.ch
 cesconnection.ch
 cescopeter.ch
 cescophoto.ch
+cescopinelli.ch
 cescpower.ch
 cesdesign.ch
 cesdo.ch

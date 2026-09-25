@@ -1308,18 +1308,14 @@ audhs-care.ch
 audhs-coach.ch
 audhs-coaching.ch
 audhs-online.ch
-audhs-schweiz.ch
 audhs-space.ch
 audhs.ch
 audhsberatung.ch
 audhsbern.ch
 audhscoach.ch
 audhscoaching.ch
-audhsmind.ch
-audhsmynd.ch
 audhsonline.ch
 audhsschweiz.ch
-audhsworks.ch
 audhwas.ch
 audi-100-coupe-s.ch
 audi-abo.ch
@@ -1337,6 +1333,7 @@ audi-chur.ch
 audi-club-international.ch
 audi-collonge-bellerive.ch
 audi-destinations.ch
+audi-direktimport.ch
 audi-entertainment.ch
 audi-etron.ch
 audi-events.ch
@@ -2509,6 +2506,7 @@ aueli.ch
 auen-land.ch
 auen-stube.ch
 auen.ch
+auenatlas.ch
 auenbergcapital.ch
 auenbuch.ch
 auencheres.ch
@@ -4580,7 +4578,6 @@ augenerdin.ch
 augenerkrankungen.ch
 augenexperte.ch
 augenexperten.ch
-augenfabrik.ch
 augenfang.ch
 augenfanki.ch
 augenfit.ch
@@ -7396,7 +7393,6 @@ aurevo.ch
 aurevocare-springerpool-pflege.ch
 aurevocarepsychiatrischepflegezuhause.ch
 aurevodetailing.ch
-aurevoessencials.ch
 aurevogroup.ch
 aurevoir.ch
 aurevoirmydarling.ch
@@ -7518,6 +7514,7 @@ auril.ch
 aurilia.ch
 aurilis.ch
 aurilium.ch
+aurilkopoil.ch
 aurillion.ch
 aurimed.ch
 aurimentum.ch
@@ -7600,7 +7597,6 @@ aurivion.ch
 aurivitamin.ch
 aurivo.ch
 aurix.ch
-aurixpartners.ch
 aurl.ch
 aurlau-sa.ch
 aurlau.ch
@@ -8519,6 +8515,7 @@ ausfallscore.ch
 ausfallsicherheit.ch
 ausfallversicherung.ch
 ausfliegen.ch
+ausflippcharts.ch
 ausflocken.ch
 ausflockung.ch
 ausflockungen.ch
@@ -10455,6 +10452,8 @@ autistenchat.ch
 autistenz.ch
 autistes.ch
 autisti.ch
+autistic.ch
+autistica.ch
 autisticchicken.ch
 autisticminority.ch
 autistictogether.ch
@@ -10687,7 +10686,6 @@ auto-claro.ch
 auto-classic.ch
 auto-classica.ch
 auto-clean-services.ch
-auto-clean.ch
 auto-co2.ch
 auto-coach.ch
 auto-collection.ch
@@ -12155,6 +12153,7 @@ autoankauf-zentrum.ch
 autoankauf-zh.ch
 autoankauf-zuerich.ch
 autoankauf-zug.ch
+autoankauf-zurich-24.ch
 autoankauf-zurich.ch
 autoankauf.ch
 autoankauf1.ch
@@ -14687,6 +14686,7 @@ autolive-amriswil.ch
 autolive.ch
 autoliveamriswil.ch
 autolix.ch
+autoll.ch
 autoloan.ch
 autoloans.ch
 autoloavage.ch
@@ -14821,7 +14821,6 @@ automarzili.ch
 automasi.ch
 automasoni.ch
 automaster.ch
-automaswiss.ch
 automat-24.ch
 automat.ch
 automat24.ch
@@ -17523,7 +17522,6 @@ autoverkaufen-occasion.ch
 autoverkaufen-online.ch
 autoverkaufen-schweiz.ch
 autoverkaufen-zuerich.ch
-autoverkaufen-zurich.ch
 autoverkaufen.ch
 autoverkaufen24.ch
 autoverkaufen365.ch
@@ -17643,7 +17641,6 @@ autoversicherung-vergleich.ch
 autoversicherung-vergleichen.ch
 autoversicherung.ch
 autoversicherung24.ch
-autoversicherungberechnen.ch
 autoversicherungdirekt.ch
 autoversicherungen-schweiz.ch
 autoversicherungen.ch
@@ -17652,7 +17649,6 @@ autoversicherungenschweiz.ch
 autoversicherungenvergleich.ch
 autoversicherungenvergleichen.ch
 autoversicherungonline.ch
-autoversicherungrechner.ch
 autoversicherungs-vergleich.ch
 autoversicherungsadmin.ch
 autoversicherungschweiz.ch
@@ -18139,6 +18135,7 @@ auvapotoir.ch
 auvaria.ch
 auvault.ch
 auvaya.ch
+auve.ch
 auvel.ch
 auvenis.ch
 auventcampingcar.ch
@@ -18220,7 +18217,6 @@ auwaschweiz.ch
 auwe.ch
 auweko.ch
 auwem.ch
-auwi.ch
 auwiese.ch
 auwiesen-sport.ch
 auwiesen.ch

@@ -1116,6 +1116,7 @@ rudelvilla.ch
 rudelwerk.ch
 rudelwohl.ch
 rudelzeit.ch
+rudelzyt.ch
 rudem.ch
 rudenko.ch
 rudenz.ch
@@ -2710,7 +2711,6 @@ ruetli-bar.ch
 ruetli-chur.ch
 ruetli-dietlikon.ch
 ruetli-immobilien.ch
-ruetli-it.ch
 ruetli-kombi.ch
 ruetli-muri.ch
 ruetli-obfelden.ch
@@ -4277,6 +4277,7 @@ rundfluh.ch
 rundfokus.ch
 rundfunk.ch
 rundfunkband.ch
+rundfunkwende.ch
 rundgaenge.ch
 rundgang-360.ch
 rundgang-muttenz.ch
@@ -5498,6 +5499,7 @@ ruscom.ch
 ruscon.ch
 ruscona.ch
 rusconet.ch
+rusconi-avocats.ch
 rusconi-k9.ch
 rusconi-kp.ch
 rusconi-law.ch

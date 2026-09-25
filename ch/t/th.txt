@@ -2377,7 +2377,6 @@ the-hey.ch
 the-hi-bus.ch
 the-hideout.ch
 the-hill-crete.ch
-the-hills.ch
 the-hive.ch
 the-hockey-academy.ch
 the-hof.ch
@@ -2458,6 +2457,7 @@ the-jack.ch
 the-jam.ch
 the-jar.ch
 the-jasmine.ch
+the-jay.ch
 the-jetdeau-geneva.ch
 the-jetdeaugeneva.ch
 the-job-academy.ch
@@ -3817,8 +3817,8 @@ theater-interaktiv.ch
 theater-ittigen.ch
 theater-janser.ch
 theater-jb.ch
+theater-juma-bonaduz.ch
 theater-kaegiswil.ch
-theater-kaiseraugst.ch
 theater-kienberg.ch
 theater-kindhausen.ch
 theater-kiosk.ch
@@ -6914,6 +6914,7 @@ thefehr.ch
 thefehrs.ch
 thefellers.ch
 thefelt.ch
+thefeltsense.ch
 thefemalecompany.ch
 thefemalepowershift.ch
 theferdinands.ch
@@ -7541,7 +7542,6 @@ thegoodbarbers.ch
 thegoodbasics.ch
 thegoodboard.ch
 thegoodbox.ch
-thegoodboy.ch
 thegoodbrands.ch
 thegoodcoach.ch
 thegooddish.ch
@@ -8554,7 +8554,6 @@ thejungledog.ch
 thejunglelab.ch
 thejunglestudio.ch
 thejunglesuite.ch
-thejustprotein.ch
 thek.ch
 theka.ch
 thekaizen.ch
@@ -9116,7 +9115,6 @@ theludwig.ch
 theluggagelounge.ch
 theluisguy.ch
 thelumikids.ch
-thelunamethod.ch
 thelunarflow.ch
 thelunchbox.ch
 thelunchbuddy.ch
@@ -9326,7 +9324,6 @@ themathers.ch
 themathildetrustco.ch
 themathildetrustcompany.ch
 thematic-club.ch
-thematic.ch
 thematica.ch
 thematis.ch
 thematisgroupe.ch
@@ -9454,7 +9451,6 @@ themeoupas.ch
 themep.ch
 themepark.ch
 themeparkdeals.ch
-themeparks.ch
 themer.ch
 themercado.ch
 themercer.ch
@@ -10253,6 +10249,7 @@ theonezuerich.ch
 theonia.ch
 theonlinecourses.ch
 theonlinegallery.ch
+theonlinepsychologist.ch
 theonliner.ch
 theonlineschool.ch
 theonlineshop.ch
@@ -10646,6 +10643,7 @@ theperfectwifeclub.ch
 theperfectword.ch
 theperformancecoach.ch
 theperformancecode.ch
+theperformprotocol.ch
 theperfumeclub.ch
 theperfumery.ch
 theperfumeshop.ch
@@ -11443,7 +11441,6 @@ therapie-egge.ch
 therapie-einhorn.ch
 therapie-emme.ch
 therapie-emmenegger.ch
-therapie-emotions.ch
 therapie-en-bref.ch
 therapie-en-mouvement.ch
 therapie-en-un-clic.ch
@@ -11630,6 +11627,7 @@ therapie-rita.ch
 therapie-roemerhof.ch
 therapie-romandie.ch
 therapie-roth.ch
+therapie-ruppen.ch
 therapie-ruswil.ch
 therapie-rvdz.ch
 therapie-ryser.ch
@@ -12164,7 +12162,6 @@ therapiezentrum-baar.ch
 therapiezentrum-basel.ch
 therapiezentrum-bitter.ch
 therapiezentrum-brig.ch
-therapiezentrum-bromegg.ch
 therapiezentrum-chiway.ch
 therapiezentrum-dea.ch
 therapiezentrum-dyskalkulie.ch
@@ -12870,6 +12867,7 @@ thermidas.ch
 thermiepartner.ch
 thermik-freak.ch
 thermik.ch
+thermikcheck.ch
 thermikschleicher.ch
 therminator.ch
 thermio.ch
@@ -16220,6 +16218,7 @@ think-institut.ch
 think-it.ch
 think-link.ch
 think-linux.ch
+think-markets.ch
 think-motion.ch
 think-natural.ch
 think-nordic.ch
@@ -16363,6 +16362,7 @@ thinkermans.ch
 thinkermen.ch
 thinkermens.ch
 thinkers.ch
+thinkerslab.ch
 thinkertags.ch
 thinkery.ch
 thinkevents.ch
@@ -17219,6 +17219,7 @@ thoma-mobilsaegerei.ch
 thoma-partner.ch
 thoma-physio.ch
 thoma-plattenbelaege.ch
+thoma-real-estate.ch
 thoma-ruedisueli.ch
 thoma-solar.ch
 thoma-spenglerei.ch
@@ -17822,6 +17823,7 @@ thomasbouvier.ch
 thomasbpeter.ch
 thomasbraendle.ch
 thomasbrandenburger.ch
+thomasbraunbauberatung.ch
 thomasbrennerphotography.ch
 thomasbrezina.ch
 thomasbritt.ch
@@ -18157,6 +18159,7 @@ thomaskaiser.ch
 thomaskalt.ch
 thomaskamber.ch
 thomaskammermann.ch
+thomaskarbe.ch
 thomaskarger.ch
 thomaskaspar.ch
 thomaskaufmann.ch
@@ -18993,6 +18996,7 @@ thorium-energy.ch
 thorium-management.ch
 thorium-safe.ch
 thorium-zero.ch
+thoriumh2.ch
 thorkild.ch
 thorlabs.ch
 thorlog.ch
@@ -19190,6 +19194,7 @@ thpurge.ch
 thpv.ch
 thpzuercher.ch
 thqnordic.ch
+thr-services.ch
 thr-technik.ch
 thr.ch
 thr1ft.ch
@@ -19501,6 +19506,7 @@ thronfolgeweg.ch
 throni.ch
 thronjuwel.ch
 thronker.ch
+thronos.ch
 thronstuhler.ch
 throttlehouse.ch
 throughanimaleyes.ch

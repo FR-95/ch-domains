@@ -192,7 +192,6 @@ focenza.ch
 focetola.ch
 foch-area.ch
 foch-auto.ch
-foch-immo.ch
 foch.ch
 fochauto.ch
 foche.ch
@@ -1817,6 +1816,7 @@ foldini.ch
 foldio.ch
 foldix.ch
 foldmaster.ch
+foldmi.ch
 foldnfold.ch
 foldpaper.ch
 foldpod.ch
@@ -5705,7 +5705,6 @@ foodsave-bankette.ch
 foodsave-bern.ch
 foodsave-challenge.ch
 foodsave.ch
-foodsaveapp.ch
 foodsavebankett.ch
 foodsavebankette.ch
 foodsavebox.ch
@@ -6048,6 +6047,7 @@ foom.ch
 foomit.ch
 foon-photo.ch
 foon.ch
+foondi.ch
 foonet.ch
 foong.ch
 foood.ch
@@ -6721,6 +6721,7 @@ forcedmarriage.ch
 forcedrop.ch
 forcedshadow.ch
 forcedubois.ch
+forcefit.ch
 forceful.ch
 forcegay.ch
 forcegroup.ch
@@ -10183,7 +10184,6 @@ forst-unterhalt.ch
 forst-visp.ch
 forst-wehntal.ch
 forst-wid.ch
-forst-wynau.ch
 forst-zaun.ch
 forst.ch
 forst19.ch
@@ -11196,7 +11196,6 @@ forty9dot6.ch
 forty9ine.ch
 fortyafflelou.ch
 fortyandfine.ch
-fortyeight.ch
 fortyeleven.ch
 fortyfifty.ch
 fortyforyou.ch
@@ -11303,6 +11302,7 @@ forum-culinarium.ch
 forum-curiositas.ch
 forum-datenaustausch.ch
 forum-davos.ch
+forum-decideurs.ch
 forum-dei-clienti.ch
 forum-der-religionen.ch
 forum-des-aides.ch
@@ -15361,6 +15361,7 @@ fourbanal-verbier.ch
 fourbanalvolleges.ch
 fourband.ch
 fourbase.ch
+fourbi-numerique.ch
 fourbi.ch
 fourbridges.ch
 fourc.ch

@@ -265,7 +265,6 @@ esagram.ch
 esaho.ch
 esahub.ch
 esaik.ch
-esalaer-online.ch
 esalaer.ch
 esalaire-fer.ch
 esalaire.ch
@@ -927,7 +926,6 @@ escen.ch
 escenario-living.ch
 escenario-sl.ch
 escenarte.ch
-escendit.ch
 escens.ch
 escentia.ch
 escentials.ch
@@ -1227,6 +1225,7 @@ escontrolsolutions.ch
 escoop.ch
 escooter-check.ch
 escooter-factory.ch
+escooter-kaufen.ch
 escooter-magic.ch
 escooter-parts.ch
 escooter-schweiz.ch
@@ -4497,6 +4496,7 @@ espressobooks.ch
 espressobox.ch
 espressocafe.ch
 espressoclub.ch
+espressoclubgeneve.ch
 espressocooker.ch
 espressocoppola.ch
 espressocup.ch
@@ -4712,8 +4712,6 @@ espritnaturemassage.ch
 espritnaturepaysage.ch
 espritnet.ch
 espritnomade.ch
-espritnomadeatelier.ch
-espritnomadestudio.ch
 espritorenda.ch
 espritpolyvagal.ch
 espritrait.ch

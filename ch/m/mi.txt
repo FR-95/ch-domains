@@ -3626,7 +3626,6 @@ miconnect.ch
 miconpneu.ch
 miconpneuag.ch
 micons.ch
-miconstruction.ch
 miconsult.ch
 micontrol.ch
 micora.ch
@@ -6462,6 +6461,7 @@ mietwald.ch
 mietwc.ch
 mietwelt.ch
 mietwerk.ch
+mietwerk24.ch
 mietwerkstatt-baden.ch
 mietwerkstatt-bremgarten.ch
 mietwerkstatt-dachsen.ch
@@ -6635,7 +6635,6 @@ mifegyne.ch
 mifemcoaching.ch
 mifflin-schmid.ch
 miffy.ch
-miffytec.ch
 mifiag.ch
 mifibioceuticals.ch
 mifibus.ch
@@ -7392,6 +7391,7 @@ migrosferien.ch
 migrosfit.ch
 migrosfitness.ch
 migrosfitnessathome.ch
+migrosfitnesscenter.ch
 migrosfitnesscenterathome.ch
 migrosfitnessclub.ch
 migrosfmag.ch
@@ -7968,6 +7968,7 @@ mikaelgasser.ch
 mikaelgil.ch
 mikaelholmlund.ch
 mikaeljuillet.ch
+mikaelkanani.ch
 mikaelphotographie.ch
 mikaelphotos.ch
 mikaelresidence.ch
@@ -10194,7 +10195,6 @@ millcast.ch
 millday.ch
 millding.ch
 milldings.ch
-mille-carreaux-sarl.ch
 mille-chemins.ch
 mille-et-un-costumes.ch
 mille-et-un-nail.ch
@@ -10974,8 +10974,6 @@ milucasa.ch
 miluma.ch
 milumia.ch
 milumil.ch
-milun-paneelen.ch
-milun-wandgestaltung.ch
 miluna.ch
 milunavo.ch
 milune.ch
@@ -14642,6 +14640,7 @@ minima.ch
 minimabule.ch
 minimachruum.ch
 minimadecor.ch
+minimaertli.ch
 minimag.ch
 minimages.ch
 minimagie.ch
@@ -15375,6 +15374,7 @@ minnails.ch
 minnal.ch
 minnas.ch
 minnastuder-alder.ch
+minnd.ch
 minne.ch
 minneapolis.ch
 minneba.ch
@@ -15492,6 +15492,7 @@ minor-elektro.ch
 minor.ch
 minora-ai.ch
 minora.ch
+minoralabs.ch
 minoretti-sa.ch
 minoretti.ch
 minorettis.ch
@@ -15664,7 +15665,6 @@ mint-geneve.ch
 mint-girls.ch
 mint-gl.ch
 mint-gr.ch
-mint-gruen.ch
 mint-hosting.ch
 mint-hydrogen.ch
 mint-institut.ch
@@ -16469,7 +16469,6 @@ mirabelle-kosmetik.ch
 mirabelle.ch
 mirabelleconsulting.ch
 mirabellefit.ch
-mirabellen.ch
 mirabellenbaum.ch
 mirabelli.ch
 mirabello.ch
@@ -17118,6 +17117,7 @@ mireilles-hundestudio.ch
 mireillesbnb.ch
 mireillescholder.ch
 mireillezagolin.ch
+mirej-design.ch
 mirej.ch
 mirejo.ch
 mirek.ch
@@ -18034,6 +18034,7 @@ mirsinddodihei.ch
 mirsindfapa.ch
 mirsindgange.ch
 mirsindlobpriis.ch
+mirsindnodradio.ch
 mirsindspreitebach.ch
 mirsindspreitenbach.ch
 mirsindthurgau.ch
@@ -18397,7 +18398,6 @@ mischfruchtanbau.ch
 mischfutter.ch
 mischfuttermittel.ch
 mischgut-industrie.ch
-mischi-josh.ch
 mischi.ch
 mischind.ch
 mischio.ch
@@ -18568,6 +18568,7 @@ misfit.ch
 misfits.ch
 misfitstudio.ch
 misfondue.ch
+misform.ch
 misfortune.ch
 misfoti.ch
 misg.ch
@@ -20079,7 +20080,6 @@ misurecoercitiveacopoassistenziale.ch
 misurecoercitiveascopoassistenziale.ch
 misurina.ch
 misurio.ch
-misuro-ag.ch
 misuro.ch
 misushi-boudry.ch
 misushi-delemont.ch
@@ -20799,6 +20799,7 @@ mithaerzgmacht.ch
 mithana.ch
 mithandundfuss.ch
 mithandundherz.ch
+mithandundlicht.ch
 mithanfbauen.ch
 mithani.ch
 mithaselnuess.ch
@@ -21485,7 +21486,6 @@ mittelhaeusern.ch
 mittelhaus.ch
 mittelherkunft.ch
 mittelherkunftsnachweis.ch
-mittelholzer-bau.ch
 mittelholzer-sg.ch
 mittelholzer.ch
 mittelholzerglobalinvestments.ch

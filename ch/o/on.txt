@@ -595,7 +595,6 @@ oncomag.ch
 oncomedical-homecare.ch
 oncomedical.ch
 oncomerck.ch
-oncometix.ch
 oncominutes.ch
 oncommit.ch
 oncompass.ch
@@ -946,7 +945,6 @@ one-factory.ch
 one-fahrschule.ch
 one-family-camp.ch
 one-family.ch
-one-faustball.ch
 one-fine-dine.ch
 one-five.ch
 one-flex.ch
@@ -1564,7 +1562,6 @@ onefam.ch
 onefamily.ch
 onefamilyoffice.ch
 onefamilyoneheart.ch
-onefaustball.ch
 onefeetwonder.ch
 onefi.ch
 onefiber.ch
@@ -2295,7 +2292,6 @@ onesu.ch
 onesubsea.ch
 onesuccess.ch
 onesuisse.ch
-onesuite.ch
 onesummit.ch
 onesupplements.ch
 onesurf.ch
@@ -2638,7 +2634,6 @@ onglerie-conthey.ch
 onglerie-doris.ch
 onglerie-esthetique-mademoiselle.ch
 onglerie-grain-de-folie.ch
-onglerie-ibis.ch
 onglerie-la-sarraz.ch
 onglerie-lausanne.ch
 onglerie-le-boudoir.ch
@@ -5874,6 +5869,7 @@ onlinewerbungschalten.ch
 onlinewerbungschweiz.ch
 onlinewerft.ch
 onlinewerk.ch
+onlinewerkstatt.ch
 onlinewerkstattkalender.ch
 onlinewerkstattplaner.ch
 onlinewertermittlung.ch

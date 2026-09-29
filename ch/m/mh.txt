@@ -43,6 +43,7 @@ mh-easy-portal.ch
 mh-easy-web.ch
 mh-easyportal.ch
 mh-elektrokontrollen.ch
+mh-equestrian.ch
 mh-excellence.ch
 mh-facility.ch
 mh-fiduciaire.ch
@@ -218,7 +219,6 @@ mhcmobilityswitzerland.ch
 mhcom.ch
 mhcommunication.ch
 mhcomputer.ch
-mhcon.ch
 mhconseil.ch
 mhconseiletformation.ch
 mhconseilformation.ch

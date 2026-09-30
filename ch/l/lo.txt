@@ -2016,6 +2016,7 @@ locio.ch
 locircus.ch
 locishop.ch
 locitask.ch
+locitomusic.ch
 lociwear.ch
 lociworld.ch
 lock-block.ch
@@ -3213,10 +3214,8 @@ loewengruppe.ch
 loewenhaar.ch
 loewenhaft.ch
 loewenhardt-partners.ch
-loewenhart.ch
 loewenhaus-treuhand.ch
 loewenhaus.ch
-loewenheart.ch
 loewenhertz.ch
 loewenherz-academy.ch
 loewenherz-atelier.ch
@@ -4209,6 +4208,7 @@ loginswiss.ch
 logintas.ch
 loginternetdomain.ch
 logintrust.ch
+loginv.ch
 loginvault.ch
 loginventory.ch
 loginvitation.ch
@@ -6178,6 +6178,7 @@ lokale-internetwerbung.ch
 lokale-ki.ch
 lokale-landwirtschaft.ch
 lokale-momente.ch
+lokale-online-prasenz.ch
 lokale-optiker.ch
 lokale-produkte.ch
 lokale-seiten.ch
@@ -12514,7 +12515,6 @@ lovefantasie.ch
 lovefeet.ch
 lovefield-hifi.ch
 lovefield.ch
-lovefinder.ch
 lovefire.ch
 lovefirst.ch
 lovefitness.ch
@@ -13400,8 +13400,6 @@ lowenbraukunst.ch
 lowend.ch
 lowendfriend.ch
 lowener.ch
-lowenhart.ch
-lowenheart.ch
 lowenkinder.ch
 lowenna.ch
 lowenpizza.ch

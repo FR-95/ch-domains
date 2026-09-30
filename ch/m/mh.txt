@@ -98,7 +98,6 @@ mh-rerum.ch
 mh-s.ch
 mh-sanitaerservice.ch
 mh-sanitaire.ch
-mh-sante.ch
 mh-schreinerei.ch
 mh-sertissage.ch
 mh-services.ch
@@ -540,7 +539,6 @@ mhs.ch
 mhsa.ch
 mhsaas.ch
 mhsanitaires.ch
-mhsante.ch
 mhsbasel.ch
 mhsedv.ch
 mhserguel-umzug.ch

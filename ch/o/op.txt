@@ -663,6 +663,7 @@ open-place.ch
 open-pointcloud.ch
 open-poker.ch
 open-positions.ch
+open-post.ch
 open-pr.ch
 open-productivity.ch
 open-project.ch
@@ -1109,7 +1110,6 @@ opencellardoors.ch
 opencellars.ch
 opencenter.ch
 opencfc.ch
-openchat.ch
 opencheck.ch
 openchoice.ch
 opencircel.ch
@@ -1961,7 +1961,6 @@ openuptogether.ch
 openurbanism.ch
 openux.ch
 openvalue.ch
-openvalues.ch
 openvas.ch
 openview.ch
 openvillage.ch
@@ -2606,7 +2605,6 @@ ophtalmologues.ch
 ophtalmologuevevey.ch
 ophtalmology.ch
 ophtalmomed.ch
-ophtalmomontagny.ch
 ophtalmopayerne.ch
 ophtalmopully.ch
 ophtalmorges.ch
@@ -3164,6 +3162,7 @@ oprthun.ch
 opryz.ch
 ops-ag.ch
 ops-cherryte.ch
+ops-competence.ch
 ops-debrief.ch
 ops-editions.ch
 ops-eps.ch
@@ -4966,6 +4965,7 @@ optixlifestyle.ch
 optixstudios.ch
 optixswiss.ch
 optizen.ch
+optizi.ch
 optizoignons.ch
 optizone.ch
 optmat.ch

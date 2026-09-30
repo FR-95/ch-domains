@@ -2797,7 +2797,6 @@ waidgerechte-jagd.ch
 waidgerechtejagd.ch
 waidgrotto.ch
 waidhalde.ch
-waidhof-seebach.ch
 waidhof.ch
 waidistribution.ch
 waidli.ch
@@ -4000,6 +3999,7 @@ waldheimfenkrieden.ch
 waldheimhettenschwil.ch
 waldheimkestenholz.ch
 waldheimlaax.ch
+waldheimsteakhouse.ch
 waldhengst.ch
 waldherz.ch
 waldhexe.ch
@@ -5208,7 +5208,6 @@ walkermail.ch
 walkermarcel.ch
 walkermower.ch
 walkermowers.ch
-walkermultiservice.ch
 walkernet.ch
 walkerpc.ch
 walkerpestaj.ch
@@ -6206,7 +6205,6 @@ waloba.ch
 walobag.ch
 walobau.ch
 walobertschinger.ch
-walobritschgi.ch
 walobrunner.ch
 walofrischknecht.ch
 waloisler.ch
@@ -8059,7 +8057,6 @@ wandgestaltung-schweiz.ch
 wandgestaltung.ch
 wandgestaltungen.ch
 wandgewand.ch
-wandglueck.ch
 wandgrafik.ch
 wandhalter.ch
 wandhalterung.ch
@@ -10144,6 +10141,7 @@ washtech.ch
 washtime.ch
 washtogether.ch
 washtower.ch
+washu.ch
 washup-suisse.ch
 washup-zurich.ch
 washup.ch
@@ -10151,7 +10149,6 @@ washup24.ch
 washvegas.ch
 washwashcousin.ch
 washwin.ch
-washwizard.ch
 washworld.ch
 washworx.ch
 washy.ch
@@ -11227,7 +11224,6 @@ wasserspender.ch
 wasserspendermiete.ch
 wasserspenderschweiz.ch
 wasserspendervergleich.ch
-wassersperren.ch
 wasserspezialtiefbau.ch
 wasserspiegel.ch
 wasserspiel.ch
@@ -12983,6 +12979,7 @@ waushop.ch
 wausiado.ch
 waut.ch
 wauu.ch
+wauw.ch
 wauwa.ch
 wauwander.ch
 wauwaueffekt.ch

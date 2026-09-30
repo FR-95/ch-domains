@@ -340,7 +340,6 @@ ipaint.ch
 ipaint4u.ch
 ipak.ch
 ipal.ch
-ipaland.ch
 ipalarm.ch
 ipam.ch
 ipanejujb.ch
@@ -945,6 +944,7 @@ iplomint.ch
 iplook.ch
 iplookup.ch
 iplosion.ch
+iplp.ch
 ipls.ch
 iplschoeller.ch
 iplsecheresseoculaire.ch
@@ -1296,6 +1296,7 @@ ips-gmbh.ch
 ips-group.ch
 ips-gt.ch
 ips-insights.ch
+ips-institut.ch
 ips-international.ch
 ips-irsch-group.ch
 ips-irsch.ch

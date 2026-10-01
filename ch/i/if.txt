@@ -440,7 +440,6 @@ iflm.ch
 ifln.ch
 iflo.ch
 ifloat.ch
-iflolor.ch
 ifloor.ch
 iflor.ch
 iflow.ch
@@ -575,7 +574,6 @@ iforest.ch
 iforestmedia.ch
 iforex.ch
 iforgottopat.ch
-iform-swiss.ch
 iform.ch
 iformat.ch
 iformatics.ch
@@ -710,7 +708,6 @@ ifs-winterthur.ch
 ifs-zuerich.ch
 ifs.ch
 ifs3.ch
-ifsa-geneva.ch
 ifsa-nature.ch
 ifsa.ch
 ifsag.ch

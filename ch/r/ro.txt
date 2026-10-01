@@ -1854,6 +1854,7 @@ robo-world.ch
 robo.ch
 robo24.ch
 robo3dstore.ch
+robo4rent.ch
 robo4swiss.ch
 roboa.ch
 roboadvice.ch
@@ -3573,7 +3574,6 @@ rocking.ch
 rocking26.ch
 rockingchair.ch
 rockingdesk.ch
-rockingdiamonds.ch
 rockinghair.ch
 rockinghomestaging.ch
 rockinglane.ch
@@ -3622,6 +3622,7 @@ rockload.ch
 rocklog.ch
 rockloz.ch
 rocklt.ch
+rocklyn.ch
 rockmachine.ch
 rockmachinebikes.ch
 rockmachinemc.ch
@@ -7542,6 +7543,7 @@ rojenoa.ch
 rojesafe.ch
 rojhat.ch
 roji.ch
+rojibau.ch
 rojimmobilien.ch
 rojin.ch
 rojinbaimbissmenznau.ch
@@ -8260,6 +8262,7 @@ roleplaygame.ch
 roleplaygameshop.ch
 roleplayinggame.ch
 roleplayshop.ch
+roleportal.ch
 roler.ch
 rolerio.ch
 rolero.ch
@@ -9687,7 +9690,6 @@ rollpole.ch
 rollpopfactory.ch
 rollpower.ch
 rollprofi.ch
-rollrasen-basel.ch
 rollrasen-hof.ch
 rollrasen-luzern.ch
 rollrasen-rudi.ch
@@ -10521,7 +10523,6 @@ romandiecourtages.ch
 romandiecurage.ch
 romandiedebarras.ch
 romandiedecouvertes.ch
-romandiedemenagements.ch
 romandiedigital.ch
 romandiedt.ch
 romandieemploi.ch
@@ -11786,7 +11787,6 @@ rondas.ch
 rondata.ch
 rondatimecenter.ch
 rondax.ch
-rondbleu.ch
 rondbois.ch
 rondchamp.ch
 rondclub.ch
@@ -12307,6 +12307,7 @@ roofbar.ch
 roofbox.ch
 roofboxair.ch
 roofbuddy.ch
+roofcap.ch
 roofcheck.ch
 roofclean.ch
 roofcleaning.ch
@@ -12660,8 +12661,6 @@ roomero.ch
 roomers.ch
 roomescape.ch
 roomescapebasel.ch
-roomescapegame.ch
-roomescapegames.ch
 roomescaperoom.ch
 roomescapes.ch
 roomestate.ch
@@ -13599,7 +13598,6 @@ rosabakery.ch
 rosabeauty.ch
 rosabella.ch
 rosabelle-lingerie.ch
-rosabelleandsoclose.ch
 rosaberg.ch
 rosaberto.ch
 rosabischof.ch
@@ -13743,7 +13741,6 @@ rosalive.ch
 rosalon.ch
 rosaloui.ch
 rosalpain.ch
-rosalpbrass.ch
 rosalpresidences.ch
 rosalu.ch
 rosaluna.ch
@@ -14345,6 +14342,7 @@ rosenbergapartments.ch
 rosenbergbrunnen-heiden.ch
 rosenbergcamps.ch
 rosenbergconsulting.ch
+rosenberger-baumanagement.ch
 rosenberger-coaching.ch
 rosenberger-heizoel.ch
 rosenberger-holzbau.ch
@@ -14902,6 +14900,7 @@ rosiesfarm.ch
 rosietheprinter.ch
 rosiewolfe.ch
 rosieyoga.ch
+rosifit.ch
 rosiflora.ch
 rosig.ch
 rosigiovanni.ch
@@ -14964,6 +14963,7 @@ rositaeng.ch
 rositahuber.ch
 rositameier.ch
 rositamode.ch
+rositamoves.ch
 rositaoppizzi.ch
 rositarealfoods.ch
 rositarudin.ch
@@ -17199,7 +17199,6 @@ rotti.ch
 rottigni.ch
 rottilog.ch
 rottilove.ch
-rottithegreyt.ch
 rottmann.ch
 rottmanncars.ch
 rottmanns.ch
@@ -17288,6 +17287,7 @@ rotx.ch
 rotyx-tiltrotator.ch
 rotyx.ch
 rotzaerlini.ch
+rotzat.ch
 rotzenfloeoe.ch
 rotzenwiler-biohof.ch
 rotzer-bauleitung.ch
@@ -17521,7 +17521,6 @@ roukyassurance.ch
 roula.ch
 rouladen-manufaktur.ch
 rouladenmanufaktur.ch
-roulage-hdg.ch
 roulage.ch
 roulagiste.ch
 roulani.ch
@@ -17762,6 +17761,7 @@ route-trafic.ch
 route-verte.ch
 route-voyages.ch
 route.ch
+route11.ch
 route13.ch
 route15.ch
 route166.ch
@@ -17909,6 +17909,7 @@ routinuum.ch
 routix.ch
 routly.ch
 routout.ch
+routrix.ch
 routscher.ch
 routy.ch
 routyfix.ch

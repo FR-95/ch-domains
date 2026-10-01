@@ -4707,6 +4707,7 @@ exposed.ch
 exposedeutsch.ch
 exposee4you.ch
 exposeeprofi.ch
+exposehub.ch
 exposenio.ch
 exposeplus.ch
 exposeprofi.ch
@@ -4758,7 +4759,6 @@ expotentiel.ch
 expothun.ch
 expoticino.ch
 expoticinotour.ch
-expotours.ch
 expotrade.ch
 expotradegroup.ch
 expotraining.ch

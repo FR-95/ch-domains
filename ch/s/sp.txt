@@ -2115,6 +2115,7 @@ spansrv.ch
 spanter.ch
 spanumspan.ch
 spanwatch.ch
+spanx.ch
 spanyar.ch
 spaoffice.ch
 spaone.ch
@@ -3061,6 +3062,7 @@ spas-promo.ch
 spas-romandie.ch
 spas-s.ch
 spas-sos.ch
+spas-switzerland.ch
 spas.ch
 spasalon.ch
 spasante.ch
@@ -4173,7 +4175,6 @@ specialmakeup.ch
 specialmed.ch
 specialmedsolutions.ch
 specialmoments.ch
-specialmood.ch
 specialnails.ch
 specialneeds.ch
 specialnuts.ch
@@ -4412,6 +4413,7 @@ spectank.ch
 spectas.ch
 spectasdns.ch
 spectateurs.ch
+spectati.ch
 spectator.ch
 spectaturs.ch
 spectechsec.ch
@@ -5634,7 +5636,6 @@ spela.ch
 spelaion.ch
 speldutg.ch
 spelemat.ch
-spelemines.ch
 speleo-cheseaux.ch
 speleo-lausanne.ch
 speleo-secours.ch
@@ -5976,7 +5977,6 @@ spenglerei-reusser.ch
 spenglerei-rexhaj.ch
 spenglerei-rontal.ch
 spenglerei-roth.ch
-spenglerei-ruettimann.ch
 spenglerei-sanitaer-boesch.ch
 spenglerei-sanitaer-schranz.ch
 spenglerei-sanitaer.ch
@@ -6275,6 +6275,7 @@ spescha-vitality.ch
 spescha.ch
 speschadance.ch
 speschagarage.ch
+speschalimedia.ch
 speschalist.ch
 speschalistic.ch
 speschas-kleintierpraxis.ch
@@ -6336,7 +6337,6 @@ speuzer-ferienpass.ch
 speuzer-kohle.ch
 speuzer-schraenzer.ch
 speuzer-sommerwende.ch
-speuzer-trophy.ch
 speuzer.ch
 speuzinfo.ch
 speva.ch
@@ -10148,6 +10148,7 @@ spingranny84.ch
 spingrannycasino.ch
 spingrannych.ch
 spingrannylogin.ch
+spingrannyofficial.ch
 spingrany.ch
 spingreen.ch
 spinhub.ch
@@ -11830,7 +11831,6 @@ spitalmenziken.ch
 spitalmonitor.ch
 spitalmonitoring.ch
 spitalmuensingen.ch
-spitalmuri.ch
 spitalmurl.ch
 spitalnetz.ch
 spitalnetzbern.ch
@@ -12497,7 +12497,6 @@ spitex-mwp.ch
 spitex-naechstenpflege.ch
 spitex-nebikon-altishofen.ch
 spitex-neerach.ch
-spitex-neftenbach.ch
 spitex-net.ch
 spitex-netzwerk.ch
 spitex-neuenkirch.ch
@@ -14152,6 +14151,7 @@ split-boards.ch
 split-is-back.ch
 split-it.ch
 split-klima.ch
+split-klimaanlage-schweiz.ch
 split-klimaanlage.ch
 split-klimageraet.ch
 split-lefilm.ch
@@ -14908,7 +14908,6 @@ sport-anmeldung.ch
 sport-anwalt.ch
 sport-anzeigetafel.ch
 sport-apartments.ch
-sport-apps.ch
 sport-arena.ch
 sport-art.ch
 sport-artikel.ch
@@ -16260,7 +16259,6 @@ sportgaragefischer.ch
 sportgaragegraf.ch
 sportgarageibach.ch
 sportgaragekuratli.ch
-sportgaragelaure.ch
 sportgaragemueller.ch
 sportgarageruch.ch
 sportgaragespuler.ch

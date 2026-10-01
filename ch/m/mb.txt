@@ -939,7 +939,6 @@ mbl-consulting.ch
 mbl-lenzburg.ch
 mbl-store.ch
 mbl-swiss.ch
-mbl-uster.ch
 mbl.ch
 mbla.ch
 mblab.ch
@@ -1233,6 +1232,7 @@ mbrigi.ch
 mbrimmobilier.ch
 mbrlaw.ch
 mbrn.ch
+mbrobot.ch
 mbros.ch
 mbrosini.ch
 mbrpartners.ch

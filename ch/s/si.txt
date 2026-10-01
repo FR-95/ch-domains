@@ -85,7 +85,6 @@ si-indonesia.ch
 si-info.ch
 si-informatik.ch
 si-injuste.ch
-si-intelligence.ch
 si-j-avais-su.ch
 si-jamais.ch
 si-joint-center.ch
@@ -119,6 +118,7 @@ si-net.ch
 si-neutralita.ch
 si-ng.ch
 si-no.ch
+si-now.ch
 si-nucleare.ch
 si-nyon.ch
 si-o-no.ch
@@ -1671,6 +1671,7 @@ sicherheitsglas.ch
 sicherheitsglasschiebefenster.ch
 sicherheitsgriff.ch
 sicherheitsgurt.ch
+sicherheitsgurte.ch
 sicherheitsgutachten.ch
 sicherheitsgutachter.ch
 sicherheitshandbuch.ch
@@ -2960,7 +2961,6 @@ sidwald-solution.ch
 sidwald.ch
 sidx.ch
 sidy.ch
-sidzpl.ch
 sie-alternativen.ch
 sie-an.ch
 sie-ars.ch
@@ -4489,6 +4489,7 @@ sigilex.ch
 sigillare.ch
 sigillaris.ch
 sigilli.ch
+sigillo-id.ch
 sigillo.ch
 sigillum.ch
 sigillvm.ch
@@ -5439,6 +5440,7 @@ signsandwonders.ch
 signschool.ch
 signshop.ch
 signsign.ch
+signsim.ch
 signsofhistory.ch
 signsofsma.ch
 signsoftrends.ch
@@ -8020,6 +8022,7 @@ silvan-lipp.ch
 silvan-meile.ch
 silvan-nas.ch
 silvan-online.ch
+silvan-paulmichl.ch
 silvan-sarbach.ch
 silvan-schwegler.ch
 silvan-suter.ch
@@ -9225,7 +9228,6 @@ silviodenz.ch
 silviodeplazes.ch
 silviodezanet.ch
 silviodohner.ch
-silviofaieta.ch
 silviofreund.ch
 silviogallo.ch
 silviogartmann.ch
@@ -9355,7 +9357,6 @@ sim-schule.ch
 sim-shop.ch
 sim-sicherheitsdienste.ch
 sim-sim.ch
-sim-sport.ch
 sim-swiss.ch
 sim-tec.ch
 sim-tech.ch
@@ -9520,7 +9521,6 @@ simatron.ch
 simattu.ch
 simature.ch
 simaviation.ch
-simaviebascule.ch
 simaweb.ch
 simaworks.ch
 simax.ch
@@ -9783,7 +9783,6 @@ simfire.ch
 simfit.ch
 simflight-zrh.ch
 simflight.ch
-simflo.ch
 simfloc.ch
 simfly.ch
 simflying.ch
@@ -9945,7 +9944,6 @@ simitica.ch
 simitika.ch
 simitovic.ch
 simitroxler.ch
-simitsarayi.ch
 simivalley.ch
 simix.ch
 simixhiu.ch
@@ -12781,6 +12779,7 @@ simplyconsulting.ch
 simplycook.ch
 simplycooking.ch
 simplycookit.ch
+simplycool.ch
 simplycoopmobile.ch
 simplycore.ch
 simplycosmetic.ch
@@ -14487,7 +14486,6 @@ singles50-avis.ch
 singles50.ch
 singlesbartour.ch
 singleschat.ch
-singlescoach.ch
 singlescoaching.ch
 singlescout.ch
 singlescout24.ch
@@ -16018,6 +16016,7 @@ sir-wizz.ch
 sir.ch
 sira-ac.ch
 sira-haustechnik.ch
+sira-resine.ch
 sira-risk.ch
 sira-swissinformatics.ch
 sira-wider-fotografie.ch
@@ -16070,6 +16069,7 @@ sirap.ch
 sirapex.ch
 siraphotography.ch
 siraprime.ch
+siraresine.ch
 sirarios.ch
 sirarisk.ch
 sirarosa.ch
@@ -16825,7 +16825,6 @@ sisqual.ch
 sisqualwfm.ch
 sisr.ch
 sisra.ch
-sisrail.ch
 sisre.ch
 sisreal.ch
 sisrealtime.ch
@@ -17217,7 +17216,6 @@ sitdesign.ch
 sitdown.ch
 sitdowncomedian.ch
 site-a.ch
-site-adultere.ch
 site-alp.ch
 site-ap.ch
 site-api-dns-ik-test.ch

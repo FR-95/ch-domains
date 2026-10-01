@@ -20,7 +20,6 @@ mw-club.ch
 mw-coaching.ch
 mw-conseil.ch
 mw-conseils.ch
-mw-constructions.ch
 mw-consulting.ch
 mw-cube.ch
 mw-dc.ch
@@ -337,6 +336,7 @@ mwong.ch
 mwoodward.ch
 mwork.ch
 mworks.ch
+mworld-photography.ch
 mworld.ch
 mwp-coaching.ch
 mwp-group.ch

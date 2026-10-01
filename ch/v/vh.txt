@@ -63,6 +63,7 @@ vhfoods.ch
 vhfsolution-swiss.ch
 vhfsolution.ch
 vhftest.ch
+vhfw.ch
 vhg.ch
 vhgf.ch
 vhh.ch
@@ -199,7 +200,6 @@ vhsm.ch
 vhsn.ch
 vhsnf.ch
 vhso.ch
-vhsoe.ch
 vhsof.ch
 vhsolid.ch
 vhsolutions.ch

@@ -277,6 +277,7 @@ jsf.ch
 jsfashion.ch
 jsfb-haener.ch
 jsfdb.ch
+jsfoto.ch
 jsfreiburg.ch
 jsfribourg.ch
 jsfund.ch
@@ -646,6 +647,7 @@ jsvp-stadt-luzern.ch
 jsvp-sz.ch
 jsvp-tg.ch
 jsvp-thurgau.ch
+jsvp-unterland.ch
 jsvp-uri.ch
 jsvp-zg.ch
 jsvp-zh.ch

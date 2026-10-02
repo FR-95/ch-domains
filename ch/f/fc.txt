@@ -767,7 +767,6 @@ fcgelterkinden.ch
 fcgemeinderat.ch
 fcgeneva.ch
 fcgenolier-begnins.ch
-fcgerance.ch
 fcgerlafingen.ch
 fcgerzensee.ch
 fcges.ch
@@ -1663,6 +1662,7 @@ fcwestpark.ch
 fcwettingen.ch
 fcwetzikon.ch
 fcwevents.ch
+fcwforum.ch
 fcwfrauen.ch
 fcwidnau.ch
 fcwiedikon.ch

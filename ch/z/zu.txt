@@ -2706,7 +2706,6 @@ zueridanceaward.ch
 zueridata.ch
 zueridate.ch
 zueridates.ch
-zuerideals.ch
 zuerideck.ch
 zueridee.ch
 zueridelivery.ch
@@ -2809,6 +2808,7 @@ zuerikurier.ch
 zuerilachs.ch
 zueriladies.ch
 zuerilaeckerli.ch
+zuerilaerm.ch
 zuerilaufcup.ch
 zuerilenses.ch
 zuerileu-hauswart.ch
@@ -3770,6 +3770,7 @@ zugerdialog.ch
 zugerdogbakery.ch
 zugerdomiziel.ch
 zugerdomizil.ch
+zugerdomiziladresse.ch
 zugereislaufverein.ch
 zugerenergie.ch
 zugerevents.ch
@@ -7162,6 +7163,7 @@ zurichdomicile.ch
 zurichdreams.ch
 zurichdrift.ch
 zurichdrive.ch
+zurichdriver.ch
 zurichdutyfree.ch
 zuricheats.ch
 zurichebank.ch

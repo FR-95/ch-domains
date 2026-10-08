@@ -2761,6 +2761,7 @@ gainin.ch
 gainmocostablanca.ch
 gainmoretime.ch
 gainmuscle.ch
+gainpilot.ch
 gains.ch
 gains4trains.ch
 gainsbarre-band.ch
@@ -3210,7 +3211,6 @@ galaxocapital.ch
 galaxos.ch
 galaxsus.ch
 galaxu.ch
-galaxua.ch
 galaxud.ch
 galaxus-hsg.ch
 galaxus-prestashop.ch
@@ -6234,6 +6234,7 @@ gamrfirst-casino-ch.ch
 gamrfirst-casino.ch
 gamrfirst-casino1.ch
 gamrfirst-ch.ch
+gamrfirst-online.ch
 gamrfirst-suisse.ch
 gamrfirst-swiss4win.ch
 gamrfirst-switzerland.ch
@@ -6530,6 +6531,7 @@ gangguet.ch
 ganghei.ch
 ganghuber.ch
 gangi.ch
+gangieuriholding.ch
 gangisnetz.ch
 gangjam.ch
 gangjamrecords.ch
@@ -11244,6 +11246,7 @@ gardenholding.ch
 gardenhome.ch
 gardenhomes.ch
 gardenhotelprimavera.ch
+gardenhub.ch
 gardenia-garten.ch
 gardenia.ch
 gardeniagarten.ch
@@ -11994,7 +11997,6 @@ garten-center.ch
 garten-charta.ch
 garten-chur.ch
 garten-coaches.ch
-garten-courage.ch
 garten-dekoration.ch
 garten-deluxe.ch
 garten-denkmal.ch
@@ -12810,6 +12812,7 @@ gartendesigner.ch
 gartendesigngmbh.ch
 gartendesigns.ch
 gartendialog.ch
+gartendienste-sissach.ch
 gartendinger.ch
 gartendinos.ch
 gartendoc.ch
@@ -16267,7 +16270,6 @@ gastronomie-meriangaerten.ch
 gastronomie-messe-luzern.ch
 gastronomie-miete.ch
 gastronomie-mietrecht.ch
-gastronomie-moebel.ch
 gastronomie-moleculaire.ch
 gastronomie-partner.ch
 gastronomie-planer.ch
@@ -17023,7 +17025,6 @@ gatehome.ch
 gatehouse.ch
 gateid.ch
 gateio.ch
-gatekeeper.bridport.ch
 gatekeeper.ch
 gatekeeper.kern.ch
 gatekeepersystems.ch

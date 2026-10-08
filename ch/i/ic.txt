@@ -1667,6 +1667,7 @@ ichwohne.ch
 ichwort.ch
 ichwottswuesse.ch
 ichwuensche.ch
+ichwurdebetrogen.ch
 ichwusstenichtwelchesbild.ch
 ichy.ch
 ichybdich.ch
@@ -2574,7 +2575,6 @@ ict-checkup.ch
 ict-cloud.ch
 ict-coach.ch
 ict-coaching.ch
-ict-com.ch
 ict-compliance.ch
 ict-configuration-guide.ch
 ict-consol.ch

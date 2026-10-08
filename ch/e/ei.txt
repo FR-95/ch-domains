@@ -1100,6 +1100,7 @@ eigene-app.ch
 eigene-balance-finden.ch
 eigene-cloud.ch
 eigene-domain.ch
+eigene-firma-schwyzermaert.ch
 eigene-firma.ch
 eigene-homepage.ch
 eigene-leads.ch
@@ -2783,6 +2784,7 @@ einfachezeiterfassung.ch
 einfachfalten.ch
 einfachfasten.ch
 einfachfein.ch
+einfachfeinpunkt.ch
 einfachferien.ch
 einfachfertiglos.ch
 einfachfilz.ch
@@ -5712,7 +5714,6 @@ eits.ch
 eitsch.ch
 eitschpi.ch
 eitschpis.ch
-eitservice.ch
 eitservices.ch
 eitsolothurn.ch
 eitsolutions.ch

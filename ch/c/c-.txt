@@ -519,7 +519,6 @@ c-point.ch
 c-pool.ch
 c-power.ch
 c-pr.ch
-c-primes.ch
 c-pro.ch
 c-progress.ch
 c-prot.ch

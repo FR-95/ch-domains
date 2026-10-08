@@ -662,7 +662,6 @@ gse-org-2020.ch
 gse-self-assessment.ch
 gse-solution.ch
 gse-solutions.ch
-gse-swiss.ch
 gse.ch
 gsea.ch
 gsear.ch
@@ -969,6 +968,7 @@ gsmartsol.ch
 gsmb.ch
 gsmbalerna.ch
 gsmc.ch
+gsmcarrelages.ch
 gsmcenter.ch
 gsmchoice.ch
 gsmconsulting.ch

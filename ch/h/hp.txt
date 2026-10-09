@@ -10,6 +10,7 @@ hp-bauberatung.ch
 hp-baukeramik.ch
 hp-baumanagement.ch
 hp-baumgartner.ch
+hp-beck.ch
 hp-bedarf.ch
 hp-blaettler.ch
 hp-buechler.ch
@@ -352,7 +353,6 @@ hpgasser.ch
 hpgehrig.ch
 hpgerber.ch
 hpgestion.ch
-hpgribi.ch
 hpgroeble.ch
 hpgroup.ch
 hpgtb.ch

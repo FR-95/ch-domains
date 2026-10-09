@@ -734,7 +734,7 @@ gsep.ch
 gserm.ch
 gserve.ch
 gserver.ch
-gservice.ch
+gses.ch
 gseschmi.ch
 gsesegwewehweh.ch
 gsesol.ch
@@ -1549,7 +1549,6 @@ gsund-in.ch
 gsund-lyss.ch
 gsund-macht-sinn.ch
 gsund-mit-hund.ch
-gsund-ostschweiz.ch
 gsund-plus.ch
 gsund-praxis.ch
 gsund-punkt.ch
@@ -1565,7 +1564,6 @@ gsund-und-sicher.ch
 gsund-und-vital.ch
 gsund-vital-rigra.ch
 gsund-vital-und-zfriede.ch
-gsund-zentralschweiz.ch
 gsund.ch
 gsund24.ch
 gsund4u.ch
@@ -1677,7 +1675,6 @@ gsundverbund.ch
 gsundvital.ch
 gsundwerk.ch
 gsundwerkplus.ch
-gsundzentralschweiz.ch
 gsundziit.ch
 gsune.ch
 gsunederbasel.ch

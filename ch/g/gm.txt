@@ -107,6 +107,7 @@ gm1.ch
 gm2d.ch
 gm3.ch
 gm3consulting.ch
+gm50.ch
 gm7comptabilite.ch
 gma-ag.ch
 gma-architecture.ch
@@ -115,6 +116,7 @@ gma-conseils.ch
 gma-consulting.ch
 gma-drechseln.ch
 gma-finances.ch
+gma-institute.ch
 gma-nettoyages.ch
 gma-sanierungen.ch
 gma-services.ch
@@ -155,6 +157,7 @@ gmailify.ch
 gmaill.ch
 gmails.ch
 gmailtours.ch
+gmainstitute.ch
 gmaiwisli-hof.ch
 gmake-it.ch
 gmakeup.ch

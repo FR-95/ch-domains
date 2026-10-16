@@ -183,7 +183,6 @@ yofi.ch
 yofina.ch
 yoforce.ch
 yog-ana.ch
-yog-andrea.ch
 yog-sothoth.ch
 yog.ch
 yoga-108.ch
@@ -1645,7 +1644,6 @@ yogamagic.ch
 yogamahina.ch
 yogamaitri.ch
 yogamakia.ch
-yogamala.ch
 yogamalar.ch
 yogamalters.ch
 yogamami.ch
@@ -2283,6 +2281,7 @@ yogaundko.ch
 yogaundkraeuter.ch
 yogaundkrebs.ch
 yogaundkunst.ch
+yogaundmalen.ch
 yogaundmassage.ch
 yogaundmeditation.ch
 yogaundmeer.ch

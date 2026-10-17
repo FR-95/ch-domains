@@ -428,6 +428,7 @@ shadowbusters.ch
 shadowcabinet.ch
 shadowcio.ch
 shadowcloud.ch
+shadowcommand.ch
 shadowcopy.ch
 shadowdancers.ch
 shadowdex.ch
@@ -2422,7 +2423,6 @@ she-estate.ch
 she-finance.ch
 she-go.ch
 she-keramik.ch
-she-lifts-cup.ch
 she-loxone.ch
 she-meetings.ch
 she-nobi.ch
@@ -6893,6 +6893,7 @@ shopmariposanailart.ch
 shopmaster.ch
 shopmat.ch
 shopmate.ch
+shopmavuna.ch
 shopmax.ch
 shopmcafee.ch
 shopmcbdesign.ch
@@ -7547,7 +7548,6 @@ shopxelios.ch
 shopxl.ch
 shopxy.ch
 shopybird.ch
-shopycell.ch
 shopyfy.ch
 shopygo.ch
 shopyion.ch
@@ -8666,6 +8666,7 @@ shukr.ch
 shukra.ch
 shukrani.ch
 shulker.ch
+shulman.ch
 shum.ch
 shuma.ch
 shumani.ch

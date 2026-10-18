@@ -2796,7 +2796,6 @@ skin-line.ch
 skin-longevity.ch
 skin-lounge.ch
 skin-match.ch
-skin-matters.ch
 skin-med.ch
 skin-needler.ch
 skin-nova.ch
@@ -3147,7 +3146,6 @@ skinmag.ch
 skinmagic.ch
 skinmaschinen.ch
 skinmatch.ch
-skinmatters.ch
 skinmc.ch
 skinmed-cosmetology.ch
 skinmed-dermatology.ch
@@ -4950,6 +4948,7 @@ skunk.0x1b.ch
 skunk.ch
 skunkbrothers.ch
 skunklab.ch
+skunkracing.ch
 skunkshop.ch
 skunkworks-garage.ch
 skunkworks.ch
@@ -5313,7 +5312,6 @@ skybusiness.ch
 skybuy.ch
 skybyte.ch
 skyc.ch
-skycab.ch
 skycable.ch
 skycaddie.ch
 skycam.ch
@@ -5394,7 +5392,6 @@ skycycle.ch
 skydach.ch
 skydance-events.ch
 skydance.ch
-skydancer.ch
 skydancers.ch
 skydancing-tantra.ch
 skydancing.ch

@@ -329,7 +329,6 @@ cubestorechur.ch
 cubestoresimplon.ch
 cubestorevalbirse.ch
 cubesys.ch
-cubet.ch
 cubete.ch
 cubetec.ch
 cubetech.ch
@@ -2088,6 +2087,7 @@ cuolm-sura.ch
 cuolm.ch
 cuolmliung.ch
 cuomo-fam.ch
+cuomo-home.ch
 cuomo-it.ch
 cuomo.ch
 cuomocomputers.ch

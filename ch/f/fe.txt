@@ -611,7 +611,6 @@ federkompass.ch
 federkraft-mensch.ch
 federkraft.ch
 federkreationen.ch
-federkrone.ch
 federle-geschenke.ch
 federle.ch
 federlegno.ch
@@ -634,7 +633,6 @@ federleicht-impuls.ch
 federleicht-karten.ch
 federleicht-kinesiologie.ch
 federleicht-kreativ-atelier.ch
-federleicht-leben.ch
 federleicht-lektorat.ch
 federleicht-lernen.ch
 federleicht-mannhart.ch
@@ -5464,6 +5462,7 @@ fendrich.ch
 fendrichtcm.ch
 fendrig.ch
 fendrik.ch
+fendrin.ch
 fendsi.ch
 fendt-art.ch
 fendt-caravan.ch
@@ -7591,6 +7590,7 @@ ferienfueraugen.ch
 ferienfuerbesondere.ch
 ferienfuerdich.ch
 ferienfuerkatzen.ch
+ferienfund.ch
 feriengenuss-schweiz.ch
 feriengestaltung.ch
 feriengewinnspiel.ch
@@ -9809,7 +9809,6 @@ fernoptikshop.ch
 fernoptikstore.ch
 fernost.ch
 fernox.ch
-fernpilot.ch
 fernpiloten.ch
 fernpilotenzeugnis.ch
 fernpraxis.ch
@@ -9878,7 +9877,6 @@ fernsehpreis.ch
 fernsehproduktion.ch
 fernsehproduktionen.ch
 fernsehprogramm.ch
-fernsehschrank.ch
 fernsehsender.ch
 fernsehsessel.ch
 fernsehspot.ch

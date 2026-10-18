@@ -2620,6 +2620,7 @@ asi-sbk-fr.ch
 asi-sbk-vs.ch
 asi-sbk.ch
 asi-spritzwerk.ch
+asi-vaud.ch
 asi-wache.ch
 asi.ch
 asi7.ch
@@ -6672,6 +6673,7 @@ associazionetirispetto.ch
 associazioneventaglio.ch
 associazioneverena.ch
 associazioneyoulife.ch
+associazioni.ch
 associazioniticino.ch
 associazionivenete.ch
 associaziundaconsumbreilcovolg1.ch
@@ -7554,6 +7556,7 @@ astaz.ch
 astb.ch
 astberatung.ch
 astblau.ch
+astci.ch
 astco.ch
 astconsult.ch
 astd.ch
@@ -7617,6 +7620,8 @@ astengineering.ch
 astenis.ch
 astennis.ch
 astennu.ch
+astenor.ch
+astenord.ch
 astep.ch
 astepahead.ch
 astepinthewild.ch
@@ -8026,6 +8031,7 @@ astrabiotrading.ch
 astrablotrading.ch
 astrac.ch
 astrachronik.ch
+astrachronika.ch
 astraclean.ch
 astraclub.ch
 astracoaching.ch

@@ -15373,7 +15373,6 @@ swissdirectorservices.ch
 swissdirectorsinstitute.ch
 swissdirectory.ch
 swissdirectsales.ch
-swissdirectservice.ch
 swissdirekt-energie.ch
 swissdirekt.ch
 swissdirektenergie.ch
@@ -15983,8 +15982,6 @@ swisseliteadvisory.ch
 swisselitedesign.ch
 swisseliteescort.ch
 swisseliteflight.ch
-swisselitek9.ch
-swisselitek9academy.ch
 swisseliteleader.ch
 swisselitelimousine.ch
 swisseliterenovation.ch
@@ -18105,6 +18102,7 @@ swissgutscheine.ch
 swissgwm.ch
 swissgym.ch
 swissgymcoaches.ch
+swissgymnasium.ch
 swissgymnastics.ch
 swissgymwear.ch
 swissgymzollikofen.ch
@@ -18591,6 +18589,7 @@ swisshomebtc.ch
 swisshomecare.ch
 swisshomecert.ch
 swisshomecertification.ch
+swisshomecheck.ch
 swisshomecollective.ch
 swisshomeconcept.ch
 swisshomeconsulting.ch
@@ -18619,6 +18618,7 @@ swisshomeprotect.ch
 swisshomeprotectgmbh.ch
 swisshomerenovation.ch
 swisshomes.ch
+swisshomeschooling.ch
 swisshomeservice.ch
 swisshomeshop.ch
 swisshomeshospitality.ch
@@ -19993,7 +19993,6 @@ swisslabdiamond.ch
 swisslabel.ch
 swisslabelbiotech.ch
 swisslabelquest.ch
-swisslabels.ch
 swisslabexperts.ch
 swisslabgrown.ch
 swisslabgrowndiamonds.ch
@@ -20178,7 +20177,6 @@ swissleadingevents.ch
 swissleadingexpert.ch
 swissleadingexperts.ch
 swissleadinghospitals.ch
-swissleadingmedicalcenters.ch
 swissleadingschool.ch
 swissleadingschools.ch
 swissleadingwebagencies.ch
@@ -20206,6 +20204,7 @@ swissleap.ch
 swisslearn.ch
 swisslearning.ch
 swisslearningagency.ch
+swisslearningcampus.ch
 swisslearningcenter.ch
 swisslearninghub.ch
 swisslearningit.ch
@@ -20589,14 +20588,15 @@ swisslma.ch
 swisslms.ch
 swissln.ch
 swisslo.ch
-swissloan.ch
 swisslobby.ch
 swissloc.ch
 swisslocal-plus.ch
 swisslocal.ch
 swisslocaladventures.ch
+swisslocalai.ch
 swisslocalgrowth.ch
 swisslocalguide.ch
+swisslocalintelligence.ch
 swisslocalmedia.ch
 swisslocalplus.ch
 swisslocals.ch
@@ -21998,6 +21998,7 @@ swissmotorcompany.ch
 swissmotorcycle.ch
 swissmotoren.ch
 swissmotorent.ch
+swissmotorgroup.ch
 swissmotorhub.ch
 swissmotorrad.ch
 swissmotors.ch
@@ -22653,6 +22654,7 @@ swissnutritionlabs.ch
 swissnutritionsolutions.ch
 swissnutrivalor.ch
 swissnuts.ch
+swissnworth.ch
 swissnwx.ch
 swissnxdn.ch
 swissnymph.ch
@@ -22684,6 +22686,7 @@ swissocc.ch
 swissoccasion.ch
 swissocealp.ch
 swissocean.ch
+swissoceanelite.ch
 swissoceanic.ch
 swissoceanracing.ch
 swissociety.ch
@@ -22878,8 +22881,10 @@ swissonlinegaming.ch
 swissonlinegamingassociation.ch
 swissonlinegarantie.ch
 swissonlinegymnasium.ch
+swissonlinehomeschooling.ch
 swissonlineinstitute.ch
 swissonlineinternational.ch
+swissonlinekanti.ch
 swissonlinelearning.ch
 swissonlinemail.ch
 swissonlinemarketing.ch
@@ -22890,6 +22895,7 @@ swissonlinepool.ch
 swissonlinepraxis.ch
 swissonlinepublishing.ch
 swissonlineschool.ch
+swissonlineschooling.ch
 swissonlineservice.ch
 swissonlineservices.ch
 swissonlineshop.ch
@@ -24010,6 +24016,7 @@ swissposition.ch
 swisspositive.ch
 swisspositivegold.ch
 swissposmarketing.ch
+swisspospay.ch
 swisspost-advertising.ch
 swisspost-cargo-web.ch
 swisspost-cargo.ch
@@ -25140,7 +25147,6 @@ swissreefer.ch
 swissreel.ch
 swissref.ch
 swissreference.ch
-swissreflex.ch
 swissreformer.ch
 swissrefoundation.ch
 swissreg.ch
@@ -26396,6 +26402,7 @@ swissstartup.ch
 swissstartupassociation.ch
 swissstartupcommunity.ch
 swissstartupdays.ch
+swissstartupgurus.ch
 swissstartupjob.ch
 swissstartupjobs.ch
 swissstartupnetwork.ch
@@ -27998,6 +28005,7 @@ swissvax-winterthur.ch
 swissvax-zuerich.ch
 swissvax-zurich.ch
 swissvax.ch
+swissvaxcheck.ch
 swissvaxpflegecenter.ch
 swissvbs.ch
 swissvbt.ch
@@ -28506,6 +28514,7 @@ swisswebmarketing.ch
 swisswebmaster.ch
 swisswebpage.ch
 swisswebpartner.ch
+swisswebpartners.ch
 swisswebphoto.ch
 swisswebpool.ch
 swisswebprint.ch
@@ -29691,6 +29700,7 @@ switzerlandrestaurant.ch
 switzerlandrestaurantguide.ch
 switzerlandrobot.ch
 switzerlandrocks.ch
+switzerlandrunning.ch
 switzerlands-next-topmodel.ch
 switzerlands-nexttopmodel.ch
 switzerlands-snowflakes.ch
@@ -29789,6 +29799,7 @@ switzerstouch.ch
 switzerwork.ch
 switzerworld.ch
 switzherland.ch
+switzmx.ch
 switzora.ch
 switzpharma.ch
 switzquiz.ch

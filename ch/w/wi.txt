@@ -1335,6 +1335,7 @@ wiederausrichtung.ch
 wiederbelebung.ch
 wiederbesserhoeren.ch
 wiederda.ch
+wiederdatag.ch
 wiederdaten.ch
 wiederdida.ch
 wiedereinervonpieren.ch
@@ -2054,7 +2055,6 @@ wietli.ch
 wietlisba.ch
 wietlisbach-garage.ch
 wietlisbach-hof.ch
-wietlisbach-krankenversicherung.ch
 wietlisbach.ch
 wietlisbachlaw.ch
 wietrauern.ch
@@ -3290,6 +3290,7 @@ wildchance.ch
 wildchance1.ch
 wildchancecasino.ch
 wildcherry.ch
+wildchestproductions.ch
 wildchild-training.ch
 wildchild.ch
 wildchildcustoms.ch
@@ -4889,6 +4890,7 @@ willens-vollstreckung.ch
 willens.ch
 willensakademie.ch
 willensgarten.ch
+willensgut-eberhard.ch
 willenskompass.ch
 willensnation.ch
 willensstark.ch
@@ -8235,6 +8237,7 @@ winkartist.ch
 winkasa.ch
 winkdernatur.ch
 winke.ch
+winkekatze.ch
 winkel-bern.ch
 winkel-embrach.ch
 winkel-immobilien.ch
@@ -9774,7 +9777,6 @@ winterwunder.ch
 winterwunderland-eglisau.ch
 winterwunderschweiz.ch
 winterwunderwelt.ch
-wintery.ch
 winterzauber-aarau.ch
 winterzauber-adliswil.ch
 winterzauber-ballenberg.ch
@@ -12394,6 +12396,7 @@ wirtepatent-zuerich.ch
 wirtepatent.ch
 wirtepatentaargau.ch
 wirtepatentbasel.ch
+wirtepatentbaselstadt.ch
 wirtepatentbern.ch
 wirtepatentgastrobern.ch
 wirtepatentluzern.ch

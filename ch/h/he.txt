@@ -3673,6 +3673,7 @@ hecl.ch
 heclab.ch
 heclausanne.ch
 heclausannecc.ch
+heclearn.ch
 heclivia-compta.ch
 heclivia.ch
 heco-audio.ch
@@ -5486,7 +5487,6 @@ heileheile.ch
 heilemich.ch
 heilen-aunda.ch
 heilen-begleiten.ch
-heilen-bewegt.ch
 heilen-christiankeller.ch
 heilen-durch-handauflegen.ch
 heilen-durch-kinder.ch
@@ -5526,6 +5526,7 @@ heilendewege.ch
 heilendhelfen.ch
 heilendorf.ch
 heilenergie-jac.ch
+heilenergie.ch
 heilenergien.ch
 heilenheute.ch
 heilenheutelive.ch
@@ -8041,6 +8042,7 @@ heizcentrale.ch
 heizcheck.ch
 heizcheschte.ch
 heizclous.ch
+heizdeal.ch
 heizdecke.ch
 heizdecken-schweiz.ch
 heizdecken.ch
@@ -9888,6 +9890,7 @@ helikopter-flug.ch
 helikopter-flugschule.ch
 helikopter-im-einsatz.ch
 helikopter-mountainflying.ch
+helikopter-rundflug.ch
 helikopter-schweiz.ch
 helikopter.ch
 helikopteradventure.ch
@@ -10949,6 +10952,7 @@ hellokittyshop.ch
 helloklassenkunst.ch
 helloklima.ch
 hellokobold.ch
+hellokredit.ch
 hellolab.ch
 hellolachauxdefonds.ch
 helloleadrise.ch
@@ -13594,7 +13598,6 @@ helveticdomain.ch
 helveticdomains.ch
 helveticdreams.ch
 helveticdrive.ch
-helveticdrone.ch
 helveticdynamics.ch
 helveticeconomy.ch
 helveticemploi.ch
@@ -13995,7 +13998,6 @@ helvetios-winterthur.ch
 helvetios.ch
 helvetipack.ch
 helvetipay.ch
-helvetipedia.ch
 helvetipet.ch
 helvetipix.ch
 helvetipps.ch
@@ -16036,6 +16038,7 @@ herb.ch
 herba-analytica.ch
 herba-collection.ch
 herba-creativa.ch
+herba-curiosa.ch
 herba-dea.ch
 herba-hazussa.ch
 herba-imodac.ch
@@ -16060,6 +16063,7 @@ herbaconsulta.ch
 herbacosma.ch
 herbacross.ch
 herbacure.ch
+herbacuriosa.ch
 herbacus.ch
 herbadea.ch
 herbadent.ch
@@ -17364,6 +17368,7 @@ hermelin.ch
 hermelindis.ch
 hermeline.ch
 hermelingroup.ch
+hermelino.ch
 hermenches.ch
 hermenches24.ch
 hermeneia.ch
@@ -17713,6 +17718,7 @@ herohygiene.ch
 heroic-dcc.ch
 heroic.ch
 heroics-capital.ch
+heroics.ch
 heroicscapital.ch
 heroid-gjoshi.ch
 heroidgjoshi.ch
@@ -18403,7 +18409,6 @@ hersheyinternational.ch
 hersheys.ch
 hersheytrading.ch
 hershgroup.ch
-hershoes.ch
 herson.ch
 herspace.ch
 hersperger-ag.ch
@@ -19272,6 +19277,7 @@ herzenshaar.ch
 herzenshebamme.ch
 herzenshilfe.ch
 herzenshilfedigital.ch
+herzenshof.ch
 herzenshuf.ch
 herzenshund.ch
 herzensideen.ch
@@ -20199,6 +20205,7 @@ herzquote.ch
 herzrasen.ch
 herzratenvariabilitaet.ch
 herzraum-analena.ch
+herzraum-analenaa.ch
 herzraum-bern.ch
 herzraum-buelach.ch
 herzraum-coaching.ch
@@ -20272,6 +20279,7 @@ herzschneiderei.ch
 herzschneiderin.ch
 herzschniderin.ch
 herzschnitzer.ch
+herzschritt.ch
 herzschrittmacher.ch
 herzschrittmachertherapie.ch
 herzschwaeche.ch

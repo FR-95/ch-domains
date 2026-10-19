@@ -187,7 +187,6 @@ ds-salon-marti.ch
 ds-salon.ch
 ds-sanitaire.ch
 ds-schmuckkultur.ch
-ds-schulung.ch
 ds-schweiz.ch
 ds-scripts.ch
 ds-security.ch
@@ -864,6 +863,7 @@ dsmcg.ch
 dsmdata.ch
 dsmdatasystem.ch
 dsmecanique.ch
+dsmenuiserie.ch
 dsmetal.ch
 dsmetallbau.ch
 dsmeurope.ch
@@ -1045,7 +1045,6 @@ dssb.ch
 dssc.ch
 dsschaerer.ch
 dsschoepfli.ch
-dsschulung.ch
 dsschweiz.ch
 dssconseil.ch
 dssd.ch
@@ -1116,6 +1115,7 @@ dstconstructions.ch
 dstcontoso.ch
 dstdecap.ch
 dste.ch
+dsteam.ch
 dstec.ch
 dstech.ch
 dstechnik.ch

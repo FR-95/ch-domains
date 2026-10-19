@@ -201,7 +201,6 @@ swahili.ch
 swai-app.ch
 swai-solutions.ch
 swai.ch
-swaia.ch
 swaicom.ch
 swain.ch
 swainfo.ch
@@ -6497,6 +6496,7 @@ swiss-lane.ch
 swiss-language-academy.ch
 swiss-language-exams.ch
 swiss-language-school.ch
+swiss-language-studio.ch
 swiss-laser-clinic.ch
 swiss-laser-comite.ch
 swiss-laser-education.ch
@@ -13114,6 +13114,7 @@ swisscarsgmbh.ch
 swisscarshelvetic.ch
 swisscarshine.ch
 swisscarshow.ch
+swisscarsightings.ch
 swisscarslection.ch
 swisscarsolutions.ch
 swisscarspot.ch
@@ -14470,6 +14471,7 @@ swisscrewcards.ch
 swisscrewcreditcards.ch
 swisscrf.ch
 swisscrforum.ch
+swisscribe.ch
 swisscricket.ch
 swisscricketcup.ch
 swisscricketleague.ch
@@ -15119,7 +15121,6 @@ swissdesigne.ch
 swissdesignembassy.ch
 swissdesigner.ch
 swissdesignerds.ch
-swissdesignersport.ch
 swissdesignexcellence.ch
 swissdesignflow.ch
 swissdesignforum.ch
@@ -17489,7 +17490,6 @@ swissgay.ch
 swissgayart.ch
 swissgaydad.ch
 swissgaydating.ch
-swissgays.ch
 swissgayski.ch
 swissgazette.ch
 swissgb.ch
@@ -17668,6 +17668,7 @@ swissglassticino.ch
 swissglastec.ch
 swissglaucomagroup.ch
 swissglaucomaresearch.ch
+swissglaucome.ch
 swissglider.ch
 swissgliders.ch
 swissgliding.ch
@@ -18149,7 +18150,6 @@ swisshairprofi.ch
 swisshairrevolution.ch
 swisshairsalon.ch
 swisshairtalent.ch
-swisshajj.ch
 swisshajjumrah.ch
 swisshalal-food.ch
 swisshalal.ch
@@ -18499,7 +18499,6 @@ swisshiphop.ch
 swisshire.ch
 swisshiring.ch
 swisshirt.ch
-swisshisab.ch
 swisshistokart.ch
 swisshistoric.ch
 swisshistorichotels.ch
@@ -22004,6 +22003,7 @@ swissmotorrad.ch
 swissmotors.ch
 swissmotos.ch
 swissmotoshop.ch
+swissmotostands.ch
 swissmototrade.ch
 swissmots.ch
 swissmount.ch
@@ -23643,6 +23643,7 @@ swissphotoworld.ch
 swissphygital.ch
 swissphygitalcompany.ch
 swissphygitalsport.ch
+swissphysicalai.ch
 swissphysicalgoldtoken.ch
 swissphysicianassistant.ch
 swissphysics.ch
@@ -24608,7 +24609,6 @@ swissproviding.ch
 swissproweb.ch
 swissprowork.ch
 swissproworkag.ch
-swissproxies.ch
 swissproxy.ch
 swissprp.ch
 swissprpclinic.ch
@@ -26072,6 +26072,7 @@ swissslotto.ch
 swissslottournament.ch
 swisssmallhydro.ch
 swisssmart-computer.ch
+swisssmart-group.ch
 swisssmart.ch
 swisssmartcapital.ch
 swisssmartcomputer.ch
@@ -26861,6 +26862,7 @@ swisstechaccelerator.ch
 swisstechag.ch
 swisstechassociation.ch
 swisstechauto.ch
+swisstechbio.ch
 swisstechbriefing.ch
 swisstechbyrs.ch
 swisstechcare.ch
@@ -29526,6 +29528,7 @@ switzerlandactivities.ch
 switzerlandadventure.ch
 switzerlandai.ch
 switzerlandair.ch
+switzerlandallessauber.ch
 switzerlandalpine.ch
 switzerlandapartments.ch
 switzerlandar.ch
@@ -30234,6 +30237,7 @@ sworkshopcustom.ch
 sworm.ch
 sworntranslate.ch
 sworp.ch
+swortec.ch
 sworx.ch
 swos.ch
 swosco.ch

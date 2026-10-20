@@ -1263,7 +1263,6 @@ healthinsurance-swiss.ch
 healthinsurance-switzerland.ch
 healthinsurance.ch
 healthinsurance24.ch
-healthinsurancecomparison.ch
 healthinsurancedashboard.ch
 healthinsurancedays.ch
 healthinsurances.ch
@@ -1352,10 +1351,6 @@ healthomatics.ch
 healthomics.ch
 healthon.ch
 healthonline.ch
-healthoptimisation.ch
-healthoptimisationinstitute.ch
-healthoptimization.ch
-healthoptimizationinstitute.ch
 healthorant.ch
 healthorg-consulting.ch
 healthorg.ch
@@ -2905,7 +2900,6 @@ hebammefuerdich.ch
 hebammefueroi.ch
 hebammego.ch
 hebammehanni.ch
-hebammeherz.ch
 hebammehoch2.ch
 hebammehochzwei.ch
 hebammeinga.ch
@@ -2925,7 +2919,6 @@ hebammeluisasulit.ch
 hebammemal2.ch
 hebammemaria.ch
 hebammemarinawolf.ch
-hebammemartina.ch
 hebammemelanie.ch
 hebammemichelle.ch
 hebammemitherz.ch
@@ -5733,7 +5726,6 @@ heilkunst-im-wandel.ch
 heilkunst-praxis.ch
 heilkunst-raum.ch
 heilkunst-remund.ch
-heilkunst-simi.ch
 heilkunst-thun.ch
 heilkunst.ch
 heilkunstatelier.ch
@@ -6229,6 +6221,7 @@ heimannarchitecture.ch
 heimannconsulting.ch
 heimannpartner.ch
 heimanns.ch
+heimap.ch
 heimape.ch
 heimapotheke.ch
 heimar.ch
@@ -8694,6 +8687,7 @@ hejra.ch
 hejrasolutions.ch
 hejsan.ch
 hejsano.ch
+hejsisters.ch
 hejstay.ch
 hejstudium.ch
 hejsuisse.ch
@@ -9184,6 +9178,7 @@ helenah.ch
 helenaheld.ch
 helenahermann.ch
 helenahunziker.ch
+helenaivanovic.ch
 helenajansen.ch
 helenakoch.ch
 helenalanz.ch
@@ -9245,7 +9240,6 @@ helene-mandalidis.ch
 helene-marchand.ch
 helene-marguerite-contesse.ch
 helene-mischol.ch
-helene-mishol.ch
 helene-morere.ch
 helene-nutrition.ch
 helene-ogi.ch
@@ -9753,6 +9747,7 @@ helianys.ch
 heliappenzell.ch
 heliaq.ch
 heliar.ch
+heliarahmani.ch
 helias-bildung.ch
 helias-sarl.ch
 helias.ch
@@ -12364,6 +12359,7 @@ helvedrone.ch
 helvedu.ch
 helveduca.ch
 helvee.ch
+helvefab.ch
 helvefit.ch
 helveg.ch
 helvegeek.ch
@@ -12934,7 +12930,6 @@ helvetiagunshop.ch
 helvetiah2o.ch
 helvetiahausratversicherung.ch
 helvetiahealing.ch
-helvetiaheritage.ch
 helvetiaholt.ch
 helvetiahost.ch
 helvetiahotel.ch
@@ -13206,6 +13201,7 @@ helvetic-energy.ch
 helvetic-energyridge.ch
 helvetic-estates.ch
 helvetic-events-services.ch
+helvetic-ferrets.ch
 helvetic-finance-group.ch
 helvetic-finance.ch
 helvetic-fondue.ch
@@ -13345,6 +13341,8 @@ helvetic-vorsorge.ch
 helvetic-vpn.ch
 helvetic-warranty.ch
 helvetic-web.ch
+helvetic-webdesign-reparatur.ch
+helvetic-webdesign-repartur.ch
 helvetic-webdesign.ch
 helvetic-werkstoffe.ch
 helvetic-whirlpool.ch
@@ -13624,7 +13622,6 @@ helveticfood.ch
 helveticforce.ch
 helveticfort.ch
 helveticfoundry.ch
-helveticfragrance.ch
 helveticframesstudio.ch
 helveticgamers.ch
 helveticgames.ch
@@ -13892,6 +13889,7 @@ helveticvape.ch
 helveticview.ch
 helveticvintage.ch
 helveticvisions.ch
+helveticvisuals.ch
 helveticvorsorge.ch
 helveticwahl.ch
 helveticware.ch
@@ -13942,6 +13940,7 @@ helvetiguide.ch
 helvetihome.ch
 helvetihost.ch
 helvetii.ch
+helvetijobs.ch
 helvetik-automatik.ch
 helvetik-invest.ch
 helvetik-journal.ch
@@ -16152,6 +16151,7 @@ herbamarium-online.ch
 herbamed.ch
 herbamedica.ch
 herbamedicus.ch
+herbamira.ch
 herbamons.ch
 herbana.ch
 herbanatura.ch
@@ -17020,7 +17020,6 @@ heritage-creates-future.ch
 heritage-croix-verte.ch
 heritage-culinary-kitchen.ch
 heritage-diaspo.ch
-heritage-ebenisterie.ch
 heritage-en-herbe.ch
 heritage-gourmet.ch
 heritage-grenat.ch
@@ -18507,6 +18506,7 @@ herticatreuhand.ch
 herticenter.ch
 hertie-school.ch
 hertie.ch
+hertier.ch
 hertieschool.ch
 hertig-ag.ch
 hertig-baumfaellungen.ch
@@ -21409,6 +21409,7 @@ heupresser.ch
 heura.ch
 heurausch.ch
 heure-bleue.ch
+heure-consulting.ch
 heure-exacte.ch
 heure-mondiale.ch
 heure.ch
@@ -22065,7 +22066,6 @@ hexabit-cloud.ch
 hexabit.ch
 hexachrome.ch
 hexaclean.ch
-hexaclick.ch
 hexacloud.ch
 hexacode.ch
 hexacoding.ch
@@ -22179,7 +22179,6 @@ hexarcane.ch
 hexarial.ch
 hexaric.ch
 hexarmor.ch
-hexarod.ch
 hexas.ch
 hexashop.ch
 hexasodiumfytate.ch
@@ -22451,6 +22450,7 @@ heyamigo.ch
 heyanalytics.ch
 heyanimatedreal.ch
 heyapply.ch
+heyapppro.ch
 heyar.ch
 heyarchitecture.ch
 heyari.ch

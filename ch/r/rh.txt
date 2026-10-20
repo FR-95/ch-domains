@@ -914,7 +914,6 @@ rheintravel.ch
 rheintrust.ch
 rheintunnel-bs.ch
 rheinufer.ch
-rheinumbau.ch
 rheinumzug.ch
 rheinundrauf.ch
 rheinundraus.ch
@@ -2057,6 +2056,7 @@ rhyboot-shop.ch
 rhyboot.ch
 rhybootsvermietung.ch
 rhybord.ch
+rhybraetscher.ch
 rhybraeu.ch
 rhybrugg.ch
 rhybs.ch

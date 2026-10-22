@@ -28,6 +28,7 @@ hc-compta.ch
 hc-conseil-immobilier.ch
 hc-consultant.ch
 hc-consulting.ch
+hc-cortebert.ch
 hc-cranio.ch
 hc-cspr.ch
 hc-cuisine.ch
@@ -544,7 +545,6 @@ hcr2.ch
 hcr3.ch
 hcradioactivetransport.ch
 hcrartwork.ch
-hcrc.ch
 hcredice.ch
 hcreidermoos.ch
 hcrenens.ch

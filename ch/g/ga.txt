@@ -1202,7 +1202,6 @@ gabulin.ch
 gabum.ch
 gabun.ch
 gabur-group.ch
-gaburek.ch
 gabus-aviation.ch
 gabus.ch
 gabuspeinture.ch
@@ -9080,6 +9079,7 @@ garage404.ch
 garage427.ch
 garage44.ch
 garage440.ch
+garage46.ch
 garage4u.ch
 garage4wd.ch
 garage4you.ch
@@ -11019,6 +11019,7 @@ garcia-renovation.ch
 garcia-romero.ch
 garcia-sarl.ch
 garcia-silva.ch
+garcia-solutions.ch
 garcia-vassalli.ch
 garcia-vogel.ch
 garciaadvisory.ch
@@ -12881,7 +12882,6 @@ gartendrucker.ch
 gartendsein.ch
 gartendusche.ch
 gartenduschen.ch
-garteneben.ch
 gartenecke.ch
 garteneden.ch
 gartenedenspa.ch
@@ -13868,6 +13868,8 @@ gartnerei.ch
 gartnernzunft.ch
 gartool.ch
 gartoon.ch
+gartop.ch
+gartop360.ch
 gartrisch.ch
 gartrium.ch
 gartside.ch
@@ -14881,6 +14883,7 @@ gastfreundschaft.ch
 gastfreundschaftmitherz.ch
 gastfruendin.ch
 gastgeber-box.ch
+gastgeber-kompass.ch
 gastgeber-schweiz.ch
 gastgeber.ch
 gastgeber30.ch
@@ -15157,6 +15160,7 @@ gasthof-teufelsschlucht.ch
 gasthof-tiefenau.ch
 gasthof-traube.ch
 gasthof-vonarx.ch
+gasthof-waag.ch
 gasthof-waldhaeusern.ch
 gasthof-weinhof.ch
 gasthof-wellenberg.ch
@@ -15602,7 +15606,6 @@ gastro-shop.ch
 gastro-shop24.ch
 gastro-so.ch
 gastro-solothurn.ch
-gastro-solution-wruck.ch
 gastro-solution.ch
 gastro-solutions.ch
 gastro-sowe.ch
@@ -17070,6 +17073,7 @@ gateau-vully.ch
 gateau.ch
 gateaubullois.ch
 gateauduvully.ch
+gateaufantaisie.ch
 gateaux-geneve.ch
 gateaux-perso-ge.ch
 gateaux-vully.ch
@@ -17405,7 +17409,6 @@ gauchosdelgusto-bern.ch
 gauchospiess.ch
 gauchs.ch
 gauchschwartz.ch
-gauchurri.ch
 gauckler.ch
 gaud-bouchons.ch
 gaud-fleurs.ch

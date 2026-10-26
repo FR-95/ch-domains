@@ -397,6 +397,7 @@ peak2path.ch
 peak2peace.ch
 peak2peak.ch
 peak2pi.ch
+peak2playa.ch
 peak3157.ch
 peak38.ch
 peak4youth.ch
@@ -404,7 +405,6 @@ peak7.ch
 peak9.ch
 peakacademy.ch
 peakace.ch
-peakacquire.ch
 peakadvisor.ch
 peakadvisors.ch
 peakadvisory.ch
@@ -464,6 +464,7 @@ peakcurl.ch
 peakcxo.ch
 peakd.ch
 peakdata.ch
+peakdeal.ch
 peakdealmakers.ch
 peakdeals.ch
 peakdesign.ch
@@ -3089,6 +3090,7 @@ pelikan-sg.ch
 pelikan.ch
 pelikanapotheke.ch
 pelikanbox.ch
+pelikanfidelis.ch
 pelikans.ch
 pelikanstudio.ch
 peliken.ch
@@ -15255,7 +15257,6 @@ petsdreams.ch
 petsear.ch
 petsearch.ch
 petseeker.ch
-petselect.ch
 petsense.ch
 petservice.ch
 petset.ch
@@ -15308,7 +15309,6 @@ petsittingzurich.ch
 petsli.ch
 petslive.ch
 petslocarno.ch
-petslocate.ch
 petslot.ch
 petslounge.ch
 petslove.ch

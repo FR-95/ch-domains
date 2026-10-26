@@ -428,6 +428,7 @@ team-axxeva.ch
 team-b.ch
 team-baba.ch
 team-baessler.ch
+team-ballkult.ch
 team-ballmer.ch
 team-balmer.ch
 team-bank.ch
@@ -2152,7 +2153,6 @@ teapoint.ch
 teapost.ch
 teapot.ch
 teapremium.ch
-teapuro.ch
 tear-aid.ch
 tear.ch
 teara-coaching.ch
@@ -6068,7 +6068,6 @@ tefm.ch
 tefo-montagen.ch
 tefo.ch
 tefo26.ch
-tefonix.ch
 tefoos-food.ch
 tefoosfood-olten.ch
 tefoosfood.ch
@@ -7918,6 +7917,7 @@ telemedecin.ch
 telemedecine.ch
 telemedes.ch
 telemedia.ch
+telemedic.ch
 telemedica.ch
 telemedical.ch
 telemedicina.ch
@@ -11357,6 +11357,7 @@ tenutavillacastello.ch
 tenute-di-famiglia.ch
 tenutecannizzo.ch
 tenuti.ch
+tenutia.ch
 tenuto.ch
 tenutoswiss.ch
 tenutzi.ch
@@ -12399,6 +12400,7 @@ termingeld.ch
 termingo.ch
 terminhandel.ch
 terminhor.ch
+terminhub.ch
 termini.ch
 terminic.ch
 terminierungs-agentur.ch
@@ -12471,6 +12473,7 @@ terminvereinbarung.ch
 terminvergabe.ch
 terminvorschlag.ch
 terminwahl.ch
+terminwelt.ch
 terminwerk.ch
 terminwunder.ch
 terminz.ch
@@ -12517,6 +12520,7 @@ termsheet.ch
 termsheets-dev.ch
 termsheets.ch
 termsvalor.ch
+termy.ch
 termyn.ch
 tern-bicycles.ch
 tern-bikes.ch
@@ -13876,7 +13880,6 @@ terreabondance.ch
 terreaccords.ch
 terreactivated.ch
 terreactive.ch
-terreactve.ch
 terreadiagnostic.ch
 terreag.ch
 terreapleinesmains.ch
@@ -15300,6 +15303,7 @@ test-ionos-hosting.ch
 test-iq.ch
 test-it.ch
 test-jeremie.ch
+test-jordankeramik.ch
 test-kg.ch
 test-kmu-win.ch
 test-kompakt.ch

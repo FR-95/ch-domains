@@ -556,6 +556,7 @@ go4asset.ch
 go4balance.ch
 go4balifoto.ch
 go4basket.ch
+go4boards.ch
 go4business.ch
 go4camp.ch
 go4car.ch
@@ -4063,6 +4064,7 @@ goldennet.ch
 goldennights.ch
 goldennoise.ch
 goldennumbers.ch
+goldenoak.ch
 goldenoffer.ch
 goldenoffers.ch
 goldenofthreelakes.ch
@@ -9886,7 +9888,6 @@ gossipa.ch
 gossipcoiffure.ch
 gossipeer.ch
 gossipglam.ch
-gossiphouse.ch
 gossiplace.ch
 gossippr.ch
 gossipticino.ch

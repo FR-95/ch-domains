@@ -963,6 +963,7 @@ tac-cloud.ch
 tac-et-tique.ch
 tac-events.ch
 tac-force.ch
+tac-industries.ch
 tac-lavaux.ch
 tac-lufthygiene.ch
 tac-management.ch
@@ -1884,6 +1885,7 @@ tafelski.ch
 tafelspitz.ch
 tafelstatt-arth.ch
 tafelstern.ch
+tafeltales.ch
 tafeltische.ch
 tafeltrauben.ch
 tafelwart.ch
@@ -3844,7 +3846,6 @@ takeawaystaedtli.ch
 takeawaythai.ch
 takeawayvergari.ch
 takeawayverpackungen.ch
-takeawayviktoria.ch
 takeaweb.ch
 takeawey.ch
 takeba.ch
@@ -3871,6 +3872,7 @@ takecareofyou.ch
 takecareofyourself.ch
 takecareservices.ch
 takecash.ch
+takechat.ch
 takecontrol.ch
 takecontrolnow.ch
 takeda-ad.ch
@@ -4020,6 +4022,7 @@ takesnacks.ch
 takespace.ch
 takesushi-zug.ch
 takesushi.ch
+taketalker.ch
 takethai.ch
 takethat.ch
 takethecake.ch
@@ -4048,6 +4051,7 @@ takevalue.ch
 takevip.ch
 takewing.ch
 takewith.ch
+takeyoki.ch
 takeyoucare.ch
 takeyour.ch
 takeyourcall.ch
@@ -7168,6 +7172,7 @@ tanja-ackermann.ch
 tanja-aloeshop.ch
 tanja-anderwert.ch
 tanja-andrej.ch
+tanja-andy-hochzeit27.ch
 tanja-aschwanden.ch
 tanja-bauer.ch
 tanja-baumann.ch
@@ -8645,6 +8650,7 @@ tanz-kalender.ch
 tanz-kleider.ch
 tanz-kreis.ch
 tanz-kreuzfahrt.ch
+tanz-kultur.ch
 tanz-kurs.ch
 tanz-kurse.ch
 tanz-lehrer.ch
@@ -9539,6 +9545,7 @@ taolife.ch
 taoline.ch
 taoloungebar.ch
 taoloungebar2.ch
+taolumia.ch
 taom.ch
 taoma.ch
 taomassage.ch
@@ -9921,7 +9928,6 @@ tapis-lifting.ch
 tapis-logo.ch
 tapis-nettoyage-reparation-lausanne.ch
 tapis-nettoyage-reparation.ch
-tapis-nettoyage-restauration-reparation-conservation.ch
 tapis-rouge.ch
 tapis-valais.ch
 tapis-vert.ch
@@ -16534,7 +16540,6 @@ taxum.ch
 taxun.ch
 taxundmwst.ch
 taxuno.ch
-taxup.ch
 taxura.ch
 taxus-baccata.ch
 taxus.ch

@@ -1170,6 +1170,7 @@ akkansolution.ch
 akkapita.ch
 akkapurna.ch
 akkara.ch
+akkarim.ch
 akkas.ch
 akkatech.ch
 akkavoyance.ch
@@ -1654,6 +1655,7 @@ akorug.ch
 akos-avocat.ch
 akos-avocats.ch
 akos-capital.ch
+akos-mar.ch
 akos-sante.ch
 akos-services.ch
 akos-weine.ch
@@ -3653,7 +3655,6 @@ akzenta.ch
 akzentanova.ch
 akzentarchitektur.ch
 akzentbasel.ch
-akzentbau.ch
 akzentdesign.ch
 akzente-group.ch
 akzente-magazin.ch

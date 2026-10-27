@@ -168,7 +168,6 @@ ak4events.ch
 ak55.ch
 ak57.ch
 ak6.ch
-ak60-akisnet.ch
 ak60-swissmem.ch
 ak60.ch
 ak63.ch
@@ -928,6 +927,7 @@ akhar.ch
 akhena.ch
 akhil.ch
 akhila.ch
+akhion.ch
 akhof-designandprint.ch
 akhof-onlinedruckerei.ch
 akhofprint.ch

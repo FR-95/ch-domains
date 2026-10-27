@@ -887,7 +887,6 @@ tabside.ch
 tabsilent.ch
 tabsinc.ch
 tabso.ch
-tabsoffenherzvoll.ch
 tabsta.ch
 tabt.ch
 tabte.ch
@@ -1920,6 +1919,7 @@ tafferner.ch
 tafff.ch
 tafffsa.ch
 taffio.ch
+taffix.ch
 taffnet.ch
 taffnetsarl.ch
 tafftool.ch
@@ -3464,7 +3464,6 @@ taim-ag.ch
 taim.ch
 taimag.ch
 taime.ch
-taimen-cnc.ch
 taimen.ch
 taimet.ch
 taimi.ch
@@ -3867,7 +3866,6 @@ takecarebidco.ch
 takecarejobs.ch
 takecarelab.ch
 takecarenew.ch
-takecareofyou-bonsera.ch
 takecareofyou.ch
 takecareofyourself.ch
 takecareservices.ch
@@ -3958,7 +3956,6 @@ takemycall.ch
 takemycalls.ch
 takemyhand.ch
 takemymoney.ch
-takemytasks.ch
 takemytime.ch
 taken.ch
 takenbystorm.ch
@@ -4173,6 +4170,7 @@ taktena.ch
 taktfink.ch
 taktform.ch
 taktfrequenz.ch
+taktgeber.ch
 taktgebererfolg.ch
 taktgefuehl.ch
 takti.ch
@@ -4232,6 +4230,7 @@ taktorga.ch
 taktos.ch
 taktoso.ch
 taktplan.ch
+taktra.ch
 taktreuhand.ch
 taktrix.ch
 taktro.ch
@@ -5545,6 +5544,7 @@ talus.ch
 talusinformatik.ch
 talussandbox05.ch
 taluu.ch
+taluvia.ch
 talv.ch
 talvano.ch
 talvatallow.ch
@@ -6541,7 +6541,6 @@ tanam.ch
 tanaman.ch
 tanamay.ch
 tanamerah.ch
-tanamoire.ch
 tanamur.ch
 tanance.ch
 tananceos.ch
@@ -8040,6 +8039,7 @@ tannerone.ch
 tanneroptik.ch
 tannerpartner.ch
 tannerparts.ch
+tannerpharma.ch
 tannerpraxis.ch
 tannerpumpen-events.ch
 tannerpumpen-technik.ch
@@ -10838,6 +10838,7 @@ tariva.ch
 tarix.ch
 tarjan-zingrich.ch
 tarjei.ch
+tarjetaroja.ch
 tarjv.ch
 tarka-bau.ch
 tarka.ch
@@ -11549,7 +11550,6 @@ taskforcecultureromande.ch
 taskforcekultur.ch
 taskforceone.ch
 taskforcesolar.ch
-taskfree.ch
 taskhero24.ch
 taskhorizon.ch
 taskhorse.ch
@@ -11617,7 +11617,6 @@ tasksmith.ch
 tasksolution.ch
 tasksolver.ch
 taskswiss.ch
-tasktaker.ch
 tasktango.ch
 tasktimer.ch
 tasktool.ch
@@ -12182,6 +12181,7 @@ tastywetzikon.ch
 tastyworld.ch
 tasu.ch
 tasuco.ch
+tasuki.ch
 tasunetachepistache.ch
 tasuval.ch
 tasv.ch
@@ -12658,7 +12658,6 @@ tattoo-less.ch
 tattoo-life.ch
 tattoo-lifestyle.ch
 tattoo-luzern.ch
-tattoo-malters.ch
 tattoo-mania.ch
 tattoo-me.ch
 tattoo-med.ch
@@ -13775,6 +13774,7 @@ tausendfach.ch
 tausendfuehler.ch
 tausendfuessler-club.ch
 tausendhuebsch.ch
+tausendhundert.ch
 tausendjahrigesrei.ch
 tausendkind.ch
 tausendkorn.ch
@@ -14579,7 +14579,6 @@ taxguru.ch
 taxguy.ch
 taxhaven.ch
 taxhelper.ch
-taxhero.ch
 taxholidays.ch
 taxhouse.ch
 taxhq.ch
@@ -15098,6 +15097,7 @@ taxi-tom.ch
 taxi-toni.ch
 taxi-tooktook.ch
 taxi-tools.ch
+taxi-toon.ch
 taxi-top.ch
 taxi-toscanelli.ch
 taxi-trans-dermaku.ch
@@ -16158,6 +16158,7 @@ taxitogo24.ch
 taxitom.ch
 taxitoni.ch
 taxitools.ch
+taxitoon.ch
 taxitop.ch
 taxitop24.ch
 taxitrack.ch
@@ -16526,6 +16527,7 @@ taxthun.ch
 taxthurgau.ch
 taxtime.ch
 taxtips.ch
+taxtivo.ch
 taxtom.ch
 taxtool.ch
 taxtools.ch

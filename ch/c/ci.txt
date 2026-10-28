@@ -1474,7 +1474,6 @@ cilouvet.ch
 cilproduction.ch
 cilre.ch
 cils.ch
-cilsbycarla.ch
 cilsbymone.ch
 cilsfribourg.ch
 cilsgeneve.ch
@@ -2017,7 +2016,6 @@ cinecole.ch
 cinecom.ch
 cineconomie.ch
 cineconsult.ch
-cineconsulting.ch
 cinecontrol.ch
 cinecookclub.ch
 cinecopter.ch
@@ -2214,7 +2212,6 @@ cinemaclub.ch
 cinemacolorgrading.ch
 cinemacolorist.ch
 cinemaconcerts.ch
-cinemaconsulting.ch
 cinemacopain.ch
 cinemacossonay.ch
 cinemaction.ch
@@ -2279,7 +2276,6 @@ cinemanext.ch
 cinemani.ch
 cinemania.ch
 cinemaniak.ch
-cinemanix.ch
 cinemanuel.ch
 cinemany.ch
 cinemaodeon.ch
@@ -3520,6 +3516,7 @@ circura.ch
 circuragroup.ch
 circus-aarcus.ch
 circus-academy.ch
+circus-arts.ch
 circus-biber.ch
 circus-casino.ch
 circus-comedy.ch

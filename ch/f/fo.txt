@@ -2787,6 +2787,7 @@ fondation-joerg-g-bucherer.ch
 fondation-joerggbucherer.ch
 fondation-jubile-sierre.ch
 fondation-jumelles.ch
+fondation-kani.ch
 fondation-kiss.ch
 fondation-kornkraft.ch
 fondation-krips.ch
@@ -3194,7 +3195,6 @@ fondationdrosos.ch
 fondationdsr.ch
 fondationduchrist-roi.ch
 fondationduchristroi.ch
-fondationducoeur.ch
 fondationdudenantou.ch
 fondationdupetitprince.ch
 fondationdupoyet.ch
@@ -5774,6 +5774,7 @@ foodshake.ch
 foodshakes.ch
 foodshare.ch
 foodsharing-glarus.ch
+foodsharing-schweiz.ch
 foodsharing.ch
 foodsharingschweiz.ch
 foodshop.ch
@@ -7552,7 +7553,6 @@ foresp.ch
 forespective.ch
 forespir.ch
 forespire.ch
-forest-bathing.ch
 forest-chuebeli-tour.ch
 forest-events.ch
 forest-fire-danger.ch
@@ -8428,6 +8428,7 @@ formaggiusto.ch
 formagipsbau.ch
 formaglobal.ch
 formagroup.ch
+formahelp.ch
 formahorizon.ch
 formahub.ch
 formai.ch
@@ -10994,7 +10995,6 @@ fortissimo.ch
 fortissimoag.ch
 fortissitwo.ch
 fortissolarpartner.ch
-fortissports.ch
 fortisswiss.ch
 fortistech.ch
 fortistime.ch

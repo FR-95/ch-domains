@@ -1292,7 +1292,6 @@ zim-car.ch
 zim-clip.ch
 zim-consulting.ch
 zim-equilibre.ch
-zim-holding.ch
 zim-horgen.ch
 zim-it.ch
 zim-med.ch

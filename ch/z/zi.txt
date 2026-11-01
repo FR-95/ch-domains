@@ -412,6 +412,7 @@ zieglerchem.ch
 zieglercoaching.ch
 zieglerconsulting.ch
 zieglerdent.ch
+zieglerdruck.ch
 zieglerelektro.ch
 zieglerfamilie.ch
 zieglerfamily.ch
@@ -2721,7 +2722,6 @@ zipfilms.ch
 zipfinger.ch
 zipfizapfi.ch
 zipflbob-race.ch
-zipflbob.ch
 zipflracer.ch
 zipfoto.ch
 zipfun.ch
@@ -2744,6 +2744,7 @@ ziploc.ch
 ziplone.ch
 ziplus.ch
 ziply.ch
+zipmail.ch
 zipmedia.ch
 zipmend.ch
 zipo.ch
@@ -2949,7 +2950,6 @@ zirkelkonzept.ch
 zirkelqueen.ch
 zirkelschmid.ch
 zirkelschmied.ch
-zirkelt.ch
 zirkelz.ch
 zirkenba.ch
 zirkl.ch

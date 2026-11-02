@@ -553,7 +553,6 @@ btp-app.ch
 btp-architecture.ch
 btp-architekten.ch
 btp-fid.ch
-btp-helvetic.ch
 btp-immobilien.ch
 btp-sa.ch
 btp-service.ch

@@ -917,6 +917,7 @@ iplatform.ch
 iplaw.ch
 iplawyer.ch
 iplay.ch
+iplaybox.ch
 iplayer.ch
 iplaysmart.ch
 iplc.ch
@@ -1074,7 +1075,6 @@ ipoinfo.ch
 ipoint.ch
 ipointlinux.ch
 ipoints.ch
-ipok-astek.ch
 ipokdeco.ch
 ipoker.ch
 ipokost.ch

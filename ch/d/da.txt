@@ -755,6 +755,7 @@ dachdecker-muttenz.ch
 dachdecker-offertenschweiz.ch
 dachdecker-pratteln.ch
 dachdecker-rebsamen.ch
+dachdecker-region-basel.ch
 dachdecker-reinach-bl.ch
 dachdecker-riehen.ch
 dachdecker-schweiz.ch
@@ -768,6 +769,7 @@ dachdecker-vergleich.ch
 dachdecker-vor-ort.ch
 dachdecker-weber.ch
 dachdecker-winterthur.ch
+dachdecker-zentralschweiz.ch
 dachdecker-zh.ch
 dachdecker-zuerich.ch
 dachdecker-zug.ch
@@ -3153,6 +3155,7 @@ dakab.ch
 dakacars.ch
 dakada.ch
 dakahoner.ch
+dakai.ch
 dakaimmo.ch
 dakaj-gipserei.ch
 dakaj-peinture.ch
@@ -9144,9 +9147,11 @@ dany-wirz.ch
 dany.ch
 danya-stasius.ch
 danyacare.ch
+danyaigroz.ch
 danyal.ch
 danyalberchtold.ch
 danyaluvoni.ch
+danyaouad.ch
 danyba.ch
 danybaechli.ch
 danybeautyandbalance.ch
@@ -10574,6 +10579,7 @@ darmgesundheit.ch
 darmglueck.ch
 darmgutallesgut.ch
 darmhandel.ch
+darmhelden.ch
 darmhilfe.ch
 darmhypnose.ch
 darming.ch
@@ -11231,7 +11237,6 @@ das-heizungsportal.ch
 das-hemd.ch
 das-hermine-prinzip.ch
 das-herz-ihrer-anlagen.ch
-das-hive.ch
 das-hochbeet.ch
 das-hochseezentrum.ch
 das-hochzeitsauto.ch
@@ -11940,7 +11945,6 @@ dasfeuilleton.ch
 dasfilet.ch
 dasfilmlabor.ch
 dasfinanzatelier.ch
-dasfinanzportal.ch
 dasfischhuus.ch
 dasfleisch.ch
 dasfluck.ch
@@ -12166,7 +12170,6 @@ dashiki.ch
 dashio.ch
 dashion.ch
 dashiq.ch
-dashive.ch
 dashkevi.ch
 dashkong.ch
 dashline.ch
@@ -12499,6 +12502,7 @@ dasmarkenrecht.ch
 dasmarketinginstitut.ch
 dasmashqiptare.ch
 dasmassistvoll.ch
+dasmaterial.ch
 dasmedienhaus.ch
 dasmedikament.ch
 dasmeerbeginnthier.ch
@@ -12903,6 +12907,7 @@ dastraum.ch
 dastraumbad.ch
 dastravo.ch
 dastreffen.ch
+dastreuhand.ch
 dastreuhandabo.ch
 dastro.ch
 dastrockeneauge.ch
@@ -15647,6 +15652,7 @@ dattelfrau.ch
 dattelfreunde.ch
 dattelgarten.ch
 dattelhonig.ch
+dattelier.ch
 dattelkaffee.ch
 dattello.ch
 dattelmanufaktur.ch

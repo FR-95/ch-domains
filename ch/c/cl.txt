@@ -933,6 +933,7 @@ clarint.ch
 clarinval.ch
 clario-solutions.ch
 clario.ch
+clarioconsulting.ch
 clariodigital.ch
 clariofilm.ch
 clarion-collection.ch
@@ -1285,6 +1286,7 @@ clarus-vorsorge.ch
 clarus.ch
 clarusai.ch
 claruscapital.ch
+claruscleaning.ch
 clarusfilms.ch
 clarusglassboards.ch
 clarusinstitut.ch
@@ -1422,6 +1424,7 @@ classe-de-demain.ch
 classe-gialla.ch
 classe-jaune.ch
 classe-moyenne.ch
+classe.ch
 classe1.ch
 classe11.ch
 classe1963.ch
@@ -3761,7 +3764,6 @@ clea-carmin.ch
 clea-fedelich.ch
 clea-immo.ch
 clea-projektdesign.ch
-clea.ch
 clea17.ch
 cleabatschelet.ch
 cleacarmin.ch
@@ -4353,6 +4355,7 @@ cleanhome.ch
 cleanhomes.ch
 cleanhomezurich.ch
 cleanhorgen.ch
+cleanhouse-goldkueste.ch
 cleanhouse-mpl.ch
 cleanhouse.ch
 cleanhub.ch
@@ -9693,7 +9696,6 @@ cloud-rider.ch
 cloud-riders.ch
 cloud-router.ch
 cloud-rt.ch
-cloud-rubitec.ch
 cloud-safe.ch
 cloud-sagestart.ch
 cloud-sandbox.ch

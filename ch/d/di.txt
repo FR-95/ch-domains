@@ -1149,7 +1149,6 @@ dialoguejardin.ch
 dialoguenumerique.ch
 dialogueplus.ch
 dialoguer.ch
-dialogues.ch
 dialoguesdelart.ch
 dialoguespluriels.ch
 dialoguesuisse.ch
@@ -6565,6 +6564,7 @@ diegofellay.ch
 diegofernando.ch
 diegofischer.ch
 diegofoellmi.ch
+diegofontana.ch
 diegoforte.ch
 diegofrey.ch
 diegofrigerio.ch
@@ -8330,7 +8330,6 @@ diereiserei.ch
 diereiserevue.ch
 diereisespezialisten.ch
 diereisetaube.ch
-diereisewelt.ch
 diereisezumsicherstenortdererde.ch
 diereisezuwohlstand.ch
 diereitschule.ch
@@ -8943,6 +8942,7 @@ dieter-hunziker.ch
 dieter-isler.ch
 dieter-jenni.ch
 dieter-jordi.ch
+dieter-karst.ch
 dieter-keller.ch
 dieter-klaey.ch
 dieter-krieg.ch
@@ -16006,6 +16006,7 @@ dimann.ch
 dimano-laserscanning.ch
 dimano.ch
 dimansarl.ch
+dimansion.ch
 dimar-be-fresh.ch
 dimar.ch
 dimara.ch
@@ -16612,7 +16613,6 @@ dincau.ch
 dincchape.ch
 dincer.ch
 dincgroup.ch
-dinchnopf.ch
 dinchopf.ch
 dincler.ch
 dinco.ch
@@ -16737,6 +16737,7 @@ dinesenwood.ch
 dinesh.ch
 dineshine.ch
 dinesjewelry.ch
+dinespring.ch
 dinesta.ch
 dinet.ch
 dinetainment.ch
@@ -17574,6 +17575,7 @@ dionjunior-gmbh.ch
 dionne.ch
 dionshala.ch
 dionsysos.ch
+diony.ch
 dionys-frigg.ch
 dionys-riedo-ag.ch
 dionys-riedo.ch
@@ -18234,7 +18236,6 @@ directebanking.ch
 directedbykuba.ch
 directedemocratie.ch
 directeducation.ch
-directeinkauf.ch
 directel24.ch
 directement-du-vigneron.ch
 directement.ch
@@ -19914,6 +19915,7 @@ dishonor.ch
 dishoom.ch
 dishop.ch
 dishpak.ch
+dishpress.ch
 dishrank.ch
 dishtracker.ch
 dishup.ch

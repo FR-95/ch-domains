@@ -3365,6 +3365,7 @@ doitsmart.ch
 doitsprachreisen.ch
 doittogether.ch
 doitwell.ch
+doitwithmac.ch
 doitwithmary.ch
 doityourselfdeko.ch
 doityourselfgarage.ch
@@ -3934,6 +3935,7 @@ dokuwelt.ch
 dokuwerk.ch
 dokuwerkstatt.ch
 dokuworks.ch
+dokvita.ch
 dokwerkstatt.ch
 dokwood.ch
 dokx.ch
@@ -5358,7 +5360,6 @@ domainedesloyettes.ch
 domainedesmarnes.ch
 domainedesmesanges.ch
 domainedesmoulins.ch
-domainedesmuriers.ch
 domainedesmuses.ch
 domainedesoleure.ch
 domainedesolveig.ch
@@ -6144,6 +6145,7 @@ domeo-immo.ch
 domeo.ch
 domeora.ch
 domeq.ch
+domera-suisse.ch
 domera.ch
 domergy.ch
 domerhlm.ch
@@ -7917,7 +7919,6 @@ domus-historicus.ch
 domus-immo.ch
 domus-immobilier.ch
 domus-invest.ch
-domus-investment.ch
 domus-lachen.ch
 domus-ldg.ch
 domus-lengnau.ch
@@ -7999,7 +8000,6 @@ domusimperium.ch
 domusincolis.ch
 domusinterior.ch
 domusinvest.ch
-domusinvestment.ch
 domusisodicht.ch
 domuslagomaggiore.ch
 domuslex.ch
@@ -8995,6 +8995,7 @@ donpeti.ch
 donphil-tennis.ch
 donphilippe.ch
 donpiccantoni.ch
+donpizzino.ch
 donplan-les-ouates.ch
 donplan.ch
 donpokemon.ch
@@ -10701,6 +10702,7 @@ dorfverein-daettwil.ch
 dorfverein-dozwil.ch
 dorfverein-egg.ch
 dorfverein-elgg.ch
+dorfverein-engwang.ch
 dorfverein-galmiz.ch
 dorfverein-gattikon.ch
 dorfverein-gerlisberg.ch
@@ -10759,6 +10761,7 @@ dorfvereinbuhwil.ch
 dorfvereinbusswil.ch
 dorfvereine-eyholz.ch
 dorfvereine.ch
+dorfvereinengwang.ch
 dorfvereinherdern.ch
 dorfvereinigung.ch
 dorfvereinkehrsatz.ch

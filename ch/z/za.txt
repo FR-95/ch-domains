@@ -23,7 +23,6 @@ za-marketing.ch
 za-monitoring-erhebung.ch
 za-mouflon.ch
 za-pallanterie.ch
-za-platten.ch
 za-springerin.ch
 za-u.ch
 za-v.ch
@@ -3851,6 +3850,7 @@ zahngesundheit-horw.ch
 zahngesundheit.ch
 zahngesundheitamkreuzplatz.ch
 zahnglanz-thun.ch
+zahnglanz.ch
 zahnglueck.ch
 zahngold-ankauf.ch
 zahngold.ch
@@ -6463,6 +6463,7 @@ zauberhuus.ch
 zauberimglas.ch
 zauberin-fabienne.ch
 zauberin.ch
+zauberkarten.ch
 zauberkasten.ch
 zauberkate.ch
 zauberkerze.ch

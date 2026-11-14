@@ -2304,6 +2304,7 @@ noerdig.ch
 noerdkantine.ch
 noerdli.ch
 noerdstube.ch
+noergelmax.ch
 noeria.ch
 noerli.ch
 noero.ch
@@ -4533,6 +4534,7 @@ nontoxic.ch
 nontraiteadhesionue.ch
 nontrivial.ch
 nontroppo.ch
+nontuttipossonocapire.ch
 nonut.ch
 nonvaleur.ch
 nonvaleurs.ch
@@ -5431,7 +5433,6 @@ nordband.ch
 nordbar-basel.ch
 nordbar.ch
 nordbase.ch
-nordbau.ch
 nordbeck.ch
 nordbench.ch
 nordberg.ch
@@ -6558,6 +6559,7 @@ norline.ch
 norliva.ch
 norlli.ch
 norlo.ch
+norlon.ch
 norluna.ch
 norlys.ch
 norm-al.ch
@@ -7913,7 +7915,6 @@ nostra.ch
 nostrabikes.ch
 nostracastel.ch
 nostrad-consulting.ch
-nostradam-ia.ch
 nostradamus-karten.ch
 nostradamus.ch
 nostrael.ch
@@ -9589,6 +9590,7 @@ notfallzuerich.ch
 notfallzuerich3.ch
 notfallzuerichwest.ch
 notfallzurich3.ch
+notfalse.ch
 notfarfest.ch
 notfell-pass.ch
 notfelle.ch
@@ -10196,6 +10198,7 @@ notmail.ch
 notmap.ch
 notmcdonalds.ch
 notme.ch
+notmemorable.ch
 notmonday.ch
 notmops.ch
 notmu.ch
@@ -11703,6 +11706,7 @@ novafon.ch
 novafood.ch
 novafoods.ch
 novafoodsuisse.ch
+novafootball.ch
 novaforest.ch
 novaforge.ch
 novaform.ch
@@ -11717,6 +11721,7 @@ novafundaziunorigen.ch
 novafunk.ch
 novafutura.ch
 novagan.ch
+novagate.ch
 novagear.ch
 novagen.ch
 novagence-anzere.ch
@@ -11776,7 +11781,6 @@ novahomesarl.ch
 novahorizonte.ch
 novahost.ch
 novahosting.ch
-novahouse.ch
 novahr.ch
 novahustech.ch
 novahygial.ch
@@ -13009,6 +13013,7 @@ noviquiz.ch
 novira.ch
 novirex.ch
 novirics.ch
+noviro.ch
 noviroc.ch
 noviron.ch
 novis-bau.ch

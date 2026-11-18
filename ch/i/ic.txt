@@ -1142,7 +1142,6 @@ ich-will-in-die-antarktis.ch
 ich-will-ins-ausland.ch
 ich-will-jassen.ch
 ich-will-kiten.ch
-ich-will-kuehe.ch
 ich-will-leistung.ch
 ich-will-mein-nutzfahrzeug-verkaufen.ch
 ich-will-mich-scheiden.ch
@@ -1633,7 +1632,6 @@ ichwillheiraten.ch
 ichwillhelfen.ch
 ichwillinput.ch
 ichwillknutsen.ch
-ichwillkuehe.ch
 ichwillleistung.ch
 ichwillmehrenergie.ch
 ichwillmeinautoloswerden.ch

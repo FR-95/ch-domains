@@ -783,7 +783,6 @@ wohl.ch
 wohlauf.ch
 wohlauflex.ch
 wohlaufswiss.ch
-wohlbedacht.ch
 wohlbefinden-freiheit.ch
 wohlbefinden-im-schwedenhaus.ch
 wohlbefinden-schweiz.ch
@@ -1928,6 +1927,7 @@ wohnfinder.ch
 wohnfink.ch
 wohnfit.ch
 wohnflaeche.ch
+wohnflink.ch
 wohnfloh.ch
 wohnflow.ch
 wohnfluesterer.ch
@@ -4178,6 +4178,7 @@ wolfgangfasser.ch
 wolfgangfichtnerstiftung.ch
 wolfgangfrank.ch
 wolfgangfrei.ch
+wolfgangfrost.ch
 wolfgangglutz.ch
 wolfganghaeuptli.ch
 wolfgangherzberg.ch
@@ -4416,7 +4417,6 @@ wolfsbuck.ch
 wolfsburg.ch
 wolfschlucht.ch
 wolfschool.ch
-wolfschutzverein.ch
 wolfschweisstechnik.ch
 wolfscomputers.ch
 wolfscycles.ch
@@ -4954,6 +4954,7 @@ wollmatt.ch
 wollmerstaedt.ch
 wollmilchsau.ch
 wollmuetzen.ch
+wollnaria.ch
 wollnathalie.ch
 wollner.ch
 wollnernetlab.ch
@@ -7397,6 +7398,7 @@ work-at-westhive.ch
 work-basel.ch
 work-being.ch
 work-bench.ch
+work-block.ch
 work-board.ch
 work-box.ch
 work-buddy.ch
@@ -7678,6 +7680,7 @@ workbench.ch
 workbetter.ch
 workbettertogether.ch
 workbid.ch
+workblock.ch
 workbn.ch
 workboard.ch
 workboat.ch
@@ -8350,6 +8353,7 @@ workshophub.ch
 workshopklasse.ch
 workshopmanufaktur.ch
 workshopmatters.ch
+workshopmoderation.ch
 workshoporange.ch
 workshoppartner.ch
 workshopper.ch
@@ -9464,6 +9468,7 @@ worldwide-design.ch
 worldwide-investment.ch
 worldwide-market.ch
 worldwide-selection.ch
+worldwide-stones.ch
 worldwide-swiss-community.ch
 worldwide.ch
 worldwide4it.ch

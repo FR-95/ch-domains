@@ -590,6 +590,7 @@ in4out-webagentur.ch
 in4out.ch
 in4padel.ch
 in4play.ch
+in4tainment.ch
 in4u.ch
 in4uasp.ch
 in4udemo.ch
@@ -1096,7 +1097,6 @@ inbox.ch
 inbox0.ch
 inbox42.ch
 inbox4me.ch
-inboxagent.ch
 inboxdeck.ch
 inboxgroup.ch
 inboxhub.ch
@@ -5649,6 +5649,7 @@ infinitycorp.ch
 infinitycosmetics.ch
 infinitycosmosx.ch
 infinitycustom.ch
+infinitydeco.ch
 infinitydental.ch
 infinitydevelopment.ch
 infinitydigital.ch
@@ -12381,7 +12382,6 @@ innerecho.ch
 innerefiguren.ch
 innerefreiheit.ch
 innerefrieden.ch
-inneregoettin.ch
 innereien.ch
 innerekarriere.ch
 innerekraft.ch
@@ -13749,7 +13749,6 @@ innovateforsustainability.ch
 innovatehr.ch
 innovateinbasel.ch
 innovatelab.ch
-innovatelaw.ch
 innovateminds.ch
 innovatenow.ch
 innovateq.ch
@@ -14573,6 +14572,7 @@ innunitytherapeutics.ch
 innunitytx.ch
 innutri.ch
 innutrigel.ch
+innuvation.ch
 innuvent.ch
 innuvik.ch
 innvalleystudio.ch
@@ -15010,6 +15010,7 @@ inovaweb.ch
 inove.ch
 inovea.ch
 inoveco.ch
+inovedigital.ch
 inovelys.ch
 inoven.ch
 inovenor.ch
@@ -17193,7 +17194,6 @@ inspi-kine.ch
 inspic.ch
 inspiique.ch
 inspiire.ch
-inspinia.ch
 inspinniert.ch
 inspio.ch
 inspir-it.ch
@@ -17976,6 +17976,7 @@ instanteternel.ch
 instantfaune.ch
 instantfilme.ch
 instantflyer.ch
+instantfollow.ch
 instantform.ch
 instantgaming.ch
 instantgoogle.ch
@@ -18067,6 +18068,7 @@ instapage.ch
 instapanel.ch
 instaparents.ch
 instapart.ch
+instaparts.ch
 instapay.ch
 instapeople.ch
 instaplan-ag.ch
@@ -18483,6 +18485,7 @@ institut-krysalide.ch
 institut-kunst.ch
 institut-kutschera.ch
 institut-la-vallee.ch
+institut-lachrysalide.ch
 institut-latelier.ch
 institut-lavaux-oron.ch
 institut-lc.ch
@@ -18584,6 +18587,7 @@ institut-praesentia.ch
 institut-prana.ch
 institut-praxisforschung.ch
 institut-prodema.ch
+institut-profil-beaute.ch
 institut-provital.ch
 institut-prozessarbeit.ch
 institut-psychotrauma.ch
@@ -20325,7 +20329,6 @@ integriertesuchtbehandlungaargau.ch
 integrierteversorgung.ch
 integrihaerenz.ch
 integriherence.ch
-integrin.ch
 integrio.ch
 integris-familyoffice.ch
 integris-swiss.ch
@@ -24481,6 +24484,7 @@ interviews.ch
 interviewshop.ch
 interviewtechnik-basel.ch
 interviewtraining.ch
+interviewtranskribieren.ch
 intervino.ch
 intervinum.ch
 intervips.ch
@@ -25900,6 +25904,8 @@ invalidenversicherung-zh.ch
 invalidenversicherung.ch
 invaliditaet.ch
 invaliditaets-tagung.ch
+invaliditaetsgrad.ch
+invaliditaetsrente.ch
 invaliditaetstagung.ch
 invaliditaetsversicherung.ch
 invallemaggia.ch

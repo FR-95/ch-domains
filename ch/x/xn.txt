@@ -2927,7 +2927,6 @@ xn--aw-gebudetechnik-0nb.ch
 xn--awas-epa.ch
 xn--awbodenbelge-pcb.ch
 xn--awgrten-7wa.ch
-xn--awszrich-95a.ch
 xn--awt-wrme-4za.ch
 xn--ax-wia.ch
 xn--axa-hndler-u5a.ch
@@ -6959,7 +6958,6 @@ xn--bren-reggisberg-0kb72b.ch
 xn--bren-ringgenberg-vnb.ch
 xn--bren-steffisburg-vnb.ch
 xn--bren-townhouse-gsb.ch
-xn--bren-waisenhausplatz-bzb.ch
 xn--bren-walkringen-0kb.ch
 xn--bren-wangen-l8a.ch
 xn--bren-wengen-l8a.ch
@@ -7739,6 +7737,7 @@ xn--bro-ordnung-thb.ch
 xn--bro-outlet-9db.ch
 xn--bro-pircher-thb.ch
 xn--bro-planung-thb.ch
+xn--bro-praxisreinigung-59b.ch
 xn--bro-punkt-q9a.ch
 xn--bro-putzfrau-dlb.ch
 xn--bro-raumgestaltung-m6b.ch
@@ -10022,7 +10021,6 @@ xn--chrie-csa.ch
 xn--chriesibrgel-ocb.ch
 xn--chriesifscht-ncb.ch
 xn--chriesiglogg-rcb.ch
-xn--chriesihgerliontour-x6b.ch
 xn--chriesisteisckli-6nb.ch
 xn--chriesiwg-22a.ch
 xn--chrigishofldeli-blb.ch
@@ -14100,7 +14098,6 @@ xn--eldermediations-zrich-pic.ch
 xn--electricit-k7a.ch
 xn--electricitsottas-kqb.ch
 xn--electro-matriel-lnb.ch
-xn--electro-mnager-bourquard-jfc.ch
 xn--electro-mobilitt-9nb.ch
 xn--electromatriel-kkb.ch
 xn--electromller-klb.ch
@@ -16270,6 +16267,7 @@ xn--feuerlschanlage-etb.ch
 xn--feuerlschanlagen-rwb.ch
 xn--feuerlschdecken-etb.ch
 xn--feuerlschen-wfb.ch
+xn--feuerlscher-kaufen-i3b.ch
 xn--feuerlscher-training-89b.ch
 xn--feuerlscher-wfb.ch
 xn--feuerlscherentsorgung-mec.ch
@@ -16279,6 +16277,7 @@ xn--feuerlschershop-etb.ch
 xn--feuerlscherwartung-i3b.ch
 xn--feuerlschfahrzeug-4zb.ch
 xn--feuerlschgerte-hib5z.ch
+xn--feuerlschkurs-nmb.ch
 xn--feuerlschposten-etb.ch
 xn--feuerlschpostenservice-zhc.ch
 xn--feuerlschpostenwartung-zhc.ch
@@ -19501,8 +19500,6 @@ xn--gebudezustandsanalyse-71b.ch
 xn--geburifschtli-hfb.ch
 xn--geburt-zri-ost-nsb.ch
 xn--geburt-zriost-3ob.ch
-xn--geburt3000-zri-ost-x6b.ch
-xn--geburt3000-zriost-e3b.ch
 xn--geburtshaus-zriost-y6b.ch
 xn--geburtshauszri-ost-x6b.ch
 xn--geburtshilfe-gynkologie-b8b.ch
@@ -25640,7 +25637,6 @@ xn--hofhttenacher-zob.ch
 xn--hofkche-q2a.ch
 xn--hofkserei-y2a.ch
 xn--hoflad-gua.ch
-xn--hofladen-lmmli-fib.ch
 xn--hofladenpal-1fb.ch
 xn--hofladenzrich-4ob.ch
 xn--hofldchen-y2a.ch
@@ -26484,7 +26480,6 @@ xn--hrlischnyder-4ib.ch
 xn--hrlsung-90ac.ch
 xn--hrlupe-wxa.ch
 xn--hrm-fhrer-u9a.ch
-xn--hrmalwerdahmmert-5nb72a.ch
 xn--hrmann-portal-imb.ch
 xn--hrmann-wxa.ch
 xn--hrmarkt-90a.ch
@@ -28589,6 +28584,7 @@ xn--jrgeberhard-thb.ch
 xn--jrgegli-n2a.ch
 xn--jrgen-kva.ch
 xn--jrgen-peter-thb.ch
+xn--jrgenalesi-9db.ch
 xn--jrgenbirchler-wob.ch
 xn--jrgenfriedri-dlb.ch
 xn--jrgenhller-jcb0e.ch
@@ -32223,6 +32219,7 @@ xn--krperwerk-damaris-scheidegger-g5c.ch
 xn--krperwerkstatt-vpb.ch
 xn--krperwissen-rfb.ch
 xn--krperwohl-07a.ch
+xn--krperzeit-07a.ch
 xn--krperzentrierte-beratung-loc.ch
 xn--krperzentrierte-herzensarbeit-g5c.ch
 xn--krperzentrierte-psychologische-beratung-zrich-epe63a.ch
@@ -32397,7 +32394,6 @@ xn--krypto-whrungen-7kb.ch
 xn--kryptobrse-kcb.ch
 xn--kryptofrbeginner-pzb.ch
 xn--kryptofreinsteiger-s6b.ch
-xn--kryptogerte-t8a.ch
 xn--kryptokonomie-nmb.ch
 xn--kryptowhrung-mcb.ch
 xn--kryptowhrung-schweiz-hzb.ch
@@ -43064,9 +43060,11 @@ xn--pftchenhotel-5ib.ch
 xn--pftchenliebe-5ib.ch
 xn--pftchenservice-wpb.ch
 xn--pftchenwerkstatt-nwb.ch
+xn--pftli-express-jmb.ch
 xn--pftli-kua.ch
 xn--pftli-nanny-sfb.ch
 xn--pftli-shop-fcb.ch
+xn--pftliexpress-5ib.ch
 xn--pftliglck-17a5e.ch
 xn--pftlihuus-17a.ch
 xn--pftliknig-17ae.ch
@@ -45065,6 +45063,7 @@ xn--quldi-hra.ch
 xn--qullbisch-17a.ch
 xn--qullchips-17a.ch
 xn--qullfrisch-fcb.ch
+xn--qulmich-6wa.ch
 xn--quoten-knig-yfb.ch
 xn--quotenknig-kcb.ch
 xn--quotenmnner-r8a.ch
@@ -47129,7 +47128,6 @@ xn--rparateurs-b7a.ch
 xn--rparation-b4a.ch
 xn--rparation-spa-bhb.ch
 xn--rparation-spas-bkb.ch
-xn--rparationflipperjukebox-bcc.ch
 xn--rparations-b7a.ch
 xn--rparer-cest-recycler-b2b.ch
 xn--rparons-bya.ch
@@ -54386,6 +54384,7 @@ xn--stimmbandlhmung-9kb.ch
 xn--stimmbnder-v5a.ch
 xn--stimmbrgerinnen-4vb.ch
 xn--stimmgert-22a.ch
+xn--stimmigfhren-klb.ch
 xn--stimmlippenlhmung-1qb.ch
 xn--stimmlnde-02a.ch
 xn--stimmprsenz-r8a.ch
@@ -57614,6 +57613,7 @@ xn--tsrigroup-r9a.ch
 xn--tsrisauce-r9a.ch
 xn--tsritipp-75a.ch
 xn--tss-klang-07a.ch
+xn--tss-sna.ch
 xn--tss113-wxa.ch
 xn--tssareal-n4a.ch
 xn--tssbrcken-07a4e.ch
@@ -59332,6 +59332,7 @@ xn--vom-hardeggbchli-6nb.ch
 xn--vom-knigstal-8ib.ch
 xn--vomchser-4za.ch
 xn--vomfass-zrich-4ob.ch
+xn--vomfld-eua.ch
 xn--vomgehr-zumgefhl-rwb0j.ch
 xn--vomhfli-d1a.ch
 xn--vomjurasdfuss-3ob.ch
@@ -61068,7 +61069,6 @@ xn--wohnenfralle-jlb.ch
 xn--wohnenimgnen-llb.ch
 xn--wohneninflsch-kfb.ch
 xn--wohnenknnen-xfb.ch
-xn--wohnenplus-flsch-7nb.ch
 xn--wohnenzrich-zhb.ch
 xn--wohnfhl-r2a.ch
 xn--wohnfhlen-u9a.ch

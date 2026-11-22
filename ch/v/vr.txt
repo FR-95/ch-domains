@@ -45,6 +45,7 @@ vr-event.ch
 vr-expert.ch
 vr-factory.ch
 vr-fahrschule.ch
+vr-fire.ch
 vr-forum.ch
 vr-gaming.ch
 vr-gewinnsparen.ch
@@ -427,6 +428,7 @@ vrfactory.ch
 vrfahrschule.ch
 vrfd.ch
 vrfinden.ch
+vrfire.ch
 vrfitness.ch
 vrfolierung.ch
 vrforge.ch

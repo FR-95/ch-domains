@@ -1357,6 +1357,7 @@ shapedbymark.ch
 shapedesign.ch
 shapedistribution.ch
 shapediver.ch
+shapeera.ch
 shapees.ch
 shapeface.ch
 shapefestival.ch
@@ -1975,6 +1976,7 @@ sharkhardmusic.ch
 sharkinfo.ch
 sharkinmypool.ch
 sharkinvestor.ch
+sharkjet.ch
 sharkleadership.ch
 sharklet.ch
 sharkletaviation.ch
@@ -2845,7 +2847,6 @@ shelomith.ch
 sheloox.ch
 sheloves.ch
 shelper.ch
-shelsmith.ch
 shelta.ch
 sheltaflares.ch
 sheltec.ch
@@ -3035,7 +3036,6 @@ sheratonzurich.ch
 sherazadbaraket.ch
 sherazade-parfum.ch
 sherazade.ch
-sherazahmed.ch
 sherbime.ch
 sherbini.ch
 sherbinskis.ch
@@ -7509,6 +7509,7 @@ shoptostinischweiz.ch
 shoptotal.ch
 shoptown.ch
 shoptrade.ch
+shoptrail.ch
 shoptransvital.ch
 shoptrendy.ch
 shoptrial.ch
@@ -8287,6 +8288,7 @@ shozindo.ch
 shp-ag.ch
 shp-clubdesk.ch
 shp-consulting.ch
+shp-deric.ch
 shp-egli.ch
 shp-energywork.ch
 shp-marketing.ch

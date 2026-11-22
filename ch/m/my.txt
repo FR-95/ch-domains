@@ -2531,7 +2531,6 @@ myautos360.ch
 myautoshop.ch
 myautoteile.ch
 myautotuning.ch
-myava.ch
 myavaio.ch
 myavaloneurope.ch
 myavenirformation.ch
@@ -3545,6 +3544,7 @@ mycatsitter.ch
 mycatson.ch
 mycattree.ch
 mycaucasus.ch
+mycausa.ch
 mycaution.ch
 mycautionloyer.ch
 mycauzione.ch
@@ -5125,6 +5125,7 @@ myfa.ch
 myfaba.ch
 myfabbird.ch
 myfabe.ch
+myfable.ch
 myfabulosa.ch
 myfacadeblog.ch
 myface-body.ch
@@ -6034,6 +6035,7 @@ myhairextensions.ch
 myhairmedical.ch
 myhairpia.ch
 myhairstylist.ch
+myhairvibes.ch
 myhairz.ch
 myhajj.ch
 myhajoona.ch
@@ -7522,6 +7524,7 @@ mylocus.ch
 mylodonoutdoor.ch
 myloft-sport-club.ch
 myloft.ch
+mylog.ch
 mylogbook.ch
 mylogement.ch
 mylogic.ch
@@ -8692,6 +8695,7 @@ myordena.ch
 myorder.ch
 myorderflow.ch
 myordergate.ch
+myorders.ch
 myordner.ch
 myorea.ch
 myoreflex-ausbildung.ch
@@ -8978,6 +8982,7 @@ myperfectlook.ch
 myperfectresume.ch
 myperfectshots.ch
 myperfectstyle.ch
+myperform.ch
 myperforma.ch
 myperformance.ch
 myperfosan.ch
@@ -12595,6 +12600,7 @@ myvipmodels.ch
 myvipo.ch
 myviptaxi.ch
 myviptaxi24.ch
+myvireo.ch
 myvirtual360.ch
 myvirtualaccountant.ch
 myvirtualbookkeeper.ch
@@ -13029,6 +13035,7 @@ myyasen.ch
 myyavs.ch
 myyazen.ch
 myycasino.ch
+myyear.ch
 myyel.ch
 myyhundeleine.ch
 myyiv.ch

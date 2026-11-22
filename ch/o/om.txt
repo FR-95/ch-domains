@@ -969,6 +969,9 @@ ommy.ch
 ommyway.ch
 omn.ch
 omn1.ch
+omna-admin.ch
+omna-fidu.ch
+omna-gestion.ch
 omna.ch
 omnamo.ch
 omnana.ch
@@ -1358,6 +1361,7 @@ omnipass.ch
 omnipay.ch
 omnipep.ch
 omniperf.ch
+omniperium.ch
 omnipex.ch
 omnipharm.ch
 omnipharma.ch

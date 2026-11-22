@@ -3178,6 +3178,7 @@ itmb.ch
 itmc-strategy.ch
 itmc.ch
 itme.ch
+itmed.ch
 itmedia.ch
 itmediation.ch
 itmediator.ch
@@ -3606,7 +3607,6 @@ itrustu.ch
 itrway.ch
 its-4u.ch
 its-4you.ch
-its-a-mat.ch
 its-a-match.ch
 its-about-you.ch
 its-ag.ch
@@ -4056,6 +4056,7 @@ itsrainmakingtime.ch
 itsreal.ch
 itsreallyme.ch
 itsrf.ch
+itsri.ch
 itsriot.ch
 itsrocketleague.ch
 itsroot.ch

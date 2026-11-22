@@ -1301,7 +1301,6 @@ pharmalaunch.ch
 pharmalawsolutions.ch
 pharmaleadersforum.ch
 pharmalearn.ch
-pharmalearning.ch
 pharmaledger.ch
 pharmalegal.ch
 pharmalevers.ch
@@ -5474,6 +5473,7 @@ photographie-neuchatel.ch
 photographie-olten.ch
 photographie-sebiperrod.ch
 photographie-therapeutique.ch
+photographie-vevey.ch
 photographie.ch
 photographiederue.ch
 photographiegeneve.ch
@@ -7919,6 +7919,7 @@ physio-saint-paul.ch
 physio-saland.ch
 physio-salmsach.ch
 physio-salus.ch
+physio-salute.ch
 physio-salzmann.ch
 physio-sama.ch
 physio-samedan.ch
@@ -9438,7 +9439,6 @@ physiomotion.ch
 physiomotorik.ch
 physiomoudon.ch
 physiomountain.ch
-physiomouv.ch
 physiomouvement.ch
 physiomove.ch
 physiomovefrei.ch

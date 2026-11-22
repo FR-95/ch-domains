@@ -1060,7 +1060,6 @@ localrestaurants.ch
 localretailchampions.ch
 localretailheroes.ch
 localrevolution.ch
-localroast.ch
 locals-2.ch
 locals.ch
 locals2.ch
@@ -1362,7 +1361,9 @@ locarnomilanovenezia.ch
 locarnomonti.ch
 locarnonline.ch
 locarnoonice.ch
+locarnopannellisolari.ch
 locarnoprime.ch
+locarnopulizie.ch
 locarnoscherma.ch
 locarnoshopping.ch
 locarnosiammassage.ch
@@ -2520,6 +2521,7 @@ lodirekt.ch
 lodis.ch
 lodise.ch
 lodisehybridperformance.ch
+lodisland.ch
 lodissey.ch
 lodisure.ch
 lodjur.ch
@@ -5753,6 +5755,7 @@ lohnstickerei.ch
 lohnstorf.ch
 lohnstrukturerhebung.ch
 lohnsupporter.ch
+lohnswiss.ch
 lohnsystem.ch
 lohnt-sich-solar.ch
 lohntabelle.ch
@@ -10740,6 +10743,7 @@ losung.ch
 losungen.ch
 losungsfabrik.ch
 losunidos.ch
+losusreynoso.ch
 losvas.ch
 losvascos.ch
 losvatos.ch

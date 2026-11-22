@@ -4600,6 +4600,7 @@ vendedo.ch
 vendedor.ch
 vendee.ch
 vendeira-dos-santos.ch
+vendel.ch
 vendella.ch
 vendema.ch
 vendemmia.ch
@@ -5413,7 +5414,6 @@ venners.ch
 vennerstoeckli.ch
 vennes-hufortho.ch
 vennes.ch
-vennexgroup.ch
 venni.ch
 vennmatch.ch
 vennon.ch
@@ -6829,7 +6829,6 @@ verantworthung.ch
 verantwortig.ch
 verantwortli.ch
 verantwortlich.ch
-verantwortliche-ai.ch
 verantwortliche-bank.ch
 verantwortliche-digital.ch
 verantwortliche-energie.ch
@@ -9204,6 +9203,7 @@ verena-mueller.ch
 verena-nussbaumer.ch
 verena-olesinski.ch
 verena-park.ch
+verena-priska.ch
 verena-reinigungen.ch
 verena-reiser.ch
 verena-roellin.ch
@@ -13079,6 +13079,7 @@ versicherungsausweis.ch
 versicherungsbahnhof.ch
 versicherungsbarometer.ch
 versicherungsbedarf.ch
+versicherungsberater-basel.ch
 versicherungsberater-schweiz.ch
 versicherungsberater-wechseln.ch
 versicherungsberater.ch
@@ -13298,6 +13299,7 @@ versicherungsvergleich.ch
 versicherungsvergleich24.ch
 versicherungsvergleiche.ch
 versicherungsvergleichen.ch
+versicherungsvergleicher.ch
 versicherungsvergleichschweiz.ch
 versicherungsverkauf.ch
 versicherungsvermittler-ausbildung.ch
@@ -16957,6 +16959,7 @@ veveynotaires.ch
 veveyoga.ch
 veveyosteo.ch
 veveyosteopathe.ch
+veveypanneauxsolaires.ch
 veveypilates.ch
 veveyplus.ch
 veveypower.ch

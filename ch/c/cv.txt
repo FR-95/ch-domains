@@ -99,6 +99,7 @@ cvapp.ch
 cvarch.ch
 cvargos.ch
 cvassist.ch
+cvatelier.ch
 cvatext.ch
 cvaudio.ch
 cvault.ch

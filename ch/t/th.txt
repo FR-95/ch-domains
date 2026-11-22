@@ -2874,6 +2874,7 @@ the-route66.ch
 the-royal-flush.ch
 the-royals-music.ch
 the-rpm.ch
+the-rubberducks.ch
 the-runnersclub.ch
 the-sa-handwerk.ch
 the-saem.ch
@@ -3555,7 +3556,6 @@ theani.ch
 theanimalifoundation.ch
 theanimalsobservatory.ch
 theanix.ch
-theannaklub.ch
 theanswer.ch
 theansweris42.ch
 theant.ch
@@ -4858,7 +4858,6 @@ thebalmers.ch
 thebalts.ch
 thebalux.ch
 thebambachsaddleseat.ch
-thebams.ch
 thebananaleaf.ch
 theband.ch
 thebandb.ch
@@ -6561,7 +6560,6 @@ thedigital.ch
 thedigitalagency.ch
 thedigitalarchitects.ch
 thedigitalbillboard.ch
-thedigitalbrand.ch
 thedigitalcoach.ch
 thedigitalcookbook.ch
 thedigitald.ch
@@ -6595,7 +6593,6 @@ thedispat.ch
 thedisrupters.ch
 thedisruptor.ch
 thedisruptors.ch
-thediss.ch
 thedistefano.ch
 thedistillery.ch
 thedistributioncompany.ch
@@ -7473,6 +7470,7 @@ thegin.ch
 theginfest.ch
 theginger.ch
 thegingerbreads.ch
+thegirasoleproject.ch
 thegirl.ch
 thegirlcode.ch
 thegirls.ch
@@ -7632,6 +7630,7 @@ thegoodlifespecialist.ch
 thegoodlifestudio.ch
 thegoodlook.ch
 thegoodmood.ch
+thegoodmovelab.ch
 thegoodnessbook.ch
 thegoodnews.ch
 thegoodnuts.ch
@@ -8669,7 +8668,6 @@ thekey-gva.ch
 thekey.ch
 thekeyandeagle.ch
 thekeychainatelier.ch
-thekeyclinic.ch
 thekeyconcept.ch
 thekeyinsertion.ch
 thekeymaker.ch
@@ -8930,7 +8928,6 @@ thelema.ch
 thelemanballers.ch
 theleme-glfs.ch
 theleme.ch
-thelements.ch
 thelemmon.ch
 thelemoncaketheory.ch
 thelemonshop.ch
@@ -14664,6 +14661,7 @@ theswissview.ch
 theswissvisionacademy.ch
 theswisswallet.ch
 theswisswat.ch
+theswisswatchmarket.ch
 theswissway.ch
 theswissweb.ch
 theswisswineproject.ch
@@ -16653,6 +16651,7 @@ thinkingsteps.ch
 thinkingtoolsatschool.ch
 thinkingup.ch
 thinkingwaves.ch
+thinkingwide.ch
 thinkinink.ch
 thinkink.ch
 thinkinnovation.ch
@@ -16836,6 +16835,7 @@ thinkwatermartigny.ch
 thinkweb.ch
 thinkwell.ch
 thinkwhatspossible.ch
+thinkwide.ch
 thinkwise.ch
 thinkwithgoogle-event.ch
 thinkwithgoogle.ch
@@ -17074,7 +17074,6 @@ thisismylife.ch
 thisismysix.ch
 thisismyworld.ch
 thisisnot.ch
-thisisnotacar.ch
 thisisnotadream.ch
 thisisnotagame.ch
 thisisnuet.ch
@@ -20075,6 +20074,7 @@ thun360.ch
 thunaktuell.ch
 thunanwaelte.ch
 thunapp.ch
+thunautogarage.ch
 thunbe.ch
 thunbett.ch
 thunbier.ch
@@ -20318,6 +20318,7 @@ thunometer.ch
 thunopenair.ch
 thunorthopoint.ch
 thunpanorama.ch
+thunphotovoltaik.ch
 thunplatzfest.ch
 thunpreneur.ch
 thunpreneurs.ch

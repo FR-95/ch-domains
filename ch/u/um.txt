@@ -249,6 +249,7 @@ umbaubeispiel.ch
 umbaubeispiele.ch
 umbauberater.ch
 umbauberatung.ch
+umbaubern.ch
 umbaucenter.ch
 umbauchalet.ch
 umbaucheck.ch
@@ -1641,7 +1642,6 @@ umzug-kreuzlingen.ch
 umzug-kriens.ch
 umzug-langenthal.ch
 umzug-lb.ch
-umzug-leicht-gemacht.ch
 umzug-lilisch.ch
 umzug-luzern.ch
 umzug-makler.ch
@@ -2075,7 +2075,6 @@ umzugsfirma-buelach.ch
 umzugsfirma-burgdorf.ch
 umzugsfirma-ch.ch
 umzugsfirma-chur.ch
-umzugsfirma-dietikon.ch
 umzugsfirma-duebendorf.ch
 umzugsfirma-erlenbach.ch
 umzugsfirma-finden.ch
@@ -2155,7 +2154,6 @@ umzugsfirma-uster.ch
 umzugsfirma-vergleich.ch
 umzugsfirma-vergleichen.ch
 umzugsfirma-waedenswil.ch
-umzugsfirma-wetzikon.ch
 umzugsfirma-wil.ch
 umzugsfirma-willisau.ch
 umzugsfirma-winterthur.ch
@@ -2491,7 +2489,6 @@ umzugsreinigung-sg.ch
 umzugsreinigung-sh.ch
 umzugsreinigung-sofort.ch
 umzugsreinigung-solothurn.ch
-umzugsreinigung-st-gallen.ch
 umzugsreinigung-stgallen.ch
 umzugsreinigung-tg.ch
 umzugsreinigung-thun.ch
@@ -2500,7 +2497,6 @@ umzugsreinigung-toprein.ch
 umzugsreinigung-umzugsfirma.ch
 umzugsreinigung-uster.ch
 umzugsreinigung-wallisellen.ch
-umzugsreinigung-wetzikon.ch
 umzugsreinigung-winterthur.ch
 umzugsreinigung-wohnungsreinigung.ch
 umzugsreinigung-zh.ch

@@ -23,7 +23,6 @@ am-architecture.ch
 am-architekten.ch
 am-architektur.ch
 am-ars.ch
-am-arts.ch
 am-association.ch
 am-attraktionen.ch
 am-automobile.ch
@@ -172,7 +171,6 @@ am-haselbach.ch
 am-haustechnik.ch
 am-hauswartung.ch
 am-healthcare.ch
-am-hegibach.ch
 am-ho.ch
 am-hof-koeniz.ch
 am-hof.ch
@@ -2585,6 +2583,7 @@ amberg-capital.ch
 amberg-co.ch
 amberg-consulting.ch
 amberg-core.ch
+amberg-fortiguerra.ch
 amberg-freeridesport.ch
 amberg-gu.ch
 amberg-immo.ch
@@ -2593,6 +2592,7 @@ amberg-invest.ch
 amberg-kapital.ch
 amberg-loglay.ch
 amberg-one.ch
+amberg-partner-architekten.ch
 amberg-partner.ch
 amberg-partners.ch
 amberg-praxis.ch
@@ -2609,12 +2609,14 @@ ambergdigital.ch
 ambergengineering.ch
 amberger.ch
 ambergessen.ch
+ambergfortiguerra.ch
 ambergimmo.ch
 amberginfra7d.ch
 ambergloglay.ch
 amberglowpc.ch
 ambergoldholding.ch
 ambergpartner.ch
+ambergpartnerarchitekten.ch
 ambergroup.ch
 ambergsein.ch
 ambergtechnologies.ch
@@ -6818,6 +6820,7 @@ amorce.ch
 amorcito.ch
 amorconcept.ch
 amordinner.ch
+amordistelle.ch
 amordivino.ch
 amore-amaro.ch
 amore-amore.ch

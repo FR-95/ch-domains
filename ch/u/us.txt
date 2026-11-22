@@ -598,6 +598,7 @@ useh.ch
 usehelp.ch
 useiger.ch
 usein.ch
+useinfinity.ch
 useini.ch
 useit-party.ch
 useit-webagentur.ch
@@ -909,7 +910,6 @@ usinage-de-precision.ch
 usinage-mecanique.ch
 usinage-qualite.ch
 usinage-service.ch
-usinage.ch
 usinagecnc.ch
 usine-a-penser.ch
 usine-d.ch

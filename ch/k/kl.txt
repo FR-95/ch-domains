@@ -358,7 +358,6 @@ klang-momente.ch
 klang-muehle.ch
 klang-musik-therapie.ch
 klang-nidau.ch
-klang-o-quell-der-stille.ch
 klang-o-quell.ch
 klang-o-quelle.ch
 klang-oase.ch
@@ -722,7 +721,6 @@ klangoase.ch
 klangom.ch
 klangoni.ch
 klangoquell.ch
-klangoquellderstille.ch
 klangoquelle.ch
 klangora.ch
 klangorchestar.ch
@@ -798,6 +796,7 @@ klangschalen-center.ch
 klangschalen-massagen.ch
 klangschalen-seminare.ch
 klangschalen-therapie.ch
+klangschalen-winterthur.ch
 klangschalen.ch
 klangschalencenter.ch
 klangschalenessenzen.ch
@@ -805,6 +804,7 @@ klangschalenfee.ch
 klangschalenharmonie.ch
 klangschalenhaus.ch
 klangschalenkurse.ch
+klangschalenmassage.ch
 klangschalenmuseum.ch
 klangschalenoase.ch
 klangschalenplattform.ch
@@ -1383,6 +1383,7 @@ klarform.ch
 klarformat.ch
 klarfoto.ch
 klarfranken.ch
+klarfront.ch
 klargefuehlt.ch
 klargefunden.ch
 klargehen.ch
@@ -3957,6 +3958,7 @@ kleinstehotelbar.ch
 kleinstehotelbarderschweiz.ch
 kleinstein-soft.ch
 kleinstein.ch
+kleinsteinba.ch
 kleinstemetzgerei.ch
 kleinstes-bikefestival.ch
 kleinsteuber-projekte.ch
@@ -4516,6 +4518,7 @@ klerelo.ch
 kleres.ch
 kleresca.ch
 kleri.ch
+klerna.ch
 klervicavarec.ch
 kles.ch
 klescorp.ch

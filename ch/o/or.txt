@@ -330,7 +330,6 @@ oralhealthinstitute.ch
 oralhistory-pttarchiv.ch
 oralhistory.ch
 oralhistoryarchiv.ch
-oralhistoryofchant.ch
 oralia.ch
 oraliaformation.ch
 oralimplantology.ch
@@ -682,6 +681,7 @@ oratoire.ch
 oratoiretramelan.ch
 oraton.ch
 orator.ch
+oratori-funebri.ch
 oratorienchor-bl.ch
 oratorienchor-kreuzlingen.ch
 oratorienchor-olten.ch
@@ -5409,6 +5409,7 @@ ortho-coach.ch
 ortho-concept.ch
 ortho-consult.ch
 ortho-consulting.ch
+ortho-decision.ch
 ortho-dekumbis.ch
 ortho-demenezes.ch
 ortho-dent-sa.ch
@@ -5698,6 +5699,7 @@ orthocontor.ch
 orthocontrol.ch
 orthocourses.ch
 orthocura.ch
+orthodecision.ch
 orthodens.ch
 orthodensis.ch
 orthodent-zh.ch
@@ -5801,6 +5803,7 @@ orthodontiespully.ch
 orthodontiesuisse.ch
 orthodontietaieb.ch
 orthodontievaud.ch
+orthodontievesenaz.ch
 orthodontieyverdon.ch
 orthodontiq.ch
 orthodontist-baarerstrasse-zug.ch
@@ -6543,6 +6546,7 @@ ortietattoo.ch
 ortiga.ch
 ortigia.ch
 ortigueira.ch
+ortik.ch
 ortim-frick.ch
 ortima.ch
 ortime.ch
@@ -6713,6 +6717,7 @@ ortsbild.ch
 ortsbildaufwertung.ch
 ortsbildschutz-engwang.ch
 ortsbildschutz-luzern.ch
+ortsblick.ch
 ortsbuerger-baden.ch
 ortsbuerger-gossau.ch
 ortsbuerger-kaiseraugst.ch
@@ -7060,6 +7065,7 @@ orvoo.ch
 orvoswiss.ch
 orvustix.ch
 orvyn.ch
+orvynexa.ch
 orvyo.ch
 orvyon.ch
 orvyx.ch

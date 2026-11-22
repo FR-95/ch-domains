@@ -159,7 +159,6 @@ zebrafant.ch
 zebrafari.ch
 zebrafashion.ch
 zebrafilm.ch
-zebrafin.ch
 zebrafish.ch
 zebrafleisch.ch
 zebragarten.ch
@@ -1293,6 +1292,7 @@ zeitboerse.ch
 zeitbonus.ch
 zeitbote.ch
 zeitbox.ch
+zeitbrief.ch
 zeitbruecke-hr.ch
 zeitbruecke.ch
 zeitcaffe.ch
@@ -2749,7 +2749,6 @@ zeluzion.ch
 zely.ch
 zelya.ch
 zelyn.ch
-zelyo.ch
 zelyonayaledi.ch
 zelyts.ch
 zelzate.ch
@@ -2997,6 +2996,7 @@ zen-geneve.ch
 zen-glassman-lassalle.ch
 zen-golf.ch
 zen-group.ch
+zen-haus.ch
 zen-ia.ch
 zen-im-coaching.ch
 zen-imgruenenring.ch
@@ -3006,6 +3006,7 @@ zen-investor.ch
 zen-it-beaute.ch
 zen-it-coaching.ch
 zen-it-coiffure.ch
+zen-it-solutions.ch
 zen-it.ch
 zen-itude.ch
 zen-kitchen.ch
@@ -3114,7 +3115,6 @@ zenador.ch
 zenae.ch
 zenaero.ch
 zenaffinitude.ch
-zenafood.ch
 zenagenda.ch
 zenai.ch
 zenaidadepina.ch
@@ -6657,6 +6657,7 @@ zeus.rheinhalde-86.ch
 zeus1000.ch
 zeus2.ch
 zeusai.ch
+zeusappz.ch
 zeusatm.ch
 zeusbar.ch
 zeuscapital.ch

@@ -5144,7 +5144,6 @@ hunde-physio-osteo.ch
 hunde-physio-ostschweiz.ch
 hunde-physio-tiziana.ch
 hunde-physio-trendydog.ch
-hunde-physio-zeit.ch
 hunde-physio.ch
 hunde-physiotherapie-bern.ch
 hunde-physiotherapie-guemligen.ch
@@ -5752,7 +5751,9 @@ hundekurse-zh.ch
 hundekurse-zuerich.ch
 hundekurse.ch
 hundekursevalmuestair.ch
+hundekursfinder.ch
 hundekursobligatorium.ch
+hundekurspflicht.ch
 hundelaeckerli.ch
 hundelaeuferin.ch
 hundeland.ch

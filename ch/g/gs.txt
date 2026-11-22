@@ -1124,6 +1124,7 @@ gsprecision.ch
 gsprocess.ch
 gsproechsstoff.ch
 gsprojekt.ch
+gspruetzte.ch
 gsprunger.ch
 gsps.ch
 gspsa.ch

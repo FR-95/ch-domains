@@ -437,6 +437,7 @@ ps60piu.ch
 ps60plus.ch
 ps7.ch
 ps70.ch
+ps74.ch
 ps8.ch
 ps92.ch
 ps93.ch
@@ -1016,6 +1017,7 @@ psicologoespanolsuiza.ch
 psicologointicino.ch
 psicologolugano.ch
 psicologoticino.ch
+psicomateria.ch
 psicomotricita-svizzera.ch
 psicomotricitasvizzera.ch
 psicon.ch
@@ -1322,13 +1324,26 @@ psooi.ch
 psop.ch
 psori.ch
 psoriasi.ch
+psoriasis-behandeln.ch
 psoriasis-care.ch
+psoriasis-creme.ch
+psoriasis-gesicht.ch
+psoriasis-hautcreme.ch
+psoriasis-hautpflege.ch
 psoriasis-info.ch
+psoriasis-intimbereich.ch
+psoriasis-juckreiz.ch
 psoriasis-klinik.ch
+psoriasis-kopfhaut.ch
 psoriasis-kosmetik.ch
+psoriasis-naegel.ch
 psoriasis-netz.ch
 psoriasis-patient.ch
 psoriasis-patienten.ch
+psoriasis-pflege.ch
+psoriasis-salbe.ch
+psoriasis-shampoo.ch
+psoriasis-symptome.ch
 psoriasis-underdiehaut.ch
 psoriasis-unterdiehaut.ch
 psoriasis-vulgaris.ch
@@ -1339,6 +1354,7 @@ psoriasisadvocate.ch
 psoriasisarthritis.ch
 psoriasiscare.ch
 psoriasiscenter.ch
+psoriasiscreme.ch
 psoriasisfrei.ch
 psoriasisklinik.ch
 psoriasispatient.ch
@@ -1831,6 +1847,7 @@ psy-lemanique.ch
 psy-lex.ch
 psy-locher.ch
 psy-logo.ch
+psy-lotse.ch
 psy-luciole.ch
 psy-lyss.ch
 psy-mauerhofer.ch
@@ -2552,6 +2569,7 @@ psychoemotion.ch
 psychoemotions.ch
 psychoenergie.ch
 psychoenergievevey.ch
+psychofinder.ch
 psychofit.ch
 psychofonie.ch
 psychofr.ch
@@ -3028,6 +3046,7 @@ psychologuevaud.ch
 psychologuevevey.ch
 psychologuevisio.ch
 psychology-baselarea.ch
+psychology-calls.ch
 psychology-club.ch
 psychology-uzh.ch
 psychology-zug.ch
@@ -3036,6 +3055,7 @@ psychology.ch
 psychology4you.ch
 psychologyandme.ch
 psychologyatwork.ch
+psychologycalls.ch
 psychologyclub.ch
 psychologyexperts.ch
 psychologyslam.ch
@@ -4114,6 +4134,7 @@ psychotherapie-wollishofen.ch
 psychotherapie-wuethrich.ch
 psychotherapie-wyss.ch
 psychotherapie-yoker.ch
+psychotherapie-yves-denereaz.ch
 psychotherapie-yvikadler.ch
 psychotherapie-zbinden.ch
 psychotherapie-zeller.ch
@@ -4512,6 +4533,7 @@ psylocarno.ch
 psylogique.ch
 psylop.ch
 psylosophique.ch
+psylotse.ch
 psylugano.ch
 psylum.ch
 psylyss.ch

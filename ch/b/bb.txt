@@ -614,6 +614,7 @@ bbf-agvs-upsa.ch
 bbf-agvs.ch
 bbf-bau.ch
 bbf-dietikon.ch
+bbf-etancheite.ch
 bbf-fahrlehrer.ch
 bbf-ffp.ch
 bbf-gf.ch
@@ -621,6 +622,7 @@ bbf-holzbau.ch
 bbf-in.ch
 bbf-m.ch
 bbf-platten.ch
+bbf-praxis.ch
 bbf-s.ch
 bbf-schule.ch
 bbf-schweiz.ch
@@ -655,6 +657,7 @@ bbfoodie.ch
 bbform.ch
 bbfotografie.ch
 bbfpartner.ch
+bbfpraxis.ch
 bbfr.ch
 bbfrances.ch
 bbfrenkendorf.ch

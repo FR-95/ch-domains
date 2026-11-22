@@ -329,6 +329,7 @@ praderdigital.ch
 praderis.ch
 praderlosinger.ch
 praders.ch
+praderschmuckatelier.ch
 pradersystems.ch
 praderundknecht.ch
 pradervand-duay-martigny.ch
@@ -2148,7 +2149,6 @@ praxis-birkenmaier.ch
 praxis-birrer.ch
 praxis-birri.ch
 praxis-birseck.ch
-praxis-bischofberger.ch
 praxis-bischofstein.ch
 praxis-bitachon.ch
 praxis-bitterli.ch
@@ -3698,7 +3698,6 @@ praxis-mihalyfi.ch
 praxis-miko.ch
 praxis-millefolium.ch
 praxis-milouna.ch
-praxis-mindbalance.ch
 praxis-mindflow.ch
 praxis-minnier.ch
 praxis-miraculis.ch
@@ -7595,7 +7594,6 @@ prealpina.ch
 prealps.ch
 prealty.ch
 preambiel.ch
-preambule-sante.ch
 preambule.ch
 preambulle.ch
 preamora.ch
@@ -8230,7 +8228,6 @@ preimess.ch
 preimmo.ch
 prein.ch
 preiner.ch
-preinigungsdienst.ch
 preinvest.ch
 preipo.ch
 preis-angebot.ch
@@ -10422,6 +10419,7 @@ presentur.ch
 presentyourself.ch
 presenza-svizzera.ch
 presenza.ch
+presenza2.ch
 presenzasvizerra.ch
 presenze.ch
 presepe.ch
@@ -11542,7 +11540,6 @@ prettyhouse.ch
 prettyinchic.ch
 prettykids.ch
 prettylady.ch
-prettylittlething.ch
 prettylittlethings.ch
 prettylivinghome.ch
 prettylounge.ch
@@ -12229,6 +12226,7 @@ prhymetyme.ch
 pri-bet.ch
 pri-cap.ch
 pri-mate.ch
+pri-system.ch
 pri-wo.ch
 pri.ch
 pria.ch
@@ -17183,6 +17181,7 @@ privatecellars.ch
 privatecfo.ch
 privatecharter.ch
 privatechat.ch
+privatechatbot.ch
 privatechauffeur.ch
 privatechef.ch
 privatechefs.ch
@@ -21848,6 +21847,7 @@ producers-alliance.ch
 producers.ch
 produceshop.ch
 produco.ch
+producoin.ch
 product-academy.ch
 product-ai.ch
 product-analytics.ch
@@ -24310,6 +24310,7 @@ progettoamoanchio.ch
 progettoamore.ch
 progettocaffe.ch
 progettocamino.ch
+progettocanto.ch
 progettocari.ch
 progettocasa.ch
 progettoceba.ch
@@ -27055,6 +27056,7 @@ promasterpdr.ch
 promat-ag.ch
 promat.ch
 promata.ch
+promatch.ch
 promatcha.ch
 promate.ch
 promatec-ag.ch
@@ -31581,6 +31583,8 @@ protokollino.ch
 protokollmanager.ch
 protokollschreiberei.ch
 protokolltool.ch
+protokollvorlage.ch
+protokollvorlagen.ch
 protokom.ch
 protokona.ch
 protokonatools.ch
@@ -32514,7 +32518,6 @@ prowell.ch
 prowellness.ch
 proweltek.ch
 prowema.ch
-prowen.ch
 prowerb.ch
 prowerba.ch
 prowerbung.ch
@@ -32580,7 +32583,6 @@ prowisego.ch
 prowisehealthcare.ch
 prowittenbach.ch
 prowjectx.ch
-prowlead.ch
 prowler.ch
 prowlers.ch
 prown.ch

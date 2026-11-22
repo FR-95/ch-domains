@@ -2052,6 +2052,7 @@ e-motionsmile.ch
 e-motionsport.ch
 e-motionstudio.ch
 e-motivecommunication.ch
+e-moto.ch
 e-motocross-schweiz.ch
 e-motor.ch
 e-motorbiketravel.ch
@@ -2340,6 +2341,7 @@ e-pic.ch
 e-pics.ch
 e-pieces.ch
 e-pierrefleur.ch
+e-pilot.ch
 e-pinion.ch
 e-pinions.ch
 e-pinkup.ch
@@ -3266,7 +3268,6 @@ e-video.ch
 e-view.ch
 e-viewer.ch
 e-vignete.ch
-e-vignetta.ch
 e-vignettasvizzera.ch
 e-vignette-abo.ch
 e-vignette-bazg.ch

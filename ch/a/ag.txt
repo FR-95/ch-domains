@@ -1313,6 +1313,7 @@ agencekian.ch
 agencekna.ch
 agencekoala.ch
 agencelaboucle.ch
+agencelabricole.ch
 agencelakeside.ch
 agencelarose.ch
 agencelasirene.ch
@@ -1989,6 +1990,7 @@ agentic-workbench.ch
 agentic-workflow.ch
 agentic.ch
 agentic1291.ch
+agentic365.ch
 agentica.ch
 agenticadvantage.ch
 agenticadvertising.ch
@@ -5175,7 +5177,6 @@ agro-reifen.ch
 agro-sans-frontiere.ch
 agro-service.ch
 agro-shop.ch
-agro-solar.ch
 agro-star-suisse.ch
 agro-suisse.ch
 agro-swiss.ch

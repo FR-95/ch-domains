@@ -604,7 +604,6 @@ dsfusspflege.ch
 dsg-ag.ch
 dsg-audit.ch
 dsg-ch.ch
-dsg-check.ch
 dsg-compliance.ch
 dsg-consulting.ch
 dsg-datenschutz.ch
@@ -914,6 +913,7 @@ dsnconcepthome.ch
 dsnet.ch
 dsnettoyages.ch
 dsnetwork.ch
+dsnexo.ch
 dsngraphics.ch
 dsngroupag.ch
 dsnotaire.ch

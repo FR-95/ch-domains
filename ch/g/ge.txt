@@ -2886,7 +2886,6 @@ gefuehlsachterbahn.ch
 gefuehlsalchemie.ch
 gefuehlsarbeit.ch
 gefuehlsbetont.ch
-gefuehlscoaching.ch
 gefuehlsdetektiv.ch
 gefuehlsecht.ch
 gefuehlsfreundin.ch
@@ -7908,6 +7907,7 @@ generationenpakt67.ch
 generationenparcours.ch
 generationenpark.ch
 generationenparkbrittnau.ch
+generationenplan.ch
 generationenprojekt-buchrain-dorf.ch
 generationenprojekt-buchrain.ch
 generationenprojekt.ch
@@ -10339,7 +10339,6 @@ geniuscraft.ch
 geniuscruises.ch
 geniusflight.ch
 geniusgeneration-y.ch
-geniusgenius.ch
 geniusherpa.ch
 geniushome.ch
 geniushotel.ch
@@ -11489,7 +11488,6 @@ genusskompass.ch
 genusskonditorei.ch
 genusskonzerte.ch
 genusskorb.ch
-genusskraemerei.ch
 genusskraut.ch
 genusskreis.ch
 genusskreuzfahrten.ch
@@ -12598,6 +12596,7 @@ geolab-emmen.ch
 geolab.ch
 geolabor.ch
 geoland.ch
+geolandplan.ch
 geolanes.ch
 geolanguages.ch
 geolausanne.ch
@@ -18217,6 +18216,7 @@ gesuch-stellen.ch
 gesuch.ch
 gesuche.ch
 gesuchklar.ch
+gesuchs-app.ch
 gesuchstellen.ch
 gesucht-gefunden.ch
 gesucht-wohnung.ch
@@ -19783,6 +19783,7 @@ gesundheitsverzeichnis24.ch
 gesundheitsvision.ch
 gesundheitsvorsorge.ch
 gesundheitsvorsorgeaktuell.ch
+gesundheitsvorsorgemitmathu.ch
 gesundheitsvorsorgezentrum.ch
 gesundheitswald.ch
 gesundheitswasser.ch
@@ -19892,7 +19893,6 @@ gesundheitszentrum-root.ch
 gesundheitszentrum-rorschach.ch
 gesundheitszentrum-ruswil.ch
 gesundheitszentrum-sake.ch
-gesundheitszentrum-salmsach.ch
 gesundheitszentrum-sattel.ch
 gesundheitszentrum-schlossmatte.ch
 gesundheitszentrum-seewadel.ch

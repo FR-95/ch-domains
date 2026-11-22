@@ -52,7 +52,6 @@ la-bas.ch
 la-base.ch
 la-bateliere.ch
 la-batiaz.ch
-la-bau.ch
 la-bauberatung.ch
 la-baudicht.ch
 la-bb.ch
@@ -1854,6 +1853,7 @@ la-wiki-mania.ch
 la-winstub-de-manon.ch
 la-wyland.ch
 la-xanh.ch
+la-xhel.ch
 la-xx.ch
 la-yy.ch
 la-z-boy.ch
@@ -5242,6 +5242,7 @@ lachlauter.ch
 lachlos.ch
 lachma.ch
 lachmacher.ch
+lachmal.ch
 lachman.ch
 lachmann.ch
 lachmanovi.ch
@@ -6408,6 +6409,7 @@ ladanyi.ch
 ladanzadellavita.ch
 ladaro.ch
 ladarsena.ch
+ladata-romandie.ch
 ladata.ch
 ladatcha.ch
 ladauphine.ch
@@ -6828,6 +6830,7 @@ ladieslunch.ch
 ladieslunchlausanne.ch
 ladieslunchzuerich.ch
 ladiesmanager.ch
+ladiesmarkt.ch
 ladiesnight-toggenburg.ch
 ladiesnight.ch
 ladiesnite.ch
@@ -7323,6 +7326,7 @@ ladym.ch
 ladymahal.ch
 ladymakeup.ch
 ladymar.ch
+ladymarkt.ch
 ladymarmalade.ch
 ladymarmelade.ch
 ladymary.ch
@@ -7395,6 +7399,7 @@ ladyshop.ch
 ladysimona.ch
 ladysko.ch
 ladyslipper.ch
+ladysmarkt.ch
 ladysmile.ch
 ladystep.ch
 ladystore.ch
@@ -7422,6 +7427,7 @@ ladyvivaldi.ch
 ladywax-erlen.ch
 ladyways.ch
 ladyx.ch
+ladyxena.ch
 ladyyellow.ch
 ladzodzette.ch
 lae.ch
@@ -8860,7 +8866,6 @@ lagardere-tr.ch
 lagardere.ch
 lagarderes.ch
 lagarderesuisse.ch
-lagardienne-desalpes.ch
 lagare.ch
 lagareauxsorcieres.ch
 lagarecully.ch
@@ -12512,6 +12517,7 @@ lambocarsporrentruy.ch
 lambofgod.ch
 lamboley.ch
 lambon.ch
+lamboray.ch
 lamborghini-a-louer.ch
 lamborghini-aventador.ch
 lamborghini-basel.ch
@@ -16199,7 +16205,6 @@ langfeldstrasse.ch
 langfilm.ch
 langfilms.ch
 langfinger.ch
-langfluh-saasfee.ch
 langford.ch
 langfordpartnersgroup.ch
 langfred.ch
@@ -18179,6 +18184,7 @@ lapipe.ch
 lapipelette.ch
 lapiquette.ch
 lapirate.ch
+lapiraterie.ch
 lapirogue.ch
 lapirotecnica.ch
 lapirouette.ch
@@ -18310,6 +18316,7 @@ laplumedor.ch
 laplumedouce.ch
 laplumeducerf.ch
 laplumeenchantee.ch
+laplumephoto.ch
 laplumesauvage.ch
 laplusbelle.ch
 laplusbellevuedulacleman.ch
@@ -20816,6 +20823,7 @@ laser-institut.ch
 laser-kalkulator.ch
 laser-keller.ch
 laser-kids.ch
+laser-klar.ch
 laser-klinik.ch
 laser-kosmetik.ch
 laser-kraft.ch
@@ -20828,6 +20836,7 @@ laser-line.ch
 laser-lodge.ch
 laser-lounge.ch
 laser-lux.ch
+laser-mal.ch
 laser-med.ch
 laser-medical.ch
 laser-medizin.ch
@@ -20863,6 +20872,7 @@ laser-sachkundenachweis.ch
 laser-sachverstaendiger.ch
 laser-salon.ch
 laser-sanierung.ch
+laser-sanierungen.ch
 laser-scanner.ch
 laser-scanning.ch
 laser-schiesskino.ch
@@ -21245,6 +21255,7 @@ laserkalkulator.ch
 laserkamm.ch
 laserkante.ch
 laserkeller.ch
+laserklar.ch
 laserklinik.ch
 laserkollektiv.ch
 laserkollimator.ch
@@ -21290,6 +21301,7 @@ laserluzern.ch
 laserlys.ch
 lasermaag.ch
 lasermagazin.ch
+lasermal.ch
 laserman.ch
 lasermanufaktur.ch
 lasermark.ch
@@ -21387,6 +21399,7 @@ laserra.ch
 laserradeisogni.ch
 laserre.ch
 laserre89.ch
+laserrein.ch
 laserreinigung-basel.ch
 laserreinigung-zuerich.ch
 laserreinigung.ch
@@ -21404,6 +21417,7 @@ lasersachverstaendiger.ch
 lasersafety.ch
 lasersailing.ch
 lasersanierung.ch
+lasersanierungen.ch
 lasersatz.ch
 lasersauber.ch
 laserscan.ch
@@ -21462,6 +21476,7 @@ lasershow.ch
 lasershows.ch
 lasersicherheit.ch
 lasersign.ch
+laserskin.ch
 laserskinsolution.ch
 laserspecht.ch
 laserspezialist.ch
@@ -23307,7 +23322,6 @@ latesummerdate.ch
 lateswim.ch
 latete-danslesetoiles.ch
 lateteailleurs.ch
-latetealenvers.ch
 latetedanslesetoiles.ch
 latetedansleshistoires.ch
 lateteenlair.ch
@@ -23800,6 +23814,7 @@ latroussemagique.ch
 latrouvaille-bern.ch
 latrouvaille.ch
 latrouvaillebern.ch
+latrovu.ch
 latrucca.ch
 latruffe.ch
 latruffeablaise.ch
@@ -26382,6 +26397,7 @@ lausanneosteo.ch
 lausanneosteopathe.ch
 lausanneosteopathie.ch
 lausannepalace.ch
+lausannepanneauxsolaires.ch
 lausanneparkingrelais.ch
 lausanneparkingsrelais.ch
 lausanneparquet.ch

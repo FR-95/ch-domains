@@ -122,7 +122,6 @@ mb-gp.ch
 mb-group.ch
 mb-habitat.ch
 mb-haus.ch
-mb-haustechnik.ch
 mb-heizung.ch
 mb-helppoint.ch
 mb-hirsch.ch
@@ -799,7 +798,6 @@ mbgrandjean.ch
 mbgroup.ch
 mbgroupco.ch
 mbgruppe.ch
-mbgs.ch
 mbgsa.ch
 mbgsec.ch
 mbgv-basel.ch

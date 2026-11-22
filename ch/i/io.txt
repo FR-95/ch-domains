@@ -20,7 +20,6 @@ io-elektronik.ch
 io-en-bref.ch
 io-excellence.ch
 io-funds.ch
-io-gateway.ch
 io-home.ch
 io-hub.ch
 io-in-sintesi.ch
@@ -212,7 +211,6 @@ iofx.ch
 iog-buetschwil-riders.ch
 iog.ch
 ioga.ch
-iogateway.ch
 iogatto.ch
 iogen.ch
 iogeni.ch
@@ -539,6 +537,7 @@ ior.ch
 ior360.ch
 iora.ch
 iorana.ch
+iorbit.ch
 iordache.ch
 iordachescu.ch
 iordanov.ch

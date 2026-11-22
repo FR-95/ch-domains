@@ -2430,7 +2430,6 @@ dogcenter-rothenburg.ch
 dogcenter.ch
 dogcevita.ch
 dogchef.ch
-dogcircle.ch
 dogcity.ch
 dogclean.ch
 dogcloud.ch
@@ -2452,6 +2451,8 @@ dogconnexion.ch
 dogconsulting.ch
 dogcontrol.ch
 dogcorner.ch
+dogcourse.ch
+dogcourses.ch
 dogcraft.ch
 dogcreationen.ch
 dogcross.ch
@@ -3655,7 +3656,6 @@ doktor-stutz.ch
 doktor-swiss.ch
 doktor-thieme.ch
 doktor-tor.ch
-doktor-ugi.ch
 doktor-urfer.ch
 doktor-uster.ch
 doktor-wallisellen.ch
@@ -4381,6 +4381,7 @@ dollarthrifty.ch
 dollat.ch
 dollbeautyernest.ch
 dolldeluxe.ch
+dolle-buttikon.ch
 dolle-gartenpflege.ch
 dolle-treppen.ch
 dolle.ch
@@ -7748,6 +7749,7 @@ domos.ch
 domosafety.ch
 domosag.ch
 domosbau.ch
+domoscore.ch
 domoseiler.ch
 domosel.ch
 domosenior.ch
@@ -8638,6 +8640,7 @@ dongoumaz.ch
 dongque1668.ch
 dongregor.ch
 dongrenovation.ch
+dongroove.ch
 dongsan.ch
 dongshi.ch
 dongshin.ch
@@ -9008,7 +9011,6 @@ donpanzon.ch
 donpaolo.ch
 donpascual.ch
 donpasquale.ch
-donpasquale1.ch
 donpat.ch
 donpatricio.ch
 donpaul.ch

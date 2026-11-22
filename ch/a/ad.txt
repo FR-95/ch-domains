@@ -2641,6 +2641,7 @@ adhs-arbeit-coaching.ch
 adhs-ass-coaching.ch
 adhs-ass.ch
 adhs-autismus-coach.ch
+adhs-autismus-coaching.ch
 adhs-autismus.ch
 adhs-balance-coach.ch
 adhs-balance-coaching.ch
@@ -3799,7 +3800,6 @@ adlerstein.ch
 adlersteinamrhein.ch
 adlersteinen.ch
 adlerstore.ch
-adlerstoren.ch
 adlerstrasse-basel.ch
 adlerstube.ch
 adlertaler.ch
@@ -6727,7 +6727,6 @@ adstores-sarl.ch
 adstores.ch
 adstra-conseil.ch
 adstra.ch
-adstrada.ch
 adstransport.ch
 adstrategen.ch
 adstrategy.ch

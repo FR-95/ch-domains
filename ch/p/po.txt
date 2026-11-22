@@ -7813,6 +7813,7 @@ pool-teile.ch
 pool-terrasse.ch
 pool-terrassen.ch
 pool-test.ch
+pool-tools.ch
 pool-trade.ch
 pool-ueberdachung.ch
 pool-und-sauna.ch
@@ -8403,7 +8404,6 @@ popartstudio.ch
 popasolutions.ch
 popasun.ch
 popatelier.ch
-popavel.ch
 popay.ch
 popays.ch
 popbands.ch
@@ -11268,6 +11268,7 @@ posedegeladomicile.ch
 posedio.ch
 posedus.ch
 poseflow.ch
+posego-app.ch
 posego.ch
 poseidon-akademie.ch
 poseidon-boll.ch

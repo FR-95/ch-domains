@@ -1498,6 +1498,7 @@ krankenkassen-analyse.ch
 krankenkassen-angebot.ch
 krankenkassen-angebote.ch
 krankenkassen-angebote24.ch
+krankenkassen-basel.ch
 krankenkassen-berater.ch
 krankenkassen-beratung-24.ch
 krankenkassen-beratung-info.ch
@@ -1523,6 +1524,7 @@ krankenkassen-guru.ch
 krankenkassen-helfer.ch
 krankenkassen-initiative.ch
 krankenkassen-kompass.ch
+krankenkassen-krankenversicherungen.ch
 krankenkassen-luzern.ch
 krankenkassen-magazin.ch
 krankenkassen-monitor.ch
@@ -2528,6 +2530,7 @@ krbns.ch
 krbr.ch
 krbs.ch
 krbschweiz.ch
+krbtgt.ch
 krbzh.ch
 krc-nutrition.ch
 krc.ch
@@ -3810,7 +3813,6 @@ kredit-auto.ch
 kredit-balans.ch
 kredit-bank-schweiz.ch
 kredit-barkredit-basel.ch
-kredit-beantragen-schweiz.ch
 kredit-beantragen.ch
 kredit-berater.ch
 kredit-beratungsstelle.ch
@@ -7941,6 +7943,7 @@ kryptofinder.ch
 kryptofiskus.ch
 kryptofit.ch
 kryptofon.ch
+kryptofonds.ch
 kryptoforensiker.ch
 kryptoforum-schweiz.ch
 kryptoforum.ch
@@ -8143,6 +8146,7 @@ krzgg.ch
 krzh-event.ch
 krzh.ch
 krzl.ch
+krzlumen.ch
 krzmontage.ch
 krzn.ch
 krzy.ch

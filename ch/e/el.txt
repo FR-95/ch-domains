@@ -1566,7 +1566,6 @@ electbook.ch
 electdoo.ch
 electech.ch
 electeck.ch
-elected.ch
 electi.ch
 electio.ch
 election-conseil-federal.ch
@@ -3481,6 +3480,7 @@ elektro-montandon.ch
 elektro-monteur.ch
 elektro-monteure.ch
 elektro-moser.ch
+elektro-moto.ch
 elektro-motocross.ch
 elektro-motor.ch
 elektro-motorcycle.ch
@@ -4740,7 +4740,6 @@ elektronische-beurkundung.ch
 elektronische-id.ch
 elektronische-kanzlei.ch
 elektronische-rechnung.ch
-elektronische-rechnungen.ch
 elektronische-schliessanlage.ch
 elektronische-schliesssysteme-konfigurator.ch
 elektronische-schliesssysteme.ch
@@ -5782,7 +5781,6 @@ elenart.ch
 elenarts.ch
 elenartsense.ch
 elenarutman.ch
-elenas-bootstouren.ch
 elenas-email.ch
 elenas-kreationen.ch
 elenas-wunderwelt.ch
@@ -6896,6 +6894,7 @@ elfer.ch
 elfercars.ch
 elferclassic.ch
 elferei.ch
+elferli.ch
 elfero.ch
 elferoline.ch
 elferpfad.ch
@@ -12134,7 +12133,6 @@ elternrat-oberseen.ch
 elternrat-oberwisen.ch
 elternrat-oensingen.ch
 elternrat-ottenbach.ch
-elternrat-pskerzers.ch
 elternrat-ramsen.ch
 elternrat-riedhofpuenten.ch
 elternrat-robenhausen.ch

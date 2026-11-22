@@ -5538,7 +5538,6 @@ blitzclean.ch
 blitzcoaching.ch
 blitzcoin.ch
 blitzcontact.ch
-blitzdates.ch
 blitzdeal.ch
 blitzdeals.ch
 blitzdefence.ch
@@ -5698,6 +5697,7 @@ blitzwerk-elektro.ch
 blitzwerkelektro.ch
 blitzwinkel.ch
 blitzwolf.ch
+blitzwords.ch
 blitzy.ch
 blitzyup.ch
 blitzz.ch
@@ -7360,6 +7360,7 @@ blox-workspace.ch
 blox.ch
 bloxaphte.ch
 bloxcoworx.ch
+bloxdeck.ch
 bloxera.ch
 bloxgame.ch
 bloxie.ch
@@ -7511,6 +7512,7 @@ blsschiffnews.ch
 blssd.ch
 blsshop.ch
 blst.ch
+blstudio.ch
 blsverbindet.ch
 blsw.ch
 blsystem.ch
@@ -11293,6 +11295,7 @@ blumini.ch
 blumio.ch
 blumique.ch
 blumirene.ch
+blumis-werkstatt.ch
 blumisberg.ch
 blumissimo.ch
 blumit.ch

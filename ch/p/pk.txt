@@ -6,6 +6,7 @@ pk-allgemeinbildung.ch
 pk-app.ch
 pk-architecte.ch
 pk-ausbau-regionbasel.ch
+pk-ausweis-check.ch
 pk-ausweis.ch
 pk-award.ch
 pk-baecker.ch
@@ -37,6 +38,7 @@ pk-dienst.ch
 pk-dienstleistungen.ch
 pk-digital.ch
 pk-dottikon.ch
+pk-einkauf.ch
 pk-elektro-nw.ch
 pk-elektro.ch
 pk-elektronik.ch

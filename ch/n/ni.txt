@@ -3398,7 +3398,6 @@ nids-guepes.ch
 nids-mouret.ch
 nids.ch
 nidsdesvosges.ch
-nidsi-obsi.ch
 nidsi.ch
 nidsproperties.ch
 nidt.ch
@@ -6131,6 +6130,7 @@ nimms.ch
 nimmsda.ch
 nimmsglasse.ch
 nimmsleicht.ch
+nimmsmit.ch
 nimmspatgific.ch
 nimmspatschifig.ch
 nimmswoertli.ch
@@ -6467,6 +6467,7 @@ ninakalt.ch
 ninakarli.ch
 ninakaspi.ch
 ninakathe.ch
+ninakatz.ch
 ninakern.ch
 ninaki.ch
 ninaklauser.ch

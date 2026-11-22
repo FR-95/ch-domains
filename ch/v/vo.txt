@@ -182,7 +182,6 @@ vocalfreak.ch
 vocalfriends.ch
 vocalhum.ch
 vocalia.ch
-vocalias.ch
 vocalimpact.ch
 vocalimprovisation.ch
 vocaline.ch
@@ -1539,6 +1538,7 @@ voiceconcepstudio.ch
 voiceconcepts.ch
 voiceconference.ch
 voicecontest.ch
+voicecorner.ch
 voicecrack.ch
 voiced.ch
 voicedeck.ch
@@ -1608,6 +1608,7 @@ voiceofbetteins.ch
 voiceofbettone.ch
 voiceofdata.ch
 voiceofdogs.ch
+voiceofequality.ch
 voiceoffire.ch
 voiceoffireswitzerland.ch
 voiceofimpact.ch
@@ -1738,6 +1739,7 @@ voidex.ch
 voidforge.ch
 voidlab.ch
 voidlee.ch
+voidmesh.ch
 voidnois.ch
 voidpointer.ch
 voids.ch
@@ -6909,6 +6911,7 @@ vorhard.ch
 vorhautverengung.ch
 vorher-nachher-bilder.ch
 vorher.ch
+vorhernachher.ch
 vorhersaag.ch
 vorhersage.ch
 vorhersagen.ch
@@ -6917,6 +6920,7 @@ vorhilfe.ch
 vorhin.ch
 vorhofflimmern.ch
 vorhofflimmernbehandeln.ch
+vorhofohrverschluss.ch
 vorhol.ch
 vorholz.ch
 vori.ch
@@ -7166,6 +7170,7 @@ vorsorge-anfrage.ch
 vorsorge-app.ch
 vorsorge-atelier.ch
 vorsorge-auftrag.ch
+vorsorge-basel.ch
 vorsorge-berater-finden.ch
 vorsorge-berater.ch
 vorsorge-beratung-3a.ch
@@ -7321,6 +7326,7 @@ vorsorgeauftragvorlage.ch
 vorsorgeausgleich.ch
 vorsorgeausschreibung.ch
 vorsorgeausweis.ch
+vorsorgeauswertung.ch
 vorsorgebank-obwalden.ch
 vorsorgebank-ow.ch
 vorsorgebank.ch
@@ -7413,6 +7419,7 @@ vorsorgeloesung.ch
 vorsorgeluecke.ch
 vorsorgelueckenrechner.ch
 vorsorgelupe.ch
+vorsorgemandat.ch
 vorsorgemappe.ch
 vorsorgemarktplatz.ch
 vorsorgemotor.ch
@@ -7526,6 +7533,7 @@ vorsorgezentrum-obwalden.ch
 vorsorgezentrum-ow.ch
 vorsorgezentrum.ch
 vorsorgezone.ch
+vorsorgezweitmeinung.ch
 vorsorglich-obwalden.ch
 vorsorglich-ow.ch
 vorsorglich.ch
@@ -7677,7 +7685,6 @@ vortexmotors.ch
 vortexoptics.ch
 vortexoptik.ch
 vortexpadel.ch
-vortexpower-sense.ch
 vortexpower.ch
 vortexproject.ch
 vortexrace.ch

@@ -31,7 +31,6 @@ pa-f.ch
 pa-finanz.ch
 pa-gmbh.ch
 pa-golf.ch
-pa-group.ch
 pa-heritier.ch
 pa-hsh.ch
 pa-immo-management.ch
@@ -2492,6 +2491,7 @@ paedinutrition.ch
 paediprotect.ch
 paedis-fahrschule.ch
 paedis.ch
+paedisuisse.ch
 paediversum.ch
 paednet.ch
 paedokriminalitaet.ch
@@ -2795,7 +2795,6 @@ page4you.ch
 pageadvisory.ch
 pageagent.ch
 pageandpartners.ch
-pageant.ch
 pageapage.ch
 pagearch.ch
 pagearchitectes.ch
@@ -3103,6 +3102,7 @@ pahoma.ch
 pahospitality.ch
 pahud-architectes.ch
 pahud-sarl.ch
+pahud-web.ch
 pahud.ch
 pahud7.ch
 pahudnettoyages.ch
@@ -3594,6 +3594,7 @@ pairsevoir.ch
 pairship.ch
 pairson.ch
 pairt.ch
+pairtopair.ch
 pairup.ch
 pairz.ch
 pais-gipserhandwerk.ch
@@ -4264,6 +4265,7 @@ palcoscenico.ch
 paldenco.ch
 paldispatch.ch
 paldo.ch
+pale.ch
 paleale.ch
 paleb.ch
 paleblack.ch
@@ -5621,7 +5623,6 @@ pampgold.ch
 pamphlet.ch
 pampibox.ch
 pampigny24.ch
-pampiloxa.ch
 pampin.ch
 pampitup.ch
 pamplemousse-coaching.ch
@@ -5660,6 +5661,7 @@ pamuca.ch
 pamudesign.ch
 pamuff.ch
 pamuk.ch
+pamukprojekte.ch
 pamura-ag.ch
 pamura.ch
 pamuya.ch
@@ -7205,6 +7207,7 @@ panorama-belp.ch
 panorama-bettmeralp.ch
 panorama-bible.ch
 panorama-birmensdorf.ch
+panorama-blonay.ch
 panorama-bodensee.ch
 panorama-braunwald.ch
 panorama-brienz.ch
@@ -8241,7 +8244,6 @@ papachocolatmedia.ch
 papachocolatprivate.ch
 papachocolatsuisse.ch
 papachulo.ch
-papacino.ch
 papacks.ch
 papacoach.ch
 papacontact.ch
@@ -9504,6 +9506,7 @@ papydou.ch
 papydoux.ch
 papygi.ch
 papyon.ch
+papyr.ch
 papyri.ch
 papyrin.ch
 papyro.ch
@@ -10132,6 +10135,7 @@ paradym.ch
 paradzik.ch
 paraeasy.ch
 paraeltern.ch
+paraf.ch
 parafam.ch
 parafamily.ch
 parafarm.ch
@@ -11061,7 +11065,6 @@ parceltinyhouse.ch
 parceltrack-post.ch
 parceltracker.ch
 parcelvalue.ch
-parcenciel.ch
 parceolien-les4bornes.ch
 parceolien-lesquatrebornes.ch
 parceolien-tramelan.ch
@@ -16288,6 +16291,7 @@ parzio.ch
 parzival-ai.ch
 parzival.ch
 parzivalshoes.ch
+parzivalsystems.ch
 parzung.ch
 parzy.ch
 parzz.ch
@@ -21184,7 +21188,6 @@ patrickbuff.ch
 patrickbuhmann.ch
 patrickbuholzer.ch
 patrickbussard.ch
-patrickbutscher.ch
 patrickcandraja.ch
 patrickcarvalho.ch
 patrickcastellani.ch
@@ -23455,6 +23458,7 @@ paurevic-gartenbau.ch
 paurevic.ch
 paurits.ch
 pauritsch.ch
+pauru-art.ch
 paus-massascha.ch
 paus-o-mat.ch
 paus.ch
@@ -24164,6 +24168,7 @@ pawphoria.ch
 pawpilot.ch
 pawplan.ch
 pawpower.ch
+pawprofi.ch
 pawpucci-handmade.ch
 pawr.ch
 pawracord.ch
@@ -24217,6 +24222,7 @@ pawsitivespa.ch
 pawsitting.ch
 pawsmustache.ch
 pawsociety.ch
+pawsocks.ch
 pawsofpassion.ch
 pawsome-shop.ch
 pawsome.ch

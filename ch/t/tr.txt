@@ -864,7 +864,6 @@ trad-certifiees.ch
 trad-exe.ch
 trad-invest.ch
 trad-it.ch
-trad-oviv.ch
 trad-ps.ch
 trad.ch
 trad8.ch
@@ -1060,7 +1059,6 @@ tradefox.ch
 tradefy.ch
 tradegame.ch
 tradegate.ch
-tradegenius.ch
 tradeglobal.ch
 tradego.ch
 tradegold.ch
@@ -2149,6 +2147,7 @@ tragbarkeit.ch
 tragbarkeitberechnen.ch
 tragbarkeithypothek.ch
 tragbarkeits-rechner.ch
+tragbarkeitscheck.ch
 tragbarkeitsrechner.ch
 tragbarmode.ch
 tragbart.ch
@@ -5607,7 +5606,6 @@ transplantationszentrum-bern.ch
 transplantinfo.ch
 transplantnet.ch
 transplantpoint.ch
-transplants.ch
 transplantsport.ch
 transpo-9411.ch
 transpo-drive.ch
@@ -7529,7 +7527,6 @@ traumata.ch
 traumatage.ch
 traumatelier.ch
 traumatherapeutin.ch
-traumatherapie-aarau.ch
 traumatherapie-am-see.ch
 traumatherapie-ausbildung.ch
 traumatherapie-baar.ch
@@ -8886,12 +8883,12 @@ travelfamilyoffice.ch
 travelfans24.ch
 travelfee.ch
 travelfeedback.ch
-travelfellow.ch
 travelfestival.ch
 travelfiles.ch
 travelfinder.ch
 travelflash.ch
 travelflavour.ch
+travelflow.ch
 travelflyon.ch
 travelforchange.ch
 travelforfreedom.ch
@@ -9759,7 +9756,6 @@ treag.ch
 treaks.ch
 treal.ch
 tream-events.ch
-tream-immo.ch
 tream.ch
 treameast.ch
 treams.ch
@@ -10412,6 +10408,7 @@ trefftag25.ch
 treffthun.ch
 treffuntermatt.ch
 treffurth.ch
+treffx.ch
 trefia.ch
 treficon-business.ch
 treficon-shop.ch
@@ -15316,6 +15313,7 @@ trinityyoga.ch
 trinix.ch
 trink-aargauer.ch
 trink-express.ch
+trink-feiner.ch
 trink-fest.ch
 trink-flaschen.ch
 trink-halm.ch
@@ -18917,6 +18915,7 @@ truccharas.ch
 trucchisulsesso.ch
 trucchouette.ch
 trucco.ch
+truccopermanenteticino.ch
 trucdefou.ch
 trucfou.ch
 truch.ch
@@ -19019,7 +19018,6 @@ trucker-west.ch
 trucker-world.ch
 trucker.ch
 trucker360.ch
-trucker4rent.ch
 truckerandco.ch
 truckerapp.ch
 truckerbabes.ch
@@ -19081,6 +19079,7 @@ truckmobiles.ch
 truckmodell.ch
 truckmodellbau.ch
 truckmodellbau24.ch
+truckmodellteam.ch
 trucknavigation.ch
 trucknotruf.ch
 truckoccasion.ch
@@ -19093,6 +19092,7 @@ truckpaper.ch
 truckpartner.ch
 truckparts.ch
 truckpass24.ch
+truckpiazza.ch
 truckpilot.ch
 truckplus.ch
 truckpneu.ch
@@ -19814,6 +19814,7 @@ truffer-basi.ch
 truffer-bau.ch
 truffer-informatique.ch
 truffer-rent.ch
+truffer-webdesign.ch
 truffer.ch
 trufferelektrotech.ch
 trufferomande.ch

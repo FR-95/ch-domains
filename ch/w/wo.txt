@@ -1862,7 +1862,6 @@ wohnenmoebel.ch
 wohnenmorgarten.ch
 wohnenmulin.ch
 wohnennachfeierabend.ch
-wohnenplus-flaesch.ch
 wohnenplus-obersee.ch
 wohnenplus-richterswil.ch
 wohnenplus-sh.ch
@@ -6471,7 +6470,6 @@ woodoo.ch
 woodosmile.ch
 woodpad.ch
 woodpads.ch
-woodpak.ch
 woodpartners.ch
 woodpassage.ch
 woodpassion-aristau.ch
@@ -8377,6 +8375,7 @@ workshopthurgau.ch
 workshopverfahren.ch
 workshopwerkstatt.ch
 workshow.ch
+worksimulator.ch
 worksite.ch
 workskillhub.ch
 workskills.ch
@@ -8565,7 +8564,6 @@ workwelt.ch
 workwheels.ch
 workwing.ch
 workwise.ch
-workwithjoy.ch
 workwithmax.ch
 workwithoutbeingthebrand.ch
 workwithrobotic.ch
@@ -8643,6 +8641,7 @@ world-heritage.ch
 world-horizon.ch
 world-ideals.ch
 world-immobilien.ch
+world-impression.ch
 world-in-plastic.ch
 world-index-market.ch
 world-index.ch
@@ -9227,6 +9226,7 @@ worldofwestern.ch
 worldofwhisky.ch
 worldofwhiskyclub.ch
 worldofwilliam.ch
+worldofwine.ch
 worldofwines.ch
 worldofwomen.ch
 worldofwonder.ch
@@ -9479,6 +9479,7 @@ worldwidebillboards.ch
 worldwidecard.ch
 worldwidecargo.ch
 worldwidecitizens.ch
+worldwideconsulting.ch
 worldwidecooking.ch
 worldwidecorporation.ch
 worldwidedodgeandcox.ch
@@ -10070,6 +10071,7 @@ worxspace.ch
 worxspacefactory.ch
 worxsystems.ch
 worxtools.ch
+worxx.ch
 worza.ch
 worzla.ch
 wos-scan.ch

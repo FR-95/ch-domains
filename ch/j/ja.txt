@@ -227,7 +227,6 @@ ja2011.ch
 ja2020.ch
 ja2026.ch
 ja2027.ch
-ja24.ch
 ja3d.ch
 ja3g3r.ch
 ja45.ch
@@ -4613,7 +4612,6 @@ janh.ch
 janharder.ch
 janhartmann.ch
 janhauser.ch
-janhelfenberger.ch
 janhell.ch
 janhelos.ch
 janhempel.ch
@@ -6780,7 +6778,6 @@ jaronalig.ch
 jaronas.ch
 jarongian.ch
 jaronhillmann.ch
-jaronilles.ch
 jaronmikusik.ch
 jaronreuteler.ch
 jaronwitt.ch
@@ -7004,6 +7001,7 @@ jasmin-faessler.ch
 jasmin-frei.ch
 jasmin-fuchs.ch
 jasmin-gaehler.ch
+jasmin-garn.ch
 jasmin-gartenbau.ch
 jasmin-gasser.ch
 jasmin-giger.ch
@@ -7557,6 +7555,7 @@ jassschule.ch
 jassscore.ch
 jassshop.ch
 jassstatistik.ch
+jassstube.ch
 jasstafel.ch
 jasstat.ch
 jassteppi.ch
@@ -8420,6 +8419,7 @@ jazzglarus.ch
 jazzgreifensee.ch
 jazzgroove.ch
 jazzgroup-om.ch
+jazzguitarandmore.ch
 jazzgymnastikschule.ch
 jazzhane.ch
 jazzharmonielehre.ch

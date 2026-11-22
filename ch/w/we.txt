@@ -873,7 +873,6 @@ wearevictory.ch
 wearevintage.ch
 wearevinyl.ch
 wearevr.ch
-wearewaiv.ch
 wearewe.ch
 wearewitchers.ch
 wearewondrous.ch
@@ -3238,6 +3237,7 @@ webdns.ch
 webdo.ch
 webdoc.ch
 webdocine.ch
+webdock.ch
 webdocteur.ch
 webdoctor.ch
 webdocuments.ch
@@ -6681,9 +6681,12 @@ webtotal.ch
 webtou.ch
 webtouch-agentur.ch
 webtouch-consulting.ch
+webtouch-growth.ch
+webtouch-leads.ch
 webtouch-outbound.ch
 webtouch-partner.ch
 webtouch-sales.ch
+webtouch-team.ch
 webtouch-vertrieb.ch
 webtouch.ch
 webtouchb2b.ch
@@ -8769,6 +8772,7 @@ wegdoor.ch
 wegdurchdiezeit.ch
 wegdynamik.ch
 wege-des-herzens.ch
+wege-entdecken.ch
 wege-finden.ch
 wege-gehen.ch
 wege-in-die-selbst-verantwortung.ch
@@ -9893,6 +9897,7 @@ weidmann-architekten-ag.ch
 weidmann-architekten.ch
 weidmann-coaching.ch
 weidmann-consulting.ch
+weidmann-digital-solutions.ch
 weidmann-digital.ch
 weidmann-fiber.ch
 weidmann-group.ch
@@ -10271,6 +10276,7 @@ weihnachtsfenstergeschichten.ch
 weihnachtsferien.ch
 weihnachtsfest.ch
 weihnachtsfestival.ch
+weihnachtsflasche.ch
 weihnachtsflowmarkt.ch
 weihnachtsfoto.ch
 weihnachtsfreude.ch
@@ -14504,6 +14510,7 @@ wellmedaarau.ch
 wellmedbeauty.ch
 wellmedica-praxis.ch
 wellmind.ch
+wellmo.ch
 wellmoment.ch
 wellmora.ch
 wellmore.ch
@@ -15996,7 +16003,6 @@ weltios.ch
 weltipartner.ch
 weltiruth.ch
 weltis.ch
-weltisch.ch
 weltistiftung.ch
 weltiweg.ch
 weltiwicki.ch
@@ -20585,7 +20591,6 @@ wertquote.ch
 wertquoten.ch
 wertraum-schaffhausen.ch
 wertraum.ch
-wertraumfamilyoffice.ch
 wertrechner.ch
 wertrew.ch
 wertsache.ch

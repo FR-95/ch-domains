@@ -1415,6 +1415,7 @@ classandclassic.ch
 classapex.ch
 classback.ch
 classbird.ch
+classbook.ch
 classbot.ch
 classbox.ch
 classcad.ch
@@ -1492,6 +1493,7 @@ classeurfederal.ch
 classeurorange.ch
 classeurs.ch
 classevents.ch
+classflow.ch
 classfone.ch
 classglobe580.ch
 classglobe580sui26.ch
@@ -7179,7 +7181,6 @@ cliente.ch
 clientecho.ch
 clientediretto.ch
 clientel.ch
-clientele.ch
 clientelecenter.ch
 clientelify.ch
 clientes.ch
@@ -9624,7 +9625,6 @@ cloud-garden.ch
 cloud-geek.ch
 cloud-genossen.ch
 cloud-germany.ch
-cloud-gratuit.ch
 cloud-group.ch
 cloud-gruene-uster.ch
 cloud-guard.ch
@@ -10184,7 +10184,6 @@ cloudgerber.ch
 cloudgermany.ch
 cloudgo.ch
 cloudgovernance.ch
-cloudgratuit.ch
 cloudgroup.ch
 cloudgruppe.ch
 cloudguard.ch

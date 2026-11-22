@@ -831,7 +831,6 @@ judithjaermann.ch
 judithjenni.ch
 judithkaufmann.ch
 judithkern.ch
-judithkeufl.ch
 judithknobel.ch
 judithkoch.ch
 judithkolb.ch
@@ -5751,6 +5750,8 @@ junior-protect.ch
 junior-ranger-schweiz.ch
 junior-ranger.ch
 junior-research.ch
+junior-sport-events.ch
+junior-sportevents.ch
 junior-tshaka.ch
 junior-world.ch
 junior.ch
@@ -5844,6 +5845,7 @@ juniorservices.ch
 juniorsgolf.ch
 juniorsgolfpayerne.ch
 juniorsonstage.ch
+juniorsportevents.ch
 juniorsportperformance.ch
 juniorsportperformancelab.ch
 juniorstrophy.ch
@@ -6426,6 +6428,7 @@ juracupuncture.ch
 juracycles.ch
 jurad-bat.ch
 juradach.ch
+juradash.ch
 juradbat.ch
 juradec.ch
 juradefi.ch

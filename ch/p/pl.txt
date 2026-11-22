@@ -2938,6 +2938,7 @@ plantsitters.ch
 plantsitting.ch
 plantsome.ch
 plantspeed.ch
+plantspot.ch
 plantstore.ch
 plantstuff.ch
 plantsupply.ch
@@ -4420,7 +4421,6 @@ plattenleger-solothurn-bucheggberg.ch
 plattenleger-solothurn.ch
 plattenleger-st-gallen.ch
 plattenleger-team.ch
-plattenleger-thun.ch
 plattenleger-thurgau.ch
 plattenleger-uster.ch
 plattenleger-vergleich.ch
@@ -8560,7 +8560,6 @@ plutowasaplanet.ch
 plutschow.ch
 plutus-capital.ch
 plutus.ch
-plutusconsultancy.ch
 plutushorn.ch
 plutusinvestments.ch
 plutusluxury.ch

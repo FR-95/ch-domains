@@ -305,7 +305,6 @@ glacons.ch
 glaconsdesalpes.ch
 glaconsuisse.ch
 glactic.ch
-glacyr.ch
 glad-arthrose.ch
 glad-luzern.ch
 glad-ostschweiz.ch
@@ -316,6 +315,7 @@ glad-switzerland.ch
 glad.ch
 glada.ch
 gladalle.ch
+gladapt.ch
 gladba.ch
 gladbach.ch
 gladbach117.ch
@@ -4016,6 +4016,7 @@ glioblastom-info.ch
 glioblastom.ch
 glioblastoma.ch
 gliocart.ch
+gliocompass.ch
 gliom.ch
 glion-buffetdelagare.ch
 glion-caux.ch

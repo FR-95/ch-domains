@@ -775,6 +775,7 @@ aubryalert.ch
 aubrycarrelage.ch
 aubrychauffage.ch
 aubrygroupe.ch
+aubrylegal.ch
 aubrymateriel.ch
 aubrymed.ch
 aubrymenuiserie.ch
@@ -1156,12 +1157,17 @@ audatex-schweiz.ch
 audatex-versicherungen.ch
 audatex.ch
 audator.ch
+audax-art.ch
 audax-capital.ch
+audax-cars.ch
 audax-coaching.ch
 audax-group.ch
+audax-luxury.ch
 audax-mechanik.ch
 audax-pay.ch
 audax-pr.ch
+audax-projects.ch
+audax-realestate.ch
 audax-solutions.ch
 audax-suisse.ch
 audax-swiss.ch
@@ -1656,6 +1662,7 @@ audio-technics.ch
 audio-technik.ch
 audio-to-go.ch
 audio-tour.ch
+audio-transkribieren.ch
 audio-tuning.ch
 audio-video-boerse.ch
 audio-video-concept.ch
@@ -2017,6 +2024,7 @@ audiosource.ch
 audiosources.ch
 audiospeaker.ch
 audiospeditiv.ch
+audiospee.ch
 audiosphere.ch
 audiospot.ch
 audiospotlight-europe.ch
@@ -2070,6 +2078,7 @@ audiotrade.ch
 audiotrading.ch
 audiotraffic.ch
 audiotrail.ch
+audiotranskribieren.ch
 audiotransparence.ch
 audiotribe.ch
 audiotronic.ch
@@ -7461,8 +7470,14 @@ aureumdata.ch
 aureumhealth.ch
 aureumheritage.ch
 aureus-ag.ch
+aureus-akustik.ch
+aureus-augenoptik.ch
 aureus-capital.ch
+aureus-hoerakustik.ch
+aureus-hoerinstitut.ch
 aureus-homes.ch
+aureus-institut.ch
+aureus-optik.ch
 aureus.ch
 aureusdrive-aadorf.ch
 aureusdrive-basel.ch
@@ -8605,6 +8620,7 @@ ausdruckeindruck.ch
 ausdrucken.ch
 ausdrucksanalyse.ch
 ausdrucksarbeit.ch
+ausdrucksart.ch
 ausdrucksform.ch
 ausdrucksfotografie.ch
 ausdruckskraft.ch
@@ -10607,7 +10623,6 @@ autisti.ch
 autistic.ch
 autistica.ch
 autisticchicken.ch
-autisticminority.ch
 autisticpride.ch
 autisticprideday.ch
 autistictogether.ch
@@ -12243,6 +12258,7 @@ autoankauf-bs.ch
 autoankauf-cash.ch
 autoankauf-cerkini.ch
 autoankauf-ch.ch
+autoankauf-direkt-schweiz.ch
 autoankauf-direkt.ch
 autoankauf-duedingen.ch
 autoankauf-einfach.ch
@@ -13308,6 +13324,7 @@ autodrone.ch
 autodrop.ch
 autodryx.ch
 autoduerst.ch
+autoduft-yasmin.ch
 autoduft.ch
 autoduftshop.ch
 autoduss.ch
@@ -18681,6 +18698,7 @@ auxiliumwealth.ch
 auxilius.ch
 auxiliusnova.ch
 auxillium.ch
+auximath.ch
 auximmo.ch
 auximo-tech.ch
 auximo.ch

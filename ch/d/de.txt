@@ -2507,7 +2507,6 @@ declare.ch
 declaree.ch
 declareit.ch
 declarer.ch
-declaresimple.ch
 declaria.ch
 declarino.ch
 declario.ch
@@ -4422,10 +4421,8 @@ defariaberatung.ch
 defarias.ch
 defascon.ch
 default-ethics.ch
-default-gateway.ch
 default-postmaster.ch
 default.ch
-defaultgateway.ch
 defaultgetaway.ch
 defaultgiveaway.ch
 defaultgw.ch
@@ -5739,6 +5736,7 @@ dein-jobbike.ch
 dein-jobcoach.ch
 dein-jobportal.ch
 dein-kantteil.ch
+dein-karriereplan.ch
 dein-kartenlegen.ch
 dein-kassensystem.ch
 dein-ki-agent.ch
@@ -6877,6 +6875,7 @@ deinepartyband.ch
 deineparzelle.ch
 deinepasta.ch
 deinepension.ch
+deinepensionierung.ch
 deinepensionskasse.ch
 deinepensionsplanung.ch
 deinepergola.ch
@@ -7445,6 +7444,7 @@ deinmotivator.ch
 deinmotorschaden.ch
 deinmteam.ch
 deinmuell.ch
+deinmund.ch
 deinmusicalcoaching.ch
 deinmusiker.ch
 deinnachklang.ch
@@ -7538,6 +7538,7 @@ deinpotential.ch
 deinpotenzial.ch
 deinpraktikum.ch
 deinpraxisteam.ch
+deinpreis.ch
 deinpremiumtrainer.ch
 deinprint.ch
 deinprisma.ch
@@ -8229,6 +8230,7 @@ dekoart.ch
 dekoart3d.ch
 dekoartikel.ch
 dekoartsarah.ch
+dekoasti.ch
 dekoatelier.ch
 dekoband.ch
 dekobau.ch
@@ -8762,7 +8764,6 @@ delaregion-migrosvaud.ch
 delaregion.ch
 delarive.ch
 delarivegroup.ch
-delarivesolution.ch
 delariviere.ch
 delaroche.ch
 delarosa.ch
@@ -16603,7 +16604,6 @@ der-almana.ch
 der-analytiker.ch
 der-andere-blick.ch
 der-andere-film.ch
-der-andere-garten.ch
 der-andere-weg.ch
 der-andere.ch
 der-antiaggressionstrainer.ch
@@ -17545,7 +17545,6 @@ derandereadvent.ch
 derandereblick.ch
 deranderefussball.ch
 deranderegaertner.ch
-deranderegarten.ch
 deranderehofladen.ch
 deranderenart.ch
 deranderetag.ch
@@ -23627,6 +23626,7 @@ destracker.ch
 destrade.ch
 destraz-entertainment.ch
 destraz.ch
+destrazmail.ch
 destress.ch
 destribats.ch
 destrier.ch
@@ -24293,6 +24293,7 @@ dettaglianti.ch
 dettaglio-hair.ch
 dettaglio-infopoint.ch
 dettaglio.ch
+dettami.ch
 dettamusic.ch
 dettcon.ch
 dette.ch
@@ -26253,6 +26254,7 @@ devowl.ch
 devoxx4kids.ch
 devozeinige.ch
 devpack.ch
+devpad.ch
 devpage.ch
 devpanion.ch
 devparl.ch

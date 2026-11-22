@@ -2978,6 +2978,7 @@ riegelengineering.ch
 riegeler-biohefe.ch
 riegelhaus-und-co.ch
 riegelhaus.ch
+riegelhof-restaurant.ch
 riegelhof.ch
 riegelsberger.ch
 riegenverwaltung.ch
@@ -5500,6 +5501,7 @@ rinkride.ch
 rinkrooster.ch
 rinks.ch
 rinkstation.ch
+rinktennis.ch
 rinloo.ch
 rinma.ch
 rinn.ch
@@ -6464,6 +6466,7 @@ risikotragender-deckungsgrad.ch
 risikotragenderdeckungsgrad.ch
 risikoversicherung.ch
 risikoversicherungen.ch
+risikovorsorge.ch
 risikowindkraft.ch
 risikowissen.ch
 risilio.ch
@@ -6939,7 +6942,6 @@ ristorante-amici.ch
 ristorante-anita.ch
 ristorante-annare.ch
 ristorante-antico.ch
-ristorante-arcade.ch
 ristorante-argentino.ch
 ristorante-armonia.ch
 ristorante-aroma.ch
@@ -7124,7 +7126,6 @@ ristorante-posta.ch
 ristorante-quadrifoglio.ch
 ristorante-radice-rieden.ch
 ristorante-radice.ch
-ristorante-reinach.ch
 ristorante-rialto.ch
 ristorante-ristretto.ch
 ristorante-ritterstube.ch

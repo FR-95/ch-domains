@@ -139,6 +139,7 @@ s-c-group.ch
 s-c-h.ch
 s-c-l.ch
 s-c-m.ch
+s-c-o-a.ch
 s-c-r.ch
 s-c-s.ch
 s-c-t.ch
@@ -446,6 +447,7 @@ s-keller.ch
 s-keros.ch
 s-killz.ch
 s-kiosk.ch
+s-kissrecords.ch
 s-klima.ch
 s-kneubuehler-zell.ch
 s-ko.ch

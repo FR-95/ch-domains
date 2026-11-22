@@ -257,7 +257,6 @@ ki-disponent.ch
 ki-divy.ch
 ki-doktor.ch
 ki-doku.ch
-ki-domain.ch
 ki-dozenten.ch
 ki-druck.ch
 ki-druckerei.ch
@@ -881,7 +880,6 @@ ki-schweiz.ch
 ki-score.ch
 ki-scout.ch
 ki-scout24.ch
-ki-search.ch
 ki-sec.ch
 ki-security.ch
 ki-seite.ch
@@ -977,7 +975,6 @@ ki-studios.ch
 ki-stutz.ch
 ki-suche-agentur.ch
 ki-suche.ch
-ki-suchen.ch
 ki-suchmaschine.ch
 ki-suchoptimierung.ch
 ki-summit.ch
@@ -1150,7 +1147,6 @@ ki-workshops.ch
 ki-workspace.ch
 ki-world.ch
 ki-x-start.ch
-ki-x.ch
 ki-za.ch
 ki-zahnarzt-rj.ch
 ki-zahnarzt.ch
@@ -1336,6 +1332,7 @@ kiakademie.ch
 kiakaha.ch
 kiakahawa.ch
 kiakanada2026-cosa.ch
+kiaktuell.ch
 kial.ch
 kiala.ch
 kiallba.ch
@@ -2229,7 +2226,6 @@ kidola.ch
 kidolia.ch
 kidolino.ch
 kidolls.ch
-kidomain.ch
 kidomi.ch
 kidomina.ch
 kidominas.ch
@@ -2685,6 +2681,7 @@ kidskingdom.ch
 kidskingdoms.ch
 kidskiosk.ch
 kidskleiderboerse.ch
+kidskleiderboersecham.ch
 kidskongress.ch
 kidskonnect.ch
 kidskram.ch
@@ -3762,6 +3759,7 @@ kiflix.ch
 kifluss.ch
 kifo-konferenz.ch
 kifo.ch
+kifokus.ch
 kifor.ch
 kiforge.ch
 kiforschung.ch
@@ -3899,7 +3897,6 @@ kihubstgallen.ch
 kihubzug.ch
 kihyma.ch
 kihz.ch
-kii-audio.ch
 kii.ch
 kiia.ch
 kiiag.ch
@@ -4025,6 +4022,7 @@ kika-schweiz.ch
 kika.ch
 kikaarts.ch
 kikac.ch
+kikacalendrier.ch
 kikadogtrainer.ch
 kikaevents.ch
 kikafi.ch
@@ -5275,7 +5273,6 @@ kin-tier-mensch.ch
 kin-uri.ch
 kin-weg.ch
 kin.ch
-kin24.ch
 kin41.ch
 kin64.ch
 kin88.ch
@@ -12849,6 +12846,7 @@ kirella.ch
 kirendite.ch
 kirendo.ch
 kirenove.ch
+kireport.ch
 kirepublic.ch
 kireswiss.ch
 kirex.ch
@@ -13188,7 +13186,6 @@ kiscout.ch
 kiscout24.ch
 kisdi.ch
 kise.ch
-kisearch.ch
 kisec.ch
 kisecurity.ch
 kiseel.ch
@@ -13743,7 +13740,6 @@ kistudios.ch
 kistutz.ch
 kisu.ch
 kisuccess.ch
-kisuchen.ch
 kisuchmaschine.ch
 kisuchoptimierung.ch
 kisucht.ch
@@ -14511,6 +14507,7 @@ kitachinderwaelt.ch
 kitachlostergarte.ch
 kitachrabelschloss.ch
 kitachroenli.ch
+kitachur.ch
 kitacloud.ch
 kitaclub.ch
 kitacolorin.ch
@@ -15397,6 +15394,7 @@ kitransformation.ch
 kitravel.ch
 kitravelguru.ch
 kitrecluta.ch
+kitrends.ch
 kitresor.ch
 kitreuhand.ch
 kitrevag.ch
@@ -15574,7 +15572,6 @@ kituadi.ch
 kituk.ch
 kituning.ch
 kitupass.ch
-kituu.ch
 kitwag.ch
 kitwin.ch
 kityp.ch

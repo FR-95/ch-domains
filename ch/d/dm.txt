@@ -378,7 +378,6 @@ dmg-distribution.ch
 dmg-helvetia.ch
 dmg-mori.ch
 dmg-robinetterie.ch
-dmg-solutions.ch
 dmg.ch
 dmgact.ch
 dmgagency.ch
@@ -782,6 +781,7 @@ dmx4install.ch
 dmx512.ch
 dmxai.ch
 dmxfj.ch
+dmxshop.ch
 dmy.ch
 dmydr.ch
 dmysicka.ch

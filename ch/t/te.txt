@@ -81,6 +81,7 @@ tea-one.ch
 tea-pot.ch
 tea-project.ch
 tea-reinigung.ch
+tea-retail.ch
 tea-rex.ch
 tea-room-athenee.ch
 tea-room-flora-plasselb.ch
@@ -481,9 +482,7 @@ team-coa.ch
 team-coach.ch
 team-coaching-events.ch
 team-coaching.ch
-team-coachings.ch
 team-computing.ch
-team-concept.ch
 team-connect.ch
 team-consulting.ch
 team-cottier.ch
@@ -3665,6 +3664,7 @@ technik24.ch
 technik4time.ch
 technik4x.ch
 technik7.ch
+technika.ch
 technikaffin.ch
 technikambau.ch
 technikan.ch
@@ -5413,7 +5413,6 @@ tedbin.ch
 tedbuddy.ch
 tedc.ch
 tedcamper.ch
-teddah.ch
 tedde.ch
 teddi-bebe.ch
 teddies.ch
@@ -8408,7 +8407,6 @@ telfbt.ch
 telff.ch
 telfirst.ch
 telfo.ch
-telford.ch
 telfort.ch
 telforum.ch
 telfox.ch
@@ -9934,6 +9932,7 @@ temya.ch
 temzo.ch
 ten-23.ch
 ten-4.ch
+ten-aarau.ch
 ten-affolter.ch
 ten-basel.ch
 ten-berufsverband.ch
@@ -12457,6 +12456,7 @@ termindo.ch
 termindoktor.ch
 termindruck.ch
 termine-direkt.ch
+termine-mit-system.ch
 termine-physio-am-bahnhof.ch
 termine-rheintal.ch
 termine-ti.ch
@@ -12756,6 +12756,7 @@ terra-gusto.ch
 terra-habitare.ch
 terra-haoma.ch
 terra-happy.ch
+terra-harmonia.ch
 terra-helvetia.ch
 terra-helvetica-anlagestiftung.ch
 terra-holding.ch
@@ -15437,7 +15438,6 @@ test-me2.ch
 test-me3.ch
 test-me4.ch
 test-messtechnik.ch
-test-metiers.ch
 test-mich.ch
 test-migration-sync-nodes.ch
 test-migros.ch
@@ -15744,6 +15744,7 @@ testamentverfassen.ch
 testamentweb.ch
 testana.ch
 testanalyse.ch
+testanda.ch
 testandfly.ch
 testandgo.ch
 testando.ch

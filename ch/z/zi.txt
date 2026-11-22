@@ -679,7 +679,6 @@ zierlich.ch
 ziermann.ch
 ziernagel.ch
 ziernaht.ch
-ziernheld-foss.ch
 ziernieten.ch
 zierow.ch
 zierpflanzen-stift-hoefli.ch
@@ -2498,6 +2497,7 @@ zins24.ch
 zinsabsicherung.ch
 zinsalarm-hev-hypothek.ch
 zinsalarm-hypothekenzentrum.ch
+zinsalarm.ch
 zinsanstieg.ch
 zinsapp.ch
 zinsatlas.ch

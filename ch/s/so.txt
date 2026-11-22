@@ -3957,7 +3957,6 @@ software-lohnarbeiter.ch
 software-lohnunternehmen.ch
 software-lohnunternehmer.ch
 software-maison.ch
-software-maker-thomas.ch
 software-manufaktur.ch
 software-marketing.ch
 software-miete.ch
@@ -6770,7 +6769,6 @@ solarenergiespeicher.ch
 solarenergietechnik.ch
 solarenergievergleich.ch
 solarenergitalia.ch
-solarenergy-24.ch
 solarenergy-shop.ch
 solarenergy.ch
 solarenergyplus.ch
@@ -7073,7 +7071,6 @@ solaris-buonas.ch
 solaris-cologny.ch
 solaris-ecig.ch
 solaris-edu.ch
-solaris-energy.ch
 solaris-engineering.ch
 solaris-evapor.ch
 solaris-gmbh.ch
@@ -9749,7 +9746,6 @@ solivida-care.ch
 solivim.ch
 soliving.ch
 solivino.ch
-solivita.ch
 solivo.ch
 solivolife.ch
 solivya.ch
@@ -10149,7 +10145,6 @@ soloport.ch
 soloprax.ch
 solopreneur-collective.ch
 solopreneur-schweiz.ch
-solopreneur.ch
 solopreneurin.ch
 solopreneurs.ch
 solopro.ch
@@ -10917,6 +10912,7 @@ solution-win.ch
 solution-x.ch
 solution-xs.ch
 solution.ch
+solution2.ch
 solution21.ch
 solution24.ch
 solution360.ch
@@ -13096,6 +13092,7 @@ sonantro.ch
 sonao.ch
 sonapa.ch
 sonapex.ch
+sonapi.ch
 sonar-band.ch
 sonar-gmbh.ch
 sonar-hub.ch
@@ -14724,6 +14721,7 @@ sonnenenergie.ch
 sonnenenergie24.ch
 sonnenenergieklima.ch
 sonnenenergieplus.ch
+sonnenenergieschweiz.ch
 sonnenenerie.ch
 sonnenengel.ch
 sonneneuenkirch.ch
@@ -17724,6 +17722,10 @@ sortir-suisseromande.ch
 sortir-valais.ch
 sortir-vaud.ch
 sortir.ch
+sortirafribourg.ch
+sortirageneve.ch
+sortiralausanne.ch
+sortiraneuchatel.ch
 sortirdelatimide.ch
 sortirdelombre.ch
 sortirdepcsoft.ch
@@ -17735,6 +17737,7 @@ sortirduburnoutparental.ch
 sortirducadre.ch
 sortirdulot.ch
 sortirdunucleaire.ch
+sortirenvalais.ch
 sortirfribourg.ch
 sortirgeneve.ch
 sortirjura.ch
@@ -19584,7 +19587,6 @@ soulglowfacialmassage.ch
 soulgourmet.ch
 soulgrace.ch
 soulgrape.ch
-soulground.ch
 soulgrowth.ch
 soulguard.ch
 soulguidance.ch
@@ -21662,7 +21664,6 @@ soviel.ch
 sovielmehr.ch
 sovielzeit.ch
 sovieshop.ch
-soviet.ch
 sovill.ch
 sovillaakustik.ch
 sovilnesib.ch
@@ -21685,7 +21686,6 @@ sovitec.ch
 sovitechnology.ch
 soviva.ch
 sovivo.ch
-sovjet.ch
 sovlje.ch
 sovn.ch
 sovnet.ch

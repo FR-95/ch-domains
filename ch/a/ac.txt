@@ -477,7 +477,6 @@ academicum.ch
 academicunion.ch
 academicus.ch
 academicwork.ch
-academie-aa.ch
 academie-aimp.ch
 academie-alzheimer.ch
 academie-andromede.ch
@@ -3271,6 +3270,7 @@ acheter-chien.ch
 acheter-des-leads-qualifie.ch
 acheter-en-andalousie.ch
 acheter-en-espagne.ch
+acheter-extincteur.ch
 acheter-fribourg.ch
 acheter-iptv-premium.ch
 acheter-local.ch
@@ -5855,6 +5855,7 @@ acta-groupe.ch
 acta-ing.ch
 acta-libre.ch
 acta-management.ch
+acta-med.ch
 acta-notaire.ch
 acta-notaires.ch
 acta-nova.ch
@@ -5899,6 +5900,7 @@ actalio.ch
 actalis.ch
 actalps.ch
 actamagna.ch
+actamed.ch
 actan.ch
 actandspeak.ch
 actanet.ch

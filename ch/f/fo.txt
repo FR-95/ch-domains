@@ -81,7 +81,6 @@ foamblock.ch
 foamdeck.ch
 foamee.ch
 foamex.ch
-foamfy.ch
 foamglas.ch
 foamglass.ch
 foamie.ch
@@ -193,6 +192,7 @@ focenza.ch
 focetola.ch
 foch-area.ch
 foch-auto.ch
+foch-co.ch
 foch.ch
 fochauto.ch
 foche.ch
@@ -1682,6 +1682,7 @@ fokuski.ch
 fokuskind-familienberatung.ch
 fokuskind.ch
 fokuskirche.ch
+fokusklar.ch
 fokusklasse-informatik.ch
 fokusklasse.ch
 fokuskmu.ch
@@ -5348,6 +5349,7 @@ foodfactorybasel.ch
 foodfactorybienne.ch
 foodfactoryifwil.ch
 foodfacts.ch
+foodfair.ch
 foodfarm.ch
 foodfarming.ch
 foodfascianation.ch
@@ -7577,6 +7579,7 @@ foresight-governance.ch
 foresight-management.ch
 foresight.ch
 foresightaction.ch
+foresightadvisory.ch
 foresightcoaching.ch
 foresightcollective.ch
 foresightcompass.ch
@@ -9186,6 +9189,7 @@ formatori.ch
 formatost.ch
 formatpaysage.ch
 formatpfister.ch
+formatpilot.ch
 formatquality.ch
 formatrack.ch
 formatraining.ch
@@ -12163,6 +12167,7 @@ forwardgolfclub.ch
 forwardgroup.ch
 forwardhc.ch
 forwardhelixpiercing.ch
+forwardhypothek.ch
 forwarding.ch
 forwardize.ch
 forwardlabs.ch
@@ -14822,6 +14827,7 @@ fotostory.ch
 fotostorz.ch
 fotostrada.ch
 fotostrasse.ch
+fotostrauss.ch
 fotostreiff.ch
 fotostrobo.ch
 fotostube.ch
@@ -15263,6 +15269,7 @@ founachu.ch
 founachue.ch
 founachues.ch
 founachus.ch
+founce.ch
 founco.ch
 found-her.ch
 found-in-translation.ch

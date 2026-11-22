@@ -2955,7 +2955,6 @@ cenk.ch
 cenkeren.ch
 cenkisnotdead.ch
 cenkundretto.ch
-cenlab.ch
 cenlogic.ch
 cenne.ch
 cennet-consulting.ch
@@ -4325,12 +4324,14 @@ centrebruegg.ch
 centrecanin.ch
 centrecarapace.ch
 centrecatalabasilea.ch
+centrecatalalausana.ch
 centrecgc.ch
 centrechavannes.ch
 centrechirowellness.ch
 centrecholausanne.ch
 centrechretien.ch
 centrechretiendelamoisson.ch
+centrechretienekklesia.ch
 centreciel.ch
 centrecm.ch
 centreco.ch
@@ -6907,8 +6908,6 @@ certins.ch
 certio.ch
 certion.ch
 certiorem.ch
-certip.ch
-certipblockchain.ch
 certipep.ch
 certiphoto.ch
 certiport.ch

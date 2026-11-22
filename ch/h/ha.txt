@@ -2362,6 +2362,7 @@ hadeq.ch
 hader.ch
 hadera.ch
 haderas.ch
+haderbutt.ch
 haderer.ch
 hadererdruck.ch
 haderia.ch
@@ -2664,7 +2665,6 @@ haeckyfinefood.ch
 haeckyfood.ch
 haed.ch
 haedener.ch
-haederer.ch
 haederli-und-frei.ch
 haedit.ch
 haednut.ch
@@ -4316,6 +4316,7 @@ hagelinspektion.ch
 hagelklima.ch
 hagellab.ch
 hagelmessnetz.ch
+hagelpapst.ch
 hagelpartner.ch
 hagelplus.ch
 hagelprofi.ch
@@ -5089,7 +5090,6 @@ hair-time.ch
 hair-tou.ch
 hair-touch.ch
 hair-transplantation.ch
-hair-transplants.ch
 hair-trend.ch
 hair-trichologie.ch
 hair-truck.ch
@@ -5507,7 +5507,6 @@ hairidentity.ch
 hairify.ch
 hairilyas.ch
 hairimpact.ch
-hairimplants.ch
 hairimpulsing.ch
 hairinclinic.ch
 hairindustry.ch
@@ -5993,7 +5992,6 @@ hairtransmed.ch
 hairtransplant-zurich.ch
 hairtransplant.ch
 hairtransplantation.ch
-hairtransplantations.ch
 hairtransplants.ch
 hairtransplantsurgery.ch
 hairtransplantturkey.ch
@@ -6371,7 +6369,6 @@ halal-certificate.ch
 halal-collagen.ch
 halal-cruise.ch
 halal-cruises.ch
-halal-fleisch.ch
 halal-food-festival.ch
 halal-food.ch
 halal-guide.ch
@@ -6418,7 +6415,6 @@ halalevents.ch
 halalexpo.ch
 halalfinder.ch
 halalfintech.ch
-halalfleisch.ch
 halalfood.ch
 halalfoodfestival.ch
 halalfranken.ch
@@ -8362,7 +8358,6 @@ haman-ag.ch
 haman.ch
 hamanag.ch
 hamanbau.ch
-hamancar.ch
 hamanestates.ch
 hamanica.ch
 hamann.ch
@@ -10441,6 +10436,7 @@ handmaschinenstickerei.ch
 handmate.ch
 handme.ch
 handmedizin.ch
+handmehr.ch
 handmerk.ch
 handmetrics.ch
 handmilchpumpe.ch
@@ -11298,6 +11294,7 @@ handwerkerpreise.ch
 handwerkerpro.ch
 handwerkerprofi.ch
 handwerkerprofis.ch
+handwerkerprogramm.ch
 handwerkerreferenzen.ch
 handwerkerregister.ch
 handwerkerring.ch
@@ -11455,7 +11452,6 @@ handwerksnachfolge.ch
 handwerkspartner.ch
 handwerkspartner24.ch
 handwerksplatz.ch
-handwerkspuls.ch
 handwerksregister.ch
 handwerksstellen.ch
 handwerkstadt.ch
@@ -11878,7 +11874,6 @@ handyreparieren.ch
 handyringe.ch
 handys-ohne-vertrag.ch
 handys.ch
-handys24.ch
 handysafari.ch
 handysale.ch
 handysbilliger.ch
@@ -12123,7 +12118,6 @@ hanfguetzli.ch
 hanfhandler.ch
 hanfhandwerk.ch
 hanfhaps.ch
-hanfhaus.ch
 hanfhecke.ch
 hanfheilmittel.ch
 hanfheilung.ch
@@ -13841,7 +13835,6 @@ haoman.ch
 haon.ch
 haoproduction.ch
 haoq.ch
-haos.ch
 haoschule.ch
 haota.ch
 haoui.ch
@@ -14377,7 +14370,6 @@ happy-sleep.ch
 happy-slots.ch
 happy-smile.ch
 happy-smoke.ch
-happy-smoky.ch
 happy-smoothie.ch
 happy-snowdogs.ch
 happy-socks.ch
@@ -19620,6 +19612,7 @@ haus-amethyst.ch
 haus-ammonit.ch
 haus-amsee.ch
 haus-amublanz.ch
+haus-an-die-kinder.ch
 haus-an-traumlage.ch
 haus-andrea.ch
 haus-ankauf.ch
@@ -19758,6 +19751,7 @@ haus-des-schreibens.ch
 haus-diehl.ch
 haus-dielsdorf.ch
 haus-doktor.ch
+haus-dolle.ch
 haus-domino.ch
 haus-dornach.ch
 haus-durachtal.ch
@@ -20966,6 +20960,7 @@ hausbuch-heizenholz.ch
 hausbuch.ch
 hausbuol.ch
 hausbutler.ch
+hausbutlerrobotics.ch
 hauscabana.ch
 hauscadena.ch
 hauscare.ch
@@ -21833,6 +21828,7 @@ hausheld24.ch
 haushelden.ch
 haushelden24.ch
 hausheldin.ch
+hausheldinrobotics.ch
 hausheldpartner.ch
 hausheldswiss.ch
 haushelferin.ch
@@ -21956,7 +21952,6 @@ hauskauf-wbg-nordwestschweiz.ch
 hauskauf.ch
 hauskaufbasel.ch
 hauskaufcheck.ch
-hauskaufen-schweiz.ch
 hauskaufen-solothurn.ch
 hauskaufen.ch
 hauskaufenaargau.ch

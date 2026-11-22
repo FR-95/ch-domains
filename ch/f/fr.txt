@@ -1139,7 +1139,6 @@ framesi.ch
 framesoft.ch
 framesta.ch
 framester.ch
-framestory.ch
 framesurf.ch
 frametech.ch
 frametheworld.ch
@@ -4008,7 +4007,6 @@ frauen-von-zug.ch
 frauen-waehlen.ch
 frauen-walchwil.ch
 frauen-wald.ch
-frauen-weg.ch
 frauen-wellness.ch
 frauen-werk-statt.ch
 frauen-wuerenlingen.ch
@@ -6301,6 +6299,7 @@ fredibuchli.ch
 fredibuechler.ch
 fredibuerkler.ch
 fredic.ch
+frediferrari.ch
 fredifrueh.ch
 fredigut.ch
 fredihurschler.ch
@@ -6697,7 +6696,6 @@ free-videos.ch
 free-vision.ch
 free-voices.ch
 free-walking-tour.ch
-free-water.ch
 free-wifi-providers.ch
 free-wifi.ch
 free-wlan.ch
@@ -9505,6 +9503,7 @@ freihof24.ch
 freihofag.ch
 freihofapartments.ch
 freihofapp.ch
+freihofengi.ch
 freihofer-bauingenieure.ch
 freihofer-ingenieure.ch
 freihofer.ch
@@ -9910,7 +9909,6 @@ freiraum-werbeagentur.ch
 freiraum-werbung.ch
 freiraum-widnau.ch
 freiraum-winterthur.ch
-freiraum-yoga.ch
 freiraum-zentrum.ch
 freiraum-zh.ch
 freiraum-zone.ch
@@ -11565,6 +11563,7 @@ freshprocess.ch
 freshproduct.ch
 freshpropy.ch
 freshqreen.ch
+freshride.ch
 freshroots.ch
 freshsalad.ch
 freshsalads.ch
@@ -13050,6 +13049,7 @@ fribourgnaturo.ch
 fribourgnet.ch
 fribourgnetwork.ch
 fribourgopen.ch
+fribourgpanneauxsolaires.ch
 fribourgpartner.ch
 fribourgpartners.ch
 fribourgphotovoltaique.ch
@@ -14725,6 +14725,7 @@ friki.ch
 frikla.ch
 friko-mechanik.ch
 friko.ch
+frikoer.ch
 frikoma.ch
 friky.ch
 fril.ch

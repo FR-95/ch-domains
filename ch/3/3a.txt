@@ -4,6 +4,7 @@
 3a-3b-vorsorge.ch
 3a-3b.ch
 3a-adligenswil.ch
+3a-alarm.ch
 3a-altersvorsorge.ch
 3a-analyse.ch
 3a-automobile.ch
@@ -19,8 +20,10 @@
 3a-coach.ch
 3a-composites.ch
 3a-einkauf.ch
+3a-einkaufsrechner.ch
 3a-electro.ch
 3a-elektro.ch
+3a-endspurt.ch
 3a-experten.ch
 3a-fahrzeugtechnik.ch
 3a-fonds.ch
@@ -34,6 +37,7 @@
 3a-konto.ch
 3a-lebensversicherung.ch
 3a-lieferwagen.ch
+3a-luecke.ch
 3a-media.ch
 3a-mit-cashback.ch
 3a-nachzahlung.ch
@@ -41,6 +45,7 @@
 3a-optimierer.ch
 3a-optimierung.ch
 3a-poker.ch
+3a-police.ch
 3a-pontresina.ch
 3a-projekt.ch
 3a-pruefen.ch
@@ -57,7 +62,9 @@
 3a-simple.ch
 3a-solar-anfrage.ch
 3a-solar.ch
+3a-staffeln.ch
 3a-start.ch
+3a-steuerrechner.ch
 3a-technik.ch
 3a-transporter.ch
 3a-velomech.ch
@@ -71,6 +78,7 @@
 3a-vorsorgekonto.ch
 3a-zinsvergleich.ch
 3a-zug.ch
+3a2027.ch
 3a24.ch
 3a3.ch
 3a3b.ch

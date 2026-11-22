@@ -677,6 +677,7 @@ ai-newmail.ch
 ai-news.ch
 ai-next.ch
 ai-nomus.ch
+ai-notetaker.ch
 ai-nova.ch
 ai-now.ch
 ai-observatory.ch
@@ -835,7 +836,6 @@ ai-scribes.ch
 ai-se.ch
 ai-sear.ch
 ai-search-optimization.ch
-ai-search.ch
 ai-sec.ch
 ai-secure.ch
 ai-security-consultant.ch
@@ -6477,6 +6477,7 @@ aistbv.ch
 aiste.ch
 aistealsyourjob.ch
 aisteel.ch
+aistein.ch
 aisterpiece.ch
 aisterpiecestudios.ch
 aisteru.ch

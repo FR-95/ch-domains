@@ -497,6 +497,7 @@ ns.willmann.ch
 ns.woody.ch
 ns.wsbox.ch
 ns.wuwang.ch
+ns.wv2.ch
 ns.wyna.ch
 ns.xirrus.ch
 ns.xmc.ch
@@ -987,7 +988,6 @@ ns1.bellini.ch
 ns1.bellinzonaweb.ch
 ns1.bemo.ch
 ns1.benando.ch
-ns1.benjm.ch
 ns1.bennoschaub.ch
 ns1.benzinger.ch
 ns1.bergerhome.ch
@@ -1192,6 +1192,7 @@ ns1.cfarm.ch
 ns1.cgicorner.ch
 ns1.cgps.ch
 ns1.ch
+ns1.ch-dyndns.ch
 ns1.chabbeypiller.ch
 ns1.chalet-schuetzenacker.ch
 ns1.chaoswit.ch
@@ -1493,6 +1494,7 @@ ns1.domains.ch
 ns1.domig-informatik.ch
 ns1.door-42.ch
 ns1.dosim.ch
+ns1.dossierfurruckerstattungsantrag.ch
 ns1.dotcon.ch
 ns1.dotnethosting.ch
 ns1.douceane.ch
@@ -1825,6 +1827,7 @@ ns1.girizza.ch
 ns1.girra.ch
 ns1.gj-fenster.ch
 ns1.gjonifenster.ch
+ns1.gk01.ch
 ns1.gk02.ch
 ns1.gl-renovations.ch
 ns1.gl.ch
@@ -2478,6 +2481,7 @@ ns1.markethiq.ch
 ns1.marketingfire.ch
 ns1.marktideen.ch
 ns1.marktkreisel.ch
+ns1.markuselmerit.ch
 ns1.marlise-gerteis.ch
 ns1.marm8.ch
 ns1.marranchelli.ch
@@ -2841,7 +2845,6 @@ ns1.pagemacher.ch
 ns1.pageup.ch
 ns1.pamplemousse.ch
 ns1.pandapic.ch
-ns1.pannel.ch
 ns1.panthere.ch
 ns1.pape-messebau.ch
 ns1.papenetdns.ch
@@ -3155,6 +3158,7 @@ ns1.rson.ch
 ns1.rtk.ch
 ns1.rtpdns.ch
 ns1.rubansdor.ch
+ns1.ruckerstattungsdossier.ch
 ns1.ruckzuck-design.ch
 ns1.rundb.ch
 ns1.rutishauser.ch
@@ -3555,7 +3559,6 @@ ns1.tespasseul.ch
 ns1.testasecus.ch
 ns1.testing-beauty-secret.ch
 ns1.tetras.ch
-ns1.thamilar.ch
 ns1.thebc.ch
 ns1.thesky.ch
 ns1.thhp.ch
@@ -3935,6 +3938,7 @@ ns1.zelliversum.ch
 ns1.zem-emc.ch
 ns1.zen-rollers.ch
 ns1.zenis.ch
+ns1.zentrumfurerstattungsunterlagen.ch
 ns1.zenvoo.ch
 ns1.zerodemo.ch
 ns1.zerolegacy.ch
@@ -4004,6 +4008,7 @@ ns1291.patriot.ch
 ns1291.patriota.ch
 ns13.blthrs.ch
 ns13.dnsserver.ch
+ns13.ggte.ch
 ns13.nte.ch
 ns13.ocac.ch
 ns13.wuschl.ch
@@ -4302,7 +4307,6 @@ ns2.bellini.ch
 ns2.bellinzonaweb.ch
 ns2.bemo.ch
 ns2.benando.ch
-ns2.benjm.ch
 ns2.bennoschaub.ch
 ns2.benzinger.ch
 ns2.bergerhome.ch
@@ -4612,6 +4616,7 @@ ns2.core2.ch
 ns2.corebit.ch
 ns2.corela.ch
 ns2.coretify.ch
+ns2.cortellini.ch
 ns2.cortex-it.ch
 ns2.coserv.ch
 ns2.cozytren.ch
@@ -4785,6 +4790,7 @@ ns2.domains.ch
 ns2.domig-informatik.ch
 ns2.door-42.ch
 ns2.dosim.ch
+ns2.dossierfurruckerstattungsantrag.ch
 ns2.dotcon.ch
 ns2.dotnethosting.ch
 ns2.douceane.ch
@@ -5107,6 +5113,7 @@ ns2.gionatabernasconi.ch
 ns2.girardetlaw.ch
 ns2.gj-fenster.ch
 ns2.gjonifenster.ch
+ns2.gk01.ch
 ns2.gk02.ch
 ns2.gl-renovations.ch
 ns2.gl.ch
@@ -5735,6 +5742,7 @@ ns2.markethiq.ch
 ns2.marketingfire.ch
 ns2.marktideen.ch
 ns2.marktkreisel.ch
+ns2.markuselmerit.ch
 ns2.marm8.ch
 ns2.marranchelli.ch
 ns2.marscom-web.ch
@@ -6069,7 +6077,6 @@ ns2.paduser.ch
 ns2.pageconcept.ch
 ns2.pagecontrol.ch
 ns2.pagemacher.ch
-ns2.pannel.ch
 ns2.pape-messebau.ch
 ns2.papenetdns.ch
 ns2.paraplegie.ch
@@ -6370,6 +6377,7 @@ ns2.rson.ch
 ns2.rtk.ch
 ns2.rtpdns.ch
 ns2.rubansdor.ch
+ns2.ruckerstattungsdossier.ch
 ns2.ruckzuck-design.ch
 ns2.rundb.ch
 ns2.rxr.ch
@@ -6601,7 +6609,6 @@ ns2.spinazze.ch
 ns2.sponsoring24.ch
 ns2.sprachnachweis.ch
 ns2.sputniks.ch
-ns2.srhdns.ch
 ns2.sry-myls.ch
 ns2.sscloud.ch
 ns2.stabilionet.ch
@@ -6770,7 +6777,6 @@ ns2.teraline.ch
 ns2.tespasseul.ch
 ns2.testasecus.ch
 ns2.testing-beauty-secret.ch
-ns2.thamilar.ch
 ns2.the2ndsky.ch
 ns2.thedearfoundation.ch
 ns2.theswissbay.ch
@@ -7131,6 +7137,7 @@ ns2.zelliversum.ch
 ns2.zem-emc.ch
 ns2.zen-rollers.ch
 ns2.zenis.ch
+ns2.zentrumfurerstattungsunterlagen.ch
 ns2.zenvoo.ch
 ns2.zerolegacy.ch
 ns2.zerspanungspartner.ch
@@ -7171,6 +7178,7 @@ ns21.edvl.ch
 ns21.mentras.ch
 ns22.edvl.ch
 ns22.runway.ch
+ns220.ggte.ch
 ns23.interdns.ch
 ns24.ch
 ns2501.mspa.ch
@@ -7262,7 +7270,6 @@ ns3.belke-bodenbelaege.ch
 ns3.bellinzonaweb.ch
 ns3.bemo.ch
 ns3.benando.ch
-ns3.benjm.ch
 ns3.bensolution.ch
 ns3.bergerhome.ch
 ns3.bergnetz.ch
@@ -7873,7 +7880,6 @@ ns3.tardis.ch
 ns3.telemedia.ch
 ns3.teletech.ch
 ns3.tellsstudio.ch
-ns3.thamilar.ch
 ns3.the2ndsky.ch
 ns3.thedearfoundation.ch
 ns3.therivervillage.ch
@@ -8013,7 +8019,6 @@ ns4.belezademais.ch
 ns4.bellinzonaweb.ch
 ns4.benando.ch
 ns4.benizzi.ch
-ns4.benjm.ch
 ns4.bensolution.ch
 ns4.bigweb.ch
 ns4.boffo-net.ch

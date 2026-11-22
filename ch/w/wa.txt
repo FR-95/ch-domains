@@ -37,7 +37,6 @@ wa-update.ch
 wa-watchacademy.ch
 wa-wheels.ch
 wa-wo-ko.ch
-wa-wrapping.ch
 wa1ser.ch
 wa21.ch
 wa24.ch
@@ -2873,6 +2872,7 @@ wail.ch
 wailamawai.ch
 wailea.ch
 wailers.ch
+wailingmamas.ch
 waily.ch
 waimaa.ch
 waimana.ch
@@ -6141,7 +6141,6 @@ wallpainting.ch
 wallpaper-area.ch
 wallpaper-paradise.ch
 wallpaper.ch
-wallpaperfactory.ch
 wallpapermural.ch
 wallpaperparadise.ch
 wallpapers.ch
@@ -8765,7 +8764,6 @@ wappenkommission.ch
 wappenkunde.ch
 wappenring-lounge.ch
 wappenring.ch
-wappensammlung-pro.ch
 wappensammlung.ch
 wappenscheiben.ch
 wappenvonhamburg.ch
@@ -10091,7 +10089,6 @@ wasgiwo.ch
 wasgiz.ch
 wasgizh.ch
 wasglaubschdenndu.ch
-wasgoht.ch
 wasgohtab.ch
 wasgotab.ch
 wasgugschdu.ch
@@ -10158,7 +10155,6 @@ washcloud.ch
 washconcept.ch
 washconnects.ch
 washcorner-basel.ch
-washdo.ch
 washdog.ch
 washdogassens.ch
 washdoggland.ch
@@ -12755,6 +12751,7 @@ waterville-management.ch
 watervital.ch
 waterwake.ch
 waterwalk.ch
+waterwall.ch
 waterwash.ch
 waterwave-schweiz.ch
 waterwave-spas.ch

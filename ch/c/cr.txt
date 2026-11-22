@@ -370,7 +370,6 @@ craftify.ch
 craftigo.ch
 craftimpact.ch
 craftinclay.ch
-crafting-cube.ch
 crafting-futures.ch
 crafting.ch
 craftingclub.ch
@@ -1243,6 +1242,7 @@ craniopriska.ch
 cranioprobieren.ch
 craniopuls.ch
 craniora.ch
+cranioraum-mittelland.ch
 cranioraum-rheintal.ch
 cranioraum.ch
 cranioregulation.ch
@@ -1953,7 +1953,6 @@ crazy-school.ch
 crazy-shakers.ch
 crazy-shirt.ch
 crazy-shop.ch
-crazy-souls.ch
 crazy-sports.ch
 crazy-store.ch
 crazy-tattoos.ch
@@ -4163,6 +4162,7 @@ creativcoach.ch
 creativcoaching.ch
 creativcoiffeur.ch
 creativcolor.ch
+creativcorine.ch
 creativdesign.ch
 creativdiscount.ch
 creative-3d.ch
@@ -5270,7 +5270,6 @@ credent.ch
 credentia.ch
 credential.ch
 credentialinfosec.ch
-credentials.ch
 credentialtoolkit.ch
 credentis.ch
 credenza.ch
@@ -5469,7 +5468,6 @@ creditanstalt.ch
 creditas.ch
 creditauto.ch
 creditavenue.ch
-creditaz.ch
 creditbank.ch
 creditbanking.ch
 creditbit.ch
@@ -5547,7 +5545,6 @@ creditinkasso.ch
 creditinsurance.ch
 creditionline.ch
 creditiprivati.ch
-creditiz.ch
 creditjaune.ch
 creditlife.ch
 creditline.ch
@@ -8147,7 +8144,6 @@ crocodille.ch
 crocodino.ch
 crocodoo.ch
 crocodyle.ch
-crocogpt.ch
 crocokid.ch
 crocolions.ch
 crocoll.ch
@@ -10098,6 +10094,7 @@ cruise-zone.ch
 cruise.ch
 cruise1.ch
 cruisea.ch
+cruiseahoy.ch
 cruiseandferry.ch
 cruiseandferrycenter.ch
 cruiseandgolf.ch
@@ -10588,6 +10585,7 @@ cryotherapylife.ch
 cryotherm.ch
 cryothermo.ch
 cryotrucks.ch
+cryoutmusic.ch
 cryovac.ch
 cryoware.ch
 cryoweb.ch
@@ -11002,7 +11000,6 @@ cryptochocolate.ch
 cryptocircle.ch
 cryptoclips.ch
 cryptocloud.ch
-cryptoclub.ch
 cryptocoa.ch
 cryptocoach-pro.ch
 cryptocoach.ch

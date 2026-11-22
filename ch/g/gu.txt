@@ -901,7 +901,6 @@ guenstig-energie.ch
 guenstig-essen.ch
 guenstig-fluege.ch
 guenstig-gebucht.ch
-guenstig-golfen.ch
 guenstig-heizen.ch
 guenstig-hoeren.ch
 guenstig-kopierpapier.ch
@@ -5180,6 +5179,7 @@ gutefreunde.ch
 gutefreundin.ch
 gutefrisur.ch
 gutefuehrung.ch
+gutefundstuecke.ch
 gutegartenerde.ch
 gutegeister.ch
 gutegeschaefte.ch

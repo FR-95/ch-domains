@@ -2237,7 +2237,6 @@ beatrice-buergi-consulting.ch
 beatrice-c.ch
 beatrice-coiffure.ch
 beatrice-croisier.ch
-beatrice-dipizzo.ch
 beatrice-donati.ch
 beatrice-ducommun.ch
 beatrice-egli-zuhaus.ch
@@ -3740,6 +3739,7 @@ beautyai.ch
 beautyakademieswiss.ch
 beautyaleyna.ch
 beautyalliance.ch
+beautyalltag.ch
 beautyalvita.ch
 beautyampulle.ch
 beautyandaura.ch
@@ -3794,7 +3794,6 @@ beautyartbymichelle.ch
 beautyartcansin.ch
 beautyartdelena-institut.ch
 beautyartist-inesloudres.ch
-beautyartistic.ch
 beautyartistinesloudres.ch
 beautyartpro.ch
 beautyarts.ch
@@ -7817,6 +7816,7 @@ beet-nut.ch
 beet-root.ch
 beet-shot.ch
 beet.ch
+beetario.ch
 beetattoo.ch
 beetax.ch
 beetbuddy.ch
@@ -9108,6 +9108,7 @@ behutet-entspannen.ch
 behutsam-gebunden.ch
 behutsam.ch
 behv.ch
+behzadi.ch
 bei-artur.ch
 bei-bangis.ch
 bei-bridge.ch
@@ -9539,6 +9540,7 @@ beizerei.ch
 beizereibolli-shop.ch
 beizereibolli.ch
 beizetour.ch
+beizi.ch
 beizihof.ch
 beizjagd.ch
 beizkarte.ch
@@ -10892,7 +10894,6 @@ bella-napoli-altstaetten.ch
 bella-originella.ch
 bella-pelle.ch
 bella-pizza.ch
-bella-pizzeria.ch
 bella-pur.ch
 bella-riva.ch
 bella-secondhand.ch
@@ -11321,7 +11322,6 @@ bellawerde.ch
 bellawiese.ch
 bellawork.ch
 bellayservices.ch
-bellazia.ch
 bellazio.ch
 bellazza.ch
 bellazzo.ch
@@ -12090,6 +12090,7 @@ bellinzonaeventi.ch
 bellinzonagreen.ch
 bellinzonalifestyle.ch
 bellinzonamasterplan.ch
+bellinzonapannellisolari.ch
 bellinzonarockets.ch
 bellinzonascherma.ch
 bellinzonaspitex.ch
@@ -12328,6 +12329,7 @@ belluna-shop.ch
 belluna.ch
 bellunahome.ch
 bellupus.ch
+bellura.ch
 bellurbis.ch
 bellus.ch
 belluscio.ch
@@ -16130,6 +16132,7 @@ beo-print.ch
 beo-produkte.ch
 beo-racing.ch
 beo-radio.ch
+beo-rally.ch
 beo-rb.ch
 beo-sattler.ch
 beo-saugbagger.ch
@@ -18576,6 +18579,7 @@ bergfuehrerwilly.ch
 bergfuehrungen.ch
 bergfuerst.ch
 bergfuersten.ch
+bergfund.ch
 bergfunk.ch
 bergfunker.ch
 bergfussball-em.ch
@@ -19259,6 +19263,7 @@ bergplus.ch
 bergpluscoach.ch
 bergpolitik.ch
 bergportal.ch
+bergpost.ch
 bergpostkarten.ch
 bergpower.ch
 bergpraxis-animal.ch
@@ -20332,7 +20337,6 @@ bern-altstadt.ch
 bern-anwaelte.ch
 bern-anwalt.ch
 bern-app.ch
-bern-architekt.ch
 bern-architekten.ch
 bern-art.ch
 bern-arts.ch
@@ -21014,6 +21018,7 @@ bernaugmbh.ch
 bernauktionen.ch
 bernautoankauf.ch
 bernautoexport.ch
+bernautogarage.ch
 bernaviatik.ch
 bernaville.ch
 bernavista.ch
@@ -22970,6 +22975,7 @@ bernwalking.ch
 bernwalkingtour.ch
 bernwalkingtours.ch
 bernward-doelle.ch
+bernwasserschaden.ch
 bernweb.ch
 bernwebdesign.ch
 bernwelcome.ch
@@ -25199,6 +25205,7 @@ besozzi.ch
 bespace.ch
 bespacegroup.ch
 bespacerealestate.ch
+bespannen.ch
 bespannservice.ch
 bespannung-service.ch
 bespannung-tennisschlaeger.ch
@@ -33827,7 +33834,6 @@ beyondthehorizon.ch
 beyondthehustle.ch
 beyondthelabel.ch
 beyondthelens.ch
-beyondthelimit.ch
 beyondthelines.ch
 beyondthemenu.ch
 beyondthemirror.ch
@@ -33900,7 +33906,6 @@ beyou-humandesign.ch
 beyou-hypnose.ch
 beyou-living.ch
 beyou-lye.ch
-beyou-magazine.ch
 beyou-med.ch
 beyou-now.ch
 beyou-space.ch
@@ -34366,6 +34371,7 @@ bezsolutions.ch
 bezu-immobilien.ch
 bezug.ch
 bezugsfertig.ch
+bezugsplanung.ch
 bezugspunkt.ch
 bezugsquelle.ch
 bezugsstoff.ch

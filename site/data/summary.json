@@ -1804,5 +1804,11 @@
     "registered": 1023,
     "deregistered": 530,
     "total": 2676956
+  },
+  {
+    "date": "2026-11-23",
+    "registered": 1126,
+    "deregistered": 571,
+    "total": 2677511
   }
 ]

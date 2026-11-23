@@ -776,7 +776,6 @@ etf-award.ch
 etf-broker-vergleich.ch
 etf-depot.ch
 etf-ffg2013.ch
-etf-ffg2025.ch
 etf-finder.ch
 etf-inside.ch
 etf-investor.ch
@@ -795,7 +794,6 @@ etf-suche.ch
 etf-vergleich.ch
 etf-vorsorge.ch
 etf1x1.ch
-etf2025.ch
 etf24.ch
 etf31.ch
 etf3a.ch
@@ -818,7 +816,6 @@ etfinfo.ch
 etfinvestor.ch
 etfinvestors.ch
 etflab.ch
-etflausanne2025.ch
 etfli.ch
 etflogistics.ch
 etfmandat.ch
@@ -1472,7 +1469,6 @@ ethx.ch
 ethy.ch
 ethylo.ch
 ethylos.ch
-ethylotest.ch
 ethyos.ch
 ethypharm.ch
 ethyra.ch

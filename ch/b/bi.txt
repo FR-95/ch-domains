@@ -2062,7 +2062,6 @@ bidworks.ch
 bidx.ch
 bidy.ch
 bidynamics.ch
-bidzeno.ch
 bidzli.ch
 bie-sa.ch
 bie-shimuna.ch
@@ -2748,6 +2747,7 @@ bienenkollektiv.ch
 bienenkompetenzzentrum.ch
 bienenkorb.ch
 bienenkosmetik.ch
+bienenkosmos-tennjen.ch
 bienenkraft.ch
 bienenkraftwerk.ch
 bienenlaedchen.ch
@@ -3257,7 +3257,6 @@ bier-offerten.ch
 bier-onlineshop.ch
 bier-pro-bier.ch
 bier-profi.ch
-bier-schiff.ch
 bier-schnorchel.ch
 bier-schwemme.ch
 bier-selber-brauen.ch
@@ -5284,7 +5283,6 @@ bigpizza.ch
 bigpizzaallocrepes-neuchatel.ch
 bigpizzaconcept.ch
 bigpizzalachaux-de-fonds.ch
-bigpizzayv.ch
 bigplakat.ch
 bigplay.ch
 bigplayer.ch
@@ -6090,6 +6088,7 @@ bike-station.ch
 bike-stellen.ch
 bike-store-rheinfelden.ch
 bike-store.ch
+bike-support.ch
 bike-surselva.ch
 bike-surses.ch
 bike-sursesalbula.ch
@@ -7146,6 +7145,7 @@ bikestudio.ch
 bikestyle.ch
 bikestyling.ch
 bikesummit.ch
+bikesupport.ch
 bikesurance.ch
 bikesurselva.ch
 bikesurses.ch
@@ -7537,6 +7537,7 @@ bilanquantique.ch
 bilans.ch
 bilansante.ch
 bilansanteenligne.ch
+bilanse.ch
 bilansthermiques.ch
 bilanswissleaders.ch
 bilantis.ch
@@ -9572,7 +9573,6 @@ billiger-gesund.ch
 billiger-gutachten.ch
 billiger-kredit.ch
 billiger-kreuzfahrten.ch
-billiger-lampen.ch
 billiger-max.ch
 billiger-mietwagen.ch
 billiger-monteurzimmer.ch
@@ -9753,6 +9753,7 @@ billogram.ch
 billoimbach.ch
 billomat.ch
 billonaut.ch
+billoplus.ch
 billospizza.ch
 billotais.ch
 billow.ch
@@ -11389,6 +11390,7 @@ binokyo.ch
 binologie.ch
 binom.ch
 binomaler.ch
+binome-humain-chien.ch
 binome.ch
 binomebusiness.ch
 binomeplus.ch
@@ -11424,7 +11426,6 @@ bins.ch
 binsacca.ch
 binsack.ch
 binsandboxes.ch
-binschellisdiesunddas.ch
 binschwanger.ch
 binsec.ch
 binseva.ch
@@ -17237,6 +17238,7 @@ biroll.ch
 biroma.ch
 biromabmx.ch
 biron.ch
+bironcorps.ch
 bironsa.ch
 birosa-shop.ch
 birosa.ch
@@ -19304,6 +19306,7 @@ bitcoincrowdfunding.ch
 bitcoincrypto.ch
 bitcoincustodian.ch
 bitcoindate.ch
+bitcoindaytrader.ch
 bitcoindeal.ch
 bitcoindealer.ch
 bitcoindefi.ch
@@ -20112,9 +20115,6 @@ bitschmiede.ch
 bitschnau-kardio.ch
 bitschnau.ch
 bitschool.ch
-bitschprotein.ch
-bitschwasser.ch
-bitschwater.ch
 bitscript.ch
 bitsdream.ch
 bitsdrinks.ch

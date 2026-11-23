@@ -2555,7 +2555,6 @@ schachfestivalbasel.ch
 schachfiguren.ch
 schachfrauenfeld.ch
 schachfreundethun.ch
-schachgenie.ch
 schachgesellschaft-luzern.ch
 schachgesellschaft.ch
 schachinfo.ch
@@ -3619,7 +3618,6 @@ schaf-und-mehr.ch
 schaf-ziegen-krankheiten.ch
 schaf.ch
 schafalp.ch
-schafart.ch
 schafatelier.ch
 schafbauer.ch
 schafberg.ch
@@ -5362,7 +5360,6 @@ schaukeltier.ch
 schaukeltiere.ch
 schaukeltuch.ch
 schaukelverein.ch
-schaukiste.ch
 schaulager-medientechnik.ch
 schaulager.ch
 schaulager405.ch
@@ -9049,6 +9046,7 @@ schipfe51.ch
 schipfecapital.ch
 schipfels.ch
 schipfeni.ch
+schipferhof.ch
 schipferhofladen.ch
 schipflinger.ch
 schipi.ch
@@ -9140,7 +9138,6 @@ schiro.ch
 schirobau.ch
 schirocco.ch
 schiroll.ch
-schirona.ch
 schirotransporte.ch
 schirrma.ch
 schirrmacher.ch
@@ -16630,7 +16627,6 @@ schneider-weber.ch
 schneider-weisse.ch
 schneider-wohler.ch
 schneider-wohnbau.ch
-schneider-wolleb.ch
 schneider-wuerenlingen.ch
 schneider-zg.ch
 schneider-zilan.ch
@@ -17026,7 +17022,6 @@ schnell-consulting.ch
 schnell-detektive.ch
 schnell-drucken.ch
 schnell-effektiv-abnehmen.ch
-schnell-enx.ch
 schnell-fahrer.ch
 schnell-fit.ch
 schnell-friends.ch
@@ -18027,6 +18022,7 @@ schnuuffitness.ch
 schnuufi.ch
 schnuufit.ch
 schnuuflight.ch
+schnuufruum.ch
 schnuufschuel.ch
 schnuutlis.ch
 schnuuuuz.ch
@@ -20316,6 +20312,7 @@ schpakanos.ch
 schparz.ch
 schpazz.ch
 schpb.ch
+schpeiss.ch
 schpektakel.ch
 schpektakelvaduz.ch
 schpeli.ch
@@ -22756,6 +22753,7 @@ schrubber24.ch
 schrubby.ch
 schrube-schwiz.ch
 schrube.ch
+schruber.ch
 schruberbude.ch
 schruberei.ch
 schruberstube.ch
@@ -22973,6 +22971,7 @@ schucatec.ch
 schuch-it.ch
 schuch-werbung.ch
 schuch.ch
+schuchen.ch
 schuchert.ch
 schuchi.ch
 schuchichaestli.ch
@@ -30274,6 +30273,7 @@ schweizer-deutsch.ch
 schweizer-dev.ch
 schweizer-development.ch
 schweizer-developpement.ch
+schweizer-dialekt-uebersetzer.ch
 schweizer-diamant.ch
 schweizer-diamanten.ch
 schweizer-dienstleister.ch
@@ -30761,7 +30761,6 @@ schweizer-medtech.ch
 schweizer-mehl.ch
 schweizer-meister.ch
 schweizer-meisterschaft.ch
-schweizer-meldestelle.ch
 schweizer-messebau.ch
 schweizer-messen.ch
 schweizer-messer-24.ch
@@ -31075,6 +31074,7 @@ schweizer-strohmuseum.ch
 schweizer-strom.ch
 schweizer-studienportal.ch
 schweizer-studienregister.ch
+schweizer-stuhl.ch
 schweizer-suesskartoffel.ch
 schweizer-suesskartoffeln.ch
 schweizer-superfood.ch
@@ -31197,6 +31197,7 @@ schweizer-vertretungen.ch
 schweizer-verwaltungsakademie.ch
 schweizer-vm.ch
 schweizer-volk.ch
+schweizer-vorlagen.ch
 schweizer-vorlesetag.ch
 schweizer-vorsorge.ch
 schweizer-vpc.ch
@@ -32270,7 +32271,6 @@ schweizermeisterschaft-dressur.ch
 schweizermeisterschaft.ch
 schweizermeisterschaftdressur.ch
 schweizermeisterschaftspringen.ch
-schweizermeldestelle.ch
 schweizermessebau.ch
 schweizermesser-24.ch
 schweizermesser-shop.ch
@@ -35807,7 +35807,6 @@ scmatthey.ch
 scmb-chur.ch
 scmb.ch
 scmbaupartner.ch
-scmbre.ch
 scmc-consulting.ch
 scmc.ch
 scmcd.ch
@@ -38194,6 +38193,7 @@ sculpt.ch
 sculpta.ch
 sculptandburn.ch
 sculptandchill.ch
+sculptandmotion.ch
 sculptart.ch
 sculptclub.ch
 sculptclubpilates.ch

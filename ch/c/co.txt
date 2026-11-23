@@ -815,6 +815,7 @@ coacharnaud.ch
 coachart.ch
 coacharte.ch
 coachatelier.ch
+coachatlas.ch
 coachatplace.ch
 coachausbildung.ch
 coachautisme.ch
@@ -1675,7 +1676,6 @@ coaching-zueri.ch
 coaching-zuerich.ch
 coaching-zuerichnord.ch
 coaching-zuerichsee.ch
-coaching-zumbrunn.ch
 coaching-zurich.ch
 coaching-zurichnord.ch
 coaching.ch
@@ -2164,7 +2164,6 @@ coachingzone.ch
 coachingzuerich.ch
 coachingzuerichnord.ch
 coachingzug.ch
-coachingzumbrunn.ch
 coachingzurich.ch
 coachingzurichsee.ch
 coachingzweipunktnull.ch
@@ -3661,7 +3660,6 @@ codable.ch
 codac.ch
 codacore.ch
 codact.ch
-codafalgan.ch
 codafe.ch
 codafish.ch
 codag.ch
@@ -3794,7 +3792,6 @@ code-switzerland.ch
 code-to-web.ch
 code-v.ch
 code-werk.ch
-code-werkstatt.ch
 code-works.ch
 code-worx.ch
 code-x.ch
@@ -5105,6 +5102,8 @@ coffeeclubonboard.ch
 coffeecoachingclub.ch
 coffeecockpit.ch
 coffeecode.ch
+coffeecoding.ch
+coffeecodinggmbh.ch
 coffeecompass.ch
 coffeeconcept-shop.ch
 coffeeconcept.ch
@@ -7051,7 +7050,6 @@ coiffeurkleopatra.ch
 coiffeurkoenig.ch
 coiffeurkosmetik-sabrinavalt.ch
 coiffeurkotas.ch
-coiffeurkoto.ch
 coiffeurkreativwelt.ch
 coiffeurkreuzlingen.ch
 coiffeurkunst-poeschick.ch
@@ -8653,6 +8651,7 @@ cointiger.ch
 cointobit.ch
 cointrace.ch
 cointract.ch
+cointrade.ch
 cointrader.ch
 cointreau.ch
 cointreff.ch
@@ -12163,7 +12162,6 @@ combiplate.ch
 combipool.ch
 combisafe.ch
 combisan.ch
-combiset.ch
 combisteamer.ch
 combisurance.ch
 combit.ch
@@ -13858,6 +13856,7 @@ comms-audit.ch
 comms-check.ch
 comms.ch
 comms4trust.ch
+commsbeat.ch
 commscomm.ch
 commscon.ch
 commscope.ch
@@ -19211,7 +19210,6 @@ conexia-solutions.ch
 conexia.ch
 conexio.ch
 conexion.ch
-conexis.ch
 conexit.ch
 conexium.ch
 conexmarketing.ch
@@ -19584,7 +19582,6 @@ configurator2060.ch
 configuratore-clima.ch
 configuratore2060.ch
 configure-it.ch
-configure.ch
 configurez.ch
 configurix.ch
 confiland.ch
@@ -20502,6 +20499,7 @@ connectcom-networks.ch
 connectcom.ch
 connectconsulting.ch
 connectculture.ch
+connectcyber.ch
 connecte-eglise.ch
 connecte-toit.ch
 connecte-vdt.ch
@@ -20569,6 +20567,7 @@ connecter.ch
 connectergy.ch
 connecteur.ch
 connecteurs.ch
+connecteursimmo.ch
 connectevents.ch
 connectfiber.ch
 connectfleet.ch
@@ -20866,6 +20865,7 @@ connexsys.ch
 connext.ch
 connext41.ch
 connexta.ch
+connextary.ch
 connextconsulting.ch
 connexter.ch
 connextgeneration.ch
@@ -21407,6 +21407,7 @@ consciousreset.ch
 conscioussharenting.ch
 consciousswissinfluencehub.ch
 consciousteaching.ch
+conscioustech.ch
 conscioustechlab.ch
 conscioustouch.ch
 consciousunion.ch
@@ -21474,6 +21475,7 @@ conseil-energie-pme.ch
 conseil-energie.ch
 conseil-energy.ch
 conseil-et-construction.ch
+conseil-federal-jositsch.ch
 conseil-federal.ch
 conseil-financier.ch
 conseil-fiscal.ch
@@ -21591,7 +21593,6 @@ conseiljuridique.ch
 conseiljuridiquehotline.ch
 conseiljuridiquevalais.ch
 conseillegal.ch
-conseiller-colles.ch
 conseiller-financier.ch
 conseiller-fiscal.ch
 conseiller-gazon.ch
@@ -22864,7 +22865,6 @@ consultant-geo.ch
 consultant-ia.ch
 consultant-immobilier.ch
 consultant-informatique.ch
-consultant-innovation.ch
 consultant-jobs.ch
 consultant-la-verticale.ch
 consultant-marketing.ch
@@ -23113,7 +23113,6 @@ consulting-schweiz.ch
 consulting-schweizer.ch
 consulting-services-solioz.ch
 consulting-services.ch
-consulting-sgc.ch
 consulting-si-gasser.ch
 consulting-solutions.ch
 consulting-suisse.ch
@@ -23835,6 +23834,7 @@ conte-claudio.ch
 conte-com.ch
 conte-hockey-cup.ch
 conte-imposition-individuelle.ch
+conte-recoverymassage.ch
 conte-shop.ch
 conte-sports.ch
 conte-treuhand.ch
@@ -23927,6 +23927,7 @@ contemuse.ch
 contena-ochsner.ch
 contena.ch
 contenaochsner.ch
+contenaro.ch
 contency.ch
 contenders.ch
 contendersuisse.ch
@@ -26157,6 +26158,7 @@ cookworking.ch
 cookwus.ch
 cooky.ch
 cookygeneva.ch
+cookygo.ch
 cookyorart.ch
 cookyourlife.ch
 cookyourtrips.ch
@@ -27397,6 +27399,7 @@ copaincanin.ch
 copaincopine-occasion.ch
 copaincopine.ch
 copaindevin.ch
+copaindevoirs.ch
 copaindumatin.ch
 copainfilm.ch
 copains-comme-copeaux.ch
@@ -31805,6 +31808,7 @@ corrige-luzern.ch
 corrige.ch
 corrigeluzern.ch
 corrigena.ch
+corrigendum.ch
 corrigeur.ch
 corrigo.ch
 corris-fundraising.ch
@@ -32022,6 +32026,7 @@ corsivoticino.ch
 corsiyoga.ch
 corsizurigo.ch
 corso-di-rifiuti.ch
+corso-di-sensibilizzazione-ticino.ch
 corso-di-sensibilizzazione.ch
 corso-fcti.ch
 corso-grosshandel.ch
@@ -34683,6 +34688,7 @@ coucou-design.ch
 coucou-les-belles.ch
 coucou-martigny.ch
 coucou-restaurant.ch
+coucou-swiss.ch
 coucouapp.ch
 coucoubox.ch
 coucouc.ch
@@ -34710,6 +34716,7 @@ coucoustudio.ch
 coucousuisse.ch
 coucousushi-sion.ch
 coucousushi.ch
+coucouswiss.ch
 coucoutango.ch
 couda.ch
 coudedurhone.ch
@@ -36685,7 +36692,6 @@ covenbo.ch
 covence.ch
 covendediana.ch
 covendo.ch
-coventa.ch
 coventec.ch
 coventi.ch
 coventina.ch

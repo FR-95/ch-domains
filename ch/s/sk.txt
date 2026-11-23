@@ -1146,8 +1146,6 @@ ski-crosets.ch
 ski-cross.ch
 ski-csqi.ch
 ski-davos.ch
-ski-day.ch
-ski-days.ch
 ski-de-fond.ch
 ski-deal.ch
 ski-deals.ch
@@ -1851,6 +1849,7 @@ skiexpress-basel.ch
 skiexpress-lenzerheide.ch
 skiexpress.ch
 skiexpressandermatt.ch
+skif.ch
 skifab.ch
 skifacile.ch
 skifahren-lernen.ch
@@ -3450,6 +3449,7 @@ skipassion.ch
 skipassonline.ch
 skipasspds.ch
 skipasspdsch.ch
+skipassradar.ch
 skipatrol.ch
 skipera.ch
 skiperformance.ch

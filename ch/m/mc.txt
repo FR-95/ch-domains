@@ -788,8 +788,6 @@ mcdrake.ch
 mcdreamshotels.ch
 mcdrifter.ch
 mcdrogerie.ch
-mcdrogheria.ch
-mcdroguerie.ch
 mcdt.ch
 mcdupont.ch
 mcduschen.ch
@@ -826,7 +824,6 @@ mcemarti.ch
 mcenergie.ch
 mcenergy.ch
 mcenjoyag.ch
-mcentertainment.ch
 mcentral.ch
 mcentralhabitat.ch
 mceo-info.ch
@@ -1546,6 +1543,7 @@ mcpaint.ch
 mcpanel.ch
 mcpaper.ch
 mcpaperland.ch
+mcparkett.ch
 mcparking.ch
 mcpartners.ch
 mcparty.ch

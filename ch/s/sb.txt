@@ -115,6 +115,7 @@ sb-quadsport.ch
 sb-quai-des-bergues-geneve.ch
 sb-railing.ch
 sb-realestate.ch
+sb-recht.ch
 sb-red.ch
 sb-reinigungen.ch
 sb-relations.ch
@@ -294,6 +295,7 @@ sbaudio.ch
 sbauer.ch
 sbaugmbh.ch
 sbaumanns.ch
+sbaumgartner.ch
 sbaupartner.ch
 sbauto.ch
 sbautohaus.ch

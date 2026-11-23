@@ -2407,6 +2407,7 @@ ridert.ch
 riderzh.ch
 rides.ch
 ridesafe.ch
+ridesaver.ch
 ridescanner.ch
 rideselect.ch
 rideshaper.ch
@@ -6113,7 +6114,6 @@ risc.ch
 riscal.ch
 riscaldamenti.ch
 riscaldamentialegna.ch
-riscaldamento-elettrico-moderno.ch
 riscaldamento-infrarossi.ch
 riscaldamento-ticino.ch
 riscaldamento.ch
@@ -7421,6 +7421,7 @@ ristorantepizzeriadafranco.ch
 ristorantepizzeriadavinci.ch
 ristorantepizzeriagasthofkreuz.ch
 ristorantepizzeriagiardino.ch
+ristorantepizzeriagottardo.ch
 ristorantepizzeriahalla.ch
 ristorantepizzeriahorn.ch
 ristorantepizzeriakreuz-mumliswil-ramiswil.ch

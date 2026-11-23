@@ -43,6 +43,7 @@ m212.ch
 m21k.ch
 m21strategy.ch
 m22-ag.ch
+m224.ch
 m225.ch
 m22c.ch
 m22group.ch
@@ -162,11 +163,9 @@ m2o-architecture.ch
 m2o.ch
 m2onit.ch
 m2orthodontie.ch
-m2p-games.ch
 m2p.ch
 m2parkett.ch
 m2pconverge.ch
-m2pgames.ch
 m2pictures.ch
 m2projects.ch
 m2q.ch

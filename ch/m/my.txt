@@ -782,7 +782,6 @@ my-hausinfo.ch
 my-hds.ch
 my-head-spa.ch
 my-head.ch
-my-healt-tracker.ch
 my-health-coach.ch
 my-health-congress.ch
 my-health-family.ch
@@ -1847,6 +1846,7 @@ my-truck.ch
 my-truelens.ch
 my-trufugo.ch
 my-trufuse.ch
+my-trust-fin.ch
 my-trustaccounting.ch
 my-tshirt.ch
 my-tsn.ch
@@ -2612,6 +2612,7 @@ mybaguette.ch
 mybainsromains.ch
 mybait.ch
 mybaker.ch
+mybakery.ch
 mybalance24.ch
 mybalancebasel.ch
 mybalancedlife.ch
@@ -6257,6 +6258,7 @@ myhoermann.ch
 myhof.ch
 myhoff.ch
 myhoflade.ch
+myholdings.ch
 myholenstein.ch
 myholiday.ch
 myholidayhome.ch
@@ -9534,7 +9536,6 @@ myq1.ch
 myq24.ch
 myq4.ch
 myqi.ch
-myqigo.ch
 myqms.ch
 myqo.ch
 myqommunity.ch
@@ -9720,6 +9721,7 @@ myreize-ipl.ch
 myreize-ordering.ch
 myreka.ch
 myrela-nails.ch
+myrelance.ch
 myrelax.ch
 myrelaxglasses.ch
 myrelest.ch
@@ -11058,8 +11060,6 @@ mysterymoment.ch
 mysterynomad.ch
 mysteryout.ch
 mysterypack24.ch
-mysterypaket.ch
-mysterypakete.ch
 mysterypark.ch
 mysterypatient.ch
 mysterypizza.ch
@@ -12107,6 +12107,7 @@ mytimeplan.ch
 mytimer.ch
 mytimes.ch
 mytimetable.ch
+mytimetoshine.ch
 mytimoun.ch
 mytimy.ch
 mytindercoach.ch

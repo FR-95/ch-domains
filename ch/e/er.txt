@@ -1319,6 +1319,7 @@ ereferendum.ch
 erefu.ch
 ereg.ch
 eregion.ch
+eregioncapital.ch
 eregister.ch
 eregistre.ch
 eregistry.ch
@@ -2466,7 +2467,6 @@ ergologics.ch
 ergologo.ch
 ergolutions.ch
 ergoluzern.ch
-ergolyft.ch
 ergolympho.ch
 ergolyse.ch
 ergolyss.ch
@@ -4321,7 +4321,6 @@ erlau-freiraum.ch
 erlau-sanitaer.ch
 erlau.ch
 erlauag.ch
-erlaubnis.ch
 erlaw.ch
 erlbacher.ch
 erlbru.ch
@@ -5556,6 +5555,7 @@ ernen4you.ch
 ernenet.ch
 ernennachtigal.ch
 ernenzauberwald.ch
+erneo.ch
 erneplus.ch
 erner.ch
 ernergarten.ch
@@ -8149,6 +8149,7 @@ erziehungsforum.ch
 erziehungsfragen.ch
 erziehungshilfe.ch
 erziehungsimpulse.ch
+erziehungsklar.ch
 erziehungskompetenz.ch
 erziehungskosmos.ch
 erziehungskunst.ch

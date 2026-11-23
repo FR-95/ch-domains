@@ -725,7 +725,6 @@ bobbel-wolle.ch
 bobbel.ch
 bobbelparadies.ch
 bobbelstern.ch
-bobber.ch
 bobberfra.ch
 bobbi.ch
 bobbia.ch
@@ -2004,6 +2003,7 @@ bodenreiniger.ch
 bodenreinigung.ch
 bodenreinigungen.ch
 bodenreinigungsmaschinen.ch
+bodenreinigungsroboter.ch
 bodenreinigungssystem.ch
 bodenreise.ch
 bodenrenovator.ch
@@ -5913,6 +5913,7 @@ boldis.ch
 boldits.ch
 boldk4.ch
 boldking.ch
+boldlocal.ch
 boldly.ch
 boldlygo.ch
 boldmade.ch
@@ -9096,6 +9097,7 @@ booj.ch
 booja.ch
 boojabooja.ch
 boojakascha.ch
+boojyc.ch
 book-a-boat.ch
 book-a-bubble.ch
 book-a-buddy.ch
@@ -9522,6 +9524,7 @@ bookingx.ch
 bookingyemanja.ch
 bookingzermatt.ch
 bookinh.ch
+bookini.ch
 bookinswitzerland.ch
 bookio.ch
 bookiply.ch
@@ -10075,6 +10078,7 @@ boondi.ch
 boondmanager.ch
 boone.ch
 boonedam.ch
+boonee.ch
 boonel.ch
 boonen.ch
 boongiving.ch
@@ -13803,6 +13807,7 @@ both-and-partners.ch
 both-app.ch
 both-net.ch
 both.ch
+bothana.ch
 bothand.ch
 bothapp.ch
 bothcollection.ch
@@ -13966,7 +13971,6 @@ botsandco.ch
 botsberg-garage.ch
 botsberg.ch
 botsbits.ch
-botscaler.ch
 botschaft-safiental.ch
 botschaft-schutz.ch
 botschaft-sicherheit.ch
@@ -14653,6 +14657,7 @@ boucheries-du-terroir-suisse.ch
 boucheries-neuchatel.ch
 boucheries.ch
 boucheriesanetsch.ch
+boucheriesark.ch
 boucherieschnegg.ch
 boucheriesduterroirsuisse.ch
 boucheriesevery.ch
@@ -14759,7 +14764,6 @@ boudoirfotografie.ch
 boudoirphotograph.ch
 boudoirpro.ch
 boudoirstories.ch
-boudoirswiss.ch
 boudot.ch
 boudrun.ch
 boudry.ch
@@ -16718,6 +16722,7 @@ bowls-aarau.ch
 bowls-jungfrau.ch
 bowls-kandersteg.ch
 bowls-point.ch
+bowls-regio-kandersteg.ch
 bowls-thun.ch
 bowls.ch
 bowlsandbites.ch

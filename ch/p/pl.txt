@@ -1231,6 +1231,7 @@ plancad.ch
 plancal.ch
 plancarchitecture.ch
 plancarchitektur.ch
+plancare.ch
 plancc.ch
 plancenter.ch
 plancerisier.ch
@@ -1922,7 +1923,6 @@ planetpure.ch
 planetray.ch
 planetrc.ch
 planetrealestate.ch
-planetree.ch
 planetreinigung.ch
 planetrentacar.ch
 planetresa.ch
@@ -2975,7 +2975,6 @@ plantzessin.ch
 plantzette.ch
 planuba.ch
 planubo.ch
-planufaktur.ch
 planular.ch
 planum-bau.ch
 planum-int.ch
@@ -4227,7 +4226,6 @@ platte-nach-mass.ch
 platte.ch
 platte14.ch
 platteauit.ch
-plattebanden.ch
 plattech.ch
 plattelaedeli.ch
 platten-ag.ch
@@ -5970,6 +5968,7 @@ plein-air.ch
 plein-centre.ch
 plein-denergie.ch
 plein-des-sens.ch
+plein-est.ch
 plein-lac.ch
 plein-sud.ch
 plein-vent.ch
@@ -7637,6 +7636,7 @@ pluessstudio.ch
 pluesstransporte.ch
 pluesszeitmessung.ch
 pluf.ch
+plufore.ch
 plug-and-bar.ch
 plug-and-call.ch
 plug-and-play.ch
@@ -7981,6 +7981,7 @@ pluris.ch
 pluriselect.ch
 pluriservices.ch
 pluritec.ch
+pluritherapies.ch
 pluriva.ch
 pluriverse.ch
 pluriversum.ch

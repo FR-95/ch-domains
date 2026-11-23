@@ -1091,6 +1091,7 @@ drachenlord.ch
 drachenmacher.ch
 drachenmagier.ch
 drachenmassage.ch
+drachenmond.ch
 drachenmoor.ch
 drachenmut.ch
 drachennest.ch
@@ -4273,6 +4274,7 @@ dressify.ch
 dressimage.ch
 dressimpress.ch
 dressing-copines.ch
+dressing-n.ch
 dressing-sur-mesure.ch
 dressing.ch
 dressingbook.ch
@@ -7980,7 +7982,6 @@ dronic.ch
 dronica.ch
 dronie.ch
 dronies.ch
-droning.ch
 dronipic.ch
 dronistics.ch
 dronium.ch
@@ -9364,6 +9365,7 @@ druckparadies.ch
 druckparts.ch
 druckpatronen.ch
 druckpdf.ch
+druckpilot.ch
 druckplusberatung.ch
 druckpoint.ch
 druckpoint24.ch

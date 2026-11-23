@@ -1092,6 +1092,7 @@ epicureanstore.ch
 epicurebike.ch
 epicureclub.ch
 epicurefood.ch
+epicuregeneve.ch
 epicurelab.ch
 epicurenutrition.ch
 epicureus.ch
@@ -1603,7 +1604,6 @@ eplo.ch
 eploveresse.ch
 epluggs.ch
 eplugnplay.ch
-eplus-dialog.ch
 eplus-elektro.ch
 eplus-elektroplanung.ch
 eplus.ch

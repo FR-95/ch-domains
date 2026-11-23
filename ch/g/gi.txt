@@ -1118,6 +1118,7 @@ gic7.ch
 gica-photo.ch
 gica.ch
 gicacorsiercorseaux.ch
+gicap.ch
 gicarail.ch
 gicco.ch
 gicel-dev.ch
@@ -3735,6 +3736,7 @@ gioiapura.ch
 gioiarenna.ch
 gioiaschmid.ch
 gioiatrasporti.ch
+gioiaundtobias.ch
 gioiavera.ch
 gioiavetterli.ch
 gioiaviso.ch
@@ -4931,7 +4933,6 @@ girardellenberger.ch
 girardent.ch
 girardet-consulting.ch
 girardet.ch
-girardet1170.ch
 girardet1174.ch
 girardetklasse.ch
 girardetlaw.ch
@@ -5188,6 +5189,7 @@ giro-di-primavera.ch
 giro-di-procap.ch
 giro-fashion.ch
 giro-forage.ch
+giro-jet.ch
 giro-sports.ch
 giro-technologies.ch
 giro-tonico.ch
@@ -5502,7 +5504,6 @@ giseleseidel.ch
 giseleundmartin.ch
 giselher.ch
 giseli.ch
-giselistrasse8.ch
 gisella.ch
 gisellafischer.ch
 giselle-beauty.ch
@@ -5788,6 +5789,7 @@ git4.ch
 git4me.ch
 gita-devanthery.ch
 gita-events.ch
+gita-hair-nails.ch
 gita-nails.ch
 gita-productions.ch
 gita-scolastica.ch
@@ -6739,6 +6741,7 @@ gizmo-net.ch
 gizmo.ch
 gizmobies.ch
 gizmodo.ch
+gizmohub.ch
 gizmondo.ch
 gizmoprops.ch
 gizmopx.ch

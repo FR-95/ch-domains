@@ -970,6 +970,7 @@ axiom-projets.ch
 axiom-rfm.ch
 axiom-signature.ch
 axiom-sport.ch
+axiom-tech.ch
 axiom.ch
 axioma.ch
 axiomag.ch

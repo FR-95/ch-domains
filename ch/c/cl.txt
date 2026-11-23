@@ -247,7 +247,6 @@ claire-demo.ch
 claire-duport-sophrologue.ch
 claire-et-gilles.ch
 claire-fontaine.ch
-claire-foret.ch
 claire-friends.ch
 claire-glowbuddy.ch
 claire-hoerdt.ch
@@ -2169,6 +2168,7 @@ claudebuerki.ch
 claudechristophi.ch
 claudechuat.ch
 claudecode.ch
+claudecoding.ch
 claudecriture.ch
 claudedarbellay.ch
 claudedauphin.ch
@@ -4035,7 +4035,6 @@ clean4me.ch
 clean4prof.ch
 clean4u.ch
 clean4you.ch
-clean4you365.ch
 clean4youag.ch
 clean7.ch
 clean9-gesundgeniessen.ch
@@ -4515,6 +4514,7 @@ cleanix.ch
 cleanixreinigungen.ch
 cleanizz.ch
 cleanjack.ch
+cleanjardinage.ch
 cleanjob.ch
 cleanjobs.ch
 cleanjourney.ch
@@ -4589,7 +4589,6 @@ cleanmgt.ch
 cleanmobil.ch
 cleanmobile.ch
 cleanmodz.ch
-cleanmonteiro.ch
 cleanmotion.ch
 cleanmountains.ch
 cleanmove.ch
@@ -4600,7 +4599,6 @@ cleanmycouch.ch
 cleanmydog.ch
 cleanmyhome.ch
 cleanmymac.ch
-cleanmyreviews.ch
 cleanness.ch
 cleannessmanagement.ch
 cleannest.ch
@@ -5463,6 +5461,7 @@ clemencebelloin.ch
 clemencecarrelage.ch
 clemencecordey.ch
 clemencefriedli.ch
+clemencefrossard.ch
 clemenceseydoux.ch
 clemencon-rieser.ch
 clemendine.ch
@@ -9206,6 +9205,7 @@ clorofile-atelier.ch
 clorofile.ch
 clorofilla.ch
 clorox.ch
+clorrow.ch
 clos-arbosson.ch
 clos-aux-moines.ch
 clos-bercher.ch
@@ -9507,7 +9507,6 @@ cloud-1.ch
 cloud-365.ch
 cloud-4-all.ch
 cloud-4-broker.ch
-cloud-42.ch
 cloud-7.ch
 cloud-86.ch
 cloud-9.ch
@@ -12478,6 +12477,7 @@ clubwin.ch
 clubwork.ch
 clubworld.ch
 clubx.ch
+cluby.ch
 clubyverdonboxe.ch
 clubzibu.ch
 clubzone.ch

@@ -347,6 +347,7 @@ ig-pharma-kmu.ch
 ig-pharma.ch
 ig-piazza.ch
 ig-pilatusplatz.ch
+ig-pilzschutz.ch
 ig-post.ch
 ig-poststrasse.ch
 ig-power-to-x.ch
@@ -1096,7 +1097,6 @@ igiftcards.ch
 igiganti.ch
 igilabs.ch
 igim.ch
-igimcs.ch
 igindex.ch
 igindigital.ch
 iging-beratung.ch

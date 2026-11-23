@@ -1608,7 +1608,6 @@ shared-box.ch
 shared-emotions.ch
 shared-hosting.ch
 shared-info-platform.ch
-shared-kitchen.ch
 shared-mobility.ch
 shared-office.ch
 shared-parking.ch
@@ -2663,7 +2662,6 @@ sheila-bachmann.ch
 sheila-kosmetik.ch
 sheila-m-onlineterminbuchung.ch
 sheila-m.ch
-sheila-mamabusiness.ch
 sheila-noelle.ch
 sheila-nunes.ch
 sheila-pellegrino.ch
@@ -3243,7 +3241,6 @@ shetreuhand.ch
 shetty-muehlehof.ch
 shetty.ch
 shettyanvers.ch
-shettydecke.ch
 shettyshop.ch
 shev.ch
 sheva.ch
@@ -3279,6 +3276,7 @@ sheylaspiess.ch
 shezoia.ch
 shezone.ch
 shezoo.ch
+shezthepotter.ch
 shf.ch
 shfashion.ch
 shfc.ch
@@ -4960,7 +4958,6 @@ shirtart.ch
 shirtavenue.ch
 shirtbedrucken.ch
 shirtbello.ch
-shirtboutique.ch
 shirtbox.ch
 shirtbyhand.ch
 shirtcafe.ch
@@ -8334,6 +8331,7 @@ shpovver.ch
 shpower-kidstriathlon.ch
 shpower.ch
 shprehu.ch
+shpresa-beka-pflege.ch
 shprohli.ch
 shprotect.ch
 shpswiss.ch

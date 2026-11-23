@@ -1840,6 +1840,7 @@ keller-roberts.ch
 keller-rohre.ch
 keller-rorbas.ch
 keller-rossi.ch
+keller-roten.ch
 keller-rovertoni.ch
 keller-ruswil.ch
 keller-rutishauser.ch
@@ -3947,6 +3948,7 @@ kerbl.ch
 kerbli.ch
 kerbolton.ch
 kerbside.ch
+kerbstone.ch
 kerbtier.ch
 kerby.ch
 kercher.ch
@@ -4001,6 +4003,7 @@ kerenzerberg-walensee.ch
 kerenzerberg.ch
 kerenzerbergbahn.ch
 kerenzerbergbahnen.ch
+kerenzerberglauf.ch
 kerenzerbergrennen.ch
 kerenzerbergtunnel.ch
 kerenzerbergwalensee.ch

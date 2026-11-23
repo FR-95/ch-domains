@@ -304,6 +304,7 @@ im-seetalpark.ch
 im-seewadel.ch
 im-seidenhof.ch
 im-server.ch
+im-service.ch
 im-sibold.ch
 im-sinda.ch
 im-solidaritaet.ch
@@ -2552,6 +2553,7 @@ imkerei-wicki.ch
 imkerei-wiesenzauber.ch
 imkerei-wilen.ch
 imkerei-willi.ch
+imkerei-winterthur.ch
 imkerei-zimmerberg.ch
 imkerei-zosso.ch
 imkerei-zur-schanze.ch
@@ -2627,6 +2629,7 @@ imkerhandwerk.ch
 imkerhaus.ch
 imkerherz.ch
 imkerhof.ch
+imkerhonig.ch
 imkerhuus.ch
 imkerich.ch
 imkerin.ch
@@ -3167,6 +3170,7 @@ immeuble-etheria.ch
 immeuble-la-praille.ch
 immeuble-montelly.ch
 immeuble-panorama.ch
+immeuble-rendement.ch
 immeuble-simple.ch
 immeuble.ch
 immeubleclarte.ch
@@ -3181,6 +3185,7 @@ immeubles-geneve.ch
 immeubles-invest.ch
 immeubles-jura.ch
 immeubles-neuchatel.ch
+immeubles-rendement.ch
 immeubles-solidaires.ch
 immeubles-valais.ch
 immeubles-vaud.ch
@@ -10552,7 +10557,6 @@ impact-avenches.ch
 impact-avocats.ch
 impact-basel.ch
 impact-baulmes.ch
-impact-beauty.ch
 impact-beratungs-ag.ch
 impact-bible.ch
 impact-biel.ch
@@ -13348,7 +13352,6 @@ imstaeffetli.ch
 imstall.ch
 imstand.ch
 imstande.ch
-imstech.ch
 imstein.ch
 imstepf-anton.ch
 imstepf-dragonstone.ch

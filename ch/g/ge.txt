@@ -602,9 +602,11 @@ gebaeudereinigungbasel.ch
 gebaeudereinigungen.ch
 gebaeudereinigungschweiz.ch
 gebaeudereinigungsexperte.ch
+gebaeudereinigungsroboter.ch
 gebaeudereinigungzuerich.ch
 gebaeuderenovation.ch
 gebaeuderenovationen.ch
+gebaeuderoboter.ch
 gebaeuderueckbau.ch
 gebaeudesanierung.ch
 gebaeudesanierungbern.ch
@@ -1375,7 +1377,6 @@ gebruederbuhler.ch
 gebruederclopath.ch
 gebruederdreifuss.ch
 gebruederegli.ch
-gebruederfankhauser.ch
 gebruederfluryag.ch
 gebruederfrei.ch
 gebruederhr.ch
@@ -2237,8 +2238,10 @@ gedichterstellen.ch
 gedichteschenken.ch
 gedichtezumvergessen.ch
 gedichtring.ch
+gedichtszauber.ch
 gedichtundlicht.ch
 gediegen.ch
+gediga.ch
 gedige.ch
 gedik.ch
 gedil.ch
@@ -7196,6 +7199,7 @@ genaubau.ch
 genaubauaargau.ch
 genaubaubasel.ch
 genaubauschaffhausen.ch
+genaudas.ch
 genaudu.ch
 genaue-zeit.ch
 genauedistanzmessung.ch
@@ -7751,6 +7755,7 @@ generateur-innovation.ch
 generateurdefiches.ch
 generateurmotdepasse.ch
 generating.ch
+generatio.ch
 generation-50plus.ch
 generation-60plus.ch
 generation-7.ch
@@ -8431,7 +8436,6 @@ geneva-dental-lounge.ch
 geneva-dentist-drzaher.ch
 geneva-dev-agency.ch
 geneva-devils.ch
-geneva-diamonds.ch
 geneva-divorce.ch
 geneva-dogs-service.ch
 geneva-driver.ch
@@ -8638,7 +8642,9 @@ genevaacademy.ch
 genevaafricalab.ch
 genevaafricandjcontest.ch
 genevaairport.ch
+genevaairportskitransfer.ch
 genevaairporttransfer.ch
+genevaairporttransfers.ch
 genevaaisummit.ch
 genevaaisummit2027.ch
 genevaarbitration.ch
@@ -8780,6 +8786,7 @@ genevadisputeresolutioncentre.ch
 genevadistributiongroup.ch
 genevadivers.ch
 genevadiving.ch
+genevadivingacademy.ch
 genevadivingschool.ch
 genevadjschool.ch
 genevadmin.ch
@@ -9187,6 +9194,7 @@ genevatrend.ch
 genevatriathlon.ch
 genevatrust.ch
 genevatrusts.ch
+genevatv.ch
 genevauction.ch
 genevaud.ch
 genevaundercover.ch
@@ -17969,6 +17977,7 @@ gestionalefilomarino.ch
 gestionalemondomagico.ch
 gestionaleonline.ch
 gestionaleticino.ch
+gestionali.ch
 gestionalphastress.ch
 gestionandco.ch
 gestionaph.ch
@@ -19455,6 +19464,7 @@ gesundheitspraxis-friesenberg.ch
 gesundheitspraxis-fuer-achtsamsein.ch
 gesundheitspraxis-gassmann.ch
 gesundheitspraxis-geeler.ch
+gesundheitspraxis-geisert.ch
 gesundheitspraxis-graf.ch
 gesundheitspraxis-grichting.ch
 gesundheitspraxis-grob.ch
@@ -20740,6 +20750,7 @@ getgrowee.ch
 geth.ch
 gethair.ch
 gethealthy.ch
+getheimli.ch
 gethelion.ch
 gethelp-gmbh.ch
 gethelp.ch
@@ -21735,6 +21746,7 @@ getuspiezeinigen.ch
 getvalt.ch
 getvantage.ch
 getvantyx.ch
+getvelora.ch
 getvema.ch
 getverba.ch
 getviavestra.ch
@@ -22791,6 +22803,7 @@ gewerbereinigung.ch
 gewerberevision.ch
 gewerberickenbach.ch
 gewerberisch.ch
+gewerberoboter.ch
 gewerberohrdorf.ch
 gewerberohrdorferberg.ch
 gewerberontal.ch
@@ -23355,7 +23368,6 @@ gewuerznudeln.ch
 gewuerzparadies.ch
 gewuerzplanet.ch
 gewuerzprofi.ch
-gewuerzregal.ch
 gewuerzshop.ch
 gewuerztraminer.ch
 gewuerzwelt.ch
@@ -23460,6 +23472,7 @@ gezeitenpanther.ch
 gezeitenraum.ch
 gezeitenuhr.ch
 gezeitum.ch
+gezellig.ch
 gezelligevents.ch
 gezer-verpackungen.ch
 gezerboeden.ch

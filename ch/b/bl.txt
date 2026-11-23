@@ -86,7 +86,6 @@ bl1ck.ch
 bl1ngbl1ng.ch
 bl200.ch
 bl2027.ch
-bl24.ch
 bl26.ch
 bl3.ch
 bl3nd.ch
@@ -979,6 +978,8 @@ blackheart.ch
 blackheartdesign.ch
 blackheartpiercing.ch
 blackhearttattoo.ch
+blackhedge.ch
+blackhedgepartners.ch
 blackhelvetia.ch
 blackhill.ch
 blackhistory.ch
@@ -2218,6 +2219,7 @@ bland.ch
 blanda-projects.ch
 blandas-reinigung.ch
 blandenier.ch
+blandi.ch
 blandindelloye.ch
 blandine-masson.ch
 blandine.ch
@@ -3418,6 +3420,7 @@ blauringhuenenberg.ch
 blauringibach.ch
 blauringmalters.ch
 blauringmeggen.ch
+blauringmuri-unterhaltungsabend.ch
 blauringmuri.ch
 blauringoberegg.ch
 blauringoberwil.ch
@@ -6964,6 +6967,7 @@ bloomarkt.ch
 bloomart.ch
 bloomassociation.ch
 bloomatelier.ch
+bloomatic.ch
 bloomaze.ch
 bloombaby.ch
 bloombar.ch
@@ -7060,6 +7064,7 @@ bloomhouse.ch
 bloomi-app.ch
 bloomi.ch
 bloomia.ch
+bloomic.ch
 bloomiday.ch
 bloomie.ch
 bloomify.ch
@@ -11298,6 +11303,7 @@ blumirene.ch
 blumis-werkstatt.ch
 blumisberg.ch
 blumissimo.ch
+blumiswerkstatt.ch
 blumit.ch
 blumiwood.ch
 blumix.ch

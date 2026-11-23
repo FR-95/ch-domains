@@ -826,7 +826,6 @@ srm-projects.ch
 srm-resine.ch
 srm-sa.ch
 srm.ch
-srm2026.ch
 srma.ch
 srmag.ch
 srmail.ch

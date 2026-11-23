@@ -14,7 +14,6 @@ ce-consularia.ch
 ce-consulting.ch
 ce-cosmetics.ch
 ce-di.ch
-ce-dienst.ch
 ce-dienstleistungen.ch
 ce-distribution.ch
 ce-doku.ch
@@ -168,6 +167,7 @@ cebonit.ch
 cebook.ch
 cebooks.ch
 cebovert.ch
+ceboza.ch
 cebra-mcd.ch
 cebra-po.ch
 cebra-rmh.ch
@@ -1361,6 +1361,7 @@ celestial-dynamics.ch
 celestial-jewellery.ch
 celestial-jewelry.ch
 celestial-minimal.ch
+celestial-solaris.ch
 celestial.ch
 celestialart.ch
 celestialbabygift.ch
@@ -1411,6 +1412,7 @@ celevita-praxis.ch
 celex.ch
 celexon.ch
 celfa.ch
+celfaktura.ch
 celfgallery.ch
 celfino.ch
 celflex.ch
@@ -1961,6 +1963,7 @@ cellardoor6.ch
 cellardust.ch
 cellares.ch
 cellarino.ch
+cellario.ch
 cellaris.ch
 cellarium.ch
 cellarius.ch
@@ -2546,6 +2549,7 @@ celula.ch
 celulite.ch
 celun.ch
 celuna.ch
+celuni.ch
 celura.ch
 celurix.ch
 celuskacarrelage.ch
@@ -6091,6 +6095,7 @@ cercle-terrasse.ch
 cercle-turquoise.ch
 cercle-union.ch
 cercle-vivaldi.ch
+cercle-wine-business.ch
 cercle.ch
 cercle1621.ch
 cercle27.ch
@@ -7953,7 +7958,6 @@ ceylon.ch
 ceylonayurveda.ch
 ceylonburger.ch
 ceylonfood-olten.ch
-ceylonfood.ch
 ceylongemsswitzerland.ch
 ceylonleaf.ch
 ceylonmee.ch

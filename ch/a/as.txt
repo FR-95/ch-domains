@@ -94,6 +94,7 @@ as-de.ch
 as-demenageurs.ch
 as-demontage.ch
 as-design.ch
+as-dev.ch
 as-dialoggroup.ch
 as-digimage.ch
 as-direktimport.ch
@@ -1219,7 +1220,6 @@ ascci.ch
 ascconsult.ch
 asccontinental.ch
 asccre.ch
-asccs.ch
 asccv.ch
 ascd.ch
 asce-aj.ch
@@ -1761,6 +1761,7 @@ ascpe.ch
 ascpeinture.ch
 ascpi.ch
 ascr.ch
+ascra.ch
 ascreation.ch
 ascreations.ch
 ascredit.ch
@@ -2174,6 +2175,7 @@ asfai.ch
 asfal.ch
 asfalego.ch
 asfaleia.ch
+asfaleon.ch
 asfalis.ch
 asfalt.ch
 asfalti.ch
@@ -2183,8 +2185,10 @@ asfam.ch
 asfambb.ch
 asfamily.ch
 asfandyararsalan.ch
+asfarbe.ch
 asfarn.ch
 asfascia.ch
+asfassade.ch
 asfatop.ch
 asfc.ch
 asfcb.ch
@@ -2225,6 +2229,7 @@ asformationsante.ch
 asfos.ch
 asfotasealfa-patienteducation.ch
 asfotasealfa-patienteninformation.ch
+asfoto.ch
 asfound.ch
 asfour-switzerland.ch
 asfour.ch
@@ -2312,6 +2317,8 @@ asgi.ch
 asgimmo.ch
 asginternational.ch
 asgip.ch
+asgips.ch
+asgipsfarbe.ch
 asgm.ch
 asgmbh.ch
 asgmm.ch
@@ -3459,6 +3466,7 @@ ask-robin.ch
 ask-roshi.ch
 ask-s.ch
 ask-sa.ch
+ask-sam.ch
 ask-sevda.ch
 ask-sgm.ch
 ask-siki.ch
@@ -3753,6 +3761,7 @@ askrobin.ch
 askrodolfo.ch
 askroger.ch
 askron.ch
+askrose.ch
 askroshi.ch
 asksam.ch
 asksandra.ch
@@ -4503,6 +4512,7 @@ aspgr.ch
 aspgroup.ch
 aspgs.ch
 aspguru.ch
+asphaleon.ch
 asphalia.ch
 asphalion.ch
 asphalt-doktor.ch
@@ -4817,6 +4827,7 @@ asr.ch
 asr42.ch
 asra.ch
 asracing.ch
+asrahome.ch
 asrailconsulting.ch
 asraralislam.ch
 asraservices.ch
@@ -6614,7 +6625,6 @@ associationvives.ch
 associationvivet.ch
 associationvtc.ch
 associationweshare.ch
-associationwich.ch
 associationwondermind.ch
 associationx.ch
 associationyayecoumba.ch
@@ -7750,7 +7760,6 @@ asteria-im.ch
 asteria-immobiliare.ch
 asteria-investment-managers.ch
 asteria-investmentmanagers.ch
-asteria-nis.ch
 asteria-sh.ch
 asteria.ch
 asteria13.ch
@@ -8712,6 +8721,7 @@ astroch.ch
 astrochablais.ch
 astrochirologe.ch
 astrochirologie.ch
+astrockenbau.ch
 astroclair.ch
 astroclaire.ch
 astroclaudia.ch
@@ -9395,6 +9405,7 @@ asuncion.ch
 asunday.ch
 asundayinspring.ch
 asundayinzurich.ch
+asunified.ch
 asunnyday.ch
 asunnyplaceforshadypeople.ch
 asuntec.ch

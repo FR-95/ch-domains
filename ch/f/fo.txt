@@ -658,6 +658,7 @@ focuszone.ch
 focuvita.ch
 focuz.ch
 focvs.ch
+focxx.ch
 fod-schweiz.ch
 fod.ch
 foda.ch
@@ -1253,6 +1254,7 @@ foilbern.ch
 foilbike.ch
 foilboard.ch
 foilboards.ch
+foilbro.ch
 foilcenter.ch
 foilclinic.ch
 foilclubzuerichsee.ch
@@ -1842,6 +1844,7 @@ foldnfold.ch
 foldnow.ch
 foldpaper.ch
 foldpod.ch
+foldrise.ch
 folds.ch
 foldspace.ch
 foldt.ch
@@ -2074,6 +2077,7 @@ folietechnik-schweiz.ch
 folievegetale.ch
 folievoltaire.ch
 foliez.ch
+folifux.ch
 foligain.ch
 foliglurax.ch
 foliis.ch
@@ -2474,11 +2478,13 @@ fonapp.ch
 fonberg.ch
 fonbergs-goldis.ch
 fonbet.ch
+fonce.ch
 foncedeteam.ch
 fonch.ch
 foncia.ch
 foncialis.ch
 foncier-plus.ch
+foncier-suisse.ch
 foncier.ch
 fonciere-ares.ch
 fonciere-des-alpes.ch
@@ -2497,6 +2503,7 @@ fonciereimmo.ch
 fonciereimmobilier.ch
 fonciergeneve.ch
 foncierplus.ch
+fonciersuisse.ch
 foncify.ch
 foncimo.ch
 foncind.ch
@@ -5349,7 +5356,6 @@ foodfactorybasel.ch
 foodfactorybienne.ch
 foodfactoryifwil.ch
 foodfacts.ch
-foodfair.ch
 foodfarm.ch
 foodfarming.ch
 foodfascianation.ch
@@ -5388,7 +5394,6 @@ foodforkids.ch
 foodforlabs.ch
 foodforlife.ch
 foodforme.ch
-foodformoods.ch
 foodforplant.ch
 foodforschools.ch
 foodforsoul.ch
@@ -7146,7 +7151,6 @@ ford-power-equipment.ch
 ford-pro.ch
 ford-probefahren.ch
 ford-profi.ch
-ford-pub.ch
 ford-ranger-schweiz.ch
 ford-ranger.ch
 ford-raptor.ch
@@ -7206,7 +7210,6 @@ ford-vogtgarage.ch
 ford-vogtgaragen.ch
 ford-wenger-interlaken.ch
 ford-wenger.ch
-ford-werbung.ch
 ford-west.ch
 ford-widi-garage.ch
 ford-widigarage-frutigen.ch
@@ -7578,7 +7581,6 @@ foresight-advisory.ch
 foresight-governance.ch
 foresight-management.ch
 foresight.ch
-foresightaction.ch
 foresightadvisory.ch
 foresightcoaching.ch
 foresightcollective.ch
@@ -8850,6 +8852,7 @@ formation-nacelle.ch
 formation-nacelles.ch
 formation-naturopathie.ch
 formation-nutrition.ch
+formation-nyon.ch
 formation-paramedicale.ch
 formation-pecheurs.ch
 formation-perspectives.ch
@@ -10135,7 +10138,6 @@ forsch-netz.ch
 forsch.ch
 forschdich.ch
 forsche.ch
-forschendes-lernen.ch
 forscher-ecke.ch
 forscher-werkstatt.ch
 forscher.ch
@@ -12369,6 +12371,7 @@ fosolcam.ch
 fosolcams.ch
 fosoldev.ch
 fosoliving.ch
+fosonix.ch
 fosoplus.ch
 fospartners.ch
 fosrenol.ch

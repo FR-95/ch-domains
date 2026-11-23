@@ -51,6 +51,7 @@ sl-keramik.ch
 sl-kosmetik.ch
 sl-law.ch
 sl-lokalkredit.ch
+sl-marketing.ch
 sl-medien.ch
 sl-minifigs.ch
 sl-motorbike.ch
@@ -1706,7 +1707,6 @@ slotexo1.ch
 slotexocasino.ch
 slotexos.ch
 slotexperte.ch
-slotexpress.ch
 slotfactory.ch
 slotfan.ch
 slotfund.ch

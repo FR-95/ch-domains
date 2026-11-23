@@ -216,7 +216,6 @@ teachflying.ch
 teachforce.ch
 teachforswitzerland.ch
 teachhearth.ch
-teachherso.ch
 teachhfh.ch
 teachin.ch
 teaching-by-horses.ch
@@ -1995,6 +1994,7 @@ teamtoken.ch
 teamtopologies.ch
 teamtorpedo.ch
 teamtpg.ch
+teamtracticedigital.ch
 teamtrade.ch
 teamtrader.ch
 teamtrail.ch
@@ -3441,6 +3441,7 @@ technetz.ch
 technew.ch
 technews.ch
 technext.ch
+technexum.ch
 techni-bat.ch
 techni-civil.ch
 techni-clean.ch
@@ -3659,6 +3660,7 @@ technik-swiss.ch
 technik-teile-center.ch
 technik-und-wissen.ch
 technik-voltige.ch
+technik-zukunft.ch
 technik.ch
 technik24.ch
 technik4time.ch
@@ -4703,7 +4705,6 @@ techtip.ch
 techtipp.ch
 techtipps.ch
 techtogo.ch
-techtones.ch
 techtonic.ch
 techtonik.ch
 techtoolag.ch
@@ -4868,6 +4869,7 @@ teckels.ch
 teckelshop.ch
 teckentrup.ch
 tecki.ch
+teckl.ch
 tecklenburg.ch
 tecknau.ch
 tecknau24.ch
@@ -5588,6 +5590,7 @@ tedxhwz.ch
 tedxlachauxdefonds.ch
 tedxlakegeneva.ch
 tedxlugano.ch
+tedxmartigny.ch
 tedxmendrisio.ch
 tedxneuchatel.ch
 tedxplacedesnations.ch
@@ -6415,6 +6418,8 @@ teile.ch
 teile24.ch
 teilebauchladen.ch
 teilebeschleuniger.ch
+teilebox.ch
+teilebox24.ch
 teiledirekt.ch
 teiledoc.ch
 teilefabrik.ch
@@ -8421,7 +8426,6 @@ telgreen.ch
 telguarder.ch
 teli-hosting.ch
 teli.ch
-telia.ch
 teliad.ch
 telialp.ch
 teliar-interactive.ch
@@ -11238,6 +11242,7 @@ tensor-ingenius.ch
 tensor-pc.ch
 tensor-te.ch
 tensor.ch
+tensore.ch
 tensoren.ch
 tensorflow.ch
 tensorforge.ch
@@ -13391,6 +13396,7 @@ terrapatron.ch
 terrapax.ch
 terrapay.ch
 terrapc.ch
+terraperpetua.ch
 terrapersonal.ch
 terrapet.ch
 terrapeute.ch
@@ -16492,6 +16498,7 @@ testsieger-geld.ch
 testsieger-gesundheit.ch
 testsieger-kaffeevollautomat.ch
 testsieger-matratze.ch
+testsieger-shop.ch
 testsieger-wimpernserum.ch
 testsieger.ch
 testsieger24.ch
@@ -16501,6 +16508,7 @@ testsiegergeld.ch
 testsiegerkatalog.ch
 testsiegermarkt.ch
 testsiegerschweiz.ch
+testsiegershop.ch
 testsiggeneve.ch
 testsignal.ch
 testsinglemail.ch

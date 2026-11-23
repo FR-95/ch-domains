@@ -861,8 +861,6 @@ pcibellinzonese.ch
 pcicomputer.ch
 pcid.ch
 pcideal.ch
-pcieuropa.ch
-pcieurope.ch
 pcigis-landquart.ch
 pcigroups.ch
 pcilocarno.ch
@@ -902,6 +900,7 @@ pckholding.ch
 pckick.ch
 pcking.ch
 pckiosk.ch
+pckld.ch
 pcklinik.ch
 pcko.ch
 pckonfigurator.ch

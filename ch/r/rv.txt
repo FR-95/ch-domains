@@ -28,7 +28,6 @@ rv-heimiswil.ch
 rv-herzogenbuchsee.ch
 rv-immobilien-bern.ch
 rv-immobilien.ch
-rv-installations.ch
 rv-it.ch
 rv-jardin.ch
 rv-law.ch
@@ -190,6 +189,7 @@ rvimmo.ch
 rvimmobilien.ch
 rvimmobilienbern.ch
 rvimpianti.ch
+rvion.ch
 rvision-swiss.ch
 rvision.ch
 rvj-fidu.ch

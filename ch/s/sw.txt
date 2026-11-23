@@ -708,7 +708,6 @@ sweateducation.ch
 sweater.ch
 sweaters.ch
 sweatexpert.ch
-sweatforhope.ch
 sweatfree.ch
 sweath.ch
 sweating-beauties.ch
@@ -1922,6 +1921,7 @@ swik.ch
 swikamin.ch
 swikco.ch
 swike.ch
+swiki.ch
 swikly.ch
 swiko.ch
 swikon-winteler.ch
@@ -4722,6 +4722,7 @@ swiss-disc.ch
 swiss-discofox.ch
 swiss-discoswing.ch
 swiss-discount.ch
+swiss-discover.ch
 swiss-discovery.ch
 swiss-dispute-resolution.ch
 swiss-distrade.ch
@@ -13976,6 +13977,7 @@ swisscolor.ch
 swisscolors.ch
 swisscolostrum.ch
 swisscolour.ch
+swisscolourcouncil.ch
 swisscom-acd.ch
 swisscom-adsl.ch
 swisscom-ag.ch
@@ -16635,7 +16637,6 @@ swissfashionawards.ch
 swissfashioncouncil.ch
 swissfashionday.ch
 swissfashionfederation.ch
-swissfashionimpulse.ch
 swissfashionnight.ch
 swissfashionpoint.ch
 swissfashionroten.ch
@@ -17577,6 +17578,7 @@ swissgazette.ch
 swissgb.ch
 swissgbg.ch
 swissgbic.ch
+swissgbm.ch
 swissgc.ch
 swissgcloud.ch
 swissgclub.ch
@@ -18330,7 +18332,6 @@ swisshausplaner.ch
 swisshaustechnik.ch
 swisshauswart.ch
 swisshauswartung.ch
-swisshawaiian.ch
 swisshb.ch
 swisshc.ch
 swisshca.ch
@@ -18883,6 +18884,7 @@ swisshuettli.ch
 swisshuey.ch
 swisshumancheck.ch
 swisshumanities.ch
+swisshumanitiestutors.ch
 swisshumanity.ch
 swisshumanoid.ch
 swisshumanresources.ch
@@ -18907,6 +18909,7 @@ swisshyathlon.ch
 swisshybrid.ch
 swisshybridacademy.ch
 swisshybridcloud.ch
+swisshybridracing.ch
 swisshycom.ch
 swisshydraulic.ch
 swisshydraulics.ch
@@ -19646,7 +19649,6 @@ swissium.ch
 swissius.ch
 swissiusnet.ch
 swissivd.ch
-swissivf.ch
 swissivtherapy.ch
 swissiw.ch
 swissiws.ch
@@ -20039,7 +20041,6 @@ swisskrainer.ch
 swisskran.ch
 swisskrankenkasse.ch
 swisskraut.ch
-swisskravmagacamp.ch
 swisskreativ.ch
 swisskreative.ch
 swisskredit.ch
@@ -20176,9 +20177,11 @@ swisslandsa.ch
 swisslandscape.ch
 swisslandy.ch
 swisslane.ch
+swisslanguagecoaching.ch
 swisslanguagecorner.ch
 swisslanguagegroup.ch
 swisslanguageschool.ch
+swisslanguagetutors.ch
 swisslanka.ch
 swisslankakitchen.ch
 swisslankareisen.ch
@@ -20343,7 +20346,6 @@ swisslederwaren.ch
 swissledger.ch
 swissledgerai.ch
 swissledgergroup.ch
-swissledgernews.ch
 swissledgroup.ch
 swissledlicht.ch
 swissledpower.ch
@@ -20886,7 +20888,6 @@ swisslug.ch
 swissluge.ch
 swissluing.ch
 swisslume.ch
-swisslumiere.ch
 swissluminis.ch
 swisslun.ch
 swisslunagen.ch
@@ -22206,7 +22207,6 @@ swissmountainmafia.ch
 swissmountainmusic.ch
 swissmountainpharma.ch
 swissmountainproducts.ch
-swissmountainqueen.ch
 swissmountainranch.ch
 swissmountainresort.ch
 swissmountainretreat.ch
@@ -22429,8 +22429,6 @@ swissnaturalcare.ch
 swissnaturalcosmetic.ch
 swissnaturalcosmetics.ch
 swissnaturalcrystal.ch
-swissnaturaldrink.ch
-swissnaturaldrinks.ch
 swissnaturalhealth.ch
 swissnaturaline.ch
 swissnaturalisation.ch
@@ -22448,7 +22446,6 @@ swissnaturecare.ch
 swissnaturelab.ch
 swissnaturhouse.ch
 swissnaturicum.ch
-swissnaturpower.ch
 swissnatyasabha.ch
 swissnautic.ch
 swissnauticacademy.ch
@@ -24571,6 +24568,7 @@ swissprobody.ch
 swissproboost.ch
 swissproboxing.ch
 swissprobrands.ch
+swissproc.ch
 swissprocard.ch
 swissprocess.ch
 swissprocessagency.ch
@@ -25601,6 +25599,7 @@ swissrig.ch
 swissriggers.ch
 swissrights.ch
 swissrigs.ch
+swissrin.ch
 swissring.ch
 swissringconfigurator.ch
 swissringmanufactory.ch
@@ -28856,6 +28855,7 @@ swisswhiskies.ch
 swisswhisky.ch
 swisswhiskyfestival.ch
 swisswhiskyselection.ch
+swisswhispr.ch
 swisswhite-liner.ch
 swisswhite.ch
 swisswhiteliner.ch
@@ -30615,7 +30615,6 @@ swsir-corminboeuf.ch
 swsir-domainecourbes.ch
 swsir-dompierre.ch
 swsir-dorenaz.ch
-swsir-estavayer.ch
 swsir-event.ch
 swsir-farvagny.ch
 swsir-fendi.ch

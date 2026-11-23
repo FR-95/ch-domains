@@ -1009,6 +1009,7 @@ apems-vaud.ch
 apemy.ch
 apen.ch
 apena.ch
+apenergy.ch
 apeneveyre.ch
 apeng.ch
 apengo.ch
@@ -1499,6 +1500,7 @@ apexinc.ch
 apexincorp.ch
 apexindustries.ch
 apexinq.ch
+apexinterior.ch
 apexinternational.ch
 apexinvest.ch
 apexio.ch
@@ -1565,6 +1567,7 @@ apexselected.ch
 apexshift.ch
 apexsocial.ch
 apexsolutions.ch
+apexsoul.ch
 apexsports.ch
 apexsportscars.ch
 apexss.ch
@@ -4119,6 +4122,8 @@ app-in.ch
 app-inbox.ch
 app-ins-hotel.ch
 app-insbett.ch
+app-iq-hunt.ch
+app-iqhunt.ch
 app-is.ch
 app-kilimanjaro.ch
 app-kiosk.ch
@@ -4237,7 +4242,6 @@ app4.ch
 app4all.ch
 app4biz.ch
 app4brokers.ch
-app4esg.ch
 app4ibp.ch
 app4me.ch
 app4media.ch
@@ -4276,6 +4280,7 @@ appaloosa-saloon.ch
 appaloosa.ch
 appalooza.ch
 appalti-contratti.ch
+appaltisvizzera.ch
 appalto.ch
 appaltocasa.ch
 appaltopoli.ch
@@ -4692,6 +4697,7 @@ appello-personale-sanitario.ch
 appello.ch
 appelqueer.ch
 appels-arch.ch
+appels-d-offres-suisse.ch
 appels-ia.ch
 appels-offres-publics.ch
 appels.ch
@@ -7137,6 +7143,7 @@ apton.ch
 aptonadv.ch
 aptoplus.ch
 aptos.ch
+aptovum.ch
 aptpass.ch
 aptra.ch
 aptreuhand.ch

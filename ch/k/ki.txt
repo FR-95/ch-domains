@@ -260,6 +260,7 @@ ki-doku.ch
 ki-dozenten.ch
 ki-druck.ch
 ki-druckerei.ch
+ki-ds.ch
 ki-durchblick.ch
 ki-ecke.ch
 ki-ecommerce.ch
@@ -901,7 +902,6 @@ ki-server.ch
 ki-service-public.ch
 ki-service.ch
 ki-services-fuer-unternehmen.ch
-ki-servises.ch
 ki-sh.ch
 ki-shani.ch
 ki-sheriff.ch
@@ -952,8 +952,10 @@ ki-statt-makler.ch
 ki-stellen.ch
 ki-stellenportal.ch
 ki-stespo.ch
+ki-steueranwalt.ch
 ki-steuern.ch
 ki-steuernsparen.ch
+ki-steuerrecht.ch
 ki-steuersparen.ch
 ki-stgb.ch
 ki-stimme.ch
@@ -3140,6 +3142,7 @@ kieferortho-moehlin.ch
 kieferortho-multengut.ch
 kieferortho-muri.ch
 kieferortho-oberland.ch
+kieferortho-oensingen.ch
 kieferortho-rotkreuz.ch
 kieferortho-steinenring.ch
 kieferortho-wettingen.ch
@@ -4128,6 +4131,7 @@ kikkoman.ch
 kikkx.ch
 kikla.ch
 kiklar.ch
+kikleboe.ch
 kiklic.ch
 kikmu.ch
 kiknet-alzheimer.ch
@@ -5273,6 +5277,7 @@ kin-tier-mensch.ch
 kin-uri.ch
 kin-weg.ch
 kin.ch
+kin24.ch
 kin41.ch
 kin64.ch
 kin88.ch
@@ -7095,7 +7100,6 @@ kinderkrippe-bambola.ch
 kinderkrippe-beba.ch
 kinderkrippe-bienemaja.ch
 kinderkrippe-bienemaya.ch
-kinderkrippe-blumenhimmel.ch
 kinderkrippe-calimero.ch
 kinderkrippe-chaeferli.ch
 kinderkrippe-chnopf.ch
@@ -8072,6 +8076,7 @@ kindertagesstaette.ch
 kindertagesstaetten-so.ch
 kindertagesstaetten-zuerich.ch
 kindertagesstaetten.ch
+kindertageszeitung.ch
 kindertagfest.ch
 kindertagung.ch
 kindertaler.ch
@@ -11312,6 +11317,7 @@ kiosk-lastoll.ch
 kiosk-lino.ch
 kiosk-marktplatz.ch
 kiosk-muenchwilen.ch
+kiosk-news.ch
 kiosk-online.ch
 kiosk-plus.ch
 kiosk-roeschibach.ch
@@ -12470,7 +12476,6 @@ kirchenkunst.ch
 kirchenlandschaft.ch
 kirchenlangnau.ch
 kirchenleitung.ch
-kirchenlied.ch
 kirchenlieder.ch
 kirchenluzern.ch
 kirchenmail.ch
@@ -12912,6 +12917,7 @@ kiriseafood.ch
 kirishion.ch
 kirisits.ch
 kiristore.ch
+kirisuto.ch
 kiritec.ch
 kiritech.ch
 kiritrees.ch
@@ -13155,6 +13161,7 @@ kisamkeit.ch
 kisana.ch
 kisanii.ch
 kisano.ch
+kisaro.ch
 kisas.ch
 kisasan.ch
 kisaya.ch
@@ -13656,6 +13663,8 @@ kistenzauber.ch
 kisterei.ch
 kisters-gmbh.ch
 kisters.ch
+kisteueranwalt.ch
+kisteuerrecht.ch
 kistevongraffenried.ch
 kistier.ch
 kistl.ch
@@ -13753,7 +13762,6 @@ kiswah.ch
 kiswahili.ch
 kisware.ch
 kiswiss.ch
-kiswisskit.ch
 kiswitzerland.ch
 kisy.ch
 kisys.ch
@@ -15701,6 +15709,7 @@ kiwallis.ch
 kiwalshki.ch
 kiwambo.ch
 kiwami.ch
+kiwan.ch
 kiwana.ch
 kiwandel.ch
 kiwani.ch

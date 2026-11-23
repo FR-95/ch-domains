@@ -55,6 +55,7 @@ fiabe-agite.ch
 fiabepersognare.ch
 fiable-et-equitable.ch
 fiable.ch
+fiablys.ch
 fiabo.ch
 fiabuetikofer.ch
 fiaconsul.ch
@@ -521,7 +522,6 @@ fibi.ch
 fibibag.ch
 fibic.ch
 fibich.ch
-fibicloud.ch
 fibiger.ch
 fibim.ch
 fibion.ch
@@ -995,6 +995,7 @@ ficops.ch
 ficorae.ch
 ficorent.ch
 ficosa.ch
+ficoswiss.ch
 ficrilosa.ch
 fics.ch
 fict.ch
@@ -1424,6 +1425,7 @@ fidemlab.ch
 fidena.ch
 fidence.ch
 fidencia.ch
+fidenera.ch
 fidenergy.ch
 fideng.ch
 fidenix.ch
@@ -2848,6 +2850,7 @@ fieldchange.ch
 fieldchief.ch
 fieldcoaching.ch
 fieldcode.ch
+fieldcompanion.ch
 fieldcopilot.ch
 fieldcraft.ch
 fieldday.ch
@@ -4374,6 +4377,7 @@ filip-net.ch
 filip.ch
 filipa-moreira.ch
 filipa-reinigung.ch
+filipa.ch
 filipaj.ch
 filipandfriends.ch
 filiparamos.ch
@@ -6380,7 +6384,6 @@ financecoa.ch
 financecoach.ch
 financecoaching.ch
 financecode.ch
-financecomptabilite.ch
 financeconcierge.ch
 financeconsult.ch
 financeconsulting.ch
@@ -10660,6 +10663,7 @@ fintelligent.ch
 fintelligenz.ch
 fintelmann.ch
 fintenreich.ch
+fintent.ch
 fintepla.ch
 finteq.ch
 finter.ch
@@ -11260,6 +11264,7 @@ fiq.ch
 fiqh.ch
 fiqs.ch
 fir-consulting.ch
+fir-enterprise.ch
 fir-group.ch
 fir-marketing-gmbh.ch
 fir-marketing.ch
@@ -12788,6 +12793,7 @@ firnkern.ch
 firnkind.ch
 firnklima.ch
 firnlicht.ch
+firnlot.ch
 firno.ch
 firnova.ch
 firnschweiz.ch
@@ -13398,6 +13404,7 @@ firstlimousine.ch
 firstlimousines.ch
 firstline.ch
 firstlineofdefense.ch
+firstlinerz.ch
 firstlinesportswear.ch
 firstlinestudio.ch
 firstlink.ch
@@ -13562,6 +13569,7 @@ firstshout.ch
 firstsidepadel.ch
 firstsight.ch
 firstsignals.ch
+firstsing.ch
 firstsmile.ch
 firstsnap.ch
 firstsolution.ch
@@ -15092,6 +15100,7 @@ fishing-products.ch
 fishing-rental-interlaken.ch
 fishing-shop.ch
 fishing-slot.ch
+fishing-sport.ch
 fishing-switzerland.ch
 fishing-tours.ch
 fishing-travel.ch
@@ -16792,6 +16801,8 @@ fitness-liberty.ch
 fitness-liebe.ch
 fitness-lifesciencepark-stein.ch
 fitness-lodge.ch
+fitness-loop.ch
+fitness-loops.ch
 fitness-lounge-basel.ch
 fitness-lounge.ch
 fitness-luzern.ch
@@ -17124,6 +17135,7 @@ fitnessfinder.ch
 fitnessfirst.ch
 fitnessflohmarkt.ch
 fitnessfloor.ch
+fitnessflow.ch
 fitnessfluencer.ch
 fitnessflydance.ch
 fitnessfood.ch
@@ -17217,7 +17229,12 @@ fitnesslife.ch
 fitnesslifestyle.ch
 fitnesslizenz.ch
 fitnessloft24.ch
+fitnessloop-fordog.ch
+fitnessloop-schweiz.ch
 fitnessloop.ch
+fitnessloops-fordogs.ch
+fitnessloops-schweiz.ch
+fitnessloops.ch
 fitnesslotse.ch
 fitnesslounge.ch
 fitnesslover.ch

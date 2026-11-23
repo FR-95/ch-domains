@@ -5664,6 +5664,7 @@ pepites-festival.ch
 pepites.ch
 pepitesconfetti.ch
 pepitesdalor.ch
+pepitesdeals.ch
 pepitesdor.ch
 pepitesducoeur.ch
 pepitesduvin.ch
@@ -7001,6 +7002,7 @@ perflab.ch
 perfler.ch
 perfline.ch
 perfluorelastomer.ch
+perfly.ch
 perfmon.ch
 perfmoniteur.ch
 perfo-safe.ch
@@ -8264,6 +8266,7 @@ perltec.ch
 perltex-ag.ch
 perltex.ch
 perlucci.ch
+perlucido.ch
 perludum.ch
 perlugano.ch
 perlumi.ch
@@ -9653,6 +9656,7 @@ perroud.ch
 perroudconsulting.ch
 perroudjp.ch
 perroudmetal.ch
+perroudpartners.ch
 perroudpeinture.ch
 perroudpiscines.ch
 perroulaz-kosmetik.ch
@@ -11078,6 +11082,7 @@ persoul.ch
 persovino.ch
 persovision.ch
 persox.ch
+persoz.ch
 persozrahmen.ch
 perspactive.ch
 perspage.ch
@@ -11525,6 +11530,7 @@ pervap.ch
 pervaporation-membrane.ch
 pervaporation-membranes.ch
 pervaporation.ch
+pervascmed.ch
 pervasive.ch
 pervem.ch
 pervenches.ch
@@ -13819,9 +13825,6 @@ pethealthdata.ch
 pethearts.ch
 petheaven.ch
 pethelp.ch
-petherapy.ch
-petherapylugano.ch
-petherapyticino.ch
 pethof.ch
 pethome.ch
 pethomes.ch
@@ -15512,7 +15515,6 @@ pettest.ch
 petthepet.ch
 pettherapy.ch
 pettherapylugano.ch
-pettherapyticino.ch
 petti-garten.ch
 petti.ch
 petti06coat.ch

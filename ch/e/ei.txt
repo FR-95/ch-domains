@@ -877,7 +877,6 @@ eifach-meh.ch
 eifach-misteli.ch
 eifach-pilates.ch
 eifach-sii.ch
-eifach-so.ch
 eifach-sy.ch
 eifach-treuhand.ch
 eifach-uk.ch
@@ -2383,6 +2382,7 @@ einfach-abgesichert.ch
 einfach-abnehmen.ch
 einfach-absichern.ch
 einfach-anders.ch
+einfach-anderst.ch
 einfach-anrufen.ch
 einfach-art.ch
 einfach-arzt.ch
@@ -5011,6 +5011,7 @@ eisbrecher.ch
 eisbrecherin.ch
 eisbrise.ch
 eisbuero.ch
+eisc.ch
 eiscafe-acero.ch
 eiscafe-enrico.ch
 eiscafe-monalisa.ch

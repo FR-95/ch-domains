@@ -15,15 +15,19 @@ ba-bauprojekte.ch
 ba-bremgarten.ch
 ba-bu.ch
 ba-ca.ch
+ba-capital.ch
 ba-cards.ch
 ba-ch.ch
 ba-chauffage.ch
 ba-co.ch
 ba-coding-ag.ch
+ba-conseil.ch
+ba-conseils.ch
 ba-constructions.ch
 ba-consult.ch
 ba-consultant.ch
 ba-consulting.ch
+ba-credit.ch
 ba-database.ch
 ba-desinfection.ch
 ba-dev.ch
@@ -32,10 +36,14 @@ ba-energie.ch
 ba-energies.ch
 ba-erstfeld.ch
 ba-ethics.ch
+ba-family-office.ch
+ba-familyoffice.ch
 ba-fenster.ch
 ba-ferrography.ch
+ba-financement.ch
 ba-garage.ch
 ba-gestaltung.ch
+ba-gestion.ch
 ba-gua.ch
 ba-higo.ch
 ba-immo.ch
@@ -786,8 +794,10 @@ baborbeautyspabadschinznach.ch
 baborganic.ch
 baborinstitut.ch
 babos-gastro.ch
+babos-reussbuehl.ch
 babos.ch
 babosgastro.ch
+babosgrill.ch
 baboskebab.ch
 baboskebabhaus.ch
 babospizza.ch
@@ -1137,6 +1147,7 @@ baby2go.ch
 baby365.ch
 baby3d.ch
 babyabc.ch
+babyadmin.ch
 babyagenda.ch
 babyahoi.ch
 babyairpad.ch
@@ -1269,7 +1280,6 @@ babybrut.ch
 babybudget.ch
 babybus.ch
 babybutt.ch
-babybuu.ch
 babybuysmart.ch
 babybytes.ch
 babycake.ch
@@ -3465,7 +3475,6 @@ backoffice-eggenberger.ch
 backoffice-fiduciaire.ch
 backoffice-for-you.ch
 backoffice-janett.ch
-backoffice-manager.ch
 backoffice-medscribe.ch
 backoffice-point.ch
 backoffice-service-box.ch
@@ -3894,7 +3903,6 @@ backyard-racing-garage.ch
 backyard-racing.ch
 backyard-shop.ch
 backyard-stuff.ch
-backyard-ultra-la-cote.ch
 backyard-ultra.ch
 backyard-valderuz.ch
 backyard-verlag.ch
@@ -6931,6 +6939,7 @@ baeripost.ch
 baeris.ch
 baerisbest.ch
 baerisbiohof.ch
+baerista.ch
 baeristonestyle.ch
 baeriswil.ch
 baeriswil24.ch
@@ -7675,6 +7684,7 @@ bageroo.ch
 bagery.ch
 bages.ch
 bagesti.ch
+bagestion.ch
 bagestra.ch
 baget.ch
 bageta.ch
@@ -9043,6 +9053,7 @@ bailemos-showdanse.ch
 bailemos-tango.ch
 bailemos.ch
 bailer.ch
+bailes.ch
 bailesito.ch
 bailet.ch
 baileterapia.ch
@@ -9609,6 +9620,7 @@ bakery24.ch
 bakery2b.ch
 bakeryb2b.ch
 bakerybakery.ch
+bakeryguide.ch
 bakerylaunch.ch
 bakerylucia.ch
 bakeryrave.ch
@@ -10633,6 +10645,7 @@ baldrian.ch
 baldrianshow.ch
 baldriantropfen.ch
 baldriparan.ch
+baldsindwirdrei.ch
 baldt.ch
 balducci.ch
 balduin.ch
@@ -13491,6 +13504,7 @@ bams-so.ch
 bams.ch
 bamschulevondach.ch
 bamshirt.ch
+bamsim.ch
 bamsoft.ch
 bamsolutions.ch
 bamsport.ch
@@ -14310,6 +14324,7 @@ bangbus.ch
 bangdrums.ch
 bange.ch
 banger-casino.ch
+banger.ch
 banger1.ch
 bangercasino.ch
 bangerl-fertiggaragen.ch
@@ -14996,6 +15011,7 @@ bankostschweiz.ch
 bankpay.ch
 bankpermausklick.ch
 bankphiloro.ch
+bankplus.ch
 bankpoint.ch
 bankportal.ch
 bankpro.ch
@@ -15154,6 +15170,7 @@ bannerboerse.ch
 bannerbond.ch
 bannerbow.ch
 bannercommunity.ch
+bannercookies.ch
 bannerderliebe.ch
 bannerdisplays.ch
 bannerdruck.ch
@@ -20406,6 +20423,7 @@ basegraphic.ch
 basegva.ch
 basehotels.ch
 basehouse.ch
+baseia-carrelages.ch
 baseiavolubilis.ch
 baseinterface.ch
 baseinvest.ch
@@ -20923,6 +20941,7 @@ baselbiosecurity.ch
 baselbleibtsauber.ch
 baselbluehtauf.ch
 baselbooks.ch
+baselboot.ch
 baselbootsfahrschule.ch
 baselbotox.ch
 baselbowl.ch
@@ -23305,6 +23324,7 @@ bastelwelt-nb.ch
 bastelwelt.ch
 bastelwerk.ch
 bastelwerkschmid.ch
+bastelwerkstatt.ch
 bastelwerkzeuge.ch
 bastelwoelkchen.ch
 bastelwurstel.ch
@@ -23998,6 +24018,7 @@ batileman.ch
 batilemanrenovation.ch
 batilex.ch
 batiline.ch
+batilingo.ch
 batilink-company.ch
 batilink.ch
 batiloft.ch
@@ -24762,11 +24783,14 @@ battogtokhreinigung.ch
 battoir.ch
 battonsconsulting.ch
 battplus.ch
+battpower.ch
 battrix.ch
 battron.ch
 battronics.ch
 batts-gastrowerk.ch
 batts.ch
+battsignal.ch
+battsonar.ch
 battu.ch
 battus.ch
 batty.ch
@@ -26142,7 +26166,6 @@ baudvision.ch
 baudy.ch
 baudyn-award.ch
 baudyn.ch
-baudynamik.ch
 baue-deine-zukunft.ch
 baue-nachhaltig.ch
 baue-plus.ch
@@ -26506,7 +26529,6 @@ bauernhof-event.ch
 bauernhof-events.ch
 bauernhof-ferien.ch
 bauernhof-fernsicht-meierskappel.ch
-bauernhof-flueckiger.ch
 bauernhof-gastronomie.ch
 bauernhof-heustuebli.ch
 bauernhof-immobilien.ch
@@ -31145,6 +31167,7 @@ bavtrend.ch
 bavu.ch
 bavx.ch
 baw-212.ch
+baw-cars.ch
 baw-geneve.ch
 baw-gr.ch
 baw-ltd.ch
@@ -31282,6 +31305,7 @@ bay-kleinanzeigen.ch
 bay-law.ch
 bay-one.ch
 bay-plattenbelaege.ch
+bay-services.ch
 bay-soft.ch
 bay-tec.ch
 bay-technologies.ch

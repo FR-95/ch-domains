@@ -2098,6 +2098,7 @@ gofactoring.ch
 gofaemy.ch
 gofahr.ch
 gofamily.ch
+gofamilyapp.ch
 gofar.ch
 gofarbeyond.ch
 gofargotogether.ch
@@ -2303,7 +2304,6 @@ goggles.ch
 goggleshop.ch
 gogglesock.ch
 gogglesocs.ch
-gogglestop.ch
 goggleticino.ch
 gogglovesleosgym.ch
 goggola.ch
@@ -4466,7 +4466,6 @@ goldgiesser.ch
 goldgiesserei.ch
 goldgiesserin.ch
 goldgilde.ch
-goldgirls.ch
 goldglanz.ch
 goldglas-events.ch
 goldgo.ch
@@ -10255,6 +10254,7 @@ gotoreunion.ch
 gotorink.ch
 gotospeed.ch
 gotoswiss.ch
+gotoswissenergy.ch
 gotoswitzerland.ch
 gototaiwan.ch
 gototec.ch

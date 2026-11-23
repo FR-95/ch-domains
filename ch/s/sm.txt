@@ -2847,6 +2847,7 @@ smarthome-integration.ch
 smarthome-international.ch
 smarthome-konfigurator.ch
 smarthome-magazin.ch
+smarthome-ostschweiz.ch
 smarthome-programmierer.ch
 smarthome-ready.ch
 smarthome-roadshow.ch
@@ -5755,6 +5756,7 @@ smilepleasefotobox.ch
 smileplug.ch
 smilepoint.ch
 smilepop.ch
+smilepower.ch
 smilepraxis.ch
 smilepro.ch
 smileprod.ch

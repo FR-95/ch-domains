@@ -371,6 +371,7 @@ tobias-tschechtelin.ch
 tobias-undeutsch.ch
 tobias-utz.ch
 tobias-voegeli.ch
+tobias-vogel.ch
 tobias-waldmeier.ch
 tobias-walthert.ch
 tobias-wassermann.ch
@@ -826,6 +827,7 @@ tobler-home.ch
 tobler-it.ch
 tobler-la.ch
 tobler-law.ch
+tobler-liegenschaften.ch
 tobler-metallbau.ch
 tobler-mit.ch
 tobler-net.ch
@@ -2045,7 +2047,6 @@ toggenburger-bioweidebeef.ch
 toggenburger-brothandwerk.ch
 toggenburger-buurechoscht.ch
 toggenburger-catering.ch
-toggenburger-chappe.ch
 toggenburger-chili.ch
 toggenburger-choscht.ch
 toggenburger-eringer.ch
@@ -2408,6 +2409,7 @@ toit-photovoltaique.ch
 toit-pierre.ch
 toit-pour-toi.ch
 toit-relevable-trafic.ch
+toit-relevable.ch
 toit-solaire.ch
 toit-toi.ch
 toit.ch
@@ -2818,6 +2820,7 @@ tolanett.ch
 tolani.ch
 tolany.ch
 tolanzo.ch
+tolaplus.ch
 tolar.ch
 tolari.ch
 tolaria.ch
@@ -5262,7 +5265,6 @@ tonkraft.ch
 tonkreationen.ch
 tonkult.ch
 tonkultur.ch
-tonkun-med-thaimassage.ch
 tonkunscht.ch
 tonkunst.ch
 tonkunthaimassage.ch
@@ -10668,6 +10670,7 @@ tosuni-automobile.ch
 tosuni-reinigung.ch
 tosuni.ch
 tosunimaler.ch
+tosunoglu.ch
 tosuthien.ch
 toswal.ch
 toswitzerland.ch
@@ -12814,6 +12817,7 @@ tova-solartechnik.ch
 tova-zuerich.ch
 tovafoundation.ch
 tovaglie.ch
+tovaglietta.ch
 tovaglioli.ch
 tovar.ch
 tovari.ch

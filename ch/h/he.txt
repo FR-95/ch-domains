@@ -601,6 +601,7 @@ healingplanner.ch
 healingpoetry.ch
 healingpoint.ch
 healingpraxislucie.ch
+healingroom.ch
 healingroomarbon.ch
 healingrooms.ch
 healings.ch
@@ -4759,7 +4760,6 @@ heidenreich.ch
 heidentaljunioren.ch
 heidentum.ch
 heidenweg.ch
-heidenweid.ch
 heidenwolf.ch
 heidepriem.ch
 heider-ag.ch
@@ -6060,6 +6060,7 @@ heilung-bewusstsein.ch
 heilung-mit-energie.ch
 heilung-rl.ch
 heilung-thun.ch
+heilung-ueberleben.ch
 heilung-und-juengerschaft.ch
 heilung-von-innen.ch
 heilung.ch
@@ -6357,6 +6358,7 @@ heimatfotos.ch
 heimatfreund.ch
 heimatfrisch.ch
 heimatfrische.ch
+heimatfund.ch
 heimatfutter.ch
 heimatgarten.ch
 heimatgeber.ch
@@ -8643,16 +8645,13 @@ heizzentralen.ch
 heizzentralerheintal.ch
 hej-agency.ch
 hej-agentur.ch
-hej-branding.ch
 hej-consulting.ch
-hej-design.ch
 hej-iara.ch
 hej-lilu.ch
 hej-natural.ch
 hej-neea.ch
 hej-organic.ch
 hej-pia.ch
-hej-reporting.ch
 hej.ch
 heja-exellence.ch
 heja-ol.ch
@@ -8678,7 +8677,6 @@ hejda.ch
 hejdad.ch
 hejday-coaching.ch
 hejday.ch
-hejdesign.ch
 hejdo.ch
 hejdu.ch
 hejerat.ch
@@ -8723,7 +8721,6 @@ hejsuisse.ch
 hejswitzerland.ch
 hejtools.ch
 hejuba.ch
-hejzurich.ch
 hek-ag.ch
 hek.ch
 heka-design.ch
@@ -10333,6 +10330,7 @@ helix-trustee.ch
 helix-zug.ch
 helix.ch
 helix3d.ch
+helix64.ch
 helixadvisory.ch
 helixara.ch
 helixatc.ch
@@ -11696,7 +11694,6 @@ help-help.ch
 help-immo.ch
 help-interkulturell.ch
 help-international.ch
-help-it.ch
 help-jobs.ch
 help-kriens-horw.ch
 help-learning.ch
@@ -12284,6 +12281,7 @@ helva-help.ch
 helva-meubles.ch
 helva-personal.ch
 helva-quotes.ch
+helva-shop.ch
 helva.ch
 helva24.ch
 helva3d.ch
@@ -12352,6 +12350,7 @@ helvation.ch
 helvatix.ch
 helvatron.ch
 helvatura.ch
+helvaudit.ch
 helvault.ch
 helvauto.ch
 helvaway.ch
@@ -12993,6 +12992,7 @@ helvetiafinancial.ch
 helvetiafolio.ch
 helvetiafoodconsulting.ch
 helvetiaforukraine.ch
+helvetiafx.ch
 helvetiagaming.ch
 helvetiagent.ch
 helvetiagents.ch
@@ -16002,7 +16002,6 @@ hepta.ch
 heptacom.ch
 heptaflow.ch
 heptagone.ch
-heptagonewatches.ch
 heptagroup.ch
 heptameron.ch
 heptar.ch
@@ -21779,7 +21778,6 @@ heussitransport.ch
 heussitransporte.ch
 heustallgalerie.ch
 heustock-fete.ch
-heustock-ittigen.ch
 heustock-verein.ch
 heustock.ch
 heustockbistro.ch

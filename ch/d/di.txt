@@ -922,7 +922,6 @@ dialog-buehne.ch
 dialog-coaching.ch
 dialog-demenz.ch
 dialog-digitale.ch
-dialog-eplus.ch
 dialog-ethik.ch
 dialog-ettingen.ch
 dialog-familie.ch
@@ -11327,6 +11326,7 @@ digital-campus.ch
 digital-car-remarketing.ch
 digital-card.ch
 digital-care.ch
+digital-career.ch
 digital-careers.ch
 digital-cash.ch
 digital-century.ch
@@ -11473,6 +11473,7 @@ digital-enabler.ch
 digital-energy.ch
 digital-engelbergerdruck.ch
 digital-engineering-jobs.ch
+digital-engineering.ch
 digital-enthusiast.ch
 digital-enthusiasts.ch
 digital-entrepreneur.ch
@@ -12299,7 +12300,6 @@ digitalanalyticsconference.ch
 digitalanalyticskonferenz.ch
 digitalando.ch
 digitalangels.ch
-digitalanguagetest.ch
 digitalanimal.ch
 digitalanlegen.ch
 digitalannualreport.ch
@@ -16298,6 +16298,7 @@ dimitri-monstein.ch
 dimitri-music.ch
 dimitri-rossi.ch
 dimitri-stapfer.ch
+dimitri-ubezio.ch
 dimitri.ch
 dimitriadis.ch
 dimitriandre.ch
@@ -16419,6 +16420,7 @@ dimora-services.ch
 dimora-shop.ch
 dimora.ch
 dimoraluce.ch
+dimorapropertycare.ch
 dimorare.ch
 dimorestoriche.ch
 dimorestudio.ch
@@ -19514,6 +19516,7 @@ discountbroker.ch
 discountbros.ch
 discountcamp.ch
 discountcar-hifi.ch
+discountcard.ch
 discountcards.ch
 discountcarhifi.ch
 discountcars.ch
@@ -19547,7 +19550,6 @@ discounthalle.ch
 discounthotels.ch
 discountic.ch
 discountimmobilien.ch
-discounting.ch
 discountis.ch
 discountjurist.ch
 discountkontaktlinsen.ch
@@ -20808,6 +20810,7 @@ distilleriewillisau.ch
 distillero.ch
 distillers.ch
 distillery-aarau.ch
+distillery-booking.ch
 distillery-pop-up.ch
 distillery.ch
 distillerymatterand.ch
@@ -22283,6 +22286,7 @@ divorcez.ch
 divorcia.ch
 divorcing.ch
 divorcio-brasil.ch
+divorcio.ch
 divorcionasuica.ch
 divorcionobrasil.ch
 divorcons.ch

@@ -498,7 +498,6 @@ mtfgpaysagiste.ch
 mtfgplateformeonline.ch
 mtfgproduits.ch
 mtfgpublicite.ch
-mtfgrecrutement.ch
 mtfgrideaux.ch
 mtfgroup.ch
 mtfgservices.ch
@@ -1127,6 +1126,7 @@ mtw2000.ch
 mtwd.ch
 mtwe.ch
 mtwgeneve.ch
+mtwii-club.ch
 mtwo.ch
 mtwohlenschwil.ch
 mtworks.ch

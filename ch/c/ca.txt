@@ -1546,7 +1546,6 @@ cabinx.ch
 cabinzero.ch
 cabio.ch
 cabioi.ch
-cabiol.ch
 cabione11.ch
 cabiou.ch
 cabiria.ch
@@ -6563,7 +6562,6 @@ calivento.ch
 caliventure.ch
 calivero.ch
 calivita.ch
-calivo.ch
 caliweed.ch
 caliwrap.ch
 calix-pfister.ch
@@ -6717,6 +6715,7 @@ callbackservice.ch
 callbacktracker.ch
 callbean.ch
 callbit.ch
+callbloom.ch
 callbook.ch
 callbooster.ch
 callbot.ch
@@ -6736,6 +6735,7 @@ callboy-nick.ch
 callboy-ostschweiz.ch
 callboy-privat.ch
 callboy-schweiz.ch
+callboy-stipi.ch
 callboy-suche.ch
 callboy-suisse.ch
 callboy-switzerland.ch
@@ -7415,6 +7415,7 @@ caluca.ch
 calude.ch
 caludiaorlando.ch
 caludo.ch
+calugaru.ch
 caluina.ch
 caluk.ch
 calum.ch
@@ -8255,7 +8256,6 @@ cameras-agri.ch
 cameras-conformite.ch
 cameras-thermiques.ch
 cameras.ch
-camerasandbeers.ch
 camerashop.ch
 cameraslider.ch
 camerastore-shop.ch
@@ -11147,6 +11147,7 @@ campusjobs.ch
 campusjump.ch
 campusklinik.ch
 campusklybeck.ch
+campuskumpel.ch
 campuslab.ch
 campuslabel.ch
 campuslacnoir.ch
@@ -11510,7 +11511,6 @@ canadien-flyers.ch
 canadiens.ch
 canadier.ch
 canadix.ch
-canadol.ch
 canadoo.ch
 canadoria.ch
 canaerli.ch
@@ -15207,7 +15207,6 @@ capitality.ch
 capitalium.ch
 capitaliumadvisors.ch
 capitaliumpartners.ch
-capitalix.ch
 capitalize.ch
 capitaljuniors.ch
 capitall.ch
@@ -19401,7 +19400,6 @@ careerdesigner.ch
 careerdesigners.ch
 careerdesk.ch
 careerdevelopment.ch
-careerdirectionspace.ch
 careerdrive360.ch
 careerelevate.ch
 careerexpert.ch
@@ -20084,7 +20082,6 @@ carextl.ch
 carextreme.ch
 carey-switzerland.ch
 carey.ch
-careygeneve.ch
 careygroup.ch
 careyoo.ch
 careyou.ch
@@ -20092,8 +20089,6 @@ careyourmind.ch
 careyouup.ch
 careypartners.ch
 careyswitzerland.ch
-careyzuerich.ch
-careyzurich.ch
 carezia.ch
 carezone.ch
 carezug.ch
@@ -22302,6 +22297,7 @@ carnetentraide.ch
 carnetevasion.ch
 carnetgenevois.ch
 carnetjardin.ch
+carnetli.ch
 carnetnoir.ch
 carnetnumero.ch
 carnetoon.ch
@@ -27393,6 +27389,7 @@ casa-siciliana.ch
 casa-silvana.ch
 casa-silvia.ch
 casa-sisu.ch
+casa-smart.ch
 casa-smecca.ch
 casa-smoke.ch
 casa-soft.ch
@@ -28616,6 +28613,7 @@ casamiralago.ch
 casamiranda.ch
 casamirella.ch
 casamiro.ch
+casamiruna.ch
 casamix.ch
 casamls.ch
 casamo.ch
@@ -28969,6 +28967,7 @@ casarin.ch
 casarindlisbacher.ch
 casaripavimenti.ch
 casaris24.ch
+casarisdesign.ch
 casarishome.ch
 casarista.ch
 casarita.ch
@@ -29080,7 +29079,6 @@ casashop.ch
 casashui.ch
 casasibylla.ch
 casasicilia-pizzeria-lausanne.ch
-casasicilia.ch
 casasieber.ch
 casasierra.ch
 casasilvia.ch
@@ -32182,6 +32180,7 @@ castballon.ch
 castbella.ch
 castcap.ch
 castchannel.ch
+castcore.ch
 castd.ch
 caste.ch
 castea-vista.ch
@@ -32947,6 +32946,7 @@ catalina-spas.ch
 catalina.ch
 catalinaconnections.ch
 catalinamarketing.ch
+catalinamartinez.ch
 catalinamoncada.ch
 catalinaprimo.ch
 catalinaspas.ch
@@ -35590,7 +35590,6 @@ cavostar.ch
 cavotec.ch
 cavour.ch
 cavourpartners.ch
-cavout.ch
 cavox.ch
 cavoxcms.ch
 cavozzi.ch

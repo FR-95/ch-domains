@@ -4664,6 +4664,7 @@ xn--berwachungs-shop-izb.ch
 xn--berwachungsanlagen-l6b.ch
 xn--berwachungscamera-12b.ch
 xn--berwachungsdienst-12b.ch
+xn--berwachungsdrohne-12b.ch
 xn--berwachungskamera-12b.ch
 xn--berwachungskamera-aussen-usc.ch
 xn--berwachungsprofi-izb.ch
@@ -8538,6 +8539,7 @@ xn--bruxelles-caf-nhb.ch
 xn--brvaux-cva.ch
 xn--brvine-cva.ch
 xn--brzaubende-torte-vnb.ch
+xn--brzel-kva.ch
 xn--bs-automobile-zrichsee-6lc.ch
 xn--bs-beizli-v2ab.ch
 xn--bs-fachplanung-durchbrche-0wc.ch
@@ -9388,6 +9390,7 @@ xn--caroline-ltscher-vwb.ch
 xn--carolineltscher-htb.ch
 xn--carosserie-diagnosegerte-ccc.ch
 xn--carouge-lectrolyse-iwb.ch
+xn--carpediem-wdenswil-vtb.ch
 xn--carprfung-u9a.ch
 xn--carr-epa.ch
 xn--carr-handwerkerservice-e8b.ch
@@ -16372,6 +16375,7 @@ xn--fgnscht-5wac.ch
 xn--fgs-anhnger-r8a.ch
 xn--fgswil-bua.ch
 xn--fguggenbhl-co-elektriker-team-sbd.ch
+xn--fgung-kva.ch
 xn--fh-anhnger-q5af.ch
 xn--fh-consulting-bfb.ch
 xn--fh-handelsunternehmen-51b.ch
@@ -17181,6 +17185,7 @@ xn--flughafen-zrich-schliessfach-c7c.ch
 xn--flughafenparkpltze-ztb.ch
 xn--flughafentaxi-zrich-kbc.ch
 xn--flughafentaxizrich-z6b.ch
+xn--flughafentransfer-stgallen-zrich-zmd.ch
 xn--flughafentransfer-zrich-upc.ch
 xn--flughafenzrich-psb.ch
 xn--flughfen-4za.ch
@@ -19498,10 +19503,6 @@ xn--gebudewart-s5a.ch
 xn--gebudewasserversicherung-sbc.ch
 xn--gebudezustandsanalyse-71b.ch
 xn--geburifschtli-hfb.ch
-xn--geburt-zri-ost-nsb.ch
-xn--geburt-zriost-3ob.ch
-xn--geburtshaus-zriost-y6b.ch
-xn--geburtshauszri-ost-x6b.ch
 xn--geburtshilfe-gynkologie-b8b.ch
 xn--geburtstags-bergkse-wwb.ch
 xn--geburtstags-kse-dlb.ch
@@ -20636,7 +20637,6 @@ xn--gewrzmller-cebd.ch
 xn--gewrznudel-ceb.ch
 xn--gewrznudeln-vhb.ch
 xn--gewrzparadies-yob.ch
-xn--gewrzregal-ceb.ch
 xn--gewrzsalz-s9a.ch
 xn--gewrzshop-s9a.ch
 xn--gewrztraminer-yob.ch
@@ -23043,7 +23043,6 @@ xn--gruppenausflge-schweiz-3lc.ch
 xn--gruppenpraxis-fllanden-f5b.ch
 xn--gruppenpraxis-mnchenstein-twc.ch
 xn--gruppocornr-79a.ch
-xn--gruva-wsa.ch
 xn--gruyre-6ua.ch
 xn--gruyre-aoc-26a.ch
 xn--gruyre-aop-26a.ch
@@ -24686,7 +24685,6 @@ xn--herzensglck-1hb.ch
 xn--herzensglckspost-rzb.ch
 xn--herzensklnge-ocb.ch
 xn--herzenspftchen-3pb.ch
-xn--herzensrume-s8a.ch
 xn--herzensstrke-ocb.ch
 xn--herzenstne-lcb.ch
 xn--herzenstr-x9a.ch
@@ -28517,7 +28515,6 @@ xn--josefbhlertraining-r6b.ch
 xn--josefhfliger-lcb.ch
 xn--josefsdrfli-xfb.ch
 xn--josefstcker-zhb.ch
-xn--joshuahnni-w5a.ch
 xn--josimller-u9a.ch
 xn--josphine-d1a.ch
 xn--jouclub-dya.ch
@@ -34485,7 +34482,6 @@ xn--lnggasse-felsenau-qqb.ch
 xn--lnggasse49-thun-0kb.ch
 xn--lnggassmail-l8a.ch
 xn--lnggasstee-q5a.ch
-xn--lnggen-bua.ch
 xn--lnggen-park-l8a.ch
 xn--lnggenpark-q5a.ch
 xn--lnggerhof-v2a.ch
@@ -35513,6 +35509,7 @@ xn--maclturesuisse-3ob.ch
 xn--macrativit-e7ag.ch
 xn--macsupportzrich-9vb.ch
 xn--mad-pma.ch
+xn--mada-pices-f7a.ch
 xn--madame-no-85a.ch
 xn--madamezrich-zhb.ch
 xn--made-by-nhschtig-3nb84b.ch
@@ -35926,6 +35923,7 @@ xn--marinox-rasenmher-3qb.ch
 xn--mario-flckiger-nsb.ch
 xn--marioflckiger-2ob.ch
 xn--mariokffer-feb.ch
+xn--marion-hmmerle-dib.ch
 xn--marion-sssli-klb.ch
 xn--mariostssel-xfb.ch
 xn--maritan-eya.ch
@@ -37710,6 +37708,7 @@ xn--michaelbrtsch-4ob.ch
 xn--michaelghwiler-dib.ch
 xn--michaelgnter-klb.ch
 xn--michaelhppi-0hb.ch
+xn--michaeljger-s8a.ch
 xn--michaelklliker-2pb.ch
 xn--michaelknstle-3ob.ch
 xn--michaelkser-s8a.ch
@@ -46496,6 +46495,7 @@ xn--rgelifest-z7a.ch
 xn--rgelifreaks-qfb.ch
 xn--rgelifscht-v5a3s.ch
 xn--rgeligruppe-qfb.ch
+xn--rgelimaa-m4a.ch
 xn--rgelimieten-qfb.ch
 xn--rgelimusig-dcb.ch
 xn--rgelionline-qfb.ch
@@ -51799,7 +51799,6 @@ xn--sgereidrnten-gcb65a.ch
 xn--sgereien-0za.ch
 xn--sgereistrasse-malans-bzb.ch
 xn--sgesser-5wa.ch
-xn--sgesser-fensterreinigung-qbc.ch
 xn--sgesser-motorgerte-ltbp.ch
 xn--sgesser-oberli-5hb.ch
 xn--sgesser-reisen-5hb.ch
@@ -52934,6 +52933,7 @@ xn--spezialtre-heb.ch
 xn--spg-strchli-wfb.ch
 xn--sph-rla.ch
 xn--sphl-1ra.ch
+xn--sphlbecken-beb.ch
 xn--sphlbohrtechnik-0vb.ch
 xn--sphlbohrung-uhb.ch
 xn--sphlbohrungen-xob.ch
@@ -54272,6 +54272,7 @@ xn--sthetik-bern-fcb.ch
 xn--sthetik-design-4hb.ch
 xn--sthetik-praxis-4hb.ch
 xn--sthetik-veneers-zkb.ch
+xn--sthetik-winterthur-ktb.ch
 xn--sthetik-zentrum-zkb.ch
 xn--sthetikbern-k8a.ch
 xn--sthetikoase-k8a.ch
@@ -61301,6 +61302,7 @@ xn--wr-tja.ch
 xn--wrbetechnik-l8a.ch
 xn--wrbig-gra.ch
 xn--wrbigundso-q5a.ch
+xn--wrbung-bua.ch
 xn--wrch-loa.ch
 xn--wrchatelier-l8a.ch
 xn--wrchbnkli-v2ae.ch
@@ -62693,6 +62695,7 @@ xn--zgelservice-zrich-22bm.ch
 xn--zgelservice-zug-zvb.ch
 xn--zgelservicezrich-jzbl.ch
 xn--zgelshop-65a.ch
+xn--zgelstart-q9a.ch
 xn--zgeltransport-wob.ch
 xn--zgelunternehmen-bern-pec.ch
 xn--zgelunternehmen-info-pec.ch

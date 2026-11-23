@@ -94,7 +94,6 @@ fnc.ch
 fncapitalag.ch
 fncg.ch
 fnch.ch
-fnci.ch
 fncid.ch
 fnclaw.ch
 fncleanroom.ch
@@ -137,6 +136,7 @@ fng.ch
 fngbiberist.ch
 fngmanagement.ch
 fngng.ch
+fngr.ch
 fnh-training.ch
 fnh.ch
 fnhb.ch

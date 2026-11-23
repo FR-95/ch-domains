@@ -3690,7 +3690,6 @@ easysync.ch
 easysyndic.ch
 easysys.ch
 easysystems.ch
-easytable.ch
 easytabs.ch
 easytafel.ch
 easytag.ch
@@ -4107,6 +4106,7 @@ eatbeheroes.ch
 eatbetter.ch
 eatbio.ch
 eatbliib.ch
+eatbluff.ch
 eatbook.ch
 eatbot.ch
 eatbowl.ch
@@ -4310,7 +4310,6 @@ eatsme.ch
 eatsnackly.ch
 eatsnow.ch
 eatsomehow.ch
-eatsoon.ch
 eatspot.ch
 eatsquare.ch
 eatsready.ch

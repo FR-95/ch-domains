@@ -511,7 +511,6 @@ ivfpek.ch
 ivfr.ch
 ivfschweiz.ch
 ivfss.ch
-ivfswiss.ch
 ivfueralle.ch
 ivfwki.ch
 ivfzuerich.ch
@@ -692,6 +691,7 @@ ivocar.ch
 ivocars.ch
 ivocat.ch
 ivocathomen.ch
+ivocerny.ch
 ivochiarotti.ch
 ivoclar-vivadent.ch
 ivoclar.ch

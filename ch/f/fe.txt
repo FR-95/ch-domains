@@ -7978,7 +7978,6 @@ ferienhausberneroberland.ch
 ferienhausbetreuung.ch
 ferienhausbewertung.ch
 ferienhausbivio.ch
-ferienhausbodensee.ch
 ferienhausbrienz.ch
 ferienhausbrigels.ch
 ferienhausbrione.ch
@@ -10253,6 +10252,7 @@ ferrari-languages.ch
 ferrari-leasing.ch
 ferrari-mieten-vermietung.ch
 ferrari-mieten.ch
+ferrari-museum.ch
 ferrari-owners-club-switzerland.ch
 ferrari-pedruzzi.ch
 ferrari-physiotherapie.ch
@@ -10327,6 +10327,7 @@ ferrarimeilen.ch
 ferrarimetal.ch
 ferrarimieten.ch
 ferrarimotor.ch
+ferrarimuseum.ch
 ferrarinet.ch
 ferrarini-export.ch
 ferrarini-ti.ch
@@ -10933,7 +10934,6 @@ fertilizer.ch
 fertilizers.ch
 fertilo.ch
 fertilovit.ch
-fertilup.ch
 fertionco.ch
 fertipoint.ch
 fertiprotekt.ch

@@ -153,9 +153,6 @@ ac-management.ch
 ac-mariage.ch
 ac-matic.ch
 ac-media.ch
-ac-metall-ag.ch
-ac-metall-design.ch
-ac-metall-gmbh.ch
 ac-metall.ch
 ac-mining.ch
 ac-motorsport.ch
@@ -4408,7 +4405,6 @@ acmestudio.ch
 acmeswiss.ch
 acmetall.ch
 acmetallag.ch
-acmetalldesign.ch
 acmetrust.ch
 acmg.ch
 acmgeneve.ch
@@ -7188,7 +7184,6 @@ actnetwork.ch
 actnews.ch
 actnow.ch
 acto.ch
-actoa.ch
 actochem.ch
 actofardour.ch
 actoform.ch

@@ -17,7 +17,6 @@ vs-capital.ch
 vs-car-moderne.ch
 vs-carrosserie.ch
 vs-cloud.ch
-vs-coiffeur.ch
 vs-consulting.ch
 vs-conthey.ch
 vs-crans-montana.ch
@@ -283,7 +282,6 @@ vscom.ch
 vscommissions.ch
 vsconciergerie.ch
 vsconseils.ch
-vsconsulenze.ch
 vsconsult.ch
 vscontrol.ch
 vscooter.ch

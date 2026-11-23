@@ -2301,6 +2301,7 @@ ns1.kommunikationspunkt.ch
 ns1.konkret-werbung.ch
 ns1.konkretpartner.ch
 ns1.konsumgut.ch
+ns1.kortexa.ch
 ns1.kosmetik-institutsseite-p1.ch
 ns1.kosmetischefavoriten.ch
 ns1.kosmetischerituale.ch
@@ -5573,6 +5574,7 @@ ns2.koljaweb.ch
 ns2.kommunikationspunkt.ch
 ns2.konkret-werbung.ch
 ns2.konkretpartner.ch
+ns2.kortexa.ch
 ns2.kos.ch
 ns2.kosmetik-institutsseite-p1.ch
 ns2.kosmetischefavoriten.ch

@@ -2495,7 +2495,6 @@ brandmentionservice.ch
 brandmetallbau.ch
 brandmichael.ch
 brandmill.ch
-brandmind.ch
 brandmindcall.ch
 brandmindevents.ch
 brandminds.ch
@@ -10886,7 +10885,6 @@ broch.ch
 brochade.ch
 brochart.ch
 brochassocies.ch
-brochbarbaro.ch
 broche.ch
 brochegeante.ch
 brochella.ch
@@ -12184,6 +12182,7 @@ broof.ch
 brook.ch
 brookbea.ch
 brooke-shawnee.ch
+brooke.ch
 brookejackson.ch
 brookeminni.ch
 brooker.ch

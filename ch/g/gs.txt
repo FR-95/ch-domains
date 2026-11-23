@@ -64,7 +64,6 @@ gs-fugenabdichtung.ch
 gs-g.ch
 gs-gartenservice.ch
 gs-gastro.ch
-gs-gebaeudeservice.ch
 gs-generalunternehmen.ch
 gs-getraenke.ch
 gs-gitterrost.ch
@@ -336,6 +335,7 @@ gsbh.ch
 gsbiomedicalservice.ch
 gsbk.ch
 gsbm.ch
+gsbonepower.ch
 gsbozan.ch
 gsbr-asyl.ch
 gsbr.ch

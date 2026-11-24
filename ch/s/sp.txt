@@ -1233,6 +1233,7 @@ spacevalley.ch
 spaceventure.ch
 spaceventures.ch
 spacevision.ch
+spacevum.ch
 spacewalk.ch
 spacewars.ch
 spacewat.ch
@@ -2044,7 +2045,6 @@ spanishrestaurant.ch
 spanishstudio.ch
 spanishtapas.ch
 spanishtaste.ch
-spanishtoday.ch
 spanishtranslation.ch
 spanishtranslations.ch
 spanishtravel.ch
@@ -2066,6 +2066,7 @@ spann-decken.ch
 spann-weite.ch
 spann.ch
 spannagel.ch
+spannart.ch
 spannbaender.ch
 spannbeton.ch
 spannbetonwerk-ag.ch
@@ -3330,7 +3331,6 @@ spatz-magenballon.ch
 spatz-shop.ch
 spatz-tanz.ch
 spatz.ch
-spatzair.ch
 spatzballon.ch
 spatzbasel.ch
 spatzcamping.ch
@@ -4034,6 +4034,7 @@ special-little-things.ch
 special-music-edition.ch
 special-nails-beauty.ch
 special-offers.ch
+special-olympics.ch
 special-one.ch
 special-parts.ch
 special-project.ch
@@ -6121,7 +6122,6 @@ spenglersolar.ch
 spenglerstiftung.ch
 spenglertech.ch
 spenglertechnik.ch
-spenglerthomas.ch
 spenglerundmobil.ch
 spenglerversand.ch
 spenglerwalder-consulting.ch
@@ -10732,7 +10732,6 @@ spinwin.ch
 spinwinera-casino.ch
 spinwinera-ch.ch
 spinwinera.ch
-spinwineracasino.ch
 spinwineracasinos.ch
 spinwyn.ch
 spinx.ch
@@ -10774,6 +10773,7 @@ spipex.ch
 spiqle.ch
 spira-ce.ch
 spira-conservation.ch
+spira-consulting.ch
 spira-coworking.ch
 spira-ergotherapie.ch
 spira-kinesiologie.ch
@@ -17273,6 +17273,7 @@ sportphysiofilic.ch
 sportphysiohummer.ch
 sportphysiomh.ch
 sportphysiosturn.ch
+sportphysiotherapie-basel.ch
 sportphysiotherapie-bern.ch
 sportphysiotherapie-martens.ch
 sportphysiotherapie-zuerich.ch
@@ -18528,6 +18529,8 @@ sportwetten-bar.ch
 sportwetten-bonus.ch
 sportwetten-cafe.ch
 sportwetten-eskimo.ch
+sportwetten-neu.ch
+sportwetten-ranking.ch
 sportwetten-schweiz-19.ch
 sportwetten-schweiz.ch
 sportwetten.ch
@@ -20288,6 +20291,7 @@ springseile.ch
 springsklee.ch
 springsolutions.ch
 springspinnen.ch
+springspinnenatelier.ch
 springsteen.ch
 springsteenmovie.ch
 springsteps.ch
@@ -20397,6 +20401,7 @@ sprinterwohnmobilausbau.ch
 sprintgarage.ch
 sprintify.ch
 sprintis.ch
+sprintiva.ch
 sprintix.ch
 sprintlab.ch
 sprintlearn.ch
@@ -20702,7 +20707,6 @@ spruch-reif.ch
 spruch.ch
 spruchbilder.ch
 spruchkarten.ch
-spruchomat.ch
 spruchreif-gmbh.ch
 spruchreif.ch
 spruchreifgmbh.ch

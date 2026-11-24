@@ -1942,7 +1942,6 @@ egpa.ch
 egpelo.ch
 egpeter.ch
 egpexpertisen.ch
-egph.ch
 egplan.ch
 egplt.ch
 egplus.ch
@@ -1956,6 +1955,7 @@ egraf.ch
 egrag.ch
 egrai.ch
 egrand.ch
+egraph.ch
 egraumentwicklung.ch
 egrealestate.ch
 egreement.ch

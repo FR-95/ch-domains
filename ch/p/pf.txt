@@ -1334,7 +1334,6 @@ pfchampions.ch
 pfchangs.ch
 pfchatton.ch
 pfcheckout.ch
-pfcloud.ch
 pfco.ch
 pfcoen.ch
 pfcomputing.ch
@@ -2427,7 +2426,6 @@ pferdestaerken.ch
 pferdestall-altenberg.ch
 pferdestall-fricktal.ch
 pferdestall-gattikon.ch
-pferdestall-mieten.ch
 pferdestall-obersaxen.ch
 pferdestall-pfruendweid.ch
 pferdestall.ch
@@ -4331,7 +4329,6 @@ pflegemesse.ch
 pflegemi.ch
 pflegemit.ch
 pflegemitbegeisterung.ch
-pflegemitfreudeharmonie.ch
 pflegemitherz.ch
 pflegemitherz24.ch
 pflegemitherzz.ch
@@ -5464,6 +5461,7 @@ pfyfferschmid.ch
 pfyfferschuel.ch
 pfyffersyte.ch
 pfyfferzunft.ch
+pfyffoltere.ch
 pfyfoltru.ch
 pfyfou.ch
 pfyl-identity.ch

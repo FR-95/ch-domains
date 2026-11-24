@@ -1150,6 +1150,7 @@ sweethome-outlet.ch
 sweethome-rawai.ch
 sweethome-zuerich.ch
 sweethome.ch
+sweethomebakery.ch
 sweethomeblog.ch
 sweethomecollection.ch
 sweethomedesign.ch
@@ -2900,6 +2901,7 @@ swiss-ai-quality-association.ch
 swiss-ai-radio.ch
 swiss-ai-receptionist.ch
 swiss-ai-research-center.ch
+swiss-ai-school.ch
 swiss-ai-shapers-award.ch
 swiss-ai-shapers.ch
 swiss-ai-skills-academy.ch
@@ -4053,6 +4055,7 @@ swiss-cinema.ch
 swiss-cinematographer-society.ch
 swiss-cinematographers-society.ch
 swiss-circle.ch
+swiss-circuit.ch
 swiss-circular-quality.ch
 swiss-circuvalor.ch
 swiss-cis.ch
@@ -4239,6 +4242,7 @@ swiss-confection.ch
 swiss-confisa.ch
 swiss-confiserie.ch
 swiss-congress.ch
+swiss-connect-solutions.ch
 swiss-connected.ch
 swiss-connection.ch
 swiss-conntec.ch
@@ -6073,6 +6077,7 @@ swiss-immobillien.ch
 swiss-immocloud.ch
 swiss-immoconstruction.ch
 swiss-immogroup.ch
+swiss-immooag.ch
 swiss-immopoint.ch
 swiss-immos.ch
 swiss-immotax.ch
@@ -8198,7 +8203,6 @@ swiss-resine.ch
 swiss-resort.ch
 swiss-respecful-design.ch
 swiss-responder.ch
-swiss-responders.ch
 swiss-responsible.ch
 swiss-ressys.ch
 swiss-restaurant-card.ch
@@ -12100,6 +12104,8 @@ swissblackout.ch
 swissblacks.ch
 swissblacktea.ch
 swissblade-ai.ch
+swissblade-group.ch
+swissblade-team.ch
 swissblade.ch
 swissblades.ch
 swissbladetattoo.ch
@@ -12182,7 +12188,6 @@ swissbnk.ch
 swissbo.ch
 swissboa.ch
 swissboard.ch
-swissboard2030.ch
 swissboardaward.ch
 swissboardawards.ch
 swissboardcertificate.ch
@@ -13230,6 +13235,7 @@ swisscasinodeals.ch
 swisscasinoerfahrungen.ch
 swisscasinoguide.ch
 swisscasinointernational.ch
+swisscasinolegal.ch
 swisscasinoo.ch
 swisscasinoonline.ch
 swisscasinoradar.ch
@@ -13792,6 +13798,7 @@ swissclinvar.ch
 swissclinx.ch
 swissclip.ch
 swissclix.ch
+swisscloak.ch
 swissclock.ch
 swissclockdesigns.ch
 swissclocks.ch
@@ -14850,6 +14857,7 @@ swissdancedays.ch
 swissdancefestival.ch
 swissdancegallery.ch
 swissdancehall.ch
+swissdancemarket.ch
 swissdanceperformance.ch
 swissdancepool.ch
 swissdanceproductions.ch
@@ -16139,6 +16147,7 @@ swissendometriosis.ch
 swissendometriosisnetwork.ch
 swissendoscopicspine.ch
 swissendurance.ch
+swissenduranceexperience.ch
 swissenduro.ch
 swissenergie.ch
 swissenergiecontract.ch
@@ -19650,6 +19659,7 @@ swissius.ch
 swissiusnet.ch
 swissivd.ch
 swissivtherapy.ch
+swissivylab.ch
 swissiw.ch
 swissiws.ch
 swissix.ch
@@ -21586,6 +21596,8 @@ swissmedicalteam.ch
 swissmedicaltechnologies.ch
 swissmedicaltour.ch
 swissmedicaltransfer.ch
+swissmedicaltransport.ch
+swissmedicaltransportgroup.ch
 swissmedicaltreatment.ch
 swissmedicalunion.ch
 swissmedicalwatch.ch
@@ -23069,6 +23081,7 @@ swissoocytedonation.ch
 swissop.ch
 swissopaque.ch
 swissopelforum.ch
+swissopen-shgeneva.ch
 swissopen-wcdf.ch
 swissopen.ch
 swissopenchampionships.ch
@@ -23879,6 +23892,7 @@ swisspinball.ch
 swisspinballexpo.ch
 swisspinballmuseum.ch
 swisspine.ch
+swissping.ch
 swisspinkgroup.ch
 swisspinoy.ch
 swisspins.ch
@@ -24134,7 +24148,6 @@ swisspopcorn.ch
 swisspopo.ch
 swisspoppers.ch
 swisspops.ch
-swisspopuphouse.ch
 swisspor-academy.ch
 swisspor-alpor.ch
 swisspor-ecorit.ch
@@ -26441,6 +26454,7 @@ swissspaceambition.ch
 swissspacecommunity.ch
 swissspacedefensehub.ch
 swissspaceexperience.ch
+swissspacefactory.ch
 swissspaceforce.ch
 swissspacemuseum.ch
 swissspaceport.ch
@@ -26667,6 +26681,7 @@ swissstreetworkout.ch
 swissstress.ch
 swissstresscenter.ch
 swissstressindex.ch
+swissstride.ch
 swissstrike.ch
 swissstring.ch
 swissstrings.ch
@@ -27821,6 +27836,7 @@ swisstrichology.ch
 swisstrichologyinstitute.ch
 swisstrick.ch
 swisstricks.ch
+swisstride.ch
 swisstrike.ch
 swisstrilogy.ch
 swisstrimino.ch
@@ -28362,6 +28378,7 @@ swissvintagewatches.ch
 swissvintageworld.ch
 swissvinyl.ch
 swissvinyladdict.ch
+swissviolasociety.ch
 swissviolin.ch
 swissviolinstudio.ch
 swissvip.ch
@@ -29361,7 +29378,6 @@ switchboards.ch
 switchbot.ch
 switchbox.ch
 switchbridge.ch
-switchcards.ch
 switchcase.ch
 switchcert.ch
 switchclass.ch
@@ -30394,6 +30410,7 @@ swonso.ch
 swonsolution.ch
 swoo.ch
 swood.ch
+swoodi.ch
 swoodo.ch
 swoodoo.ch
 swoody.ch

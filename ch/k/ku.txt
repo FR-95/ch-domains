@@ -2694,6 +2694,8 @@ kuhpension-wiesengrunde.ch
 kuhphysio.ch
 kuhpille.ch
 kuhpillen.ch
+kuhportrait.ch
+kuhportraits.ch
 kuhr.ch
 kuhra-vital.ch
 kuhravital.ch
@@ -7582,6 +7584,7 @@ kunsttherapie-malzeit.ch
 kunsttherapie-meilen.ch
 kunsttherapie-metzler.ch
 kunsttherapie-mnemosyne.ch
+kunsttherapie-mueller.ch
 kunsttherapie-murten.ch
 kunsttherapie-murtensee.ch
 kunsttherapie-nova.ch
@@ -9872,6 +9875,7 @@ kurzimmobilien.ch
 kurzimplantate.ch
 kurzinfo.ch
 kurzjobs.ch
+kurzke.ch
 kurzkommentar.ch
 kurzkredit.ch
 kurzkreuzfahrt.ch

@@ -157,7 +157,6 @@ im-herzen.ch
 im-heumoos.ch
 im-hier-und-jetzt.ch
 im-himmel.ch
-im-himmelrich.ch
 im-hochhaus.ch
 im-hoefli-7.ch
 im-hoefli-sibe.ch
@@ -2723,6 +2722,7 @@ imlangacher.ch
 imlangenloh.ch
 imlaubegg.ch
 imlauber.ch
+imlaufederzeit.ch
 imlaw.ch
 imlawtech.ch
 imlcoaching.ch
@@ -7130,6 +7130,7 @@ immobovanche.ch
 immobowner.ch
 immobox.ch
 immobox24.ch
+immoboyscout.ch
 immobplus.ch
 immobrain.ch
 immobrains.ch
@@ -10086,6 +10087,7 @@ immunapharm.ch
 immunatherapeutics.ch
 immunbiomarker.ch
 immunbiomed.ch
+immunbotenstoffe.ch
 immuncaria.ch
 immuncheck.ch
 immund.ch

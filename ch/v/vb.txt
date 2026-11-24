@@ -146,6 +146,7 @@ vbc-chatel.ch
 vbc-counseling.ch
 vbc-dulliken.ch
 vbc-embrach.ch
+vbc-erstfeld.ch
 vbc-fgz.ch
 vbc-fr.ch
 vbc-glaronia.ch
@@ -305,6 +306,7 @@ vbcschaffhausen.ch
 vbcschiers.ch
 vbcschinznach.ch
 vbcschwarzenburg.ch
+vbcschwendibach.ch
 vbcseftigen.ch
 vbcsense.ch
 vbcseon.ch

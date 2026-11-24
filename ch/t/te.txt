@@ -438,6 +438,7 @@ team-bekleidung.ch
 team-bellevie.ch
 team-beratung.ch
 team-berggeiss.ch
+team-betriebsklar.ch
 team-betting.ch
 team-beverage.ch
 team-beyond.ch
@@ -445,6 +446,7 @@ team-bildung-events.ch
 team-bildung.ch
 team-binary.ch
 team-blue.ch
+team-blueleaf.ch
 team-blunschy.ch
 team-bly.ch
 team-board.ch
@@ -471,6 +473,7 @@ team-building.ch
 team-burgherr.ch
 team-bw.ch
 team-camoghe.ch
+team-canine.ch
 team-care.ch
 team-carimex.ch
 team-castro-motorsport.ch
@@ -813,6 +816,7 @@ team-sunneschyn.ch
 team-svp.ch
 team-sw.ch
 team-swiss-icc-2027.ch
+team-swissblade.ch
 team-switzerland.ch
 team-synergy.ch
 team-tanner.ch
@@ -998,6 +1002,7 @@ teamargovia.ch
 teamaria.ch
 teamarmee.ch
 teamarthur.ch
+teamarzt.ch
 teamassist.ch
 teamaster.ch
 teamatec.ch
@@ -3187,6 +3192,7 @@ techforce.ch
 techforgood.ch
 techforhope.ch
 techform.ch
+techforyou.ch
 techfourall.ch
 techfox.ch
 techfreak.ch
@@ -4437,7 +4443,6 @@ technowar.ch
 technoware-sarl.ch
 technoware.ch
 technoweb.ch
-technowin.ch
 technowins.ch
 technowit.ch
 technowitch.ch
@@ -4781,6 +4786,7 @@ techvisory.ch
 techvista-solutions.ch
 techvolution.ch
 techvolver.ch
+techvox.ch
 techvr.ch
 techvs.ch
 techwan.ch
@@ -5587,7 +5593,6 @@ tedxgeneva.ch
 tedxhelvetia.ch
 tedxhslu.ch
 tedxhwz.ch
-tedxlachauxdefonds.ch
 tedxlakegeneva.ch
 tedxlugano.ch
 tedxmartigny.ch
@@ -7268,6 +7273,7 @@ teleboerse.ch
 telebor.ch
 teleboutique.ch
 telebox-24.ch
+teleboy-blackfriday-gutschein.ch
 teleboy-tippspiel.ch
 teleboy.ch
 telebreuleux.ch
@@ -8089,7 +8095,6 @@ telephonica.ch
 telephonie-ia-suisse.ch
 telephonie-ip.ch
 telephonie.ch
-telephoniemobile.ch
 telephonieservices.ch
 telephonitis.ch
 telephonmuseum.ch
@@ -8447,6 +8452,7 @@ telinet.ch
 telinfo.ch
 telinfos.ch
 telinio.ch
+telinject-schweiz.ch
 telinject.ch
 telinor.ch
 telinox.ch
@@ -8497,6 +8503,7 @@ tell-camp.ch
 tell-collect.ch
 tell-daten.ch
 tell-derfilm.ch
+tell-diagnostics.ch
 tell-diagnostik.ch
 tell-digital.ch
 tell-eiger.ch
@@ -11057,6 +11064,7 @@ tennisspieler.ch
 tennissport-groth.ch
 tennissport.ch
 tennissquashbrig.ch
+tennisstation.ch
 tennisstats.ch
 tennisstore.ch
 tennisstunde.ch
@@ -12905,7 +12913,6 @@ terra45.ch
 terra5.ch
 terra7.ch
 terraalpina.ch
-terraalpinaapartment.ch
 terraalpine.ch
 terraambiente.ch
 terraandesplus.ch
@@ -13068,6 +13075,7 @@ terrafit.ch
 terrafix.ch
 terraflex-immo.ch
 terrafloor.ch
+terraflora.ch
 terrafloris.ch
 terraflow.ch
 terrafly.ch
@@ -13378,7 +13386,6 @@ terranreisen.ch
 terranum.ch
 terranura.ch
 terranus.ch
-terranutritech.ch
 terrao.ch
 terraofficium.ch
 terraoil.ch
@@ -14180,6 +14187,7 @@ terresuisse.ch
 terresvaudoises.ch
 terresvivantes.ch
 terret.ch
+terreta.ch
 terretaz.ch
 terrettaz-cavallo.ch
 terrettaz-electricite.ch
@@ -14317,7 +14325,6 @@ terroirbar.ch
 terroirchampagne.ch
 terroircoffee.ch
 terroirdeneuchatel.ch
-terroirdumonde.ch
 terroire.ch
 terroiresear.ch
 terroiretcetera.ch
@@ -14325,7 +14332,6 @@ terroirfribourg.ch
 terroirfrites.ch
 terroirgourmand.ch
 terroirgourmet.ch
-terroirhelvetique.ch
 terroirist-wein.ch
 terroirist-weine.ch
 terroirist-wine.ch
@@ -15454,6 +15460,7 @@ test-my-external-ns.ch
 test-mycerty.ch
 test-myecohub.ch
 test-nanotime.ch
+test-naturalisation-lausanne.ch
 test-naturalisation.ch
 test-naturalizzazione.ch
 test-ne.ch
@@ -17092,6 +17099,7 @@ tevag.ch
 tevah-suisse.ch
 tevah-vaud.ch
 tevah.ch
+tevakace.ch
 tevall.ch
 tevan.ch
 tevanes.ch

@@ -1,6 +1,7 @@
 ai-1.ch
 ai-21datas.ch
 ai-24.ch
+ai-360.ch
 ai-4-life-sciences.ch
 ai-aas.ch
 ai-able.ch
@@ -308,6 +309,7 @@ ai-do-it.ch
 ai-do.ch
 ai-doctor.ch
 ai-done.ch
+ai-drian.ch
 ai-drive.ch
 ai-driven-company.ch
 ai-driven-leadership.ch
@@ -1539,6 +1541,7 @@ aiciso.ch
 aiciti.ch
 aicitizensummit.ch
 aicity.ch
+aicivictrust.ch
 aiclaritylab.ch
 aiclasses.ch
 aiclassroom.ch
@@ -2789,7 +2792,6 @@ aijholdings.ch
 aijiandpeach.ch
 aijo-dojo.ch
 aijo.ch
-aijob.ch
 aijobs.ch
 aijobtracker.ch
 aijop.ch
@@ -6176,6 +6178,7 @@ airventures.ch
 airvenue.ch
 airvertiser.ch
 airvertize.ch
+airvest.ch
 airvictory.ch
 airvideo.ch
 airvideopro.ch
@@ -6221,6 +6224,7 @@ airwedding.ch
 airwell-residential.ch
 airwell.ch
 airwen.ch
+airwest.ch
 airwheel.ch
 airwheelschweiz.ch
 airwick-shop.ch
@@ -6254,6 +6258,7 @@ airzona.ch
 airzone.ch
 airzonecloud.ch
 airzonecontrol.ch
+airzoneprocloud.ch
 airzoneservice.ch
 airzrh.ch
 ais-advanced.ch

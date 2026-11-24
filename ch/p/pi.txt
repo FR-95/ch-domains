@@ -124,6 +124,7 @@ pia-medical.ch
 pia-montagne.ch
 pia-personnel.ch
 pia-physio.ch
+pia-pilgern.ch
 pia-planer.ch
 pia-riesen.ch
 pia-rockrohr.ch
@@ -3877,6 +3878,7 @@ pikkel.ch
 pikkerton.ch
 pikkid.ch
 pikkle.ch
+pikko.ch
 pikkobello.ch
 pikkolo.ch
 pikku.ch
@@ -4503,6 +4505,7 @@ pilatheo.ch
 pilathuus.ch
 pilatis.ch
 pilatitude.ch
+pilatness.ch
 pilato.ch
 pilatos360.ch
 pilatrix.ch
@@ -4750,7 +4753,6 @@ pilet-renaud-sa.ch
 pilet-renaud.ch
 pilet-renaud4students.ch
 pilet.ch
-pilet1845.ch
 piletek.ch
 piletmaquettes.ch
 piletpartner.ch
@@ -4793,6 +4795,7 @@ pilgermadonna-fatima.ch
 pilgermadonna.ch
 pilgermotel.ch
 pilgern-auf-segenswegen.ch
+pilgern-im-alltag.ch
 pilgern-in-der-schweiz.ch
 pilgern-meditation.ch
 pilgern-schweiz.ch
@@ -6018,7 +6021,6 @@ pinciro.ch
 pincities.ch
 pincity.ch
 pinck.ch
-pinckernelle.ch
 pinclaw.ch
 pincloud.ch
 pinco.ch
@@ -8960,6 +8962,7 @@ pitbuehler.ch
 pitbull-clothing.ch
 pitbull-terrier.ch
 pitbull.ch
+pitbullband.ch
 pitbulljeans.ch
 pitbulls.ch
 pitbullshop.ch
@@ -8982,6 +8985,7 @@ pitch-solutions.ch
 pitch-und-putt-luzern.ch
 pitch-und-putt.ch
 pitch.ch
+pitchandco.ch
 pitchandplay.ch
 pitchandputt-uri.ch
 pitchandputt.ch
@@ -9918,6 +9922,7 @@ pixelement.ch
 pixelemma.ch
 pixelenergy.ch
 pixeleon.ch
+pixeler.ch
 pixeletplume.ch
 pixeletpoivre.ch
 pixelette.ch
@@ -10873,7 +10878,6 @@ pizza-academy.ch
 pizza-aesch.ch
 pizza-alaturka.ch
 pizza-allegrezza.ch
-pizza-amano.ch
 pizza-amici.ch
 pizza-amore-flums.ch
 pizza-amore.ch
@@ -11156,7 +11160,6 @@ pizza-mia-fribourg.ch
 pizza-mia-strengelbach.ch
 pizza-mia.ch
 pizza-michelangelo.ch
-pizza-milano-zh.ch
 pizza-milano.ch
 pizza-milanos-lausanne.ch
 pizza-miramare.ch
@@ -11339,7 +11342,6 @@ pizzaacademy.ch
 pizzaadler.ch
 pizzaadomicile.ch
 pizzaalvolo.ch
-pizzaamano.ch
 pizzaamore.ch
 pizzaamoremio.ch
 pizzaandmore.ch
@@ -11433,6 +11435,7 @@ pizzacasarecciogastronomie-frick.ch
 pizzacasazuerich.ch
 pizzacastello.ch
 pizzacatering.ch
+pizzacenter-lengnau.ch
 pizzacenterlengnau.ch
 pizzacento.ch
 pizzacentral.ch

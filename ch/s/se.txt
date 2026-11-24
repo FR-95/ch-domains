@@ -2039,6 +2039,7 @@ secmac.ch
 secmail.ch
 secmailhost.ch
 secman.ch
+secmaniak.ch
 secmap.ch
 secmarket.ch
 secmatters.ch
@@ -2131,7 +2132,6 @@ second-fit.ch
 second-force.ch
 second-foundation.ch
 second-green.ch
-second-hair.ch
 second-hand-brautkleid.ch
 second-hand-mode.ch
 second-hand-online.ch
@@ -2928,6 +2928,7 @@ secretproductions.ch
 secretproperty.ch
 secretpsyko.ch
 secretrepublic.ch
+secretresear.ch
 secretrf.ch
 secretroom.ch
 secretrooms.ch
@@ -4369,6 +4370,7 @@ securityalarm.ch
 securityalarms.ch
 securityandfreedom.ch
 securityandsafety.ch
+securityarchitect.ch
 securityasaservice.ch
 securityascode.ch
 securityassessment.ch
@@ -5006,6 +5008,7 @@ seduwa.ch
 seduxed.ch
 seduxion.ch
 seduzione.ch
+seduzo.ch
 sedvnvm.ch
 sedy.ch
 sedykh.ch
@@ -6270,7 +6273,6 @@ seeland-kuechen.ch
 seeland-legal.ch
 seeland-lex.ch
 seeland-logistics.ch
-seeland-magazin.ch
 seeland-manufactory.ch
 seeland-marine.ch
 seeland-mediation.ch
@@ -6579,6 +6581,7 @@ seelen-perle.ch
 seelen-pfad.ch
 seelen-pfade.ch
 seelen-pflege.ch
+seelen-portrait.ch
 seelen-power.ch
 seelen-quelle.ch
 seelen-raum-neu-gestalten.ch
@@ -11224,6 +11227,7 @@ selbst-heilungs-kraft.ch
 selbst-hilfe.ch
 selbst-hypnose.ch
 selbst-ist-die-region.ch
+selbst-kompetent.ch
 selbst-mitgefuehl.ch
 selbst-organisation.ch
 selbst-portrait.ch
@@ -11533,6 +11537,7 @@ selbstklebefilz.ch
 selbstklebefolie.ch
 selbstklebefolien.ch
 selbstklebetasche.ch
+selbstkompetent.ch
 selbstkompetenz.ch
 selbstkontakt.ch
 selbstkontrolle-handbuch.ch
@@ -13852,7 +13857,6 @@ semeadores.ch
 semeagmbh.ch
 semec.ch
 semeco.ch
-semed.ch
 semedia.ch
 semedofineart.ch
 semedoservices.ch
@@ -13943,7 +13947,6 @@ semi-circle.ch
 semi-colon.ch
 semi-croquants.ch
 semi-electronic.ch
-semi-finance.ch
 semi-immobilien.ch
 semi-marathon-des-cotes-de-l-orbe.ch
 semi-marathon-fribourg.ch
@@ -16350,7 +16353,6 @@ senn-keramik.ch
 senn-lb.ch
 senn-lippuner.ch
 senn-lohnunternehmen.ch
-senn-marketing.ch
 senn-martin.ch
 senn-maschinen.ch
 senn-maschinenbau.ch
@@ -16409,6 +16411,7 @@ sennarelax.ch
 sennariehn.ch
 sennart.ch
 sennauto.ch
+sennautos-infos.ch
 sennautos.ch
 sennaviation.ch
 sennbauprojekt.ch
@@ -16483,7 +16486,6 @@ sennereisamnaun.ch
 sennereivals.ch
 sennergie.ch
 sennergy.ch
-senneria-catering.ch
 senneria.ch
 sennerich.ch
 sennerin.ch
@@ -17152,6 +17154,7 @@ senseyourself.ch
 sensfloor.ch
 sensflow.ch
 sensgraph.ch
+senshai.ch
 senshi-yoga.ch
 senshi.ch
 senshift.ch
@@ -18727,6 +18730,7 @@ seoservice.ch
 seoservices.ch
 seoshark.ch
 seoshop.ch
+seosign.ch
 seosky.ch
 seosoftware.ch
 seospecialist.ch
@@ -19205,6 +19209,7 @@ sequdrone.ch
 sequeira.ch
 sequel-ag.ch
 sequel.ch
+sequela.ch
 sequelblu.ch
 sequello.ch
 sequelmedtech.ch
@@ -19640,6 +19645,7 @@ serbiannight.ch
 serbiaprime.ch
 serbiaprimesite.ch
 serbiaprimesiteone.ch
+serbiashop.ch
 serbien-forum.ch
 serbien-shop.ch
 serbien.ch
@@ -21549,6 +21555,7 @@ servetia.ch
 servetiaswiss.ch
 servetica.ch
 servetsch-da-chat-svizra.ch
+servettaz.ch
 servette-auto-ecole.ch
 servette-music.ch
 servette-physio.ch
@@ -22162,7 +22169,6 @@ servicedomino.ch
 servicedomotique.ch
 servicedomus.ch
 servicedrive.ch
-servicedriver.ch
 serviceducommerce.ch
 servicedufeuduvullyfribourgeois.ch
 serviceduvin.ch
@@ -22632,6 +22638,7 @@ serviceswissnettoyage.ch
 servicesympa.ch
 servicesynovaonline.ch
 servicetable.ch
+servicetaxi24.ch
 servicetbgl.ch
 serviceteam.ch
 serviceteamwallis.ch
@@ -23691,7 +23698,6 @@ settitude-massage.ch
 settitude.ch
 settle.ch
 settleapp.ch
-settled.ch
 settlein.ch
 settleinswitzerland.ch
 settlement.ch
@@ -24678,6 +24684,7 @@ seville.ch
 sevilmis.ch
 sevim-architektur.ch
 sevimli.ch
+sevimueller.ch
 sevinc.ch
 sevincjewellery.ch
 sevinet.ch

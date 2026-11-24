@@ -1783,7 +1783,6 @@ psy-care-team.ch
 psy-care.ch
 psy-carouge.ch
 psy-cerletti.ch
-psy-ch-adamus.ch
 psy-champel.ch
 psy-chatel.ch
 psy-chic.ch
@@ -4735,6 +4734,7 @@ psz-zell.ch
 psz.ch
 psza.ch
 pszahntechnik.ch
+pszammae.ch
 pszch.ch
 pszeitung.ch
 pszg.ch

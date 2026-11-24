@@ -572,6 +572,7 @@
 1294.ch
 1295.ch
 1299.ch
+129street.ch
 12a-logistics.ch
 12a.ch
 12active.ch
@@ -620,6 +621,7 @@
 12facets.ch
 12fahrschule.ch
 12fly.ch
+12force.ch
 12fotobuch.ch
 12fuehrerschein.ch
 12gallonoverdose.ch

@@ -120,7 +120,6 @@ nydcap.ch
 nyde.ch
 nydeco.ch
 nydegg-lift.ch
-nydegg-taxi.ch
 nydegg-verlag.ch
 nydegg-yoga.ch
 nydegg.ch
@@ -517,7 +516,9 @@ nyota-safari.ch
 nyota.ch
 nyotarain.ch
 nyotheneko.ch
+nyou-lenzerheide.ch
 nyou.ch
+nyoulenzerheide.ch
 nyousha.ch
 nyousite.ch
 nyoutri.ch

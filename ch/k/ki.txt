@@ -132,6 +132,7 @@ ki-beratungsagentur.ch
 ki-beratungsgesellschaft.ch
 ki-bergfuehrer.ch
 ki-bergsteigen.ch
+ki-betrieb.ch
 ki-betriebssystem-schweiz.ch
 ki-betriebssystem.ch
 ki-bewerbung.ch
@@ -556,6 +557,7 @@ ki-kreationen.ch
 ki-kredit.ch
 ki-kreuzfahrtplaner.ch
 ki-krypto-circle.ch
+ki-ku.ch
 ki-kuenstler.ch
 ki-kultur.ch
 ki-kunst.ch
@@ -995,6 +997,7 @@ ki-systeme.ch
 ki-systems.ch
 ki-talente.ch
 ki-talk.ch
+ki-tax.ch
 ki-te.ch
 ki-teacher.ch
 ki-team.ch
@@ -1109,6 +1112,7 @@ ki-webinar.ch
 ki-webseite-erstellen.ch
 ki-webseite.ch
 ki-websichtbar.ch
+ki-website-check.ch
 ki-website-erstellen.ch
 ki-website-schweiz.ch
 ki-website.ch
@@ -1671,7 +1675,6 @@ kibotech.ch
 kibotemail.ch
 kibotschafter.ch
 kibou.ch
-kibouakari.ch
 kibox.ch
 kibozzle.ch
 kibra-gemuese.ch
@@ -3236,6 +3239,7 @@ kieferorthopaedie-in-wallisellen.ch
 kieferorthopaedie-kandertal.ch
 kieferorthopaedie-kim.ch
 kieferorthopaedie-koeniz.ch
+kieferorthopaedie-kriens.ch
 kieferorthopaedie-kuehn.ch
 kieferorthopaedie-kuesnacht.ch
 kieferorthopaedie-langenthal.ch
@@ -3270,6 +3274,7 @@ kieferorthopaedie-stadelhofen-zuerich.ch
 kieferorthopaedie-stadelhofen.ch
 kieferorthopaedie-stans.ch
 kieferorthopaedie-suisse.ch
+kieferorthopaedie-sursee.ch
 kieferorthopaedie-swiss.ch
 kieferorthopaedie-teufen.ch
 kieferorthopaedie-thalwil.ch
@@ -3629,6 +3634,7 @@ kiesundbeton.ch
 kiesundbetonfrei.ch
 kiesundco.ch
 kiesundkloetzli.ch
+kiesundrohstoff.ch
 kiesverband.ch
 kieswaben.ch
 kieswegfest.ch
@@ -3728,7 +3734,6 @@ kiffegolf.ch
 kiffen.ch
 kiffende.ch
 kiffer-shop.ch
-kiffer.ch
 kifferhunger.ch
 kifferkurier.ch
 kiffershop.ch
@@ -7308,8 +7313,10 @@ kinderlesen.ch
 kinderleuchten.ch
 kinderli.ch
 kinderlicht-burundi.ch
+kinderlicht.ch
 kinderliebe.ch
 kinderliebevollbegleiten.ch
+kinderliecht.ch
 kinderlieder.ch
 kinderliederbuch.ch
 kinderliederladen.ch
@@ -9122,7 +9129,6 @@ kinesio-basel.ch
 kinesio-care.ch
 kinesio-coach.ch
 kinesio-elise.ch
-kinesio-energetique.ch
 kinesio-energie-yverdon.ch
 kinesio-forum.ch
 kinesio-grandson.ch
@@ -15954,6 +15960,7 @@ kiwiguide.ch
 kiwih.ch
 kiwihasenberg.ch
 kiwihomes.ch
+kiwihouse.ch
 kiwii.ch
 kiwiiz.ch
 kiwik.ch

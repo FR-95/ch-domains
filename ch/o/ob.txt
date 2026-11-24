@@ -403,7 +403,6 @@ oberdorf24.ch
 oberdorf28.ch
 oberdorf5.ch
 oberdorf8.ch
-oberdorfcleaners.ch
 oberdorfer-weine-thurgau.ch
 oberdorfer.ch
 oberdorffest.ch
@@ -1781,6 +1780,7 @@ objektraum.ch
 objektrechner.ch
 objektregister.ch
 objektreinigung.ch
+objektria.ch
 objektscan.ch
 objektschaetzung.ch
 objektschatzung.ch

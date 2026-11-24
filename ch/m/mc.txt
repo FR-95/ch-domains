@@ -244,7 +244,6 @@ mc-s.ch
 mc-sa.ch
 mc-schmiedrued.ch
 mc-seminar.ch
-mc-server.ch
 mc-service.ch
 mc-services.ch
 mc-sexo.ch
@@ -1366,7 +1365,6 @@ mcmderby.ch
 mcme.ch
 mcmed.ch
 mcmedia.ch
-mcmediagroup.ch
 mcmedical.ch
 mcmedican.ch
 mcmeier.ch
@@ -1412,7 +1410,6 @@ mcmxci.ch
 mcmxcix.ch
 mcmxxi.ch
 mcn-baetterkinden.ch
-mcn.ch
 mcna.ch
 mcnally.ch
 mcnamara.ch

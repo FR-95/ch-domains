@@ -77,6 +77,7 @@ q-d.ch
 q-dance.ch
 q-data.ch
 q-day.ch
+q-dent.ch
 q-design.ch
 q-designs.ch
 q-digital.ch
@@ -201,6 +202,7 @@ q-portal.ch
 q-product.ch
 q-publikationen.ch
 q-punkt.ch
+q-pv.ch
 q-q.ch
 q-quest.ch
 q-r.ch

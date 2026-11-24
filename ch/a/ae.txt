@@ -20,6 +20,7 @@ ae-design.ch
 ae-easy.ch
 ae-esthetique.ch
 ae-events.ch
+ae-exec.ch
 ae-experts.ch
 ae-fashion.ch
 ae-flachdach.ch
@@ -1624,6 +1625,7 @@ aeon-arts.ch
 aeon-communication.ch
 aeon-ea.ch
 aeon-immo.ch
+aeon-immobilien.ch
 aeon-laser.ch
 aeon-legal.ch
 aeon-lifestyle.ch
@@ -1643,6 +1645,7 @@ aeonian.ch
 aeonic.ch
 aeonics.ch
 aeonid.ch
+aeonimmo.ch
 aeoninvest.ch
 aeoniq.ch
 aeonix.ch
@@ -2524,7 +2527,6 @@ aerospace-ip.ch
 aerospace-ventures.ch
 aerospace.ch
 aerospaceadventures.ch
-aerospaceawards.ch
 aerospacelab.ch
 aerospec.ch
 aerospect.ch
@@ -3854,6 +3856,7 @@ aethera.ch
 aetherahealth.ch
 aetherarituals.ch
 aethercloud.ch
+aethercore.ch
 aetherdev.ch
 aetherdigital.ch
 aethereal-photography.ch

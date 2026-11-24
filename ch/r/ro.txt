@@ -88,9 +88,11 @@ road-less-overland.ch
 road-less.ch
 road-monitoring.ch
 road-mouse.ch
+road-of-healing.ch
 road-point.ch
 road-pricing-ja.ch
 road-pricing.ch
+road-rail.ch
 road-runner.ch
 road-runners.ch
 road-safety-inspection.ch
@@ -261,6 +263,8 @@ roadquake.ch
 roadquest.ch
 roadracingshop.ch
 roadrage.ch
+roadrail-rental.ch
+roadrail.ch
 roadranger-elearning.ch
 roadranger.ch
 roadrats.ch
@@ -2272,6 +2276,7 @@ roboterhandwerk.ch
 roboterhaus.ch
 roboterhaustiere.ch
 roboterhotel.ch
+roboteria.ch
 roboterjobs.ch
 roboterkamera.ch
 roboterkaufen.ch
@@ -2641,7 +2646,6 @@ robustareserve.ch
 robuste-reben.ch
 robuste-rebsorten.ch
 robuste.ch
-robustebau.ch
 robustelli.ch
 robustenergy.ch
 robustes-archiv.ch
@@ -3017,6 +3021,7 @@ rocherquipleure.ch
 rochers-de-naye.ch
 rochers.ch
 rochersdenaye.ch
+roches-tir.ch
 roches.ch
 roches24.ch
 roches6c.ch
@@ -4243,6 +4248,7 @@ rodanandfields.ch
 rodandco.ch
 rodania.ch
 rodano.ch
+rodanolabs.ch
 rodanos.ch
 rodanotech.ch
 rodaprof-handwerkershop.ch
@@ -4576,6 +4582,7 @@ rodrigues-hauswartungen.ch
 rodrigues-malergeschaeft.ch
 rodrigues-net.ch
 rodrigues-paysagiste.ch
+rodrigues-reinigung.ch
 rodrigues-reinigungen.ch
 rodrigues-sols.ch
 rodrigues.ch
@@ -4781,6 +4788,7 @@ roehri.ch
 roehricht.ch
 roehrig.ch
 roehrigart.ch
+roehrihof.ch
 roehrl-liftberatung.ch
 roehrli.ch
 roehrliberg-sued.ch
@@ -5413,6 +5421,7 @@ roesslizollikon.ch
 roessner.ch
 roest.ch
 roestaromen.ch
+roestatelier.ch
 roesten.ch
 roester.ch
 roesterei-baden.ch
@@ -10026,6 +10035,7 @@ rolltex.ch
 rolltherm.ch
 rolltimes.ch
 rolltisch.ch
+rolltogether.ch
 rolltop.ch
 rolltor.ch
 rolltore.ch
@@ -10130,6 +10140,7 @@ rolueag.ch
 rolunder.ch
 rolution.ch
 roluxa.ch
+roluxshop.ch
 rolv-nos.ch
 rolv-nws.ch
 rolv.ch
@@ -11726,6 +11737,7 @@ romy-kappeler.ch
 romy-management.ch
 romy-michael.ch
 romy-mueller.ch
+romy-reiser.ch
 romy-styner.ch
 romy-therapie.ch
 romy-widmer.ch
@@ -11758,6 +11770,7 @@ romymoell.ch
 romymorel.ch
 romyott.ch
 romypeternier.ch
+romyreiser.ch
 romyrent.ch
 romyriesen.ch
 romyrieser.ch
@@ -13451,6 +13464,7 @@ rootvalley.ch
 rootvalleygame.ch
 rootwave.ch
 rootway.ch
+rootwise.ch
 rootwords.ch
 rootworkd.ch
 rootworks.ch
@@ -17022,6 +17036,7 @@ rothusmattpartner.ch
 rothusmedien.ch
 rothuswies.ch
 rothvailer.ch
+rothventures.ch
 rothvermoegen.ch
 rothvisory.ch
 rothvisuals.ch
@@ -18172,7 +18187,6 @@ routinier70plus.ch
 routinli.ch
 routinuum.ch
 routix.ch
-routly.ch
 routout.ch
 routrix.ch
 routscher.ch
@@ -18739,6 +18753,7 @@ royal-coffee.ch
 royal-collection.ch
 royal-comfort.ch
 royal-cosmetics.ch
+royal-costantini.ch
 royal-creations.ch
 royal-credit.ch
 royal-cruise.ch

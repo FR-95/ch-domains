@@ -644,6 +644,7 @@ zagge-guggi.ch
 zagge-zunft.ch
 zaggeli.ch
 zaggies.ch
+zaggig.ch
 zagh.ch
 zaghari-properties.ch
 zaghetti.ch
@@ -3888,7 +3889,6 @@ zahni-bottmingen.ch
 zahni-brunnen.ch
 zahni-kerns.ch
 zahni-langete.ch
-zahni-luzern.ch
 zahni-olten.ch
 zahni-schuetzenmatte.ch
 zahni-zuerich.ch
@@ -4363,7 +4363,9 @@ zahnraeder.ch
 zahnraum.ch
 zahnregeneration.ch
 zahnregulation.ch
+zahnregulierung-luzern.ch
 zahnregulierung.ch
+zahnregulierungks.ch
 zahnreich.ch
 zahnreihe.ch
 zahnreinigung-baselland.ch

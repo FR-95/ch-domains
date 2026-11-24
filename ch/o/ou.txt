@@ -1550,7 +1550,6 @@ outil-cos.ch
 outil-disc.ch
 outil-ge.ch
 outil-pro.ch
-outil-romand.ch
 outil.ch
 outilapplication.ch
 outilbijoutier.ch
@@ -1564,9 +1563,6 @@ outillages.ch
 outilo.ch
 outiloc.ch
 outilplus.ch
-outils-control.ch
-outils-controle.ch
-outils-controles.ch
 outils-diamant.ch
 outils-dumont.ch
 outils-et-abrasifs.ch
@@ -1578,7 +1574,6 @@ outils.ch
 outils24.ch
 outilsanciens.ch
 outilscharpente.ch
-outilscontrol.ch
 outilscontrole.ch
 outilscontroles.ch
 outilsertissage.ch
@@ -2172,6 +2167,7 @@ ouuu.ch
 ouv.ch
 ouva.ch
 ouvamonpognon.ch
+ouvaro.ch
 ouvastu.ch
 ouvaton.ch
 ouvera.ch

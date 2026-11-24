@@ -1763,6 +1763,7 @@ akquirier-service.ch
 akquirio.ch
 akquise-mit-system.ch
 akquise-service.ch
+akquise-system.ch
 akquise-team.ch
 akquise.ch
 akquise24.ch
@@ -1993,7 +1994,6 @@ aksocial.ch
 aksoft.ch
 aksoftcloud.ch
 aksoftware.ch
-aksolar.ch
 aksols.ch
 akson.ch
 aksons.ch
@@ -2681,7 +2681,6 @@ aktivkohlenfilters.ch
 aktivkopierschutz.ch
 aktivkraft.ch
 aktivkreativ-unterwegs.ch
-aktivkreativhandwerk.ch
 aktivlan.ch
 aktivlautsprecher.ch
 aktivleben.ch

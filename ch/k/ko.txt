@@ -2058,6 +2058,7 @@ koerperklangrbk.ch
 koerperkommunikation.ch
 koerperkontakt.ch
 koerperkraft.ch
+koerperkraftpunkt.ch
 koerperkult.ch
 koerperkunst.ch
 koerperkunsttherapie.ch
@@ -2703,7 +2704,6 @@ kohler-partner.ch
 kohler-places.ch
 kohler-psychotherapie.ch
 kohler-roman.ch
-kohler-sanitaer.ch
 kohler-schweiz.ch
 kohler-sdmo.ch
 kohler-so.ch
@@ -4523,6 +4523,7 @@ komensky-elite.ch
 komeo.ch
 komeon.ch
 komercio.ch
+komero.ch
 komesta.ch
 komet-beratung.ch
 komet-radio.ch
@@ -4831,6 +4832,7 @@ kommon.ch
 kommondo.ch
 kommonikation.ch
 kommonsense.ch
+kommora.ch
 kommpakt.ch
 kommpaktesan.ch
 kommpass-ai.ch
@@ -5510,6 +5512,7 @@ kompetenzatelier.ch
 kompetenzautismus.ch
 kompetenzbefragung.ch
 kompetenzbegleitung.ch
+kompetenzberatung.ch
 kompetenzbeurteilung.ch
 kompetenzbild.ch
 kompetenzbilder.ch
@@ -6100,7 +6103,6 @@ konayukischeren.ch
 konayukiskiadventures.ch
 konb.ch
 konbeat.ch
-konbenshon.ch
 konbex-global.ch
 konbex.ch
 konbo.ch
@@ -7838,6 +7840,7 @@ kontoeroeffnung.ch
 kontoflow.ch
 kontofolio.ch
 kontofox.ch
+kontofuchs.ch
 kontofuehrungsgebuehren-fuer-auslandkunden.ch
 kontoklar.ch
 kontokorrent.ch
@@ -8912,7 +8915,6 @@ kopfruhe.ch
 kopfs.ch
 kopfsach-coaching.ch
 kopfsach.ch
-kopfsache-akademie.ch
 kopfsache-meggen.ch
 kopfsache-rheinfelden.ch
 kopfsache-sh.ch

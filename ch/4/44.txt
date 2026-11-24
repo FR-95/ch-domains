@@ -29,6 +29,7 @@
 442atelier.ch
 442hz.ch
 442int.ch
+442sec.ch
 442security.ch
 443.ch
 4433.ch

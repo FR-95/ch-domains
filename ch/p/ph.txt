@@ -1659,6 +1659,7 @@ pharmu.ch
 pharmweb.ch
 pharmxperts.ch
 pharmy.ch
+pharmycare.ch
 pharmyparc.ch
 pharno.ch
 pharo.ch
@@ -1900,6 +1901,7 @@ phelp.ch
 phelsuma.ch
 phelsumas.ch
 phelsumen.ch
+phema.ch
 pheme.ch
 phemeapp.ch
 phemex.ch
@@ -4537,7 +4539,6 @@ phonetastic.ch
 phonetastisch.ch
 phonetech.ch
 phonetechoutlet.ch
-phonetics.ch
 phonetik.ch
 phonetique.ch
 phonetotal.ch
@@ -4616,6 +4617,7 @@ phonorizon.ch
 phonos.ch
 phonosai.ch
 phonoschop.ch
+phonosdynamics.ch
 phonoshop.ch
 phonosomatik.ch
 phonosphere-band.ch
@@ -9996,7 +9998,6 @@ physiotherapeutwinterthur.ch
 physiotherapie-a-domicile.ch
 physiotherapie-aadorf.ch
 physiotherapie-aaheim.ch
-physiotherapie-aarau.ch
 physiotherapie-aathal.ch
 physiotherapie-abtwil-engelburg.ch
 physiotherapie-abtwil.ch
@@ -10218,6 +10219,7 @@ physiotherapie-gries-sport.ch
 physiotherapie-gries.ch
 physiotherapie-grosswangen.ch
 physiotherapie-guex-vissoie.ch
+physiotherapie-gundeli.ch
 physiotherapie-gygax.ch
 physiotherapie-haensel.ch
 physiotherapie-haerri.ch
@@ -10291,6 +10293,7 @@ physiotherapie-kinder.ch
 physiotherapie-kirsten-stahl.ch
 physiotherapie-kleinbasel.ch
 physiotherapie-klett.ch
+physiotherapie-knie-basel.ch
 physiotherapie-koch.ch
 physiotherapie-koerpergeist.ch
 physiotherapie-koerperwerk.ch
@@ -10552,6 +10555,7 @@ physiotherapie-thoma.ch
 physiotherapie-thun.ch
 physiotherapie-tiliatower.ch
 physiotherapie-trainierbar.ch
+physiotherapie-training-basel.ch
 physiotherapie-trautmann.ch
 physiotherapie-trefny.ch
 physiotherapie-uerikon.ch
@@ -10720,6 +10724,7 @@ physiotherapiegeneve.ch
 physiotherapiegnaedinger.ch
 physiotherapiegries.ch
 physiotherapiegross.ch
+physiotherapiegundeli.ch
 physiotherapiegz.ch
 physiotherapiehausen.ch
 physiotherapieherisau.ch

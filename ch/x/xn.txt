@@ -1897,6 +1897,7 @@ xn--arbaz-anzre-69a.ch
 xn--arbeite-fr-mich-7vb.ch
 xn--arbeitsbhne-0hb.ch
 xn--arbeitsbhne-mieten-t6b.ch
+xn--arbeitsbhnemieten-92b.ch
 xn--arbeitsbhnen-klb.ch
 xn--arbeitsbhnen-mieten-dbc.ch
 xn--arbeitsbhnen-schulung-gic.ch
@@ -2529,14 +2530,12 @@ xn--augenrztin-wallisellen-44b.ch
 xn--augenrztinbasel-4kb.ch
 xn--augenrztinnen-ffb.ch
 xn--augensss-c6a.ch
-xn--augenzentrum-bachenblach-ftc.ch
 xn--augenzentrum-dbendorf-mic.ch
 xn--augenzentrum-graubnden-9lc.ch
 xn--augenzentrum-thalgu-xwb.ch
 xn--augenzentrum-zrich-west-ppc.ch
 xn--augenzentrum-zrich-z6b.ch
 xn--augenzentrum-zrichsee-mic.ch
-xn--augenzentrumbachenblach-upc.ch
 xn--augenzentrumdbendorf-1ec.ch
 xn--augment-hya.ch
 xn--augrdessaisons-ekb.ch
@@ -5009,7 +5008,6 @@ xn--bggerennen-ecba.ch
 xn--bggezunft-07aa.ch
 xn--bggli-gra.ch
 xn--bggziit-90aa.ch
-xn--bgi-sna.ch
 xn--bgl-qla.ch
 xn--bgl-zrich-u9a.ch
 xn--bgla2023-65a.ch
@@ -5407,6 +5405,7 @@ xn--bio-citt-6ya.ch
 xn--bio-cyberntique-knb.ch
 xn--bio-diversitt-mfb.ch
 xn--bio-fr-dich-xhb.ch
+xn--bio-geflgel-0hb.ch
 xn--bio-gemse-w9a.ch
 xn--bio-geschft-t8a.ch
 xn--bio-gewrze-geb.ch
@@ -5495,6 +5494,7 @@ xn--biofrjede-t9a.ch
 xn--biofrse-9wa.ch
 xn--biogas-zrich-klb.ch
 xn--biogaszrich-zhb.ch
+xn--biogeflgel-geb.ch
 xn--biogemse-c6a.ch
 xn--biogemsepaket-1ob.ch
 xn--biogeschft-x5a.ch
@@ -6076,7 +6076,6 @@ xn--bluemegrtli-r8a.ch
 xn--bluemehck-67a.ch
 xn--bluemehsli-geba.ch
 xn--bluemelade-tss-6pb.ch
-xn--bluemeldeli-r8a.ch
 xn--bluemeschpfli-qmb.ch
 xn--bluemeschr-ieb.ch
 xn--bluemeschr-ieba.ch
@@ -6513,7 +6512,6 @@ xn--bogenschtze-0hb.ch
 xn--bogenschtzen-klb.ch
 xn--bogenschtzen-stallikon-zlc.ch
 xn--bogenschtzen-swissair-gic.ch
-xn--bogenschtzenzuuotindorf-jpc.ch
 xn--bogentrume-w5a.ch
 xn--bogenwebr-22a.ch
 xn--boggssler-x2ab.ch
@@ -9881,6 +9879,7 @@ xn--chlbwrk-7wac.ch
 xn--chldderi-2za.ch
 xn--chlenwaldtfel-cfb28a.ch
 xn--chletenvalais-jeb.ch
+xn--chlewfrind-u5af.ch
 xn--chlggi-brutzler-2kb.ch
 xn--chlggi-cup-s5a.ch
 xn--chlggi-dua.ch
@@ -12737,7 +12736,6 @@ xn--dkc-rckbau-eeb.ch
 xn--dkl-dma.ch
 xn--dkuple-bva.ch
 xn--dl--una.ch
-xn--dlap-vqad.ch
 xn--dle-kna.ch
 xn--dleblanche-rbb.ch
 xn--dler-loa2i.ch
@@ -15826,6 +15824,7 @@ xn--fchse-kva.ch
 xn--fchsin-3ya.ch
 xn--fchsinn-n2a.ch
 xn--fchslein-65a.ch
+xn--fchsli-3ya.ch
 xn--fchslin-n2a.ch
 xn--fchslinhonigfarm-jzb.ch
 xn--fchslipfad-9db.ch
@@ -19853,6 +19852,7 @@ xn--gemse-kiste-vhb.ch
 xn--gemse-kruchi-ncb44a.ch
 xn--gemse-kser-w5a7z.ch
 xn--gemse-mva.ch
+xn--gemse-online-flb.ch
 xn--gemse-schaufel-isb.ch
 xn--gemse-solar-vhb.ch
 xn--gemse-tgerwilen-6kb71b.ch
@@ -19888,6 +19888,7 @@ xn--gemselieferant-isb.ch
 xn--gemselieferung-isb.ch
 xn--gemsemarkt-ceb.ch
 xn--gemsemarti-ceb.ch
+xn--gemseonline-vhb.ch
 xn--gemsepost-s9a.ch
 xn--gemseraritten-kfb66a.ch
 xn--gemseriegel-vhb.ch
@@ -21488,6 +21489,7 @@ xn--gndmolchliab-4ib.ch
 xn--gnehm-hrteprfer-6kb72b.ch
 xn--gner-0ra.ch
 xn--gngeli-bua.ch
+xn--gnggelimrit-l8ah.ch
 xn--gngi-moa.ch
 xn--gnhard-aarau-4ib.ch
 xn--gnhard-wxa.ch
@@ -23180,6 +23182,7 @@ xn--gsunduzwg-22a.ch
 xn--gsundwrd-5zac.ch
 xn--gsunn-rigg-u5a.ch
 xn--gsvzri-6ya.ch
+xn--gt-wia.ch
 xn--gte-hoa.ch
 xn--gte-siegel-9db.ch
 xn--gte-vma.ch
@@ -23874,6 +23877,7 @@ xn--haselnsse-v9a.ch
 xn--haselnussl-mcb.ch
 xn--hasenbrenhochzeit-vqb.ch
 xn--hasenbru-6za.ch
+xn--hasenhrl-r4a.ch
 xn--hasle-regsau-jlb.ch
 xn--haslerbodenbelge-8nb.ch
 xn--hasligerst-heb.ch
@@ -24341,6 +24345,7 @@ xn--hebebhne-miete-ksb.ch
 xn--hebebhne-mieten-3vb.ch
 xn--hebebhne-rent-0ob.ch
 xn--hebebhne24-eeb.ch
+xn--hebebhnemieten-ksb.ch
 xn--hebebhnen-bern-ksb.ch
 xn--hebebhnen-biderbost-99b.ch
 xn--hebebhnen-kaufen-nzb.ch
@@ -25053,6 +25058,7 @@ xn--hhner-shop-9db.ch
 xn--hhnerauge-q9a.ch
 xn--hhneraugen-9db.ch
 xn--hhnerbaron-9db.ch
+xn--hhnerbodenhaltung-22b.ch
 xn--hhnerbrse-57a4d.ch
 xn--hhnerfarm-q9a.ch
 xn--hhnerfleisch-dlb.ch
@@ -27170,7 +27176,6 @@ xn--hypnose-graubnden-f3b.ch
 xn--hypnose-knig-djb.ch
 xn--hypnose-losgelst-zwb.ch
 xn--hypnose-savise-6jb.ch
-xn--hypnose-srnit-jhbbd.ch
 xn--hypnose-thrapeute-ktb.ch
 xn--hypnose-thrapie-knb.ch
 xn--hypnose-zentrum-zrich-pic.ch
@@ -28418,7 +28423,6 @@ xn--jobcenter-kniz-5pb.ch
 xn--jobcenter-zrich-9vb.ch
 xn--jobfhrer-95a.ch
 xn--jobknig-d1a.ch
-xn--jobmss-eua.ch
 xn--jobs-brn-5za.ch
 xn--jobs-fr-handwerker-r6b.ch
 xn--jobs-fr-lehrabgnger-uwb80c.ch
@@ -28920,6 +28924,7 @@ xn--kantonzrich-zhb.ch
 xn--kanufhrer-u9a.ch
 xn--kanzlei-graubnden-f3b.ch
 xn--kanzlei-zrich-4ob.ch
+xn--kanzleimeier-rechtsanwlte-6ec.ch
 xn--kanzleitnz-lcb.ch
 xn--kanzleizrich-klb.ch
 xn--kap-parentalit-okb.ch
@@ -29157,6 +29162,7 @@ xn--kchebad-n2a.ch
 xn--kchebaddesign-wob.ch
 xn--kchebasel-q9a.ch
 xn--kchebern-65a.ch
+xn--kchefolieren-dlb.ch
 xn--kchefrdichgemacht-22be.ch
 xn--kchefrmichgemacht-22be.ch
 xn--kchekaufen-9db.ch
@@ -29993,6 +29999,7 @@ xn--kieferorthopdie-in-wallisellen-6sc.ch
 xn--kieferorthopdie-interlaken-rhc.ch
 xn--kieferorthopdie-kniz-mzb51b.ch
 xn--kieferorthopdie-konstanz-1bc.ch
+xn--kieferorthopdie-kriens-c5b.ch
 xn--kieferorthopdie-ksnacht-67b91d.ch
 xn--kieferorthopdie-lyss-mzb.ch
 xn--kieferorthopdie-meilen-c5b.ch
@@ -30015,6 +30022,7 @@ xn--kieferorthopdie-spalentor-wec.ch
 xn--kieferorthopdie-stadelhofen-mkc.ch
 xn--kieferorthopdie-stadelhofen-zrich-r1c17f.ch
 xn--kieferorthopdie-stans-h2b.ch
+xn--kieferorthopdie-sursee-c5b.ch
 xn--kieferorthopdie-teufen-c5b.ch
 xn--kieferorthopdie-thun-mzb.ch
 xn--kieferorthopdie-uzwil-h2b.ch
@@ -30721,7 +30729,6 @@ xn--klosterrtigarage-qzb.ch
 xn--kloter-rechtsanwlte-vwb.ch
 xn--klotzbcher-feb.ch
 xn--klpfen-xxa.ch
-xn--klpfer-xxa.ch
 xn--klpfklub-o4a.ch
 xn--klppel-xxa.ch
 xn--klppelboden-sfb.ch
@@ -32175,6 +32182,7 @@ xn--krperreinigung-vpb.ch
 xn--krperrichtung-imb.ch
 xn--krperscham-ecb.ch
 xn--krperschmiede-imb.ch
+xn--krperschmuck-4ib.ch
 xn--krperschule-rfb.ch
 xn--krperseelenweg-vpb.ch
 xn--krpersprache-4ib.ch
@@ -32974,7 +32982,6 @@ xn--ladenrckbau-abbruch-bbc.ch
 xn--ladenrckbau-entkernung-xlc.ch
 xn--ladesule-4za.ch
 xn--ladesulen-z2a.ch
-xn--ladlap-kxad.ch
 xn--ladrnezauber-icba.ch
 xn--ladure-boutique-fnb.ch
 xn--ladureboutique-fkb.ch
@@ -35272,6 +35279,7 @@ xn--luzern-rotkreuz-augenrzte-5ec.ch
 xn--luzern-sd-x9a.ch
 xn--luzern-zug-augenrzte-qzb.ch
 xn--luzerner-fachanwlte-vwb.ch
+xn--luzerner-kieferorthopden-bcc.ch
 xn--luzerner-raststtte-ztb.ch
 xn--luzerner-zahnrzte-2qb.ch
 xn--luzernermdchenchor-ttb.ch
@@ -35863,7 +35871,6 @@ xn--marchducaravaning-ftb.ch
 xn--marche--suivre-mgb.ch
 xn--marchesuivre-39a.ch
 xn--marchimmobilier-fnb.ch
-xn--marchlatzoumaz-fkb.ch
 xn--marchnni-4za.ch
 xn--marchpatrimoine-fnb.ch
 xn--marchrestaurants-fqb.ch
@@ -36250,6 +36257,7 @@ xn--mause-knig-kcb.ch
 xn--mauseknig-57a.ch
 xn--mauserhtte-geb.ch
 xn--mausfrres-53a.ch
+xn--mauvaisebarbire-6mb.ch
 xn--mava-cpa.ch
 xn--maverrire-63a.ch
 xn--mavie-en-lumire-6mb.ch
@@ -37521,7 +37529,6 @@ xn--mglich-machen-imb.ch
 xn--mglich-wxa.ch
 xn--mglich-wxaa.ch
 xn--mglichkeiten-4ib.ch
-xn--mglichkeitsraum-8sb.ch
 xn--mglichkeitssinn-8sb.ch
 xn--mglichmachen-4ib.ch
 xn--mglichmacher-4ib.ch
@@ -39020,6 +39027,7 @@ xn--monsieur-raphal-lob.ch
 xn--monsieurlumire-6jb.ch
 xn--monsieurraphal-ilb.ch
 xn--monspotcinma-keb.ch
+xn--montage-dmnagement-jwbb.ch
 xn--montage-knig-djb.ch
 xn--montage-zrich-4ob.ch
 xn--montageknig-yfb.ch
@@ -39185,7 +39193,6 @@ xn--movu-rumung-q8a.ch
 xn--movu-wohnungsrumung-twb.ch
 xn--mozak-carrelages-srl-exb92a.ch
 xn--mozak-fta.ch
-xn--mozaque-rza.ch
 xn--mp-uia.ch
 xn--mp-via.ch
 xn--mpa-hoa.ch
@@ -41770,7 +41777,6 @@ xn--original-rder-kfb.ch
 xn--original-reblitorte-fbc.ch
 xn--originalbachblten-g3b.ch
 xn--originalbaslerlckerli-k2b.ch
-xn--originalberlindner-r3b.ch
 xn--originalrder-ocb.ch
 xn--orima-esa.ch
 xn--orl-barfsserplatz-92b.ch
@@ -42056,10 +42062,6 @@ xn--outdoorvorhnge-gib.ch
 xn--outdoorzrich-klb.ch
 xn--outfit-fr-rume-gib49a.ch
 xn--outfitfrrume-ocb74a.ch
-xn--outils-contrle-cpb.ch
-xn--outils-contrles-nsb.ch
-xn--outilscontrle-zlb.ch
-xn--outilscontrles-bpb.ch
 xn--outlet-knig-yfb.ch
 xn--outner-gnusstrli-vzba.ch
 xn--outplacement-zrich-z6b.ch
@@ -42659,6 +42661,7 @@ xn--persnliche-schutzausrstung-fvc9p.ch
 xn--persnliche-sicherheit-kec.ch
 xn--persnlicheassistenz-t6b.ch
 xn--persnlicheberatung-g3b.ch
+xn--persnlichefinanzen-g3b.ch
 xn--persnlichegeschenke-t6b.ch
 xn--persnlichekalender-g3b.ch
 xn--persnlicheperformance-kec.ch
@@ -43130,6 +43133,7 @@ xn--phnix-zug-17a.ch
 xn--phnixausderasche-nwb.ch
 xn--phnixenergie-5ib.ch
 xn--phnixmassage-5ib.ch
+xn--phnixraum-17a.ch
 xn--phnixson-o4a.ch
 xn--phnomen-6wa.ch
 xn--phnomena-1za.ch
@@ -43311,7 +43315,6 @@ xn--picerie-24-96a.ch
 xn--picerie-9xa.ch
 xn--picerie-autrement-9sb.ch
 xn--picerie24-93a.ch
-xn--piceriedumonde-9jb.ch
 xn--pices-9ra.ch
 xn--pices-d-occasion-pour-automobiles-d5c.ch
 xn--pickleball-pltze-7nb.ch
@@ -43355,6 +43358,7 @@ xn--pilgernfrjugendliche-wec.ch
 xn--pilgerzentrum-zrich-kbc.ch
 xn--pilotenzubehr-tmb.ch
 xn--pilzbssli-u9a.ch
+xn--pilzgenossenschaftblach-upc.ch
 xn--pilzhsli-b6a.ch
 xn--pilzkpfe-r4a.ch
 xn--pilzlfter-u9a.ch
@@ -45169,6 +45173,7 @@ xn--rahmtfeli-z2a.ch
 xn--raiff-fr-den-umzug-s6b.ch
 xn--raifffrdenumzug-4vb.ch
 xn--rail-road-hebebhne-06b.ch
+xn--railroadbhne-llb.ch
 xn--railshck-s4a.ch
 xn--railtour-reisebro-h3b.ch
 xn--raimundbhm-lcb.ch
@@ -46870,7 +46875,6 @@ xn--rntgenliegen-4ib.ch
 xn--rntgenrzte-v5a4s.ch
 xn--rntgenshop-ecb.ch
 xn--rntgensystem-4ib.ch
-xn--rntgentiger-rfb.ch
 xn--rntgenzubehr-4ibk.ch
 xn--rnzi-0ra.ch
 xn--ro-wka.ch
@@ -47328,6 +47332,7 @@ xn--rsswasser-q9aa.ch
 xn--rsswassergin-dlb.ch
 xn--rst-hoa.ch
 xn--rstaromen-07a.ch
+xn--rstatelier-ecb.ch
 xn--rstbar-wxa.ch
 xn--rstelbchli-v5a6z.ch
 xn--rsten-jua.ch
@@ -48094,7 +48099,6 @@ xn--sachverstndige-solaranlagen-jkc.ch
 xn--sachverstndigenprfung-e2b47c.ch
 xn--sachverstndiger-8kb.ch
 xn--sachwalterbro-6ob.ch
-xn--sackgld-9wa.ch
 xn--sackgudverdunster-uqb.ch
 xn--sackschn-t4a.ch
 xn--sacl-3na.ch
@@ -48437,7 +48441,6 @@ xn--sanitrservice24-4kb.ch
 xn--sanitrservicegmbh-uqb.ch
 xn--sanitrsoftware-9hb.ch
 xn--sanitrsteiner-ffb.ch
-xn--sanitrstelle-kcb.ch
 xn--sanitrsupport-ffb.ch
 xn--sanitrtech-eschlikon-fzb.ch
 xn--sanitrtech-u5a.ch
@@ -48851,7 +48854,6 @@ xn--scherenhebebhne-bwb.ch
 xn--scherenhebebhnen-uzb.ch
 xn--scherer-grosskchen-z6b.ch
 xn--schetoni-zza.ch
-xn--schfer-ag-x2a.ch
 xn--schfer-architekt-xnb.ch
 xn--schfer-bau-s5a.ch
 xn--schfer-chrli-nord-west-24b25b.ch
@@ -48862,7 +48864,6 @@ xn--schfer-ksten-icbf.ch
 xn--schfer-shop-industrie-71b.ch
 xn--schfer-shop-n8a.ch
 xn--schferacker-n8a.ch
-xn--schferag-2za.ch
 xn--schferbau-x2a.ch
 xn--schfere-7wa.ch
 xn--schferehof-s5a.ch
@@ -49379,7 +49380,6 @@ xn--schlsseldienst-landquart-ysc.ch
 xn--schlsseldienst-langnau-am-albis-rid.ch
 xn--schlsseldienst-leissigen-ysc.ch
 xn--schlsseldienst-liestal-vlc.ch
-xn--schlsseldienst-luzern-24h-iwc.ch
 xn--schlsseldienst-luzern-cic.ch
 xn--schlsseldienst-martin-zaugg-l3c.ch
 xn--schlsseldienst-meggen-cic.ch
@@ -49545,7 +49545,6 @@ xn--schlsselservice-shop-sec.ch
 xn--schlsselservice-solothurn-iwc.ch
 xn--schlsselservice-vat-89b.ch
 xn--schlsselservice-vat-basel-iwc.ch
-xn--schlsselservice-vat-zrich-iwcr.ch
 xn--schlsselservice-wil-89b.ch
 xn--schlsselservice-winterthur-1zc.ch
 xn--schlsselservice-zuerich-fpc.ch
@@ -49952,6 +49951,7 @@ xn--schnffelparadies-mzb.ch
 xn--schnffelpost-glb.ch
 xn--schnffelspass-zob.ch
 xn--schnffelstube-zob.ch
+xn--schnffeltreff-zob.ch
 xn--schnffler-t9a.ch
 xn--schnfrberei-p8a5u.ch
 xn--schngbix-4za1p.ch
@@ -50286,7 +50286,6 @@ xn--schranklsungen-2pb.ch
 xn--schrankmbel-yfb.ch
 xn--schrankwnde-s8a.ch
 xn--schraubenhndler-9kb.ch
-xn--schraubenknig-rmb.ch
 xn--schraubr-6za.ch
 xn--schrbel-p2aac.ch
 xn--schrbeler-x2a.ch
@@ -56261,7 +56260,6 @@ xn--thermol-f1a.ch
 xn--thermosilo-zrich-uzb.ch
 xn--thermotransferbnder-uwb.ch
 xn--thermounterwsche-6nb.ch
-xn--thermovorhnge-kfb.ch
 xn--thermowsche-r8a.ch
 xn--theschnenbergers-rwb.ch
 xn--theschrpfer-xfb.ch
@@ -56985,7 +56983,6 @@ xn--transportunternehmung-zrich-43c.ch
 xn--transportwagen-zrich-4ec.ch
 xn--transportzgel-5ob.ch
 xn--transportzri-mlb.ch
-xn--transportzrich-psb.ch
 xn--trantriebe-9db.ch
 xn--traor-fsa.ch
 xn--trashcn-jxa.ch
@@ -57367,7 +57364,6 @@ xn--trittschall-dmmung-xtb.ch
 xn--trittschalldmmung-1qb.ch
 xn--trivio-0wa.ch
 xn--trk-hoa.ch
-xn--trk-kaffe-q9a.ch
 xn--trka-6qa.ch
 xn--trkbar-3yac.ch
 xn--trke-2oa7j.ch
@@ -59632,6 +59628,7 @@ xn--waldfhrenkraft-zpb.ch
 xn--waldfscht-z2a.ch
 xn--waldgeflster-klb.ch
 xn--waldglck-c6a.ch
+xn--waldgrmchen-wfb.ch
 xn--waldgrn-s2a.ch
 xn--waldgrtner-u5a.ch
 xn--waldhckler-icb.ch
@@ -60625,7 +60622,6 @@ xn--wilst-jra.ch
 xn--wilwhlt-8wa.ch
 xn--wilwhltvielfalt-3kb.ch
 xn--wimpern-verlngern-1qb.ch
-xn--wimpern-verlngerung-rwb.ch
 xn--wimpernverlngern-5nb.ch
 xn--wimpernverlngerung-atelier-qhc.ch
 xn--wimpernverlngerung-vtb.ch
@@ -63324,7 +63320,6 @@ xn--zri-bus-n2a.ch
 xn--zri-bxli-r4a9c.ch
 xn--zri-chind-q9a.ch
 xn--zri-chrbli-jcb0e.ch
-xn--zri-chs-bxa4s.ch
 xn--zri-city-65a.ch
 xn--zri-clean-q9a.ch
 xn--zri-date-65a.ch
@@ -63868,7 +63863,6 @@ xn--zrichrelax-9db.ch
 xn--zrichrenovieren-zvb.ch
 xn--zrichristoph-dlb.ch
 xn--zrichrundschau-gsb.ch
-xn--zrichs-fua1q.ch
 xn--zrichs-zahnarzt-zvb.ch
 xn--zrichsafe-q9a.ch
 xn--zrichschauthin-gsb.ch
@@ -64515,6 +64509,7 @@ xn--zweitesule-w5a.ch
 xn--zweitslbe-12a.ch
 xn--zweitwohnung-grchen-uwb.ch
 xn--zweitwohnunggrchen-ytb.ch
+xn--zweiwege-bhne-5ob.ch
 xn--zwergfhrer-feb.ch
 xn--zwerghsli-02a.ch
 xn--zwergpower-u5a.ch

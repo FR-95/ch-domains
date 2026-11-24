@@ -1200,7 +1200,6 @@ gocargo.ch
 gocarp.ch
 gocarrental.ch
 gocars.ch
-gocarsandco.ch
 gocasa.ch
 gocash.ch
 gocashmere.ch
@@ -3316,7 +3315,6 @@ goldcoast-academy.ch
 goldcoast-babyspa.ch
 goldcoast-bikes.ch
 goldcoast-cup.ch
-goldcoast-labs.ch
 goldcoast-rent.ch
 goldcoast-zurich.ch
 goldcoast.ch
@@ -7604,6 +7602,7 @@ gonzenbachhof.ch
 gonzenbaechli.ch
 gonzenblick.ch
 gonzencompta.ch
+gonzenkebab.ch
 gonzenschach.ch
 gonzensport.ch
 gonzer.ch
@@ -10980,6 +10979,7 @@ gourmet-restaurant.ch
 gourmet-restaurants.ch
 gourmet-royal.ch
 gourmet-royale.ch
+gourmet-sau.ch
 gourmet-schiff.ch
 gourmet-select.ch
 gourmet-senf.ch
@@ -11176,6 +11176,7 @@ gourmets-tempel.ch
 gourmets.ch
 gourmetsafari.ch
 gourmetsalz.ch
+gourmetsau.ch
 gourmetsauvage.ch
 gourmetsbest.ch
 gourmetschiff.ch

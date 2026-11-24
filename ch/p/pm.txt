@@ -853,7 +853,6 @@ pmp-baurecht.ch
 pmp-consulting.ch
 pmp-group.ch
 pmp-handelsag.ch
-pmp-merch.ch
 pmp-music.ch
 pmp-prep-pack.ch
 pmp-preppack.ch
@@ -937,7 +936,6 @@ pms-schoenenberger.ch
 pms-schweiz.ch
 pms-services.ch
 pms-sos.ch
-pms-swiss.ch
 pms-werbung.ch
 pms-zeller.ch
 pms.ch

@@ -16,7 +16,6 @@ dn-swiss-ki.ch
 dn-swiss.ch
 dn-t.ch
 dn-transports.ch
-dn-webdesign.ch
 dn2m.ch
 dn360.ch
 dn5.ch
@@ -297,7 +296,6 @@ dnkn.ch
 dnkr.ch
 dnksa.ch
 dnl-consulting.ch
-dnl-it.ch
 dnl-services.ch
 dnl.ch
 dnla.ch

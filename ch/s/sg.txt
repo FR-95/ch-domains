@@ -337,6 +337,7 @@ sg-steuerexperten.ch
 sg-stgallen.ch
 sg-strengelbach.ch
 sg-sturban.ch
+sg-suite.ch
 sg-sunnehuesli.ch
 sg-sv.ch
 sg-systemhaus.ch
@@ -1136,6 +1137,7 @@ sgmk-kosmetikfachschule.ch
 sgmk-ssam.ch
 sgmk.ch
 sgmkg.ch
+sgmkg2023.ch
 sgmkgcongress.ch
 sgmkverband.ch
 sgml.ch

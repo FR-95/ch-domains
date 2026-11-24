@@ -196,6 +196,7 @@ edbsagl.ch
 edbsoftware.ch
 edbuntu.ch
 edburg.ch
+edburkhalter.ch
 edby.ch
 edbzy.ch
 edc-associes.ch
@@ -1368,6 +1369,7 @@ edelweissdr.ch
 edelweisse.ch
 edelweissenergy.ch
 edelweissengelberg.ch
+edelweissfacility.ch
 edelweissfassaden.ch
 edelweissfeld.ch
 edelweissfelgen.ch
@@ -1675,7 +1677,6 @@ edenevents.ch
 edenexperience.ch
 edenfid.ch
 edenforyou.ch
-edenfoundation.ch
 edenfruit.ch
 edenfruitsvarietes.ch
 edenfuerjeden.ch
@@ -2367,6 +2368,7 @@ edilimmobilier.ch
 edilina.ch
 edilio-staging.ch
 edilio.ch
+edilis.ch
 edilizia-sa.ch
 edilizia365.ch
 ediliziacimiteriale.ch
@@ -3774,6 +3776,7 @@ edpilot.ch
 edplit.ch
 edplus.ch
 edplusaisc.ch
+edpluseisc.ch
 edpm.ch
 edpower.ch
 edpp.ch
@@ -4070,6 +4073,7 @@ edu-so.ch
 edu-software.ch
 edu-solar.ch
 edu-solothurn.ch
+edu-sphere-acme.ch
 edu-sphere.ch
 edu-spiez.ch
 edu-stadt-bern.ch

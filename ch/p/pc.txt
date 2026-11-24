@@ -833,8 +833,6 @@ pci-bas-valais.ch
 pci-bodenleger.ch
 pci-computer.ch
 pci-district-morges.ch
-pci-europa.ch
-pci-europe.ch
 pci-fr.ch
 pci-gdv.ch
 pci-ge.ch
@@ -952,7 +950,6 @@ pcluzern.ch
 pcm-cardiacservice.ch
 pcm-groupe.ch
 pcm-immo.ch
-pcm-institut.ch
 pcm-online.ch
 pcm-reichl.ch
 pcm-schweiz.ch

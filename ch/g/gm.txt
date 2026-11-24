@@ -85,7 +85,6 @@ gm-railing.ch
 gm-realestate.ch
 gm-reinigung.ch
 gm-renov.ch
-gm-renovation.ch
 gm-restaurants.ch
 gm-s-power.ch
 gm-sablage.ch
@@ -573,6 +572,7 @@ gml-kreuzlingen.ch
 gml.ch
 gml2027.ch
 gmlabs.ch
+gmland.ch
 gmlangwies.ch
 gmlaser.ch
 gmlasercosmetics.ch

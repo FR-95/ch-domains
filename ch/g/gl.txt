@@ -2679,6 +2679,7 @@ glattfelden-info.ch
 glattfelden.ch
 glattfelden24.ch
 glattfeldeninfo.ch
+glattfeldenworld.ch
 glattfelder.ch
 glattfelderapp.ch
 glattfelderbier.ch
@@ -4613,6 +4614,7 @@ global-swiss-zuerich.ch
 global-swiss.ch
 global-swisscom.ch
 global-switch.ch
+global-synergy.ch
 global-system.ch
 global-systems.ch
 global-techenergy.ch
@@ -4646,6 +4648,7 @@ global-vie.ch
 global-village.ch
 global-vision-trading.ch
 global-vision.ch
+global-voice.ch
 global-watch.ch
 global-wings.ch
 global.ch
@@ -5438,11 +5441,9 @@ globalswisshub.ch
 globalswissluftfahrt.ch
 globalswissservices.ch
 globalswitch.ch
-globalsynergy.ch
 globalsys.ch
 globalsystem.ch
 globalsystems.ch
-globaltalent24.ch
 globaltalenthub.ch
 globaltalents.ch
 globaltax.ch
@@ -5634,7 +5635,6 @@ globe-software-solutions.ch
 globe-swiss.ch
 globe-tours.ch
 globe-tr.ch
-globe-transport-et-demenagements.ch
 globe-trotter.ch
 globe-tv.ch
 globe.ch
@@ -5786,6 +5786,7 @@ globevert.ch
 globeweb.ch
 globex-metals.ch
 globex.ch
+globexdata.ch
 globexplore.ch
 globexplorer.ch
 globexproperties.ch
@@ -7712,6 +7713,7 @@ gluenz.ch
 gluepoints.ch
 gluepullrepair.ch
 glues.ch
+glueskill.ch
 gluetech.ch
 gluethy.ch
 gluetsch.ch

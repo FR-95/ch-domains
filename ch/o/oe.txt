@@ -1360,7 +1360,6 @@ oesch-der-maler.ch
 oesch-fashion.ch
 oesch-fleurs.ch
 oesch-handwerk.ch
-oesch-history.ch
 oesch-homecare.ch
 oesch-immobilien.ch
 oesch-lauf.ch
@@ -1539,7 +1538,6 @@ oetker-win.ch
 oetker.ch
 oetkerbistro.ch
 oetkershop.ch
-oetkerwin.ch
 oetliker-bauconsulting.ch
 oetliker-wabenklang.ch
 oetliker.ch

@@ -2495,6 +2495,7 @@ videagroup.ch
 videal.ch
 videalp.ch
 videando.ch
+videappartement.ch
 videas.ch
 videast.ch
 videaste-de-mariage.ch
@@ -3446,6 +3447,7 @@ videre.ch
 videri-immo.ch
 videris.ch
 viderius.ch
+vidermaison.ch
 videro.ch
 vides.ch
 videsa-sa.ch
@@ -3702,6 +3704,7 @@ vieille-ville-bienne.ch
 vieille-ville.ch
 vieille.ch
 vieillebatie.ch
+vieillebranche.ch
 vieilleecole.ch
 vieillemaison.ch
 vieilleposte.ch
@@ -3856,7 +3859,6 @@ vielleicht-ich.ch
 vielleicht.ch
 vielleichteinbisschenmenschlicher.ch
 vielleichter.ch
-vielleichtheute.ch
 vielleichtwarensiezudritt.ch
 viellicht.ch
 vielmal.ch
@@ -5118,7 +5120,6 @@ vikingfootwear.ch
 vikingform.ch
 vikinggarden.ch
 vikinggenetics.ch
-vikinggym.ch
 vikingice.ch
 vikingluck-casino.ch
 vikingluck.ch
@@ -7222,6 +7223,7 @@ vimodev.ch
 vimodo.ch
 vimondo.ch
 vimopro.ch
+vimoria.ch
 vimotech.ch
 vimoti.ch
 vimotion.ch
@@ -7261,6 +7263,7 @@ vin-d-oeuvre.ch
 vin-de-bordeaux.ch
 vin-de-fruits.ch
 vin-de-geisler.ch
+vin-dechavigny.ch
 vin-degustation.ch
 vin-doeuvre.ch
 vin-du-diable.ch
@@ -8781,7 +8784,6 @@ vins-de-nyon.ch
 vins-de-salquenen.ch
 vins-de-st-saphorin.ch
 vins-demeter.ch
-vins-du-beaujolais.ch
 vins-du-coteau.ch
 vins-du-lavaux.ch
 vins-du-terroir-suisse.ch
@@ -8885,7 +8887,6 @@ vinsdhistoires.ch
 vinsdionysos.ch
 vinsdisrael.ch
 vinsdoeuvre.ch
-vinsdubeaujolais.ch
 vinsducap.ch
 vinsdudouro.ch
 vinsdulacdebienne.ch
@@ -9762,7 +9763,6 @@ viola-living.ch
 viola-nico.ch
 viola-oberbipp.ch
 viola-parfums.ch
-viola-raumeffect.ch
 viola-samnaun.ch
 viola-sf.ch
 viola-stiftung.ch
@@ -12815,6 +12815,7 @@ visi-gipser.ch
 visi-immo.ch
 visi-maler.ch
 visi-med.ch
+visi-on.ch
 visi-one.ch
 visi-series.ch
 visi-swiss.ch
@@ -13117,7 +13118,6 @@ vision-energie.ch
 vision-engineering.ch
 vision-entreprise.ch
 vision-environment.ch
-vision-err.ch
 vision-europa.ch
 vision-events.ch
 vision-experte.ch
@@ -16154,6 +16154,7 @@ vital-loft.ch
 vital-lounge.ch
 vital-luftkernmatratze.ch
 vital-lyfe.ch
+vital-massage-louiz.ch
 vital-massagepraxis.ch
 vital-med.ch
 vital-menziken.ch
@@ -16305,7 +16306,10 @@ vitalblend.ch
 vitalbliss.ch
 vitalblog.ch
 vitalblut.ch
+vitalbody-massage.ch
+vitalbody-therapie.ch
 vitalbody.ch
+vitalbodymassage.ch
 vitalbodyplus.ch
 vitalbodywork.ch
 vitalboost-juices.ch
@@ -16357,6 +16361,7 @@ vitale-tiere.ch
 vitale-vert.ch
 vitale-zahnmedizin.ch
 vitale.ch
+vitalea-pflege.ch
 vitalea.ch
 vitaleaf.ch
 vitalearn.ch
@@ -17332,7 +17337,6 @@ vitaminwater-active.ch
 vitaminwater-cashback.ch
 vitaminwater-tester.ch
 vitaminwell.ch
-vitaminwelt.ch
 vitaminworld.ch
 vitaminz.ch
 vitamister.ch
@@ -17537,6 +17541,7 @@ vitasano.ch
 vitasante.ch
 vitasanum.ch
 vitasanus.ch
+vitascan.ch
 vitaschweiz.ch
 vitascope.ch
 vitascorbin.ch
@@ -17945,7 +17950,6 @@ vitolino.ch
 vitolive.ch
 vitolla.ch
 vitology.ch
-vitomaiocchi.ch
 vitomalia.ch
 vitomed.ch
 vitometal.ch
@@ -18028,6 +18032,7 @@ vitrailsuisse.ch
 vitrakvi.ch
 vitral.ch
 vitralab.ch
+vitralia.ch
 vitralis.ch
 vitralux.ch
 vitramo.ch

@@ -9,6 +9,7 @@ la-aarau.ch
 la-ab.ch
 la-academy.ch
 la-ad.ch
+la-advisory.ch
 la-ae.ch
 la-ag.ch
 la-ai.ch
@@ -2079,7 +2080,6 @@ lab-production.ch
 lab-productions.ch
 lab-pump.ch
 lab-qh.ch
-lab-quadrance.ch
 lab-r.ch
 lab-richterswil.ch
 lab-ross.ch
@@ -2776,7 +2776,6 @@ labelprint24.ch
 labelprinter.ch
 labelprinting.ch
 labelprintshop.ch
-labelpro.ch
 labelprod.ch
 labelprofi.ch
 labelproperties.ch
@@ -3907,6 +3906,7 @@ laboulantine.ch
 laboulatannaz.ch
 laboule.ch
 labouleauventre.ch
+labouledemex.ch
 labouledeneige.ch
 labouledor.ch
 labouleflottante.ch
@@ -5006,6 +5006,7 @@ lacetmontagne.ch
 lacetra.ch
 lacets-roses.ch
 lacets-shop.ch
+lacets.ch
 lacetsroses.ch
 laceup-demo.ch
 laceup.ch
@@ -5539,6 +5540,7 @@ lackplatten.ch
 lackpoint.ch
 lackpolitur.ch
 lackpro-plus.ch
+lackpro.ch
 lackprofi.ch
 lackprofis.ch
 lackrebell.ch
@@ -7355,6 +7357,7 @@ ladyofshine.ch
 ladyonline.ch
 ladyonly.ch
 ladyontherocks.ch
+ladypaint.ch
 ladyparts.ch
 ladypassion.ch
 ladypauline.ch
@@ -7951,6 +7954,7 @@ laeticia-yapi.ch
 laeticiayapi.ch
 laetijey.ch
 laetilicious.ch
+laetitia-ahlin.ch
 laetitia-baumgartner.ch
 laetitia-bijoux.ch
 laetitia-coach.ch
@@ -10622,6 +10626,7 @@ lakeaffairs.ch
 lakealert.ch
 lakeamerica.ch
 lakeandalps.ch
+lakeandelove.ch
 lakeandliving.ch
 lakeandpeak.ch
 lakeandsea.ch
@@ -11186,7 +11191,6 @@ lakiffance.ch
 lakilabel.ch
 lakilu.ch
 lakimi.ch
-lakimmoservices.ch
 lakinesiologie.ch
 lakinesphere.ch
 lakiocciola.ch
@@ -11649,6 +11653,7 @@ lalouna.ch
 laloupeaudiovisuel.ch
 laloustudio.ch
 laloutre.ch
+laloutrebar.ch
 lalouve-cooperative.ch
 lalouve.ch
 lalouveetlalune.ch
@@ -15963,8 +15968,6 @@ langbehn.ch
 langbein.ch
 langberatung.ch
 langberger.ch
-langbogen-turnier.ch
-langbogenturney.ch
 langbogenturnier.ch
 langbroek.ch
 langbrot.ch
@@ -20354,6 +20357,7 @@ laruz.ch
 larva.ch
 larvagipser.ch
 larvagmbh.ch
+larve-co.ch
 larve-mutz.ch
 larvedoersl.ch
 larvekaufen.ch
@@ -20368,9 +20372,11 @@ larvenkatalog.ch
 larvenloosli.ch
 larvenmacher.ch
 larvenmacherei.ch
+larvenundco.ch
 larvesta.ch
 larvestoehni.ch
 larvestube.ch
+larveundco.ch
 larvidaschweiz.ch
 larvota.ch
 larvs.ch
@@ -22994,6 +23000,7 @@ lateliercotonfil.ch
 lateliercrealuce.ch
 lateliercreatif.ch
 lateliercreazen.ch
+lateliercreole.ch
 lateliercrochet.ch
 latelierdadeline.ch
 latelierdalizee.ch
@@ -25571,6 +25578,7 @@ laurebamat.ch
 laurebirchler.ch
 laurebleue.ch
 laurec.ch
+laurecia.ch
 laurecoudour.ch
 laurecoutaz.ch
 lauredeco.ch
@@ -26999,6 +27007,7 @@ lavatrageneve.ch
 lavatrice.ch
 lavatriciaultrasuoni.ch
 lavatvision.ch
+lavau.ch
 lavaudoise.ch
 lavaudoiserie.ch
 lavaudruzienne.ch
@@ -27542,6 +27551,7 @@ lavilla-rg.ch
 lavilla-sierre.ch
 lavilla.ch
 lavilla77.ch
+lavillaaucoeurdesvignes.ch
 lavillabeautycenter.ch
 lavillac.ch
 lavilladelaperformance.ch
@@ -27689,7 +27699,6 @@ lavitto.ch
 laviva-essenz.ch
 laviva.ch
 lavivacars.ch
-lavivance.ch
 lavivant.ch
 lavivee.ch
 laviveza.ch
@@ -28385,7 +28394,6 @@ lawurst.ch
 lawvu.ch
 lawways.ch
 lawworld.ch
-lawxer.ch
 lawya.ch
 lawyeah.ch
 lawyer-advise.ch
@@ -28559,6 +28567,7 @@ laydeerecords.ch
 laydevant.ch
 laydiesonweels.ch
 laydu.ch
+laye-r.ch
 laye.ch
 layedi.ch
 layena.ch
@@ -28574,6 +28583,7 @@ layer-lab.ch
 layer-lounge-3d.ch
 layer-one.ch
 layer-peak.ch
+layer-r.ch
 layer-tech.ch
 layer.ch
 layer0.ch

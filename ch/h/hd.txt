@@ -51,7 +51,6 @@ hd-kameras.ch
 hd-keramik.ch
 hd-kundenschreinerei.ch
 hd-legal.ch
-hd-marketing.ch
 hd-metallbau.ch
 hd-morandi.ch
 hd-motorcycles.ch
@@ -285,6 +284,7 @@ hdlc.ch
 hdlge.ch
 hdlifestyle.ch
 hdline.ch
+hdlovehospitality.ch
 hdlreinigungen.ch
 hdlueber.ch
 hdm-brugg.ch

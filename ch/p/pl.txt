@@ -1261,7 +1261,6 @@ plancher-technique.ch
 plancher.ch
 plancherchauffantfraise.ch
 plancherel-advisory.ch
-plancherel-info.ch
 plancherel-informatique.ch
 plancherel.ch
 plancherpelvien.ch
@@ -1839,6 +1838,7 @@ planethund.ch
 planethyp.ch
 planetibiza.ch
 planetie.ch
+planetimmo.ch
 planetimpactfoundation.ch
 planetinbalance.ch
 planetino.ch
@@ -1973,7 +1973,6 @@ planettier.ch
 planettrading.ch
 planetus.ch
 planetvelo.ch
-planetvenus.ch
 planetvera.ch
 planetvision.ch
 planetwallis.ch
@@ -2094,6 +2093,7 @@ planidea.ch
 planidee.ch
 planidu.ch
 planie.ch
+planie24.ch
 planier.ch
 planierbalken.ch
 planif.ch
@@ -5841,6 +5841,7 @@ pleasantnet.ch
 pleasantpasswordserver.ch
 pleasantplants.ch
 pleasantsolutions.ch
+please-help.ch
 please-work-ffs.ch
 please.ch
 pleasebuymypottery.ch
@@ -5851,6 +5852,7 @@ pleasedonttell.ch
 pleasedontuseazureportal.ch
 pleasedontwear.ch
 pleasedtomeatyou.ch
+pleasehelp.ch
 pleasehold.ch
 pleaseleaveby9.ch
 pleasemakemeri.ch
@@ -6696,6 +6698,7 @@ plm-elektro.ch
 plm-medical.ch
 plm-portal.ch
 plm-service.ch
+plm-shipping.ch
 plm-software-leanit.ch
 plm.ch
 plmail.ch
@@ -6837,12 +6840,14 @@ plombier-grand-saconnex.ch
 plombier-hofmann.ch
 plombier-lambert.ch
 plombier-lausanne-sa.ch
+plombier-lausanne.ch
 plombier-luins.ch
 plombier-lutry.ch
 plombier-meyrin.ch
 plombier-montreux.ch
 plombier-morges.ch
 plombier-moutier.ch
+plombier-neuchatel.ch
 plombier-nyon.ch
 plombier-pully.ch
 plombier-puplinge.ch
@@ -8102,6 +8107,7 @@ plus2architecture.ch
 plus2you.ch
 plus30.ch
 plus34.ch
+plus35.ch
 plus387.ch
 plus39.ch
 plus3dc.ch
@@ -8216,6 +8222,7 @@ plusenergy-shop.ch
 plusenergy.ch
 pluses.ch
 plusevents.ch
+plusexpress.ch
 plusfiber.ch
 plusfinance.ch
 plusfinancement.ch

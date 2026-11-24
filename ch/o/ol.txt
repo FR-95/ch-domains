@@ -48,7 +48,6 @@ olabs.ch
 olac.ch
 olacabs.ch
 olad-sa.ch
-olad.ch
 olada.ch
 oladrinks.ch
 olaechea.ch
@@ -1771,6 +1770,7 @@ olioleonforte.ch
 olioliva.ch
 oliomap.ch
 oliomigliarese.ch
+oliomio.ch
 olion.ch
 olionostrano.ch
 olioora.ch
@@ -3318,6 +3318,7 @@ oloarte.ch
 olobar.ch
 oloberaargau.ch
 olocal.ch
+olocalstuff.ch
 olocene.ch
 olocode.ch
 olodaterol.ch

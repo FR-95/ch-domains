@@ -652,7 +652,6 @@ ilesvapeurparc.ch
 iletait-unefoi.ch
 iletait.ch
 iletait2fois.ch
-iletaitdesfois.ch
 iletaitdeuxfois.ch
 iletaitunbain.ch
 iletaitunefoi.ch
@@ -1606,7 +1605,6 @@ ilmaestro.ch
 ilmagazzino.ch
 ilmaghetto.ch
 ilmagodeibambini.ch
-ilmagodioz.ch
 ilmagroup.ch
 ilmakiage.ch
 ilmalcantone.ch
@@ -1756,7 +1754,6 @@ ilno.ch
 ilnoce.ch
 ilnostrano.ch
 ilnostrocaffe.ch
-ilnostromosaico.ch
 ilnostropatrimonio.ch
 ilnova.ch
 ilnovo.ch
@@ -2214,7 +2211,6 @@ ilreriscaldamento.ch
 ilrespiroevita.ch
 ilressem.ch
 ilrevisore.ch
-ilrhr.ch
 ilriccio.ch
 ilrifugio.ch
 ilrifugiodeikoala.ch

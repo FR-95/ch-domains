@@ -2103,6 +2103,7 @@ isl.ch
 isla-casti.ch
 isla-casty.ch
 isla-immobilien.ch
+isla-saurio.ch
 isla-volante.ch
 isla-wine.ch
 isla.ch
@@ -2863,6 +2864,7 @@ isoflex-insulation.ch
 isoflex.ch
 isoflexag.ch
 isoflexbautechnikag.ch
+isoflexcrm.ch
 isofloc.ch
 isofloor.ch
 isoforcecontrol.ch
@@ -2878,7 +2880,6 @@ isogai.ch
 isogaisa.ch
 isogel.ch
 isogeo.ch
-isogest-dechavigny.ch
 isogest.ch
 isogips.ch
 isogipsbau.ch

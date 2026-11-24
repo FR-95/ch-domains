@@ -755,6 +755,7 @@ dr-rudolf.ch
 dr-rueegg.ch
 dr-ruemmelein.ch
 dr-ruffo.ch
+dr-rupprecht.ch
 dr-rutschmann.ch
 dr-ruum.ch
 dr-s.ch
@@ -2443,6 +2444,7 @@ drdunst.ch
 drdupuis.ch
 drdutly.ch
 drdys.ch
+dre-desepibus.ch
 dre-frangella-esthetique.ch
 dre-komp.ch
 dre-magane.ch
@@ -3807,6 +3809,7 @@ dreiflocke.ch
 dreifoehren.ch
 dreifondues.ch
 dreifragezeichen-begehbareshoerspiel.ch
+dreifragezeichen.ch
 dreifreunde.ch
 dreifreundeweine.ch
 dreifuchs.ch
@@ -4650,6 +4653,7 @@ drhaagjordan.ch
 drhaas.ch
 drhabitat.ch
 drhaefeli.ch
+drhaefner.ch
 drhag.ch
 drhager.ch
 drhahn.ch
@@ -5743,6 +5747,7 @@ drivedive.ch
 drivedocsjapan.ch
 drivedrop.ch
 drivee.ch
+driveearn.ch
 driveeasy.ch
 driveelektro.ch
 driveelite.ch
@@ -6195,6 +6200,7 @@ drivingstoriesclub.ch
 drivingteam.ch
 drivingtechswiss.ch
 drivingtest.ch
+drivingtours.ch
 drivingtraining.ch
 drivingxperience.ch
 drivinjapan.ch
@@ -7485,7 +7491,6 @@ droitalimentation.ch
 droitallie.ch
 droitaubut.ch
 droitauteur.ch
-droitauxfaits.ch
 droitbancaire.ch
 droitcivil.ch
 droitcivilsuisse.ch
@@ -9707,7 +9712,6 @@ drumcorps.ch
 drumcorpskids.ch
 drumcorpsthun.ch
 drumdoctors.ch
-drumee.ch
 drumevent.ch
 drumevents.ch
 drumfactory.ch

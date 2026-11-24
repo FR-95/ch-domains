@@ -9,7 +9,6 @@ gv-beckenried.ch
 gv-berneck.ch
 gv-bettlach.ch
 gv-bio.ch
-gv-business.ch
 gv-busslingen.ch
 gv-carrelage.ch
 gv-ch.ch
@@ -385,7 +384,6 @@ gvbs.ch
 gvbsag.ch
 gvbu.ch
 gvbuerglen.ch
-gvbusiness.ch
 gvbusland.ch
 gvbversicherung.ch
 gvbversicherungen.ch

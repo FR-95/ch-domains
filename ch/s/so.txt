@@ -297,6 +297,7 @@ soahp.ch
 soai.ch
 soak.ch
 soakandsleep.ch
+soaked.ch
 soakedinluxury.ch
 soaking.ch
 soaktuell-archiv.ch
@@ -5548,7 +5549,6 @@ solairefr.ch
 solairege.ch
 solaireimmo.ch
 solairemoon.ch
-solairenergie.ch
 solairepascher.ch
 solaireplus.ch
 solairepourtous.ch
@@ -8250,7 +8250,6 @@ solbakken.ch
 solbanco.ch
 solbar.ch
 solbari.ch
-solbask.ch
 solbat.ch
 solbau.ch
 solbeer.ch
@@ -9093,6 +9092,7 @@ solid-drive.ch
 solid-drums.ch
 solid-edge.ch
 solid-elements.ch
+solid-ere.ch
 solid-event-floristik.ch
 solid-fassade.ch
 solid-floor.ch
@@ -9342,7 +9342,6 @@ solideabazzellfashiondesign.ch
 solideal.ch
 solideas.ch
 solideasa.ch
-solidebase.ch
 solidecoaching.ch
 solidedge-partner.ch
 solidedge.ch
@@ -9358,7 +9357,6 @@ solideswiss.ch
 solidether.ch
 solidethique.ch
 solidev.ch
-solidfinance.ch
 solidfloor-boden.ch
 solidfloor.ch
 solidfluid.ch
@@ -10652,6 +10650,7 @@ solu-tech.ch
 solu-telecom.ch
 solu.ch
 solu1ions.ch
+solua.ch
 solubat.ch
 solubi.ch
 solubile.ch
@@ -11303,6 +11302,7 @@ solvabilite.ch
 solvable.ch
 solvadis.ch
 solvai.ch
+solvaia.ch
 solvair.ch
 solvakem.ch
 solvalais-bodenwallis.ch
@@ -11929,7 +11929,6 @@ somatic-leadership.ch
 somatic-luzern.ch
 somatic-practice.ch
 somatic-presence.ch
-somatic-psychotherapy.ch
 somatic-space.ch
 somatic-works.ch
 somatic-yinyoga.ch
@@ -16961,6 +16960,7 @@ soraria.ch
 soraroetel.ch
 soras.ch
 sorasch.ch
+soraselfcare.ch
 sorasoft.ch
 sorasolutions.ch
 sorasolutionsgroup.ch
@@ -17574,6 +17574,7 @@ sorrisino.ch
 sorrisiscuola.ch
 sorriso-box.ch
 sorriso-caffebar.ch
+sorriso-fit.ch
 sorriso-studio.ch
 sorriso.ch
 sorriso24.ch
@@ -18994,7 +18995,6 @@ sottoforma.ch
 sottoilsole.ch
 sottoiriflettori.ch
 sottolago.ch
-sottolagoarosa.ch
 sottolarcobaleno.ch
 sottolepiazze.ch
 sottolestelle-lipari.ch
@@ -19032,6 +19032,7 @@ sou.ch
 souaiste.ch
 souasou.ch
 soub7.ch
+soubaere.ch
 soubedylan.ch
 soubey.ch
 soubey24.ch
@@ -19077,7 +19078,6 @@ souffle-dange.ch
 souffle-de-vie.ch
 souffle-du-chant.ch
 souffle-energetique.ch
-souffle-libellule.ch
 souffle-naturel.ch
 souffle-sonore.ch
 souffle.ch
@@ -20103,6 +20103,7 @@ soumissions.ch
 soumith.ch
 sound-am-see.ch
 sound-and-groove.ch
+sound-archive.ch
 sound-at-home.ch
 sound-atelier.ch
 sound-bag.ch
@@ -20741,6 +20742,7 @@ souperior.ch
 souperlicious.ch
 souperliciousfoods.ch
 soupersexy.ch
+soupersuppe.ch
 soupes.ch
 soupflow.ch
 soupforthesoul.ch
@@ -21076,11 +21078,16 @@ sousaconcept.ch
 sousaconstruction.ch
 sousade.ch
 sousaentreprisegenerale.ch
+sousaevent.ch
 sousagaz.ch
+sousagroup.ch
 sousaheatworks.ch
 sousahomeservice.ch
+sousahomeservices.ch
+sousamoving.ch
 sousareinigung.ch
 sousasystems.ch
+sousatech.ch
 sousatransports.ch
 sousbalmedev.ch
 sousbois.ch

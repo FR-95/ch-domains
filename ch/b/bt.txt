@@ -264,7 +264,6 @@ btckaufen.ch
 btckredit.ch
 btckurs.ch
 btcl.ch
-btclamp.ch
 btclegal.ch
 btclightninig.ch
 btclive.ch
@@ -590,6 +589,7 @@ btr-tatortreinigungen.ch
 btr-tools.ch
 btr-treuhand.ch
 btr.ch
+btr2.ch
 btr9.ch
 btra.ch
 btrade.ch

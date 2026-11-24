@@ -19,6 +19,7 @@ hw-estheticstudio.ch
 hw-f.ch
 hw-facilityservice.ch
 hw-handel.ch
+hw-immobilien-ag.ch
 hw-ing.ch
 hw-isotop.ch
 hw-itservices.ch
@@ -286,7 +287,6 @@ hwt.ch
 hwteam.ch
 hwtec.ch
 hwtmart.ch
-hwto-check-ch.ch
 hwtpool.ch
 hwtswiss.ch
 hwtvi.ch

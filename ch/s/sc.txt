@@ -577,6 +577,7 @@ scale-pilots.ch
 scale-s.ch
 scale-service.ch
 scale-services.ch
+scale-ticino.ch
 scale-trophy.ch
 scale-up-factory.ch
 scale-up-jobs.ch
@@ -1240,6 +1241,7 @@ scanmodul.ch
 scanmodulsystem.ch
 scanmovers.ch
 scanmy.ch
+scanmyface.ch
 scanmyinfo.ch
 scanmypet.ch
 scanmyrent.ch
@@ -2179,6 +2181,7 @@ scentora.ch
 scentory.ch
 scentral.ch
 scentro.ch
+scentry.ch
 scents-and-history.ch
 scents.ch
 scentsamples.ch
@@ -3643,6 +3646,7 @@ schafer-dienste.ch
 schafer-kanal.ch
 schafer-malerei.ch
 schafer-sanitaer.ch
+schafer-services.ch
 schafer-training.ch
 schafer-vermietung.ch
 schafer.ch
@@ -4392,6 +4396,7 @@ schaltbarefolie.ch
 schaltbarefolien.ch
 schaltbares-glas.ch
 schaltbaresglas.ch
+schaltbase.ch
 schaltbox.ch
 schaltchnueppel.ch
 schaltec-ag.ch
@@ -4681,6 +4686,7 @@ schapfi.ch
 schapicshow.ch
 schapidou.ch
 schapowal.ch
+schapp.ch
 schappe-business.ch
 schappe-center.ch
 schappe-immobilien-kriens.ch
@@ -5228,8 +5234,6 @@ schaueburg.ch
 schauecker.ch
 schaueinfach.ch
 schauen.ch
-schauenberg-handwerk.ch
-schauenberg-hofladen.ch
 schauenberg-informatik.ch
 schauenberg.ch
 schauenberglauf.ch
@@ -5461,6 +5465,7 @@ schaunaeherei.ch
 schauperl.ch
 schauplatz-brunngasse.ch
 schauplatz-holzhandwerk.ch
+schauplatz-sempach.ch
 schauplatz.ch
 schaupp.ch
 schauraum-b.ch
@@ -7477,11 +7482,13 @@ schichtfit.ch
 schichtfuerschicht.ch
 schichtgut.ch
 schichtklar.ch
+schichtlabor.ch
 schichtli.ch
 schichtliapp.ch
 schichtly.ch
 schichtmatch.ch
 schichtplan.ch
+schichtplaner-rd.ch
 schichtplaner.ch
 schichtplanerpro.ch
 schichtplanner.ch
@@ -7951,6 +7958,7 @@ schifferclub.ch
 schifferclubthayngen.ch
 schiffereinigung.ch
 schifferer.ch
+schifferhaus.ch
 schifferklub.ch
 schifferle-gmbh.ch
 schifferle.ch
@@ -9790,7 +9798,6 @@ schlaftage.ch
 schlaftagebuch.ch
 schlaftante.ch
 schlaftec.ch
-schlaftechnik.ch
 schlafteq.ch
 schlaftest.ch
 schlaftests.ch
@@ -13314,7 +13321,6 @@ schmerzfrei-in-niederweningen.ch
 schmerzfrei-kabri.ch
 schmerzfrei-leben.ch
 schmerzfrei-luzern.ch
-schmerzfrei-olten.ch
 schmerzfrei-praxis.ch
 schmerzfrei-raum.ch
 schmerzfrei-reiten.ch
@@ -13339,7 +13345,6 @@ schmerzfreiesleben.ch
 schmerzfreiheit.ch
 schmerzfreilasern.ch
 schmerzfreiluzern.ch
-schmerzfreipraxis-olten.ch
 schmerzfreipraxis.ch
 schmerzfreiraum.ch
 schmerzfreischlaf.ch
@@ -15257,6 +15262,7 @@ schmucklackierungen.ch
 schmucklade.ch
 schmuckladen.ch
 schmucklaeden.ch
+schmuckland.ch
 schmucklaube.ch
 schmuckleu.ch
 schmuckli-immo.ch
@@ -17287,7 +17293,6 @@ schnellwechselsystem.ch
 schnellwechsler-suva.ch
 schnellwechslerueberwachung.ch
 schnellweg.ch
-schnellwert.ch
 schnellzeichner-karikaturist.ch
 schnellzeichner.ch
 schnellzeitweise.ch
@@ -19899,6 +19904,7 @@ schoolgate.ch
 schoolgpt.ch
 schoolguide.ch
 schoolholidays.ch
+schoolhood.ch
 schoolhopper.ch
 schoolhostel.ch
 schoolhouse-lofts.ch
@@ -20630,7 +20636,6 @@ schraubenhandel.ch
 schraubenheber.ch
 schraubenhimmel.ch
 schraubenking.ch
-schraubenkoenig.ch
 schraubenkompressor.ch
 schraubenkurier.ch
 schraubenladen-roth.ch
@@ -21280,7 +21285,6 @@ schreinerarbeiten-boesch.ch
 schreinerarbeiten-widmer.ch
 schreinerarbeiten.ch
 schreinerarbeiten16.ch
-schreinerarbeitengraber.ch
 schreinerarbeitenundmehr.ch
 schreinerarnold.ch
 schreinerarpagaus.ch
@@ -22320,7 +22324,6 @@ schreinersoftware.ch
 schreinerspezialisten.ch
 schreinerstamm.ch
 schreinersteiner.ch
-schreinerstelle.ch
 schreinerstrasse.ch
 schreinersuche.ch
 schreinersutter.ch
@@ -24849,7 +24852,6 @@ schule-mewo.ch
 schule-mirchel.ch
 schule-mit-computer.ch
 schule-mit-herz.ch
-schule-mit-perspektive.ch
 schule-mit-spielraum.ch
 schule-mit-wirkung.ch
 schule-mit-zukunft.ch
@@ -31403,6 +31405,7 @@ schweizerbautrocknung.ch
 schweizerbauwerk.ch
 schweizerbauwirtschaft.ch
 schweizerbeauceronclub.ch
+schweizerbeauty.ch
 schweizerbeiz.ch
 schweizerberatungen.ch
 schweizerberg.ch
@@ -31498,6 +31501,7 @@ schweizercallboy.ch
 schweizercallboys.ch
 schweizercampusgesundelanglebigkeit.ch
 schweizercampushealthylongevity.ch
+schweizercanis.ch
 schweizercannabisstecklinge.ch
 schweizercanyoningverein.ch
 schweizercaravan.ch
@@ -31515,6 +31519,7 @@ schweizerchefs.ch
 schweizerchemikalien.ch
 schweizerchronograf.ch
 schweizercircus.ch
+schweizerclean.ch
 schweizercloud.ch
 schweizerclubenglishbulldog.ch
 schweizercoachingmodell.ch
@@ -31575,6 +31580,7 @@ schweizerdomains.ch
 schweizerdomizil.ch
 schweizerdorfdesjahres.ch
 schweizerdrechselzentrum.ch
+schweizerdrive.ch
 schweizerdruck.ch
 schweizerdrucker.ch
 schweizerdruckerei.ch
@@ -31700,6 +31706,7 @@ schweizerforst.ch
 schweizerforum.ch
 schweizerforumdigitalesouveraenitaet.ch
 schweizerforumfuerdigitalesouveraenitaet.ch
+schweizerfoto.ch
 schweizerfotograf.ch
 schweizerfotografen.ch
 schweizerfotografie.ch
@@ -31723,6 +31730,7 @@ schweizergarage.ch
 schweizergaragen.ch
 schweizergarde-solothurn.ch
 schweizergarde.ch
+schweizergarden.ch
 schweizergardestiftung.ch
 schweizergardist.ch
 schweizergarten.ch
@@ -31787,6 +31795,7 @@ schweizergrauvieh.ch
 schweizergrauviehzucht.ch
 schweizergravuren.ch
 schweizergrill.ch
+schweizergroom.ch
 schweizergrosshandelcbd.ch
 schweizergrund.ch
 schweizergrundbesitz.ch
@@ -31796,6 +31805,7 @@ schweizergutscheine.ch
 schweizerhaar.ch
 schweizerhagel.ch
 schweizerhageldev.ch
+schweizerhair.ch
 schweizerhall-chemie.ch
 schweizerhall-synopharm.ch
 schweizerhall.ch
@@ -31930,7 +31940,6 @@ schweizerindex.ch
 schweizerindustrie.ch
 schweizerinfluencerverband.ch
 schweizerinfo.ch
-schweizeringwer.ch
 schweizerinleipzig.ch
 schweizerinnen.ch
 schweizerinstitutfuerangstueberwindung.ch
@@ -32305,6 +32314,7 @@ schweizermondholz.ch
 schweizermorchel.ch
 schweizermotorist.ch
 schweizermove.ch
+schweizermover.ch
 schweizermuenzen.ch
 schweizermusik.ch
 schweizermusikfestwochen.ch
@@ -32318,6 +32328,7 @@ schweizernachfolgeexperten.ch
 schweizernachhilfe.ch
 schweizernachrichten.ch
 schweizernachtleben.ch
+schweizernails.ch
 schweizernationalbank.ch
 schweizernatur.ch
 schweizernaturbestattung.ch
@@ -32405,6 +32416,7 @@ schweizerpilgerzentrum.ch
 schweizerpioniergeist.ch
 schweizerpistole.ch
 schweizerpistolen.ch
+schweizerpixel.ch
 schweizerplakate.ch
 schweizerplakatsammlungen.ch
 schweizerplasticrecycler.ch
@@ -32417,6 +32429,7 @@ schweizerpolizistinnen.ch
 schweizerpollen.ch
 schweizerpoloundpferdezentrum.ch
 schweizerpolozentrum.ch
+schweizerpool.ch
 schweizerportal.ch
 schweizerpost.ch
 schweizerpostadresse.ch
@@ -32603,6 +32616,7 @@ schweizersprachen.ch
 schweizersprachschule.ch
 schweizersprecher.ch
 schweizerstahl.ch
+schweizerstall.ch
 schweizerstartup.ch
 schweizersteimen.ch
 schweizerstein.ch
@@ -36208,7 +36222,6 @@ scoopmedia.ch
 scoopnest.ch
 scoopngo.ch
 scooppiercing.ch
-scoops.ch
 scoopshot.ch
 scoopstudios.ch
 scoore.ch
@@ -36300,7 +36313,6 @@ scooterplanet.ch
 scooterplanetshop.ch
 scooterplug.ch
 scooterpoint.ch
-scooterpro7.ch
 scooterrama.ch
 scooterrental.ch
 scooters-electriques.ch
@@ -36860,6 +36872,7 @@ scoutgpt.ch
 scoutgroup.ch
 scoutgruppe.ch
 scouthandmade.ch
+scoutia.ch
 scoutify.ch
 scoutimpact.ch
 scouting-coaching-sponsoring.ch

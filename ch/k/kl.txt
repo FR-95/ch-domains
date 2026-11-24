@@ -729,7 +729,6 @@ klangpaar.ch
 klangpalast.ch
 klangparadies.ch
 klangpause.ch
-klangperformancebyhelene.ch
 klangperlen.ch
 klangpferde.ch
 klangpfote.ch
@@ -1279,7 +1278,6 @@ klarawinkler.ch
 klarawiskemann.ch
 klarazehn.ch
 klarbach.ch
-klarbau.ch
 klarbeet.ch
 klarbild.ch
 klarbis.ch
@@ -1412,7 +1410,6 @@ klarheit-gewinnen.ch
 klarheit-haben.ch
 klarheit-hoch-3.ch
 klarheit-im-gespraech.ch
-klarheit-im-schullalltag.ch
 klarheit-in-luzern.ch
 klarheit-leben.ch
 klarheit-lebensweg.ch
@@ -1701,6 +1698,7 @@ klartexten.ch
 klartexter.ch
 klartexterin.ch
 klartextforum.ch
+klartextimglas.ch
 klartextkoaching.ch
 klartextlabs.ch
 klartextlight.ch
@@ -1724,7 +1722,6 @@ klarundfrei.ch
 klarundkreativ.ch
 klarundleicht.ch
 klarundrein.ch
-klarundstark.ch
 klarundstimmig.ch
 klarundwahr.ch
 klarundwertvoll.ch
@@ -3505,6 +3502,7 @@ kleinemonster.ch
 kleinemusikmacherei.ch
 kleinenergiefenstertechnik.ch
 kleineoase.ch
+kleinepapageien.ch
 kleineparkschule.ch
 kleinepatent.ch
 kleineperle.ch
@@ -4315,6 +4313,7 @@ kleintransporter-mieten.ch
 kleintransporter.ch
 kleintransporteschweiz.ch
 kleintreuhand.ch
+kleintrierpraxissimba.ch
 kleintwann.ch
 kleinundbissig.ch
 kleinundclever.ch
@@ -4363,7 +4362,6 @@ kleinwitz.ch
 kleinwohnform.ch
 kleinwohnformen.ch
 kleinwohnhaus.ch
-kleinwohnungen-invest.ch
 kleinwuchs.ch
 kleinwuchsdarsteller.ch
 kleinwunder.ch
@@ -4952,6 +4950,7 @@ klickklar.ch
 klickklick.ch
 klickkraft.ch
 klicklaminat.ch
+klicklar.ch
 klickli.ch
 klickmarketing.ch
 klickmedia.ch
@@ -4994,6 +4993,7 @@ klicksoft.ch
 klickspass.ch
 klickspende.ch
 klickspur.ch
+klickstark.ch
 klickstars.ch
 klickstart.ch
 klickstrecke.ch
@@ -5008,6 +5008,7 @@ klicktoris.ch
 klicktreff.ch
 klickts.ch
 klickundkalligrafie.ch
+klickundseo.ch
 klickundsnap.ch
 klickundweg.ch
 klickverlag.ch
@@ -6775,7 +6776,6 @@ kloentaltriennale.ch
 kloepauline.ch
 kloepec.ch
 kloepfen.ch
-kloepfer.ch
 kloeppel.ch
 kloeppelchistli.ch
 kloeppelgruppe-zurzach.ch

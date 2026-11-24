@@ -300,6 +300,7 @@ re-sentir.ch
 re-services.ch
 re-serviert-rheintal.ch
 re-serviert.ch
+re-set.ch
 re-sg.ch
 re-shape.ch
 re-share.ch
@@ -518,6 +519,7 @@ reachingout.ch
 reachingsummits.ch
 reachinternational.ch
 reachit-successofwomen.ch
+reachita.ch
 reachlab.ch
 reachlink.ch
 reachly.ch
@@ -2106,6 +2108,7 @@ realquote.ch
 realr.ch
 realracing.ch
 realrebel.ch
+realreels.ch
 realremotelife.ch
 realrendite.ch
 realrent.ch
@@ -2771,7 +2774,6 @@ rebecadoula.ch
 rebecamode.ch
 rebecanaturopathe.ch
 rebecaspina.ch
-rebecca-ai.ch
 rebecca-albertelli.ch
 rebecca-ardessi.ch
 rebecca-art-forster.ch
@@ -3535,6 +3537,7 @@ rebornwater.ch
 rebornyarn.ch
 rebos.ch
 rebot.ch
+rebota.ch
 rebote.ch
 reboto.ch
 rebotransport.ch
@@ -7542,7 +7545,6 @@ redirektor.ch
 redirock.ch
 redis-schweiz.ch
 redis.ch
-redisage.ch
 rediscovered.ch
 rediscoverthebible.ch
 redisk.ch
@@ -8271,11 +8273,13 @@ reduforte.ch
 redufortebiomed.ch
 reduirelescouts.ch
 reduit-agent.ch
+reduit-ai.ch
 reduit-ix.ch
 reduit-national.ch
 reduit-security.ch
 reduit-solutions.ch
 reduit.ch
+reduitai.ch
 reduitli.ch
 reduitly.ch
 reduitnational.ch
@@ -14757,6 +14761,7 @@ reichlinbaggerunternehmung.ch
 reichlinbau.ch
 reichling.ch
 reichlinhess.ch
+reichlinit.ch
 reichlinmedia.ch
 reichlinphotography.ch
 reichlins.ch
@@ -15676,6 +15681,7 @@ reimprecht.ch
 reimrammler.ch
 reimraupe.ch
 reims.ch
+reimu.ch
 reimundez.ch
 reimundezpose.ch
 reimus.ch
@@ -15796,7 +15802,6 @@ reineberthe.ch
 reinecke.ch
 reineckebrau.ch
 reinedelaine.ch
-reineform.ch
 reinefrische.ch
 reinehaut.ch
 reineherzen.ch
@@ -20292,6 +20297,7 @@ relovedvintage.ch
 relovetia.ch
 relovetica.ch
 relovin.ch
+relovio.ch
 relovution.ch
 relowfy.ch
 reloxan.ch
@@ -24269,7 +24275,6 @@ renova-allianz.ch
 renova-architecte.ch
 renova-arosa.ch
 renova-bau.ch
-renova-bern.ch
 renova-clean.ch
 renova-dl.ch
 renova-domus.ch
@@ -24469,6 +24474,7 @@ renovation-immeuble-valais.ch
 renovation-immeuble-vaud.ch
 renovation-immeuble.ch
 renovation-interieure-geneve.ch
+renovation-interieure.ch
 renovation-joiners-holz.ch
 renovation-lausanne.ch
 renovation-lebrun.ch
@@ -24587,6 +24593,7 @@ renovations-experte.ch
 renovations-experten.ch
 renovations-fassade.ch
 renovations-geneve.ch
+renovations-interieures.ch
 renovations-offerte.ch
 renovations-plattform.ch
 renovations-salle-de-bains.ch
@@ -26313,6 +26320,7 @@ rentto.ch
 renttobuy.ch
 renttool.ch
 renttoown.ch
+renttrust.ch
 rentuel.ch
 rentugal.ch
 rentumo.ch
@@ -26769,7 +26777,6 @@ repal.ch
 repala.ch
 repalac.ch
 repale.ch
-repalux.ch
 repan.ch
 repandcreate-mueller.ch
 repane.ch
@@ -27317,6 +27324,7 @@ repetitorium-biochemie.ch
 repetitorium-wug.ch
 repetium.ch
 repeto.ch
+repetorium.ch
 repets.ch
 repetti.ch
 repetto.ch
@@ -29028,6 +29036,7 @@ resetlab.ch
 resetlaser.ch
 resetli.ch
 resetlife.ch
+resetmental.ch
 resetmeschweiz.ch
 resetnow.ch
 resetpuglia.ch
@@ -31786,7 +31795,6 @@ restaurant-ch.ch
 restaurant-chalet-montcrosin.ch
 restaurant-chalet.ch
 restaurant-chaletindia.ch
-restaurant-champlan.ch
 restaurant-chanaan.ch
 restaurant-chandolin.ch
 restaurant-check.ch
@@ -35204,6 +35212,7 @@ restoreart.ch
 restorebox.ch
 restoreclinics.ch
 restored.ch
+restoreharmony.ch
 restorehope.ch
 restoreis.ch
 restoreit.ch
@@ -35683,6 +35692,7 @@ retailworkspace.ch
 retailyards.ch
 retain.ch
 retainer.ch
+retainerbonding.ch
 retale.ch
 retalia.ch
 retallack.ch
@@ -36505,6 +36515,7 @@ retour-affectif-dubois.ch
 retour-affectif-marabout-medium.ch
 retour-affectif-melvin-suisse.ch
 retour-affectif-recuperer-son-ex-suisse.ch
+retour-affectif-suisse.ch
 retour-affectif.ch
 retour-amoureux-immediat.ch
 retour-au-volant.ch
@@ -37362,6 +37373,7 @@ rettungsmantrailer.ch
 rettungsmaterial.ch
 rettungsmedizin.ch
 rettungsos.ch
+rettungsregister.ch
 rettungsring.ch
 rettungssanitaeter.ch
 rettungssanitat.ch

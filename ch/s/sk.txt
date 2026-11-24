@@ -1169,6 +1169,7 @@ ski-fit.ch
 ski-fond.ch
 ski-fondue.ch
 ski-fun.ch
+ski-gebiet.ch
 ski-gebiete.ch
 ski-grimentz-zinal.ch
 ski-guide.ch
@@ -1225,6 +1226,7 @@ ski-ne.ch
 ski-nocturne-fondue.ch
 ski-nordique.ch
 ski-nordisch.ch
+ski-now.ch
 ski-o-swiss.ch
 ski-offline-challenge.ch
 ski-online.ch
@@ -1358,6 +1360,7 @@ skiacademy.ch
 skiaccommodationswitzerland.ch
 skiactu.ch
 skiactus.ch
+skiadomicile.ch
 skiai.ch
 skiajoie.ch
 skiaktion.ch
@@ -5141,7 +5144,6 @@ sky-line.ch
 sky-link.ch
 sky-living.ch
 sky-lodging.ch
-sky-logics-drone.ch
 sky-lounge.ch
 sky-lugano.ch
 sky-map.ch
@@ -5185,7 +5187,6 @@ sky-sense.ch
 sky-service.ch
 sky-shield.ch
 sky-show.ch
-sky-sirius.ch
 sky-snap.ch
 sky-solutions.ch
 sky-sport.ch

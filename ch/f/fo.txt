@@ -3156,7 +3156,6 @@ fondationch.ch
 fondationchablaisnature.ch
 fondationchampoud.ch
 fondationchance13.ch
-fondationcharitable.ch
 fondationchercherettrouver.ch
 fondationcherpillod.ch
 fondationchevrolet.ch
@@ -4883,6 +4882,7 @@ food-delivery.ch
 food-depot-winti.ch
 food-design.ch
 food-detective.ch
+food-direct.ch
 food-distribution.ch
 food-dude.ch
 food-egge.ch
@@ -5303,6 +5303,7 @@ fooddely.ch
 fooddesign.ch
 fooddetective.ch
 fooddetour.ch
+fooddirect.ch
 fooddisplay.ch
 fooddrink.ch
 fooddrive.ch
@@ -6286,7 +6287,6 @@ footballissima.ch
 footballjerseys.ch
 footballkids.ch
 footballkidsacademy.ch
-footballkings.ch
 footballlab.ch
 footballlaw.ch
 footballlegal.ch
@@ -8135,6 +8135,7 @@ forgemotorsport.ch
 forgemuller.ch
 forgenova.ch
 forgenxwheels.ch
+forgenz.ch
 forgeofempires.ch
 forgeone.ch
 forgeonefitness.ch
@@ -8269,7 +8270,6 @@ forkliftfactory.ch
 forkliftonline.ch
 forklifts.ch
 forklogics.ch
-forkoff.ch
 forkscaniq.ch
 forksmusic.ch
 forksy.ch
@@ -9577,6 +9577,7 @@ forminvest.ch
 formio.ch
 formion.ch
 formiq.ch
+formiqs.ch
 formira.ch
 formis-architekten.ch
 formis.ch
@@ -10904,6 +10905,7 @@ fortgeschrittene-systemische-mastozytose.ch
 fortgit.ch
 fortgroupe.ch
 forth.ch
+fortheanimals.ch
 forthebit.ch
 fortheboys.ch
 forthechur.ch
@@ -11072,7 +11074,6 @@ fortisuhren.ch
 fortisvita.ch
 fortiswatch.ch
 fortiswatches.ch
-fortiswatchshop.ch
 fortit.ch
 fortitools.ch
 fortitrust.ch
@@ -13069,6 +13070,7 @@ fotoaffolter.ch
 fotoaficionado.ch
 fotoagenda.ch
 fotoagentur.ch
+fotoagenturdeyhle.ch
 fotoakademie.ch
 fotoakt.ch
 fotoaktion.ch
@@ -13445,7 +13447,6 @@ fotoced.ch
 fotocedric.ch
 fotocenter.ch
 fotochaestli.ch
-fotochalet.ch
 fotocham.ch
 fotochannel.ch
 fotocharly.ch
@@ -14092,7 +14093,6 @@ fotohochzeit.ch
 fotohof.ch
 fotohomberger.ch
 fotohost.ch
-fotohouse.ch
 fotohowald.ch
 fotohuess.ch
 fotohuette.ch
@@ -15397,6 +15397,7 @@ founder-services.ch
 founder.ch
 foundera.ch
 founderacademy.ch
+founderapp.ch
 founderbank.ch
 founderbanks.ch
 founderbet.ch
@@ -15822,6 +15823,7 @@ fourtytwo.ch
 fourvalue-fonds.ch
 fourvalue.ch
 fourvanguard.ch
+fourwalls.ch
 fourward.ch
 fourwards.ch
 fourwheel.ch
@@ -16074,6 +16076,7 @@ foxify.ch
 foxigy.ch
 foxilla.ch
 foximmo.ch
+foxino.ch
 foxinterieur.ch
 foxinvest.ch
 foxio.ch

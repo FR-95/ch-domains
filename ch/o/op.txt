@@ -55,6 +55,7 @@ op-thun.ch
 op-ti.ch
 op-x.ch
 op-zentren.ch
+op-zentrum-meinen.ch
 op-zentrum-rotkreuz.ch
 op-zentrum-thun.ch
 op-zentrumbasel.ch
@@ -1674,6 +1675,7 @@ openpensionlab.ch
 openpensionplatform.ch
 openpensionproject.ch
 openpetition.ch
+openpetri.ch
 openph.ch
 openpharma.ch
 openphysiotherapy.ch
@@ -2660,7 +2662,6 @@ ophtavergers.ch
 ophtavet.ch
 ophtavis.ch
 ophtavision.ch
-ophtex.ch
 ophtha-campus.ch
 ophtha-compact.ch
 ophtha-cotting.ch
@@ -4496,6 +4497,7 @@ optimoinformatik.ch
 optimomes.ch
 optimonde.ch
 optimondo.ch
+optimonia.ch
 optimonitor.ch
 optimont.ch
 optimonthey.ch

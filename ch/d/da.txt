@@ -1725,6 +1725,7 @@ dadstales.ch
 dadstrollclub.ch
 dadte.ch
 dadu.ch
+dadulus.ch
 dadum.ch
 dadur.ch
 dadventure.ch
@@ -1779,6 +1780,7 @@ daegischer.ch
 daegu.ch
 daeh-ler.ch
 daehans.ch
+daehei.ch
 daeheime.ch
 daeheimu.ch
 daehlenhof.ch
@@ -5094,6 +5096,7 @@ danai.ch
 danaides.ch
 danair.ch
 danais.ch
+danajude.ch
 danakeeris.ch
 danaki.ch
 danalandau.ch
@@ -6066,6 +6069,7 @@ daniel-coray.ch
 daniel-cotti.ch
 daniel-de-zordo.ch
 daniel-denis.ch
+daniel-denner.ch
 daniel-deplazes.ch
 daniel-der-coach.ch
 daniel-deroulet.ch
@@ -6099,6 +6103,7 @@ daniel-frei.ch
 daniel-frey.ch
 daniel-frick.ch
 daniel-friedli.ch
+daniel-frischknecht.ch
 daniel-fuchs.ch
 daniel-fuhrimann.ch
 daniel-fust.ch
@@ -9841,6 +9846,7 @@ dargebotene-hand.ch
 dargebotenehand.ch
 dargebotenepfote.ch
 dargen.ch
+dargg-apps.ch
 dargg.ch
 dargham.ch
 dargmbh.ch
@@ -9934,6 +9940,7 @@ darils.ch
 darilzanetti.ch
 darim.ch
 darima.ch
+darimusic.ch
 darin-marghitola.ch
 darin-massage.ch
 darin-psm.ch
@@ -10429,6 +10436,7 @@ darkretreat.ch
 darkrise.ch
 darkrock.ch
 darkrod.ch
+darkromance.ch
 darkromancemi.ch
 darkroom-basel.ch
 darkroom-zuerich.ch
@@ -14887,6 +14895,7 @@ datenbankloesungen.ch
 datenbankprogrammierung.ch
 datenbanktechnik.ch
 datenbasiert.ch
+datenbasis.ch
 datenbaum.ch
 datenberatung.ch
 datenbereinigung.ch
@@ -15364,6 +15373,7 @@ datenwolke.ch
 datenzahnmedizin.ch
 datenzenter.ch
 datenzentrale.ch
+datenzentrale24.ch
 datenzentren-nein-danke.ch
 datenzentrum.ch
 datenzugriff.ch
@@ -16914,7 +16924,6 @@ davidlenoc.ch
 davidleroy.ch
 davidleudolph.ch
 davidleuthold.ch
-davidlewisosteopath.ch
 davidlichtsteiner.ch
 davidlienberger.ch
 davidlienhard.ch

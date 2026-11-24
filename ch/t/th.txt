@@ -3282,7 +3282,6 @@ the1injector.ch
 the1surgeon.ch
 the1surgery.ch
 the20th.ch
-the25hour.ch
 the269.ch
 the26keys.ch
 the270.ch
@@ -3706,7 +3705,6 @@ theartroom.ch
 thearts.ch
 theartshop.ch
 thearttobe.ch
-theartvault.ch
 theartworks.ch
 thearytz.ch
 theasbackwerk.ch
@@ -4943,7 +4941,6 @@ thebaurs.ch
 thebaxter.ch
 thebaxterbet.ch
 thebaxterhotel.ch
-thebbq.ch
 thebbqexperts.ch
 thebbqshop.ch
 thebc.ch
@@ -5344,6 +5341,7 @@ thebohomes.ch
 theboiler.ch
 thebois.ch
 theboldacademy.ch
+theboldclub.ch
 theboldlab.ch
 theboldlipstick.ch
 thebolla.ch
@@ -5425,6 +5423,7 @@ theboxer.ch
 theboxes.ch
 theboxhub.ch
 theboxlab.ch
+theboxoutdoorkitchen.ch
 theboxscore.ch
 theboxstermoment.ch
 theboxzurich.ch
@@ -6948,6 +6947,7 @@ thefarmers.ch
 thefarmershop.ch
 thefarmersmarket.ch
 thefarmhouse.ch
+thefarmtable.ch
 thefartbuddies.ch
 thefashion.ch
 thefashionminds.ch
@@ -7318,7 +7318,6 @@ thefurters.ch
 thefusion.ch
 thefutureclub.ch
 thefutureeconomy.ch
-thefutureisbright.ch
 thefutureisfair.ch
 thefutureisgreen.ch
 thefutureisneutral.ch
@@ -9912,7 +9911,6 @@ thenetworks.ch
 theneurodivergentcoa.ch
 theneurodiversitycoach.ch
 theneutralstudio.ch
-thenevertakenimages.ch
 thenew.ch
 thenew100.ch
 thenewancienthome.ch
@@ -10950,7 +10948,6 @@ thepoopooclub.ch
 thepoorswiss.ch
 thepopcorn.ch
 thepopular.ch
-thepopup.ch
 thepor.ch
 theporno.ch
 theporridgehouse.ch
@@ -14774,6 +14771,7 @@ thetanningstation.ch
 thetaphotonics.ch
 thetaportfolio.ch
 thetaps.ch
+thetara.ch
 thetaraum.ch
 thetareading-mirijaminauen.ch
 thetareading-weitsicht.ch
@@ -15183,6 +15181,7 @@ thevault.ch
 thevaultedit.ch
 thevaultsarl.ch
 thevaultsociety.ch
+thevaultswitzerland.ch
 thevciso.ch
 thevegan-group.ch
 theveganaperochallenge.ch
@@ -16233,6 +16232,7 @@ thievent.ch
 thieventaraber.ch
 thieventgerber.ch
 thif.ch
+thifanny.ch
 thiff.ch
 thifferent.ch
 thig.ch
@@ -17320,6 +17320,7 @@ thoemus-akros.ch
 thoemus-bike-academy.ch
 thoemus-bikeworld.ch
 thoemus-fahrschule.ch
+thoemus-maxon-alpiq.ch
 thoemus-maxon.ch
 thoemus-sg.ch
 thoemus-snowfarm.ch
@@ -17330,6 +17331,7 @@ thoemus.ch
 thoemusbikeacademy.ch
 thoemusbikeworld.ch
 thoemusmaxon.ch
+thoemusmaxonalpiq.ch
 thoenen-kaese.ch
 thoenen-malerei.ch
 thoenen.ch
@@ -17797,7 +17799,6 @@ thomas-mohler.ch
 thomas-monn.ch
 thomas-moser.ch
 thomas-mueller-hv.ch
-thomas-mueller.ch
 thomas-naef.ch
 thomas-naturopathe.ch
 thomas-nedjar.ch
@@ -17812,6 +17813,7 @@ thomas-obrecht.ch
 thomas-olt.ch
 thomas-online.ch
 thomas-pech.ch
+thomas-peletier.ch
 thomas-peter-beratung.ch
 thomas-peter.ch
 thomas-peterhans.ch
@@ -18267,6 +18269,7 @@ thomasgude-gmbh.ch
 thomasgugger.ch
 thomasguhl.ch
 thomasguignard.ch
+thomasguille.ch
 thomasgut.ch
 thomasguthruf.ch
 thomasgutmann.ch
@@ -19574,6 +19577,7 @@ threefold.ch
 threefour.ch
 threegreen.ch
 threegreens.ch
+threegrill.ch
 threehalo.ch
 threehandscollective.ch
 threeheadedlady.ch
@@ -20559,7 +20563,6 @@ thurgauer-chor.ch
 thurgauer-echo.ch
 thurgauer-event-zentrum.ch
 thurgauer-eventzentrum.ch
-thurgauer-familienkalender.ch
 thurgauer-festchor.ch
 thurgauer-gesang.ch
 thurgauer-geschenkharass.ch
@@ -20739,6 +20742,7 @@ thurlabs.ch
 thurland.ch
 thurlandbio.ch
 thurlandrose.ch
+thurlaub.ch
 thurler.ch
 thurlestone-financial.ch
 thurlestone-shipping.ch

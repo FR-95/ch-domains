@@ -85,7 +85,6 @@ pdc-configuratore.ch
 pdc-estavayer.ch
 pdc-events.ch
 pdc-ge.ch
-pdc-group.ch
 pdc-industries.ch
 pdc-lens.ch
 pdc-modulo-di-sistema.ch

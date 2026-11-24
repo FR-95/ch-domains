@@ -1928,7 +1928,6 @@ quantumenergy.ch
 quantumenergygenerator.ch
 quantumengelheilung.ch
 quantumengineering.ch
-quantumenterprise.ch
 quantumeurope.ch
 quantumevolutio.ch
 quantumexplained.ch
@@ -2146,7 +2145,6 @@ quarius.ch
 quarix.ch
 quark-advisor.ch
 quark-goerbs.ch
-quark-werbeagentur.ch
 quark.ch
 quarker.ch
 quarkexpedition.ch
@@ -2641,6 +2639,7 @@ quartierverein-olten.ch
 quartierverein-pulvermuehle.ch
 quartierverein-sbe.ch
 quartierverein-schachen.ch
+quartierverein-seidenberg.ch
 quartierverein-sonnenberg.ch
 quartierverein-steinacker.ch
 quartierverein-triemli.ch
@@ -3444,6 +3443,7 @@ quel-crm.ch
 quel-hopital.ch
 quel-parti.ch
 quel-prix.ch
+quel.ch
 quel3epilier.ch
 quelartisan.ch
 quelavocat.ch
@@ -3998,8 +3998,10 @@ questai.ch
 questas.ch
 questback.ch
 questbar.ch
+questbase.ch
 questboss.ch
 questbox.ch
+questcamp.ch
 questcape.ch
 questcequonmange.ch
 questco.ch
@@ -4018,6 +4020,7 @@ questfactory.ch
 questfon.ch
 questforbeauty.ch
 questforge.ch
+questgames.ch
 questgroup.ch
 questhouse.ch
 questianisme.ch
@@ -4075,6 +4078,8 @@ questionsur.ch
 questionzero.ch
 questiorming.ch
 questiqo.ch
+questkids.ch
+questlab.ch
 questland.ch
 questline.ch
 questling.ch
@@ -4100,6 +4105,7 @@ quests.ch
 questsa.ch
 questsec.ch
 questsoftware.ch
+questspace.ch
 questware.ch
 questwerk.ch
 quet.ch
@@ -4896,6 +4902,7 @@ quillo.ch
 quillomedia.ch
 quillsphere.ch
 quilmes.ch
+quilo.ch
 quilombo-capoeira.ch
 quilt-art.ch
 quilt-atelier.ch
@@ -5467,7 +5474,6 @@ quizhub.ch
 quizi.ch
 quizify.ch
 quizine.ch
-quizirfa.ch
 quizit.ch
 quizitquest.ch
 quizland.ch

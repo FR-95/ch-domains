@@ -73,6 +73,7 @@ bb-ccp.ch
 bb-coach.ch
 bb-coaching-einmalanders.ch
 bb-coaching.ch
+bb-colortherapy.ch
 bb-com.ch
 bb-composite.ch
 bb-connect.ch
@@ -652,7 +653,6 @@ bbflow.ch
 bbfm.ch
 bbfn.ch
 bbfokus.ch
-bbfood.ch
 bbfoodie.ch
 bbform.ch
 bbfotografie.ch
@@ -1027,7 +1027,6 @@ bbperformance.ch
 bbpgeo.ch
 bbphotoimpressions.ch
 bbpixelmix.ch
-bbpizza.ch
 bbplaner.ch
 bbplanerag.ch
 bbplastsuisse.ch
@@ -1441,6 +1440,7 @@ bburg.ch
 bburger.ch
 bburi.ch
 bburkard.ch
+bburkhalter.ch
 bbus.ch
 bbusiness.ch
 bbuzwil.ch

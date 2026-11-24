@@ -484,7 +484,6 @@ slavsecurity.ch
 slavsecurityagent.ch
 slavuti.ch
 slaw.ch
-slawbrother.ch
 slawinski.ch
 slawokleeb.ch
 slaxeea.ch
@@ -1344,7 +1343,6 @@ slingshots.ch
 slingsnap.ch
 slink.ch
 slinky.ch
-slinkyagents.ch
 slinkystylez.ch
 slinn.ch
 slip-control.ch
@@ -1464,6 +1462,7 @@ slm-gmbh.ch
 slm-management.ch
 slm-montages.ch
 slm-online.ch
+slm-rechtsberatung-treuhand.ch
 slm-rechtsberatung.ch
 slm-schwarzenburg.ch
 slm.ch
@@ -1954,6 +1953,7 @@ slovensko.ch
 slovinum.ch
 slow-aging.ch
 slow-alps.ch
+slow-amber.ch
 slow-ayurveda.ch
 slow-carb.ch
 slow-care.ch
@@ -1962,6 +1962,7 @@ slow-city.ch
 slow-coach.ch
 slow-coaches.ch
 slow-coaching.ch
+slow-community.ch
 slow-date.ch
 slow-dating.ch
 slow-design.ch
@@ -1994,6 +1995,7 @@ slow-photography.ch
 slow-runners.ch
 slow-sex.ch
 slow-shopping.ch
+slow-society.ch
 slow-space.ch
 slow-sunday.ch
 slow-surf.ch
@@ -2223,6 +2225,7 @@ slowsexretreat.ch
 slowsexretreats.ch
 slowshopping.ch
 slowslope.ch
+slowsociety.ch
 slowsoft.ch
 slowsound.ch
 slowspace.ch
@@ -2525,7 +2528,6 @@ sltmuma.ch
 sltolf.ch
 sltools.ch
 sltraining.ch
-sltransport.ch
 sltransports.ch
 sltreuhand.ch
 slts.ch

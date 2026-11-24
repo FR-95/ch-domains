@@ -678,7 +678,6 @@ coach-oriana.ch
 coach-ostschweiz.ch
 coach-outdoor-plein-air.ch
 coach-parental.ch
-coach-performance.ch
 coach-personnel.ch
 coach-physio.ch
 coach-piddy.ch
@@ -928,7 +927,6 @@ coaches-corner.ch
 coaches.ch
 coaches4you.ch
 coachesart.ch
-coachescorner.ch
 coachesonpurpose.ch
 coachess.ch
 coachestogo.ch
@@ -1489,6 +1487,7 @@ coaching-raum-isa.ch
 coaching-raum.ch
 coaching-rechtsberatung.ch
 coaching-redefined.ch
+coaching-reflexion.ch
 coaching-register.ch
 coaching-relfexion.ch
 coaching-rene.ch
@@ -2254,7 +2253,6 @@ coachonline.ch
 coachonpurpose.ch
 coachontheway.ch
 coachoro.ch
-coachperformance.ch
 coachpergiovani.ch
 coachpferd.ch
 coachphil.ch
@@ -3658,6 +3656,7 @@ codaa.ch
 codaaudio.ch
 codable.ch
 codac.ch
+codaconcerts.ch
 codacore.ch
 codact.ch
 codafe.ch
@@ -4833,6 +4832,7 @@ coeursurpattes.ch
 coeurvaillant.ch
 coeurvalais.ch
 coeurvert.ch
+coeurvivant.ch
 coeurwallis.ch
 coeurzen.ch
 coeus.ch
@@ -5132,6 +5132,7 @@ coffeefarmer.ch
 coffeefellows.ch
 coffeefestival.ch
 coffeefestivalostschweiz.ch
+coffeefindr.ch
 coffeefirst.ch
 coffeefit.ch
 coffeeforyou.ch
@@ -5918,9 +5919,11 @@ cohesia-cb.ch
 cohesia.ch
 cohesiagroup.ch
 cohesio.ch
+cohesion-bureau.ch
 cohesion-impact.ch
 cohesion-vs.ch
 cohesion.ch
+cohesionbureau.ch
 cohesity.ch
 cohesiv.ch
 cohesive-offices.ch
@@ -5940,6 +5943,7 @@ coho.ch
 cohoba.ch
 cohome.ch
 cohomes.ch
+cohoris.ch
 cohort.ch
 cohorte-ia.ch
 cohortis-helveticae.ch
@@ -6863,6 +6867,7 @@ coiffeurdorfplatz.ch
 coiffeurdoris.ch
 coiffeurdreamlook.ch
 coiffeurdreispitz.ch
+coiffeurdunia.ch
 coiffeure-annette.ch
 coiffeure-baffy.ch
 coiffeure-basel.ch
@@ -10955,6 +10960,7 @@ coloranalysis.ch
 colorance.ch
 colorandcuts.ch
 coloranddesign.ch
+colorandlight.ch
 colorandlook.ch
 colorandmore.ch
 colorando.ch
@@ -11849,6 +11855,7 @@ comagra.ch
 comail.ch
 comair-germany.ch
 comak.ch
+comake.ch
 comal.ch
 comalate.ch
 comalgenplan.ch
@@ -13108,7 +13115,6 @@ comini.ch
 cominia.ch
 cominmag.ch
 cominmagazine.ch
-cominno.ch
 comino.ch
 cominotti.ch
 cominotti1945.ch
@@ -13881,6 +13887,7 @@ commucal.ch
 commugny-omnia.ch
 commugny.ch
 commugny24.ch
+commukit.ch
 commulex.ch
 commun.ch
 communa-gestion.ch
@@ -13962,6 +13969,7 @@ commune-suisse.ch
 commune-val-de-ruz.ch
 commune-valbroye.ch
 commune-valdebagnes.ch
+commune-yens.ch
 commune-zero-net.ch
 commune-zero.ch
 commune.ch
@@ -14155,8 +14163,10 @@ communicationtactile.ch
 communicationtraining.ch
 communicationtrends.ch
 communicationvisuelle.ch
+communicativa.ch
 communicator.ch
 communicators.ch
+communicaziun-web.ch
 communicaziun.ch
 communico.ch
 communicoach.ch
@@ -15877,10 +15887,13 @@ compliance-pzz.ch
 compliance-regulation.ch
 compliance-saas.ch
 compliance-school.ch
+compliance-schweiz.ch
 compliance-services.ch
 compliance-shop.ch
 compliance-solutions.ch
+compliance-suisse.ch
 compliance-support.ch
+compliance-svizzera.ch
 compliance-training.ch
 compliance-utility.ch
 compliance-verification.ch
@@ -16117,6 +16130,7 @@ compositesolutions.ch
 compositeur-musique.ch
 compositeursgenevois.ch
 compositeworx.ch
+composition.ch
 compositiondinterieur.ch
 composplus.ch
 compost-seeland.ch
@@ -17844,6 +17858,7 @@ conako2020.ch
 conako2027.ch
 conako2028.ch
 conako25.ch
+conako27.ch
 conalco.ch
 conalis.ch
 conalma.ch
@@ -20228,6 +20243,7 @@ conitrade.ch
 coniugo.ch
 coniuncta.ch
 coniunctio.ch
+coniunctis.ch
 coniundmark.ch
 coniungo.ch
 conivibe.ch
@@ -22263,6 +22279,7 @@ constantin-metal.ch
 constantin-promo.ch
 constantin-renovation.ch
 constantin-suisse.ch
+constantin-unique.ch
 constantin.ch
 constantina.ch
 constantinag.ch
@@ -23203,7 +23220,6 @@ consultingpeople.ch
 consultingplus.ch
 consultingpt.ch
 consultingrh.ch
-consultingrhforit.ch
 consultings.ch
 consultingschweiz.ch
 consultingschwitter.ch
@@ -23561,6 +23577,7 @@ contactsuisse.ch
 contactswiss.ch
 contactswissumzuege.ch
 contactswitzerland.ch
+contacture.ch
 contactus-consulting.ch
 contactus-immo.ch
 contactus.ch
@@ -24762,6 +24779,7 @@ contracts.ch
 contractshop.ch
 contractstyle.ch
 contractubex.ch
+contracture.ch
 contractus.ch
 contractvalor.ch
 contractvault.ch
@@ -26621,6 +26639,7 @@ coolportal.ch
 coolpower.ch
 coolpreis.ch
 coolprint.ch
+coolprint3d.ch
 coolpriser.ch
 coolpro.ch
 coolprodukte.ch
@@ -28840,6 +28859,7 @@ core-career.ch
 core-coaching-empowerment.ch
 core-coaching.ch
 core-coat.ch
+core-code.ch
 core-company.ch
 core-compliance.ch
 core-computing.ch
@@ -29440,7 +29460,6 @@ corework.ch
 coreworks.ch
 corex.ch
 corexag.ch
-corexbau.ch
 corexbaugmbh.ch
 corexis.ch
 corexsolutions.ch
@@ -29653,13 +29672,11 @@ corinda.ch
 corine-knupp.ch
 corine-mauch.ch
 corine.ch
-corinecorner.ch
 corinedefarme.ch
 corinedesfleurs.ch
 corinehuet.ch
 corinemauch.ch
 corinerey.ch
-corineshop.ch
 corinex.ch
 corinezuchuat.ch
 corinftravel.ch
@@ -32195,6 +32212,7 @@ cortensa.ch
 cortensichtschutz.ch
 cortenstahl.ch
 cortenuovo.ch
+corteo.ch
 cortes-bouth.ch
 cortes-formation.ch
 cortes-geneve.ch
@@ -34066,7 +34084,6 @@ costuder.ch
 costudici.ch
 costum.ch
 costume-homme.ch
-costume-monsieur.ch
 costume-vaudois.ch
 costume.ch
 costumeandmore.ch
@@ -34152,7 +34169,6 @@ cosycouture.ch
 cosydarma.ch
 cosydeco.ch
 cosydirect.ch
-cosydog.ch
 cosydogs.ch
 cosyfeel.ch
 cosyfelin.ch
@@ -34661,7 +34677,9 @@ couchfunk.ch
 couchgourmet.ch
 couchingbysandytadross.ch
 couchkult.ch
+couchlab.ch
 couchliebe.ch
+couchling.ch
 couchoux.ch
 couchpause.ch
 couchpotato.ch
@@ -34889,6 +34907,7 @@ couleursduterroir.ch
 couleursduthe.ch
 couleursetparfums.ch
 couleursetpatines.ch
+couleursetsaveursdumonde.ch
 couleursetvernis.ch
 couleursevi.ch
 couleursinfinies.ch

@@ -204,6 +204,7 @@ vplc.ch
 vplemanique.ch
 vplimousineswiss.ch
 vploberwallis.ch
+vplocation-gps.ch
 vplocation.ch
 vplu.ch
 vplus-international.ch
@@ -222,7 +223,9 @@ vpmag.ch
 vpmanagement.ch
 vpmedia.ch
 vpmind.ch
+vpmlab.ch
 vpms.ch
+vpmtransportag.ch
 vpmubs.ch
 vpmv.ch
 vpn-access.ch

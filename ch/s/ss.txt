@@ -15,6 +15,7 @@ ss-funkservice.ch
 ss-g.ch
 ss-group.ch
 ss-home.ch
+ss-immo.ch
 ss-immobilien.ch
 ss-informatik.ch
 ss-int.ch
@@ -687,6 +688,7 @@ ssle.ch
 ssler.ch
 ssles.ch
 sslesolutions.ch
+sslf.ch
 sslg.ch
 sslga.ch
 sslguru.ch
@@ -1297,6 +1299,7 @@ ssvb.ch
 ssvbj.ch
 ssvc.ch
 ssvc01.ch
+ssvc02.ch
 ssvcham-ennetsee.ch
 ssvd.ch
 ssvex.ch

@@ -315,7 +315,6 @@ my-chollet.ch
 my-christchindli.ch
 my-ci.ch
 my-cigar-corner.ch
-my-cineclub.ch
 my-cio.ch
 my-cit.ch
 my-city.ch
@@ -1574,6 +1573,7 @@ my-shopstop.ch
 my-shot.ch
 my-showreel.ch
 my-showroom.ch
+my-shrooms.ch
 my-si.ch
 my-sibe.ch
 my-silver-mind.ch
@@ -1660,7 +1660,6 @@ my-steffi.ch
 my-stella.ch
 my-ster.ch
 my-steuerberater.ch
-my-stew.ch
 my-stmoritz.ch
 my-stock.ch
 my-stop.ch
@@ -1969,6 +1968,7 @@ my-wellnest.ch
 my-werbebanner.ch
 my-win.ch
 my-window.ch
+my-wine-cellar.ch
 my-wine-moments.ch
 my-wine.ch
 my-winelist.ch
@@ -2250,7 +2250,6 @@ myairportshuttle.ch
 myairseat.ch
 myairtag.ch
 myaiteam.ch
-myaitools.ch
 myaiwritting.ch
 myajilon.ch
 myakkupoint.ch
@@ -3401,9 +3400,9 @@ mycapsulehome.ch
 mycaptain.ch
 mycar.ch
 mycaramia.ch
+mycaranalytics.ch
 mycarautohandel.ch
 mycaravan.ch
-mycarbon24.ch
 mycarbonaction.ch
 mycarbuyer.ch
 mycarcenter.ch
@@ -4210,7 +4209,6 @@ mycrovault.ch
 mycrowd.ch
 mycrown.ch
 mycrownplay.ch
-mycroworks.ch
 mycruise.ch
 mycryptlist.ch
 mycrypto.ch
@@ -4734,6 +4732,7 @@ mydriving.ch
 mydrivingschool.ch
 mydrogerie.ch
 mydrone.ch
+mydronecampus.ch
 mydronevideos.ch
 mydrop.ch
 mydropbox.ch
@@ -5614,7 +5613,6 @@ myfuckingwebsite.ch
 myfuel.ch
 myfujifilm.ch
 myfujitsu.ch
-myfukingcoffee.ch
 myfun.ch
 myfunbox.ch
 myfund.ch
@@ -5841,7 +5839,6 @@ mygolfcard.ch
 mygolfcourses.ch
 mygolfen.ch
 mygolfkarte.ch
-mygolfmedia.ch
 mygolfoutlet.ch
 mygolfplan.ch
 mygolfscore.ch
@@ -6933,6 +6930,7 @@ myklixx.ch
 myklosters.ch
 mykloud.ch
 myklub.ch
+myklubio.ch
 mykm.ch
 mykmi.ch
 mykmo.ch
@@ -7623,6 +7621,8 @@ myluckydog.ch
 myluckystart.ch
 myluftbild.ch
 mylugano.ch
+myluka.ch
+mylukka.ch
 mylule.ch
 mylumara.ch
 mylumesia.ch
@@ -7972,6 +7972,7 @@ mymisty.ch
 mymivo.ch
 mymivoa.ch
 mymix.ch
+mymlabs.ch
 mymms.ch
 mymo-live.ch
 mymo.ch
@@ -8868,6 +8869,7 @@ myparagliding.ch
 myparapharmacy.ch
 myparaworld.ch
 myparcel.ch
+myparcelle.ch
 mypardy.ch
 myparfum.ch
 myparfum24.ch
@@ -10872,7 +10874,6 @@ myssef.ch
 myssfs.ch
 myssion.ch
 myst-gmbh.ch
-myst.ch
 mysta.ch
 mystable.ch
 mystableflow.ch
@@ -11020,7 +11021,6 @@ mysteryadventure.ch
 mysterybar.ch
 mysterybeautystudio.ch
 mysteryboom.ch
-mysterybox-schweiz.ch
 mysterybox.ch
 mysterybox24.ch
 mysteryboxschweiz.ch
@@ -12361,6 +12361,7 @@ mytutorial.ch
 mytutorzuerich.ch
 mytv-prosieben.ch
 mytv.ch
+mytv24.ch
 mytvc.ch
 mytvmovie.ch
 mytvprosieben.ch

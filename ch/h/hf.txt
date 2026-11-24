@@ -26,6 +26,7 @@ hf-buesto.ch
 hf-bzpflege.ch
 hf-campus.ch
 hf-cast.ch
+hf-chaines.ch
 hf-check.ch
 hf-chur.ch
 hf-electronics.ch
@@ -43,6 +44,7 @@ hf-i.ch
 hf-ict.ch
 hf-informatik.ch
 hf-ing.ch
+hf-ketten.ch
 hf-kommunikation.ch
 hf-kostenerhebung.ch
 hf-loeten.ch
@@ -450,7 +452,6 @@ hftop.ch
 hftopup.ch
 hftracker.ch
 hftraining.ch
-hftransport.ch
 hfts.ch
 hftschwyz.ch
 hftso.ch

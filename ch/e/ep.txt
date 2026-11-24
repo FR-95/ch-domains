@@ -1043,7 +1043,6 @@ epicride.ch
 epicro.ch
 epicroutestudio.ch
 epics.ch
-epicsessions.ch
 epicshape.ch
 epicshelter.ch
 epicshield.ch
@@ -1795,6 +1794,7 @@ epos6.ch
 epos7.ch
 eposa.ch
 eposana.ch
+eposapp.ch
 eposaudio.ch
 eposcht.ch
 eposcomputer.ch

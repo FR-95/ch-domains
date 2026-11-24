@@ -986,6 +986,7 @@ dearsolidaritesuisse.ch
 dearsosu.ch
 dearsoulheart.ch
 dearstranger.ch
+dearsunday.ch
 deartis.ch
 dearvini.ch
 dearyou.ch
@@ -1142,6 +1143,7 @@ debarrasse-auto.ch
 debarrasse-geneva.ch
 debarrasse-maison.ch
 debarrasser.ch
+debarrassuccession.ch
 debarrastout.ch
 debarrasvalais.ch
 debarrasvaud.ch
@@ -1474,7 +1476,6 @@ deboraeliyo.ch
 deboragerber.ch
 deborah-althuser.ch
 deborah-annema.ch
-deborah-ariano.ch
 deborah-ayurveda.ch
 deborah-band.ch
 deborah-begleitung.ch
@@ -1629,7 +1630,6 @@ debost.ch
 debotton.ch
 debouba-beratung.ch
 debouchage-bellevue.ch
-debouchage-canalisation.ch
 debouchage-canalisations.ch
 debouchage-cologny.ch
 debouchage-geneve.ch
@@ -4436,7 +4436,6 @@ defazio.ch
 defcom.ch
 defcon.ch
 defcon3.ch
-defconuno.ch
 defdef.ch
 defect.ch
 defectis.ch
@@ -4520,6 +4519,7 @@ defensecyber.ch
 defensedafficher.ch
 defensedrone.ch
 defensedufrancais.ch
+defenseforum.ch
 defenselab.ch
 defensepourtous.ch
 defensesolutions.ch
@@ -5923,6 +5923,7 @@ dein-rucksack.ch
 dein-ruf.ch
 dein-ruhepol.ch
 dein-safeplace.ch
+dein-sana.ch
 dein-sanierungs-partner.ch
 dein-sanitaer.ch
 dein-sauberes-wasser.ch
@@ -6580,7 +6581,6 @@ deine-urologie.ch
 deine-versicherung.ch
 deine-vision.ch
 deine-vorschau.ch
-deine-vorsorge.ch
 deine-vorteile.ch
 deine-wahl.ch
 deine-wahrsager.ch
@@ -6759,7 +6759,6 @@ deinehochzeitsplanerin.ch
 deinehomepage.ch
 deinehuette.ch
 deinehypo.ch
-deineichzeit.ch
 deineidee.ch
 deineigenerweg.ch
 deineigenesolivenoel.ch
@@ -6962,7 +6961,6 @@ deinestoffe.ch
 deinestofftasche.ch
 deinestory.ch
 deinestunde.ch
-deinesystemischeaufstellungswerkstatt.ch
 deinet-wegen.ch
 deinetagundnachtlinse.ch
 deinetantrareise.ch
@@ -8148,6 +8146,7 @@ deklaration.ch
 deklarationen.ch
 deklarationsmandat.ch
 deklarieren.ch
+deklariert.ch
 deklaris.ch
 dekleek.ch
 dekleer.ch
@@ -8353,7 +8352,6 @@ dekonta.ch
 dekontamination.ch
 dekontaminieren.ch
 dekontec.ch
-dekoo.ch
 dekoonline.ch
 dekoontour.ch
 dekooutlet.ch
@@ -8758,6 +8756,7 @@ delaquis-storen.ch
 delaquis.ch
 delaracinealafeuille.ch
 delarageaz.ch
+delaralomen.ch
 delaram-aesthetics.ch
 delarat.ch
 delare.ch
@@ -8899,6 +8898,7 @@ delconews.ch
 delcono.ch
 delconpetfood.ch
 delconseils.ch
+delconte.ch
 delcorazon.ch
 delcordia.ch
 delcore.ch
@@ -10301,6 +10301,7 @@ delphine-morel.ch
 delphine-pierre.ch
 delphine-piller.ch
 delphine.ch
+delphine50.ch
 delphinea.ch
 delphineandcow.ch
 delphinebachmann.ch
@@ -10439,7 +10440,6 @@ delsolar.ch
 delsolardesign.ch
 delsole-elektro.ch
 delsole.ch
-delsolinc.ch
 delson.ch
 delsreinigung.ch
 delstaldo.ch
@@ -11568,6 +11568,7 @@ demcare.ch
 demchenko.ch
 demco.ch
 demcoswiss.ch
+demd.ch
 demdem.ch
 demdenkenbeinemachen.ch
 deme-nago.ch
@@ -13228,7 +13229,6 @@ denisewintsch.ch
 denisewipfli.ch
 denisewohlgemuth.ch
 denisewoodtli.ch
-deniseymartin.ch
 denisezeller.ch
 denisezorzi.ch
 denisfelix.ch
@@ -13386,6 +13386,7 @@ denk.ch
 denk3a.ch
 denka-lift.ch
 denka.ch
+denkagent.ch
 denkallmend.ch
 denkandich.ch
 denkaneuch.ch
@@ -14608,6 +14609,7 @@ dentallab.ch
 dentallab3d.ch
 dentallabhartmann.ch
 dentallabor-bern.ch
+dentallabor-bleicherweg.ch
 dentallabor-colombo.ch
 dentallabor-digital-luzern.ch
 dentallabor-friedberg.ch
@@ -16831,7 +16833,6 @@ der-faltladen.ch
 der-familienberg.ch
 der-fanshop.ch
 der-farang.ch
-der-farbeimer.ch
 der-feine-unterschied.ch
 der-fels.ch
 der-feuerverzinker.ch
@@ -18051,7 +18052,6 @@ derfalschmelder.ch
 derfalter.ch
 derfaltladen.ch
 derfanshop.ch
-derfarbeimer.ch
 derfassadenlift.ch
 derfaun.ch
 derfcbaselundseinestadt.ch
@@ -19539,6 +19539,7 @@ dermedix.ch
 dermedtherapeut.ch
 dermehrfamilienhausexperte.ch
 dermeier.ch
+dermeierclan.ch
 dermeilenstein-events.ch
 dermeilenstein.ch
 dermeister.ch
@@ -19796,6 +19797,7 @@ derosier.ch
 derosiere.ch
 derossi.ch
 derossiservices.ch
+derosso.ch
 deroswiss.ch
 deroten.ch
 derothix.ch
@@ -20040,6 +20042,7 @@ dersaunabauer.ch
 dersaxophonbauer.ch
 dersbach.ch
 derschakal.ch
+derschal.ch
 derscharfemaxx.ch
 derschauraum.ch
 derscheibendoktor.ch
@@ -20159,6 +20162,7 @@ derspot.ch
 dersprayervonzuerich-film.ch
 dersprecher.ch
 derspringendepunkt.ch
+derspringer.ch
 dersproessling.ch
 derspurenleser.ch
 derspurgblogger.ch
@@ -20863,6 +20867,7 @@ desegonzac.ch
 deseia.ch
 desein-dein-shirt.ch
 deselaers.ch
+desema.ch
 desembouage-chauffage.ch
 desembouage.ch
 desemprego.ch
@@ -22124,6 +22129,7 @@ designkk.ch
 designklar.ch
 designklassiker-shop.ch
 designklassiker.ch
+designklicks.ch
 designklinik.ch
 designknecht.ch
 designkoenig.ch
@@ -23748,7 +23754,6 @@ detailhandelspraxis.ch
 detailhandelsspezialist.ch
 detailhandelsspezialisten.ch
 detailhandelsspezialistin.ch
-detailhandelsstelle.ch
 detailhandelstagung.ch
 detailhandelsverband.ch
 detailhandelverband.ch
@@ -24696,7 +24701,6 @@ deutscher-handwerker.ch
 deutscher-hilfsverein-zuerich.ch
 deutscher-honorarkonsul-basel.ch
 deutscher-honorarkonsul-genf.ch
-deutscher-kuchen.ch
 deutscher-lipoedem-service.ch
 deutscher-produktvergleich.ch
 deutscher-schaeferhund.ch
@@ -24710,7 +24714,6 @@ deutscherclubzuerich.ch
 deutschereise.ch
 deutschergewinnbote.ch
 deutscherhonorarkonsulbasel.ch
-deutscherkuchen.ch
 deutscherpinscher-lana.ch
 deutscherpinscher.ch
 deutscherschaeferhund.ch
@@ -25146,6 +25149,7 @@ devalette.ch
 devaleur.ch
 devall.ch
 devallier.ch
+devalocation.ch
 devals.ch
 devalte.ch
 devaltier.ch

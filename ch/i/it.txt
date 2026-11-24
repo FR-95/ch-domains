@@ -999,6 +999,7 @@ it-strategy-controlling.ch
 it-strategy.ch
 it-strategy4u.ch
 it-streitbeilegungsstelle.ch
+it-stube.ch
 it-studio.ch
 it-stuff.ch
 it-style.ch
@@ -1773,7 +1774,6 @@ italoparts.ch
 italopassione.ch
 italos.ch
 italoscaffe.ch
-italoschampus.ch
 italoshop.ch
 italosvizzeri.ch
 italosvizzero.ch

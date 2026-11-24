@@ -189,6 +189,7 @@ umbau-allrounder.ch
 umbau-architekt.ch
 umbau-aus-einer-hand.ch
 umbau-basel.ch
+umbau-baselland.ch
 umbau-berater.ch
 umbau-beratung.ch
 umbau-center.ch
@@ -1941,7 +1942,6 @@ umzugs-fox.ch
 umzugs-gurus.ch
 umzugs-haus.ch
 umzugs-helden.ch
-umzugs-helfer.ch
 umzugs-hero.ch
 umzugs-heroes.ch
 umzugs-hilfe.ch

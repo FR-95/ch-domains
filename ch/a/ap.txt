@@ -500,6 +500,7 @@ apartment84.ch
 apartmentartist.ch
 apartmentbasel.ch
 apartmentbern.ch
+apartmentclearance.ch
 apartmentdavos.ch
 apartmentfinden.ch
 apartmentfinder.ch
@@ -2315,7 +2316,6 @@ apis-zuri.ch
 apis.ch
 apisabb.ch
 apisam.ch
-apisante.ch
 apisarbaz.ch
 apisart.ch
 apisartis.ch
@@ -2743,6 +2743,7 @@ apmyn.ch
 apmz.ch
 apn-ch.ch
 apn-praxis.ch
+apn-raumundboden.ch
 apn.ch
 apna.ch
 apnbartholdi.ch
@@ -2900,6 +2901,7 @@ apo1.ch
 apo112.ch
 apo11o.ch
 apo24.ch
+apo247.ch
 apo24basel.ch
 apo24shop.ch
 apo24zh.ch
@@ -5362,6 +5364,7 @@ appfall.ch
 appfam.ch
 appfao.ch
 appfel.ch
+appfelbaum.ch
 appfinder-maria.ch
 appfindermaria.ch
 appfinity.ch

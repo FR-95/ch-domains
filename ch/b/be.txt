@@ -1232,7 +1232,6 @@ beamm.ch
 beammeup.ch
 beamnet.ch
 beampilot.ch
-beampro.ch
 beamrea.ch
 beamreach.ch
 beamrion.ch
@@ -2841,7 +2840,6 @@ beaugosse.ch
 beauhlb.ch
 beaujardin.ch
 beaujolais-nouveau.ch
-beaujolais-vins.ch
 beaujolais.ch
 beaulac.ch
 beaulacdebale.ch
@@ -4635,7 +4633,6 @@ beautyreset.ch
 beautyrest.ch
 beautyretail.ch
 beautyretter.ch
-beautyriana.ch
 beautyrife.ch
 beautyrituals.ch
 beautyroad.ch
@@ -4647,6 +4644,7 @@ beautyroom.ch
 beautyroom4rent.ch
 beautyroom8910.ch
 beautyroombyagi.ch
+beautyroombyalina.ch
 beautyroomfs.ch
 beautyroomluana.ch
 beautyroomlugano.ch
@@ -5181,6 +5179,7 @@ bebedirect.ch
 bebedirekt.ch
 bebedoux.ch
 bebee.ch
+bebeeditions.ch
 bebeenroute.ch
 bebeep.ch
 bebeer.ch
@@ -6328,6 +6327,7 @@ bedandbreakfast-setu.ch
 bedandbreakfast-winterthur.ch
 bedandbreakfast.ch
 bedandbreakfastbasel.ch
+bedandbreakfasthaelfligen.ch
 bedandbreakfastschlaraffenland.ch
 bedandbreakfasttessin.ch
 bedandbreakfastvevey.ch
@@ -7327,6 +7327,7 @@ beeniceblends.ch
 beenicelife.ch
 beenli.ch
 beenmedia.ch
+beennever.ch
 beenom.ch
 beenose.ch
 beenotary.ch
@@ -8624,6 +8625,7 @@ begleitungingruen.ch
 begleitunginlebensfragen.ch
 begleitungintrauer.ch
 begleitungintrauerch.ch
+begleitungmitcharme.ch
 begleitungmitherz.ch
 begleitungplus.ch
 begleitungumdiegeburt.ch
@@ -8980,6 +8982,7 @@ behindyourfutures.ch
 behintern.ch
 behipolitik.ch
 behipp.ch
+behired.ch
 behirtung.ch
 behive.ch
 behk-umzug.ch
@@ -10325,6 +10328,7 @@ belegkiste.ch
 belegklar.ch
 beleglauf.ch
 belegli.ch
+beleglink.ch
 beleglos.ch
 belegly.ch
 belegmappe.ch
@@ -11243,6 +11247,7 @@ bellavie.ch
 bellavilla.ch
 bellavisio.ch
 bellavista-ag.ch
+bellavista-andermatt.ch
 bellavista-anieres.ch
 bellavista-aranno.ch
 bellavista-bassersdorf.ch
@@ -13149,7 +13154,6 @@ bemammy.ch
 bemanaged.ch
 bemanet.ch
 bemani.ch
-bemaniak.ch
 bemanual.ch
 bemany.ch
 bemaoriginal.ch
@@ -14507,6 +14511,7 @@ benian.ch
 beniapter.ch
 beniaregger.ch
 beniauer.ch
+benib.ch
 benibaba.ch
 benibachmann.ch
 benibanny.ch
@@ -15250,6 +15255,7 @@ benninger-steampower.ch
 benninger-strategiekompass.ch
 benninger.ch
 benningerag.ch
+benningerblatter.ch
 benningerguss.ch
 benningergussjob.ch
 benningerimmo.ch
@@ -17024,6 +17030,7 @@ beratung-styling.ch
 beratung-suenneli.ch
 beratung-sursee.ch
 beratung-swiss.ch
+beratung-swissblade.ch
 beratung-swissfineline.ch
 beratung-t-s.ch
 beratung-tanner.ch
@@ -17499,6 +17506,7 @@ bereconnected.ch
 beredskapslager.ch
 beree.ch
 bereformed.ch
+bereg.ch
 beregnungsanlagen.ch
 beregosad.ch
 bereha.ch
@@ -18663,6 +18671,7 @@ berggfuehl.ch
 berggiganten.ch
 berggipfel.ch
 berggitschenen.ch
+bergglanz.ch
 bergglow.ch
 bergglueck.ch
 berggnuss.ch
@@ -21119,6 +21128,7 @@ berndating.ch
 berndbehringer.ch
 berndbusam.ch
 berndeals.ch
+berndefenseforum.ch
 berndent.ch
 berndental.ch
 berndentist.ch
@@ -23121,7 +23131,6 @@ berriautowerkstatt.ch
 berrichon-du-cher.ch
 berrics.ch
 berries.ch
-berriez.ch
 berriimpiantisagl.ch
 berringa.ch
 berrisch-trainings.ch
@@ -24511,6 +24520,7 @@ bery.ch
 beryl.ch
 berylgaetan.ch
 berylgertsch.ch
+berylhairdesign.ch
 beryll-decurtins.ch
 beryll-immobilien.ch
 beryll-sfa.ch
@@ -25566,7 +25576,6 @@ bessinartist.ch
 bessinvest.ch
 bessire-grafikdesign.ch
 bessire-herzog.ch
-bessire-md.ch
 bessire-psychiatre.ch
 bessire.ch
 bessler.ch
@@ -26039,7 +26048,6 @@ best4me.ch
 best4money.ch
 best4pets.ch
 best4sex.ch
-best4software.ch
 best4soil.ch
 best4travel.ch
 best4web.ch
@@ -26754,7 +26762,9 @@ beste-umzuge-kharakoz.ch
 beste-umzugsfirma-zuerich.ch
 beste-umzugsfirma.ch
 beste-werbung.ch
+beste-wettanbieter.ch
 beste-wettbewerbe.ch
+beste-wettseiten.ch
 beste.ch
 beste3saeule.ch
 bestea.ch
@@ -26864,6 +26874,7 @@ bestekryptocasinos.ch
 bestel.ch
 bestelage.ch
 besteleben.ch
+bestelegalecasinos.ch
 bestelinks.ch
 bestell-bar.ch
 bestell-dein-blech.ch
@@ -28391,7 +28402,6 @@ betalabs.ch
 betaland.ch
 betalane.ch
 betalaun.ch
-betaleap.ch
 betalebanon.ch
 betalice-casino.ch
 betalice.ch
@@ -28907,6 +28917,7 @@ beton-duedingen.ch
 beton-element.ch
 beton-elemente.ch
 beton-elementesa.ch
+beton-en.ch
 beton-fabrik.ch
 beton-factory.ch
 beton-flair.ch
@@ -29599,6 +29610,7 @@ betriebe.ch
 betriebesuisse.ch
 betriebfontana.ch
 betriebge1.ch
+betriebklar.ch
 betriebkunz.ch
 betriebl-mentor.ch
 betriebli.ch
@@ -29653,6 +29665,7 @@ betriebs-einrichtungen.ch
 betriebs-feier.ch
 betriebs-gold.ch
 betriebs-handbuch.ch
+betriebs-klar.ch
 betriebs-manager.ch
 betriebs-psychologie.ch
 betriebs-rechtsschutz.ch
@@ -29739,8 +29752,14 @@ betriebshilfebern.ch
 betriebsimpuls.ch
 betriebsinformatik-efz.ch
 betriebsingenieur.ch
+betriebsklar-info.ch
+betriebsklar-kmu.ch
+betriebsklar-kontakt.ch
+betriebsklar-online.ch
 betriebsklar-team.ch
 betriebsklar.ch
+betriebsklarteam.ch
+betriebsklarweb.ch
 betriebsklima.ch
 betriebsklimaforscher.ch
 betriebskommission.ch
@@ -30263,6 +30282,7 @@ bettenwelt-hugener.ch
 bettenwelt.ch
 bettenwelten.ch
 bettenwiese.ch
+bettenwiesen.ch
 bettenxl.ch
 bettenzbinden.ch
 bettenzueri.ch
@@ -31934,6 +31954,7 @@ beweggrund.ch
 beweggrundacademy.ch
 beweghaus.ch
 bewegig.ch
+bewegigbimschaffe.ch
 bewegigimfluss.ch
 bewegigs-ruum.ch
 bewegigsatelierbern.ch
@@ -34195,7 +34216,6 @@ beziehungshelden.ch
 beziehungsimpuls.ch
 beziehungsimpulse.ch
 beziehungskarten.ch
-beziehungskiste.ch
 beziehungsklarheit.ch
 beziehungskompass.ch
 beziehungskompetenz.ch

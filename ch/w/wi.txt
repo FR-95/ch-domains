@@ -2614,8 +2614,6 @@ wikigaia.ch
 wikigeld.ch
 wikigenealogie.ch
 wikigration.ch
-wikigym.ch
-wikigymnastique.ch
 wikihome.ch
 wikihosting.ch
 wikihow.ch
@@ -6235,7 +6233,6 @@ winblue.ch
 winbo.ch
 winboard.ch
 winboss.ch
-winbot.ch
 winbox.ch
 winbrain.ch
 winbridge.ch
@@ -6779,6 +6776,7 @@ window-fashion.ch
 window-gallery.ch
 window-of-fame.ch
 window-of-the-world.ch
+window-plus.ch
 window-shop.ch
 window-smart.ch
 window-stores.ch
@@ -8247,6 +8245,7 @@ wining.ch
 wininmedia.ch
 wininvest.ch
 wininwin.ch
+winio.ch
 winipu.ch
 winiq-marketing.ch
 winirep.ch
@@ -9855,6 +9854,7 @@ winterworld.ch
 winterworldjewellery.ch
 winterwunder.ch
 winterwunderland-eglisau.ch
+winterwunderland.ch
 winterwunderschweiz.ch
 winterwunderwelt.ch
 winterzauber-aarau.ch
@@ -14351,6 +14351,7 @@ withgoodcompany.ch
 withgrace.ch
 withholdingtax.ch
 withhugo.ch
+withim.ch
 within-nature.ch
 within.ch
 withindesign.ch

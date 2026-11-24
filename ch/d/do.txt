@@ -574,6 +574,7 @@ doceum.ch
 docevo.ch
 docextract.ch
 docfactory.ch
+docfee.ch
 docfernie.ch
 docfilm.ch
 docfind.ch
@@ -858,6 +859,7 @@ docourt-renaud.ch
 docourt.ch
 docpanion.ch
 docpartner.ch
+docpay.ch
 docpeer.ch
 docpelin.ch
 docpets.ch
@@ -1821,8 +1823,6 @@ doedel.ch
 doedelliga.ch
 doeding-hr-consulting.ch
 doedl.ch
-doedo.ch
-doedosleepsystem.ch
 doeffinger.ch
 doefli.ch
 doeg.ch
@@ -2808,6 +2808,7 @@ dognanny-bern.ch
 dognaturally.ch
 dogness.ch
 dognitas.ch
+dognitive.ch
 dognose.ch
 dognroll.ch
 dognstyle.ch
@@ -3658,6 +3659,7 @@ doktor-stutz.ch
 doktor-swiss.ch
 doktor-thieme.ch
 doktor-tor.ch
+doktor-ugi.ch
 doktor-urfer.ch
 doktor-uster.ch
 doktor-wallisellen.ch
@@ -6155,7 +6157,6 @@ domenikstuder.ch
 domenikus.ch
 domenikvogel.ch
 domeniquefetz.ch
-domenis1898.ch
 domenjoz.ch
 domeno.ch
 domenowakcoaching.ch
@@ -6405,6 +6406,7 @@ domilo.ch
 domilosa.ch
 domim.ch
 domimages.ch
+domimail.ch
 domimaps.ch
 domimed.ch
 domimunteanu.ch
@@ -7123,6 +7125,7 @@ dominiqueann.ch
 dominiqueantenen.ch
 dominiqueara.ch
 dominiqueardin.ch
+dominiqueart.ch
 dominiquebaldi.ch
 dominiquebamert.ch
 dominiquebarras.ch
@@ -7815,6 +7818,7 @@ domotix.ch
 domotor.ch
 domotransport.ch
 domov.ch
+domova.ch
 domovari.ch
 domovarisarl.ch
 domovertrieb.ch
@@ -9075,6 +9079,7 @@ donstore.ch
 donstudio.ch
 donsuisse.ch
 dont-answer-be-happy.ch
+dont-be-last.ch
 dont-call-me-sick.ch
 dont-care.ch
 dont-copy.ch
@@ -11046,7 +11051,6 @@ dorisdedual.ch
 dorisdegen.ch
 dorisdigital.ch
 dorisdorissima.ch
-dorisdruckts.ch
 dorisechlin.ch
 doriseckstein.ch
 dorisegli.ch
@@ -11721,6 +11725,7 @@ dose-de-montagne.ch
 dose-ta-gnose.ch
 dose.ch
 dosecontrol.ch
+dosedi.ch
 dosefm.ch
 doselab.ch
 doselite.ch
@@ -11973,6 +11978,7 @@ dossieronline.ch
 dossierpatient.ch
 dossierpazient.ch
 dossierpco.ch
+dossierplus.ch
 dossierpolitica.ch
 dossierpolitik.ch
 dossierpolitique.ch
@@ -12644,6 +12650,7 @@ douceur-nature.ch
 douceur-sensualite.ch
 douceur.ch
 douceuranimale.ch
+douceurdame.ch
 douceurdebougies.ch
 douceurdelune.ch
 douceurdepeau.ch

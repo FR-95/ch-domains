@@ -499,6 +499,7 @@ wachstums-partner.ch
 wachstums-punkt.ch
 wachstums-trainerin.ch
 wachstumsbeschleuniger.ch
+wachstumsbeziehung.ch
 wachstumsimpulse.ch
 wachstumskurven.ch
 wachstumslab.ch
@@ -2703,7 +2704,6 @@ wahres-selbst.ch
 wahresgold.ch
 wahresleben.ch
 wahresselbst.ch
-wahreswort.ch
 wahretabelle.ch
 wahrewerte.ch
 wahreworte.ch
@@ -3633,7 +3633,6 @@ waldbrandmaterial.ch
 waldbrandpumpe.ch
 waldbrandpumpen.ch
 waldbrunch.ch
-waldbuch.ch
 waldbuehl.ch
 waldbuehne.ch
 waldbuehni.ch
@@ -4762,7 +4761,6 @@ waldtanz.ch
 waldtara.ch
 waldtastisch.ch
 waldtauchen.ch
-waldtavolata.ch
 waldtaxi-wil.ch
 waldte.ch
 waldtermin.ch
@@ -4783,7 +4781,6 @@ waldtroll.ch
 waldtropfen.ch
 waldtutgut.ch
 waldu.ch
-walduin.ch
 waldundgarten.ch
 waldundholz.ch
 waldundholzkinder.ch
@@ -4879,7 +4876,6 @@ waldwesen.ch
 waldwichtel-immensee.ch
 waldwichtel.ch
 waldwichteli.ch
-waldwiese.ch
 waldwiesewein.ch
 waldwiesli.ch
 waldwiki-basel.ch
@@ -6234,6 +6230,7 @@ walma-sa.ch
 walma.ch
 walmail.ch
 walmart.ch
+walmed.ch
 walmeeting.ch
 walmei.ch
 walmer-gastro.ch
@@ -8753,6 +8750,7 @@ wapp.ch
 wappa.ch
 wappcoders.ch
 wappconsulting.ch
+wappdesign.ch
 wappel.ch
 wappen.ch
 wappen24.ch
@@ -10414,6 +10412,7 @@ wass.ch
 wassabae.ch
 wassana-geneva.ch
 wassana-thaimassage.ch
+wassana.ch
 wassanafood.ch
 wassanathai-massage.ch
 wassara.ch
@@ -13257,6 +13256,7 @@ wavefestival.ch
 wavefinder.ch
 wavefive.ch
 waveflow.ch
+waveflyer.ch
 waveforge.ch
 waveform.ch
 wavefrequency.ch
@@ -13826,7 +13826,6 @@ waz-wohneigentumaufzeit.ch
 waz-zh.ch
 waz.ch
 waz24.ch
-waza.ch
 wazaa.ch
 wazabi.ch
 wazabyi.ch
@@ -13848,6 +13847,7 @@ wazambalogin.ch
 wazambaonline.ch
 wazambas.ch
 wazambaschweiz.ch
+wazambaspin.ch
 wazami.ch
 wazap.ch
 wazaspray.ch

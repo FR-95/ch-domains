@@ -207,6 +207,7 @@ ebaubewilligung.ch
 ebauche.ch
 ebauches-fleurier.ch
 ebauches.ch
+ebaugesuch-zh.ch
 ebaugesuch.ch
 ebauguss.ch
 ebauhaus.ch
@@ -1013,6 +1014,7 @@ ebiketicino.ch
 ebiketipps.ch
 ebiketogo.ch
 ebiketour.ch
+ebiketours.ch
 ebiketowork.ch
 ebiketracking.ch
 ebiketreff.ch
@@ -1316,7 +1318,6 @@ ebod.ch
 ebodenbelaege.ch
 ebody.ch
 ebodysystemics.ch
-eboehringer.ch
 ebofestival.ch
 eboga.ch
 eboisson.ch

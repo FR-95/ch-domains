@@ -191,6 +191,7 @@ ch-facility.ch
 ch-fahrlehrer.ch
 ch-fahrschule.ch
 ch-family.ch
+ch-fans.ch
 ch-favre-physiotherapie.ch
 ch-fcs-skv.ch
 ch-feiertage.ch
@@ -2161,7 +2162,6 @@ chalet-luethi.ch
 chalet-lumiere.ch
 chalet-lumnezia.ch
 chalet-maj.ch
-chalet-marbachegg.ch
 chalet-mareia.ch
 chalet-margaret.ch
 chalet-margi.ch
@@ -4383,7 +4383,6 @@ changebyspirit.ch
 changecafe.ch
 changecamp.ch
 changecampaigning.ch
-changecanvas.ch
 changechf.ch
 changeclimate.ch
 changecoa.ch
@@ -4800,6 +4799,7 @@ chantalblatter.ch
 chantalbossard.ch
 chantalbrauchli.ch
 chantalbron.ch
+chantalburri.ch
 chantalbuserrmt.ch
 chantalcani-coaching.ch
 chantalcare.ch
@@ -6948,6 +6948,7 @@ chasa-samalgors64-tschlin.ch
 chasa-sassalba.ch
 chasa-seiler.ch
 chasa-sent.ch
+chasa-sentima.ch
 chasa-silvretta-scuol.ch
 chasa-soemmi-ftan.ch
 chasa-sofia.ch
@@ -8369,6 +8370,7 @@ chauffeurservice-zurich.ch
 chauffeurservice.ch
 chauffeurservices.ch
 chauffeursprives.ch
+chauffeurswiss.ch
 chauffeurvermietung.ch
 chauffeuse.ch
 chauffez-renouvelable.ch
@@ -11471,6 +11473,7 @@ chessit.ch
 chessking.ch
 chesskings.ch
 chesslab.ch
+chessler.ch
 chesslerei.ch
 chesslergass.ch
 chesslermatt.ch
@@ -12642,6 +12645,7 @@ chfiban.ch
 chfiber.ch
 chfilm.ch
 chfilmszene.ch
+chfin.ch
 chfinance.ch
 chfinances.ch
 chfinanzwissen.ch
@@ -14806,6 +14810,7 @@ chinahomes.ch
 chinahoroskop.ch
 chinahouse-basel.ch
 chinahouse-vevey.ch
+chinahouse.ch
 chinahousemartigny.ch
 chinahouserestaurant.ch
 chinahousevevey.ch
@@ -15203,7 +15208,6 @@ chinema.ch
 chinergie.ch
 chinerie.ch
 chines.ch
-chinese-antiques.ch
 chinese-food.ch
 chinese-kitchen.ch
 chinese-medicine.ch
@@ -15213,7 +15217,6 @@ chinese-restaurants.ch
 chinese-schoolbern.ch
 chinese-whispers.ch
 chinese.ch
-chineseantiques.ch
 chineseboxing.ch
 chinesebusinessclub.ch
 chinesechevronplc.ch
@@ -15607,6 +15610,7 @@ chiri.ch
 chiriatti-ag.ch
 chiriatti.ch
 chirico.ch
+chiricocafe.ch
 chiricodesign.ch
 chiricodienstleistungen.ch
 chiricoimmobilien.ch
@@ -16426,6 +16430,7 @@ chiveda.ch
 chiverskeramik.ch
 chivis-hundeschule.ch
 chivisin.ch
+chivitouruguayo.ch
 chivo.ch
 chivoremerald.ch
 chiwa.ch
@@ -16858,7 +16863,6 @@ chloe-chandra-frey.ch
 chloe-event.ch
 chloe-friends.ch
 chloe-ideasdesign.ch
-chloe-illustree.ch
 chloe-kinesiologie.ch
 chloe-manon.ch
 chloe-melsion.ch
@@ -17536,7 +17540,6 @@ chocolatatelier.ch
 chocolatblondel.ch
 chocolatdaddy.ch
 chocolatdietermeier.ch
-chocolatdubai.ch
 chocolatdumonde.ch
 chocolate-academy.ch
 chocolate-adventure.ch

@@ -803,6 +803,7 @@ blackdragonmartialarts.ch
 blackdragons.ch
 blackdragontuning.ch
 blackdress.ch
+blackdropcoffee.ch
 blackdrums-reloaded.ch
 blackdust.ch
 blacke.ch
@@ -1100,7 +1101,6 @@ blacklimousineswiss.ch
 blackline-carstyling.ch
 blackline-limotaxi.ch
 blackline-limousine.ch
-blackline-schweiz.ch
 blackline.ch
 blackliner.ch
 blacklinesafety.ch
@@ -1519,6 +1519,7 @@ blackstallion.ch
 blackstar-limo.ch
 blackstar-limousine.ch
 blackstar.ch
+blackstargroup.ch
 blackstarholding.ch
 blackstars.ch
 blackstarsa.ch
@@ -2704,6 +2705,7 @@ blastfloorball.ch
 blastfm.ch
 blastfromthepast.ch
 blastgmbh.ch
+blastgroup.ch
 blastink.ch
 blasto-basel.ch
 blasto.ch
@@ -5507,7 +5509,6 @@ blitzauf24.ch
 blitzbasel.ch
 blitzbauspenglerei.ch
 blitzbewerbung.ch
-blitzbirne.ch
 blitzblank-ablaufreinigung.ch
 blitzblank-carcare.ch
 blitzblank-reinigung.ch
@@ -5548,7 +5549,6 @@ blitzdings.ch
 blitzdoc.ch
 blitzdonner.ch
 blitzdurchblick.ch
-blitze-liestal.ch
 blitze.ch
 blitzeblank.ch
 blitzeblankos-solution.ch
@@ -6462,6 +6462,7 @@ blog-immobilier.ch
 blog-japanice.ch
 blog-kathrinseverin.ch
 blog-kreuzfahrt.ch
+blog-latour.ch
 blog-magazin.ch
 blog-medecins-vaudois.ch
 blog-mobilite.ch
@@ -8793,6 +8794,8 @@ bluelava.ch
 bluelaw.ch
 blueleader.ch
 blueleadership.ch
+blueleaf-equipe.ch
+blueleaf-team.ch
 blueleaf.ch
 blueleafconservation.ch
 blueleague.ch
@@ -9355,7 +9358,6 @@ bluequestresources.ch
 bluequote.ch
 bluerabbit.ch
 blueraccoon.ch
-bluerace.ch
 blueradio.ch
 bluerain.ch
 bluerainbow.ch
@@ -10418,6 +10420,7 @@ blumen-kraemer.ch
 blumen-kreativ.ch
 blumen-kueng.ch
 blumen-kuesnacht.ch
+blumen-kuhny.ch
 blumen-kunst.ch
 blumen-laden.ch
 blumen-lambrigger.ch
@@ -10925,6 +10928,7 @@ blumenley.ch
 blumenliebe.ch
 blumenliefern.ch
 blumenlieferservice.ch
+blumenlieferung-schweiz.ch
 blumenlieferung.ch
 blumenlieferungen.ch
 blumenlinder.ch

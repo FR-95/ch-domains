@@ -1199,7 +1199,6 @@ ipraticoswitzerland.ch
 ipraz.ch
 iprconsulting.ch
 iprconversion.ch
-iprcp.ch
 iprea.ch
 iprebaco.ch
 iprec.ch
@@ -1676,6 +1675,7 @@ ipxnet.ch
 ipy.ch
 ipz-server.ch
 ipz-zuerich.ch
+ipz-zurich.ch
 ipz.ch
 ipzag.ch
 ipzero.ch

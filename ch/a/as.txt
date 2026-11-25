@@ -260,6 +260,7 @@ as-one.ch
 as-online.ch
 as-parkett.ch
 as-parquet.ch
+as-patrium.ch
 as-pek.ch
 as-pensionskasse.ch
 as-performance.ch
@@ -3489,7 +3490,6 @@ ask2lia.ch
 ask4.ch
 aska.ch
 askaaron.ch
-askaart.ch
 askabel.ch
 askaboomer.ch
 askacoach.ch
@@ -5720,6 +5720,8 @@ assistancesexuelle.ch
 assistancesplus.ch
 assistancetcs.ch
 assistangels.ch
+assistant-cabinet-ai.ch
+assistant-cabinet.ch
 assistant-cardiaque.ch
 assistant-de-demenagement.ch
 assistant-funeraire.ch
@@ -8541,6 +8543,7 @@ astro-business.ch
 astro-clair.ch
 astro-claire.ch
 astro-club.ch
+astro-coaching.ch
 astro-code.ch
 astro-consulting.ch
 astro-corner.ch
@@ -8585,6 +8588,7 @@ astro-les-avants.ch
 astro-life-coach.ch
 astro-life-coaching.ch
 astro-life.ch
+astro-lighting.ch
 astro-line.ch
 astro-line24.ch
 astro-log.ch
@@ -8873,6 +8877,7 @@ astrolena.ch
 astroleo.ch
 astrolibra.ch
 astrolife.ch
+astrolighting.ch
 astrolilith.ch
 astroline.ch
 astrolinee.ch

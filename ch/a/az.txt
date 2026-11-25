@@ -31,6 +31,7 @@ az-bl.ch
 az-blog.ch
 az-boden.ch
 az-bodenbelaege.ch
+az-boerse.ch
 az-boutique.ch
 az-bruegglipark.ch
 az-buchhaltung.ch
@@ -178,6 +179,7 @@ az-pharma.ch
 az-photo.ch
 az-pieterlen.ch
 az-platten.ch
+az-plattform.ch
 az-plus.ch
 az-poker-bern.ch
 az-poker-club-bern.ch
@@ -245,6 +247,7 @@ az-treuhand.ch
 az-turmmatt.ch
 az-u-r.ch
 az-ui.ch
+az-verkaufen.ch
 az-verlag.ch
 az-vermietung.ch
 az-verwaltung.ch
@@ -411,6 +414,7 @@ azbiz.ch
 azbl.ch
 azblogs.ch
 azblondie.ch
+azboerse.ch
 azbookvarik.ch
 azboutique.ch
 azbreitlen.ch

@@ -1386,6 +1386,7 @@ tacticaltraining.ch
 tacticam.ch
 tacticflow.ch
 tacticgear.ch
+tacticia.ch
 tacticiousgaming.ch
 tacticool.ch
 tactics.ch
@@ -3137,6 +3138,7 @@ tai-jitsu.ch
 tai-kai.ch
 tai-pan-rolle.ch
 tai-pan.ch
+tai-yang.ch
 tai.ch
 taia.ch
 taiabo.ch
@@ -3742,6 +3744,7 @@ takano.ch
 takanova.ch
 takao.ch
 takapa.ch
+takapower.ch
 takar.ch
 takara-belmont.ch
 takara-sushi.ch
@@ -5099,6 +5102,7 @@ talgenossenschaft-rheinwald.ch
 talgeschichten.ch
 talgetraenke.ch
 talgo.ch
+talgrat.ch
 talguet.ch
 talgut-ost.ch
 talgut-west.ch
@@ -5459,6 +5463,7 @@ tallies.ch
 tallina.ch
 tallinn.ch
 tallinntouren.ch
+tallio.ch
 tallis.ch
 talljeans.ch
 tallkuenzler.ch
@@ -5518,6 +5523,7 @@ talmundo.ch
 talmuseum-sagenwelt-lauterbrunnen.ch
 talmuseum.ch
 talmuseumlauterbrunnen.ch
+talnebel.ch
 talnet.ch
 talnets.ch
 talnetz.ch
@@ -6874,6 +6880,7 @@ tanfoglio.ch
 tanfus.ch
 tang-asiamarket.ch
 tang-asiashop.ch
+tang-clan.ch
 tang-zuest.ch
 tang.ch
 tanga-sports.ch
@@ -10234,6 +10241,7 @@ taptiq.ch
 taptoboost.ch
 taptocash.ch
 taptoe.ch
+taptofly.ch
 taptofun.ch
 taptop.ch
 taptopay.ch
@@ -10595,7 +10603,6 @@ tardoc-to-go.ch
 tardoc-validator.ch
 tardoc-weiterbildung.ch
 tardoc.ch
-tardocai.ch
 tardocberater.ch
 tardocberatung.ch
 tardocbrowser.ch
@@ -10710,6 +10717,7 @@ targetbooking.ch
 targetcbd.ch
 targetch.ch
 targetcoach.ch
+targetcool.ch
 targetcost.ch
 targetdarts.ch
 targetdesign.ch
@@ -11318,6 +11326,7 @@ tartinoclette.ch
 tartir.ch
 tarto.ch
 tartoni.ch
+tartonoix.ch
 tartools.ch
 tartriflamme.ch
 tartrifuge.ch
@@ -11442,6 +11451,7 @@ tasc-int.ch
 tasc-intl.ch
 tasc.ch
 tasca-kosmetik.ch
+tasca-to-go.ch
 tasca.ch
 tasca81.ch
 tascam.ch
@@ -11737,6 +11747,7 @@ tasknode.ch
 tasko-allrounder.ch
 tasko.ch
 taskodin.ch
+taskoff.ch
 taskon.ch
 taskora.ch
 taskorbit.ch
@@ -11877,6 +11888,7 @@ tassenonline.ch
 tassenpreis.ch
 tassenshop.ch
 tassentausch.ch
+tassenweise.ch
 tassenwelt.ch
 tassettodragan.ch
 tassi-ipotecari.ch
@@ -13830,6 +13842,7 @@ tausch-statt-kauf.ch
 tausch-welt.ch
 tausch-wohnung.ch
 tausch.ch
+tausch24.ch
 tauschangebot.ch
 tauschaukel.ch
 tauschbar.ch
@@ -14739,6 +14752,7 @@ taxi-2-go.ch
 taxi-2000.ch
 taxi-24-zuerich.ch
 taxi-2go.ch
+taxi-4you.ch
 taxi-5000.ch
 taxi-624.ch
 taxi-a.ch
@@ -16299,7 +16313,6 @@ taxiticino.ch
 taxiticket.ch
 taxitilo.ch
 taxitiran.ch
-taxito-seetal.ch
 taxito.ch
 taxitoggenburg.ch
 taxitogo.ch
@@ -16677,6 +16690,7 @@ taxthurgau.ch
 taxtime.ch
 taxtips.ch
 taxtivo.ch
+taxtli.ch
 taxtom.ch
 taxtool.ch
 taxtools.ch

@@ -1735,6 +1735,7 @@ babyplaces.ch
 babyplan.ch
 babyplanet.ch
 babyplanner.ch
+babyplanswiss.ch
 babyplant.ch
 babyplast.ch
 babyplaybook.ch
@@ -2167,6 +2168,7 @@ bacco.ch
 baccoag.ch
 baccoarth.ch
 baccobrunnen.ch
+baccom.ch
 baccouche.ch
 baccounting.ch
 baccup.ch
@@ -3008,6 +3010,7 @@ bacinda.ch
 bacini.ch
 bacino.ch
 bacinoallago.ch
+bacinova.ch
 bacio-basel.ch
 bacio-del-leone.ch
 bacio-di-latte.ch
@@ -3492,6 +3495,7 @@ backofficerestaurant.ch
 backoffices.ch
 backofficeschmidig.ch
 backofficeservicebox.ch
+backofficeserviceevaiseneggersuger.ch
 backofficesolution.ch
 backofficeteam.ch
 backofficetime.ch
@@ -9859,6 +9863,7 @@ baladesavelo.ch
 baladescreatives.ch
 baladesdeflav.ch
 baladesdeslegumes.ch
+baladesdudimanche.ch
 baladesenchantees.ch
 baladesenergetiques.ch
 baladesenfamille.ch
@@ -10003,6 +10008,7 @@ balance-mt.ch
 balance-natur.ch
 balance-naturelle.ch
 balance-naturmedizin.ch
+balance-netz.ch
 balance-nhe.ch
 balance-oase.ch
 balance-of-life-sandra.ch
@@ -11227,6 +11233,7 @@ balkonkraftwerk.ch
 balkonkraftwerk24.ch
 balkonkraftwerke-shop.ch
 balkonkraftwerke.ch
+balkonkraftwerkrechner.ch
 balkonkraftwerkshop.ch
 balkonmarkise.ch
 balkonmarkisen.ch
@@ -12332,6 +12339,7 @@ balmorrid.ch
 balmos.ch
 balmschloss.ch
 balmshop.ch
+balmshoptest.ch
 balmsprings.ch
 balmswiss.ch
 balmtattoo.ch
@@ -14177,6 +14185,7 @@ bandoku.ch
 bandol.ch
 bandoleer.ch
 bandoleros.ch
+bandometer.ch
 bandon.ch
 bandondemand.ch
 bandoneon.ch
@@ -15134,6 +15143,7 @@ bankwerker.ch
 bankwir.ch
 bankwirtschafter.ch
 bankwirtschafterin.ch
+bankwissen.ch
 banky.ch
 bankyou.ch
 bankzimmerberg.ch
@@ -15710,6 +15720,7 @@ baoti.ch
 baouconseil.ch
 baouni.ch
 baour.ch
+baouw-nutrition-organic.ch
 baouw-organic-nutrition.ch
 baouw.ch
 baovet.ch
@@ -16055,6 +16066,7 @@ bar99.ch
 bara-carrelage.ch
 bara-edition.ch
 bara-grafik.ch
+bara-immobilien.ch
 bara-paint.ch
 bara-solution.ch
 bara.ch
@@ -21349,6 +21361,7 @@ baselnews.ch
 baselnielsen.ch
 baselnord.ch
 baselnotes.ch
+baselnow.ch
 baseloffice.ch
 baselog.ch
 baselona.ch
@@ -21390,6 +21403,7 @@ baselpunkt.ch
 baselquesi.ch
 baselquest.ch
 baselquiz.ch
+baselradar.ch
 baselrap.ch
 baselraumungsservice.ch
 baselrealty.ch
@@ -21540,6 +21554,7 @@ baselvc.ch
 baselvernetzt.ch
 baselvet.ch
 baselvisitors.ch
+baselvollergewinne.ch
 baselvorwaerts.ch
 baselvote.ch
 baselvotes.ch
@@ -23173,7 +23188,6 @@ bastapasta.ch
 bastapoco.ch
 bastard-shop.ch
 bastard.ch
-bastardgrill-schweiz.ch
 bastardgrill.ch
 bastardos.ch
 bastards.ch
@@ -24040,6 +24054,7 @@ batiloft.ch
 batilog.ch
 batilogis.ch
 batilook.ch
+batilos.ch
 batilux-construction-batiment.ch
 batilux.ch
 batiluxs.ch
@@ -24776,6 +24791,7 @@ battlerabbit.ch
 battlerap.ch
 battleroom.ch
 battles-gourmandes.ch
+battles.ch
 battlesgourmandes.ch
 battleshipben.ch
 battleships.ch
@@ -25508,6 +25524,7 @@ bauatelier-fuhrer.ch
 bauatelier-g.ch
 bauatelier-luethi.ch
 bauatelier-metzler.ch
+bauatelier-wiermer.ch
 bauatelier.ch
 bauatelier02.ch
 bauatelier12.ch
@@ -25922,6 +25939,7 @@ bauchzentrum-basel.ch
 bauchzentrum-bern.ch
 bauchzentrum-ksb.ch
 bauchzentrum-limmattal.ch
+bauchzentrum-luzern.ch
 bauchzentrum-mittelland.ch
 bauchzentrum-rheintal.ch
 bauchzentrum-schaffhausen.ch
@@ -25932,6 +25950,7 @@ bauchzentrum-zuerich.ch
 bauchzentrum.ch
 bauchzentrumbaden.ch
 bauchzentrumbern.ch
+bauchzentrumsursee.ch
 bauchzentrumzug.ch
 baucility.ch
 bauck-muehle.ch
@@ -28342,6 +28361,15 @@ baumaschinenvermietung.ch
 baumaschinenversicherung.ch
 baumaschinenwerkstatt.ch
 baumaschinenzentrum.ch
+baumasse-kaufen.ch
+baumasse-verkaufen.ch
+baumasse.ch
+baumassen-verkaufen.ch
+baumassenboerse.ch
+baumassenplattform.ch
+baumassentransfer.ch
+baumassenuebertragung.ch
+baumassenverkauf.ch
 baumassenziffer.ch
 baumassklang.ch
 baumassstab.ch
@@ -29859,6 +29887,7 @@ baureportage.ch
 baureportagen.ch
 baureporting.ch
 baureporting24.ch
+baureserve.ch
 bauressourcen.ch
 baurest.ch
 baureste.ch
@@ -30945,6 +30974,7 @@ bauwerkinstandhaltungandreaskuehne.ch
 bauwerknetzwerk.ch
 bauwerkparkett.ch
 bauwerkplus.ch
+bauwerkpro.ch
 bauwerkprofis.ch
 bauwerksabdichtung.ch
 bauwerksabdichtungen.ch

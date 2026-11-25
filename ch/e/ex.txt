@@ -1222,6 +1222,7 @@ exe-software.ch
 exe.ch
 exeat.ch
 exeato.ch
+exeava.ch
 exebit.ch
 exec-coach.ch
 exec-comm.ch
@@ -2746,6 +2747,7 @@ expattherapist.ch
 expattherapy.ch
 expattutor.ch
 expatvillage.ch
+expatwealth.ch
 expatwire.ch
 expatxp.ch
 expaty.ch
@@ -3528,7 +3530,6 @@ experten-netzwerk.ch
 experten-online.ch
 experten-pool.ch
 experten-schweiz.ch
-experten-tricks.ch
 experten-wp.ch
 experten.ch
 experten360.ch
@@ -3821,7 +3822,6 @@ experts-certification.ch
 experts-chantier.ch
 experts-chantiers.ch
 experts-competences.ch
-experts-comptables.ch
 experts-conseils.ch
 experts-construction.ch
 experts-demenagement.ch
@@ -3877,7 +3877,6 @@ expertsaudits.ch
 expertschantier.ch
 expertschantiers.ch
 expertscompetences.ch
-expertscomptables.ch
 expertsconso.ch
 expertsdacces.ch
 expertsdedemain.ch
@@ -4047,14 +4046,12 @@ exploguide.ch
 exploit-advisory.ch
 exploit-consulting.ch
 exploit-restauration.ch
-exploit-suisse.ch
 exploit.ch
 exploitation-chenevard.ch
 exploitation-mermoud.ch
 exploitation.ch
 exploitcraft.ch
 exploits.ch
-exploitsuisse.ch
 explokid.ch
 exploma.ch
 explomar.ch
@@ -4270,6 +4267,7 @@ explorersway.ch
 explorertalkers.ch
 explorertrail.ch
 explorertravel.ch
+explorerwanda.ch
 exploresailing.ch
 explorescandinavia.ch
 explorescientific.ch

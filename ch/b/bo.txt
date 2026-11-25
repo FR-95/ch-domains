@@ -2454,13 +2454,12 @@ bodhranweekend.ch
 bodhranweekends.ch
 bodi.ch
 bodial.ch
+bodic.ch
 bodien.ch
 bodies-chur.ch
-bodies-in-motion.ch
 bodies.ch
 bodiesart.ch
 bodiesfree.ch
-bodiesinmotion.ch
 bodify.ch
 bodigacapital.ch
 bodin-bau.ch
@@ -3430,7 +3429,6 @@ bodyscaling.ch
 bodyscan.ch
 bodyscanner.ch
 bodyscape.ch
-bodyscore.ch
 bodyscreen.ch
 bodyscreening.ch
 bodyscript.ch
@@ -9014,6 +9012,7 @@ booderholz.ch
 booderuhu.ch
 boodizayn.ch
 boodle-fight.ch
+boodle.ch
 boodlefight.ch
 boodles.ch
 boodlesgin.ch
@@ -12362,14 +12361,18 @@ bors.ch
 borsa-batista.ch
 borsa-bio.ch
 borsa-co2.ch
+borsa-cubatura.ch
 borsa-dei-rifiuti.ch
 borsa-dei-transiti.ch
 borsa-delle-armi.ch
 borsa-di-studio-infermiere.ch
+borsa-diritti-edificatori.ch
 borsa-foraggio.ch
+borsa-indici.ch
 borsa.ch
 borsabio.ch
 borsabrogginilanfranchini.ch
+borsacubatura.ch
 borsaculturale.ch
 borsadeglispettacoli.ch
 borsadeirifiuti.ch
@@ -12918,6 +12921,7 @@ bosia.ch
 bosiag.ch
 bosicetea.ch
 bosig.ch
+bosigerimmobilier.ch
 bosign.ch
 bosimo.ch
 bosin.ch
@@ -12986,6 +12990,7 @@ bosnien-pyramidenreisen.ch
 bosnien.ch
 bosnienair.ch
 bosnisch.ch
+bosnjaci.ch
 boso.ch
 bosofit.ch
 bosol.ch
@@ -15202,6 +15207,7 @@ bouledomaniak.ch
 bouledor.ch
 bouledujorat.ch
 boulehalle.ch
+boulehallezugerland.ch
 boulemalters.ch
 boulenaz.ch
 boulenc.ch
@@ -15623,6 +15629,7 @@ bourse-de-dechets-suisse.ch
 bourse-de-dechets.ch
 bourse-des-vins-suisses.ch
 bourse-domdidier.ch
+bourse-droits-a-batir.ch
 bourse-du-transit.ch
 bourse-du-vieux-jouet.ch
 bourse-formation-soins.ch
@@ -15659,6 +15666,7 @@ boursedegrainesbiennoise.ch
 boursedescredits.ch
 boursedestockage.ch
 boursedetudes.ch
+boursedroitsabatir.ch
 bourseduluxe.ch
 boursedupapier.ch
 boursefenetres.ch
@@ -16425,6 +16433,7 @@ bovelgroup.ch
 bovelli.ch
 bovelstudio.ch
 bovelweine.ch
+bovema.ch
 boven.ch
 bovendo.ch
 bovens.ch

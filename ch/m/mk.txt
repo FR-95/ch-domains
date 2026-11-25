@@ -651,7 +651,6 @@ mksec.ch
 mksecurite.ch
 mkserver.ch
 mkservices.ch
-mksfa.ch
 mksh.ch
 mkshop.ch
 mksm.ch

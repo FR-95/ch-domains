@@ -514,7 +514,6 @@ doccboos.ch
 docchain.ch
 docchat.ch
 doccheck.ch
-docchecks.ch
 doccheckshop.ch
 docchio.ch
 docchoc.ch
@@ -631,6 +630,7 @@ dochypo.ch
 doci.ch
 docic-service.ch
 docic-services.ch
+docima.ch
 docimdienst.ch
 docimo.ch
 docineers.ch
@@ -1378,6 +1378,7 @@ docu-tools.ch
 docu.ch
 docuart.ch
 docubase.ch
+docubat.ch
 docubean.ch
 docubed.ch
 docublink.ch
@@ -2496,6 +2497,7 @@ doge.ch
 dogear.ch
 dogecoin.ch
 dogeho.ch
+dogelicious.ch
 dogelite.ch
 dogelog.ch
 dogemo.ch
@@ -4660,6 +4662,7 @@ dolphy.ch
 dolpima.ch
 dolpo.ch
 dolpocare.ch
+dolpotulku.ch
 dolquest.ch
 dolquestenergie.ch
 dolsan.ch
@@ -9319,7 +9322,6 @@ doolin.ch
 doolinissimo.ch
 doolio.ch
 doolittle.ch
-doolittlebaby.ch
 dooloop.ch
 dooly.ch
 doolys.ch
@@ -9955,7 +9957,6 @@ doremi-geneve.ch
 doremi.ch
 doremifa.ch
 doremifasolaufts.ch
-doremipiace.ch
 doremy.ch
 doren.ch
 dorena.ch
@@ -10140,7 +10141,6 @@ dorfchaern.ch
 dorfchaern4656.ch
 dorfchaesi-blumenstein.ch
 dorfchaesi-linden.ch
-dorfchaesi-noflen.ch
 dorfchaesi-utzenstorf.ch
 dorfchaesi-wolfisberg.ch
 dorfchaesi.ch
@@ -11661,6 +11661,7 @@ dortsein.ch
 dortwodiesonnescheint.ch
 doruhari.ch
 doruk.ch
+dorukpower.ch
 dorunova.ch
 dorure.ch
 dorvaign.ch
@@ -12635,7 +12636,6 @@ doucemobilite.ch
 doucenaissance.ch
 doucenergie.ch
 douceparenthese.ch
-doucepelote.ch
 douceron.ch
 douces-energies.ch
 doucesbees.ch
@@ -13047,6 +13047,7 @@ douze.ch
 douze0deux.ch
 douze12.ch
 douzea.ch
+douzecordes.ch
 douzepoints.ch
 douzevoyance.ch
 douzezerodeux.ch

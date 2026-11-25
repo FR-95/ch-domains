@@ -1462,6 +1462,7 @@ dacorina.ch
 dacorogna.ch
 dacorrado.ch
 dacort.ch
+dacos-taxi.ch
 dacoso.ch
 dacosoft.ch
 dacost.ch
@@ -2446,6 +2447,7 @@ dahei.ch
 daheigmacht.ch
 daheim-am-besten.ch
 daheim-besser-pflegen.ch
+daheim-betreut.ch
 daheim-bleiben.ch
 daheim-gepflegt.ch
 daheim-im-oberdorf.ch
@@ -7144,6 +7146,7 @@ danieldascalescu.ch
 danieldefense.ch
 danieldefinti.ch
 danieldeguy.ch
+danieldemenagements.ch
 danieldemierre.ch
 danieldenzler.ch
 danieldevanthery-geobio.ch
@@ -10771,9 +10774,6 @@ darpins.ch
 darpinsafety.ch
 darq.ch
 darqawi.ch
-darqintelligence.ch
-darqintelligenz.ch
-darqintelligenza.ch
 darqoo.ch
 darr.ch
 darrac.ch
@@ -12542,7 +12542,6 @@ dasmarkenhaus.ch
 dasmarkenrecht.ch
 dasmarketinginstitut.ch
 dasmashqiptare.ch
-dasmassistvoll.ch
 dasmaterial.ch
 dasmedienhaus.ch
 dasmedikament.ch
@@ -13699,6 +13698,7 @@ datadelv.ch
 datademo.ch
 datadent.ch
 datadents.ch
+datadesign.ch
 datadesignandart.ch
 datadesignsprint.ch
 datadestroy.ch
@@ -14308,6 +14308,7 @@ datarepublic.ch
 datarequest.ch
 datares.ch
 datarescue.ch
+dataresource.ch
 datarex.ch
 datarey.ch
 datarhena.ch
@@ -16437,7 +16438,6 @@ davidandreas.ch
 davidandreasberther.ch
 davidangelo.ch
 davidari.ch
-davidarius.ch
 davidas.ch
 davidatma.ch
 davidatwood.ch
@@ -18210,6 +18210,7 @@ daylo.ch
 daylog.ch
 daylong.ch
 daylook.ch
+dayloop.ch
 dayluck.ch
 dayly.ch
 daylyfamilydeals.ch

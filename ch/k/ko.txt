@@ -165,6 +165,7 @@ koaz.ch
 kob-abo.ch
 kob-colourdesign.ch
 kob.ch
+koba-sesc.ch
 koba-swiss.ch
 koba-tool.ch
 koba.ch
@@ -1204,6 +1205,7 @@ kocsis.ch
 kocustom.ch
 kod.ch
 koda-couvreurgeneve.ch
+koda-couvreurlausanne.ch
 koda-haus.ch
 koda-music.ch
 koda.ch
@@ -3208,7 +3210,6 @@ kokonuss.ch
 kokonut.ch
 kokonzeiten.ch
 kokoo.ch
-kokoohm.ch
 kokoon.ch
 kokopeli.ch
 kokopelli-art.ch
@@ -4064,7 +4065,6 @@ kollivra.ch
 kollm.ch
 kollmann.ch
 kollmar.ch
-kollmerconsulting.ch
 kollmeruxstudio.ch
 kollmeyer.ch
 kollmorgen.ch
@@ -4499,6 +4499,7 @@ komdes.ch
 komdori.ch
 komdu.ch
 kome.ch
+komea.ch
 komec.ch
 komeco.ch
 komed.ch
@@ -6123,6 +6124,7 @@ koncz-plattenbelaege.ch
 koncz.ch
 konczalski.ch
 konda.ch
+kondate.ch
 kondela.ch
 kondensat.ch
 kondensatableiter.ch
@@ -8865,6 +8867,7 @@ kopfherzhand.ch
 kopfherzundhand.ch
 kopfhoch.ch
 kopfhoerer-markt.ch
+kopfhoerer-ohrpolster.ch
 kopfhoerer.ch
 kopfhoerermarkt.ch
 kopfhoererparty.ch
@@ -9713,6 +9716,7 @@ kornerjoerg.ch
 kornerlaura.ch
 kornerpartners.ch
 korners.ch
+kornershop.ch
 kornerstudio.ch
 kornerundbalota.ch
 kornerup.ch
@@ -11701,6 +11705,7 @@ kotfluegel.ch
 kotfluegelfaelle.ch
 kotfrei.ch
 kotfros.ch
+kothea.ch
 kothes.ch
 kothny.ch
 koththu.ch

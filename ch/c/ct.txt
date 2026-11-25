@@ -514,6 +514,7 @@ ctrlgroup.ch
 ctrlhelp.ch
 ctrlm.ch
 ctrlnet.ch
+ctrlnow.ch
 ctrlplus.ch
 ctrlprint.ch
 ctrls.ch

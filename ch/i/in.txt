@@ -1368,7 +1368,6 @@ incermed.ch
 incert.ch
 incertus.ch
 incest.ch
-incestry.ch
 incevo.ch
 incgroup.ch
 inch-blue.ch
@@ -1563,6 +1562,7 @@ inclusiveai.ch
 inclusiveartofhumour.ch
 inclusiveculture.ch
 inclusivedesign.ch
+inclusivehr.ch
 inclusiveleader.ch
 inclusiveleaders.ch
 inclusiveleadership.ch
@@ -2318,6 +2318,7 @@ indexes.ch
 indexfond.ch
 indexfonds.ch
 indexfondsberater.ch
+indexforyou.ch
 indexfund.ch
 indexfunds.ch
 indexgeneva.ch
@@ -2702,7 +2703,9 @@ indicatorearia.ch
 indicatorevelocita.ch
 indicators.ch
 indice-dei-rifiuti.ch
+indice-di-sfruttamento.ch
 indice-idc.ch
+indice-utilisation.ch
 indice.ch
 indiceconstruction.ch
 indicecostruzioni.ch
@@ -2719,6 +2722,8 @@ indices.ch
 indicesanimaliers.ch
 indicesuisseretraite.ch
 indicev.ch
+indici-edificatori.ch
+indici-ticino.ch
 indici.ch
 indicia.ch
 indicicreations.ch
@@ -10408,6 +10413,7 @@ initiative-familles.ch
 initiative-feuxdartifice.ch
 initiative-finance-durable.ch
 initiative-fiscale-non.ch
+initiative-foie-gras-nein.ch
 initiative-foie-gras-non.ch
 initiative-foie-gras-oui.ch
 initiative-foie-gras.ch
@@ -10729,6 +10735,7 @@ iniziativa-di-protezione.ch
 iniziativa-espulsioni.ch
 iniziativa-fermare-abusi-asilo.ch
 iniziativa-finanza-sostenibile.ch
+iniziativa-foie-gras-no.ch
 iniziativa-foie-gras.ch
 iniziativa-fondo-climatico.ch
 iniziativa-fuochidartificio.ch
@@ -11134,7 +11141,6 @@ inkcleaner.ch
 inkcloth.ch
 inkclub.ch
 inkco.ch
-inkcon.ch
 inkconstructor.ch
 inkcryptink.ch
 inkcups.ch
@@ -11585,6 +11591,7 @@ inlicht.ch
 inlie.ch
 inliebeleben.ch
 inliebesein.ch
+inliebesilybum.ch
 inliebeverbunden.ch
 inliebevereint.ch
 inlife-vet.ch
@@ -16657,6 +16664,7 @@ insidetechno.ch
 insidetechnomusic.ch
 insidethebaxterbuilding.ch
 insidethechannel.ch
+insidethegame.ch
 insidetheprem.ch
 insidethescene.ch
 insidetheswissboardroom.ch
@@ -17110,6 +17118,7 @@ insostar.ch
 insoumiseromandie.ch
 insoumistoujours.ch
 insource.ch
+insourced.ch
 insourcing.ch
 insp.ch
 inspa.ch
@@ -17271,7 +17280,6 @@ inspiration-web.ch
 inspiration-yoga-bien-etre.ch
 inspiration-zweidler.ch
 inspiration.ch
-inspiration14.ch
 inspiration2go.ch
 inspiration4business.ch
 inspiration4today.ch
@@ -18539,6 +18547,7 @@ institut-moiraradice.ch
 institut-montana.ch
 institut-mt.ch
 institut-nadine.ch
+institut-nami.ch
 institut-nancy.ch
 institut-naturel.ch
 institut-neaveah.ch
@@ -19511,6 +19520,7 @@ insurtek.ch
 insurvalue.ch
 insurwave.ch
 insurxtract.ch
+insury.ch
 insus.ch
 insutech.ch
 insval.ch
@@ -20754,6 +20764,7 @@ intellilearn.ch
 intelliliving.ch
 intellilock.ch
 intellimago.ch
+intellimail.ch
 intellimation.ch
 intellimed.ch
 intellimedia.ch
@@ -26127,7 +26138,6 @@ inventiva.ch
 inventive.ch
 inventiveag.ch
 inventivepartners.ch
-inventivetoucan.ch
 inventix.ch
 inventlab.ch
 invento-switzerland.ch
@@ -26954,7 +26964,6 @@ investplan.ch
 investplus.ch
 investplus24.ch
 investpoint.ch
-investpointag.ch
 investportal.ch
 investpro.ch
 investpuls.ch

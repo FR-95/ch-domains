@@ -99,6 +99,7 @@ snack-prestige.ch
 snack-shaker.ch
 snack-shop.ch
 snack-star.ch
+snack-that.ch
 snack-time.ch
 snack-up.ch
 snack-world.ch
@@ -1870,6 +1871,7 @@ snowfriend.ch
 snowfriends.ch
 snowfrog.ch
 snowfun.ch
+snowgames.ch
 snowgarden.ch
 snowgate.ch
 snowgecko.ch
@@ -1886,6 +1888,7 @@ snowguide.ch
 snowhappening.ch
 snowhappens.ch
 snowhaze.ch
+snowhero.ch
 snowhike.ch
 snowhill.ch
 snowhillfamily.ch
@@ -2076,6 +2079,7 @@ snowside.ch
 snowsill.ch
 snowsky.ch
 snowspeed.ch
+snowsport-diemtigtal.ch
 snowsport-ems.ch
 snowsport-fiesch.ch
 snowsport-sedrun.ch

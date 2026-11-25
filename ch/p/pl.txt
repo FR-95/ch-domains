@@ -733,6 +733,7 @@ plamenig-partner.ch
 plamenig.ch
 plamet-automotive.ch
 plamily.ch
+plamive.ch
 plamo.ch
 plamont.ch
 plampi.ch
@@ -1290,6 +1291,7 @@ planclimatsionregion.ch
 plancloud.ch
 planco.ch
 plancoag.ch
+plancommunityhub.ch
 plancon.ch
 planconstruct.ch
 planconsult.ch
@@ -1662,7 +1664,6 @@ planetaryhealthservices.ch
 planetarymassage.ch
 planetarymassageandbodywork.ch
 planetarymassagezug.ch
-planetaryschweiz.ch
 planetaryseitenlage.ch
 planetarysidework.ch
 planetaryte.ch
@@ -2560,7 +2561,6 @@ planstrom.ch
 planstube.ch
 planstudio.ch
 plansuisse.ch
-plansuiza.ch
 plansupport.ch
 plansy.ch
 plansympa.ch
@@ -2692,6 +2692,7 @@ plantationarbre.ch
 plantationrum.ch
 plantations-suisses.ch
 plantatree.ch
+plantaurum.ch
 plantausserhalb.ch
 plantaversum.ch
 plantavis.ch
@@ -3419,6 +3420,7 @@ plasti-dip.ch
 plasti-pac.ch
 plasti-savoie.ch
 plasti-suisse.ch
+plasti.ch
 plastibac.ch
 plastic-boater.ch
 plastic-fashion.ch
@@ -3794,6 +3796,7 @@ plateforme-construction.ch
 plateforme-cpmdt.ch
 plateforme-de-commande.ch
 plateforme-direct.ch
+plateforme-droits-a-batir.ch
 plateforme-durabilite-fribourg.ch
 plateforme-durabilite.ch
 plateforme-eau-valais.ch
@@ -4345,7 +4348,6 @@ plattenleger-buchs.ch
 plattenleger-burch-emmenegger.ch
 plattenleger-burger.ch
 plattenleger-chur.ch
-plattenleger-einsiedeln.ch
 plattenleger-emmen.ch
 plattenleger-ferizi.ch
 plattenleger-firmen.ch
@@ -4404,7 +4406,6 @@ plattenleger-rorschach.ch
 plattenleger-ruemlang.ch
 plattenleger-ryter.ch
 plattenleger-saanenland.ch
-plattenleger-sargans.ch
 plattenleger-sarganserland.ch
 plattenleger-schaffhausen.ch
 plattenleger-scheidegger.ch
@@ -4412,7 +4413,6 @@ plattenleger-schenkmichael.ch
 plattenleger-schweiz.ch
 plattenleger-schwyz.ch
 plattenleger-service-baselland.ch
-plattenleger-sg.ch
 plattenleger-shop.ch
 plattenleger-sissach.ch
 plattenleger-solothurn-bucheggberg.ch
@@ -7012,6 +7012,7 @@ plot-werk.ch
 plot.ch
 plot24.ch
 plotandmore.ch
+plotandplate.ch
 plotandpour.ch
 plotanstalt.ch
 plotapp.ch

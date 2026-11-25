@@ -1203,6 +1203,7 @@ pfarrer-schulthess.ch
 pfarrer-sieber.ch
 pfarrer.ch
 pfarrerbirkner.ch
+pfarrerbolzern.ch
 pfarreredwin.ch
 pfarrerheller.ch
 pfarrerin.ch
@@ -4234,6 +4235,7 @@ pflegeinfo.ch
 pflegeinfo24.ch
 pflegeinformation.ch
 pflegeinfos.ch
+pflegeinhalt.ch
 pflegeinitiative.ch
 pflegeinside.ch
 pflegeinsider.ch

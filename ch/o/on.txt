@@ -1473,6 +1473,7 @@ oneclub.ch
 onecm.ch
 oneco.ch
 onecoach.ch
+onecoat.ch
 onecockpit.ch
 onecodex.ch
 onecoin-anleitung.ch
@@ -1713,6 +1714,7 @@ onehelp.ch
 onehiiro.ch
 onehire.ch
 onehiring.ch
+onehitter.ch
 onehitwonder.ch
 onehome-test.ch
 onehome.ch
@@ -2536,6 +2538,7 @@ oneweekonepic.ch
 oneweekstand.ch
 onewelcome.ch
 onewell.ch
+onewerq.ch
 onewheel.ch
 onewheelclub.ch
 onewiki.ch
@@ -3778,7 +3781,6 @@ online-marketing-agentur-zug.ch
 online-marketing-agentur.ch
 online-marketing-ausbildung.ch
 online-marketing-buch.ch
-online-marketing-coaching.ch
 online-marketing-experte.ch
 online-marketing-experten.ch
 online-marketing-expo.ch

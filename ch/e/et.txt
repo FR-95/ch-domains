@@ -839,8 +839,10 @@ etfstream.ch
 etfstudie-schweiz.ch
 etfstudie.ch
 etfsuche.ch
+etfsvergleichen.ch
 etftrader.ch
 etfvergleich.ch
+etfvergleichen.ch
 etfworld.ch
 etfx.ch
 etg-au.ch
@@ -3180,6 +3182,7 @@ etunjourtuoses.ch
 etuprep.ch
 etuptamig.ch
 eturkmarket.ch
+eturniti.ch
 eturnity.ch
 etusis.ch
 etusound.ch

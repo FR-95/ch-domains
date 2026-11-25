@@ -104,7 +104,6 @@ ps-district-aigle.ch
 ps-donne.ch
 ps-e.ch
 ps-ecublens.ch
-ps-education.ch
 ps-egg.ch
 ps-einsiedeln.ch
 ps-embra.ch
@@ -928,6 +927,7 @@ psi-coaching.ch
 psi-con.ch
 psi-consultants.ch
 psi-consulting.ch
+psi-cro.ch
 psi-eng.ch
 psi-essentia.ch
 psi-foto.ch
@@ -1069,6 +1069,7 @@ psicoterapiazefiro.ch
 psicoterapiazurich.ch
 psicotraumatologia.ch
 psicr.ch
+psicro.ch
 pside.ch
 psideo.ch
 psider.ch
@@ -1385,6 +1386,7 @@ pspag.ch
 pspam.ch
 pspbern.ch
 pspbp.ch
+pspd.ch
 pspe.ch
 pspeck.ch
 psperformance.ch

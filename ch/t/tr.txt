@@ -2773,6 +2773,7 @@ train-the-brain.ch
 train-the-cat.ch
 train-the-chicken.ch
 train-the-dog.ch
+train-the-trainer.ch
 train-tour.ch
 train-tours.ch
 train-world-community.ch
@@ -3255,6 +3256,7 @@ trainthedog.ch
 traintheleader.ch
 traintheteacher.ch
 traintheteam.ch
+trainthetrainer.ch
 traintheworld.ch
 trainticket.ch
 traintickets.ch
@@ -4547,6 +4549,7 @@ transfatwit.ch
 transfedia.ch
 transfeero.ch
 transfer-24.ch
+transfer-aeroporto.ch
 transfer-agency.ch
 transfer-airport.ch
 transfer-andermatt.ch
@@ -4564,6 +4567,8 @@ transfer-gisler1843.ch
 transfer-hostpoint.ch
 transfer-iss.ch
 transfer-li-seb-test.ch
+transfer-malpensa.ch
+transfer-milano.ch
 transfer-nft.ch
 transfer-o-mat.ch
 transfer-online.ch
@@ -4577,6 +4582,7 @@ transfer-service.ch
 transfer-services.ch
 transfer-swiss.ch
 transfer-switzerland.ch
+transfer-ticino.ch
 transfer-training.ch
 transfer-zurich.ch
 transfer.ch
@@ -4618,6 +4624,7 @@ transferhostpoint.ch
 transferhub.ch
 transferia.ch
 transferiareinigung.ch
+transferimentdutilisaziun.ch
 transferintl.ch
 transferio.ch
 transferit.ch
@@ -4667,11 +4674,13 @@ transfersvip.ch
 transferswiss.ch
 transfersysteme.ch
 transfert-aeroport-saifi.ch
+transfert-droits-a-batir.ch
 transfert-dtf.ch
 transfert-dtfuv.ch
 transfert-geneve-aeroport.ch
 transfert-hfr.ch
 transfert-hotel.ch
+transfert-indice.ch
 transfert.ch
 transfertaxi.ch
 transfertdargent.ch
@@ -6180,7 +6189,6 @@ transportwissen.ch
 transportzentrale.ch
 transportzentrum.ch
 transportzuerich-24.ch
-transportzuerich.ch
 transportzurich.ch
 transportzurichcity.ch
 transposafe.ch
@@ -6240,6 +6248,7 @@ transtastic.ch
 transte.ch
 transteam.ch
 transtec-buch.ch
+transtec.ch
 transtechna.ch
 transtechnik.ch
 transtechno.ch
@@ -6483,7 +6492,10 @@ trasec-shop.ch
 trasec.ch
 traseco.ch
 traser.ch
+trasevia.ch
 trasferimento-comparazione.ch
+trasferimento-cubatura.ch
+trasferimento-indici.ch
 trasferimentodeisoldi.ch
 trasferimentodidenaro.ch
 trasferirsi.ch
@@ -7446,6 +7458,7 @@ traumacoaching.ch
 traumacouch.ch
 traumacounseling.ch
 traumacounselling.ch
+traumadocu.ch
 traumafokussierte-dbt.ch
 traumafolgen.ch
 traumaforum.ch
@@ -7558,7 +7571,6 @@ traumatherapie-uster.ch
 traumatherapie-winterthur.ch
 traumatherapie.ch
 traumatherapiebasel.ch
-traumatherapieweinland.ch
 traumatherapiewinterthur.ch
 traumatic-brain-injury.ch
 traumatica-zuerich.ch
@@ -7570,7 +7582,6 @@ traumatologie-suisse.ch
 traumatologie-thun.ch
 traumaufraeder.ch
 traumaufraedern.ch
-traumaundhypnosetherapie.ch
 traumaundsuchberatung.ch
 traumaundsucht.ch
 traumausholz.ch
@@ -8310,6 +8321,7 @@ travaux-acro.ch
 travaux-acrobatiques.ch
 travaux-agricoles-balzli-fribourg.ch
 travaux-confines.ch
+travaux-de-construction.ch
 travaux-depannage.ch
 travaux-devis.ch
 travaux-en-cours.ch
@@ -8346,6 +8358,7 @@ travauxacrobatiques.ch
 travauxadomicile.ch
 travauxagricoles.ch
 travauxcordes.ch
+travauxdeconstruction.ch
 travauxencours.ch
 travauxenhauteur.ch
 travauxetdeco.ch
@@ -9954,6 +9967,7 @@ treda.ch
 tredco.ch
 trede.ch
 tredento.ch
+treder.ch
 tredesk.ch
 tredge.ch
 trediag.ch
@@ -10064,7 +10078,6 @@ treehouse-immo.ch
 treehouse-realestate.ch
 treehouse.ch
 treehouse13.ch
-treehousemusic.ch
 treehouseshop.ch
 treehousesolutions.ch
 treehub.ch
@@ -10526,6 +10539,7 @@ treibstoffdiebstahl.ch
 treibstoffe.ch
 treibstoffpreis.ch
 treibstoffpreise.ch
+treich.ch
 treichele.ch
 treichelschmied.ch
 treichle-cup.ch
@@ -10573,6 +10587,7 @@ treinnova.ch
 treino.ch
 treinoag.ch
 treintaydos.ch
+treiq.ch
 treis.ch
 treisa.ch
 treiscon.ch
@@ -10894,7 +10909,6 @@ trend-lights.ch
 trend-line.ch
 trend-living-shop.ch
 trend-logistik.ch
-trend-lux.ch
 trend-magazin.ch
 trend-magazine.ch
 trend-moebel.ch
@@ -13148,6 +13162,7 @@ treuhandwidmer.ch
 treuhandwilli.ch
 treuhandwillisau.ch
 treuhandwin.ch
+treuhandwinterthur.ch
 treuhandwissen.ch
 treuhandwohlen.ch
 treuhandworkshop.ch
@@ -15017,6 +15032,7 @@ trimanagement.ch
 trimandat.ch
 trimaniac226.ch
 trimar.ch
+trimaran-partners.ch
 trimaran-pully.ch
 trimaran-sailing.ch
 trimaran.ch
@@ -15274,6 +15290,7 @@ trinity-partners.ch
 trinity-personaltraining.ch
 trinity-prilly.ch
 trinity-production.ch
+trinity-shift.ch
 trinity-sport.ch
 trinity-strategies.ch
 trinity-swiss.ch
@@ -15929,7 +15946,6 @@ triphara.ch
 triphase.ch
 triphaseproject.ch
 triphop.ch
-triphysio.ch
 tripi-decoration.ch
 tripi.ch
 tripiin.ch
@@ -17169,6 +17185,7 @@ trockenlegung.ch
 trockenloo.ch
 trockenlot.ch
 trockenmacher.ch
+trockenmauer-baselland.ch
 trockenmauer-kurs.ch
 trockenmauer-laufen.ch
 trockenmauer-liestal.ch
@@ -17840,6 +17857,7 @@ tron.ch
 tron.uuug.ch
 tronador.ch
 tronc-commun-gesundheitsberufe.ch
+tronc-commun-online.ch
 tronc-commun.ch
 tronca.ch
 troncaboutique.ch
@@ -18528,6 +18546,7 @@ trouvapp.ch
 trouve-art.ch
 trouve-du-sexe.ch
 trouve-immo.ch
+trouve-moi.ch
 trouve-ton-appart.ch
 trouve-un-job.ch
 trouve.ch

@@ -1016,6 +1016,7 @@ ceibs.ch
 ceidos.ch
 ceiig.ch
 ceij.ch
+ceilidh.ch
 ceiling-solution.ch
 ceiling-store.ch
 ceiling.ch
@@ -1368,7 +1369,6 @@ celestialbabygift.ch
 celestialbalance.ch
 celestialcartel.ch
 celestialcompany.ch
-celestialcrystals.ch
 celestialposter.ch
 celestials.ch
 celestialsyndicate.ch
@@ -6558,6 +6558,7 @@ cermix.ch
 cermony.ch
 cermusoni.ch
 cern-dancing-club.ch
+cern-finance.ch
 cern-rugby.ch
 cern.ch
 cernapis.ch
@@ -6608,6 +6609,7 @@ cero-geneve.ch
 cero-immobilien.ch
 cero-oron.ch
 cero.ch
+cero29.ch
 ceroag.ch
 cerobel.ch
 ceroc.ch
@@ -7369,6 +7371,8 @@ cession.ch
 cessioncommerce.ch
 cessioncommerces.ch
 cessiondeferme.ch
+cessione-cubatura.ch
+cessione-indici.ch
 cessionefattoria.ch
 cessionentreprise.ch
 cessionpme.ch

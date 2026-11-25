@@ -366,6 +366,7 @@ ki-fuer-industrie.ch
 ki-fuer-juristen.ch
 ki-fuer-kmu.ch
 ki-fuer-unternehmen.ch
+ki-galaxy.ch
 ki-game.ch
 ki-garage.ch
 ki-gecheckt.ch
@@ -660,6 +661,7 @@ ki-meetup.ch
 ki-mehrwert.ch
 ki-mentor.ch
 ki-mentorin.ch
+ki-merlin.ch
 ki-messe.ch
 ki-mii-locations.ch
 ki-mind.ch
@@ -743,6 +745,7 @@ ki-personalvermittlung.ch
 ki-pilot.ch
 ki-pin.ch
 ki-plakatdruck.ch
+ki-planet.ch
 ki-plattform-vergleich.ch
 ki-plattform.ch
 ki-plattformen.ch
@@ -801,6 +804,7 @@ ki-prozessautomation.ch
 ki-prozessberatung.ch
 ki-prozesse.ch
 ki-prozessoptimierung.ch
+ki-pruefpraxis.ch
 ki-pruefung.ch
 ki-puls.ch
 ki-punkt.ch
@@ -888,6 +892,7 @@ ki-security.ch
 ki-seite.ch
 ki-seiten.ch
 ki-seitenwerk.ch
+ki-sekretariat.ch
 ki-select.ch
 ki-seminar.ch
 ki-seminare.ch
@@ -1011,6 +1016,7 @@ ki-telefonassistenz.ch
 ki-telefondienst.ch
 ki-telefonzentrale.ch
 ki-ten.ch
+ki-test.ch
 ki-testing.ch
 ki-text-humanizer.ch
 ki-text-optimierung.ch
@@ -1065,6 +1071,7 @@ ki-und-kirche.ch
 ki-und-management.ch
 ki-und-so.ch
 ki-und-therapie.ch
+ki-universum.ch
 ki-unternehmen.ch
 ki-unternehmensdaten.ch
 ki-unternehmensprofil.ch
@@ -1075,6 +1082,7 @@ ki-update.ch
 ki-verband.ch
 ki-verbindet.ch
 ki-verein.ch
+ki-vergleich.ch
 ki-verkaufstraining-schweiz.ch
 ki-verkaufstraining.ch
 ki-verkauft.ch
@@ -1969,6 +1977,7 @@ kickzone.ch
 kickzpremium.ch
 kickzvip.ch
 kiclimb.ch
+kiclip.ch
 kiclips.ch
 kicloud.ch
 kico-kinderphysiotherapie.ch
@@ -3571,6 +3580,7 @@ kieselba.ch
 kieselberg.ch
 kieselerde.ch
 kieselgasse.ch
+kieselgassproductions.ch
 kieselguhr.ch
 kieselgur-schweiz.ch
 kieselgur-shop.ch
@@ -3982,6 +3992,7 @@ kijimearegularisplus.ch
 kijo.ch
 kijob.ch
 kijobs.ch
+kijobsuche.ch
 kijochka.ch
 kijomadog.ch
 kijoo.ch
@@ -5384,6 +5395,7 @@ kinco-robotics.ch
 kinconsulting.ch
 kincorobot.ch
 kincorobotics.ch
+kincraft.ch
 kincses-deak.ch
 kincy.ch
 kind-ag.ch
@@ -8332,7 +8344,6 @@ kinderwunsch-baden.ch
 kinderwunsch-baselland.ch
 kinderwunsch-biel.ch
 kinderwunsch-bischofszell.ch
-kinderwunsch-buch.ch
 kinderwunsch-cham.ch
 kinderwunsch-coach.ch
 kinderwunsch-coaching-sg.ch
@@ -8731,6 +8742,7 @@ kindofcoolproductions.ch
 kindoffurniture.ch
 kindofwunder.ch
 kindoh.ch
+kindoo.ch
 kindorfkosmetik.ch
 kindori.ch
 kindorientiert.ch
@@ -9694,6 +9706,7 @@ kinesiologiemontreux.ch
 kinesiologiemovimento.ch
 kinesiologiemzs.ch
 kinesiologieneuchatel.ch
+kinesiologieoase.ch
 kinesiologieolten.ch
 kinesiologieost.ch
 kinesiologieportal.ch
@@ -9937,13 +9950,13 @@ kinevo.ch
 kinevoce.ch
 kinevolution.ch
 kinevoyame.ch
-kinew.ch
 kineweg.ch
 kinewerk.ch
 kinewi.ch
 kinewilli.ch
 kinews.ch
 kinewsletter.ch
+kinewsschweiz.ch
 kinexion.ch
 kinexis.ch
 kinexpert.ch
@@ -11474,7 +11487,6 @@ kipaki.ch
 kipara.ch
 kiparski.ch
 kipartner.ch
-kipartnerprogramm.ch
 kipasa.ch
 kipassiveinkommen.ch
 kipatentblog.ch
@@ -11635,6 +11647,7 @@ kiprosupport.ch
 kiprotect.ch
 kiprozess.ch
 kiprozesse.ch
+kipruefpraxis.ch
 kiprun.ch
 kips-gruppe.ch
 kips.ch
@@ -14961,7 +14974,6 @@ kitchen-hacks.ch
 kitchen-logic.ch
 kitchen-more.ch
 kitchen-ninjas.ch
-kitchen-pro.ch
 kitchen-queen.ch
 kitchen-republic.ch
 kitchen-republik.ch
@@ -15195,6 +15207,7 @@ kitecrest-labradors.ch
 kitecycle.ch
 kitedavos.ch
 kitedoctor.ch
+kitedrake.ch
 kiteemotions.ch
 kiteevents.ch
 kiteferien.ch
@@ -16065,6 +16078,7 @@ kixence.ch
 kixi.ch
 kixim.ch
 kixkmu.ch
+kixkox.ch
 kixmi.ch
 kixstart.ch
 kixtr.ch

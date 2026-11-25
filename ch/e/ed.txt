@@ -362,7 +362,6 @@ edel-brockenhaus.ch
 edel-brocki.ch
 edel-bulle.ch
 edel-bulli.ch
-edel-byte.ch
 edel-clean.ch
 edel-coin.ch
 edel-collection.ch
@@ -386,6 +385,7 @@ edel-ki.ch
 edel-kosmetik.ch
 edel-kraft.ch
 edel-kraut.ch
+edel-lens.ch
 edel-lounge-bar.ch
 edel-lounge.ch
 edel-luxusuhren.ch
@@ -1007,6 +1007,7 @@ edelstahlwerkzeug.ch
 edelstahlwhirlpools.ch
 edelstai-laedeli.ch
 edelstall.ch
+edelstar-medical.ch
 edelstark.ch
 edelstartravel.ch
 edelstei.ch
@@ -2010,6 +2011,7 @@ edgehub.ch
 edgeify.ch
 edgeinnovation.ch
 edgekatech.ch
+edgekit.ch
 edgelab.ch
 edgelink.ch
 edgemaker.ch
@@ -3774,6 +3776,7 @@ edph.ch
 edpillenwiki.ch
 edpilot.ch
 edplit.ch
+edplus-eisc.ch
 edplus.ch
 edplusaisc.ch
 edpluseisc.ch
@@ -4725,6 +4728,7 @@ edugo.ch
 edugroup.ch
 edugym.ch
 edugymalp.ch
+eduhackathon.ch
 eduhaubensak.ch
 eduhealth.ch
 eduhelp.ch
@@ -4868,7 +4872,6 @@ edumoesa.ch
 edumoesano.ch
 edumondi.ch
 edumontagen.ch
-edumoon.ch
 edumove.ch
 edumper.ch
 edumusique.ch

@@ -848,7 +848,6 @@ nick-holding.ch
 nick-industries.ch
 nick-ineichen.ch
 nick-it.ch
-nick-ivanov.ch
 nick-j.ch
 nick-key.ch
 nick-koch.ch
@@ -5843,6 +5842,7 @@ nilsius.ch
 nilsjansen.ch
 nilsjenni.ch
 nilsjensen.ch
+nilsjentfilm.ch
 nilsjocher.ch
 nilsjohnson.ch
 nilsk.ch
@@ -6679,7 +6679,6 @@ nindo.ch
 nindocard.ch
 nindustries.ch
 nine-bar.ch
-nine-casino-ch.ch
 nine-casino-offiziell.ch
 nine-casino-online.ch
 nine-casino-schweiz.ch

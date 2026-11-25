@@ -49,6 +49,7 @@ cyanoguard.ch
 cyanote.ch
 cyanotypie.ch
 cyasoon.ch
+cyatlas.ch
 cyaware.ch
 cyax.ch
 cyb-int.ch
@@ -219,6 +220,7 @@ cyber-physical-systems.ch
 cyber-pikett.ch
 cyber-pilot.ch
 cyber-pme.ch
+cyber-pmi.ch
 cyber-police.ch
 cyber-pos.ch
 cyber-prevention.ch
@@ -272,6 +274,7 @@ cyber-sicher.ch
 cyber-sicherheit-schweiz.ch
 cyber-sicherheit.ch
 cyber-sigillum.ch
+cyber-sme.ch
 cyber-sniper.ch
 cyber-snyper.ch
 cyber-sofort-hilfe.ch
@@ -453,7 +456,6 @@ cybercave.ch
 cybercenter.ch
 cyberch.ch
 cyberchallenge.ch
-cyberchamp.ch
 cyberchat.ch
 cybercheck.ch
 cybercheck24.ch
@@ -988,6 +990,7 @@ cyberpizza.ch
 cyberplace.ch
 cyberplanet.ch
 cyberpme.ch
+cyberpmi.ch
 cyberpoint.ch
 cyberpol.ch
 cyberpolice.ch
@@ -1232,6 +1235,7 @@ cybersite.ch
 cyberskill.ch
 cyberskills.ch
 cybersmart.ch
+cybersme.ch
 cybersmith.ch
 cybersmoke.ch
 cybersniper.ch
@@ -2020,7 +2024,6 @@ cydonia.ch
 cydra.ch
 cydu.ch
 cye.ch
-cyed.ch
 cyel.ch
 cyeng.ch
 cyengineering.ch
@@ -2428,6 +2431,7 @@ cyr-pt.ch
 cyr.ch
 cyra-estate.ch
 cyra-estates.ch
+cyra-music.ch
 cyra.ch
 cyrac.ch
 cyracom.ch
@@ -2445,6 +2449,7 @@ cyrano-lefilm.ch
 cyrano.ch
 cyranoauborddeleau.ch
 cyranos.ch
+cyranox.ch
 cyrax.ch
 cyrcle-parc.ch
 cyrcle.ch

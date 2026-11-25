@@ -1523,6 +1523,7 @@ fidestus.ch
 fidesuisse.ch
 fideswiss.ch
 fidetest.ch
+fidetests.ch
 fidetim.ch
 fidetoy.ch
 fidetra.ch
@@ -2100,6 +2101,7 @@ fiduciaire-scaiola.ch
 fiduciaire-schnebelen.ch
 fiduciaire-sdj.ch
 fiduciaire-sellami.ch
+fiduciaire-serre22.ch
 fiduciaire-services.ch
 fiduciaire-sfaellos.ch
 fiduciaire-sion.ch
@@ -2757,6 +2759,7 @@ fiechter-ils.ch
 fiechter-immo.ch
 fiechter-mail.ch
 fiechter-markt.ch
+fiechter-metzg.ch
 fiechter-moebel.ch
 fiechter-studer.ch
 fiechter.ch
@@ -9721,6 +9724,7 @@ finish-saxer.ch
 finish-serviceag.ch
 finish-strong.ch
 finish.ch
+finish2frame.ch
 finished.ch
 finishell.ch
 finisher-club.ch
@@ -11304,6 +11308,7 @@ firdaws.ch
 fire-abc.ch
 fire-analytics.ch
 fire-and-flames.ch
+fire-and-flow.ch
 fire-and-ice.ch
 fire-and-smoke.ch
 fire-as-a-service.ch
@@ -11490,6 +11495,7 @@ firedesign.ch
 firedestroyer.ch
 firedigital.ch
 firedocs.ch
+firedocu.ch
 firedog.ch
 firedonotreschedule.ch
 firedoors.ch
@@ -11623,7 +11629,6 @@ fireknights.ch
 firekraft.ch
 firelab.ch
 firelabel.ch
-firelake.ch
 firelaun.ch
 fireleash.ch
 fireless.ch
@@ -12799,6 +12804,7 @@ firnkind.ch
 firnklima.ch
 firnlicht.ch
 firnlot.ch
+firnmail.ch
 firno.ch
 firnova.ch
 firnschweiz.ch
@@ -12976,6 +12982,7 @@ first-phone.ch
 first-place.ch
 first-point.ch
 first-porsche.ch
+first-position.ch
 first-principle.ch
 first-privacy.ch
 first-property-swiss.ch
@@ -13972,6 +13979,7 @@ fischer-brevet.ch
 fischer-bros.ch
 fischer-brr.ch
 fischer-buchs.ch
+fischer-budget.ch
 fischer-buha.ch
 fischer-charter.ch
 fischer-chemie.ch
@@ -14857,6 +14865,7 @@ fischtextiles.ch
 fischtheke.ch
 fischthekealfonso.ch
 fischtis.ch
+fischueberalles.ch
 fischundart.ch
 fischundkraut.ch
 fischundkrebs.ch

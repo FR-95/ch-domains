@@ -304,6 +304,7 @@ phantom-corporate-finance.ch
 phantom-corporatefinance.ch
 phantom-design.ch
 phantom-detailing.ch
+phantom-elektro.ch
 phantom-film.ch
 phantom-group.ch
 phantom-holding.ch
@@ -823,6 +824,7 @@ pharmaciecroisee.ch
 pharmaciedebellevue.ch
 pharmaciedebelmont.ch
 pharmaciedebernex.ch
+pharmaciedebertigny.ch
 pharmaciedechailly.ch
 pharmaciedechampel.ch
 pharmaciedecharnot.ch
@@ -867,6 +869,7 @@ pharmaciedesaillon.ch
 pharmaciedesaule.ch
 pharmaciedesbanques.ch
 pharmaciedesbergues.ch
+pharmaciedesbiches.ch
 pharmaciedescolombieres.ch
 pharmaciedesdailles.ch
 pharmaciedesdranses.ch
@@ -1643,7 +1646,6 @@ pharmony.ch
 pharmora.ch
 pharmos-natur-suisse.ch
 pharmos.ch
-pharmosan.ch
 pharmotech.ch
 pharmpic.ch
 pharmrecruit.ch
@@ -1935,6 +1937,7 @@ phenix-versicherungen.ch
 phenix-watch.ch
 phenix.ch
 phenixcam.ch
+phenixclean.ch
 phenixcoaching.ch
 phenixconstruction.ch
 phenixconstructions.ch
@@ -4052,6 +4055,7 @@ phoenix-immobilier.ch
 phoenix-information-technologies.ch
 phoenix-innovation.ch
 phoenix-innovative-factory.ch
+phoenix-inspired.ch
 phoenix-institution.ch
 phoenix-insurance.ch
 phoenix-invest.ch
@@ -9721,6 +9725,7 @@ physioriba.ch
 physiorigo.ch
 physioring.ch
 physiorio.ch
+physiorivage.ch
 physiorive.ch
 physiorivedroite.ch
 physiorivesud.ch
@@ -10188,7 +10193,6 @@ physiotherapie-fit-bleiben-zuhause.ch
 physiotherapie-flumenthal.ch
 physiotherapie-foi.ch
 physiotherapie-fortbildung.ch
-physiotherapie-forum.ch
 physiotherapie-frank.ch
 physiotherapie-frauenfeld.ch
 physiotherapie-freienbach.ch
@@ -10606,6 +10610,7 @@ physiotherapie-winterthur-bahnhof.ch
 physiotherapie-winterthur-praxis.ch
 physiotherapie-winterthur-zentrum.ch
 physiotherapie-winterthur.ch
+physiotherapie-wissenschaften.ch
 physiotherapie-wohlen.ch
 physiotherapie-wolhusen.ch
 physiotherapie-wollerau.ch

@@ -1717,6 +1717,7 @@ crast.ch
 crasta-holding.ch
 crasta.ch
 crastafarm.ch
+crastalva.ch
 crastella.ch
 crastonecapital.ch
 crat.ch
@@ -1835,7 +1836,6 @@ cray.ch
 crayola.ch
 crayon-plume.ch
 crayon-rocks.ch
-crayon-vert.ch
 crayonart.ch
 crayoniverse.ch
 crayonmalin.ch
@@ -1843,7 +1843,6 @@ crayonoir.ch
 crayonrocks.ch
 crayons-de-soleil.ch
 crayonsolidaires.ch
-crayonvert.ch
 craywheels.ch
 crayz.ch
 crayzpub.ch
@@ -4713,7 +4712,6 @@ creativetoast.ch
 creativetofascinate.ch
 creativetogether.ch
 creativetou.ch
-creativetoucan.ch
 creativetouch.ch
 creativetouchflow.ch
 creativetour.ch
@@ -5124,7 +5122,6 @@ creche-bethleem.ch
 creche-cocoon.ch
 creche-comparatif.ch
 creche-de-gibloux.ch
-creche-de-noel.ch
 creche-de-qualite.ch
 creche-des-addoz.ch
 creche-et-trouve.ch
@@ -9507,6 +9504,7 @@ crowdle.ch
 crowdleague.ch
 crowdlend.ch
 crowdlending.ch
+crowdlendingsuisse.ch
 crowdli-solar.ch
 crowdli.ch
 crowdlife.ch
@@ -10456,6 +10454,7 @@ cryinsoul-music.ch
 cryix.ch
 crylight.ch
 crylix.ch
+cryman.ch
 crymbl.ch
 cryms.ch
 crynox.ch
@@ -11337,12 +11336,12 @@ cryptonix.ch
 cryptonode.ch
 cryptonomics.ch
 cryptonomist.ch
+cryptonomy.ch
 cryptonow.ch
 cryptonox.ch
 cryptooffice.ch
 cryptooffice21.ch
 cryptoog-swiss.ch
-cryptool.ch
 cryptoowl.ch
 cryptop.ch
 cryptopal.ch
@@ -11518,6 +11517,7 @@ cryptotrade.ch
 cryptotrader.ch
 cryptotraders.ch
 cryptotrading.ch
+cryptotradingbot.ch
 cryptotrain.ch
 cryptotrainer.ch
 cryptotraining.ch

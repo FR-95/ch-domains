@@ -1699,7 +1699,6 @@ realhaussanierung.ch
 realhealers.ch
 realhealing.ch
 realhiphop.ch
-realholzbau.ch
 realhome-baumanagement.ch
 realhome.ch
 realhomes.ch
@@ -1771,6 +1770,7 @@ realisapub.ch
 realisar.ch
 realisateur-publicitaire.ch
 realisateurpublicitaire.ch
+realisateurs.ch
 realisation-schmid.ch
 realisation-site-internet-riviera.ch
 realisation-site-internet-vevey.ch
@@ -4281,6 +4281,7 @@ rechnungsklar.ch
 rechnungskontrolle.ch
 rechnungskopie.ch
 rechnungslegung.ch
+rechnungsmappe.ch
 rechnungspilot.ch
 rechnungsportal.ch
 rechnungsprogramm-handwerker.ch
@@ -4354,6 +4355,7 @@ rechsteinerscatering.ch
 recht-ai.ch
 recht-aktuell.ch
 recht-auf-analog.ch
+recht-auf-echt.ch
 recht-auf-heimat.ch
 recht-auf-laden.ch
 recht-auf-leben.ch
@@ -5976,6 +5978,7 @@ recrunity.ch
 recrutainment.ch
 recrute-me.ch
 recrute.ch
+recrutefranchise.ch
 recrutement-agent-commercial.ch
 recrutement-ch.ch
 recrutement-finance.ch
@@ -8636,7 +8639,6 @@ reelrock.ch
 reelrocktour.ch
 reels-agentur.ch
 reels.ch
-reels4you.ch
 reelsagentur.ch
 reelscasino.ch
 reelscheck.ch
@@ -8949,7 +8951,6 @@ ref-kirchearlesheim.ch
 ref-kirchen-ag.ch
 ref-kirchenberufe.ch
 ref-kircheneintritt.ch
-ref-kirchenkreisglarusnord.ch
 ref-kirchetrimmis.ch
 ref-klingnau.ch
 ref-kloten.ch
@@ -9736,6 +9737,7 @@ refletdelame.ch
 refletdesbulles.ch
 refletdeshana.ch
 refletdesign.ch
+refletdor.ch
 refletdumiroir.ch
 refletinterieur.ch
 reflets-du-midi.ch
@@ -10312,7 +10314,6 @@ reformpaedagogik.ch
 reformpartei.ch
 reformpilates-studio.ch
 reformpilates.ch
-reformrat.ch
 reformroom.ch
 reformshop.ch
 reformsociety.ch
@@ -11073,6 +11074,7 @@ regenbogensonne.ch
 regenbogentaenzer.ch
 regenbogentasse.ch
 regenbogentrauung.ch
+regenbogentreff.ch
 regenbogentropfen.ch
 regenbogentupfer.ch
 regenbogenverlag.ch
@@ -12225,6 +12227,7 @@ regioflora.ch
 regiofood.ch
 regiofoodhub.ch
 regiofoodvs.ch
+regioforyou.ch
 regiofrauenfeld-tourismus.ch
 regiofrauenfeld.ch
 regiofreizeit.ch
@@ -13025,6 +13028,7 @@ regioturnfest22.ch
 regiotv.ch
 regiotv24.ch
 regiotvplus.ch
+regioua.ch
 regioumzuege.ch
 regioumzug.ch
 regiova.ch
@@ -20417,6 +20421,7 @@ rema-bau.ch
 rema-camping.ch
 rema-constructions.ch
 rema-consulting.ch
+rema-design.ch
 rema-felgen.ch
 rema-felgentechnik.ch
 rema-gemuese.ch
@@ -21244,6 +21249,7 @@ remokoch.ch
 remokoller.ch
 remolamarra.ch
 remolehmann.ch
+remolehner.ch
 remolepori.ch
 remoleuthold.ch
 remoleuzinger.ch
@@ -22001,6 +22007,7 @@ renatabucher.ch
 renatabuenter.ch
 renatacarissimi.ch
 renatadam.ch
+renatadarocha.ch
 renatafranca.ch
 renatafrancageneve.ch
 renataguedel.ch
@@ -24461,7 +24468,6 @@ renovation-fernandez.ch
 renovation-gashi.ch
 renovation-generale-gp-immobilier-preite.ch
 renovation-generale.ch
-renovation-geneve-travaux.ch
 renovation-geneve.ch
 renovation-grange.ch
 renovation-gypserie-peinture.ch
@@ -25045,7 +25051,6 @@ rent-a-painter.ch
 rent-a-pastor.ch
 rent-a-pessimist.ch
 rent-a-pharmacist.ch
-rent-a-photo-booth.ch
 rent-a-physio.ch
 rent-a-picknick.ch
 rent-a-picture.ch
@@ -26029,7 +26034,6 @@ rentme-swiss.ch
 rentme.ch
 rentme24.ch
 rentmecars.ch
-rentmee.ch
 rentmeister.ch
 rentmen.ch
 rentmesportcars.ch
@@ -27364,6 +27368,7 @@ repi.ch
 repiano.ch
 repic.ch
 repichsport.ch
+repick.ch
 repid.ch
 repiece.ch
 repify.ch
@@ -27561,6 +27566,7 @@ report-age.ch
 report-centravo.ch
 report-coopera.ch
 report-cybercrime.ch
+report-droits-a-batir.ch
 report-it.ch
 report-korix.ch
 report-online-racism.ch
@@ -29391,6 +29397,7 @@ residenceleleman.ch
 residencelelittoral.ch
 residencelemanoir.ch
 residenceleontine.ch
+residenceleprieure.ch
 residencelescretes.ch
 residencelesoleil.ch
 residencelessources.ch
@@ -30510,6 +30517,7 @@ resonanz-methode.ch
 resonanz-projekte.ch
 resonanz-psychologie.ch
 resonanz-raum.ch
+resonanz-schmiede.ch
 resonanz-somatik.ch
 resonanz-therapie.ch
 resonanz-tourismus.ch
@@ -30557,6 +30565,7 @@ resonanzraum-schweiz.ch
 resonanzraum-srgd.ch
 resonanzraum.ch
 resonanzruum.ch
+resonanzschmiede.ch
 resonanztherapie.ch
 resonanztourismus.ch
 resonanzvisionzwingli.ch
@@ -30708,7 +30717,6 @@ resources-work-as-they-should.ch
 resources.ch
 resources4you.ch
 resourcesandrelations.ch
-resourcesforgrowth.ch
 resourcesolutions.ch
 resourcetherapy-online.ch
 resourcetherapy.ch
@@ -31795,6 +31803,7 @@ restaurant-ch.ch
 restaurant-chalet-montcrosin.ch
 restaurant-chalet.ch
 restaurant-chaletindia.ch
+restaurant-champlan.ch
 restaurant-chanaan.ch
 restaurant-chandolin.ch
 restaurant-check.ch
@@ -33127,6 +33136,7 @@ restaurant-sonne.ch
 restaurant-sonnegg.ch
 restaurant-sonnenberg.ch
 restaurant-sonnendeck.ch
+restaurant-sonnenhof.ch
 restaurant-sonnental.ch
 restaurant-sonnmatt.ch
 restaurant-soodring.ch
@@ -33406,7 +33416,6 @@ restaurant-wasserfall.ch
 restaurant-web.ch
 restaurant-webseite.ch
 restaurant-website.ch
-restaurant-weggismatt.ch
 restaurant-weidli.ch
 restaurant-weinhof.ch
 restaurant-weissenstein.ch
@@ -34891,6 +34900,8 @@ restauro-oft.ch
 restauro.ch
 restaurogmbh.ch
 restauroticino.ch
+restausnuetzung-verkaufen.ch
+restausnuetzung.ch
 restauverso.ch
 restay.ch
 restayling.ch
@@ -35720,6 +35731,7 @@ retaurant-schmiede.ch
 retaval.ch
 retavis.ch
 retax.ch
+retaxin.ch
 retb.ch
 rete-abilis.ch
 rete-citroen.ch
@@ -39041,6 +39053,7 @@ revlenergy.ch
 revlia.ch
 revlimid.ch
 revlineautomotive.ch
+revlinecars.ch
 revlio.ch
 revlo.ch
 revlon.ch

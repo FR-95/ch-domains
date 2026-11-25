@@ -18,7 +18,6 @@ wc-isler.ch
 wc-jura.ch
 wc-lausanne.ch
 wc-loc.ch
-wc-location.ch
 wc-mieten.ch
 wc-mietservice.ch
 wc-mobile.ch

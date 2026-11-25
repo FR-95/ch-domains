@@ -374,6 +374,7 @@ bdo-files.ch
 bdo-immobilien.ch
 bdo-informatik.ch
 bdo-inside.ch
+bdo-recruiting.ch
 bdo-visura.ch
 bdo-zoom.ch
 bdo-zuerich.ch

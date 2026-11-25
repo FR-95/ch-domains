@@ -622,6 +622,7 @@ praesum.ch
 praetech.ch
 praethorus.ch
 praetor.ch
+praetoria.ch
 praetorian.ch
 praetoriani.ch
 praetorians.ch
@@ -929,6 +930,7 @@ pragmatix-consulting.ch
 pragmatix.ch
 pragmaton.ch
 pragmatter.ch
+pragmatys.ch
 pragmaxis.ch
 pragmaxus.ch
 pragmed.ch
@@ -1569,6 +1571,7 @@ prattex.ch
 prattler-fasnacht.ch
 prattler-musiknacht.ch
 prattler-tanzclub.ch
+prattler-vino.ch
 prattler-weihnachtsmarkt.ch
 prattleranzeiger.ch
 prattlerwein.ch
@@ -3871,6 +3874,7 @@ praxis-oberhof.ch
 praxis-oberlaender.ch
 praxis-obersaxen.ch
 praxis-oberson.ch
+praxis-oberstadt.ch
 praxis-oberstrass.ch
 praxis-oberuzwil.ch
 praxis-oberwil.ch
@@ -5067,6 +5071,7 @@ praxis8004.ch
 praxis81.ch
 praxis8610.ch
 praxis9.ch
+praxis94.ch
 praxis9monate.ch
 praxisaabach.ch
 praxisaarau.ch
@@ -5479,6 +5484,7 @@ praxisbuser.ch
 praxisbykaie.ch
 praxisbymbrunne.ch
 praxisbymtoerli.ch
+praxiscacean.ch
 praxiscaduff.ch
 praxiscagienard.ch
 praxiscalamus.ch
@@ -6620,6 +6626,7 @@ praxisoberdorf-moehlin.ch
 praxisobermatt.ch
 praxisoberrieden.ch
 praxisoberson.ch
+praxisoberstadt.ch
 praxisoberwil.ch
 praxisobrist.ch
 praxisobstgarten.ch
@@ -8176,6 +8183,7 @@ pregiocasa.ch
 pregiotec-bodentechnik.ch
 pregiotec.ch
 pregnajoy.ch
+pregnancy-companion.ch
 pregnancy.ch
 pregnancycoach.ch
 pregnancymassage.ch
@@ -8711,6 +8719,7 @@ premetra.ch
 premex-reactorag.ch
 premex-solutions.ch
 premex.ch
+premexpert.ch
 premexperts.ch
 premexreactor.ch
 premezzi.ch
@@ -9983,7 +9992,6 @@ prepace.ch
 prepack.ch
 prepafa.ch
 prepagpt.ch
-prepaia.ch
 prepaid-card.ch
 prepaid-cards.ch
 prepaid-coopmobile.ch
@@ -12551,6 +12559,7 @@ priis.ch
 priise.ch
 priisig.ch
 priisli-game.ch
+priisma.ch
 priispirat.ch
 priisradar.ch
 prija.ch
@@ -12864,7 +12873,6 @@ primanet.ch
 primani.ch
 primano-deutsch.ch
 primano.ch
-primanom.ch
 primanota.ch
 primanum.ch
 primao.ch
@@ -13921,6 +13929,8 @@ primera.ch
 primeracing.ch
 primeratrading.ch
 primeraw.ch
+primeray.ch
+primeray4.ch
 primerc.ch
 primerdimer.ch
 primereal.ch
@@ -16158,6 +16168,7 @@ prismaflor.ch
 prismafondation.ch
 prismafood.ch
 prismag.ch
+prismagate.ch
 prismageneve.ch
 prismagmbh.ch
 prismago.ch
@@ -16276,6 +16287,7 @@ prisms.ch
 prismscientific.ch
 prismshift.ch
 prismstudio.ch
+prismtcg.ch
 prismte.ch
 prismtech.ch
 prismvisas.ch
@@ -18510,7 +18522,6 @@ prixdejoie.ch
 prixdelailleurs.ch
 prixdelaperformance.ch
 prixdelarecherche.ch
-prixdelarecherchepaulklee.ch
 prixdelartisanat.ch
 prixdelausanne.ch
 prixdeloreilledor.ch
@@ -19000,7 +19011,6 @@ pro-daten.ch
 pro-deal.ch
 pro-deals.ch
 pro-debouchage-sarl.ch
-pro-debouchage.ch
 pro-deco.ch
 pro-dei-media-test.ch
 pro-demenagement.ch
@@ -19772,6 +19782,7 @@ pro-umfahrung-hochdorf.ch
 pro-und-contra.ch
 pro-unterfeld.ch
 pro-urba.ch
+pro-urchig.ch
 pro-uro.ch
 pro-ursins.ch
 pro-ursus.ch
@@ -20333,6 +20344,7 @@ probbuehne.ch
 probby.ch
 probe-abo.ch
 probe-fahrten.ch
+probe-lb.ch
 probe-trainings.ch
 probe.ch
 probeabo.ch
@@ -22384,6 +22396,7 @@ produktsystem.ch
 produkttest.ch
 produkttester.ch
 produkttests.ch
+produkttipp.ch
 produkttrends.ch
 produktundraum.ch
 produktus.ch
@@ -23588,6 +23601,7 @@ profilpunkt.ch
 profilq.ch
 profilqualite.ch
 profilr.ch
+profilressources.ch
 profils-langues.ch
 profils.ch
 profilsager.ch
@@ -25086,6 +25100,7 @@ project-ms365.ch
 project-n.ch
 project-name.ch
 project-nine.ch
+project-nolo.ch
 project-octopus.ch
 project-offer.ch
 project-ohm.ch
@@ -25150,7 +25165,6 @@ project2.ch
 project2000.ch
 project2030.ch
 project21.ch
-project22.ch
 project25-overland.ch
 project25.ch
 project2process.ch
@@ -25910,6 +25924,7 @@ projektfreund.ch
 projektfriedhof.ch
 projektfuchs.ch
 projektfuehrung.ch
+projektgarage.ch
 projektgesundheit.ch
 projektgruppe.ch
 projektgut.ch
@@ -27241,6 +27256,7 @@ promeon.ch
 promera.ch
 promerenschwand.ch
 promerka.ch
+promes.ch
 promeso.ch
 promess.ch
 promessa.ch
@@ -27274,6 +27290,7 @@ promethee-archi.ch
 promethee-architectes.ch
 promethee-business.ch
 promethee-conseil.ch
+promethee-securite.ch
 promethee-studio.ch
 promethee-technologies.ch
 promethee.ch
@@ -30339,6 +30356,7 @@ prospettivecii.ch
 prospettiveenergetiche.ch
 prospex.ch
 prosphere.ch
+prospia.ch
 prospice.ch
 prospiel.ch
 prospina.ch
@@ -32959,6 +32977,8 @@ prozess-verband.ch
 prozess-werkbank.ch
 prozess.ch
 prozessa.ch
+prozessagent.ch
+prozessagenten.ch
 prozessagentur.ch
 prozessanalyse.ch
 prozessanimationen.ch

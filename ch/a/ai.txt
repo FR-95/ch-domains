@@ -469,6 +469,7 @@ ai-hotel-check.ch
 ai-hotel.ch
 ai-hotline.ch
 ai-hpc.ch
+ai-hub-basel.ch
 ai-hub-graubuenden.ch
 ai-hub-labs.ch
 ai-hub-lausanne.ch
@@ -1115,6 +1116,7 @@ ai4hcai.ch
 ai4health.ch
 ai4healthcare.ch
 ai4human.ch
+ai4impact.ch
 ai4innovation.ch
 ai4iv.ch
 ai4job.ch
@@ -2040,6 +2042,7 @@ aideprimaire.ch
 aider-beit-sahour.ch
 aider-eerv.ch
 aider-les-proches-aidants.ch
+aider-les-refugies.ch
 aider.ch
 aidera.ch
 aidereerv.ch
@@ -3128,6 +3131,7 @@ ailawyer.ch
 ailawyers.ch
 ailc.ch
 ailcapital.ch
+aile-dor.ch
 aile-est.ch
 aile-mit-weile.ch
 aile.ch
@@ -4810,6 +4814,7 @@ airdesign.ch
 airdiag.ch
 airdidge.ch
 airdispat.ch
+airdisplay-umfrage.ch
 airdoc.ch
 airdock.ch
 airdolomiti.ch
@@ -6296,6 +6301,7 @@ aisal.ch
 aisamurai.ch
 aisamusic.ch
 aisana.ch
+aisance-anaesthesia.ch
 aisance-creativite.ch
 aisance.ch
 aisancefm.ch
@@ -6502,7 +6508,6 @@ aistorytelling.ch
 aistos.ch
 aistotel.ch
 aistox.ch
-aistrategix.ch
 aistrategy.ch
 aistream.ch
 aists.ch
@@ -6846,6 +6851,7 @@ aivb.ch
 aivd-info.ch
 aivd.ch
 aive.ch
+aivello.ch
 aiven.ch
 aivendu.ch
 aiveniox.ch

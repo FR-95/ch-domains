@@ -1066,6 +1066,7 @@ cabinet-vidal.ch
 cabinet-vieille-ville.ch
 cabinet-villars.ch
 cabinet-villella.ch
+cabinet-vinayaka.ch
 cabinet-vioma.ch
 cabinet-virginievoide.ch
 cabinet-w.ch
@@ -3454,6 +3455,7 @@ cafe-siesta.ch
 cafe-sieste.ch
 cafe-six.ch
 cafe-splerin.ch
+cafe-stalder.ch
 cafe-stark.ch
 cafe-steineria.ch
 cafe-stella.ch
@@ -4429,6 +4431,7 @@ caffealpino.ch
 caffealvolo.ch
 caffeamiamo.ch
 caffeamore.ch
+caffeandmore.ch
 caffeantico.ch
 caffeart.ch
 caffearte.ch
@@ -5225,7 +5228,6 @@ cajoue-security.ch
 cajoue.ch
 cajoueageneve.ch
 cajouebien.ch
-cajouedehors.ch
 cajouegeneve.ch
 cajouelocation.ch
 cajoueoubien.ch
@@ -7013,6 +7015,7 @@ callpam.ch
 callpamtoday.ch
 callparrot.ch
 callpartner.ch
+callpasso.ch
 callpatch.ch
 callpay.ch
 callper.ch
@@ -7222,6 +7225,7 @@ calmpaws.ch
 calmperros.ch
 calmpresence.ch
 calmrealm.ch
+calmrelay.ch
 calmremedies.ch
 calmring.ch
 calms.ch
@@ -11660,7 +11664,6 @@ canapeforestierlesrenardeaux.ch
 canapelugano.ch
 canapepropre.ch
 canapes-evogue.ch
-canapes.ch
 canaplay.ch
 canaplus.ch
 canapuff.ch
@@ -11790,7 +11793,6 @@ cancer-ressources.ch
 cancer-screening.ch
 cancer-sein.ch
 cancer-solidarity.ch
-cancer-suisse.ch
 cancer-surgery.ch
 cancer-systeme-digestif.ch
 cancer-trial.ch
@@ -12884,7 +12886,6 @@ cannabis-pilotversuche.ch
 cannabis-plus.ch
 cannabis-praxis.ch
 cannabis-prescription.ch
-cannabis-produkte.ch
 cannabis-research.ch
 cannabis-ruderalis.ch
 cannabis-sante.ch
@@ -13287,7 +13288,6 @@ cannatechplus.ch
 cannatella.ch
 cannatest.ch
 cannatests.ch
-cannatex.ch
 cannathek.ch
 cannatheque-morges.ch
 cannatheque.ch
@@ -13440,6 +13440,7 @@ canoesgruyere.ch
 canofact.ch
 canofbeans.ch
 canogmbh.ch
+canoj-bau.ch
 canoj-bedachungen.ch
 canolive.ch
 canolli.ch
@@ -15311,6 +15312,7 @@ capitanchuck.ch
 capitaneanucablaggi.ch
 capitania.ch
 capitano-ag.ch
+capitano-centurio.ch
 capitano-music.ch
 capitano.ch
 capitanomusic.ch
@@ -18217,7 +18219,6 @@ cardamone-online.ch
 cardamone.ch
 cardamor.ch
 cardamour.ch
-cardan-mode.ch
 cardan.ch
 cardana.ch
 cardandart.ch
@@ -18791,11 +18792,13 @@ cardoscalarider.ch
 cardoski.ch
 cardoso-architecture.ch
 cardoso-consulting.ch
+cardoso-digital.ch
 cardoso-nettoyages.ch
 cardoso-renovation.ch
 cardoso-voyages.ch
 cardoso.ch
 cardosocheminees.ch
+cardosodigital.ch
 cardosoinsights.ch
 cardosonettoyages.ch
 cardososarl.ch
@@ -18841,7 +18844,6 @@ cardsandmore.ch
 cardsave.ch
 cardsbysarah.ch
 cardscoffee.ch
-cardscout.ch
 cardsdice.ch
 cardsdirect.ch
 cardsealed.ch
@@ -19276,6 +19278,7 @@ caredo-consulting.ch
 caredo.ch
 caredoc.ch
 caredoconsulting.ch
+caredocu.ch
 caredok.ch
 caredoku.ch
 caredose.ch
@@ -19571,6 +19574,7 @@ careforthecarers.ch
 careforyou.ch
 careforyourhair.ch
 carefox.ch
+carefree-service.ch
 carefree-solutions.ch
 carefree.ch
 carefreefresh.ch
@@ -19813,6 +19817,7 @@ carepersonal.ch
 carepet.ch
 carepharm.ch
 carepilot.ch
+carepilote.ch
 careping.ch
 careplan.ch
 careplaner.ch
@@ -19882,6 +19887,7 @@ caresilium.ch
 caresma.ch
 caresms.ch
 caresocial.ch
+caresociety.ch
 caresoft.ch
 caresoftware.ch
 caresol.ch
@@ -20746,7 +20752,6 @@ carinaimmobilien.ch
 carinaklemm.ch
 carinakramer.ch
 carinakriesi.ch
-carinakunz.ch
 carinalipp.ch
 carinaphilipp.ch
 carinapiatti.ch
@@ -21411,6 +21416,7 @@ carlogasperoni.ch
 carlogavazzi.ch
 carlogistics.ch
 carlogix.ch
+carlogram.ch
 carlogwerder.ch
 carlogx.ch
 carlohefti.ch
@@ -21733,6 +21739,7 @@ carmatchmaker.ch
 carmates.ch
 carmatic.ch
 carmatik.ch
+carmato-group.ch
 carmato.ch
 carmats-semco.ch
 carmatum.ch
@@ -22725,7 +22732,6 @@ carolinacoiffure.ch
 carolinacorazon.ch
 carolinaflores.ch
 carolinafurrer.ch
-carolinaglauninger.ch
 carolinagmerek.ch
 carolinaguillaumewedding.ch
 carolinahamm.ch
@@ -23203,6 +23209,7 @@ carotosca.ch
 carotreuhand.ch
 carots.ch
 carott.ch
+carottage.ch
 carotte.ch
 carotte24.ch
 carottedudoubs.ch
@@ -23667,7 +23674,6 @@ carrama.ch
 carramba.ch
 carranch.ch
 carrank.ch
-carranking24.ch
 carrano.ch
 carranta.ch
 carrara-culture.ch
@@ -25586,6 +25592,7 @@ cartable.ch
 cartablenumerique.ch
 cartables.ch
 cartacalla.ch
+cartacapital.ch
 cartacliente.ch
 cartacom.ch
 cartacredito.ch
@@ -26353,6 +26360,7 @@ carvana.ch
 carvando.ch
 carvanta.ch
 carvanto.ch
+carvaro.ch
 carvault.ch
 carve-verbier.ch
 carve-zurich.ch
@@ -28293,6 +28301,7 @@ casaheinrich.ch
 casaheld.ch
 casahelvetia.ch
 casahelvetica.ch
+casahelveticafood.ch
 casahenrydunant.ch
 casahero.ch
 casahess.ch
@@ -30757,6 +30766,7 @@ casino-tip.ch
 casino-tipp.ch
 casino-tipps.ch
 casino-together.ch
+casino-tonyspins.ch
 casino-trino.ch
 casino-unibet.ch
 casino-unterwallis.ch
@@ -30893,6 +30903,7 @@ casinobethard.ch
 casinobetinia.ch
 casinobetnet.ch
 casinobetpanda.ch
+casinobetscore.ch
 casinobettyspin.ch
 casinobigclash.ch
 casinobiggerz.ch
@@ -31157,6 +31168,7 @@ casinojackpotbonus.ch
 casinojackpotcasino.ch
 casinojackpotcity.ch
 casinojackpots.ch
+casinojanusz.ch
 casinojass.ch
 casinojassen.ch
 casinojeetcity.ch
@@ -31579,6 +31591,7 @@ casinotipps.ch
 casinotisch.ch
 casinotische.ch
 casinotogether.ch
+casinotonyspins.ch
 casinotop10.ch
 casinotoplist.ch
 casinotopliste.ch
@@ -31615,6 +31628,7 @@ casinovach.ch
 casinovach1.ch
 casinovalais.ch
 casinovaspielen.ch
+casinovegashero-ch.ch
 casinovegashero.ch
 casinovegasino.ch
 casinovegaz.ch
@@ -31627,6 +31641,7 @@ casinovermietung.ch
 casinoverzeichnis.ch
 casinovi.ch
 casinovice.ch
+casinovicibet.ch
 casinovikingluck.ch
 casinovincispin.ch
 casinoviperwin.ch
@@ -33339,6 +33354,7 @@ category.ch
 category4.ch
 categorymanagement.ch
 cateledis.ch
+catelicious.ch
 catelier.ch
 catella.ch
 catellani.ch
@@ -33521,6 +33537,7 @@ cateringcrew.ch
 cateringdagianni.ch
 cateringdelivery.ch
 cateringdesrois.ch
+cateringevent.ch
 cateringevents.ch
 cateringeventservices.ch
 cateringexperte.ch

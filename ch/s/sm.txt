@@ -538,7 +538,6 @@ smalto.ch
 smalytic.ch
 smam.ch
 smama.ch
-smami.ch
 smamoving.ch
 smamyway.ch
 sman.ch
@@ -1835,7 +1834,6 @@ smartbreed.ch
 smartbreeder.ch
 smartbrewery.ch
 smartbridge.ch
-smartbrief.ch
 smartbrille.ch
 smartbrillen.ch
 smartbroker-finance.ch
@@ -1848,6 +1846,7 @@ smartbsystems.ch
 smartbuchhalter.ch
 smartbudget.ch
 smartbudgetassistant.ch
+smartbuero.ch
 smartbug.ch
 smartbuha.ch
 smartbuild.ch
@@ -2396,7 +2395,6 @@ smartengine.ch
 smartengineering.ch
 smartensemble.ch
 smartenvi.ch
-smarteo-piscines.ch
 smarteo-sauna.ch
 smarteo.ch
 smarteopiscines.ch
@@ -3015,6 +3013,7 @@ smartinfrastructure.ch
 smartini.ch
 smartink.ch
 smartinmedia.ch
+smartinn.ch
 smartinnovation.ch
 smartino.ch
 smartinput.ch
@@ -3451,6 +3450,7 @@ smartnotebooks.ch
 smartnotify.ch
 smartnotion.ch
 smartnova.ch
+smartnovaa.ch
 smartnovapartner.ch
 smartnow.ch
 smartnrg.ch
@@ -3773,6 +3773,7 @@ smartpur.ch
 smartpurse.ch
 smartq-app.ch
 smartqare.ch
+smartqua.ch
 smartquotes.ch
 smartr.ch
 smartra.ch
@@ -4513,6 +4514,7 @@ smashburger-factory.ch
 smashburger-payerne.ch
 smashburger-shahbarose.ch
 smashburger.ch
+smashburgerbear.ch
 smashburgergeneve.ch
 smashburgers.ch
 smashcasino-ch.ch
@@ -4856,6 +4858,7 @@ smdtc.ch
 smdtechnik.ch
 smduo.ch
 smdv.ch
+smdx.ch
 sme-academy.ch
 sme-admin.ch
 sme-ads.ch
@@ -6065,6 +6068,7 @@ smithandsmith.ch
 smithandwilliamson.ch
 smitharchitektur.ch
 smithart.ch
+smitharttest.ch
 smithcom.ch
 smithery.ch
 smithfamily.ch

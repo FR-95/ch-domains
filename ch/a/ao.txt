@@ -98,6 +98,7 @@ aobj.ch
 aobrist.ch
 aobtreuhand.ch
 aoc-advisory.ch
+aoc-andermatt.ch
 aoc-chablais.ch
 aoc-consulting.ch
 aoc-igp.ch
@@ -107,6 +108,7 @@ aoc-unternehmensberatung.ch
 aoc.ch
 aoca.ch
 aocamping.ch
+aocandermatt.ch
 aocars.ch
 aocbonvillars.ch
 aocclases.ch
@@ -345,6 +347,7 @@ aoraki.ch
 aoralis.ch
 aoramountainretreat.ch
 aoraretreat.ch
+aorauniverse.ch
 aorawan.ch
 aorc.ch
 aorchis.ch

@@ -259,7 +259,6 @@ agadon.ch
 agae.ch
 agaec.ch
 agaechter.ch
-agaeumann.ch
 agaf.ch
 agafalcon.ch
 agafinance.ch
@@ -571,6 +570,7 @@ agbsoft.ch
 agbsonics.ch
 agbstudio.ch
 agbuero70.ch
+agburkhalter.ch
 agc-ag.ch
 agc-bern.ch
 agc-biel.ch
@@ -2358,7 +2358,6 @@ agentur-z.ch
 agentur-zeitgeist.ch
 agentur-zuerich.ch
 agentur-zug.ch
-agentur-zurflueh.ch
 agentur-zurich.ch
 agentur.ch
 agentur01.ch
@@ -2577,7 +2576,6 @@ agentys.ch
 agentyx.ch
 agentzero.ch
 agenyon.ch
-agenz.ch
 agenza.ch
 agenzia-design.ch
 agenzia-donne-delle-pulizie.ch
@@ -3498,6 +3496,7 @@ agissimmo-immo.ch
 agissimmo.ch
 agisson.ch
 agissons.ch
+agissonspourlavie.ch
 agissonstaking.ch
 agista.ch
 agistral.ch
@@ -4488,6 +4487,7 @@ agrarzone.ch
 agrarzuerich.ch
 agras.ch
 agrasilva.ch
+agraso.ch
 agrasol.ch
 agrassi-storenbau.ch
 agrassi.ch
@@ -5519,6 +5519,7 @@ agrorutz.ch
 agros.ch
 agrosal.ch
 agrosam.ch
+agroscan.ch
 agroscan4.ch
 agroscandata.ch
 agroscasearia.ch
@@ -5581,6 +5582,7 @@ agrotecbern.ch
 agrotech-ag.ch
 agrotech-eicher.ch
 agrotech-shop.ch
+agrotech-sturzenegger.ch
 agrotech.ch
 agrotechbourquiservices.ch
 agrotechni.ch

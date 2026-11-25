@@ -667,7 +667,6 @@ dns1.neologic.ch
 dns1.net-track.ch
 dns1.netcult.ch
 dns1.netjump.ch
-dns1.netmarq.ch
 dns1.netmind.ch
 dns1.netplus.ch
 dns1.nextgen.ch
@@ -680,7 +679,6 @@ dns1.nussbaumer-haus.ch
 dns1.nussbaumer-holzbau.ch
 dns1.olivehemmer.ch
 dns1.omnis.ch
-dns1.omnisoftory.ch
 dns1.opentasdemo.ch
 dns1.opten.ch
 dns1.pay-infra.ch
@@ -946,7 +944,6 @@ dns2.neologic.ch
 dns2.net-track.ch
 dns2.netcult.ch
 dns2.netjump.ch
-dns2.netmarq.ch
 dns2.netmind.ch
 dns2.netplus.ch
 dns2.netstream.ch
@@ -1138,7 +1135,6 @@ dns4.lpr.ch
 dns4.mobilesolutions.ch
 dns4.n36.ch
 dns4.naefmarco.ch
-dns4.omnisoftory.ch
 dns4.opten.ch
 dns4.plain-it.ch
 dns4.post.ch
@@ -1157,7 +1153,6 @@ dns4me.ch
 dns5.gastrohost.ch
 dns5.itmgmt.ch
 dns5.mi-design.ch
-dns5.omnisoftory.ch
 dns5.webpublicity.ch
 dns51.ch
 dns6.prevosti.ch

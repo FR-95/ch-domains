@@ -7,6 +7,7 @@ sb-akademie.ch
 sb-anwaelte.ch
 sb-aquacare.ch
 sb-aquaclean.ch
+sb-arch.ch
 sb-associates.ch
 sb-audio.ch
 sb-autoecole.ch
@@ -1269,7 +1270,6 @@ sbsfinance.ch
 sbsfontaine.ch
 sbsgva.ch
 sbsh.ch
-sbshe.ch
 sbshf.ch
 sbshop.ch
 sbsi.ch

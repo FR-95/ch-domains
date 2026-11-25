@@ -2217,7 +2217,6 @@ togo-projekt.ch
 togo-systems.ch
 togo.ch
 togoagogo.ch
-togoassist.ch
 togocare.ch
 togoconcept.ch
 togoevent.ch
@@ -2829,6 +2828,7 @@ tolaxis.ch
 tolba.ch
 tolbafactory.ch
 tolbag.ch
+tolbiac.ch
 told.ch
 toldby.ch
 toldo-rueckbau.ch
@@ -2840,6 +2840,7 @@ toldyou.ch
 tole-24.ch
 tole-factory.ch
 tole24.ch
+tolebi.ch
 toledano.ch
 toledo-architects.ch
 toledo-zweiradcenter.ch
@@ -7051,7 +7052,6 @@ top2bottomcleaning.ch
 top2job.ch
 top2toe.ch
 top2wee.ch
-top3-ki.ch
 top3-unternehmen.ch
 top3.ch
 top30.ch
@@ -7754,6 +7754,7 @@ topf-shop.ch
 topf-stil.ch
 topf-stile.ch
 topf-style.ch
+topf-werk.ch
 topf.ch
 topf4you.ch
 topfacilityservice.ch
@@ -8014,6 +8015,7 @@ topheart.ch
 topheizung.ch
 topheizungen.ch
 tophelp.ch
+topher.ch
 tophifi.ch
 tophikes.ch
 tophilfe.ch
@@ -9464,6 +9466,7 @@ tor-forum.ch
 tor-heilberatung.ch
 tor-info.ch
 tor-mueller.ch
+tor-pilot.ch
 tor-profi.ch
 tor-renovation.ch
 tor-reparatur.ch
@@ -9513,6 +9516,7 @@ toranj.ch
 toranjmarket.ch
 toranlage.ch
 toranlagen.ch
+torano.ch
 torantrieb.ch
 torantrieb24.ch
 torantriebe-baettig.ch
@@ -11160,7 +11164,6 @@ toucanclub.ch
 toucancoffee.ch
 toucandoit.ch
 toucaneco.ch
-toucangroup.ch
 toucanote.ch
 toucanpack.ch
 touch-academy.ch
@@ -12206,7 +12209,6 @@ tourissima.ch
 tourist-card.ch
 tourist-digicard.ch
 tourist-gampel.ch
-tourist-info-zurich.ch
 tourist-info.ch
 tourist-information.ch
 tourist-office.ch
@@ -12743,6 +12745,7 @@ toutpetitrien.ch
 toutpetits.ch
 toutpil.ch
 toutpile.ch
+toutpour2roues.ch
 toutpourjouer.ch
 toutpourlaglisse.ch
 toutpourlamusique.ch

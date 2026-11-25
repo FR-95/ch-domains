@@ -645,6 +645,7 @@ kmu-embedtest.ch
 kmu-energiecheck.ch
 kmu-energiemanager.ch
 kmu-entlasten.ch
+kmu-entlastung.ch
 kmu-erbrecht.ch
 kmu-erfahrungsaustausch.ch
 kmu-erfolg.ch
@@ -1405,7 +1406,6 @@ kmuinternet.ch
 kmuinvest.ch
 kmuinvestment.ch
 kmuinvestor.ch
-kmuipsach.ch
 kmuiq.ch
 kmuit-support.ch
 kmuit.ch

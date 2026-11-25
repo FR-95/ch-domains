@@ -231,6 +231,7 @@ omarkt.ch
 omarley.ch
 omarnaas.ch
 omaro.ch
+omaroc.ch
 omars.ch
 omarscars.ch
 omarschena.ch
@@ -1031,7 +1032,6 @@ omni-hypnosecenter-effretikon.ch
 omni-hypnosecenter-olten.ch
 omni-hypnosecenter-schweiz.ch
 omni-hypnosecenter-winterthur.ch
-omni-hypnosecenter-zuerich.ch
 omni-hypnosecenter.ch
 omni-hypnosecenterbasel.ch
 omni-hypnosezentrum-bern.ch
@@ -1330,7 +1330,6 @@ omnimail.ch
 omnimarketing.ch
 omnimed.ch
 omnimedia.ch
-omnimedica.ch
 omnimind.ch
 omnimindtalk.ch
 omnimmo.ch
@@ -1394,6 +1393,7 @@ omniproduction.ch
 omniprof.ch
 omniprotect.ch
 omniprovisioning.ch
+omnipulselab.ch
 omnipurge.ch
 omnipurgeofficial.ch
 omniq.ch

@@ -586,7 +586,6 @@ be2gether.ch
 be2p.ch
 be3.ch
 be34.ch
-be360.ch
 be3d.ch
 be4-6.ch
 be4.ch
@@ -2193,6 +2192,7 @@ beatofotografie.ch
 beatoggenfuss.ch
 beatomanfredosettala.ch
 beatome.ch
+beaton.ch
 beatonco.ch
 beatonswiss.ch
 beatorni.ch
@@ -2606,7 +2606,6 @@ beatsondemand.ch
 beatsounds.ch
 beatspace.ch
 beatspaeti.ch
-beatspee.ch
 beatsprecher.ch
 beatsradio.ch
 beatssolopro.ch
@@ -3756,6 +3755,7 @@ beautyanderoper.ch
 beautyandfashion.ch
 beautyandfit.ch
 beautyandfunction.ch
+beautyandglowathome.ch
 beautyandgrace.ch
 beautyandhair-design.ch
 beautyandhairshop.ch
@@ -4799,6 +4799,7 @@ beautyswan.ch
 beautyswiss.ch
 beautyswissbyib.ch
 beautyswitzerland.ch
+beautysz.ch
 beautytag.ch
 beautytalk.ch
 beautytalks.ch
@@ -7948,6 +7949,7 @@ beewrap.ch
 beewraps.ch
 beex.ch
 beexcellent.ch
+beexclusive.ch
 beexens.ch
 beexfit-academy.ch
 beexfit-group.ch
@@ -8847,6 +8849,7 @@ behealth.ch
 behealthy.ch
 behealthybynature.ch
 behealty.ch
+beheardpsy.ch
 beheart.ch
 beheer.ch
 beheidi.ch
@@ -9455,6 +9458,7 @@ beisser.ch
 beissfenster.ch
 beissfest.ch
 beissier.ch
+beisskette.ch
 beissmi.ch
 beissner.ch
 beissring.ch
@@ -9709,6 +9713,7 @@ bekind-family.ch
 bekind-retail.ch
 bekind.ch
 bekind2you.ch
+bekindcafe.ch
 bekindclub.ch
 bekindsnacks.ch
 bekindstore.ch
@@ -10772,7 +10777,6 @@ belitsa.ch
 belitza.ch
 belius-dev.ch
 belius.ch
-beliva.ch
 belivate.ch
 belive.ch
 belivecoaching.ch
@@ -13409,6 +13413,7 @@ ben-arreda.ch
 ben-assicurati.ch
 ben-at-work.ch
 ben-attia.ch
+ben-au.ch
 ben-bus.ch
 ben-campagna.ch
 ben-chelbi-techworks.ch
@@ -17473,6 +17478,7 @@ berdozsarl.ch
 berdozvision.ch
 berdrygin.ch
 berdugo.ch
+berdux-systems.ch
 berdux.ch
 berdyna.ch
 bere.ch
@@ -17819,6 +17825,7 @@ berg-umzugsservice.ch
 berg-und-natur.ch
 berg-und-rutsche.ch
 berg-und-ski.ch
+berg-und-talhof.ch
 berg-urlaub.ch
 berg-vision.ch
 berg-welt.ch
@@ -18061,6 +18068,7 @@ bergcafe-aurora.ch
 bergcafe.ch
 bergcafeaurora.ch
 bergcamper.ch
+bergcamping.ch
 bergcation.ch
 bergcenter.ch
 bergchalet-anzere.ch
@@ -21080,6 +21088,7 @@ bernbrocki.ch
 bernbrockinights.ch
 bernbulletin.ch
 bernburger.ch
+bernbyte.ch
 berncam.ch
 berncamii.ch
 berncannabis.ch
@@ -26953,7 +26962,6 @@ besten-auslandischen-online-casinos.ch
 besten-beraten.ch
 besten-dating-seiten.ch
 besten-teppiche.ch
-besten.ch
 bestenergie.ch
 bestenergies.ch
 bestenergiesag.ch
@@ -28571,6 +28579,8 @@ betcliccasino.ch
 betclick.ch
 betclicschweiz.ch
 betcockpit.ch
+betcollect-casino.ch
+betcollectcasino.ch
 betconstruct.ch
 betcore.ch
 betcorner.ch
@@ -30033,6 +30043,7 @@ betscore-svizzera.ch
 betscore-switzerland.ch
 betscore.ch
 betscorecasino.ch
+betscorecasino1.ch
 betscorecasinos.ch
 betscorekasino.ch
 betscores.ch
@@ -30597,6 +30608,7 @@ betterproblems.ch
 betterproducts.ch
 betterprotein.ch
 betterpublicis.ch
+betterqr.ch
 betterquizer.ch
 betterquizers.ch
 betterquizzer.ch

@@ -1441,6 +1441,7 @@ gueselwehr.ch
 guesi.ch
 guespi.ch
 guess-dis-quartier.ch
+guess-the-year.ch
 guess-who.ch
 guess.ch
 guessbb.ch
@@ -1756,7 +1757,6 @@ guetzliform.ch
 guetzliformen.ch
 guetzlifrau.ch
 guetzliparadies.ch
-guetzlirezepte.ch
 guetzliservice.ch
 guetzliteig.ch
 guetzliundmehr.ch
@@ -1974,6 +1974,7 @@ guggenmusikthurhuelerkradolf-schoenenberg.ch
 guggennoten.ch
 guggenote.ch
 guggenpower.ch
+guggenrentner.ch
 guggenshop.ch
 guggenzelt.ch
 gugger-ag.ch
@@ -2437,7 +2438,6 @@ guide-to-switzerland.ch
 guide-typo.ch
 guide-typographique.ch
 guide-valais.ch
-guide-valaisan.ch
 guide-vaud.ch
 guide-velo.ch
 guide-vente-directe.ch
@@ -2683,7 +2683,6 @@ guidetypo.ch
 guidetypographique.ch
 guideutilisateur.ch
 guidevalais.ch
-guidevalaisan.ch
 guidevallemaggia.ch
 guidevaud.ch
 guideverbier.ch
@@ -4142,6 +4141,7 @@ gunzwiler-destillate.ch
 gunzwiler-eigenbrand.ch
 gunzwilerdestillate.ch
 guo.ch
+guojigudong.ch
 guokai.ch
 guolin-qigong.ch
 guos.ch
@@ -4415,6 +4415,7 @@ guruexperience.ch
 gurufactory.ch
 gurufilm.ch
 gurug.ch
+guruge.ch
 gurugranola.ch
 guruguru.ch
 gurugurusafaris.ch

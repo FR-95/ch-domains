@@ -2020,7 +2020,6 @@ dianara-joos.ch
 dianaramon.ch
 dianarausch.ch
 dianarch.ch
-dianareeve.ch
 dianarene.ch
 dianarinderer.ch
 dianaromande.ch
@@ -2879,6 +2878,7 @@ dicrosanitaire.ch
 dics.ch
 dict.ch
 dicta.ch
+dictadent.ch
 dictalex.ch
 dictanet.ch
 dictaphone.ch
@@ -3459,6 +3459,7 @@ die-berner-gebaeudeversicherungen.ch
 die-berner-seifenmanufaktur.ch
 die-berufung.ch
 die-beschaffer.ch
+die-beschatter.ch
 die-beschrifter.ch
 die-bessere-wahl.ch
 die-bestatter.ch
@@ -4574,7 +4575,6 @@ die-mitte-wohlen.ch
 die-mitte-wollerau.ch
 die-mitte-wuerenlingen.ch
 die-mitte-wuerenlos.ch
-die-mitte-zufikon.ch
 die-mitte-zurzach.ch
 die-mitte-zurzibiet.ch
 die-mitte-zuzwil.ch
@@ -6223,7 +6223,6 @@ diefassadenreinigung.ch
 diefast.ch
 diefaulbruecks.ch
 diefaulis.ch
-diefauna.ch
 diefdp.ch
 diefee.ch
 diefeedbackinstanz.ch
@@ -7691,6 +7690,7 @@ diemtighuus.ch
 diemtigmondholz.ch
 diemtigsolar.ch
 diemtigtal-tor.ch
+diemtigtal-tourismus.ch
 diemtigtal.ch
 diemtigtaler-raufliretour.ch
 diemtigtaler-schlitten.ch
@@ -8057,7 +8057,6 @@ diepfotografen.ch
 diepharmadrucker.ch
 diephaus.ch
 diephilosophen.ch
-diephilosophinnen.ch
 diephoenixseele.ch
 diephotobox.ch
 diephotographin.ch
@@ -10722,6 +10721,7 @@ digilead.ch
 digilearn.ch
 digilec.ch
 digilegal.ch
+digilegato-test.ch
 digilegato.ch
 digilehrer.ch
 digilents.ch
@@ -12544,6 +12544,7 @@ digitalcircus.ch
 digitalcities.ch
 digitalcity.ch
 digitalcivilsociety.ch
+digitalclarity.ch
 digitalclassroom.ch
 digitalcleanupday.ch
 digitalclever.ch
@@ -12832,6 +12833,7 @@ digitale-engel.ch
 digitale-essensmarken.ch
 digitale-eule.ch
 digitale-events.ch
+digitale-expert.ch
 digitale-exzellenz.ch
 digitale-fahrschule.ch
 digitale-feder.ch
@@ -12899,6 +12901,7 @@ digitale-medienkompetenz.ch
 digitale-medienmappe.ch
 digitale-menschen.ch
 digitale-mission.ch
+digitale-mitarbeitende.ch
 digitale-mitarbeiter.ch
 digitale-modelleisenbahn.ch
 digitale-momente.ch
@@ -12914,6 +12917,7 @@ digitale-personalprozesse.ch
 digitale-plakatwerbung.ch
 digitale-pr.ch
 digitale-presenz.ch
+digitale-produkte.ch
 digitale-prothese.ch
 digitale-prozess-agentur.ch
 digitale-prozesse.ch
@@ -14540,7 +14544,6 @@ digitalresident.ch
 digitalresilience.ch
 digitalresponsibility.ch
 digitalresto.ch
-digitalresults.ch
 digitalretro.ch
 digitalrevolt.ch
 digitalreward.ch
@@ -15300,6 +15303,7 @@ digivisory.ch
 digivista.ch
 digivit.ch
 digivitis.ch
+digivo.ch
 digivod.ch
 digivoices.ch
 digivolution.ch
@@ -17378,6 +17382,7 @@ dinosaurier.ch
 dinosauriermuseum.ch
 dinosaurierprinzip.ch
 dinosaurprinciple.ch
+dinosaurspark.ch
 dinosbau.ch
 dinoschur.ch
 dinosems.ch
@@ -18212,6 +18217,7 @@ direct-suisse.ch
 direct-to-consumer.ch
 direct-to-mesh.ch
 direct-to-patient.ch
+direct-to.ch
 direct-tour.ch
 direct-tours.ch
 direct-trade-in.ch
@@ -18812,11 +18818,13 @@ dirinella.ch
 diris.ch
 dirito.ch
 diritti-degli-apprendisti.ch
+diritti-edificatori.ch
 diritti-fondamentali-si.ch
 diritti-politici.ch
 diritti-umani.ch
 dirittideipazienti.ch
 dirittidellinfanzia.ch
+dirittiedificatori.ch
 dirittifondamentali.ch
 dirittipolitici.ch
 dirittipopolari.ch
@@ -18842,6 +18850,7 @@ diriwaechter-transport.ch
 diriwaechter.ch
 diriwaechtertransport.ch
 dirix.ch
+dirk-becker.ch
 dirk-fischer.ch
 dirk-furrer.ch
 dirk-losensky.ch
@@ -18854,6 +18863,7 @@ dirk-spacek.ch
 dirk.ch
 dirkarnold.ch
 dirkbadura.ch
+dirkbecker.ch
 dirkbo.ch
 dirkdollar.ch
 dirkfischer.ch
@@ -19790,6 +19800,7 @@ discpass.ch
 discplay.ch
 discplus.ch
 discratch.ch
+discrea.ch
 discredit-suisse.ch
 discreditsuisse-0227.ch
 discreditsuisse.ch
@@ -22551,6 +22562,7 @@ diynight.ch
 diyo.ch
 diyon.ch
 diyonfragrance.ch
+diyor-dona.ch
 diyp.ch
 diyparts.ch
 diypoolbau.ch

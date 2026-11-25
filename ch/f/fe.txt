@@ -3106,6 +3106,7 @@ feldgarageag.ch
 feldgaragebuetschwil.ch
 feldgarten.ch
 feldgas.ch
+feldgatter.ch
 feldgewitter.ch
 feldgold.ch
 feldgrau.ch
@@ -4172,6 +4173,7 @@ felixspin-casino.ch
 felixspin.ch
 felixspin1.ch
 felixspincasino.ch
+felixspinch.ch
 felixspinofficial.ch
 felixspitex.ch
 felixspizza.ch
@@ -4256,6 +4258,7 @@ fell-romanze.ch
 fell-shop.ch
 fell-shop24.ch
 fell-traum.ch
+fell-und-fundament.ch
 fell-werkstatt.ch
 fell-zauber.ch
 fell.ch
@@ -4451,7 +4454,6 @@ fellnase-unterwegs.ch
 fellnase.ch
 fellnaseag.ch
 fellnasedogerie.ch
-fellnasedrogerie.ch
 fellnasen-fahnder.ch
 fellnasen-im-gleichgewicht.ch
 fellnasen-mit-stil.ch
@@ -4682,6 +4684,7 @@ felsenstern.ch
 felsenstrasse.ch
 felsenstrom.ch
 felsentor.ch
+felsenvault.ch
 felsenweg.ch
 felsenweg3.ch
 felsenwelt.ch
@@ -7274,6 +7277,7 @@ ferien-hunger.ch
 ferien-illustrierte.ch
 ferien-im-baudenkmal.ch
 ferien-im-buck.ch
+ferien-im-denkmal.ch
 ferien-im-diemtigtal.ch
 ferien-im-emmental.ch
 ferien-im-engadin.ch
@@ -8126,6 +8130,7 @@ ferienidylle.ch
 ferienillustrierte.ch
 ferienimappenzell.ch
 ferienimbaudenkmal.ch
+ferienimdenkmal.ch
 ferienimdiemtigtal.ch
 ferienimemmental.ch
 ferienimengadin.ch
@@ -8513,6 +8518,7 @@ ferientuerkei.ch
 ferienundfreizeit.ch
 ferienundreisen.ch
 ferienundwohnen.ch
+ferienuniversum.ch
 ferienunterkuenfte.ch
 ferienunterkunft.ch
 ferienunterwasser.ch
@@ -9474,7 +9480,6 @@ fermehuser.ch
 fermeilleuse.ch
 fermejobida.ch
 fermel.ch
-fermelabruyere.ch
 fermelacottaire.ch
 fermelafauchere.ch
 fermelafleur.ch
@@ -10074,6 +10079,7 @@ fernweh-jobs.ch
 fernweh-langnau.ch
 fernweh-magazin.ch
 fernweh-reisen.ch
+fernweh-rezepte.ch
 fernweh-schweiz.ch
 fernweh.ch
 fernweh2.ch
@@ -10148,6 +10154,7 @@ ferplay.ch
 ferpress.ch
 ferps.ch
 ferr.ch
+ferra-capital.ch
 ferra-distributions.ch
 ferra-raw.ch
 ferra.ch
@@ -13807,7 +13814,6 @@ feuerzeichen.ch
 feuerzeit.ch
 feuerzeremonie.ch
 feuerzeug-discount.ch
-feuerzeug-halter.ch
 feuerzeug-online.ch
 feuerzeug-schweiz.ch
 feuerzeug-service.ch

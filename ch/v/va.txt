@@ -103,7 +103,6 @@ vaals.ch
 vaalys.ch
 vaam.ch
 vaan.ch
-vaanavil.ch
 vaanea.ch
 vaangovaanga.ch
 vaani.ch
@@ -1042,7 +1041,6 @@ vaianonettoyage.ch
 vaiasrl.ch
 vaiazegl.ch
 vaibai.ch
-vaibe.ch
 vaibella.ch
 vaibhavi-xavier.ch
 vaibs.ch
@@ -1379,6 +1377,7 @@ val-immo.ch
 val-immob.ch
 val-immobilien.ch
 val-immobilier.ch
+val-immoswiss.ch
 val-imob.ch
 val-investia.ch
 val-irrigation.ch
@@ -1669,6 +1668,7 @@ valaiscentre.ch
 valaiscigares.ch
 valaisco.ch
 valaiscom-ag.ch
+valaiscom-cockpit.ch
 valaiscom.ch
 valaiscomedy.ch
 valaiscommunity.ch
@@ -2221,6 +2221,7 @@ valdora.ch
 valdoradvisory.ch
 valdorbe.ch
 valdorin.ch
+valdoro.ch
 valdort.ch
 valdorz.ch
 valdovital.ch
@@ -3620,6 +3621,7 @@ valimmo-groupe.ch
 valimmo-holding.ch
 valimmo-invest.ch
 valimmo-sa.ch
+valimmo-swiss.ch
 valimmo.ch
 valimmob.ch
 valimmobiier.ch
@@ -3644,6 +3646,7 @@ valimmogest.ch
 valimmogestion.ch
 valimmogroup.ch
 valimmogroupe.ch
+valimmoswiss.ch
 valimmovalais.ch
 valimmowest.ch
 valimo.ch
@@ -4009,7 +4012,6 @@ valleyroadconsulting.ch
 valleyseven.ch
 valleyskateboardclub.ch
 valleysofluxury.ch
-valleyspaces.ch
 valleystation.ch
 valleyvista.ch
 valleywind.ch
@@ -4810,7 +4812,6 @@ valtrev.ch
 valtrevia-ai.ch
 valtrevia.ch
 valtreviaai.ch
-valtrex.ch
 valtria.ch
 valtriqueut.ch
 valtrix.ch
@@ -5882,6 +5883,7 @@ vanderwatt.ch
 vanderweg.ch
 vanderzalm-exclusive.ch
 vanderzee.ch
+vandesand.ch
 vandesign.ch
 vandessel.ch
 vandesselcycles.ch
@@ -6626,6 +6628,7 @@ vanmaasakker.ch
 vanmabeauty.ch
 vanmade.ch
 vanmaele.ch
+vanmaisenberg.ch
 vanmanshoven.ch
 vanmanufaktur.ch
 vanmanufakturcaracol.ch
@@ -7747,6 +7750,7 @@ vargaplus.ch
 vargar.ch
 vargas-reinigungen.ch
 vargas.ch
+vargasinka.ch
 vargasoft.ch
 vargaspeinture.ch
 vargaswiss.ch
@@ -9364,6 +9368,7 @@ vaugues.ch
 vaulion.ch
 vaulion24.ch
 vaulltix.ch
+vaulnay.ch
 vaulo.ch
 vaulon.ch
 vaulruz.ch
@@ -9449,7 +9454,9 @@ vaultum.ch
 vaultvibe24.ch
 vaultwallet.ch
 vaultwarden.ch
+vaultx-wealth.ch
 vaultx.ch
+vaultxapp.ch
 vaulty.ch
 vaultyprotocol.ch
 vaultz.ch

@@ -43,13 +43,11 @@ bi-dynamics.ch
 bi-effe.ch
 bi-erp.ch
 bi-esse.ch
-bi-f.ch
 bi-fabric.ch
 bi-fabrik.ch
 bi-fassaden.ch
 bi-fertigteile.ch
 bi-forum.ch
-bi-frauen.ch
 bi-fuehrer.ch
 bi-ga.ch
 bi-ge.ch
@@ -519,6 +517,7 @@ bibalon.ch
 bibamodel.ch
 bibamodels.ch
 bibamus.ch
+biban.ch
 bibandtucker.ch
 bibarium.ch
 bibarius.ch
@@ -2745,7 +2744,6 @@ bienenkorb.ch
 bienenkosmetik.ch
 bienenkosmos-tennjen.ch
 bienenkraft.ch
-bienenkraftwerk.ch
 bienenlaedchen.ch
 bienenland.ch
 bienenleasing.ch
@@ -4739,6 +4737,7 @@ bigclash-ch.ch
 bigclash.ch
 bigclash1.ch
 bigclashcas.ch
+bigclashcasino1.ch
 bigclashcasinos.ch
 bigclashch.ch
 bigclashch1.ch
@@ -4880,6 +4879,8 @@ biggemlab.ch
 bigger-bagger.ch
 bigger-baumanagement.ch
 bigger-family.ch
+bigger-marketforce.ch
+bigger-marketing.ch
 bigger-picture.ch
 bigger.ch
 bigger4you.ch
@@ -5367,6 +5368,7 @@ bigsmile.ch
 bigsmiledental.ch
 bigsmiles.ch
 bigsmoke.ch
+bigsnowjam.ch
 bigsofa.ch
 bigspace.ch
 bigsplash.ch
@@ -5888,7 +5890,6 @@ bike-components.ch
 bike-connect.ch
 bike-control.ch
 bike-corner-winterthur.ch
-bike-corner.ch
 bike-cup.ch
 bike-data.ch
 bike-davos.ch
@@ -6583,7 +6584,6 @@ bikeloverscollective.ch
 bikeloverscontest.ch
 bikely.ch
 bikemagazin.ch
-bikemania.ch
 bikemaniatours.ch
 bikemap.ch
 bikemarathon-lumnezia.ch
@@ -9815,6 +9815,7 @@ billy.ch
 billyalibi.ch
 billyandbabs.ch
 billyandjohn.ch
+billyapp.ch
 billybean.ch
 billybear.ch
 billybell.ch
@@ -9934,6 +9935,7 @@ bilus-hundespazierdienst.ch
 biluwe.ch
 bilux.ch
 biluxmarket.ch
+bilvoro.ch
 bily.ch
 bilz-cigarren.ch
 bilz-wanderclub.ch
@@ -10096,6 +10098,7 @@ bim-profilserver.ch
 bim-project.ch
 bim-projekt.ch
 bim-projektleiter.ch
+bim-puur.ch
 bim-ready.ch
 bim-roads.ch
 bim-romandie.ch
@@ -10549,6 +10552,7 @@ bimpropertyserver.ch
 bimprostation.ch
 bimprosystems.ch
 bimpulse.ch
+bimpuur.ch
 bimqualitymanagement.ch
 bimrail.ch
 bimready.ch
@@ -10717,7 +10721,6 @@ binary.ch
 binary1.ch
 binaryborn.ch
 binarybox.ch
-binarybridges.ch
 binarybusiness.ch
 binarybutter.ch
 binarybyte.ch
@@ -10889,7 +10892,6 @@ binder-umbau.ch
 binder-world.ch
 binder-zh.ch
 binder.ch
-binder04.ch
 binderadrien.ch
 binderag.ch
 binderandrea.ch
@@ -11399,7 +11401,6 @@ binomeplus.ch
 binomfitness.ch
 binomium.ch
 binomone.ch
-binooculaire.ch
 binora.ch
 binorion.ch
 binos-futtershop.ch
@@ -12307,6 +12308,7 @@ bio-wellness.ch
 bio-wetta.ch
 bio-wettach.ch
 bio-wiesenschwein.ch
+bio-winzer-niederwil.ch
 bio-winzer.ch
 bio-wirz.ch
 bio-wissen.ch
@@ -14792,7 +14794,6 @@ biomoleculardetox.ch
 biomolecularnanoengineering.ch
 biomolecularrestoration.ch
 biomoleculartest.ch
-biomolecule.ch
 biomolkerei.ch
 biomondo.ch
 biomonitoring-plus.ch
@@ -15000,7 +15001,6 @@ bioo.ch
 biooase.ch
 bioobst.ch
 biood.ch
-bioodi.ch
 biooekovollkorn.ch
 biooele.ch
 biooffensiva.ch
@@ -16180,7 +16180,6 @@ bioweinonlinekaufen.ch
 bioweinpreis.ch
 bioweinwallis.ch
 bioweitergedacht.ch
-bioweizengrassaft.ch
 biowelfare.ch
 biowell-valais.ch
 biowelle.ch
@@ -17268,6 +17267,7 @@ birra-valcolla.ch
 birra.ch
 birra091.ch
 birra4you.ch
+birraallago.ch
 birraamarcord.ch
 birraanima.ch
 birradelticino.ch
@@ -20619,6 +20619,7 @@ bixpe.ch
 bixpro.ch
 bixs-far-out.ch
 bixtro.ch
+bixuno.ch
 bixx.ch
 bixxy.ch
 bixxyprogra.ch
@@ -20709,7 +20710,6 @@ bizbaden.ch
 bizbase.ch
 bizbaze.ch
 bizbees.ch
-bizbit.ch
 bizbiz.ch
 bizbond.ch
 bizboosters.ch
@@ -20741,6 +20741,7 @@ bizcon.ch
 bizconnect.ch
 bizconnectapp.ch
 bizconnectkuma.ch
+bizconsulting.ch
 bizcore.ch
 bizcovery.ch
 bizcreator.ch

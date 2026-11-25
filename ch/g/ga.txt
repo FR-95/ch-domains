@@ -665,7 +665,6 @@ gabriela-tache.ch
 gabriela-tarnutzer.ch
 gabriela-virago.ch
 gabriela-w.ch
-gabriela-werder.ch
 gabriela-wick.ch
 gabriela-wirz.ch
 gabriela-wittich.ch
@@ -3164,6 +3163,7 @@ galatafribourg.ch
 galatasaray-soccercamps.ch
 galatasaray.ch
 galatea-im.ch
+galatea-securite.ch
 galatea.ch
 galateacaffepizzeria.ch
 galateaclub.ch
@@ -5710,6 +5710,8 @@ games365-swissolympic.ch
 games365.ch
 games4ever.ch
 games4gamers.ch
+games4grandma.ch
+games4grandpa.ch
 games4kids.ch
 games4world.ch
 games777.ch
@@ -7682,7 +7684,6 @@ garage-autocasa.ch
 garage-autocenter.ch
 garage-autohof.ch
 garage-autolife.ch
-garage-automaster.ch
 garage-automobile.ch
 garage-autophenix.ch
 garage-autopro.ch
@@ -10081,7 +10082,6 @@ garagemonthey.ch
 garagemontpelerin.ch
 garagemoor.ch
 garagemoosmann.ch
-garagemorges.ch
 garagemoriggl.ch
 garagemorros.ch
 garagemory.ch
@@ -13943,6 +13943,7 @@ garus.ch
 garuta.ch
 garvanshvarts.ch
 garvee.ch
+garvera.ch
 garvia.ch
 garvida.ch
 garvin.ch
@@ -14871,6 +14872,7 @@ gast-geschenke.ch
 gast-guru.ch
 gast-hof-spittel.ch
 gast-hof.ch
+gast-im-baudenkmal.ch
 gast-info.ch
 gast-kellereitechnik.ch
 gast-piercer.ch
@@ -17203,6 +17205,7 @@ gateretail.ch
 gateries.ch
 gates-hydraulik.ch
 gates-of-olympus-1000.ch
+gates-of-olympus.ch
 gates-of-olympus1.ch
 gates-of-olympuss.ch
 gates-ofolympus.ch

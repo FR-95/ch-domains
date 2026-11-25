@@ -1,4 +1,5 @@
 ak-1.ch
+ak-7l.ch
 ak-a.ch
 ak-adivsory.ch
 ak-advisory.ch
@@ -1762,6 +1763,7 @@ akquire.ch
 akquirier-service.ch
 akquirio.ch
 akquise-mit-system.ch
+akquise-pro.ch
 akquise-service.ch
 akquise-system.ch
 akquise-team.ch
@@ -2927,6 +2929,8 @@ akuhn-stiftung.ch
 akuhn.ch
 akuht.ch
 akui.ch
+akuise-pro.ch
+akuisepro.ch
 akul.ch
 akula.ch
 akulighting.ch

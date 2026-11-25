@@ -228,6 +228,7 @@ m-cafebar.ch
 m-camping.ch
 m-canali.ch
 m-candy.ch
+m-car-carrosserie.ch
 m-care.ch
 m-carrelage.ch
 m-cars.ch
@@ -913,6 +914,7 @@ m-sports.ch
 m-sprint.ch
 m-sq.ch
 m-squad.ch
+m-squared.ch
 m-sreinigung.ch
 m-ssi.ch
 m-st.ch
@@ -963,6 +965,7 @@ m-tec-zug.ch
 m-tec.ch
 m-tech-automobile.ch
 m-tech-consulting.ch
+m-tech-group.ch
 m-tech-swiss.ch
 m-tech.ch
 m-techag.ch
@@ -1018,6 +1021,7 @@ m-v-p.ch
 m-v-r.ch
 m-v-s.ch
 m-v.ch
+m-van.ch
 m-vasella.ch
 m-vb.ch
 m-verdet.ch

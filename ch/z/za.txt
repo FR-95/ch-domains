@@ -3937,6 +3937,7 @@ zahnimplantate-stgallen.ch
 zahnimplantate-thurgau.ch
 zahnimplantate-tuerkei.ch
 zahnimplantate-ungarn.ch
+zahnimplantate-vergleich.ch
 zahnimplantate-zahnarzt.ch
 zahnimplantate-zuerich-oerlikon.ch
 zahnimplantate-zuerich.ch
@@ -4859,7 +4860,6 @@ zaiyana.ch
 zaizai.ch
 zaj.ch
 zajac.ch
-zajaz.ch
 zajc.ch
 zaje.ch
 zajebisty.ch

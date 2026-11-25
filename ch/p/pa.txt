@@ -2028,6 +2028,7 @@ padelix.ch
 padelkey.ch
 padelki.ch
 padelkiosk.ch
+padelko.ch
 padelkurs.ch
 padella-in-ghisa.ch
 padella.ch
@@ -3360,6 +3361,7 @@ paint-and-chill.ch
 paint-and-colour.ch
 paint-art.ch
 paint-ball.ch
+paint-basel.ch
 paint-berry.ch
 paint-box.ch
 paint-colours.ch
@@ -5514,7 +5516,9 @@ pami-immo.ch
 pami.ch
 pami3d.ch
 pamiart.ch
+pamicelli-folie.ch
 pamicelli.ch
+pamicellifolie.ch
 pamiju.ch
 pamimmobilier.ch
 pamina-betreut-leben.ch
@@ -8353,6 +8357,7 @@ papanet.ch
 papanga.ch
 papanino.ch
 papanoel.ch
+papanostrano.ch
 papaom.ch
 papaoros.ch
 papaours.ch
@@ -9834,6 +9839,7 @@ paradent.ch
 paradeplatz.ch
 paradeplatz11.ch
 paradeplatz6.ch
+paradeplatzinsider.ch
 paradeplatzpraxis.ch
 paradeplatzverlag.ch
 paradepot.ch
@@ -14060,6 +14066,7 @@ parolesdemuses.ch
 parolesdevie.ch
 parolesemplici.ch
 parolesenscene.ch
+paroletti.ch
 paroli.ch
 parolia-academie.ch
 parolia.ch
@@ -14346,6 +14353,7 @@ parsenn-residenz.ch
 parsenn-resort.ch
 parsenn-solar.ch
 parsenn.ch
+parsennblick-davos.ch
 parsennderby.ch
 parsenndrogerie.ch
 parsenngada.ch
@@ -16347,6 +16355,7 @@ pas-sage.ch
 pas-sages.ch
 pas-solutions.ch
 pas-sorcier.ch
+pas-suchtberatung.ch
 pas-tabou.ch
 pas-touche-aux-salaires.ch
 pas-touche.ch
@@ -17536,6 +17545,7 @@ pass-seniors.ch
 pass-sport.ch
 pass-st-bernard.ch
 pass-strassen.ch
+pass-traditions.ch
 pass-vac-2.ch
 pass-vac-glane.ch
 pass-vac.ch
@@ -18272,6 +18282,7 @@ passionbolide.ch
 passionbolides.ch
 passionbooks.ch
 passionboost.ch
+passionboxing.ch
 passionbresil.ch
 passionbrothers.ch
 passionbygaelle.ch
@@ -19403,6 +19414,7 @@ pataverde.ch
 pataviento.ch
 patawe-swiss.ch
 patax.ch
+patb.ch
 patbag.ch
 patbags.ch
 patbau.ch
@@ -21286,6 +21298,7 @@ patrickfreund.ch
 patrickfrick.ch
 patrickfriedli.ch
 patrickfurrer.ch
+patrickgal.ch
 patrickgalig.ch
 patrickgander.ch
 patrickgarage.ch
@@ -24970,7 +24983,6 @@ paypointpayroll.ch
 paypool.ch
 paypora.ch
 payport.ch
-paypos.ch
 paypro.ch
 payprofit.ch
 payprop.ch

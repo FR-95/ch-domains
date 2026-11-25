@@ -175,7 +175,6 @@ ciano-consulting.ch
 ciano.ch
 cianointernational.ch
 cianpeinture.ch
-cianportfolio.ch
 ciantra.ch
 cianvera.ch
 ciao-aargau.ch
@@ -1187,6 +1186,7 @@ cigarlaunch.ch
 cigarlounge-exlusive.ch
 cigarlounge-finder.ch
 cigarlounge-interlaken.ch
+cigarlounge.ch
 cigarloungeexlusive.ch
 cigarlovers.ch
 cigarmail.ch
@@ -1203,6 +1203,7 @@ cigarotheque.ch
 cigaroutlet.ch
 cigarpassion.ch
 cigarpedia.ch
+cigarplaces.ch
 cigarpoint.ch
 cigarpress.ch
 cigarquality.ch
@@ -1945,6 +1946,8 @@ cine-swiss.ch
 cine-tech.ch
 cine-theater.ch
 cine-theatre.ch
+cine-voucher.ch
+cine-vouchers.ch
 cine-worx.ch
 cine.ch
 cine12.ch
@@ -2561,6 +2564,8 @@ cinevital.ch
 cinevna.ch
 cinevo.ch
 cinevote.ch
+cinevoucher.ch
+cinevouchers.ch
 cinewalker.ch
 cinewatch.ch
 cinewave.ch
@@ -4255,7 +4260,6 @@ citiz.ch
 citizapp.ch
 citizen-developer.ch
 citizen-experience.ch
-citizen-g6.ch
 citizen-impact.ch
 citizen-lab.ch
 citizen-lane.ch
@@ -4271,7 +4275,6 @@ citizendev.ch
 citizendrucker.ch
 citizenexperience.ch
 citizenform.ch
-citizeng6.ch
 citizenkid.ch
 citizenkids.ch
 citizenlab.ch

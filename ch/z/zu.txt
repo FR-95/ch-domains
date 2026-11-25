@@ -1089,6 +1089,7 @@ zuercher-echo.ch
 zuercher-eingliederung.ch
 zuercher-elektro.ch
 zuercher-elektroverband.ch
+zuercher-energiegesetz.ch
 zuercher-engrosmarkt.ch
 zuercher-ettlin.ch
 zuercher-family.ch
@@ -1843,7 +1844,6 @@ zuerich-dental.ch
 zuerich-der-zahnarzt.ch
 zuerich-design.ch
 zuerich-deutsch.ch
-zuerich-digital.ch
 zuerich-direkt.ch
 zuerich-druckerei.ch
 zuerich-duesseldorf-dentist.ch
@@ -4476,6 +4476,7 @@ zukaufengesucht.ch
 zukedo.ch
 zuken.ch
 zukera.ch
+zukhundft.ch
 zuki-cham.ch
 zuki-film.ch
 zuki.ch
@@ -4557,6 +4558,7 @@ zukunft-fenster.ch
 zukunft-feuerwehr.ch
 zukunft-flims.ch
 zukunft-frau.ch
+zukunft-freienbach.ch
 zukunft-frenkentaeler.ch
 zukunft-fuer-alle.ch
 zukunft-fuer-kinder.ch
@@ -7230,7 +7232,6 @@ zurichdesignnight.ch
 zurichdesignweeks.ch
 zurichdevelopmentcenter.ch
 zurichdevelopmentcentre.ch
-zurichdigital.ch
 zurichdigitalagency.ch
 zurichdining.ch
 zurichdinner.ch

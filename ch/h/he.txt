@@ -1249,7 +1249,6 @@ healthiness.ch
 healthinessfortwo.ch
 healthinfo.ch
 healthinfosystem.ch
-healthinity.ch
 healthinmind.ch
 healthinmotion.ch
 healthinnotec.ch
@@ -2135,6 +2134,7 @@ heartmeetsbrain.ch
 heartmind.ch
 heartminded.ch
 heartmindsoul.ch
+heartmode.ch
 heartmove.ch
 heartmusique.ch
 heartness.ch
@@ -2311,7 +2311,6 @@ heatease.ch
 heatec.ch
 heatecold.ch
 heatector.ch
-heated.ch
 heatedgloves.ch
 heaten.ch
 heater.ch
@@ -3328,6 +3327,7 @@ heben-zurren.ch
 heben.ch
 hebenet.ch
 hebenstreit.ch
+hebenum.ch
 hebenzurren.ch
 hebeplattform.ch
 hebeprofi.ch
@@ -5326,6 +5326,7 @@ heihei.ch
 heiheiwicki.ch
 heiho.ch
 heihus.ch
+heijboer-randelli-maurerarbeiten.ch
 heijboerbau.ch
 heijdemann.ch
 heijmans.ch
@@ -5531,7 +5532,6 @@ heilenergie-jac.ch
 heilenergie.ch
 heilenergien.ch
 heilenheute.ch
-heilenheutelive.ch
 heilenlebensqualitaet.ch
 heilenlernen.ch
 heilenmitenergie.ch
@@ -6620,6 +6620,7 @@ heimdeko.ch
 heimdeko24.ch
 heimdekoration.ch
 heimdesign.ch
+heimdesk.ch
 heimdialyse.ch
 heimdienst.ch
 heimdigital.ch
@@ -11995,6 +11996,7 @@ helpjobs.ch
 helpkids.ch
 helpkit.ch
 helpklick.ch
+helpkpt.ch
 helpletters.ch
 helpli.ch
 helplife.ch
@@ -13035,6 +13037,7 @@ helvetialab.ch
 helvetialabs.ch
 helvetialave.ch
 helvetialearning.ch
+helvetialebt.ch
 helvetialex.ch
 helvetialibertas.ch
 helvetialimousine.ch
@@ -14988,7 +14991,6 @@ hempstore.ch
 hempsuisse.ch
 hemptape.ch
 hempte.ch
-hemptex.ch
 hemptimes.ch
 hemptons.ch
 hempvetic.ch
@@ -15039,6 +15041,7 @@ hena-storen.ch
 hena.ch
 henacostruzioni.ch
 henae.ch
+henai.ch
 henameta.ch
 henamusic.ch
 henandegg.ch
@@ -15333,7 +15336,6 @@ hennenbuehler.ch
 hennenwohl.ch
 henner-search.ch
 henner.ch
-hennerapex.ch
 henneri.ch
 hennerkes.ch
 hennes.ch

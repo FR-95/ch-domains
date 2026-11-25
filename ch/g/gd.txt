@@ -164,6 +164,7 @@ gdhs.ch
 gdhservice.ch
 gdi-adi.ch
 gdi-consulting.ch
+gdi-impuls.ch
 gdi-sa.ch
 gdi.ch
 gdiconnect.ch
@@ -206,6 +207,7 @@ gdltech.ch
 gdly.ch
 gdm-bauservice.ch
 gdm-group.ch
+gdm-menuiserie.ch
 gdm-montagen.ch
 gdm-not.ch
 gdm-swiss.ch

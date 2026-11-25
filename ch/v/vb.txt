@@ -7,6 +7,7 @@ vb-automobile.ch
 vb-biel.ch
 vb-bnb.ch
 vb-comptabilite.ch
+vb-consulting.ch
 vb-design.ch
 vb-divertissement.ch
 vb-domat.ch
@@ -284,6 +285,7 @@ vbcoftrige.ch
 vbcoftringen.ch
 vbconstruction.ch
 vbconsultation.ch
+vbconsulting-geneva.ch
 vbconsulting.ch
 vbcorbe.ch
 vbcpenthalaz.ch

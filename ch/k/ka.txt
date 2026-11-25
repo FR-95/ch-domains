@@ -15,7 +15,6 @@ ka-bhan.ch
 ka-bo.ch
 ka-ching.ch
 ka-concept.ch
-ka-consulting.ch
 ka-demenagement.ch
 ka-design.ch
 ka-do.ch
@@ -485,7 +484,6 @@ kabelverschraubung.ch
 kabelverschraubungen.ch
 kabelverteilkabinen.ch
 kabelverwertung.ch
-kabelvision.ch
 kabelwagen.ch
 kabelwerk.ch
 kabelwirrwar.ch
@@ -533,6 +531,7 @@ kabinett.ch
 kabinett43.ch
 kabinett75.ch
 kabinettstueck.ch
+kabino.ch
 kabir.ch
 kabirwatches.ch
 kabis.ch
@@ -5877,6 +5876,7 @@ kamer-schuerwies.ch
 kamer.ch
 kamera-atex.ch
 kamera-blick.ch
+kamera-express.ch
 kamera-fairsicherung.ch
 kamera-garantie.ch
 kamera-hinweis.ch
@@ -5915,6 +5915,7 @@ kameradiscount.ch
 kamerado.ch
 kameradschaft.ch
 kameraduese.ch
+kameraexpress.ch
 kamerafahrt.ch
 kamerafraugerber.ch
 kameragarantie.ch
@@ -6391,7 +6392,6 @@ kamm-bartel-stiftung.ch
 kamm-baut.ch
 kamm-event.ch
 kamm-gt.ch
-kamm-hanspeter-kuenstler.ch
 kamm-holz.ch
 kamm-home.ch
 kamm-immobilien.ch
@@ -7888,6 +7888,7 @@ kantdata.ch
 kante-neu.ch
 kante.ch
 kante24.ch
+kantec.ch
 kanteenligaischt.ch
 kantefueessli.ch
 kantekaffee.ch
@@ -9474,6 +9475,7 @@ kapselkraft.ch
 kapselmaschine.ch
 kapselmaschinen.ch
 kapseln.ch
+kapselnartroflexactive.ch
 kapselspender.ch
 kapselstation.ch
 kapsiki.ch
@@ -9511,7 +9513,6 @@ kapthon.ch
 kaptiv.ch
 kaptive-signage.ch
 kaptive.ch
-kaptix.ch
 kaptorix.ch
 kaptr.ch
 kaptura.ch
@@ -9941,7 +9942,6 @@ karate-rapperswil.ch
 karate-rheinfelden.ch
 karate-rheintal.ch
 karate-richterswil.ch
-karate-rickenbach.ch
 karate-rigi.ch
 karate-riniken.ch
 karate-ruefenach.ch
@@ -10934,6 +10934,7 @@ karin-staub.ch
 karin-stauffer.ch
 karin-steinemann.ch
 karin-sutter.ch
+karin-talbot.ch
 karin-tanner.ch
 karin-tk.ch
 karin-traut-sich-mit-andreas.ch
@@ -11007,6 +11008,7 @@ karinaswohlfuehloase.ch
 karinathanasiou.ch
 karinaundmaximilian.ch
 karinavonmatt.ch
+karinawebdesign.ch
 karinbaasch.ch
 karinbachmann.ch
 karinbachmannschreibt.ch
@@ -11536,6 +11538,7 @@ karismavital.ch
 karissmaa.ch
 karista.ch
 karit.ch
+karita.ch
 karite.ch
 karitebiononraffine.ch
 karitoffel.ch
@@ -11917,7 +11920,6 @@ karmacoma.ch
 karmacuisine.ch
 karmaculcharecords.ch
 karmadays.ch
-karmadigital.ch
 karmadogs.ch
 karmadrink.ch
 karmads.ch
@@ -13991,6 +13993,7 @@ kassenkoenig.ch
 kassenkurier.ch
 kassenkurs.ch
 kassenlassen.ch
+kassenloesung.ch
 kassenluzern.ch
 kassenmanager.ch
 kassenmarketing.ch
@@ -17666,7 +17669,6 @@ kavoparts.ch
 kavora.ch
 kavourina.ch
 kavr.ch
-kavro.ch
 kavu.ch
 kavun.ch
 kavval.ch

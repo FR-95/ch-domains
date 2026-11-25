@@ -579,7 +579,6 @@ pianoit.ch
 pianojazz.ch
 pianokids.ch
 pianokillers.ch
-pianoklang.ch
 pianola.ch
 pianolay.ch
 pianolehrer.ch
@@ -1468,6 +1467,7 @@ pichler-ideen.ch
 pichler-partner.ch
 pichler-velos-motos.ch
 pichler-visuals.ch
+pichler-webdruck.ch
 pichler-whirlpool.ch
 pichler.ch
 pichlerag.ch
@@ -2345,6 +2345,7 @@ pid-info.ch
 pid-plata.ch
 pid-stoppen.ch
 pid.ch
+pid1.ch
 pida.ch
 pidabau.ch
 pidalion.ch
@@ -6588,6 +6589,7 @@ pinkerton.ch
 pinkeschnauze.ch
 pinkevents.ch
 pinkfairy.ch
+pinkfarm.ch
 pinkfee.ch
 pinkfinance.ch
 pinkfis.ch
@@ -7372,6 +7374,7 @@ pioneerdj.ch
 pioneeress.ch
 pioneerflight.ch
 pioneerfonds.ch
+pioneerforpioneer.ch
 pioneergeneration.ch
 pioneerhouse.ch
 pioneering-souls.ch
@@ -7467,6 +7470,7 @@ piote.ch
 piotet.ch
 piotita-luusbueb.ch
 piotita.ch
+piotr-music.ch
 piotr.ch
 piotrdziedzic.ch
 piotrek.ch
@@ -7953,7 +7957,6 @@ piraten-kleinbasel.ch
 piraten-partei.ch
 piraten-party.ch
 piraten-schweiz.ch
-piraten-shop.ch
 piraten-talk.ch
 piraten-tools.ch
 piraten-umzuege.ch
@@ -7985,7 +7988,6 @@ piratenschiff.ch
 piratenschmuck.ch
 piratenschule.ch
 piratenschweiz.ch
-piratenshop.ch
 piratenspelunke.ch
 piratentalk.ch
 piratenueberfall.ch
@@ -9470,6 +9472,7 @@ piuskaufmann.ch
 piusklaus.ch
 piuskneubuehler.ch
 piusknuesel.ch
+piusleserf.ch
 piuslocher.ch
 piusmorger.ch
 piusnadlerag.ch
@@ -10878,6 +10881,7 @@ pizza-academy.ch
 pizza-aesch.ch
 pizza-alaturka.ch
 pizza-allegrezza.ch
+pizza-amano.ch
 pizza-amici.ch
 pizza-amore-flums.ch
 pizza-amore.ch
@@ -11342,6 +11346,7 @@ pizzaacademy.ch
 pizzaadler.ch
 pizzaadomicile.ch
 pizzaalvolo.ch
+pizzaamano.ch
 pizzaamore.ch
 pizzaamoremio.ch
 pizzaandmore.ch
@@ -11435,6 +11440,7 @@ pizzacasarecciogastronomie-frick.ch
 pizzacasazuerich.ch
 pizzacastello.ch
 pizzacatering.ch
+pizzacateringaargau.ch
 pizzacenter-lengnau.ch
 pizzacenterlengnau.ch
 pizzacento.ch
@@ -12675,6 +12681,7 @@ pizzeriababylonkoeniz.ch
 pizzeriabales.ch
 pizzeriabasilico.ch
 pizzeriabella.ch
+pizzeriabelladonna.ch
 pizzeriabellanapoli.ch
 pizzeriabellucci.ch
 pizzeriabelvedere.ch

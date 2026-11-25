@@ -784,6 +784,7 @@ zigarren-aktionen.ch
 zigarren-bar.ch
 zigarren-boutique.ch
 zigarren-catering.ch
+zigarren-community.ch
 zigarren-discount.ch
 zigarren-duerr.ch
 zigarren-finder.ch
@@ -1994,6 +1995,7 @@ zimmersuche.ch
 zimmersuchen.ch
 zimmersuisse.ch
 zimmersvizzera.ch
+zimmerswiss.ch
 zimmerswitzerland.ch
 zimmerthaler.ch
 zimmertuer.ch

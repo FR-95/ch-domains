@@ -692,6 +692,7 @@ ccissp.ch
 ccist.ch
 ccistg.ch
 ccistn.ch
+ccit.ch
 ccity.ch
 ccivalais.ch
 ccivalve.ch
@@ -788,7 +789,6 @@ cclv.ch
 cclxxi.ch
 ccm-a.ch
 ccm-cardio.ch
-ccm-coach.ch
 ccm-coiffure.ch
 ccm-construction.ch
 ccm-consulenza.ch

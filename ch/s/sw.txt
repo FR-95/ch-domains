@@ -453,6 +453,7 @@ swarmguard.ch
 swarmintegration.ch
 swarmintelligence.ch
 swarmit.ch
+swarmivo.ch
 swarmix.ch
 swarmkeeper.ch
 swarmkraftwerk.ch
@@ -3229,6 +3230,7 @@ swiss-auto-clean.ch
 swiss-auto-cleaner.ch
 swiss-auto-glass.ch
 swiss-auto-import.ch
+swiss-auto-lease.ch
 swiss-auto-transports.ch
 swiss-auto.ch
 swiss-autoankauf.ch
@@ -9189,6 +9191,7 @@ swiss-tariff.ch
 swiss-tasc.ch
 swiss-tattoo-academy.ch
 swiss-tattoo.ch
+swiss-tavern.ch
 swiss-tax-ai.ch
 swiss-tax-crypto.ch
 swiss-tax-help.ch
@@ -9827,7 +9830,6 @@ swiss-wedding.ch
 swiss-weddingcoach.ch
 swiss-weddingsouvenir.ch
 swiss-weddingworld.ch
-swiss-weed.ch
 swiss-weeds.ch
 swiss-week.ch
 swiss-weekend.ch
@@ -10102,6 +10104,7 @@ swiss4print.ch
 swiss4s.ch
 swiss4sdg.ch
 swiss4seasons.ch
+swiss4syria.ch
 swiss4talent.ch
 swiss4tech.ch
 swiss4thdimension.ch
@@ -12981,7 +12984,6 @@ swisscapsule.ch
 swisscapsules.ch
 swisscaptain.ch
 swisscaptcha.ch
-swisscaptech.ch
 swisscaptive.ch
 swisscaptives.ch
 swisscaptures.ch
@@ -13405,7 +13407,6 @@ swissceramic.ch
 swissceramicimplant.ch
 swissceramicimplants.ch
 swissceramics.ch
-swissceramique.ch
 swisscert.ch
 swisscertificate.ch
 swisscertification.ch
@@ -14448,6 +14449,7 @@ swisscourtiers.ch
 swisscouture.ch
 swisscouvert.ch
 swisscover.ch
+swisscoverage.ch
 swisscoverclinic.ch
 swisscovering.ch
 swisscoveringconcept.ch
@@ -16668,6 +16670,7 @@ swissfbtech.ch
 swissfca.ch
 swissfd.ch
 swissfda.ch
+swissfdf.ch
 swissfe.ch
 swissfeardrive.ch
 swissfed.ch
@@ -16877,6 +16880,7 @@ swissfinegold.ch
 swissfinehouse.ch
 swissfineline.ch
 swissfinemotoring.ch
+swissfinesse.ch
 swissfinesseconnection.ch
 swissfinest.ch
 swissfinestescort.ch
@@ -16980,6 +16984,7 @@ swissfitshop.ch
 swissfittings.ch
 swissfivestar.ch
 swissfix.ch
+swissfixa.ch
 swissfixed.ch
 swissfixer.ch
 swissfixit.ch
@@ -18265,6 +18270,7 @@ swisshallmanagement.ch
 swisshalotherapie.ch
 swisshalotherapy.ch
 swissham.ch
+swisshammerball.ch
 swisshamradio.ch
 swisshand.ch
 swisshandball.ch
@@ -19976,8 +19982,10 @@ swissklimatechnik.ch
 swissklimatgmbh.ch
 swissklinik.ch
 swisskmi.ch
+swisskmu-ai.ch
 swisskmu-form.ch
 swisskmu.ch
+swisskmuai.ch
 swisskmucloud.ch
 swisskmupartners.ch
 swisskneecenter.ch
@@ -20052,7 +20060,6 @@ swisskran.ch
 swisskrankenkasse.ch
 swisskraut.ch
 swisskreativ.ch
-swisskreative.ch
 swisskredit.ch
 swisskristall.ch
 swisskristallglas.ch
@@ -22491,6 +22498,7 @@ swissneobaby.ch
 swissneobank.ch
 swissneobanks.ch
 swissneobiota.ch
+swissneocloud.ch
 swissneonatology.ch
 swissneonet.ch
 swissneophyte.ch
@@ -24709,7 +24717,6 @@ swisspropertyholding.ch
 swisspropertyhomes.ch
 swisspropertyicons.ch
 swisspropertykey.ch
-swisspropertylab.ch
 swisspropertymanagement.ch
 swisspropertypartners.ch
 swisspropertyscout.ch
@@ -29246,6 +29253,7 @@ swissypg.ch
 swissyphus.ch
 swissystem.ch
 swissystemhaus.ch
+swissytaxilimousinen.ch
 swissyte.ch
 swissythings.ch
 swissyubikey.ch
@@ -30042,6 +30050,7 @@ switzernet.ch
 switzero.ch
 switzerotic.ch
 switzerpeople.ch
+switzers.ch
 switzerscent.ch
 switzershop.ch
 switzersrugby.ch

@@ -2741,6 +2741,7 @@ budgets.ch
 budgetsbroker.ch
 budgetschrank.ch
 budgetschweiz.ch
+budgetschwiiz.ch
 budgetsheet.ch
 budgetshop.ch
 budgetsimulator.ch
@@ -5816,6 +5817,7 @@ bueroschoch.ch
 bueroschoen.ch
 bueroschraenke.ch
 bueroschrank.ch
+bueroschub.ch
 bueroschwab.ch
 bueroschweiz.ch
 bueroscript.ch
@@ -5893,6 +5895,7 @@ buerostuhlkaufen.ch
 buerostuhlratgeber.ch
 buerostuhlreinigung.ch
 buerostuhlrennen-viva.ch
+buerostuhlrennen.ch
 buerostuhlservice.ch
 buerosturmfrei.ch
 buerostyle.ch
@@ -10611,6 +10614,8 @@ burgtreuhand.ch
 burgtrotte.ch
 burgturmbar.ch
 burgturmreisen.ch
+burguesa-alimentos.ch
+burguesa-restaurant.ch
 burguesa.ch
 burguetedesign.ch
 burgund.ch
@@ -10806,6 +10811,7 @@ burket.ch
 burkethof.ch
 burketvetroz.ch
 burkeyer.ch
+burkhaltag.ch
 burkhalter-ag.ch
 burkhalter-automation.ch
 burkhalter-bam.ch
@@ -11572,6 +11578,7 @@ burry.ch
 burryevents.ch
 burs.ch
 bursa-bio.ch
+bursa-da-construcziun.ch
 bursabio.ch
 bursac-fugenabdichtungen.ch
 bursac.ch
@@ -12445,6 +12452,7 @@ business-infrastructure.ch
 business-innovation.ch
 business-innovator.ch
 business-insider.ch
+business-insurance.ch
 business-intelligence-audit.ch
 business-intelligence-consultancy.ch
 business-intelligence-day.ch
@@ -15373,6 +15381,7 @@ buytolet.ch
 buytool.ch
 buytosell.ch
 buytradeforce.ch
+buytrash.ch
 buytricycle.ch
 buytrojka.ch
 buytrx.ch

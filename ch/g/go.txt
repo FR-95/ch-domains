@@ -308,6 +308,7 @@ go-reways.ch
 go-ride.ch
 go-rka.ch
 go-robinson.ch
+go-rocket.ch
 go-roo.ch
 go-rosa.ch
 go-safe.ch
@@ -1094,7 +1095,6 @@ gobio.ch
 gobioduleman.ch
 gobisauvage.ch
 gobisweb.ch
-gobit.ch
 gobita.ch
 gobitcoin.ch
 gobitec.ch
@@ -1246,6 +1246,7 @@ gochtbistro.ch
 gochty.ch
 gochuchung.ch
 gochur.ch
+gocircle.ch
 gocircular.ch
 gockel.ch
 gockenba.ch
@@ -1283,7 +1284,6 @@ gocomp.ch
 gocompare.ch
 gocompliant.ch
 gocon-consulta.ch
-goconnect.ch
 goconseils.ch
 goconsult.ch
 gocoorpix.ch
@@ -2460,6 +2460,7 @@ gohlis.ch
 gohlke.ch
 gohlktk.ch
 gohltech.ch
+goho.ch
 gohockey.ch
 gohofi.ch
 gohofladen.ch
@@ -3517,6 +3518,7 @@ golden-lashes.ch
 golden-latte.ch
 golden-life.ch
 golden-light.ch
+golden-lion.ch
 golden-liquid.ch
 golden-liquids.ch
 golden-living.ch
@@ -3842,6 +3844,7 @@ goldener-wagen.ch
 goldener-wind.ch
 goldener-zeitsprung.ch
 goldener.ch
+goldenera-it-solutions.ch
 goldenera.ch
 goldenerahorn.ch
 goldeneratem.ch
@@ -3972,8 +3975,11 @@ goldengroup.ch
 goldengrow.ch
 goldengrowth.ch
 goldengun-ch.ch
+goldengun-play.ch
+goldengun-swiss.ch
 goldengun.ch
 goldenguncasino.ch
+goldenguns.ch
 goldenhairbyjessy.ch
 goldenhaircut.ch
 goldenhand.ch
@@ -4039,6 +4045,7 @@ goldenlimo-cab.ch
 goldenlimousine.ch
 goldenline.ch
 goldenlink.ch
+goldenlion.ch
 goldenlobster.ch
 goldenlocdown.ch
 goldenlockdown.ch
@@ -6873,6 +6880,7 @@ goller.ch
 golles.ch
 gollesch.ch
 golletz.ch
+golletzmusic.ch
 golliard.ch
 golliez.ch
 golliezapotheke.ch
@@ -8316,6 +8324,7 @@ goodnessfood.ch
 goodnet.ch
 goodnetwork.ch
 goodnetworks.ch
+goodnews-blackfriday.ch
 goodnews-cinema.ch
 goodnews-openair.ch
 goodnews.ch
@@ -9108,6 +9117,7 @@ goprint.ch
 gopro-accessoires.ch
 gopro.ch
 goproduct.ch
+goprof.ch
 goproject.ch
 goprojet.ch
 goprojets.ch
@@ -11452,6 +11462,7 @@ governex.ch
 governext.ch
 governing-board.ch
 governing-energy-transitions.ch
+governingai.ch
 governingboard.ch
 governiq.ch
 government-cloud.ch

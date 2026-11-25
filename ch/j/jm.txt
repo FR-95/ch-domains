@@ -353,11 +353,13 @@ jmf-dynamics.ch
 jmf.ch
 jmf2.ch
 jmf2025widnau.ch
+jmfantone-hypnose.ch
 jmfconseil.ch
 jmfconsult.ch
 jmfeld.ch
 jmfer.ch
 jmfevent.ch
+jmfiducia.ch
 jmfit.ch
 jmfivat.ch
 jmfleets.ch
@@ -366,6 +368,7 @@ jmforestier.ch
 jmfr.ch
 jmfriedli.ch
 jmfservices.ch
+jmg-co.ch
 jmg-eclairage.ch
 jmg-eclairages.ch
 jmg-formation.ch

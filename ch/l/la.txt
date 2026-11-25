@@ -2140,7 +2140,6 @@ lab46.ch
 lab466.ch
 lab4innovation.ch
 lab4talent.ch
-lab4tech-poc.ch
 lab4tech.ch
 lab4test.ch
 lab4u.ch
@@ -3294,6 +3293,7 @@ laboiteavins.ch
 laboitedeconserve.ch
 laboitedenchois.ch
 laboitedetravaux.ch
+laboiteephemere.ch
 laboitemagique.ch
 laboitenoire.ch
 laboiteoservices.ch
@@ -4023,6 +4023,7 @@ laboutiquesuisse.ch
 laboutiquezh.ch
 laboutiquezurich.ch
 laboventis.ch
+laboveyre.ch
 laboveyrerestaurant.ch
 labovs.ch
 laboweb-cakktus.ch
@@ -4691,7 +4692,6 @@ lacarteriedemorgane.ch
 lacartetimbree.ch
 lacartoleria.ch
 lacartolina.ch
-lacartomante.ch
 lacartomanziatelefonica.ch
 lacartomeccanica.ch
 lacartuccia.ch
@@ -5033,7 +5033,6 @@ lachainejeu.ch
 lachainejeux.ch
 lachainemeteo.ch
 lachaise.ch
-lachaleurafricaine.ch
 lachaleureuse.ch
 lachallensoise.ch
 lachaloupe.ch
@@ -5924,6 +5923,7 @@ lacoquette.ch
 lacoquille.ch
 lacoquine.ch
 lacor.ch
+lacora.ch
 lacoralina.ch
 lacoray.ch
 lacorbiere.ch
@@ -6288,7 +6288,6 @@ lacucinadioggi.ch
 lacucinadisusi.ch
 lacucinaitaliana.ch
 lacucinaticino.ch
-lacucineria.ch
 lacueillettedebabette.ch
 lacueva.ch
 lacuevadelpuro.ch
@@ -6972,6 +6971,7 @@ ladl.ch
 ladle.ch
 ladlerei.ch
 ladli.ch
+ladm.ch
 ladma.ch
 ladmann-breitenbach.ch
 ladmann-immo.ch
@@ -7027,6 +7027,7 @@ ladolle.ch
 ladomaniale.ch
 ladomenica.ch
 ladomestica.ch
+ladomiciliation.ch
 ladomo.ch
 ladomotiquepourtous.ch
 ladon-technologies.ch
@@ -9267,6 +9268,7 @@ lagerraumbasel.ch
 lagerraumbern.ch
 lagerraummieten-basel.ch
 lagerraummieten-kreuzlingen.ch
+lagerraummieten-schaffhausen.ch
 lagerraummieten-spreitenbach.ch
 lagerraummieten-winterthur.ch
 lagerraummieten-zuerich.ch
@@ -9515,7 +9517,6 @@ lagodilugano.ch
 lagodiluganoglamper.ch
 lagodrive.ch
 lagoexperience.ch
-lagofiori.ch
 lagoforge.ch
 lagofortuna.ch
 lagohermano.ch
@@ -9830,7 +9831,6 @@ lagreement.ch
 lagreeneuchatel.ch
 lagreesolothurn.ch
 lagreezurich.ch
-lagregance.ch
 lagregat.ch
 lagregoire.ch
 lagrelay.ch
@@ -11191,6 +11191,7 @@ lakiffance.ch
 lakilabel.ch
 lakilu.ch
 lakimi.ch
+lakimmoservices.ch
 lakinesiologie.ch
 lakinesphere.ch
 lakiocciola.ch
@@ -11652,6 +11653,7 @@ laloumaestra.ch
 lalouna.ch
 laloupeaudiovisuel.ch
 laloustudio.ch
+laloutre-bar.ch
 laloutre.ch
 laloutrebar.ch
 lalouve-cooperative.ch
@@ -11759,6 +11761,7 @@ lalyrecourtion.ch
 lalyredebegnins.ch
 lalyreinigung.ch
 lalyrerue.ch
+lalyvie.ch
 lam-a.ch
 lam-caphe.ch
 lam-electronics.ch
@@ -12961,6 +12964,7 @@ lamifit.ch
 lamifix.ch
 lamiglioreassicurazione.ch
 lamigmbh.ch
+lamigo.ch
 lamigration.ch
 lamigros.ch
 lamijakaric.ch
@@ -14790,7 +14794,6 @@ landingbag.ch
 landingcliffs.ch
 landingfactory.ch
 landinginvest.ch
-landinglabor.ch
 landingpage-basel.ch
 landingpage-design.ch
 landingpage-dreamagine.ch
@@ -14971,6 +14974,7 @@ landjugend-pilatus.ch
 landjugend-sarneraatal.ch
 landjugend-untere-emme.ch
 landjugend.ch
+landjugendappenzell.ch
 landjugendheimiswil.ch
 landjugi-oenztal.ch
 landkaffee.ch
@@ -15260,6 +15264,7 @@ landprodukte.ch
 landqart-ag.ch
 landqart.ch
 landquart-immobilien.ch
+landquart-laedeli.ch
 landquart-outlet.ch
 landquart-ref.ch
 landquart.ch
@@ -17566,6 +17571,7 @@ laosreisen.ch
 laostravel.ch
 laosurlamontagne.ch
 laotek.ch
+laotoronga.ch
 laotranoche.ch
 laotse.ch
 laoucapousse.ch
@@ -19070,6 +19076,7 @@ laravela.ch
 laravelbasel.ch
 laraviere.ch
 laravigote.ch
+laravilminot.ch
 laravital.ch
 larawaldmann.ch
 larawalker.ch
@@ -19973,7 +19980,6 @@ lars-gaechter.ch
 lars-grau.ch
 lars-hagemann.ch
 lars-haller.ch
-lars-kriegler.ch
 lars-ligament.ch
 lars-maag.ch
 lars-meier.ch
@@ -20618,6 +20624,7 @@ lascaux-colours.ch
 lascaux-farben.ch
 lascaux.ch
 lascauxfarben.ch
+lascelta.ch
 lascene.ch
 lascenephotographique.ch
 lascenepourlaseine.ch
@@ -21206,6 +21213,7 @@ lasergravierte-teile.ch
 lasergravierteteile.ch
 lasergravur-geschenke.ch
 lasergravur-service.ch
+lasergravur-swiss.ch
 lasergravur-und-holz.ch
 lasergravur.ch
 lasergravur24.ch
@@ -21924,6 +21932,7 @@ lasof.ch
 lasofa.ch
 lasoffice.ch
 lasoffitta.ch
+lasogliadeisensi.ch
 lasoglina.ch
 lasohauswartungen.ch
 lasoie.ch
@@ -23225,6 +23234,7 @@ latenium.ch
 latens-photography.ch
 latens.ch
 latensandforma.ch
+latense.ch
 latent-gmbh.ch
 latent.ch
 latentanalytics.ch
@@ -25337,6 +25347,7 @@ lauramassage.ch
 lauramatter.ch
 lauramcgahey.ch
 laurame.ch
+laurameier.ch
 lauramengani.ch
 lauramercado.ch
 lauramercier.ch
@@ -26309,6 +26320,7 @@ lausannecaveurbaine.ch
 lausannecites.ch
 lausannecity.ch
 lausannecity360.ch
+lausannecityfc.ch
 lausannecitymuseum.ch
 lausannecitytour.ch
 lausannecitytours.ch
@@ -27500,6 +27512,7 @@ lavieillecatherine.ch
 lavieilleecole.ch
 lavieilleferme.ch
 lavieillegarde.ch
+lavieillegrange.ch
 lavieillereine.ch
 lavieillesse.ch
 lavieilletour.ch
@@ -27790,6 +27803,7 @@ lavoixdelalpe.ch
 lavoixdelame.ch
 lavoixdelaterre.ch
 lavoixdelintuition.ch
+lavoixdemalo.ch
 lavoixdesanimaux.ch
 lavoixdescontes.ch
 lavoixdesguides.ch
@@ -27834,10 +27848,12 @@ lavorel.ch
 lavorent.ch
 lavoretti.ch
 lavorettiinlegno.ch
+lavori-di-costruzione.ch
 lavori-in-altezza.ch
 lavori.ch
 lavoria.ch
 lavoricreativi.ch
+lavoridicostruzione.ch
 lavoriedilisb.ch
 lavoriforestali.ch
 lavoriingessoepittura.ch
@@ -27916,6 +27932,9 @@ lavuors.ch
 lavur.ch
 lavura.ch
 lavural.ch
+lavurdaconstrucziun.ch
+lavurs-da-construcziun.ch
+lavursdaconstrucziun.ch
 lavursinlain.ch
 lavush.ch
 lavvone.ch

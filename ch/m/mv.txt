@@ -138,7 +138,6 @@ mv360.ch
 mv4.ch
 mv6.ch
 mva-amriswil.ch
-mva-athletics.ch
 mva-coaching.ch
 mva-design.ch
 mva-handmade.ch
@@ -168,6 +167,7 @@ mvale8.ch
 mvallmen.ch
 mvamail.ch
 mvamobile.ch
+mvan.ch
 mvanetworks.ch
 mvanvulpen.ch
 mvaoffice.ch

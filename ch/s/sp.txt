@@ -2038,7 +2038,6 @@ spanish4you.ch
 spanishangelfarm.ch
 spanishclub.ch
 spanishcoachgeneva.ch
-spanishdesk.ch
 spanishmarket.ch
 spanishplanet.ch
 spanishrestaurant.ch
@@ -2302,6 +2301,7 @@ spare-ribs.ch
 spare-steuern.ch
 spare.ch
 spareau.ch
+sparebaresgeld.ch
 sparecash.ch
 spareconsulting.ch
 sparecraft.ch
@@ -3984,6 +3984,7 @@ speced.ch
 specetoile-alpha-services.ch
 specetoile.ch
 specetoileads.ch
+specfinderadvisory.ch
 spechampel.ch
 specht-art.ch
 specht-consulting.ch
@@ -5057,6 +5058,7 @@ speediance.ch
 speedics.ch
 speedie-umzug.ch
 speedie.ch
+speediesgroup.ch
 speedikon.ch
 speedikonfm.ch
 speedimmo.ch
@@ -5965,6 +5967,7 @@ spengler-wengen.ch
 spengler-werk.ch
 spengler-zuerich.ch
 spengler.ch
+spengler2027.ch
 spengler24.ch
 spengler365.ch
 spenglerarbeit.ch
@@ -9696,6 +9699,7 @@ spiko-elektrokontrollen.ch
 spiko-web.ch
 spiko.ch
 spikomotors.ch
+spikoweb-demo.ch
 spikoweb.ch
 spiky-leaf.ch
 spiky.ch
@@ -10628,7 +10632,6 @@ spinsahara-ch.ch
 spinsahara.ch
 spinsahara1.ch
 spinsaharabet.ch
-spinsaharacasino.ch
 spinsaharach.ch
 spinsaharach1.ch
 spinsaharas.ch
@@ -10784,7 +10787,6 @@ spiraag.ch
 spirabois.ch
 spirac.ch
 spiracher.ch
-spiracloud.ch
 spirado.ch
 spirago.ch
 spirah.ch
@@ -12288,6 +12290,7 @@ spitex-buelach.ch
 spitex-bueren.ch
 spitex-buttikon.ch
 spitex-buttisholz-nottwil.ch
+spitex-bzeag.ch
 spitex-care-angels.ch
 spitex-care.ch
 spitex-careplus.ch
@@ -14753,7 +14756,6 @@ sponk.ch
 sponky.ch
 spono.ch
 spons.ch
-sponsandads.ch
 sponser-asia.ch
 sponser.ch
 sponserprotein.ch
@@ -15326,6 +15328,7 @@ sport-mak.ch
 sport-mall.ch
 sport-management.ch
 sport-manager.ch
+sport-managers.ch
 sport-mania.ch
 sport-maniac.ch
 sport-maniacs.ch
@@ -16899,6 +16902,7 @@ sportmanagement-suisse.ch
 sportmanagement.ch
 sportmanager.ch
 sportmanagerinnen.ch
+sportmanagers.ch
 sportmania.ch
 sportmaniacs.ch
 sportmanias.ch
@@ -17692,6 +17696,7 @@ sportscards.ch
 sportscardshop.ch
 sportscare.ch
 sportscarhotels.ch
+sportscars-basel.ch
 sportscars-flueckiger.ch
 sportscars-lausanne.ch
 sportscars-lugano.ch
@@ -17726,6 +17731,7 @@ sportschuetzen-aarwangen.ch
 sportschuetzen-aeschi.ch
 sportschuetzen-alpenstrasse.ch
 sportschuetzen-arlesheim.ch
+sportschuetzen-aussersihl.ch
 sportschuetzen-benken.ch
 sportschuetzen-bern-gurten.ch
 sportschuetzen-bettenhausen.ch
@@ -20000,6 +20006,7 @@ sprezzaturatom.ch
 sprgroup.ch
 sprgsa.ch
 spri.ch
+spri01.ch
 spriano.ch
 spribe.ch
 spricar.ch
@@ -20774,6 +20781,7 @@ sprungbrett-digitalagentur.ch
 sprungbrett-event.ch
 sprungbrett-events.ch
 sprungbrett-uri.ch
+sprungbrett-wohnungsbau.ch
 sprungbrett.ch
 sprungbrettbaden.ch
 sprungbrettevent.ch
@@ -21567,6 +21575,7 @@ spyri-archiv.ch
 spyri-chirurgie.ch
 spyri-edition.ch
 spyri-museum.ch
+spyri-netzwerk.ch
 spyri-stiftung.ch
 spyri.ch
 spyriarchiv.ch

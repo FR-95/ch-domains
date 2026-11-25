@@ -26,7 +26,6 @@
 1local.ch
 1log.ch
 1login.ch
-1logo.ch
 1look.ch
 1loop.ch
 1love.ch

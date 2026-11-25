@@ -31,6 +31,7 @@ ns-a.workaround.ch
 ns-advancement.ch
 ns-anycast1.hostpoint.ch
 ns-anycast2.hostpoint.ch
+ns-at-01.onestack.ch
 ns-automobile.ch
 ns-automobiles.ch
 ns-automotive.ch
@@ -40,6 +41,8 @@ ns-bak.reek.ch
 ns-c.ch
 ns-cabletech.ch
 ns-carrelage.ch
+ns-ch-01.onestack.ch
+ns-ch-02.onestack.ch
 ns-coaching.ch
 ns-compta.ch
 ns-connect.ch
@@ -2338,7 +2341,6 @@ ns1.lagirra.ch
 ns1.lakenet.ch
 ns1.lamatouren.ch
 ns1.lamenuiseriegenevoise.ch
-ns1.lancer.ch
 ns1.landwirtschaft.ch
 ns1.lanexperts.ch
 ns1.lang-lit.ch
@@ -2431,7 +2433,6 @@ ns1.lucca-safenwil.ch
 ns1.lucky-thai.ch
 ns1.luginbuhl.ch
 ns1.luma-it.ch
-ns1.luna-doro-nettoyage-demenagement.ch
 ns1.luzerncity.ch
 ns1.lwi.ch
 ns1.lylava.ch
@@ -5606,7 +5607,6 @@ ns2.labo-pellaton.ch
 ns2.lakenet.ch
 ns2.lamatouren.ch
 ns2.lamenuiseriegenevoise.ch
-ns2.lancer.ch
 ns2.landwirtschaft.ch
 ns2.lanexperts.ch
 ns2.lang-lit.ch
@@ -5699,7 +5699,6 @@ ns2.luba-project.ch
 ns2.lucca-safenwil.ch
 ns2.lucky-thai.ch
 ns2.luma-it.ch
-ns2.luna-doro-nettoyage-demenagement.ch
 ns2.luzerncity.ch
 ns2.lvkarimmo.ch
 ns2.lwi.ch

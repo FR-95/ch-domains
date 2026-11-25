@@ -1310,6 +1310,7 @@ imbatec.ch
 imbau-ag.ch
 imbau-solutions.ch
 imbau.ch
+imbaudenkmal.ch
 imbault.ch
 imbaum.ch
 imbaumgarten.ch
@@ -2925,6 +2926,7 @@ immei-ag.ch
 immek.ch
 immelhausen.ch
 immeli.ch
+immello.ch
 immelmann.ch
 immen-hungg.ch
 immen.ch
@@ -6904,7 +6906,6 @@ immobilier-vandoeuvres.ch
 immobilier-vaud-geneve.ch
 immobilier-vaud.ch
 immobilier-vaudois.ch
-immobilier-vd.ch
 immobilier-vente.ch
 immobilier-vercorin.ch
 immobilier-versoix.ch
@@ -7039,7 +7040,6 @@ immobiliu.ch
 immobilium-zug.ch
 immobilium.ch
 immobilius.ch
-immobill.ch
 immobillien-bieri.ch
 immobillien.ch
 immobillienscout24.ch
@@ -7541,6 +7541,7 @@ immodoul.ch
 immodpo.ch
 immodream.ch
 immodream24.ch
+immodreamlife.ch
 immodreams.ch
 immodrees.ch
 immodreil.ch
@@ -7721,6 +7722,7 @@ immoflexi.ch
 immoflexy.ch
 immoflims.ch
 immoflip.ch
+immoflix.ch
 immoflobis.ch
 immofloor.ch
 immoflor.ch
@@ -9617,6 +9619,7 @@ immotwins.ch
 immotwister.ch
 immouna.ch
 immoundbau.ch
+immounic-sa.ch
 immounic.ch
 immounion.ch
 immouniq.ch
@@ -10002,6 +10005,7 @@ immozappala.ch
 immozebra.ch
 immozehn.ch
 immozeitung.ch
+immozek.ch
 immozemp.ch
 immozen.ch
 immozenith.ch
@@ -11033,6 +11037,7 @@ impavillon.ch
 impax.ch
 impaxgarn.ch
 impaxio.ch
+impbackup.ch
 impbautest.ch
 impbu.ch
 impc.ch
@@ -11600,6 +11605,7 @@ implantatzahn.ch
 implantatzentrum-basel.ch
 implantatzentrum-bellevue.ch
 implantatzentrum-bern.ch
+implantatzentrum-budapest.ch
 implantatzentrum.ch
 implantatzentrumzuerich.ch
 implantbaden.ch
@@ -11890,11 +11896,9 @@ importstapler.ch
 importstroh.ch
 importstrohpellets.ch
 importsupport.ch
-importsverbots-initiative.ch
 importswiss.ch
 importverbot-stopfleber-ja.ch
 importverbot-stopfleber-nein.ch
-importverbots-initiative.ch
 importware.ch
 importwaren.ch
 importwine.ch
@@ -12214,7 +12218,6 @@ impressionlenticulaire.ch
 impressionmur.ch
 impressionmurale.ch
 impressionnen.ch
-impressionnumerique.ch
 impressionphoto.ch
 impressions-bd.ch
 impressions.ch

@@ -204,6 +204,7 @@ cma-info.ch
 cma-kinesiologie.ch
 cma-kommunikation.ch
 cma-mig.ch
+cma-monsif.ch
 cma-net.ch
 cma-psy.ch
 cma-pub.ch
@@ -388,6 +389,7 @@ cmcb-batiment.ch
 cmcb-formations.ch
 cmcb.ch
 cmcc.ch
+cmcca.ch
 cmccadolles.ch
 cmccapitalgroup.ch
 cmccornavin.ch
@@ -837,6 +839,7 @@ cmmontana.ch
 cmmonthey.ch
 cmmotorsport.ch
 cmmromandie.ch
+cmms-kawo.ch
 cmms-software.ch
 cmms.ch
 cmms4u.ch

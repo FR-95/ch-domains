@@ -369,7 +369,6 @@ ice-balls.ch
 ice-bar.ch
 ice-becher.ch
 ice-bee.ch
-ice-berg.ch
 ice-blitz.ch
 ice-blue.ch
 ice-borne.ch
@@ -1296,6 +1295,7 @@ ichblibeiderschwiz.ch
 ichbrau.ch
 ichbrauche.ch
 ichbraucheeinenbarcode.ch
+ichbrauchehilfe.ch
 ichbrauchekunden.ch
 ichbrauchemehrlohn.ch
 ichbrauchschweiz.ch
@@ -1494,6 +1494,7 @@ ichoase.ch
 ichodromio.ch
 ichokduok.ch
 ichome.ch
+ichor.ch
 ichoriginal.ch
 ichos.ch
 ichotels.ch
@@ -2564,7 +2565,9 @@ ict-center.ch
 ict-challenger-2026.ch
 ict-channels.ch
 ict-check.ch
+ict-checkliste.ch
 ict-checkup.ch
+ict-city.ch
 ict-cloud.ch
 ict-coach.ch
 ict-coaching.ch
@@ -2611,6 +2614,7 @@ ict-fr.ch
 ict-freelancer.ch
 ict-freiburg.ch
 ict-fribourg.ch
+ict-galaxy.ch
 ict-garage.ch
 ict-ge.ch
 ict-girls.ch
@@ -2672,6 +2676,7 @@ ict-maus.ch
 ict-mediamatique-romande.ch
 ict-medien.ch
 ict-mentoring.ch
+ict-merlin.ch
 ict-michels.ch
 ict-migrants-plattform.ch
 ict-migrants.ch
@@ -2698,6 +2703,7 @@ ict-park.ch
 ict-partner.ch
 ict-pentesting.ch
 ict-personalberatung.ch
+ict-planet.ch
 ict-platform-development-brevet-federal-professional-bachelor.ch
 ict-platform-development-specialist.ch
 ict-plus.ch
@@ -2714,6 +2720,7 @@ ict-recruitment.ch
 ict-regelstandards.ch
 ict-region-meilen.ch
 ict-reseller.ch
+ict-room.ch
 ict-schaffhausen.ch
 ict-schlusspruefungen.ch
 ict-schulbox.ch
@@ -2740,6 +2747,7 @@ ict-skills.ch
 ict-solothurn.ch
 ict-solutions.ch
 ict-sourcing.ch
+ict-space.ch
 ict-stage.ch
 ict-stahl.ch
 ict-standortbestimmung.ch
@@ -2757,6 +2765,7 @@ ict-tessin.ch
 ict-tfbern.ch
 ict-thurgau.ch
 ict-ticker.ch
+ict-tool.ch
 ict-trading.ch
 ict-training.ch
 ict-trainings.ch
@@ -2764,12 +2773,13 @@ ict-transformation.ch
 ict-tremegisto.ch
 ict-trends.ch
 ict-uek.ch
+ict-universum.ch
 ict-valais-wallis.ch
 ict-valais.ch
 ict-valaiswallis.ch
 ict-vet-research.ch
+ict-village.ch
 ict-vs.ch
-ict-wa.ch
 ict-wallis.ch
 ict-wehrli.ch
 ict-weiterbildung-beratung.ch

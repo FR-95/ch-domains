@@ -74,7 +74,6 @@ a-arts.ch
 a-ashop.ch
 a-atelier.ch
 a-authentic.ch
-a-autoankauf.ch
 a-automotive.ch
 a-ave.ch
 a-avocats.ch
@@ -367,6 +366,7 @@ a-fischer.ch
 a-fit.ch
 a-fleur-de-peau.ch
 a-fleur-de-toi.ch
+a-fleurdetoi.ch
 a-fluetsch.ch
 a-fm.ch
 a-foodliner.ch
@@ -1172,7 +1172,6 @@ a-v.ch
 a-vanti.ch
 a-velo.ch
 a-vendre-cologny.ch
-a-vendre-maison.ch
 a-vendre.ch
 a-venture.ch
 a-ventures.ch

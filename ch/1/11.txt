@@ -135,6 +135,7 @@
 1186.ch
 118event.ch
 118grad.ch
+118info.ch
 118live.ch
 118m.ch
 118prozent.ch

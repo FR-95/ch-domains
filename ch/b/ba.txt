@@ -1731,7 +1731,6 @@ babypictures.ch
 babypille.ch
 babypiu.ch
 babyplace.ch
-babyplaces.ch
 babyplan.ch
 babyplanet.ch
 babyplanner.ch
@@ -3296,6 +3295,7 @@ backfenster.ch
 backfield.ch
 backfieldstudio.ch
 backfilipp.ch
+backfire.ch
 backfis.ch
 backfisch.ch
 backfische.ch
@@ -4310,6 +4310,7 @@ baddesigngmbh.ch
 baddezimmerrenovation.ch
 baddi-therapy.ch
 baddi.ch
+baddie.ch
 baddiefabienne.ch
 baddieonabudget.ch
 baddies.ch
@@ -5194,6 +5195,7 @@ badir.ch
 badireiden.ch
 badireservation.ch
 badirestaurant.ch
+badirestimurten.ch
 badirheinau.ch
 badirueti.ch
 badis-freie-tankstellen.ch
@@ -5500,7 +5502,6 @@ badrutt-mediation.ch
 badrutt.ch
 badruttinterior.ch
 badruttspalace.ch
-badruttspalacehotel.ch
 bads.ch
 badsaentisblick.ch
 badsam.ch
@@ -8754,6 +8755,10 @@ bahnnetz.ch
 bahnoldtimer.ch
 bahnolino.ch
 bahnonline.ch
+bahnoperator-logistic.ch
+bahnoperator-logistics.ch
+bahnoperator-logistik.ch
+bahnoperatorlogistic.ch
 bahnoptikum.ch
 bahnorama.ch
 bahnpark-brugg.ch
@@ -9649,6 +9654,7 @@ bakic.ch
 bakicavdar.ch
 bakickulstrunk.ch
 bakies.ch
+bakigiardini.ch
 bakigiardiniere.ch
 bakiko.ch
 bakikur.ch
@@ -9970,7 +9976,6 @@ balance-harmonie.ch
 balance-horse.ch
 balance-hundeschule.ch
 balance-im-alter.ch
-balance-im-chaos.ch
 balance-im-leben.ch
 balance-im-system.ch
 balance-im-werk.ch
@@ -10490,7 +10495,6 @@ balconia.ch
 balconifioriti.ch
 balcons-essertines.ch
 balcons-florissant.ch
-balcons-gruyere.ch
 balconsdenax.ch
 balconsdessousbois.ch
 balconsdulac.ch
@@ -10887,6 +10891,7 @@ bali4ever.ch
 bali4home.ch
 baliag.ch
 balian.ch
+baliandmore.ch
 balianos.ch
 balibaris.ch
 balibay.ch
@@ -13163,7 +13168,6 @@ bamboland.ch
 bambolasbeauty.ch
 bambole.ch
 bambole84.ch
-bamboleo.ch
 bambolepizza.ch
 bambolesound.ch
 bambolina.ch
@@ -14042,6 +14046,7 @@ bandely.ch
 banden-werbung.ch
 bandenbingo.ch
 bandenfresser.ch
+bandenkleber.ch
 bandenwerbung.ch
 bandeorganisee.ch
 bandepassante.ch
@@ -19310,7 +19315,6 @@ barrelspring.ch
 barremessage.ch
 barren.ch
 barrena.ch
-barrenbank.ch
 barrenjoey.ch
 barrenjoeyassetmanagement.ch
 barrenjoeycapitalpartners.ch
@@ -20018,6 +20022,7 @@ baruzzoarchitekten.ch
 barva.ch
 barvallo.ch
 barvallogmbh.ch
+barvana.ch
 barvenezia.ch
 barveneziabern.ch
 barverleih.ch
@@ -20457,9 +20462,6 @@ basejump-swiss.ch
 basejump.ch
 basejumper.ch
 basejumping.ch
-basejumpjungfrau.ch
-basejumplb.ch
-basejumpmuerren.ch
 basejumpswiss.ch
 basekamp.ch
 baseki.ch
@@ -20536,6 +20538,7 @@ basel-coiffeur.ch
 basel-collection.ch
 basel-collections.ch
 basel-company.ch
+basel-dental.ch
 basel-dentist.ch
 basel-dialog.ch
 basel-digital.ch
@@ -20806,6 +20809,7 @@ basel-valley.ch
 basel-van.ch
 basel-vegan.ch
 basel-velo.ch
+basel-verbindet.ch
 basel-vereinbar.ch
 basel-vernetzt.ch
 basel-virtual.ch
@@ -21038,6 +21042,7 @@ baseldialogue.ch
 baseldialogues.ch
 baseldienste.ch
 baseldigital.ch
+baseldigitalservice.ch
 baseldirekt.ch
 baseldragons.ch
 baseldrinks.ch
@@ -21071,6 +21076,8 @@ baselfahrdienst.ch
 baselfamilyconcierge.ch
 baselfamilyguide.ch
 baselfarbe.ch
+baselfashion.ch
+baselfashionshow.ch
 baselfashionweek.ch
 baselfeinkost.ch
 baselfenster.ch
@@ -21529,6 +21536,7 @@ baseltouch.ch
 baseltourism.ch
 baseltourismus.ch
 baseltours.ch
+baseltrade.ch
 baseltrainingclub.ch
 baseltransfer.ch
 baseltriathlon.ch
@@ -22958,7 +22966,6 @@ bassbauer.ch
 bassbaukurse.ch
 bassbaustelle.ch
 bassbelt-pieterlen.ch
-bassbelt.ch
 bassbet-casino.ch
 bassbet-schweiz.ch
 bassbet-suisse.ch
@@ -23079,7 +23086,6 @@ bassin-energies.ch
 bassin-fenetres.ch
 bassin.ch
 bassin8.ch
-bassinbern.ch
 bassinbeton.ch
 bassincentre.ch
 bassinconthey.ch
@@ -23633,6 +23639,7 @@ batanganaekobo.ch
 batapark.ch
 batapp.ch
 batardeau.ch
+batarec.ch
 batas.ch
 batashop.ch
 batati.ch
@@ -23660,7 +23667,6 @@ batchbrain.ch
 batchbridge.ch
 batchclarity.ch
 batchcooker.ch
-batchcooking.ch
 batcheva.ch
 batchflow.ch
 batchgeneva.ch
@@ -23686,7 +23692,6 @@ batcon.ch
 batconcierge.ch
 batcongmbh.ch
 batconstrsa.ch
-batcook.ch
 batdry.ch
 bate.ch
 bateasy.ch
@@ -24860,6 +24865,7 @@ batya-licht.ch
 batymar.ch
 batyo.ch
 batyr.ch
+batyservices.ch
 batz-burgel.ch
 batz.ch
 batzberg-shop.ch
@@ -26023,6 +26029,7 @@ bauconzept.ch
 baucor.ch
 baucore.ch
 baucraft.ch
+baucrosoft.ch
 baucube.ch
 baucuraplan.ch
 baucycling.ch
@@ -27083,6 +27090,7 @@ baugesucheluzern.ch
 baugesucheschweiz.ch
 baugesuchkarte.ch
 baugesuchluzern.ch
+baugesuchplan.ch
 baugesuchsagent.ch
 baugesuchsalarm.ch
 baugesuchskarte.ch
@@ -27708,6 +27716,7 @@ bauleiterausbildung.ch
 bauleiterdog.ch
 bauleiterin.ch
 bauleiterinnen.ch
+bauleiterjobs.ch
 bauleiterosterwalder.ch
 bauleiterpur.ch
 bauleiterwissen.ch
@@ -28244,6 +28253,7 @@ baumanns-beer.ch
 baumanns-feldkueche.ch
 baumanns.ch
 baumannsarl.ch
+baumannsbeer.ch
 baumannsfarmservice.ch
 baumannsicherheit.ch
 baumannsimon.ch
@@ -30273,6 +30283,7 @@ baustelleconnect.ch
 baustellekoerper.ch
 baustellemitherz.ch
 baustellen-abwasser.ch
+baustellen-angebot.ch
 baustellen-app.ch
 baustellen-aufnahmen.ch
 baustellen-bedarf.ch
@@ -30914,6 +30925,7 @@ bauwat.ch
 bauwatch.ch
 bauwatch24.ch
 bauweb.ch
+bauwebbasel.ch
 bauwebcam.ch
 bauweberei.ch
 bauwecker.ch
@@ -30951,7 +30963,6 @@ bauwerk-parkettshop.ch
 bauwerk-parquet.ch
 bauwerk-performance.ch
 bauwerk-perspektiven.ch
-bauwerk-plus.ch
 bauwerk-shop.ch
 bauwerk-sport.ch
 bauwerk-swiss.ch
@@ -31212,6 +31223,7 @@ bavox-dev.ch
 bavox.ch
 bavtrend.ch
 bavu.ch
+bavure.ch
 bavx.ch
 baw-212.ch
 baw-cars.ch
@@ -31727,12 +31739,10 @@ bazevisuals.ch
 bazg.ch
 bazh.ch
 bazi-akademie.ch
-bazi-coaching.ch
 bazi-rechner.ch
 bazi.ch
 baziaka.ch
 bazialli.ch
-bazicoaching.ch
 baziconsulting.ch
 bazid.ch
 bazijourney.ch

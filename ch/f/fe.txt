@@ -1552,6 +1552,7 @@ feet-heart.ch
 feet-perfume.ch
 feet-reading.ch
 feet.ch
+feet49-terminbuchung.ch
 feet49.ch
 feetality.ch
 feetandbody.ch
@@ -2107,6 +2108,7 @@ fein-ag.ch
 fein-blatt.ch
 fein-blick.ch
 fein-catering.ch
+fein-click.ch
 fein-communication.ch
 fein-deli.ch
 fein-elast.ch
@@ -2126,6 +2128,7 @@ fein-gold.ch
 fein-heimisch.ch
 fein-kaller.ch
 fein-kleinmaschinen.ch
+fein-klick.ch
 fein-kost.ch
 fein-logistik.ch
 fein-malerei.ch
@@ -2178,6 +2181,7 @@ feinblick.ch
 feinbrand.ch
 feinchecker.ch
 feinchreis.ch
+feinclick.ch
 feincms.ch
 feincode.ch
 feincosta.ch
@@ -2346,6 +2350,7 @@ feinissimo.ch
 feiniwy.ch
 feinjemacht.ch
 feinklang.ch
+feinklick.ch
 feinkontur.ch
 feinkorn.ch
 feinkost-arena.ch
@@ -2767,7 +2772,6 @@ felcomotion.ch
 felcon.ch
 feld-agent.ch
 feld-der-kraft.ch
-feld-der-verbundenheit.ch
 feld-eitorf.ch
 feld-feusisberg.ch
 feld-food.ch
@@ -2852,7 +2856,6 @@ feldburg.ch
 feldbuskomponenten.ch
 feldbustechnik.ch
 feldchuchi.ch
-feldderverbundenheit.ch
 felddesheilens.ch
 felde.ch
 feldeck.ch
@@ -4605,6 +4608,7 @@ felsamrhein.ch
 felsarbeiten.ch
 felsatelier.ch
 felsbach.ch
+felsband.ch
 felsbau-gmbh.ch
 felsbau.ch
 felsbauarbeiten.ch
@@ -5303,6 +5307,7 @@ femmestour-fr.ch
 femmestyle.ch
 femmetissu.ch
 femmetracetonchemin.ch
+femmetravel.ch
 femmeuse.ch
 femmevieliberte.ch
 femmevin.ch
@@ -8620,6 +8625,7 @@ ferienwohnung-brahms-quai.ch
 ferienwohnung-breil-brigels.ch
 ferienwohnung-brienz.ch
 ferienwohnung-brienzersee.ch
+ferienwohnung-brigels.ch
 ferienwohnung-brissago-tessin.ch
 ferienwohnung-castiel.ch
 ferienwohnung-celerina.ch
@@ -9343,7 +9349,6 @@ ferme-hirondelle.ch
 ferme-imaginaire.ch
 ferme-iseli.ch
 ferme-jaquet-vacherieducarre.ch
-ferme-jaquet.ch
 ferme-la-lorraine.ch
 ferme-la-romaine.ch
 ferme-la-source.ch
@@ -11194,6 +11199,7 @@ festaportuguesa.ch
 festarte.ch
 festartikel-luzern.ch
 festartikel.ch
+festasanrocco.ch
 festavia.ch
 festavolo.ch
 festaz.ch
@@ -14348,4 +14354,5 @@ fezer.ch
 fezfenster.ch
 fezli.ch
 fezparty.ch
+fezz.ch
 fezzaudio.ch

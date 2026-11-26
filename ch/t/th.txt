@@ -2182,6 +2182,7 @@ the-experts.ch
 the-exposure.ch
 the-expression.ch
 the-eye-clinic.ch
+the-eye-saver.ch
 the-eyebrow-clinic.ch
 the-eyebrows-clinic.ch
 the-eyemaker.ch
@@ -2522,7 +2523,6 @@ the-liner.ch
 the-link.ch
 the-liraluck.ch
 the-liralucks.ch
-the-list.ch
 the-listener.ch
 the-little-bird.ch
 the-living-museum.ch
@@ -2687,6 +2687,7 @@ the-one.ch
 the-online-school.ch
 the-online-shop.ch
 the-online.ch
+the-only-shirt.ch
 the-onyx.ch
 the-orbit.ch
 the-orchid-room.ch
@@ -2733,6 +2734,7 @@ the-penthouse.ch
 the-people.ch
 the-perfect-house.ch
 the-perfect-match.ch
+the-perfect-wedding.ch
 the-performancecoach.ch
 the-personal-trainer.ch
 the-peters.ch
@@ -2885,7 +2887,6 @@ the-salon.ch
 the-salt-lab.ch
 the-saltlab.ch
 the-salto-show.ch
-the-same-switzerland.ch
 the-same.ch
 the-sanctuary-hub.ch
 the-sanctuary.ch
@@ -3282,6 +3283,7 @@ the1surgeon.ch
 the1surgery.ch
 the20th.ch
 the269.ch
+the26edit.ch
 the26keys.ch
 the270.ch
 the27club.ch
@@ -3703,6 +3705,7 @@ theartphotographer.ch
 theartpowher.ch
 theartroom.ch
 thearts.ch
+theartsbasel.ch
 theartshop.ch
 thearttobe.ch
 theartworks.ch
@@ -3722,7 +3725,6 @@ theassets.ch
 theassist.ch
 theassistant.ch
 theasylum.ch
-theasz.ch
 theatech.ch
 theatechgmbh.ch
 theatedo.ch
@@ -5015,7 +5017,6 @@ thebeautyofcaring.ch
 thebeautyofdata.ch
 thebeautyofgemina.ch
 thebeautyofmath.ch
-thebeautyofmyanmar.ch
 thebeautyofnight.ch
 thebeautyofsnow.ch
 thebeautyofsound.ch
@@ -5809,6 +5810,7 @@ thecellar.ch
 thecellists.ch
 thecelsius.ch
 theceo.ch
+theceocompany.ch
 theceoloft.ch
 thecfactor.ch
 thecfigroup.ch
@@ -6230,6 +6232,7 @@ thecoreprotocol.ch
 thecorepub.ch
 thecoresociety.ch
 thecoresystem.ch
+thecoretechnology.ch
 thecorner.ch
 thecornerberlin.ch
 thecornerofficial.ch
@@ -6323,7 +6326,6 @@ thecreativetimecompany.ch
 thecreativevibe.ch
 thecreativevisionary.ch
 thecreativeworhsipkingdom.ch
-thecreativeworshipkingdom.ch
 thecreatoredit.ch
 thecreatormovie.ch
 thecreatoroftime.ch
@@ -6883,6 +6885,7 @@ theextremecollection.ch
 theeye.ch
 theeyebrowclinic.ch
 theeyebrowsclinic.ch
+theeyesaver.ch
 theeyesoftammyfaye.ch
 thefab.ch
 thefabelmans-lefilm.ch
@@ -8760,6 +8763,7 @@ thekooplessport.ch
 thekoperativ.ch
 thekoreanist.ch
 thekorks.ch
+thekraken.ch
 thekramers.ch
 thekrauts.ch
 thekria.ch
@@ -9796,7 +9800,6 @@ themudday.ch
 themuellerlab.ch
 themuellers.ch
 themuentis.ch
-themuerrenflue.ch
 themujiartos.ch
 themula.ch
 themulch.ch
@@ -10049,7 +10052,6 @@ thenot.ch
 thenotes.ch
 thenotification.ch
 thenour.ch
-thenourch.ch
 thenovitas.ch
 thenovum.ch
 thenow.ch
@@ -10390,7 +10392,6 @@ theopendoor.ch
 theopenear.ch
 theopengym.ch
 theopenhouse.ch
-theopenmind.ch
 theopensourcelawfirm.ch
 theopensourceproject.ch
 theopenspace.ch
@@ -13174,7 +13175,6 @@ thermofisher.ch
 thermofishersci.ch
 thermofisherscientific.ch
 thermofit.ch
-thermoflam.ch
 thermoflasche.ch
 thermoflat.ch
 thermoflex.ch
@@ -13600,6 +13600,7 @@ therpeutisches-boxen-bern.ch
 therpeutischesboxen-bern.ch
 therpie-thun.ch
 therra.ch
+therravini.ch
 therre.ch
 thersaliveth2026.ch
 therubberducks.ch
@@ -13959,9 +13960,9 @@ thesign-textiles.ch
 thesign.ch
 thesignal.ch
 thesignature.ch
-thesignco.ch
 thesigning.ch
 thesilcbeauty.ch
+thesilent.ch
 thesilentbystander.ch
 thesilentgarden.ch
 thesilentguest.ch
@@ -14089,6 +14090,7 @@ thesmallbatchproject.ch
 thesmalltowners.ch
 thesmartagency.ch
 thesmartdresser.ch
+thesmartentrepreneur.ch
 thesmartfactor.ch
 thesmartgrid.ch
 thesmarthotels.ch
@@ -17089,7 +17091,6 @@ thisisoursummer.ch
 thisisourwebsite.ch
 thisispan.ch
 thisispark.ch
-thisispiiaminai.ch
 thisispnh.ch
 thisispop.ch
 thisisprint.ch
@@ -19575,7 +19576,6 @@ threeflowers.ch
 threefold.ch
 threefour.ch
 threegreen.ch
-threegreens.ch
 threegrill.ch
 threehalo.ch
 threehandscollective.ch

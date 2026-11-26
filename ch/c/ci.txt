@@ -48,6 +48,7 @@ ci-line.ch
 ci-magazin.ch
 ci-maladies-rares.ch
 ci-maler.ch
+ci-manu.ch
 ci-manual.ch
 ci-motards.ch
 ci-moto.ch
@@ -2036,7 +2037,6 @@ cinecom.ch
 cineconomie.ch
 cineconsult.ch
 cinecontrol.ch
-cinecookclub.ch
 cinecopter.ch
 cinecorrespondance.ch
 cinecouvet.ch
@@ -3006,6 +3006,7 @@ cipollini.ch
 cipos.ch
 ciposa.ch
 cippalippa.ch
+cippatransporti.ch
 cippatrasporti.ch
 cippicphotography.ch
 cippus.ch

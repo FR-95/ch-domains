@@ -133,7 +133,6 @@ orachat.ch
 orachorn-thaimassage.ch
 oracing-sports.ch
 oracle-ag.ch
-oracle-pilot.ch
 oracle-web.ch
 oracle.ch
 oraclea.ch
@@ -157,12 +156,11 @@ oraconseils.ch
 oracotreuhand.ch
 oracover.ch
 oractive.ch
+oraculum.ch
 oraculum24.ch
 orad.ch
 oradba.ch
-oradent.ch
 oradental.ch
-oradentstudio.ch
 oradicambiare.ch
 oradom.ch
 oradomicile.ch
@@ -1448,9 +1446,11 @@ ordano.ch
 ordanwine.ch
 ordapad.ch
 ordas.ch
+ordasio.ch
 ordat.ch
 ordavis.ch
 ordavo.ch
+ordavum.ch
 ordcon.ch
 ordd.ch
 orde.ch
@@ -3075,7 +3075,6 @@ orguesnotredame.ch
 orguestjoseph.ch
 orgulas.ch
 orgvision.ch
-orgvsm.ch
 orgwerk.ch
 orgwerk4school.ch
 orgwerk4work.ch
@@ -3343,6 +3342,7 @@ orientgmbh.ch
 orientgrillsg.ch
 orienthai.ch
 orienthaus.ch
+orientia.ch
 orientic.ch
 orientieren-bewerben-durchstarten.ch
 orientiert.ch
@@ -3767,6 +3767,7 @@ origine-conception.ch
 origine-cookie.ch
 origine-cosmetique.ch
 origine-cosmetiques.ch
+origine-cycles.ch
 origine-food.ch
 origine-gym.ch
 origine-ledoc.ch
@@ -5030,7 +5031,6 @@ orqas.ch
 orqestra.ch
 orqfy.ch
 orqid.ch
-orqis.ch
 orqivo.ch
 orqual.ch
 orquan.ch

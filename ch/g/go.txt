@@ -91,6 +91,7 @@ go-cvcloud.ch
 go-daddy.ch
 go-dark.ch
 go-data.ch
+go-debouchage.ch
 go-deep.ch
 go-dent.ch
 go-depot.ch
@@ -711,7 +712,6 @@ go88hit.ch
 go88l.ch
 go88vn.ch
 go9.ch
-go99.ch
 go9tro.ch
 goa-architecture.ch
 goa-architekten.ch
@@ -2568,6 +2568,7 @@ goitaly.ch
 goitein.ch
 goitgmbh.ch
 goitom-connections.ch
+goizfm.ch
 goizper.ch
 goj.ch
 goja.ch
@@ -3208,6 +3209,7 @@ goldberg-swiss.ch
 goldberg.ch
 goldbergag.ch
 goldberger.ch
+goldbergmedia.ch
 goldbergmusikanten.ch
 goldbergundgoldberg.ch
 goldbergwerk-calanda.ch
@@ -3641,7 +3643,6 @@ goldenbabys.ch
 goldenbalance-universum.ch
 goldenbalance.ch
 goldenballs.ch
-goldenbank.ch
 goldenbar.ch
 goldenbarber.ch
 goldenbauleitung.ch
@@ -4028,7 +4029,6 @@ goldenkeyproperties.ch
 goldenkeys.ch
 goldenklee.ch
 goldenkokon.ch
-goldenkonto.ch
 goldenkraft.ch
 goldenkraken.ch
 goldenlab.ch
@@ -4662,6 +4662,7 @@ golditech-ventures.ch
 goldiva.ch
 goldiwil-schwendibach.ch
 goldiwil.ch
+goldiwin-casino.ch
 goldiwin.ch
 goldix.ch
 goldjewellery.ch
@@ -5271,7 +5272,6 @@ goldsilbershop24.ch
 goldsilo.ch
 goldsilver.ch
 goldsilverpulse.ch
-goldsilvershop.ch
 goldsilvershop24.ch
 goldsinn.ch
 goldsite-romoos.ch
@@ -9721,7 +9721,6 @@ gospel-factory.ch
 gospel-farm.ch
 gospel-fountain.ch
 gospel-generation.ch
-gospel-gossau.ch
 gospel-info.ch
 gospel-music.ch
 gospel-on.ch

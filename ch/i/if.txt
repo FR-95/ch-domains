@@ -566,7 +566,6 @@ ifone-shop.ch
 ifone.ch
 ifoneshop.ch
 ifonly.ch
-ifood-delivery.ch
 ifood.ch
 ifoodmarketrapperswil.ch
 ifootage.ch
@@ -652,6 +651,7 @@ ifpmeng.ch
 ifpp.ch
 ifprint.ch
 ifps.ch
+ifpsg.ch
 ifpsi.ch
 ifpt.ch
 ifpz.ch

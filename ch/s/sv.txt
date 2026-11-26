@@ -464,7 +464,6 @@ svbl.ch
 svbm.ch
 svbmf.ch
 svbn.ch
-svbo.ch
 svboa.ch
 svboppelsen.ch
 svbox.ch
@@ -1872,6 +1871,7 @@ svp-arisdorf.ch
 svp-arlesheim.ch
 svp-arni-islisberg.ch
 svp-arth.ch
+svp-auenstein.ch
 svp-augst.ch
 svp-baar.ch
 svp-bachenbuelach.ch

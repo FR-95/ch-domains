@@ -4961,7 +4961,6 @@ beavair.ch
 beaver-am.ch
 beaver-conseils.ch
 beaver-creations.ch
-beaver-hochwasserschutz.ch
 beaver-holding.ch
 beaver-immo.ch
 beaver-invest.ch
@@ -5254,6 +5253,7 @@ bebibu.ch
 bebida.ch
 bebie-archbau.ch
 bebie-consulting.ch
+bebie-stiftung.ch
 bebie.ch
 bebiephotography.ch
 bebike.ch
@@ -6676,6 +6676,7 @@ bee-again.ch
 bee-api.ch
 bee-appee.ch
 bee-architekten.ch
+bee-architket.ch
 bee-arha.ch
 bee-bad.ch
 bee-bee.ch
@@ -7300,6 +7301,7 @@ beemusic.ch
 beemusicagency.ch
 beemyblood.ch
 beemymusic.ch
+beemyphone.ch
 beemytech.ch
 been-jammin.ch
 been.ch
@@ -8733,6 +8735,7 @@ begue-fallou.ch
 beguelin-spirits.ch
 beguelin.ch
 beguelinbex.ch
+beguelinconsulting.ch
 beguelinsarl.ch
 beguelinsoft.ch
 beguenstigung-erbrecht.ch
@@ -9537,6 +9540,7 @@ beizen-tour.ch
 beizenbrief.ch
 beizenchor.ch
 beizencup.ch
+beizenfriedhof.ch
 beizenkenner.ch
 beizenstuhl.ch
 beizentische.ch
@@ -9706,6 +9710,7 @@ bekim.ch
 bekimalimi.ch
 bekimbarber.ch
 bekimkumanova.ch
+bekimlocation.ch
 bekimmustafi.ch
 bekina-indurub.ch
 bekina.ch
@@ -13394,6 +13399,7 @@ bemyheart.ch
 bemyhero.ch
 bemyhomemanager.ch
 bemymentor.ch
+bemyphone.ch
 bemyprivatetrainer.ch
 bemyquarantine.ch
 bemyscout.ch
@@ -13661,6 +13667,7 @@ benchsoleil.ch
 benchte.ch
 benchtech.ch
 benchy.ch
+benchyard.ch
 bencibros.ch
 bencibrothers.ch
 bencic.ch
@@ -18597,7 +18604,6 @@ bergfuehrervergleich.ch
 bergfuehrerwallisschweiz.ch
 bergfuehrerwilly.ch
 bergfuehrungen.ch
-bergfuerst.ch
 bergfuersten.ch
 bergfund.ch
 bergfunk.ch
@@ -19789,7 +19795,6 @@ bergwandercamp.ch
 bergwanderdorf.ch
 bergwanderer.ch
 bergwanderfreunde.ch
-bergwandergruppe.ch
 bergwanderguide.ch
 bergwanderhotel.ch
 bergwanderleiterin.ch
@@ -21626,7 +21631,6 @@ bernerfotografin.ch
 bernerfrauenstimmen.ch
 bernerfreilandeier.ch
 bernerfruechte.ch
-bernerfuerberner.ch
 bernerfusszentrum.ch
 bernergalerien.ch
 bernergarten.ch
@@ -22396,6 +22400,7 @@ bernina-aarberg.ch
 bernina-abo.ch
 bernina-aerial.ch
 bernina-affoltern.ch
+bernina-app.ch
 bernina-basel.ch
 bernina-bau-labor.ch
 bernina-bern.ch
@@ -22602,6 +22607,7 @@ berninamodell.ch
 berninamorat.ch
 berninamurten.ch
 berninaneuchatel.ch
+berninanordicweekend.ch
 berninaolten.ch
 berninaostschweiz.ch
 berninaparc.ch
@@ -24500,7 +24506,6 @@ berweger-gmbh.ch
 berweger-treuhand.ch
 berweger.ch
 berwegeragroconsulting.ch
-berwegerdigital.ch
 berwegergartenbau.ch
 berwegers.ch
 berwert-fabian.ch
@@ -25527,6 +25532,7 @@ bessermann.ch
 bessermehrverkaufen.ch
 bessermitabstand.ch
 bessermiteinander.ch
+bessermitenand.ch
 bessermitfahren.ch
 bessernaturlich.ch
 bessero-sarl.ch
@@ -28548,7 +28554,6 @@ betbetbet.ch
 betbit.ch
 betblick.ch
 betbluff.ch
-betbona.ch
 betbook.ch
 betboro.ch
 betboss.ch
@@ -28823,6 +28828,7 @@ betistacasino.ch
 betistach.ch
 betistan.ch
 betit-all.ch
+betit.ch
 betitall.ch
 betitallwetten.ch
 betiton.ch
@@ -28861,6 +28867,7 @@ betman.ch
 betmaster.ch
 betmat.ch
 betmatch.ch
+betmatchcasino.ch
 betmaximus.ch
 betmgm.ch
 betmgmcasino.ch
@@ -29856,8 +29863,6 @@ betriebsunterhalt-aip.ch
 betriebsunterhalt-bku.ch
 betriebsunterhalt-zh.ch
 betriebsunterhalt.ch
-betriebsurlaub.ch
-betriebsurlaube.ch
 betriebsverkauf.ch
 betriebsverlagerung.ch
 betriebsverpflegung.ch
@@ -29950,6 +29955,7 @@ betsaleel.ch
 betsamigo.ch
 betsamuro.ch
 betsan.ch
+betscarab.ch
 betscasino-ch.ch
 betsch-art.ch
 betsch.ch
@@ -31869,7 +31875,6 @@ bewaloc.ch
 bewan.ch
 bewandert.ch
 bewandrt.ch
-bewar.ch
 beware-of-pirates.ch
 bewaro.ch
 bewas.ch
@@ -32592,6 +32597,7 @@ bewerbungsbox.ch
 bewerbungsbro.ch
 bewerbungsbuddy.ch
 bewerbungscenter.ch
+bewerbungscheck.ch
 bewerbungschreiben.ch
 bewerbungschreiber.ch
 bewerbungschweiz.ch
@@ -33417,7 +33423,6 @@ beyerbeans.ch
 beyerdynamic.ch
 beyerle.ch
 beyermedia.ch
-beyers.ch
 beyersbratwurst.ch
 beyersoil.ch
 beyflix.ch
@@ -33902,6 +33907,7 @@ beyondtradition.ch
 beyondtraining.ch
 beyondtravel.ch
 beyondtrends.ch
+beyonduplift.ch
 beyondurology.ch
 beyondus.ch
 beyondvalhalla.ch
@@ -34334,6 +34340,7 @@ bezirksanzeiger-dietikon.ch
 bezirksanzeiger.ch
 bezirksecho.ch
 bezirksfeuerwehrverband-dielsdorf.ch
+bezirksfeuerwehrverband-uster.ch
 bezirksgebaeude.ch
 bezirksgeometer.ch
 bezirksgericht-affoltern.ch

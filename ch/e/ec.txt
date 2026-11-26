@@ -557,6 +557,7 @@ ecfvr.ch
 ecg-fiduciaire.ch
 ecg-gruppe.ch
 ecg-horgen.ch
+ecg-ludo.ch
 ecg-sud.ch
 ecg-waves.ch
 ecg.ch
@@ -1251,7 +1252,6 @@ echt-scharf.ch
 echt-schweiz.ch
 echt-schweizer-parkett.ch
 echt-sicher.ch
-echt-simmental.ch
 echt-stark-anziehend.ch
 echt-stark.ch
 echt-suhr.ch

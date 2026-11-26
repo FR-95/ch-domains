@@ -1927,6 +1927,7 @@ pointfixe.ch
 pointfixephoto.ch
 pointfocal.ch
 pointfou.ch
+pointfox.ch
 pointg.ch
 pointgeo.ch
 pointgesa.ch
@@ -5175,6 +5176,7 @@ pollutarif.ch
 polluteam.ch
 pollutec.ch
 pollutech.ch
+pollutest.ch
 pollutex.ch
 pollution-electromagnetique-presentation.ch
 pollution.ch
@@ -6235,6 +6237,7 @@ polyphot.ch
 polypid.ch
 polypins.ch
 polypitch.ch
+polypix.ch
 polypixel.ch
 polyplab.ch
 polyplan.ch
@@ -7219,6 +7222,7 @@ ponsse.ch
 ponsyrus.ch
 pont-de-la-machine.ch
 pont-de-thielle.ch
+pont-des-langues.ch
 pont-du-gard.ch
 pont-en-ogoz.ch
 pont-en-ogoz24.ch
@@ -7287,6 +7291,7 @@ ponteca.ch
 pontecapriasca.ch
 pontecapriasca24.ch
 pontech.ch
+ponteculturale.ch
 pontecura.ch
 pontedilegno.ch
 pontedivalle.ch
@@ -7294,6 +7299,7 @@ ponteggi.ch
 pontego.ch
 pontei.ch
 ponteimmobilienschweiz.ch
+ponteira.ch
 pontel.ch
 ponteleone.ch
 pontelli-treuhand.ch
@@ -11388,6 +11394,7 @@ posidocasino.ch
 posidoch.ch
 posidoch1.ch
 posidoofficial.ch
+posidospin.ch
 posiforlid.ch
 posiformin.ch
 posify.ch
@@ -11871,6 +11878,7 @@ posta-veglia-laax.ch
 posta-veglia.ch
 posta.ch
 postabiala.ch
+postablage.ch
 postable.ch
 postacard.ch
 postacarona.ch
@@ -12231,6 +12239,7 @@ postextern.ch
 postexternal.ch
 postf-gestion.ch
 postfa.ch
+postfach-plus.ch
 postfach-service.ch
 postfach-zg.ch
 postfach.ch
@@ -12763,6 +12772,7 @@ postweg-selzach.ch
 postwege.ch
 postwegli.ch
 postweiterleitung.ch
+postwerk.ch
 postwiese.ch
 postx.ch
 posty.ch
@@ -12781,7 +12791,6 @@ posvonistirlitzu.ch
 posware.ch
 posweb.ch
 poswise.ch
-poswiss.ch
 posx.ch
 posxperience.ch
 posxpert.ch

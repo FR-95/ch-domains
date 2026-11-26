@@ -729,6 +729,7 @@ mcdeath.ch
 mcdeco.ch
 mcdecoration.ch
 mcdegerkingen.ch
+mcdelivery.ch
 mcdermott.ch
 mcdermottferber.ch
 mcdetailling.ch
@@ -1103,7 +1104,6 @@ mci-mco.ch
 mci-produkte.ch
 mci-sa.ch
 mci-swiss.ch
-mci-technics.ch
 mci-zuerich.ch
 mci-zurich.ch
 mci.ch
@@ -1176,7 +1176,6 @@ mck-weine.ch
 mck.ch
 mck77southend.ch
 mckane.ch
-mckanzy.ch
 mckay-brothers-international.ch
 mckay.ch
 mckays.ch

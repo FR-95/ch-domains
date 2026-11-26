@@ -3,7 +3,6 @@ bi-academy.ch
 bi-administration.ch
 bi-ag.ch
 bi-ai.ch
-bi-analytics.ch
 bi-architekt.ch
 bi-art.ch
 bi-arts.ch
@@ -39,7 +38,6 @@ bi-de-luet.ch
 bi-del.ch
 bi-di.ch
 bi-digital.ch
-bi-dynamics.ch
 bi-effe.ch
 bi-erp.ch
 bi-esse.ch
@@ -543,6 +541,7 @@ bibc-office.ch
 bibc.ch
 bibchip.ch
 bibconsulting.ch
+bibcrush.ch
 bibd.ch
 bibe.ch
 bibeco-kuhn.ch
@@ -1020,7 +1019,6 @@ biblio-gibloux.ch
 biblio-glane.ch
 biblio-immo.ch
 biblio-ludo-granges-paccot.ch
-biblio-monde.ch
 biblio-museedujeu.ch
 biblio-neuchatel.ch
 biblio-nw.ch
@@ -2660,6 +2658,7 @@ bienenbeiderbasel.ch
 bienenberg-blog.ch
 bienenberg.ch
 bienenbeute.ch
+bienenbeutel.ch
 bienenbeuten.ch
 bienenbotschafter.ch
 bienenbox.ch
@@ -3293,6 +3292,7 @@ bierakademie.ch
 bierakademieschweiz.ch
 bieraktivist.ch
 bieralarm.ch
+bierambach.ch
 bieramide.ch
 bieraner.ch
 bieranha.ch
@@ -4160,7 +4160,6 @@ bifaengli.ch
 bifag-ag.ch
 bifag.ch
 bifam.ch
-bifanas.ch
 bifang-apotheke.ch
 bifang-app.ch
 bifang-corner.ch
@@ -6269,7 +6268,6 @@ bikeauction.ch
 bikeaufhaengesystem.ch
 bikeausbildung.ch
 bikeausruestung.ch
-bikeb2b.ch
 bikeback.ch
 bikebaer.ch
 bikebag-rental.ch
@@ -7817,6 +7815,7 @@ bildenberaten.ch
 bildende-kuenste.ch
 bildende-kunst.ch
 bildendekunst.ch
+bildendekunstbasel.ch
 bildenundberaten.ch
 bildenundvermitteln.ch
 bilder-aquarelle.ch
@@ -10450,6 +10449,7 @@ bimmer-boost.ch
 bimmer-crew.ch
 bimmer-kleinanzeigen.ch
 bimmer.ch
+bimmerbern.ch
 bimmerboost.ch
 bimmerboys.ch
 bimmerclassics.ch
@@ -11198,7 +11198,6 @@ bingo.ch
 bingo770.ch
 bingo777.ch
 bingoal.ch
-bingobon.ch
 bingobonga.ch
 bingobongacasino.ch
 bingobongo.ch
@@ -12055,6 +12054,7 @@ bio-online-shop.ch
 bio-online.ch
 bio-optronics.ch
 bio-or-die.ch
+bio-oregano.ch
 bio-ostschweiz.ch
 bio-ow-nw.ch
 bio-oxymel.ch
@@ -12719,6 +12719,7 @@ biocirc.ch
 biocircular.ch
 biocitrix.ch
 bioclean-shop.ch
+bioclean-solutions.ch
 bioclean.ch
 biocleanair.ch
 biocleanmatratzenreinigung.ch
@@ -15648,6 +15649,7 @@ biosphera.ch
 biosphere-compost.ch
 biosphere-jardin.ch
 biosphere-jardins.ch
+biosphere-neuchatel.ch
 biosphere.ch
 biospherejardin.ch
 biospherejardins.ch
@@ -16185,7 +16187,6 @@ biowell-valais.ch
 biowelle.ch
 biowellmartigny.ch
 biowellness.ch
-biowels-shop.ch
 biowels.ch
 biowelt-amriswil.ch
 biowelt.ch
@@ -16331,7 +16332,6 @@ bipolar.ch
 bipolars.ch
 bipolder.ch
 bipole.ch
-bipoles.ch
 bipolino-ergo.ch
 bipor.ch
 biporaswitzerland.ch
@@ -16788,7 +16788,6 @@ birdlink.ch
 birdlodge.ch
 birdlogyc.ch
 birdlord.ch
-birdlove.ch
 birdlovers.ch
 birdly.ch
 birdman.ch
@@ -17934,7 +17933,6 @@ biscosuisse.ch
 biscoswiss.ch
 biscotte-la-marmotte.ch
 biscotte.ch
-biscotti-lucerna.ch
 biscotti.ch
 biscottiamo.ch
 biscotto.ch
@@ -18490,6 +18488,7 @@ bistro-porto.ch
 bistro-promenade.ch
 bistro-provence.ch
 bistro-quai1.ch
+bistro-rastenmoos.ch
 bistro-rathausbrauerei.ch
 bistro-rebelle.ch
 bistro-riffraff.ch
@@ -19703,6 +19702,7 @@ bitelec-service.ch
 bitelec.ch
 bitelecom.ch
 bitemark.ch
+biteme.ch
 bitemedia.ch
 bitencourt.ch
 bitener.ch
@@ -20372,7 +20372,6 @@ bitvision.ch
 bitvodoo.ch
 bitvoip.ch
 bitvolut.ch
-bitvolutai.ch
 bitvoodo.ch
 bitvoodoo.ch
 bitvps.ch

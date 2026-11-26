@@ -31,6 +31,7 @@ pa-f.ch
 pa-finanz.ch
 pa-gmbh.ch
 pa-golf.ch
+pa-group.ch
 pa-heritier.ch
 pa-hsh.ch
 pa-immo-management.ch
@@ -1334,6 +1335,7 @@ packungsprospekte.ch
 packup.ch
 packverde.ch
 packverse.ch
+packweg.ch
 packwerde.ch
 packwerk.ch
 packwise.ch
@@ -4463,6 +4465,7 @@ palettentrade.ch
 palettenverkaufen.ch
 palettenverpackung.ch
 palettenversand.ch
+palettenversand24.ch
 palettenwaagen.ch
 palettenware.ch
 palettenwechsler.ch
@@ -5554,6 +5557,7 @@ pamm.ch
 pammann.ch
 pammer.ch
 pammeyer.ch
+pammy.ch
 pammys.ch
 pamo-autoglas.ch
 pamo-care.ch
@@ -6202,7 +6206,6 @@ pandalingo.ch
 pandalino.ch
 pandalive.ch
 pandally.ch
-pandalocker.ch
 pandaloo.ch
 pandalove.ch
 pandalux.ch
@@ -6896,6 +6899,7 @@ panita-nails.ch
 panita.ch
 panito.ch
 panivino.ch
+panivo.ch
 panix.ch
 panixa.ch
 panixer-group.ch
@@ -8761,6 +8765,7 @@ papery.ch
 paperzero.ch
 papes.ch
 papeshop.ch
+papesto.ch
 papesundfilter.ch
 papet-vaudois.ch
 papet.ch
@@ -11958,7 +11963,6 @@ pariltiorganisation.ch
 pariltiproduction.ch
 parima.ch
 parimala.ch
-parimat.ch
 parimed.ch
 parimmo.ch
 parimob-holding.ch
@@ -12960,6 +12964,7 @@ parkimgruenen.ch
 parkimmo.ch
 parkimmobilien.ch
 parkims.ch
+parkin.ch
 parkindex.ch
 parkindigo.ch
 parkineasy.ch
@@ -14591,6 +14596,7 @@ partenaireparticulier.ch
 partenairerh.ch
 partenaires-abacus.ch
 partenaires-conseils.ch
+partenaires-constructions.ch
 partenaires-hairsss.ch
 partenaires-immobilier.ch
 partenaires.ch
@@ -15424,6 +15430,7 @@ partsmotors.ch
 partsofpassion.ch
 partsofsafety.ch
 partsolutions.ch
+partspace.ch
 partspak.ch
 partspapa.ch
 partspec.ch
@@ -15518,6 +15525,7 @@ party-games.ch
 party-gaming.ch
 party-geschichten.ch
 party-girl.ch
+party-hard.ch
 party-hardcore.ch
 party-helden.ch
 party-hochzeit.ch
@@ -15952,6 +15960,7 @@ partypinguin.ch
 partypizza.ch
 partypizzacatering.ch
 partyplaner.ch
+partyplanly.ch
 partyplanner.ch
 partyplanners.ch
 partyplanr.ch
@@ -16173,6 +16182,7 @@ partyversand.ch
 partyvilla.ch
 partyvogel-catering.ch
 partyvogel.ch
+partywagen-kemmental.ch
 partywagen-willisau.ch
 partywagen.ch
 partyware.ch
@@ -18349,6 +18359,7 @@ passioneepiu.ch
 passioneer-investments.ch
 passioneer.ch
 passionef40.ch
+passionefit.ch
 passionefredda.ch
 passioneghiaccio.ch
 passionela.ch
@@ -19654,6 +19665,7 @@ patent-service.ch
 patent-software.ch
 patent-suche.ch
 patent-technical.ch
+patent-translations.ch
 patent-valuation.ch
 patent-zink.ch
 patent-zuerich.ch
@@ -20464,6 +20476,7 @@ patizon.ch
 patja.ch
 patjac-services.ch
 patjacservices.ch
+patjens.ch
 patjer.ch
 patjo-tissus.ch
 patjo.ch
@@ -21404,6 +21417,7 @@ patrickklossner.ch
 patrickknaus.ch
 patrickknecht.ch
 patrickkobel.ch
+patrickkoch.ch
 patrickkocher.ch
 patrickkoller.ch
 patrickkrebs.ch
@@ -23895,7 +23909,6 @@ pavin.ch
 pavincaffe.ch
 paving-stones.ch
 paving.ch
-pavingways.ch
 pavino.ch
 pavinord.ch
 pavinum.ch
@@ -23998,6 +24011,7 @@ paw-paw.ch
 paw-points.ch
 paw-shop.ch
 paw-sitter.ch
+paw-studio.ch
 paw-swiss.ch
 paw-sys.ch
 paw-tential.ch

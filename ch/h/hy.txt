@@ -2211,7 +2211,6 @@ hypno-julie.ch
 hypno-kids.ch
 hypno-kurzzeitcoach.ch
 hypno-lausanne.ch
-hypno-legacy.ch
 hypno-liberte.ch
 hypno-lights.ch
 hypno-linguistic.ch
@@ -2255,6 +2254,7 @@ hypno-quietude.ch
 hypno-raum.ch
 hypno-regensdorf.ch
 hypno-reha.ch
+hypno-reise.ch
 hypno-relax.ch
 hypno-resilienz.ch
 hypno-ressourcement.ch
@@ -2336,6 +2336,7 @@ hypnobase.ch
 hypnobern.ch
 hypnobiel.ch
 hypnobilder.ch
+hypnobiok.ch
 hypnobirthing-aarau.ch
 hypnobirthing-aargau.ch
 hypnobirthing-baby.ch
@@ -2493,7 +2494,6 @@ hypnolab.ch
 hypnolausanne.ch
 hypnolearn.ch
 hypnolearning.ch
-hypnolegacy.ch
 hypnolegend.ch
 hypnolegends.ch
 hypnolia.ch
@@ -2583,6 +2583,7 @@ hypnoraum.ch
 hypnoreg.ch
 hypnoregensdorf.ch
 hypnoreha.ch
+hypnoreise.ch
 hypnorelax.ch
 hypnorelief.ch
 hypnoreset-mindandbody.ch

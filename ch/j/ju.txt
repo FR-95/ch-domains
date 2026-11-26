@@ -285,6 +285,8 @@ jubla-eoe.ch
 jubla-eschenbach.ch
 jubla-escholzmatt.ch
 jubla-fischingen.ch
+jubla-fislisba.ch
+jubla-fislisbach.ch
 jubla-freiburg.ch
 jubla-frick.ch
 jubla-gachnang.ch
@@ -393,6 +395,8 @@ jublaengelburg.ch
 jublaeschenz.ch
 jublafantasia.ch
 jublafest.ch
+jublafislisba.ch
+jublafislisbach.ch
 jublaflow.ch
 jublafrick.ch
 jublafriesenberg.ch
@@ -1541,6 +1545,7 @@ juflicheibe.ch
 jufo.ch
 jufosarmenstorf.ch
 jufotec.ch
+jufra.ch
 jufri.ch
 jufrii.ch
 jug-lugano.ch
@@ -4059,6 +4064,7 @@ julietvles.ch
 julietwebermassagepraxis.ch
 juliev.ch
 julievillevet.ch
+juliewienert.ch
 juliewright.ch
 julifoto.ch
 juligal-architektur.ch
@@ -4423,7 +4429,6 @@ jumo-art.ch
 jumo-kaltbrunn.ch
 jumo-training.ch
 jumo.ch
-jumoinvest.ch
 jumondo.ch
 jumotraining.ch
 jumoup.ch
@@ -5985,6 +5990,7 @@ junodimmo.ch
 junodpeinture.ch
 junodsolutions.ch
 junodtax.ch
+junofeierabend.ch
 junohebammen.ch
 junomorse.ch
 junon.ch
@@ -6013,7 +6019,6 @@ juntajoven.ch
 junte.ch
 junteressli.ch
 juntersee.ch
-junthachatreuhand.ch
 junto.ch
 juntopreneur.ch
 juntos-vd.ch
@@ -7687,7 +7692,6 @@ justanotherpopup.ch
 justanswer.ch
 justapin.ch
 justar.ch
-justarannndomtesst.ch
 justarchitecture.ch
 justart.ch
 justasiam.ch
@@ -7955,6 +7959,7 @@ justfly.ch
 justflying.ch
 justfocus.ch
 justfog.ch
+justfokus.ch
 justfollowmai.ch
 justfoodfordogs.ch
 justfoods.ch

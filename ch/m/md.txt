@@ -425,6 +425,7 @@ mdhelp.ch
 mdhinvest.ch
 mdhoesli.ch
 mdholding.ch
+mdholz.ch
 mdholzhandel.ch
 mdhr.ch
 mdi-backoffice.ch
@@ -442,6 +443,7 @@ mdice.ch
 mdid.ch
 mdidraulica.ch
 mdiem.ch
+mdiener.ch
 mdieti.ch
 mdietri.ch
 mdietrich.ch

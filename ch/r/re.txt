@@ -4918,8 +4918,6 @@ rechtschreibpruefung.ch
 rechtschreibreform.ch
 rechtschreibstrategien.ch
 rechtschreibtest.ch
-rechtschreibung-deutsch.ch
-rechtschreibung-korrektur.ch
 rechtschutz-versicherung.ch
 rechtschutz-versicherungen.ch
 rechtschutz.ch
@@ -6047,7 +6045,10 @@ rectogesic.ch
 rectoprint.ch
 rector-lucis.ch
 rector.ch
+rectorag.ch
+rectorat.ch
 rectore.ch
+rectorprivate.ch
 rectoverseau.ch
 rectoverso-assh.ch
 rectoverso-redaction.ch
@@ -9343,6 +9344,7 @@ referendum-salaireminimum.ch
 referendum-salario-minimo.ch
 referendum-spitalgesetz.ch
 referendum-subito.ch
+referendum-svplu.ch
 referendum-ue.ch
 referendum-vevey.ch
 referendum.ch
@@ -13137,8 +13139,10 @@ registerauszuege.ch
 registerauszug.ch
 registeraz.ch
 registerbuch.ch
+registercheck.ch
 registerderschweizernotare.ch
 registerdonaziunorgans.ch
+registered-office-switzerland.ch
 registered.ch
 registeredagent.ch
 registeredletter.ch
@@ -15496,6 +15500,7 @@ reikibykathrin.ch
 reikibykusi.ch
 reikienergie.ch
 reikienergy.ch
+reikienergyhealing.ch
 reikiengruyere.ch
 reikifirst.ch
 reikiflow.ch
@@ -16205,6 +16210,7 @@ reinigung2go.ch
 reinigung360.ch
 reinigung365.ch
 reinigung4you.ch
+reinigung7000.ch
 reinigungaargau.ch
 reinigungabc.ch
 reinigungadelboden.ch
@@ -19020,6 +19026,7 @@ rekrutierungsprofi.ch
 rekrutierungsprofis.ch
 rekrutierungsprozess.ch
 rekrutierungsspezialist-psychologie-jobs.ch
+rekrutierungstest-ueben.ch
 rekrutinghab.ch
 rekrutinghub.ch
 rekruto.ch
@@ -19255,6 +19262,7 @@ relationalmindfulness.ch
 relationalpath.ch
 relationasoi.ch
 relationatfamily.ch
+relationathome.ch
 relationatwork.ch
 relationcare.ch
 relationclient.ch
@@ -19936,6 +19944,7 @@ religion-und-kultur.ch
 religion-wissenschaftlich.ch
 religion.ch
 religionamgymnasium.ch
+religionbasel.ch
 religione.ch
 religionecattolica.ch
 religionen-im-dialog.ch
@@ -20351,7 +20360,6 @@ relux-signalisation.ch
 relux-swiss.ch
 relux-werbetechnik.ch
 relux.ch
-reluxagency.ch
 reluxe.ch
 reluxeatelier.ch
 reluxevent.ch
@@ -20814,6 +20822,7 @@ remera.ch
 remerciements-deuil.ch
 remere.ch
 remerge.ch
+remergencewear.ch
 remerimmo.ch
 remeron.ch
 remesana.ch
@@ -20925,7 +20934,6 @@ remilopez.ch
 remimag-interieur.ch
 remimag.ch
 remimed.ch
-remimontage.ch
 remin.ch
 remina.ch
 remind-me-herzen.ch
@@ -24124,6 +24132,7 @@ renomat.ch
 renomatch.ch
 renomatik.ch
 renomation.ch
+renomaus.ch
 renomax.ch
 renomaxx.ch
 renome-plattenleger.ch
@@ -24312,7 +24321,6 @@ renova-umbau.ch
 renova.ch
 renova24.ch
 renova360.ch
-renovaai.ch
 renovaamgmbh.ch
 renovabad.ch
 renovabat.ch
@@ -25634,6 +25642,7 @@ rentapainter.ch
 rentapartment.ch
 rentapartments.ch
 rentaperson.ch
+rentapessimist.ch
 rentaphone.ch
 rentapiano.ch
 rentapicknick.ch
@@ -25771,6 +25780,7 @@ rentcarswiss.ch
 rentcasino.ch
 rentcharger.ch
 rentcheck.ch
+rentclaims.ch
 rentclassiccar.ch
 rentclean.ch
 rentclever.ch
@@ -27736,6 +27746,7 @@ representations.ch
 representativ.ch
 representative.ch
 represented.ch
+representis.ch
 representworld.ch
 repression.ch
 repressiv.ch
@@ -27854,6 +27865,7 @@ reprotect.ch
 reprouhr.ch
 reprovet.ch
 reprovis.ch
+repru.ch
 reps.ch
 repschelle.ch
 repscore.ch
@@ -27963,7 +27975,6 @@ republicofblends.ch
 republicoffans.ch
 republicofgamers.ch
 republicofinnovation.ch
-republicofvision.ch
 republicpictures.ch
 republiczermatt.ch
 republik-gersau.ch
@@ -28357,6 +28368,7 @@ rescht-werk.ch
 reschteglueck.ch
 reschtu.ch
 rescigno.ch
+resco-ag.ch
 resco.ch
 rescom.ch
 rescon.ch
@@ -30223,6 +30235,7 @@ resiq.ch
 resir.ch
 resirent-test-site.ch
 resis-kinderwelt.ch
+resis.ch
 resisdance.ch
 resisgarden.ch
 resiskinderwelt.ch
@@ -30467,6 +30480,7 @@ resonance-painting.ch
 resonance-simon.ch
 resonance-sonique.ch
 resonance-studio.ch
+resonance-vibratoire.ch
 resonance-voicework.ch
 resonance-wood.ch
 resonance.ch
@@ -30602,6 +30616,7 @@ resonis.ch
 resonline.ch
 resonnance.ch
 resonne-et-sens.ch
+resonne.ch
 resonnecoursdechant.ch
 resono-earplugs.ch
 resono.ch
@@ -35259,6 +35274,7 @@ restos-suisse.ch
 restos.ch
 restosansgluten.ch
 restosbox.ch
+restoschweiz.ch
 restoscolaire.ch
 restoscolairecollexbossy.ch
 restosducoeur-sion.ch
@@ -37611,6 +37627,7 @@ reusesource.ch
 reuseum.ch
 reusine.ch
 reusm.ch
+reusmarkt.ch
 reuss-advisory.ch
 reuss-apotheke.ch
 reuss-bautenschutz.ch
@@ -38579,6 +38596,7 @@ review-management.ch
 review-pilot.ch
 review-social.ch
 review.ch
+review24.ch
 reviewatlas.ch
 reviewavis.ch
 reviewbooster.ch
@@ -39532,6 +39550,7 @@ reweag.ch
 rewear-yes.ch
 rewear.ch
 rewear4you.ch
+rewearly.ch
 rewearzh.ch
 reweb.ch
 rewein.ch
@@ -40306,6 +40325,7 @@ rezon.ch
 rezonance.ch
 rezonanz.ch
 rezonet.ch
+rezonne.ch
 rezorapp.ch
 rezore.ch
 rezoscience.ch

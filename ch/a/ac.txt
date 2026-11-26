@@ -3281,7 +3281,6 @@ acheter-sur-plan.ch
 acheter-un-velo.ch
 acheter-vendre-louer.ch
 acheter-vendre.ch
-acheter-voiture.ch
 acheter.ch
 acheteralasource.ch
 achetercannabis.ch
@@ -3305,8 +3304,6 @@ acheteruneetoile.ch
 acheterunepme.ch
 achetervanille.ch
 achetervendre.ch
-achetervendrevoiture.ch
-achetervoiture.ch
 acheteur.ch
 acheteurs.ch
 achetez-louez.ch
@@ -4916,11 +4913,13 @@ acouver.ch
 acouware.ch
 acouwood.ch
 acouzen.ch
+acov.ch
 acova.ch
 acovis.ch
 acovit.ch
 acovoip.ch
 acovos.ch
+acovs.ch
 acowi.ch
 acoz.ch
 acp-admin.ch

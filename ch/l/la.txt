@@ -1353,7 +1353,6 @@ la-quinta.ch
 la-ra.ch
 la-raclette-fribourgeoise.ch
 la-rade.ch
-la-raetica.ch
 la-raffinata-differenza.ch
 la-ragna.ch
 la-raisse.ch
@@ -2988,7 +2987,6 @@ labigaire.ch
 labiglietteria.ch
 labigmbh.ch
 labigorne.ch
-labigoudene1870.ch
 labiil.ch
 labijoutiere.ch
 labikeria.ch
@@ -3382,6 +3380,7 @@ labonumerique.ch
 labookinerie.ch
 laboor.ch
 laboora.ch
+labopaysage.ch
 labopcs.ch
 labopellaton.ch
 laboperformis.ch
@@ -3967,6 +3966,7 @@ laboutiqueatelier-geneve.ch
 laboutiqueauxmilleetunbijoux.ch
 laboutiqueaz.ch
 laboutiquebyc.ch
+laboutiquedannelyse.ch
 laboutiquedanoise.ch
 laboutiquedebebe.ch
 laboutiquedeclaudie.ch
@@ -4938,6 +4938,7 @@ laceandlight.ch
 laceart.ch
 lacecilia.ch
 lacecilienne.ch
+laceciliennedegrangettes.ch
 laceciliennesorens.ch
 laceclo.ch
 laced.ch
@@ -6810,6 +6811,7 @@ ladiesempowerment.ch
 ladiesescort.ch
 ladiesevents.ch
 ladiesfashion.ch
+ladiesfirst-drive.ch
 ladiesfirst.ch
 ladiesfirstchallenge.ch
 ladiesfirstclinique.ch
@@ -7764,6 +7766,7 @@ laenggass.ch
 laenggassblatt.ch
 laenggasse-felsenau.ch
 laenggasse-garage.ch
+laenggasse-immo.ch
 laenggasse.ch
 laenggasse49-thun.ch
 laenggasse7.ch
@@ -9423,6 +9426,7 @@ lagirlswitzerland.ch
 lagirolle.ch
 lagirra.ch
 lagisolutions.ch
+lagitane.ch
 lagitech.ch
 lagittaz.ch
 lagiulia.ch
@@ -12870,7 +12874,6 @@ lamexicana.ch
 lamezan.ch
 lamezanrueeger.ch
 lamezcaleria.ch
-lamezzanine.ch
 lamezze.ch
 lamh.ch
 lamhay.ch
@@ -15059,6 +15062,7 @@ landmanufaktur.ch
 landmap.ch
 landmaps.ch
 landmarep.ch
+landmark-capital.ch
 landmark-media.ch
 landmarkcapital.ch
 landmarker.ch
@@ -18878,6 +18882,7 @@ laracottinelli.ch
 laracroft.ch
 larada.ch
 laradandrea.ch
+larade-ge.ch
 larade.ch
 laradedonno.ch
 laradefayes.ch
@@ -18897,7 +18902,6 @@ laraeichenberger.ch
 laraesk.ch
 laraetcharles.ch
 laraetelio.ch
-laraetica.ch
 larafabian.ch
 larafaeh.ch
 larafashion.ch
@@ -19314,7 +19318,6 @@ larenfile.ch
 lareno.ch
 larenov.ch
 larenoval.ch
-larenovation.ch
 larens-colour.ch
 larens.ch
 larenscolour.ch
@@ -21211,6 +21214,7 @@ lasergraviermaschinen.ch
 lasergravierte-komponenten.ch
 lasergravierte-teile.ch
 lasergravierteteile.ch
+lasergravierung.ch
 lasergravur-geschenke.ch
 lasergravur-service.ch
 lasergravur-swiss.ch
@@ -22531,6 +22535,7 @@ lastschriftkauf.ch
 lastseat.ch
 lastsecond.ch
 lastsip.ch
+laststop.ch
 lastsunday.ch
 lastsweater.ch
 lastthursday.ch
@@ -23755,6 +23760,7 @@ latourdescommuns.ch
 latourdumolard.ch
 latourdusel.ch
 latourdutemps.ch
+latourelledetrembley.ch
 latourencommun.ch
 latourencommuns.ch
 latourfreres.ch
@@ -26073,7 +26079,6 @@ lauroresacree.ch
 laurosalvel.ch
 laurose.ch
 laurospiegel.ch
-laurosusa.ch
 lauroy.ch
 laurphysyfit.ch
 laurs.ch
@@ -28195,6 +28200,7 @@ lawhiteparty.ch
 lawhive.ch
 lawhouse.ch
 lawhub.ch
+lawi-ag.ch
 lawi.ch
 lawia.ch
 lawil-geruestbau-ag.ch
@@ -28602,7 +28608,6 @@ layer-lab.ch
 layer-lounge-3d.ch
 layer-one.ch
 layer-peak.ch
-layer-r.ch
 layer-tech.ch
 layer.ch
 layer0.ch
@@ -28704,6 +28709,7 @@ layon.ch
 layonmed.ch
 layont.ch
 layor.ch
+layour.ch
 layourte.ch
 layourteauxfondues.ch
 layourteenchantee.ch

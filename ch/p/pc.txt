@@ -146,6 +146,7 @@ pc-hilfe-gantrisch.ch
 pc-hilfe-interlaken.ch
 pc-hilfe-kreuzlingen.ch
 pc-hilfe-linthgebiet.ch
+pc-hilfe-luzern.ch
 pc-hilfe-murten.ch
 pc-hilfe-rj.ch
 pc-hilfe-schwarzenburg.ch
@@ -622,7 +623,6 @@ pcca.ch
 pccaddie.ch
 pccag.ch
 pccar.ch
-pccards.ch
 pccash.ch
 pccat.ch
 pccc.ch
@@ -1120,7 +1120,6 @@ pcq.ch
 pcr-club.ch
 pcr-factoryswiss.ch
 pcr-realtime.ch
-pcr-test.ch
 pcr-testing.ch
 pcr-winterthur.ch
 pcr-zimmerli.ch

@@ -573,7 +573,9 @@ smar.ch
 smar7.ch
 smara-ai.ch
 smara.ch
+smaraaccount.ch
 smaraai.ch
+smaracare.ch
 smaract.ch
 smaracta.ch
 smaracts.ch
@@ -2395,6 +2397,7 @@ smartengine.ch
 smartengineering.ch
 smartensemble.ch
 smartenvi.ch
+smarteo-piscines.ch
 smarteo-sauna.ch
 smarteo.ch
 smarteopiscines.ch
@@ -2871,6 +2874,7 @@ smarthomeasaservice.ch
 smarthomebasel.ch
 smarthomebastler.ch
 smarthomeberater.ch
+smarthomeberatung.ch
 smarthomeblog.ch
 smarthomebyhornbach.ch
 smarthomech.ch
@@ -5261,6 +5265,7 @@ smhg.ch
 smhl.ch
 smhmahdi.ch
 smhn.ch
+smho.ch
 smholding.ch
 smholzverarbeitung.ch
 smhome.ch
@@ -5550,7 +5555,6 @@ smileandtrust.ch
 smileandvictoryfoundation.ch
 smileandwinteam.ch
 smileapp.ch
-smileart.ch
 smileartdental.ch
 smileartist-chatel-st-denis.ch
 smileartist-chatel.ch
@@ -5770,6 +5774,7 @@ smilepure.ch
 smilepusher.ch
 smiler-index.ch
 smiler.ch
+smilereinigung.ch
 smilereisen.ch
 smilerindex.ch
 smilers-by-camlog.ch

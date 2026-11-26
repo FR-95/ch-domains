@@ -3994,6 +3994,7 @@ chams.ch
 chamsi.ch
 chamsine.ch
 chamster.ch
+chamstravels.ch
 chamswiss.ch
 chamswissproperties.ch
 chamsys-dach.ch
@@ -5133,7 +5134,6 @@ chaos-flitzers.ch
 chaos-im-buero.ch
 chaos-industries.ch
 chaos-initiative-nein.ch
-chaos-navigator.ch
 chaos-nein.ch
 chaos-no.ch
 chaos-non.ch
@@ -5170,7 +5170,6 @@ chaoscomputerclub.ch
 chaoscrack.ch
 chaoscrew2.ch
 chaoscrew3.ch
-chaoscyclingclub.ch
 chaoscyclingcollective.ch
 chaosdice.ch
 chaosdiceclub.ch
@@ -8632,7 +8631,6 @@ chayto-jewellers.ch
 chayto-joailliers.ch
 chayto.ch
 chayton.ch
-chaz-bjj.ch
 chaz.ch
 chazal-ingenierie.ch
 chazal.ch
@@ -9435,6 +9433,7 @@ checktools.ch
 checktop.ch
 checktrainee.ch
 checktroniks.ch
+checktrust.ch
 checktyra.ch
 checkup-center.ch
 checkup-honda.ch
@@ -9733,7 +9732,6 @@ cheesly.ch
 cheesmeyer.ch
 cheesundmeh.ch
 cheesus-sticks.ch
-cheesus.ch
 cheesy-adventure.ch
 cheesy-clothes.ch
 cheesy-club.ch
@@ -10039,6 +10037,7 @@ chegrill.ch
 cheguerilla.ch
 cheguevara.ch
 chehab.ch
+chehademontagen.ch
 cheib.ch
 cheibe.ch
 cheibechoge.ch
@@ -10355,7 +10354,6 @@ chemin-de-fer-fribourg.ch
 chemin-de-la-sarine.ch
 chemin-de-st-jacques.ch
 chemin-de-stjacques.ch
-chemin-de-traverse.ch
 chemin-de-vie.ch
 chemin-des-arts.ch
 chemin-des-bles.ch
@@ -10415,7 +10413,6 @@ chemindesvignes.ch
 chemindesvins.ch
 chemindeterre.ch
 chemindetirelonge.ch
-chemindetraverse.ch
 chemindeveil.ch
 chemindevie.ch
 chemindeviemonthey.ch
@@ -12436,6 +12433,7 @@ chezmoiatelier.ch
 chezmoiauflon.ch
 chezmoibobo.ch
 chezmoicamarche.ch
+chezmoidemain.ch
 chezmoiserein.ch
 chezmollie.ch
 chezmona.ch
@@ -14171,7 +14169,6 @@ chili-rocket.ch
 chili-sauce.ch
 chili-sauces.ch
 chili-shop.ch
-chili-sprachaufenthalte.ch
 chili-srk.ch
 chili-storage.ch
 chili-tales.ch
@@ -14548,6 +14545,7 @@ chillyhill.ch
 chillyhub.ch
 chillyjoy.ch
 chillynet.ch
+chillypup.ch
 chillys.ch
 chillysbottles.ch
 chillyvan.ch
@@ -18280,6 +18278,7 @@ chollos.ch
 cholly.ch
 cholo.ch
 cholokyan.ch
+cholowiss.ch
 cholplatz.ch
 cholplatz13.ch
 cholrain.ch
@@ -18396,7 +18395,6 @@ choose.ch
 choose2peak.ch
 chooseagain.ch
 choosefreedom.ch
-choosegrowth.ch
 choosehappiness.ch
 choosehappy.ch
 choosehumanity.ch
@@ -20257,6 +20255,7 @@ christellebesse.ch
 christellebichet.ch
 christellebillod.ch
 christellebonny.ch
+christellebugnon.ch
 christellechartrey.ch
 christellechopard.ch
 christellecoupeenergetique.ch
@@ -23651,6 +23650,10 @@ chronodesk.ch
 chronodesvignes.ch
 chronodex.ch
 chronodirekt.ch
+chronodiscreet.ch
+chronodiscret.ch
+chronodiscrete.ch
+chronodiskret.ch
 chronodoctor.ch
 chronodream.ch
 chronoenergie.ch
@@ -24170,6 +24173,7 @@ chsolutions.ch
 chsp.ch
 chspalinger.ch
 chspeiser.ch
+chspiegel.ch
 chspitex.ch
 chsport.ch
 chspot.ch

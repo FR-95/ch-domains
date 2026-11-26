@@ -275,6 +275,7 @@ examdeutsch.ch
 examedia-service.ch
 examedia.ch
 examedix.ch
+examen-admission-entrainement.ch
 examen-assc.ch
 examen-cafetier.ch
 examen-de-la-vue.ch
@@ -291,6 +292,7 @@ examen.ch
 examendeconduite.ch
 examenecus.ch
 examenmedical.ch
+examenoacp.ch
 examens-suisses.ch
 examens.ch
 examensarbeit.ch
@@ -2454,7 +2456,6 @@ exoticcarsrental.ch
 exoticdetailing.ch
 exoticfleet.ch
 exoticfood.ch
-exoticfresh.ch
 exoticmarkt.ch
 exoticmonkey.ch
 exoticos.ch
@@ -2505,7 +2506,6 @@ exovoid.ch
 exowatches.ch
 exoweb.ch
 exp-cie.ch
-exp-imm.ch
 exp-immobilien.ch
 exp-orval.ch
 exp-switzerland.ch
@@ -2890,6 +2890,7 @@ expense.ch
 expenseai.ch
 expensebot.ch
 expensebrain.ch
+expensecap.ch
 expensemanager.ch
 expensereduction.ch
 expensereductionanalysts.ch

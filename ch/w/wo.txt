@@ -771,6 +771,7 @@ wohl-gfuehl.ch
 wohl-in-meinem-koerper.ch
 wohl-klang.ch
 wohl-mobil.ch
+wohl-rat.ch
 wohl-raum.ch
 wohl-sein.ch
 wohl-sinn.ch
@@ -1007,6 +1008,7 @@ wohlpunkt.ch
 wohlr.ch
 wohlrab.ch
 wohlraeume.ch
+wohlrat.ch
 wohlraum.ch
 wohlschlag.ch
 wohlsein-haar-massage.ch
@@ -3333,6 +3335,7 @@ wohnungsportal.ch
 wohnungsprotokoll-app.ch
 wohnungsprotokoll.ch
 wohnungsprotokolle.ch
+wohnungsradar.ch
 wohnungsraeumer.ch
 wohnungsraeumumg.ch
 wohnungsraeumung-aargau.ch
@@ -6215,7 +6218,6 @@ woodcare-swiss.ch
 woodcare.ch
 woodcareplus-shop.ch
 woodcareplus.ch
-woodcaresa.ch
 woodcareshop.ch
 woodcareuv.ch
 woodcarve.ch
@@ -7664,7 +7666,6 @@ workations.ch
 workationswitzerland.ch
 workationunterkunft.ch
 workato.ch
-workatswiss.ch
 workatude.ch
 workaut.ch
 workbase-obergoesgen.ch
@@ -7925,7 +7926,6 @@ workhotel.ch
 workhouse-dogs.ch
 workhouse.ch
 workhr.ch
-workhub.ch
 workhuman.ch
 workhunter.ch
 worki.ch
@@ -8460,6 +8460,7 @@ workstar.ch
 workstate.ch
 workstation-lucerne.ch
 workstation.ch
+workstationai.ch
 workstationen.ch
 workstations.ch
 workstone.ch

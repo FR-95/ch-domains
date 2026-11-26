@@ -479,6 +479,7 @@ urbanagriculturebasel.ch
 urbanairspace.ch
 urbanalchemy.ch
 urbanalp.ch
+urbanalpine.ch
 urbanalps.ch
 urbanalyse.ch
 urbanandmainlines.ch
@@ -1068,7 +1069,6 @@ urbanseats.ch
 urbansecrets.ch
 urbanseller.ch
 urbansense.ch
-urbanservices.ch
 urbanshaman.ch
 urbanshape.ch
 urbanshapes.ch
@@ -2252,8 +2252,6 @@ urlaubs-mietwagen.ch
 urlaubs-partner.ch
 urlaubs-prinz.ch
 urlaubs-reisen.ch
-urlaubs-tour.ch
-urlaubs-tours.ch
 urlaubs-umfrage.ch
 urlaubs.ch
 urlaubsangebot.ch

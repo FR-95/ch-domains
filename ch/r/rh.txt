@@ -2023,6 +2023,7 @@ rhy-honig.ch
 rhy-huesli.ch
 rhy-iis-basel.ch
 rhy-iis.ch
+rhy-it.ch
 rhy-lounge.ch
 rhy-montagen.ch
 rhy-muehli.ch
@@ -2205,6 +2206,7 @@ rhyhuus-kids.ch
 rhyhuus.ch
 rhyimmo.ch
 rhyinsel-beck.ch
+rhyit.ch
 rhykafi.ch
 rhykantine.ch
 rhyki.ch
@@ -2504,7 +2506,9 @@ rhyviera.ch
 rhyview.ch
 rhyvista.ch
 rhyviva.ch
+rhyvo.ch
 rhyvoice.ch
+rhyvox.ch
 rhywaelle-bvg.ch
 rhywaelle.ch
 rhywasser.ch

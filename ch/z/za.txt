@@ -240,7 +240,6 @@ zackelschaf.ch
 zackenbarsch.ch
 zackfeddi.ch
 zackfinder.ch
-zackfix.ch
 zackgmbh.ch
 zackhelden.ch
 zackig.ch
@@ -248,7 +247,6 @@ zackige-fuesse.ch
 zackit.ch
 zackli.ch
 zacklich.ch
-zacklist.ch
 zackmade.ch
 zackmail.ch
 zackmatt.ch
@@ -256,7 +254,6 @@ zackoffice.ch
 zackonline.ch
 zackopacko.ch
 zackpeng.ch
-zackpro.ch
 zackqr.ch
 zackschlank.ch
 zackschool.ch
@@ -1076,6 +1073,7 @@ zahnaerzte-affoltern.ch
 zahnaerzte-albertinifejer.ch
 zahnaerzte-am-bahnhof.ch
 zahnaerzte-am-bleicherweg.ch
+zahnaerzte-am-bundesplatz.ch
 zahnaerzte-am-central.ch
 zahnaerzte-am-dorenbach.ch
 zahnaerzte-am-kaefigturm.ch
@@ -1329,6 +1327,7 @@ zahnaerztlicher-notdienst.ch
 zahnaerztlicher-notfalldienst-kanton-zuerich.ch
 zahnaerztlichernotdienst.ch
 zahnaesthetik-aarau.ch
+zahnaesthetik-basel.ch
 zahnaesthetik-bern.ch
 zahnaesthetik-romygries.ch
 zahnaesthetik-zuerich.ch
@@ -1419,6 +1418,7 @@ zahnarzt-bader.ch
 zahnarzt-badragaz.ch
 zahnarzt-baech.ch
 zahnarzt-baer.ch
+zahnarzt-baeretswil.ch
 zahnarzt-bahnhof-basel.ch
 zahnarzt-bahnhof-bern.ch
 zahnarzt-bahnhof-luzern.ch
@@ -3772,6 +3772,7 @@ zahnerosion.ch
 zahnerosionen.ch
 zahners.ch
 zahnersatz-ausland.ch
+zahnersatz-basel.ch
 zahnersatz-beratung.ch
 zahnersatz-chur.ch
 zahnersatz-im-ausland.ch
@@ -4043,6 +4044,7 @@ zahnknirpse.ch
 zahnknirschen.ch
 zahnkompetenz.ch
 zahnkontrolle.ch
+zahnkorrektur-oberland.ch
 zahnkorrektur-zug.ch
 zahnkorrektur.ch
 zahnkorrekturchur.ch
@@ -4712,6 +4714,7 @@ zahnzauber.ch
 zahnzauberplanet.ch
 zahnzeit.ch
 zahnzeitung.ch
+zahnzentrum-basel.ch
 zahnzentrum-biel.ch
 zahnzentrum-bodensee.ch
 zahnzentrum-gersau.ch
@@ -6181,7 +6184,6 @@ zaruba.ch
 zarubina.ch
 zarucchi-gartenbau.ch
 zarueti.ch
-zarugo.ch
 zaruhome.ch
 zarum.ch
 zarus-house.ch

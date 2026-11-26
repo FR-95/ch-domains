@@ -2406,6 +2406,7 @@ decklab.ch
 deckleiste.ch
 deckly.ch
 decknet.ch
+decknrails.ch
 deckoffice.ch
 deckone.ch
 deckout.ch
@@ -2569,6 +2570,7 @@ declicsante.ch
 declicsauvage.ch
 declicsetcie.ch
 declicsolutions.ch
+declictax.ch
 declicterroirs.ch
 declictoi.ch
 declicworld.ch
@@ -2858,7 +2860,6 @@ decomarkt.ch
 decomat.ch
 decomatpro.ch
 decombaz.ch
-decombres.ch
 decomenage.ch
 decomet.ch
 decomexplorer.ch
@@ -5452,7 +5453,6 @@ deillondelley.ch
 deillonferblanterie.ch
 deilma.ch
 deilmann.ch
-deilo.ch
 deim.ch
 deimbacher.ch
 deimel.ch
@@ -6066,6 +6066,7 @@ dein-vku-luzern.ch
 dein-vku.ch
 dein-vocal-coach.ch
 dein-vorhang.ch
+dein-vorsorgebegleiter.ch
 dein-vorsorgeplan.ch
 dein-voucher.ch
 dein-wachstumsvorsprung.ch
@@ -6182,6 +6183,7 @@ deinbalkongarten.ch
 deinballon.ch
 deinballonladen.ch
 deinbarf.ch
+deinbasel.ch
 deinbau.ch
 deinbau24.ch
 deinbauer.ch
@@ -6380,6 +6382,7 @@ deine-bewerbung.ch
 deine-bibel.ch
 deine-biografie.ch
 deine-box-zaehlt.ch
+deine-brand.ch
 deine-bsp.ch
 deine-carrosserie-luzern.ch
 deine-chance.ch
@@ -6766,6 +6769,7 @@ deineigenesolivenoel.ch
 deineigenheim.ch
 deineigentum.ch
 deineimmo.ch
+deineimmo24.ch
 deineimmobilie.ch
 deineimmobilien.ch
 deineimpfungen.ch
@@ -7820,6 +7824,7 @@ deinvideograf.ch
 deinvitamin.ch
 deinvorhang.ch
 deinvorsorgeauftrag.ch
+deinvorsorgebegleiter.ch
 deinvorsorgeberater.ch
 deinwachs.ch
 deinwaffenschrank.ch
@@ -12806,7 +12811,6 @@ denaro-immobilien.ch
 denarocontante-gr.ch
 denarokredit.ch
 denaroplus.ch
-denarosfamilyatelier.ch
 denate.ch
 denatura.ch
 denavir.ch
@@ -14146,6 +14150,7 @@ dental-expert.ch
 dental-experte.ch
 dental-experten.ch
 dental-expertise.ch
+dental-experts-basel.ch
 dental-experts.ch
 dental-flyers.ch
 dental-focus-luzern.ch
@@ -14231,6 +14236,7 @@ dental-solutions.ch
 dental-spa-ungarn.ch
 dental-spa.ch
 dental-space.ch
+dental-specialists.ch
 dental-spektrum.ch
 dental-stein.ch
 dental-stelle.ch
@@ -14401,6 +14407,7 @@ dentalexperte.ch
 dentalexperten.ch
 dentalexpertise.ch
 dentalexperts.ch
+dentalexpertsbasel.ch
 dentalface.ch
 dentalfactory.ch
 dentalfamily.ch
@@ -21911,10 +21918,10 @@ designers.ch
 designersale.ch
 designersalebern.ch
 designersaturday.ch
+designersbasel.ch
 designerscapitol.ch
 designerschmuck.ch
 designerschuhe.ch
-designerschweiz.ch
 designersclub.ch
 designersdesign.ch
 designersecondhandbasel.ch
@@ -24519,7 +24526,6 @@ deutsch-in-zug.ch
 deutsch-indische-kanzlei.ch
 deutsch-individuell.ch
 deutsch-japanisch.ch
-deutsch-korrigieren.ch
 deutsch-kst.ch
 deutsch-kurs.ch
 deutsch-kurse.ch
@@ -24962,7 +24968,6 @@ dev-animalia.ch
 dev-app.ch
 dev-asp.ch
 dev-bantam.ch
-dev-bcg.ch
 dev-berner-polizeischule.ch
 dev-bkmi.ch
 dev-blue4net.ch
@@ -25168,6 +25173,7 @@ devannarefrigerazione.ch
 devannes.ch
 devano.ch
 devant-chez-nous.ch
+devant.ch
 devantcheznous.ch
 devantery.ch
 devanthery-electricite.ch

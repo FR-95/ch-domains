@@ -1496,7 +1496,6 @@ ns1.domains.ch
 ns1.domig-informatik.ch
 ns1.door-42.ch
 ns1.dosim.ch
-ns1.dossierfurruckerstattungsantrag.ch
 ns1.dotcon.ch
 ns1.dotnethosting.ch
 ns1.douceane.ch
@@ -3159,7 +3158,6 @@ ns1.rson.ch
 ns1.rtk.ch
 ns1.rtpdns.ch
 ns1.rubansdor.ch
-ns1.ruckerstattungsdossier.ch
 ns1.ruckzuck-design.ch
 ns1.rundb.ch
 ns1.rutishauser.ch
@@ -3939,7 +3937,6 @@ ns1.zelliversum.ch
 ns1.zem-emc.ch
 ns1.zen-rollers.ch
 ns1.zenis.ch
-ns1.zentrumfurerstattungsunterlagen.ch
 ns1.zenvoo.ch
 ns1.zerodemo.ch
 ns1.zerolegacy.ch
@@ -4764,6 +4761,7 @@ ns2.dle-check.ch
 ns2.dmedia.ch
 ns2.dmprint.ch
 ns2.dnab.ch
+ns2.dncons.ch
 ns2.dns-53.ch
 ns2.dns-cloud.ch
 ns2.dns-lst.ch
@@ -4791,7 +4789,6 @@ ns2.domains.ch
 ns2.domig-informatik.ch
 ns2.door-42.ch
 ns2.dosim.ch
-ns2.dossierfurruckerstattungsantrag.ch
 ns2.dotcon.ch
 ns2.dotnethosting.ch
 ns2.douceane.ch
@@ -6377,7 +6374,6 @@ ns2.rson.ch
 ns2.rtk.ch
 ns2.rtpdns.ch
 ns2.rubansdor.ch
-ns2.ruckerstattungsdossier.ch
 ns2.ruckzuck-design.ch
 ns2.rundb.ch
 ns2.rxr.ch
@@ -7137,7 +7133,6 @@ ns2.zelliversum.ch
 ns2.zem-emc.ch
 ns2.zen-rollers.ch
 ns2.zenis.ch
-ns2.zentrumfurerstattungsunterlagen.ch
 ns2.zenvoo.ch
 ns2.zerolegacy.ch
 ns2.zerspanungspartner.ch
@@ -8381,6 +8376,7 @@ ns8.virtualhosts.ch
 ns8.vs.ch
 ns9.b-source.ch
 ns9.bellinzonaweb.ch
+ns9.core2.ch
 ns9.engitech.ch
 ns9.goline.ch
 ns9.isanova.ch

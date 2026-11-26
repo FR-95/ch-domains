@@ -22,6 +22,7 @@ pl-immo.ch
 pl-immobilien.ch
 pl-in.ch
 pl-infos.ch
+pl-infra.ch
 pl-invest.ch
 pl-landschaftsarchitektur.ch
 pl-marketing.ch
@@ -545,7 +546,6 @@ plaisir-et-sante.ch
 plaisir-ia.ch
 plaisir-optimia.ch
 plaisir-pyeji.ch
-plaisir-secret.ch
 plaisir.ch
 plaisir49.ch
 plaisircharnel.ch
@@ -621,7 +621,6 @@ plakatarchiv.ch
 plakatart.ch
 plakatastisch.ch
 plakatauktion.ch
-plakatbar.ch
 plakatbasel.ch
 plakatbuchen.ch
 plakatdesign.ch
@@ -1033,6 +1032,7 @@ planar.ch
 planar4.ch
 planara.ch
 planarch.ch
+planarchie.ch
 planarchitekt.ch
 planarchiv.ch
 planarena.ch
@@ -2522,6 +2522,7 @@ plansexe.ch
 plansfixes.ch
 planshift.ch
 plansicht.ch
+plansign.ch
 plansim.ch
 plansinn.ch
 plansmart.ch
@@ -2645,6 +2646,7 @@ plantago-bronchialbalsam.ch
 plantago.ch
 plantagrueter.ch
 plantahaus.ch
+plantahof-lehrstellen.ch
 plantahof.ch
 plantain.ch
 plantak.ch
@@ -5479,7 +5481,6 @@ playpadel.ch
 playpaintball.ch
 playparc.ch
 playparty.ch
-playpass.ch
 playpause.ch
 playpeak.ch
 playphraseme.ch
@@ -8477,7 +8478,6 @@ plustechnics.ch
 plustenberger.ch
 plustennis.ch
 pluster.ch
-plustermine.ch
 plustheacademy.ch
 plusthebook.ch
 plusthecircle.ch

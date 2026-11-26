@@ -250,6 +250,7 @@
 3d-jung.ch
 3d-kamera.ch
 3d-kanal-tv.ch
+3d-karte.ch
 3d-kennzeichen.ch
 3d-kfz.ch
 3d-king.ch
@@ -825,6 +826,7 @@
 3dglobus.ch
 3dgold.ch
 3dgolf4u.ch
+3dgr.ch
 3dgrafik.ch
 3dgraphic.ch
 3dgravur.ch
@@ -887,6 +889,7 @@
 3dk.ch
 3dka.ch
 3dkanal.ch
+3dkarte.ch
 3dkarten.ch
 3dkennzeichenhalter.ch
 3dkeramikdruck.ch
@@ -1122,7 +1125,6 @@
 3dprodukte.ch
 3dproduktionen.ch
 3dprofessionals.ch
-3dprofi.ch
 3dprojects.ch
 3dprojekt.ch
 3dprototyp.ch
@@ -1208,7 +1210,6 @@
 3dsl.ch
 3dsmaxavenue.ch
 3dsmile.ch
-3dsofort.ch
 3dsoftware.ch
 3dsolar-pm.ch
 3dsolar.ch
@@ -1278,6 +1279,7 @@
 3dtraining.ch
 3dtransport.ch
 3dtravels.ch
+3dtronix.ch
 3dtwin.ch
 3du.ch
 3ducation.ch

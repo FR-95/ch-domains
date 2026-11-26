@@ -634,7 +634,6 @@ focusvitae.ch
 focusvitamin.ch
 focusvitaminwasser.ch
 focusvitaminwater.ch
-focuswandel.ch
 focuswanner.ch
 focuswater-care.ch
 focuswater-immunity.ch
@@ -4254,6 +4253,7 @@ fonduebarake.ch
 fonduebeizli-chur.ch
 fonduebeizli.ch
 fonduebeizlichur.ch
+fonduebengel.ch
 fonduebeutel.ch
 fondueboot.ch
 fonduebourguignonne.ch
@@ -4950,6 +4950,7 @@ food-more.ch
 food-movement.ch
 food-ninja.ch
 food-ninjas.ch
+food-noise.ch
 food-nomad.ch
 food-now.ch
 food-on-fire.ch
@@ -5648,6 +5649,7 @@ foodnextgen.ch
 foodnfriends.ch
 foodnhealth.ch
 foodninjas.ch
+foodnoise.ch
 foodnomad.ch
 foodnote.ch
 foodnow.ch
@@ -6607,7 +6609,6 @@ for-me.ch
 for-men.ch
 for-mi.ch
 for-motion.ch
-for-my.ch
 for-nicky.ch
 for-nurses.ch
 for-optimists.ch
@@ -7207,7 +7208,6 @@ ford-truck.ch
 ford-trucks.ch
 ford-uri.ch
 ford-usa.ch
-ford-uster.ch
 ford-valais.ch
 ford-vesenaz.ch
 ford-vogtgarage-buchs.ch
@@ -7372,12 +7372,10 @@ fordtransitcenter.ch
 fordtransitcustomcamper.ch
 fordtrucks.ch
 fordusa.ch
-forduster.ch
 fordvans.ch
 fordvignale-stgallen.ch
 fordvignale.ch
 fordwerner.ch
-fordwinterthur.ch
 fordxmini.ch
 fordz.ch
 fore-check.ch
@@ -9897,7 +9895,6 @@ formwerkstatt-desiree.ch
 formwert.ch
 formwork-online.ch
 formxi.ch
-formy.ch
 formybaby.ch
 formyband.ch
 formybeauty.ch
@@ -12347,7 +12344,6 @@ fosco-coaching.ch
 fosco-fosco-vogt.ch
 fosco.ch
 foscograf.ch
-foscolo-coaching.ch
 foscolo.ch
 foscomed.ch
 fosd.ch
@@ -13834,6 +13830,7 @@ fotografen-verzeichnis.ch
 fotografen-website.ch
 fotografen.ch
 fotografenagentur.ch
+fotografenbasel.ch
 fotografenclique.ch
 fotografencommunity.ch
 fotografenforum.ch
@@ -13946,6 +13943,7 @@ fotografie.ch
 fotografie4u.ch
 fotografieakademie.ch
 fotografiearchiv.ch
+fotografiebasel.ch
 fotografieber.ch
 fotografiebern.ch
 fotografiebrecheis.ch
@@ -14646,6 +14644,7 @@ fotosammlung.ch
 fotosatz.ch
 fotosaufleinwand.ch
 fotosausbern.ch
+fotosbasel.ch
 fotosbestellen.ch
 fotosbyurs.ch
 fotoscan.ch
@@ -14778,6 +14777,7 @@ fotosnaturnah.ch
 fotosoftware.ch
 fotosolar.ch
 fotosommer.ch
+fotosonlinebestellen.ch
 fotosophie.ch
 fotosort.ch
 fotosortstudio.ch
@@ -14981,6 +14981,7 @@ fototischkarten.ch
 fototmungg.ch
 fototo.ch
 fototoc.ch
+fototom.ch
 fototomio.ch
 fototon.ch
 fototoni.ch
@@ -15782,7 +15783,6 @@ foursquare-suisse.ch
 foursquare.ch
 fourstars.ch
 fourstarstrading.ch
-fourstone.ch
 fourstrategy.ch
 fourstroke-switzerland.ch
 fourstroke.ch

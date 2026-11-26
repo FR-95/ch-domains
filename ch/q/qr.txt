@@ -240,6 +240,7 @@ qready.ch
 qreate.ch
 qreatec.ch
 qreatine.ch
+qreativ.ch
 qreatixx.ch
 qreceipt.ch
 qrechnung.ch
@@ -267,6 +268,7 @@ qrezv.ch
 qrf.ch
 qrface.ch
 qrfacture.ch
+qrfactures.ch
 qrfaktura.ch
 qrfattura.ch
 qrfc.ch

@@ -1162,7 +1162,6 @@ klar-glass.ch
 klar-heit.ch
 klar-holding.ch
 klar-ia.ch
-klar-im-chaos.ch
 klar-inserate.ch
 klar-it.ch
 klar-klima.ch
@@ -2741,6 +2740,7 @@ klebeband-logo.ch
 klebeband-mit-aufdruck.ch
 klebeband-mit-druck.ch
 klebeband-mit-firmenlogo.ch
+klebeband-partner.ch
 klebeband-shop.ch
 klebeband-sury.ch
 klebeband-transparent.ch
@@ -4897,6 +4897,7 @@ klickandwin.ch
 klickanfrage.ch
 klickanfragen.ch
 klickapo.ch
+klickatelier.ch
 klickbar.ch
 klickbau.ch
 klickbauherrenberatung.ch
@@ -6206,7 +6207,6 @@ klinik-adelheid-magazin.ch
 klinik-adelheid.ch
 klinik-aesthetics-zurich.ch
 klinik-am-huegel.ch
-klinik-am-rossberg.ch
 klinik-am-schloss.ch
 klinik-am-see.ch
 klinik-am-zuerichsee.ch
@@ -6712,6 +6712,7 @@ klm-muensterlaender.ch
 klm-schweiz.ch
 klm-technik.ch
 klm.ch
+klm2o.ch
 klma.ch
 klmafrofusion.ch
 klmag.ch

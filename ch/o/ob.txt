@@ -382,7 +382,6 @@ oberdorf-bl24.ch
 oberdorf-city.ch
 oberdorf-horgen.ch
 oberdorf-kirche.ch
-oberdorf-kuessnacht.ch
 oberdorf-lachen.ch
 oberdorf-muellheim.ch
 oberdorf-muelligen.ch
@@ -2195,7 +2194,6 @@ obschuirer.ch
 obscur.ch
 obscura-alpina.ch
 obscura.ch
-obscuragear.ch
 obscuralegacy.ch
 obscurastar.ch
 obscurastudio.ch
@@ -2386,7 +2384,6 @@ obst-und-gemuese.ch
 obst.ch
 obstabo.ch
 obstacle-city-run.ch
-obstacle.ch
 obstaclefreeroutes.ch
 obstacleportal.ch
 obstaclerun.ch
@@ -2616,6 +2613,7 @@ obversa.ch
 obvia.ch
 obviam.ch
 obvie.ch
+obvin.ch
 obviotec.ch
 obviotech.ch
 obvious-solutions.ch

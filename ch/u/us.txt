@@ -332,7 +332,6 @@ usbmaker.ch
 usbmicroscopy.ch
 usboncourt.ch
 usbookers.ch
-usborne.ch
 usbornebooks.ch
 usbplattenspieler.ch
 usbport.ch
@@ -1245,6 +1244,7 @@ uss-ti.ch
 uss-versicherungen.ch
 uss-vs.ch
 uss.ch
+ussa1956.ch
 ussarl.ch
 ussc.ch
 usscf.ch

@@ -4805,6 +4805,7 @@ hofgut-hinterberg.ch
 hofgut-oberwald.ch
 hofgut-rittbrunnen.ch
 hofgut-rosenberg.ch
+hofgut-seeruecken.ch
 hofgut.ch
 hofgut24.ch
 hofgutappenzell.ch
@@ -7584,6 +7585,7 @@ hollenstein-mototech.ch
 hollenstein-muldenservice.ch
 hollenstein-partner.ch
 hollenstein-personalfuehrung-seminare-schweiz.ch
+hollenstein-sportphysio.ch
 hollenstein-storen.ch
 hollenstein-treuhand.ch
 hollenstein-waffen.ch
@@ -7606,6 +7608,7 @@ hollensteinmototech.ch
 hollensteins.ch
 hollensteinservices.ch
 hollensteinspielwaren.ch
+hollensteinsportphysio.ch
 hollensteinundpartner.ch
 hollensteinvonaarburg.ch
 hollensteinwaffen.ch
@@ -11639,6 +11642,7 @@ homeandart.ch
 homeandarts.ch
 homeandbody.ch
 homeandcar.ch
+homeandcarcleaning.ch
 homeandcastle.ch
 homeandcolors.ch
 homeandemotion.ch
@@ -13900,7 +13904,6 @@ homoki.ch
 homoland.ch
 homoliber.ch
 homolje-gossau.ch
-homoljereisen.ch
 homologabrasil.ch
 homologacaobrasil.ch
 homologation.ch
@@ -14903,6 +14906,7 @@ hood.ch
 hooda.ch
 hoodbarber-zug.ch
 hoodbarber.ch
+hoodbot.ch
 hoodcards.ch
 hoodcraft.ch
 hoodcycles.ch
@@ -15117,7 +15121,6 @@ hoor-scharf.ch
 hoor-und-seela.ch
 hoor.ch
 hoora.ch
-hoorai.ch
 hoorain.ch
 hooratelier.ch
 hooray-diy.ch
@@ -15973,7 +15976,9 @@ horalek.ch
 horalibera.ch
 horalux.ch
 horaluxgroup.ch
+horama.ch
 horando.ch
+horanea.ch
 horann.ch
 horansounds.ch
 horaquotes.ch
@@ -16043,6 +16048,7 @@ horberfoto.ch
 horbermarketing.ch
 horbermatt.ch
 horberphoto.ch
+horbey.ch
 horbit.ch
 horbuetze.ch
 horburg-dreirosen.ch
@@ -16403,6 +16409,7 @@ horizoncorpfin.ch
 horizoncrate.ch
 horizondelta.ch
 horizondesign.ch
+horizondev.ch
 horizondrone.ch
 horizone.ch
 horizoneducatif.ch
@@ -17791,6 +17798,7 @@ hortus-suery.ch
 hortus-verticalis.ch
 hortus-vivus.ch
 hortus.ch
+hortusaccompagnement.ch
 hortusamici.ch
 hortusband.ch
 hortusbotanicus.ch
@@ -23958,6 +23966,7 @@ house-4u.ch
 house-addict.ch
 house-and-flat.ch
 house-art.ch
+house-aurea.ch
 house-beer.ch
 house-boat.ch
 house-build-solution.ch
@@ -24419,6 +24428,7 @@ houseoffiscal.ch
 houseofflex.ch
 houseofflexwork.ch
 houseofflow.ch
+houseoffood.ch
 houseofformation.ch
 houseoffounders.ch
 houseoffrankenstein.ch
@@ -25188,6 +25198,7 @@ howtospotasheepdog.ch
 howtosurvive.ch
 howtoswissmedical.ch
 howtotalk.ch
+howtotalkto.ch
 howtotrade.ch
 howtotrainyourdragon.ch
 howtouse.ch

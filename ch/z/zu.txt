@@ -247,6 +247,7 @@ zubvideo.ch
 zuby.ch
 zubynet.ch
 zuc.ch
+zucanag.ch
 zucare.ch
 zucca.ch
 zuccarella.ch
@@ -1895,7 +1896,6 @@ zuerich-gockhausen.ch
 zuerich-gold.ch
 zuerich-goldankauf.ch
 zuerich-goldkueste.ch
-zuerich-grafik.ch
 zuerich-gratis.ch
 zuerich-guides.ch
 zuerich-gynaekologie.ch
@@ -4104,7 +4104,6 @@ zugflora.ch
 zugflowers.ch
 zugformation.ch
 zugfreunde.ch
-zugg.ch
 zuggarten.ch
 zuggartenbau.ch
 zuggerber.ch
@@ -4344,6 +4343,7 @@ zuhaus.ch
 zuhause-125.ch
 zuhause-alt-werden.ch
 zuhause-ankommen.ch
+zuhause-app.ch
 zuhause-arbeiten.ch
 zuhause-begleitet.ch
 zuhause-bergdietikon.ch
@@ -5352,6 +5352,7 @@ zum-loewen.ch
 zum-loewenzorn-ag.ch
 zum-mammut.ch
 zum-metzger.ch
+zum-molinari.ch
 zum-morgenthal.ch
 zum-muusloch.ch
 zum-naefbach.ch
@@ -5599,6 +5600,7 @@ zumdialog.ch
 zumdigele.ch
 zumdoerfli.ch
 zumdreikoenig.ch
+zumdritten.ch
 zumdruiden.ch
 zume.ch
 zumec.ch

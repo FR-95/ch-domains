@@ -865,6 +865,7 @@ outdoor-andermatt.ch
 outdoor-animator.ch
 outdoor-apotheke.ch
 outdoor-arsenal.ch
+outdoor-assistant.ch
 outdoor-ausruestung.ch
 outdoor-basel.ch
 outdoor-basis.ch
@@ -992,6 +993,7 @@ outdoor-light.ch
 outdoor-lighting.ch
 outdoor-lights.ch
 outdoor-living-box.ch
+outdoor-living.ch
 outdoor-lounge.ch
 outdoor-luzern.ch
 outdoor-market.ch

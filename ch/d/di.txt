@@ -4396,6 +4396,7 @@ die-malerei.ch
 die-malerin.ch
 die-malerwerkstatt.ch
 die-maltherapie.ch
+die-manis.ch
 die-manns.ch
 die-mannschaft.ch
 die-manufaktur.ch
@@ -4973,7 +4974,6 @@ die-schweizerbank.ch
 die-schweizerbanken.ch
 die-schweizerfahne.ch
 die-schweizerin.ch
-die-schweizmacher.ch
 die-schwimmbaeder.ch
 die-schwimmschule.ch
 die-seefrau.ch
@@ -8550,7 +8550,6 @@ dieschweizimherzen.ch
 dieschweizisstscharf.ch
 dieschweizkocht.ch
 dieschweizliest.ch
-dieschweizmacher.ch
 dieschweizspart.ch
 dieschweizspricht.ch
 dieschweiztrainiert.ch
@@ -10834,6 +10833,7 @@ diginik.ch
 diginit.ch
 diginlab.ch
 diginnov.ch
+diginnova-it.ch
 diginnova.ch
 diginomade.ch
 diginomics.ch
@@ -14037,6 +14037,7 @@ digitalks.ch
 digitalkultur.ch
 digitalkunde.ch
 digitalkunst.ch
+digitalkunstbasel.ch
 digitalkwad.ch
 digitall.ch
 digitallab.ch
@@ -15520,7 +15521,6 @@ diin-plattenleger.ch
 diin.ch
 diinbeck.ch
 diingu.ch
-diingz.ch
 diinimueter.ch
 diinimuetter.ch
 diinsack.ch
@@ -17123,7 +17123,6 @@ diniwahl.ch
 diniwebsite.ch
 diniwerbig.ch
 diniwg.ch
-diniwolke.ch
 diniwurscht.ch
 diniyogazyt.ch
 diniz.ch
@@ -17591,6 +17590,7 @@ diomedea-tulpar.ch
 diomedea.ch
 diomedes-security.ch
 diomedes.ch
+diomene-conceptstore.ch
 diomesheabutter.ch
 diomidas.ch
 diomio-pizza-napoletana-basel.ch
@@ -19873,6 +19873,7 @@ diseasestatematerial.ch
 diseasestateplasma.ch
 diseasex.ch
 disec.ch
+diseca.ch
 disecura.ch
 disegn.ch
 disegnato.ch
@@ -20563,6 +20564,7 @@ disqover.ch
 disquartier.ch
 disque-de-quantieme.ch
 disque-dur.ch
+disque.ch
 disquebleu.ch
 disquebleusuisse.ch
 disquerouge.ch

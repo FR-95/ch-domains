@@ -1440,6 +1440,7 @@ scar-anto.ch
 scar-lion-fit.ch
 scar.ch
 scara-captures.ch
+scara-ops.ch
 scara.ch
 scarab-pi.ch
 scarab.ch
@@ -6661,7 +6662,6 @@ schenker-arch.ch
 schenker-architekten.ch
 schenker-architektur.ch
 schenker-baukeramik.ch
-schenker-cars.ch
 schenker-consulting.ch
 schenker-foto.ch
 schenker-fotografie.ch
@@ -6969,6 +6969,7 @@ scherler-sa.ch
 scherler-so.ch
 scherler-tech.ch
 scherler.ch
+scherler4.ch
 scherlerag.ch
 scherlerconsulting.ch
 scherlerei.ch
@@ -11169,6 +11170,7 @@ schliesstechnik-zaugg.ch
 schliesstechnik-zentralschweiz.ch
 schliesstechnik-zuerich.ch
 schliesstechnik.ch
+schliesstechnikbern.ch
 schliesstechnikbraendle.ch
 schliessundlueftungservice.ch
 schliesswerk.ch
@@ -11241,6 +11243,7 @@ schlittelparadies.ch
 schlittelpark.ch
 schlittelpisten-leutwil.ch
 schlittelpisten.ch
+schlittelpistenleutwil.ch
 schlittelplausch.ch
 schlittelrennen.ch
 schlittelschule.ch
@@ -11463,6 +11466,7 @@ schloss-falkenstein.ch
 schloss-freudenfels.ch
 schloss-fuer-alle.ch
 schloss-fuerstenau.ch
+schloss-gachnang.ch
 schloss-gaertnerei.ch
 schloss-garage.ch
 schloss-garagewyss.ch
@@ -11825,6 +11829,7 @@ schlossfrauenfeld360.ch
 schlossfreunde.ch
 schlossfueralle.ch
 schlossfuerstenau.ch
+schlossgachnang.ch
 schlossgaertnerei.ch
 schlossgalerieherisau.ch
 schlossgarage-brunegg.ch
@@ -12003,6 +12008,7 @@ schlossmuus.ch
 schlossnacht.ch
 schlossnaechte.ch
 schlossnarren.ch
+schlossnotfall.ch
 schlossoberberg.ch
 schlossoberhofen.ch
 schlossoeffnung.ch
@@ -12695,6 +12701,7 @@ schluesselloch.ch
 schluesselmanagement.ch
 schluesselmatte.ch
 schluesselmeier.ch
+schluesselmeister.ch
 schluesselmels.ch
 schluesselmoment.ch
 schluesselmomente.ch
@@ -13803,7 +13810,6 @@ schmid-liegenschaften.ch
 schmid-liliane.ch
 schmid-linder.ch
 schmid-lm.ch
-schmid-lossberg.ch
 schmid-lu.ch
 schmid-lueftungsmontagen.ch
 schmid-luzern.ch
@@ -14269,7 +14275,6 @@ schmidlkofer.ch
 schmidlocation.ch
 schmidlogo.ch
 schmidlynn.ch
-schmidmagert-ag.ch
 schmidmail.ch
 schmidmajer.ch
 schmidmaler.ch
@@ -15633,6 +15638,7 @@ schnaeppchen-bote.ch
 schnaeppchen-ecke.ch
 schnaeppchen-paradies.ch
 schnaeppchen-preise.ch
+schnaeppchen-weine.ch
 schnaeppchen.ch
 schnaeppchenfuchs.ch
 schnaeppchenhaeuser.ch
@@ -15645,6 +15651,7 @@ schnaeppchenparadies.ch
 schnaeppchenprofi.ch
 schnaeppchenshop.ch
 schnaeppchenstube.ch
+schnaeppchenweine.ch
 schnaepperli.ch
 schnaeppertour.ch
 schnaeppertuur.ch
@@ -16989,6 +16996,7 @@ schneitaecher.ch
 schneitbach.ch
 schneiter-alexandar.ch
 schneiter-consulting.ch
+schneiter-frei.ch
 schneiter-hauswartung.ch
 schneiter-heizungen.ch
 schneiter-home.ch
@@ -18549,6 +18557,7 @@ schoene-ferien.ch
 schoene-fotos.ch
 schoene-gaerten.ch
 schoene-gefaesse.ch
+schoene-geschenke.ch
 schoene-gesunde-beine.ch
 schoene-haare.ch
 schoene-haut.ch
@@ -19596,6 +19605,7 @@ scholaritorum.ch
 scholarium.ch
 scholarlink.ch
 scholarly.ch
+scholarrock.ch
 scholars-systems.ch
 scholarship.ch
 scholarships.ch
@@ -29712,7 +29722,6 @@ schweiz-lebenshilfe.ch
 schweiz-lebensversicherung.ch
 schweiz-led.ch
 schweiz-lei.ch
-schweiz-lektorat.ch
 schweiz-lettland.ch
 schweiz-liechtenstein.ch
 schweiz-limousinenservice.ch
@@ -29805,7 +29814,6 @@ schweiz-russland.ch
 schweiz-schamanismus.ch
 schweiz-schmetterling.ch
 schweiz-schwarzwald.ch
-schweiz-sem.ch
 schweiz-seo.ch
 schweiz-sex.ch
 schweiz-sextreffen.ch
@@ -30391,7 +30399,6 @@ schweizer-festungen.ch
 schweizer-feuerloescher.ch
 schweizer-feuerstellen.ch
 schweizer-feuerwehr.ch
-schweizer-feuerwerk.ch
 schweizer-film-retten.ch
 schweizer-film.ch
 schweizer-finanzkompass.ch
@@ -30878,7 +30885,6 @@ schweizer-pferdepension.ch
 schweizer-pflanzen.ch
 schweizer-pflanzenkohle.ch
 schweizer-pflege-akademie.ch
-schweizer-pflege-journal.ch
 schweizer-philharmonie.ch
 schweizer-photographie.ch
 schweizer-physio-kollektiv.ch
@@ -30928,6 +30934,7 @@ schweizer-ratgeber.ch
 schweizer-raumduefte.ch
 schweizer-raumduft.ch
 schweizer-rebornmesse.ch
+schweizer-rechner.ch
 schweizer-rechnung.ch
 schweizer-recht.ch
 schweizer-rechtsanwalt.ch
@@ -31567,6 +31574,7 @@ schweizerdetailhandel.ch
 schweizerdetailhandelsverband.ch
 schweizerdetailhandelverband.ch
 schweizerdeutsch-lernen.ch
+schweizerdeutsch-podcast.ch
 schweizerdeutsch-transkribieren.ch
 schweizerdeutsch-uebersetzen.ch
 schweizerdeutsch-uebersetzer.ch
@@ -31652,6 +31660,7 @@ schweizerfan.ch
 schweizerfans.ch
 schweizerfarben.ch
 schweizerfarbstoffe.ch
+schweizerfasnacht.ch
 schweizerfassade.ch
 schweizerfeiertage.ch
 schweizerfeigen.ch
@@ -31732,7 +31741,6 @@ schweizerfrauenfussball.ch
 schweizerfrauenlauf.ch
 schweizerfreilandeier.ch
 schweizerfruechte.ch
-schweizerfuerschweizer.ch
 schweizerfugen.ch
 schweizerfund.ch
 schweizerfussball.ch
@@ -34356,6 +34364,7 @@ schwingfestammaiengruen.ch
 schwingfeste-jegenstorf.ch
 schwingfeste.ch
 schwingfeste2024.ch
+schwingfestplaner.ch
 schwingfluencer.ch
 schwingfreunde.ch
 schwinggenie.ch
@@ -34609,6 +34618,7 @@ schwiziell.ch
 schwizis.ch
 schwizkey.ch
 schwizkocht.ch
+schwizli.ch
 schwizshow.ch
 schwizwit.ch
 schwizz.ch
@@ -34697,6 +34707,7 @@ schwurbelfrei.ch
 schwurbi.ch
 schwurbler.ch
 schwurbli.ch
+schwurblis.ch
 schwyberg-bike.ch
 schwybergenergie.ch
 schwybergenergieag.ch
@@ -35005,7 +35016,6 @@ sci-fi.ch
 sci-fin.ch
 sci-group.ch
 sci-helvetia.ch
-sci-hub.ch
 sci-inno-hub.ch
 sci-innotec.ch
 sci-kreuzfahrten.ch
@@ -35513,6 +35523,7 @@ scimetrica.ch
 scimfang.ch
 scimitar-club.ch
 scimitus.ch
+scimlintelligence.ch
 scimmo.ch
 scimmobilier.ch
 scimplon.ch
@@ -35808,6 +35819,7 @@ scm-bundes-verlag.ch
 scm-consulting.ch
 scm-cynologie.ch
 scm-experts.ch
+scm-fintech.ch
 scm-foto.ch
 scm-immo.ch
 scm-intern.ch
@@ -38219,7 +38231,6 @@ sculpt-plus.ch
 sculpt-scalp-coiffure.ch
 sculpt.ch
 sculpta.ch
-sculptandburn.ch
 sculptandchill.ch
 sculptandmotion.ch
 sculptart.ch

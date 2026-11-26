@@ -284,6 +284,7 @@ my-cats-and-dogs.ch
 my-caution.ch
 my-cbd-corner.ch
 my-cc.ch
+my-ccc.ch
 my-cd.ch
 my-cdo.ch
 my-cellhealth.ch
@@ -440,7 +441,6 @@ my-delivery.ch
 my-deliverys.ch
 my-deposit.ch
 my-deposito.ch
-my-depot.ch
 my-dermacenter.ch
 my-design-swiss.ch
 my-design.ch
@@ -966,6 +966,7 @@ my-kittel.ch
 my-klara.ch
 my-kloud.ch
 my-knowledgebase.ch
+my-koki.ch
 my-konto.ch
 my-kosmos.ch
 my-kraftwerk.ch
@@ -1449,6 +1450,7 @@ my-redcare.ch
 my-redsnapper.ch
 my-reduit.ch
 my-reef.ch
+my-reel.ch
 my-reference.ch
 my-regal.ch
 my-regale.ch
@@ -4209,6 +4211,7 @@ mycrowd.ch
 mycrown.ch
 mycrownplay.ch
 mycruise.ch
+mycrush.ch
 mycryptlist.ch
 mycrypto.ch
 mycrypto24.ch
@@ -6961,6 +6964,7 @@ mykohler-germany.ch
 mykohler.ch
 mykoia.ch
 mykojencharter.ch
+mykoki.ch
 mykoko.ch
 mykokosmos.ch
 mykolab.ch
@@ -11044,6 +11048,7 @@ mysterygames.ch
 mysteryguest.ch
 mysteryguestpro.ch
 mysteryhall.ch
+mysteryhexe.ch
 mysteryhikes.ch
 mysteryhunter.ch
 mysteryinspector.ch
@@ -11088,7 +11093,6 @@ mysteuerberater.ch
 mystevia-sweet.ch
 mysteviasweet.ch
 mystex.ch
-mysthari.ch
 mystheratherapeutics.ch
 mystheratx.ch
 mysthetic.ch
@@ -11305,6 +11309,7 @@ mysuisselogin.ch
 mysuissess.ch
 mysuite.ch
 mysukoon.ch
+mysulai.ch
 mysuli.ch
 mysummer.ch
 mysummit.ch
@@ -11330,7 +11335,6 @@ mysupercar.ch
 mysuperfruits.ch
 mysupergrid.ch
 mysuperhero.ch
-mysuperheroes.ch
 mysupermagnet.ch
 mysupermagnete.ch
 mysupermagnets.ch
@@ -12127,6 +12131,7 @@ mytinyresidence.ch
 mytio.ch
 mytip.ch
 mytipp.ch
+mytippli.ch
 mytips.ch
 mytire.ch
 mytiredistired.ch
@@ -12695,6 +12700,7 @@ myvr.ch
 myvs.ch
 myvsf.ch
 myvssm.ch
+myvt-ingegneria.ch
 myvtc.ch
 myvuorz.ch
 myvw.ch

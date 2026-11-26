@@ -1477,7 +1477,6 @@ opening-communication.ch
 opening-communications.ch
 opening-times.ch
 opening.ch
-opening4th.ch
 openingbelle.ch
 openingdoors.ch
 openinglobal.ch
@@ -2074,7 +2073,6 @@ opera-bretelles.ch
 opera-brevis.ch
 opera-charles.ch
 opera-cine.ch
-opera-club.ch
 opera-cultura.ch
 opera-daliya.ch
 opera-drei.ch
@@ -4661,7 +4659,6 @@ optingout.ch
 optink.ch
 optinn.ch
 optinno.ch
-optinnovation.ch
 optinok.ch
 optinova.ch
 optinovaconsulting.ch
@@ -5169,6 +5166,7 @@ optra.ch
 optraken.ch
 optravis.ch
 optrel.ch
+optrenex.ch
 optri.ch
 optribe.ch
 optrin.ch

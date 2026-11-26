@@ -798,6 +798,8 @@ axfamily.ch
 axflow.ch
 axfortis.ch
 axfqu.ch
+axfrischer.ch
+axfrischershop.ch
 axg.ch
 axglo.ch
 axgroup.ch
@@ -1207,6 +1209,8 @@ axlabs.ch
 axlac.ch
 axlana.ch
 axle.ch
+axlegu.ch
+axlegushop.ch
 axliance.ch
 axlo.ch
 axloo.ch
@@ -1619,6 +1623,7 @@ axxum.ch
 axxun-evalua.ch
 axxun.ch
 axxup.ch
+axxus-consulting.ch
 axxus.ch
 axxxelerate.ch
 axxys.ch

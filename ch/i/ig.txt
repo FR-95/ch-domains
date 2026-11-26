@@ -109,6 +109,7 @@ ig-drb.ch
 ig-dreifach.ch
 ig-dreifachnutzung.ch
 ig-dreispitz.ch
+ig-druff.ch
 ig-e.ch
 ig-ebs.ch
 ig-ecocapsule.ch
@@ -580,6 +581,7 @@ igaargauersport.ch
 igab-cipa.ch
 igab.ch
 igabasel.ch
+igabz.ch
 igac.ch
 igacr.ch
 igadget.ch
@@ -664,6 +666,7 @@ igba-bls-aed-egli.ch
 igba-pro-egli.ch
 igba.ch
 igbadifull.ch
+igbadihaslital.ch
 igbaedernordwestschweiz.ch
 igbag.ch
 igbank.ch
@@ -751,6 +754,7 @@ igdontour.ch
 igdooh.ch
 igdr.ch
 igdrb.ch
+igdruff.ch
 igdslenzburg.ch
 igduedingen.ch
 ige-heig-vd.ch
@@ -987,7 +991,6 @@ igfsu.ch
 igft.ch
 igfue.ch
 igfueg.ch
-igfutura.ch
 igfw.ch
 igfwilen.ch
 igfww.ch
@@ -1952,6 +1955,7 @@ igwarbird.ch
 igwassersport.ch
 igwbs.ch
 igweb.ch
+igwechsel.ch
 igweidmatt.ch
 igweierwisen.ch
 igweisserwind.ch

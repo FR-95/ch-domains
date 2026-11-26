@@ -172,7 +172,6 @@ sg-kandersteg.ch
 sg-kantonspolizei.ch
 sg-karateverband.ch
 sg-kb.ch
-sg-kinesiologie.ch
 sg-kleinluetzel.ch
 sg-komitee.ch
 sg-kriechenwil.ch
@@ -998,6 +997,7 @@ sgkbhalle.ch
 sgkbintern.ch
 sgkbintra.ch
 sgkc-sscp.ch
+sgkc.ch
 sgkc2019.ch
 sgkc2020.ch
 sgkclinic.ch

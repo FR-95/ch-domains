@@ -817,7 +817,6 @@ widinf.ch
 widionline.ch
 widipix.ch
 widirweit.ch
-widis-all-a-round.ch
 widis-allerlei.ch
 widis.ch
 widisanna.ch
@@ -1479,6 +1478,7 @@ wiederzusammen.ch
 wiedesign.ch
 wiediegoetter.ch
 wiediekatze.ch
+wiedieprofis.ch
 wiediesonnenblume.ch
 wiediger.ch
 wiediheime.ch
@@ -1864,6 +1864,7 @@ wieseneggen.ch
 wiesenei.ch
 wiesenfee.ch
 wiesenfest.ch
+wiesengaerten.ch
 wiesengarten.ch
 wiesengartenmusetti.ch
 wiesenglueck.ch
@@ -5351,6 +5352,7 @@ willkum-zionis.ch
 willlooklikethis.ch
 willm.ch
 willma.ch
+willmacnair.ch
 willmann.ch
 willmanns.ch
 willmart.ch
@@ -5891,6 +5893,7 @@ wimpernlifting-winterthur.ch
 wimpernlifting.ch
 wimpernnailsstudio.ch
 wimpernroom.ch
+wimpernschlag.ch
 wimpernschule.ch
 wimpernschulung-online.ch
 wimpernseren-vergleich.ch
@@ -7942,6 +7945,7 @@ wingeyer.ch
 wingfield.ch
 wingfinger.ch
 wingfinity.ch
+wingfit.ch
 wingflow.ch
 wingflowsystem.ch
 wingfoil-isleten.ch
@@ -8387,6 +8391,7 @@ winkeltell.ch
 winkelweg.ch
 winkelwerk.ch
 winkelwiese.ch
+winkelzufikon.ch
 winkemann.ch
 winkenbach-hausen.ch
 winkenbach.ch
@@ -9766,6 +9771,7 @@ winterthurerzeitung.ch
 winterthurescape.ch
 winterthurfahrschule.ch
 winterthurfenster.ch
+winterthurforrefugees.ch
 winterthurfotograf.ch
 winterthurgasanddiesel.ch
 winterthurgasdiesel.ch
@@ -10708,6 +10714,7 @@ wipschweiz.ch
 wipservices.ch
 wipsi.ch
 wipster.ch
+wipstudios.ch
 wipsuisse.ch
 wipswiss.ch
 wiptify.ch
@@ -11540,7 +11547,6 @@ wiredminds.ch
 wirednation.ch
 wiredrive.ch
 wiredscore.ch
-wiredsuccess.ch
 wirefeed.ch
 wirefeeder.ch
 wireframe.ch
@@ -12517,8 +12523,10 @@ wirtepatentbasel.ch
 wirtepatentbaselstadt.ch
 wirtepatentbern.ch
 wirtepatentgastrobern.ch
+wirtepatentkantonbern.ch
 wirtepatentluzern.ch
 wirtepatentonline.ch
+wirtepatentpruefung.ch
 wirtepatentschweiz.ch
 wirtepruefungbern.ch
 wirtepruefunggastrobern.ch
@@ -14243,7 +14251,6 @@ witai.ch
 witak.ch
 wital.ch
 witalijx.ch
-witamin.ch
 witamy-reisen.ch
 witamy-shop.ch
 witamy-tours.ch

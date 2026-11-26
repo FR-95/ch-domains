@@ -6,6 +6,7 @@ hf-academy.ch
 hf-admin.ch
 hf-agrokaufmann.ch
 hf-agrotechniker.ch
+hf-alpin.ch
 hf-architektur.ch
 hf-arode.ch
 hf-asgs.ch
@@ -139,6 +140,7 @@ hfag.ch
 hfagency.ch
 hfai-ah-001.ch
 hfai-ah-002.ch
+hfai-ah-003.ch
 hfai-ah-005.ch
 hfam.ch
 hfamily.ch
@@ -327,6 +329,7 @@ hfp-institutionsleiter.ch
 hfp-institutionsleitung.ch
 hfp-klarblick.ch
 hfp-kt-supervision.ch
+hfp-kt.ch
 hfp-organisationsberater.ch
 hfp-sh.ch
 hfp-supervision-coaching.ch
@@ -378,7 +381,6 @@ hfs-dh.ch
 hfs-dornach.ch
 hfs-lenzerheide.ch
 hfs-sh.ch
-hfs-skz.ch
 hfs-weiterbildung.ch
 hfs-zizers.ch
 hfs.ch
@@ -418,6 +420,7 @@ hfszizers.ch
 hft-ag.ch
 hft-beo.ch
 hft-bern.ch
+hft-bildung.ch
 hft-fasteners.ch
 hft-gr.ch
 hft-luzern.ch
@@ -453,12 +456,16 @@ hftop.ch
 hftopup.ch
 hftracker.ch
 hftraining.ch
+hftransport.ch
 hfts.ch
+hftschweiz.ch
 hftschwyz.ch
 hftso.ch
 hftsolothurn.ch
 hftw.ch
 hftz.ch
+hftzh.ch
+hftzuerich.ch
 hfu-moodle.ch
 hfu.ch
 hfuel.ch

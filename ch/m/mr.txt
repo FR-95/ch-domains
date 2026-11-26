@@ -304,7 +304,6 @@ mr-rung-easy-food-luzern.ch
 mr-rung.ch
 mr-rupperswil.ch
 mr-s.ch
-mr-sa.ch
 mr-sandman.ch
 mr-scaling.ch
 mr-schlieren.ch
@@ -418,6 +417,7 @@ mraarberg.ch
 mrabeyeh-transporte.ch
 mrac.ch
 mraclette.ch
+mrad.ch
 mradcustom.ch
 mradvisory.ch
 mrag.ch

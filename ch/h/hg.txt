@@ -41,6 +41,7 @@ hg-kreativ.ch
 hg-kube.ch
 hg-langnauberge.ch
 hg-management.ch
+hg-marketing.ch
 hg-matur-1987.ch
 hg-meier.ch
 hg-messer.ch
@@ -355,6 +356,7 @@ hgtl.ch
 hgtools.ch
 hgtramelan.ch
 hgtrimstein.ch
+hgts.ch
 hgtsteckborn.ch
 hgttreuhand.ch
 hgtv.ch

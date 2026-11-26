@@ -2,6 +2,7 @@ ir-24.ch
 ir-aetherischeoele.ch
 ir-ar.ch
 ir-architekten.ch
+ir-auto.ch
 ir-bau.ch
 ir-beratung.ch
 ir-bern.ch
@@ -24,6 +25,7 @@ ir-industrie-gewerbebau.ch
 ir-kalender.ch
 ir-line.ch
 ir-modernart.ch
+ir-moto.ch
 ir-photography.ch
 ir-procoaching.ch
 ir-raceworks.ch

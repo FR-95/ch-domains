@@ -626,6 +626,7 @@ soc-im-fokus.ch
 soc-invaders.ch
 soc-protektor.ch
 soc-saxon.ch
+soc-services.ch
 soc.ch
 soc2.ch
 soc88.ch
@@ -3047,6 +3048,7 @@ sofiwealth.ch
 sofiwone.ch
 sofix.ch
 sofiya-haus.ch
+sofiya.ch
 sofiyanzairi.ch
 sofiyazueger.ch
 sofj.ch
@@ -3062,6 +3064,7 @@ sofluffy.ch
 sofly.ch
 sofo.ch
 sofold.ch
+sofolk.ch
 sofoody.ch
 sofor.ch
 soforentsorgung.ch
@@ -3368,6 +3371,7 @@ soft99.ch
 softa.ch
 softab.ch
 softabhosting.ch
+softaccurate.ch
 softacus.ch
 softaesthetic.ch
 softafin.ch
@@ -3952,7 +3956,6 @@ software-kmu.ch
 software-kosten-schweiz.ch
 software-lab.ch
 software-leasing.ch
-software-lizenz.ch
 software-lohnarbeiten.ch
 software-lohnarbeiter.ch
 software-lohnunternehmen.ch
@@ -7532,7 +7535,6 @@ solarpflege.ch
 solarpflicht.ch
 solarphoton.ch
 solarphotovoltaik.ch
-solarpilot.ch
 solarpionier.ch
 solarpioniere.ch
 solarpiraten.ch
@@ -8339,6 +8341,7 @@ soldanella.ch
 soldanellagstaad.ch
 soldanellastmoritz.ch
 soldanelle-chateaudoex.ch
+soldanelle.ch
 soldanelles.ch
 soldani.ch
 soldano.ch
@@ -11331,6 +11334,7 @@ solvares.ch
 solvaresfieldservice.ch
 solvari.ch
 solvaris.ch
+solvaro.ch
 solvas.ch
 solvat2.ch
 solvate.ch
@@ -11725,6 +11729,7 @@ soma-soul.ch
 soma-space.ch
 soma-studio.ch
 soma-synerva.ch
+soma-tennis.ch
 soma-therapie.ch
 soma-trading.ch
 soma-vida.ch
@@ -11839,6 +11844,7 @@ somanipraxis.ch
 somanoia.ch
 somanova.ch
 somanti.ch
+somanu.ch
 somanywords.ch
 somao-lab.ch
 somao.ch
@@ -12295,6 +12301,7 @@ sommeliereenbateau.ch
 sommeliereenroute.ch
 sommeliers-du-the.ch
 sommeliers-suisse.ch
+sommeliers-suisses.ch
 sommeliers-svs.ch
 sommeliers.ch
 sommelierschool.ch
@@ -14727,6 +14734,7 @@ sonnenfaenger.ch
 sonnenfalter.ch
 sonnenfang.ch
 sonnenfassade.ch
+sonnenfeld-duo.ch
 sonnenfeld-ermenswil.ch
 sonnenfeld-ruemikon.ch
 sonnenfeld-sirnach.ch
@@ -16410,6 +16418,7 @@ sophielaskar.ch
 sophielavaud.ch
 sophielemeillour.ch
 sophieloew.ch
+sophielouise.ch
 sophielucilecouval.ch
 sophieludwig.ch
 sophielufkinyoga.ch
@@ -18165,7 +18174,6 @@ sos-sauvons-les-faons.ch
 sos-sc.ch
 sos-schlafapnoe.ch
 sos-schlossservice.ch
-sos-schluesseldienst.ch
 sos-schluesselservice.ch
 sos-schreiner-service.ch
 sos-schreiner.ch
@@ -18332,7 +18340,6 @@ sosbeobachter.ch
 sosbettwanzen.ch
 sosbibite.ch
 sosbienne.ch
-sosbm.ch
 sosboat.ch
 sosboisson.ch
 sosboissons.ch
@@ -19189,7 +19196,6 @@ soul-ev.ch
 soul-experience.ch
 soul-feeling.ch
 soul-floor.ch
-soul-flow.ch
 soul-food.ch
 soul-fully.ch
 soul-garage.ch
@@ -19882,6 +19888,8 @@ soulsensing.ch
 soulserve.ch
 soulsession.ch
 soulsessions.ch
+soulsetters.ch
+soulsetting.ch
 soulshack.ch
 soulshift.ch
 soulshimmer.ch

@@ -421,7 +421,6 @@ dns.immotools.ch
 dns.jorix.ch
 dns.k-7.ch
 dns.ksc.ch
-dns.labar.ch
 dns.logobject.ch
 dns.magiks.ch
 dns.mgnet.ch

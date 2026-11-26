@@ -1242,6 +1242,7 @@ pfarrweid.ch
 pfarrwiese.ch
 pfas-agricoltura.ch
 pfas-agriculture.ch
+pfas-baustelle.ch
 pfas-check.ch
 pfas-checking.ch
 pfas-eau.ch
@@ -1256,6 +1257,7 @@ pfas-sanierung.ch
 pfas-schweiz.ch
 pfas-test.ch
 pfas-trinkwasserfilter.ch
+pfas-wasserhaltung.ch
 pfas.ch
 pfasanalyse.ch
 pfascheck.ch
@@ -3333,6 +3335,7 @@ pflanzencalcium.ch
 pflanzencenter-fehr.ch
 pflanzencenter-kipper.ch
 pflanzencenter.ch
+pflanzencoach.ch
 pflanzendepot-botanica.ch
 pflanzendepot.ch
 pflanzendepotbotanica.ch
@@ -4348,6 +4351,7 @@ pflegen-zuhause.ch
 pflegen.ch
 pflegen24.ch
 pflegenachmass.ch
+pflegenah.ch
 pflegenaturprodukte.ch
 pflegenavigator.ch
 pflegend.ch
@@ -4957,6 +4961,7 @@ pfoten-palast.ch
 pfoten-pfad.ch
 pfoten-physio.ch
 pfoten-praxis.ch
+pfoten-puls.ch
 pfoten-reich.ch
 pfoten-schule.ch
 pfoten-service.ch
@@ -5136,6 +5141,7 @@ pfotenpraezision.ch
 pfotenpraxis.ch
 pfotenprofi.ch
 pfotenpsychologie.ch
+pfotenpuls.ch
 pfotenpunkt.ch
 pfotenradar.ch
 pfotenranch.ch
@@ -5411,11 +5417,13 @@ pfusch.ch
 pfuschi-cartoon.ch
 pfuschi.ch
 pfuschundmurgs.ch
+pfusgschichtli.ch
 pfusi.ch
 pfutterer.ch
 pfuus.ch
 pfuusbus.ch
 pfuuser.ch
+pfuusgschichtli.ch
 pfuusguet.ch
 pfuusvomdach.ch
 pfv-wallbach.ch

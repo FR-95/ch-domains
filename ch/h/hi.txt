@@ -490,6 +490,7 @@ hiddensecretsofitaly.ch
 hiddensouls.ch
 hiddensound.ch
 hiddenspeakers.ch
+hiddenspot.ch
 hiddenstash.ch
 hiddenstories.ch
 hiddensweets.ch
@@ -1816,6 +1817,7 @@ hike-nfly.ch
 hike-now.ch
 hike-of-life.ch
 hike-passion.ch
+hike-performance.ch
 hike-sleep.ch
 hike-stories.ch
 hike.ch
@@ -1971,8 +1973,6 @@ hikmellingen.ch
 hikmetehoti.ch
 hikmicro-schweiz.ch
 hikmicro-swiss.ch
-hikmicro.ch
-hikmicrotech.ch
 hiko.ch
 hikoki-powertools.ch
 hikoki-schweiz.ch
@@ -3151,7 +3151,6 @@ himmelried-strom.ch
 himmelried.ch
 himmelried24.ch
 himmelriich.ch
-himmelringe.ch
 himmelrot-erdbeerblau.ch
 himmelrot.ch
 himmels-fest.ch
@@ -4240,6 +4239,7 @@ hirebuddy.ch
 hirecenter.ch
 hireconsult.ch
 hired.ch
+hiredbergmann.ch
 hiredev.ch
 hiree.ch
 hiref.ch
@@ -4505,6 +4505,7 @@ hirschavocat.ch
 hirschbaum.ch
 hirschberg-appenzell.ch
 hirschberg-engineering.ch
+hirschberg-treuhand.ch
 hirschberg.ch
 hirschberg12.ch
 hirschbergcenter.ch

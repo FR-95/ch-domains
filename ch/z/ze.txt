@@ -909,6 +909,7 @@ zeichenlehrer.ch
 zeichenmanufaktur.ch
 zeichenmappe.ch
 zeichenmappen.ch
+zeichenpapier.ch
 zeichenplatte.ch
 zeichenplatten.ch
 zeichenrecht.ch
@@ -2527,6 +2528,7 @@ zellweger.ch
 zellwegerag.ch
 zellwegerassocies.ch
 zellwegeravocats.ch
+zellwegerboehm.ch
 zellwegerconsulting.ch
 zellwegerpark.ch
 zellwegerzahntechnik.ch
@@ -6328,6 +6330,7 @@ zestonics.ch
 zestoretic.ch
 zestperfume.ch
 zestre.ch
+zestria.ch
 zestril.ch
 zestsa.ch
 zestsarl.ch

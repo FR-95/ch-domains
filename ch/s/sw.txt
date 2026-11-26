@@ -1614,6 +1614,7 @@ swibi.ch
 swibill.ch
 swibio.ch
 swibiria.ch
+swibis.ch
 swibit.ch
 swibix.ch
 swibo.ch
@@ -1731,7 +1732,6 @@ swiderm.ch
 swidev.ch
 swidex.ch
 swidex24.ch
-swidias.ch
 swidis.ch
 swidiss.ch
 swidmer-elektro.ch
@@ -3172,6 +3172,7 @@ swiss-assetrecovery.ch
 swiss-assets.ch
 swiss-assist.ch
 swiss-assistance.ch
+swiss-assistancedogs.ch
 swiss-assistant.ch
 swiss-association.ch
 swiss-associations-managers.ch
@@ -3528,7 +3529,6 @@ swiss-blended-learning-academy.ch
 swiss-bliss.ch
 swiss-blockchain-association.ch
 swiss-blockchain-hub.ch
-swiss-blockchain-nation.ch
 swiss-blockchain-summit.ch
 swiss-blockchain.ch
 swiss-blockchaintech.ch
@@ -4534,7 +4534,6 @@ swiss-dci.ch
 swiss-dcs.ch
 swiss-dd.ch
 swiss-de.ch
-swiss-deaf.ch
 swiss-deals.ch
 swiss-dealz.ch
 swiss-debarras.ch
@@ -6886,6 +6885,7 @@ swiss-med-expert-ag.ch
 swiss-med-minerals.ch
 swiss-med-monitor.ch
 swiss-med-solutions.ch
+swiss-med-talent.ch
 swiss-med-team.ch
 swiss-med.ch
 swiss-medadvice.ch
@@ -8355,6 +8355,7 @@ swiss-safran.ch
 swiss-sagl.ch
 swiss-sah.ch
 swiss-sail.ch
+swiss-sailcharter.ch
 swiss-sailing-academy.ch
 swiss-sailing-camp.ch
 swiss-sailing-club.ch
@@ -9698,7 +9699,6 @@ swiss-virtual.ch
 swiss-virtualjet.ch
 swiss-virtualstaging.ch
 swiss-visa.ch
-swiss-visio.ch
 swiss-vision-care.ch
 swiss-vision-center.ch
 swiss-vision-int.ch
@@ -9857,7 +9857,6 @@ swiss-whisky-selection.ch
 swiss-whisky.ch
 swiss-whiteboards.ch
 swiss-wholesale-cbd.ch
-swiss-widderhotel.ch
 swiss-wiki.ch
 swiss-wikkelhouse.ch
 swiss-wimmel.ch
@@ -10759,7 +10758,6 @@ swissalpinreach.ch
 swissalpnaturals.ch
 swissalppharma.ch
 swissalpresort.ch
-swissalps-ag.ch
 swissalps-consulting.ch
 swissalps-development.ch
 swissalps-dome.ch
@@ -12141,7 +12139,6 @@ swissblockchainbridge.ch
 swissblockchainconference.ch
 swissblockchaincongress.ch
 swissblockchainconsortium.ch
-swissblockchainnation.ch
 swissblockchains.ch
 swissblockchainsecurities.ch
 swissblockchainsecurity.ch
@@ -13146,6 +13143,7 @@ swisscarom-billard.ch
 swisscarom.ch
 swisscarousel.ch
 swisscarparc.ch
+swisscarpark.ch
 swisscarparts.ch
 swisscarpenter.ch
 swisscarpenters.ch
@@ -14744,6 +14742,7 @@ swisscustomerservice.ch
 swisscustomerserviceexcellence.ch
 swisscustomfreaks.ch
 swisscustomizing.ch
+swisscustomsbroker.ch
 swisscustomsclearance.ch
 swisscustomscompliance.ch
 swisscustomsup.ch
@@ -14954,7 +14953,6 @@ swissdatings.ch
 swissdatteln.ch
 swissdauphygroup.ch
 swissdave.ch
-swissdavecoaching.ch
 swissdawa.ch
 swissdax.ch
 swissday.ch
@@ -16567,7 +16565,6 @@ swissfactorygroup.ch
 swissfactorymanagement.ch
 swissfactorysemiconductor.ch
 swissfacts.ch
-swissfactura.ch
 swissfacture.ch
 swissfaculty.ch
 swissfade.ch
@@ -16664,7 +16661,6 @@ swissfatiguecentre.ch
 swissfauna.ch
 swissfaustball.ch
 swissfax.ch
-swissfay.ch
 swissfbc.ch
 swissfbtech.ch
 swissfca.ch
@@ -17233,6 +17229,7 @@ swissformdesign.ch
 swissformgroup.ch
 swissforming.ch
 swissforms.ch
+swissformteile.ch
 swissformu.ch
 swissformula.ch
 swissformulation.ch
@@ -17538,6 +17535,7 @@ swissgamingtournament.ch
 swissgamingtrophy.ch
 swissgamingunion.ch
 swissgammaknife.ch
+swissgams.ch
 swissgap.ch
 swissgarage.ch
 swissgarage56.ch
@@ -23318,6 +23316,7 @@ swisspaeck.ch
 swisspaediatrics.ch
 swisspaff.ch
 swisspage.ch
+swisspageantproduction.ch
 swisspages.ch
 swisspain-net.ch
 swisspain.ch
@@ -24278,6 +24277,7 @@ swisspower-it.ch
 swisspower-renewables.ch
 swisspower.ch
 swisspower24.ch
+swisspowerbank.ch
 swisspowerbeef.ch
 swisspowerbrass.ch
 swisspowerconsulting.ch
@@ -26162,6 +26162,7 @@ swissshuffle.ch
 swissshuffleboard.ch
 swissshuttle.ch
 swisssi.ch
+swisssicherheitsdienste.ch
 swissside.ch
 swisssidechain.ch
 swisssidedt.ch
@@ -28547,6 +28548,7 @@ swisswafer.ch
 swisswafers.ch
 swisswaffen.ch
 swisswaffles.ch
+swisswage.ch
 swisswagyu.ch
 swisswai.ch
 swisswake.ch
@@ -29352,6 +29354,7 @@ switch-off.ch
 switch-panel.ch
 switch-prestige.ch
 switch-renovation.ch
+switch-slp.ch
 switch-to-nature.ch
 switch-to-smart-with-ista.ch
 switch-to-smart.ch
@@ -29481,12 +29484,14 @@ switchrich.ch
 switchsailing.ch
 switchskills.ch
 switchslidefilms.ch
+switchslp.ch
 switchsnit.ch
 switchsocialclub.ch
 switchsocialdanceclub.ch
 switchstance.ch
 switchstore.ch
 switchsuiclass.ch
+switchswiss.ch
 switchswissclass.ch
 switchte.ch
 switchteamball.ch

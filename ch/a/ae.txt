@@ -1,5 +1,6 @@
 ae-ae.ch
 ae-ag.ch
+ae-app.ch
 ae-arrangements.ch
 ae-atelierdebeaute.ch
 ae-auto.ch
@@ -678,7 +679,6 @@ aedvergleich.ch
 aedverkauf.ch
 aedwatches.ch
 aedzubehoer.ch
-aee-congres-h2.ch
 aee-congres.ch
 aee-kongress.ch
 aee-media.ch
@@ -986,6 +986,7 @@ aegypter.ch
 aegyptische-vision.ch
 aegyptischertanz.ch
 aegyptischlernen.ch
+aegyptologe-aladdin.ch
 aegyptologie-schweiz.ch
 aegyptologieforum.ch
 aegyptos.ch
@@ -2535,7 +2536,6 @@ aerospeed.ch
 aerosphere.ch
 aerospool.ch
 aerosport.ch
-aerospot.ch
 aerospring.ch
 aerossetti.ch
 aerostabio.ch

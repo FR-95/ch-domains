@@ -23,6 +23,7 @@ cp-capital.ch
 cp-car.ch
 cp-cars.ch
 cp-cdf.ch
+cp-clean.ch
 cp-cm.ch
 cp-coach.ch
 cp-coaching.ch

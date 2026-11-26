@@ -2039,7 +2039,6 @@ gedankenflugberatung.ch
 gedankenflugmental.ch
 gedankenfluss.ch
 gedankenflut.ch
-gedankenfokus.ch
 gedankenfotografie.ch
 gedankenfrei.ch
 gedankenfreiraum.ch
@@ -2679,6 +2678,7 @@ gefahrenmanagement.ch
 gefahrenmelder.ch
 gefahrenpraevention.ch
 gefahrenradar.ch
+gefahrenscanner.ch
 gefahrenstellen.ch
 gefahrensymbole.ch
 gefahrensysteme.ch
@@ -2731,6 +2731,7 @@ gefahrstofflagerung.ch
 gefahrstoffschrank.ch
 gefahrstofftag.ch
 gefahrzettel.ch
+gefais.ch
 gefak-bl.ch
 gefak-onlineportal.ch
 gefak.ch
@@ -6253,7 +6254,6 @@ gemeinsam-gehen.ch
 gemeinsam-gehts.ch
 gemeinsam-geniessen.ch
 gemeinsam-gut-entscheiden.ch
-gemeinsam-heilsam.ch
 gemeinsam-helfen.ch
 gemeinsam-hermann.ch
 gemeinsam-hier.ch
@@ -7083,7 +7083,6 @@ gen-checkup.ch
 gen-echafaudages.ch
 gen-energy-swiss.ch
 gen-energy.ch
-gen-erate.ch
 gen-eric.ch
 gen-esthetic.ch
 gen-esthetics.ch
@@ -7970,6 +7969,7 @@ generationkariesfrei.ch
 generationklima.ch
 generationl.ch
 generationled.ch
+generationlove.ch
 generationm.ch
 generationmars.ch
 generationmedia.ch
@@ -7979,6 +7979,7 @@ generationnel.ch
 generationoffice.ch
 generationofsolar.ch
 generationonline.ch
+generationpalestine.ch
 generationparquet.ch
 generationplus-zug.ch
 generationplus.ch
@@ -7999,7 +8000,6 @@ generations-magazine.ch
 generations-media.ch
 generations-music.ch
 generations-plus.ch
-generations-reseau-avocats.ch
 generations-retraite.ch
 generations-sante.ch
 generations.ch
@@ -9497,6 +9497,7 @@ geneve-pneus.ch
 geneve-podologue.ch
 geneve-podologues.ch
 geneve-pompe-a-chaleur.ch
+geneve-print.ch
 geneve-psychiatrie.ch
 geneve-psycho.ch
 geneve-psychologue.ch
@@ -10120,6 +10121,7 @@ genias.ch
 geniasolutions.ch
 geniax.ch
 genibat.ch
+genibox.ch
 genic.ch
 genicad.ch
 genicis.ch
@@ -10892,6 +10894,7 @@ genthod24.ch
 genthouserie.ch
 genti-transports.ch
 genti.ch
+gentian-os.ch
 gentian.ch
 gentiana-arosa.ch
 gentiana-b.ch
@@ -10935,6 +10938,7 @@ gentilini.ch
 gentilis.ch
 gentilmail.ch
 gentiloffice.ch
+gentilog.ch
 gentiluomo.ch
 gentinetta-bau.ch
 gentinetta-consulting.ch
@@ -17157,6 +17161,7 @@ gesea-switzerland.ch
 gesea.ch
 geseaswiss.ch
 geseco.ch
+gesehen-app.ch
 gesehen-doku.ch
 gesehen-werden.ch
 gesehen.ch
@@ -17576,6 +17581,7 @@ gest.ch
 gest4site.ch
 gesta-salvatoris.ch
 gesta.ch
+gestable.ch
 gestach-hr-advisory.ch
 gestach.ch
 gestacloud.ch
@@ -17954,7 +17960,6 @@ gestion-med.ch
 gestion-ne.ch
 gestion-patrimoine.ch
 gestion-pixup.ch
-gestion-pme.ch
 gestion-privee.ch
 gestion-pro.ch
 gestion-projets.ch
@@ -22128,7 +22133,6 @@ gewaltfreie-kommunikation-buch.ch
 gewaltfreie-kommunikation-kurse.ch
 gewaltfreie-kommunikation-luzern.ch
 gewaltfreie-kommunikation-podcast.ch
-gewaltfreie-kommunikation-schweiz.ch
 gewaltfreie-kommunikation-unternehmen.ch
 gewaltfreie-schweiz.ch
 gewaltfreieerziehung.ch
@@ -22337,10 +22341,8 @@ gewerbe-immobilien.ch
 gewerbe-index.ch
 gewerbe-industrie.ch
 gewerbe-info-datenbank.ch
-gewerbe-info-verzeichnis.ch
 gewerbe-infodatenbank.ch
 gewerbe-informationsdatenbank.ch
-gewerbe-infoverzeichnis.ch
 gewerbe-kaltbrunn.ch
 gewerbe-kappelen.ch
 gewerbe-kaution.ch
@@ -22669,7 +22671,6 @@ gewerbeindex.ch
 gewerbeindustrie.ch
 gewerbeinfo.ch
 gewerbeinfodatenbank.ch
-gewerbeinfoverzeichnis.ch
 gewerbeins.ch
 gewerbejob.ch
 gewerbejobs.ch

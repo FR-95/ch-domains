@@ -19,7 +19,6 @@ rz-fulfillment.ch
 rz-geokonzept.ch
 rz-hauswartungen.ch
 rz-i.ch
-rz-immobilien.ch
 rz-immobilienag.ch
 rz-immobilier.ch
 rz-interlaken.ch
@@ -133,7 +132,6 @@ rzimmerli.ch
 rzimmermann.ch
 rzimmi.ch
 rzimmo.ch
-rzimmobilien.ch
 rzindeltransporteag.ch
 rzintegral.ch
 rzit.ch

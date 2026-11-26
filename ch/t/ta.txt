@@ -4218,6 +4218,7 @@ takt-traumaadaptive-kunsttherapie.ch
 takt-voll.ch
 takt.ch
 takt3-uznach.ch
+takt3.ch
 takt6343.ch
 takt9.ch
 takta.ch
@@ -4460,10 +4461,12 @@ talbachstudios.ch
 talbau.ch
 talberg-immobilien.ch
 talberg.ch
+talblick-muerren.ch
 talblick.ch
 talblick10.ch
 talblick21.ch
 talblick4460.ch
+talblickmuerren.ch
 talboden.ch
 talboo.ch
 talbot.ch
@@ -4786,10 +4789,7 @@ talentido.ch
 talentierbar.ch
 talentiert.ch
 talentify.ch
-talentifyapp.ch
 talentifycompany.ch
-talentifyconsulting.ch
-talentifyglobal.ch
 talentimpact.ch
 talentincubator.ch
 talenting.ch
@@ -7833,6 +7833,7 @@ tann3r.ch
 tannacher.ch
 tannacker-freizeit.ch
 tannacker.ch
+tannackerstrasse-guemligen.ch
 tannackerstrasse.ch
 tannae.ch
 tannair.ch
@@ -8529,6 +8530,7 @@ tantrafest.ch
 tantrafestival.ch
 tantrafestivalswitzerland.ch
 tantragruppe.ch
+tantraguide.ch
 tantrah.ch
 tantraindex.ch
 tantrakueche.ch
@@ -10023,7 +10025,6 @@ tapinoma.ch
 tapintoyourbestlife.ch
 tapio-forst.ch
 tapio.ch
-tapioca.ch
 tapiocama.ch
 tapiocamarket.ch
 tapiocarhy.ch
@@ -10499,7 +10500,6 @@ tarbacaindigo.ch
 tarbea.ch
 tarbell.ch
 tarblood.ch
-tarboo.ch
 tarbot.ch
 tarbouch.ch
 tarbourie.ch
@@ -11190,6 +11190,7 @@ tarotzen.ch
 tarouz.ch
 tarox.ch
 taroz.ch
+tarp.ch
 tarpagkos.ch
 tarpan.ch
 tarpanadvisory.ch
@@ -12618,7 +12619,6 @@ tatort-natur.ch
 tatort-region.ch
 tatort-reiniger.ch
 tatort-reinigung.ch
-tatort-reinigungen.ch
 tatort-solothurn.ch
 tatort-stgallen.ch
 tatort-vergangenheit.ch
@@ -15651,7 +15651,6 @@ taxidriverticino.ch
 taxidrivethurgau.ch
 taxidrohne.ch
 taxidrone.ch
-taxiducoeur.ch
 taxiduewal.ch
 taxidusoleil.ch
 taxie.ch
@@ -16410,6 +16409,7 @@ taxiyverdon.ch
 taxiyverdon24.ch
 taxiyvonand.ch
 taxizack.ch
+taxizana-luzern.ch
 taxizenter.ch
 taxizentral.ch
 taxizentrale-aarau.ch
@@ -16443,7 +16443,6 @@ taxizuerichexpress24.ch
 taxizuerichflughafen.ch
 taxizuerisee.ch
 taxizug.ch
-taxizuger.ch
 taxizumflughafen.ch
 taxizurbriggen.ch
 taxizuri.ch
@@ -16499,6 +16498,7 @@ taxmantreuhand.ch
 taxmap.ch
 taxmaro.ch
 taxmaster.ch
+taxmatch.ch
 taxmate.ch
 taxmax.ch
 taxmaxx.ch

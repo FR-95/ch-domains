@@ -116,6 +116,7 @@ snackable-content.ch
 snackablecai.ch
 snackademie.ch
 snackandbakery.ch
+snackandsoul.ch
 snackandwin.ch
 snackarmy.ch
 snackattack-24.ch
@@ -1313,6 +1314,7 @@ snoegg.ch
 snoenergy.ch
 snoeternelle.ch
 snoetigscht.ch
+snoezelen-box.ch
 snoezelen-ch.ch
 snoezelen-concept.ch
 snoezelen-laboutique.ch
@@ -1322,6 +1324,7 @@ snoezelen-suisse.ch
 snoezelen-svizzera.ch
 snoezelen-zeitfuermich.ch
 snoezelen.ch
+snoezelenbox.ch
 snoezelench.ch
 snoezelenschweiz.ch
 snoezelensuisse.ch
@@ -2538,7 +2541,6 @@ snuwhus.ch
 snux.ch
 snuz.ch
 snuzhus.ch
-snuzi.ch
 snuzia.ch
 snuzo.ch
 snuzone.ch

@@ -6,6 +6,7 @@ vo-buur-zo-buur.ch
 vo-compta.ch
 vo-cycles.ch
 vo-da.ch
+vo-diemis.ch
 vo-do.ch
 vo-dobe.ch
 vo-dr-heimat.ch
@@ -19,6 +20,7 @@ vo-ip.ch
 vo-it.ch
 vo-ku.ch
 vo-link.ch
+vo-max.ch
 vo-miaer.ch
 vo-mo.ch
 vo-mouss.ch
@@ -1305,7 +1307,6 @@ vogtfamily.ch
 vogtgarage.ch
 vogtgaragen.ch
 vogtgroup.ch
-vogth.ch
 vogthoerler.ch
 vogthof.ch
 vogtholzbau.ch
@@ -2128,7 +2129,9 @@ voitsport.ch
 voittaja.ch
 voitura.ch
 voiture-ancienne.ch
+voiture-electrique-romandie.ch
 voiture-electrique.ch
+voiture-famille.ch
 voiture-mariage.ch
 voiture-occasion-suisse.ch
 voiture-occasion.ch
@@ -4369,6 +4372,7 @@ volumina-medical.ch
 volumis.ch
 volumista.ch
 volumna.ch
+volumo.ch
 volumondo.ch
 volumyx.ch
 volun.ch
@@ -4798,6 +4802,7 @@ vomail.ch
 vomalpendachs.ch
 vomasphof.ch
 vomatec.ch
+vomax.ch
 vombaecker.ch
 vombaerg.ch
 vombarf.ch
@@ -6877,7 +6882,6 @@ vorhangplus.ch
 vorhangpro.ch
 vorhangprofi-zuerich.ch
 vorhangprofi.ch
-vorhangraum.ch
 vorhangreiniger.ch
 vorhangrestposten.ch
 vorhangrevolution.ch
@@ -7344,6 +7348,7 @@ vorsorgebank-obwalden.ch
 vorsorgebank-ow.ch
 vorsorgebank.ch
 vorsorgebeauftragt.ch
+vorsorgebegleiter.ch
 vorsorgeberater.ch
 vorsorgeberatung-schweiz.ch
 vorsorgeberatung-seniorenberatung.ch

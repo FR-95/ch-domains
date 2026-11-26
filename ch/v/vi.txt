@@ -173,6 +173,7 @@ via-stazione.ch
 via-strem.ch
 via-swiss.ch
 via-tcs.ch
+via-templi.ch
 via-terrazzo.ch
 via-tis.ch
 via-travel.ch
@@ -656,6 +657,7 @@ viamalasportwerkstatt.ch
 viamalastorys.ch
 viamalatourismus.ch
 viamalatrails.ch
+viamalaway.ch
 viaman-volume.ch
 viamandis.ch
 viamanu.ch
@@ -1362,6 +1364,7 @@ vibeswil.ch
 vibet.ch
 vibetastic.ch
 vibetax.ch
+vibete.ch
 vibeton.ch
 vibetribe.ch
 vibevault.ch
@@ -1910,6 +1913,8 @@ victims.ch
 victimsofbeauty.ch
 victo-ag.ch
 victoire.ch
+victoires-populaires.ch
+victoirespopulaires.ch
 victonya.ch
 victor-art-events.ch
 victor-bonnet.ch
@@ -3089,6 +3094,7 @@ videokultur.ch
 videokunst-shop.ch
 videokunst.ch
 videokunstarchiv.ch
+videokunstbasel.ch
 videokunstgalerie.ch
 videokunstshop.ch
 videokurs.ch
@@ -3275,6 +3281,7 @@ videosafari.ch
 videosalademande.ch
 videosale.ch
 videosation.ch
+videosbasel.ch
 videoschneiden.ch
 videoschnitt.ch
 videoscope.ch
@@ -4046,7 +4053,6 @@ viergrad.ch
 vierhaareszeiten.ch
 vierhaende.ch
 vierhaus.ch
-vierhausbike.ch
 vierhaustech.ch
 vierherrenplatz.ch
 vierherzendesign.ch
@@ -4261,6 +4267,7 @@ vietfood.ch
 vieth.ch
 viethen.ch
 vietkitchen.ch
+vietlawbiz.ch
 vietlong.ch
 vietnails.ch
 vietnam-abenteuer-reisen.ch
@@ -4653,6 +4660,7 @@ vigil-advisory.ch
 vigil-beratung.ch
 vigil-ia.ch
 vigil-partners.ch
+vigil-verwaltung.ch
 vigil.ch
 vigila.ch
 vigiladvisory.ch
@@ -5939,7 +5947,6 @@ villaflores.ch
 villaflorhof.ch
 villaflorida.ch
 villafloridiana.ch
-villaflorius.ch
 villafluvia.ch
 villaforee-kandersteg.ch
 villaforyou.ch
@@ -6734,8 +6741,6 @@ villaz24.ch
 villazen-spa.ch
 villazentara.ch
 villba-consulting.ch
-villba-gmbh.ch
-villba.ch
 ville-au.ch
 ville-cyclable.ch
 ville-d-images.ch
@@ -12458,6 +12463,7 @@ visavis-baden.ch
 visavis-bern.ch
 visavis-coiffeur.ch
 visavis-danse.ch
+visavis-gamebreak.ch
 visavis-immobilien.ch
 visavis-langendorf.ch
 visavis-sozial.ch
@@ -12861,7 +12867,6 @@ visibilite.ch
 visibilite360.ch
 visibiliteia.ch
 visibilitelocale.ch
-visibilitiweb.ch
 visibility-4-you.ch
 visibility.ch
 visibilityai.ch
@@ -13380,6 +13385,7 @@ visionary-studio.ch
 visionary-thinking.ch
 visionary.ch
 visionaryadvisor.ch
+visionaryart.ch
 visionarycatch.ch
 visionarycircle.ch
 visionaryclub.ch
@@ -13941,6 +13947,7 @@ visioro.ch
 visioscope.ch
 visioscreen.ch
 visiosecret.ch
+visioservices.ch
 visioshop.ch
 visiosign.ch
 visiosingel.ch
@@ -18588,6 +18595,7 @@ viva-net.ch
 viva-nova.ch
 viva-nutrition.ch
 viva-office.ch
+viva-panamericana.ch
 viva-paraguay.ch
 viva-personal.ch
 viva-pf.ch
@@ -18808,6 +18816,7 @@ vivaforma.ch
 vivafreshgmbh.ch
 vivafrida.ch
 vivafridakahlo.ch
+vivafrutaputa.ch
 vivafuerfrauen.ch
 vivafundraising.ch
 vivafy.ch
@@ -19035,6 +19044,7 @@ vivalon.ch
 vivalor.ch
 vivalta.ch
 vivalti.ch
+vivalti3.ch
 vivalto-sante.ch
 vivaltosante.ch
 vivaltusvertuo.ch

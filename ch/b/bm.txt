@@ -12,6 +12,7 @@ bm-auto.ch
 bm-autos.ch
 bm-b.ch
 bm-bati.ch
+bm-bau-interior.ch
 bm-bauart.ch
 bm-baumanagement.ch
 bm-beautysalon.ch
@@ -195,6 +196,7 @@ bma-24.ch
 bma-365.ch
 bma-architectes.ch
 bma-biomedicals.ch
+bma-consulting.ch
 bma-deinweg.ch
 bma-immobilien.ch
 bma-inspektion.ch

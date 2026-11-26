@@ -806,6 +806,7 @@ cblatti.ch
 cble.ch
 cbleuler.ch
 cbln.ch
+cblocation.ch
 cblocationservices.ch
 cblogin.ch
 cblt.ch
@@ -1102,7 +1103,6 @@ cbve.ch
 cbvepeople.ch
 cbvision.ch
 cbvouchers.ch
-cbvtreuhand.ch
 cbvv.ch
 cbw-online.ch
 cbw.ch

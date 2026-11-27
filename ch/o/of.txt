@@ -836,6 +836,7 @@ offgridconsulting.ch
 offgridessentials.ch
 offgridguides.ch
 offgridhideaways.ch
+offgridhomes.ch
 offgridparagliding.ch
 offgridpowerstation.ch
 offgridproductions.ch
@@ -1093,6 +1094,7 @@ office-trends.ch
 office-type.ch
 office-ullrich.ch
 office-und-mehr.ch
+office-valais.ch
 office-vavu.ch
 office-verardo.ch
 office-veritas.ch
@@ -1593,6 +1595,7 @@ officeundmanagement.ch
 officeundmehr.ch
 officeundpapierkram.ch
 officev.ch
+officevalais.ch
 officevan.ch
 officeverbier.ch
 officevibe.ch
@@ -1814,6 +1817,7 @@ offitec-racing.ch
 offitec-solartechnik.ch
 offitec.ch
 offitrad.ch
+offius.ch
 offix-pro.ch
 offix.ch
 offixpro.ch
@@ -2333,7 +2337,6 @@ offthehook.ch
 offtherecord.ch
 offtherecordbar.ch
 offtherecords.ch
-offtheshelf.ch
 offthetrail.ch
 offthewall.ch
 offtide.ch

@@ -763,7 +763,6 @@ bobbyjones.ch
 bobbylou.ch
 bobbymaus.ch
 bobbyo.ch
-bobbyproduction.ch
 bobbys-fahrschule.ch
 bobbys-pub.ch
 bobbys-reisen.ch
@@ -4098,6 +4097,7 @@ boerekerei9320.ch
 boerewors.ch
 boerger.ch
 boergi.ch
+boerhein.ch
 boerlage.ch
 boerlin-inox.ch
 boerlin.ch
@@ -5248,6 +5248,7 @@ boilerking.ch
 boilerkings.ch
 boilermax.ch
 boilermool.ch
+boilerpilot.ch
 boilerprofi.ch
 boilerreingung-aesch-bl.ch
 boilerreinigung-allschwil.ch
@@ -7113,8 +7114,11 @@ bona-mente.ch
 bona-onlineshop.ch
 bona-parte.ch
 bona-planner.ch
+bona-rent.ch
 bona-shop.ch
+bona-software.ch
 bona-terra.ch
+bona-translate.ch
 bona-ventura.ch
 bona-vi.ch
 bona-vita.ch
@@ -7769,6 +7773,7 @@ bonfiresessions.ch
 bonfiretravel.ch
 bonflam-catering.ch
 bonflam.ch
+bonflow.ch
 bonfol.ch
 bonfol24.ch
 bonfond.ch
@@ -8100,6 +8105,7 @@ bonktradingcards.ch
 bonli.ch
 bonlieu.ch
 bonlife.ch
+bonliva.ch
 bonlive.ch
 bonlivrechat.ch
 bonlun.ch
@@ -8213,6 +8219,7 @@ bonnesidees.ch
 bonnesnotes.ch
 bonnespratiques.ch
 bonnespratiquesagricoles.ch
+bonnesresolutions.ch
 bonnet-architectes.ch
 bonnet-electricite.ch
 bonnet-qui-libre.ch
@@ -8302,7 +8309,6 @@ bonnys-lodge.ch
 bonnyskitchen.ch
 bonnyuser.ch
 bonnyvault.ch
-bono-allschwil.ch
 bono.ch
 bonoai.ch
 bonoallschwil.ch
@@ -9129,7 +9135,6 @@ book-hotels.ch
 book-it.ch
 book-keeping.ch
 book-label-manager.ch
-book-lounge.ch
 book-marks.ch
 book-me-now.ch
 book-me.ch
@@ -9284,7 +9289,6 @@ bookbooks.ch
 bookboon.ch
 bookbot.ch
 bookbox.ch
-bookboxbnb.ch
 bookbridge.ch
 bookbuilding.ch
 bookbutler.ch
@@ -9573,7 +9577,6 @@ booklocal.ch
 booklola.ch
 booklook.ch
 booklooker.ch
-booklounge.ch
 booklove-festival.ch
 booklove.ch
 booklovefestival.ch
@@ -9983,7 +9986,9 @@ boomerangbet.ch
 boomerangbet1.ch
 boomerangbetbet.ch
 boomerangbetcas.ch
+boomerangbetcasino-ch.ch
 boomerangbetcasino.ch
+boomerangbetcasino1.ch
 boomerangbetch.ch
 boomerangbetch1.ch
 boomerangbete.ch
@@ -9991,7 +9996,6 @@ boomerangbetofficial.ch
 boomerangbets-ch.ch
 boomerangbets.ch
 boomerangbetschweiz.ch
-boomerangbetspielen.ch
 boomerangbooking.ch
 boomerangcasino-ch.ch
 boomerangcasino.ch
@@ -11213,7 +11217,6 @@ bopx.ch
 bopyourteeth.ch
 boq.ch
 boqametr.ch
-boqifo.ch
 boqon.ch
 boqonbakery.ch
 boqpod.ch
@@ -11245,6 +11248,7 @@ boraborafilms.ch
 boraboraone.ch
 boraborasun.ch
 boraboratravel.ch
+borabowl.ch
 borac.ch
 boracay.ch
 boracayblue.ch
@@ -16313,6 +16317,7 @@ boutix.ch
 bouton.ch
 boutonbijou.ch
 boutondepause.ch
+boutondor.ch
 boutons-de-manchette.ch
 boutonsdemanchette.ch
 boutonviolet.ch
@@ -16469,7 +16474,6 @@ bovey-conseil.ch
 bovey-sanitaire-chauffage.ch
 bovey-services.ch
 bovey-steiner.ch
-bovey-vins.ch
 bovey.ch
 boveychauffage.ch
 boveyimmobilier.ch
@@ -17669,6 +17673,7 @@ bozwy.ch
 bozy.ch
 bozz-store.ch
 bozz.ch
+bozza-gmbh.ch
 bozza.ch
 bozzacco-consulting.ch
 bozzbot.ch

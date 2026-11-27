@@ -640,7 +640,6 @@ hydrobike.ch
 hydrobikes.ch
 hydrobiologie.ch
 hydrobiotech.ch
-hydrobloc.ch
 hydroboost.ch
 hydrobox.ch
 hydrobros.ch
@@ -2114,7 +2113,6 @@ hypetravel.ch
 hypetv.ch
 hypeup.ch
 hypeware.ch
-hypewear.ch
 hypewearstore.ch
 hypfinance.ch
 hypfood.ch
@@ -2211,6 +2209,7 @@ hypno-julie.ch
 hypno-kids.ch
 hypno-kurzzeitcoach.ch
 hypno-lausanne.ch
+hypno-legacy.ch
 hypno-liberte.ch
 hypno-lights.ch
 hypno-linguistic.ch
@@ -2248,7 +2247,6 @@ hypno-physio.ch
 hypno-plus.ch
 hypno-potential.ch
 hypno-pressur.ch
-hypno-psychologie.ch
 hypno-queer.ch
 hypno-quietude.ch
 hypno-raum.ch
@@ -2494,6 +2492,7 @@ hypnolab.ch
 hypnolausanne.ch
 hypnolearn.ch
 hypnolearning.ch
+hypnolegacy.ch
 hypnolegend.ch
 hypnolegends.ch
 hypnolia.ch

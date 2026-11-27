@@ -281,7 +281,6 @@ baarer-zytig.ch
 baarer.ch
 baarerbier.ch
 baarerdomu.ch
-baarerhaus.ch
 baarerhof.ch
 baarerhonig.ch
 baarerkammerorchester.ch
@@ -1546,6 +1545,7 @@ babyleo.ch
 babylicht.ch
 babylicious-shop.ch
 babylicious.ch
+babyliebe-balance.ch
 babyliebe.ch
 babylife.ch
 babyline.ch
@@ -3208,15 +3208,10 @@ backdate.ch
 backdateproject911.ch
 backdecor.ch
 backdirwas.ch
-backdoor-bike.ch
 backdoor-movie-jam.ch
-backdoor-running.ch
 backdoor-shop.ch
-backdoor-ski.ch
-backdoor-snowboard.ch
 backdoor-sport.ch
 backdoor-staff.ch
-backdoor-touring.ch
 backdoor.ch
 backdoorshop-adventskalender.ch
 backdoorshop-rent.ch
@@ -10232,6 +10227,7 @@ balanceplusenergie.ch
 balancepoint.ch
 balancepourlavie.ch
 balancepraxis.ch
+balancepro.ch
 balancepromotegroup.ch
 balancepromotegrouprecords.ch
 balancepunkt.ch
@@ -10925,7 +10921,6 @@ balik-lachs.ch
 balik-shop.ch
 balik-suisse.ch
 balik.ch
-balikatan.ch
 balikbayan.ch
 balikfarm.ch
 balikgroup.ch
@@ -13554,6 +13549,7 @@ bana.ch
 banabel.ch
 banaby.ch
 banacher.ch
+banacosmetics.ch
 banado.ch
 banafo.ch
 banag-ag.ch
@@ -14245,6 +14241,7 @@ bandti.ch
 bandtreff.ch
 bandtshirts.ch
 bandtv.ch
+bandumendis.ch
 bandundu.ch
 bandunion.ch
 bandur.ch
@@ -15280,7 +15277,6 @@ bannwil.ch
 bannwil24.ch
 banny.ch
 bano-entreprises.ch
-bano-root.ch
 bano.ch
 bano24.ch
 banoconcept.ch
@@ -17214,6 +17210,7 @@ barber-house.ch
 barber-king.ch
 barber-kreuzlingen.ch
 barber-mido.ch
+barber-odel.ch
 barber-panther-kosmetik.ch
 barber-pfaeffikon-sz.ch
 barber-pfaeffikon.ch
@@ -19456,9 +19453,7 @@ barriffraff.ch
 barriga.ch
 barrigel.ch
 barrigue.ch
-barrikade-info.ch
 barrikade.ch
-barrikadeinfo.ch
 barrikaden.ch
 barrile.ch
 barrille.ch
@@ -22381,6 +22376,7 @@ baskigrooming.ch
 baskin.ch
 baskinrobbins.ch
 baskit.ch
+basklave.ch
 basko.ch
 baskom-management.ch
 baskom.ch
@@ -23145,7 +23141,6 @@ basspro.ch
 bassproshops.ch
 bassquake.ch
 bassrhythmuss.ch
-bassriders.ch
 bassschulezurich.ch
 bassstampfer.ch
 basst.ch
@@ -23639,6 +23634,7 @@ batanganaekobo.ch
 batapark.ch
 batapp.ch
 batardeau.ch
+batardpartners.ch
 batarec.ch
 batas.ch
 batashop.ch
@@ -23989,6 +23985,7 @@ batidecorations.ch
 batidemenagement.ch
 batidevis.ch
 batidex.ch
+batidey.ch
 batidiag.ch
 batidoc.ch
 batidock.ch
@@ -24972,7 +24969,6 @@ bau-buddies.ch
 bau-budget.ch
 bau-buergler.ch
 bau-buero.ch
-bau-butler.ch
 bau-cam.ch
 bau-careers.ch
 bau-chaschte.ch
@@ -25411,7 +25407,6 @@ bau5.ch
 bau8.ch
 baua-tech2.ch
 baua.ch
-bauabbruch.ch
 bauabdichter.ch
 bauabdichtung.ch
 bauabdichtungen-zuerich.ch
@@ -26076,6 +26071,7 @@ baudeinevent.ch
 baudeinmoebel.ch
 baudekon.ch
 baudekor.ch
+baudemo.ch
 baudenkmaeler.ch
 baudenkmal-bern.ch
 baudenkmal-ramsen.ch
@@ -26349,6 +26345,7 @@ bauenmitstil.ch
 bauenmitverantwortung.ch
 bauenmitvertrauen.ch
 bauenmodern.ch
+bauenmodernisieren.ch
 bauennachmass.ch
 bauenohneland.ch
 bauenohnematerial.ch
@@ -27833,7 +27830,6 @@ baum-buch.ch
 baum-buero.ch
 baum-consulting.ch
 baum-der-liebe.ch
-baum-des-lebens.ch
 baum-doktor.ch
 baum-erleben.ch
 baum-experte.ch
@@ -29408,6 +29404,7 @@ bauoekonom.ch
 bauoekonomen.ch
 bauoekonomie.ch
 bauoffert.ch
+bauofferte-check.ch
 bauofferte.ch
 bauofferten.ch
 bauomat.ch
@@ -31642,6 +31639,7 @@ baz-art.ch
 baz-auktion.ch
 baz-bern-admin.ch
 baz-bern.ch
+baz-coiffeur.ch
 baz-guglera.ch
 baz-immo.ch
 baz-immobilien.ch

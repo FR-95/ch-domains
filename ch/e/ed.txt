@@ -1491,6 +1491,7 @@ edelwiiss.ch
 edelwild.ch
 edelwin.ch
 edelwines.ch
+edelwipes.ch
 edelwire.ch
 edelwis.ch
 edelwise.ch
@@ -1558,6 +1559,7 @@ eden-giardino.ch
 eden-girl.ch
 eden-girls.ch
 eden-golfevent.ch
+eden-hairstyling.ch
 eden-haus.ch
 eden-hedingen.ch
 eden-hg.ch
@@ -3505,8 +3507,11 @@ edmiral.ch
 edml.ch
 edmlasarraz.ch
 edmmo.ch
+edmo-lift.ch
+edmo.ch
 edmobile.ch
 edmoi.ch
+edmolift-schweiz.ch
 edmolift.ch
 edmond-baud.ch
 edmond-bille.ch
@@ -3781,6 +3786,7 @@ edplus-eisc.ch
 edplus.ch
 edplusaisc.ch
 edpluseisc.ch
+edplusgroup.ch
 edpm.ch
 edpower.ch
 edpp.ch
@@ -5101,7 +5107,6 @@ edutrail.ch
 edutrails.ch
 edutraining.ch
 edutransform.ch
-edutronics.ch
 edutrust-academy.ch
 edutrust-training.ch
 edutrust.ch

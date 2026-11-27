@@ -193,6 +193,7 @@ v-m-navigation.ch
 v-m-p.ch
 v-m.ch
 v-mail.ch
+v-mateos.ch
 v-max.ch
 v-maxx.ch
 v-me.ch
@@ -219,6 +220,7 @@ v-net.ch
 v-news.ch
 v-next.ch
 v-nissg-academy.ch
+v-nissg-frei.ch
 v-nissg-schule.ch
 v-nissg.ch
 v-nissgschule.ch

@@ -32,6 +32,7 @@ wfb-issue.ch
 wfb-stream.ch
 wfb.ch
 wfba.ch
+wfbe.ch
 wfbild.ch
 wfbzurich.ch
 wfc.ch
@@ -123,6 +124,7 @@ wfrauenfelder.ch
 wfree.ch
 wfrei.ch
 wfreiag.ch
+wfreibau.ch
 wfren.ch
 wfrenovations.ch
 wfrick.ch

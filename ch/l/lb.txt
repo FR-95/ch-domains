@@ -65,6 +65,7 @@ lb-liegenschaftsberatung.ch
 lb-log.ch
 lb-logistik.ch
 lb-maschinenhandel.ch
+lb-medical.ch
 lb-metalle.ch
 lb-metallservice-ag.ch
 lb-metallservice.ch
@@ -331,6 +332,7 @@ lbma.ch
 lbmag.ch
 lbmail.ch
 lbmbycliniquematignon.ch
+lbmedical.ch
 lbmg.ch
 lbmgroup.ch
 lbmgruppe.ch

@@ -1435,7 +1435,6 @@ ipsuisse.ch
 ipsum-alii.ch
 ipsum-it.ch
 ipsum-style.ch
-ipsum.ch
 ipsumit.ch
 ipsumlorem.ch
 ipsummit.ch
@@ -1503,6 +1502,7 @@ iptv-anbieter.ch
 iptv-ch.ch
 iptv-exclusive.ch
 iptv-hotel.ch
+iptv-kaufen.ch
 iptv-playout.ch
 iptv-schweeize.ch
 iptv-schweiz-ratgeber.ch

@@ -529,6 +529,7 @@ braendlespezialfahrzeuge.ch
 braendlespezialfahrzeugeag.ch
 braendlessig.ch
 braendli-aarau.ch
+braendli-advisory.ch
 braendli-ag.ch
 braendli-basel.ch
 braendli-bau.ch
@@ -1148,13 +1149,13 @@ brainiq-data.ch
 brainisworld.ch
 brainit.ch
 brainix.ch
-brainjam.ch
 brainjar.ch
 brainjob.ch
 brainjobs.ch
 brainjoin.ch
 brainjuice.ch
 brainkey.ch
+brainki.ch
 brainkick-marketing.ch
 brainkick.ch
 brainkickmarketing.ch
@@ -2118,7 +2119,6 @@ brandenberg.ch
 brandenbergair.ch
 brandenberger-ausbildungen.ch
 brandenberger-beratungen.ch
-brandenberger-bestattungen.ch
 brandenberger-chain.ch
 brandenberger-consulting.ch
 brandenberger-dogs.ch
@@ -3341,6 +3341,7 @@ brascri.ch
 brasdepit.ch
 brasdor.ch
 brasdroit-pme.ch
+brasdroit.ch
 brasdroitdesdirigeants.ch
 brasel.ch
 braser.ch
@@ -3448,6 +3449,7 @@ brasnic.ch
 brasnoir.ch
 braso.ch
 brasofteng.ch
+brasola.ch
 brasport-group.ch
 brasport.ch
 brasportmail.ch
@@ -5223,6 +5225,7 @@ breakfree-adelboden.ch
 breakfree.ch
 breakfreesuisse.ch
 breakglass.ch
+breakgroup.ch
 breakhearts.ch
 breakhill.ch
 breakin.ch
@@ -6286,6 +6289,7 @@ brendakrom.ch
 brendan.ch
 brendanfleurdelys.ch
 brendanlyn.ch
+brendanruehli.ch
 brendanwade.ch
 brendas.ch
 brendasieber.ch
@@ -6854,6 +6858,7 @@ brettspielen.ch
 brettspielerei.ch
 brettspielforum.ch
 brettspielfreunde-weisslingen.ch
+brettspielfreunde-wyland.ch
 brettspielklassiker.ch
 brettspiellupe.ch
 brettspielnetz.ch
@@ -10250,6 +10255,7 @@ britainwhatelse.ch
 britalo.ch
 britaly.ch
 britannia-brig.ch
+britannia-pub.ch
 britannia.ch
 britanniabrig.ch
 britanniapubgeneve.ch
@@ -10475,6 +10481,7 @@ brivital.ch
 brivo.ch
 brivola.ch
 brivolata.ch
+brivolt.ch
 brivura.ch
 brivus.ch
 briwa.ch
@@ -14433,7 +14440,6 @@ brunitika.ch
 brunitreuhand.ch
 brunitto.ch
 bruniwebdesign.ch
-brunixbit.ch
 brunizimmerei.ch
 brunjana.ch
 brunke.ch

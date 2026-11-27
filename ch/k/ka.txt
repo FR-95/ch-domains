@@ -470,7 +470,6 @@ kabeltext.ch
 kabeltrommelcee.ch
 kabeltrommelwagen.ch
 kabeltv.ch
-kabelundsteckverbindungen.ch
 kabelunterkulm.ch
 kabelverarbeitung.ch
 kabelverhau.ch
@@ -2635,7 +2634,6 @@ kaffeestudio.ch
 kaffeestuebli.ch
 kaffeesuave.ch
 kaffeesuche.ch
-kaffeeswiss.ch
 kaffeetante.ch
 kaffeetasse.ch
 kaffeetassen.ch
@@ -3251,6 +3249,7 @@ kaibaron.ch
 kaiberg.ch
 kaibetschart.ch
 kaibin.ch
+kaiblinger.ch
 kaibo.ch
 kaiboat.ch
 kaibock.ch
@@ -3294,7 +3293,6 @@ kaihannwacker.ch
 kaihedri.ch
 kaiho.ch
 kaihofmann.ch
-kaii.ch
 kaiingomeyer.ch
 kaiiza.ch
 kaija-marketing.ch
@@ -3437,7 +3435,6 @@ kairatbirimkulov.ch
 kairenoa.ch
 kairent.ch
 kairex.ch
-kairi.ch
 kairin.ch
 kairio.ch
 kairn-board.ch
@@ -4621,6 +4618,7 @@ kalenberg.ch
 kalend.ch
 kalenda.ch
 kalendai.ch
+kalendal.ch
 kalendar-biel-2027.ch
 kalendar.ch
 kalendari.ch
@@ -4904,6 +4902,7 @@ kalinea-orthodontie.ch
 kalinea.ch
 kalineaorthodontie.ch
 kalinelectricite.ch
+kalineos-ma-formation.ch
 kalineos.ch
 kalinita.ch
 kalinjot.ch
@@ -7789,6 +7788,7 @@ kanokthai.ch
 kanoktschan-thaimassagen.ch
 kanolia.ch
 kanomi.ch
+kanon-stack.ch
 kanone.ch
 kanonenbar-klosters.ch
 kanonenfeuer.ch
@@ -7798,6 +7798,7 @@ kanonengasse.ch
 kanonenkugel.ch
 kanonenputzerwein.ch
 kanonics.ch
+kanonstack.ch
 kanoo.ch
 kanope.ch
 kanopee.ch
@@ -9946,6 +9947,7 @@ karate-rapperswil.ch
 karate-rheinfelden.ch
 karate-rheintal.ch
 karate-richterswil.ch
+karate-rickenbach.ch
 karate-rigi.ch
 karate-riniken.ch
 karate-ruefenach.ch
@@ -11880,6 +11882,7 @@ karma-factory.ch
 karma-food.ch
 karma-for-sale.ch
 karma-glitzer.ch
+karma-hub.ch
 karma-immobilien.ch
 karma-immobilier.ch
 karma-inc.ch
@@ -12410,6 +12413,7 @@ karriere-booster.ch
 karriere-bot.ch
 karriere-boutique.ch
 karriere-buerki-electric.ch
+karriere-cartec.ch
 karriere-center.ch
 karriere-chancen.ch
 karriere-check.ch
@@ -13043,6 +13047,7 @@ kartenverlag.ch
 kartenversand.ch
 kartenvielfalt.ch
 kartenvogt.ch
+kartenvonanna.ch
 kartenvorverkauf.ch
 kartenwelt.ch
 kartenwerk-statt.ch
@@ -13234,6 +13239,7 @@ kartoniquartier.ch
 kartonis.ch
 kartonizza.ch
 kartonkultur.ch
+kartonladen.ch
 kartonlampen.ch
 kartonmoebel.ch
 kartonmonster.ch
@@ -13782,6 +13788,7 @@ kasparmountainart.ch
 kasparov.ch
 kasparpartner.ch
 kasparphoto.ch
+kasparpraxis.ch
 kasparrufibach.ch
 kasparruoff.ch
 kaspars.ch
@@ -13904,6 +13911,7 @@ kassabuch.ch
 kassacontainer.ch
 kassae.ch
 kassaforte.ch
+kassago.ch
 kassajet.ch
 kassak.ch
 kassaline.ch
@@ -15957,6 +15965,7 @@ katopeko.ch
 katora-coaching.ch
 katora.ch
 katori-basel.ch
+katori-schneidebrett.ch
 katori.ch
 katorie.ch
 katorischneidebrett.ch
@@ -15965,6 +15974,7 @@ katorishintoryu-luzern.ch
 katorishintoryu.ch
 katorititan.ch
 katorititanium.ch
+katorititanschneidebrett.ch
 katoune.ch
 katoya.ch
 katr.ch
@@ -17877,6 +17887,7 @@ kaworu.ch
 kaws.ch
 kawsara.ch
 kawsay.ch
+kawsaypacha.ch
 kawulla.ch
 kawum.ch
 kawumba.ch

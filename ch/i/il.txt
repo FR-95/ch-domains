@@ -172,7 +172,6 @@ il-tuo-cinema.ch
 il-tuo-peso.ch
 il-valentino.ch
 il-ventaglio.ch
-il-vento.ch
 il-vespista.ch
 il-vesuvio-pizzakurier.ch
 il-via-bonum.ch
@@ -185,7 +184,6 @@ il0.ch
 il1-ad.ch
 il1-adsc.ch
 il1.ch
-il3500.ch
 il36.ch
 il95.ch
 ila-b.ch
@@ -787,6 +785,7 @@ ilganna.ch
 ilgarage.ch
 ilgatreuhand.ch
 ilgatto.ch
+ilgattobagheera.ch
 ilgattoelavolpe.ch
 ilgattofelice.ch
 ilgattoverde.ch
@@ -1151,9 +1150,9 @@ ilkebab.ch
 ilker.ch
 ilkereryilmaz.ch
 ilkerkumral.ch
-ilkersahan.ch
 ilkg.ch
 ilkhan-reisen.ch
+ilkka.ch
 ilknur.ch
 ilko.ch
 ill-c.ch

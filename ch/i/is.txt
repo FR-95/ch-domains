@@ -4,6 +4,7 @@ is-admin.ch
 is-ag.ch
 is-alpina.ch
 is-apps.ch
+is-art.ch
 is-beratung.ch
 is-briefcase.ch
 is-clinical.ch
@@ -328,7 +329,6 @@ isabellamuckstories.ch
 isabellamueller.ch
 isabellanais.ch
 isabellanger.ch
-isabellanin.ch
 isabellapeters.ch
 isabellaphysio.ch
 isabellaratti.ch
@@ -909,6 +909,7 @@ isarholz.ch
 isaromassage.ch
 isarrider.ch
 isarsoft.ch
+isart.ch
 isarta.ch
 isartal-health-media.ch
 isartal-ventures.ch
@@ -3494,6 +3495,7 @@ isp-blog.ch
 isp-company.ch
 isp-datacenter.ch
 isp-glasfaserbau.ch
+isp-healthcare.ch
 isp-innerschwyz.ch
 isp-insektenschutzprofi.ch
 isp-kalkulationen.ch
@@ -3940,6 +3942,7 @@ isswitzerland.ch
 issworld.ch
 issworldgroup.ch
 issxconference.ch
+issyinbakingland.ch
 issyla.ch
 issystems.ch
 issz.ch
@@ -4006,6 +4009,7 @@ istanbleu-renens.ch
 istanboutique.ch
 istanbul-doner-kebap.ch
 istanbul-food.ch
+istanbul-grill-belp.ch
 istanbul-grill.ch
 istanbul-kebab-duebendorf-duebendorf.ch
 istanbul-kebab-duebendorf.ch

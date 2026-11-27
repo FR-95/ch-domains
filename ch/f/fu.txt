@@ -233,6 +233,7 @@ fuchsacker2.ch
 fuchsadvice.ch
 fuchsadvise.ch
 fuchsag.ch
+fuchsandfriends.ch
 fuchsandreas.ch
 fuchsarchitekten.ch
 fuchsarchitektur.ch
@@ -276,6 +277,7 @@ fuchsenergetik.ch
 fuchsenwinkel.ch
 fuchser-gartenbau.ch
 fuchser-informatik.ch
+fuchser-it.ch
 fuchser-management.ch
 fuchser.ch
 fuchserei.ch
@@ -650,6 +652,7 @@ fuefzgi.ch
 fuefzgiundmeh.ch
 fueg.ch
 fuegallo.ch
+fuegassa.ch
 fuege-faeger.ch
 fuege.ch
 fuegefaeger.ch
@@ -4936,6 +4939,7 @@ furniture24.ch
 furniture4kids.ch
 furniture4living.ch
 furniturebrandsforfriends.ch
+furniturecad.ch
 furniturecare.ch
 furniturecircle.ch
 furnitureclinic.ch
@@ -6525,7 +6529,6 @@ fusspflege-zu-hause.ch
 fusspflege-zuerich.ch
 fusspflege-zug.ch
 fusspflege-zuhaus.ch
-fusspflege-zuhause-schaffhausen.ch
 fusspflege-zuhause.ch
 fusspflege-zurzach.ch
 fusspflege.ch
@@ -7508,6 +7511,7 @@ future-self.ch
 future-seller.ch
 future-server.ch
 future-shaper.ch
+future-shop.ch
 future-skill-week.ch
 future-skill.ch
 future-skillhub.ch
@@ -8201,6 +8205,7 @@ futurum-e.ch
 futurum-energia.ch
 futurum-energie.ch
 futurum-energy.ch
+futurum-innovation.ch
 futurum-innovationhub.ch
 futurum.ch
 futurumag.ch

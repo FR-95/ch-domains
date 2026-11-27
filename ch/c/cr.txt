@@ -80,7 +80,6 @@ cr-soft.ch
 cr-solution.ch
 cr-solutions.ch
 cr-tech.ch
-cr-th.ch
 cr-tramelan.ch
 cr-travaux.ch
 cr-trust.ch
@@ -1281,8 +1280,6 @@ craniosacral-innerjoy.ch
 craniosacral-koerpertherapie.ch
 craniosacral-luzern.ch
 craniosacral-marti.ch
-craniosacral-massage.ch
-craniosacral-massagetherapie.ch
 craniosacral-massei.ch
 craniosacral-michelle.ch
 craniosacral-muensingen.ch
@@ -1357,13 +1354,9 @@ craniosacralflow.ch
 craniosacralfribourg.ch
 craniosacrallaufen.ch
 craniosacralluzern.ch
-craniosacralmassage-therapie.ch
-craniosacralmassage.ch
-craniosacralmassagetherapie.ch
 craniosacralnicole.ch
 craniosacralnidwalden.ch
 craniosacralobwalden.ch
-craniosacralosteopathie.ch
 craniosacralostschweiz.ch
 craniosacralpraxis.ch
 craniosacralsuisse.ch
@@ -2514,7 +2507,6 @@ crea-m-elle.ch
 crea-malclub.ch
 crea-matieres.ch
 crea-media.ch
-crea-meeting.ch
 crea-metal.ch
 crea-mia.ch
 crea-mo.ch
@@ -3090,7 +3082,6 @@ creamedia-gmbh.ch
 creamedia.ch
 creamedias.ch
 creamedixag.ch
-creameeting.ch
 creamelt.ch
 creameso.ch
 creamet.ch
@@ -4392,11 +4383,11 @@ creativeandcode.ch
 creativeandconcept.ch
 creativeandpacific.ch
 creativeannaroth.ch
-creativeapp.ch
 creativeapproa.ch
 creativearea.ch
 creativeart.ch
 creativeartcompany.ch
+creativeartist.ch
 creativeartlab.ch
 creativeartradio.ch
 creativearts.ch
@@ -4455,7 +4446,6 @@ creativecoachings.ch
 creativecode.ch
 creativecoding.ch
 creativecodinglab.ch
-creativecoiffeur.ch
 creativecoiffure.ch
 creativecollection.ch
 creativecom.ch
@@ -6696,6 +6686,7 @@ crewcraft.ch
 crewcrafter.ch
 crewcuts.ch
 crewdeck.ch
+crewdesk.ch
 crewdietikon.ch
 crewdynamik.ch
 crewed-charter.ch
@@ -9974,7 +9965,6 @@ crteam.ch
 crtech.ch
 crtelecom.ch
 crtg.ch
-crth.ch
 crtiaccess.ch
 crtl.ch
 crtm.ch

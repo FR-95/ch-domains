@@ -153,6 +153,7 @@ id-svizzera.ch
 id-swiss-ag.ch
 id-swiss.ch
 id-sys.ch
+id-systems.ch
 id-tag.ch
 id-tags.ch
 id-te.ch
@@ -708,6 +709,7 @@ idealband.ch
 idealbau-architektur.ch
 idealbau.ch
 idealbauarchitekturag.ch
+idealbauimmo.ch
 idealbeaute.ch
 idealbertin.ch
 idealbewerbung.ch
@@ -1664,7 +1666,6 @@ identist.ch
 identisure.ch
 identisys.ch
 identita.ch
-identitaere-bewegung.ch
 identitaere.ch
 identitaerebewegung.ch
 identitaereschweiz.ch

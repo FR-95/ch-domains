@@ -677,6 +677,7 @@ bibelstunde.ch
 bibelstunden.ch
 bibeltalk.ch
 bibeltermine.ch
+bibeltiere.ch
 bibeltunes.ch
 bibeltv-on.ch
 bibeltv.ch
@@ -1149,7 +1150,6 @@ bibliote.ch
 bibliotec.ch
 biblioteca-digitala.ch
 biblioteca-disentis.ch
-biblioteca-evangelica.ch
 biblioteca-ilanz-glion.ch
 biblioteca-ilanzglion.ch
 biblioteca-laax.ch
@@ -1992,6 +1992,7 @@ bidirektionalladen.ch
 bidit.ch
 bidix.ch
 bidjan.ch
+bidklik.ch
 bidless.ch
 bidlingmeyer.ch
 bidly.ch
@@ -2079,7 +2080,6 @@ biedenkapp-stahlbau.ch
 bieder-antiquites.ch
 bieder-hauser.ch
 bieder.ch
-biederbeck.ch
 biederer.ch
 biederhauser.ch
 biedermaier.ch
@@ -2748,6 +2748,7 @@ bienenland.ch
 bienenleasing.ch
 bienenlehrpfad-pfaeffikon.ch
 bienenlehrpfad.ch
+bienenlicht.ch
 bienenliebe.ch
 bienenliebelei.ch
 bienenliestal.ch
@@ -4569,6 +4570,7 @@ bigbangtheory.ch
 bigbank.ch
 bigbanzai.ch
 bigbao.ch
+bigbarrygroup.ch
 bigbasket.ch
 bigbass-splash.ch
 bigbassbonanza.ch
@@ -9379,6 +9381,7 @@ billetdetheatre.ch
 billetdetrain.ch
 billetdevol.ch
 billetdirect.ch
+billetdrive.ch
 billetel.ch
 billeter-hunde.ch
 billeter-shiatsu.ch
@@ -10074,7 +10077,6 @@ bim-norm.ch
 bim-now.ch
 bim-objects.ch
 bim-objectserver.ch
-bim-on-demand.ch
 bim-one.ch
 bim-online.ch
 bim-partner.ch
@@ -12716,6 +12718,7 @@ biochrom.ch
 biochroma.ch
 biochronoss.ch
 biocirc.ch
+biocircle.ch
 biocircular.ch
 biocitrix.ch
 bioclean-shop.ch
@@ -13048,6 +13051,7 @@ bioduct.ch
 bioducts.ch
 bioduenger.ch
 bioduenner.ch
+bioduft.ch
 biodukt.ch
 biodukte.ch
 biodusche.ch
@@ -14729,6 +14733,7 @@ biometrie-auf-sicher.ch
 biometrie.ch
 biometrik.ch
 biometriq.ch
+biometrique.ch
 biometrisch.ch
 biometrische-ausweise.ch
 biometrische-brillenglaeser.ch
@@ -16646,6 +16651,7 @@ birdconsult.ch
 birdcontrol.ch
 birder.ch
 birdevents.ch
+birdex.ch
 birdeye.ch
 birdflu.ch
 birdfoto.ch
@@ -18530,6 +18536,7 @@ bistro-z.ch
 bistro-zeitlos.ch
 bistro-zollhuesli.ch
 bistro-zugerland.ch
+bistro-zur-schmiede.ch
 bistro-zytlos.ch
 bistro.ch
 bistro10.ch

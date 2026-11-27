@@ -370,6 +370,7 @@ ps-trading.ch
 ps-training.ch
 ps-tramelan.ch
 ps-travel.ch
+ps-troischene.ch
 ps-tt.ch
 ps-turbenthal.ch
 ps-uhwiesen.ch
@@ -397,6 +398,7 @@ ps-werte-coaching.ch
 ps-wetzikon.ch
 ps-wigoltingen.ch
 ps-winterthur.ch
+ps-wir-heiraten.ch
 ps-witerig.ch
 ps-wohndesign.ch
 ps-works.ch
@@ -1057,6 +1059,7 @@ psicoterapiacognitivasdb.ch
 psicoterapiaelvezia23.ch
 psicoterapiafullin.ch
 psicoterapiagestalt.ch
+psicoterapialabussola.ch
 psicoterapialugano.ch
 psicoterapiamaerki.ch
 psicoterapiamorniroli.ch
@@ -2583,6 +2586,7 @@ psychogenealogie.ch
 psychogenealogieintegrative.ch
 psychogenesis.ch
 psychografie.ch
+psychogramm.ch
 psychographie.ch
 psychogym.ch
 psychohilfe.ch

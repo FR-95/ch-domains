@@ -171,7 +171,6 @@ roadcross-initiative.ch
 roadcross.ch
 roadcrossinitiative.ch
 roadcruiser.ch
-roaddesk.ch
 roaddevils.ch
 roaddiner.ch
 roaddreams.ch
@@ -821,13 +820,11 @@ robert.ch
 robert74.ch
 roberta-art.ch
 roberta-bandera.ch
-roberta-cooks.ch
 roberta-gruetter.ch
 roberta-zimmerli.ch
 roberta.ch
 robertacella.ch
 robertaclose.ch
-robertacooks.ch
 robertadelmann.ch
 robertaebi.ch
 robertaebishop.ch
@@ -1576,6 +1573,7 @@ robink.ch
 robinka.ch
 robinkaelin.ch
 robinkaiser.ch
+robinkellenberger.ch
 robinkest.ch
 robinkfamily.ch
 robinkiefer.ch
@@ -2266,6 +2264,7 @@ roboterautomation.ch
 roboterbau.ch
 roboterbausatz.ch
 roboterblog.ch
+roboterbude.ch
 robotercheck24.ch
 robotercher.ch
 roboterchirurgie-luzern.ch
@@ -3431,6 +3430,7 @@ rocket9.ch
 rocketair.ch
 rocketbase.ch
 rocketbike.ch
+rocketblast.ch
 rocketboat.ch
 rocketboost.ch
 rocketbrade.ch
@@ -4013,7 +4013,6 @@ rockumentation.ch
 rockundblus.ch
 rockundpop.ch
 rockundrandale.ch
-rockundrollkisten.ch
 rockup.ch
 rockuradio.ch
 rockustix.ch
@@ -6245,6 +6244,8 @@ rogers.ch
 rogersaam.ch
 rogersalathe.ch
 rogersam.ch
+rogersart.ch
+rogersartshop.ch
 rogersaurer.ch
 rogersauter.ch
 rogerschaeli.ch
@@ -7185,6 +7186,7 @@ rohrreinigung-bad-ragaz.ch
 rohrreinigung-baden.ch
 rohrreinigung-balsthal.ch
 rohrreinigung-basel.ch
+rohrreinigung-baselland.ch
 rohrreinigung-bassersdorf.ch
 rohrreinigung-beckenried.ch
 rohrreinigung-belp.ch
@@ -7638,7 +7640,6 @@ roj-fragrance.ch
 roj-holding.ch
 roj-kebab.ch
 roj-kosmetik.ch
-roj-umzug.ch
 roj.ch
 roja-balsthal.ch
 roja-jugendarbeit.ch
@@ -8235,6 +8236,7 @@ rolandraths.ch
 rolandre.ch
 rolandrea.ch
 rolandreinert.ch
+rolandreisewitz.ch
 rolandrilling.ch
 rolandroelli.ch
 rolandroethlisberger.ch
@@ -9504,6 +9506,7 @@ rollflame.ch
 rollflexsolutions.ch
 rollflow.ch
 rollfock.ch
+rollfun.ch
 rollgarden.ch
 rollgardina.ch
 rollgarten.ch
@@ -9582,6 +9585,7 @@ rollin-capital.ch
 rollin-fashion.ch
 rollin-shop.ch
 rollin.ch
+rollinart.ch
 rollinavi.ch
 rollinclean.ch
 rollindinner.ch
@@ -9676,7 +9680,6 @@ rollingstoned.ch
 rollingstonesag.ch
 rollingthaikitchen.ch
 rollingthunderbern.ch
-rollingtimes.ch
 rollingtobacco.ch
 rollingup.ch
 rollingwithedward.ch
@@ -10409,6 +10412,7 @@ roman-kuster.ch
 roman-lanz.ch
 roman-lehmann.ch
 roman-lektorat.ch
+roman-materi.ch
 roman-mayer.ch
 roman-meier.ch
 roman-meyer.ch
@@ -12711,6 +12715,7 @@ room-one.ch
 room-optimizer.ch
 room-pool.ch
 room-preise.ch
+room-renaissance.ch
 room-rent.ch
 room-reservation.ch
 room-revamp.ch
@@ -12957,6 +12962,7 @@ roomradar.ch
 roomrage.ch
 roomreader24.ch
 roomreich.ch
+roomrenaissance.ch
 roomrent.ch
 roomrenting.ch
 roomrevamp.ch
@@ -13216,6 +13222,7 @@ root24.ch
 root3.ch
 root360.ch
 roota.ch
+rootai.ch
 rootain.ch
 rootandbloom.ch
 rootandbranch.ch
@@ -13443,6 +13450,7 @@ rootskitchen.ch
 rootskombucha.ch
 rootsky.ch
 rootslangnau.ch
+rootslongboard.ch
 rootslugano.ch
 rootsnfruits.ch
 rootsnow.ch
@@ -16170,8 +16178,6 @@ rotarystans.ch
 rotaryswissyep.ch
 rotaryvdt.ch
 rotaryvolketswil.ch
-rotaryweihnachten.ch
-rotarywettingenheitersberg.ch
 rotarywine.ch
 rotaryzuerich.ch
 rotas.ch
@@ -17140,6 +17146,7 @@ rotkreuz-bahnhof.ch
 rotkreuz-bahnhofsued.ch
 rotkreuz-bestatter.ch
 rotkreuz-bestattungen.ch
+rotkreuz-mamma-mia.ch
 rotkreuz-notruf.ch
 rotkreuz-sehklinik.ch
 rotkreuz-sehzentrum.ch
@@ -18681,6 +18688,7 @@ roxstar.ch
 roxstars-study.ch
 roxstein.ch
 roxtec.ch
+roxtechnology.ch
 roxtrail.ch
 roxtusnutrition.ch
 roxu.ch
@@ -19289,6 +19297,7 @@ royalrangers-uitikon.ch
 royalrangers-weinfelden.ch
 royalrangers.ch
 royalrangersschaffhausen.ch
+royalrealty.ch
 royalrebels.ch
 royalreflex.ch
 royalreinigung.ch

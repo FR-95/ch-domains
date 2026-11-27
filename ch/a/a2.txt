@@ -77,7 +77,6 @@ a2bconcept.ch
 a2bh.ch
 a2box.ch
 a2bswiss.ch
-a2burger.ch
 a2burgermore-oensingen.ch
 a2c-architecture.ch
 a2c-capital.ch

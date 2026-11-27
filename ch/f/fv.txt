@@ -92,6 +92,7 @@ fvbanesto.ch
 fvbb.ch
 fvbergmeilen.ch
 fvbgr.ch
+fvbian.ch
 fvbj-afbj.ch
 fvbj.ch
 fvbk.ch
@@ -212,6 +213,7 @@ fvlag.ch
 fvlaupen.ch
 fvlb.ch
 fvlj.ch
+fvm-uzh.ch
 fvm.ch
 fvmag.ch
 fvmarbach.ch
@@ -229,6 +231,7 @@ fvmse.ch
 fvmt.ch
 fvmurten.ch
 fvmuu.ch
+fvmuzh.ch
 fvn.ch
 fvnbl.ch
 fvnet.ch

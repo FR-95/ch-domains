@@ -6,6 +6,7 @@ af-architektur.ch
 af-ba.ch
 af-bale.ch
 af-bau.ch
+af-beauty.ch
 af-bedachungen.ch
 af-beratung.ch
 af-brandschutz.ch
@@ -356,7 +357,6 @@ aferdenergies.ch
 aferial.ch
 aferropodologue.ch
 aferry.ch
-afestio.ch
 afetra.ch
 afeurer.ch
 afewgoodmen.ch
@@ -1024,6 +1024,7 @@ afilio.ch
 afilm.ch
 afilmcompany.ch
 afilms.ch
+afilmsagency.ch
 afilo.ch
 afim.ch
 afimag.ch
@@ -1442,7 +1443,6 @@ africa-container-shipping.ch
 africa-experts.ch
 africa-gulf-digital-corridor.ch
 africa-healing.ch
-africa-integration.ch
 africa-photography.ch
 africa-shop.ch
 africa-society.ch

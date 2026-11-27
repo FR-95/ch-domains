@@ -379,6 +379,7 @@ ciblr.ch
 cibm.ch
 cibms.ch
 cibo.ch
+cibobasel.ch
 cibodivino.ch
 cibodu.ch
 ciboestoria.ch
@@ -4023,6 +4024,7 @@ cissp.ch
 cissprep.ch
 cissus.ch
 cista-lamella.ch
+cista.ch
 ciste.ch
 cistec.ch
 cistech.ch
@@ -5042,6 +5044,7 @@ cityband.ch
 citybank.ch
 citybar-brig.ch
 citybar-reinach.ch
+citybar.ch
 citybarber.ch
 citybarbrig.ch
 citybasel.ch
@@ -5948,7 +5951,6 @@ cityweb.ch
 cityweihnachtsmarkt.ch
 cityweissenstein.ch
 citywerbung.ch
-citywerkstudios.ch
 citywest-chur.ch
 citywest-hotel.ch
 citywest-immo.ch
@@ -6087,6 +6089,7 @@ civicinsights.ch
 civiclab.ch
 civicmedia.ch
 civico.ch
+civico40.ch
 civicreinigung.ch
 civicsolution.ch
 civicte.ch

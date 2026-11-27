@@ -113,7 +113,6 @@ sl2cm.ch
 sl2n.ch
 sl3-redirect.ch
 sl3.ch
-sl3000.ch
 sl3datelier.ch
 sl4.ch
 sl4333.ch
@@ -563,7 +562,6 @@ slcgmbh.ch
 slchapuis.ch
 slci.ch
 slcip.ch
-slcleanwater.ch
 slcloud.ch
 slcloudready.ch
 slclugano.ch
@@ -1391,6 +1389,7 @@ slipstreamlifesciences.ch
 slipstreamls.ch
 slipsuisse.ch
 slipware.ch
+slipway.ch
 slipwren.ch
 sliq.ch
 slique.ch
@@ -1818,7 +1817,6 @@ slots-ladbrokes.ch
 slots-palace.ch
 slots-palacecasino.ch
 slots-schweiz.ch
-slots-vader-casino.ch
 slots-vader-ch.ch
 slots-vader.ch
 slots-vadercasino.ch
@@ -1970,6 +1968,7 @@ slow-coaching.ch
 slow-community.ch
 slow-date.ch
 slow-dating.ch
+slow-design-fashion-days.ch
 slow-design.ch
 slow-destination.ch
 slow-digital.ch
@@ -2052,6 +2051,7 @@ slowclothing.ch
 slowclub.ch
 slowcoach.ch
 slowcoaching.ch
+slowcode.ch
 slowcoffee.ch
 slowcollection.ch
 slowcom.ch

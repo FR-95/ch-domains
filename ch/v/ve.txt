@@ -747,7 +747,6 @@ vega-rennt.ch
 vega-rent.ch
 vega-ride.ch
 vega-sicilia.ch
-vega-sino.ch
 vega-solutions.ch
 vega-trade.ch
 vega-zone.ch
@@ -1166,6 +1165,7 @@ veganthro.ch
 veganthropolis.ch
 veganticino.ch
 vegantierfutter.ch
+vegantrust.ch
 vegantur.ch
 veganu.ch
 veganuary.ch
@@ -1750,6 +1750,7 @@ veicolo.ch
 veicooo.ch
 veid.ch
 veidec.ch
+veidra.ch
 veidt.ch
 veifq.ch
 veiga.ch
@@ -4012,6 +4013,7 @@ velowerk-huber.ch
 velowerk-timoteo.ch
 velowerk.ch
 velowerkbasel.ch
+velowerknueri.ch
 velowerkolten.ch
 velowerkstadt.ch
 velowerkstatt-bossert.ch
@@ -4125,6 +4127,7 @@ veltaragroup.ch
 veltario.ch
 veltas.ch
 veltassa.ch
+veltatomedia.ch
 veltbraeu.ch
 veltbrau.ch
 velte-solartechnik.ch
@@ -4473,6 +4476,7 @@ vemme.ch
 vemo-finance.ch
 vemo.ch
 vemoir.ch
+vemolix.ch
 vemondo.ch
 vemonto.ch
 vemoo.ch
@@ -4572,6 +4576,7 @@ vencedor.ch
 venceremos.ch
 venchi.ch
 venclyxto.ch
+vencom.ch
 vencomat.ch
 vencome.ch
 venconresearch.ch
@@ -5893,6 +5898,7 @@ ventricigroup.ch
 ventrid.ch
 ventriflor.ch
 ventriloques.ch
+ventrio.ch
 ventripan.ch
 ventris.ch
 ventrix.ch
@@ -5937,8 +5943,6 @@ venturaavocat.ch
 venturafilm.ch
 venturagin.ch
 venturaholding.ch
-venturainternational.ch
-venturaintl.ch
 venturalogics.ch
 venturalp.ch
 venturamarket.ch
@@ -7568,6 +7572,7 @@ verbindungstechnologien.ch
 verbindungswelle.ch
 verbingo.ch
 verbio.ch
+verbioine.ch
 verbium.ch
 verbleiben.ch
 verblistern.ch
@@ -9041,6 +9046,7 @@ vereinsmerchandising.ch
 vereinsnachrichten.ch
 vereinsnetz.ch
 vereinsnetzwerk.ch
+vereinsnews.ch
 vereinsoase.ch
 vereinsoffice.ch
 vereinsoft.ch
@@ -9875,7 +9881,6 @@ verhuellt.ch
 verhuellungsverbot.ch
 verhueten.ch
 verhuetung.ch
-verhuetungonline.ch
 verhuetungs-check.ch
 verhuetungs-info.ch
 verhuetungsberatung.ch
@@ -9890,6 +9895,7 @@ verhulst.ch
 verhungeret.ch
 veri-fit.ch
 veri-grid.ch
+veri-lith.ch
 veri.ch
 veri0wn.ch
 veria.ch
@@ -10050,6 +10056,7 @@ verikoko.ch
 verilay.ch
 verilink.ch
 verilion.ch
+verilith.ch
 verilize.ch
 verillo.ch
 verilo.ch
@@ -11148,6 +11155,7 @@ verkos.ch
 verkostung.ch
 verkrachte-existenzen.ch
 verkraeutert.ch
+verkslab.ch
 verkuppla.ch
 verkvox.ch
 verl.ch
@@ -12476,6 +12484,7 @@ verputzer.ch
 verputzkunst.ch
 verputzt.ch
 verputztechnik.ch
+verpv.ch
 verqo.ch
 verquvo.ch
 verra-app.ch
@@ -13241,6 +13250,7 @@ versicherungsmodelle.ch
 versicherungsmonitor.ch
 versicherungsnachweis.ch
 versicherungsnetzwerk.ch
+versicherungsnews.ch
 versicherungsnotruf.ch
 versicherungsofferte.ch
 versicherungsofferten.ch
@@ -13345,6 +13355,7 @@ versicherungswiki.ch
 versicherungswirtschaft.ch
 versicherungswiss.ch
 versicherungswissen.ch
+versicherungszentrale.ch
 versicherungszentrum-marti.ch
 versicherungszentrum.ch
 versicherungszentrum24.ch
@@ -15045,7 +15056,6 @@ verzascaguide.ch
 verzascainred.ch
 verzascamobile.ch
 verzascaonline.ch
-verzascaphoto.ch
 verzascariverdives.ch
 verzascariversdive.ch
 verzascariversdives.ch
@@ -15727,7 +15737,6 @@ veston.ch
 vestona.ch
 vestonaut.ch
 vestone.ch
-vestonjacket.ch
 vestor.ch
 vestora.ch
 vestox.ch

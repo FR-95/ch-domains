@@ -521,6 +521,7 @@ cmdn.ch
 cmdne.ch
 cmdomenighetti.ch
 cmdompierre.ch
+cmdorigny.ch
 cmdp.ch
 cmdpayerne.ch
 cmdportal.ch
@@ -1136,7 +1137,6 @@ cmsme.ch
 cmsmodell.ch
 cmsnl.ch
 cmsnlcom.ch
-cmso.ch
 cmsolartech.ch
 cmsolution.ch
 cmsolutions.ch

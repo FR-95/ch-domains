@@ -364,7 +364,6 @@ ms-sports.ch
 ms-state-of-the-art.ch
 ms-steiner.ch
 ms-styletuning.ch
-ms-sugaring.ch
 ms-swiss.ch
 ms-swissliving.ch
 ms-switzerland.ch
@@ -755,6 +754,7 @@ msche.ch
 mscheidegger.ch
 mscher.ch
 mscheu.ch
+mschg.ch
 mschibligmbh.ch
 mschill.ch
 mschindler-consulting.ch
@@ -1040,6 +1040,7 @@ msf-2027.ch
 msf-ag.ch
 msf-curanimali.ch
 msf-productions.ch
+msf-solutions.ch
 msf-ureph.ch
 msf.ch
 msf07.ch
@@ -1054,6 +1055,7 @@ msfbw.ch
 msfconsulting.ch
 msfdigital.ch
 msff.ch
+msfhaustech.ch
 msfid.ch
 msfidelia.ch
 msfiduciaire.ch
@@ -2006,6 +2008,7 @@ msv-bern.ch
 msv-birseck.ch
 msv-bl.ch
 msv-brunnen.ch
+msv-car.ch
 msv-consulting.ch
 msv-dagmersellen.ch
 msv-ettenhausen.ch

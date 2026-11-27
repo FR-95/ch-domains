@@ -621,7 +621,6 @@ scaledeck.ch
 scaledmicroagile.ch
 scaleflag.ch
 scaleflow.ch
-scaleflowmarketing.ch
 scalefree.ch
 scalegate.ch
 scalegiftmassages.ch
@@ -1017,6 +1016,7 @@ scanava.ch
 scanavin.ch
 scanavini-accordeur.ch
 scanavini.ch
+scanavis.ch
 scanbat.ch
 scanbau.ch
 scanbill.ch
@@ -2108,6 +2108,7 @@ scensebel.ch
 scensei.ch
 scent-ambient.ch
 scent-detection-training.ch
+scent-detection-winterthur.ch
 scent-detection.ch
 scent-detectives.ch
 scent-division.ch
@@ -3251,6 +3252,7 @@ schaer-consulting.ch
 schaer-cruise.ch
 schaer-design.ch
 schaer-digital.ch
+schaer-digitaldesign.ch
 schaer-digitalstudio.ch
 schaer-egli.ch
 schaer-elektro.ch
@@ -3307,6 +3309,7 @@ schaer-web.ch
 schaer-webagentur.ch
 schaer-webdesign.ch
 schaer-webdesigns.ch
+schaer-webdesignstudio.ch
 schaer-webmedia.ch
 schaer-websites.ch
 schaer-websolution.ch
@@ -3546,10 +3549,12 @@ schaertreuhand.ch
 schaeru.ch
 schaerware.ch
 schaerweb.ch
+schaerwebagentur.ch
 schaerwebdesign.ch
 schaerweber.ch
 schaerwebsites.ch
 schaerwebsolutions.ch
+schaerwebstudio.ch
 schaerwildbolz.ch
 schaerwood.ch
 schaerz-beef-berneroberland.ch
@@ -3864,6 +3869,7 @@ schaffi-chleider.ch
 schaffichleider.ch
 schaffie.ch
 schaffit.ch
+schaffli.ch
 schaffluetzel-wassmer.ch
 schaffluetzel.ch
 schaffluetzelmail.ch
@@ -4582,7 +4588,6 @@ schamibloom.ch
 schamima.ch
 schamlipgloss.ch
 schamlippen.ch
-schamlippenkorrektur.ch
 schamlippenpomade.ch
 schamlippenverkleinerung-schweiz.ch
 schamlippenverkleinerung.ch
@@ -6648,7 +6653,6 @@ schenkelserrago.ch
 schenkelvermessungen-server.ch
 schenkelvermessungen.ch
 schenkemeyer.ch
-schenken-sie-freude.ch
 schenken-von-herzen.ch
 schenken.ch
 schenkenberg-primefood.ch
@@ -7491,6 +7495,7 @@ schichtklar.ch
 schichtlabor.ch
 schichtli.ch
 schichtliapp.ch
+schichtliebi.ch
 schichtly.ch
 schichtmatch.ch
 schichtplan.ch
@@ -10574,6 +10579,7 @@ schlauer-shower.ch
 schlauer-wohnen.ch
 schlauer.ch
 schlauerbauer.ch
+schlauerbewegen.ch
 schlauerchef.ch
 schlauerfuchs.ch
 schlauerfux.ch
@@ -13792,6 +13798,7 @@ schmid-keller.ch
 schmid-keltech.ch
 schmid-keramik.ch
 schmid-kinesiologie.ch
+schmid-klarheit.ch
 schmid-kommunikation.ch
 schmid-kran.ch
 schmid-kranarbeiten.ch
@@ -14182,6 +14189,7 @@ schmidkaiser.ch
 schmidkatja.ch
 schmidkeramik.ch
 schmidkinderphysio.ch
+schmidklarheit.ch
 schmidkom.ch
 schmidkomm.ch
 schmidkommunikation.ch
@@ -14307,7 +14315,6 @@ schmido-mezzerie.ch
 schmido.ch
 schmidoffice.ch
 schmidone.ch
-schmidonlinemarketing.ch
 schmidoo.ch
 schmidotours.ch
 schmidp.ch
@@ -15667,6 +15674,7 @@ schnaepse.ch
 schnaetzer.ch
 schnaeuze.ch
 schnaeuzli-revier.ch
+schnagglis.ch
 schnagli.ch
 schnaidt.ch
 schnaithmann.ch
@@ -19442,6 +19450,7 @@ schokichocolate.ch
 schokiland.ch
 schokischmeckt.ch
 schokito.ch
+schoknecht.ch
 schoko-advent.ch
 schoko-deal.ch
 schoko-geschenk.ch
@@ -19573,7 +19582,6 @@ schokosdreamworld.ch
 schokoshot.ch
 schokosmetik.ch
 schokospachtel.ch
-schokotalente.ch
 schokotaler.ch
 schokovreneli.ch
 schokowerk.ch
@@ -21301,6 +21309,7 @@ schreinerallrounder8048.ch
 schreinerando.ch
 schreinerannen.ch
 schreinerarbeit.ch
+schreinerarbeiten-bern.ch
 schreinerarbeiten-boesch.ch
 schreinerarbeiten-widmer.ch
 schreinerarbeiten.ch
@@ -23827,6 +23836,7 @@ schuhbydu.ch
 schuhcafe-caspar.ch
 schuhcafe.ch
 schuhcenter.ch
+schuhcheck.ch
 schuhchocolatier.ch
 schuhchristen.ch
 schuhcreme.ch
@@ -26261,6 +26271,7 @@ schulfoti.ch
 schulfoto.ch
 schulfotobuch.ch
 schulfotograf.ch
+schulfotografie.ch
 schulfotografin.ch
 schulfotografinbern.ch
 schulfotos.ch
@@ -28167,6 +28178,7 @@ schwamendingerchilbi.ch
 schwamendingerwache.ch
 schwamenergie.ch
 schwamibrille.ch
+schwamihomelab.ch
 schwamkraftwerk.ch
 schwamm-drueber.ch
 schwamm-glanz.ch
@@ -30441,6 +30453,7 @@ schweizer-futter.ch
 schweizer-gaerten.ch
 schweizer-garage.ch
 schweizer-garten-magazin.ch
+schweizer-garten.ch
 schweizer-gartenbau.ch
 schweizer-gartenkultur.ch
 schweizer-gas.ch
@@ -32013,6 +32026,8 @@ schweizerische-weinzeitung.ch
 schweizerische-wirbelsaeulen-stiftung.ch
 schweizerische.ch
 schweizerischeaerztezeitung.ch
+schweizerischeallemeine.ch
+schweizerischeallgemeine.ch
 schweizerischeanwaltakademie.ch
 schweizerischeanwaltsakademie.ch
 schweizerischebankiervereinigung.ch
@@ -32514,6 +32529,7 @@ schweizerringmanufaktur.ch
 schweizerrivertable.ch
 schweizerroestergilde.ch
 schweizerrosen.ch
+schweizerrundschau.ch
 schweizers-carwash.ch
 schweizers.ch
 schweizersa.ch
@@ -33212,6 +33228,7 @@ schwelle.ch
 schwellekandersteg.ch
 schwellenbegleitung.ch
 schwellengang.ch
+schwellenhueterin.ch
 schwellenkorporation-adelboden.ch
 schwellenkorporation-beatenberg.ch
 schwellenkorporation-grindelwald.ch
@@ -33353,6 +33370,7 @@ schwenter-solutions.ch
 schwenter.ch
 schwenzer.ch
 schwep.ch
+schweppes-rg.ch
 schweppes.ch
 schweppeseuro.ch
 schweppesonality.ch
@@ -35476,6 +35494,7 @@ sciex.ch
 sciexperts.ch
 scieyence.ch
 scif.ch
+scifamiliale.ch
 scifanblasen.ch
 sciffreen.ch
 scifi-channel.ch
@@ -36442,6 +36461,7 @@ scopewyseservices.ch
 scopi.ch
 scopic.ch
 scopify.ch
+scoping-room.ch
 scoping.ch
 scopit.ch
 scopo-coaching.ch
@@ -38171,6 +38191,7 @@ scuderiaferrariclubgeneve.ch
 scuderiaferrariclubticino.ch
 scuderiafilipinetti.ch
 scuderiagmbh.ch
+scuderiagranturismo.ch
 scuderiagrischa.ch
 scuderiahubertus.ch
 scuderiainfernale.ch

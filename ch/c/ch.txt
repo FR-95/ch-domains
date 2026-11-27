@@ -466,6 +466,7 @@ ch-rauchstop.ch
 ch-reber.ch
 ch-rechnungen.ch
 ch-records.ch
+ch-recycling.ch
 ch-regio.ch
 ch-regionalprodukte.ch
 ch-registrar.ch
@@ -1750,7 +1751,6 @@ chalet-4vallees.ch
 chalet-50.ch
 chalet-a-gobet.ch
 chalet-a-louer.ch
-chalet-a-torgon.ch
 chalet-a-vendre-suisse.ch
 chalet-a-vendre-valais.ch
 chalet-a-vendre-valdebagnes.ch
@@ -2530,6 +2530,7 @@ chaletbellecrete.ch
 chaletbelleponcke.ch
 chaletbellerive.ch
 chaletbellevue.ch
+chaletbellheim.ch
 chaletbello.ch
 chaletbellwald.ch
 chaletbelvair.ch
@@ -2966,7 +2967,6 @@ chaletrosaly.ch
 chaletrosat.ch
 chaletrosemarie.ch
 chaletrosenberg.ch
-chaletrositasoerenberg.ch
 chaletrossiniere.ch
 chaletroten.ch
 chaletrouge.ch
@@ -4735,7 +4735,6 @@ chansonstage.ch
 chansonstagebern.ch
 chant-barbereche.ch
 chant-cigales.ch
-chant-des-possibles.ch
 chant-du-bois.ch
 chant-pour-chant.ch
 chant-und-klang.ch
@@ -6521,6 +6520,7 @@ charmeelegance.ch
 charmefunds.ch
 charmehotel.ch
 charmehotelbarbate.ch
+charmehotelosteriacarletti.ch
 charmehotels.ch
 charmeinvestments.ch
 charmekosmetik.ch
@@ -8772,6 +8772,7 @@ chcommunes.ch
 chcompany.ch
 chcomuni.ch
 chcon.ch
+chconnect.ch
 chconseils.ch
 chconsult.ch
 chconsulting.ch
@@ -9210,6 +9211,7 @@ checkeroo.ch
 checkers.ch
 checkersben.ch
 checkesecuzioni.ch
+checkeule.ch
 checkeverything.ch
 checkfacts.ch
 checkfast.ch
@@ -9427,6 +9429,7 @@ checkthehit.ch
 checktheoil.ch
 checktherhymetour.ch
 checktherisk.ch
+checktonloyer.ch
 checktonmemoire.ch
 checktool.ch
 checktools.ch
@@ -9872,6 +9875,7 @@ chefexperte-da.ch
 chefexperte.ch
 chefexperten-fageblbs.ch
 chefexperten.ch
+cheff.ch
 cheffe.ch
 cheffekamano.ch
 chefficace.ch
@@ -11089,6 +11093,7 @@ cherrys-unique-photography.ch
 cherrys-wear.ch
 cherrys.ch
 cherrystar.ch
+cherrystream.ch
 cherryswiss.ch
 cherryte.ch
 cherryteam.ch
@@ -11496,7 +11501,6 @@ chessnet.ch
 chessodysseus.ch
 chessparty.ch
 chesspoint.ch
-chessprunescu.ch
 chessrek.ch
 chesss.ch
 chesstiger.ch
@@ -11571,6 +11575,7 @@ chetis.ch
 chetou.ch
 chetoy-esprit-cafe.ch
 chetoy.ch
+chetraffic.ch
 chetseron.ch
 chettechef.ch
 chetteli.ch
@@ -12330,6 +12335,7 @@ chezlesbonzon.ch
 chezlescopains.ch
 chezlescouz.ch
 chezlesgarcons.ch
+chezlesgens.ch
 chezlesgynecos.ch
 chezleslonlons.ch
 chezlesreuses.ch
@@ -12450,7 +12456,6 @@ cheznana.ch
 cheznanacoppet.ch
 cheznanou.ch
 cheznathalie.ch
-cheznelly.ch
 cheznhan.ch
 cheznico.ch
 cheznicoclub.ch
@@ -16380,6 +16385,7 @@ chissihuis.ch
 chiste.ch
 chistenpass.ch
 chistli.ch
+chistol.ch
 chistole.ch
 chisu.ch
 chisulo-usamwari.ch
@@ -16390,6 +16396,7 @@ chitarra.ch
 chitarraclassica.ch
 chitarre.ch
 chitarredalmondo.ch
+chitas.ch
 chitchat.ch
 chitech.ch
 chitengineering.ch
@@ -17305,6 +17312,7 @@ chnusper-laden.ch
 chnusper.ch
 chnusperbeizli.ch
 chnusperegge.ch
+chnusperfrucht.ch
 chnusperhuesli-hombi.ch
 chnusperhuesli.ch
 chnusperladen.ch
@@ -24745,7 +24753,6 @@ chur-xr.ch
 chur-zahnarzt.ch
 chur-zurich-rm.ch
 chur.ch
-chur1947.ch
 chur2028.ch
 chur24.ch
 chur61.ch

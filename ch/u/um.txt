@@ -1607,7 +1607,6 @@ umzug-effretikon.ch
 umzug-entsorgung.ch
 umzug-express24.ch
 umzug-extragent.ch
-umzug-firme.ch
 umzug-flo-baselland.ch
 umzug-flo.ch
 umzug-fox.ch
@@ -1836,7 +1835,6 @@ umzugfirmawettingen.ch
 umzugfirmawetzikon.ch
 umzugfirmawinterthur.ch
 umzugfirmazumikon.ch
-umzugfirme.ch
 umzugfirmen.ch
 umzugfix.ch
 umzugflo.ch
@@ -2440,6 +2438,7 @@ umzugsreinigung-24.ch
 umzugsreinigung-aargau.ch
 umzugsreinigung-abgabegarantie.ch
 umzugsreinigung-abnahmegarantie.ch
+umzugsreinigung-ag.ch
 umzugsreinigung-baden.ch
 umzugsreinigung-basel.ch
 umzugsreinigung-bern.ch

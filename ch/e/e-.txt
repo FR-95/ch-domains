@@ -532,7 +532,6 @@ e-cage.ch
 e-cal.ch
 e-calc.ch
 e-call.ch
-e-camper.ch
 e-campers.ch
 e-campervan.ch
 e-camping.ch
@@ -667,7 +666,6 @@ e-climate.ch
 e-climber.ch
 e-clinic.ch
 e-clips.ch
-e-clipx.ch
 e-clock.ch
 e-clope.ch
 e-cloud.ch
@@ -2260,6 +2258,7 @@ e-ordo.ch
 e-ordonnance.ch
 e-origin.ch
 e-orion.ch
+e-os.ch
 e-osce.ch
 e-ost.ch
 e-osteo.ch
@@ -2795,6 +2794,7 @@ e-sense.ch
 e-sensia.ch
 e-senso.ch
 e-sensuals.ch
+e-sentia.ch
 e-sential.ch
 e-sentinel.ch
 e-sepa.ch
@@ -3307,7 +3307,6 @@ e-vis.ch
 e-visa.ch
 e-visum-support.ch
 e-visum.ch
-e-visums.ch
 e-vital.ch
 e-vitrum.ch
 e-viva.ch

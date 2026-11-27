@@ -1137,6 +1137,7 @@ it-value.ch
 it-varese.ch
 it-veneto.ch
 it-venture.ch
+it-vergleich.ch
 it-verkauf.ch
 it-vermittlung.ch
 it-versand.ch
@@ -3319,6 +3320,7 @@ itoolkit.ch
 itools.ch
 itooo.ch
 itooth.ch
+itop-curaprox.ch
 itop-dental.ch
 itop.ch
 itopa.ch
@@ -3811,6 +3813,7 @@ itsec4sme.ch
 itsecnets.ch
 itsecnews.ch
 itsecportofino.ch
+itsector.ch
 itsecure.ch
 itsecurity-academy.ch
 itsecurity-forum.ch

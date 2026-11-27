@@ -438,6 +438,7 @@ jublamutschellen.ch
 jublanebikon.ch
 jublanet.ch
 jublaneuheim.ch
+jublania.ch
 jublano.ch
 jublaoberkirch.ch
 jublaost.ch
@@ -1191,6 +1192,7 @@ juerg-berlinger.ch
 juerg-bissegger.ch
 juerg-bolliger.ch
 juerg-brunner.ch
+juerg-buchegger-mueller.ch
 juerg-buehler.ch
 juerg-buergi.ch
 juerg-dietiker.ch
@@ -2748,7 +2750,6 @@ jujujojo.ch
 jujuladoudou.ch
 jujunettedesalpages.ch
 jujus-candles.ch
-jujutsu-kaisen.ch
 jujutsu-zug.ch
 jujutsu-zurich.ch
 jujutsu.ch
@@ -4832,7 +4833,6 @@ jungdomina.ch
 jungdominas.ch
 junge-akademie-schweiz.ch
 junge-altstadt.ch
-junge-bewegung.ch
 junge-buehne-bern.ch
 junge-buehne.ch
 junge-digitale.ch
@@ -4866,7 +4866,6 @@ junge-talente-musik-sg.ch
 junge-talente-musik-sh.ch
 junge-talente-musik-so.ch
 junge-talente-musik.ch
-junge-tat.ch
 junge-tennwiler.ch
 junge-wagen.ch
 junge-wandkunst.ch
@@ -4878,7 +4877,6 @@ jungealternative.ch
 jungealtstadt.ch
 jungeautoren.ch
 jungebad.ch
-jungebewegung.ch
 jungebierfreunde.ch
 jungeblaue.ch
 jungebuehne-bremgarten.ch
@@ -6488,6 +6486,7 @@ juragastronomie.ch
 juragenda.ch
 juragewaesser-korrektion.ch
 juraglider.ch
+jurago.ch
 juragonflables.ch
 juragourmand.ch
 juragourmets.ch
@@ -6551,6 +6550,7 @@ juralink.ch
 juralis.ch
 juraliving.ch
 juralix.ch
+juraloc.ch
 juralodgespa.ch
 juralog.ch
 juraloriginal.ch
@@ -6572,6 +6572,7 @@ juramappe.ch
 juramappen.ch
 juramarathon.ch
 juramarket.ch
+juramart.ch
 juramassage.ch
 juramaterials.ch
 juramatte.ch
@@ -6622,6 +6623,7 @@ jurapassion.ch
 jurapastoral.ch
 jurapatois.ch
 jurapay.ch
+jurapaysage.ch
 jurapeakschallenge.ch
 jurapeche.ch
 jurapferde.ch
@@ -7309,7 +7311,6 @@ juso-initiative-nein.ch
 juso-nein.ch
 juso-plus.ch
 juso-schaffhausen.ch
-juso-schweiz.ch
 juso-schwyz.ch
 juso-shop.ch
 juso-steuer-nein.ch
@@ -7319,7 +7320,6 @@ juso-ti.ch
 juso-waehlen.ch
 juso-zug.ch
 juso.ch
-jusoaargau.ch
 jusobern.ch
 jusobibliothek.ch
 jusoinitiative-nein.ch
@@ -7337,7 +7337,6 @@ jusoor.ch
 jusoplus.ch
 jusora.ch
 jusos.ch
-jusoschweiz.ch
 jusosg.ch
 jusoshop.ch
 jusouri.ch
@@ -8507,6 +8506,7 @@ justtime.ch
 justtobe.ch
 justtodo.ch
 justtrade.ch
+justtraining.ch
 justtransfer.ch
 justtransition.ch
 justtravel.ch

@@ -545,6 +545,7 @@ hocevar.ch
 hoch-2.ch
 hoch-3.ch
 hoch-automobile.ch
+hoch-bau.ch
 hoch-bautechnik.ch
 hoch-beet.ch
 hoch-beete.ch
@@ -1391,6 +1392,7 @@ hochzeit-familiegraf.ch
 hochzeit-feiern.ch
 hochzeit-feuerwerk.ch
 hochzeit-fiona-joel.ch
+hochzeit-flora.ch
 hochzeit-forum.ch
 hochzeit-foto.ch
 hochzeit-fotoalbum.ch
@@ -2471,6 +2473,7 @@ hockeymanager.ch
 hockeymarket.ch
 hockeymarkt.ch
 hockeymental.ch
+hockeymomente.ch
 hockeymonkey.ch
 hockeymorningforkids.ch
 hockeynachwuchs.ch
@@ -4545,6 +4548,7 @@ hofersteiner.ch
 hofersteinpflege.ch
 hofersthairestaurant.ch
 hofertech.ch
+hofertool.ch
 hofertouristik.ch
 hofertreuhand.ch
 hoferundhofer.ch
@@ -6245,6 +6249,7 @@ hoiried.ch
 hoirieeddyisoz.ch
 hoirierg.ch
 hois.ch
+hoisamichlaus.ch
 hoisi.ch
 hoisite.ch
 hoisky.ch
@@ -7690,6 +7695,7 @@ hollingworth.ch
 hollins.ch
 hollis-bau.ch
 hollis.ch
+holliservice.ch
 hollister.ch
 hollisterco.ch
 hollitec.ch
@@ -10233,6 +10239,7 @@ holzofen-pizza.ch
 holzofen-pizzakurier.ch
 holzofen-pizzamobil.ch
 holzofen-pizzeria-al-giardino.ch
+holzofen-pizzeria-koelliken.ch
 holzofen-raclette.ch
 holzofen-zopf.ch
 holzofen.ch
@@ -12311,6 +12318,7 @@ homejf.ch
 homejj.ch
 homejobs.ch
 homekasko.ch
+homekeep.ch
 homekeeper.ch
 homekeepers.ch
 homekeeping.ch
@@ -12441,7 +12449,6 @@ homelymontage.ch
 homelynettoyage.ch
 homelyrenovation.ch
 homelywin.ch
-homelyzrh.ch
 homemade-ag.ch
 homemade-food.ch
 homemade-label.ch
@@ -12669,7 +12676,6 @@ homeofimpact.ch
 homeofinnovation.ch
 homeofinspiration.ch
 homeofintralogistics.ch
-homeofjewelry.ch
 homeofkarma.ch
 homeofleaders.ch
 homeoflegends.ch
@@ -13952,6 +13958,7 @@ hompy.ch
 homr.ch
 homri.ch
 homs.ch
+homsihomsa.ch
 homsphere21.ch
 homstreet.ch
 homsy.ch
@@ -15851,7 +15858,6 @@ hops.ch
 hopsala-verlag.ch
 hopsala.ch
 hopsales.ch
-hopsandherbs.ch
 hopsante.ch
 hopsasa.ch
 hopsassa.ch
@@ -17276,6 +17282,7 @@ horsana.ch
 horsanashop.ch
 horsbord.ch
 horscadre.ch
+horscadremedia.ch
 horscadrepully.ch
 horscadres.ch
 horscase.ch
@@ -18967,6 +18974,7 @@ hostini.ch
 hostinq.ch
 hostiq.ch
 hostium.ch
+hostiva.ch
 hostix.ch
 hostkey.ch
 hostkids.ch
@@ -21481,6 +21489,7 @@ hoteldellecose.ch
 hoteldelondres.ch
 hoteldelours.ch
 hoteldelourspreles.ch
+hoteldelpanperdu.ch
 hoteldeltapark.ch
 hoteldeluxe.ch
 hoteldemauvoisin.ch
@@ -24104,6 +24113,7 @@ house-of-wine.ch
 house-of-winterthur.ch
 house-of-wisdom.ch
 house-of-yoga.ch
+house-on-the-lake.ch
 house-party.ch
 house-poetry.ch
 house-portal.ch
@@ -24190,7 +24200,6 @@ housecrew.ch
 housecs.ch
 housedance.ch
 housedata.ch
-housedaxx.ch
 housedesign-kiechler.ch
 housedesign.ch
 housedesigner.ch

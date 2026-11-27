@@ -165,6 +165,7 @@ ifc-gsee.ch
 ifc-intern.ch
 ifc-lab.ch
 ifc-services.ch
+ifc2026.ch
 ifc4precast.ch
 ifcam.ch
 ifcapital.ch

@@ -484,7 +484,6 @@ go2internet.ch
 go2kanada.ch
 go2karibik.ch
 go2kilimanjaro.ch
-go2kodi.ch
 go2latinamerica.ch
 go2life.ch
 go2link.ch
@@ -833,7 +832,6 @@ goalstatistik.ch
 goalstone.ch
 goalstream.ch
 goaltending.ch
-goaltracker.ch
 goaltree.ch
 goaly.ch
 goalzero.ch
@@ -3225,8 +3223,10 @@ goldbet-schweiz.ch
 goldbet.ch
 goldbetcasino-ch.ch
 goldbetcasino.ch
+goldbetcasinos.ch
 goldbetofficial.ch
 goldbeton.ch
+goldbets.ch
 goldbienchen.ch
 goldbiene.ch
 goldbienen.ch
@@ -5956,6 +5956,7 @@ golfarm.ch
 golfarosa.ch
 golfaroundtheworld.ch
 golfart.ch
+golfartgraphics.ch
 golfartikel.ch
 golfartworks.ch
 golfascona.ch
@@ -9827,6 +9828,7 @@ gospelontheway.ch
 gospelplay.ch
 gospelpour100voix.ch
 gospelproject.ch
+gospelprojekt-sumiswald.ch
 gospelradio.ch
 gospelrap.ch
 gospelrevolutionchurch.ch

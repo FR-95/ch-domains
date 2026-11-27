@@ -16,6 +16,7 @@ pi-com.ch
 pi-comm.ch
 pi-conseil.ch
 pi-digital.ch
+pi-distribution.ch
 pi-division.ch
 pi-engineering.ch
 pi-factor.ch
@@ -1139,6 +1140,7 @@ picantillo.ch
 picanto.ch
 picapau.ch
 picapaugeneve.ch
+picapica.ch
 picapico.ch
 picapoint.ch
 picapp.ch
@@ -3209,6 +3211,7 @@ pierreschilling.ch
 pierreschmidt.ch
 pierreschopfer.ch
 pierreschwerzmann.ch
+pierresdemana.ch
 pierreseternelles.ch
 pierresetjardins.ch
 pierresetmerveilles.ch
@@ -4499,6 +4502,7 @@ pilatesyogahealth.ch
 pilatesyogamutschellen.ch
 pilatesyogapetra.ch
 pilatesyogasoins.ch
+pilatesyogawithjana.ch
 pilateszentrale.ch
 pilateszone.ch
 pilateszuerich.ch
@@ -6859,7 +6863,6 @@ pinnafidelis.ch
 pinnatec.ch
 pinnbar.ch
 pinnbet.ch
-pinncalc.ch
 pinncamp.ch
 pinnekamp.ch
 pinner.ch
@@ -7127,7 +7130,6 @@ pinson.ch
 pinsonresident.ch
 pinsource.ch
 pinsplit.ch
-pinsport.ch
 pinsportapp.ch
 pinssaut.ch
 pinstaebchen.ch
@@ -8783,7 +8785,6 @@ pistolenclub-aesch.ch
 pistolenclub-hallau.ch
 pistolenclub-kaiserstuhl.ch
 pistolenclub-klosters.ch
-pistolenclub-malters.ch
 pistolenclub-neunkirch.ch
 pistolenclub-rafzerfeld.ch
 pistolenclub-schoenenwerd.ch
@@ -10946,6 +10947,7 @@ pizza-bio.ch
 pizza-blackwhite.ch
 pizza-blitz-ennenda.ch
 pizza-blitz.ch
+pizza-blu.ch
 pizza-boss.ch
 pizza-boz.ch
 pizza-bravo.ch
@@ -11106,9 +11108,11 @@ pizza-kurier-bella.ch
 pizza-kurier-cinquecento-500-take-away.ch
 pizza-kurier-fulmine-sissach.ch
 pizza-kurier-fulmine.ch
+pizza-kurier-hothouse.ch
 pizza-kurier-italia.ch
 pizza-kurier-la-sera-haegendorf.ch
 pizza-kurier-la-sera.ch
+pizza-kurier-langnau.ch
 pizza-kurier-presto-richterswil.ch
 pizza-kurier-pronto-niederwil.ch
 pizza-kurier-pronto.ch
@@ -11313,6 +11317,7 @@ pizza-veloce.ch
 pizza-venezia.ch
 pizza-verace.ch
 pizza-verpackung.ch
+pizza-vip-basel.ch
 pizza-vip.ch
 pizza-volketswil.ch
 pizza-vulcano.ch
@@ -11505,7 +11510,6 @@ pizzadelpapa.ch
 pizzadeluxe.ch
 pizzaderby.ch
 pizzadi.ch
-pizzadias.ch
 pizzadieci.ch
 pizzadiecilocarno.ch
 pizzadiecisolduno.ch

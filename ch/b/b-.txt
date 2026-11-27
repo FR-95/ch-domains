@@ -124,7 +124,6 @@ b-belt.ch
 b-beratungen.ch
 b-bergwart.ch
 b-bern.ch
-b-bestattungen.ch
 b-better.ch
 b-bettersports.ch
 b-bewilligung.ch
@@ -602,6 +601,7 @@ b-massive.ch
 b-mat.ch
 b-matcha.ch
 b-max.ch
+b-maxx.ch
 b-mazing.ch
 b-mc.ch
 b-medag.ch

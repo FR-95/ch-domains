@@ -1014,7 +1014,6 @@ ns1.bettens.ch
 ns1.bettle.ch
 ns1.bewebt.ch
 ns1.bex-haustechnik.ch
-ns1.beyondcorporation.ch
 ns1.bf-net.ch
 ns1.bfk-edv-consulting.ch
 ns1.bgbsa.ch
@@ -1308,6 +1307,7 @@ ns1.corela.ch
 ns1.coretify.ch
 ns1.cortex-it.ch
 ns1.coserv.ch
+ns1.cozytren.ch
 ns1.cpdzone.ch
 ns1.cpjb.ch
 ns1.cpln.ch
@@ -1469,7 +1469,6 @@ ns1.dncons.ch
 ns1.dns-53.ch
 ns1.dns-cloud.ch
 ns1.dns-lst.ch
-ns1.dns-lstschenker.ch
 ns1.dns-net.ch
 ns1.dns-zonen.ch
 ns1.dns24.ch
@@ -3518,7 +3517,6 @@ ns1.szivosaradi.ch
 ns1.t-computing.ch
 ns1.t-dns.ch
 ns1.t1n.ch
-ns1.t78.ch
 ns1.tablettenschweiz.ch
 ns1.tagirov.ch
 ns1.take-one.ch
@@ -3621,7 +3619,6 @@ ns1.trekking-switzerland.ch
 ns1.trendpoint.ch
 ns1.trendwerk.ch
 ns1.tricontego.ch
-ns1.trinitycollege.ch
 ns1.tripledns.ch
 ns1.trisuit.ch
 ns1.trophee-entreprises.ch
@@ -4328,7 +4325,6 @@ ns2.bettens.ch
 ns2.bettle.ch
 ns2.bewebt.ch
 ns2.bex-haustechnik.ch
-ns2.beyondcorporation.ch
 ns2.bger.ch
 ns2.bgint.ch
 ns2.bhvconseils.ch
@@ -4765,7 +4761,6 @@ ns2.dncons.ch
 ns2.dns-53.ch
 ns2.dns-cloud.ch
 ns2.dns-lst.ch
-ns2.dns-lstschenker.ch
 ns2.dns-net.ch
 ns2.dns-zonen.ch
 ns2.dns24.ch
@@ -6733,7 +6728,6 @@ ns2.szivosaradi.ch
 ns2.t-computing.ch
 ns2.t-dns.ch
 ns2.t1n.ch
-ns2.t78.ch
 ns2.tablettenschweiz.ch
 ns2.tagirov.ch
 ns2.take-one.ch
@@ -6836,7 +6830,6 @@ ns2.trekking-switzerland.ch
 ns2.trendpoint.ch
 ns2.trendwerk.ch
 ns2.tricontego.ch
-ns2.trinitycollege.ch
 ns2.tripledns.ch
 ns2.trisuit.ch
 ns2.triwdata.ch
@@ -7894,7 +7887,6 @@ ns3.top-host.ch
 ns3.topway.ch
 ns3.tortiegidio.ch
 ns3.tracenet.ch
-ns3.trinitycollege.ch
 ns3.triwdata.ch
 ns3.tsnet.ch
 ns3.ufohost.ch
@@ -8225,7 +8217,6 @@ ns4.theswissdigital.ch
 ns4.tilosub.ch
 ns4.top-host.ch
 ns4.tortiegidio.ch
-ns4.trinitycollege.ch
 ns4.triwdata.ch
 ns4.uhot.ch
 ns4.unique-hosting.ch

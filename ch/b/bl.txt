@@ -486,6 +486,7 @@ black6down.ch
 black8.ch
 blackadder.ch
 blackademics.ch
+blackage.ch
 blackalp.ch
 blackalps-transport.ch
 blackalps.ch
@@ -1220,7 +1221,6 @@ blackop.ch
 blackopal.ch
 blackopium.ch
 blackops.ch
-blackopsproject.ch
 blackora.ch
 blackorange.ch
 blackoriontattoo.ch
@@ -3642,6 +3642,7 @@ bldtech.ch
 bldu.ch
 bldup.ch
 bldzr.ch
+ble-ag.ch
 ble-au-pain.ch
 ble-bikes.ch
 ble-box.ch
@@ -5549,7 +5550,6 @@ blitze.ch
 blitzeblank.ch
 blitzeblankos-solution.ch
 blitzeblankos-solutions.ch
-blitzeinbruch.ch
 blitzemacher.ch
 blitzer.ch
 blitzerabzocke.ch
@@ -5941,6 +5941,7 @@ block-games.ch
 block-haus.ch
 block-hausbau.ch
 block-home.ch
+block-hound.ch
 block-house.ch
 block-lab.ch
 block-locations.ch
@@ -7004,6 +7005,7 @@ bloomclub.ch
 bloomco.ch
 bloomcoa.ch
 bloomcoaching.ch
+bloomcoffee.ch
 bloomcoffeetruck.ch
 bloomcollective-studios.ch
 bloomcollective.ch
@@ -7013,7 +7015,6 @@ bloomdata.ch
 bloomday.ch
 bloomdesign.ch
 bloomdevelopment.ch
-bloomdigital.ch
 bloomedai.ch
 bloomelier.ch
 bloomell.ch
@@ -8508,6 +8509,7 @@ blueevents.ch
 blueevidence.ch
 blueevolution.ch
 blueewiin.ch
+blueewin.ch
 blueeye.ch
 blueeyed.ch
 blueeyedevil.ch
@@ -8605,6 +8607,7 @@ bluegem.ch
 bluegen.ch
 bluegene.ch
 bluegenes.ch
+bluegis.ch
 blueglass.ch
 blueglobalconcept.ch
 bluegoal.ch
@@ -8865,6 +8868,7 @@ bluelume.ch
 bluelynx.ch
 bluem-gurtvieh.ch
 bluem.ch
+bluema-stuebli.ch
 bluemae-hochzit.ch
 bluemae.ch
 bluemaechaeller.ch
@@ -9279,6 +9283,7 @@ blueperformance.ch
 bluepersonas.ch
 bluepharma.ch
 bluephnx.ch
+bluephoenix.ch
 bluephoto.ch
 bluepic.ch
 bluepill.ch

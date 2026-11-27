@@ -859,7 +859,6 @@ inartisnetwork.ch
 inartisveritas.ch
 inaru.ch
 inarum.ch
-inarva.ch
 inarve.ch
 inas-pfoten-oase.ch
 inas-schnitte.ch
@@ -1030,6 +1029,7 @@ inbetween-duebendorf.ch
 inbetween-law.ch
 inbetween-phi.ch
 inbetween-raum.ch
+inbetween-spaces.ch
 inbetween.ch
 inbetweengreen.ch
 inbetweenness.ch
@@ -2365,6 +2365,7 @@ indexsparplan.ch
 indextools.ch
 indextor.ch
 indextra.ch
+indextracker.ch
 indextraffic.ch
 indextypo.ch
 indexury.ch
@@ -2760,7 +2761,6 @@ indie-open.ch
 indie-openair.ch
 indie-projects.ch
 indie-radio.ch
-indie-review.ch
 indie-schweiz.ch
 indie-software.ch
 indie-solutions.ch
@@ -2866,7 +2866,6 @@ indieprojects.ch
 indierecords.ch
 indierent.ch
 indierentals.ch
-indiereview.ch
 indies.ch
 indiesailing.ch
 indiescale.ch
@@ -4176,6 +4175,7 @@ industriekultour.ch
 industriekultur-aabach.ch
 industriekultur-museum.ch
 industriekultur-neuthal.ch
+industriekultur-wildbach.ch
 industriekultur-winterthur.ch
 industriekultur.ch
 industriekulturpfad.ch
@@ -4627,6 +4627,7 @@ ineinklang.ch
 ineiti.ch
 ineko.ch
 inekon.ch
+inekto.ch
 inel.ch
 inela.ch
 inelba.ch
@@ -5718,7 +5719,6 @@ infinitypower.ch
 infinityprint.ch
 infinityproject.ch
 infinityprojects.ch
-infinityprojectsa.ch
 infinityrealestate.ch
 infinityreparatur.ch
 infinityroleteachers.ch
@@ -6354,6 +6354,7 @@ info-neuchatel.ch
 info-neuland.ch
 info-newcolor.ch
 info-novafloor.ch
+info-novaro.ch
 info-nw.ch
 info-oav.ch
 info-oberwallis.ch
@@ -7202,7 +7203,6 @@ infominds.ch
 infomio.ch
 infomir.ch
 infomity.ch
-infomix.ch
 infomobile.ch
 infomobilite.ch
 infomobilites.ch
@@ -7265,18 +7265,12 @@ infoniqa-200.ch
 infoniqa-50.ch
 infoniqa-api.ch
 infoniqa-hr.ch
-infoniqa-one-200.ch
-infoniqa-one-50.ch
-infoniqa-one-start.ch
 infoniqa-start.ch
 infoniqa.ch
 infoniqa200.ch
 infoniqa50.ch
 infoniqacloud.ch
 infoniqacloudservices.ch
-infoniqaone200.ch
-infoniqaone50.ch
-infoniqaonestart.ch
 infoniqastart.ch
 infonique.ch
 infonitor.ch
@@ -8602,6 +8596,7 @@ infoworld.ch
 infoworx.ch
 infox.ch
 infoxi.ch
+infoxnex.ch
 infoxnito.ch
 infoxpert.ch
 infoyou.ch
@@ -10257,7 +10252,6 @@ inilab.ch
 inillotempore.ch
 inils.ch
 inima-pflege.ch
-inima.ch
 inimage.ch
 inimex.ch
 inimitabile.ch
@@ -12520,6 +12514,7 @@ innerlights.ch
 innerlink.ch
 innerloop.ch
 innermagic.ch
+innermaison.ch
 innermeal.ch
 innermetrix.ch
 innermind.ch
@@ -18797,6 +18792,7 @@ institutdharmonie.ch
 institutdiamant.ch
 institutdielsdorf.ch
 institutdilsdorf.ch
+institutdivinity.ch
 institutdkura.ch
 institutdom.ch
 institutdoree.ch
@@ -20512,6 +20508,7 @@ intellektuelle-dienstleistungen.ch
 intellexag.ch
 intellexforensics.ch
 intellexi.ch
+intellexor.ch
 intellexus.ch
 intelleze.ch
 intellfin.ch
@@ -20550,7 +20547,6 @@ intellicrease.ch
 intellident.ch
 intellidoc.ch
 intellidox.ch
-intelliexpert.ch
 intellifarm.ch
 intelliflow.ch
 intellify.ch
@@ -20765,6 +20761,7 @@ intelliguard.ch
 intellihair.ch
 intellihelp.ch
 intellihome.ch
+intellijobs.ch
 intellikraft.ch
 intellilab.ch
 intellilearn.ch
@@ -24601,7 +24598,6 @@ interwetten2.ch
 interwetten20.ch
 interwetten21.ch
 interwetten22.ch
-interwetten23.ch
 interwetten24.ch
 interwetten25.ch
 interwetten26.ch
@@ -26403,6 +26399,7 @@ invest360.ch
 invest3a.ch
 invest4.ch
 invest4living.ch
+invest4real.ch
 investa-group.ch
 investa-home.ch
 investa-immo.ch

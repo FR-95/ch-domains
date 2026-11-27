@@ -131,6 +131,7 @@ aqstik.ch
 aqstudio.ch
 aqswissinvest.ch
 aqswissvalue.ch
+aqt-wasser.ch
 aqt.ch
 aqte.ch
 aqtec-ag.ch
@@ -1184,7 +1185,6 @@ aquarelle-wellness.ch
 aquarelle.ch
 aquarellealacarte.ch
 aquarellemed.ch
-aquarelles-claude-r.ch
 aquarelles-de-nouchka.ch
 aquarelleundpastelle.ch
 aquarellfarbe.ch
@@ -1325,7 +1325,6 @@ aquariumservice.ch
 aquariumshop-schweiz.ch
 aquariumshop.ch
 aquariumsonline.ch
-aquariumstern.ch
 aquariumstore.ch
 aquariumstudios.ch
 aquariumsysteme.ch

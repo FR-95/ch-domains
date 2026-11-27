@@ -5087,6 +5087,7 @@ immobilie-verkaufen-winterthur.ch
 immobilie-verkaufen-zuerich.ch
 immobilie-verkaufen-zug.ch
 immobilie-verkaufen.ch
+immobilie-vermieten.ch
 immobilie-vs.ch
 immobilie-zh.ch
 immobilie-zuerich.ch
@@ -6526,7 +6527,6 @@ immobilienservice24.ch
 immobilienservicebern.ch
 immobilienservices.ch
 immobiliensg.ch
-immobilienshop-buelach.ch
 immobilienshop.ch
 immobilienshop24.ch
 immobiliensinergia.ch
@@ -7020,6 +7020,7 @@ immobilieta.ch
 immobilieverkaufen.ch
 immobilieverkaufen24.ch
 immobilieverkaufeneinfach.ch
+immobilievermieten.ch
 immobiliez.ch
 immobilify.ch
 immobililenmaklerbern.ch
@@ -8585,6 +8586,7 @@ immonet.ch
 immonetmanager.ch
 immonetsa.ch
 immonetto.ch
+immonettoyage.ch
 immonetumzug.ch
 immonetwork.ch
 immonetworkag.ch
@@ -8950,7 +8952,6 @@ immoreal.ch
 immorealis.ch
 immoreality.ch
 immoreben.ch
-immorec.ch
 immorechner.ch
 immorecht.ch
 immoreel.ch
@@ -9230,7 +9231,6 @@ immosight.ch
 immosign.ch
 immosigns.ch
 immosilva.ch
-immosim.ch
 immosimmobilien.ch
 immosinvest.ch
 immosio.ch
@@ -13572,6 +13572,7 @@ imwaldinuster.ch
 imwaldpark.ch
 imwaldrausch.ch
 imwaldsein.ch
+imwall.ch
 imwandel.ch
 imwandelsein.ch
 imwasenboden.ch

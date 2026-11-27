@@ -551,7 +551,6 @@ urbanbreeze.ch
 urbanbricolage.ch
 urbanbrightstore.ch
 urbanbroger.ch
-urbanbutcher.ch
 urbancamp.ch
 urbancapital.ch
 urbancare.ch
@@ -1548,6 +1547,7 @@ urfreibergerhof.ch
 urfreiheit.ch
 urfsr.ch
 urg-admin.ch
+urg-recherche.ch
 urg-tech.ch
 urg.ch
 urgarten.ch
@@ -1613,12 +1613,9 @@ urgencedentairebulle.ch
 urgencedentairefribourg.ch
 urgencedentairegeneve.ch
 urgencedentairelausanne.ch
-urgencedentairemontreux.ch
 urgencedentaireneuchatel.ch
-urgencedentairesuisse.ch
 urgencedentairevevey.ch
 urgencedentaireyverdon.ch
-urgencedentistedomicile.ch
 urgencedermato.ch
 urgencedermatologiegeneve.ch
 urgencedermatologique.ch
@@ -1734,6 +1731,7 @@ urgestalt.ch
 urgestein-buchli.ch
 urgestein.ch
 urgesund.ch
+urgesundleben.ch
 urgetreide.ch
 urginea-illnau.ch
 urging.ch
@@ -2165,6 +2163,7 @@ urlaub-grindelwald.ch
 urlaub-guenstig.ch
 urlaub-gutschein.ch
 urlaub-gutscheine.ch
+urlaub-hund.ch
 urlaub-im-tessin.ch
 urlaub-in-den-bergen.ch
 urlaub-in-deutschland.ch
@@ -2956,7 +2955,6 @@ urologie-zurich.ch
 urologie-zurkirchen.ch
 urologie-zweitmeinung.ch
 urologie.ch
-urologie2.ch
 urologie24.ch
 urologieaarau.ch
 urologieamlindenhof.ch

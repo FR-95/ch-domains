@@ -757,6 +757,7 @@ wohin-zum-skifahren.ch
 wohin.ch
 wohindamit.ch
 wohingehen.ch
+wohingehts.ch
 wohinheute.ch
 wohinjetzt.ch
 wohinmobil.ch
@@ -1621,6 +1622,7 @@ wohnen-in-richterswil.ch
 wohnen-in-riehen.ch
 wohnen-in-seengen.ch
 wohnen-in-staefa.ch
+wohnen-in-steckborn.ch
 wohnen-in-sutz.ch
 wohnen-in-truebbach.ch
 wohnen-in-udligenswil.ch
@@ -5105,6 +5107,7 @@ woma-samedan.ch
 woma-schweiz.ch
 woma-stellenvermittlung.ch
 woma.ch
+womaconnect.ch
 womad.ch
 womag-online.ch
 womajet.ch
@@ -8694,6 +8697,7 @@ world-of-flex.ch
 world-of-flights.ch
 world-of-geko.ch
 world-of-grappa.ch
+world-of-groomers.ch
 world-of-gys.ch
 world-of-hair.ch
 world-of-heidi.ch
@@ -9530,6 +9534,7 @@ worldwise-edu.ch
 worldwise-education.ch
 worldwise.ch
 worldwiseeducation.ch
+worldwisehub.ch
 worldwitnessnews.ch
 worldwomen.ch
 worldwood.ch

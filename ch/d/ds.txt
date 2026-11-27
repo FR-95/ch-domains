@@ -259,6 +259,7 @@ dsa-architecture.ch
 dsa-connect.ch
 dsa-impro.ch
 dsa-online.ch
+dsa-training.ch
 dsa-youngstar.ch
 dsa.ch
 dsabatini.ch
@@ -332,6 +333,7 @@ dsb4you.ch
 dsbackend.ch
 dsbasics.ch
 dsbau.ch
+dsbaukontrolle.ch
 dsbaustatik.ch
 dsbautomobile.ch
 dsbb.ch

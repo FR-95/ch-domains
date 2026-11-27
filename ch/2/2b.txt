@@ -42,6 +42,7 @@
 2bar.ch
 2barchitectes.ch
 2bau.ch
+2baudio.ch
 2baumanagement.ch
 2bb.ch
 2bbit.ch

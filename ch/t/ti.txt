@@ -492,6 +492,7 @@ tibet.ch
 tibetan-cranial.ch
 tibetan-energy-work.ch
 tibetan-snowlion-momos.ch
+tibetan-snowlion.ch
 tibetan-spaniel.ch
 tibetan-terrier.ch
 tibetan-yoga.ch
@@ -1294,7 +1295,6 @@ ticinoshop.ch
 ticinoshotokan.ch
 ticinosicuro.ch
 ticinositiweb.ch
-ticinosms.ch
 ticinosnowsports.ch
 ticinosoccorso.ch
 ticinosocial.ch
@@ -1304,7 +1304,6 @@ ticinosole.ch
 ticinosoloaffitti.ch
 ticinosostenibile.ch
 ticinospa.ch
-ticinospace.ch
 ticinospecialgardenstabio.ch
 ticinospirit.ch
 ticinospitex.ch
@@ -2634,6 +2633,7 @@ tier-spielzeug.ch
 tier-spitex.ch
 tier-stuebli.ch
 tier-suche.ch
+tier-support.ch
 tier-tafel.ch
 tier-talk.ch
 tier-tcm.ch
@@ -5615,6 +5615,7 @@ tigoplay.ch
 tigos.ch
 tigota.ch
 tigotan.ch
+tigr-groupe.ch
 tigr.ch
 tigra-pionier.ch
 tigra.ch
@@ -5751,7 +5752,6 @@ tijobs.ch
 tijolabs.ch
 tijssen.ch
 tiju.ch
-tik-tak.ch
 tik-technologie.ch
 tik-tok.ch
 tik-treuhand.ch
@@ -5978,6 +5978,7 @@ tilelook.ch
 tilemann.ch
 tilemaxx.ch
 tilena.ch
+tilendo.ch
 tileo.ch
 tileplanner.ch
 tiler-storenbau.ch
@@ -6814,7 +6815,6 @@ time-waver.ch
 time-winner.ch
 time-work.ch
 time-zoner.ch
-time-zoo.ch
 time.ch
 time11.ch
 time17.ch
@@ -8877,6 +8877,7 @@ tinikids.ch
 tiniletters.ch
 tinilynk.ch
 tinina.ch
+tiniparquets.ch
 tiniray.ch
 tinis.ch
 tinit-services-ag.ch
@@ -10170,7 +10171,6 @@ tiptopauto.ch
 tiptopautocenter.ch
 tiptopbingo.ch
 tiptopbreil.ch
-tiptopcanin.ch
 tiptopcarbon.ch
 tiptopcenter.ch
 tiptopclean.ch
@@ -10743,6 +10743,7 @@ tirza-baumberger.ch
 tirza.ch
 tirzabaumberger.ch
 tirzah.ch
+tirzahhotpilates.ch
 tirzakaja.ch
 tirzamatter.ch
 tirzaundalex.ch
@@ -12132,6 +12133,7 @@ tizianozanetti.ch
 tizians-geheimnis.ch
 tizianschoeni.ch
 tizio.ch
+tizior.ch
 tizis.ch
 tizitax.ch
 tizl.ch

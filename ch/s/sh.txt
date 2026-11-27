@@ -347,6 +347,7 @@ shade-extenders.ch
 shade-ge.ch
 shade-sail-boutique.ch
 shade-sail-schweiz.ch
+shade-sails.ch
 shade-store.ch
 shade-studio.ch
 shade-tec.ch
@@ -473,7 +474,6 @@ shadoworks.ch
 shadowpath.ch
 shadowping.ch
 shadowprompt.ch
-shadowprotect.ch
 shadowritual.ch
 shadowrp.ch
 shadowrun-webcomic.ch
@@ -2489,7 +2489,6 @@ shecommerce.ch
 shecon.ch
 sheconomy.ch
 shed-net.ch
-shed-roasters.ch
 shed.ch
 shed15.ch
 sheda.ch
@@ -2943,7 +2942,6 @@ shena-immobilienag.ch
 shenandoah.ch
 shenanigans.ch
 shenanygans.ch
-shenao.ch
 shenatana.ch
 shenay-deana.ch
 shencore.ch
@@ -3537,7 +3535,6 @@ shiatsu-interlaken.ch
 shiatsu-intha.ch
 shiatsu-irene-ramseier.ch
 shiatsu-iss.ch
-shiatsu-ja.ch
 shiatsu-jeanfu.ch
 shiatsu-jeanneret.ch
 shiatsu-jeannette-beumer.ch
@@ -3866,7 +3863,6 @@ shiatsuhypnose.ch
 shiatsuimfluss.ch
 shiatsuimfreiamt.ch
 shiatsuimregenbogen.ch
-shiatsuin.ch
 shiatsuinaarau.ch
 shiatsuinbasel.ch
 shiatsuinbern.ch
@@ -5081,7 +5077,6 @@ shisha-express.ch
 shisha-forum.ch
 shisha-heaven.ch
 shisha-home.ch
-shisha-in.ch
 shisha-kaufen.ch
 shisha-king.ch
 shisha-koenig.ch
@@ -5091,7 +5086,6 @@ shisha-laden.ch
 shisha-lounge.ch
 shisha-lovers.ch
 shisha-online.ch
-shisha-onlineversand.ch
 shisha-outlet.ch
 shisha-profi.ch
 shisha-ratgeber.ch
@@ -8015,7 +8009,6 @@ showbarcatering.ch
 showbarkeeper.ch
 showbiz.ch
 showbizcenter.ch
-showbiztv.ch
 showboosters.ch
 showbox.ch
 showbuehne-mieten.ch
@@ -8420,6 +8413,7 @@ shr-swiss-geraete.ch
 shr-swiss.ch
 shr.ch
 shr00m.ch
+shr1.ch
 shra.ch
 shrader.ch
 shraks.ch
@@ -8710,6 +8704,7 @@ shugatwo.ch
 shugazz.ch
 shuggy.ch
 shugi.ch
+shugo.ch
 shugyo-dojo.ch
 shuhadafoundation.ch
 shuhane-services.ch
@@ -8834,7 +8829,6 @@ shuttlelane.ch
 shuttlemerci.ch
 shuttleparking.ch
 shuttler.ch
-shuttles.ch
 shuttleservice.ch
 shuttleservices.ch
 shuttleservicezrh.ch
@@ -8932,7 +8926,6 @@ shwups.ch
 shx.ch
 shy-studio.ch
 shy.ch
-shy2sj.ch
 shyalou.ch
 shyalougoestoafrica.ch
 shyaloustiftung.ch

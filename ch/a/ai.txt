@@ -1569,6 +1569,7 @@ aicoachingzug.ch
 aicoachzug.ch
 aicodex.ch
 aicodexch.ch
+aicoffeehouse.ch
 aicoflash.ch
 aicoin.ch
 aicoins.ch
@@ -1902,6 +1903,7 @@ aide-creation-entreprise.ch
 aide-curatelle.ch
 aide-decision.ch
 aide-declaration-impot.ch
+aide-demenagement.ch
 aide-derham.ch
 aide-diabete-guineebissau.ch
 aide-domicile-geneve.ch
@@ -2135,7 +2137,6 @@ aidia-smartremindersystem.ch
 aidia-system.ch
 aidia.ch
 aidiagnose.ch
-aidienstleistungen.ch
 aidigest.ch
 aidigital.ch
 aidigitalautomation.ch

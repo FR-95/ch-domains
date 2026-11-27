@@ -1110,6 +1110,7 @@ gibzblog.ch
 gibzportal.ch
 gibzreservierungssystem.ch
 gic-display.ch
+gic-gisimmo.ch
 gic-puplinge.ch
 gic-sa.ch
 gic-ys.ch
@@ -4447,6 +4448,7 @@ gipfelundtal.ch
 gipfelverzeichnis.ch
 gipfelvielfalt.ch
 gipfelwaerts.ch
+gipfelweb.ch
 gipfelweg.ch
 gipfelwein.ch
 gipfelweine.ch
@@ -5978,6 +5980,7 @@ giteequestre.ch
 gitegiornaliere.ch
 giteinvernali.ch
 gitelabergerie.ch
+gitelacigale.ch
 gitelacombe.ch
 giteles3collines.ch
 giteluidaout.ch

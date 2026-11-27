@@ -371,6 +371,7 @@ gscd.ch
 gscenter.ch
 gscextensionacademy.ch
 gscgi.ch
+gscgroup.ch
 gsch-ag.ch
 gsch.ch
 gschaad.ch
@@ -505,6 +506,7 @@ gschmeidig.ch
 gschmeus.ch
 gschmisse.ch
 gschmoh.ch
+gschmois.ch
 gschmuck.ch
 gschniglaet.ch
 gschnurr.ch
@@ -684,6 +686,7 @@ gseha.ch
 gsehha.ch
 gsehni.ch
 gsehs.ch
+gsehsch-mi.ch
 gsehsch.ch
 gsehschmi.ch
 gsehundgseh.ch

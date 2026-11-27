@@ -58,6 +58,7 @@ hr-blockchain.ch
 hr-blog.ch
 hr-board.ch
 hr-boillat.ch
+hr-booster.ch
 hr-bot.ch
 hr-bridge.ch
 hr-brunch.ch
@@ -570,6 +571,7 @@ hrbm.ch
 hrboard.ch
 hrboardadvisory.ch
 hrboost.ch
+hrbooster.ch
 hrbot.ch
 hrboutique.ch
 hrbox.ch

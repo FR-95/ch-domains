@@ -1838,6 +1838,7 @@ padel15.ch
 padel24.ch
 padel247.ch
 padel2business.ch
+padel41.ch
 padel4all.ch
 padel4business.ch
 padel4fun.ch
@@ -1895,6 +1896,7 @@ padelboutique.ch
 padelbox.ch
 padelbros.ch
 padelbuchen.ch
+padelbudddy.ch
 padelbund.ch
 padelbusiness.ch
 padelbutler.ch
@@ -2625,7 +2627,6 @@ paf-art-posters.ch
 paf-casino.ch
 paf-events.ch
 paf-fenstermontagen.ch
-paf-kirchberg.ch
 paf-kunstplakate.ch
 paf-radio-deep-water.ch
 paf.ch
@@ -2836,6 +2837,7 @@ pagefault.ch
 pagefix.ch
 pageflip.ch
 pageflow.ch
+pagefokus.ch
 pageformance.ch
 pagefox.ch
 pagegartmann.ch
@@ -5835,7 +5837,6 @@ panaka.ch
 panakeia.ch
 panakeja.ch
 panalaeda.ch
-panaland.ch
 panalesis.ch
 panalingua.ch
 panalis.ch
@@ -6298,6 +6299,7 @@ pandegroup.ch
 pandeia.ch
 pandektes.ch
 pandela.ch
+pandeli.ch
 pandelios.ch
 pandely-construction.ch
 pandemia.ch
@@ -7094,6 +7096,7 @@ pannenhilfe24.ch
 pannenhilfebern.ch
 pannenhilfeuri.ch
 pannenhilfevergleich.ch
+pannenhilfezuerich.ch
 pannenlenz.ch
 pannenmanager.ch
 pannenportal.ch
@@ -7937,6 +7940,7 @@ panzeras.ch
 panzeraservices.ch
 panzerballett.ch
 panzerband.ch
+panzerduell.ch
 panzerfahrzeug.ch
 panzerfahrzeuge.ch
 panzerfaust.ch
@@ -9285,7 +9289,6 @@ papillondesuisse.ch
 papillondevie.ch
 papillondor.ch
 papillonevents.ch
-papillongle.ch
 papilloninfo.ch
 papillonkosmetik.ch
 papillonmagique.ch
@@ -9594,6 +9597,7 @@ par-la-charmille.ch
 par-la-main-doula.ch
 par-la-nature.ch
 par-lam.ch
+par-les-parents.ch
 par-nature.ch
 par-tec.ch
 par-tout.ch
@@ -11993,6 +11997,7 @@ paripesa.ch
 paripesacasino.ch
 paripeso.ch
 paripro.ch
+paripurna.ch
 paris-apartments.ch
 paris-bale.ch
 paris-berlin.ch
@@ -13582,6 +13587,7 @@ parkvago.ch
 parkvalet.ch
 parkvelo.ch
 parkverbot.ch
+parkverbote.ch
 parkverbotsschilder.ch
 parkverstoss.ch
 parkvets.ch
@@ -13719,6 +13725,8 @@ parlepied.ch
 parler-en-public.ch
 parler-montagnon.ch
 parler-neuchatelois.ch
+parler-parent.ch
+parler-parents.ch
 parler-peut-aider.ch
 parler-peut-sauver.ch
 parler.ch
@@ -14770,7 +14778,6 @@ partidaperlinclusiun.ch
 partidas.ch
 partidasvizra.ch
 partidolatinoeuropeo.ch
-partidubonsens.ch
 partiducentre.ch
 partie.ch
 partieplaignante.ch
@@ -18620,6 +18627,7 @@ passoua-sansfrontiere.ch
 passounosecurity.ch
 passovan.ch
 passoverso.ch
+passowebsuisse.ch
 passparcel.ch
 passpartout.ch
 passpartouts.ch
@@ -19471,6 +19479,7 @@ patchbit.ch
 patchbitch.ch
 patchboard.ch
 patchbox.ch
+patchbrief.ch
 patchcable.ch
 patchcode.ch
 patchcom.ch
@@ -21648,6 +21657,7 @@ patrickstrassmann.ch
 patrickstuder.ch
 patrickstuessi.ch
 patrickstump.ch
+patrickstumpp.ch
 patrickstunkel.ch
 patricksturzeneggerautor.ch
 patrickstutz.ch
@@ -22179,6 +22189,7 @@ patriziatocampestro.ch
 patriziatocampovallemaggia.ch
 patriziatocarona.ch
 patriziatocastelsanpietro.ch
+patriziatocavergno.ch
 patriziatocaviano.ch
 patriziatoceviolinescio.ch
 patriziatochiggiogna.ch
@@ -24050,6 +24061,7 @@ pawband.ch
 pawbase.ch
 pawberry.ch
 pawbets.ch
+pawbets1.ch
 pawbetscasino.ch
 pawbook.ch
 pawboutique.ch
@@ -24770,6 +24782,7 @@ paykarte.ch
 payker.ch
 paykiosk.ch
 paykiosks.ch
+payklass.ch
 payko.ch
 paykonzept.ch
 paykrypto.ch
@@ -25218,6 +25231,7 @@ paysagisteetoy.ch
 paysagistegeneve.ch
 paysagistejardinier.ch
 paysagistejeromeyerly.ch
+paysagistejura.ch
 paysagisteplus.ch
 paysagistes-ansermet.ch
 paysagistes-bucherons.ch
@@ -25225,6 +25239,7 @@ paysagistes-valais.ch
 paysagistes-vaud.ch
 paysagistes.ch
 paysagistevaud.ch
+paysajoie.ch
 paysalia.ch
 paysalliaz.ch
 paysan-autrement.ch

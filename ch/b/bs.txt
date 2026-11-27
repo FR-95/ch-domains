@@ -1011,6 +1011,7 @@ bsopen.ch
 bsopersonal.ch
 bsorchester.ch
 bsorge.ch
+bsorino.ch
 bsormalinge.ch
 bsos.ch
 bsource.ch
@@ -1057,6 +1058,7 @@ bspass.ch
 bspayone-siehabendiewahl.ch
 bspayone.ch
 bspconstruction.ch
+bspd.ch
 bspe.ch
 bspeak.ch
 bspgroup.ch

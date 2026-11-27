@@ -1401,6 +1401,7 @@ pharmaplanner.ch
 pharmaplus.ch
 pharmapoint-dashboard.ch
 pharmapoint.ch
+pharmaponte.ch
 pharmapool.ch
 pharmapop.ch
 pharmapost.ch
@@ -2140,6 +2141,7 @@ phiemann.ch
 phiemannswiss.ch
 phienergy.ch
 phieres.ch
+phiewr.ch
 phifa.ch
 phifeb.ch
 phifiduciaire.ch
@@ -2839,6 +2841,7 @@ philippebestenheider.ch
 philippebiffiger.ch
 philippebischof.ch
 philippeblanc.ch
+philippeblatter.ch
 philippebovet.ch
 philippebovey.ch
 philippebrandenberger.ch
@@ -2909,7 +2912,6 @@ philippeguignard.ch
 philippehahn.ch
 philippehertigadvisory.ch
 philippeheule.ch
-philippehollenstein.ch
 philippeholzer.ch
 philippehottinger.ch
 philippehottinguer.ch
@@ -10636,7 +10638,6 @@ physiotherapie-zuerich-enge.ch
 physiotherapie-zuerich.ch
 physiotherapie-zuerichnord.ch
 physiotherapie-zug.ch
-physiotherapie-zuhause-schaffhausen.ch
 physiotherapie-zuhause.ch
 physiotherapie-zur-schanze.ch
 physiotherapie-zurich.ch
@@ -10818,7 +10819,6 @@ physiotherapieruswil.ch
 physiotherapiesamiraventura.ch
 physiotherapiesanktgallen.ch
 physiotherapieschadau.ch
-physiotherapieschaffhausen.ch
 physiotherapieschoeftland.ch
 physiotherapieschori.ch
 physiotherapieschule.ch

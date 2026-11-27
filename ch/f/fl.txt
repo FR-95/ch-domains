@@ -962,8 +962,10 @@ flan-support.ch
 flan.ch
 flana.ch
 flanae.ch
+flanagans-basel.ch
 flanagans-geneva.ch
 flanagans-geneve.ch
+flanagans-zug.ch
 flanagans.ch
 flanc.ch
 flancorp.ch
@@ -3741,6 +3743,7 @@ flexlab.ch
 flexlane.ch
 flexlast.ch
 flexlaw.ch
+flexleague.ch
 flexlearn.ch
 flexleasing.ch
 flexleg.ch
@@ -3941,7 +3944,6 @@ flexsosupplychain.ch
 flexspace.ch
 flexspacecoworking.ch
 flexsplint.ch
-flexsports.ch
 flexstadt.ch
 flexstaff.ch
 flexstar.ch
@@ -5454,6 +5456,7 @@ flmconsulting.ch
 flmedia.ch
 flmedical.ch
 flmetall.ch
+flmgrbr.ch
 flmi.ch
 flmj.ch
 flmn.ch
@@ -5744,7 +5747,6 @@ floetmat.ch
 floetotto.ch
 floettry.ch
 floew.ch
-floex-financial-ag.ch
 floez.ch
 flofafu.ch
 flofaunes.ch
@@ -8508,6 +8510,7 @@ flowgardens.ch
 flowgeeko.ch
 flowgen.ch
 flowgent.ch
+flowgenta.ch
 flowgo.ch
 flowgolf.ch
 flowgrammer.ch
@@ -8539,7 +8542,6 @@ flowify.ch
 flowignis.ch
 flowigo.ch
 flowin.ch
-flowinframe.ch
 flowing-energy.ch
 flowing-hands.ch
 flowing-health.ch

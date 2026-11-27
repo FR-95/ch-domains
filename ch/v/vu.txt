@@ -438,6 +438,7 @@ vulnerablesituations.ch
 vulnerd.ch
 vulnmanager.ch
 vulnona.ch
+vulnpocalypse.ch
 vulns.ch
 vulnture.ch
 vulnwat.ch
@@ -530,7 +531,6 @@ vunderortho.ch
 vundp.ch
 vunds.ch
 vundz.ch
-vuneva.ch
 vuni.ch
 vuniconu.ch
 vunkvood.ch

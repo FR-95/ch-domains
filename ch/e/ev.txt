@@ -1926,7 +1926,6 @@ event-care.ch
 event-cars-switzerland.ch
 event-casino.ch
 event-casinos.ch
-event-catalystclub.ch
 event-catering-cloud.ch
 event-catering-zuerich.ch
 event-catering-zurich.ch
@@ -2006,6 +2005,7 @@ event-floristik.ch
 event-fondue.ch
 event-food.ch
 event-for-you.ch
+event-forum.ch
 event-fotibox.ch
 event-foto.ch
 event-fotobox.ch
@@ -2695,7 +2695,6 @@ eventech.ch
 evented.ch
 eventedit.ch
 eventee.ch
-eventeffekte.ch
 eventeintritt.ch
 eventek.ch
 eventelektro.ch

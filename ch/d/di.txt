@@ -5004,7 +5004,6 @@ die-signatur.ch
 die-signers.ch
 die-sihl.ch
 die-silberruecken.ch
-die-simpsons.ch
 die-sims4.ch
 die-single-community.ch
 die-singleberater.ch
@@ -7643,7 +7642,6 @@ diemitteuntersiggenthal.ch
 diemittewohlen.ch
 diemittezh-wahlen.ch
 diemittezh.ch
-diemittezufikon.ch
 diemlaw.ch
 diemling.ch
 diemme.ch
@@ -7804,6 +7802,7 @@ dieneuekueche.ch
 dieneueliberale.ch
 dieneuenarbeitswelten.ch
 dieneuephysiotherapie.ch
+dieneuetreuhand.ch
 dieneuewebseite.ch
 dieneuewelt.ch
 dieneuezeit.ch
@@ -10572,7 +10571,6 @@ digidude.ch
 digidustry.ch
 digieasy.ch
 digiec.ch
-digiedu.ch
 digieinfach.ch
 digiemu.ch
 digiene-admin.ch
@@ -12354,6 +12352,7 @@ digitalatelier.ch
 digitalaudio.ch
 digitalaudioplayer.ch
 digitalaudioservice.ch
+digitalaudit.ch
 digitalauditor.ch
 digitalaufspedal.ch
 digitalaurastudio.ch
@@ -13404,6 +13403,7 @@ digitalesanlegen.ch
 digitalesarbeiten.ch
 digitalesarchiv.ch
 digitalesautohaus.ch
+digitalesbasel.ch
 digitalesbauen.ch
 digitalesbgm.ch
 digitalesbrett.ch
@@ -15018,6 +15018,7 @@ digitalzentrum.ch
 digitalzuerich.ch
 digitalzug.ch
 digitalzuhause.ch
+digitalzurich.ch
 digitalzylinder-shop.ch
 digitalzylinder.ch
 digitam-ai.ch
@@ -16310,7 +16311,6 @@ dimitri-stapfer.ch
 dimitri-ubezio.ch
 dimitri.ch
 dimitriadis.ch
-dimitriandre.ch
 dimitrianimation.ch
 dimitribaehler.ch
 dimitribarth.ch
@@ -17085,7 +17085,6 @@ dinipflegdehei-luzern.ch
 dinipk.ch
 dinipraxis.ch
 diniregion.ch
-dinireis.ch
 dinirent.ch
 dinirettig.ch
 dinis-boxdocce.ch
@@ -17098,7 +17097,6 @@ dinis.ch
 dinisanitaire.ch
 dinisbrain.ch
 dinisis.ch
-dinisite.ch
 dinislesanitaire.ch
 dinismeier.ch
 dinisoftware.ch
@@ -17434,6 +17432,7 @@ dinsaentis.ch
 dinschmid.ch
 dinschrift.ch
 dinse-coaching.ch
+dinsenf.ch
 dinser-expertise.ch
 dinser-gis.ch
 dinser-ratio.ch
@@ -17602,6 +17601,7 @@ dion-boxing.ch
 dion-demo.ch
 dion-immobilien.ch
 dion-junior.ch
+dion-morgenthaler.ch
 dion-zazzali.ch
 dion.ch
 diona.ch
@@ -18378,6 +18378,7 @@ directkredich.ch
 directlead.ch
 directlease.ch
 directleasing.ch
+directlending.ch
 directline.ch
 directlink-server.ch
 directly.ch
@@ -22003,7 +22004,6 @@ divine-design.ch
 divine-escort.ch
 divine-event.ch
 divine-events.ch
-divine-girls.ch
 divine-grace.ch
 divine-group.ch
 divine-guidance.ch

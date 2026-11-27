@@ -3899,6 +3899,7 @@ fonderie-blondeau.ch
 fonderie-moutier.ch
 fonderie-turgibega.ch
 fonderie.ch
+fonderie11.ch
 fonderie13.ch
 fonderiebrugger.ch
 fonderiedart.ch
@@ -4424,6 +4425,7 @@ fonea.ch
 fonekites.ch
 fonema.ch
 foneproshop.ch
+foner.ch
 foneshop.ch
 fonestore.ch
 fonet.ch
@@ -6403,7 +6405,6 @@ footjoy.ch
 footjuniors.ch
 footkidmanager.ch
 footking.ch
-footlavaux.ch
 footle.ch
 footleft.ch
 footleharder.ch
@@ -7725,6 +7726,7 @@ forestjump.ch
 forestkidsclub.ch
 forestkitchen.ch
 forestlabs.ch
+forestlandlinen.ch
 forestlife.ch
 forestlights.ch
 forestly.ch
@@ -9159,7 +9161,6 @@ formationtattoo-valais.ch
 formationteplilly.ch
 formationtest.ch
 formationtherafit.ch
-formationtva.ch
 formationvalais.ch
 formationvelo.ch
 formationvideo.ch
@@ -12544,6 +12545,7 @@ fotigrafen.ch
 fotihuus.ch
 fotijay.ch
 fotikafi.ch
+fotikaste.ch
 fotikiosk.ch
 fotikischte.ch
 fotikiste.ch
@@ -14745,6 +14747,7 @@ fotoshootingathome.ch
 fotoshootingbasel.ch
 fotoshootingday.ch
 fotoshootingerlebnis.ch
+fotoshootinggutschein.ch
 fotoshootings.ch
 fotoshootingzueri.ch
 fotoshootingzuerich.ch
@@ -15541,6 +15544,7 @@ four-stars-trading.ch
 four-study.ch
 four-t.ch
 four-team.ch
+four-trees-kilchberg.ch
 four-trees.ch
 four-two.ch
 four-valley-riders.ch
@@ -15814,7 +15818,9 @@ fourtonsleepyghost.ch
 fourtout.ch
 fourtower.ch
 fourtransport.ch
+fourtrees-kilchberg.ch
 fourtrees-montessori.ch
+fourtreeskilchberg.ch
 fourtreesmontessori.ch
 fourturtles.ch
 fourtwenty-express.ch

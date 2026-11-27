@@ -127,6 +127,7 @@ placeauxenfants.ch
 placeauxfamilles.ch
 placeauxjeunes.ch
 placeauxreves.ch
+placeb-workspace.ch
 placeb.ch
 placebo-shop.ch
 placebo-world.ch
@@ -872,6 +873,7 @@ plan-les-ouates-aquatics.ch
 plan-les-ouates-images.ch
 plan-les-ouates.ch
 plan-les-ouates24.ch
+plan-les-watches.ch
 plan-los.ch
 plan-lux.ch
 plan-m.ch
@@ -1173,6 +1175,7 @@ planbforum.ch
 planbgemeinschaft.ch
 planbhausmeister.ch
 planbheiden.ch
+planbhomes.ch
 planbianca.ch
 planbild.ch
 planbiodivers.ch
@@ -1330,9 +1333,11 @@ planculbeurette.ch
 planculdominatrice.ch
 planculgeneva.ch
 planculradar.ch
+planculromandie.ch
 planculsuisse.ch
 planculsuissex.ch
 plancultrans.ch
+planculvaud.ch
 planculx.ch
 pland.ch
 planda-pergola.ch
@@ -1604,7 +1609,6 @@ planet-switzerland.ch
 planet-technology.ch
 planet-thomet.ch
 planet-tier.ch
-planet-v.ch
 planet-vegan.ch
 planet-vision.ch
 planet-wahlen.ch
@@ -2194,6 +2198,7 @@ planjost.ch
 plank-support.ch
 plank.ch
 planka.ch
+plankapital.ch
 plankart.ch
 planke.ch
 plankenauer.ch
@@ -2299,7 +2304,6 @@ plannic.ch
 plannico.ch
 plannie.ch
 plannify.ch
-plannikeeper.ch
 planninfinity.ch
 planning-alain-electroservice.ch
 planning-cath.ch
@@ -3359,6 +3363,7 @@ plasmapolishing.ch
 plasmarecordsandtapes.ch
 plasmaresearch.ch
 plasmaschneider.ch
+plasmasuisse.ch
 plasmatechnik.ch
 plasmateria.ch
 plasmatherapie.ch
@@ -4156,6 +4161,7 @@ platitag.ch
 platito.ch
 platiumcmt.ch
 platiumed.ch
+plativo.ch
 plato-cloud.ch
 plato-collection.ch
 plato.ch
@@ -4390,6 +4396,7 @@ plattenleger-naturstein-welt.ch
 plattenleger-nidwalden.ch
 plattenleger-niedergoesgen.ch
 plattenleger-oberwallis.ch
+plattenleger-oberwil.ch
 plattenleger-obwalden.ch
 plattenleger-offerten.ch
 plattenleger-pasalic.ch
@@ -4421,6 +4428,7 @@ plattenleger-solothurn-bucheggberg.ch
 plattenleger-solothurn.ch
 plattenleger-st-gallen.ch
 plattenleger-team.ch
+plattenleger-therwil.ch
 plattenleger-thurgau.ch
 plattenleger-uster.ch
 plattenleger-vergleich.ch
@@ -5488,6 +5496,7 @@ playpiano.ch
 playpickleball.ch
 playpilates.ch
 playpilot.ch
+playpipo.ch
 playplace.ch
 playplanet.ch
 playpls.ch
@@ -7799,6 +7808,7 @@ plumblinebible.ch
 plumbum.ch
 plumbus.ch
 plumcake.ch
+plume-app.ch
 plume-atelier.ch
 plume-de-lenvol.ch
 plume-doree.ch

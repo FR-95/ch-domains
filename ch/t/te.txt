@@ -182,6 +182,7 @@ teacheratlant.ch
 teacherbalanceboost.ch
 teachercard.ch
 teachercommunity.ch
+teacherdesk.ch
 teacherfinder.ch
 teacherfunder.ch
 teacherheroes.ch
@@ -868,7 +869,6 @@ team-w.ch
 team-wackelzahn.ch
 team-wagner.ch
 team-waldner.ch
-team-wanderfalken.ch
 team-wear.ch
 team-web.ch
 team-webstube.ch
@@ -4084,7 +4084,6 @@ technocolor.ch
 technocom.ch
 technocompteur.ch
 technocon.ch
-technoconcept.ch
 technocontrol.ch
 technocore.ch
 technocraft-schweiz.ch
@@ -4600,6 +4599,7 @@ techserver.ch
 techservice.ch
 techservice24.ch
 techservices.ch
+techservinter.ch
 techservsolutions.ch
 techsetted.ch
 techshare.ch
@@ -6812,6 +6812,7 @@ teknogate.ch
 teknoid.ch
 teknolike.ch
 teknolite.ch
+teknologia.ch
 teknology-policy.ch
 teknology.ch
 teknologylifeag.ch
@@ -9368,6 +9369,7 @@ tempelwerk.ch
 tempelzurich.ch
 temper.ch
 tempera-toitures.ch
+tempera.ch
 temperaare.ch
 temperatio.ch
 temperatocaffe.ch
@@ -9401,6 +9403,7 @@ temperatursensorik.ch
 temperaturstreifen.ch
 temperawatch.ch
 tempereat.ch
+tempered.ch
 temperierkupplungen.ch
 temperis.ch
 temperli-kosmetik.ch
@@ -14361,6 +14364,7 @@ terroirs-region-grandson.ch
 terroirs-romands.ch
 terroirs.ch
 terroirs2026.ch
+terroirs2027.ch
 terroirsneuchatelois.ch
 terroirsuisse.ch
 terroirtourismefribourg.ch
@@ -14887,7 +14891,6 @@ teslasolar.ch
 teslasteel.ch
 teslastore.ch
 teslasuisseromande.ch
-teslasupport.ch
 teslaswisshome.ch
 teslaswissromande.ch
 teslatausch.ch
@@ -16872,6 +16875,7 @@ tetralingua.ch
 tetralink.ch
 tetralyre.ch
 tetrametering.ch
+tetramind.ch
 tetramobil.ch
 tetranavi.ch
 tetranet.ch
@@ -17606,7 +17610,6 @@ textcube.ch
 textdesign-bittner.ch
 textdesign-buero.ch
 textdesk.ch
-textdienstleister.ch
 textding.ch
 textdoc.ch
 textdoktor.ch
@@ -18044,6 +18047,7 @@ textilpfleger.ch
 textilpflegeshop.ch
 textilpflegesolothurn.ch
 textilpflegespiez.ch
+textilpflegestar.ch
 textilpflegetechnik.ch
 textilpflegezuerichsee.ch
 textilpflegezuerisee.ch
@@ -18207,7 +18211,6 @@ textlab.ch
 textlabor.ch
 textladen.ch
 textland.ch
-textleister.ch
 textli.ch
 textlich.ch
 textlicher.ch

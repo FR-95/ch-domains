@@ -1273,7 +1273,6 @@ spachtelwerk.ch
 spachtlerei.ch
 spacial.ch
 spacialdrift.ch
-spacialdynamics.ch
 spacialservices.ch
 spacialstudio.ch
 spacieux.ch
@@ -2027,7 +2026,6 @@ spanischsprachschule.ch
 spanischsprachschulebaden.ch
 spanischsprachstudio.ch
 spanischsprechen.ch
-spanischuebersetzung.ch
 spanischunterricht.ch
 spanischwerkstatt.ch
 spanish-biketours.ch
@@ -9489,6 +9487,7 @@ spierings.ch
 spieringskrane.ch
 spierling.ch
 spiermaria.ch
+spiermier.ch
 spiert-avert.ch
 spiertaveta.ch
 spiertaviert.ch
@@ -9974,6 +9973,7 @@ spinangacasino-ch.ch
 spinangacasino.ch
 spinangach.ch
 spinangach1.ch
+spinangaspin.ch
 spinania-casino.ch
 spinania-ch.ch
 spinania-schweiz.ch
@@ -10688,6 +10688,7 @@ spinsy-online.ch
 spinsy.ch
 spinsy1.ch
 spinsy2.ch
+spinsybet.ch
 spinsycasino.ch
 spinsych.ch
 spinsych1.ch
@@ -13204,7 +13205,6 @@ spitexbellevie.ch
 spitexbellinzona.ch
 spitexbemo.ch
 spitexbenevita.ch
-spitexbenevita24.ch
 spitexbeo.ch
 spitexbeoost.ch
 spitexberatung.ch
@@ -15811,6 +15811,7 @@ sportarena.ch
 sportarenaglarnerland.ch
 sportarenaleukerbad.ch
 sportarenamanagement.ch
+sportarenapro.ch
 sportarenawil.ch
 sportart-saas-fee.ch
 sportart.ch
@@ -19200,7 +19201,6 @@ sprachen-weltweit.ch
 sprachen-zuerich.ch
 sprachen-zurich.ch
 sprachen.ch
-sprachen24.ch
 sprachenabo.ch
 sprachenabos.ch
 sprachenakademie.ch
@@ -21117,10 +21117,11 @@ spuerhund.ch
 spuerhunde-engiadina.ch
 spuerhunde-schadorganismus.ch
 spuerhunde-team.ch
+spuerhunde-winterthur.ch
 spuerhunde.ch
 spuerhundearbeit.ch
 spuerhundeteam.ch
-spuerhundservice.ch
+spuerhundewinterthur.ch
 spuernase-voraus.ch
 spuernase.ch
 spuernasen-naturbewegt.ch

@@ -3098,6 +3098,7 @@ smartkamm.ch
 smartkani.ch
 smartkanzlei.ch
 smartkard.ch
+smartkarte.ch
 smartkasse.ch
 smartkat.ch
 smartkatalog.ch
@@ -4567,6 +4568,7 @@ smashmuensingen.ch
 smashnchick.ch
 smashnshake.ch
 smashpadel.ch
+smashplan.ch
 smashplaza.ch
 smashroom.ch
 smashserve.ch
@@ -5572,7 +5574,6 @@ smileback.ch
 smilebackup.ch
 smilebakery.ch
 smileball.ch
-smilebar.ch
 smilebern.ch
 smileblog.ch
 smileblogs.ch
@@ -7005,6 +7006,7 @@ smsadventskalender.ch
 smsag.ch
 smsalerte.ch
 smsandwin.ch
+smsanonym.ch
 smsapi.ch
 smsarl.ch
 smsasa.ch

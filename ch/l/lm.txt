@@ -491,7 +491,6 @@ lmps.ch
 lmpswiss.ch
 lmpt.ch
 lmpxng-artwork.ch
-lmq.ch
 lmqb.ch
 lmr-group.ch
 lmr-klima.ch
@@ -567,6 +566,7 @@ lmsteel.ch
 lmsteelconsulting.ch
 lmsticino.ch
 lmstools.ch
+lmstudiolinux.ch
 lmstyle.ch
 lmsvbs.ch
 lmsvk.ch

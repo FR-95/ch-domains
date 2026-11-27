@@ -733,6 +733,7 @@ skct.ch
 skcv.ch
 skd-wealth.ch
 skd.ch
+skda.ch
 skdcr.ch
 skdeco.ch
 skdev.ch
@@ -1007,6 +1008,7 @@ skf-feuerwerk.ch
 skf-thurnen.ch
 skf-zh.ch
 skf.ch
+skfachprojekte.ch
 skfahrschule.ch
 skfb.ch
 skfbs.ch
@@ -1832,6 +1834,7 @@ skierg.ch
 skierkaufen.ch
 skiers.ch
 skiersedge.ch
+skierserein.ch
 skierx.ch
 skies.ch
 skiesofsiebnen.ch
@@ -5054,6 +5057,7 @@ skwalattack.ch
 skwatt.ch
 skweb.ch
 skwgroup.ch
+skwheel.ch
 skwidnau.ch
 skwines.ch
 skwm.ch
@@ -5425,10 +5429,12 @@ skycrowncasinoch.ch
 skycruise.ch
 skycruises.ch
 skycube.ch
+skycura.ch
 skycycle.ch
 skydach.ch
 skydance-events.ch
 skydance.ch
+skydancer.ch
 skydancers.ch
 skydancing-tantra.ch
 skydancing.ch
@@ -5536,6 +5542,7 @@ skye-tcm.ch
 skye.ch
 skyeagle.ch
 skyecc.ch
+skyehub.ch
 skyeins.ch
 skyejennings.ch
 skyelabs.ch

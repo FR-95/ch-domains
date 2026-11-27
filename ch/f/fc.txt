@@ -393,7 +393,6 @@ fcbcard.ch
 fcbd.ch
 fcbeauregard1934.ch
 fcbeinwilamsee.ch
-fcbeiz-mario.ch
 fcbell.ch
 fcbellach.ch
 fcbellevie.ch
@@ -755,7 +754,6 @@ fcg-swiss.ch
 fcg-switzerland.ch
 fcg-winti.ch
 fcg.ch
-fcga.ch
 fcgaarau.ch
 fcgag.ch
 fcgalatasaray.ch
@@ -1436,6 +1434,7 @@ fcsignal.ch
 fcsins.ch
 fcsion-feminin.ch
 fcsion-online.ch
+fcsion-pour-tous.ch
 fcsion.ch
 fcsion4ever.ch
 fcsionfans.ch

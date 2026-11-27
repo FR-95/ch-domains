@@ -13,7 +13,6 @@ nu-diagnostics.ch
 nu-diekinderzahnaerztinnen.ch
 nu-era.ch
 nu-facilityservice.ch
-nu-legal.ch
 nu-media-comm.ch
 nu-mes.ch
 nu-nussbaum.ch
@@ -645,7 +644,6 @@ nuessli-fahrzeugbau.ch
 nuessli-kran.ch
 nuessli-law.ch
 nuessli-motorsport.ch
-nuessli-radrennsport.ch
 nuessli-radsport.ch
 nuessli.ch
 nuesslidruck.ch
@@ -950,6 +948,7 @@ nuit.ch
 nuit24.ch
 nuitantique.ch
 nuitapprentissage.ch
+nuitauchalet.ch
 nuitblanche-hotel.ch
 nuitblanche.ch
 nuitblancheentertainment.ch
@@ -2895,7 +2894,6 @@ nustestain.ch
 nustg.ch
 nustore.ch
 nusu.ch
-nusufood.ch
 nusuk.ch
 nusun.ch
 nusus.ch

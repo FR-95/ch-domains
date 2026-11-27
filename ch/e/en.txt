@@ -772,6 +772,7 @@ encrypt365.ch
 encrypta.ch
 encrypted-email.ch
 encrypted.ch
+encryptedinference.ch
 encryptedmail.ch
 encrypterra.ch
 encryption.ch
@@ -1507,6 +1508,7 @@ endpointhub.ch
 endpointmanager.ch
 endpoints.ch
 endpointsecurity.ch
+endpointsphere.ch
 endr-it.ch
 endral.ch
 endrana.ch
@@ -3613,7 +3615,6 @@ energiepunkt.ch
 energiepunkte.ch
 energiepunktpraxis.ch
 energiepur.ch
-energiepure.ch
 energiepyramiden.ch
 energiequalite.ch
 energiequartier-hohlen.ch
@@ -5232,6 +5233,7 @@ eneve.ch
 eneventura.ch
 enevi.ch
 enevia.ch
+enevidence.ch
 enevis.ch
 enevista-consulting.ch
 enevista-energy.ch
@@ -6603,7 +6605,6 @@ enginnova.ch
 enginova.ch
 engins-ferroviaires.ch
 enginsight.ch
-enginst.ch
 engint.ch
 enginx.ch
 engion.ch
@@ -8651,6 +8652,7 @@ ensemble-fragrantia.ch
 ensemble-geneve.ch
 ensemble-granges.ch
 ensemble-hathor.ch
+ensemble-helvetica.ch
 ensemble-hosp-cote.ch
 ensemble-ideo.ch
 ensemble-incanto.ch
@@ -9027,7 +9029,6 @@ entdeckebalance.ch
 entdeckebasel.ch
 entdeckedeinestadt.ch
 entdeckedeinestimme.ch
-entdeckedeinzuhause.ch
 entdeckedichneu.ch
 entdeckeirland.ch
 entdeckelandal.ch
@@ -9100,6 +9101,7 @@ entec-biopower.ch
 entec-cloud.ch
 entec-dossantos.ch
 entec-duerler.ch
+entec-energie.ch
 entec-events.ch
 entec-fehr.ch
 entec-filipovic.ch
@@ -11594,6 +11596,7 @@ envital.ch
 envitamed.ch
 envitec.ch
 envitech.ch
+envitrine.ch
 envitta.ch
 envive.ch
 envivid.ch
@@ -11687,7 +11690,9 @@ envrai.ch
 envte.ch
 envtech.ch
 envuassu.ch
+envue-digital.ch
 envue.ch
+envuedigital.ch
 envy.ch
 envyapfel.ch
 envyapple.ch

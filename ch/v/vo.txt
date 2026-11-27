@@ -1525,6 +1525,7 @@ voicebankingproject.ch
 voicebasel.ch
 voiceberry.ch
 voicebit.ch
+voiceboard.ch
 voicebooking.ch
 voicebot.ch
 voicebots.ch
@@ -3153,6 +3154,7 @@ vollaquintus.ch
 vollath.ch
 vollatice.ch
 vollaufdie12.ch
+vollaufdur.ch
 vollausstattung.ch
 vollauszug.ch
 vollautomat.ch
@@ -3678,6 +3680,7 @@ vollmy.ch
 vollneis.ch
 vollneutral.ch
 vollnormal.ch
+vollnote.ch
 vollo.ch
 vollokay.ch
 vollotar.ch
@@ -6864,6 +6867,7 @@ vorhangkids.ch
 vorhangkidz.ch
 vorhangkiste.ch
 vorhangkonfektion.ch
+vorhangkonfigurator.ch
 vorhangladen.ch
 vorhangleute.ch
 vorhangloesungen.ch
@@ -7541,6 +7545,7 @@ vorsorgevergleich24.ch
 vorsorgevergleichen.ch
 vorsorgeversicherung.ch
 vorsorgeversicherungen.ch
+vorsorgeverstanden.ch
 vorsorgevertrag.ch
 vorsorgevivo.ch
 vorsorgevollmacht.ch

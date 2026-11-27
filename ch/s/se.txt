@@ -2157,6 +2157,7 @@ second-parts.ch
 second-peak.ch
 second-play.ch
 second-reign.ch
+second-roll.ch
 second-round.ch
 second-saison.ch
 second-screen.ch
@@ -2262,7 +2263,6 @@ secondfinding.ch
 secondfindings.ch
 secondfinds.ch
 secondfirst.ch
-secondfit.ch
 secondflight.ch
 secondfloor.ch
 secondflow.ch
@@ -2464,6 +2464,7 @@ secondreality.ch
 secondrich.ch
 secondride.ch
 secondritual.ch
+secondroll.ch
 secondround-coaching.ch
 secondround.ch
 secondroundgolf.ch
@@ -8585,6 +8586,8 @@ segeln-zuerichsee-oldtimer.ch
 segeln.ch
 segeln24.ch
 segelnab60.ch
+segelnetz.ch
+segelnetzwerk.ch
 segelngriechenland.ch
 segelnhj.ch
 segelnkaribik.ch
@@ -8843,6 +8846,7 @@ seglerboerse.ch
 seglerbrockenhaus.ch
 seglerbrocki.ch
 seglerladen.ch
+seglernetz.ch
 segli.ch
 seglias-cunter.ch
 seglias-partner.ch
@@ -9218,6 +9222,7 @@ sehtest-gleitsichtbrille.ch
 sehtest-online.ch
 sehtest-schweiz.ch
 sehtest.ch
+sehtestcenter.ch
 sehtestgleitsichtbrille.ch
 sehtestonline.ch
 sehtests.ch
@@ -12910,7 +12915,6 @@ selinas-healings.ch
 selinas-hundewelt.ch
 selinas.ch
 selinasax.ch
-selinasbakery.ch
 selinascalise.ch
 selinaschaerer.ch
 selinaschelbert.ch
@@ -17201,8 +17205,6 @@ sensia.ch
 sensiayurveda.ch
 sensib.ch
 sensibel-frei-sein.ch
-sensibel-hoch-2.ch
-sensibel-hoch-zwei.ch
 sensibel-jaklar.ch
 sensibel-sein.ch
 sensibel-stark.ch
@@ -17623,6 +17625,7 @@ sensoveneer.ch
 sensovital.ch
 sensovr.ch
 sensowell.ch
+senspace.ch
 senspolitique.ch
 sensprimal.ch
 senspropre.ch
@@ -17793,8 +17796,6 @@ sentendre.ch
 sentenhof.ch
 sententia.ch
 sententiae.ch
-sententias.ch
-sententis.ch
 sentenz.ch
 sentenza.ch
 sentenze.ch
@@ -18345,7 +18346,6 @@ seo-cafe.ch
 seo-check.ch
 seo-checker.ch
 seo-coach.ch
-seo-coaching.ch
 seo-connection.ch
 seo-consultancy.ch
 seo-consultant.ch
@@ -19732,7 +19732,6 @@ serdaly-associees.ch
 serdang.ch
 serdar-eser.ch
 serdar.ch
-serdarcoskun.ch
 serdari.ch
 serdaryavuz.ch
 serdem-moebel.ch
@@ -20017,7 +20016,6 @@ serenityfordental.ch
 serenitygrid.ch
 serenityinterior.ch
 serenityjoy.ch
-serenitymemories.ch
 serenityneurocoach.ch
 serenityplan.ch
 serenityplanet.ch
@@ -20492,7 +20490,6 @@ serini-kunst.ch
 serini.ch
 serinia.ch
 serinita.ch
-serinix.ch
 serinle.ch
 serintech.ch
 serinus.ch
@@ -21338,6 +21335,7 @@ server-hub.ch
 server-kaufen.ch
 server-knox.ch
 server-konfigurieren.ch
+server-la-tour.ch
 server-lab.ch
 server-leasing.ch
 server-marktplatz.ch
@@ -21614,13 +21612,11 @@ servfail.ch
 servform.ch
 servge.ch
 servhost.ch
-servi-24.ch
 servi-go.ch
 servi-medical.ch
 servi-swiss.ch
 servi-tec.ch
 servi.ch
-servi24.ch
 servia-immobilien.ch
 servia.ch
 serviaggi.ch
@@ -22756,6 +22752,7 @@ servier-academy.ch
 servier.ch
 servieracademy.ch
 serviererin.ch
+servierfertig.ch
 servierplatte.ch
 servierplatten.ch
 servierring.ch
@@ -23456,6 +23453,7 @@ setbau.ch
 setberry.ch
 setbiz.ch
 setbok.ch
+setbook.ch
 setc.ch
 setcard.ch
 setchat.ch
@@ -24619,6 +24617,7 @@ severinsaegesser.ch
 severinschaer.ch
 severinschefer.ch
 severinscheidegger.ch
+severinschmid.ch
 severinschoenenberger.ch
 severinschuerch.ch
 severinschwander.ch
@@ -25394,6 +25393,7 @@ sexe-model.ch
 sexe-neuchatel.ch
 sexe-rdv.ch
 sexe-shop.ch
+sexe-suisse.ch
 sexe-telephone-rose.ch
 sexe.ch
 sexe4u.ch
@@ -25432,6 +25432,7 @@ sexerencontre.ch
 sexerencontres.ch
 sexerlebnis.ch
 sexero.ch
+sexeromandie.ch
 sexeros.ch
 sexerotisch.ch
 sexes.ch
@@ -25446,6 +25447,7 @@ sexetelephonerose.ch
 sexeuro.ch
 sexeuropa.ch
 sexevalais.ch
+sexevaud.ch
 sexextreme.ch
 sexeyverdon.ch
 sexeyverdonx.ch
@@ -25606,6 +25608,7 @@ sexkontakt.ch
 sexkontakt69.ch
 sexkontaktanzeigen.ch
 sexkontakte-ch.ch
+sexkontakte-guide.ch
 sexkontakte-privat.ch
 sexkontakte-schweiz.ch
 sexkontakte-seitensprung.ch
@@ -25708,6 +25711,7 @@ sexnews1.ch
 sexnews24.ch
 sexnextdoor.ch
 sexnow.ch
+sexnow24.ch
 sexo-genev.ch
 sexo-geneve.ch
 sexo-psy.ch

@@ -1537,7 +1537,6 @@ web-pay.ch
 web-people.ch
 web-perfect.ch
 web-performance.ch
-web-pflege.ch
 web-pilot.ch
 web-plan-f.ch
 web-plan.ch
@@ -2867,6 +2866,7 @@ webdesign-essentials.ch
 webdesign-fabrik.ch
 webdesign-fee.ch
 webdesign-firma.ch
+webdesign-fokus.ch
 webdesign-frauenfeld.ch
 webdesign-freelancer.ch
 webdesign-freiamt.ch
@@ -3292,7 +3292,6 @@ webdx-webagentur.ch
 webdx.ch
 webdy.ch
 webdynamik.ch
-webe-consulting.ch
 webe.ch
 webea.ch
 webearth.ch
@@ -5294,7 +5293,6 @@ webpinnwand.ch
 webpioneer.ch
 webpiranha.ch
 webpirat.ch
-webpix.ch
 webpixel.ch
 webpixels-domain.ch
 webpixels.ch
@@ -5765,6 +5763,7 @@ webseitenerstellen.ch
 webseitenerstellung.ch
 webseitenfabrik.ch
 webseitenfertig.ch
+webseitenfokus.ch
 webseitengestalten.ch
 webseitengestaltung.ch
 webseitenguru.ch
@@ -5774,6 +5773,7 @@ webseitenhilfe.ch
 webseitenhosting.ch
 webseitenkaufen.ch
 webseitenkonfigurator.ch
+webseitenkonzept.ch
 webseitenkurs.ch
 webseitenkurse.ch
 webseitenmacher.ch
@@ -5927,7 +5927,6 @@ webshopkiosk.ch
 webshoplabel.ch
 webshopmail.ch
 webshopmanufaktur.ch
-webshopmarketing.ch
 webshopnanny.ch
 webshopottos.ch
 webshopper.ch
@@ -6692,6 +6691,7 @@ webtouch-digital.ch
 webtouch-gmbh.ch
 webtouch-group.ch
 webtouch-growth.ch
+webtouch-leadgen.ch
 webtouch-leads.ch
 webtouch-neukunden.ch
 webtouch-outbound.ch
@@ -6700,6 +6700,7 @@ webtouch-pipeline.ch
 webtouch-sales.ch
 webtouch-schweiz.ch
 webtouch-solutions.ch
+webtouch-strategie.ch
 webtouch-team.ch
 webtouch-vertrieb.ch
 webtouch-wachstum.ch
@@ -7106,6 +7107,7 @@ wec2011.ch
 weca.ch
 wecab.ch
 wecade.ch
+wecalc.ch
 wecameinpeace.ch
 wecan.ch
 wecanbeheroes.ch
@@ -7956,7 +7958,6 @@ wedidit.ch
 wedify-swizzerland.ch
 wedify.ch
 wedig.ch
-wedima-immobilien.ch
 wedimmo.ch
 wedin.ch
 wedina.ch
@@ -8406,6 +8407,7 @@ weekevent.ch
 weekevents.ch
 weekids.ch
 weekiosk.ch
+weekkitchen.ch
 weekli.ch
 weeklist.ch
 weekly-deal.ch
@@ -8595,7 +8597,6 @@ wefinance-group.ch
 wefinance.ch
 wefinancegroup.ch
 wefindbalance.ch
-wefire.ch
 wefit.ch
 wefitt.ch
 wefix.ch
@@ -9076,8 +9077,10 @@ wegmuellerwintergartenshop.ch
 wegmuller-et-fils.ch
 wegmuller-fils.ch
 wegmuller-sa.ch
+wegmuller-solutions.ch
 wegmuller.ch
 wegmulleretfils.ch
+wegmullersolutions.ch
 wegmut.ch
 wegnachhause.ch
 wegner-partner.ch
@@ -10206,6 +10209,7 @@ weihnachts-wichtel.ch
 weihnachts-wunderland.ch
 weihnachts-wunderwald.ch
 weihnachts-wunderwelt.ch
+weihnachts-zauber.ch
 weihnachts-zeitung.ch
 weihnachts-zirkus.ch
 weihnachtsaktion-oberfreiamt.ch
@@ -11108,6 +11112,7 @@ weinbergerkonzerte.ch
 weinbergers.ch
 weinberggarage.ch
 weinbergglarus.ch
+weinberghealth.ch
 weinbergmeyrin.ch
 weinbergrealestate.ch
 weinbergschnecke.ch
@@ -12123,6 +12128,7 @@ weinschenke-oberland.ch
 weinschenke.ch
 weinschenken.ch
 weinschlau.ch
+weinschmecker.ch
 weinschmiede.ch
 weinschraenke.ch
 weinschrank.ch
@@ -14070,6 +14076,7 @@ well-belle.ch
 well-c.ch
 well-com.ch
 well-come-back.ch
+well-compassana.ch
 well-defined-behavior.ch
 well-do.ch
 well-dog-center.ch
@@ -14269,6 +14276,7 @@ wellcomephysio.ch
 wellcomet.ch
 wellcometrading.ch
 wellcomm.ch
+wellcompassana.ch
 wellcompost.ch
 wellcomsup.ch
 wellcon.ch
@@ -15913,6 +15921,7 @@ weltentreuhand.ch
 weltentspannungstag.ch
 weltenverbinderin.ch
 weltenvermittler.ch
+weltenversum.ch
 weltenwahrheit.ch
 weltenwanderer.ch
 weltenwandler.ch

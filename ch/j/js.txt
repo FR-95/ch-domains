@@ -557,6 +557,7 @@ jsservices.ch
 jssh.ch
 jssi.ch
 jssif.ch
+jsskin-studio.ch
 jsskinstudio.ch
 jssm.ch
 jssmodula.ch

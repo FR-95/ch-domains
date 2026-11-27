@@ -2220,7 +2220,6 @@ swimwear.ch
 swimwear365.ch
 swimwhirlpool.ch
 swimx.ch
-swimy.ch
 swimzerland.ch
 swimzone.ch
 swimzurich.ch
@@ -3896,6 +3895,7 @@ swiss-casings.ch
 swiss-casino-24.ch
 swiss-casino-247.ch
 swiss-casino-bonus.ch
+swiss-casino-ch.ch
 swiss-casino-formation.ch
 swiss-casino-online.ch
 swiss-casino-play.ch
@@ -4281,6 +4281,7 @@ swiss-cook.ch
 swiss-cookie-checker.ch
 swiss-cookies.ch
 swiss-cooling.ch
+swiss-cooperation.ch
 swiss-cop.ch
 swiss-copilot.ch
 swiss-copper.ch
@@ -4747,7 +4748,6 @@ swiss-dixie.ch
 swiss-dj-service.ch
 swiss-dj.ch
 swiss-djs.ch
-swiss-dlt.ch
 swiss-dmarc.ch
 swiss-dmr.ch
 swiss-dna.ch
@@ -5174,7 +5174,6 @@ swiss-expeditions.ch
 swiss-experience.ch
 swiss-experiences.ch
 swiss-experiment.ch
-swiss-expert-drive.ch
 swiss-expert-services.ch
 swiss-expert.ch
 swiss-experten.ch
@@ -8235,6 +8234,7 @@ swiss-rideout-community.ch
 swiss-rider.ch
 swiss-riders.ch
 swiss-rides.ch
+swiss-rifle-team.ch
 swiss-ris.ch
 swiss-risk-and-care.ch
 swiss-risk-care.ch
@@ -13010,6 +13010,7 @@ swisscarbonalphorn.ch
 swisscarboncredits.ch
 swisscarbonfix.ch
 swisscarbroker.ch
+swisscarbrokergiger.ch
 swisscarbure.ch
 swisscarbuy.ch
 swisscarbuyer.ch
@@ -15012,6 +15013,7 @@ swissdeepdiving.ch
 swissdeeptech.ch
 swissdeer.ch
 swissdeers.ch
+swissdefence-expo.ch
 swissdefence.ch
 swissdefend.ch
 swissdefender.ch
@@ -15944,13 +15946,13 @@ swissecure.ch
 swissecurite.ch
 swissecurity-fm.ch
 swissecurity.ch
+swissecuritysa.ch
 swissed-relocation.ch
 swissed.ch
 swissedcol.ch
 swissedel.ch
 swissedelcouvertures.ch
 swissedelmetall.ch
-swissedelmetallhandels.ch
 swissedelweiss.ch
 swissedelweissbygexist.ch
 swisseden.ch
@@ -16906,6 +16908,7 @@ swissfintech.ch
 swissfintechalliance.ch
 swissfintechaward.ch
 swissfintechawards.ch
+swissfintechcorner.ch
 swissfintechday.ch
 swissfintechdirectory.ch
 swissfintechdiversityaward.ch
@@ -17219,6 +17222,7 @@ swissforexmarketplace.ch
 swissforexpats.ch
 swissforge.ch
 swissforge3d.ch
+swissfork.ch
 swissforkids.ch
 swissform-group.ch
 swissform.ch
@@ -17722,6 +17726,7 @@ swissgifts.ch
 swissgiftselection.ch
 swissgiftsgmbh.ch
 swissgiftshop.ch
+swissgiftsociety.ch
 swissgilbert.ch
 swissgin.ch
 swissgingmbh.ch
@@ -20813,7 +20818,6 @@ swisslongevitydoctor.ch
 swisslongevityeducation.ch
 swisslongevitygate.ch
 swisslongevitygroup.ch
-swisslongevityhub.ch
 swisslongevityinstitute.ch
 swisslongevitylab.ch
 swisslongevitylabs.ch
@@ -22265,6 +22269,7 @@ swissmover.ch
 swissmovers.ch
 swissmoves.ch
 swissmoveservices.ch
+swissmovetransfer.ch
 swissmoveumzug.ch
 swissmovie.ch
 swissmoviedatabase.ch
@@ -23831,6 +23836,7 @@ swissphysics.ch
 swissphysio.ch
 swissphysiobalance.ch
 swissphysiobhutan.ch
+swissphysioclinic.ch
 swissphysiogym.ch
 swissphysiomobile.ch
 swissphysiopartner.ch
@@ -24475,7 +24481,6 @@ swissprimesite.ch
 swissprimesolutions.ch
 swissprimetaste.ch
 swissprimetechnik.ch
-swissprimetransfer.ch
 swissprimeurs.ch
 swissprimewatches.ch
 swissprimgourmet.ch
@@ -26983,6 +26988,7 @@ swisstaxlawyers-online.ch
 swisstaxmap.ch
 swisstaxmate.ch
 swisstaxnet.ch
+swisstaxonline.ch
 swisstaxopti.ch
 swisstaxpartner.ch
 swisstaxpartners.ch
@@ -27723,6 +27729,7 @@ swisstransitlab.ch
 swisstranslate.ch
 swisstranslator.ch
 swisstransmedianetwork.ch
+swisstransmissionparts.ch
 swisstransmit.ch
 swisstransparencyregister.ch
 swisstransplant.ch
@@ -28194,7 +28201,6 @@ swissvanguard.ch
 swissvanity.ch
 swissvanlife.ch
 swissvanlifefestival.ch
-swissvanmarket.ch
 swissvanrental.ch
 swissvans.ch
 swissvanteam.ch

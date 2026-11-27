@@ -270,7 +270,6 @@ subax.ch
 subaykan.ch
 subb-bs.ch
 subb.ch
-subber.ch
 subbern.ch
 subblink.ch
 subbotnik.ch
@@ -1685,6 +1684,7 @@ suddl.ch
 sude.ch
 sudeck.ch
 sudel.ch
+sudelbu.ch
 sudellealpi.ch
 sudelnuppe.ch
 sudena.ch
@@ -2151,7 +2151,6 @@ suess-malzig.ch
 suess-partner.ch
 suess-see-nixe.ch
 suess-und-herzhaft.ch
-suess-urech-edv.ch
 suess.ch
 suess24.ch
 suessa.ch
@@ -3851,6 +3850,7 @@ suissedegrenouille.ch
 suissedelice.ch
 suissedem.ch
 suissedemenagement.ch
+suissedemocratie.ch
 suissedentaltech.ch
 suissedepannage.ch
 suissedepoche.ch
@@ -5910,6 +5910,7 @@ summit-advisory.ch
 summit-aesthetics.ch
 summit-ambition.ch
 summit-automotive.ch
+summit-aviation-training.ch
 summit-clinic.ch
 summit-consult.ch
 summit-consulting.ch
@@ -6395,7 +6396,6 @@ sunart.ch
 sunaruarts.ch
 sunasar.ch
 sunasbakefactory.ch
-sunaskincare.ch
 sunastone.ch
 sunatco.ch
 sunathome.ch
@@ -7267,6 +7267,7 @@ sunnegg.ch
 sunnegga-fiesch.ch
 sunnegga-graechen.ch
 sunnegga.ch
+sunnegi-zyte.ch
 sunnegold.ch
 sunnegruess.ch
 sunnegrund.ch
@@ -8881,7 +8882,6 @@ superamus.ch
 superangels.ch
 superanimalwatch.ch
 superanimation.ch
-superanwaelte.ch
 superanziana.ch
 superanziani.ch
 superanziano.ch
@@ -9246,7 +9246,6 @@ superdonut.ch
 superdoor.ch
 superdot.ch
 superdots.ch
-superdoze.ch
 superdraft.ch
 superdraftstudio.ch
 superdragoes.ch
@@ -12140,6 +12139,7 @@ surjanbuess.ch
 surkal.ch
 surl.ch
 surlabonnevoie.ch
+surlacarte.ch
 surlacia.ch
 surlacluse.ch
 surlacomete.ch
@@ -13494,8 +13494,10 @@ sushi-kaiser.ch
 sushi-kaiten-vevey.ch
 sushi-king.ch
 sushi-ko.ch
+sushi-koch.ch
 sushi-kurier-aarau.ch
 sushi-kurier.ch
+sushi-kurse.ch
 sushi-lab.ch
 sushi-lausanne.ch
 sushi-locarno.ch

@@ -1102,7 +1102,6 @@ sgmail.ch
 sgmailgate.ch
 sgmaintenance.ch
 sgmakeup.ch
-sgmalerei.ch
 sgmanagement.ch
 sgmann.ch
 sgmarathon.ch
@@ -1264,6 +1263,7 @@ sgp-sa.ch
 sgp.ch
 sgpa.ch
 sgparch.ch
+sgparfum.ch
 sgpartner.ch
 sgpartners.ch
 sgpath.ch

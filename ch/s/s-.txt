@@ -278,6 +278,7 @@ s-event.ch
 s-ex-l.ch
 s-ex2.ch
 s-experience.ch
+s-explizit.ch
 s-f-agentur-ltd.ch
 s-f-automation.ch
 s-f-b.ch
@@ -671,6 +672,7 @@ s-puls.ch
 s-punkt.ch
 s-py-intel.ch
 s-q.ch
+s-qms-solutions.ch
 s-quadrat.ch
 s-quads.ch
 s-qv.ch
@@ -855,7 +857,6 @@ s-v-c.ch
 s-v-e-n.ch
 s-v-h.ch
 s-v-o.ch
-s-v-s.ch
 s-v.ch
 s-va.ch
 s-value.ch

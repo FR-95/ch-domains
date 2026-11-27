@@ -1855,6 +1855,7 @@ tsv-jugend.ch
 tsv-kerns.ch
 tsv-lenk.ch
 tsv-notfallbetrieb.ch
+tsv-obersimmental.ch
 tsv-oetwil.ch
 tsv-reigoldswil.ch
 tsv-riesbach.ch

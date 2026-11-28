@@ -945,6 +945,7 @@ gebindereinigung.ch
 gebinfbat91.ch
 gebiom.ch
 gebirge.ch
+gebirgli.ch
 gebirgsbau.ch
 gebirgsbaustelle.ch
 gebirgsbaustellen.ch
@@ -5019,6 +5020,7 @@ geldschwein.ch
 geldsegen.ch
 geldseminare.ch
 geldsicherheit.ch
+geldskills.ch
 geldsmart.ch
 geldsorgen.ch
 geldsparen.ch
@@ -5472,6 +5474,7 @@ gem.ch
 gem2025.ch
 gem360.ch
 gem55ans.ch
+gem88.ch
 gema-ag.ch
 gema-basel.ch
 gema-connect.ch
@@ -9502,6 +9505,7 @@ geneve-psycho.ch
 geneve-psychologue.ch
 geneve-qual.ch
 geneve-rando.ch
+geneve-ravens.ch
 geneve-rd-united.ch
 geneve-realestate.ch
 geneve-realistictattoo.ch
@@ -9912,6 +9916,7 @@ genevievemorin.ch
 genevieveperraudin-psychologue.ch
 genevieveromang.ch
 genevieveseydoux.ch
+genevio.ch
 genevoir.ch
 genevois-digital.ch
 genevois-finance.ch
@@ -14510,7 +14515,6 @@ gerbermichael.ch
 gerbermichi.ch
 gerbermode.ch
 gerbermoebel.ch
-gerbermulden.ch
 gerbern.ch
 gerbernet.ch
 gerbernoir.ch
@@ -19101,6 +19105,7 @@ gesundheitsbehandlungen.ch
 gesundheitsberater.ch
 gesundheitsberaterin.ch
 gesundheitsberatung-basel.ch
+gesundheitsberatung-bgm-swiss.ch
 gesundheitsberatung-linda.ch
 gesundheitsberatung-plozza.ch
 gesundheitsberatung.ch
@@ -19190,7 +19195,6 @@ gesundheitsexpo.ch
 gesundheitsfachleute.ch
 gesundheitsfachtag.ch
 gesundheitsfactory.ch
-gesundheitsfamilie.ch
 gesundheitsfasten.ch
 gesundheitsfibel.ch
 gesundheitsfinder.ch
@@ -19449,6 +19453,7 @@ gesundheitspraxis-beagoetsch.ch
 gesundheitspraxis-beatrice.ch
 gesundheitspraxis-belp.ch
 gesundheitspraxis-bern.ch
+gesundheitspraxis-bgm-swiss.ch
 gesundheitspraxis-biezwil.ch
 gesundheitspraxis-bigler.ch
 gesundheitspraxis-binz.ch
@@ -20076,7 +20081,6 @@ gesundsein-mit-navita.ch
 gesundsicher.ch
 gesundsitzen.ch
 gesundso.ch
-gesundsparen.ch
 gesundstattrund.ch
 gesundtanken.ch
 gesundtechnik.ch
@@ -21570,6 +21574,7 @@ getsolodesk.ch
 getsolutions.ch
 getsorted.ch
 getsosh.ch
+getsow.ch
 getspace.ch
 getspeed.ch
 getspets.ch
@@ -21761,6 +21766,7 @@ getupnow.ch
 getupnutrition.ch
 getupphysio.ch
 geturact.ch
+geturbanist.ch
 geturehetobel.ch
 geturgadget.ch
 geturguide.ch
@@ -22140,7 +22146,6 @@ gewaltfreie-kommunikation-unternehmen.ch
 gewaltfreie-schweiz.ch
 gewaltfreieerziehung.ch
 gewaltfreiekommunikation-luzern.ch
-gewaltfreiekommunikation-schweiz.ch
 gewaltfreiekommunikation.ch
 gewaltfreies-hundetraining.ch
 gewaltfreies-pferdetraining.ch
@@ -22244,7 +22249,6 @@ gewerbe-aubrugg.ch
 gewerbe-auskunft-register.ch
 gewerbe-auskunft.ch
 gewerbe-auskunftregister.ch
-gewerbe-auskunfts-register.ch
 gewerbe-auskunftsregister.ch
 gewerbe-ausstellung.ch
 gewerbe-baar.ch
@@ -23438,7 +23442,6 @@ gexs.ch
 gexsa.ch
 gexsol.ch
 gextex.ch
-gextile.ch
 gextk.ch
 gexx.ch
 gexxco.ch

@@ -250,6 +250,7 @@ fechtevents.ch
 fechtgesellschaft.ch
 fechtgesellschaftbasel.ch
 fechtig.ch
+fechtigcoaching.ch
 fechtkameraden.ch
 fechtklubfrauenfeld.ch
 fechtkunst.ch
@@ -267,6 +268,7 @@ fechyenfete.ch
 fechygrandcru.ch
 fechyweine.ch
 fechywine.ch
+feci.ch
 feck.ch
 fecke.ch
 feckerchilbi.ch
@@ -3953,7 +3955,6 @@ felixcloud.ch
 felixconsulting.ch
 felixcrazzolara.ch
 felixderfliegendekoch.ch
-felixdesignstudio.ch
 felixdiener.ch
 felixdieri.ch
 felixdistribution.ch
@@ -3992,7 +3993,6 @@ felixgerber.ch
 felixgermann.ch
 felixgisler.ch
 felixgood.ch
-felixgraf.ch
 felixgrundhoefer.ch
 felixgutzwiller.ch
 felixhaas.ch
@@ -5268,6 +5268,7 @@ femmes-ukrainiennes.ch
 femmes.ch
 femmesabord.ch
 femmesauvagedoula.ch
+femmesdalliance.ch
 femmesdanslarmee.ch
 femmesdegeneve.ch
 femmesdimpact.ch
@@ -5947,7 +5948,6 @@ fennostitch.ch
 fennotex.ch
 fennova.ch
 fennster-48.ch
-fennu.ch
 feno-alpen.ch
 feno-baureinigung.ch
 feno-juwelier.ch
@@ -7716,6 +7716,7 @@ ferienhaus-am-greyerzersee.ch
 ferienhaus-am-lago-maggiore.ch
 ferienhaus-am-meer.ch
 ferienhaus-am-see.ch
+ferienhaus-am-werribach.ch
 ferienhaus-ammeer.ch
 ferienhaus-andermatt.ch
 ferienhaus-anemone.ch
@@ -8320,6 +8321,7 @@ ferienpass-landquart.ch
 ferienpass-laufental-thierstein.ch
 ferienpass-leimental.ch
 ferienpass-lyss.ch
+ferienpass-maerstetten.ch
 ferienpass-matzendorf.ch
 ferienpass-matzingen.ch
 ferienpass-menznau.ch
@@ -11477,6 +11479,7 @@ festival-eclats.ch
 festival-education.ch
 festival-equinoxe.ch
 festival-far.ch
+festival-fuer-sinnfragen.ch
 festival-geneve.ch
 festival-graap.ch
 festival-graviere.ch
@@ -11659,6 +11662,7 @@ festivalfinder.ch
 festivalformation.ch
 festivalformazione.ch
 festivalforum.ch
+festivalfuersinnfragen.ch
 festivalgospelromand.ch
 festivalgospelsuisse.ch
 festivalgospelsvizzero.ch
@@ -11911,6 +11915,7 @@ festreden.ch
 festrednerin.ch
 festreinigung.ch
 festrendwald.ch
+festsaal-luzern.ch
 festsaal-mieten.ch
 festsaal.ch
 festsaalbasel.ch

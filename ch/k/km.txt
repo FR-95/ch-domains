@@ -660,6 +660,7 @@ kmu-expert.ch
 kmu-experten.ch
 kmu-fachforum.ch
 kmu-fachtagung.ch
+kmu-facility.ch
 kmu-factoring.ch
 kmu-factory.ch
 kmu-faktor.ch
@@ -857,6 +858,7 @@ kmu-messe.ch
 kmu-mittelland-nord.ch
 kmu-modell.ch
 kmu-modernwork.ch
+kmu-montage.ch
 kmu-muenchenbuchsee.ch
 kmu-muenchenstein.ch
 kmu-muttenz.ch
@@ -1353,6 +1355,7 @@ kmufuture.ch
 kmufuturo.ch
 kmugastro.ch
 kmugate.ch
+kmugeschenk.ch
 kmugewerbe.ch
 kmugewerbedietikon.ch
 kmugo.ch
@@ -1687,9 +1690,7 @@ kmuverband-it.ch
 kmuverband.ch
 kmuverein.ch
 kmuvergleich.ch
-kmuvergleich24.ch
 kmuvergleiche.ch
-kmuvergleichschweiz.ch
 kmuverkauf.ch
 kmuverkaufen.ch
 kmuverlag.ch

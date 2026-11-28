@@ -146,6 +146,7 @@ sfa-dock.ch
 sfa-environment.ch
 sfa-environnement.ch
 sfa-facility.ch
+sfa-film.ch
 sfa-gadplus.ch
 sfa-info.ch
 sfa-ispa.ch
@@ -569,6 +570,7 @@ sfidafracomunicoop.ch
 sfide.ch
 sfidp.ch
 sfig.ch
+sfigroup.ch
 sfihealth.ch
 sfil.ch
 sfilate.ch

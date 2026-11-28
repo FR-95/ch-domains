@@ -655,6 +655,7 @@ mdplatform.ch
 mdplbl.ch
 mdpm.ch
 mdpmail.ch
+mdpmeccanica.ch
 mdpmeili.ch
 mdpnd.ch
 mdpp.ch

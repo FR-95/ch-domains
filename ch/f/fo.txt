@@ -53,6 +53,7 @@ fo1.ch
 fo2.ch
 fo20sa.ch
 fo3780.ch
+fo88.ch
 fo95.ch
 foa-academy.ch
 foa-institut.ch
@@ -241,6 +242,7 @@ focu.ch
 focubreil.ch
 focum.ch
 focus-3d.ch
+focus-61.ch
 focus-adhd-go.ch
 focus-advisory.ch
 focus-agency.ch
@@ -377,6 +379,7 @@ focus4pattes.ch
 focus4you.ch
 focus50plus.ch
 focus55.ch
+focus61.ch
 focus8.ch
 focus9.ch
 focus90.ch
@@ -617,6 +620,7 @@ focussniff.ch
 focussolar.ch
 focussport.ch
 focusstacking.ch
+focusstart.ch
 focussupport.ch
 focussustainability.ch
 focusswiss.ch
@@ -1752,6 +1756,7 @@ fokussiert-sein.ch
 fokussiert.ch
 fokussierung.ch
 fokusspitex.ch
+fokusstart.ch
 fokustag.ch
 fokustalent.ch
 fokustalents.ch
@@ -2907,6 +2912,7 @@ fondation-planque.ch
 fondation-plaza.ch
 fondation-plg.ch
 fondation-pme.ch
+fondation-porphyrogenis.ch
 fondation-porteous.ch
 fondation-pour-le-diabete.ch
 fondation-pralong.ch
@@ -3739,6 +3745,7 @@ fondazionedietlerkottmann.ch
 fondazionedimitri.ch
 fondazionedinvestimento-swisslife.ch
 fondazionedirittiumani.ch
+fondazionedonati.ch
 fondazionedottcamozzi.ch
 fondazioneenergia.ch
 fondazioneepper.ch
@@ -4251,6 +4258,7 @@ fonduebar.ch
 fonduebaracca.ch
 fonduebaracke.ch
 fonduebarake.ch
+fonduebars.ch
 fonduebeizli-chur.ch
 fonduebeizli.ch
 fonduebeizlichur.ch
@@ -9341,6 +9349,7 @@ forme-deine-zukunft-bern.ch
 forme-deine-zukunft-zuerich.ch
 forme-deine-zukunft.ch
 forme-et-fonction.ch
+forme-kleiderstangen.ch
 forme-mattenhof.ch
 forme-nrg.ch
 forme-studio.ch
@@ -9852,6 +9861,7 @@ formundfaser.ch
 formundfunktion.ch
 formundinhalt.ch
 formundraum.ch
+formundsatz.ch
 formundschliff.ch
 formundstein.ch
 formundstil.ch
@@ -11189,6 +11199,7 @@ fortuna-cleaning.ch
 fortuna-delikatessen.ch
 fortuna-diepoldsau.ch
 fortuna-fire.ch
+fortuna-fit.ch
 fortuna-fortune.ch
 fortuna-frauenfeld.ch
 fortuna-freiamt.ch
@@ -13049,6 +13060,7 @@ foto24.ch
 foto2art.ch
 foto2ja.ch
 foto2share.ch
+foto2site.ch
 foto360.ch
 foto42.ch
 foto43.ch
@@ -15600,6 +15612,7 @@ fourcompetence.ch
 fourconception.ch
 fourconnect.ch
 fourcorners.ch
+fourcount.ch
 fourdebottens.ch
 fourdeladde.ch
 fourdelanoblecontree.ch

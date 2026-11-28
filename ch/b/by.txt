@@ -66,7 +66,6 @@ by-nights.ch
 by-niz.ch
 by-oma.ch
 by-paa.ch
-by-pass.ch
 by-ra.ch
 by-raf.ch
 by-raph.ch
@@ -107,6 +106,7 @@ byaannasu.ch
 byabbt.ch
 byaccident.ch
 byaction.ch
+byacy.ch
 byadi.ch
 byadushka.ch
 byai.ch
@@ -707,7 +707,6 @@ bylr-consult.ch
 bylr.ch
 byls.ch
 bylsavia.ch
-bylse.ch
 bylt.ch
 bylu.ch
 bylucijana.ch
@@ -928,6 +927,7 @@ bypauline.ch
 bype.ch
 byphar.ch
 byphil.ch
+byphilipe.ch
 bypierofracasso.ch
 bypippo.ch
 bypitteam.ch
@@ -1087,6 +1087,7 @@ bytada.ch
 bytamara.ch
 bytamic.ch
 bytaschi.ch
+bytb.ch
 bytcoin.ch
 bytconsultores.ch
 byte-atelier.ch
@@ -1325,7 +1326,6 @@ bytheglass.ch
 bythelake-locarno.ch
 bythelake.ch
 bytheway.ch
-bythewaycar.ch
 bythewaycommunications.ch
 bythewaystudio.ch
 bythomas.ch

@@ -561,7 +561,6 @@ ch-suchportal.ch
 ch-suisse.ch
 ch-survey.ch
 ch-svizzera.ch
-ch-sweetbonanza.ch
 ch-swhis.ch
 ch-swiss-singers.ch
 ch-swiss-werbung.ch
@@ -776,7 +775,6 @@ chabaa.ch
 chababeauty.ch
 chabaco.ch
 chabad.ch
-chabada-video.ch
 chabada-vintage.ch
 chabada.ch
 chabadabada.ch
@@ -1021,6 +1019,7 @@ chadore.ch
 chadpittet.ch
 chadsidler.ch
 chadvisors.ch
+chadvisory.ch
 chadvocaat.ch
 chae.ch
 chaeaeswelt.ch
@@ -3355,6 +3354,7 @@ chalon.ch
 chalou.ch
 chalouag.ch
 chalouhi.ch
+chaloupe.ch
 chaloupeavapeur.ch
 chaloupka.ch
 chalt.ch
@@ -5178,7 +5178,6 @@ chaosgrid.ch
 chaosheroes.ch
 chaosimbuero.ch
 chaosinitiative-nein.ch
-chaosinitiative.ch
 chaoskampf.ch
 chaosknaller.ch
 chaosmedia.ch
@@ -5634,7 +5633,6 @@ chardo.ch
 chardomail.ch
 chardon-bleu.ch
 chardon-energie.ch
-chardon-metal.ch
 chardon-sa.ch
 chardon.ch
 chardon1936.ch
@@ -6889,6 +6887,7 @@ charx.ch
 charybdis.ch
 charybirs.ch
 charytrade.ch
+charz.ch
 chas.ch
 chasa-5-scuol.ch
 chasa-adriana.ch
@@ -7668,7 +7667,6 @@ chateauguetsch.ch
 chateaugutsch.ch
 chateaugypaete.ch
 chateauhabsburg.ch
-chateaujulia.ch
 chateaukefraya.ch
 chateauksara.ch
 chateaulafite.ch
@@ -8271,7 +8269,6 @@ chauffageclimatisation.ch
 chauffageco.ch
 chauffagecompris.ch
 chauffageeco.ch
-chauffageelectrique.ch
 chauffageenligne.ch
 chauffagegeneve.ch
 chauffageinfrarouge.ch
@@ -9359,6 +9356,7 @@ checkout-toggenburg.ch
 checkout.ch
 checkoutbyvisa.ch
 checkoutcharlie.ch
+checkoutflow.ch
 checkoutlab.ch
 checkouts.ch
 checkoutswitzerland.ch
@@ -9994,6 +9992,7 @@ chefshop.ch
 chefskin.ch
 chefskitchen.ch
 chefsline.ch
+chefsolu.ch
 chefsolutions.ch
 chefsonfire.ch
 chefsonthemountain.ch
@@ -10067,7 +10066,6 @@ cheiry24.ch
 cheisacher-turm.ch
 cheisacher.ch
 cheisacherturm.ch
-cheitaliano.ch
 chejacot.ch
 chek-media.ch
 chek.ch
@@ -12297,6 +12295,7 @@ chezjimmy.ch
 chezjo.ch
 chezjocelyne.ch
 chezjohnson.ch
+chezjohntheroadhouse.ch
 chezjohny.ch
 chezjules.ch
 chezjuliechandolin.ch
@@ -13328,7 +13327,6 @@ chickenair.ch
 chickenandbeer.ch
 chickenbed.ch
 chickenbot.ch
-chickenbox.ch
 chickenburger.ch
 chickencabalgames.ch
 chickenchaotikum.ch
@@ -14461,6 +14459,7 @@ chillisaucen.ch
 chilliscooter.ch
 chilliscooters.ch
 chillisport.ch
+chillistorage.ch
 chillistore.ch
 chillisy.ch
 chillit.ch
@@ -17890,6 +17889,7 @@ choerli-theresia.ch
 choerli-thierachern.ch
 choerli-zollikofen.ch
 choerli.ch
+choerlimelody.ch
 choermann.ch
 choesang.ch
 choeschu.ch
@@ -18174,6 +18174,7 @@ choix-sain.ch
 choix-vaccinal.ch
 choix.ch
 choixdestage.ch
+choixmalin.ch
 choixnet.ch
 choixpourlefutur.ch
 choixprofessionnel.ch
@@ -19302,7 +19303,6 @@ chreiselmetzg.ch
 chreisfoif.ch
 chreisfoiffestival.ch
 chreisgnuss.ch
-chreishonig.ch
 chreislauf-moebel.ch
 chreislauf.ch
 chreislaufmoebel.ch
@@ -21255,6 +21255,7 @@ christianpuaux.ch
 christianpublicaffairs.ch
 christianraboud.ch
 christianrappaz.ch
+christianrathgeb.ch
 christianreich.ch
 christianreichen.ch
 christianreichenba.ch
@@ -22637,6 +22638,7 @@ christophaebersold.ch
 christophaebi.ch
 christophaeschlimann.ch
 christophaltermatt.ch
+christophammann.ch
 christophamrein.ch
 christophamrhein.ch
 christophamueller.ch
@@ -23719,7 +23721,6 @@ chronomaster.ch
 chronomat.ch
 chronomate.ch
 chronome.ch
-chronomechan.ch
 chronometer-engineering.ch
 chronometer-sa.ch
 chronometer.ch
@@ -24646,6 +24647,7 @@ chummit.ch
 chummiwein.ch
 chummjetzt.ch
 chummlig.ch
+chummmerzhilf.ch
 chummmit.ch
 chummsitz.ch
 chummu.ch

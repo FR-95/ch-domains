@@ -436,6 +436,7 @@ wealtharchitects.ch
 wealtharchitecture.ch
 wealthbeing.ch
 wealthberry.ch
+wealthbot.ch
 wealthbrokermanagement.ch
 wealthbuilder.ch
 wealthcap.ch
@@ -482,6 +483,7 @@ wealthior-group.ch
 wealthior.ch
 wealthiortravel.ch
 wealthit.ch
+wealthium.ch
 wealthjourney.ch
 wealthjuxtapidbit.ch
 wealthjuxtapidbitai.ch
@@ -591,6 +593,7 @@ weaponry.ch
 weapons.ch
 weaponx.ch
 weapptec.ch
+weaqency.ch
 wear-art.ch
 wear-iqoniq.ch
 wear-it.ch
@@ -1938,6 +1941,7 @@ web4shop.ch
 web4solution.ch
 web4swiss.ch
 web4tec.ch
+web4ticino.ch
 web4u.ch
 web4win.ch
 web4work.ch
@@ -2658,6 +2662,7 @@ webcodeur.ch
 webcoding.ch
 webcogroup.ch
 webcoi.ch
+webcoiffure.ch
 webcoin.ch
 webcoins.ch
 webcollection.ch
@@ -4153,6 +4158,7 @@ webfriend.ch
 webfriends.ch
 webfrisch.ch
 webfrischi.ch
+webfriseur.ch
 webfritz.ch
 webfront.ch
 webfrosch.ch
@@ -4308,6 +4314,7 @@ webholding.ch
 webholidays.ch
 webholist.ch
 webholter.ch
+webhome.ch
 webhook-tester.ch
 webhook.ch
 webhora.ch
@@ -4681,6 +4688,7 @@ webkunst.ch
 webkurs.ch
 webkurse-liebegg.ch
 webl.ch
+webla.ch
 weblab.ch
 weblabagency.ch
 weblabdesign.ch
@@ -6163,6 +6171,7 @@ websitechatbot.ch
 websitecheck.ch
 websitecoa.ch
 websitecockpit.ch
+websitecoiffure.ch
 websitecompany.ch
 websiteconfigurator.ch
 websitecreation.ch
@@ -6688,12 +6697,14 @@ webtouch-akquise.ch
 webtouch-beratung.ch
 webtouch-consulting.ch
 webtouch-digital.ch
+webtouch-experts.ch
 webtouch-gmbh.ch
 webtouch-group.ch
 webtouch-growth.ch
 webtouch-leadgen.ch
 webtouch-leads.ch
 webtouch-neukunden.ch
+webtouch-online.ch
 webtouch-outbound.ch
 webtouch-partner.ch
 webtouch-pipeline.ch
@@ -6701,6 +6712,7 @@ webtouch-sales.ch
 webtouch-schweiz.ch
 webtouch-solutions.ch
 webtouch-strategie.ch
+webtouch-swiss.ch
 webtouch-team.ch
 webtouch-vertrieb.ch
 webtouch-wachstum.ch
@@ -7144,7 +7156,6 @@ wecareabout.ch
 wecarecure.ch
 wecareforcare.ch
 wecareforeveryheartbeat.ch
-wecareforyou.ch
 wecareforyoursmile.ch
 wecaregroup.ch
 wecarelive.ch
@@ -10501,7 +10512,6 @@ weihnachtsspende.ch
 weihnachtsspiel-gelterkinden.ch
 weihnachtsspiel.ch
 weihnachtsspiele-luchsingen.ch
-weihnachtsspiele.ch
 weihnachtsstadt.ch
 weihnachtssterne.ch
 weihnachtsstollen.ch
@@ -12237,6 +12247,7 @@ weinthur.ch
 weintipp.ch
 weintipps.ch
 weintorkel.ch
+weintour.ch
 weintouren.ch
 weintourismus.ch
 weintracker.ch
@@ -16310,7 +16321,6 @@ weltweitwandern.ch
 weltweitweg.ch
 weltweitwir.ch
 weltwetter.ch
-weltwinkel.ch
 weltwissen.ch
 weltwoche-check.ch
 weltwoche-daily.ch
@@ -16474,7 +16484,6 @@ wemica.ch
 wemida.ch
 wemiga.ch
 wemind.ch
-wemis.ch
 wemissedyoutoo.ch
 wemissyou.ch
 wemitec.ch
@@ -16638,6 +16647,7 @@ wendepunkt-schweiz.ch
 wendepunkt-stans.ch
 wendepunkt-therapie.ch
 wendepunkt-trauer.ch
+wendepunkt-wegbegleitung.ch
 wendepunkt-wohnen.ch
 wendepunkt.ch
 wendepunkte.ch

@@ -1615,7 +1615,6 @@ agenda-ollon.ch
 agenda-popolare-ticinese.ch
 agenda-priority.ch
 agenda-pro.ch
-agenda-pros.ch
 agenda-quaresimale.ch
 agenda-ra.ch
 agenda-riviera.ch
@@ -3431,6 +3430,7 @@ agios-gerassimos.ch
 agios.ch
 agiosa.ch
 agiosdimitrios.ch
+agioskolos.ch
 agiospharmaceuticals.ch
 agip.ch
 agip900.ch
@@ -4786,6 +4786,7 @@ agriedilticino.ch
 agriemotion.ch
 agrienergy.ch
 agriengiadina.ch
+agriequestre.ch
 agriesperienze.ch
 agrieuro.ch
 agrievents.ch
@@ -5746,7 +5747,6 @@ agservice.ch
 agservices.ch
 agsg.ch
 agsinternational.ch
-agsit.ch
 agsium.ch
 agskz.ch
 agsl.ch

@@ -682,7 +682,6 @@ spa-weekend.ch
 spa-wellness-hotel.ch
 spa-wellness.ch
 spa-wellnessconcept.ch
-spa-wellpass.ch
 spa-wettingen.ch
 spa-whirlpool-reparatur.ch
 spa-whirlpool.ch
@@ -796,6 +795,7 @@ space-first.ch
 space-fit.ch
 space-flex.ch
 space-for-inclusion.ch
+space-for-practice.ch
 space-for-solutions.ch
 space-frog.ch
 space-garden.ch
@@ -2332,7 +2332,6 @@ sparenbeidensteuern.ch
 sparenbeimlicht.ch
 sparenberg.ch
 sparenegg.ch
-sparenfamily.ch
 sparengel.ch
 sparenhafen.ch
 sparenkrankenkasse.ch
@@ -4246,6 +4245,7 @@ specialolympicsturin2025.ch
 specialone.ch
 specialpage.ch
 specialpaws.ch
+specialpieces.ch
 specialplace.ch
 specialprojects.ch
 specialprotect.ch
@@ -5538,7 +5538,6 @@ speise-restaurant.ch
 speise-wagen.ch
 speise-weinkarten.ch
 speise.ch
-speiseatlas.ch
 speiseblumen.ch
 speiseeis-maschinen.ch
 speiseeis.ch
@@ -6429,7 +6428,6 @@ spexfactory.ch
 spexfestival.ch
 spexfittery.ch
 spexhosting.ch
-spexis.ch
 spexpert.ch
 spexs.ch
 spexter.ch
@@ -8409,6 +8407,7 @@ spielgruppe-sg.ch
 spielgruppe-simba.ch
 spielgruppe-simsalabim.ch
 spielgruppe-solea.ch
+spielgruppe-sonnegg.ch
 spielgruppe-sonnenberg.ch
 spielgruppe-sonnenblume.ch
 spielgruppe-sonnenstrahlen.ch
@@ -9226,6 +9225,7 @@ spielstube.ch
 spielstunde.ch
 spielsucht-beratung.ch
 spielsucht-radix.ch
+spielsucht-stopp.ch
 spielsucht.ch
 spielsuchtberatung-schweiz.ch
 spielsuchtberatung.ch
@@ -10309,6 +10309,7 @@ spinimaxplay.ch
 spinimaxx.ch
 spinimmo.ch
 spininio-ch.ch
+spininio.ch
 spininio1.ch
 spininio777.ch
 spininiocasino.ch
@@ -13205,6 +13206,7 @@ spitexbellevie.ch
 spitexbellinzona.ch
 spitexbemo.ch
 spitexbenevita.ch
+spitexbenevita24.ch
 spitexbeo.ch
 spitexbeoost.ch
 spitexberatung.ch
@@ -13824,6 +13826,7 @@ spitexzuhause.ch
 spitexzulg.ch
 spitexzumikon.ch
 spitexzurhand.ch
+spitexzuri.ch
 spitexzurich-west.ch
 spitexzurich.ch
 spitexzurichsee.ch
@@ -15466,6 +15469,7 @@ sport-rental.ch
 sport-resort.ch
 sport-responsable.ch
 sport-riegel.ch
+sport-run.ch
 sport-saas.ch
 sport-sagt-ja.ch
 sport-sale.ch
@@ -18467,7 +18471,6 @@ sportvital.ch
 sportvoisin.ch
 sportvs.ch
 sportvz.ch
-sportwachter.ch
 sportwaeg.ch
 sportwaer.ch
 sportwaerts.ch
@@ -19306,6 +19309,7 @@ sprachinstitut.ch
 sprachinstitute.ch
 sprachjahr.ch
 sprachkanal.ch
+sprachkasten.ch
 sprachkind.ch
 sprachkinder.ch
 sprachkiosk.ch
@@ -20014,7 +20018,6 @@ sprgsa.ch
 spri.ch
 spri01.ch
 spriano.ch
-spribe.ch
 spricar.ch
 sprice.ch
 sprich-dich-aus.ch
@@ -21251,6 +21254,7 @@ spurenimsand.ch
 spurenimschnee.ch
 spurenkreis.ch
 spurenmalen.ch
+spurenpost.ch
 spurensicherung-forensik.ch
 spurensicherung.ch
 spurenstoffe.ch

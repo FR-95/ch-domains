@@ -66,6 +66,7 @@ ex-staatsanwaelte.ch
 ex-stercore.ch
 ex-tastatur.ch
 ex-tastaturen.ch
+ex-tattoo.ch
 ex-team.ch
 ex-tempore.ch
 ex-tra.ch
@@ -2732,7 +2733,6 @@ expatsinswitzerland.ch
 expatsinticino.ch
 expatslaw.ch
 expatsolutions.ch
-expatspace.ch
 expatspsychologist.ch
 expatspsychologists.ch
 expatsswiss.ch
@@ -4007,6 +4007,7 @@ explainables.ch
 explainer.ch
 explainervideo.ch
 explainervideos.ch
+explainia.ch
 explainify.ch
 explainingnurse.ch
 explainit.ch
@@ -4316,6 +4317,7 @@ exploria.ch
 exploriaclub.ch
 explorial.ch
 exploridays.ch
+exploriffs.ch
 explorify.ch
 explorimmo.ch
 exploring-art.ch

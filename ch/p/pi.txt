@@ -817,7 +817,6 @@ piasherzwerk.ch
 piasini.ch
 piasio.ch
 piasko.ch
-piasky.ch
 piasnailstudio.ch
 piasonderegger.ch
 piasophie.ch
@@ -5220,6 +5219,7 @@ pilotio.ch
 pilotis.ch
 pilotisprojets.ch
 pilotjob.ch
+pilotlab.ch
 pilotline.ch
 pilotlogbook.ch
 pilotly.ch
@@ -6685,7 +6685,6 @@ pinkmeloon-bydesalmada.ch
 pinkmeloon.ch
 pinkmentes.ch
 pinkmilanimaging.ch
-pinkmind.ch
 pinkminds.ch
 pinkmobile.ch
 pinkmodels.ch
@@ -7130,6 +7129,7 @@ pinson.ch
 pinsonresident.ch
 pinsource.ch
 pinsplit.ch
+pinsport.ch
 pinsportapp.ch
 pinssaut.ch
 pinstaebchen.ch
@@ -10666,7 +10666,6 @@ pixxodus.ch
 pixxpower.ch
 pixxproject.ch
 pixxudio.ch
-pixxx-studio.ch
 pixxx.ch
 pixxxx-studio.ch
 pixy.ch
@@ -11086,6 +11085,7 @@ pizza-kalo.ch
 pizza-kappelen.ch
 pizza-karton.ch
 pizza-kebab-du-maupas-lausanne.ch
+pizza-kebab-haus-huttwil.ch
 pizza-kebab-haus.ch
 pizza-kebab-house.ch
 pizza-kebab-maupas.ch
@@ -11847,6 +11847,7 @@ pizzaladolce.ch
 pizzalamamma.ch
 pizzaland.ch
 pizzaland10.ch
+pizzalangenbruckbaron.ch
 pizzalapalma.ch
 pizzalapiazza.ch
 pizzalapiazzalocarno.ch

@@ -1185,7 +1185,6 @@ rheumacenter.ch
 rheumacentrum.ch
 rheumacentrumbasel.ch
 rheumachirurgie.ch
-rheumacity.ch
 rheumaclinic.ch
 rheumacoaching.ch
 rheumacom.ch
@@ -1769,6 +1768,7 @@ rhonebio.ch
 rhoneblick.ch
 rhoneblut.ch
 rhonebueb.ch
+rhonebyte.ch
 rhoneclinic.ch
 rhonecolor.ch
 rhonecyclisme.ch
@@ -2471,6 +2471,7 @@ rhythmophone.ch
 rhythmproject.ch
 rhythmrebels.ch
 rhythmrehab.ch
+rhythms.ch
 rhythmtalk.ch
 rhythmtap.ch
 rhythmus-des-kindes.ch

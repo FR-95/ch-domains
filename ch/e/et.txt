@@ -416,6 +416,7 @@ etc-etcetera.ch
 etc-fraubrunnen.ch
 etc-groupe.ch
 etc-immo.ch
+etc-jpb.ch
 etc-lausanne.ch
 etc-nyon.ch
 etc-sah.ch
@@ -1379,7 +1380,6 @@ ethnotente.ch
 ethnotica.ch
 ethnotigifisch.ch
 ethnovi.ch
-ethnovia.ch
 ethnovital.ch
 ethnoworldliving.ch
 ethny.ch

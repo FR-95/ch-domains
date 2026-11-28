@@ -6624,6 +6624,7 @@ glossy.ch
 glossybox.ch
 glossybugs.ch
 glossycrystal-beauty.ch
+glossyfloor.ch
 glossyhair-zuerich.ch
 glossyking.ch
 glossynails.ch
@@ -7601,7 +7602,6 @@ gluecksschmiedin.ch
 gluecksschmitte.ch
 gluecksschnyder.ch
 gluecksschrift.ch
-gluecksschuhe.ch
 gluecksschule.ch
 gluecksschwein.ch
 gluecksschwestern.ch

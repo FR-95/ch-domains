@@ -701,6 +701,7 @@ ccivalve.ch
 cciy.ch
 ccj.ch
 ccjm.ch
+ccjongny.ch
 ccjs.ch
 ccju.ch
 ccjura.ch
@@ -861,6 +862,7 @@ ccna.ch
 ccnac.ch
 ccnano.ch
 ccnap.ch
+ccnc-2027.ch
 ccnc.ch
 ccne.ch
 ccnetwork.ch

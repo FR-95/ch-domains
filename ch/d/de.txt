@@ -3199,6 +3199,7 @@ decoupage.ch
 decoupagelaser.ch
 decoupages-martine.ch
 decoupages-poyas.ch
+decoupages.ch
 decoupange.ch
 decoupart.ch
 decoupartcnc.ch
@@ -4637,7 +4638,6 @@ defibrillators.ch
 defibrillatorzuhause.ch
 defibrilocation.ch
 defibrotide.ch
-defibsolutions.ch
 defibswap.ch
 defibswiss.ch
 defibtausch.ch
@@ -5136,7 +5136,6 @@ degondas.ch
 degondatransporte.ch
 degondatreuhand.ch
 degoogled-phone.ch
-degoogled.ch
 degoor.ch
 degor.ch
 degorski-finance.ch
@@ -5833,7 +5832,6 @@ dein-moebelgleiter.ch
 dein-moebellift.ch
 dein-moebeltresor.ch
 dein-moment.ch
-dein-mondkalender.ch
 dein-monogramm.ch
 dein-montage-team.ch
 dein-monteurzimmer.ch
@@ -7763,6 +7761,7 @@ deintierverstehen.ch
 deintinyhouse.ch
 deintipp.ch
 deintisch.ch
+deintool.ch
 deintor.ch
 deintortenbild.ch
 deintrainer.ch
@@ -9039,7 +9038,6 @@ delete.ch
 deleted-mobileswissdetailing.ch
 deleted.ch
 deleteme.ch
-deletescape.ch
 deletra.ch
 deletraz-ga.ch
 deletraz.ch
@@ -13967,6 +13965,8 @@ densiparc.ch
 densipedia.ch
 densitas.ch
 densite.ch
+density-noir.ch
+density-schweiz.ch
 density.ch
 densitydrive.ch
 densmile.ch
@@ -13977,7 +13977,6 @@ densoag.ch
 densogermany.ch
 densogroupgermany.ch
 densokor.ch
-densor-design.ch
 denssana.ch
 denstad.ch
 denstadbernet.ch
@@ -14007,6 +14006,7 @@ dent-med.ch
 dent-neuro.ch
 dent-online.ch
 dent-savvy.ch
+dent-smile.ch
 dent-stigemar.ch
 dent-test-env.ch
 dent-zug.ch
@@ -14618,7 +14618,6 @@ dentalklinikfrei.ch
 dentalkliniklausen.ch
 dentalklinikscuto.ch
 dentalkronenberg.ch
-dentalkurs.ch
 dentalkurse.ch
 dentallab.ch
 dentallab3d.ch
@@ -14796,8 +14795,6 @@ dentalstudio-zh.ch
 dentalstudio.ch
 dentalsuccess.ch
 dentalsuisselocarno.ch
-dentalsuisselocarno4.ch
-dentalsuisselocarno6.ch
 dentalsuite.ch
 dentalsuperior.ch
 dentalsupport.ch
@@ -20438,6 +20435,7 @@ dervorhang.ch
 dervorhangshop.ch
 dervorkurs.ch
 dervorlaeufigepodcast.ch
+dervorleser.ch
 dervorsorgeauftrag.ch
 dervorsorgerechner.ch
 derwa.ch
@@ -22929,6 +22927,7 @@ deskflex.ch
 deskfood.ch
 deskforce.ch
 deskfox.ch
+deskfree.ch
 deskfront.ch
 deskgroup.ch
 deski.ch
@@ -25480,6 +25479,7 @@ devenir-arbitre.ch
 devenir-audioprothesiste.ch
 devenir-carreleur.ch
 devenir-civiliste.ch
+devenir-dj.ch
 devenir-famille-accueil.ch
 devenir-famille.ch
 devenir-forestier.ch
@@ -25517,6 +25517,7 @@ devenir-therapeute.ch
 devenir.ch
 deveniradulte.ch
 devenircoach.ch
+devenirdj.ch
 devenirdoula.ch
 devenirenseignant.ch
 devenirenseignante.ch
@@ -25724,7 +25725,6 @@ devilish.ch
 devill.ch
 devilla.ch
 devillag.ch
-devillanelle.ch
 devillard-apps.ch
 devillard-rp.ch
 devillard.ch

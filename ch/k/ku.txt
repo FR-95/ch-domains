@@ -19,6 +19,7 @@ ku-trogen.ch
 ku-tty.ch
 ku-u.ch
 ku11.ch
+ku2.ch
 ku2l.ch
 ku7.ch
 ku88.ch
@@ -90,7 +91,6 @@ kuba-rheinfelden.ch
 kuba-visum.ch
 kuba-zigarren.ch
 kuba.ch
-kuba360.ch
 kubaa.ch
 kubaboden.ch
 kubac.ch
@@ -5171,8 +5171,10 @@ kumod.ch
 kumofood.ch
 kumofribourg.ch
 kumohaushaltapparate.ch
+kumoholding.ch
 kumoi.ch
 kumokaffee.ch
+kumokaffeecenter.ch
 kumokaffeemaschinen.ch
 kumokage.ch
 kumokeramik.ch
@@ -5392,6 +5394,7 @@ kundenberaterbank.ch
 kundenberatung.ch
 kundenberei.ch
 kundenbereich.ch
+kundenbetreuung.ch
 kundenbewertung.ch
 kundenbewertungen.ch
 kundenbeziehung.ch
@@ -6731,7 +6734,6 @@ kunsti-sissach.ch
 kunsti.ch
 kunsti927.ch
 kunstidee.ch
-kunstideen.ch
 kunstig.ch
 kunstimalltag.ch
 kunstimbad.ch
@@ -10596,6 +10598,7 @@ kuuhl-restaurant.ch
 kuuhl.ch
 kuuhlminz.ch
 kuuhltuch.ch
+kuuhun.ch
 kuujuu.ch
 kuukie.ch
 kuuku.ch

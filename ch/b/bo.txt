@@ -22,9 +22,11 @@ bo-fiduciaire.ch
 bo-finanz.ch
 bo-frost.ch
 bo-ga.ch
+bo-gebaeudetechnik.ch
 bo-geneve.ch
 bo-groupe.ch
 bo-gruppe.ch
+bo-gt.ch
 bo-gym.ch
 bo-ha.ch
 bo-id.ch
@@ -329,6 +331,7 @@ boardless.ch
 boardliner.ch
 boardlink.ch
 boardlocal.ch
+boardlog.ch
 boardlokal.ch
 boardmag.ch
 boardmanagement.ch
@@ -2584,6 +2587,7 @@ bodorschweiz.ch
 bodoruedi.ch
 bodozimmermann.ch
 bodren.ch
+bodrix.ch
 bodrofineks.ch
 bodrum.ch
 bodrumcard.ch
@@ -2667,8 +2671,6 @@ body-energy.ch
 body-esthetic.ch
 body-evolution.ch
 body-experience.ch
-body-expert.ch
-body-experts.ch
 body-fashion.ch
 body-feedback.ch
 body-feeling.ch
@@ -3028,7 +3030,6 @@ bodyestetik.ch
 bodyesthetic-zurich.ch
 bodyesthetic.ch
 bodyevolution.ch
-bodyexpert.ch
 bodyfabrik.ch
 bodyface-health.ch
 bodyface.ch
@@ -4882,6 +4883,7 @@ bohana.ch
 bohas.ch
 bohats.ch
 bohbot.ch
+bohbow.ch
 bohcreative.ch
 bohdan.ch
 bohdanglu.ch
@@ -7793,6 +7795,7 @@ bong-discount.ch
 bong-ratgeber.ch
 bong.ch
 bong24.ch
+bong789.ch
 bong88.ch
 bongacams.ch
 bongamin.ch
@@ -8689,7 +8692,6 @@ bontskates.ch
 bonttrading.ch
 bontu.ch
 bontype.ch
-bonum-partners.ch
 bonum-shop.ch
 bonum.ch
 bonumestates.ch
@@ -9147,7 +9149,6 @@ book-of-honor.ch
 book-of-my-life.ch
 book-of-ra-deluxe.ch
 book-of-ra-slot.ch
-book-of-ra.ch
 book-of-raa.ch
 book-of-the-fallen.ch
 book-of-your-life.ch
@@ -9657,7 +9658,6 @@ bookofra-magic.ch
 bookofra-slot.ch
 bookofra.ch
 bookofraa.ch
-bookofradeluxe.ch
 bookofradeluxe10.ch
 bookofradeluxe6.ch
 bookofragame.ch
@@ -10891,6 +10891,8 @@ bootsreisen.ch
 bootsreisen24.ch
 bootsreparatur.ch
 bootsreparaturen.ch
+bootsrundfahrt.ch
+bootsrundfahrten.ch
 bootssattlerei-baertschi.ch
 bootssattlerei-balzien.ch
 bootssattlerei-gnuechtel.ch
@@ -13649,6 +13651,7 @@ botanical.ch
 botanicalbeauty.ch
 botanicalhome.ch
 botanicalprojects.ch
+botanicalrebel.ch
 botanicals.ch
 botanicaltreat.ch
 botanicalworlds.ch
@@ -13802,6 +13805,7 @@ botenhofpraxis.ch
 botenstoff.ch
 botenstoffe.ch
 boteonline.ch
+botera.ch
 botero.ch
 boteroinbasel.ch
 boteschwyz.ch
@@ -13840,6 +13844,7 @@ botheswiss.ch
 bothmann.ch
 bothmar.ch
 bothmer.ch
+bothna.ch
 bothner.ch
 bothof.ch
 botholes.ch
@@ -14101,6 +14106,7 @@ bottega-delcaffe.ch
 bottega-delgusto.ch
 bottega-delle-alpi.ch
 bottega-ethica.ch
+bottega-fina.ch
 bottega-italiana.ch
 bottega-kunterbunt.ch
 bottega-locale.ch
@@ -14489,6 +14495,7 @@ boucherie-costa.ch
 boucherie-cottens.ch
 boucherie-crausaz.ch
 boucherie-daniel-fleury.ch
+boucherie-de-bottens.ch
 boucherie-de-campagne.ch
 boucherie-de-l-isle.ch
 boucherie-de-la-cote.ch
@@ -14533,6 +14540,7 @@ boucherie-junod-sa.ch
 boucherie-junod.ch
 boucherie-kamberov.ch
 boucherie-kottelat.ch
+boucherie-krebs.ch
 boucherie-lalienne.ch
 boucherie-ledermann.ch
 boucherie-lemontagnard.ch
@@ -16112,6 +16120,7 @@ boutiquecapitalpartners.ch
 boutiquecarateri.ch
 boutiquecarredartistes.ch
 boutiquecatholique.ch
+boutiquecbd.ch
 boutiqueceleste.ch
 boutiquecentaure.ch
 boutiquecentrale.ch
@@ -17250,6 +17259,7 @@ boxing-luzern.ch
 boxing-minds.ch
 boxing-punch.ch
 boxing.ch
+boxing4perspectives.ch
 boxingacademy.ch
 boxingacademychasseral.ch
 boxingacademylausanne.ch
@@ -17359,6 +17369,7 @@ boxolino.ch
 boxolutions.ch
 boxon.ch
 boxone.ch
+boxora.ch
 boxos.ch
 boxot.ch
 boxotools.ch

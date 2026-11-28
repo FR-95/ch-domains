@@ -4900,6 +4900,7 @@ hofkafi.ch
 hofkalender.ch
 hofkamera.ch
 hofkarte.ch
+hofkasse.ch
 hofkasteln.ch
 hofkeller.ch
 hofkellerei.ch
@@ -5213,6 +5214,7 @@ hofmann-sanitaire.ch
 hofmann-servicetechnik.ch
 hofmann-solar.ch
 hofmann-stefan.ch
+hofmann-stiftung.ch
 hofmann-tech.ch
 hofmann-telecom.ch
 hofmann-thurgau.ch
@@ -6195,6 +6197,7 @@ hoiduu.ch
 hoie.ch
 hoieats.ch
 hoienstein-transport.ch
+hoifan.ch
 hoiferien.ch
 hoifina.ch
 hoifon.ch
@@ -6206,6 +6209,7 @@ hoiheidi.ch
 hoiheu.ch
 hoihoi.ch
 hoihuus.ch
+hoihype.ch
 hoii.ch
 hoiihrhuend.ch
 hoiimmo.ch
@@ -11265,7 +11269,6 @@ home-group.ch
 home-gs.ch
 home-gstaad.ch
 home-gym.ch
-home-harmony-solutions.ch
 home-harmony.ch
 home-hartmann.ch
 home-help.ch
@@ -11339,7 +11342,6 @@ home-music.ch
 home-myspace.ch
 home-nanny.ch
 home-nas.ch
-home-natur.ch
 home-near-basel.ch
 home-needs.ch
 home-net.ch
@@ -11416,6 +11418,7 @@ home-pix.ch
 home-pl.ch
 home-place.ch
 home-planet.ch
+home-plant.ch
 home-plus.ch
 home-point.ch
 home-portal.ch
@@ -12784,6 +12787,7 @@ homeoplant.ch
 homeopop.ch
 homeoprax.ch
 homeopraxis.ch
+homeoptik.ch
 homeorder.ch
 homeoreflex.ch
 homeorganiser.ch
@@ -13349,6 +13353,7 @@ homeswitzerland.ch
 homesworkers.ch
 homesy.ch
 homesync.ch
+homesys-sarl.ch
 homesys.ch
 homesystem.ch
 homesystems.ch
@@ -19132,6 +19137,7 @@ hosttec.ch
 hosttech-test.ch
 hosttech.ch
 hosttechdatacenter.ch
+hosttechtower.ch
 hosttest.ch
 hosttime.ch
 hosttools.ch
@@ -20639,7 +20645,6 @@ hotel-schlafsysteme.ch
 hotel-schluessel.ch
 hotel-schmitta.ch
 hotel-schoenau-wildhaus.ch
-hotel-schoenbrunnen.ch
 hotel-schoenbuehl.ch
 hotel-schoenegg.ch
 hotel-schoenried.ch
@@ -24333,6 +24338,7 @@ houseofathletes.ch
 houseofb.ch
 houseofbags.ch
 houseofbalance.ch
+houseofbarber.ch
 houseofbeads.ch
 houseofbeauty-luzern.ch
 houseofbeauty-thun.ch
@@ -24386,6 +24392,7 @@ houseofcomedy.ch
 houseofcomfort.ch
 houseofcommons.ch
 houseofcommunication.ch
+houseofcompanies.ch
 houseofcompliance.ch
 houseofconnections.ch
 houseofconsultants.ch

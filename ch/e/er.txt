@@ -1880,7 +1880,6 @@ erfolgspuls.ch
 erfolgspunkt.ch
 erfolgspyramide.ch
 erfolgsquelle.ch
-erfolgsrabatt.ch
 erfolgsraeume.ch
 erfolgsrausch.ch
 erfolgsrechner.ch
@@ -5250,6 +5249,7 @@ ernaehrung-schmeitzky.ch
 ernaehrung-schoenenberger.ch
 ernaehrung-schweiz.ch
 ernaehrung-uebelhardt.ch
+ernaehrung-und-balance.ch
 ernaehrung-und-beratung.ch
 ernaehrung-und-sport.ch
 ernaehrung-vitalstoffe.ch

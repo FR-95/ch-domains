@@ -686,6 +686,7 @@ upload-garagensound.ch
 upload-meditation.ch
 upload-picture.ch
 upload.ch
+upload18.ch
 uploadable.ch
 uploaded.ch
 uploader.ch

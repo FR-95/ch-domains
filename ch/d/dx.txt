@@ -10,6 +10,7 @@ dx3.ch
 dx4-forever.ch
 dx4.ch
 dxa.ch
+dxadvisory.ch
 dxan.ch
 dxanimal.ch
 dxascan.ch

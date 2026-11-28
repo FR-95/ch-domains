@@ -229,7 +229,6 @@ skadie.ch
 skadinvestments.ch
 skadoosh.ch
 skadproperties.ch
-skadsailing.ch
 skadtechnologies.ch
 skadvisory.ch
 skaefe.ch
@@ -602,6 +601,7 @@ skateshop.ch
 skateshop24.ch
 skatesins.ch
 skateso.ch
+skatespotsge.ch
 skatestore.ch
 skatesursee.ch
 skatetainer.ch
@@ -1171,6 +1171,7 @@ ski-fit.ch
 ski-fond.ch
 ski-fondue.ch
 ski-fun.ch
+ski-gabriela.ch
 ski-gebiet.ch
 ski-gebiete.ch
 ski-grimentz-zinal.ch

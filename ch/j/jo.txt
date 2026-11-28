@@ -2971,7 +2971,6 @@ jodacargo.ch
 jodacosta.ch
 jodaja.ch
 jodametal.ch
-jodano.ch
 jodapasi.ch
 jodar.ch
 jodari.ch
@@ -4482,6 +4481,7 @@ johannagrueninger.ch
 johannagschwend.ch
 johannaguyer.ch
 johannaheim.ch
+johannahelfer.ch
 johannaheusser.ch
 johannahofbauer.ch
 johannahuguenin.ch
@@ -5372,6 +5372,7 @@ joiniq.ch
 joinit.ch
 joinkommpass.ch
 joinlab.ch
+joinlegacy.ch
 joinlobear.ch
 joinlocalauction.ch
 joinloopit.ch
@@ -6723,6 +6724,7 @@ jonasstuder.ch
 jonassulzer.ch
 jonassuter.ch
 jonasta.ch
+jonastexas.ch
 jonastogni.ch
 jonastone.ch
 jonasty.ch
@@ -8820,6 +8822,7 @@ jouelapolitique.ch
 joueli.ch
 jouer-a-cache-cache.ch
 jouer-au-casino-en-ligne.ch
+jouer-au-solitaire.ch
 jouer-dehors.ch
 jouer-en-ligne-gratuitement.ch
 jouer.ch

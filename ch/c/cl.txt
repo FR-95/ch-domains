@@ -402,6 +402,7 @@ clairseuil.ch
 clairsite.ch
 clairson.ch
 clairval.ch
+clairvaleducation.ch
 clairvalfleuri.ch
 clairveillance.ch
 clairvidence.ch
@@ -1488,6 +1489,7 @@ classes-neige.ch
 classes.ch
 classesbarbershop.ch
 classescape.ch
+classesciences.ch
 classesdecordes.ch
 classesnumeriques.ch
 classespdv.ch
@@ -4054,6 +4056,7 @@ cleanaccess.ch
 cleanaesthetics.ch
 cleanag.ch
 cleanagency.ch
+cleanagent.ch
 cleanagri.ch
 cleanair-condens.ch
 cleanair.ch
@@ -4591,6 +4594,7 @@ cleanmeister.ch
 cleanmemorialmonument.ch
 cleanmenu.ch
 cleanmetals.ch
+cleanmetric.ch
 cleanmeup.ch
 cleanmex.ch
 cleanmgt.ch
@@ -4984,6 +4988,7 @@ clear-coat.ch
 clear-communications.ch
 clear-concept.ch
 clear-creations.ch
+clear-custom-ice.ch
 clear-cut-earth.ch
 clear-dog-leadership.ch
 clear-filter.ch
@@ -5096,6 +5101,7 @@ clearcreek.ch
 clearcup.ch
 clearcut.ch
 cleardata.ch
+clearday.ch
 cleardesign.ch
 cleardesk-assistenz.ch
 cleardiamonds.ch
@@ -5471,6 +5477,7 @@ clemencecarrelage.ch
 clemencecordey.ch
 clemencefriedli.ch
 clemencefrossard.ch
+clemencerey.ch
 clemenceseydoux.ch
 clemencon-rieser.ch
 clemendine.ch
@@ -5737,6 +5744,7 @@ cler-zak.ch
 cler.ch
 clera-fensterreinigung.ch
 clera.ch
+cleramira.ch
 clerasse.ch
 clerbank.ch
 clerbau.ch
@@ -6929,7 +6937,6 @@ clickjobs.ch
 clickk.ch
 clickkompetent.ch
 clicklab.ch
-clicklaw.ch
 clicklift.ch
 clicklink.ch
 clicklist.ch
@@ -7157,6 +7164,7 @@ clienianews.ch
 clienis.ch
 clienits.ch
 clienntis.ch
+cliens.ch
 client-2tech.ch
 client-ad.ch
 client-at-sbb.ch
@@ -7192,6 +7200,7 @@ clientediretto.ch
 clientel.ch
 clientelecenter.ch
 clientelify.ch
+clienteprotetto.ch
 clientes.ch
 clientesque.ch
 clientevogestion.ch
@@ -7210,6 +7219,7 @@ clientiis.ch
 clientikit.ch
 clienting.ch
 clientinmind.ch
+clientiprotetti.ch
 clientiq.ch
 clientis-banking-services.ch
 clientis-bankthur.ch
@@ -9623,7 +9633,6 @@ cloud-experten.ch
 cloud-experts.ch
 cloud-explorer.ch
 cloud-fax.ch
-cloud-fibu.ch
 cloud-fields.ch
 cloud-finder-schweiz.ch
 cloud-finder.ch
@@ -9728,9 +9737,6 @@ cloud-pos.ch
 cloud-privateschule-mutschellen.ch
 cloud-privatschule-mutschellen.ch
 cloud-pro-planet.ch
-cloud-produkte.ch
-cloud-programm.ch
-cloud-programme.ch
 cloud-project.ch
 cloud-radiovostok.ch
 cloud-readiness.ch
@@ -10315,7 +10321,6 @@ cloudlink.ch
 cloudlinux.ch
 cloudlive.ch
 cloudliz.ch
-cloudloesung.ch
 cloudlog.ch
 cloudlokation.ch
 cloudlotsen.ch
@@ -11034,6 +11039,7 @@ cls4all.ch
 clsbarisic.ch
 clsc.ch
 clsconseils.ch
+clscontroles.ch
 clse.ch
 clsel.ch
 clserver.ch
@@ -12714,7 +12720,6 @@ clyn.ch
 clynique.ch
 clynn.ch
 clynol.ch
-clynor.ch
 clyo.ch
 clyos-institute.ch
 clyos.ch

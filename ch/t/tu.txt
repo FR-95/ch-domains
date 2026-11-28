@@ -916,7 +916,6 @@ tugas.ch
 tugate.ch
 tugba-ayaz.ch
 tugba.ch
-tugbascarf.ch
 tugboat.ch
 tugbraeu.ch
 tugbs.ch
@@ -1124,6 +1123,7 @@ tuirapperswil.ch
 tuireisecenter.ch
 tuireisen.ch
 tuiruedurhone.ch
+tuis.ch
 tuiseedamm.ch
 tuiselect.ch
 tuispecials.ch
@@ -2742,8 +2742,12 @@ turkuazlimo.ch
 turkuazstudents.ch
 turkuaztravel.ch
 turkvost.ch
+turkweb.ch
 turla.ch
 turlago.ch
+turlen-holding.ch
+turlen.ch
+turlenholding.ch
 turler.ch
 turleri.ch
 turlesque.ch
@@ -2755,6 +2759,7 @@ turlututu.ch
 turm-areal.ch
 turm-broccoli.ch
 turm-ecommerce.ch
+turm-ki.ch
 turm-thun.ch
 turm-uhr.ch
 turm-zueri.ch
@@ -3294,6 +3299,7 @@ turtmannsingt.ch
 turtmanntal-meyer.ch
 turtmanntal.ch
 turtok.ch
+turtora-immobilier.ch
 turtour.ch
 turtschan.ch
 turtschi-spiez.ch

@@ -1658,6 +1658,7 @@ escortspace.ch
 escortspot.ch
 escortsqui.ch
 escortsswiss.ch
+escortstar.ch
 escortstars.ch
 escortsuisse.ch
 escortsvideos.ch
@@ -1888,6 +1889,7 @@ eseassets.ch
 esebeck.ch
 esec-berufsbildung.ch
 esec.ch
+esecdn.ch
 esecialde.ch
 eseclo.ch
 eseclothing.ch
@@ -4231,6 +4233,8 @@ esper-luette.ch
 esper.ch
 espera.ch
 esperal.ch
+esperanca-ag.ch
+esperanca-handel.ch
 esperanca.ch
 esperance-coffrane.ch
 esperance-cordialite.ch

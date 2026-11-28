@@ -196,7 +196,6 @@ be-group.ch
 be-grp.ch
 be-gstaad.ch
 be-haeppi.ch
-be-hair.ch
 be-hairandessentials.ch
 be-hand-lung.ch
 be-happy-be-you.ch
@@ -1512,6 +1511,7 @@ bears-with-benefits.ch
 bears.ch
 bearsdogs.ch
 bearsgrill.ch
+bearshield.ch
 bearshop.ch
 bearsimmo.ch
 bearsmeetbulls.ch
@@ -2348,6 +2348,7 @@ beatricedietrich.ch
 beatricedoerig.ch
 beatriceducommun.ch
 beatriceduplex.ch
+beatricedurandard.ch
 beatriceegli.ch
 beatriceerb.ch
 beatricefeusi.ch
@@ -5291,6 +5292,7 @@ beboba.ch
 bebobase.ch
 bebobeauty.ch
 bebobines.ch
+bebocalma.ch
 bebocasa.ch
 bebocenter.ch
 bebogen.ch
@@ -5364,6 +5366,7 @@ bec-swiss.ch
 bec-vorbereitung.ch
 bec.ch
 bec3d.ch
+bec88.ch
 beca-advisors.ch
 beca-smartassistant.ch
 beca.ch
@@ -9881,6 +9884,7 @@ bel-air-lac.ch
 bel-air-lausanne.ch
 bel-air-leysin.ch
 bel-air.ch
+bel-air4.ch
 bel-airmountain.ch
 bel-airmountainpartners.ch
 bel-ami.ch
@@ -10948,6 +10952,7 @@ bellaallegra.ch
 bellaanderson.ch
 bellaantica.ch
 bellaaura.ch
+bellab.ch
 bellabaci.ch
 bellabalance.ch
 bellabalbaniello.ch
@@ -11095,6 +11100,7 @@ bellamaisa.ch
 bellamamma.ch
 bellambra.ch
 bellameccanica.ch
+bellamee.ch
 bellamente.ch
 bellami.ch
 bellamia.ch
@@ -12174,6 +12180,7 @@ bellivo.ch
 belljonen.ch
 belljostell.ch
 belljunior.ch
+belllo.ch
 bellm.ch
 bellman-schweiz.ch
 bellman.ch
@@ -13113,6 +13120,7 @@ belyam.ch
 belyan.ch
 belynora.ch
 belyo.ch
+belysh-tattoo.ch
 belysh.ch
 belz-gmbh.ch
 belz-hl.ch
@@ -14465,6 +14473,7 @@ bengolay.ch
 bengolf.ch
 bengonia.ch
 bengoshi.ch
+bengraving.ch
 bengsy.ch
 bengt.ch
 bengtsen.ch
@@ -16474,6 +16483,7 @@ beow.ch
 beowa-treuhand-karriere.ch
 beowa.ch
 beowab.ch
+beowaerbig.ch
 beowakeclub.ch
 beoweb.ch
 beowebdesign.ch
@@ -16612,6 +16622,7 @@ beprot.ch
 beproud.ch
 beproudofu.ch
 beps.ch
+bepssecurity.ch
 beptum.ch
 bepulse.ch
 bepunkt.ch
@@ -17093,8 +17104,6 @@ beratung-zuercher.ch
 beratung-zur-vorsorge.ch
 beratung.ch
 beratung24.ch
-beratung360.ch
-beratung365.ch
 beratung37grad.ch
 beratung3plus.ch
 beratung65plus.ch
@@ -18786,6 +18795,7 @@ berghausimmobilien.ch
 berghauslauchernalp.ch
 berghausmalbun-buchs.ch
 berghausobergmeind.ch
+berghausoeschinensee.ch
 berghauspizkesch.ch
 berghausplanalp.ch
 berghauspost.ch
@@ -20705,6 +20715,7 @@ berna.ch
 berna1864.ch
 bernaadelboden.ch
 bernaapo.ch
+bernaba25.ch
 bernabar.ch
 bernabaumgartner.ch
 bernabe.ch
@@ -20805,6 +20816,7 @@ bernamaro.ch
 bernamed.ch
 bernanaesth.ch
 bernando-bau.ch
+bernang.ch
 bernans-autohandel.ch
 bernans-raeumungen.ch
 bernantini.ch
@@ -28438,6 +28450,7 @@ betalebanon.ch
 betalice-casino.ch
 betalice.ch
 betalice1.ch
+betalicebet.ch
 betalicecas.ch
 betalicecasino.ch
 betalicech.ch
@@ -28454,6 +28467,7 @@ betalright.ch
 betalright1.ch
 betalrightcasino.ch
 betalrightch.ch
+betalrightch1.ch
 betalrightonline.ch
 betalrightwetten.ch
 betalu.ch
@@ -29973,7 +29987,6 @@ betsafecasino.ch
 betsaida.ch
 betsaleel.ch
 betsamigo.ch
-betsamuro.ch
 betsan.ch
 betscarab.ch
 betscasino-ch.ch
@@ -34059,6 +34072,7 @@ beyuls.ch
 beyuna.ch
 beyuto.ch
 beywasch.ch
+beyweb.ch
 beyza.ch
 beyzasflow.ch
 beyzik.ch
@@ -34312,6 +34326,7 @@ beziehungsweberei.ch
 beziehungswege.ch
 beziehungsweise-appelt.ch
 beziehungsweise-begleitung.ch
+beziehungsweise-beratung.ch
 beziehungsweise-efb.ch
 beziehungsweise-familienberatung.ch
 beziehungsweise-insights.ch

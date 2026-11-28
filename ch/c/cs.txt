@@ -1023,7 +1023,6 @@ csizy.ch
 csj-operations.ch
 csj-sjc.ch
 csj.ch
-csj2026-gaf.ch
 csja.ch
 csjabka.ch
 csjb.ch
@@ -1492,6 +1491,7 @@ cssgmbh.ch
 cssgruppe.ch
 csshealtcare.ch
 csshilfe.ch
+csshub.ch
 cssi.ch
 cssinsightcommunity.ch
 cssinstitut.ch

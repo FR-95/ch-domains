@@ -1467,6 +1467,7 @@ my-renovation.ch
 my-rent.ch
 my-rentr.ch
 my-repair.ch
+my-resa.ch
 my-research-buddy.ch
 my-residence.ch
 my-resin-art.ch
@@ -1718,6 +1719,7 @@ my-swiss-company.ch
 my-swiss-farm.ch
 my-swiss-fun.ch
 my-swiss-hosting.ch
+my-swiss-insurance.ch
 my-swiss-jobs.ch
 my-swiss-kiss.ch
 my-swiss-moment.ch
@@ -3936,6 +3938,8 @@ mycoinsight.ch
 mycokemusic.ch
 mycolab.ch
 mycolacote.ch
+mycolett.ch
+mycolette.ch
 mycolex.ch
 mycolex2.ch
 mycolib.ch
@@ -5051,6 +5055,7 @@ myespadrilles.ch
 myesports.ch
 myespresso.ch
 myessen.ch
+myessil.ch
 myestate.ch
 myesthete.ch
 myestore.ch
@@ -6572,6 +6577,7 @@ myimmomig.ch
 myimmop.ch
 myimmopac.ch
 myimmopage.ch
+myimmopass.ch
 myimmopilot.ch
 myimmoplanet.ch
 myimmopub.ch
@@ -7238,6 +7244,7 @@ mylemix.ch
 mylemon.ch
 mylemonade.ch
 mylen.ch
+mylena.ch
 mylene-kormann-coaching.ch
 mylene-leclerc.ch
 mylene-pilates.ch
@@ -10161,7 +10168,6 @@ mysalzh.ch
 mysama.ch
 mysamana.ch
 mysamariter.ch
-mysambal.ch
 mysami.ch
 mysammyboy.ch
 mysan.ch
@@ -10661,7 +10667,6 @@ mysmilefactory.ch
 mysmoke.ch
 mysms.ch
 mysmsbox.ch
-mysmsv.ch
 mysn.ch
 mysnackbox.ch
 mysnacky.ch
@@ -11842,6 +11847,7 @@ myterc.ch
 myteresa.ch
 mytergon.ch
 myterium-fidei.ch
+mytermin.ch
 myterminal.ch
 mytermio.ch
 myterra.ch
@@ -12144,7 +12150,6 @@ mytitlis.ch
 mytix.ch
 mytk.ch
 mytlab.ch
-mytlg.ch
 mytm.ch
 mytma.ch
 mytmc.ch
@@ -12404,6 +12409,7 @@ myultimatesoftwarepeopledoc.ch
 myultimx.ch
 myultipro.ch
 myultipropeopledoc.ch
+myultrapak.ch
 myultrasystem.ch
 myumami.ch
 myumbau.ch
@@ -12773,6 +12779,7 @@ mywaybettyford.ch
 mywaydancearts.ch
 mywaydreamstore.ch
 mywaygroup.ch
+mywaymusic.ch
 mywaynutricare.ch
 mywayoptics.ch
 mywaypoint.ch

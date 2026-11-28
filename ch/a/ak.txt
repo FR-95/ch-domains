@@ -616,6 +616,7 @@ akatech.ch
 akatechwaerme.ch
 akatema.ch
 akatherm-haustechnik.ch
+akatobi.ch
 akatora-ramen.ch
 akatori.ch
 akatpat.ch
@@ -707,7 +708,6 @@ akbcorp.ch
 akbe.ch
 akbear.ch
 akbeauty.ch
-akbedachung.ch
 akbena.ch
 akbern-jahresbericht.ch
 akbern.ch
@@ -1463,7 +1463,6 @@ akkusys.ch
 akkut.ch
 akkutag.ch
 akkutausch.ch
-akkutech.ch
 akkuteile.ch
 akkutest.ch
 akkutischleuchte.ch
@@ -1763,6 +1762,7 @@ akquire.ch
 akquirier-service.ch
 akquirio.ch
 akquise-mit-system.ch
+akquise-pipeline.ch
 akquise-pro.ch
 akquise-service.ch
 akquise-system.ch
@@ -1910,6 +1910,7 @@ aks-dogdesign.ch
 aks-kanalsanierung.ch
 aks-kulturprojekt.ch
 aks-landwirtschaft.ch
+aks-manager.ch
 aks-musiklager.ch
 aks-nothilfe.ch
 aks-paletti.ch

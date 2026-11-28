@@ -1333,7 +1333,6 @@ dragon-gipser.ch
 dragon-glass.ch
 dragon-gotteron.ch
 dragon-help-hall.ch
-dragon-import-shop.ch
 dragon-import.ch
 dragon-kampfsportschule.ch
 dragon-king.ch
@@ -4050,6 +4049,7 @@ dreistand.ch
 dreistein-ag.ch
 dreistein-ai.ch
 dreistein-immo.ch
+dreistein-immobilien.ch
 dreistein.ch
 dreisteinag.ch
 dreistern-food.ch
@@ -4850,6 +4850,7 @@ driftsportschweiz.ch
 driftstorm.ch
 driftstudio.ch
 driftstyle.ch
+driftt.ch
 drifttaxi.ch
 driftteam.ch
 driftteamswitzerland.ch
@@ -7160,6 +7161,7 @@ drohnen-fotografie-bern.ch
 drohnen-fotografie.ch
 drohnen-fotos.ch
 drohnen-frei.ch
+drohnen-fuehrerschein.ch
 drohnen-gr.ch
 drohnen-gutachten.ch
 drohnen-haftung.ch

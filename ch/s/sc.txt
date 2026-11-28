@@ -5,7 +5,6 @@ sc-agility.ch
 sc-ahorn.ch
 sc-akademie.ch
 sc-albisrieden.ch
-sc-allabouthorses.ch
 sc-allalin.ch
 sc-alterswil.ch
 sc-as.ch
@@ -1556,6 +1555,7 @@ scarletti.ch
 scarlettjune.ch
 scarlettnailsbeauty.ch
 scarlettreid.ch
+scarletts-lieblingsstuecke.ch
 scarletts.ch
 scarlettundtobiasmachennaegelmitkoepfen.ch
 scarletwit.ch
@@ -2770,7 +2770,6 @@ schadenheld.ch
 schadenhelden.ch
 schadenhilfe.ch
 schadeninstitut.ch
-schadenkoordination.ch
 schadenmanagement-experten.ch
 schadenmanagement-schweiz.ch
 schadenmanagement.ch
@@ -3275,7 +3274,6 @@ schaer-ingenieurs.ch
 schaer-koestinger.ch
 schaer-konzepte.ch
 schaer-landtechnik.ch
-schaer-lederatelier.ch
 schaer-legal.ch
 schaer-leger-stoeckli.ch
 schaer-marketing.ch
@@ -4788,6 +4786,7 @@ scharfsehen.ch
 scharfsicht.ch
 scharfsichtoptik.ch
 scharfsinn.ch
+scharfsteller.ch
 scharftexter.ch
 schargon.ch
 scharimari.ch
@@ -9205,7 +9204,6 @@ schittli-tankstell.ch
 schittli.ch
 schittlibar.ch
 schittlitankstell.ch
-schittly-ag.ch
 schittny.ch
 schittri.ch
 schiumaspray.ch
@@ -10106,6 +10104,7 @@ schlagermais.ch
 schlagermania.ch
 schlagermartin.ch
 schlagermastro.ch
+schlagermusik.ch
 schlagern.ch
 schlagernachrichten.ch
 schlagernacht-heimberg.ch
@@ -10232,7 +10231,6 @@ schlagzeilen.ch
 schlagzeilengenerator.ch
 schlagzeilenroulette.ch
 schlagzeug-im-schlagzeug.ch
-schlagzeug-lernen.ch
 schlagzeug-miete.ch
 schlagzeug-schule.ch
 schlagzeug-shop.ch
@@ -12053,7 +12051,6 @@ schlosspraxis-arbon.ch
 schlosspraxis.ch
 schlossprofi.ch
 schlossprofis.ch
-schlossprojekt-rapperswil.ch
 schlossquartier.ch
 schlossquell.ch
 schlossragaz.ch
@@ -12363,8 +12360,6 @@ schluesselblume.ch
 schluesselbox-schweiz.ch
 schluesselbox.ch
 schluesselbrett.ch
-schluesselbuch.ch
-schluesselbuch24.ch
 schluesselcenter-chur.ch
 schluesselcenter-mutzner.ch
 schluesselchind.ch
@@ -12686,6 +12681,7 @@ schluesselfinderin.ch
 schluesselflix.ch
 schluesselfrank.ch
 schluesselfund.ch
+schluesselfundservice.ch
 schluesselfundstelle-schweiz.ch
 schluesselfundstelle-wildhaber.ch
 schluesselfundstelle.ch
@@ -13556,6 +13552,7 @@ schmerzzentrumzurich.ch
 schmet.ch
 schmetal.ch
 schmetallbau.ch
+schmetba.ch
 schmetta.ch
 schmetterband.ch
 schmetterer.ch
@@ -13956,6 +13953,7 @@ schmid-weinbau.ch
 schmid-werk.ch
 schmid-werren.ch
 schmid-wolf.ch
+schmid-workwear.ch
 schmid-zehntner.ch
 schmid-zimmermann.ch
 schmid-zioerjen-arch.ch
@@ -14566,6 +14564,7 @@ schmidwillisch.ch
 schmidwoernerstiftung.ch
 schmidwohnen.ch
 schmidwolf.ch
+schmidworkwear.ch
 schmidwuerth.ch
 schmidy.ch
 schmidzurbuchen.ch
@@ -16070,6 +16069,7 @@ schneefeld.ch
 schneeferien.ch
 schneefestival.ch
 schneefilmfest.ch
+schneefinder.ch
 schneefink.ch
 schneefix.ch
 schneefleckli.ch
@@ -17306,6 +17306,7 @@ schnelltransport.ch
 schnelltreuhand.ch
 schnelluebersetzer.ch
 schnellumfrage.ch
+schnellumzug.ch
 schnellundglutenfrei.ch
 schnellundschludrig.ch
 schnellverkaufen.ch
@@ -17976,7 +17977,6 @@ schnuppertag-hopro.ch
 schnuppertag-hosting.ch
 schnuppertag.ch
 schnuppertage.ch
-schnuppertaggreen.ch
 schnuppertauchen.ch
 schnuppertour.ch
 schnupperwoche.ch
@@ -20148,6 +20148,7 @@ schoren-arlesheim.ch
 schoren-basel.ch
 schoren-residenzen.ch
 schoren.ch
+schoren27.ch
 schorenarlesheim.ch
 schorenfee.ch
 schorengarage.ch
@@ -24035,7 +24036,6 @@ schuhregale.ch
 schuhreiniger.ch
 schuhreinigung.ch
 schuhrep.ch
-schuhreparatur-fulginiti.ch
 schuhreparatur-giuliano.ch
 schuhreparatur.ch
 schuhreparaturbasel.ch
@@ -24173,7 +24173,6 @@ schul-website.ch
 schul-werkstatt.ch
 schul-z.ch
 schul-zone.ch
-schul.ch
 schulabrechnung.ch
 schulabsentismus-beratung-schweiz.ch
 schulabsentismus-buch.ch
@@ -24386,7 +24385,6 @@ schuldensanieren.ch
 schuldensanierer.ch
 schuldensanierung-beo.ch
 schuldensanierung-fss.ch
-schuldensanierung-thurgau.ch
 schuldensanierung-zuerich.ch
 schuldensanierung.ch
 schuldensanierungen-dsb.ch
@@ -28111,7 +28109,6 @@ schwalbe-svs.ch
 schwalbe.ch
 schwalbefreizeit.ch
 schwalbehof.ch
-schwalben-hof.ch
 schwalben-nest.ch
 schwalbenaescht.ch
 schwalbenbar.ch
@@ -28530,6 +28527,7 @@ schwarz-angehrn.ch
 schwarz-arbeit.ch
 schwarz-architekten.ch
 schwarz-architektur.ch
+schwarz-art.ch
 schwarz-auf-weiss.ch
 schwarz-bedachungen.ch
 schwarz-bio.ch
@@ -28669,7 +28667,6 @@ schwarzbrennerei.ch
 schwarzbroenner.ch
 schwarzbu.ch
 schwarzbuben-apotheke.ch
-schwarzbuben-vereinigung.ch
 schwarzbuben.ch
 schwarzbubendruck.ch
 schwarzbubenforst.ch
@@ -28765,6 +28762,7 @@ schwarzenbachs.ch
 schwarzenbachweinbau.ch
 schwarzenbeck.ch
 schwarzenberg-fsg.ch
+schwarzenberg-holding.ch
 schwarzenberg.ch
 schwarzenberg24.ch
 schwarzenberger-architekten.ch
@@ -28869,6 +28867,8 @@ schwarzfahrt.ch
 schwarzfalter.ch
 schwarzfels.ch
 schwarzfink.ch
+schwarzfischen.ch
+schwarzfischer.ch
 schwarzforst.ch
 schwarzfreres.ch
 schwarzgaensehaut.ch
@@ -31665,7 +31665,6 @@ schweizerfakten.ch
 schweizerfamilie-community.ch
 schweizerfamilie-reisen.ch
 schweizerfamilie.ch
-schweizerfamilien.ch
 schweizerfamilienblogs.ch
 schweizerfamilienversicherung.ch
 schweizerfamily.ch
@@ -32633,7 +32632,6 @@ schweizersoldatenmarken.ch
 schweizersommer.ch
 schweizersoulfood.ch
 schweizersozialversicherung.ch
-schweizersparen.ch
 schweizerspargel.ch
 schweizerspezialitaeten.ch
 schweizerspicy.ch
@@ -35708,7 +35706,6 @@ scivlesyndicat.ch
 scivoli.ch
 sciweb.ch
 scizem.ch
-scizino.ch
 scizino1.ch
 scizinocasino.ch
 scizinoch.ch
@@ -38042,7 +38039,6 @@ scta.ch
 sctambospluegen.ch
 sctannberg.ch
 sctb.ch
-sctc.ch
 sctcc.ch
 sctdr.ch
 scte.ch
@@ -38078,6 +38074,7 @@ scttrading.ch
 sctv.ch
 sctw.ch
 sctx.ch
+scu-hub.ch
 scu-lims.ch
 scu.ch
 scua.ch

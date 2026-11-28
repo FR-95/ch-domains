@@ -148,6 +148,7 @@ tlhm.ch
 tlhogh.ch
 tlholding.ch
 tli-translog.ch
+tli-trtanslog.ch
 tli-whitelabel.ch
 tli.ch
 tligier.ch

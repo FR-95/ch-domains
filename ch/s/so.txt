@@ -1354,6 +1354,7 @@ sociallink.ch
 sociallinker.ch
 socialliving.ch
 sociallounge.ch
+socially.ch
 sociallyresponsibleinvesting.ch
 sociallyswiss.ch
 socialm.ch
@@ -1712,7 +1713,6 @@ socialwick.ch
 socialwine.ch
 socialwithsophie.ch
 socialwizard.ch
-socialwizards.ch
 socialwizzard.ch
 socialwork.ch
 socialworkportal.ch
@@ -2138,7 +2138,6 @@ soclo.ch
 soclora.ch
 soclum.ch
 soclune.ch
-socmaschweiz.ch
 socmed.ch
 socmint-switzerland.ch
 socmint.ch
@@ -3926,7 +3925,6 @@ software-escrow.ch
 software-evaluation.ch
 software-fabrik.ch
 software-factory.ch
-software-finanzbuchhaltung.ch
 software-finden.ch
 software-frey.ch
 software-fuer-fahrschulen.ch
@@ -5802,7 +5800,6 @@ solar-contract.ch
 solar-creator.ch
 solar-crowd.ch
 solar-crowdli.ch
-solar-crowdly.ch
 solar-cube.ch
 solar-dach-plicht.ch
 solar-dach.ch
@@ -6645,7 +6642,6 @@ solarcredit.ch
 solarcrew.ch
 solarcrowd.ch
 solarcrowdli.ch
-solarcrowdly.ch
 solarctic-zen.ch
 solarcup-seeland.ch
 solarcup.ch
@@ -8317,6 +8313,7 @@ solcon.ch
 solconfort.ch
 solcontract.ch
 solcosystem.ch
+solcour.ch
 solcreations.ch
 solcure.ch
 sold-out.ch
@@ -8347,7 +8344,6 @@ soldani.ch
 soldano.ch
 soldansgartenbau.ch
 soldanshop.ch
-soldart.ch
 soldat-suisse.ch
 soldat.ch
 soldatderzukunft.ch
@@ -8966,7 +8962,6 @@ solfar.ch
 solfari.ch
 solfaxi.ch
 solfegefacile.ch
-solfeggio-frequenzen.ch
 solfeggio.ch
 solfegiator.ch
 solfegietto.ch
@@ -11025,7 +11020,6 @@ solutionpronote.ch
 solutionproviders.ch
 solutionresa.ch
 solutionrh.ch
-solutions-4-u.ch
 solutions-4u.ch
 solutions-acoustiques.ch
 solutions-ad.ch
@@ -11323,8 +11317,10 @@ solvaneodigital.ch
 solvano.ch
 solvanta.ch
 solvantics.ch
+solvantiq.ch
 solvantis.ch
 solvanto.ch
+solvara.ch
 solvare.ch
 solvares-field-service.ch
 solvares-fieldservice.ch
@@ -12844,6 +12840,7 @@ sommets-musicaux.ch
 sommets-photos.ch
 sommets-pour-tous.ch
 sommets.ch
+sommetsduvalais.ch
 sommetsmusicaux.ch
 sommetspourtous.ch
 sommetsurlessoins.ch
@@ -13139,6 +13136,7 @@ sonart.ch
 sonartis.ch
 sonarty.ch
 sonarys.ch
+sonas.ch
 sonasag.ch
 sonasenz.ch
 sonasuma.ch
@@ -14751,6 +14749,7 @@ sonnenfinsternis-reisen.ch
 sonnenfinsternis.ch
 sonnenfinsternis2027.ch
 sonnenfinsternisbrille.ch
+sonnenfinsternisbrillen.ch
 sonnenfranken.ch
 sonnenfreund.ch
 sonnenfunken.ch
@@ -17775,6 +17774,7 @@ sortons-du-nucleaire.ch
 sortonsdunucleaire.ch
 sortout.ch
 sortsofort.ch
+sortup.ch
 sortwerk.ch
 soru.ch
 sorum.ch
@@ -18562,7 +18562,6 @@ sosjantes-pneus.ch
 sosjantescenter.ch
 sosjanteskc.ch
 sosjantespneus.ch
-sosjardin.ch
 sosjardinage.ch
 sosjardins.ch
 sosjed.ch
@@ -21312,13 +21311,11 @@ soutien-crans-montana-se.ch
 soutien-epfl.ch
 soutien-familial.ch
 soutien-gorge.ch
-soutien-gymnase.ch
 soutien-harcelement.ch
 soutien-hec.ch
 soutien-histoirerurale.ch
 soutien-loro.ch
 soutien-lorofr.ch
-soutien-medecine.ch
 soutien-net-zero.ch
 soutien-omni-scolaire.ch
 soutien-parental-vaud.ch
@@ -21330,7 +21327,6 @@ soutien-scolaire-milvignes.ch
 soutien-scolaire.ch
 soutien-solutions.ch
 soutien-unil.ch
-soutien-universitaire.ch
 soutien-ville-geneve.ch
 soutien-xr.ch
 soutien.ch

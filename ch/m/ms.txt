@@ -81,7 +81,6 @@ ms-coachings.ch
 ms-code.ch
 ms-columbus.ch
 ms-compound.ch
-ms-concept.ch
 ms-conseils.ch
 ms-consult.ch
 ms-consultants-ag.ch
@@ -2150,7 +2149,6 @@ msyguda.ch
 msyoga.ch
 msys.ch
 msystem.ch
-msysteme.ch
 msystems.ch
 msz-coaching.ch
 msz-construction-sarl.ch

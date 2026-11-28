@@ -2615,6 +2615,7 @@ pokerprinter.ch
 pokerprive.ch
 pokerprod.ch
 pokerprotour.ch
+pokerradar.ch
 pokerrallye.ch
 pokerraum.ch
 pokerriva.ch
@@ -3120,7 +3121,6 @@ polaroideyewear.ch
 polaroidfoto.ch
 polaroidinstax.ch
 polaroidshop.ch
-polaroidstore.ch
 polaroidtherapeutics.ch
 polaroidtx.ch
 polaron.ch
@@ -3474,8 +3474,10 @@ polesud.ch
 polet.ch
 poletastics.ch
 polethic.ch
+polethik.ch
 polethique.ch
 poleti.ch
+poletik.ch
 poletouch.ch
 polette.ch
 poletti-6403.ch
@@ -4200,6 +4202,7 @@ politiques-suisse.ch
 politiques.ch
 politiquesociale.ch
 politiquetcs.ch
+politirama.ch
 politiro.ch
 politis.ch
 politisch.ch
@@ -7223,6 +7226,7 @@ ponseti.ch
 ponsot.ch
 ponsse.ch
 ponsyrus.ch
+pont-apprentissage.ch
 pont-de-la-machine.ch
 pont-de-thielle.ch
 pont-des-langues.ch
@@ -9059,6 +9063,7 @@ popupparty.ch
 popuppiazza.ch
 popuppizzeria.ch
 popuppress.ch
+popuprestaurant.ch
 popupretreats.ch
 popuprun.ch
 popups.ch
@@ -10369,6 +10374,7 @@ portemonnaieshop.ch
 portemotocampingcar.ch
 porten-immobilien.ch
 portend.ch
+portendcapital.ch
 portenier-beschichtungen.ch
 portenier-carreisen.ch
 portenier-elektro.ch
@@ -11324,7 +11330,6 @@ poseidonshop.ch
 poseidonstrident.ch
 poseidonswimming.ch
 poseidontrident.ch
-poseidonwin.ch
 poseidum.ch
 posemoi.ch
 posen.ch
@@ -12093,7 +12098,6 @@ postearea.ch
 postec.ch
 postecolis.ch
 postecourage.ch
-posted.ch
 postedirect.ch
 postedworkers.ch
 postefiance.ch

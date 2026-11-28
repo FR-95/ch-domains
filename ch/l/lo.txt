@@ -1119,6 +1119,7 @@ localsigner.ch
 localsingles.ch
 localsite.ch
 localsmusic.ch
+localsonly.ch
 localsonlyfestival.ch
 localspace.ch
 localspageneve.ch
@@ -4739,11 +4740,13 @@ logisystem-int.ch
 logisystem-international.ch
 logisystem.ch
 logisz.ch
+logit-cloud.ch
 logit.ch
 logitad.ch
 logitag.ch
 logitalp.ch
 logitas.ch
+logitcloud.ch
 logite.ch
 logiteam.ch
 logitec.ch
@@ -5969,6 +5972,7 @@ loicsaugy.ch
 loicschmid.ch
 loicschneider.ch
 loicstudio.ch
+loicsui91.ch
 loicsutter.ch
 loicthurre.ch
 loictobler.ch
@@ -6636,6 +6640,7 @@ lokisushi.ch
 lokitel.ch
 lokithor.ch
 lokitime.ch
+lokiwa.ch
 lokizurich.ch
 lokjobs.ch
 lokk.ch
@@ -7524,7 +7529,6 @@ longchair.ch
 longchamp-consultants.ch
 longchamp-sa.ch
 longchamp.ch
-longchamparchitectes.ch
 longchampmacro.ch
 longchamps.ch
 longcheminart.ch
@@ -7796,6 +7800,7 @@ longevityproject.ch
 longevityproof.ch
 longevityresorts.ch
 longevityretreat.ch
+longevityroute.ch
 longevityschweiz.ch
 longevityselected.ch
 longevityshake.ch
@@ -8847,6 +8852,7 @@ lootroute.ch
 lootscasino.ch
 lootus.ch
 lootwerk.ch
+lootwoo.ch
 looty.ch
 lootzino.ch
 loou.ch
@@ -9250,7 +9256,6 @@ lordnicole.ch
 lordof-theocean.ch
 lordofdragons.ch
 lordofenergy.ch
-lordofocean.ch
 lordofoxford.ch
 lordoftheocean.ch
 lordoftherings.ch
@@ -9291,6 +9296,7 @@ lorea-schoenenberger.ch
 lorea.ch
 loreabeauty.ch
 loreade.ch
+loreag.ch
 loreal-paris.ch
 loreal-produkte.ch
 loreal-shampoo.ch
@@ -10544,6 +10550,7 @@ lospadellos.ch
 lospanitos.ch
 lospartners.ch
 lospaswiss.ch
+lospazio.ch
 lospeed.ch
 lospepes.ch
 lospescadores.ch
@@ -10924,6 +10931,7 @@ lotok.ch
 lotomba.ch
 lotonova.ch
 lotoperroy.ch
+lotoplanet.ch
 lotoplus.ch
 lotoptic.ch
 lotoquinemalin.ch
@@ -11030,6 +11038,7 @@ lotteriearena.ch
 lotterieclub.ch
 lotterielos.ch
 lotterielose.ch
+lotterien.ch
 lotterienjumbo.ch
 lotteries.ch
 lotters.ch
@@ -13027,7 +13036,6 @@ lovelykingdomqueen.ch
 lovelykiss.ch
 lovelyladies.ch
 lovelylashes.ch
-lovelyleaves.ch
 lovelylife.ch
 lovelylinen.ch
 lovelylittlethings-boutique.ch

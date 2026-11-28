@@ -1017,7 +1017,6 @@ ns1.bex-haustechnik.ch
 ns1.bf-net.ch
 ns1.bfk-edv-consulting.ch
 ns1.bgbsa.ch
-ns1.bgint.ch
 ns1.bhvconseils.ch
 ns1.biasbox.ch
 ns1.bictechag.ch
@@ -1175,6 +1174,7 @@ ns1.cazao.ch
 ns1.cb-visu.ch
 ns1.cclhost.ch
 ns1.ccproductions.ch
+ns1.ccw-dns.ch
 ns1.cdcreadeco.ch
 ns1.cdisa.ch
 ns1.cdn-hosting.ch
@@ -2376,6 +2376,7 @@ ns1.lexo.ch
 ns1.leysart.ch
 ns1.lfo-sa.ch
 ns1.lfo.ch
+ns1.lgkg-beiderbasel.ch
 ns1.lgr-renovation.ch
 ns1.libracore.ch
 ns1.libralures.ch
@@ -3564,7 +3565,6 @@ ns1.thinkit.ch
 ns1.thomasmathis.ch
 ns1.thr.ch
 ns1.threema.ch
-ns1.thulcke-hosting.ch
 ns1.thurdata.ch
 ns1.tiadmin.ch
 ns1.tibetanhealing-massage.ch
@@ -3962,6 +3962,7 @@ ns10.akb.ch
 ns10.behost.ch
 ns10.bucher-walt.ch
 ns10.cbm.ch
+ns10.core2.ch
 ns10.crimanet.ch
 ns10.fast-lta.ch
 ns10.hcweb.ch
@@ -4326,7 +4327,6 @@ ns2.bettle.ch
 ns2.bewebt.ch
 ns2.bex-haustechnik.ch
 ns2.bger.ch
-ns2.bgint.ch
 ns2.bhvconseils.ch
 ns2.biasbox.ch
 ns2.bictechag.ch
@@ -4478,6 +4478,7 @@ ns2.cazao.ch
 ns2.cb-visu.ch
 ns2.cclhost.ch
 ns2.ccproductions.ch
+ns2.ccw-dns.ch
 ns2.cdcreadeco.ch
 ns2.cdisa.ch
 ns2.cdn-hosting.ch
@@ -5635,6 +5636,7 @@ ns2.lexo.ch
 ns2.leysart.ch
 ns2.lfo-sa.ch
 ns2.lfo.ch
+ns2.lgkg-beiderbasel.ch
 ns2.lgr-renovation.ch
 ns2.libracore.ch
 ns2.libralures.ch
@@ -6776,7 +6778,6 @@ ns2.think-digital.ch
 ns2.thinkit.ch
 ns2.thr.ch
 ns2.threema.ch
-ns2.thulcke-hosting.ch
 ns2.thurdata.ch
 ns2.tiadmin.ch
 ns2.tibetanhealing-massage.ch
@@ -7299,6 +7300,7 @@ ns3.canberg.ch
 ns3.casalavida.ch
 ns3.cazao.ch
 ns3.cb-visu.ch
+ns3.ccw-dns.ch
 ns3.cdn-hosting.ch
 ns3.cedl.ch
 ns3.center.ch
@@ -8015,6 +8017,7 @@ ns4.bsource.ch
 ns4.bwcloud.ch
 ns4.bytefarm.ch
 ns4.catatec.ch
+ns4.ccw-dns.ch
 ns4.center.ch
 ns4.ch
 ns4.christin.ch
@@ -8777,6 +8780,7 @@ nstpr.ch
 nstr.ch
 nstrategies.ch
 nstratfin.ch
+nstrauss.ch
 nstre.ch
 nstream.ch
 nstreuhand.ch

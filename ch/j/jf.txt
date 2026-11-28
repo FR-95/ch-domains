@@ -1,4 +1,5 @@
 jf-ag.ch
+jf-art.ch
 jf-audio.ch
 jf-automobiles.ch
 jf-bau.ch
@@ -71,6 +72,7 @@ jfbautte.ch
 jfbb.ch
 jfbe-gr26.ch
 jfbe.ch
+jfbeauty.ch
 jfbeo.ch
 jfbh.ch
 jfbickel.ch

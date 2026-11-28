@@ -603,6 +603,7 @@ voegtlin-meyer.ch
 voegtlin-partner.ch
 voegtlin.ch
 voegtlinarch.ch
+voegtlindigital.ch
 voegtline.ch
 voegtlins.ch
 voegtlinundpartner.ch
@@ -1785,7 +1786,6 @@ voiecinq.ch
 voieclimatique.ch
 voiedeguerison.ch
 voiedeleveil.ch
-voiedelumiere.ch
 voiedemetamorphose.ch
 voieducoeur.ch
 voiedumilieu.ch
@@ -7042,6 +7042,7 @@ vorma-licht.ch
 vorma.ch
 vormaggio.ch
 vormagmbh.ch
+vormal.ch
 vormelo.ch
 vormerkung.ch
 vormiete.ch
@@ -7168,6 +7169,7 @@ vorsicht-beim-ticketkauf.ch
 vorsicht-einsicht.ch
 vorsicht-kinder.ch
 vorsicht-vortritt.ch
+vorsicht.ch
 vorsichtbeimticketkauf.ch
 vorsichteinsicht.ch
 vorsichtigai.ch
@@ -8792,6 +8794,7 @@ voxmail.ch
 voxmaris.ch
 voxmark.ch
 voxme.ch
+voxmedia.ch
 voxmentu.ch
 voxmind.ch
 voxnatio.ch
@@ -9255,6 +9258,7 @@ voyantmediumsuisse.ch
 voyantnoa.ch
 voyantsama.ch
 voyantsuisse.ch
+voyara.ch
 voyart.ch
 voyatravel.ch
 voyce.ch

@@ -2966,7 +2966,6 @@ svvsolution.ch
 svvsolutionag.ch
 svvw.ch
 svw-aargau.ch
-svw-ag.ch
 svw-asc.ch
 svw-wildcard.ch
 svw-zh.ch

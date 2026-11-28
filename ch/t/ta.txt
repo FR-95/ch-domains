@@ -857,6 +857,7 @@ taborde.ch
 taborek.ch
 taborelliconsulting.ch
 taborhof.ch
+taborlinn.ch
 taborne.ch
 taborniau.ch
 tabornio.ch
@@ -998,6 +999,7 @@ tacamo.ch
 tacan-sina.ch
 tacan.ch
 tacano.ch
+tacarino.ch
 tacarte.ch
 tacave.ch
 tacb.ch
@@ -1074,6 +1076,7 @@ tachogeraete-service.ch
 tachogeraeteservice.ch
 tachograf.ch
 tachografendatenauswertung.ch
+tachogram.ch
 tachograph.ch
 tachographauslesen.ch
 tachographendaten.ch
@@ -1465,6 +1468,7 @@ tadaah.ch
 tadaam.ch
 tadaaz.ch
 tadabeschriftung.ch
+tadabor.ch
 tadacadeau.ch
 tadaeffects.ch
 tadah.ch
@@ -2586,7 +2590,6 @@ tagesmutterineglisau.ch
 tagesmuttermarjeta-mehralsbetreuung.ch
 tagesmuttermitherz.ch
 tagesmuttermoehlin.ch
-tagesmutternancy.ch
 tagesmutterpamela.ch
 tagesmutterposilipo.ch
 tagesmuttersamira.ch
@@ -3328,7 +3331,6 @@ taijilugano.ch
 taijimaur.ch
 taijineuch.ch
 taijiqigong.ch
-taijiqigongbernbiel.ch
 taijiquan-ausbildung.ch
 taijiquan-lacote.ch
 taijiquan-seetal.ch
@@ -4292,6 +4294,7 @@ taktkultur.ch
 taktland.ch
 taktli.ch
 taktlicht.ch
+taktline.ch
 taktlos-band.ch
 taktlos.ch
 taktmanagement.ch
@@ -6451,6 +6454,7 @@ tamoilcard.ch
 tamoildealer.ch
 tamoilnetwork.ch
 tamoilsuisse.ch
+tamojunto.ch
 tamoko.ch
 tamoli.ch
 tamolino.ch
@@ -10416,6 +10420,7 @@ tarandus.ch
 taranepal.ch
 taranet.ch
 taranex.ch
+tarango.ch
 taranhauser.ch
 tarani.ch
 taranis-handel.ch
@@ -10952,7 +10957,6 @@ tarifvergleich-testsieger.ch
 tarifvergleich.ch
 tarifwechsel.ch
 tarifwecker.ch
-tarify.ch
 tarih.ch
 tarik-cherkaoui.ch
 tarik-isik.ch
@@ -11310,7 +11314,6 @@ tartes.ch
 tartesandtides.ch
 tartesflambees.ch
 tartetropezienne.ch
-tarti.ch
 tartiflette.ch
 tartine-et-chocolat.ch
 tartine.ch
@@ -11537,7 +11540,6 @@ taschenmanufaktur.ch
 taschenmarkt.ch
 taschenmaske.ch
 taschenmasken.ch
-taschenmeister.ch
 taschenmesser-ch.ch
 taschenmesser-schweiz.ch
 taschenmesser-shop.ch
@@ -13236,14 +13238,12 @@ taube-zug.ch
 taube.ch
 taubehunde.ch
 tauben-abwehr.ch
-tauben-aus-aller-welt.ch
 tauben-initiative.ch
 tauben-lindenplatz.ch
 tauben.ch
 taubenabwehr-profi.ch
 taubenabwehr-schweiz.ch
 taubenabwehr.ch
-taubenausallerwelt.ch
 taubenflug.ch
 taubenfrosch.ch
 taubenfutter.ch
@@ -14268,6 +14268,7 @@ tavolinomagico.ch
 tavolio.ch
 tavoliticino.ch
 tavolla.ch
+tavolo-booking.ch
 tavolo-da-ristorante.ch
 tavolo-tavola.ch
 tavolo.ch
@@ -15607,6 +15608,7 @@ taxicom.ch
 taxicondiviso.ch
 taxicool.ch
 taxicooperative.ch
+taxicosy.ch
 taxicoupon.ch
 taxicoupons.ch
 taxicransmontana.ch

@@ -214,7 +214,6 @@ daalbrecht.ch
 daals.ch
 daamici.ch
 daamici2.ch
-daams-fenster-montagen.ch
 daams.ch
 daan.ch
 daana.ch
@@ -657,6 +656,7 @@ dachbaugehring.ch
 dachbauland.ch
 dachbaulogistik.ch
 dachbaustoffe.ch
+dachbauwerk.ch
 dachbedacht.ch
 dachbegruenung.ch
 dachbegruenungen.ch
@@ -990,6 +990,7 @@ dachleck.ch
 dachleckage.ch
 dachleckortung.ch
 dachli.ch
+dachlicht.ch
 dachlichtplatten24.ch
 dachlis.ch
 dachlissen.ch
@@ -1022,6 +1023,7 @@ dachmueggler.ch
 dachnavigator.ch
 dachnotdienst.ch
 dachoberlicht-service.ch
+dachofferte.ch
 dachpaneele.ch
 dachpartner.ch
 dachpc.ch
@@ -1638,6 +1640,7 @@ dadem.ch
 dadens.ch
 dadenta.ch
 dadesign.ch
+dadesktop.ch
 dadfactory.ch
 dadfir3.ch
 dadforce.ch
@@ -2256,6 +2259,7 @@ dagency-analytics.ch
 dagency.ch
 dageneva.ch
 dagens2.ch
+dagenslun.ch
 dageo.ch
 dagerardo.ch
 dagfishing.ch
@@ -2477,6 +2481,7 @@ daheimpersonaltraining.ch
 daheimplus.ch
 daheimsi.ch
 daheimstattheim.ch
+daheimtex.ch
 daheimu.ch
 daheimweb.ch
 daheimwohnen.ch
@@ -2967,7 +2972,6 @@ dailywork.ch
 dailyzeit.ch
 daim.ch
 daiman.ch
-daimani.ch
 daimex.ch
 daimgarage.ch
 daimi.ch
@@ -3812,6 +3816,7 @@ dalnido.ch
 dalo-service.ch
 dalo.ch
 daloba.ch
+dalobot.ch
 daloe.ch
 dalofu.ch
 dalofy.ch
@@ -4695,7 +4700,6 @@ damofid.ch
 damokles.ch
 damol.ch
 damolino.ch
-damon-bracket.ch
 damon-paysage.ch
 damon-system.ch
 damon.ch
@@ -10253,7 +10257,6 @@ dark-net.ch
 dark-patterns.ch
 dark-punk.ch
 dark-room.ch
-dark-secret.ch
 dark-side.ch
 dark-silver.ch
 dark-sky.ch
@@ -13211,6 +13214,7 @@ data-guard.ch
 data-hackdays-be.ch
 data-hackdays-ur.ch
 data-hackdays-uri.ch
+data-haus.ch
 data-help.ch
 data-hero.ch
 data-highway.ch
@@ -13698,6 +13702,7 @@ datacustodian.ch
 datacut.ch
 datacy.ch
 datacycle.ch
+datad.ch
 datadada.ch
 datadave.ch
 datadays.ch
@@ -14320,6 +14325,7 @@ datarequest.ch
 datares.ch
 datarescue.ch
 dataresource.ch
+dataresq.ch
 datarex.ch
 datarey.ch
 datarhena.ch
@@ -15185,7 +15191,6 @@ datenschutz-partner.ch
 datenschutz-podcast.ch
 datenschutz-praxis.ch
 datenschutz-richtig.ch
-datenschutz-schule.ch
 datenschutz-schulung.ch
 datenschutz-schweiz-deutschland.ch
 datenschutz-schweiz.ch
@@ -17510,6 +17515,7 @@ davos-camping.ch
 davos-carriage.ch
 davos-casino.ch
 davos-chalet.ch
+davos-chauffeur.ch
 davos-clavadel.ch
 davos-congress.ch
 davos-consulting.ch
@@ -17653,7 +17659,6 @@ davosdigitalfoundation.ch
 davosdorf.ch
 davosdreams.ch
 davosdreamsapartment.ch
-davosenterprises.ch
 davoser-bergbahnen.ch
 davoser-bier.ch
 davoser-gin.ch

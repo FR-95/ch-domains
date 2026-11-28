@@ -220,7 +220,6 @@ kabag-ag.ch
 kabag-bau.ch
 kabag.ch
 kabagoez.ch
-kabakci.ch
 kabakreativ.ch
 kabal.ch
 kabama.ch
@@ -760,6 +759,7 @@ kadefemin.ch
 kadegu.ch
 kadekor.ch
 kadela.ch
+kadem.ch
 kadema.ch
 kadematic.ch
 kademeli-collective.ch
@@ -2812,6 +2812,7 @@ kafi-stuebli.ch
 kafi-tabourettli.ch
 kafi-traeff.ch
 kafi-trio.ch
+kafi-trueggli.ch
 kafi-uszyt.ch
 kafi-wano.ch
 kafi-wick.ch
@@ -5534,7 +5535,6 @@ kalydeco.ch
 kalydian.ch
 kalygea.ch
 kalyko.ch
-kalyna-creperie.ch
 kalyna-olten.ch
 kalyna-pilates.ch
 kalynaolten.ch
@@ -8153,6 +8153,7 @@ kantoneschweiz.ch
 kantoneweb.ch
 kantonfahne.ch
 kantonfisch.ch
+kantonfit.ch
 kantonfreiburg.ch
 kantonfriburg.ch
 kantonglarus.ch
@@ -9157,6 +9158,7 @@ kapitel-humanitas.ch
 kapitel.ch
 kapitel1.ch
 kapitel10.ch
+kapitel2.ch
 kapitel4900.ch
 kapitel7.ch
 kapiteldrei.ch
@@ -9208,6 +9210,7 @@ kaplinio.ch
 kapllani-peinture.ch
 kapllani.ch
 kapllanipeinture.ch
+kaplo.ch
 kaplony.ch
 kapls.ch
 kaplun.ch
@@ -11939,7 +11942,6 @@ karmafind.ch
 karmafloor.ch
 karmafood.ch
 karmaforsale.ch
-karmaforscher.ch
 karmaforschung.ch
 karmafux.ch
 karmag.ch
@@ -12345,7 +12347,6 @@ karrakas.ch
 karrazmotors.ch
 karrdental.ch
 karrealestate.ch
-karree.ch
 karrelong.ch
 karren.ch
 karrenbauer.ch
@@ -13460,7 +13461,6 @@ kasama.ch
 kasamar.ch
 kasamatte-playground.ch
 kasamea.ch
-kasami-platten.ch
 kasami.ch
 kasamia.ch
 kasamiplatten.ch
@@ -16358,7 +16358,6 @@ katzenbaden.ch
 katzenbaeume.ch
 katzenbalkonnetze.ch
 katzenbank.ch
-katzenbarf.ch
 katzenbaum-holz.ch
 katzenbaum-naturholz.ch
 katzenbaum-shop.ch

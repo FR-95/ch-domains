@@ -1368,6 +1368,7 @@ xn--anbaugerte-bagger-xqb.ch
 xn--anbaugerte-x5a.ch
 xn--andaluz-palla-dib.ch
 xn--andiamller-feb.ch
+xn--andijggi-4za.ch
 xn--andirz-fua.ch
 xn--andis-hpfburg-2ob.ch
 xn--andr-haas-consulting-e2b.ch
@@ -1431,6 +1432,7 @@ xn--andrthalmann-eeb.ch
 xn--andrwidmer-e7a.ch
 xn--andybsch-r4a.ch
 xn--andybttler-eeb.ch
+xn--andyjggi-4za.ch
 xn--anesthsie-g4a.ch
 xn--anesthsiologie-gkb.ch
 xn--anesthsiste-gbb.ch
@@ -3171,7 +3173,6 @@ xn--bahnhof-lwenstrasse-y6b.ch
 xn--bahnhof-sd-aarau-rzb.ch
 xn--bahnhof-sd-ieb.ch
 xn--bahnhoflwenstrasse-k3b.ch
-xn--bahnhofsd-x9a.ch
 xn--bahnhofsdaarau-nsb.ch
 xn--bahnhofstrasse-zrich-4ec.ch
 xn--bahnhoftaxiwdenswil-rwb.ch
@@ -3675,6 +3676,7 @@ xn--bautenschden-ocb.ch
 xn--bautreff-waldsttter-uwb.ch
 xn--bautrger-4za.ch
 xn--bautrgerbibel-ffb.ch
+xn--bauvolumenbrse-5pb.ch
 xn--bauwchetr-y2a.ch
 xn--bauwchter-y2a.ch
 xn--bauwerksbegrnung-uzb.ch
@@ -5819,6 +5821,7 @@ xn--blemlisalp-beb.ch
 xn--blemlisberg-uhb.ch
 xn--blemlisex-r9a.ch
 xn--blent-pekerman-gsb.ch
+xn--bler-loa.ch
 xn--blesli-4ya.ch
 xn--bletetraum-beb.ch
 xn--bleu-barr-j4a.ch
@@ -8975,6 +8978,7 @@ xn--bundesrztekammer-0nb.ch
 xn--bung-zra.ch
 xn--bungsbltter-r8a81a.ch
 xn--bungsmedikamente-izb.ch
+xn--bungsraum-p9a.ch
 xn--bungypumplman-khb.ch
 xn--bunkerkse-12a.ch
 xn--bunte-bffel-zhb.ch
@@ -10589,9 +10593,6 @@ xn--clo-dma.ch
 xn--cloches-de-la-libert-u2b.ch
 xn--clos-des-pices-5jb.ch
 xn--closion-9xa.ch
-xn--cloud-lsung-xfb.ch
-xn--cloud-lsungen-omb.ch
-xn--cloudlsung-jcb.ch
 xn--cloudnativezrich-uzb.ch
 xn--clown-mpi-67a.ch
 xn--clownwrts-02a.ch
@@ -13605,6 +13606,7 @@ xn--e-mobilitt-y5a.ch
 xn--e-mobilitt-zh-jfb.ch
 xn--e-mobilitt-zri-eib10b.ch
 xn--e-mobilittsinitative-jzb.ch
+xn--e-mobilittsinitiative-e2b.ch
 xn--e-novnfo-g2a.ch
 xn--e-prfung-95a.ch
 xn--e-prfung-sgr-ssr-mzb.ch
@@ -16159,6 +16161,7 @@ xn--ferienhusertessin-wqb.ch
 xn--ferienhuserwallis-wqb.ch
 xn--ferieningrchen-fib.ch
 xn--ferienjobbrse-rmb.ch
+xn--ferienpass-mrstetten-mzb.ch
 xn--ferienschnppchen-4nb.ch
 xn--ferientrns-kcb.ch
 xn--ferienunterknfte-uzb.ch
@@ -21325,6 +21328,7 @@ xn--glhmix-4ya.ch
 xn--glhpunsch-r9a.ch
 xn--glhschwein-beb.ch
 xn--glhteufel-r9a.ch
+xn--glhvette-75a.ch
 xn--glhweg-4ya.ch
 xn--glhwein-catering-kzb.ch
 xn--glhwein-herisau-0vb.ch
@@ -23062,6 +23066,7 @@ xn--grundstcke-zrich-pzbf.ch
 xn--grundstckentwsserung-nzb53c.ch
 xn--grundstckfinder-5vb.ch
 xn--grundstckgewinn-5vb.ch
+xn--grundstckgewinnsteuer-fic.ch
 xn--grundstckgewinnsteuer-zh-1sc.ch
 xn--grundstckgewinnsteuer-zrich-o3cq.ch
 xn--grundstckgewinnsteuern-ylc.ch
@@ -24574,10 +24579,8 @@ xn--heizstbe-5za.ch
 xn--heizung--sanitr-elb.ch
 xn--heizung-klte-ocb.ch
 xn--heizung-lftung-sanitr-p2b45c.ch
-xn--heizung-sanitr-hilfehotline-nkc.ch
 xn--heizung-sanitr-iib.ch
 xn--heizung-sanitr-spenglerei-xec.ch
-xn--heizung-sanitr-telefonhotline-dqc.ch
 xn--heizung-zrich-4ob.ch
 xn--heizungen-sanitr-9nb.ch
 xn--heizungenzrich-psb.ch
@@ -26823,6 +26826,7 @@ xn--hterinnen-q9a.ch
 xn--htesses-t0a.ch
 xn--htfrmorn-65ac.ch
 xn--hthusermann-n8a.ch
+xn--hti-hoa.ch
 xn--htli-0ra.ch
 xn--htmller-p2a.ch
 xn--htmorge-n2a.ch
@@ -27681,7 +27685,6 @@ xn--immoprfung-mallorca-bbc.ch
 xn--immoschtzer-r8a.ch
 xn--immoschtzung-mcb.ch
 xn--immoschtzungen-cib.ch
-xn--immoseekbr-y5a.ch
 xn--immotreuhnder-jfb.ch
 xn--immovativ-hfliger-0qb.ch
 xn--immoverkufer-ncb.ch
@@ -27727,6 +27730,7 @@ xn--imria-csa.ch
 xn--imschloss-trllikon-x6b.ch
 xn--in-den-obstgrten-6nb.ch
 xn--in-den-stnderat-8kb.ch
+xn--in-der-nhe-x5a.ch
 xn--in-design-07a.ch
 xn--in-einer-glcklichen-welt-5sc.ch
 xn--in-guten-hnden-fib.ch
@@ -30115,6 +30119,7 @@ xn--kiesundkltzli-qmb.ch
 xn--kifrbetriebe-flb.ch
 xn--kifrindustrie-yob.ch
 xn--kifrkmu-p2a.ch
+xn--kigagrn-s2a.ch
 xn--kihof-baar-dcb.ch
 xn--kihof-iua.ch
 xn--kik-joa.ch
@@ -33080,6 +33085,7 @@ xn--lait-a-la-rcr-lhbc.ch
 xn--lait-desprs-kbb.ch
 xn--laitdesprs-j7a.ch
 xn--laizitt-bxa.ch
+xn--lakesidepark-ksnacht-2ec.ch
 xn--lakinsiologie-fhb.ch
 xn--lakridsbyblow-5ob.ch
 xn--laktose-unvertrglichkeit-4bc.ch
@@ -33873,7 +33879,6 @@ xn--leservicededmnagement-m5bb.ch
 xn--lesfissurs-j7a.ch
 xn--lesfracasss-kbb.ch
 xn--lesfvres-40a.ch
-xn--lesgrainesdores-nnb.ch
 xn--lesidescadeaux-fkb.ch
 xn--lesjardinsdelme-gkb.ch
 xn--lesmarchs-i4a.ch
@@ -35659,7 +35664,6 @@ xn--maisondelalumire-6pb.ch
 xn--maisondelasantetdubientre-oic9a.ch
 xn--maisondesarmes-bpb.ch
 xn--maisonlacathenire-6sb.ch
-xn--maisonlumire-6db.ch
 xn--maisons-grbetal-7vb.ch
 xn--maisonvendre-39a.ch
 xn--maisonvidence-ghb.ch
@@ -37386,7 +37390,6 @@ xn--mentaltraining-fr-musiker-uwc.ch
 xn--mentaltraining-zrich-4ec.ch
 xn--mentaltrainingfrmusiker-qpc.ch
 xn--menuiserie-crative-nwb.ch
-xn--menuiseriemichelross-u2b.ch
 xn--mer-rna.ch
 xn--mercedes-stfa-lfb.ch
 xn--mercedes-zrich-psb.ch
@@ -38434,6 +38437,7 @@ xn--mllers-3ya.ch
 xn--mllers-aufziehservice-8hc.ch
 xn--mllers-schtzenhtte-m6bjf.ch
 xn--mllers-spenglerei-22b.ch
+xn--mllerschmitt-dlb.ch
 xn--mllerschongau-wob.ch
 xn--mllershop-q9a.ch
 xn--mllerski-65a.ch
@@ -39631,6 +39635,7 @@ xn--mtzener-5wa.ch
 xn--mtzihof-5wa.ch
 xn--mtzler-bua.ch
 xn--mtzwiesenstrasse-vnb.ch
+xn--mu-eka.ch
 xn--mu-fka.ch
 xn--mu-ka-kserei-mcb.ch
 xn--mu-wka.ch
@@ -43679,6 +43684,7 @@ xn--plysuisse-w2a.ch
 xn--pm-uia.ch
 xn--pm-zri-6ya.ch
 xn--pmegenve-60a.ch
+xn--pmkzrich-95a.ch
 xn--pmpel-jua.ch
 xn--pmpel-kva.ch
 xn--pmpels-wxa.ch
@@ -48358,9 +48364,7 @@ xn--sanitr-finden-ffb.ch
 xn--sanitr-frauenfeld-uqb.ch
 xn--sanitr-fua.ch
 xn--sanitr-heizung-9hb.ch
-xn--sanitr-heizung-hilfehotline-fkc.ch
 xn--sanitr-heizung-solar-fzb.ch
-xn--sanitr-heizung-telefonhotline-4pc.ch
 xn--sanitr-heizungen-znb.ch
 xn--sanitr-held-p8a.ch
 xn--sanitr-installateur-kwb.ch
@@ -57525,6 +57529,7 @@ xn--trophen-9wa.ch
 xn--trophenbewertung-znb.ch
 xn--trophesdumuveran-fqb.ch
 xn--trost-rumung-rckbau-mwb52c.ch
+xn--troton-comptabilit-swb.ch
 xn--trottet-rcupration-jwbd.ch
 xn--trottinett-unflle-3qb.ch
 xn--trottinettunflle-7nb.ch
@@ -58844,7 +58849,6 @@ xn--vermgensmanufaktur-g3b.ch
 xn--vermgenspartner-ctb.ch
 xn--vermgensplan-7ib.ch
 xn--vermgensplaner-ypb.ch
-xn--vermgensplanung-ctb.ch
 xn--vermgensplanung-ergnzungsleistungen-o7c46d.ch
 xn--vermgensportal-ypb.ch
 xn--vermgensschutz-schweiz-xhc.ch
@@ -63426,6 +63430,7 @@ xn--zri-konto-q9a.ch
 xn--zri-kottu-q9a.ch
 xn--zri-krcker-v5a6z.ch
 xn--zri-kurier-9db.ch
+xn--zri-ldt-auf-p8a12a.ch
 xn--zri-leu-n2a.ch
 xn--zri-liebi-q9a.ch
 xn--zri-lift-65a.ch
@@ -64116,6 +64121,7 @@ xn--zrikultur-q9a.ch
 xn--zrikurier-q9a.ch
 xn--zrilaser-65a.ch
 xn--zrilaufcup-9db.ch
+xn--zrildtauf-y2a4x.ch
 xn--zrilena-n2a.ch
 xn--zriliebi-65a.ch
 xn--zrilieder-q9a.ch
@@ -64219,7 +64225,6 @@ xn--zriseeaktuell-wob.ch
 xn--zriseebar-q9a.ch
 xn--zriseebikers-dlb.ch
 xn--zriseeblick-thb.ch
-xn--zriseecatering-gsb.ch
 xn--zriseecenter-dlb.ch
 xn--zriseeclean-thb.ch
 xn--zriseeclub-9db.ch
@@ -64522,6 +64527,7 @@ xn--zurflhs-bahnhfli-ywb3h.ch
 xn--zurfluh-ziegenkse-4qb.ch
 xn--zurfnftenjahreszeit-89b.ch
 xn--zurfuttermhle-5ob.ch
+xn--zuri-ldt-auf-lcb.ch
 xn--zurich-mller-klb.ch
 xn--zurmgd-eua.ch
 xn--zurmhle-q2a.ch

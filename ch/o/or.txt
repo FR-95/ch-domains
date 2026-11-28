@@ -1654,6 +1654,9 @@ ordi-hub.ch
 ordi-sound.ch
 ordi-utile.ch
 ordi.ch
+ordia-bau.ch
+ordia-baumanagement.ch
+ordia-immobilien.ch
 ordia.ch
 ordiagestion.ch
 ordiam.ch
@@ -1752,6 +1755,7 @@ ordnerdienste.ch
 ordnerei.ch
 ordnergestelle.ch
 ordnerheld.ch
+ordnerlos.ch
 ordnerregal.ch
 ordnerregale.ch
 ordnerscan.ch
@@ -1760,6 +1764,7 @@ ordnerverpackungen.ch
 ordnic.ch
 ordnig.ch
 ordnigami.ch
+ordnigapp.ch
 ordnigmitherz.ch
 ordning-reda.ch
 ordningreda.ch
@@ -1969,6 +1974,7 @@ ordzone.ch
 ore-official.ch
 ore.ch
 orea-ag.ch
+orea-carcare.ch
 orea-ensemble.ch
 orea-freiburg.ch
 orea-fribourg.ch
@@ -2083,7 +2089,6 @@ oreliaphotography.ch
 orelias.ch
 orelic.ch
 orelico.ch
-orelie.ch
 oreliefuchs.ch
 oreliefuchschen.ch
 orelion.ch
@@ -2138,7 +2143,6 @@ oremus.ch
 oren.ch
 orena-cosmetics.ch
 orena.ch
-orenberg.ch
 orencash.ch
 orencia.ch
 orenda-cafe.ch
@@ -2727,6 +2731,7 @@ organizedte.ch
 organizeher.ch
 organizeme.ch
 organizen.ch
+organizer-ca.ch
 organizer24.ch
 organizergeneve.ch
 organizers-congress.ch
@@ -4477,6 +4482,8 @@ orlebarbrown.ch
 orlega.ch
 orlemann.ch
 orlen.ch
+orlenglobal.ch
+orlenglobalcommodities.ch
 orlenoil.ch
 orlenswiss.ch
 orlentrading.ch
@@ -5464,6 +5471,7 @@ ortho-intyamon.ch
 ortho-iten.ch
 ortho-joss.ch
 ortho-jung.ch
+ortho-juvet.ch
 ortho-kandertal.ch
 ortho-kern.ch
 ortho-kerr.ch
@@ -5512,6 +5520,7 @@ ortho-praxis-fischer.ch
 ortho-praxis-schwyz.ch
 ortho-praxis-thun.ch
 ortho-praxis.ch
+ortho-prilly.ch
 ortho-pro.ch
 ortho-rajo.ch
 ortho-rama.ch
@@ -6615,6 +6624,7 @@ ortobom.ch
 ortocell.ch
 ortocentro.ch
 ortocheratologia.ch
+ortocura.ch
 ortodent.ch
 ortodental.ch
 ortodoncia-zug.ch
@@ -6669,6 +6679,7 @@ ortorganicoayni.ch
 ortorustico.ch
 ortosurgical.ch
 ortotecnica.ch
+ortoto.ch
 ortourbano.ch
 ortovet.ch
 ortovox.ch

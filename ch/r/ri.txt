@@ -1196,7 +1196,6 @@ richimarti.ch
 richimeier.ch
 richimerk-holzkunst.ch
 richimgrind.ch
-richimmobilien.ch
 richimoto.ch
 richina.ch
 richinas.ch
@@ -2419,6 +2418,7 @@ ridesharing.ch
 rideshop.ch
 rideside.ch
 ridesign.ch
+ridesmart.ch
 ridesnowboards.ch
 ridespirit.ch
 ridest.ch
@@ -3764,7 +3764,6 @@ rightpeopleclub.ch
 rightperson.ch
 rightpics.ch
 rightplacement.ch
-rightpoint.ch
 rightrain.ch
 rights-asylum.ch
 rights-translation.ch
@@ -4026,6 +4025,8 @@ rigimail.ch
 rigimarsch.ch
 rigimed.ch
 rigimedic.ch
+rigimetal.ch
+rigimetall.ch
 rigimeteo.ch
 rigimountains.ch
 rigimusiktage.ch
@@ -4288,7 +4289,6 @@ rii.ch
 riiag.ch
 riibchaes.ch
 riibi.ch
-riich.ch
 riichi-mahjong.ch
 riichi.ch
 riicom.ch
@@ -8586,6 +8586,7 @@ rivapiana.ch
 rivapiana26.ch
 rivaplan.ch
 rivapoker.ch
+rivapp.ch
 rivaquattro.ch
 rivar.ch
 rivara.ch

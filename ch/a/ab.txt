@@ -2712,7 +2712,6 @@ abenteuergeschichten.ch
 abenteuergesundheit.ch
 abenteuergolf.ch
 abenteuerhunde.ch
-abenteuerich.ch
 abenteuerimwald.ch
 abenteuerinformatik.ch
 abenteuerinformatiker.ch
@@ -3618,7 +3617,6 @@ ability-solutions.ch
 ability.ch
 abilitydrive.ch
 abilityimmobiliare.ch
-abilitylife.ch
 abilitynet.ch
 abilityone.ch
 abilium.ch
@@ -6951,6 +6949,7 @@ abyssinia-lausanne.ch
 abyssinia-ne.ch
 abyssinia-restaurant-ne.ch
 abyssinia-sion.ch
+abyssinia-vs.ch
 abyssinia.ch
 abyssiniasocialclub.ch
 abyssint-edition-bijoux.ch

@@ -1538,7 +1538,6 @@ jadlenoar.ch
 jado.ch
 jadola.ch
 jadoo.ch
-jadooore.ch
 jadopte-une-poule.ch
 jador.ch
 jadore-salon.ch
@@ -6670,6 +6669,7 @@ jardishop.ch
 jarditec.ch
 jarditech.ch
 jarditechservice.ch
+jarditroc.ch
 jardival.ch
 jardivin.ch
 jardivores.ch
@@ -7453,6 +7453,7 @@ jassas-express.ch
 jassba.ch
 jassbach.ch
 jassbalken.ch
+jassbattle.ch
 jassbeiz.ch
 jassbeizli.ch
 jassbielbienne.ch

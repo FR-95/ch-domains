@@ -1068,6 +1068,7 @@ imanage.ch
 imanagement.ch
 imanagemyself.ch
 imanager.ch
+imanagers.ch
 imanalytics.ch
 imanari-jiujitsu.ch
 imancini-entreprise.ch
@@ -2002,7 +2003,6 @@ imfri.ch
 imfs.ch
 imfusion.ch
 imfuttersack.ch
-img-confort.ch
 img-coris.ch
 img-drive-tech.ch
 img-fs.ch
@@ -2983,6 +2983,7 @@ immer-gut.ch
 immer-kind.ch
 immer-mobil.ch
 immer-schoen.ch
+immer-strom.ch
 immer-und-ewig.ch
 immer-unterwegs.ch
 immer-volle-praxis.ch
@@ -3545,7 +3546,6 @@ immo-daz.ch
 immo-db.ch
 immo-deal.ch
 immo-deals.ch
-immo-debarras.ch
 immo-deco.ch
 immo-deer.ch
 immo-defi.ch
@@ -3554,7 +3554,6 @@ immo-delta.ch
 immo-detente.ch
 immo-developmentag.ch
 immo-developpement.ch
-immo-dia.ch
 immo-dialog-ost.ch
 immo-dialog.ch
 immo-dienstleister.ch
@@ -4012,6 +4011,7 @@ immo-my.ch
 immo-naters.ch
 immo-nature.ch
 immo-nauer.ch
+immo-naut.ch
 immo-navigator.ch
 immo-ne.ch
 immo-nell.ch
@@ -4049,7 +4049,6 @@ immo-outsourcing.ch
 immo-p.ch
 immo-page.ch
 immo-pages.ch
-immo-paisible.ch
 immo-pal.ch
 immo-pallas.ch
 immo-pan.ch
@@ -5523,6 +5522,7 @@ immobilien-pflanzberg-ag.ch
 immobilien-pflanzberg.ch
 immobilien-pics.ch
 immobilien-plaiv.ch
+immobilien-plakat.ch
 immobilien-planung.ch
 immobilien-plattform.ch
 immobilien-plugin.ch
@@ -6415,6 +6415,7 @@ immobilienpflege-bern.ch
 immobilienpflege.ch
 immobilienpics.ch
 immobilienpionier.ch
+immobilienplakat.ch
 immobilienplan.ch
 immobilienplanung.ch
 immobilienplattform.ch
@@ -6645,7 +6646,6 @@ immobilienverkaufzweisimmen.ch
 immobilienverlag.ch
 immobilienvermarkter.ch
 immobilienvermarkterin.ch
-immobilienvermarktung-bern.ch
 immobilienvermarktung.ch
 immobilienvermarktung360.ch
 immobilienvermieten.ch
@@ -8561,6 +8561,7 @@ immonation.ch
 immonative.ch
 immonator.ch
 immonauer.ch
+immonaut.ch
 immonavi.ch
 immonax.ch
 immonde.ch
@@ -8673,7 +8674,6 @@ immopack.ch
 immopage.ch
 immopagina.ch
 immopagine.ch
-immopaisible.ch
 immopal.ch
 immopallas.ch
 immopalooza.ch
@@ -9149,7 +9149,6 @@ immosecur.ch
 immosecure.ch
 immosee.ch
 immoseek.ch
-immoseekbaer.ch
 immoseeker.ch
 immoseetal.ch
 immoseite.ch
@@ -10001,7 +10000,6 @@ immoxtra.ch
 immoxy.ch
 immoya.ch
 immoyield.ch
-immoyo.ch
 immoyou.ch
 immoz.ch
 immoza.ch
@@ -10491,6 +10489,7 @@ imoventa.ch
 imover.ch
 imovera.ch
 imoverita.ch
+imovest.ch
 imovesta-ag.ch
 imovesta.ch
 imovestaag.ch
@@ -10581,6 +10580,7 @@ impact-capital.ch
 impact-catalyst.ch
 impact-cc.ch
 impact-ch.ch
+impact-chablais.ch
 impact-change.ch
 impact-circle.ch
 impact-coiffure.ch
@@ -12249,6 +12249,7 @@ impressumservice.ch
 impressumsgenerator.ch
 impressumvaud.ch
 impressvit.ch
+impressyourself.ch
 impressyves.ch
 impreticoworld.ch
 impreva.ch
@@ -12766,7 +12767,6 @@ impuls-lehre.ch
 impuls-lu.ch
 impuls-magazin.ch
 impuls-massage.ch
-impuls-media.ch
 impuls-messe.ch
 impuls-migros.ch
 impuls-mit-wirkung.ch

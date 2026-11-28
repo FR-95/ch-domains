@@ -3479,7 +3479,6 @@ fightingmanagement.ch
 fightingsnakes.ch
 fightingspirit.ch
 fightingsquad.ch
-fightkidscancer.ch
 fightlab.ch
 fightless.ch
 fightlessbusiness.ch
@@ -4439,6 +4438,7 @@ filipp.ch
 filippa-k.ch
 filippa.ch
 filippakummer.ch
+filipparegger.ch
 filippavel.ch
 filippelli.ch
 filippi-bauberatung.ch
@@ -5557,6 +5557,7 @@ filterdirekt.ch
 filterdiscount.ch
 filterduesen.ch
 filterduschkopf.ch
+filtered.ch
 filterelement.ch
 filterelemente.ch
 filterexpress.ch
@@ -5960,6 +5961,7 @@ fims-medizin.ch
 fims.ch
 fimsa.ch
 fimsaudit.ch
+fimsec.ch
 fimsgroup.ch
 fimtec.ch
 fimtech.ch
@@ -6090,6 +6092,7 @@ finafast.ch
 finafoto.ch
 finag.ch
 finage.ch
+finagentai.ch
 finagest.ch
 finagle.ch
 finago.ch
@@ -7421,7 +7424,6 @@ finanzierungsexperten.ch
 finanzierungsloesungen.ch
 finanzierungsmarkt.ch
 finanzierungsnachweis.ch
-finanzierungspartner.ch
 finanzierungsplan.ch
 finanzierungsplattform.ch
 finanzierungsprofi.ch
@@ -8444,7 +8446,6 @@ findfusion.ch
 findgay.ch
 findgirl.ch
 findgirls.ch
-findgoldenhands.ch
 findheim.ch
 findhelp.ch
 findher.ch
@@ -12766,6 +12767,7 @@ firmnet.ch
 firmo.ch
 firmoo.ch
 firmos.ch
+firmova.ch
 firms.ch
 firmscout.ch
 firmscout24.ch
@@ -12794,11 +12796,13 @@ firmybrands.ch
 firn-drone.ch
 firn-group.ch
 firn-klima.ch
+firn-sec.ch
 firn-ski.ch
 firn-studio.ch
 firn.ch
 firna.ch
 firnament.ch
+firnapp.ch
 firnar.ch
 firnara.ch
 firnblick-davos.ch
@@ -12820,6 +12824,7 @@ firnmail.ch
 firno.ch
 firnova.ch
 firnschweiz.ch
+firnsec.ch
 firnside.ch
 firnski.ch
 firnstudio.ch
@@ -14116,6 +14121,7 @@ fischer-netz.ch
 fischer-news.ch
 fischer-online.ch
 fischer-outdoor.ch
+fischer-outlet.ch
 fischer-papier.ch
 fischer-partner.ch
 fischer-passt.ch
@@ -17237,7 +17243,6 @@ fitnessklubtasberg.ch
 fitnesskontor.ch
 fitnesskraftquelle.ch
 fitnesskrankenkasse.ch
-fitnesskrankenversicherung.ch
 fitnesskrebs.ch
 fitnesskurs.ch
 fitnesskurse.ch
@@ -18622,6 +18627,7 @@ fixplace.ch
 fixplan.ch
 fixplay.ch
 fixplus.ch
+fixpo.ch
 fixpod.ch
 fixpoint-lks.ch
 fixpoint.ch

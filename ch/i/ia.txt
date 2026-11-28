@@ -22,6 +22,7 @@ ia-cal-faire.ch
 ia-chocolat.ch
 ia-chocolate.ch
 ia-communale.ch
+ia-communes.ch
 ia-compta-suisse.ch
 ia-compta.ch
 ia-comptabilite.ch
@@ -906,6 +907,7 @@ iarchitecte.ch
 iarchitektur.ch
 iarda.ch
 iarea.ch
+iareg.ch
 iarepublic.ch
 iaresources.ch
 iaresponsable.ch

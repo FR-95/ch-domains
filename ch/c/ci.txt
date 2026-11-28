@@ -459,6 +459,7 @@ cica.ch
 cicaballoons.ch
 cicad.ch
 cicada.ch
+cicada3d.ch
 cicafe.ch
 cicaffe.ch
 cicala.ch
@@ -1508,7 +1509,6 @@ cim-ge.ch
 cim-geneve.ch
 cim-gmbh.ch
 cim-habitat.ch
-cim-invest.ch
 cim-logistics.ch
 cim-morges.ch
 cim-ne.ch
@@ -3697,6 +3697,7 @@ cirilbeck.ch
 cirilberther.ch
 cirilcamen.ch
 cirillo.ch
+cirino.ch
 cirio.ch
 cirio1856.ch
 cirion-sailing.ch

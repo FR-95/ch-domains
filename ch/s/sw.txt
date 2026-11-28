@@ -412,6 +412,7 @@ swaprom.ch
 swaps.ch
 swapservice.ch
 swapsies.ch
+swapsite.ch
 swapstickr.ch
 swapswiss.ch
 swapvv.ch
@@ -813,6 +814,7 @@ swedy.ch
 swee.ch
 sweebiz.ch
 sweed-medical.ch
+sweed-tea.ch
 sweed.ch
 sweeddreams.ch
 sweeddreamz.ch
@@ -5414,6 +5416,7 @@ swiss-forensicexpert.ch
 swiss-forensics.ch
 swiss-forex-daily.ch
 swiss-forex.ch
+swiss-forge-labs.ch
 swiss-forklift-champion.ch
 swiss-form.ch
 swiss-forma.ch
@@ -6656,7 +6659,6 @@ swiss-lizenzo.ch
 swiss-llm.ch
 swiss-lms.ch
 swiss-lobby.ch
-swiss-loc.ch
 swiss-local.ch
 swiss-location-award.ch
 swiss-locations.ch
@@ -8774,7 +8776,6 @@ swiss-smoke.ch
 swiss-sms.ch
 swiss-snack.ch
 swiss-snackbox.ch
-swiss-snacks.ch
 swiss-snap-memories.ch
 swiss-snapshots.ch
 swiss-sneaker.ch
@@ -11811,6 +11812,7 @@ swissbeercans.ch
 swissbeerfest.ch
 swissbeermuseum.ch
 swissbeeronline.ch
+swissbeerpack.ch
 swissbeerpanel.ch
 swissbeers.ch
 swissbeershop.ch
@@ -11838,6 +11840,7 @@ swissbenchmarkingindex.ch
 swissbenchrest.ch
 swissbenefitgroup.ch
 swissbenefits.ch
+swissbengals.ch
 swissbengroup.ch
 swissbeplus.ch
 swissberater.ch
@@ -11918,7 +11921,6 @@ swissbikecommunity.ch
 swissbikeconcept.ch
 swissbikecup.ch
 swissbikecupmoleson.ch
-swissbikefinder.ch
 swissbikefitting.ch
 swissbikegarage.ch
 swissbikegmbh.ch
@@ -15952,7 +15954,6 @@ swissed.ch
 swissedcol.ch
 swissedel.ch
 swissedelcouvertures.ch
-swissedelmetall.ch
 swissedelweiss.ch
 swissedelweissbygexist.ch
 swisseden.ch
@@ -16043,6 +16044,7 @@ swisselectrician.ch
 swisselectricity.ch
 swisselectricmovement.ch
 swisselectrics.ch
+swisselectro-shop.ch
 swisselectro.ch
 swisselectron.ch
 swisselectronic.ch
@@ -17222,6 +17224,7 @@ swissforexmarketplace.ch
 swissforexpats.ch
 swissforge.ch
 swissforge3d.ch
+swissforgelabs.ch
 swissfork.ch
 swissforkids.ch
 swissform-group.ch
@@ -17492,7 +17495,6 @@ swissgallery.ch
 swissgalvanic.ch
 swissgalvanik.ch
 swissgalvano.ch
-swissgama.ch
 swissgambia.ch
 swissgamble.ch
 swissgamblecare.ch
@@ -20460,6 +20462,7 @@ swissliberal.ch
 swisslibertypodcast.ch
 swisslibraries.ch
 swisslibrary.ch
+swisslibrepassage.ch
 swisslibris.ch
 swisslicense.ch
 swisslichens.ch
@@ -20838,6 +20841,7 @@ swisslooptunneling.ch
 swissloot.ch
 swissloppet.ch
 swisslora.ch
+swisslord.ch
 swisslos-aargau.ch
 swisslos-jass.ch
 swisslos.ch
@@ -22766,7 +22770,6 @@ swissnovatech.ch
 swissnovation.ch
 swissnovatravel.ch
 swissnovax.ch
-swissnovcenter.ch
 swissnovo.ch
 swissnovum.ch
 swissnow.ch
@@ -23305,6 +23308,7 @@ swisspadelacademy.ch
 swisspadelarena.ch
 swisspadelassociation.ch
 swisspadelcenter.ch
+swisspadelcoin.ch
 swisspadelcourt.ch
 swisspadelcourts.ch
 swisspadelcup.ch
@@ -25203,6 +25207,7 @@ swissran.ch
 swissranceas.ch
 swissranch.ch
 swissrando.ch
+swissrandomcffdiscovery.ch
 swissrandori.ch
 swissrange.ch
 swissrangelog.ch
@@ -27150,6 +27155,7 @@ swisstechsolutions.ch
 swisstechstore.ch
 swisstechsummit.ch
 swisstechsupport.ch
+swisstechtalent.ch
 swisstechtalks.ch
 swisstechteam.ch
 swisstechtitans.ch
@@ -27394,6 +27400,7 @@ swisstimes.ch
 swisstimeservices.ch
 swisstimesheet.ch
 swisstimesolutions.ch
+swisstimetable.ch
 swisstimetracker.ch
 swisstimevault.ch
 swisstimex.ch
@@ -30047,7 +30054,6 @@ switzerlandzoo.ch
 switzerlangues.ch
 switzerlanz.ch
 switzerlart.ch
-switzerlativ.ch
 switzerlend.ch
 switzerlens.ch
 switzerli.ch

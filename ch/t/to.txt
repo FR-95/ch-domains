@@ -3599,6 +3599,7 @@ tomedication.ch
 tomedications.ch
 tomedo-air.ch
 tomedo-praxissoftware.ch
+tomedo-projektbegleiter.ch
 tomedo-transfer.ch
 tomedo-upload.ch
 tomedo-voice.ch
@@ -6310,6 +6311,7 @@ top-chrono.ch
 top-cities.ch
 top-clean-basel.ch
 top-clean-bern.ch
+top-clean-nettoyage.ch
 top-clean.ch
 top-cleaning.ch
 top-clima.ch
@@ -7609,6 +7611,7 @@ topdeal-auto.ch
 topdeal.ch
 topdeal24.ch
 topdeals.ch
+topdealschweiz.ch
 topdealssuisse.ch
 topdealz.ch
 topdec.ch
@@ -9326,6 +9329,7 @@ topumzugsfirma.ch
 topumzugsservice.ch
 topundflop.ch
 topunternehmen.ch
+topup.ch
 topup24.ch
 topupdegree.ch
 topuro.ch
@@ -9533,6 +9537,7 @@ torantriebe.ch
 torantriebe24.ch
 torantriebshop.ch
 toras.ch
+torashop.ch
 torat.ch
 torata.ch
 toratix.ch
@@ -10695,6 +10700,7 @@ tosy.ch
 tot-bung.ch
 tot-scorer.ch
 tot.ch
+tot88.ch
 tota.ch
 total-access.ch
 total-annihilation.ch
@@ -11030,6 +11036,7 @@ tothal.ch
 tothdeko.ch
 tothdemdreck.ch
 tothe.ch
+tothebonesullay.ch
 tothecore.ch
 tothedot.ch
 tothem.ch
@@ -11882,7 +11889,6 @@ tourinfo.ch
 touring-ads.ch
 touring-andermatt.ch
 touring-arosa.ch
-touring-au-lac.ch
 touring-auto.ch
 touring-club-schweiz.ch
 touring-club-suisse.ch

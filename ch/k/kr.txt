@@ -551,6 +551,7 @@ kraftbalance.ch
 kraftbasel.ch
 kraftbaum.ch
 kraftberg.ch
+kraftbetrieb.ch
 kraftbilanz.ch
 kraftbild.ch
 kraftbilder.ch
@@ -1482,7 +1483,6 @@ krankenkasse-zusatzversicherung.ch
 krankenkasse.ch
 krankenkasse2025.ch
 krankenkasse24.ch
-krankenkasse365.ch
 krankenkasseadmin.ch
 krankenkasseanalyse.ch
 krankenkasseanfrage.ch
@@ -1692,7 +1692,6 @@ krankenkassenvergleicher-online.ch
 krankenkassenvergleicher-schweiz.ch
 krankenkassenvergleicher.ch
 krankenkassenvergleicher24.ch
-krankenkassenvergleicheschweiz.ch
 krankenkassenvergleichexperte.ch
 krankenkassenvergleichschweiz.ch
 krankenkassenvergleichzuerich.ch
@@ -1792,7 +1791,6 @@ krankenversicherungdirekte.ch
 krankenversicherungen-schweiz.ch
 krankenversicherungen.ch
 krankenversicherungen24.ch
-krankenversicherungprofi.ch
 krankenversicherungs-vergleich.ch
 krankenversicherungsanalyse.ch
 krankenversicherungscheck.ch
@@ -2572,6 +2570,7 @@ krea-designteam.ch
 krea-duo.ch
 krea-group.ch
 krea-gruppe.ch
+krea-impact.ch
 krea-in.ch
 krea-keramik.ch
 krea-kin.ch
@@ -2647,6 +2646,7 @@ kreaho.ch
 kreahochzwei.ch
 kreaholz.ch
 kreahome.ch
+kreaimpact.ch
 kreaino.ch
 kreaja.ch
 kreakeramik.ch
@@ -2739,7 +2739,6 @@ kreasabrina.ch
 kreaschmuck.ch
 kreashop.ch
 kreasia.ch
-kreasimona.ch
 kreaskill.ch
 kreasliebe.ch
 kreasmine.ch
@@ -3392,6 +3391,7 @@ kreativranking.ch
 kreativraum.ch
 kreativraumag.ch
 kreativraumsaanen.ch
+kreativrausch.ch
 kreativregal.ch
 kreativreich-sarah.ch
 kreativreich.ch
@@ -5648,6 +5648,7 @@ krimidinner.ch
 krimievent.ch
 krimievents.ch
 krimifestival.ch
+krimigration.ch
 krimik.ch
 krimikanal-tv.ch
 krimikanal.ch

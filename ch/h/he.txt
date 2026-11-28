@@ -1514,7 +1514,6 @@ healthtraining-mels.ch
 healthtraining.ch
 healthtrans.ch
 healthtransformation.ch
-healthtransformers.ch
 healthtravel.ch
 healthtuning.ch
 healthtwin.ch
@@ -5776,7 +5775,6 @@ heilora.ch
 heilort-jj.ch
 heilort.ch
 heilpaed.ch
-heilpaedagoge.ch
 heilpaedagogik-bern.ch
 heilpaedagogik-im-schulalltag.ch
 heilpaedagogik-lomaya.ch
@@ -7314,6 +7312,7 @@ heinsohn.ch
 heinson.ch
 heintel-consulting.ch
 heintel.ch
+heintelconcepts.ch
 heintjes-production.ch
 heintjes.ch
 heintz-koller.ch
@@ -8872,7 +8871,6 @@ helaparentalite.ch
 helapizza-niederdorf.ch
 helarion.ch
 helaspice.ch
-helasushi.ch
 helatec.ch
 helatech.ch
 helaunterendingen.ch
@@ -12835,7 +12833,6 @@ helvetia-pacific.ch
 helvetia-patria.ch
 helvetia-peinture.ch
 helvetia-poker.ch
-helvetia-polissage.ch
 helvetia-prive.ch
 helvetia-protect.ch
 helvetia-pub.ch
@@ -14288,6 +14285,7 @@ helvetorium.ch
 helvetorque.ch
 helvetory.ch
 helvetours.ch
+helvetoys.ch
 helvetpaie.ch
 helvetpartners.ch
 helvetpay.ch
@@ -16064,6 +16062,7 @@ hera-aesthetics.ch
 hera-alarme.ch
 hera-architektur.ch
 hera-arms.ch
+hera-avocats.ch
 hera-beauty.ch
 hera-clean.ch
 hera-coaching.ch
@@ -19706,6 +19705,7 @@ herzfunken.ch
 herzfunkenatom.ch
 herzgaertnerin.ch
 herzgarten.ch
+herzgebunden.ch
 herzgedacht.ch
 herzgedanken.ch
 herzgedichte.ch
@@ -20646,6 +20646,7 @@ herzurchig.ch
 herzurne.ch
 herzurnen.ch
 herzverbindung.ch
+herzverbunden-waldspielgruppe.ch
 herzverbunden.ch
 herzverbundenheit.ch
 herzversagen.ch
@@ -21020,7 +21021,6 @@ hess-watches.ch
 hess-weine.ch
 hess-werbetechnik.ch
 hess.ch
-hessa.ch
 hessabi-design.ch
 hessadvisory.ch
 hessadvisum.ch
@@ -22409,7 +22409,6 @@ hexas.ch
 hexashop.ch
 hexasodiumfytate.ch
 hexasodiumphytate.ch
-hexastats.ch
 hexasuite.ch
 hexaswiss.ch
 hexasys.ch
@@ -22496,6 +22495,7 @@ hexenvilla.ch
 hexenwald.ch
 hexenwelten.ch
 hexenwerk.ch
+hexenwerkstatt.ch
 hexenwissen.ch
 hexenzauber.ch
 hexenzauberwerkstatt.ch

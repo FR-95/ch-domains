@@ -1107,6 +1107,7 @@ thalmann-hof.ch
 thalmann-immo.ch
 thalmann-law.ch
 thalmann-logistik.ch
+thalmann-logitik.ch
 thalmann-mechanik.ch
 thalmann-metallbau.ch
 thalmann-metzg.ch
@@ -1683,7 +1684,6 @@ thcshops.ch
 thcsuisse.ch
 thctest.ch
 thcvalais.ch
-thcvapes.ch
 thcvapeschweiz.ch
 thcversand.ch
 thcvital.ch
@@ -2192,6 +2192,7 @@ the-fact-factory.ch
 the-factory-marin.ch
 the-factory.ch
 the-fair-agency.ch
+the-fake-wedding.ch
 the-faktories.ch
 the-family-market.ch
 the-famous-pigeon-of-opfikon.ch
@@ -3130,7 +3131,6 @@ the-unseen.ch
 the-unshittifiers.ch
 the-untamed.ch
 the-untouchables.ch
-the-urban-ashtray.ch
 the-urban-country-club.ch
 the-urban-nomade.ch
 the-urban.ch
@@ -5400,6 +5400,7 @@ thebosshard.ch
 thebosslashes.ch
 thebostonschool.ch
 thebot.ch
+thebotanicalrebel.ch
 thebotanicals.ch
 thebotanist.ch
 thebottle.ch
@@ -6477,6 +6478,7 @@ thedavisocks.ch
 thedaviworld.ch
 thedawgproject.ch
 thedaydance.ch
+thedaydreamers.ch
 thedayismine.ch
 thedays.ch
 thede-consulting.ch
@@ -6658,6 +6660,7 @@ thedolphineexperience.ch
 thedom.ch
 thedomain.ch
 thedomainmanagers.ch
+thedomainyouchoose.ch
 thedome.ch
 thedomefm.ch
 thedomi.ch
@@ -6925,6 +6928,7 @@ thefairshit.ch
 thefairwayseekers.ch
 thefairydusters.ch
 thefake.ch
+thefakewedding.ch
 thefaktories.ch
 thefallguy-film.ch
 thefallguy-lefilm.ch
@@ -8004,8 +8008,6 @@ thehealthplatform.ch
 thehealthsciencesacademy.ch
 thehealthshop.ch
 thehealthstudio.ch
-thehealthsummit.ch
-thehealthtransformers.ch
 thehealthypetstore.ch
 thehealthyresearcher.ch
 theheartandart.ch
@@ -8748,6 +8750,7 @@ theklab.ch
 theklaeys.ch
 theklayns.ch
 thekleine.ch
+thekli.ch
 theklub.ch
 theklubzug.ch
 theknaps.ch
@@ -9126,6 +9129,7 @@ theloft.ch
 theloftbyrose.ch
 thelog.ch
 thelogbook.ch
+thelogmanufguild.ch
 thelogo.ch
 thelohair.ch
 thelokiguy.ch
@@ -9144,6 +9148,7 @@ thelongevitycircle.ch
 thelongevityclub.ch
 thelongevitycompany.ch
 thelongevityinstitute.ch
+thelongevityroute.ch
 thelongevitystore.ch
 thelonglist.ch
 thelongstay.ch
@@ -9292,7 +9297,6 @@ themaestudio.ch
 themafiaexperience.ch
 themaflo.ch
 themagazine.ch
-themagfitness.ch
 themagicfive.ch
 themagicforest.ch
 themagicgeneve.ch
@@ -11396,7 +11400,6 @@ therapeuteholistique.ch
 therapeutemarina.ch
 therapeuten-durchblick.ch
 therapeuten-empfehlung.ch
-therapeuten-marketing.ch
 therapeuten-match.ch
 therapeuten-ostschweiz.ch
 therapeuten-portal.ch
@@ -11412,7 +11415,6 @@ therapeutenbuchen.ch
 therapeutenclub.ch
 therapeutenfinder.ch
 therapeutenindex.ch
-therapeutenmarketing.ch
 therapeutenmatch.ch
 therapeutennetzwerk.ch
 therapeutenostschweiz.ch
@@ -12393,6 +12395,7 @@ therapiswiss.ch
 therapit.ch
 therapium.ch
 theraplat.ch
+theraplatz.ch
 theraplay.ch
 theraplus.ch
 theraply.ch
@@ -12756,7 +12759,6 @@ theresourcers.ch
 theresraschle.ch
 theresreich.ch
 theresruetschi.ch
-theress.ch
 theresschlienger.ch
 theressence.ch
 theressenn.ch
@@ -14357,7 +14359,6 @@ thestereos.ch
 thesterns.ch
 thesteve.ch
 thestevejobs.ch
-thesteward.ch
 thestewi.ch
 thestgallery.ch
 thestill.ch
@@ -15200,6 +15201,7 @@ thevegedalburger.ch
 thevegetables.ch
 thevegetablesclub.ch
 thevegetarianbutcher.ch
+theveilofthetemple.ch
 theveitclub.ch
 thevelvethour.ch
 thevelvethouse.ch
@@ -16335,6 +16337,7 @@ thinder.ch
 thindi.ch
 thindown.ch
 thinfile.ch
+thinformatics.ch
 thinformatik.ch
 thing-it.ch
 thing-portal.ch
@@ -19161,7 +19164,6 @@ thonon.ch
 thonrouge.ch
 thony-food.ch
 thony.ch
-thookies.ch
 thool.ch
 thools.ch
 thoorswisstechnology.ch

@@ -127,6 +127,7 @@ hs-spezialgerueste.ch
 hs-sportswear.ch
 hs-srk.ch
 hs-stag-test-1.ch
+hs-stag-test2.ch
 hs-steiner.ch
 hs-sternentanz.ch
 hs-strebel.ch

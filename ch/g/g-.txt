@@ -58,6 +58,7 @@ g-automobileservice.ch
 g-automobilservice.ch
 g-autoservice.ch
 g-b-i.ch
+g-b-n.ch
 g-b-s.ch
 g-b-w.ch
 g-b-z.ch
@@ -232,7 +233,6 @@ g-hirt.ch
 g-hmoustiquaire.ch
 g-hoerner.ch
 g-holliger.ch
-g-home.ch
 g-hometech.ch
 g-hotel.ch
 g-hpc.ch

@@ -3117,7 +3117,6 @@ back2closet.ch
 back2cycle.ch
 back2energy.ch
 back2future.ch
-back2gather.ch
 back2green.ch
 back2health.ch
 back2life.ch
@@ -3925,12 +3924,14 @@ backyardtales.ch
 backyardultra.ch
 backyardultrachur.ch
 backyardultralausanne.ch
+backyardultraschaenis.ch
 backyardultravalais.ch
 backyardverlag.ch
 backyouup.ch
 backyrd.ch
 backzacc.ch
 backzack.ch
+backzauber.ch
 backzettel.ch
 backzone.ch
 backzutaten.ch
@@ -5618,6 +5619,7 @@ badumbauaargau.ch
 badumbauen.ch
 badumbauexperte.ch
 badumbauluzern.ch
+badumbauofferte.ch
 badumbauschweiz.ch
 badumbauschwyz.ch
 badumbauteam.ch
@@ -5847,6 +5849,7 @@ baechlitec.ch
 baechliwies-bachenbuelach.ch
 baechliwis-auto.ch
 baechliwis-bachenbuelach.ch
+baechliwis-ford.ch
 baechliwis.ch
 baechliwisgeely.ch
 baechliwohnungdavos.ch
@@ -6242,6 +6245,7 @@ baekerbeutel.ch
 baeko.ch
 baekus.ch
 bael.ch
+baeler.ch
 baelimmo.ch
 baelimoag.ch
 baelis.ch
@@ -8678,7 +8682,6 @@ bahnhofstrasse77.ch
 bahnhofstrassebuchs.ch
 bahnhofstrassezurich.ch
 bahnhofsud-restaurant.ch
-bahnhofsued.ch
 bahnhofsuhr.ch
 bahnhofsuhrsg.ch
 bahnhofsulz.ch
@@ -9640,7 +9643,6 @@ bakeyard.ch
 bakfiets.ch
 bakhtiar.ch
 bakhtina.ch
-bakhytnur.ch
 baki-gartenbau.ch
 baki-messe.ch
 baki.ch
@@ -11303,7 +11305,6 @@ ballabani.ch
 ballabio-hoehne.ch
 ballabio.ch
 ballabiocucine.ch
-ballabiohr.ch
 ballabiosuisse.ch
 ballabo.ch
 ballacchino.ch
@@ -13912,7 +13913,6 @@ band-eigenwerk.ch
 band-fantasia.ch
 band-fertigungstechnik.ch
 band-gartenbau.ch
-band-genossenschaft.ch
 band-hochzeit.ch
 band-ict.ch
 band-it.ch
@@ -16773,7 +16773,6 @@ barbarajakob.ch
 barbarajaninefrey.ch
 barbarajentner.ch
 barbarajoehren.ch
-barbarajoos.ch
 barbarajosi.ch
 barbarajost.ch
 barbarakaech.ch
@@ -17545,6 +17544,7 @@ barbutoverkauf.ch
 barbutter.ch
 barbuus.ch
 barbwagner.ch
+barbweb.ch
 barbwire.ch
 barby-ventilation.ch
 barby.ch
@@ -18628,6 +18628,7 @@ barknobit.ch
 barko-immobau.ch
 barko.ch
 barkoactizrench.ch
+barkofswitzerland.ch
 barkonsulting.ch
 barkow.ch
 barkowski.ch
@@ -18685,6 +18686,7 @@ barlet.ch
 barletta-gipser.ch
 barletta.ch
 barlex.ch
+barley-latte.ch
 barley.ch
 barleycorn.ch
 barleywine.ch
@@ -19108,6 +19110,7 @@ baronie-husen.ch
 baronie-villa-le-pergole.ch
 baronie.ch
 baronitrasporti.ch
+baronlieferando.ch
 baronmerinier.ch
 baronne.ch
 baronneetmoi.ch
@@ -19116,6 +19119,7 @@ baronnie.ch
 baronnies.ch
 baronnys.ch
 baronowski.ch
+baronpizzaeat.ch
 baronrestaurant.ch
 barons.ch
 baronsamedi-rock.ch
@@ -19309,6 +19313,7 @@ barrelq.ch
 barrels.ch
 barrelsmoke.ch
 barrelspring.ch
+barrelytics.ch
 barremessage.ch
 barren.ch
 barrena.ch
@@ -23159,7 +23164,6 @@ bassuuf.ch
 basswalker.ch
 basswars.ch
 basswarskru.ch
-bassweb.ch
 basswin.ch
 basswood-consulting.ch
 basswood-shop.ch
@@ -24148,6 +24152,7 @@ batiprosa.ch
 batiqa.ch
 batir-abc.ch
 batir-digital.ch
+batir-genev.ch
 batir-romandie.ch
 batir-sur-le-roc.ch
 batir.ch
@@ -25986,6 +25991,7 @@ baucon-jet.ch
 baucon.ch
 bauconag.ch
 bauconcept-haus.ch
+bauconcept-schweiz.ch
 bauconcept.ch
 bauconect-allianz.ch
 bauconect.ch
@@ -30514,6 +30520,7 @@ baustrasse.ch
 baustrassen.ch
 baustrat.ch
 baustrategie.ch
+baustressab.ch
 baustrom-strom.ch
 baustrom-verteiler.ch
 baustrom.ch
@@ -30897,7 +30904,11 @@ bauviva.ch
 bauvoi.ch
 bauvoice.ch
 bauvolt.ch
+bauvolumen-az.ch
+bauvolumen-plattform.ch
 bauvolumen.ch
+bauvolumenboerse.ch
+bauvolumenplattform.ch
 bauvorhaben-assistent.ch
 bauvorhaben.ch
 bauvorhabenpi.ch
@@ -30967,6 +30978,7 @@ bauwerk-thal.ch
 bauwerk-zweisimmen.ch
 bauwerk.ch
 bauwerk24.ch
+bauwerk3.ch
 bauwerk360.ch
 bauwerkag.ch
 bauwerkakzente.ch

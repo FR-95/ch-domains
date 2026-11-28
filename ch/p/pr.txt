@@ -447,7 +447,6 @@ praemienerhoehung.ch
 praemienfinder24.ch
 praemienfuchs.ch
 praemienheld.ch
-praemienhelfer.ch
 praemienherbst.ch
 praemienhilfe.ch
 praemieninfo.ch
@@ -465,7 +464,6 @@ praemienrechner24.ch
 praemienrechnerschweiz.ch
 praemienshop.ch
 praemiensparen.ch
-praemiensturmer.ch
 praemienverbilligung-ag.ch
 praemienverbilligung-ai.ch
 praemienverbilligung-be.ch
@@ -1784,7 +1782,6 @@ praxis-aldente.ch
 praxis-alefa.ch
 praxis-alegria.ch
 praxis-alessia-schinardi.ch
-praxis-alessiaschmid.ch
 praxis-alex.ch
 praxis-alexandervogt.ch
 praxis-alexandra-scheit.ch
@@ -3283,6 +3280,7 @@ praxis-kensho.ch
 praxis-kerala.ch
 praxis-kernen.ch
 praxis-kerns.ch
+praxis-ki.ch
 praxis-kidswerk.ch
 praxis-kiefer.ch
 praxis-kilian.ch
@@ -4749,6 +4747,7 @@ praxis-vierwaldstaettersee.ch
 praxis-viktorin.ch
 praxis-villa-am-bahnhof.ch
 praxis-villmergen.ch
+praxis-vis-vitalis.ch
 praxis-visionen.ch
 praxis-visions.ch
 praxis-visnjevski.ch
@@ -8442,6 +8441,7 @@ preisly.ch
 preismarkt.ch
 preismax.ch
 preismelder.ch
+preismob.ch
 preismonitoring.ch
 preismonster.ch
 preisnachlass.ch
@@ -9795,6 +9795,7 @@ premoco.ch
 premodo.ch
 premofashion.ch
 premohit.ch
+premon.ch
 premonia.ch
 premont-metallbau.ch
 premont-montagen.ch
@@ -9907,6 +9908,7 @@ prenezletemps.ch
 prenezletempsdelire.ch
 prenezplace.ch
 prenezrdv.ch
+prenezrendezvous.ch
 prenezsoindevous.ch
 prenezsoinsdevous.ch
 prengini.ch
@@ -9995,13 +9997,11 @@ prepa-sciences.ch
 prepa-ultratrail.ch
 prepa-uni.ch
 prepa.ch
-prepaapp.ch
 prepac.ch
 prepacafetier.ch
 prepace.ch
 prepack.ch
 prepafa.ch
-prepagpt.ch
 prepaid-card.ch
 prepaid-cards.ch
 prepaid-coopmobile.ch
@@ -11348,6 +11348,7 @@ prestopark.ch
 prestopizzalyss.ch
 prestoshop.ch
 prestoweb.ch
+prestozh.ch
 prestservice.ch
 prestsinvest.ch
 prestuna.ch
@@ -11572,6 +11573,7 @@ prettynails-studio.ch
 prettynailsandfeet.ch
 prettynew.ch
 prettynicky.ch
+prettyobsessed.ch
 prettyorange.ch
 prettyorganic.ch
 prettypatty.ch
@@ -13876,6 +13878,7 @@ primeobatterypower.ch
 primeobattsys.ch
 primeoenergie.ch
 primeofacility.ch
+primeoffice.ch
 primeon-assurance.ch
 primeon.ch
 primeone.ch
@@ -14039,7 +14042,6 @@ primesiteone.ch
 primesites.ch
 primesky.ch
 primesmaladie.ch
-primesmash.ch
 primesoft-ag.ch
 primesoft-group.ch
 primesoft-gruppe.ch
@@ -14177,6 +14179,7 @@ primev.ch
 primeval.ch
 primevalues.ch
 primevault.ch
+primevcapsules.ch
 primevent.ch
 primevents.ch
 primevest.ch
@@ -14413,6 +14416,7 @@ primopiatto.ch
 primopizza.ch
 primopizzeria.ch
 primoplan.ch
+primopli.ch
 primopokale.ch
 primoportfolio.ch
 primoprint.ch
@@ -14469,6 +14473,7 @@ primovist.ch
 primovita.ch
 primowear.ch
 primoweb.ch
+primowebdesign.ch
 primowerk.ch
 primox.ch
 primoxo.ch
@@ -17850,6 +17855,7 @@ privatklinikforum.ch
 privatklinikhohenegg.ch
 privatkliniksiloah.ch
 privatko.ch
+privatkoch-maier.ch
 privatkoch-vorort.ch
 privatkoch-yveshof.ch
 privatkoch.ch
@@ -18289,6 +18295,7 @@ privilegluxe.ch
 privio.ch
 priviomessenger.ch
 privion.ch
+priviora.ch
 priviqe.ch
 privis-sanierung.ch
 privis.ch
@@ -22063,6 +22070,7 @@ productsaaged12.ch
 productsafetyops.ch
 productsbychelle.ch
 productscore.ch
+productscoutswitzerland.ch
 productsear.ch
 productsearch.ch
 productsecurity.ch
@@ -25254,6 +25262,7 @@ projectcars.ch
 projectcatalyst.ch
 projectcentennial.ch
 projectcertus.ch
+projectcesare.ch
 projectchaos.ch
 projectchile.ch
 projectchilegroup.ch
@@ -26219,6 +26228,7 @@ projektunika.ch
 projektunternehmer.ch
 projektunterricht.ch
 projektur.ch
+projektura.ch
 projektus.ch
 projektvalleponci.ch
 projektvenice.ch
@@ -26333,7 +26343,6 @@ projet-selavie.ch
 projet-socrate.ch
 projet-sourds-culture.ch
 projet-stoa.ch
-projet-tele-evolene.ch
 projet-teo.ch
 projet-urbain.ch
 projet-verticalp.ch
@@ -27694,7 +27703,6 @@ promogreets.ch
 promogroup.ch
 promogrowth.ch
 promohandicap.ch
-promohero.ch
 promohit.ch
 promoholding.ch
 promohub.ch
@@ -31938,6 +31946,7 @@ prouganda.ch
 proukraina.ch
 proumfahrung-unteraegeri.ch
 proumfahrunghochdorf.ch
+proumzug.ch
 proundcontra.ch
 prouniform.ch
 prounit.ch
@@ -32360,6 +32369,7 @@ provinzmusig.ch
 provinznarre.ch
 provinzpop.ch
 provinzprokura.ch
+provio.ch
 provion.ch
 provira.ch
 provis-group.ch
@@ -32520,6 +32530,7 @@ provuorz.ch
 provvida.ch
 provvidamadre.ch
 provvisorio.ch
+provx.ch
 prow.ch
 prowa-produkte.ch
 prowa.ch
@@ -32701,6 +32712,7 @@ proxgroup.ch
 proxi-bat.ch
 proxi-container.ch
 proxi-mad.ch
+proxi-plus.ch
 proxi-sante.ch
 proxi-services.ch
 proxi-soins.ch

@@ -751,6 +751,7 @@ pmj.ch
 pmk-aargau.ch
 pmk-ag.ch
 pmk-autopflege.ch
+pmk-business.ch
 pmk-design.ch
 pmk-immoag.ch
 pmk.ch
@@ -764,6 +765,7 @@ pmkhv.ch
 pmkosmetik.ch
 pmks.ch
 pmkt.ch
+pmkzuerich.ch
 pml-bau-energie.ch
 pml.ch
 pmlag.ch

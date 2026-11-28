@@ -3321,6 +3321,7 @@ painite.ch
 painkiller.ch
 painkillerband.ch
 painkillers.ch
+painlearning.ch
 painless-cloud.ch
 painless-fit.ch
 painless.ch
@@ -6063,6 +6064,7 @@ pancoaching.ch
 pancom.ch
 pancon.ch
 panconi.ch
+panconnect.ch
 pancontrol.ch
 pancosma.ch
 pancratium.ch
@@ -6278,6 +6280,8 @@ pandate.ch
 pandatea.ch
 pandateam.ch
 pandatology.ch
+pandaumzuege.ch
+pandaumzug.ch
 pandaundpinguin.ch
 pandaventures.ch
 pandawan.ch
@@ -7339,6 +7343,7 @@ panoramabible.ch
 panoramabild.ch
 panoramabilder.ch
 panoramabirmensdorf.ch
+panoramablick-ballwil.ch
 panoramablick-sonnenberg.ch
 panoramablick.ch
 panoramablick360.ch
@@ -8382,6 +8387,7 @@ papapiqueetmamancoud.ch
 papapodcast.ch
 papapoule.ch
 papapower.ch
+papaprana.ch
 papapreneur.ch
 papaprevoit.ch
 papaprotocol.ch
@@ -11481,6 +11487,7 @@ parenthub.ch
 parenti-cashmere.ch
 parenti.ch
 parentia.ch
+parentibus.ch
 parentifizierung.ch
 parentify.ch
 parenting.ch
@@ -14487,6 +14494,7 @@ partagelivre.ch
 partagelivres.ch
 partageo.ch
 partageons.ch
+partageplus.ch
 partager-apprendre.ch
 partager.ch
 partageriviera.ch
@@ -17247,6 +17255,7 @@ pasdepanique.ch
 pasdepression.ch
 pasdepub.ch
 pasdereseau.ch
+pasdesolee.ch
 pasdesouci.ch
 pasdesuissea10millions.ch
 pasdetrois.ch
@@ -17885,7 +17894,6 @@ passeportgourmand.ch
 passeportholistique.ch
 passeporthotel.ch
 passeporthotels.ch
-passeportlocal.ch
 passeportloisir.ch
 passeportloisirs.ch
 passeportmusee.ch
@@ -18292,7 +18300,6 @@ passionberg.ch
 passionbeton.ch
 passionbienne.ch
 passionbike.ch
-passionbleue.ch
 passionbois.ch
 passionboisnt.ch
 passionbolide.ch
@@ -18714,6 +18721,7 @@ passvault.ch
 passverde.ch
 passvolt.ch
 passw.ch
+passwanderer.ch
 passwang-club.ch
 passwang.ch
 passwangclub.ch
@@ -19226,6 +19234,7 @@ pastorenbirne.ch
 pastoreparquets.ch
 pastoresa.ch
 pastoretedesco.ch
+pastori.ch
 pastorini.ch
 pastorino.ch
 pastoris.ch
@@ -19305,6 +19314,7 @@ pat-glanzmann.ch
 pat-heisenberg.ch
 pat-home.ch
 pat-immo.ch
+pat-immobilien.ch
 pat-johnson.ch
 pat-maechler.ch
 pat-mitelternlernen.ch
@@ -19502,6 +19512,7 @@ patchly.ch
 patchman.ch
 patchmania.ch
 patchmaniak.ch
+patchmc.ch
 patchme.ch
 patchmeister.ch
 patchnet.ch
@@ -22431,6 +22442,7 @@ patte-blanche.ch
 patte-dans-la-main.ch
 patte-de-lion.ch
 patte-de-loup.ch
+patte-performance.ch
 patte-pixel.ch
 patte.ch
 patteapatte.ch
@@ -22639,6 +22651,7 @@ paudaguides.ch
 paudex.ch
 paudex24.ch
 paudexcab.ch
+paudio.ch
 paudo.ch
 pauer-tool.ch
 pauer3d.ch
@@ -24679,7 +24692,6 @@ paydent.ch
 paydesk.ch
 paydirect.ch
 paydirt.ch
-paydml.ch
 paydo.ch
 paydoc.ch
 paydos.ch

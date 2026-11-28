@@ -102,6 +102,7 @@ vtc022.ch
 vtc1.ch
 vtcapital.ch
 vtcconfort.ch
+vtcensuisse.ch
 vtcgeneve.ch
 vtcgva.ch
 vtch.ch
@@ -205,6 +206,7 @@ vtm-fair.ch
 vtm-services.ch
 vtm-vermessungen.ch
 vtm.ch
+vtmag.ch
 vtmail.ch
 vtmarkets.ch
 vtmc.ch
@@ -296,6 +298,8 @@ vtselbsterfahrung.ch
 vtservices.ch
 vtsfinance.ch
 vtsgroup.ch
+vtshipping.ch
+vtshippingswiss.ch
 vtshop.ch
 vtsm.ch
 vtsm2.ch
@@ -306,6 +310,7 @@ vtspace.ch
 vtss.ch
 vtstudio.ch
 vtsvoyages.ch
+vtswiss.ch
 vtswitzerland.ch
 vtt-barillette.ch
 vtt-jura-vaudois.ch

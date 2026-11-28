@@ -1995,9 +1995,12 @@ e-mobilezenter.ch
 e-mobilier.ch
 e-mobilio.ch
 e-mobilitaet-basel.ch
+e-mobilitaet-zh.ch
 e-mobilitaet.ch
 e-mobilitaet360.ch
 e-mobilitaetsinitative.ch
+e-mobilitaetsinitiative.ch
+e-mobilitatsinitiative.ch
 e-mobilite.ch
 e-mobility-center-schweiz.ch
 e-mobility-center.ch
@@ -2655,6 +2658,7 @@ e-roaming.ch
 e-robert.ch
 e-rock.ch
 e-rod.ch
+e-rohrdoc.ch
 e-roll.ch
 e-roller-boom.ch
 e-roller-kaufen-basel.ch
@@ -3156,7 +3160,6 @@ e-travaux.ch
 e-travel.ch
 e-treff.ch
 e-trekkingbikes.ch
-e-trena.ch
 e-trends.ch
 e-tresor.ch
 e-treuhaender.ch
@@ -3306,7 +3309,6 @@ e-vin.ch
 e-vis.ch
 e-visa.ch
 e-visum-support.ch
-e-visum.ch
 e-vital.ch
 e-vitrum.ch
 e-viva.ch

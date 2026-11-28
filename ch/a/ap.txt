@@ -998,6 +998,7 @@ apely.ch
 apem-meinier.ch
 apema.ch
 apemconsulting.ch
+apeme.ch
 apemeyrin.ch
 apemo.ch
 apemoca.ch
@@ -3904,7 +3905,6 @@ apothekenumschlau.ch
 apothekenusz.ch
 apothekenverband.ch
 apothekenverglei.ch
-apothekenvergleich.ch
 apothekenversand.ch
 apothekenvertretung.ch
 apothekenvictoria.ch
@@ -4180,7 +4180,6 @@ app-puentener.ch
 app-pwa.ch
 app-raiffeisen.ch
 app-ratgeber.ch
-app-rbs.ch
 app-ronco-s-ascona.ch
 app-room.ch
 app-sa.ch
@@ -4525,6 +4524,7 @@ appartner.ch
 appartners.ch
 appartneuch.ch
 appartpascher.ch
+appartrelais.ch
 apparts.ch
 appartsaastal.ch
 appartvacances.ch
@@ -4677,6 +4677,7 @@ appeldelles.ch
 appeldeminuit.ch
 appeldesartistes.ch
 appeldesbois.ch
+appeldoffres.ch
 appeldu4mai.ch
 appeldurhone.ch
 appelektro-peter.ch

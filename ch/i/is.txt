@@ -618,6 +618,7 @@ isabelleundpatric.ch
 isabelleverdan.ch
 isabelleveya.ch
 isabellevie-ordnungscoach.ch
+isabellevie.ch
 isabellevoellmin.ch
 isabellevuilleumier.ch
 isabellevuong.ch
@@ -862,7 +863,6 @@ isando.ch
 isandolabs.ch
 isandosec.ch
 isaneo.ch
-isanergo.ch
 isanexa.ch
 isanico.ch
 isanit.ch
@@ -1699,7 +1699,6 @@ isfvzh.ch
 isfw-sg.ch
 isg-akademie.ch
 isg-blockade.ch
-isg-congress.ch
 isg-energie.ch
 isg-grenchen.ch
 isg-immobilien.ch
@@ -1723,7 +1722,6 @@ isgamus.ch
 isgamusa.ch
 isgb.ch
 isgcloud.ch
-isgcongress.ch
 isgenug.ch
 isgf.ch
 isgfhome.ch

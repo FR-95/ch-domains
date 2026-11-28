@@ -1408,7 +1408,6 @@ val-orthocenter.ch
 val-osteo.ch
 val-poschiavo.ch
 val-prino.ch
-val-pro.ch
 val-promo.ch
 val-promotion.ch
 val-properties.ch
@@ -2124,6 +2123,7 @@ valdanniviers.ch
 valdanse.ch
 valdanza.ch
 valdar.ch
+valdara.ch
 valdarca.ch
 valdarve.ch
 valdata.ch
@@ -2867,6 +2867,7 @@ valeriaa.ch
 valeriablum.ch
 valeriabonutto.ch
 valeriacanova.ch
+valeriaccess.ch
 valeriacova.ch
 valeriadarpin.ch
 valeriadimaria.ch
@@ -5953,6 +5954,7 @@ vandriqu.ch
 vandroq.ch
 vands.ch
 vandskar.ch
+vandu.ch
 vandueren.ch
 vanduijn.ch
 vandulmen.ch
@@ -6000,6 +6002,7 @@ vanescape.ch
 vanesch.ch
 vanesha.ch
 vanesis.ch
+vaneskin.ch
 vaness-coaching.ch
 vaness.ch
 vanessa-alvarez.ch
@@ -7086,6 +7089,7 @@ vanvyconsulting.ch
 vanwa.ch
 vanwaasen.ch
 vanwell.ch
+vanwerk-engineering.ch
 vanwerk.ch
 vanwerven.ch
 vanwesenbeeck.ch
@@ -7150,6 +7154,7 @@ vanzyl.ch
 vao.ch
 vaoandco.ch
 vaoas.ch
+vaobet.ch
 vaof.ch
 vaola.ch
 vaolac.ch
@@ -7518,6 +7523,7 @@ vaporspirit.ch
 vaporstar-schweiz.ch
 vaportek.ch
 vaporworld.ch
+vapos.ch
 vaposect.ch
 vaposhop.ch
 vaposmag.ch
@@ -8358,7 +8364,6 @@ varum.ch
 varuma.ch
 varumo.ch
 varun.ch
-varuna-quell.ch
 varuna.ch
 varunabewegt.ch
 varunashipping.ch
@@ -8879,7 +8884,6 @@ vaterlaus.ch
 vaterlausag.ch
 vaterleben.ch
 vaterliebe.ch
-vatermil.ch
 vatermittochter.ch
 vatermutter.ch
 vaterok.ch
@@ -9175,6 +9179,7 @@ vaudchiens.ch
 vaudclean.ch
 vaudcleaner.ch
 vaudcliniquehygienedentaire.ch
+vaudcloud.ch
 vaudcoaching.ch
 vaudconstruction.ch
 vaudcruiserriders.ch
